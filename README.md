@@ -115,7 +115,7 @@ curl -XPOST ${WEBLATE_HOST}/api/projects/dqx/components/ \
 
 The translation files use an indent of 2. We need to tell Weblate this so it doesn't try to reformat the existing translation files. Install the add-on on the dummy component:
 
-```
+```bash
 docker-compose exec --user weblate weblate \
    weblate \
    install_addon \
@@ -129,7 +129,7 @@ docker-compose exec --user weblate weblate \
 
 This is done with an add-on called `Component discovery`, configured on the main `dummy` component. This add-on will automatically create a new component when a new file is detected in the translation directories. For our use case, we only want to pull in English files of `json` type. If a file has been removed from the repository, component discovery will automatically remove the component from Weblate on its next check of the VCS.
 
-```
+```bash
 docker-compose exec --user weblate weblate \
    weblate \
    install_addon \
