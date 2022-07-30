@@ -1,0 +1,995 @@
+{
+  "1": {
+    "<attr><feel_happy_lv3><end_attr>「ずーっと昔　はるか遠い|　グランゼドーラ王国から　海を越えて|　来た人たちが　この町を作ったのよ。|<br>|「えっ？　エテーネの村？|　私は知らないけど　リリオルちゃんが|　そんな名前を　言っていた気がするわ。|<br>|「くわしく聞きたければ　家に行ってみたら？|　リリオルちゃんの家なら|　宿屋と　預かり所の間にある　細い道の奥よ。": "<attr><feel_happy_lv3><end_attr>A long time ago, people from the faraway|kingdom of Gramsedorra came across the sea|and built this town... What? The village of|<br>|Etaine? I don't know, but I think Liriod said|something about it... If you want to know|more, why don't you go to her house? If you|<br>|want to know more about it, why don't you go|to Lior's house?"
+  },
+  "2": {
+    "<attr><feel_happy_lv1><end_attr>「ふ～ん　エテーネの村ねえ……。|　そこの家に住んでいる　リリオルちゃんが|　前に　そんな名前の村のことを　話してたな。|<br>|「そういや　最近　姿を見ないけど|　家には　いるんじゃないかな。ガンコ親父の|　イッショウも出かけているし　聞くなら今だね！": "<attr><feel_happy_lv1><end_attr>The village of Etaene... Liriodur, who lives|in a house there, once told me about a|village with that name. Well, I haven't seen|<br>|her lately, but she's probably at home... I'm|sure he's at home... and his gung-ho dad,|Isho, is out... so now's the time to ask him."
+  },
+  "3": {
+    "<attr><feel_think_lv3><end_attr>「エテーネの村へ　帰りたいだって？|　う～ん……　そんな名前の村は聞いたことないし|　どこにあるのか　見当もつかないな。": "<attr><feel_think_lv3><end_attr>You want to go back to the village of Etaine?|Hmmm... I've never heard of a village with|that name, and I have no idea where it is..."
+  },
+  "4": {
+    "<attr><feel_think_lv3><end_attr>「げほっげほっ。|　持病が　悪化したかのう。|<br>|「これまでは　イッショウが　錬金とかいう術で|　クスリを作ってくれたんじゃが……。": "<attr><feel_think_lv3><end_attr>Geez... My chronic illness has worsened... So|far, Isho's been making me drugs with some|kind of alchemy..."
+  },
+  "5": {
+    "<attr><feel_happy_lv1><end_attr>「……暗い顔をしておられますね。|　何か　悲しい体験を　なさったのでしょう。|<br>|「でも　この町に　たどり着いたのには|　きっと　意味があるはず……。|　あなたに　神のご加護が　ありますように。": "<attr><feel_happy_lv1><end_attr>... He had a dark look on his face. I'm sure|you've had some kind of sad experience. But|I'm sure there's a reason why you've come to|<br>|this town. May God bless you..."
+  },
+  "6": {
+    "<attr><feel_think_lv1><end_attr>「ここは　ナルビアの町よ。|　……えっ？　エテーネの村は　どこかって？|<br>|「ごめんなさい　知らないわ。|　この島にあるのは　この町だけなのよ。": "<attr><feel_think_lv1><end_attr>This is Narvia. ... What? Where is the|village of Etaine? Sorry, I don't know...|This is the only town on the island..."
+  },
+  "7": {
+    "<attr><feel_happy_lv3><end_attr>「その不安げな表情……|　その　みすぼらしい　たたずまい！|　ズバリ　あなたも　私と同じ流れ者ですね！？|<br>|「でも　心配はいりません。身体ひとつで|　流れ着いた私も　こうして元気にやってます。|　だから　あなたも　なんとかなりますって！": "<attr><feel_happy_lv3><end_attr>That anxious expression... Your shabby|posture! You're a drifter just like me,|aren't you? But don't worry... I was washed|<br>|ashore on my own, and I'm doing fine. I'm|sure you'll be fine too!"
+  },
+  "8": {
+    "<attr><feel_think_lv3><end_attr>「リリオルちゃんは　変な術を使う　お父さんと|　ふたりきりで　暮らしてるんだよ。|　最近　見かけないけど　どうしたんだろうねえ。": "<attr><feel_think_lv3><end_attr>Liriodur lives alone with his father who uses|strange magic... I haven't seen her lately. I|wonder what happened to her."
+  },
+  "9": {
+    "「ここは　名もなき　小さな島さ。|　グランゼドーラ王国から　移住してきた人たちが|　集まって　この町が　できたんだ。|<br>|「最近じゃ　移住者も　減っちまってな。|　数年に一度　あんたみたいな流れ者が|　浜に　流れ着くくらいだね。": "This is a small, nameless... This town was|founded by people who migrated from the|Kingdom of Granzedorra. Nowadays, the number|<br>|of immigrants has dwindled... Every few|years, a drifter like you washes up on the|beach..."
+  },
+  "10": {
+    "<attr><feel_sad_one><end_attr>「はあ……はあ……。お父さん　ごめんね……。|　わ…私のために……　錬金釜が……。": "<attr><feel_sad_one><end_attr>Huh... Huh... Dad, I'm sorry... Wha... It's|for me... The smelting pot..."
+  },
+  "11": {
+    "<kyodai>は|机の上に広げられた　手紙を読んだ。|<br>|すまん　イッショウ。|できる限り　手を尽くしたが|お前に頼まれたクスリは　見つからなかった。|<br>|なにしろ　メラゾ熱は　１００年以上も前に|滅んだといわれる　大昔の病気だ。|クスリなんて　もう残っていないのだろう。|<br>|だが　クスリのレシピが載っている古い本を|なんとか　手に入れた。この本があれば|お前の錬金釜で　作ることができるはずだ。|<br>|これで　リリオルちゃんにかかった|メラゾ熱が治ることを　心から祈っている。|　　　　　わが友　イッショウへ　フラスコより": "<kyodai>The letter was spread out on the desk... I'm|sorry. I... I've done everything I can, but I|can't find the drug you asked for. After all,|<br>|melanin fever is an ancient disease that's|been extinct for over a hundred years. There|are no medicines left. But I managed to get|<br>|my hands on an old book with a recipe for a|drug. With this book, I can make it in your|smelting pot... I sincerely hope that this|<br>|will cure Liriodur's melanotic fever... To my|friend Isho, from the flask."
+  },
+  "12": {
+    "銀色に輝く釜がある。": "A silvery cauldron..."
+  },
+  "13": {
+    "<attr><feel_think_lv3><end_attr>「ふ～ん　エテーネの村ねえ……。|　そこの家に住んでいる　リリオルちゃんが|　前に　そんな名前の村のことを　話してたな。|<br>|「くわしくは　本人に聞くのがいいんだけど|　ガンコ親父の　イッショウが|　帰ってきたようだし　むずかしいかな？|<br>|「イッショウは　近頃　機嫌が悪くてね。|　やたらと　怒りっぽかったり|　町の外に出てったりで　付き合いづらいんだ。": "<attr><feel_think_lv3><end_attr>The village of Etaene... Liliol, who lives|there, once told me about a village with that|name... I'd ask her about it in detail, but|<br>|it's hard to do now that Ishou's back, isn't|it? Isho's been in a bad mood lately... He's|been getting angry, going out of town, and|<br>|it's been hard to get along with him..."
+  },
+  "14": {
+    "「かばんの中のガラクタは　処分したのか？|　さあ　この本を　受け取りやがれ！": "Did you get rid of all that junk in your bag?|Now pick up this book!"
+  },
+  "15": {
+    "<attr><feel_angry_lv3><end_attr>「ちっ……　ウマのホネが！|　まだ　かばんが　いっぱいじゃねえか。|　さっさと　ガラクタを　処分してこい！": "<attr><feel_angry_lv3><end_attr>Hey... Oh, my gosh! My bag is still full. Go|and get rid of that junk!"
+  },
+  "16": {
+    "「どうぐの中から　そいつを選んで使うと|　上やくそうを始め　簡単なレシピが覚えられる。|<br>|「本は　レシピを覚えると　消えちまうが|　内容は　せんれきの『釜錬金レシピブック』から|　確認できる。必要な材料も　わかるはずだぞ！|<br>|「さあ　レシピを覚えて　オレの錬金釜で|　上やくそうを　錬金してみろ！|　本当に　やれるもんなら　やってみやがれ！": "If you choose one of these items and use it,|you'll be able to learn simple recipes... The|book will disappear after you learn a recipe,|<br>|but you can find the recipe in the Kettle|Alchemy Recipe Book. I'm sure you can find|the ingredients you need. Now, learn the|<br>|recipe and use my smelting kettle to smelt|the Super Yakusou! If you really think you|can do it, go ahead and do it!"
+  },
+  "17": {
+    "「なんだ？　そこで寝てる娘が　気になるか？<yesno><close>": "What is it? You're worried about the girl|sleeping in there?<yesno><close>"
+  },
+  "18": {
+    "「どうやら　レシピは覚えたようだな。|　じゃあ　さっそく　やってみろ！　……ん？|　それとも　そこで寝てる娘が　気になるか？<yesno><break>": "Apparently, I've got the recipe... Let's see|what you can do! ... Hmm? Or are you worried|about the girl sleeping in there?<yesno><break>"
+  },
+  "19": {
+    "<kyodai>は|初級錬金学入門を　手に入れた！<me 60>": "<kyodai>got a beginner's course in alchemy!<me 60>"
+  },
+  "20": {
+    "<attr><feel_angry_lv1><end_attr>「メラゾ熱？　……ああ　ずっと昔に|　流行した　ヤバイ病気でしょ。|　町が　ひとつ滅んだって　本で読んだよ。|<br>|「ええっ　リリオルちゃんが　メラゾ熱！？|　いったい　どうして　そんな病気に……。|<br>|「イッショウの様子が変だったのは　そのせいか。|　……大事なひとり娘が　重病じゃ|　落ち着いてなんて　いられないよな。": "<attr><feel_angry_lv1><end_attr>Mellazo fever? Yeah. Yeah, it was a bad|disease that went around a long time ago. I|read in a book that it wiped out an entire|<br>|town. Liriodur has Mellazo fever? I don't|know why I got that disease. I don't know...|I don't know... I don't know..."
+  },
+  "21": {
+    "<attr><feel_sad_lv1><end_attr>「リリオルちゃんが　メラゾ熱だなんて|　いったい　どうして　そんな病気に……。|　た…助かればいいんだけど………。": "<attr><feel_sad_lv1><end_attr>Liriodur has melanzo fever. How did he get|that? I... I hope she survives..."
+  },
+  "22": {
+    "「かばんを　空けてきたか？|　頼む！　次は　これを錬金してくれ！|　メラゾ熱にかかった　オレの娘を治すクスリだ！": "Have you emptied your bag? Please! Next, I|need you to alchemize this! It'll cure my|daughter of melanin fever!"
+  },
+  "23": {
+    "<attr><feel_angry_lv3><end_attr>「くっ……。かばんが　いっぱいじゃねえか。|　コトは　一刻を争うってのに……！|　すぐに　かばんを　空けてきてくれ！": "<attr><feel_angry_lv3><end_attr>Oh, shit. My bag is full. This is a very|important matter. I need you to open my bag|right now."
+  },
+  "24": {
+    "「メラゾ熱ってのは　大昔の　恐ろしい病気だ。|　オレが　素材集めなんか手伝わせたばっかりに|　リリオルを　こんな目に　あわせちまった……。|<br>|「頼む！　オレに代わってクスリを錬金してくれ！|　材料の　めざめの花と　レッドベリーは|　どっちも　その辺で　簡単に手に入る素材だ！|<br>|「レシピを覚えちまえば　材料は　せんれきの|　『釜錬金レシピブック』からも　確認できる！|　どうか　リリオルの命を救ってやってくれ！！": "Mellazo fever was a horrible thing a long|time ago. I got Lior into this mess because I|let him help me gather materials. Please! I|<br>|need you to alchemize a drug for me! The|ingredients for this, Flower of Awakening and|Red Berry, can both be easily found around|<br>|here! Once you learn the recipe, you can find|the ingredients in the Kettle Alchemy Recipe|Book! Please help me save Liriodur's life!"
+  },
+  "25": {
+    "「さっきは　試すようなマネして　すまなかった。|　認めたくなかったが……　どうやら　オレは|　錬金術のチカラを　なくしちまったらしい。|<br>|「頼む！　オレに代わって|　メラゾ熱のクスリを　錬金してくれ！|　材料は　めざめの花と　レッドベリーだ！|<br>|「メラゾ熱のクスリの本を　どうぐから使えば|　クスリのレシピが　覚えられる！|　どうか　リリオルの命を救ってやってくれ！": "I'm sorry I was testing you earlier. I didn't|want to admit it, but... But it seems I've|lost my powers of alchemy. Please! I'm|<br>|begging you! I need you to alchemize a drug|for me that will cure me of melanosis! The|ingredients are the Flower of Awakening and|<br>|red berries! I can learn the recipe for the|drug if I use the book of Mela-Zo Fever|Medicine from my gear! Please help me save|<br>|Liriodur's life!"
+  },
+  "26": {
+    "「お前のおかげで　リリオルが元気になった。|　ぜひ　あいさつしてやってくれ。": "You're the reason Liriodur is doing so well.|Say hello to him for me."
+  },
+  "27": {
+    "<attr><feel_happy_lv1><end_attr>「ふむふむ……。|　メラゾ熱のクスリとやらを　作るために|　めざめの花と　レッドベリーを　探していると？|<br>|「めざめの花は　町の外の|　キラキラした所を調べれば　見つかりますよ。|<br>|「そして　レッドベリーは|　町の外にいる　ナスビナーラを倒すと|　手に入ることがあるんです。": "<attr><feel_happy_lv1><end_attr>Mmm-hmm... You said you were looking for the|flower of awakening and red berries to make|some kind of drug for melanzo fever? The|<br>|flower of awakening can be found by looking|in the shiny places outside of town... And|red berries can sometimes be found by|<br>|defeating the Nasvinara outside of town..."
+  },
+  "28": {
+    "<attr><feel_happy_lv1><end_attr>「あっ　おはようございます。|　ええっと　あなたの名前は……|　そう。<kyodai>って　いうのね。": "<attr><feel_happy_lv1><end_attr>Good morning... Well, your name is... ...<kyodai>I mean..."
+  },
+  "29": {
+    "<kyodai>は|メラゾ熱のクスリの本を　手に入れた！<me 60>": "<kyodai>got a book on melanzo fever medication!<me 60>"
+  },
+  "30": {
+    "「あーっ　そうそう。思いだしたわ。|　リリオルちゃんが　この前|　ボトルレターを拾ったとか　言ってたのよね。|<br>|「その手紙に　エテーネの村のことが|　書いてあったような……。": "Oh, yeah... I remember... Lior said she found|a bottle letter the other day... I think that|letter mentioned something about the village|<br>|of Etaine..."
+  },
+  "31": {
+    "<attr><feel_happy_lv1><end_attr>「最近　やってきた人たちは　みんな|　打ち解けるのが早くてね。|　もう　すっかり　なじんじゃってるみたい！": "<attr><feel_happy_lv1><end_attr>All the newcomers are so easy to get along|with... It's like they already know each|other."
+  },
+  "32": {
+    "「リリオルちゃんの　メラゾ熱が治った！？|　へえ……。恐ろしい病気だと聞いてたけど|　簡単に治すとは　錬金術ってのはスゴイな！": "Liriodur's melanzo fever has been cured!|Wow... I've heard it's a horrible disease,|but to cure it so easily... Alchemy is|<br>|amazing!"
+  },
+  "33": {
+    "<attr><feel_happy_lv3><end_attr>「あんた　錬金術が使えるんだって？|　なんでも特別な術で　この辺りじゃ|　あんたと　イッショウくらいしか使えないとか。|<br>|「それで　この町に　人が集まってきてるのか。|　いやはや　たいした術だなあ。": "<attr><feel_happy_lv3><end_attr>I heard you can do alchemy. It's a special|kind of magic that only you and Isho can use|around here. That's why people came to this|<br>|town... Well, that's quite a trick..."
+  },
+  "34": {
+    "<attr><feel_angry_lv1><end_attr>「へえ～。あんた　イッショウさんの家で|　お世話になるのか。|<br>|「……いいなあ。|　リリオルちゃんと　ひとつ屋根の下なんて|　まったく　うらやましい話だぜっ！": "<attr><feel_angry_lv1><end_attr>I'm sorry. You'll be staying at Mr. Isho's|house. I... Yes... I'm so jealous that you|and Lior are living under the same roof!"
+  },
+  "35": {
+    "<attr><feel_happy_lv3><end_attr>「いつの間にか　人が増えたな。|　この町も　すっかり　にぎやかになったぜ！": "<attr><feel_happy_lv3><end_attr>Before I knew it, there were more people...|This town's all bustling now!"
+  },
+  "36": {
+    "<attr><feel_happy_lv1><end_attr>「あなたが　この町に　たどり着いたのには|　きっと　意味があるはずですわ。|　……神のご加護が　ありますように。": "<attr><feel_happy_lv1><end_attr>I'm sure there's a reason you ended up in|this town. ... God bless you..."
+  },
+  "37": {
+    "<attr><feel_happy_lv3><end_attr>「ほう！　あんたも　イッショウと同じ|　錬金とかいう術が使えるのか？|<br>|「よかった！　それなら|　わしの持病が悪化しても　安心じゃな。|　ホッとしたら　元気が出てきたわい！": "<attr><feel_happy_lv3><end_attr>Oh! So you can use the same alchemy as Isho?|Good! Then I won't have to worry about my|chronic illness getting worse... I'm so|<br>|relieved I've got some energy!"
+  },
+  "38": {
+    "「なあ　イソーロー。|　ジタバタしたって始まらねえ！　まずは|　ゆっくり　この島を　冒険してみたらどうだ？|<br>|「この島には　色違いの７つのほこらがあってな。|　そのほこらは　奥に扉があるんだが|　カギがかかってて　中に入ることはできねえ。|<br>|「ほこらのカギは　なんと　錬金で作れるんだが|　そのうちの　いくつかは　オレがもう作った。|　……まずは　こいつを受け取れ！": "Hey, Iso... There's no point in messing|around! Why don't we take our time and|explore this island? There are seven|<br>|different colored hollows on this island...|The hollow has a door at the back, but it's|locked, so you can't get in... The keys to|<br>|the hollows can be made by alchemy, but some|of them I've already... I've already...|First, take this!"
+  },
+  "39": {
+    "「ほおぉ　ついに　赤のほこらから|　黒の封石を持ちかえるまでに　成長したか！|　さすがだな　錬金名人！|<br>|「錬金名人は　一歩一歩　金のほこらに……|　いや！　故郷に近づいてるはずだと|　オレの勘が　そう告げてるぜ！！": "Oh, you've finally grown up enough to bring|back the Black Seal from the Red Cauldron!|You're a master of alchemy! Step by step, the|<br>|alchemist is making his way to the golden|hollow... No! My intuition tells me he's|getting closer to home!"
+  },
+  "40": {
+    "「黒のほこらの魔物を　倒した……！？|　……ってこたあ　ついに　そろったんだな！？|　金のほこらのカギの　素材が！！|<br>|「すげえ　すげえぜ　錬金名人！|　お前なら　絶対やってくれると思ってたぜ！！|<br>|「さあ　錬金名人！|　金のほこらのカギを　錬金してみせてくれ！": "I defeated the demon in the Black Cairn. ...|So you've finally got it all, huh? The|ingredients for the key to the golden|<br>|chambers! That's great! That's great, master|alchemist! I knew you'd do it! Come on,|master alchemist! Show me how to alchemize|<br>|the key to the golden hollow!"
+  },
+  "41": {
+    "「錬金名人！　黒のほこらの魔物を　倒したんなら|　もう　素材は　バッチリだろ！？|　金のほこらのカギを　錬金してみせてくれ！": "Master alchemist! Now that you've defeated|the demon in the Black Cairn, you must have|all the ingredients, right? Show me how to|<br>|alchemize the key to the Golden Cauldron!"
+  },
+  "42": {
+    "「そのカギを使えば　サザミレ草原にある|　青のほこらの扉が開く。そこで　魔物を倒したり|　素材を集めながら　奥へ奥へと進んでいけ！|<br>|「素材を持ち切れなくなったら　町に戻ってきて|　ひたすら錬金だ。で　やることがなくなったら|　荷物を預かり所に預けて　また素材探しだ。|<br>|「そんな風に　素材集めと　錬金を繰り返すのが|　錬金術師の正しい生活ってやつだ。|<br>|「で　少しずつ強くなって|　青のほこらの　いちばん奥まで　たどり着けたら|　白の封石ってえ素材を　持ちかえるんだ！|<br>|「それができたら　７つのほこらの中でも|　特別な　金のほこらについて|　お前に　くわしく　教えてやらあ！": "The key will lead you to the blue cave in|Sazamire Meadow. There, you can defeat demons|and collect materials as you go deeper and|<br>|deeper into the world! When you run out of|materials, come back to the town and keep|going... And when you're out of things to do,|<br>|you leave your stuff at the storage place and|go back for more materials... That's how the|proper life of an alchemist is, collecting|<br>|materials and smelting them repeatedly. And|when you get stronger little by little and|reach the far end of the blue hollow, you'll|<br>|need to bring back a material called the|white sealing stone. Once I've done that,|I'll tell you more about the Golden Horde,|<br>|the most special of the seven."
+  },
+  "43": {
+    "「この島には　色違いの７つのほこらがあってな。|　ほこらのカギは　なんと　錬金で作れるんだが|　いくつかは　オレがもう作った。|<br>|「オレがやったカギを使えば　サザミレ草原にある|　青のほこらの扉が開く。そこで　魔物を倒したり|　素材を集めながら　奥へ奥へと進んでいけ！|<br>|「素材を持ち切れなくなったら　町に戻ってきて|　ひたすら錬金だ。で　やることがなくなったら|　荷物を預かり所に預けて　また素材探しだ。|<br>|「で　少しずつ強くなって|　青のほこらの　いちばん奥まで　たどり着けたら|　白の封石ってえ素材を　持ちかえるんだ！|<br>|「それができたら　７つのほこらの中でも|　特別な　金のほこらについて|　お前に　くわしく　教えてやらあ！": "There are seven different colored hollows on|this island... The keys to these chambers can|be made by alchemy, but I've already made|<br>|some of them. If you use the key I gave you,|you can get to the blue hollow in Sazamire|Meadow. There, you can defeat demons and|<br>|gather materials as you go deeper and deeper|into the forest. When you run out of|materials, come back to the town and keep|<br>|going... And when you've run out of things to|do, leave your stuff in the storage room and|go back to the materials... And when you get|<br>|to the end of the blue hollow, you'll need to|bring back the white sealing stone. Once I've|done that, I'll tell you more about the|<br>|Golden Horde, the most special of the Seven|Horizons!"
+  },
+  "44": {
+    "「青のほこらから帰ってきたか　イソーロー。|　ちゃんと　洞くつの奥から|　白の封石を　持ちかえったようだな。|<br>|「じゃあ　約束通り　金のほこらのことを|　教えてやろう。金のほこらは　サザミレ草原を|　ずっと南へ行った所にあるんだ。|<br>|「さすがのオレも　あの扉は開けたことがねえ。|　だが　ほこらの中でも特別な　あそこには|　すげえお宝が眠ってると　オレの勘が言ってる！|<br>|「そのお宝があれば　お前の故郷を探すのに|　役に立ちそうだと思わねえか？|　だから　イソーロー　こいつを受け取れ！": "You've returned from the blue cave, Iso... I|brought back the white sealing stone from the|depths of the cave. Then tell me about the|<br>|Golden Horn as you promised... The Golden|Horn is farther south in the Sazerite|Steppe... I've never even opened that door.|<br>|But my instincts tell me that there's a great|treasure hidden in that special place. Don't|you think that treasure might be useful in|<br>|finding your home? So, Thoreau, take this!"
+  },
+  "45": {
+    "<attr><feel_angry_lv3><end_attr>「くっ……。かばんが　いっぱいじゃねえか。|　それじゃあ　話にならねえ。|　すぐに　かばんを　空けてこい！": "<attr><feel_angry_lv3><end_attr>Oh, shit. My bag is full. Well, that's not|much to go on. Go open your bag right now."
+  },
+  "46": {
+    "「それは　オレが　研究に研究を重ねて編み出した|　ほこらのカギのレシピだ！　オレが　まだ|　錬金したことないカギのレシピが　載ってるぜ。|<br>|「オレの理論に　間違いはない。|　ほこらをめぐって　素材を集めれば|　すべてのカギを　錬金できる。|<br>|「そのカギで　ほこらをめぐっていけば|　最後には　金のほこらのカギも|　錬金できるはずだ！|<br>|「とりあえずは　青のほこらで手に入れた|　白の封石を使えば　白のほこらのカギが|　錬金できるだろう。|<br>|「お前はもう　ただのイソーローじゃねえ……|　イッチョ前の錬金術師だ！|　さあ　イッチョ前。さっそく　やってみてくれ！": "That's the recipe for the key to the vault|that I've been working on for years! It|contains a recipe for a key that I have yet|<br>|to alchemize... My theory is wrong. I have a|theory. If we use that key to go through the|chests, we should be able to alchemize the|<br>|key to the golden chests. In the meantime,|you can use the white sealing stone from the|blue chambers to smelt the key to the white|<br>|chambers... You're not just an Ithorro|anymore... You're a master alchemist! Come|on... Go ahead, give it a try!"
+  },
+  "47": {
+    "「これは　オレの勘だが……|　ほこらの中でも特別な　金のほこらには|　すげえお宝が　眠ってる気がするんだ。|<br>|「ほこらをめぐって　素材を集めていけば|　いずれ　金のほこらのカギが　錬金できる。|<br>|「信じる信じねえは　イッチョ前の勝手だが|　とりあえずは　オレの言う通りにして|　金のほこらのカギを　目指せ！　わかったな！|<br>|「白のほこらは　ずっと西の　ポルネア山にある。|　あの中には　おっかねえ魔物が棲みついてるから|　気合い入れて　しっかり準備していけよ！": "This is just a hunch, but... I have a hunch|that the most special of the chambers, the|Golden Chamber, holds an incredible amount of|<br>|treasure. If we go around the hollow and|collect materials, we can eventually|alchemize the key to the golden hollow. It's|<br>|up to you to decide whether you believe me or|not, but for now, do as I say and aim for the|key to the Golden Horn! Understood? The white|<br>|hollow is far to the west on Mount Pornea...|The White Chamber is far to the west, in|Mount Pornea... There's a big demon living in|<br>|there, so you'd better prepare yourself well!"
+  },
+  "48": {
+    "「ほう！　白のほこらで|　魔物を倒してきたようだな　イッチョ前。|　その根性は　ほめてやろう。|<br>|「次の　ほこらのことは|　リリオルに　聞いてくれ。": "Wow! I see you've defeated the demons at the|White Cairn. I admire your guts. I'll ask|Liriodur about the next choke point..."
+  },
+  "49": {
+    "「そう言えば　この町にも　人が増えてきたな。|　みんな　イッチョ前の評判を聞いてきたらしいが|　オレに言わせりゃ　まだまだだ。|<br>|「どんな　むずかしい依頼にも　応えられるよう|　バッチリ　錬金のレシピを集めていくんだぞ！": "Speaking of which, more and more people are|moving into this town. It seems that|everyone's heard of Ichyo, but if you ask|<br>|me... I'm going to gather up all the alchemy|recipes I can so that I can handle any|difficult request!"
+  },
+  "50": {
+    "「……おい　イッチョ前。灰のほこらの話を|　聞いたか？　あのほこらに潜む魔物は|　リリオルを　メラゾ熱にしやがったやつだ！|<br>|「本来なら　この手で　ブッ倒してやりてえ！|　……でもよ　それは無理だと|　オレの勘が告げてやがる！|<br>|「なあ　イッチョ前。頼む！|　オレの代わりに　あの魔物を|　ブッ倒してきてくれっ！！": "... Hey, I... Did you hear about the Ash|Cairn? The demon lurking in that hollow is|the one that turned Lelior into a melazo|<br>|fever! I wish I could kill it with my own|hands! But... But my intuition tells me|that's impossible! Hey... Please! Go kill|<br>|that demon instead of me!"
+  },
+  "51": {
+    "「ようっ　イッチョ前！　オレには　わかるぜ！|　リリオルを　メラゾ熱にした魔物を|　ブッ倒してきてくれたんだろ。|<br>|「オレが……　錬金術のチカラを失ったのも|　あの魔物のせいだと思う。お前は　リリオルと|　オレの　カタキを討ってくれたんだ！|<br>|「それにしても……　こんなチカラを|　見せつけられたんじゃ　これからは|　お前のこと　イッチョ前とは呼べねえな……。|<br>|「……よし！|　これから　お前のことは|　錬金名人と　呼ばせてもらうぜ！|<br>|「さあ　錬金名人！　受け取ってくれ！|　オレからの　ささやかな礼だ！": "Yo, Itchou-mae! I know what I'm doing! I know|what you're talking about! I... It's because|of that demon that I lost the power of|<br>|alchemy... You defeated Liriodur and me! But|still... I can't call you Ichigo-mae after|seeing your power like this... I... Okay!|<br>|From now on I'll call you Renkin Meijin!|Renkin Meijin! Please accept it! It's my|small way of saying thank you!"
+  },
+  "52": {
+    "「そいつは　昔　オレが作ったもんだ。|　とんでもねえ魔物たちがいる　ほこらのカギだが|　今の　お前なら　大丈夫だろう。|<br>|「だが　くれぐれも　気をつけてくれよ。|　錬金名人に　何かあったら…………|　リリオルが　悲しむからな！": "It's a key I made a long time ago. It's the|key to a cave full of demons, but you'll be|fine now. But be careful... If anything|<br>|happens to the master alchemist... Liriodur|will be very sad."
+  },
+  "53": {
+    "「赤のほこらは　とんでもねえ魔物たちが|　うようよしている　やべえ所だ。|<br>|「だが　そのほこらにある　黒の封石がねえと|　その先のほこらへの道は　開かれねえ。|<br>|「とにかく　がんばってくれよ！　錬金名人！": "The red hollow is crawling with demons, oh|no... But if you don't have the black seal|stone in that hollow, you can't get to the|<br>|next hollow... Anyway, good luck! Master|Alchemist!"
+  },
+  "54": {
+    "<attr><feel_happy_lv3><end_attr>「あなた　イッショウさんの家で|　修行をしてるんですってね！|<br>|「……どうして知ってるかって？　だって|　私は　この町で　いちばんの情報通だもの！|　いつでも　最新情報を　教えてあげるわよ。|<br>|「そういえば　頼みごとがある人がいるみたい。|　そんな人は　頭上の名前が紫色になってるから|　町で見かけたら　話してみてね！": "<attr><feel_happy_lv3><end_attr>I heard you're training at Mr. Isho's house!|... How do I know that? Because I'm the most|informed person in this town! I'm always|<br>|ready to give you the latest information...|Oh, by the way, there's someone I need a|favor from. The name above your head is|<br>|purple, so if you see me around town, you can|talk to me."
+  },
+  "55": {
+    "<attr><feel_happy_lv3><end_attr>「町いちばんの情報通である　マリカさんが|　あなたに　とっておきの最新情報を|　教えてあげるわね！|<br>|「<kyodai>さんって　錬金術が使えるそうね！|　何か頼みごとがありそうな人たちを|　見かけたんだけど　もう　話してみたかしら？|<br>|「頼みごとがある人は|　頭の上に出てる名前の色が　紫になってるハズ。|　建物の中も　よく探してみてね！": "<attr><feel_happy_lv3><end_attr>Marika, the most informed woman in town, is|here to give you the latest and greatest!<kyodai>I heard that you can do alchemy! I saw some|people who looked like they needed a favor.|Have you tried talking to them? If you have a|<br>|favor to ask, the name above your head will|be purple... Look inside the building, too."
+  },
+  "56": {
+    "<attr><feel_happy_lv3><end_attr>「ずいぶん　強そうな人たちが増えたわよね！|　しかも　<kyodai>さんに会うために|　来たって人もいて　ビックリだわ！|<br>|「あなたが　そんなに　すごい人だったなんて|　このマリカさんでも　わからなかった。|　情報通の名が　泣いちゃうわね……。": "<attr><feel_happy_lv3><end_attr>There's a lot of strong people here. Moreover<kyodai>I'm surprised that some of you came here just|to meet you! Even Marika here doesn't know|that you're such an amazing person... I'd cry|<br>|if I knew."
+  },
+  "57": {
+    "「リリオルちゃんの　お父さんの|　イッショウは　若い頃　変な術を使って|　お金持ちになるのを　夢見てたんだよ。": "When Liriodur's father, Isho, was young, he|dreamed of becoming rich by using strange|magic..."
+  },
+  "58": {
+    "「この島は　広い海のド真ん中にあるから|　ここまで来るのは　かなり大変なはずなんだ。|　……みんな　よく来るよなあ。": "This island is in the middle of a huge ocean,|so it must have been pretty hard to get|here... ... People come here all the time..."
+  },
+  "59": {
+    "<attr><feel_happy_lv1><end_attr>「私ね　死んじゃった　お母さんに|　よく似てるんだって。|<br>|「お父さんは　昔から　お母さんにだけは|　アタマが上がらなかったから　そっくりな|　私の言うことにも　逆らえないの<heart>|<br>|「……そうそう。もし　一緒に戦ってくれる|　仲間がほしくなったら　町にいる　頭上の名前が|　紫色の人を　助けてあげるといいわよ。|<br>|「そうしたら　きっと　その人は|　<kyodai>に　チカラを貸してくれるはず！|　世の中は　ギブ・アンド・テイクよ。|<br>|「町の入り口にいる　マリカさんが|　この町のことに　いちばん　くわしいから|　何かあったら　話を聞いてみてね。": "<attr><feel_happy_lv1><end_attr>You know, I'm a lot like my dead mother... My|father always had a hard-on for my mother, so|he can't do anything I say.<heart>... So... If you ever need a friend to fight|with, maybe you could help out someone in|town whose name is purple... And I'm sure|<br>|that person will...<kyodai>I'm sure you'll be able to help me. The world|is a give-and-take place. Marika, at the|entrance to the town, is the most|<br>|knowledgeable person about the town, so if|you need anything..."
+  },
+  "60": {
+    "「<kyodai>って　<pc_rel1>がいるんだね。|　この町にも　ずいぶん　人が増えたけど|　誰も　エテーネの村の場所を　知らなかったわ。|<br>|「エテーネの村……|　いったい　どこにあるのかしらね。": "<kyodai>indicates supposition<pc_rel1>There are... There are more and more people|in this town, but no one knows where the|village of Etaine is... The village of|<br>|Etaene... I don't even know where that is."
+  },
+  "61": {
+    "「<kyodai>も　青のほこらから|　つながる洞くつに　行ったのね。|<br>|「あそこでは　めずらしいものが手に入るけど|　強めの魔物もいるから　気をつけて。|　お父さんも　何度か　死にかけてるのよ。|<br>|「それと　サザミレ草原の西の　ポルネア山にある|　白　灰　黒の３つのほこらには　それぞれに|　おそろしい魔物が　棲みついているらしいの。|<br>|「でも……　もし　<kyodai>が|　白のほこらの魔物を倒せるくらい　強くなったら|　私の　お願いを　聞いてほしいな……。": "<kyodai>I also went to the cave connected to the Blue|Caves... You can get some pretty cool stuff|there, but there's also some pretty powerful|<br>|demons, so be careful... Your father almost|died a few times... And on Mount Pornea, west|of Sazamire Meadow, there are three caves,|<br>|one white, one gray, and one black, each|inhabited by a horrible demon. But... What|if...<kyodai>When you're strong enough to defeat the demon|in the White Cairn, please do me a favor..."
+  },
+  "62": {
+    "「すごいわ　<kyodai>！|　白のほこらの魔物を　倒しちゃうなんて！|<br>|「……うん。|　今のあなたになら　お願いできるわ！|　このカギを　受け取って。": "Oh, my God<kyodai>I can't believe it! I can't believe I|defeated the demon in the White Cairn! .....|Now you can do it! Take this key..."
+  },
+  "63": {
+    "「そのカギで入れる　緑のほこらの洞くつの奥に|　灰のほこらのカギの材料になる　素材があるの。|<br>|「私　灰のほこらのそばで　呪いの霧をあびて|　メラゾ熱に　かかったんだ……。|　きっと　あのほこらに棲む魔物が原因だと思う。": "Deep in the cave of the Green Caves, which|can be accessed with the key, there is a|material that can be used to make the key to|<br>|the Ash Caves. I was exposed to a cursed mist|near the Ash Caves, and came down with melazo|fever... It must have been caused by the|<br>|demon that lives in that hollow..."
+  },
+  "64": {
+    "「緑のほこらの洞くつの奥に|　灰のほこらのカギの材料になる　素材があるの。|<br>|「私　灰のほこらのそばで　呪いの霧をあびて|　メラゾ熱に　かかったんだ……。|　きっと　あのほこらに棲む魔物が原因だと思う。": "Deep in the caves of the Green Caves, there|is a material that can be used to make the|key to the Ash Caves. I was exposed to a|<br>|cursed mist near the Ash Caves and came down|with melanotic fever... It must have been|caused by the demon that lives in that|<br>|hollow..."
+  },
+  "65": {
+    "「私　灰のほこらのそばで　呪いの霧をあびて|　メラゾ熱に　かかったんだ……。|　きっと　あのほこらに棲む魔物が原因だと思う。|<br>|「だから　<kyodai>　お願い！|　私を病気にした　その魔物を倒してきて！|　私　その魔物だけは　絶対に許せないの！": "I was exposed to a cursed mist near the Ash|Cairn and came down with melazo fever. It|must have been caused by the demon that lives|<br>|in that cave. So...<kyodai>Please! Go slay that demon that made me sick!|I can't let that demon get away with this!"
+  },
+  "66": {
+    "「ありがとう　<kyodai>。|　灰のほこらにいた　魔物を倒してくれたのね。|<br>|「……じつはね　お父さんから|　錬金術のチカラが　なくなっちゃったのは|　……私のせいだったんだ。|<br>|「あの日……　私が　あの辺りで素材を探してたら|　ほこらから　呪いの霧が　ふきだしてきたの。|　お父さんは私を守るために　霧に包まれて……。|<br>|「だから　あのほこらの魔物は　私だけじゃなくて|　私たち親子の　カタキだったのよ。|　ありがとう！　お礼に　いい物を　あげるわね！": "Thank you<kyodai>I want you to kill the demon in the ash heap.|I need you to defeat the demon in the Ash|Cairn. ... To tell you the truth, it was my|<br>|fault that your father lost his power of|alchemy. It was my fault... That day... I was|searching for materials in that area when a|<br>|cursed mist came from the hollow. Your father|was shrouded in the mist to protect me.|That's why the demon in the cave wasn't just|<br>|me, it was the father and I. Thank you! I'll|give you something good in return!"
+  },
+  "67": {
+    "「部屋を掃除してたら　見つけたの。|　たぶん　お父さんのだと思うけど　問題ないわ。|　だって　もう　錬金術は使えないんだしね……。|<br>|「それは　<kyodai>の　役に立ててあげて。|　……危険なレシピかもしれないけど|　あなたなら　きっと　使いこなせるわ！": "I was cleaning my room, and I found this... I|think it might be your father's, but the|problem is... Because I can't use alchemy|<br>|anymore... That...<kyodai>I'm here to help. ... It may be a dangerous|recipe, but you'll get the hang of it."
+  },
+  "68": {
+    "「<kyodai>にあげた　あぶないレシピの本は|　部屋を掃除してたら　見つけたの。|　たぶん　お父さんのだと思うけど　問題ないわ。|<br>|「だって　お父さんは|　もう　錬金術は　使えないんだしね……。": "<kyodai>I was cleaning my room, and I found the book|of dangerous recipes that I gave to... It's|probably your father's, but that's the|<br>|problem... Because your father can't use|alchemy anymore."
+  },
+  "69": {
+    "<kyodai>は|緑のほこらのカギ（だいじなもの）を|手に入れた！<me 60>": "<kyodai>I've got the key to the green cave!<me 60>"
+  },
+  "70": {
+    "<kyodai>は|あぶないレシピの本を　手に入れた！<me 60>": "<kyodai>I've got a book of dangerous recipes!<me 60>"
+  },
+  "71": {
+    "<kyodai>は|青のほこらのカギ（だいじなもの）を|受け取った！<me 60>": "<kyodai>received the key to the Blue Cairn!<me 60>"
+  },
+  "72": {
+    "<kyodai>は|ほこらのカギの本を　手に入れた！<me 60>": "<kyodai>I've got the book of keys to the chambers!<me 60>"
+  },
+  "73": {
+    "<kyodai>は|赤のほこらのカギ（だいじなもの）を|手に入れた！<me 60>": "<kyodai>I've got the key to the red cave!<me 60>"
+  },
+  "74": {
+    "「すげえ！　すげえぜ！　錬金名人！！|　ついに　金のほこらにいた魔物を　ブッ倒し|　お宝を　手に入れたんだろ！？|<br>|「あの７つのほこらを　すべて制した者は|　錬金術師の頂点に立つって　伝説があってな。|　オレは　それを目指して　この島に来たんだ。|<br>|「まあ　志なかばで　その夢は破れたわけだが|　オレの無念を　お前が晴らしてくれた！|　ありがとうよ！　錬金名人！|<br>|「……なに？　お宝はなくて　島の向こう側へ|　行けただけだって？　ふむ……。じゃあ|　そこに何があるのか　しっかり確かめてこい！！": "Holy shit! That's awesome! Master Alchemist!|You finally defeated the demon in the golden|hollow and got the treasure, didn't you?|<br>|There's a legend that whoever conquers all|seven chambers will rise to the top of the|alchemists. That's what I came to this island|<br>|for... But that dream was dashed when I was|halfway there... but you've made up for my|disappointment! Thank you! Master Alchemist!|<br>|... What? There's no treasure, just a way to|get to the other side of the island? Hmm...|Then go see what's on the other side!"
+  },
+  "75": {
+    "「すげえ！　すげえぜ！　錬金名人！！|　ついに　金のほこらにいた魔物を　ブッ倒し|　お宝を　手に入れたんだろ！？|<br>|「あの７つのほこらを　すべて制した者は|　錬金術師の頂点に立つって　伝説があってな。|　オレは　それを目指して　この島に来たんだ。|<br>|「まあ　志なかばで　その夢は破れたわけだが|　オレの無念を　お前が晴らしてくれた！|　ありがとうよ！　錬金名人！|<br>|「で……　どうだった　お宝は？|<br>|「……なに？|　お宝はなかったが　島の向こう側に|　お前の故郷　エテーネの村があっただって？|<br>|「……ってこたあ　お前は|　この町から　去らずに済むってこったな！|　それが　最高のお宝じゃねえか！　錬金名人！|<br>|「いや！　こんなに　すっげー奇跡を|　見せられたんじゃ　これからは|　お前のことを　錬金名人とは　呼べねえな！|<br>|「……よし！|　これから　お前のことは|　錬金王と　呼ばせてもらうぜ！": "Holy shit! That's awesome! Master Alchemist!|You finally defeated the demon in the golden|hollow and got the treasure, didn't you?|<br>|There's a legend that whoever conquers all|seven chambers will rise to the top of the|alchemists. That's what I came to this island|<br>|for... But that dream was dashed when I was|halfway there... but you've made up for my|disappointment! Thank you! Master Alchemist!|<br>|So... How'd it go? Where's the treasure?|What? What? There was no treasure, but on the|other side of the island was your hometown,|<br>|the village of Etaene? So... Which means|you'll never have to leave this town! That|would be the greatest treasure of all! Master|<br>|alchemist! No! I can't call you an alchemist|from now on after such an amazing miracle!|... Okay! I'll be calling you the Alchemy|<br>|King from now on!"
+  },
+  "76": {
+    "「あの７つのほこらを　すべて制した者は|　錬金術師の頂点に立つって　伝説があってな。|　オレは　それを目指して　この島に来たんだ。|<br>|「まあ　志なかばで　その夢は破れたわけだが|　オレの無念を　お前が晴らしてくれた！|　ありがとうよ！　錬金王！|<br>|「今の　お前に　錬金できねえものはない！|　これからも　うちの錬金釜を　ガンガン使って|　錬金術師として　さらなる高みを目指してくれ！": "There's a legend that whoever conquers all|seven of these chambers will rise to the top|of the alchemists. I came to this island to|<br>|achieve that... Well, that dream was dashed|halfway through my ambition, but you've made|up for my disappointment! Thank you! The|<br>|Alchemy King! There's nothing you can't|alchemize now! Please continue to use our|alchemy kettle with all your might and aim|<br>|for even greater heights as an alchemist!"
+  },
+  "77": {
+    "「えっ　エテーネの村が　見つかった？|　襲われて　燃やされたはずなのに|　きれいなままだったの？　よかったわ！|<br>|「じゃあ　きっと|　<kyodai>の　<pc_rel1>も　無事よね！|　早く　会えるといいわね。": "What? You found Etaine's village? It was|attacked and burned, but it's still clean?|That's great! I'm sure...<kyodai>(at sentence-end, falling tone) indicates a confident conclusion<pc_rel1>I hope you're okay! I can't wait to see you."
+  },
+  "78": {
+    "「<kyodai>が　うかない顔してたから|　気になってたんだけど　……そっか。|　<pc_rel1>には　会えなかったのね。|<br>|「でも　きっと　<kyodai>が　この町で|　元気に暮らしてれば　いつか会える日が来るよ！|　私は　そう信じてる！": "<kyodai>I've been wondering about that since you|looked so unhappy at ......<pc_rel1>I didn't see her. But I'm sure...<kyodai>As long as you're doing well in this town,|we'll meet one day! I believe that!"
+  },
+  "79": {
+    "<attr><feel_angry_lv1><end_attr><turn_pc>「へえ。あんた　見かけない顔ね。|　あんたも　海を漂ってきた　流れ者の|　ひとりってワケ？|<br>|「はあっ？　気がついたら　この島にいた？|　……不思議な話だけど　どうでもいいわ。": "<attr><feel_angry_lv1><end_attr><turn_pc>Huh. I haven't seen you around... So you're|one of those drifters who drifted out to sea?|Huh? When you came to your senses, you were|<br>|on this island? I don't know... It's a|strange story, but it doesn't matter..."
+  },
+  "80": {
+    "<attr><feel_sad_one><end_attr>「ううっ……。|　お腹が　すいた……。": "<attr><feel_sad_one><end_attr>Ugh... I'm hungry..."
+  },
+  "81": {
+    "<attr><feel_angry_one><end_attr>「ええと　儀式に　必要なのは|　あれと……　これと……　それね。|　よーし　今度こそ　成功させなきゃ！|<br>|「……魔神の召喚を！": "<attr><feel_angry_one><end_attr>Uh, for the ritual, you'll need this... And|this... And... Okay, this time we have to do|it right! ... Summon the demon!"
+  },
+  "82": {
+    "<attr><feel_normal_one><end_attr>「あたしの名は　セレネア。|　この町じゃ　そこそこ名のある戦士だよ。|<br>|「剣の心得は　父さんゆずりでね。|　だけど　たったひとりの肉親である　父さんも|　この世を去って　今や　天涯孤独の身。|<br>|「ひとりでも　なんとかやってるけど|　ちょっと　困ったことがあってさ。|　話だけでも　聞いてくれないかい？<yesno><break>": "<attr><feel_normal_one><end_attr>My name is Ce... I'm a famous warrior in this|town... My father taught me how to use a|sword. But my father, my only living|<br>|relative, has passed away and now I'm|alone... I'm getting by on my own, but I'm|having a little trouble... Can you at least|<br>|listen to me?<yesno><break>"
+  },
+  "83": {
+    "<attr><feel_angry_lv1><end_attr>「なんだい　話くらい　いいじゃないか。|　せっかちだねえ。": "<attr><feel_angry_lv1><end_attr>Why don't we just talk about... I'm|impatient..."
+  },
+  "84": {
+    "「話というのは　父さんのことさ。|　父さんは　祖国グランゼドーラでも|　名の知られた　戦士でね。|<br>|「父さんみたいになりたい！　って言うあたしに|　真の戦士になるための秘伝書を|　遺してくれたんだけど　これがやっかいでね。|<br>|「秘伝書の入ったビンが　かたくて開かないのさ。|　父さんの話じゃ　時期が来れば　開くらしいけど|　あたしは　今すぐ見たいんだよ。|<br>|「<%sEV_QUE_NAME4>があれば　開くはずなんだ。|　もし　持ってきてくれたら|　お礼に　あんたの旅を手伝うよ。どうだい？": "My story is about my father... My father was|a famous warrior in his homeland of|Grenzedorra... I want to be like him. He left|<br>|me a secret book on how to become a true|warrior... but it's not easy. The bottle that|holds the book is too tight to open... Dad|<br>|says it will open when the time is right, but|I want to see it now... If you have|<%sEV_QUE_NAME4>, it should open. If you|<br>|bring it to me, I'll return the favor and let|you travel... How's that sound?"
+  },
+  "85": {
+    "<attr><feel_happy_lv1><end_attr>「よかった！　助かるよ。|　あの秘伝書さえ　読めれば|　真の戦士に　なれると思うんだ。|<br>|「あたしは　もっと強くなって|　早く父さんに　近づきたいのさ。|　ここで待っているから　よろしく頼んだよ。": "<attr><feel_happy_lv1><end_attr>Oh, thank God! Help. If I could only read|that book, I'd be a true warrior. I want to|become stronger and get closer to my father.|<br>|I'll be waiting for you here. Please take|care of me."
+  },
+  "86": {
+    "「いいのかい？|　だけど　あんた　ずいぶん|　頼まれごとを　抱えてるじゃないか。|<br>|「あたしのは　急ぐ用じゃないから|　そっちを終わらせてから|　また　来ておくれよ。": "Are you sure? But you've got so many favors|to do... Mine isn't urgent, so you can finish|yours and come back..."
+  },
+  "87": {
+    "「そうかい。まあ　無理強いはしないよ。": "Well... Well, I'm not gonna force you to..."
+  },
+  "88": {
+    "<attr><feel_angry_lv1><end_attr>「真の戦士になれる　秘伝書の入ったビンは|　フタが　とても　かたくてさ。|　よっぽどチカラがないと　開かないんだ。|<br>|「なにぶん　ビンだから|　割っちゃっても　いいんだけど|　いちおう　父さんの　形見だしね。<open_irai><bw_break>": "<attr><feel_angry_lv1><end_attr>The bottle that holds the secret to becoming|a true warrior has a very tight lid. You have|to be really strong to open it... I don't|<br>|care if you break it, it's just a bottle...|but it's a memento of my father...<open_irai><bw_break>"
+  },
+  "89": {
+    "「ああ　<kyodai>。|　どうやら　<%sEV_QUE_NAME4>を|　持ってきてくれたようだね。|<br>|「これで　真の戦士になれる　秘伝書の入った|　ビンのフタが　開けられるよ。|　さあ　それをあたしに　ゆずってくれるかい？<yesno><break>": "Oh<kyodai>... Apparently, he brought me|<%sEV_QUE_NAME4>... It'll open the lid to the|jar containing the secret to becoming a true|<br>|warrior. Now, will you give it to me?<yesno><break>"
+  },
+  "90": {
+    "<attr><feel_happy_lv1><end_attr>「ありがとう！|　よし　これさえ　あれば……<e_turn_dir_s>": "<attr><feel_happy_lv1><end_attr>Thank you! All right, if this is it...<e_turn_dir_s>"
+  },
+  "91": {
+    "<attr><feel_happy_lv1><end_attr>「よし！　これで　よくすべって　開くはず……。": "<attr><feel_happy_lv1><end_attr>Okay, okay. Now it should glide well and|open..."
+  },
+  "92": {
+    "<attr><feel_happy_lv3><end_attr><turn_pc>「やった！　開いたよ。|　よし　読んでみるね。": "<attr><feel_happy_lv3><end_attr><turn_pc>Yes! Open... Okay, read..."
+  },
+  "93": {
+    "<attr><feel_sad_lv1><end_attr>「……わが娘　セレネアへ。 |　よくぞ　このビンを　開けたな。|　たくましく育ってくれて　なによりだ。|<br>|「しかし　お前のことだ。|　何かズルをして　ビンを開けたのではないか？|　お前は　昔から　そういうところがあった。|<br>|「だが　真の戦士になるのに　近道はない。|　楽をしようとせず　地道に努力をしなさい。|　そうすれば　いつか　真の戦士にもなれよう。": "<attr><feel_sad_lv1><end_attr>... My daughter, Cele... How dare you open|this bottle? I'm so proud of you. But your...|I think you may have cheated and opened the|<br>|bottle. You've always been a bit of a... But|it's a shortcut to becoming a true warrior.|Don't try to be easy. Work hard. And one day|<br>|you will be a true warrior."
+  },
+  "94": {
+    "<attr><feel_happy_lv3><end_attr>「……そっか。|　何もかも　見すかされてたんだね。|　やっぱ　父さんには　かなわないな。|<br>|「ありがとう　<kyodai>。|　あんたのおかげで　やっと|　自分のやるべきことが　見えてきたよ。|<br>|「次は　あんたに　お礼をしなくっちゃね。|　あたしでよければ　旅に連れていっておくれ。|　よろしく　<kyodai>！": "<attr><feel_happy_lv3><end_attr>...... He's been watching us every step of|the way. You're no match for me. Thank you.<kyodai>Thanks to you. Thanks to you, I finally know|what I have to do... Next time I'll have to|repay you... If it's okay with me, you can|<br>|take me on a trip... I will.<kyodai>！"
+  },
+  "95": {
+    "「そうか　別の用で使うんだね。|　あたしは　後でいいから|　また　持ってきておくれ。": "Yeah, I'll just use it for something else.|I'll be back later. You can bring it back..."
+  },
+  "96": {
+    "<kyodai>は　セレネアに|<%sEV_QUE_NAME4>を　渡した！": "<kyodai>has given <%sEV_QUE_NAME4> to Serenea!"
+  },
+  "97": {
+    "<attr><feel_happy_lv1><end_attr>セレネアは　<%sEV_QUE_NAME4>を|かたいビンのふちに　ぬりたくった。": "<attr><feel_happy_lv1><end_attr>Serenea smeared <%sEV_QUE_NAME4> on the edge|of the hard bottle..."
+  },
+  "98": {
+    "<attr><feel_sad_lv3><end_attr>セレネアは　チカラを込めて|かたいビンのフタを開けた！": "<attr><feel_sad_lv3><end_attr>Serenea used all her strength to open the lid|of the hard bottle!"
+  },
+  "99": {
+    "<attr><feel_happy_lv1><end_attr>「<kyodai>の　おかげで|　父さんの　秘伝書が入ったビンを|　楽に開けることが　できたよ。|<br>|「でも　真の戦士になるのに|　近道は　ないんだよね。|　父さんの言葉　身に　しみたよ。|<br>|「ありがとう　<kyodai>。|　あたし　マジメに修行して|　真の戦士に　なってみせるよ。": "<attr><feel_happy_lv1><end_attr><kyodai>I can open the bottle that contains my|father's book of secrets with ease. But there|are no shortcuts to becoming a true warrior.|<br>|I'll take your word for it. Thank you.<kyodai>I'll train hard and become a true warrior.|I'll train diligently and become a true|warrior..."
+  },
+  "100": {
+    "<attr><feel_happy_lv1><end_attr>「やあ　<kyodai>。|　真の戦士を　目指して|　あんたと旅している間も　がんばっているよ。|<br>|「どんな職業でも　近道ってのは|　ないのかも　しれないね。": "<attr><feel_happy_lv1><end_attr>Hi<kyodai>I'll be back. I'm trying my best to become a|true warrior while I'm traveling with you.|Maybe there's no shortcut in any|<br>|profession..."
+  },
+  "101": {
+    "<attr><feel_normal_one><end_attr>「あら　旅人さん　こんにちは。|　アタシ　ジャネットというの。|　よろしくね。|<br>|「……ふぅん　あなた　錬金術師なの。|　ねえ　トートツなことを　聞くようだけど|　あなたは　武器に愛をそそいでる？<yesno><break>": "<attr><feel_normal_one><end_attr>Hello, traveler. I'm Janet and... Hello...|... Hmm. You're an alchemist... Hey, I know|this is gonna sound crazy, but do you have|<br>|any love for weapons?<yesno><break>"
+  },
+  "102": {
+    "<attr><feel_normal_one><end_attr>「フン。あなたなら　武器への愛が|　わかるかと思ったけど|　とんだ　見込みちがいだったわ。": "<attr><feel_normal_one><end_attr>Hmm. I thought you'd understand my love of|weapons, but you're wrong."
+  },
+  "103": {
+    "<attr><feel_normal_one><end_attr>「あら　いい返事を　するじゃない。|　だいたいね　いくら強い戦士でも|　強いのは人間じゃなくて　武器なのよ。|<br>|「人間が　素手で戦って勝てる相手なんて|　たかが知れているわ。だからアタシ|　いつだって　武器への感謝と愛を忘れないの。|<br>|「よし　決めたわ！|　あなた　アタシのコレクションに協力しなさい！|<br>|「<%sEV_QUE_NAME4>を　錬金するのよ！|　もちろん　アタシのためにね。|　持ってきたら　あなたの旅を手伝ってもいいわ！": "<attr><feel_normal_one><end_attr>Oh, you're gonna love this. You know, no|matter how strong a warrior you are, it's not|people you're strong against, it's weapons.|<br>|There's only so much a man can do with his|bare hands. That's why I'll always remember|to appreciate and love my weapons. Okay, I've|<br>|decided. You're going to help me with my|collection. I want you to smelt|<%sEV_QUE_NAME4>. Of course, I'll bring you|<br>|my... Bring it to me, and I'll help you on|your journey."
+  },
+  "104": {
+    "<attr><feel_happy_lv1><end_attr>「ふふっ。それでこそ|　目をつけた　かいがあるわ。|<br>|「さあ　このアタシのコレクションのために|　<%sEV_QUE_NAME4>を　作ってきなさい。|　ここで待っているから　頼んだわよ！": "<attr><feel_happy_lv1><end_attr>So... That's why I'm here. Now, I'm going to|go create <%sEV_QUE_NAME4> for my|collection... I'll be waiting for you here.|<br>|I'm counting on you."
+  },
+  "105": {
+    "<attr><feel_angry_one><end_attr>「なによ　あなた。|　ずいぶん　頼まれごとを|　ほったらかしに　しているじゃない。|<br>|「アタシのコレクター魂は|　そう　軽いものじゃないのよ。|　早く片付けて　戻ってきなさい！": "<attr><feel_angry_one><end_attr>What the... I've been neglecting my requests|for so long... My collector's spirit is not|something to be taken lightly... Hurry up and|<br>|get back here!"
+  },
+  "106": {
+    "<attr><feel_angry_one><end_attr>「アタシに　協力しないですって！？|　……なるほど　さては　武器の手入れで|　忙しいのね？|<br>|「そういうことなら　しかたないわ。|　アタシは　ここにいるから|　手が空いたら　またいらっしゃい。": "<attr><feel_angry_one><end_attr>You're not gonna help me? ... I see. So,|you're busy with your weapons, huh? If that's|the case, so be it. I'll just stay here and|<br>|come back when I'm free..."
+  },
+  "107": {
+    "<attr><feel_normal_one><end_attr>「武器コレクターのアタシと　錬金術師のあなた。|　このふたりが　出会ったのは|　まさに　運命かもしれないわね！<open_irai><bw_break>": "<attr><feel_normal_one><end_attr>I'm a weapons collector and you're an|alchemist. Maybe it's just fate that brought|us together.<open_irai><bw_break>"
+  },
+  "108": {
+    "<attr><feel_normal_one><end_attr>「あら　得意げな顔をしてるじゃない。|　さては　<%sEV_QUE_NAME4>を|　作ってきたのね？|<br>|「さあ　もったいぶらないで|　このアタシに　よこしなさい。<yesno><break>": "<attr><feel_normal_one><end_attr>Oh, you look so pleased with yourself... So|you've created <%sEV_QUE_NAME4>, huh? Don't|be shy. Give it to me...<yesno><break>"
+  },
+  "109": {
+    "<attr><feel_happy_lv1><end_attr>「まあ！　すばらしいわ。ひきしまったボディ……|　なめらかな　金属のハダ……。|　これこそ　愛すべき武器の姿よ。|<br>|「いろんな武器を　見てきたけれど|　今のところ　剣では|　<%sEV_QUE_NAME4>が　いちばんだわ！|<br>|「うふふ。これで　アタシのコレクションが|　また　すばらしいものに　なったわ。|　ありがとう　<kyodai>。|<br>|「じゃあ　今度は　アタシが約束を果たす番ね。|　あなたの　錬金のウデを見込んで|　ぜひ　旅のお手伝いをさせていただくわ！": "<attr><feel_happy_lv1><end_attr>Oh, my God! Oh, my... A tight body... Smooth|as metal... This is the weapon I love. I've|seen a lot of weapons, but so far,|<br>|<%sEV_QUE_NAME4> is the best sword I've ever|seen! ... This will make my collection even|better. Thank you.<kyodai>I'm sorry. Then I'll fulfill my promise this|time... I'd be happy to help you on your|journey, based on your skill with alchemy!"
+  },
+  "110": {
+    "<attr><feel_angry_one><end_attr>「なに　じらしてるのよ。|　アタシは　そんなに気が長くないの。|　早く　渡してほしいものね。": "<attr><feel_angry_one><end_attr>What are you waiting for? I'm not that|patient... I want you to give it to me..."
+  },
+  "111": {
+    "<attr><feel_normal_one><end_attr><kyodai>は　ジャネットに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_normal_one><end_attr><kyodai>has given Janet <%sEV_QUE_NAME4>!"
+  },
+  "112": {
+    "<attr><feel_happy_lv1><end_attr>「ありがとう　<kyodai>。|　こんなに　アタシ好みの剣を作れるのは|　あなただけかも　しれないわ。|<br>|「あなたへの感謝と　親愛をこめて|　この　<%sEV_QUE_NAME4>は|　<kyodai>ソードと呼ぶことに　するわね。": "<attr><feel_happy_lv1><end_attr>Thank you<kyodai>I'm sorry. You might be the only one who can|make a sword like this that I like... As a|token of my gratitude and affection for you,|<br>|this <%sEV_QUE_NAME4> is<kyodai>We'll call him The Sword."
+  },
+  "113": {
+    "<attr><feel_happy_one><end_attr>「あら　どうしたの？|　あなたがくれた　<%sEV_QUE_NAME4>は|　戦闘で使わないのか？　とでも言いたげね。|<br>|「とんでもないわ！　<%sEV_QUE_NAME4>は|　鑑賞用　保存用　布教用　練習用　添い寝用……|<br>|「……と　色々そろえないと　いけないのよ！|　本当に使って　刃でも欠けたら　だいなしだわ。|　実戦は　いつもの剣で充分よ。": "<attr><feel_happy_one><end_attr>Hey, what's up? You're not going to use that|<%sEV_QUE_NAME4> you gave me in combat? You|mean... Of course not! <%sEV_QUE_NAME4> is|<br>|for viewing, for storage, for teaching, for|practice, for cuddling... For sleeping... You|have to have all of them! If you really use|<br>|it and it chips, you'll be in big trouble.|I'll use my regular sword in battle."
+  },
+  "114": {
+    "<attr><feel_happy_lv1><end_attr>「よう　俺はトニオス。|　町の子供たちと　食の安全を守る|　戦士であり　料理人だ。|<br>|「外で魔物に剣を振り　家で食材に包丁を振る俺は|　ナルビアの　よい子のみんなから|　料理戦士トニオスと　呼ばれている。|<br>|「……しかし最近　悩みがあるんだ。|　ナルビアのよい子の　お母さんたちから|　子供が賢くなる料理を作って　と頼まれてな。|<br>|「この通り　俺は肉体派なので|　賢くなる方法など　まるでわからん。|　しかし　お母さんたちは　真剣だ。|<br>|「そこでだ！　旅人のキミに　賢くなりそうな|　調味料を　考えて　持ってきてほしい！|　旅をしているキミなら　わかるだろう。|<br>|「もし　ふさわしいものを　持ってきてくれたら|　キミの旅を　手伝ってもいい！|　どうだい　引き受けてくれるかな？": "<attr><feel_happy_lv1><end_attr>Hey, I'm To... I'm a warrior for the children|of this town and for food safety. I'm a|warrior who wields a sword against demons|<br>|outside, and a knife against foodstuffs at|home. I'm sorry. But lately, I've been having|trouble... I've been asked by the mothers of|<br>|the good children of Narrubia to prepare a|dish that will make their children smarter.|As you can see, I'm a physical person, so I|<br>|have no idea how to make them smarter. But|the mothers... So here's the deal. I need|you, a traveler, to come up with a seasoning|<br>|that will make you smarter. You're a|traveler, you know... If you bring me the|right stuff, I'll help you on your journey.|<br>|How about it? Would you accept?"
+  },
+  "115": {
+    "<attr><feel_happy_lv1><end_attr>「ありがとう　<kyodai>。 |　俺には　さっぱりだが　賢いヤツというのは|　呪文を使える場合が　多いようだな。|<br>|「だから　呪文を使うような連中が |　好む調味料なら　賢くなるかもしれん。|　難しいかもしれないが　どうか頼んだぞ！": "<attr><feel_happy_lv1><end_attr>Thank you<kyodai>I don't know. I don't know about that, but|smart people tend to be able to use spells.|So if it's the kind of seasoning spellcasters|<br>|like, it might make them smarter. It may be|difficult, but I'm counting on you."
+  },
+  "116": {
+    "「ありがとう。引き受けてくれるんだね。|　……しかし　キミはすでに|　たくさんの頼まれごとを　ためているようだ。|<br>|「俺も　ヒーローの端くれ。|　なんでも引き受けたくなる気持ちは　わかるが|　まず　そちらを片付けてきたまえ。": "There is... He'll take care of it... But|you've already got a lot on your plate. But|you've already got so many favors to ask...|<br>|I'm a hero... I know it's tempting to want to|take on everything, but I'm gonna have to|take care of that first."
+  },
+  "117": {
+    "<attr><feel_happy_lv1><end_attr>「そうか。このトニオスの頼み|　引き受けてもらえないとは　残念だ。|　しかし　俺は　いつでもキミを待っているぞ。": "<attr><feel_happy_lv1><end_attr>... I didn't know if you'd accept this|request from Tonios. But I'll always be here|for you."
+  },
+  "118": {
+    "<kyodai>は　トニオスに|<%sEV_QUE_NAME4>を　渡した！": "<kyodai>has given Tonios <%sEV_QUE_NAME4>!"
+  },
+  "119": {
+    "<attr><feel_happy_lv1><end_attr>どこか遠くから|包丁や　フライパンの|激しい音が　聞こえる……。|<br>|そして　１時間後……": "<attr><feel_happy_lv1><end_attr>Somewhere in the distance, I can hear the|racket of knives and frying pans... And an|hour later..."
+  },
+  "120": {
+    "「おお　<kyodai>。|　俺が頼んだ調味料を　持ってきてくれたのか？|　どれどれ……|<br>|「うーむ。どうやら　それらしいものは|　持っていないようだな。|<br>|「探してきてほしいのは　たとえば|　呪文を使うような連中が　好む調味料だ。|　難しいかもしれないが　どうか頼んだぞ！<open_irai>": "oh!<kyodai>I'm sorry. Did you bring me the condiments I|asked for? Let's see... ... Apparently, I|don't have anything like that. I need you to|<br>|find me something that spellcasters like. I|know it's a lot to ask, but I'm counting on|you.<open_irai>"
+  },
+  "121": {
+    "「おお　<kyodai>。|　俺が頼んだ調味料を　持ってきてくれたのか？|　どれどれ……|<br>|「むうっ！？　その　<%sEV_QUE_NAME4>は|　いかにも賢くなりそうな　ニオイがするな……。|　頼む。それを　俺に渡してくれないか？<yesno><break>": "oh!<kyodai>I'm sorry. Did you bring me the condiments I|asked for? Let's see... Hmph! That|<%sEV_QUE_NAME4> smells like it's about to|<br>|get smarter... ... Can you hand it over to|me, please?<yesno><break>"
+  },
+  "122": {
+    "<attr><feel_happy_lv1><end_attr>「ありがとう　<kyodai>。|　では　これで料理を作ってみよう。|　しばらく　ここで　待っていたまえ。": "<attr><feel_happy_lv1><end_attr>Thank you<kyodai>I'm sorry. I'll use this to cook... I'll wait|here for a while..."
+  },
+  "123": {
+    "<attr><feel_happy_lv1><end_attr>「待たせたな　<kyodai>。|　気まぐれ戦士の　魔法使い風あんかけ焼き飯だ。|　では　食べてみよう。|<br>|「ぬっ！　これは……　まるで山の清流が|　頭の中を洗い清めるような　天上の味わい……|　今なら　いくらでも勉強ができる気がするぞ！|<br>|「ありがとう　<kyodai>！|　この料理ならきっと　ナルビアのお母さんたちも|　納得してくれるだろう！　キミのおかげだ。|<br>|「おっと　約束だったな。|　これからは　<kyodai>の料理戦士として|　いつでも呼びたまえ。助けになるぞ。": "<attr><feel_happy_lv1><end_attr>Sorry I kept you waiting<kyodai>I'm sorry. I'll take it... Let's eat... What?|This is... It's as if the clear water of the|mountains washed over my head... I feel like|<br>|I can study as much as I want right now!|Thank you.<kyodai>I'm sure the mothers of Narvia would agree.|I'm sure the mothers of Narrubia will agree|with me on this one! Your... I promise...|<br>|From now on...<kyodai>As a culinary warrior of the U.S. Army, I am|at your service. To help..."
+  },
+  "124": {
+    "「なんだ　別の用事に　使うモノなのか？|　それなら　しかたがないな。": "What, you're using it for something else? If|that's the case..."
+  },
+  "125": {
+    "<attr><feel_happy_lv1><end_attr>「<kyodai>には　いい調味料を教えてもらい|　とても　感謝している。|<br>|「これからはキミも　この町のよい子たちのように|　俺を　頼りにしてほしい。|　食べたい料理があったら　いつでも言いたまえ。": "<attr><feel_happy_lv1><end_attr><kyodai>I'm very grateful to you for your help in|finding the right seasoning... From now on,|you can count on me, just like all the other|<br>|good kids in this town... If there's anything|you want, just let me know..."
+  },
+  "126": {
+    "<attr><feel_happy_lv1><end_attr>「町の子供たちと　食の安全を守るのが|　料理戦士たる者の　つとめ。|　今日も　町は平和なようで　なによりだ。|<br>|「このナルビアは　俺の心の故郷のようなもの。|　こうして　立ち寄ってくれる　<kyodai>には|　心から　感謝しているぞ。": "<attr><feel_happy_lv1><end_attr>Protecting the children of this town and food|safety is what a culinary warrior is all|about. Today, the town seems to be at peace.|<br>|What... This place, Narrubia, is like a home|to me. I'm glad you stopped by.<kyodai>I'd like to thank you..."
+  },
+  "127": {
+    "<attr><feel_happy_lv1><end_attr>「あ！　あなたが　<kyodai>さんですか？|　僕は　レベル１０の魔法使い　クディンです。|　じつは　僕も流れ者なんですよ。てへへ。|<br>|「この町に来たとき　師匠から　あずかっていた|　<%sEV_QUE_NAME4>を　なくしたらしくて……。|　……そうだ　<kyodai>さん　お願いです！|<br>|「新しく　<%sEV_QUE_NAME4>を作って|　持ってきてくれませんか？　持ってきてくれたら|　<kyodai>さんの旅に　お供しますから！": "<attr><feel_happy_lv1><end_attr>Ah! You.<kyodai>I'm a level 10 wizard. I'm Cudi, a level 10|wizard... I'm actually a drifter myself.|...... When I first came to this town, my|<br>|master had given me <%sEV_QUE_NAME4>, but I|seem to have lost it. ... That's right.<kyodai>Please, sir! Can you create a new|<%sEV_QUE_NAME4> and bring it to me? If you|bring it to me<kyodai>I will accompany you on your journey!"
+  },
+  "128": {
+    "<attr><feel_happy_lv3><end_attr>「ホントですか！？　ふー。助かったー。|　師匠に会ったとき　なくしたって言ったら|　ボコボコにされるところでした。|<br>|「師匠は　かなりの　お年寄りなんで|　<%sEV_QUE_NAME4>が　新しくなっても|　どうせ　気づかないから　大丈夫ですよ。|<br>|「じゃあ　お願いしますね　<kyodai>さん！|　僕は　ここで　待ってますから。": "<attr><feel_happy_lv3><end_attr>Are you sure? Help... If I told Master I lost|it when I met him, he'd beat me up... Master|is very old, so even if <%sEV_QUE_NAME4> is|<br>|new, he won't notice it anyway. I'll leave it|to you then.<kyodai>I'll wait here. I'll wait here..."
+  },
+  "129": {
+    "「ホントですか！？　でも　<kyodai>さん|　他の人からも　たくさん　お願いごと|　されてるんじゃないですか？|<br>|「僕は　もうちょっと|　この辺りを　探してますから|　その用事がすんだら　また来てください。": "Are you sure? But...<kyodai>I'm sure you're getting a lot of requests|from other people, aren't you? I'll be|looking around a bit more, so please come|<br>|back when you're done..."
+  },
+  "130": {
+    "<attr><feel_sad_lv1><end_attr>「そんなぁ。|　<kyodai>さんだけが　頼りだったのにー！|<br>|「しょうがない。|　もうちょっと　この辺りを探してみます。": "<attr><feel_sad_lv1><end_attr>そ...<kyodai>You're the only one I could count on! Shou...|We'll have to look around a bit more."
+  },
+  "131": {
+    "<attr><feel_happy_lv1><end_attr>「<kyodai>さんが　錬金術師で|　本当に　よかったー。|<br>|「<%sEV_QUE_NAME4>を　なくしたなんて|　正直に　師匠に言ったりしたら|　どうなることか……。|<br>|「僕は　ここにいますから|　<%sEV_QUE_NAME4>が　用意できたら|　教えてくださいね！<open_irai>": "<attr><feel_happy_lv1><end_attr><kyodai>I'm really glad you're an alchemist... I|don't know what would happen if I honestly|told my master that I lost <%sEV_QUE_NAME4>.|<br>|I'll be here, so please let me know when|<%sEV_QUE_NAME4>is ready!<open_irai>"
+  },
+  "132": {
+    "<attr><feel_happy_lv1><end_attr>「あっ　<kyodai>さん！|　さては　<%sEV_QUE_NAME4>を|　僕に　持ってきてくれたんですね？|<br>|「ふー　よかった～。|　では　さっそく　もらっちゃってもいいですか？<yesno><break>": "<attr><feel_happy_lv1><end_attr>oh!<kyodai>Mr. K! So you brought me <%sEV_QUE_NAME4>,|huh? Oh, good... So can I have it right away?<yesno><break>"
+  },
+  "133": {
+    "<attr><feel_happy_lv1><end_attr>「うんうん！　これぞ　まさしく|　僕の探していた　<%sEV_QUE_NAME4>です！|　ありがとうございます　<kyodai>さん！|<br>|「……あれ？　でも　思ってたより　キレイだな。|　師匠から　あずかっていたのは|　もっと　ボロボロだったんですよねぇ……。|<br>|「こんな新品の　<%sEV_QUE_NAME4>じゃ|　師匠も　さすがに　気づいちゃうかな……。|<br>|「そうだ！　お約束した通り|　<kyodai>さんの旅に　おつきあいすることで|　こいつを　ボロボロにしてやりますよ！": "<attr><feel_happy_lv1><end_attr>Yeah, yeah! This is exactly what I've been|looking for, <%sEV_QUE_NAME4>! Thank you very|much.<kyodai>Three! ... What? But it's nicer than I|expected... The one Master gave me was more|beat up than this... I wonder if Master would|<br>|notice a brand-new <%sEV_QUE_NAME4> like|this... That's right! As I promised...<kyodai>I'll rip this guy to shreds by accompanying|you on your journey!"
+  },
+  "134": {
+    "<attr><feel_sad_lv1><end_attr>「そんなぁ。|　こんなに　困っているのに……。|　人助けだと思って　どうか　お願いします！": "<attr><feel_sad_lv1><end_attr>So... I'm in so much trouble... Please think|of it as helping others. Please!"
+  },
+  "135": {
+    "<attr><feel_happy_lv1><end_attr><kyodai>は　クディンに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_happy_lv1><end_attr><kyodai>has given Kudrin <%sEV_QUE_NAME4>!"
+  },
+  "136": {
+    "<attr><feel_happy_lv1><end_attr>「かなりの　お年寄りとはいえ|　こんな新品の　<%sEV_QUE_NAME4>じゃ|　師匠も　さすがに気づくだろうなぁ……。|<br>|「でも　<kyodai>さんの旅に|　おつきあいしていれば|　こいつも　自然とボロボロになりますよね！|<br>|「もし　正直に　なくしたなんて言ったら|　師匠に　何をされることか……。|　ヒィィ！　こわいこわい。|<br>|「……おっと　そうだ　<kyodai>さん。|　僕を　旅に連れだすときには|　酒場に行って　紹介してもらってくださいね。": "<attr><feel_happy_lv1><end_attr>Even though I'm quite old, I'm sure Master|will notice a brand new <%sEV_QUE_NAME4> like|this... But<kyodai>I've been following you on your travels, and|I'm sure this thing will naturally get torn|up! If I honestly told you I lost it, what|<br>|would Master do to me... Heee! Scary... I'm|scared... Oh, right...<kyodai>If you want to take me on a trip, go to a|tavern and ask to be introduced. When you|take me on a trip, go to a tavern and ask to|<br>|be introduced..."
+  },
+  "137": {
+    "<attr><feel_happy_lv1><end_attr>「町の外に出たら　合流しますね～。|　師匠から　教わった呪文で|　<kyodai>さんを　サポートしますよ！|<br>|「あと　もらった　<%sEV_QUE_NAME4>は|　ちゃーんと　使ってますよ。|<br>|「師匠の顔を　思い浮かべて　使ってると|　なんだか自然と　ボロボロに|　なっていくんですよねぇ。なんでだろ？": "<attr><feel_happy_lv1><end_attr>We'll meet up with you when we get out of|town... With a spell I learned from my|master.<kyodai>I'll support you, sir! Also, please use the|<%sEV_QUE_NAME4> you received... When I use|it with my master's face in mind, it|<br>|naturally starts to fall apart... Why is|that?"
+  },
+  "138": {
+    "<attr><feel_normal_one><end_attr>「よう！　俺は　レベル１７の武闘家　ブルダル。|　泳ぎが得意な　ナイスガイだ！　ぐははは！|　この町のモンじゃねぇけど　よろしくな！|<br>|「ぶ　ぶぇ　ぶえっくしょーい！！|　ブルブル。おー　さみぃさみぃ。|　見ての通り　着るモンが　ねぇんだわ。|<br>|「俺はよ　自分の村の近くで　泳いでたんだ。|　そしたらよう　知らない間に|　なんでか　この町の岸に　着いちまってなー。|<br>|「あんときは　ちょっくら　ひと泳ぎって|　気分だったから　いつも着てる服とか|　全部　自分の家に　置いてきちまったわけよ。|<br>|「なぁ！　オマエ！！|　俺が　いつも着てる服と　くつを|　そろえて　持ってきてくれないか？|<br>|「俺が　愛用してる服と　くつは|　<%sEV_QUE_NAME4>と　<%sEV_QUE_NAME5>と|　<%sEV_QUE_NAME6>なんだわ！|<br>|「もし　全部　持ってきてくれたら|　オマエの旅に　ついていってやってもいいぞ！|　というか　風邪ひいちまうから　頼む！！": "<attr><feel_normal_one><end_attr>Hey! I'm a level 17 martial artist, Bu... I'm|a nice guy who can swim! Ha-ha-ha! I'm not|from this town, but it's nice to meet you!|<br>|Buh-bye! Bu... Oh, it's cold... As you can|see, I have nothing to wear... I was swimming|near my village... I was swimming near my|<br>|village... and somehow I ended up on the|shore of this town before I knew it... I was|in the mood for a quick swim, so I left all|<br>|my clothes at home... Hey! You! Can you bring|me the same clothes and shoes that I always|wear? My favorite clothes and shoes are|<br>|<%sEV_QUE_NAME4>, <%sEV_QUE_NAME5>, and|<%sEV_QUE_NAME6>! If you bring them all, I'll|even follow you on your journey! I mean, I'm|<br>|going to catch a cold, so please!"
+  },
+  "139": {
+    "<attr><feel_angry_lv1><end_attr>「本当か！？　ありがてぇ！|　帰る方角も　方法も　わかんねぇから|　帰りたくても　帰れなくて　困っちまってな！|<br>|「いいか　俺が　愛用してる服と　くつは|　<%sEV_QUE_NAME4>と　<%sEV_QUE_NAME5>と|　あと　<%sEV_QUE_NAME6>だ！|<br>|「このカッコのままじゃ|　風邪ひいちまうし　不審者に間違われちまう！|　頼む！　早く　持ってきてくれ！": "<attr><feel_angry_lv1><end_attr>Really? That's great! I didn't know where to|go or how to get home, so I couldn't go home|even if I wanted to! Listen, my favorite|<br>|clothes and shoes are <%sEV_QUE_NAME4>,|<%sEV_QUE_NAME5>, and <%sEV_QUE_NAME6>! I'll|catch a cold in these clothes and be mistaken|<br>|for a prowler! Please! Hurry up and bring it|to me!"
+  },
+  "140": {
+    "<attr><feel_angry_lv1><end_attr>「本当か！？　ありがてぇ！|　でも　オマエ　いろんな人から|　頼まれごと　されてるんじゃないか？|<br>|「それを　とっとと片付けてから|　また　俺んとこ　来てくれよ！　頼む！": "<attr><feel_angry_lv1><end_attr>Really? That's great! But you've got a lot of|people asking you for favors, don't you? Just|get it over with and then come back to me!|<br>|Please!"
+  },
+  "141": {
+    "<attr><feel_angry_lv3><end_attr>「なにっ！？　冷てぇなー！|　俺は　今　身体だけじゃなく|　心まで　凍えそうになったぜー。": "<attr><feel_angry_lv3><end_attr>What the hell? It's so cold! I'm not only|freezing my body, but my heart as well..."
+  },
+  "142": {
+    "<attr><feel_normal_one><end_attr>「ここまで　泳いできたとき|　着てる服とか　家に置いてきちまったんだ。|　オマエがいてくれて　助かったぜ。|<br>|「いいか　俺が　いつも着てる服と　くつは|　<%sEV_QUE_NAME4>と　<%sEV_QUE_NAME5>と|　あと　<%sEV_QUE_NAME6>だ！<open_irai><bw_break>": "<attr><feel_normal_one><end_attr>I left my clothes at home when I swam all the|way out here... I'm glad you're here. The|clothes and shoes I always wear are|<br>|<%sEV_QUE_NAME4>, <%sEV_QUE_NAME5>, and|<%sEV_QUE_NAME6>!<open_irai><bw_break>"
+  },
+  "143": {
+    "<attr><feel_normal_one><end_attr>「おーっ　<kyodai>！|　俺が愛用してる服を　持ってきてくれたのか？|　は　早く　渡してくれ！<yesno><break>": "<attr><feel_normal_one><end_attr>Ooh!<kyodai>Oh! You brought me my favorite clothes? Hurry|up and give it to me!<yesno><break>"
+  },
+  "144": {
+    "<attr><feel_happy_lv3><end_attr>「おー！　ありがてぇ　ありがてぇ！|　さっそく　着させてもらうぞ！<e_turn_dir_w>": "<attr><feel_happy_lv3><end_attr>Ooh! Thank you, thank you, thank you! I'll|put it on right away!<e_turn_dir_w>"
+  },
+  "145": {
+    "<attr><feel_happy_lv3><end_attr><turn_pc>「ああー！　あったけぇ！|　このカッコこそ　いつもの俺だ！|　ナイスガイ　ブルダル　ふたたび！　ぐははは！|<br>|「やっぱり　いつものカッコじゃないと|　調子出ねぇな！|　ありがとよ　<kyodai>！！|<br>|「恩人には　お礼を　しないとな！|　よし！　オマエの旅に　ついてってやるよ！|　これから　よろしくな！！": "<attr><feel_happy_lv3><end_attr><turn_pc>Aah! It's warm! This is what I've always|looked like! Nice guy, Mr. Bourdal, again!|Hahahaha! I'll never be good unless I'm|<br>|dressed like this! Thanks, man.<kyodai>Oh, my God! We owe him a debt of gratitude!|All right! I'll follow you on your journey!|I'll take care of you!"
+  },
+  "146": {
+    "<attr><feel_angry_lv3><end_attr>「渡してくれないのか！？　なんてこった！|　このままじゃ　風邪ひいちまうよ。|　ぶ　ぶえっくしょーい！！": "<attr><feel_angry_lv3><end_attr>You're not going to give it to me! Oh, my|God! I'll catch a cold if I don't... I'll|catch a cold..."
+  },
+  "147": {
+    "<attr><feel_normal_one><end_attr><kyodai>は　ブルダルに|愛用の服と　くつを　渡した！": "<attr><feel_normal_one><end_attr><kyodai>He gave Bourdal his favorite clothes and|shoes."
+  },
+  "148": {
+    "<attr><feel_happy_lv3><end_attr>ブルダルは　愛用の服と　くつを|装備した！": ""
+  },
+  "149": {
+    "<attr><feel_happy_lv3><end_attr>「愛用していた服と　くつを　持ってきてくれて|　感謝してるぜ　<kyodai>！|<br>|「俺　あのままじゃ　迷子で　不審者で……|　みっともねぇ男だったよな！　ぐはははは！": "<attr><feel_happy_lv3><end_attr>He brought me some of his favorite clothes and shoes| I appreciate it<kyodai>I'm lost. If I don't do something, I'll be|lost, I'll be suspicious... I'd be a real|mess! Hahahaha!"
+  },
+  "150": {
+    "<attr><feel_happy_lv3><end_attr>「おーっ！　<kyodai>！|　オレを　旅に連れだしている間は|　オマエが　しっかり　先導してくれよー！|<br>|「ちょっくら　泳いでて|　この町に　着いちまったのも|　俺の方向オンチが　原因だからな！　ぐははは！": "<attr><feel_happy_lv3><end_attr>Ooh!<kyodai>I'm sorry. While you're taking me on this|trip, you'll have to lead the way! It's|because of my lack of direction that we ended|<br>|up in this town after a short swim! Hahahaha!"
+  },
+  "151": {
+    "<attr><feel_think_lv3><end_attr>「ム！　……あなたは　錬金術師の|　<kyodai>サン　デスか？|　ワタシ　レベル１４の　武闘家　シエンです。|<br>|「<kyodai>サン　お願いデス！|　ワタシ　<%sEV_QUE_NAME4>　<%nEV_QUE_T_NUM4>個と|　<%sEV_QUE_NAME5>　<%nEV_QUE_T_NUM5>個　探してマス！|<br>|「田舎の村から出てきて　ホームシックなのデス。|　故郷で使っていた　それらのモノ　くれたら|　お礼に　旅のお供しマス！　お願いデス！": "<attr><feel_think_lv3><end_attr>M! ... You are the alchemist.<kyodai>Sun Desu? I'm a level 14 martial artist,|sire.<kyodai>Sun, please! I'm looking for <%sEV_QUE_NAME4>|<%nEV_QUE_T_NUM4> and <%sEV_QUE_NAME5>|<%nEV_QUE_T_NUM5>. I'm from a village in the|<br>|countryside, homesick... If you give me those|things you used back home, I'll return the|favor and accompany you on your journey!|<br>|Please!"
+  },
+  "152": {
+    "<attr><feel_happy_lv3><end_attr>「オー！　アリガトウ！|　都会の人も　意外と親切デスネ～。|　いっぱい頼んで　ゴメンナサイ。|<br>|「<%sEV_QUE_NAME4>を　<%nEV_QUE_T_NUM4>個と|　<%sEV_QUE_NAME5>を　<%nEV_QUE_T_NUM5>個|　故郷の村で　いつも　使ってました。|<br>|「それらがないと　ワタシ　元気出ない。|　では　<kyodai>サン　頼みマス！": "<attr><feel_happy_lv3><end_attr>Oh! Thank you! People in the city are|surprisingly kind... I'm sorry I asked for so|many... <I always use <%sEV_QUE_NAME4> and|<br>|<%sEV_QUE_NAME5> in my home village. I'm fine|without them. Okay.<kyodai>Sun, please!"
+  },
+  "153": {
+    "<attr><feel_happy_lv3><end_attr>「オー！　アリガトウ！|　……でも　<kyodai>サン|　お仕事　いっぱい　かかえてるみたいヨ。|<br>|「さすが　錬金術師サン　デス！|　<kyodai>サン　時間あるときに|　また　頼みマス。": "<attr><feel_happy_lv3><end_attr>Oh! Thank you! ... But...<kyodai>Sun, you've got a lot of work ahead of you.|As expected of an alchemist.<kyodai>I'll ask you again when I have time."
+  },
+  "154": {
+    "<attr><feel_think_lv3><end_attr>「アイヤー！　そうデスか……。|　残念デスが　しかたありません。|　でも　気が向いたら　お願いしマス。": "<attr><feel_think_lv3><end_attr>Aye! I see... It's a shame, but it can't be|helped... But when you're ready, please..."
+  },
+  "155": {
+    "<attr><feel_think_lv3><end_attr>「田舎の村を出て　人や建物　多い|　こんな都会に　来てしまうなんて……。|　オー！　故郷が恋しいデス。|<br>|「故郷の村で　いつも使ってたモノ　あれば|　ワタシ　元気出ると思うデスヨ～。|<br>|「<%sEV_QUE_NAME4>が　<%nEV_QUE_T_NUM4>個と|　<%sEV_QUE_NAME5>を　<%nEV_QUE_T_NUM5>個|　持ってきてください！　お願いしマスネ！<open_irai>": "<attr><feel_think_lv3><end_attr>I can't believe we're out of a rural village|and into a city with all these people and|buildings. Oh! I miss my home... I think I'd|<br>|feel better if I had the things I used to use|in my village. <Please bring me|<%sEV_QUE_NAME4> and <%sEV_QUE_NAME5>.|<br>|Please!<open_irai>"
+  },
+  "156": {
+    "<attr><feel_happy_lv3><end_attr>「アイヤー！　<kyodai>サン！|　頼んだモノ　持ってきてくれた　デスネ！|　ワタシに　ください！<yesno><break>": "<attr><feel_happy_lv3><end_attr>Aye!<kyodai>Sun! You brought me what I asked for, didn't|you? I'll have it!<yesno><break>"
+  },
+  "157": {
+    "<attr><feel_happy_lv3><end_attr>「オー　アリガトウ！！|　……<kyodai>サン　こんなにいっぱい|　何に使うか　不思議デスか？　ふふふー。|<br>|「じゃあ　教えてあげマス。|　待っててくださいネ～！<e_turn_dir_s>": "<attr><feel_happy_lv3><end_attr>Oh, thank you! ...<kyodai>Sun, do you ever wonder what all this stuff|is for? Hmm... Then tell me... Please wait|for me~!<e_turn_dir_s>"
+  },
+  "158": {
+    "<attr><feel_happy_lv3><end_attr><turn_pc>「ジャーン！|　これ　ワタシの村に伝わる　秘伝の薬湯デス！|<br>|「ワタシの村では　大人から子供まで|　朝　昼　晩　この薬湯　飲みマス。|　だから　みんな　とても強くて元気！|<br>|「ワタシ　村の中で　もっとも弱い……。|　だから　強くなろうと　決意して|　村を出て　修行の旅をしていマス！|<br>|「ここに来たときは　都会の荒波に|　負けそうになったデスが……|　故郷の味を思いだして　また元気になったヨ！|<br>|「<kyodai>サン！|　ご親切に　アリガトウございました。|　お約束守って　ワタシ　お供をしマス！": "<attr><feel_happy_lv3><end_attr><turn_pc>Ta-da! This is the secret medicinal bath of|my village! In my village, adults and|children alike drink this bath every morning,|<br>|noon and night. That's why everyone is so|strong and healthy! I'm the weakest in my|village... I'm the weakest in my village...|<br>|so I've decided to become stronger and leave|the village to train myself! When I first|came here, I was almost defeated by the rough|<br>|waters of the city, but... When I came here,|I was almost defeated by the rough and tumble|of the city, but then I remembered the taste|<br>|of home, and I felt better again.<kyodai>Sun! Thank you for your kindness. I'll keep|my word and accompany you."
+  },
+  "159": {
+    "<attr><feel_think_lv3><end_attr>「アイヤー！　<kyodai>サン！|　持っているのに　くれないデスか！|　都会の人は　冷たいんデスネ～……。": "<attr><feel_think_lv3><end_attr>Aye!<kyodai>Sun! I have it, but you won't give it to me!|People in the city are so cold..."
+  },
+  "160": {
+    "<attr><feel_happy_lv3><end_attr><kyodai>は　シエンに|<%sEV_QUE_NAME4>　<%nEV_QUE_T_NUM4>個と|<%sEV_QUE_NAME5>　<%nEV_QUE_T_NUM5>個を　渡した！": "<attr><feel_happy_lv3><end_attr><kyodai>gave Cien <%sEV_QUE_NAME4> <%nEV_QUE_T_NUM4>|and <%sEV_QUE_NAME5> <%nEV_QUE_T_NUM5>!"
+  },
+  "161": {
+    "<attr><feel_happy_lv3><end_attr>シエンは　<%sEV_QUE_NAME4>を　すりつぶし|熱した　<%sEV_QUE_NAME5>の中に入れた。": "<attr><feel_happy_lv3><end_attr>Sien milled <%sEV_QUE_NAME4> into the heated|<%sEV_QUE_NAME5>..."
+  },
+  "162": {
+    "<attr><feel_happy_lv3><end_attr>「故郷の村は　とても　山奥にありマス。|　ワタシ　道着だけで　村の外に放りだされ|　ひとりで　１ヵ月　野宿したこともありマス！|<br>|「その修行をしたのが　４歳のとき。|　小さかったから　大変だったヨ～！|　そのおかげで　すこしは　きたえられたデス。|<br>|「でも　ホームシックになるなんて|　ワタシ　まだまだ弱いデスネ～。|　もっと　いっぱい修行　必要と思いマス！|<br>|「<kyodai>サン！　修行の旅に行くときは|　酒場の人に　ワタシを　紹介してもらって|　一緒に　連れてってくださいネ！": "<attr><feel_happy_lv3><end_attr>My home village was deep in the mountains...|I was once thrown out of the village in just|my street clothes and camped out alone for a|<br>|month! I was four years old when I did this|training. I was so small, it was hard work!|It helped me get a little stronger... But I'm|<br>|still too weak to be homesick... I think I|need a lot more training!<kyodai>Sun! When you go on a training trip, please|ask the barman to introduce me and take me|with you!"
+  },
+  "163": {
+    "<attr><feel_angry_lv3><end_attr>「<kyodai>サン！|　秘伝の薬湯　飲みたくても|　飲んじゃ　ダメヨ～！|<br>|「ワタシの村の人以外が　飲むと|　三日三晩　腹痛に　襲われるという|　副作用があるらしいデス！": "<attr><feel_angry_lv3><end_attr><kyodai>Sun! Even if you want to drink the secret|medicinal water, don't drink it! I heard it|has the side effect of giving you stomach|<br>|pains for three days and three nights if|taken by anyone not from my village!"
+  },
+  "164": {
+    "<attr><feel_sad_lv3><end_attr>「ああ……お腹が　すいた……目がかすむ……。|　そこにいるのは……死神さんかい？|　あたいの短い人生も　もう終わりってことかな。|<br>|「レベル６の盗賊として　極道なマネをしてきたし|　天国に行けないってことは　わかっていたよ。|　でも　死神にも　情けってモンがあるだろ？|<br>|「死ぬ前に　大好物の　<%sEV_QUE_NAME4>を|　もう一度食べたいんだ。お願いだよ　死神さん。|　地獄でも　どこでも　ついていくさ。": "<attr><feel_sad_lv3><end_attr>Oh... I'm hungry... My eyes are blurry... Are|you there... Are you the Grim Reaper? My|short life is coming to an end... As a level|<br>|6 bandit, I've done some pretty nasty things,|and I know I'm not going to heaven... But|even the Grim Reaper has to be merciful,|<br>|right? Before I die, I want one more taste of|my favorite food... Please, Death... I'll|follow you anywhere, even to hell."
+  },
+  "165": {
+    "<attr><feel_happy_lv1><end_attr>「ありがとう　死神さん。|　<%sEV_QUE_NAME4>はね　ピリッとするけど|　妙に　後をひく味がするのさ。|<br>|「<%sEV_QUE_NAME4>さえ　食べられれば|　もう　この世に未練はないよ。": "<attr><feel_happy_lv1><end_attr>Thank you. Death. <%sEV_QUE_NAME4> is tangy,|but it has a strange aftertaste. As long as I|can eat <%sEV_QUE_NAME4>, I have no more|<br>|regrets in this world."
+  },
+  "166": {
+    "<attr><feel_sad_lv3><end_attr>「ありがとう　死神さん。|　でも　あんた　お迎えの仕事が多くて|　忙しいみたいだね。|<br>|「こんな　ご時世だから　景気がいいのかい？|　そりゃあ　うらやましいかぎりだけど|　あたいが死なないうちに　また来ておくれ。": "<attr><feel_sad_lv3><end_attr>Thank you. Death... But you seem to be busy|with all the pick-up jobs. Is the economy|booming in these times? I'm jealous of you,|<br>|but if you come back before I die..."
+  },
+  "167": {
+    "<attr><feel_sad_lv3><end_attr>「……やっぱり　死神ってやつは　冷たいねえ。|　最期のお願いも　聞いてもらえないとはね。": "<attr><feel_sad_lv3><end_attr>... I knew the Grim Reaper was cold... He|wouldn't even listen to my last request..."
+  },
+  "168": {
+    "<attr><feel_happy_lv1><end_attr>「死神のあんたは　知らないだろうけど|　<%sEV_QUE_NAME4>は|　あたいにとって　最高の珍味なのさ。|<br>|「<%sEV_QUE_NAME4>さえ　食べられれば|　もう　この世に未練はないよ。|　地獄でも　どこでも　ついていくさ。<open_irai>": "<attr><feel_happy_lv1><end_attr>You may not know it, Reaper, but|<%sEV_QUE_NAME4> is my greatest delicacy. As|long as I can eat <%sEV_QUE_NAME4>, I have no|<br>|more regrets in this world. I'll follow you|anywhere in hell...<open_irai>"
+  },
+  "169": {
+    "<attr><feel_happy_lv1><end_attr>「ああ……死神さんか。|　<%sEV_QUE_NAME4>を|　持ってきてくれたんだね。|<br>|「ありがとう　死神さん。|　あたいの　最期の食事に|　それを渡してくれるかい？<yesno><break>": "<attr><feel_happy_lv1><end_attr>Oh... Reaper... You brought me|<%sEV_QUE_NAME4>... Thank you, Death... Will|you give it to me for my last meal?<yesno><break>"
+  },
+  "170": {
+    "<attr><feel_happy_lv1><end_attr><turn_pc>「これが　あたいの最期のグルメか……。|　それじゃあ　いただくよ。|<br>|「……うぅん。独特の香りと　刺激的な味わい。|　まるで舌の上で　子猫が踊っているようだ。|　し　しかも……|<br>|「なんだか　元気が　わいてきた！|　まさか　<%sEV_QUE_NAME4>が　空腹にも|　効くなんて　知らなかったよ！　って……。|<br>|「あんた　よく見たら人間じゃないか！？|　いやあ　命の恩人さんを死神と間違えるなんて|　すまなかったね。|<br>|「あんたに　何かお礼をしたいけど……。|　そういえば　地獄でも　どこでも　ついていく|　なんて　言ったっけ。|<br>|「よし！　女盗賊ミュリネに　二言はないのさ。|　気が向いたら　酒場で紹介を受けておくれ。|　約束通り　あんたの旅に　ついていくよ。": "<attr><feel_happy_lv1><end_attr><turn_pc>So this is my last meal... Well, there you|go... ...... It has a unique aroma and a|pungent... It's like a kitten dancing on your|<br>|tongue... And it's... I'm feeling better now!|I didn't even know <%sEV_QUE_NAME4> could|help with hunger! I mean... You're a human|<br>|being, aren't you? I'm sorry I mistook the|man who saved my life for the Grim Reaper...|I wish I could do something to repay you,|<br>|but... Speaking of which, you said you'd|follow me anywhere in hell... Yes! I'll have|a word with the thief, Murine. If you feel up|<br>|to it, I'll be introduced at the tavern. And|as promised, I will follow you on your|journey..."
+  },
+  "171": {
+    "<attr><feel_sad_lv3><end_attr>「なんだい　じわじわ弱る　あたいを見て|　楽しもうっていうのかい？|　死神ってやつは　やっぱりイジワルだね。": "<attr><feel_sad_lv3><end_attr>What, are you going to enjoy watching me|slowly weaken? The Grim Reaper's a real pain|in the..."
+  },
+  "172": {
+    "<attr><feel_happy_lv1><end_attr><kyodai>は　ミュリネに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_happy_lv1><end_attr><kyodai>has given Murine <%sEV_QUE_NAME4>!"
+  },
+  "173": {
+    "<attr><feel_happy_lv1><end_attr>「今になって　思うと|　あんたと死神を　見間違えるなんて|　あたいは　ずいぶん　アブなかったんだね。|<br>|「そうそう　これからは　いつでも|　あんたの旅を手伝ってあげるから|　困ったときは　酒場で紹介を受けておくれ。": "<attr><feel_happy_lv1><end_attr>Now that I think about it, I was pretty|stupid to mistake you for the Grim Reaper...|From now on, I'll always be here to help you|<br>|on your travels, so if you're ever in|trouble, just ask at the tavern for a|referral..."
+  },
+  "174": {
+    "<attr><feel_happy_lv3><end_attr>「<%sEV_QUE_NAME4>　って|　クセがあるから　嫌いな人もいるけど|　ときどき　妙に食べたくなるんだよね。|<br>|「<kyodai>が　外に行く時は|　ちゃんと　あたいも合流するから　回復のときは|　<%sEV_QUE_NAME4>を　使っておくれよ。": "<attr><feel_happy_lv3><end_attr>Some people don't like <%sEV_QUE_NAME4>|because it's peculiar, but sometimes I have a|strange craving for it...<kyodai>But I'll join you when you go out, so please|use <%sEV_QUE_NAME4> when you recover..."
+  },
+  "175": {
+    "<attr><feel_think_lv3><end_attr>「ん？　お前さん　見ない顔だな。|　オレは　盗賊のケルビス。|　この町きっての　トレジャーハンターさ。|<br>|「へえ。お前さん　錬金術師なのか。|　自由きままに　旅してるなんて|　妻子持ちとしては　うらやましいかぎりだね。|<br>|「じつはオレ　ついさっき　旅から戻ったんだよ。|　だけど　ちょいと　困ったことがあって|　家に　帰りづらいのさ……。|<br>|「オレは風来坊だから　家を空けがちでね。|　たまには　カミさんに　プレゼントでもして|　ゴキゲンを取ろうと　お宝探しの旅に出たんだ。|<br>|「だけど　見つけたのは　ちからのゆびわさ。|　こんなモンあげたら　たたでさえ強いカミさんが|　もっと　おっかなくなっちまう。|<br>|「……そうだ。なあ　お前さん　錬金術師だろ？|　この　ちからのゆびわを　渡すから|　もっと　平和的なゆびわに　変えてきてくれよ。|<br>|「もちろん　タダでとは言わねえ。|　もし　いいゆびわが　できたら|　お前さんの旅を　オレが手伝う。どうだい？": "<attr><feel_think_lv3><end_attr>Hmm? I don't see you... I'm the bandit... The|town's best treasure hunter... Alchemist...|You're an alchemist... As a man with a wife|<br>|and child, I envy you your freedom to travel|at will... I've just returned from a trip...|But I'm having a little trouble getting home.|<br>|I'm a wanderer, so I can't leave the house. I|thought I'd give my wife a present to cheer|her up, so I went on a treasure hunt... But|<br>|all I found was a wisp of strength... If I|give her something like this, even if she's|strong, she'll become even more frightened...|<br>|...... You're an alchemist, aren't you?|You're an alchemist, right? I'll give you|this wand of power and you can go change it|<br>|into something more peaceful. Of course, I|don't want it for free. But if you can come|up with a better wand, then I can help you on|<br>|your journey. What do you think?"
+  },
+  "176": {
+    "<attr><feel_happy_lv1><end_attr>「おお　助かるよ。|　じゃあ　この　ちからのゆびわは|　お前さんに　あずけておくぜ。": "<attr><feel_happy_lv1><end_attr>Oh, thank you... Then I'll leave this wand of|power to you..."
+  },
+  "177": {
+    "<attr><feel_angry_lv1><end_attr>「……なに？　平和的なゆびわ　なんて言われても|　何を作ったらいいか　わからないだって？|　そいつは　困ったな。|<br>|「オレの息子の　シャルルなら　賢いから |　何か　わかるかもしれないが……|　あいつ　人ギライなんだよなぁ。": "<attr><feel_angry_lv1><end_attr>... What? You're telling me you don't know|what to make with a peace ring? That's a|problem... My son Charles is smart enough to|<br>|know what to do... He doesn't like people..."
+  },
+  "178": {
+    "<attr><feel_happy_lv1><end_attr>「おお！　助かるぜ……って|　お前さん　今　ちからのゆびわを|　渡されても　持てないみたいだな。|<br>|「何か　いらない装備品を|　売るか捨てるかして　持てるようにしてから|　また来てくれ。": "<attr><feel_happy_lv1><end_attr>Oh! Thanks for the help... Even if you gave|me the Staff of Power right now, I don't|think I could hold it... I'll sell or throw|<br>|away whatever equipment I don't need so I can|have it, then come back..."
+  },
+  "179": {
+    "<attr><feel_happy_lv1><end_attr>「おお！　助かるぜ……って|　お前さん　ずいぶん用事を|　ためこんでるんだな。|<br>|「もともと　オレの都合なんだし|　無理強いするわけにも　いかねえな。|　手が空いたときに　また来てくれ。": "<attr><feel_happy_lv1><end_attr>Oh! Thank you... You've been piling up a lot|of errands... I can't force you to do|something you don't want to do... I'll come|<br>|back when I'm free..."
+  },
+  "180": {
+    "<attr><feel_sad_lv1><end_attr>「ちぇっ　お前さんが　頼みの綱だったのによう。|　まあいいさ　オレは　ここにいるから|　気が変わったら　また来てくれよな。": "<attr><feel_sad_lv1><end_attr>Oh, man. You were my only hope. Anyway, I'll|be here, so if you change your mind, come|back..."
+  },
+  "181": {
+    "<attr><feel_happy_lv1><end_attr><kyodai>は　ケルビスから|ちからのゆびわを　受け取った！<se_nots System 7>": "<attr><feel_happy_lv1><end_attr><kyodai>I've just received a wand of power from|Kelvis!|<se_nots System 7>"
+  },
+  "182": {
+    "<attr><feel_happy_lv1><end_attr>「どうだ　<kyodai>。|　ちからのゆびわは　平和的なゆびわに|　錬金できそうか？<open_irai><bw_break>": "<attr><feel_happy_lv1><end_attr>How about that?<kyodai>I'm sorry. Is it possible to alchemize the|wand of power into a peaceful wand?<open_irai><bw_break>"
+  },
+  "183": {
+    "<attr><feel_happy_lv3><end_attr>「おお……。あのトゲトゲのゆびわが|　見るだけで　優しい気持ちになってくる|　平和的なゆびわに　なっているぜ！|<br>|「これなら　カミさんも　納得するだろう！|　ありがとうな　<kyodai>。|　さっそく　渡してくるぜ！": "<attr><feel_happy_lv3><end_attr>Oh... Just by looking at it, I can feel a|gentle, peaceful feeling. I'm sure your wife|will appreciate it. Thank you.<kyodai>I'll get it to you. I'll get it to you right|away!"
+  },
+  "184": {
+    "<attr><feel_happy_lv3><end_attr>「待たせたな！　<kyodai>。|　カミさんに　<%sEV_QUE_NAME4>を|　プレゼントしてきたぜ。|<br>|「あの平和的なゆびわを　つけさせたら|　たちまち　優しいカミさんになってくれたよ。|　さすが　<%sEV_QUE_NAME4>だ。|<br>|「お前さんの旅を　手伝うって話も|　文句は言いながら　許してくれたよ。|　それもこれも　<kyodai>の　おかげだな。|<br>|「そんなわけで　これからは　心おきなく|　<kyodai>に　ついて行って|　お宝を探すことにするぜ　よろしくな！": "<attr><feel_happy_lv3><end_attr>Sorry I kept you waiting!<kyodai>. Give her <%sEV_QUE_NAME4> as a gift... If|she wears that peaceful ring, she'll|instantly become a kind wife... As expected|<br>|of <%sEV_QUE_NAME>. She even agreed to help|you on your travels, though she complained|about it. That and this.<kyodai>I'm sorry. That's why, from now on, you can|relax.<kyodai>I'm going to follow you to the treasure hunt."
+  },
+  "185": {
+    "<attr><feel_sad_lv3><end_attr>「おぃい……いたいけな　オジさんに|　いじわるして　楽しいか？": "<attr><feel_sad_lv3><end_attr>Hey... Do you enjoy tormenting a naive old|man?"
+  },
+  "186": {
+    "<attr><feel_angry_lv3><end_attr><turn_pc>「なんだ　お前は？|　オレさまは　ふつうのヤツなんかに　用はない。|　さっさと出ていけ。|<br>|「……なに？　オレの父さんが|　家に帰りづらくて　困っているだと？|　どういうことだ　説明しろ。|<br>|「……ははぁ。ちからのゆびわか。|　まったく　手のかかる風来オヤジだな。|　ハンパなお宝ばかり　よく見つけてくるもんだ。|<br>|「しょうがないな。|　ほら。オレさま　とっておきのレシピ本だ。|　特別に　お前にくれてやる。": "<attr><feel_angry_lv3><end_attr><turn_pc>What the hell are you doing? I'm not here for|ordinary people. Let's get the hell out of|here. I'll... What? My dad's having trouble|<br>|getting home? I don't understand... ...... I|don't know... I don't know. I don't know...|I'm sorry... I... I've got a special|<br>|recipe... I have a special gift for you..."
+  },
+  "187": {
+    "<attr><feel_angry_lv3><end_attr>「……って　かばんが　いっぱいじゃないか！|　しかたのないヤツだな。|　かばんを空けてから　また来いよ。": "<attr><feel_angry_lv3><end_attr>... My bag is full! It's no use... I'll open|it, and then I'll..."
+  },
+  "188": {
+    "<attr><feel_angry_lv3><end_attr><turn_pc>「なんだ　また　お前か？|　もう　用は済んだだろ。|　オレさまは　忙しいんだ。|<br>|「あと　言っておくけどな。お前に協力したのは|　母さんのキゲンが悪いと　めんどくさいからだ。|　父さんに　余計なことを言うんじゃないぞ。": "<attr><feel_angry_lv3><end_attr><turn_pc>What, you again? We're done here. I'm busy...|And just so you know... I'm busy. And just so|you know... the only reason I'm helping you|<br>|is because my mom's in a bad mood, and she's|a pain in the ass... I've been busy."
+  },
+  "189": {
+    "<attr><feel_happy_lv1><end_attr><kyodai>は　ケルビスに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_happy_lv1><end_attr><kyodai>has given <%sEV_QUE_NAME4> to Kelvis!"
+  },
+  "190": {
+    "<attr><feel_angry_lv3><end_attr><kyodai>は|シャルルのレシピ本を　手に入れた！<me 61>": "<attr><feel_angry_lv3><end_attr><kyodai>got Charles's recipe book!<me 61>"
+  },
+  "191": {
+    "<attr><feel_happy_lv3><end_attr>「よう　<kyodai>。|　どこか　面白そうな洞くつは　ないか？|<br>|「オレは　トレジャーハンターだからな。|　お宝のある所に　行くなら|　ぜひ　誘ってくれよ。": "<attr><feel_happy_lv3><end_attr>be exalted<kyodai>I'm sorry. Do you know of any caves that|might be interesting? I'm a treasure|hunter... I'm a treasure hunter... and if you|<br>|want to go somewhere where there's treasure,|you should invite me."
+  },
+  "192": {
+    "<attr><feel_happy_lv3><end_attr>「<kyodai>のおかげで　怖かったカミさんも|　ちょっとは　オレのことを見直したみたいだぜ。|<br>|「うっかり　カミさんのキゲンが悪いときに|　家に帰ると　お説教されて　大変だけどな。": "<attr><feel_happy_lv3><end_attr><kyodai>Thanks to \"I'm a good person, I'm a good|person, I'm a good person, I'm a good person.|If I accidentally come home when she's in a|<br>|bad mood, she'll give me a lecture..."
+  },
+  "193": {
+    "<attr><feel_happy_lv3><end_attr>「ちょっと　聞いとくれよ。ウチの亭主ったら |　ひさしぶりに　帰ってきたと思ったら|　いきなり　プレゼントを持ってきたんだよ！|<br>|「あたしも亭主も　いいトシなのに |　子供の前で　恥ずかしいったらないさ。|　男は　いつまでも子供って　本当だねえ。|<br>|「……でも　そんな人だからこそ|　一緒になったのかもね。": "<attr><feel_happy_lv3><end_attr>Hey, listen... My husband hasn't been home in|a long time, and suddenly he brings me a|present! My husband and I are old enough to|<br>|be embarrassed in front of our children...|It's true that men will always be children.|But... But that's exactly why we're together."
+  },
+  "194": {
+    "<attr><feel_think_lv3><end_attr><turn_pc>「なんだ　また　お前か？|　父さんからの依頼は　うまくいったみたいだな。|<br>|「いつも　ささいなことで　ケンカしたかと思えば|　ああして　あっさり　仲直りだよ。|　ふたりとも　手がかかる夫婦で　困ったもんさ。": "<attr><feel_think_lv3><end_attr><turn_pc>What, you again? I think my father's request|went well... We're always fighting over the|slightest things, and then you do this... and|<br>|we just make up. You two are such a handful."
+  },
+  "195": {
+    "<attr><feel_happy_lv3><end_attr>「ん？　あんたが　錬金術師さん？　オレは|　ナスビナーラのモノマネをやってる　売れない|　旅芸人なんだけど　お願い聞いてくれる？|<br>|「じつは　ウチの娘に　女子のあいだで　はやりの|　アクセサリーを　買ってやりたかったんだけど|　オレの稼ぎじゃ　到底　ムリな話でさ。|<br>|「もし　あんたが　そのアクセサリーを|　持ってきてくれたら　レベル１０の旅芸人である|　このおっちゃんが　旅のお供をするよ。どう？": "<attr><feel_happy_lv3><end_attr>Hmm? You're the alchemist? I'm an|unsuccessful traveling entertainer who does|the Nasbinara impersonation, but can you do|<br>|me a favor? I wanted to buy my daughter a|piece of jewelry that's popular among girls,|but I can't afford it... If you bring me that|<br>|accessory, then this old man, a level 10|traveling entertainer, will accompany her on|her journey... What do you think?"
+  },
+  "196": {
+    "<attr><feel_happy_lv3><end_attr>「おおぅ！　ありがとー！|　だけど　カンジンの　そのアクセサリーが|　なんて名前か　忘れちゃったんだ……ごめん！|<br>|「でもでも　なにやら　それは　プルプルしてて|　カワイイお顔が　ついてるらしいよ。|<br>|「そのアクセサリーを　あんたに　錬金して|　持ってきてほしいな！|　おっちゃん　ここで待ってるから！": "<attr><feel_happy_lv3><end_attr>Ooh! Thank you! But I don't remember what|Kang-jin's accessory is called... Sorry! But|it looks like it's got a cute face on it... I|<br>|want you to alchemize that accessory and|bring it to me! I'll be waiting here!"
+  },
+  "197": {
+    "<attr><feel_happy_lv3><end_attr>「ありがとー！　……あれ？|　でもでも　あんた　他の人からの|　頼まれごとで　忙しいみたいだね。|<br>|「ヒマになったら　また　お願いするからさ。|　頼まれごと　ササッと|　片付けてきてちょうだいな。": "<attr><feel_happy_lv3><end_attr>Thank you! ... Huh? But it seems you're busy|with other people's requests... I'll ask you|again when I'm free... I'll ask you again|<br>|when I'm free."
+  },
+  "198": {
+    "<attr><feel_sad_lv3><end_attr>「やってくれないの！？　ショック！|　でもでも　あんたの気が変わるのを|　おっちゃんは　待ってるよ～。": "<attr><feel_sad_lv3><end_attr>You're not going to do it! I'm shocked! But|he's waiting for you to change your mind..."
+  },
+  "199": {
+    "<attr><feel_happy_lv3><end_attr>「<kyodai>ちゃん！|　頼んだもの　持ってきてくれたの～？|　どれどれ～？|<br>|「……んー　それっぽいものは　ないみたい。|　アクセサリーの名前は　忘れちゃったけど|　色は　たしか　青かったような……。<open_irai><bw_break>": "<attr><feel_happy_lv3><end_attr><kyodai>Hey! Did you bring me what I asked for~?|Let's see~? ... There's nothing like it... I|don't remember the name of the accessory, but|<br>|it was blue...<open_irai><bw_break>"
+  },
+  "200": {
+    "<attr><feel_happy_lv3><end_attr>「<kyodai>ちゃん！|　頼んだもの　持ってきてくれたの～？|　どれどれ～？|<br>|「お～！　この　<%sEV_QUE_NAME4>で|　間違いないよ！　そういや　こんな名前だった！|　これ……　もらっちゃってもいい？<yesno><break>": "<attr><feel_happy_lv3><end_attr><kyodai>Hey! Did you bring me what I asked for~?|Let's see~? Oh~! It's definitely this|<%sEV_QUE_NAME4>! Well, that's the name!|<br>|This... Can I have it?<yesno><break>"
+  },
+  "201": {
+    "<attr><feel_happy_lv3><end_attr>「サンキューね　<kyodai>ちゃん！|　じつは　女房の話によると　ウチの娘が|　お友達から　いじめられてたらしくてさ。|<br>|「はやりのアクセサリーを　持ってないからって|　ビンボー人！　ナスビナーラのムスメ！　って|　言われたらしくて　なんか申し訳なくってね。|<br>|「でも　これでもう　いじめられずにすむよ～。|　さっそく　あげてくる。絶対　よろこぶね！": "<attr><feel_happy_lv3><end_attr>Thank you<kyodai>Hey! According to my wife, my daughter is|being bullied by her friends... Just because|she doesn't have the latest accessory, she's|<br>|a pauper! Nasbinara's daughter! I'm so|sorry... But now I won't be bullied|anymore... I'll give it to her. I'm sure|<br>|she'll love it."
+  },
+  "202": {
+    "<attr><feel_happy_lv3><end_attr>「……<kyodai>ちゃん　ごめん。|　<%sEV_QUE_NAME4>は　もう　はやってないから|　いらないって言われちゃった……。|<br>|「そのかわり　今　はやってるのは|　ナスビナーラのモノマネなんだって……。|　つまり　そう！　オレのマネしてるの！！|<br>|「娘から　お父さん　すごいね！|　みんなが　お父さんのモノマネしてるよ！|　って言われちゃったよ……。|<br>|「むなしいやら　うれしいやら……|　なんだか　おっちゃん　よく　わかんない！|<br>|「でもでも　娘の笑顔が見れたから　充分だい！|　サンキュー　<kyodai>ちゃん。|　約束通り　あんたの旅に　付き合うよ！": "<attr><feel_happy_lv3><end_attr><kyodai>Girl... I was told that <%sEV_QUE_NAME4> is|no longer popular, so I don't need it...|Instead, what's popular now is the Nasbinara|<br>|imitation... That's right! You're imitating|me! My daughter said you're great! Everyone|is imitating you! That's what she said to me.|<br>|It's both frustrating and gratifying... I|don't know what's going on here. But I got to|see my daughter smile, so that's enough!|<br>|Thank you.<kyodai>... I'll follow your journey, as promised."
+  },
+  "203": {
+    "<attr><feel_sad_lv3><end_attr>「渡してもらえないの！？　ショック！|　でもでも　<kyodai>ちゃんの気が変わるのを|　おっちゃんは　しつこく待ってるよ～。": "<attr><feel_sad_lv3><end_attr>You're not going to give it to me! Shocking!|But...<kyodai>He waited patiently for you to change your|mind..."
+  },
+  "204": {
+    "<attr><feel_happy_lv3><end_attr><kyodai>は　ギザフに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_happy_lv3><end_attr><kyodai>has given Gisaf <%sEV_QUE_NAME4>!"
+  },
+  "205": {
+    "<attr><feel_happy_lv3><end_attr>「愛する　女房と娘のために|　舞台上では　自ら　道化になって　笑われる。|　旅芸人って職業に　誇りがあるんだい。|<br>|「でも　まさか　スベってたモノマネが|　こんなに　はやるとは|　おっちゃんも　予想外だったよ。|<br>|「それと　おっちゃんを　旅に連れてくときは|　酒場へ行って　紹介してもらってね。|　よろしく　<kyodai>ちゃん。": "<attr><feel_happy_lv3><end_attr>For the sake of my wife and daughter, who I|love dearly, I've taken to clowning around on|stage, laughing... I'm proud of my job as a|<br>|traveling entertainer. But I didn't expect|that my mimicry would become so popular. And|when you take him on a trip, go to a bar and|<br>|ask him to introduce you... Nice to meet you.<kyodai>..."
+  },
+  "206": {
+    "<attr><feel_happy_lv3><end_attr>「<kyodai>ちゃん！|　ナスビナーラの次は　オニオーンの|　モノマネしようと思ってるんだ～。|<br>|「次に　はやるのは　きっと　オニオーンだよ！|　旅に出たら　オニオーンを観察して|　もっともっと　芸の研究しなきゃね。|<br>|「じゃ　外へ出たら　おっちゃんも|　<kyodai>ちゃんの後に　ついてくよ。|　レッツゴー！": "<attr><feel_happy_lv3><end_attr><kyodai>Hey! After Nasbinara, I'm thinking of doing|an Onion impersonation... I'm sure the next|big thing will be the Onion! When we travel,|<br>|we'll watch the Onions and study their tricks|even more... You, too, when you get out.<kyodai>I'm going to follow you. Let's go!"
+  },
+  "207": {
+    "<attr><feel_normal_one><end_attr>「あら……？　ひょっとして|　あなたが　この町の錬金術師さん？<yesno><break>": "<attr><feel_normal_one><end_attr>Oh...? Are you by any chance the alchemist of|this town?<yesno><break>"
+  },
+  "208": {
+    "<attr><feel_normal_one><end_attr>「そう……。この町に住む　錬金術師さんが |　有能な方だと聞いて　来たのだけれど|　どうにか　お会いできないものかしら？": "<attr><feel_normal_one><end_attr>Well... I've heard that there's a very|talented alchemist who lives in this town,|and I was wondering if there was any way I|<br>|could meet him?"
+  },
+  "209": {
+    "<attr><feel_think_lv1><end_attr>「やはり　思ったとおりの方だわ。|　あなたが　有能な錬金術師と　うかがって|　この町まで　やってまいりました。|<br>|「お目にかかれて　光栄です。|　私は　旅芸人のアリシスと　もうします。|　世間では　闘獣の舞姫と　呼ばれていますわ。|<br>|「それというのも　私の得意とする技が |　凶暴な魔獣を　美しい舞いで　かわしながら倒す|　舞闘と　呼ばれるものだからなのです。|<br>|「その技が　評判となり　光栄にも|　今度　グランゼドーラの王宮で|　私の舞闘を　お見せすることになりました。|<br>|「ですが　数ある舞闘技の中でも|　特に難度の高い　七色の舞闘という技があり|　それには　<%sEV_QUE_NAME4>が必要なのです。|<br>|「そこで　あなたに会いにきたのですわ。 |　錬金術師さん　どうか　私のために|　<%sEV_QUE_NAME4>を　持ってきてください。|<br>|「もし　持ってきていただけるのなら |　あなたの旅に　お付き合いしますわ。|　どうか　引き受けていただけませんか？": "<attr><feel_think_lv1><end_attr>Just as I thought. I've come to this town|because I heard you're an accomplished|alchemist. It's a pleasure to meet you... I'm|<br>|Alyssis, a traveling entertainer. The world|calls me the Beast Dancer... I'm known as the|Beast Dancer because my specialty is the art|<br>|of dodging and slaying vicious monsters with|my beautiful dance moves. I'm honored to be|invited to perform at the Royal Palace in|<br>|Granzedorra. But of all the dances, there is|one that is particularly difficult, the Seven|Colored Dance, and it requires|<br>|<%sEV_QUE_NAME4>... That's why I've come to|see you... Alchemist, please bring me|<%sEV_QUE_NAME4>... If you will bring it, I|<br>|will accompany you on your journey... Would|you be so kind as to accept?"
+  },
+  "210": {
+    "<attr><feel_happy_lv1><end_attr>「引き受けていただけるのね。|　ありがとうございます。|　さすがは　この町で　名声を得ている方ですわ。|<br>|「王様に　舞闘をお見せするチャンスなんて|　なかなか　巡ってきませんもの。|　最高の技を　最高の形で　お見せしたいのです。|<br>|「それに……|　きっと　あの人も見ていてくれる……。|<br>|「では　華麗なる　<%sEV_QUE_NAME4>を|　お待ちしておりますわ　錬金術師さん。": "<attr><feel_happy_lv1><end_attr>Thank you for accepting. Thank you... As|expected of someone who's made a name for|himself in this town... It's not every day|<br>|you get the chance to show the King a|dance... It's not every day you get the|chance to show the King your skills... in the|<br>|best possible way. And... I'm sure he'll be|watching. And so, I await your magnificent|<%sEV_QUE_NAME4>, alchemy..."
+  },
+  "211": {
+    "<attr><feel_think_lv1><end_attr>「そうですか。|　でも今は　その気持ちだけで　充分。|　錬金術師さん……　お忙しいんでしょう？|<br>|「他の方からも　いろいろ頼まれごとを|　引き受けているみたいですもの。|　先にそちらを　片付けてきてはいかがです？": "<attr><feel_think_lv1><end_attr>I know. But for now, it's just a feeling...|Alchemist... You're busy, aren't you? I'm|sure you're busy. I'm sure you're taking care|<br>|of a lot of other things as well. Why don't|you go take care of that first?"
+  },
+  "212": {
+    "<attr><feel_think_lv1><end_attr>「そうですか……。|　錬金術師さんなら　やっていただけると|　思っていたのに　残念ですわ。|<br>|「でも　あなたを探して　ここまで|　来たのだから　私は　あきらめません。|　お気持ちが変わることも　あるでしょうし。": "<attr><feel_think_lv1><end_attr>I see... It's too bad... because I was hoping|that Alchemist would do it for me. But since|I've come this far in search of you, I'm|<br>|giving up... You may change your mind..."
+  },
+  "213": {
+    "<attr><feel_think_lv1><end_attr>「私の舞闘が　高い評判を得て |　ウワサを聞いた　グランゼドーラの王様に|　お招きいただけるなんて　光栄なことですよね。|<br>|「ですが　そこで披露すべき|　最も難しい技……　七色の舞闘には|　<%sEV_QUE_NAME4>が　欠かせないのです。<open_irai><bw_break>": "<attr><feel_think_lv1><end_attr>I'm honored to be invited by the King of|Granzedorra, who's heard so much about my|dancing... But the most difficult technique I|<br>|must perform there... The Seven Dances|require the use of <%sEV_QUE_NAME4>...<open_irai><bw_break>"
+  },
+  "214": {
+    "<attr><feel_think_lv1><end_attr>「錬金術師さん。<%sEV_QUE_NAME4>を|　持ってきてくださったようですね。|　さっそくですが　私に　いただけるかしら？<yesno><break>": "<attr><feel_think_lv1><end_attr>Alchemy... <%sEV_QUE_NAME4>... I was|wondering if I could have it?<yesno><break>"
+  },
+  "215": {
+    "<attr><feel_sad_lv3><end_attr>「あぁ　<%sEV_QUE_NAME4>……！|　これを見るのは　あの人が亡くなって以来だわ。": "<attr><feel_sad_lv3><end_attr>Oh, <%sEV_QUE_NAME4>...! I haven't seen this|since he died."
+  },
+  "216": {
+    "<attr><feel_sad_lv1><end_attr>「そう……。|　お持ちなのに　渡していただけないのね。|　あなたを信じていたのに　残念です。": "<attr><feel_sad_lv1><end_attr>Well... You have it, but you didn't give it|to me... I was trusting you, and then..."
+  },
+  "217": {
+    "<attr><feel_think_lv1><end_attr><kyodai>は　アリシスに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_think_lv1><end_attr><kyodai>has given <%sEV_QUE_NAME4> to Alysis!"
+  },
+  "218": {
+    "<attr><feel_think_lv1><end_attr>「最愛の夫を　失ったのに|　なぜ　危険な七色の舞闘を　やりつづけるのか？|　……人々は　私に　たずねますわ。|<br>|「ですが　七色の舞闘は　私にしかできません。|　夫と生みだし　ひとりで守ってきた　この技は|　もはや　私の命そのもの　なのですわ。": "<attr><feel_think_lv1><end_attr>Why do you continue to engage in the|dangerous Seven Color Dance after losing your|beloved husband? ... People have asked me...|<br>|But only I can perform the Seven Color Dance.|This skill that I created with my husband,|that I have protected alone, is now my very|<br>|life."
+  },
+  "219": {
+    "<attr><feel_think_lv1><end_attr>「向かう敵が　凶暴であればあるほど|　私の舞闘は　美しくなるようです。|　亡くなった夫が　そう言っていました……。|<br>|「命がけで　のぞむ　その気持ちが |　普通には得られない　かがやきを|　生みだすのかもしれませんね……。": "<attr><feel_think_lv1><end_attr>The more ferocious the enemy, the more|beautiful my dance becomes. That's what my|late husband used to say. Maybe it's that|<br>|feeling of risking one's life that creates a|glow that cannot be found in ordinary life."
+  },
+  "220": {
+    "<attr><feel_angry_lv1><end_attr>「私は　オルソー。レベル６の僧侶です。 |　ある日　私は　目覚めてしまったのです。|　やくそうの　フレーバーの魅力に……。|<br>|「そして　今まさに　香りを楽しみたいのが|　上やくそうよりスゴイ　やくそう界のエンペラー|　その名も　<%sEV_QUE_NAME4>です！|<br>|「お願いですっ！　<%sEV_QUE_NAME4>を |　持ってきてくださいませんか？|　旅だって　なんだって　手伝いますから！": "<attr><feel_angry_lv1><end_attr>I'm O... A level 6 monk... One day, I woke|up... I'm fascinated by the flavors of|yakuso. And now, I want to enjoy the scent of|<br>|an emperor of the Yakuso world who's even|better than Yakuso, and whose name is|<%sEV_QUE_NAME4>! Please! Can you bring|<br>|<%sEV_QUE_NAME4> to me? I'll travel and help|you with anything!"
+  },
+  "221": {
+    "<attr><feel_happy_lv3><end_attr>「ああ　神様　精霊様　<kyodai>様！|　あなたに　出会えた|　今日という日に　感謝いたします！|<br>|「ではでは　さっそく|　<%sEV_QUE_NAME4>を　持ってきてください。|　私は　ここで　お待ちしておりますので！": "<attr><feel_happy_lv3><end_attr>Oh, God Oh, Spirit<kyodai>Thank you! I'm so grateful to have met you|today! Now, if you could please bring me|<%sEV_QUE_NAME4>... I'll be waiting for you|<br>|here!"
+  },
+  "222": {
+    "<attr><feel_angry_lv1><end_attr>「ああっ　お言葉はありがたいのですが|　あなたから　依頼を受けすぎているような|　すえた香りが　いたしますよ！|<br>|「依頼を片付けて　もうちょっと|　マイルドな香りになることを　オススメします。": "<attr><feel_angry_lv1><end_attr>Thank you for your kind words, but you smell|like you're taking on too many requests. I|recommend you take care of your requests and|<br>|become a milder scent..."
+  },
+  "223": {
+    "<attr><feel_sad_lv1><end_attr>「そうですか……。|　<%sEV_QUE_NAME4>なんて　セレブな香り|　私には　夢のまた夢ですよね。": "<attr><feel_sad_lv1><end_attr>I see... <%sEV_QUE_NAME4>such a celebrity|scent, I can't even dream of..."
+  },
+  "224": {
+    "<attr><feel_angry_lv1><end_attr>「<%sEV_QUE_NAME4>は　鼻の中で|　どんな　トレビアンフレーバーを|　奏でるのでしょう……。|<br>|「考えただけで　ウットリします。|　ああっ　一刻も早く　<%sEV_QUE_NAME4>に|　顔を　うずめたいっ！<open_irai>": "<attr><feel_angry_lv1><end_attr>I wonder what kind of Trebian flavor|<%sEV_QUE_NAME4> would play in his nose...|Just thinking about it makes me swoon... I|<br>|want to put my face into <%sEV_QUE_NAME4> as|soon as possible!<open_irai>"
+  },
+  "225": {
+    "<attr><feel_happy_lv1><end_attr>「くん　くん……。この香りは……！？|　<%sEV_QUE_NAME4>を　お持ちですね！？|　さっそく　私に　渡してください！<yesno><break>": "<attr><feel_happy_lv1><end_attr>Kun, Kun... This scent... You have|<%sEV_QUE_NAME4>, don't you? Please give it|to me right away!<yesno><break>"
+  },
+  "226": {
+    "<attr><feel_happy_lv3><end_attr>「うーん　エクセレント！！|　まるで初恋のように　ウブでストイックな香りに|　私の鼻が　もぞもぞいたします！|<br>|「んー鼻が　もぞもぞ……？|　これは　なにかが……鼻の中に？|　ヒィッ！|<br>|「け　毛虫……！？|　うわあああああああああああああ……": "<attr><feel_happy_lv3><end_attr>Mmm, excellent! It's like a first love, so|naive and stoic, it makes my nose twitch!|Your nose is twitching...? There's|<br>|something... In my nose? Heee! A|caterpillar...? Ohhhh..."
+  },
+  "227": {
+    "<attr><feel_angry_lv1><end_attr>「もう　やくそうなんて　こりごりだ！|　二度と　持ち歩いたりするもんか！|　これからは　呪文の時代ですよね。|<br>|「お約束通り　あなたの旅を手伝いましょう。 |　私の回復呪文が　必要な時は|　酒場で　仲間に加えてくださいね！": "<attr><feel_angry_lv1><end_attr>I've had enough of this bullshit! I'll never|carry one of those around again! The age of|spells is upon us. As promised, I'm here to|<br>|help you on your journey. If you ever need my|healing spells, just join me in the tavern!"
+  },
+  "228": {
+    "<attr><feel_sad_lv1><end_attr>「そんな……！　今　まさに|　あなたから　息ができなくなるほど|　魅惑的な香りが　ただよってくるというのに！": "<attr><feel_sad_lv1><end_attr>Oh, no...! Right now, you're giving off a|scent so intoxicating that I can hardly|breathe!"
+  },
+  "229": {
+    "<attr><feel_happy_lv1><end_attr><kyodai>は　オルソーに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_happy_lv1><end_attr><kyodai>has given Orso <%sEV_QUE_NAME4>!"
+  },
+  "230": {
+    "<attr><feel_happy_lv3><end_attr>オルソーは　<%sEV_QUE_NAME4>の香りを|いっぱいに　吸いこんだ！": "<attr><feel_happy_lv3><end_attr>Orso inhaled the full aroma of|<%sEV_QUE_NAME4>!"
+  },
+  "231": {
+    "<attr><feel_think_lv1><end_attr>「いまだに　鼻の中に|　毛虫の感触が　消えないまま|　残っているんですよね……。|<br>|「そんな私で　よろしければ|　いつでも酒場から　仲間に加えてくださいね！": "<attr><feel_think_lv1><end_attr>I still have that caterpillar feeling in my|nose that won't go away... If it's all right|with you, please feel free to join me in the|<br>|bar!"
+  },
+  "232": {
+    "<attr><feel_think_lv1><end_attr>「いやあ　使ってみると |　回復呪文って　便利なものですね。|　私は　回復呪文の魅力に目覚めましたよ。|<br>|「<kyodai>さんが　外に行く時には|　ちゃんと　私も合流しますから|　回復は　まかせておいてくださいね！": "<attr><feel_think_lv1><end_attr>Well, I found recovery spells very useful...|I was awakened to the charms of recovery|spells...<kyodai>When you go out, I'll join you, so please|leave your recovery to me!"
+  },
+  "233": {
+    "<attr><feel_normal_one><end_attr><turn_pc>「…………あなたは|　運命というものを　信じる？<yesno><break>": "<attr><feel_normal_one><end_attr><turn_pc>... Do you believe in the idea of fate?<yesno><break>"
+  },
+  "234": {
+    "<attr><feel_normal_one><end_attr>「そう……。ロマンチストなのね。|　あなたなら　私の途方もない　おとぎ話を|　信じてくれるかしら……。": "<attr><feel_normal_one><end_attr>So... Romantic... I don't know if you'd|believe my wildest fairy tales."
+  },
+  "235": {
+    "<attr><feel_normal_one><end_attr>「そう……。リアリストなのね。|　でも　どうか　私の途方もない　おとぎ話を|　聞いてくださらないかしら……。": "<attr><feel_normal_one><end_attr>So... Realist... But I wonder if you'd be so|kind as to listen to my crazy fairy tale..."
+  },
+  "236": {
+    "「私は　モモナ……。僧侶よ。|　生まれた時から　不思議なチカラがあって|　夢の中で　人の運命が　見えてしまうの。|<br>|「そして　今　ひとりの人間が|　あらがいがたい運命によって|　死にゆこうと　しているわ……。|<br>|「でも　その人の運命は　変えられるの。|　大量の　<%sEV_QUE_NAME4>があればね。|<br>|「そう。あなたが頑張ってくれたら|　その人を　救うことができるかもしれない……。|　だって　あなたは錬金術師なのでしょう？|<br>|「ウフフッ。私　なんでも知っているの。 |　ねえ　お願い……。その　<%sEV_QUE_NAME4>を|　<%nEV_QUE_T_NUM4>本ほど　錬金して持ってきてくださる？|<br>|「もし……　その人を救ってくれたら|　必ず　私のチカラを　あなたにお貸しするわ。|　協力を　お願いできないかしら……。": "My name is Momona. ...... Ever since I was|born, I've had this strange power... to see|people's destinies in my dreams. And now a|<br>|man is dying of a fate he cannot control. But|you can't change his fate... There's a lot of|<%sEV_QUE_NAME4>... ... If you work hard, you|<br>|might be able to save him... Because you're|an alchemist, aren't you? I... I know|everything... Hey, please... Can you smelt me|<br>|a bottle or so of that <%sEV_QUE_NAME4> and|bring it to me? If... If you save that|person, I'll be sure to lend you my power.|<br>|I'd appreciate your help..."
+  },
+  "237": {
+    "「ウフフ。ありがとう　<kyodai>……。|　あなたって　夢に見た通りの　優しい方ね。|<br>|「あなたには　人の運命を|　変えるチカラがあるわ……。|　どうか　あの人を救ってあげて。": "... Thank you.<kyodai>... You're just as kind as I dreamed you'd|be. You have the power to change people's|destinies. Please save him..."
+  },
+  "238": {
+    "「あなたは　夢に見た通りの　優しい方ね。|　でもね　私　知っているの……。|　あなたの優しさは　時に身の破滅を呼ぶわ。|<br>|「人の願いを　そんなに背負い込んではダメよ。|　依頼が　すこし　片付いてから|　もう一度　会いにきてくださるかしら……。": "You're just as kind as I dreamed you'd be.|But I know... Sometimes your kindness can be|your undoing. You shouldn't be so burdened|<br>|with other people's wishes. I wonder if you'd|be so kind as to come and see me again after|you've finished your work."
+  },
+  "239": {
+    "「まあ……　どうしましょう。|　私の予知夢が外れるなんて　はじめてだわ……。": "Oh, my... What's wrong... This is the first|time my premonitions have come true."
+  },
+  "240": {
+    "<turn_pc>「あなたには　人の運命を|　変えるチカラがあるわ……。|　死にゆく人を　救うことができるの。|<br>|「そのために　必要なのは|　<%sEV_QUE_NAME4>　<%nEV_QUE_T_NUM4>本よ……。|　ゆめゆめ　忘れないでね……。<open_irai>": "<turn_pc>You have the power to change people's|destinies... You can save people from dying.|To do that, all you need is <%sEV_QUE_NAME4>|<br>|<%nEV_QUE_T_NUM4> a book... And don't you|ever forget...<open_irai>"
+  },
+  "241": {
+    "<turn_pc>「<kyodai>……。<%sEV_QUE_NAME4>を|　<%nEV_QUE_T_NUM4>本　集めてきてくれたのね……。|<br>|「夢の中で　一生懸命　錬金している|　あなたの姿を　見たわ……。ウフフ。|　さあ　渡してくださる？<yesno><break>": "<turn_pc><kyodai>... You've collected <%sEV_QUE_NAME4> for|<%nEV_QUE_T_NUM4>... In my dreams, I saw you|hard at work smelting them. ...... Will you|<br>|give it to me?<yesno><break>"
+  },
+  "242": {
+    "「あら……　いい出来ね……。|　清らかなチカラに　満ちているわ。|　これなら　破邪の道具として　申し分ない……。|<br>|「ありがとう　<kyodai>。|　じつは　死にゆく運命だと言った|　とある人を救うのは　これが最初ではないの。|<br>|「お馬鹿さんなのよ……　あの子は。|　こりずに　同じ死の運命を繰り返してしまう。|　そのたびに　私は　あの子の運命を変えてきた。|<br>|「<%sEV_QUE_NAME4>は　あの子を救うために|　毎回　たくさん　使い潰してしまうの。|　私には　とても調達しきれないほど……。|<br>|「だから　あなたを待っていたの。|　優秀な錬金術師である　<kyodai>をね。|　これで　しばらく　あの子の死を阻止できる。|<br>|「本当は　あの子に言い聞かせるのが|　いちばんなんだけど　私の言うことには|　耳を貸してくれないのよね……。|<br>|「ウフフ。あなたに出会えて　うれしいわ……。|　さあ　私のチカラを　あなたのために|　役立ててちょうだいね……。": "Well... Nice work. Full of pure power... It's|the perfect tool for the demon... Thank you.<kyodai>I'm sorry. In fact, it's not the first time|I've saved someone I said was doomed to|die... He's an idiot... Oh... You keep|<br>|repeating the same fate of death... And each|time, I change his fate... <%sEV_QUE_NAME4> I|use up so much each time to save her... More|<br>|than I could ever procure. That's why I'm|waiting for you. I'm an excellent alchemist.<kyodai>Yeah. It'll stop him from dying for a while.|The truth is, it's best to tell her, but she|won't listen to me... I'm... I'm so glad I|<br>|found you. Now, I hope you'll use my powers|for your benefit."
+  },
+  "243": {
+    "「あら……　おかしいわね……。|　私の夢では　あなたはもっと|　素直だったわ……。": "Oh... That's funny... In my dreams, you were|more straightforward."
+  },
+  "244": {
+    "<kyodai>は　モモナに|<%sEV_QUE_NAME4>を　<%nEV_QUE_T_NUM4>本　渡した！": "<kyodai>has given Momona <%sEV_QUE_NAME4> for|<%nEV_QUE_T_NUM4>!"
+  },
+  "245": {
+    "<turn_pc>「予知夢というのは　残酷なものよ……。|　私は　何度も何度も　嫌になるほど|　あの子が　死ぬ夢を見た……。|<br>|「泣いて　飛び起きて|　また眠って　同じ夢の繰り返し……。|　私は　自分の運命を呪ったわ。|<br>|「でも　いいの。このチカラのおかげで|　あの子の運命を　変えることができる……。|　私の夢は　あの子の夢を守っているの。": "<turn_pc>Premonitions are a cruel thing. I dreamt of|her dying over and over again, until I was|sick of it. I cry, I jump up, I fall asleep|<br>|again, and the dream repeats. I cursed my|fate... But... Thanks to this power, I can|change her fate... My dream is to protect her|<br>|dream..."
+  },
+  "246": {
+    "<turn_pc>「ウフフ……。どうやら　あなた|　あの　お馬鹿さんの頼みも|　聞いてくださったみたいね。|<br>|「もう　わかったでしょう？|　死の運命に　踊らされているのは|　私の双子の妹　ミミナなの。|<br>|「今の　あの子のチカラでは|　儀式で呼び出した　恐ろしい魔神に|　あっけなく　殺されてしまうのよね。|<br>|「でも大丈夫……。ミミナは　いつか|　本当に　世界一の魔女になれるわ。|　そのときまで　私が　あの子を守るの。|<br>|「……それが　私の夢よ。": "<turn_pc>Hmm... It seems you've done that idiot a|favor... Now you know, don't you? It's my|twin sister Mimi who's dancing to her death.|<br>|With her current strength, she'll be easily|killed by the horrible demon she summoned in|the ritual... But don't worry... One day,|<br>|Mimina will truly become the world's greatest|witch... I'll take care of her until then...|I... That's me..."
+  },
+  "247": {
+    "<turn_pc>「わしの名は　アイギス。レベル１８の僧侶よ！|　わしが　この町に来た理由は　ただひとつ……|<br>|「渚のピチピチギャルになって|　きゃっ！　イヤン　つめた～い<heart>　って|　波と　たわむれるためじゃ！|<br>|「なあ　<kyodai>。一生のお願いじゃ。|　<%sEV_QUE_NAME4>を作り　わしに恵んでくれ。|　かなえてくれたら　わしのチカラを貸すぞいっ？": "<turn_pc>My name is A... I am a level 18 monk! I've|come to this town for one reason and one|reason only... I came here for one reason and|<br>|one reason only... to be a spunky gal on the|beach! Iyan! It's so cold!<heart>To play with the waves! Hey.<kyodai>I'll be back. A lifelong wish...|<%sEV_QUE_NAME4> and give it to me...|<%EV_QUE_NAME4> and give it to me, and I will|<br>|help you."
+  },
+  "248": {
+    "<attr><feel_happy_lv3><end_attr>「ヒョホホ！　ありがたいのう！|　したらば　お前さんが戻るまで|　わしは　ここで服を脱いで待っとるでのっ！|<br>|「……というのは　ジョーダンじゃ<heart>|　わしが　脱ぎだす前に|　<%sEV_QUE_NAME4>を　頼んだぞい！": "<attr><feel_happy_lv3><end_attr>Hyo-ho-ho! Thank goodness! Then I'll wait|here with my clothes off until you return!|... That would be Jordan.<heart><%sEV_QUE_NAME4> before I take off my|clothes!"
+  },
+  "249": {
+    "<attr><feel_happy_lv1><end_attr>「ヒョホホ！　ありがたいのう！|　じゃがの……　お前さん|　依頼を　受けすぎておらんか？|<br>|「わしは　もうちょっとだけ|　がまんできるでの……うっうっ。|　他の依頼を　片付けてくるとええ。": "<attr><feel_happy_lv1><end_attr>Hyo-ho-ho! Thank goodness! But... You're|taking on too many requests, aren't you? I|can hold out a little longer. I'll go take|<br>|care of something else. I've got some other|business to attend to."
+  },
+  "250": {
+    "<attr><feel_sad_lv1><end_attr>「さようか……　残念じゃ。|　非常に　残念じゃ。": "<attr><feel_sad_lv1><end_attr>Goodbye... Remaining... Very much left..."
+  },
+  "251": {
+    "<attr><feel_happy_lv3><end_attr><turn_pc>「お前さんが　戻るまで|　わしは　ここで服を脱いで待っとるでのっ！|<br>|「……というのは　ジョーダンじゃ<heart>|　わしが　楽しみすぎて　脱ぎだす前に|　<%sEV_QUE_NAME4>を　頼んだぞい！<open_irai>": "<attr><feel_happy_lv3><end_attr><turn_pc>I'll be waiting here with my clothes off|until you get back! ... That's Jordan.<heart><%sEV_QUE_NAME4> before I get too excited and|start undressing!<open_irai>"
+  },
+  "252": {
+    "<turn_pc>「<kyodai>！！|　おお……　まさか　それは……|　お前さんが　手にしているものは……<bw_break>": "<turn_pc><kyodai>Oh! Oh... No, that's... What you're holding|in your hand...<bw_break>"
+  },
+  "253": {
+    "<attr><feel_happy_lv3><end_attr>「ヒョホホ！　この　きわどいライン！|　まさに　夢に見た　<%sEV_QUE_NAME4>じゃ！|　さっそく　波とたわむれてくるぞいっ！": "<attr><feel_happy_lv3><end_attr>Hee-hee! These are the tight lines! This is|the <%sEV_QUE_NAME4> I've been dreaming of!|I'm off to play with the waves!"
+  },
+  "254": {
+    "<attr><feel_sad_lv1><end_attr>「うっうっ……。|　わし　もう待ちきれんぞい。|　脱ぐぞい。": "<attr><feel_sad_lv1><end_attr>Ughhhh... I can't wait any longer... I'm|out..."
+  },
+  "255": {
+    "<attr><feel_angry_lv1><end_attr><kyodai>は　アイギスに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_angry_lv1><end_attr><kyodai>has given <%sEV_QUE_NAME4> to Aigis!"
+  },
+  "256": {
+    "<attr><feel_think_lv1><end_attr><turn_pc>「なんでじゃろうなあ。急に|　ふっと　むなしくなってしまったんじゃ。|<br>|「あんなに　渚のピチピチギャルに|　なりたかったのにじゃよ？|<br>|「修行して　おのれを見つめなおそうかのう。|　酒場で　せっせと　仲間にして|　旅に　連れだしてほしいぞい。": "<attr><feel_think_lv1><end_attr><turn_pc>I wonder why... Suddenly, I've become vain...|I've always wanted to be that spunky gal from|the beach. I'll train myself to look at|<br>|myself differently. I want you to join me in|the tavern and take me on a journey..."
+  },
+  "257": {
+    "<attr><feel_think_lv3><end_attr><turn_pc>「のう　<kyodai>。|　わしは　気づいたんじゃ。|<br>|「わしが　渚のピチピチギャルになれんのは|　もしかして　あぶない水着下が|　足りんかったからではないか……？": "<attr><feel_think_lv3><end_attr><turn_pc>brain<kyodai>I realized... I've realized... Could it be|that the reason I can't become the spunky gal|on the beach is because I didn't have enough|<br>|underwear for a risky swimsuit?"
+  },
+  "258": {
+    "<attr><feel_angry_lv1><end_attr><turn_pc>「ええと　悪夢の魔神の召喚に　必要なのは……|　ヘビのスープと　カエルの干物|　そして……　<%sEV_QUE_NAME4>だわ！|<br>|「あたしミミナ。世界一の魔法使いレベル１４よ。|　夢はもちろん　世界征服！　基本よねー。|　そのために　強力な使い魔を召喚したいわけ！|<br>|「でも　<%sEV_QUE_NAME4>が　足んないのよね。|　そこで！　錬金で作って持ってきてほしいの！|　やってくれたら　世界征服の仲間にしてあげる！": "<attr><feel_angry_lv1><end_attr><turn_pc>Well, to summon the nightmare genie, all you|need is... Snake soup, dried frogs, and...|<%sEV_QUE_NAME4>! I'm... I'm the world's|<br>|greatest wizard. I dream of world domination.|Basically... To do that, I need to summon a|powerful wizard! But I don't have enough|<br>|<%sEV_QUE_NAME4>... So! I want you to|alchemize it and bring it to me! If you do,|I'll let you join me in world domination!"
+  },
+  "259": {
+    "<attr><feel_angry_lv1><end_attr>「よーし　イイ返事ね！|　さあ　世界征服の片棒を　かつがせてあげるわ。|　存分に　実力を発揮するのよっ！|<br>|「あたしは　儀式の準備を進めておくから|　<%sEV_QUE_NAME4>　急いで持ってきてよね！": "<attr><feel_angry_lv1><end_attr>Okay, that's a good answer. Now let me help|you take over the world... Let's see what you|can do! I'll be preparing the rituals, so|<br>|hurry up and bring them to me!"
+  },
+  "260": {
+    "<attr><feel_angry_lv1><end_attr>「よーし　返事はイイわね！|　でも　あんた自体は　全然ダメ！|　他の人の依頼　受けすぎでしょー！|<br>|「世界征服を手伝うって時に|　よそ見してるなんて　ありえない！|　さっさと　片付けてきてよね。": "<attr><feel_angry_lv1><end_attr>Okay, that's a good response! But you're no|good at all! You take on too many other|people's requests! I'm trying to help you|<br>|take over the world, and you're looking the|other way! I'm gonna go clean this up."
+  },
+  "261": {
+    "<attr><feel_angry_lv3><end_attr>「なっ　なによー！|　ヘボ錬金術師なんて　最初から|　頼りにしてなかったんだから！　バカー！": "<attr><feel_angry_lv3><end_attr>What? ! I didn't count on you dumb alchemists|from the start! Baka!"
+  },
+  "262": {
+    "<turn_pc>「短剣って　魔法使いの儀式には欠かせない|　強い魔力を　秘めているのよね。|<br>|「その中でも　<%sEV_QUE_NAME4>には|　とんでもなく強い魔力があるって　聞くわ。|　まさに　悪夢の魔神の召喚に　うってつけね！|<br>|「あたし　ワクワクしてきたわ……！|　早く　<%sEV_QUE_NAME4>を|　持ってきてよね　<kyodai>！<open_irai>": "<turn_pc>Daggers are an essential part of any wizard's|ritual. They contain powerful magical powers.|Among them, <%sEV_QUE_NAME4> is said to have|<br>|the most powerful magic of all. It's perfect|for summoning the Demon God of Nightmares!|I'm starting to get excited... Hurry up and|<br>|bring me <%sEV_QUE_NAME4>.<kyodai>！<open_irai>"
+  },
+  "263": {
+    "<turn_pc>「魔法陣は　バッチリ描けたし|　特製の供え物も　いい感じに　おいしそう！|　きっと　悪夢の魔神も　小踊りして出てくるわ。<bw_break>": "<turn_pc>I got the magic circle just right, and the|offerings look delicious! I'm sure the demon|god of nightmares will be dancing his way|<br>|out...<bw_break>"
+  },
+  "264": {
+    "<attr><feel_happy_lv1><end_attr>「やるじゃない　<kyodai>！|　これで　召喚の儀式の準備が整ったわ。|　始めるわよ……！": "<attr><feel_happy_lv1><end_attr>You're good<kyodai>That's it! Now we're ready for the summoning|ritual... Let's get started."
+  },
+  "265": {
+    "<attr><feel_happy_lv1><end_attr>「地の底深くに潜む　悪魔の魂よ……。|　今ここに……　えっ？": "<attr><feel_happy_lv1><end_attr>The spirit of the devil that lurks in the|depths of the earth... Here and now... What?"
+  },
+  "266": {
+    "<attr><feel_angry_lv3><end_attr>「キャー！　なによ　危ないわねっ！|　ケガしたら　どうすんのよっ！": "<attr><feel_angry_lv3><end_attr>Oh, my God! That's dangerous! What if you get|hurt?"
+  },
+  "267": {
+    "<attr><feel_angry_lv3><end_attr>「ああ……もう！　魔法陣も　供え物も|　みんな　メッチャクチャだわ……！|　また　ジャマされちゃった……。|<br>|「あーあ。やんなっちゃう。|　じつは　この儀式　何度も失敗してるの！|<br>|「あたしが　召喚の儀式をするたびに|　ヤリで　魔法陣を　グッチャグチャにしてくれる|　おジャマ虫が　出るのよねー。|<br>|「なんの意図があるのか　知らないけど|　見つけだしたら　ギッタンギッタンの|　メッコメコにしてやるわ！|<br>|「仕方ないから　今日は　あんたを|　仲間にするくらいで　ガマンしておくわ。|　いつか　絶対　魔神を使い魔にするのよっ！": "<attr><feel_angry_lv3><end_attr>Oh, my... Oh, no! The magicians and the|offerings, they're all messed up. I'm in|trouble again. Oh... Oh no... The truth is|<br>|that this ritual has failed many times! Every|time I perform the summoning ritual there's a|bug that uses a lance to mess up the magic|<br>|circle. I don't know what your intentions|are, but if I find out, I'm going to beat you|to a pulp! I don't know what you're up to,|<br>|but I'm just going to let you be my companion|for today. Someday, I'll definitely turn you|into a demon!"
+  },
+  "268": {
+    "<attr><feel_angry_lv3><end_attr>「なによー　<kyodai>のバカー！|　あんたに頼んだ　あたしがバカだったわ！": "<attr><feel_angry_lv3><end_attr>What the hell?<kyodai>You idiot! It was stupid of me to ask you to|do this!"
+  },
+  "269": {
+    "<kyodai>は　ミミナに|<%sEV_QUE_NAME4>を　渡した！": "<kyodai>has given Mimina <%sEV_QUE_NAME4>!"
+  },
+  "270": {
+    "<attr><feel_happy_lv1><end_attr>ミミナは　しずかに|召喚の呪文を　唱えはじめた……。": "<attr><feel_happy_lv1><end_attr>Mimina quietly began to cast a summoning|spell..."
+  },
+  "271": {
+    "<attr><feel_happy_lv1><end_attr>その時　魔法陣めがけて|空から無数のヤリが　降りそそいだ！<se Joutyu_SE 49>": "<attr><feel_happy_lv1><end_attr>At that moment, countless spears rained down|from the sky, hitting the magic circle!<se Joutyu_SE 49>"
+  },
+  "272": {
+    "<turn_pc>「あーあ。早く　悪夢の魔神を召喚したいわ！|　そうしたら　チャチャッと世界征服して|　あたしが　世界一だって証明できるのに。|<br>|「そして　あたしを　いつも小バカにしてる|　いやみ～な双子の姉　モモナに|　余裕たっぷりに　こう言ってやるの！|<br>|「世界の半分をあげてもいいわ……ってね！|<br>|「それは　そうとして|　この　あたしに　用がある時は|　酒場から　呼びだしなさいよね！": "<turn_pc>... I can't wait to summon the demon god of|nightmares! Then I can take over the world|and prove that I'm the best in the world. And|<br>|then I can say to my obnoxious twin sister,|Momona, who's always making fun of me, that I|can afford to give her half the world. I'll|<br>|give you half the world... That's right!|That's right... if you need me... you'll have|to call me out of the tavern!"
+  },
+  "273": {
+    "<attr><feel_angry_lv3><end_attr><turn_pc>「ちょっと……　<kyodai>！|　あんた　あたしの双子の姉　モモナと|　仲良くしてるでしょー！？|<br>|「裏切り者ー！　だまされちゃダメよ！|　モモナは　あたしのカボチャプリンを|　勝手に食べちゃう　超性悪女なんだから！|<br>|「あたしより　チョビっと　早く|　生まれたからって　バカにしてー！|　絶対　モモナを　見返してやるわっ！|<br>|「それは　そうとして|　この　あたしに　用がある時は|　酒場から　呼びだしなさいよね！": "<attr><feel_angry_lv3><end_attr><turn_pc>It's just<kyodai>Hey! You're getting along with my twin|sister, Momona, aren't you? Traitor! Don't be|fooled! Momona is a very bad girl who eats my|<br>|pumpkin pudding without permission! Just|because you were born a little bit earlier|than me, you're making fun of me! I'm going|<br>|to make her pay for this! But that's all|right... if you have any business with me...|you'd better call me from the tavern!"
+  },
+  "274": {
+    "「オレの名は　グリオ。レベル１０の僧侶さ。|　ある困難な使命を　果たすため|　旅を続け　この町に　流れ着いたんだ。|<br>|「オレは　どうしても　<%sEV_QUE_NAME4>を|　手に入れなくちゃ　ならないんだ。|　あん？　ワケを教えろ？|<br>|「あんたにゃ理解できない　複雑な理由なの…さ。 |　もし　<%sEV_QUE_NAME4>を　作ってくれたら|　あんたの旅を手伝ってやる……ぜ。": "My name is... I am a level 10... I've been|traveling on a very difficult mission and|I've ended up in this town. I must get my|<br>|hands on <%sEV_QUE_NAME4>... Hmm? You want to|tell me why? It's too complicated for you to|understand. .... If you make me|<br>|<%sEV_QUE_NAME4>, I'll help you on your|journey. ...."
+  },
+  "275": {
+    "「あんたなら　受けると思ってたよ。|　それじゃ　頼んだぜ。|<br>|「いいか。作ってきてほしいのは|　<%sEV_QUE_NAME4>だ。間違えんなよ。": "I thought you might be able to... Well,|please... ... I need you to make me a|<%sEV_QUE_NAME... I made a mistake..."
+  },
+  "276": {
+    "「オイオイ　あんた|　消化できてない依頼が　山積みじゃねえか！|<br>|「やる気があんのは　いいが|　もうチョット　依頼を片付けてから|　来てくれよな！": "You've got a lot of unfinished business! It's|fine that you're motivated, but you'd better|come back after you've taken care of a few|<br>|more orders!"
+  },
+  "277": {
+    "「なんだよ　つれねーな。|　あんたにしか　頼めねえんだよ|　こんなこと……。": "What the hell... You're the only one I can|ask to do this..."
+  },
+  "278": {
+    "<attr><feel_angry_lv1><end_attr>「もうすぐ　<%sEV_QUE_NAME4>が|　手に入ると思うと　ゾクゾクしちゃう……ぜ！|<br>|「あんたのこと　頼りにしてるよ。|　とびきりキュートな　<%sEV_QUE_NAME4>を|　持ってきてくれよな。<open_irai>": "<attr><feel_angry_lv1><end_attr>The thought of getting <%sEV_QUE_NAME4> so|soon gives me the creeps... Yeah! I'm|counting on you... Bring me the cutest|<br>|<%sEV_QUE_NAME4> you've ever seen.<open_irai>"
+  },
+  "279": {
+    "<attr><feel_angry_lv1><end_attr>「アッ……　そりゃまさか|　<%sEV_QUE_NAME4>じゃねえの？|<br>|「さ　さあ　はやく　オレに|　<%sEV_QUE_NAME4>を　渡してよッ！<yesno><break>": "<attr><feel_angry_lv1><end_attr>Oh... Isn't that <%sEV_QUE_NAME4>? Come on,|quickly give me <%sEV_QUE_NAME4>!<yesno><break>"
+  },
+  "280": {
+    "<attr><feel_happy_lv3><end_attr>「キャ～　イヤ～ン<heart>|　なに　このスティック～！|　チョ～カワイ～イ～　たまんな～いッ<heart>|<br>|「……あら　ヤダ。|　つい　素が出ちゃったワ。|<br>|「ごめんなさい。隠していたけれど|　あたし　じつは　乙女心を秘めたメンズなの<heart>|　おわびに　あたしの旅の理由　教えてあげるッ！|<br>|「あたしね……魔法少女になるのが　夢だったの！|　私の中では　<%sEV_QUE_NAME4>は|　魔法少女のマストアイテムなのヨ。|<br>|「それを探す中で　あなたと運命的に出会ったの。|　ありがとうネ　<kyodai>……。|　地獄の果てまで　あたしを　お供させてネ<heart>": "<attr><feel_happy_lv3><end_attr>Oh, no!<heart>What's with the stick? It's so cute~ I love|it!<heart>... Oh, my... I was just being honest. I'm|sorry. I've been trying to hide it, but I'm|really a man with a girl's heart.<heart>As an apology, I'll tell you why I'm|traveling! You see... I've always wanted to|be a magical girl! In my mind,|<br>|<%sEV_QUE_NAME4> is a must-have item for|magical girls. And in my search for it, I met|you by fate. Thank you.<kyodai>... Let me accompany you to the ends of hell.<heart>"
+  },
+  "281": {
+    "<attr><feel_angry_lv1><end_attr>「ちょっ……　じらさないでくれよ！|　もう　待ちきれねえよ！": "<attr><feel_angry_lv1><end_attr>Hey... Don't make me wait! I can't wait any|longer!"
+  },
+  "282": {
+    "<attr><feel_angry_lv1><end_attr><kyodai>は　グリオに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_angry_lv1><end_attr><kyodai>gave <%sEV_QUE_NAME4> to Grio!"
+  },
+  "283": {
+    "<attr><feel_happy_lv3><end_attr>「あたし　この島に来たとき|　町の人たちに　アイサツしたのヨ。|　ハアイ<heart>　あたし　グリオ　ってね。|<br>|「お近づきのしるしに　ハグもしちゃった！|　そうしたら　悲鳴あげて　逃げられちゃってサ。|　だから　素の自分を抑えて　あなたに接したの。|<br>|「でも　これからはね　あなたに　あたしの|　ありのままの姿を　見てほしいの……<heart>|　ネッ　<kyodai><heart>|<br>|「あたしに　会いたくなったら|　すぐに　酒場から呼びだしてッ<heart>": "<attr><feel_happy_lv3><end_attr>When I first came to this island, I asked the|townspeople to... Haai.<heart>I'm Grio... I even gave him a hug as a sign|of my closeness. And then you screamed and|ran away... So I suppressed my true self and|<br>|treated you... But from now on... I want you|to see me as I really am.<heart>| No<kyodai><heart>| |If you ever want to see me| Get him out of the tavern now<heart>"
+  },
+  "284": {
+    "<attr><feel_happy_lv3><end_attr>「不思議……。<%sEV_QUE_NAME4>をにぎると|　なんだか　素直なあたしで　いられるの！|　心が　魔法少女になれるのッ！|<br>|「あとは　フリル満載なチュチュとか　着たら|　どこから見ても　キュートな魔法少女よネ！|　イヤ～ン　夢が広がっちゃう<heart>|<br>|「<kyodai>が　外に行く時には|　ちゃんと　あたしも合流するからッ！|　そして　あなたを　いやして　あ・げ・る<heart>": "<attr><feel_happy_lv3><end_attr>I wonder... When I hold <%sEV_QUE_NAME4>, I|feel like I can be honest with myself! I can|become a magical girl at heart! And if I wore|<br>|a tutu full of frills, I'd be a cute little|magical girl no matter where I looked! I|can't stop dreaming!<heart>| |<kyodai>Whenever you go out, I'll be there to join|you! And I'm going to make you feel better.<heart>"
+  },
+  "285": {
+    "<attr><feel_think_lv1><end_attr>「私の名は　モルフェス。|　時間にしばられない　レベル１８の魔法使いさ。|　生まれてから　数百年　色々なくつに出会った。|<br>|「私の古い友人たちが　人間の手で作られた|　とある　くつを　ご所望でね。|　<%sEV_QUE_NAME4>という名の　一品だ。|<br>|「そのくつを　君に作ってもらいたいんだ。|　お礼も　もちろんしよう。……そうだな。|　私が　君の旅を手伝うというのは　どうかな？": "<attr><feel_think_lv1><end_attr>My name is Mal... I'm a level 18 magician|with no time constraints. In the hundreds of|years since I was born, I've seen a lot of|<br>|shoes. Some old friends of mine have brought|me a pair of shoes made by human hands. They|are called <%sEV_QUE_NAME4>. I'd like you to|<br>|make them for me. And you can thank me at|....... So... How would you like it if I|helped you on your journey?"
+  },
+  "286": {
+    "<attr><feel_think_lv1><end_attr>「ありがとう。助かるよ　<kyodai>。|　この仕事をこなせる　錬金術師は|　君をおいて　他にいないと　考えているんだ。|<br>|「錬金のウデも　さることながら|　誰より　数奇な運命を　背負っている……|　そんな君が作る　くつを　楽しみにしているよ。": "<attr><feel_think_lv1><end_attr>There's... Thank you.<kyodai>I've been thinking. I believe you are the|only alchemist who can handle this task.|Aside from your skill as an alchemist, you|<br>|have a stranger fate than anyone else. I look|forward to the shoes you will make."
+  },
+  "287": {
+    "<attr><feel_think_lv1><end_attr>「くつは　一足しか　履けないものだ。|　人間の足は　二本しかないのだからね。|<br>|「それと同じで　ひとりの背負える仕事の数も|　おのずと　定まってくるものさ。|　他の依頼を　片付けた後に　また会おう。": "<attr><feel_think_lv1><end_attr>You can only wear one pair of shoes... We|only have two feet. Just like that, the|number of tasks one person can take on is|<br>|naturally fixed. I'll be back after I'm done|with the others."
+  },
+  "288": {
+    "<attr><feel_think_lv1><end_attr>「そうか。いずれまた　君のくつが|　君を　私のもとへと導くだろう。|　時間は　尽きぬほどあるんだ。気長に待つさ。": "<attr><feel_think_lv1><end_attr>... Sooner or later, your shoes will lead you|back to me. There's never enough time. Be|patient..."
+  },
+  "289": {
+    "<attr><feel_think_lv1><end_attr>「くつというものには　一足一足に|　物語が　用意されているのさ……。|　手にした人間は　その物語をたどってゆく。|<br>|「今回　君に錬金してもらう　くつは|　<%sEV_QUE_NAME4>という名の　一品だ。|　このくつには　どんな物語が　宿るのだろうね。<open_irai><bw_break>": "<attr><feel_think_lv1><end_attr>Every pair of shoes has its own story to|tell. The person who holds it will follow|that story... The shoes I'm going to have you|<br>|alchemize are named <%sEV_QUE_NAME4>. What|story will be told in these shoes?<open_irai><bw_break>"
+  },
+  "290": {
+    "<attr><feel_happy_one><end_attr>「やあ　<kyodai>……。|　どうやら　<%sEV_QUE_NAME4>の用意が|　できたようだね。|<br>|「さすがは　彼らの　お眼鏡にかなった |　運命の錬金術師だな。頼もしいよ。|　さあ　そのくつを　私にゆずってくれないか？<yesno><break>": "<attr><feel_happy_one><end_attr>Hi<kyodai>... Looks like <%sEV_QUE_NAME4> is ready...|That's what they call the alchemy of fate.|Please... Now, why don't you give me those|<br>|shoes?<yesno><break>"
+  },
+  "291": {
+    "<attr><feel_happy_one><end_attr>「見事な出来栄えだ。ありがとう　<kyodai>。 |　私の古い友人たちも　きっと満足するだろう。|　さあ　出ておいで　小さなくつ職人たちよ……。": "<attr><feel_happy_one><end_attr>Excellent work... Thank you.<kyodai>I'm sure my old friends will be pleased. I'm|sure my old friends will be pleased... Come|on out, you little shoemakers..."
+  },
+  "292": {
+    "<attr><feel_happy_one><end_attr>「これが　君たちの望んだ|　人間の手による　心づくしの　くつだ。|　持っていってくれ。": "<attr><feel_happy_one><end_attr>This is what you wanted... a human touch, a|thoughtful touch. Take it..."
+  },
+  "293": {
+    "<attr><feel_think_lv1><end_attr>「彼らは　妖精の　くつ職人たちさ……。 |　とても研究熱心でね。時折　人間が作った|　精巧なくつを求めて　私を　訪ねてくるんだよ。|<br>|「人間の作るくつは　愛や夢　欲望や絶望 |　色とりどりの物語を　持っているんだ。|　それは　妖精には　作りえないものなのさ。|<br>|「妖精たちは　君の物語に　感銘を受けたようだ。 |　さあ　数奇なる運命を背負った　錬金術師のため|　私の持てるチカラ　すべてを　お貸ししよう。": "<attr><feel_think_lv1><end_attr>They're fairy shoemakers. They're very|studious. From time to time, they would come|to me in search of the most exquisite pair of|<br>|human-made shoes. They have stories of love|and dreams and lust and despair and all sorts|of things. Stories that no fairy could|<br>|possibly create. The fairies were impressed|by your story. And now, for the sake of the|alchemists whose fate is so strange, I will|<br>|lend you all I have."
+  },
+  "294": {
+    "<attr><feel_think_lv1><end_attr>「そうか……。それほどの　見事な　くつだ。|　手放すのが　惜しくなっても|　仕方のないことだろうね。": "<attr><feel_think_lv1><end_attr>Well... It's such a beautiful... I can't|blame you for wanting to let it go."
+  },
+  "295": {
+    "<attr><feel_happy_one><end_attr><kyodai>は　モルフェスに|<%sEV_QUE_NAME4>を　渡した！": "<attr><feel_happy_one><end_attr><kyodai>passed <%sEV_QUE_NAME4> to Morpheus!"
+  },
+  "296": {
+    "<attr><feel_happy_one><end_attr>ふいに　辺りが暗くなり|小さな光が　飛び交いはじめた……。": "<attr><feel_happy_one><end_attr>Suddenly, the area went dark, and tiny lights|began to flit about..."
+  },
+  "297": {
+    "<attr><feel_happy_one><end_attr><%sEV_QUE_NAME4>は　光の中に|吸い込まれて　ゆっくりと消えていった……。": "<attr><feel_happy_one><end_attr><%sEV_QUE_NAME4> was sucked into the light,|and slowly disappeared..."
+  },
+  "298": {
+    "<attr><feel_think_lv1><end_attr>「妖精の　くつ職人たちは|　これまでに　歴史に足跡が残るような|　たくさんの魔法のくつを　作ってきたのさ。|<br>|「歩くだけで　幸せになれる　くつや|　妖精王の加護を受けた　不思議なくつなども|　彼らが　生み出したという話だ。|<br>|「さて……|　私のチカラが　必要な時は|　いつでも　酒場から　呼び出してくれ。": "<attr><feel_think_lv1><end_attr>The fairy shoemakers have created many|magical shoes that have left their mark on|history. Shoes that make you happy just by|<br>|walking, and magical shoes blessed by fairy|kings... that were created by them. Now... If|you ever need my help, you can always call me|<br>|from the tavern..."
+  },
+  "299": {
+    "<attr><feel_think_lv1><end_attr>「この地はいいね　<kyodai>。 |　どのくつも　皆　温かい音を　ひびかせている。|<br>|「……否応なしに　流れ着いてしまった君には|　複雑だろう。でも　うつむくことはないよ。|　君は今　ここで生きているんだ。|<br>|「数奇な運命を乗り越えてきた　君のくつが |　これからも　君を導いてくれるよ。": "<attr><feel_think_lv1><end_attr>This place is nice<kyodai>I'm sorry. All the shoes are making a warm|sound... ... It's complicated for you, you've|drifted here by choice... But you can't turn|<br>|your back on it. You're here now, alive...|You've overcome many strange fates, and your|shoes will continue to guide you."
+  },
+  "300": {
+    "「よくやった！　錬金名人！|　お前ほどの　錬金術師は　世界中|　どこを探しても　いないだろう。|<br>|「もう　オレが教えてやれることは　何もない。|　……今まで　よくがんばったな。|　オレは　お前を誇りに思うぜ！！|<br>|「金のほこらは　サザミレ草原の　はるか南方|　谷間の広場って場所にある。そのカギを使って|　ほこらの中にある　お宝を確かめてこい！": "Well done! Master alchemist! There's no|alchemist like you anywhere in the world.|There's nothing more I can teach you. I'm|<br>|sorry... You've worked so hard... I'm so|proud of you! The Golden Horn is in a place|called Valley Square, far south of Sazamire|<br>|Meadow. Use the key to find out what's in the|hollow."
+  },
+  "301": {
+    "「……むむむ。そうか。|　金のほこらには　今までとは|　比べものにならねえ強さの　魔物がいたか。|<br>|「……大丈夫だ。お前には　錬金術がある。|　町の強そうなヤツらに　お前の仲間に|　なってもらえばいい。がんばれよ　錬金名人！": "......... In the Golden Cairn, there's a|demon that's stronger than anything we've|ever seen. ... Great... Alchemy for you...|<br>|You'll need alchemy to get the strongest|people in town to join you... Good luck,|master alchemist!"
+  },
+  "302": {
+    "「……なに？|　金のほこらにいた　強い魔物を|　ブッ倒してきたって！？|<br>|「まさか　ホントに　やりやがるとは|　信じられねぇ……　っと　いや。|　今は　それどころじゃねえ！|<br>|「やい！　錬金名人！！|　そんな報告は　いらねえから　さっさと|　金のほこらにある　お宝を確かめてこい！！": "... What? You beat up a powerful demon in the|Golden Cairn? I can't believe he actually did|that... I don't know... This isn't the time|<br>|for that! I can't believe it! I can't believe|it! I don't need a report like that. So go|check out the treasure in the golden chests!"
+  },
+  "303": {
+    "<attr><feel_angry_lv3><end_attr>「だったら　とっとと　オレの錬金釜で|　上やくそうを　錬金しねえか！|　錬金術が使えねえなら　出ていきやがれ！|<br>|「レシピを覚えたなら　せんれきの|　『釜錬金レシピブック』から　確認できるだろ！|　必要な材料も　そこを見れば　わかるはずだ！": "<attr><feel_angry_lv3><end_attr>If that's the case, then why don't you just|use my alchemy pot to smelt some of the|higher potions! If you can't use alchemy,|<br>|then get out of here! If you've learned the|recipe, you can check it out in the Cauldron|Alchemy Recipe Book on the battlefield! You|<br>|should be able to find the ingredients you|need there!"
+  },
+  "304": {
+    "「だったら　さっさと　レシピを覚えろ！|　娘のことは　その後で話してやらあ！|<br>|「どうぐから　初級錬金学入門を　選んで使うと|　簡単なレシピが覚えられる。|<br>|「本は　レシピを覚えると　消えちまうが|　内容は　せんれきの『釜錬金レシピブック』から|　確認できる。必要な材料も　わかるはずだぞ！|<br>|「さあ　レシピを覚えて　オレの錬金釜で|　上やくそうを　錬金してみろ！|　本当に　やれるもんなら　やってみやがれ！": "Then you'd better learn the recipe! I'll tell|you about my daughter later! If you select|the Beginner's Guide to Alchemy from the|<br>|inventory, you can learn simple recipes...|The book will disappear after you learn the|recipe, but you can check the contents from|<br>|the Kettle Alchemy Recipe Book... I'm sure|you can find the ingredients you need. Now,|learn the recipe and use my smelting kettle|<br>|to smelt the Super Yakusou! If you really|think you can do it, go ahead and do it!"
+  },
+  "305": {
+    "<attr><feel_happy_lv3><end_attr>「<kyodai>。|　青のほこらの奥まで　行けたみたいね！|<br>|「じゃあ　これ……　私からのプレゼント！|　きっと　<kyodai>の役に立つから！": "<attr><feel_happy_lv3><end_attr><kyodai>It looks like we made it to the end of the|blue cave! Looks like we made it to the end|of the Blue Cairn! Then this... My gift to|<br>|you! I think.<kyodai>Because it's useful!"
+  },
+  "306": {
+    "「ルーラストーンは　魔力の宿った不思議な石で|　使うと　すぐに　この町に帰ってこられるわ。|　しかも　何度使っても　なくならないのよ。|<br>|「お母さんにもらった　形見なんだけど|　<kyodai>に　あげるわ！|　遠慮しないで　使ってね！": "The Zoomstone is a magical stone that will|bring you back to this town as soon as you|use it. And no matter how many times I use|<br>|it, it never runs out... It was given to me|by my mother.<kyodai>I'm giving it away! Don't hesitate to use it!"
+  },
+  "307": {
+    "「ルーラストーンは　魔力の宿った不思議な石で|　使うと　すぐに　この町に帰ってこられるわ。|　しかも　何度使っても　なくならないのよ。|<br>|「それと　サザミレ草原の西の　ポルネア山にある|　白　灰　黒の３つのほこらには　それぞれに|　おそろしい魔物が　棲みついているらしいの。|<br>|「それで……　もし　<kyodai>が|　白のほこらの魔物を倒せるくらい　強くなったら|　私の　お願いを　聞いてほしいな……。": "The Zoomstone is a magical stone that will|bring you back to this town as soon as you|use it. And no matter how many times you use|<br>|it, it never runs out... Also, on Mount|Pornea, west of Sazamire Meadow, there are|three caves, one white, one gray, and one|<br>|black, each inhabited by a horrible demon.|So... What if...<kyodai>When you're strong enough to defeat the demon|in the White Cairn, please do me a favor..."
+  },
+  "308": {
+    "<attr><feel_happy_lv3><end_attr>「すごいわ　<kyodai>！|　白のほこらの魔物を　倒しちゃうなんて！|<br>|「……うん。|　今のあなたになら　お願いできるわ！|　このカギを　受け取って。": "<attr><feel_happy_lv3><end_attr>Oh, my God<kyodai>I can't believe it! I can't believe I|defeated the demon in the White Cairn! .....|Now you can do it! Take this key..."
+  },
+  "309": {
+    "「そのカギで入れる　緑のほこらの洞くつの奥に|　灰のほこらのカギの材料になる　素材があるの。|<br>|「私　灰のほこらのそばで　呪いの霧をあびて|　メラゾ熱に　かかったんだ……。|　きっと　あのほこらに棲む魔物が原因だと思う。|<br>|「あと……　これも持っていって！|　きっと　<kyodai>の役に立つから！": "Deep in the cave of the Green Caves, which|can be accessed with the key, there is a|material that can be used to make the key to|<br>|the Ash Caves. I was exposed to a cursed mist|near the Ash Caves, and came down with melazo|fever... It's probably caused by the demon|<br>|that lives in that cave... Also... Take this|with you. I'm sure.<kyodai>Because it's useful!"
+  },
+  "310": {
+    "「ルーラストーンは　魔力の宿った不思議な石で|　使うと　すぐに　この町に帰ってこられるわ。|　しかも　何度使っても　なくならないのよ。|<br>|「お母さんにもらった　形見なんだけど|　<kyodai>に　あげるわ！|　遠慮しないで　使ってね！": "The Zoomstone is a magical stone that will|bring you back to this town as soon as you|use it. And no matter how many times I use|<br>|it, it never runs out... It was given to me|by my mother.<kyodai>I'm giving it away! Don't hesitate to use it!"
+  },
+  "311": {
+    "「あら……？　かばんが　いっぱいみたい……。|　かばんを空けたら　声をかけてね！": "Oh...? My bag seems to be full... Give me a|shout when you open it!"
+  },
+  "312": {
+    "<kyodai>は|ルーラストーンを　手に入れた！<me 60>": "<kyodai>I've got the Zoomstone!<me 60>"
+  },
+  "313": {
+    "<kyodai>は|緑のほこらのカギ（だいじなもの）を|手に入れた！<me 60>": "<kyodai>I've got the key to the green cave!<me 60>"
+  },
+  "314": {
+    "<kyodai>は|ルーラストーンを　手に入れた！<me 60>": "<kyodai>I've got the Zoomstone!<me 60>"
+  },
+  "315": {
+    "<attr><feel_happy_lv1><end_attr>「おっ！　その顔を見たところ|　頼んだゆびわを　錬金してきてくれたんだな？|　よし　オレに渡してくれ！<yesno><break>": "<attr><feel_happy_lv1><end_attr>Whoa! From the look on your face, I'd say|you've been smelting those wands I asked for,|haven't you? Okay, give it to me!<yesno><break>"
+  },
+  "316": {
+    "<attr><feel_think_lv1><end_attr>「……ごめんなさい。|　くわしい事情を　お話してませんでしたね……。|<br>|「かつて　私には　同じく旅芸人の夫がいました。 |　ふたりで　舞闘の技を生みだし　披露して|　またたく間に　世に知られるようになりました。|<br>|「そして　ついに　私たちの評判を聞いた|　グランゼドーラの王様に　招かれたのです。|　……そう　今と同じように。|<br>|「七色の舞闘に挑んだ私は　自らの未熟さゆえに |　<%sEV_QUE_NAME4>を　魔獣に奪われ|　動揺のあまり　動けなくなってしまいました。|<br>|「そのとき　夫が身体をはって　魔獣の暴走を止め |　私を守ってくれたのです。|　ですが　そのせいで　夫は帰らぬ人に……。|<br>|「悲しみのあまり　一度は　芸の道を|　あきらめかけたことも……。ですが　夫と|　生みだした技を　眠らせておけませんでしたの。|<br>|「ふたたび　芸の道を歩んだ私に|　こうして　チャンスが巡ってきたのです。|　次こそ　成功させてみせますわ……！|<br>|「王宮での舞闘まで　まだ日にちがあります。|　それまでは　あなたの旅に　ご同行しながら|　舞闘に　さらなるみがきを　かけますわ。": "<attr><feel_think_lv1><end_attr>I'm... Sorry... I didn't tell you the|details. I once had a husband who was also a|traveling entertainer. Together, we created|<br>|and performed the art of dances, which|quickly became known throughout the world.|And finally, the king of Granzedorra heard of|<br>|our reputation and invited us... ... Yes,|just like now... I challenged him to the|Seven Color Dance, but due to my|<br>|inexperience, a hexenbiest took|<%sEV_QUE_NAME4> from me, and I was so upset|that I couldn't move. But then my husband put|<br>|his body on the line to stop the hexenbiest|and protect me... But that didn't stop him|from coming back. I was so sad that I almost|<br>|gave up on my art once. But I couldn't let my|husband and the skills I'd created lie|dormant. Now I'm back on the path of the|<br>|arts, and this time I've been given a chance.|I will succeed next time. There are still a|few days before the palace dance. In the|<br>|meantime, I will accompany you on your|journey and continue to improve my dancing|skills."
+  },
+  "317": {
+    "<attr><feel_angry_lv1><end_attr><close_irai>「まあ　<%sEV_QUE_NAME4>さえ　あれば|　あたしにも　開けられるはずさ。|　ここで待っているから　よろしく頼んだよ。": "<attr><feel_angry_lv1><end_attr><close_irai>Well, as long as I have <%sEV_QUE_NAME4>, I|can open it... I'll be waiting for you here,|so please..."
+  },
+  "318": {
+    "<attr><feel_normal_one><end_attr><close_irai>「さあ　このアタシのコレクションのために|　<%sEV_QUE_NAME4>を　作ってきなさい。|　ここで待っているから　頼んだわよ！": "<attr><feel_normal_one><end_attr><close_irai>Now, go make <%sEV_QUE_NAME4> for my|collection... I'll be here waiting for you.|I'm counting on you!"
+  },
+  "319": {
+    "<attr><feel_normal_one><end_attr><close_irai>「……ぶ　ぶぇ　ぶえっくしょーい！！|　ブルブル。パンツ一丁は　さすがに　さみぃ。|　頼んだぞ　<kyodai>！": "<attr><feel_normal_one><end_attr><close_irai>... Buh, buh, buh, buh, buh, buh, buh! B...|I'm not wearing any pants, but... Come on,|man.<kyodai>！"
+  },
+  "320": {
+    "<attr><feel_happy_lv1><end_attr><close_irai>「オレの息子の　シャルルなら　賢いから |　何か　わかるかもしれないが……|　あいつ　人ギライなんだよなぁ。": "<attr><feel_happy_lv1><end_attr><close_irai>My son Charles is smart enough to know what's|going on, but... He hates people..."
+  },
+  "321": {
+    "<attr><feel_happy_lv3><end_attr><close_irai>「女子のあいだで　人気だってくらいだから|　きっと　キュートなものだろうね。": "<attr><feel_happy_lv3><end_attr><close_irai>It's popular among girls, so it must be|cute..."
+  },
+  "322": {
+    "<attr><feel_think_lv1><end_attr><close_irai>「そのために　あなたを探して|　ここまで　やってまいりましたの。|　出来上がりを　お待ちしていますね。": "<attr><feel_think_lv1><end_attr><close_irai>That's why I've come all this way, looking|for you. I'll be waiting for the finished|product."
+  },
+  "323": {
+    "<attr><feel_think_lv1><end_attr><close_irai>「さあ　君のウデ前を　見せてくれ。|　数奇な運命を背負った　錬金術師よ。": "<attr><feel_think_lv1><end_attr><close_irai>Let's see what you've got. An alchemist with|a strange destiny..."
+  },
+  "324": {
+    "<attr><feel_happy_lv3><end_attr>「聞いて　聞いて！　<kyodai>さん！|　あなたに会いたいって人が　町に来てるのよ！|　どこかで　ウワサを聞いたんですって！|<br>|「<kyodai>さんって　錬金術とかいう|　特別な術が　使えるんでしょう？|　なにか　頼みごとをしにきたのかしら。|<br>|「頼みごとがある人は|　頭上の名前の色が　紫になってるわ。|　見かけたら　話してみてね！": "<attr><feel_happy_lv3><end_attr>Listen, listen, listen!<kyodai>Oh, my God! There's someone in town who wants|to meet you! He heard a rumor somewhere!<kyodai>You're good at alchemy and other special|arts, aren't you? I've come to ask you for a|favor... If you have a favor to ask, the|<br>|color of your name above your head will turn|purple... If you see her, talk to her!"
+  },
+  "325": {
+    "「そして……　召喚に必要な　最後のピース。|　それが　<%sEV_QUE_NAME4>よ　<kyodai>！|　さあ　渡してちょうだい！<yesno><break>": "And... The last thing you need to summon...|That's <%sEV_QUE_NAME4>.<kyodai>Come on! Come on, give it to me!<yesno><break>"
+  },
+  "326": {
+    "「<%sEV_QUE_NAME4>……！ |　ついに　わしが　渚のピチピチギャルに|　なる時が来た！　さあ　渡してくれるかの？<yesno><break>": "<%sEV_QUE_NAME4>...! The time has finally|come for me to become the spunky gal from the|beach! Now, will you give it to me?<yesno><break>"
+  },
+  "327": {
+    "「きゃっ！　イヤン　つめた～い<heart> |<br>|「ねえ　見て見てー<heart>|　日焼けのあとが　もうこんなに～。 |<br>|「………………。 ": "Oh, no! Iyan, it's so cold!<heart> | |Hey, look, look!<heart>I've already got a sunburn... ..."
+  },
+  "328": {
+    "<attr><feel_think_lv1><end_attr>「……ふむ。ありがとう　<kyodai>。 |<br>|「満足したかと問われれば　そこはやはり|　人生というのは　終わりなき探求の旅だ。|<br>|「わしが　長年思い描いていたイメージとは|　すこしばかり　ギャップがあったかもしれん。|<br>|「やっぱり　わしは　僧侶として |　まっとうに　生きていこうかのう。|　約束通り　好きなだけ　こき使ってくれ。": "<attr><feel_think_lv1><end_attr>..... Thank you.<kyodai>I'm not satisfied. If you're asking me if I'm|satisfied, I'd say that life is an endless|quest... There may have been a slight gap|<br>|between the image I had in my mind for many|years... I'm going to live an honest life as|a monk... As promised, I'll use you as much|<br>|as I like..."
+  },
+  "329": {
+    "アイギスは　<%sEV_QUE_NAME4>に　着がえ|波打ちぎわに　走っていった！": "Aegis put on <%sEV_QUE_NAME4> and ran to the|edge of the waves!"
+  },
+  "330": {
+    "<turn_pc>「あーあ。早く　悪夢の魔神を召喚したいわ！|　そうしたら　チャチャッと世界征服して|　あたしが　世界一だって証明できるのに。|<br>|「そして　あたしを　いつも小バカにしてる|　いやみ～な双子の姉　モモナに|　余裕たっぷりに　こう言ってやるの！|<br>|「世界の半分をあげてもいいわ……ってね！": "<turn_pc>... I can't wait to summon the demon god of|nightmares! Then I can take over the world|and prove that I'm the best in the world. And|<br>|then I can say to my obnoxious twin sister,|Momona, who's always making fun of me, that I|can afford to give her half the world. I'll|<br>|give you half the world... I'll give you half|the world!"
+  },
+  "331": {
+    "<attr><feel_angry_lv3><end_attr><turn_pc>「ちょっと……　<kyodai>！|　あんた　あたしの双子の姉　モモナと|　仲良くしてるでしょー！？|<br>|「裏切り者ー！　だまされちゃダメよ！|　モモナは　あたしのカボチャプリンを|　勝手に食べちゃう　超性悪女なんだから！|<br>|「あたしより　チョビっと　早く|　生まれたからって　バカにしてー！|　絶対　モモナを　見返してやるわっ！": "<attr><feel_angry_lv3><end_attr><turn_pc>It's just<kyodai>Hey! You're getting along with my twin|sister, Momona, aren't you? Traitor! Don't be|fooled! Momona is a very bad girl who eats my|<br>|pumpkin pudding without permission! Just|because you were born a little bit earlier|than me, you're making fun of me! I'm going|<br>|to make her pay for this!"
+  }
+}

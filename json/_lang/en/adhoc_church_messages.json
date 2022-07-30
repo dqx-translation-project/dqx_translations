@@ -1,0 +1,1274 @@
+{
+  "1": {
+    "「生きとし生ける者は　皆　神の子。|　我が教会に　どんな　ご用かな？|<ask><bw_break>": "Every living thing is a child of the Almighty|One. How may our church assist you?|<ask><bw_break>"
+  },
+  "2": {
+    "「他にも　用はあるかね？|<break>": "Anything else I can do?|<break>"
+  },
+  "3": {
+    "「むむっ……見えるぞ。|　そなたの中に眠る　もうひとつの姿が。|<br>|「異なる姿を　目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えたいと申されるか？|<yesno><break>": "Mmm... Look... There is another form that|lies dormant within you. Do you wish to|awaken a different form, to change your race|<br>|from <%sL_RACE_NOW> to <%sL_RACE_AFTER>?<yesno><break>"
+  },
+  "4": {
+    "「では　今後の旅の無事を　神に祈りなさい。|<br>|「そして　そなたが　チカラ尽きた時の|　復活場所を　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　この教会に変更しても　よろしいかな？|<yesno><break>": "Then pray to God for safety on your journey.|And when you are exhausted, may I change your|resurrection place from the church at|<br>|<%sL_HUKKATU_POINT>|<%dL_TYOUME_NO1><%sL_TYOUME1>|to this church?<yesno><break>"
+  },
+  "5": {
+    "「どの　ルーラストーンに|　この場所を　記憶させるかね？|<break>": "Register this location in which|Zoomstone?|<break>"
+  },
+  "6": {
+    "「そのルーラストーンの記憶場所を|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変更するかね？|<yesno><break>": "Would you change the memory location of that|Zoomstone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
+  },
+  "7": {
+    "「冒険を中断して　今日は　もう休まれるかな？|<yesno 2><break>": "Can we take a break from our adventures and|just rest for the day?<yesno 2><break>"
+  },
+  "8": {
+    "「おお　全知全能の神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, Almighty One! Awaken the <%sL_RACE_AFTER>|that lies dormant within <pc>!<bw_break>"
+  },
+  "9": {
+    "「どなたの毒を　取り除くのかな？|<break>": "Whose poison is it that we're trying to|remove?<break>"
+  },
+  "10": {
+    "「どなたの呪いを　解くのかな？|<break>": "Whose curse shall I lift?<break>"
+  },
+  "11": {
+    "「どなたを　この世へ　呼び戻したいのかな？|<break>": "Who would you like to bring back into this|world?<break>"
+  },
+  "12": {
+    "「むむ？　そなたの仲間は　どなたも|　毒になど　おかされておらぬようだぞ？|<bw_break>": "Mmm? None of your people have been poisoned,|have they?<bw_break>"
+  },
+  "13": {
+    "「おお！　我らが神よ！|　<pc>より　毒のけがれを|　消し去りたまえ！<bw_break>": "Oh! Our God!<pc> More poisonous debris, be wiped away!<bw_break>"
+  },
+  "14": {
+    "「おお！　我らが神よ！|　<%sL_DOKU_PCNAME>より　毒のけがれを|　消し去りたまえ！<bw_break>": "Oh! My God! From <%sL_DOKU_PCNAME>, wipe away|the poisonous filth!<bw_break>"
+  },
+  "15": {
+    "「よし。これより　そなたが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて|　復活するようになった。|<bw_break>": "Good. From now on, when you run out of|energy, you will be resurrected here in the|church of <%sL_KYOUKAI_NAME>|<br>|<%dL_TYOUME_NO1><%sL_TYOUME1>|<bw_break>"
+  },
+  "16": {
+    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> I prayed to God...<break>"
+  },
+  "17": {
+    "「それでは　我が教会に|　<%nL_DOKU_GOLD>ゴールドの　ご寄付を。|　よろしいかな？|<yesno><break>": "Now, if you'll excuse me, my church is about|to receive a gold... May I?<yesno><break>"
+  },
+  "18": {
+    "「う～む……。寄付をするには|　お金が　足りないようだな。|<bw_break>": "Hmm... I don't have enough money to make a|donation.<bw_break>"
+  },
+  "19": {
+    "「困ったときは　いつでも立ち寄りなさい。|　<pc>に　神のご加護が　あらんことを。<turn_end>": "If you ever need help, stop by anytime.|May God bless you, <pc>.<turn_end>"
+  },
+  "20": {
+    "「むむ？　そなたの仲間に|　死んでいる者など　おらんではないか。|<bw_break>": "Hmm? I thought none of your men were dead.<bw_break>"
+  },
+  "21": {
+    "「おお！　主よ！　全知全能の神よ！|　忠実なる神のしもべ　<%sL_DOKU_PCNAME>のみたまを|　ここに　呼び戻したまえ！<bw_break>": "Oh! Oh, my Lord! Almighty God! Bring back|here the servant of the faithful God|<%sL_DOKU_PCNAME>!<bw_break>"
+  },
+  "22": {
+    "「はて。そなたは　毒になど|　おかされては　おらぬようだが。|<bw_break>": "No. You are not poisoned...<bw_break>"
+  },
+  "23": {
+    "「はて。<%sL_DOKU_PCNAME>どのは|　毒になど　おかされては　おらぬようだが。|<bw_break>": "Huh. <%sL_DOKU_PCNAME>I don't think you've|been poisoned...<bw_break>"
+  },
+  "24": {
+    "「冗談を　言うでない。|　おぬしは　ピンピンしておるではないか！|<bw_break>": "You're joking... You're still alive and well!<bw_break>"
+  },
+  "25": {
+    "「冗談を　言うでない！|　<%sL_DOKU_PCNAME>どのは　生きておるぞ！|<bw_break>": "Don't joke about it! <%sL_DOKU_PCNAME> He's|alive!<bw_break>"
+  },
+  "26": {
+    "「はて……。そなたは|　呪われてなど　いないようだが。|<bw_break>": "Well... You're not cursed, you know.<bw_break>"
+  },
+  "27": {
+    "「はて……。<%sL_DOKU_PCNAME>どのは|　呪われてなど　いないようだが。|<bw_break>": "Well... <%sL_DOKU_PCNAME> None of you are|cursed...<bw_break>"
+  },
+  "28": {
+    "「はて……。そなたの仲間は|　どなたも　呪われておらぬようだが……。|<bw_break>": "Well... It seems that none of your people are|cursed.<bw_break>"
+  },
+  "29": {
+    "「おお！　我らが神よ！|　<pc>に取りついた　いまわしき呪いを|　消し去りたまえ！<bw_break>": "Oh! Our God!<pc> Remove this terrible curse from my heart!<bw_break>"
+  },
+  "30": {
+    "「おお！　我らが神よ！|　<%sL_DOKU_PCNAME>に取りついた　いまわしき呪いを|　消し去りたまえ！<bw_break>": "Oh! My God! Remove the terrible curse that|has come upon <%sL_DOKU_PCNAME>!<bw_break>"
+  },
+  "31": {
+    "「では　神の前に|　これまでの　おこないを　告白なさい。|<bw_break>": "So, before God, I confess what I've done...<bw_break>"
+  },
+  "32": {
+    "「おお　神よ！|　この者に　ひとときの|　休息を　あたえたまえ！<end>": "Oh, Lord! Give this man a moment's rest!<end>"
+  },
+  "33": {
+    "「種族が　変わったことで|　装備できなくなった　武器や防具は|　はずしておいたからな。<bw_break>": "Now that you've changed races, you can no|longer equip the weapons and armor you left|behind.<bw_break>"
+  },
+  "34": {
+    "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>となった。|　他に　用はあるかな？|<break>": "The location where the Zoomstone is stored is|<%sM_rurastone><%sM_dot><%sM_sub> and... Is|there anything else I can do for you?<break>"
+  },
+  "35": {
+    "「ふむ。そなたは　すでに|　この場所を記憶させた　ルーラストーンを|　持っているようだな。|<bw_break>": "Hmm. You already have the Zoomstone that|remembers this place...<bw_break>"
+  },
+  "36": {
+    "「よろしかろう。|　ならば　そのルーラストーンに|　念じるがよい……。|<break>": "Good... Then let your Zoomstone speak to|you...<break>"
+  },
+  "37": {
+    "「やめるのだな。|　それも　また　よろしかろう。|　他に　用はあるかな？|<break>": "I don't... That's good, too. Is there|anything else I can do for you?<break>"
+  },
+  "38": {
+    "「神に　みちびかれし　迷える子羊よ。|　ようこそ　我が教会へ。|　ご用は　なんでしょう？|<ask><bw_break>": "The lost and found... Welcome to my... What|can I do for you, sir?<ask><bw_break>"
+  },
+  "39": {
+    "「他に　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "40": {
+    "「なるほど……確かに　あなたの中に|　別の種族の姿が　眠っているのを感じます。|<br>|「もうひとつの自分の姿を目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えますか？|<yesno><break>": "Well... It's true, I can feel another form of|your race sleeping inside you. Would you like|to awaken your other self and change your|<br>|race from <%sL_RACE_NOW> to <%sL_RACE_AFTER>?<yesno><break>"
+  },
+  "41": {
+    "「では　これからの　旅の無事を|　神の前に　お祈りなさい。|<br>|「そして　あなたが　チカラ尽きた時の|　復活場所を　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　この教会に変更しても　よろしいですか？|<yesno><break>": "Now, I pray before God for the safety of your|journey... And when you've run out of energy,|may I change your resurrection site from the|<br>|church at <%sL_HUKKATU_POINT><%dL_TYOUME_NO1>|<%sL_TYOUME1> to this church?<yesno><break>"
+  },
+  "42": {
+    "「どの　ルーラストーンに|　この場所を　記憶させますか？|<break>": "Register this location in which|Zoomstone?|<break>"
+  },
+  "43": {
+    "「そのルーラストーンの記憶場所を|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変更しますか？|<yesno><break>": "Do you want to change the memory location of|that Zoomstone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
+  },
+  "44": {
+    "「冒険を中断して　今日は　もう休まれますか？|<yesno 2><break>": "Would you like to interrupt your adventure|and rest for the day?<yesno 2><break>"
+  },
+  "45": {
+    "「ああ　我らが神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, my God!<pc> Awaken the <%sL_RACE_AFTER> that sleeps|within the <%sL_RACE_AFTER>!<bw_break>"
+  },
+  "46": {
+    "「どなたの毒を　取り除きますか？|<break>": "Whose poison is it that you're trying to|remove?<break>"
+  },
+  "47": {
+    "「どなたの呪いを　解きましょう？|<break>": "Whose curse shall I lift?<break>"
+  },
+  "48": {
+    "「どなたを　この世へ　呼び戻しますか？|<break>": "Who would you like to bring back into this|world?<break>"
+  },
+  "49": {
+    "「あら？　あなたの仲間は　どなたも|　毒に　おかされて　いないようですわ。|<bw_break>": "Oh? I don't think any of your people have|been poisoned.<bw_break>"
+  },
+  "50": {
+    "「ああ　我らが神よ！|　<pc>をむしばむ　悪しき毒を|　お清めください！<bw_break>": "Oh, my God!<pc> Cleanse me of the evil poison that gnaws at|my soul!<bw_break>"
+  },
+  "51": {
+    "「ああ　我らが神よ！|　<%sL_DOKU_PCNAME>をむしばむ　悪しき毒を|　お清めください！<bw_break>": "Oh, my God! Cleanse <%sL_DOKU_PCNAME> of the|evil poison that gnaws at it!<bw_break>"
+  },
+  "52": {
+    "「これより　あなたが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて|　復活するように　なりました。|<bw_break>": "From now on, when you run out of energy, you|will be resurrected here in the church of <%s|L_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>.|<br>|..<bw_break>"
+  },
+  "53": {
+    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> I prayed to God...<break>"
+  },
+  "54": {
+    "「それでは　我が教会に|　<%nL_DOKU_GOLD>ゴールドの　ご寄付を。|　よろしいですか？|<yesno><break>": "Now, if you'll excuse me, my church is about|to receive a gold... May I?<yesno><break>"
+  },
+  "55": {
+    "「まあ……。残念ですが|　お金が　足りませんわ。|<bw_break>": "Well... I'm afraid I don't have enough|money...<bw_break>"
+  },
+  "56": {
+    "「神は　いつでも　あなたを|　見守っていてくださいます。|　また　おいでくださいね。<turn_end>": "God is always watching over you... Come|again...<turn_end>"
+  },
+  "57": {
+    "「まあ　ご冗談を。あなたの仲間は|　みなさん　お元気では　ありませんか。|　おほほほ……。|<bw_break>": "Well, sir... I hope all your friends are|well... Ho, ho, ho...<bw_break>"
+  },
+  "58": {
+    "「天にまします　我らが神よ！|　いま　ひとたび　<%sL_DOKU_PCNAME>に　|　命の息吹を　おあたえください！<bw_break>": "Our God, who art in heaven! Give|<%sL_DOKU_PCNAME> the breath of life once|more!<bw_break>"
+  },
+  "59": {
+    "「あら？　あなたは　毒に|　おかされては　いませんわ。|<bw_break>": "What? I don't think you've been poisoned.<bw_break>"
+  },
+  "60": {
+    "「あら？　<%sL_DOKU_PCNAME>さんは|　毒に　おかされては　いませんわ。|<bw_break>": "What? <%sL_DOKU_PCNAME> has not been poisoned|by...<bw_break>"
+  },
+  "61": {
+    "「まあ　ご冗談を。|　あなたは　生きておられるじゃありませんか。|<bw_break>": "Well, sir... You're still alive...<bw_break>"
+  },
+  "62": {
+    "「まあ　ご冗談を。|　<%sL_DOKU_PCNAME>さんは　生きておられますわ。|<bw_break>": "Well, sir... <%sL_DOKU_PCNAME> is still|alive...<bw_break>"
+  },
+  "63": {
+    "「あら？　あなたは|　呪われてなど　いませんわ。|<bw_break>": "What? You're not cursed...<bw_break>"
+  },
+  "64": {
+    "「あら？　<%sL_DOKU_PCNAME>さんは|　呪われてなど　いませんわ。|<bw_break>": "What? <%sL_DOKU_PCNAME> is not cursed...<bw_break>"
+  },
+  "65": {
+    "「あら。あなたの仲間は　どなたも|　呪われてなど　いませんわ。|<bw_break>": "Oh. None of your friends are cursed...<bw_break>"
+  },
+  "66": {
+    "「ああ　我らが神よ！|　<pc>を　いまわしき呪いより|　解きはなちください！<bw_break>": "Oh, my God!<pc> I beg you to lift the curse from me!<bw_break>"
+  },
+  "67": {
+    "「ああ　我らが神よ！|　<%sL_DOKU_PCNAME>を　いまわしき呪いより|　解きはなちください！<bw_break>": "Oh, my God! Release <%sL_DOKU_PCNAME> from|this terrible curse!<bw_break>"
+  },
+  "68": {
+    "「では　神の前に|　これまでの　おこないを　告白なさい。|<bw_break>": "So, before God, I confess what I've done...<bw_break>"
+  },
+  "69": {
+    "「あなたに　ひとときの|　休息が　あたえられますよう。|　さあ　おやすみなさい……。<end>": "I hope you've had a good night's rest. And|now, good night...<end>"
+  },
+  "70": {
+    "「種族が　変わったことで|　装備できなくなった　武器や防具は|　はずしておきました。<bw_break>": "Now that you've changed races, you can no|longer equip weapons and armor.<bw_break>"
+  },
+  "71": {
+    "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": "This Zoomstone is now currently registered to|<%sM_rurastone><%sM_dot><%sM_sub>.|Is there anything else I can do for you?|<break>"
+  },
+  "72": {
+    "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": "Hm? It seems you already have a Zoomstone|that has this location registered.|<bw_break>"
+  },
+  "73": {
+    "「かしこまりました。|　では　そのルーラストーンに|　念じてください……。|<break>": "Understood. Now, place that Zoomstone deep|into your thoughts...|<break>"
+  },
+  "74": {
+    "「おやめになるのですね。|　他に　ご用はありますか？|<break>": "Changed your mind, hm? Is there anything else|I can help you with?|<break>"
+  },
+  "75": {
+    "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "I'm recording this in my adventure book... Do|not touch the power button or the reset|button...<break>"
+  },
+  "76": {
+    "「記録しないと　申されるか。|　それもまた　よろしかろう。|<br>|「まだ　冒険を続けられるかな？|<yesno><break>": "I'm not going to record it. That's good, too.|Do you think we can continue our adventure?<yesno><break>"
+  },
+  "77": {
+    "「なんと　記録せずに　休むと申されるか……。|　そうすると　そなたの冒険は　前の記録まで|　もどってしまうが　それで　よいのだな？|<yesno><break>": "How dare you ask me to rest without recording|my adventures? If you do this, your|adventures will revert to your previous|<br>|record, is that correct?<yesno><break>"
+  },
+  "78": {
+    "「では　神の前に|　これまでの　おこないを　告白なさい。|<br>|「そして　冒険の書に|　記録して　よろしいかな？|<yesno><break>": "Now, I will confess before the gods what I|have done so far... And record it in the Book|of Adventures, if I may?<yesno><break>"
+  },
+  "79": {
+    "「たしかに　記録いたしましたぞ。|<br>|「まだ　冒険を続けられるかな？|<yesno><break>": "Yes, sir. I've been recording... Can we|continue our adventure?<yesno><break>"
+  },
+  "80": {
+    "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "I'm recording this in my adventure book... Do|not touch the power button or the reset|button...<break>"
+  },
+  "81": {
+    "「では　これまでのことは|　記録しないで　おきましょう。|<br>|「まだ　冒険を続ける　おつもりですか？|<yesno><break>": "Well, then, let's just leave it at that,|shall we? Do you still wish to continue your|adventure?<yesno><break>"
+  },
+  "82": {
+    "「記録をせずに　休むとおっしゃるのですね。|　そうすると　冒険が　前の記録まで|　もどってしまいますが　よろしいのですか？|<yesno><break>": "You say you're taking a break from|recording... If I do that, my adventures will|revert to my previous record, is that|<br>|correct?<yesno><break>"
+  },
+  "83": {
+    "「では　神の前に|　これまでの　おこないを　告白なさい。|<br>|「そして　冒険の書に|　記録して　よろしいですか？|<yesno><break>": "Now, I will confess before the gods what I|have done so far... And record it in my book|of adventures. May I?<yesno><break>"
+  },
+  "84": {
+    "「たしかに　記録いたしました。|<br>|「まだ　冒険を続ける　おつもりですか？|<yesno><break>": "Yes, sir. I've been recording... Do you still|wish to continue your adventure?<yesno><break>"
+  },
+  "85": {
+    "「ふむ。そなたは　すでに　この教会を|　復活場所に　設定しているようだな。|<br>|「だが　祈りを欠かさぬことは　よいことだ。|　ここで　祈っていかれるかね？|<yesno><break>": "Hmm. You've already set this church as your|resurrection site... But it is good that you|do not miss your prayers... Would you like to|<br>|pray here?<yesno><break>"
+  },
+  "86": {
+    "「あら。あなたは　もう　この教会を|　復活場所に　設定されているようですわ。|<br>|「ですが　お祈りを忘れないのは|　たいへん　よい心がけです。|　ここで　お祈りを捧げていきますか？|<yesno><break>": "Oh. It seems you've already set your sights|on this church as the place of the|resurrection... But it's very good of you to|<br>|remember to pray... Would you like to say|your prayers here?<yesno><break>"
+  },
+  "87": {
+    "「冒険を続けるのだな。|　では　他に用はあるかね？<break>": "Continue the adventure... So, is there|anything else I can do for you?<break>"
+  },
+  "88": {
+    "「冒険を続けるのですね。|　では　他に ご用はありますか？<break>": "To continue the adventure... So, is there|anything else I can do for you, sir?<break>"
+  },
+  "89": {
+    "「生きとし生ける者は　皆　神の子。|　我が教会へ　よくぞ　まいられた！|<br>|「この世界では　神は常に　そなたの行動を|　見守っておられる。故に　教会に来て|　冒険の書に　旅の記録をする必要はないのだ。|<br>|「だが　教会で神に祈ることは　ムダではない。|　チカラ尽きた時の復活場所を|　祈りを捧げた教会に　変更することができるぞ。|<br>|「その日の冒険を終えて　休みたくなった時は|　さくせんコマンドの　『冒険を中断する』だ。|　危険な場所では　すこし時間がかかると心得よ。|<br>|「さて　我が教会に　どんな　ご用かな？|<ask><bw_break>": "Every living being is a child of the Almighty|One. Welcome to our church!|<br>|In this world, the Almighty One is always|watching over you. Therefore, you don't need|to come here to record your journey in your|<br>|Adventure Log.|,br>|That being said, it's still a good idea to|pray in a church. Praying will allow you to|change your resurrection spot.|<br>|When you've finished adventuring for the day,|you can take a break by using the Misc.|command and then \"Log Out\". If you're outside|of town, this might take a bit longer.|<br>|So then, what can our church assist you with?|<ask><bw_break>"
+  },
+  "90": {
+    "「神に　みちびかれし　迷える子羊よ。|　ようこそ　我が教会へ。|<br>|「この世界では　神は常に　あなたの行動を|　見守っておられます。ですので　教会で|　冒険の書に　旅の記録をする必要はありません。|<br>|「ですが　教会でお祈りをなさいますと|　あなたが　チカラ尽きた時の復活場所を|　祈りを捧げた教会に　変更することができます。|<br>|「冒険を終えたい時は　さくせんコマンドの|　『冒険を中断する』で　いつでも行えますが|　危険な場所では　すこし時間がかかります。|<br>|「さて　本日のご用は　なんでしょう？|<ask><bw_break>": "The lost and found... Welcome to my home. In|this world, God is always watching over your|every move. So you don't have to go to church|<br>|to record your travels in a book of|adventures... But if you say a prayer in the|church, it will change your resurrection|<br>|place to the church where you prayed, in case|you run out of energy. If you wish to end|your adventure, you may do so at any time by|<br>|using the \"Abort Adventure\" command... but it|may take some time in dangerous places. So,|what can I do for you today?<ask><bw_break>"
+  },
+  "91": {
+    "「変更しないと　申されるか。|　それも　よろしかろう。|<bw_break>": "I don't think we should... That's fine.<bw_break>"
+  },
+  "92": {
+    "「変更しないのですね。|　それも　ひとつの選択肢でしょう。|<bw_break>": "I don't want to change... It's an option...<bw_break>"
+  },
+  "93": {
+    "「それは　記憶された場所を|　変えることが　できぬようだな。|　別の石を　選びなさい。|<break>": "It is not possible to change the place that|is remembered. Choose another stone...<break>"
+  },
+  "94": {
+    "「あら　それは　記憶された場所を|　変えることが　できないようですね。|　別の石を　お選びください。|<break>": "Oh, it's like you can't change the place|where it's remembered... I'd like you to|choose another stone.<break>"
+  },
+  "95": {
+    "「神に　みちびかれし　迷える子羊よ。|　ようこそ　モガレ修道院へ。|　今日は　いったい　どんな用だい？|<ask><bw_break>": "The lost, who are guided by the gods...|Welcome, Mogale. What can I do for you today?<ask><bw_break>"
+  },
+  "96": {
+    "「神に　みちびかれし　迷える子羊よ。|　ようこそ　モガレ修道院へ。|<br>|「この世界では　神は常に　アンタの行動を|　見守っているからね。わざわざ　教会とかで|　冒険の書に　旅の記録をする必要はないんだ。|<br>|「でも　教会とかで　お祈りをすると|　アンタが　チカラ尽きた時の復活場所を|　祈りを捧げた場所に　変更することができるよ。|<br>|「冒険を終えたい時は　さくせんコマンドの|　『冒険を中断する』で　いつでも行えるけど|　危険な場所では　すこし時間がかかるんだ。|<br>|「さて　今日は　いったい　どんな用だい？|<ask><bw_break>": "The lost, who are guided by the gods...|Welcome to the Mogale school. In this world,|the gods are always watching over your every|<br>|move... You don't need to go to a church or|something to record your travels in an|adventure book... But if you go to a church|<br>|or something and pray, they can change your|resurrection spot to the place you prayed|when you run out of energy. If you want to|<br>|finish your adventure, you can always use the|\"Interrupt Adventure\" command, but it'll take|a while in dangerous places. So, what can I|<br>|do for you today?<ask><bw_break>"
+  },
+  "97": {
+    "「他に　用はあるかい？|<break>": "Is there anything else you need?|<break>"
+  },
+  "98": {
+    "「よくわかんないけど……確かに　アンタの中に|　別の種族の姿が　眠ってるような気がするね。|<br>|「もうひとつの自分の姿を目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるのかい？|<yesno><break>": "I don't know, but... I think there's another|form of your race sleeping inside of you. You|want to awaken the other you and change your|<br>|race from <%sL_RACE_NOW> to <%sL_RACE_AFTER>?<yesno><break>"
+  },
+  "99": {
+    "「じゃあ　これからの　旅の無事を|　神の前に　祈っておくれ。|<br>|「そして　アンタが　チカラ尽きた時の|　復活場所を　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　この修道院に変更しても　いいんだね？|<yesno><break>": "Then pray before the gods for the safety of|your journey... And when you run out of|energy, you can change your resurrection|<br>|place from the church at <%sL_HUKKATU_POINT><|%dL_TYOUME_NO1><%sL_TYOUME1> to this|monastery?<yesno><break>"
+  },
+  "100": {
+    "「どの　ルーラストーンに|　この場所を　記憶させるんだい？|<break>": "Which one of these roolastones do you want to|store this place in?<break>"
+  },
+  "101": {
+    "「そのルーラストーンの記憶場所を|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変えるかい？|<yesno><break>": "Would you like to change the memory location|of that Zoomstone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
+  },
+  "102": {
+    "「冒険を中断して　今日は　もう休むかい？|<yesno 2><break>": "Would you like to take a break from your|adventure and rest?|<yesno 2><break>"
+  },
+  "103": {
+    "「ああ　我らが神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせておくれ！<bw_break>": "Oh, my God!<pc> Awaken the <%sL_RACE_AFTER> that sleeps|within the <%sL_RACE_AFTER>!<bw_break>"
+  },
+  "104": {
+    "「どの人の毒を　取り除くんだい？|<break>": "Whose poison is it that you're trying to|remove?|<break>"
+  },
+  "105": {
+    "「どの人の呪いを　解くんだい？|<break>": "What man's curse are you trying to break?<break>"
+  },
+  "106": {
+    "「どの人を　この世へ　呼び戻すんだい？|<break>": "Who would you like to bring back into this|world?|<break>"
+  },
+  "107": {
+    "「おや？　アンタの仲間は　誰も|　毒に　おかされて　いないようだね。|<bw_break>": "Hmm? I don't think any of your friends have|been poisoned.<bw_break>"
+  },
+  "108": {
+    "「ああ　我らが神よ！|　<pc>をむしばむ　悪しき毒を|　清めておくれ！<bw_break>": "Oh, my God!<pc> Cleanse me of the evil poison that gnaws at|my soul!<bw_break>"
+  },
+  "109": {
+    "「ああ　我らが神よ！|　<%sL_DOKU_PCNAME>をむしばむ　悪しき毒を|　清めておくれ！<bw_break>": "Oh, my God! Cleanse <%sL_DOKU_PCNAME> of the|evil poison that gnaws at it!<bw_break>"
+  },
+  "110": {
+    "「変更しないんだね。|　ま　誰も　文句は言わないよ。|<bw_break>": "I won't change... No one's going to|complain...<bw_break>"
+  },
+  "111": {
+    "「今から　アンタが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>で|　復活するように　なったよ。|<bw_break>": "From now on, when you run out of energy, you|are to be resurrected here <%sL_KYOUKAI_NAME>|<%dL_TYOUME_NO1><%sL_TYOUME1>...<bw_break>"
+  },
+  "112": {
+    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> I prayed to God...<break>"
+  },
+  "113": {
+    "「おっと。アンタは　もう　この修道院を|　復活場所に　設定しているようだね。|<br>|「でも　お祈りを忘れないってのは|　いい心がけじゃないか。|　ここで　お祈りを捧げていくかい？|<yesno><break>": "... You've already set up this monastery as a|place of resurrection. But it's good to|remember to pray... Would you like to say|<br>|your prayers here?<yesno><break>"
+  },
+  "114": {
+    "「それじゃ　<%nL_DOKU_GOLD>ゴールド|　寄付してもらうけど　いいかい？|<yesno><break>": "I'll take your <%nL_DOKU_GOLD> gold donation,|okay?<yesno><break>"
+  },
+  "115": {
+    "「あらら……。残念だね。|　お金が　足りないみたいだ。|<bw_break>": "Oh, my... There's... I don't have enough|money...<bw_break>"
+  },
+  "116": {
+    "「神は　いつでも　アンタを|　見守っていてくれるよ。|　また　来ておくれ。<turn_end>": "God is always watching over you... Come|back...<turn_end>"
+  },
+  "117": {
+    "「はっはっは　笑わせてくれるね。|　アンタの仲間は　みんな　元気じゃないか。|<bw_break>": "Ha-ha-ha. You make me laugh. All your friends|are fine...<bw_break>"
+  },
+  "118": {
+    "「天にまします　我らが神よ！|　いま　ひとたび　<%sL_DOKU_PCNAME>に　|　命の息吹を　あたえておくれ！<bw_break>": "Our God, who art in heaven! Give|<%sL_DOKU_PCNAME> the breath of life once|more!<bw_break>"
+  },
+  "119": {
+    "「おや？　アンタは　毒に|　おかされて　いないよ。|<bw_break>": "Hmm? You've been poisoned...<bw_break>"
+  },
+  "120": {
+    "「おや？　<%sL_DOKU_PCNAME>は|　毒に　おかされて　いないようだね。|<bw_break>": "Hmm? I don't think <%sL_DOKU_PCNAME> has been|poisoned...<bw_break>"
+  },
+  "121": {
+    "「はっはっは　笑わせてくれるね。|　アンタ　ピンピンしてるじゃないか。|<bw_break>": "Ha-ha-ha. You make me laugh... You're so|perky...<bw_break>"
+  },
+  "122": {
+    "「はっはっは　笑わせてくれるね。|　<%sL_DOKU_PCNAME>は　元気じゃないか。|<bw_break>": "Hahahaha, you make me laugh...|<%sL_DOKU_PCNAME> is fine...<bw_break>"
+  },
+  "123": {
+    "「ん？　アンタは|　呪われて　いないようだね。|<bw_break>": "Hmm? You're not cursed...<bw_break>"
+  },
+  "124": {
+    "「ん？　<%sL_DOKU_PCNAME>は|　呪われて　いないようだね。|<bw_break>": "Hmm? <%sL_DOKU_PCNAME> is not cursed...<bw_break>"
+  },
+  "125": {
+    "「ん？　アンタの仲間は　誰も|　呪われて　いないようだね。|<bw_break>": "Hmm? None of your friends are cursed...<bw_break>"
+  },
+  "126": {
+    "「ああ　我らが神よ！|　<pc>を　いまわしき呪いより|　解きはなっておくれ！<bw_break>": "Oh, my God!<pc> Lift me from the curse that is now upon me!<bw_break>"
+  },
+  "127": {
+    "「ああ　我らが神よ！|　<%sL_DOKU_PCNAME>を　いまわしき呪いより|　解きはなっておくれ！<bw_break>": "Oh, my God! Lift <%sL_DOKU_PCNAME> from the|curse that is upon us!<bw_break>"
+  },
+  "128": {
+    "「それじゃ　神の前に|　これまでの　おこないを　告白しておくれ。|<bw_break>": "Then I will confess before God all that I|have done...<bw_break>"
+  },
+  "129": {
+    "「おお　神よ！|　この旅人さんに　ひとときの|　休息を　あたえてやっておくれ！<end>": "Oh, God! Give this traveler a moment's rest!<end>"
+  },
+  "130": {
+    "「種族が　変わったことで|　装備できなくなった　武器や防具は|　はずしておいたよ。<bw_break>": "Now that you've changed races, you can no|longer equip the weapons and armor...<bw_break>"
+  },
+  "131": {
+    "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になったよ。|　他に　用はあるかい？|<break>": "The Zoomstone's memory location is|<%sM_rurastone><%sM_dot><%sM_sub>... Is there|anything else you need?<break>"
+  },
+  "132": {
+    "「ん？　それは　記憶された場所を|　変えることが　できないみたいだね。|　別の石を　選んでくれるかい。|<break>": "Hmm? It's like you can't change where it's|been stored. I need you to pick another|stone.<break>"
+  },
+  "133": {
+    "「おや？　アンタはもう|　この場所が記憶された　ルーラストーンを|　持ってるみたいだね。|<bw_break>": "Hmm? It seems you already have a Zoomstone|that remembers this place.|<bw_break>"
+  },
+  "134": {
+    "「わかったよ。|　それじゃ　そのルーラストーンに|　念じておくれ……。|<break>": "I see... Now, I need you to make a wish on|that Zoomstone...<break>"
+  },
+  "135": {
+    "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "I'm recording this in my adventure book... Do|not touch the power button or the reset|button...<break>"
+  },
+  "136": {
+    "「やめるんだね。|　他に　用はあるかい？|<break>": "I don't... Is there anything else you need?<break>"
+  },
+  "137": {
+    "「冒険を続けるんだね。|　それじゃ　他に　用はあるかい？<break>": "Continue the adventure... So, is there|anything else you need?<break>"
+  },
+  "138": {
+    "「それじゃ　これまでのことは|　記録しないで　おくよ。|<br>|「まだ　冒険を続けるつもりかい？|<yesno><break>": "Well, then, let's not keep track of all|the... Are you going to continue your|adventure?<yesno><break>"
+  },
+  "139": {
+    "「記録しないで　休むっていうんだね。|　そうすると　冒険が　前の記録まで|　もどっちゃうけど　それで　いいのかい？|<yesno><break>": "If I don't record it, if I take a break... If|you do that, your adventures will regress to|the previous record, is that okay with you?<yesno><break>"
+  },
+  "140": {
+    "「それじゃ　神の前に|　これまでの　おこないを　告白しておくれ。|<br>|「そして　冒険の書に|　記録して　いいんだね？|<yesno><break>": "So you're going to confess before the gods|everything you've ever done... And record it|in the Book of Adventures, is that clear?<yesno><break>"
+  },
+  "141": {
+    "「たしかに　記録したよ。|<br>|「まだ　冒険を続けるつもりかい？|<yesno><break>": "Yeah, I know. It's a record. Are you going to|continue your adventure?<yesno><break>"
+  },
+  "142": {
+    "「冒険を中断すると　今の仲間とは|　別れてしまうけど　いいのかい？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that okay with you?|<yesno 2><break>"
+  },
+  "143": {
+    "「冒険を中断すると　今の仲間とは|　別れてしまうが　よろしいかな？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that okay with you?|<yesno 2><break>"
+  },
+  "144": {
+    "「冒険を中断すると　今の仲間とは|　別れてしまいますが　よろしいですか？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that okay with you?|<yesno 2><break>"
+  },
+  "145": {
+    "「<%sL_RULA_POINT>には|　いくつかの　行き先があるけど|　どの場所を覚えさせるんだい？<break>": "<%sL_RULA_POINT> has several destinations,|which one do you want it to remember?<break>"
+  },
+  "146": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
+  },
+  "147": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|stop|<select_end><break>"
+  },
+  "148": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|stop|<select_end><break>"
+  },
+  "149": {
+    "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますぞ。|　どの場所を覚えさせるかね？<break>": "<%sL_RULA_POINT> has several locations.|Which location do you want to register?<break>"
+  },
+  "150": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
+  },
+  "151": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|stop|<select_end><break>"
+  },
+  "152": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|stop|<select_end><break>"
+  },
+  "153": {
+    "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますわ。|　どの場所を覚えさせますか？<break>": "<%sL_RULA_POINT>|has several locations that can be registered.|Which location do you want to register?<break>"
+  },
+  "154": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
+  },
+  "155": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|stop|<select_end><break>"
+  },
+  "156": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|stop|<select_end><break>"
+  },
+  "157": {
+    "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": "....Me trained as priest. So can be priest.|Say what you need.|<ask><bw_break>"
+  },
+  "158": {
+    "「……オレ　神父の修行した。|　だから　神父できる。|<br>|「この世界の神　オマエの行動　ずっと見てる。|　教会で　冒険の書に旅の記録する必要ない。|<br>|「でも　教会で　お祈りすると|　オマエが　チカラ尽きた時の復活場所|　祈りを捧げた場所に　変更すること　できる。|<br>|「冒険を終えたい時　さくせんコマンドの|　『冒険を中断する』で　いつでも行える。|　危険な場所だと　すこし時間　かかる。|<br>|「オマエ　用事　言え。|<ask><bw_break>": "... I'm a trained priest... So, Father... The|god of this world, what you've been doing...|You need to go to the church and record your|<br>|journey in the adventure book... But if you|pray at the church, when you run out of|energy, it will change your resurrection|<br>|location to the place where you prayed... If|you want to finish your adventure, you can|always use the \"Interrupt Adventure\"|<br>|command... If you're in a dangerous place,|it'll take a moment... I've got to go.<ask><bw_break>"
+  },
+  "159": {
+    "「他に　用事あるか？|<break>": "Anything else you need?|<break>"
+  },
+  "160": {
+    "「……種族　変える？|　よく　わからない。でも　やってみる。|<br>|「オマエ　もうひとつの姿。|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるか？|<yesno><break>": "... Change your race? I don't know... I|don't... Do you want to... You want to change|your race from <%sL_RACE_NOW> to|<br>|<%sL_RACE_AFTER>?<yesno><break>"
+  },
+  "161": {
+    "「……なら　旅の無事　神に祈れ。|<br>|「オマエが　チカラ尽きた時の復活場所。|　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　オレの前に変更して　いいか？|<yesno><break>": "... So, safe travels, God... When you run out|of energy... <Can we change the church from|the one in front of you to the one in front|<br>|of me?<yesno><break>"
+  },
+  "162": {
+    "「どの　ルーラストーンに|　この場所を　記憶させるか？|<break>": "Register which Zoomstone to this place?<break>"
+  },
+  "163": {
+    "「そのルーラストーンの記憶場所|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変えるか？|<yesno><break>": "Would you change the memory location of that|Zoomstone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
+  },
+  "164": {
+    "「冒険　中断。今日は　もう休むか？|<yesno 2><break>": "Would you like to take a break from your|adventure?|<yesno 2><break>"
+  },
+  "165": {
+    "「冒険　中断。今の仲間　別れることになる。|　本当に　いいか？|<yesno 2><break>": "Adventure... And now we're breaking up... Are|you sure about this?<yesno 2><break>"
+  },
+  "166": {
+    "「おお　神！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせろ！<bw_break>": "Oh, God!<pc> Awaken the <%sL_RACE_AFTER> that lies dormant|within the <%sL_RACE_AFTER>!<bw_break>"
+  },
+  "167": {
+    "「毒　取り除く。誰だ？|<break>": "Poison. Take... Who is it?<break>"
+  },
+  "168": {
+    "「呪い　解く。誰だ？|<break>": "Curse... Who is it?<break>"
+  },
+  "169": {
+    "「生き返らせる。誰だ？|<break>": "Come back to life... Who's there?<break>"
+  },
+  "170": {
+    "「む？　オマエの仲間。|　誰も　毒　やられてない。|<bw_break>": "No? You're... No one's ever been poisoned|by...<bw_break>"
+  },
+  "171": {
+    "「おお　神！|　<pc>の毒　清めろ！<bw_break>": "Oh, God!<pc> Poison! Cleanse!<bw_break>"
+  },
+  "172": {
+    "「おお　神！|　<%sL_DOKU_PCNAME>の毒　清めろ！<bw_break>": "Oh, God! <%sL_DOKU_PCNAME>'s poison. Cleanse!<bw_break>"
+  },
+  "173": {
+    "「変更しないか。|　オレは　かまわない。|<bw_break>": "I can't... I don't care...<bw_break>"
+  },
+  "174": {
+    "「今から　オマエ　チカラ尽きた時|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>で|　復活するように　なった。|<bw_break>": "From now on, when you run out of energy, you|will be resurrected here at <%sL_KYOUKAI_NAME|><%dL_TYOUME_NO1><%sL_TYOUME1>...<bw_break>"
+  },
+  "175": {
+    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> I prayed to God...<break>"
+  },
+  "176": {
+    "「む。オマエ　もう　ここを|　復活場所に　設定してる。|<br>|「でも　祈るの　よいこと。|　ここで　祈っていくか？|<yesno><break>": "No. You've already set this place as your|resurrection site... But we pray... You want|to pray here?<yesno><break>"
+  },
+  "177": {
+    "「……なら　<%nL_DOKU_GOLD>ゴールド|　寄付よこせ。いいか？|<yesno><break>": "... Gold, donate... Okay?<yesno><break>"
+  },
+  "178": {
+    "「むむ……。オマエ　お金　足りてない。|<bw_break>": "Umm... You not have enough Gold.|<bw_break>"
+  },
+  "179": {
+    "「……神。オマエ　ずっと見てる。|　また　来い。<turn_end>": "....Almighty One watching you. Come again.<turn_end>"
+  },
+  "180": {
+    "「……オマエの仲間。誰も　死んでない。|<bw_break>": "... You're... Nobody's dead...<bw_break>"
+  },
+  "181": {
+    "「おお　神！|　<%sL_DOKU_PCNAME>　生き返らせろ！<bw_break>": "Oh, God! <%sL_DOKU_PCNAME> Bring him back to|life!<bw_break>"
+  },
+  "182": {
+    "「む？　オマエ　毒　やられてない。|<bw_break>": "No? You're poison. You're poisoned.<bw_break>"
+  },
+  "183": {
+    "「む？　<%sL_DOKU_PCNAME>|　毒　やられてない。|<bw_break>": "No? <%sL_DOKU_PCNAME> Poison, I'm hit...<bw_break>"
+  },
+  "184": {
+    "「……オマエ　死んでない。|<bw_break>": "You... You're dead...<bw_break>"
+  },
+  "185": {
+    "「……<%sL_DOKU_PCNAME>　死んでない。|<bw_break>": "... <%sL_DOKU_PCNAME> dead...<bw_break>"
+  },
+  "186": {
+    "「む？　オマエ　呪われてない。|<bw_break>": "No? You're cursed...<bw_break>"
+  },
+  "187": {
+    "「む？　<%sL_DOKU_PCNAME>|　呪われてない。|<bw_break>": "No? <%sL_DOKU_PCNAME> Cursed...<bw_break>"
+  },
+  "188": {
+    "「む？　オマエの仲間。|　誰も　呪われてない。|<bw_break>": "No? You... No one is cursed...<bw_break>"
+  },
+  "189": {
+    "「おお　神！|　<pc>の呪い　消せ！<bw_break>": "Oh, God!<pc> Turn off the curse!<bw_break>"
+  },
+  "190": {
+    "「おお　神！|　<%sL_DOKU_PCNAME>の呪い　消せ！<bw_break>": "Oh, God! Remove the curse of|<%sL_DOKU_PCNAME>!<bw_break>"
+  },
+  "191": {
+    "「……なら　これまでの　おこない。|　神に　告白しろ。|<bw_break>": "... So, what have you been up to? I told|God...<bw_break>"
+  },
+  "192": {
+    "「おお　神！|　コイツに　ひとときの休息　あたえろ！<end>": "Oh, God! Give him a moment of respite!<end>"
+  },
+  "193": {
+    "「……種族　変わった。|　装備できなくなった　武器や防具。|　オレ　はずしておいた。<bw_break>": "... Races... Weapons no longer equipped. I|can't...<bw_break>"
+  },
+  "194": {
+    "「<%sL_RULA_POINT>には|　いくつか　行き先ある。|　どの場所　覚えさせるか？<break>": "<%sL_RULA_POINT> has a few things going for|it... Which place do you want me to remember?<break>"
+  },
+  "195": {
+    "「そのルーラストーンの記憶場所|　<%sM_rurastone><%sM_dot><%sM_sub>になった。|　他に　用事あるか？|<break>": "The location of the Zoomstone's memory, at|<%sM_rurastone><%sM_dot><%sM_sub>... Is there|anything else you need?<break>"
+  },
+  "196": {
+    "「む？　それ。|　記憶場所　変えること　できない。|　別の石　選べ。|<break>": "No? A place to remember, to change... Another|stone...<break>"
+  },
+  "197": {
+    "「む？　オマエ　この場所。|　記憶されたルーラストーン　持ってる。|<bw_break>": "Mm? You have Zoomstone registered|for this place.<bw_break>"
+  },
+  "198": {
+    "「……わかった。|　なら　そのルーラストーン　念じろ……。|<break>": "Understood. Think hard about that Zoomstone...|<break>"
+  },
+  "199": {
+    "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "I'm recording this in my adventure book... Do|not touch the power button or the reset|button...<break>"
+  },
+  "200": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
+  },
+  "201": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|stop|<select_end><break>"
+  },
+  "202": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|stop|<select_end><break>"
+  },
+  "203": {
+    "「……やめるか。|　他に　用事あるか？|<break>": "....No, then? Is there any other business|you have?|<break>"
+  },
+  "204": {
+    "「……冒険　続けるか。|　他に　用事あるか？<break>": "... Adventures, continued... Is there|anything else you need?<break>"
+  },
+  "205": {
+    "「……なら　これまでのこと　記録しない。|<br>|「まだ　冒険　続けるか？|<yesno><break>": "... So you've been keeping track... Do you|want to continue the adventure?<yesno><break>"
+  },
+  "206": {
+    "「……記録せず　休むか。|　それだと　前の記録まで　冒険もどる。|　本当に　いいか？|<yesno><break>": "... No record... It's like a previous record|of adventure... Are you sure about this?<yesno><break>"
+  },
+  "207": {
+    "「……なら　これまでの　おこない。|　神に　告白しろ。|<br>|「冒険の書。記録して　いいか？|<yesno><break>": "... So, what have you been up to? I tell|God... Blasphemy... Can I go on record?<yesno><break>"
+  },
+  "208": {
+    "「……記録した。|<br>|「まだ　冒険　続けるか？|<yesno><break>": "... The story... Do you want to continue the|adventure?<yesno><break>"
+  },
+  "209": {
+    "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": "....Me trained as priest. So can be priest.|Say what you need.|<ask><bw_break>"
+  },
+  "210": {
+    "「……オレ　神父の修行した。|　だから　神父できる。|<br>|「この世界の神　オマエの行動　ずっと見てる。|　教会で　冒険の書に旅の記録する必要ない。|<br>|「でも　教会で　お祈りすると|　オマエが　チカラ尽きた時の復活場所|　祈りを捧げた場所に　変更すること　できる。|<br>|「冒険を終えたい時　さくせんコマンドの|　『冒険を中断する』で　いつでも行える。|　危険な場所だと　すこし時間　かかる。|<br>|「オマエ　用事　言え。|<ask><bw_break>": "... I'm a trained priest... So, Father... The|god of this world, what you've been doing...|You need to go to the church and record your|<br>|journey in the adventure book... But if you|pray at the church, when you run out of|energy, it will change your resurrection|<br>|location to the place where you prayed... If|you want to finish your adventure, you can|always use the \"Interrupt Adventure\"|<br>|command... If you're in a dangerous place,|it'll take a moment... I've got to go.<ask><bw_break>"
+  },
+  "211": {
+    "「他に　用事あるか？|<break>": "Anything else you need?|<break>"
+  },
+  "212": {
+    "「……種族　変える？|　よく　わからない。でも　やってみる。|<br>|「オマエ　もうひとつの姿。|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるか？|<yesno><break>": "... Change your race? I don't know... I|don't... Do you want to... You want to change|your race from <%sL_RACE_NOW> to|<br>|<%sL_RACE_AFTER>?<yesno><break>"
+  },
+  "213": {
+    "「……なら　旅の無事　神に祈れ。|<br>|「オマエが　チカラ尽きた時の復活場所。|　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　オレの前に変更して　いいか？|<yesno><break>": "... So, safe travels, God... When you run out|of energy... <Can we change the church from|the one in front of you to the one in front|<br>|of me?<yesno><break>"
+  },
+  "214": {
+    "「どの　ルーラストーンに|　この場所を　記憶させるか？|<break>": "Register which Zoomstone to this place?<break>"
+  },
+  "215": {
+    "「そのルーラストーンの記憶場所|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変えるか？|<yesno><break>": "Would you change the memory location of that|Zoomstone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
+  },
+  "216": {
+    "「冒険　中断。今日は　もう休むか？|<yesno 2><break>": "Would you like to take a break from your|adventure?|<yesno 2><break>"
+  },
+  "217": {
+    "「冒険　中断。今の仲間　別れることになる。|　本当に　いいか？|<yesno 2><break>": "Adventure... And now we're breaking up... Are|you sure about this?<yesno 2><break>"
+  },
+  "218": {
+    "「おお　神！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせろ！<bw_break>": "Oh, God!<pc> Awaken the <%sL_RACE_AFTER> that lies dormant|within the <%sL_RACE_AFTER>!<bw_break>"
+  },
+  "219": {
+    "「毒　取り除く。誰だ？|<break>": "Poison. Take... Who is it?<break>"
+  },
+  "220": {
+    "「呪い　解く。誰だ？|<break>": "Curse... Who is it?<break>"
+  },
+  "221": {
+    "「生き返らせる。誰だ？|<break>": "Come back to life... Who's there?<break>"
+  },
+  "222": {
+    "「む？　オマエの仲間。|　誰も　毒　やられてない。|<bw_break>": "No? You're... No one's ever been poisoned|by...<bw_break>"
+  },
+  "223": {
+    "「おお　神！|　<pc>の毒　清めろ！<bw_break>": "Oh, God!<pc> Poison! Cleanse!<bw_break>"
+  },
+  "224": {
+    "「おお　神！|　<%sL_DOKU_PCNAME>の毒　清めろ！<bw_break>": "Oh, God! <%sL_DOKU_PCNAME>'s poison. Cleanse!<bw_break>"
+  },
+  "225": {
+    "「変更しないか。|　オレは　かまわない。|<bw_break>": "I can't... I don't care...<bw_break>"
+  },
+  "226": {
+    "「今から　オマエ　チカラ尽きた時|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>で|　復活するように　なった。|<bw_break>": "From now on, when you run out of energy, you|will be resurrected here at <%sL_KYOUKAI_NAME|><%dL_TYOUME_NO1><%sL_TYOUME1>...<bw_break>"
+  },
+  "227": {
+    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> I prayed to God...<break>"
+  },
+  "228": {
+    "「む。オマエ　もう　ここを|　復活場所に　設定してる。|<br>|「でも　祈るの　よいこと。|　ここで　祈っていくか？|<yesno><break>": "No. You've already set this place as your|resurrection site... But we pray... You want|to pray here?<yesno><break>"
+  },
+  "229": {
+    "「……なら　<%nL_DOKU_GOLD>ゴールド|　寄付よこせ。いいか？|<yesno><break>": "... Gold, donate... Okay?<yesno><break>"
+  },
+  "230": {
+    "「むむ……。オマエ　お金　足りてない。|<bw_break>": "Umm... You not have enough Gold.|<bw_break>"
+  },
+  "231": {
+    "「……神。オマエ　ずっと見てる。|　また　来い。<turn_end>": "....Almighty One watching you. Come again.<turn_end>"
+  },
+  "232": {
+    "「……オマエの仲間。誰も　死んでない。|<bw_break>": "... You're... Nobody's dead...<bw_break>"
+  },
+  "233": {
+    "「おお　神！|　<%sL_DOKU_PCNAME>　生き返らせろ！<bw_break>": "Oh, God! <%sL_DOKU_PCNAME> Bring him back to|life!<bw_break>"
+  },
+  "234": {
+    "「む？　オマエ　毒　やられてない。|<bw_break>": "No? You're poison. You're poisoned.<bw_break>"
+  },
+  "235": {
+    "「む？　<%sL_DOKU_PCNAME>|　毒　やられてない。|<bw_break>": "No? <%sL_DOKU_PCNAME> Poison, I'm hit...<bw_break>"
+  },
+  "236": {
+    "「……オマエ　死んでない。|<bw_break>": "You... You're dead...<bw_break>"
+  },
+  "237": {
+    "「……<%sL_DOKU_PCNAME>　死んでない。|<bw_break>": "... <%sL_DOKU_PCNAME> dead...<bw_break>"
+  },
+  "238": {
+    "「む？　オマエ　呪われてない。|<bw_break>": "No? You're cursed...<bw_break>"
+  },
+  "239": {
+    "「む？　<%sL_DOKU_PCNAME>|　呪われてない。|<bw_break>": "No? <%sL_DOKU_PCNAME> Cursed...<bw_break>"
+  },
+  "240": {
+    "「む？　オマエの仲間。|　誰も　呪われてない。|<bw_break>": "No? You... No one is cursed...<bw_break>"
+  },
+  "241": {
+    "「おお　神！|　<pc>の呪い　消せ！<bw_break>": "Oh, God!<pc> Turn off the curse!<bw_break>"
+  },
+  "242": {
+    "「おお　神！|　<%sL_DOKU_PCNAME>の呪い　消せ！<bw_break>": "Oh, God! Remove the curse of|<%sL_DOKU_PCNAME>!<bw_break>"
+  },
+  "243": {
+    "「……なら　これまでの　おこない。|　神に　告白しろ。|<bw_break>": "... So, what have you been up to? I told|God...<bw_break>"
+  },
+  "244": {
+    "「おお　神！|　コイツに　ひとときの休息　あたえろ！<end>": "Oh, God! Give him a moment of respite!<end>"
+  },
+  "245": {
+    "「……種族　変わった。|　装備できなくなった　武器や防具。|　オレ　はずしておいた。<bw_break>": "... Races... Weapons no longer equipped. I|can't...<bw_break>"
+  },
+  "246": {
+    "「<%sL_RULA_POINT>には|　いくつか　行き先ある。|　どの場所　覚えさせるか？<break>": "<%sL_RULA_POINT> has a few things going for|it... Which place do you want me to remember?<break>"
+  },
+  "247": {
+    "「そのルーラストーンの記憶場所|　<%sM_rurastone><%sM_dot><%sM_sub>になった。|　他に　用事あるか？|<break>": "The location of the Zoomstone's memory, at|<%sM_rurastone><%sM_dot><%sM_sub>... Is there|anything else you need?<break>"
+  },
+  "248": {
+    "「む？　それ。|　記憶場所　変えること　できない。|　別の石　選べ。|<break>": "No? A place to remember, to change... Another|stone...<break>"
+  },
+  "249": {
+    "「む？　オマエ　この場所。|　記憶されたルーラストーン　持ってる。|<bw_break>": "Mm? You have Zoomstone registered|for this place.<bw_break>"
+  },
+  "250": {
+    "「……わかった。|　なら　そのルーラストーン　念じろ……。|<break>": "Understood. Think hard about that Zoomstone...|<break>"
+  },
+  "251": {
+    "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "I'm recording this in my adventure book... Do|not touch the power button or the reset|button...<break>"
+  },
+  "252": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
+  },
+  "253": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|stop|<select_end><break>"
+  },
+  "254": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|stop|<select_end><break>"
+  },
+  "255": {
+    "「……やめるか。|　他に　用事あるか？|<break>": "....No, then? Is there any other business|you have?|<break>"
+  },
+  "256": {
+    "「……冒険　続けるか。|　他に　用事あるか？<break>": "... Adventures, continued... Is there|anything else you need?<break>"
+  },
+  "257": {
+    "「……なら　これまでのこと　記録しない。|<br>|「まだ　冒険　続けるか？|<yesno><break>": "... So you've been keeping track... Do you|want to continue the adventure?<yesno><break>"
+  },
+  "258": {
+    "「……記録せず　休むか。|　それだと　前の記録まで　冒険もどる。|　本当に　いいか？|<yesno><break>": "... No record... It's like a previous record|of adventure... Are you sure about this?<yesno><break>"
+  },
+  "259": {
+    "「……なら　これまでの　おこない。|　神に　告白しろ。|<br>|「冒険の書。記録して　いいか？|<yesno><break>": "... So, what have you been up to? I tell|God... Blasphemy... Can I go on record?<yesno><break>"
+  },
+  "260": {
+    "「……記録した。|<br>|「まだ　冒険　続けるか？|<yesno><break>": "... The story... Do you want to continue the|adventure?<yesno><break>"
+  },
+  "261": {
+    "「私は　剣姫さまの弟子　魔封士のひとりにして|　シスターとしての役割を　背負う者。|<br>|「神に　みちびかれし　迷える子羊よ。|　ご用は　なんでしょう？|<ask><bw_break>": "I am a disciple of Ken-hime, one of the|Mages, and a Sister... I'm a lost soul who's|been led astray by the gods... What can I do|<br>|for you?<ask><bw_break>"
+  },
+  "262": {
+    "「私は　剣姫さまの弟子　魔封士のひとりにして|　シスターとしての役割を　背負う者。|<br>|「この世界では　神は常に　あなたの行動を|　見守っておられます。ゆえに　冒険の書に|　旅の記録をする必要は　ありません。|<br>|「ですが　お祈りをなさいますと|　あなたが　チカラ尽きた時の復活場所を|　祈りを捧げた所に　変更することができます。|<br>|「冒険を終えたい時は　さくせんコマンドの|　『冒険を中断する』で　いつでも行えますが|　危険な場所では　すこし時間がかかります。|<br>|「さて　本日のご用は　なんでしょう？|<ask><bw_break>": "I am the apprentice of the Princess Swords,|one of the Mages, and a Sister... In this|world, the gods are always watching over your|<br>|every move. So there's no need to record your|travels in the Book of Adventures. But if you|pray, your resurrection spot will be changed|<br>|to the place where you prayed, in case you|run out of energy. If you wish to end your|adventure, you may do so at any time by using|<br>|the \"Abort Adventure\" command... but it may|take some time in dangerous places. So, what|can I do for you today?<ask><bw_break>"
+  },
+  "263": {
+    "「他に　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "264": {
+    "「なるほど……確かに　あなたの中に|　別の種族の姿が　眠っているのを感じます。|<br>|「もうひとつの自分の姿を目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えますか？|<yesno><break>": "Well... It's true, I can feel another form of|your race sleeping inside you. Would you like|to awaken your other self and change your|<br>|race from <%sL_RACE_NOW> to <%sL_RACE_AFTER>?<yesno><break>"
+  },
+  "265": {
+    "「では　これからの　旅の無事を|　神の前に　お祈りなさい。|<br>|「そして　あなたが　チカラ尽きた時の|　復活場所を　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　この地に変更しても　よろしいですか？|<yesno><break>": "Now, I pray before God for the safety of your|journey... And may I change your resurrection|place from the church of <%sL_HUKKATU_POINT><|<br>|%dL_TYOUME_NO1><%sL_TYOUME1> to this place|when you are exhausted?<yesno><break>"
+  },
+  "266": {
+    "「どの　ルーラストーンに|　この場所を　記憶させますか？|<break>": "Register this location in which|Zoomstone?|<break>"
+  },
+  "267": {
+    "「そのルーラストーンの記憶場所を|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変更しますか？|<yesno><break>": "Do you want to change the memory location of|that Zoomstone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
+  },
+  "268": {
+    "「冒険を中断して　今日は　もう休まれますか？|<yesno 2><break>": "Would you like to interrupt your adventure|and rest for the day?<yesno 2><break>"
+  },
+  "269": {
+    "「冒険を中断すると　今の仲間とは|　別れてしまいますが　よろしいですか？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that okay with you?|<yesno 2><break>"
+  },
+  "270": {
+    "「ああ　我らが神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, my God!<pc> Awaken the <%sL_RACE_AFTER> that sleeps|within the <%sL_RACE_AFTER>!<bw_break>"
+  },
+  "271": {
+    "「どなたの毒を　取り除きますか？|<break>": "Whose poison is it that you're trying to|remove?<break>"
+  },
+  "272": {
+    "「どなたの呪いを　解きましょう？|<break>": "Whose curse shall I lift?<break>"
+  },
+  "273": {
+    "「どなたを　この世へ　呼び戻しますか？|<break>": "Who would you like to bring back into this|world?<break>"
+  },
+  "274": {
+    "「あら？　あなたの仲間は　どなたも|　毒に　おかされて　いないようですわ。|<bw_break>": "Oh? I don't think any of your people have|been poisoned.<bw_break>"
+  },
+  "275": {
+    "「ああ　我らが神よ！|　<pc>をむしばむ　悪しき毒を|　お清めください！<bw_break>": "Oh, my God!<pc> Cleanse me of the evil poison that gnaws at|my soul!<bw_break>"
+  },
+  "276": {
+    "「ああ　我らが神よ！|　<%sL_DOKU_PCNAME>をむしばむ　悪しき毒を|　お清めください！<bw_break>": "Oh, my God! Cleanse <%sL_DOKU_PCNAME> of the|evil poison that gnaws at it!<bw_break>"
+  },
+  "277": {
+    "「変更しないのですね。|　それも　ひとつの選択肢でしょう。|<bw_break>": "I don't want to change... It's an option...<bw_break>"
+  },
+  "278": {
+    "「これより　あなたが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>にて|　復活するように　なりました。|<bw_break>": "From now on, when you run out of energy, you|will be resurrected here at <%sL_KYOUKAI_NAME|><%dL_TYOUME_NO1><%sL_TYOUME1>...<bw_break>"
+  },
+  "279": {
+    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> I prayed to God...<break>"
+  },
+  "280": {
+    "「あら。あなたは　もう　この地を|　復活場所に　設定されているようですわ。|<br>|「ですが　お祈りを忘れないのは|　たいへん　よい心がけです。|　ここで　お祈りを捧げていきますか？|<yesno><break>": "Oh. It seems you've already set your sights|on this place of resurrection... But it's|very good of you to remember to pray... Would|<br>|you like to say your prayers here?<yesno><break>"
+  },
+  "281": {
+    "「それでは|　<%nL_DOKU_GOLD>ゴールドの　ご寄付を。|　よろしいですか？|<yesno><break>": "And now for the <%nL_DOKU_GOLD> gold... May|I?<yesno><break>"
+  },
+  "282": {
+    "「まあ……。残念ですが|　お金が　足りませんわ。|<bw_break>": "Well... I'm afraid I don't have enough|money...<bw_break>"
+  },
+  "283": {
+    "「神は　いつでも　あなたを|　見守っていてくださいます。|　また　おいでくださいね。<turn_end>": "God is always watching over you... Come|again...<turn_end>"
+  },
+  "284": {
+    "「まあ　ご冗談を。あなたの仲間は|　みなさん　お元気では　ありませんか。|　おほほほ……。|<bw_break>": "Well, sir... I hope all your friends are|well... Ho, ho, ho...<bw_break>"
+  },
+  "285": {
+    "「天にまします　我らが神よ！|　いま　ひとたび　<%sL_DOKU_PCNAME>に　|　命の息吹を　おあたえください！<bw_break>": "Our God, who art in heaven! Give|<%sL_DOKU_PCNAME> the breath of life once|more!<bw_break>"
+  },
+  "286": {
+    "「あら？　あなたは　毒に|　おかされては　いませんわ。|<bw_break>": "What? I don't think you've been poisoned.<bw_break>"
+  },
+  "287": {
+    "「あら？　<%sL_DOKU_PCNAME>さんは|　毒に　おかされては　いませんわ。|<bw_break>": "What? <%sL_DOKU_PCNAME> has not been poisoned|by...<bw_break>"
+  },
+  "288": {
+    "「まあ　ご冗談を。|　あなたは　生きておられるじゃありませんか。|<bw_break>": "Well, sir... You're still alive...<bw_break>"
+  },
+  "289": {
+    "「まあ　ご冗談を。|　<%sL_DOKU_PCNAME>さんは　生きておられますわ。|<bw_break>": "Well, sir... <%sL_DOKU_PCNAME> is still|alive...<bw_break>"
+  },
+  "290": {
+    "「あら？　あなたは|　呪われてなど　いませんわ。|<bw_break>": "What? You're not cursed...<bw_break>"
+  },
+  "291": {
+    "「あら？　<%sL_DOKU_PCNAME>さんは|　呪われてなど　いませんわ。|<bw_break>": "What? <%sL_DOKU_PCNAME> is not cursed...<bw_break>"
+  },
+  "292": {
+    "「あら。あなたの仲間は　どなたも|　呪われてなど　いませんわ。|<bw_break>": "Oh. None of your friends are cursed...<bw_break>"
+  },
+  "293": {
+    "「ああ　我らが神よ！|　<pc>を　いまわしき呪いより|　解きはなちください！<bw_break>": "Oh, my God!<pc> I beg you to lift the curse from me!<bw_break>"
+  },
+  "294": {
+    "「ああ　我らが神よ！|　<%sL_DOKU_PCNAME>を　いまわしき呪いより|　解きはなちください！<bw_break>": "Oh, my God! Release <%sL_DOKU_PCNAME> from|this terrible curse!<bw_break>"
+  },
+  "295": {
+    "「では　神の前に|　これまでの　おこないを　告白なさい。|<bw_break>": "So, before God, I confess what I've done...<bw_break>"
+  },
+  "296": {
+    "「あなたに　ひとときの|　休息が　あたえられますよう。|　さあ　おやすみなさい……。<end>": "I hope you've had a good night's rest. And|now, good night...<end>"
+  },
+  "297": {
+    "「種族が　変わったことで|　装備できなくなった　武器や防具は|　はずしておきました。<bw_break>": "Now that you've changed races, you can no|longer equip weapons and armor.<bw_break>"
+  },
+  "298": {
+    "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますわ。|　どの場所を覚えさせますか？<break>": "<%sL_RULA_POINT>|has several locations that can be registered.|Which location do you want to register?<break>"
+  },
+  "299": {
+    "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": "This Zoomstone is now currently registered to|<%sM_rurastone><%sM_dot><%sM_sub>.|Is there anything else I can do for you?|<break>"
+  },
+  "300": {
+    "「あら　それは　記憶された場所を|　変えることが　できないようですね。|　別の石を　お選びください。|<break>": "Oh, it's like you can't change the place|where it's remembered... I'd like you to|choose another stone.<break>"
+  },
+  "301": {
+    "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": "Hm? It seems you already have a Zoomstone|that has this location registered.|<bw_break>"
+  },
+  "302": {
+    "「かしこまりました。|　では　そのルーラストーンに|　念じてください……。|<break>": "Understood. Now, place that Zoomstone deep|into your thoughts...|<break>"
+  },
+  "303": {
+    "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "I'm recording this in my adventure book... Do|not touch the power button or the reset|button...<break>"
+  },
+  "304": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
+  },
+  "305": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|stop|<select_end><break>"
+  },
+  "306": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|stop|<select_end><break>"
+  },
+  "307": {
+    "「おやめになるのですね。|　他に　ご用はありますか？|<break>": "Changed your mind, hm? Is there anything else|I can help you with?|<break>"
+  },
+  "308": {
+    "「冒険を続けるのですね。|　では　他に ご用はありますか？<break>": "To continue the adventure... So, is there|anything else I can do for you, sir?<break>"
+  },
+  "309": {
+    "「では　これまでのことは|　記録しないで　おきましょう。|<br>|「まだ　冒険を続ける　おつもりですか？|<yesno><break>": "Well, then, let's just leave it at that,|shall we? Do you still wish to continue your|adventure?<yesno><break>"
+  },
+  "310": {
+    "「記録をせずに　休むとおっしゃるのですね。|　そうすると　冒険が　前の記録まで|　もどってしまいますが　よろしいのですか？|<yesno><break>": "You say you're taking a break from|recording... If I do that, my adventures will|revert to my previous record, is that|<br>|correct?<yesno><break>"
+  },
+  "311": {
+    "「では　神の前に|　これまでの　おこないを　告白なさい。|<br>|「そして　冒険の書に|　記録して　よろしいですか？|<yesno><break>": "Now, I will confess before the gods what I|have done so far... And record it in my book|of adventures. May I?<yesno><break>"
+  },
+  "312": {
+    "「たしかに　記録いたしました。|<br>|「まだ　冒険を続ける　おつもりですか？|<yesno><break>": "Yes, sir. I've been recording... Do you still|wish to continue your adventure?<yesno><break>"
+  },
+  "313": {
+    "「ワタシハ　支援端末Ｐ１０９。|　あすとるてぃあデ　教会ト　呼バレル機能ガ|　搭載サレテイマス。さぽーとガ　必要デスカ？|<ask><bw_break>": "I'm on a support terminal... I have a support|terminal, P. Astoltia, with a church call-|barrel feature. Do you need a port?<ask><bw_break>"
+  },
+  "314": {
+    "「ワタシハ　支援端末Ｐ１０９。|　あすとるてぃあデ　教会ト　呼バレル機能ガ|　搭載サレタ　端末デス。|<br>|「コノ世界デノ　アナタノ行動ハ　スベテ|　記録サレテイマス。冒険の書ニ　旅ノ記録ヲ|　ばっくあっぷスル　必要ハ　アリマセン。|<br>|「デスガ　オ祈リヲ　オコナウト|　生命活動ガ　停止シタ場合ノ　復活場所ヲ|　祈リヲ捧ゲタ場所ニ　更新ガ　可能デス。|<br>|「冒険ヲ　終エタイ時ハ　さくせんコマンド　ノ|　『冒険を中断する』ヲ　実行シテクダサイ。|　危険ナ場所デハ　スコシ　時間ガ　カカリマス。|<br>|「現在　教会機能ハ　スベテ|　正常ニ　作動シテイマス。|　ゴ希望ノ　さぽーと内容ヲ　選ンデクダサイ。|<ask><bw_break>": "I'm in a support terminal, P... Astoltia, a|church with a call-barrel function...|Everything you do in this world is|<br>|recorded... You'll need to fill out an|adventure book to record your travels. If|your life stops, you can update your prayer|<br>|to the place where you prayed. When you're|done adventuring, use the SES command, \"Abort|Adventure.\" If you're in a dangerous place,|<br>|you'll have to wait longer. The church is|functioning perfectly. Please select the|content of your desired report...<ask><bw_break>"
+  },
+  "315": {
+    "「他ニ　さぽーとガ　必要デスカ？|<break>": "What else do you need a portal for?<break>"
+  },
+  "316": {
+    "「要望：種族変更　確認。|　さーち……終了。|　１個体中ニ　複数ノ　種族反応ヲ　発見。|<br>|「現在ノ　種族トハ　異ナル姿。|　<%sL_RACE_NOW>カラ　<%sL_RACE_AFTER>ニ|　種族ヲ　変更シマスカ？|<yesno><break>": "Request: Race change... Sachi..... There are|multiple race reactions in one individual.|The current race is different...|<br>|<%sL_RACE_NOW> to <%sL_RACE_AFTER>?<yesno><break>"
+  },
+  "317": {
+    "「ソレデハ　今後ノ　旅ノ無事ヲ|　ワレワレ　支援端末ノ　創造主デアル|　わぎニ　祈ッテクダサイ。|<br>|「生命活動ガ　停止シタ場合ノ　復活場所ヲ|　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>ノ教会カラ|　ワタシノ前ニ　更新シマス。同意シマスカ？|<yesno><break>": "We pray to the creator of the device, Ware,|for the safety of our journey. In the event|of the cessation of life, the place of|<br>|resurrection will be the church of <%sL_HUKKA|TU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>. Do|you agree?<yesno><break>"
+  },
+  "318": {
+    "「ドノ　るーらすとーんニ|　コノ場所ヲ　記憶サセマスカ？|<break>": "Do you want to memorize this place in your|Zoomstone?<break>"
+  },
+  "319": {
+    "「選択サレタ　るーらすとーんノ　記憶場所ヲ|　<%sM_rurastone1><%sM_dot1><%sM_sub1>カラ|　<%sM_rurastone><%sM_dot><%sM_sub>ニ　変更シマスカ？|<yesno><break>": "Is the memory location of the selected|Zoomstone|<%sM_rurastone1><%sM_dot1><%sM_sub1> changed|<br>|to <%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
+  },
+  "320": {
+    "「要望：冒険終了　確認。|　冒険ヲ中断シ　今日ハ　休息シマスカ？|<yesno 2><break>": "Request: End of adventure... Let's stop this|adventure and rest for the day, shall we?<yesno 2><break>"
+  },
+  "321": {
+    "「冒険ヲ中断スルト　現在ノ　仲間トハ|　別レルコトニ　ナリマス。|　ソレデモ　ヨロシイデスカ？|<yesno 2><break>": "If you interrupt our adventure, you will be|separated from your current companions... Is|that a good idea?<yesno 2><break>"
+  },
+  "322": {
+    "「種族変更ぷろぐらむ　実行。|　<pc>サンノ　個体でーたヲ|　<%sL_RACE_AFTER>ニ　更新シマス。<bw_break>": "Race change plorgam...<pc> Sanno datalo <%sL_RACE_AFTER>ni update...<bw_break>"
+  },
+  "323": {
+    "「要望：解毒治療　確認。|　毒ヲ　取リ除ク対象ヲ　選択シテクダサイ。|<break>": "Request: Detoxification Treatment... Select|an object to remove the poison from...<break>"
+  },
+  "324": {
+    "「要望：呪イ解除　確認。|　呪イヲ　解ク対象ヲ　選択シテクダサイ。|<break>": "Request: Remove spell... Select a target to|break the spell...<break>"
+  },
+  "325": {
+    "「要望：生命反応ノ再生　確認。|　蘇生スル対象ヲ　選択シテクダサイ。|<break>": "Request: Regeneration of vital signs...|Please select a target for revival...<break>"
+  },
+  "326": {
+    "「あらーと。アナタノ仲間ハ　全員清浄デス。|　毒　検知反応：ねがてぃぶ。|　毒ノ治療ハ　必要アリマセン。|<bw_break>": "Oh... Your friends are all clean. Poison|detection: please... Poison needs to be|treated.<bw_break>"
+  },
+  "327": {
+    "「毒　治療ぷろぐらむ　実行。|　<pc>サンノ　毒ヲ　浄化シマス。<bw_break>": "Poison. Treatment...<pc> No, no, no, no, no.<bw_break>"
+  },
+  "328": {
+    "「毒　治療ぷろぐらむ　実行。|　<%sL_DOKU_PCNAME>サンノ　毒ヲ　浄化シマス。<bw_break>": "Poison. Healing... <%sL_DOKU_PCNAME>Sanno|Poison wo Puru...<bw_break>"
+  },
+  "329": {
+    "「復活場所ノ　設定　更新ナシ。|　了解シマシタ。<bw_break>": "Resurrection location. Copy that...<bw_break>"
+  },
+  "330": {
+    "「更新完了。現時点ヨリ　アナタノ　生命活動ガ|　停止シタ場合ハ　ココ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>デ|　復活シマス。|<bw_break>": "Further... At this time, if your vitals have|ceased to function, you will be restored to|this <%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_T|<br>|YOUME1>...<bw_break>"
+  },
+  "331": {
+    "<pc>は　ワギに　祈りを捧げた……。|<break>": "<pc> He prayed to the wagi...<break>"
+  },
+  "332": {
+    "「あらーと。|　現在　アナタノ　復活場所ハ　ワタシノ前デス。|　設定ヲ　更新スル必要ハ　アリマセン。|<br>|「ワレワレ　支援端末ノ　創造主デアル|　わぎニ　祈ルコトハ　可能デス。|　ココデ　祈ッテイキマスカ？|<yesno><break>": "Oh... You're currently in a resurrection|location. You need to update your settings. I|am the creator of your assistive device, and|<br>|I can pray to you... Can I pray here?<yesno><break>"
+  },
+  "333": {
+    "「選択サレタ　さぽーとニ　必要ナ料金ハ|　<%nL_DOKU_GOLD>ごーるど　デス。|　オ支払イ　イタダケマスカ？|<yesno><break>": "The required fee for the selected port is|<%nL_DOKU_GOLD>... Is it possible to pay?<yesno><break>"
+  },
+  "334": {
+    "「あらーと。所持金ガ　不足シテイマス。|　冒険者さぽーとヲ　ゴ利用デキマセン。|<bw_break>": "Oh... I don't have enough money... I can't|use the Adventurer's Portal...<bw_break>"
+  },
+  "335": {
+    "「ワタシハ　支援端末Ｐ１０９。|　冒険者さぽーとガ　必要ナ時ハ|　イツデモ　ゴ利用クダサイ。<turn_end>": "I have a support terminal, P... Whenever you|need an adventurer's support, please use|it...<turn_end>"
+  },
+  "336": {
+    "「あらーと。|　アナタノ仲間ノ　生命活動ハ　正常デス。|　蘇生ハ　必要アリマセン。|<bw_break>": "Uh... Your companion's vitals are correct...|They need to be revived.<bw_break>"
+  },
+  "337": {
+    "「蘇生ぷろぐらむ　実行。|　<%sL_DOKU_PCNAME>サンノ|　生命活動ヲ　再生サセマス。<bw_break>": "Sousei Puroguramu... <%sL_DOKU_PCNAME>SUN NO|LIFE ACTIVITY...<bw_break>"
+  },
+  "338": {
+    "「あらーと。アナタハ　清浄デス。|　毒　検知反応：ねがてぃぶ。|　毒ノ治療ハ　必要アリマセン。|<bw_break>": "Oh... You're a clean... Poison detection:|please... Poison treatment is required.<bw_break>"
+  },
+  "339": {
+    "「あらーと。毒　検知反応：ねがてぃぶ。|　<%sL_DOKU_PCNAME>サンハ　清浄デス。|　毒ノ治療ハ　必要アリマセン。|<bw_break>": "Oh... Poison Detection: Nega...|<%sL_DOKU_PCNAME>san ha sei... Poison|treatment required...<bw_break>"
+  },
+  "340": {
+    "「あらーと。|　アナタノ　生命活動ハ　正常デス。|　蘇生ハ　必要アリマセン。|<bw_break>": "Uh... Your vitals are correct...|Resuscitation is necessary...<bw_break>"
+  },
+  "341": {
+    "「あらーと。|　<%sL_DOKU_PCNAME>サンノ　生命活動ハ　正常デス。|　蘇生ハ　必要アリマセン。|<bw_break>": "Oh... <%sL_DOKU_PCNAME>Susan's vitals are in|order... Resuscitation is necessary...<bw_break>"
+  },
+  "342": {
+    "「あらーと。アナタハ　正常デス。|　呪イ　検知反応：ねがてぃぶ。|　呪イ解除ハ　必要アリマセン。|<bw_break>": "Oh... You're right... The spell has been|detected. The spell needs to be lifted.<bw_break>"
+  },
+  "343": {
+    "「あらーと。呪イ　検知反応：ねがてぃぶ。|　<%sL_DOKU_PCNAME>サンハ　正常デス。|　呪イ解除ハ　必要アリマセン。|<bw_break>": "Ah... Cursed Lee, detection reaction: Nega...|<%sL_DOKU_PCNAME>san ha correct... The spell|needs to be lifted...<bw_break>"
+  },
+  "344": {
+    "「あらーと。アナタノ仲間ハ　全員正常デス。|　呪イ　検知反応：ねがてぃぶ。|　呪イ解除ハ　必要アリマセン。|<bw_break>": "Uh... Your friends are all right. The spell|has been detected. The spell needs to be|lifted.<bw_break>"
+  },
+  "345": {
+    "「呪イ　解除ぷろぐらむ　実行。|　<pc>サンノ　呪イヲ　解除シマス。<bw_break>": "Cursed, disarmed, plagued...<pc> The curse of the sun has been lifted.<bw_break>"
+  },
+  "346": {
+    "「呪イ　解除ぷろぐらむ　実行。|　<%sL_DOKU_PCNAME>サンノ　呪イヲ　解除シマス。<bw_break>": "Release the curse... <%sL_DOKU_PCNAME>SUN NO|CURSE...<bw_break>"
+  },
+  "347": {
+    "「デハ　コレマデノ行動ヲ|　ワレワレ　支援端末ノ　創造主デアル|　わぎニ　告白シテクダサイ。|<bw_break>": "I'm the creator of the device, and I'm here|to confess...<bw_break>"
+  },
+  "348": {
+    "「ワタシハ　支援端末Ｐ１０９。|　アナタノ休息ヲ　わぎニ　報告シマス。|　オツカレサマデシタ……。<end>": "I'm a P.R. terminal... I'm here to report|that you are resting... I'm sorry for your|loss.<end>"
+  },
+  "349": {
+    "「いんふぉめーしょん。種族変更ニ　ヨッテ|　装備不可能トナッタ　武器・防具ハ|　そうびぶくろニ　収納シマシタ。<bw_break>": "I'm sorry. Weapons and armor that can no|longer be equipped due to the change in race|will be stored in the storage bag...<bw_break>"
+  },
+  "350": {
+    "「<%sL_RULA_POINT>ニハ|　複数ノ　行キ先ガ　アリマス。|　ドノ場所ヲ　覚エサセマスカ？<break>": "<%sL_RULA_POINT>there are multiple|destinations... Do you have any idea where|they are?<break>"
+  },
+  "351": {
+    "「選択サレタ　るーらすとーんノ　記憶場所ヲ|　<%sM_rurastone><%sM_dot><%sM_sub>ニ　更新。|　他ニ　さぽーとガ　必要デスカ？|<break>": "<%sM_rurastone><%sM_dot><%sM_sub>The memory|location of the selected Zoomstone... What|else do you need a port for?<break>"
+  },
+  "352": {
+    "「あらーと。選択サレタ　モノ　ハ|　記憶サレタ場所ヲ　変更デキマセン。|　別ノ石ヲ　選ンデクダサイ。|<break>": "Uh... What you choose, you can change where|you remember it. Select another stone...<break>"
+  },
+  "353": {
+    "「あらーと。コノ場所ヲ　記憶サセタ|　るーらすとーんノ　所持ヲ　確認。|　同ジ場所ヘノ　多重登録ハ　デキマセン。|<bw_break>": "Oh no. You have already memorized this|location in a Zoomstone. You can't register|more than one in the same place.|<bw_break>"
+  },
+  "354": {
+    "「設定確認。|　ソレデハ　選択サレタ　るーらすとーん　ニ|　念ジテクダサイ。|<break>": "I'm sorry. I'll be sure to check on the|Zoomstone that was selected.<break>"
+  },
+  "355": {
+    "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "I'm recording this in my adventure book... Do|not touch the power button or the reset|button...<break>"
+  },
+  "356": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
+  },
+  "357": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|stop|<select_end><break>"
+  },
+  "358": {
+    "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|stop|<select_end><break>"
+  },
+  "359": {
+    "「要望きゃんせる　確認。|　他ニ　さぽーとガ　必要デスカ？<break>": "What do you want? What else do you need a|portal for?<break>"
+  },
+  "360": {
+    "「冒険終了ノ　きゃんせる　確認。|　他ニ　さぽーとガ　必要デスカ？<break>": "Adventure's over, Kyan... What else do you|need a portal for?<break>"
+  },
+  "361": {
+    "「ばっくあっぷ　中止。|　冒険の書ニ　記録ハ　行イマセン。|<br>|「引キ続キ　冒険ヲ　実行シマスカ？|<yesno><break>": "I'm going to blow it up. I'm going to record|this in my adventure book. Do you want to|continue this adventure?<yesno><break>"
+  },
+  "362": {
+    "「ばっくあっぷヲ　更新セズニ　休息シタ場合|　アナタノ冒険ハ　前回ノ　ばっくあっぷマデ|　戻リマス。ソレデモ　ヨロシイデスカ？|<yesno><break>": "If you take a break from updating your|updates, your adventure will return to the|previous version... Is that a good idea?<yesno><break>"
+  },
+  "363": {
+    "「デハ　コレマデノ行動ヲ　記録シマス。|　ワレワレ　支援端末ノ　創造主デアル|　わぎニ　告白シテクダサイ。|<br>|「冒険の書ニ　旅ノ記録ヲ|　ばっくあっぷシテ　ヨロシイデスカ？|<yesno><break>": "I am the creator of the assistive device. I|am the creator of the assistive device. I|confess to you. Do you wish to record your|<br>|journey in the Book of Adventures?<yesno><break>"
+  },
+  "364": {
+    "「冒険の書　ばっくあっぷ　成功。|<br>|「引キ続キ　冒険ヲ　実行シマスカ？|<yesno><break>": "The Book of Adventures: Bakupup... Do you|want to continue this adventure?<yesno><break>"
+  },
+  "365": {
+    "clarity_nt_char_365": "clarity_nt_char_365"
+  },
+  "366": {
+    "目の前に　不思議な石碑が浮かんでいる。|<pc>が　石碑に近づくと|持っていたルーラストーンが　輝きだした。|<br>|どうやら　この場所で念じれば|ルーラストーンの飛び先として　登録することが|できるようだ。<bw_break>": "There's a strange stone monument floating in|front of me...<pc> But as I approached the monument, the rune|stone I was holding began to glow.|Apparently, you can register this place as a|<br>|destination for your rune rune...<bw_break>"
+  },
+  "367": {
+    "clarity_nt_char_367": "clarity_nt_char_367"
+  },
+  "368": {
+    "clarity_nt_char_368": "clarity_nt_char_368"
+  },
+  "369": {
+    "clarity_nt_char_369": "clarity_nt_char_369"
+  },
+  "370": {
+    "どの　ルーラストーンに|この場所を　記憶させますか？|<break>": "Register this location in which Zoomstone?<break>"
+  },
+  "371": {
+    "そのルーラストーンの記憶場所を|<%sM_rurastone1><%sM_dot1><%sM_sub1>から|<%sM_rurastone><%sM_dot><%sM_sub>に　変更しますか？|<yesno><break>": "Do you want to change the memory location of|that Zoomstone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
+  },
+  "372": {
+    "clarity_nt_char_372": "clarity_nt_char_372"
+  },
+  "373": {
+    "clarity_nt_char_373": "clarity_nt_char_373"
+  },
+  "374": {
+    "clarity_nt_char_374": "clarity_nt_char_374"
+  },
+  "375": {
+    "clarity_nt_char_375": "clarity_nt_char_375"
+  },
+  "376": {
+    "clarity_nt_char_376": "clarity_nt_char_376"
+  },
+  "377": {
+    "clarity_nt_char_377": "clarity_nt_char_377"
+  },
+  "378": {
+    "clarity_nt_char_378": "clarity_nt_char_378"
+  },
+  "379": {
+    "clarity_nt_char_379": "clarity_nt_char_379"
+  },
+  "380": {
+    "clarity_nt_char_380": "clarity_nt_char_380"
+  },
+  "381": {
+    "clarity_nt_char_381": "clarity_nt_char_381"
+  },
+  "382": {
+    "clarity_nt_char_382": "clarity_nt_char_382"
+  },
+  "383": {
+    "clarity_nt_char_383": "clarity_nt_char_383"
+  },
+  "384": {
+    "clarity_nt_char_384": "clarity_nt_char_384"
+  },
+  "385": {
+    "clarity_nt_char_385": "clarity_nt_char_385"
+  },
+  "386": {
+    "clarity_nt_char_386": "clarity_nt_char_386"
+  },
+  "387": {
+    "石碑は　静かに　たたずんでいる。": "The monument sits quietly..."
+  },
+  "388": {
+    "clarity_nt_char_388": "clarity_nt_char_388"
+  },
+  "389": {
+    "clarity_nt_char_389": "clarity_nt_char_389"
+  },
+  "390": {
+    "clarity_nt_char_390": "clarity_nt_char_390"
+  },
+  "391": {
+    "clarity_nt_char_391": "clarity_nt_char_391"
+  },
+  "392": {
+    "clarity_nt_char_392": "clarity_nt_char_392"
+  },
+  "393": {
+    "clarity_nt_char_393": "clarity_nt_char_393"
+  },
+  "394": {
+    "clarity_nt_char_394": "clarity_nt_char_394"
+  },
+  "395": {
+    "clarity_nt_char_395": "clarity_nt_char_395"
+  },
+  "396": {
+    "clarity_nt_char_396": "clarity_nt_char_396"
+  },
+  "397": {
+    "clarity_nt_char_397": "clarity_nt_char_397"
+  },
+  "398": {
+    "clarity_nt_char_398": "clarity_nt_char_398"
+  },
+  "399": {
+    "clarity_nt_char_399": "clarity_nt_char_399"
+  },
+  "400": {
+    "clarity_nt_char_400": "clarity_nt_char_400"
+  },
+  "401": {
+    "clarity_nt_char_401": "clarity_nt_char_401"
+  },
+  "402": {
+    "clarity_nt_char_402": "clarity_nt_char_402"
+  },
+  "403": {
+    "ルーラストーンの記憶する場所は|<%sM_rurastone><%sM_dot><%sM_sub>となった。": "The location <%sM_rurastone><%sM_dot><%sM_sub>|is now registered in the Zoomstone."
+  },
+  "404": {
+    "それは　記憶された場所を|変えることが　できないようだ。|<break>": "It's a place that can't be altered...<break>"
+  },
+  "405": {
+    "すでに　この場所を記憶させた|ルーラストーンを持っているようだ。|<end>": "I already have a Zoomstone that remembers|this place...<end>"
+  },
+  "406": {
+    "<pc>は　ルーラストーンを持ち　念じた。|<break>": "<pc> registered the location in the|Zoomstone|<break>"
+  },
+  "407": {
+    "clarity_nt_char_407": "clarity_nt_char_407"
+  },
+  "408": {
+    "clarity_nt_char_408": "clarity_nt_char_408"
+  },
+  "409": {
+    "clarity_nt_char_409": "clarity_nt_char_409"
+  },
+  "410": {
+    "clarity_nt_char_410": "clarity_nt_char_410"
+  },
+  "411": {
+    "<pc>は　ルーラストーンに|登録するのをやめた。": "<pc> stopped registering it in|the Zoomstone."
+  },
+  "412": {
+    "clarity_nt_char_412": "clarity_nt_char_412"
+  },
+  "413": {
+    "clarity_nt_char_413": "clarity_nt_char_413"
+  },
+  "414": {
+    "clarity_nt_char_414": "clarity_nt_char_414"
+  },
+  "415": {
+    "clarity_nt_char_415": "clarity_nt_char_415"
+  },
+  "416": {
+    "clarity_nt_char_416": "clarity_nt_char_416"
+  },
+  "417": {
+    "<color_yellow>シナリオ進行に影響されるため|この石を他のプレイヤーが使うには　一度|<%sW_MAP_NAME_R>に入る必要があります。<color_white>": "<color_yellow>Due to scenario progression, other players|will need to enter <%sW_MAP_NAME_R> once|before they can use this stone...<color_white>"
+  },
+  "418": {
+    "<color_yellow>シナリオ進行に影響されるため|この石を他のプレイヤーが使うには　一度|<%sW_MAP_NAME_R>に入る必要があります。<color_white>": "<color_yellow>Due to scenario progression, other players|will need to enter <%sW_MAP_NAME_R> once|before they can use this stone...<color_white>"
+  },
+  "419": {
+    "<color_yellow>シナリオ進行に影響されるため|この石を他のプレイヤーが使うには　一度|<%sW_MAP_NAME_R>に入る必要があります。<color_white>": "<color_yellow>Due to scenario progression, other players|will need to enter <%sW_MAP_NAME_R> once|before they can use this stone...<color_white>"
+  },
+  "420": {
+    "<color_yellow>シナリオ進行に影響されるため|この石を他のプレイヤーが使うには　一度|<%sW_MAP_NAME_R>に入る必要があります。<color_white>": "<color_yellow>Due to scenario progression, other players|will need to enter <%sW_MAP_NAME_R> once|before they can use this stone...<color_white>"
+  },
+  "421": {
+    "<color_yellow>シナリオ進行に影響されるため|この石を他のプレイヤーが使うには　一度|<%sW_MAP_NAME_R>に入る必要があります。<color_white>": "<color_yellow>Due to scenario progression, other players|will need to enter <%sW_MAP_NAME_R> once|before they can use this stone...<color_white>"
+  },
+  "422": {
+    "<color_yellow>シナリオ進行に影響されるため|この石を他のプレイヤーが使うには　一度|<%sW_MAP_NAME_R>に入る必要があります。<color_white>": "<color_yellow>Due to scenario progression, other players|will need to enter <%sW_MAP_NAME_R> once|before they can use this stone...<color_white>"
+  },
+  "423": {
+    "<color_yellow>シナリオ進行に影響されるため|この石を他のプレイヤーが使うには　一度|<%sW_MAP_NAME_R>に入る必要があります。<color_white>": "<color_yellow>Due to scenario progression, other players|will need to enter <%sW_MAP_NAME_R> once|before they can use this stone...<color_white>"
+  },
+  "424": {
+    "<color_yellow>シナリオ進行に影響されるため|この石を他のプレイヤーが使うには　一度|<%sW_MAP_NAME_R>に入る必要があります。<color_white>": "<color_yellow>Due to scenario progression, other players|will need to enter <%sW_MAP_NAME_R> once|before they can use this stone...<color_white>"
+  }
+}

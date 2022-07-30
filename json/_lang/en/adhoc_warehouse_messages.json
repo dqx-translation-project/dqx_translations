@@ -1,0 +1,2576 @@
+{
+  "1": {
+    "「おやめに　なるのですね？": "So you're quitting?"
+  },
+  "2": {
+    "１０００ゴールド単位で　預けられます。|いくら　預けますか？|<break>": "I can deposit 1,000 gold pieces... How much|do you want to deposit?<break>"
+  },
+  "3": {
+    "１０００ゴールド単位で　引き出せます。|現在　<%nL_AZU_BALANCE>０００ゴールド|預けていますが　いくら引き出しますか？|<break>": "Withdrawal in units of 1,000 gold... You have|<%nL_AZU_BALANCE>000 gold in your account,|how much would you like to withdraw?<break>"
+  },
+  "4": {
+    "<%nL_AZU_DEPOS_GLD>０００ゴールド　預けて|合計で　<%nL_AZU_BALANCE>０００ゴールド|預けています。|<end>": "<%nL_AZU_DEPOS_GLD>000 gold deposited, for a|total of <%nL_AZU_BALANCE>000 gold|deposited...<end>"
+  },
+  "5": {
+    "これ以上　預けられません。|<end>": "I can't keep you any longer.<end>"
+  },
+  "6": {
+    "預けられている|ゴールドが　ありません。|<end>": "There's gold on deposit...<end>"
+  },
+  "7": {
+    "現在　<%nL_AZU_BALANCE>０００ゴールド|預けています。|<end>": "Currently <%nL_AZU_BALANCE>000 gold|deposited...<end>"
+  },
+  "8": {
+    "現在　預けている|ゴールドは　ありません。|<end>": "There's currently no gold on deposit...<end>"
+  },
+  "9": {
+    "<%nL_AZU_DEPOS_GLD>０００ゴールド|預けました。|<br>|現在　<%nL_AZU_BALANCE>０００ゴールド|預けています。|<end>": "<%nL_AZU_DEPOS_GLD>000 Gold Deposit... Now|<%nL_AZU_BALANCE>000 gold deposited...<end>"
+  },
+  "10": {
+    "現在　<%nL_AZU_BALANCE>０００ゴールド|お預かりしていますが　どうしますか？|<break>": "You currently have <%dL_AZU_BALANCE>000 Gold|deposited. What do you want to do?<break>"
+  },
+  "11": {
+    "預けている　ゴールドがありませんが|どうしますか？|<break>": "We don't have the gold on deposit. What do we|do now?<break>"
+  },
+  "12": {
+    "これ以上　ゴールドを|持てません。|<end>": "We can't have any more gold...<end>"
+  },
+  "13": {
+    "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
+  },
+  "14": {
+    "<select_se_off 2>|あずける|ひきだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
+  },
+  "15": {
+    "<%nL_WITHDRW_GLD>０００ゴールド　引き出して|現在　<%nL_AZU_BALANCE>０００ゴールド|預けています。|<end>": "<%nL_WITHDRW_GLD>000 gold withdrawn, now|<%nL_AZU_BALANCE>000 gold deposited...<end>"
+  },
+  "16": {
+    "<%nL_WITHDRW_GLD>０００ゴールド|引き出しました。|<br>|現在　<%nL_AZU_BALANCE>０００ゴールド|預けています。|<end>": "<%nL_WITHDRW_GLD>000 Gold Withdrawal... Now|<%nL_AZU_BALANCE>000 gold...<end>"
+  },
+  "17": {
+    "<%nL_WITHDRW_GLD>０００ゴールド|引き出しました。|現在　預けているゴールドは　ありません。|<end>": "<%nL_WITHDRW_GLD>000 Gold Withdrawal... I|currently have gold in escrow...<end>"
+  },
+  "18": {
+    "預けられるだけの|ゴールドを　持っていません。|<end>": "I don't have enough gold to make a deposit.<end>"
+  },
+  "19": {
+    "「ゴールド銀行を　ご利用ですね。|　本日は　どうされますか？|<break>": "I'm a Gold Bank customer... How can I help|you today?<break>"
+  },
+  "20": {
+    "「申し訳ありませんが|　そのアイテムは　お預かりできません。|　何を　お預けになりますか？|<end>": "I'm sorry, sir. We can't keep that item. What|would you like to check in?<end>"
+  },
+  "21": {
+    "「預かり所へ　ようこそ。|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "Welcome to the Depository. Both are free to|use. Which would you like to use today?|<break>"
+  },
+  "22": {
+    "「<convenience>で　持ち物や倉庫を決めてから|　反対側の画面に　移動させたいアイテムを選ぶと|　預けたり　取りだしたりすることができます。|<end>": "<convenience>In the other side of the screen, select the|item you want to move and you can deposit or|retrieve it.<end>"
+  },
+  "23": {
+    "「どの倉庫に　アイテムを預けますか？|<break>": ""
+  },
+  "24": {
+    "「どの倉庫から　アイテムを取りだしますか？|<break>": "Which warehouse do you want to retrieve the|items from?<break>"
+  },
+  "25": {
+    "「かしこまりました。|　拡張券はいつでも使えるので|　また持ってきてください|<break>": "Yes, sir... You can always use the expansion|tickets. Bring them back.<break>"
+  },
+  "26": {
+    "「おめでとうございます！|　<%sL_STORAGE>が|　使えるようになりました！|<break>": "Congratulations! You've got <%sL_STORAGE>|working for you!<break>"
+  },
+  "27": {
+    "未使用|<break>": "unused|<break>"
+  },
+  "28": {
+    "「承りました。それでは以前いただいた|　きらめきのインクで　サインをお願いします。|<break>": "I'll take that... Now, I'd like you to sign|this with the sparkling ink that you gave|me...<break>"
+  },
+  "29": {
+    "「さて　本日は　どちらをご利用ですか？|<break>": "So, where would you like to go today, sir?<break>"
+  },
+  "30": {
+    "「預かり所へ　ようこそ。|　このたび　アイテム倉庫が|　大幅に　リニューアルいたしました！|<br>|「また　お使いの倉庫に|　名前をつけることも　できるようになりました！|　『倉庫名を変える』から　お試しください。|<bw_break>": "To the storeroom, please... We're pleased to|announce that the Item Warehouse has|undergone a major overhaul! And now you can|<br>|name your warehouse! Go to \"Rename Warehouse\"|and try it out...<bw_break>"
+  },
+  "31": {
+    "「<pc>さまの　５キャラコースの登録を|　確認しました。今回から　また|　５キャラ倉庫を　ご利用いただけます。|<bw_break>": "<pc> Your registration for the 5-Character Course|has been confirmed... You can now use the|5-Character Warehouse again...<bw_break>"
+  },
+  "32": {
+    "「このたび　預かり所では|　５キャラコースを　ご利用の方に|　新たなサービスを　追加いたしました！|<br>|「<pc>さまは　５キャラコースを|　ご利用なので　アイテムを５０種類収納できる|　５キャラ倉庫を　追加で　ご利用いただけます！|<bw_break>": "We're pleased to announce that we've added a|new service for our 5-Chara Course users!<pc> Since you're using the 5-Character Course,|you'll have access to the 5-Character|Warehouse, which holds an additional 50|<br>|items!<bw_break>"
+  },
+  "33": {
+    "<pc>は申込書にサインした|<break>": "<pc> signed the application form|<break>"
+  },
+  "34": {
+    "<pc>は拡張倉庫が使えるようになった|<break>": "<pc> can now use the extended warehouse|<break>"
+  },
+  "35": {
+    "「５キャラ倉庫の中身は　こちらになります。|<end>": "Here's what's in the five-character|warehouse...<end>"
+  },
+  "36": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll get it back to you. Which|warehouse do you want to retrieve the item|<br>|from?<break>"
+  },
+  "37": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|it back. Which warehouse do you want to|<br>|retrieve the item from?<break>"
+  },
+  "38": {
+    "「<%sL_AZU_ITEM_NAME>でありますね。|　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
+  },
+  "39": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": ""
+  },
+  "40": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|　装備していますが　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,|is that correct?<yesno><break>"
+  },
+  "41": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>... Now, if|you'll excuse me... Is there anything else I|can do for you, sir?<break>"
+  },
+  "42": {
+    "「<pc>さま申し訳ありません。|　ワンタイムパスワードの倉庫には|　預けられません。|<break>": "<pc> I'm sorry, sir... You can't keep a one-time|password in a warehouse...<break>"
+  },
+  "43": {
+    "「申し訳ありませんが|　５キャラコースの登録が　確認できないので|　５キャラ倉庫を　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that you've|registered for a 5-Character Course, so you|can't use the 5-Character Warehouse...<end>"
+  },
+  "44": {
+    "「では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "I'll take good care of it. Is there anything|else I can do for you, sir?<break>"
+  },
+  "45": {
+    "「倉庫がいっぱいなので|　代わりに<%sL_STORAGE>に|　しまっていいですか？|<break>": "My warehouse is full, can I put it in|<%sL_STORAGE> instead?<break>"
+  },
+  "46": {
+    "「こちらの倉庫は利用不可なので|　代わりに<%sL_STORAGE>にしまっていい？|<break>": "Since this warehouse is unavailable, can I|put it in <%sL_STORAGE> instead?<break>"
+  },
+  "47": {
+    "「では　大切に　お預かりします。|　他の物も　預けますか？|<break>": "Well, I'll take good care of it. Do you want|me to take anything else?<break>"
+  },
+  "48": {
+    "「<%sL_AZU_ITEM_NAME>　ひとつを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> I'll take one... May I?<yesno><break>"
+  },
+  "49": {
+    "「<%sL_AZU_ITEM_NAME>を|　どの倉庫に　お入れしますか？|<break>": "In which warehouse would you like to store|<%sL_AZU_ITEM_NAME>?<break>"
+  },
+  "50": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　お預かりします。|　他の物も　預けますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> for|safekeeping... Do you want to keep the other|items?<break>"
+  },
+  "51": {
+    "「それでは　<%sL_STORAGE>を|　整理していただけますか|<break>": "Now let's add <%sL_STORAGE> to the| Can you sort it out, please?|<break>"
+  },
+  "52": {
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I|take this... May I?<yesno><break>"
+  },
+  "53": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　どの倉庫に　お入れしますか？|<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>|individual... In which warehouse would you|like it stored?<break>"
+  },
+  "54": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個|　お預かりします。|　他の物も　預けますか？|<break>": "We have <%sL_AZU_ITEM_NAME> for|<%nL_AZU_ITEM_NUM>... Do you want to keep the|other items?<break>"
+  },
+  "55": {
+    "「何を　お預けになりますか？|<end>": "What would you like to drop off?<end>"
+  },
+  "56": {
+    "「おやめになるのですね。|　他に　預けたいものはありますか？|<end>": "If you don't mind... Is there anything else|you'd like to leave with me?<end>"
+  },
+  "57": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Well,|I'll certainly return the favor... Is there|anything else I can do for you?<break>"
+  },
+  "58": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll give you... Would you like|something else in return?<break>"
+  },
+  "59": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get|back to you... Is there anything else I can|<br>|do for you, sir?<break>"
+  },
+  "60": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|you... Would you like something else in|<br>|return?<break>"
+  },
+  "61": {
+    "「おや　<%sL_STORAGE>がいっぱいのようですね。|　そんなに　たくさん　お持ちになれませんよ。|　何を　お返ししますか？|<end>": "Oh, you have a lot of <%sL_STORAGE>... You|can't have that many... What can I get for|you?<end>"
+  },
+  "62": {
+    "「申し訳ありませんが　<%sL_HIKI_ITEM_NAME>は|　それ以上　お持ちになれません。|<break>": "I'm sorry, but <%sL_HIKI_ITEM_NAME> can't|hold any more...<break>"
+  },
+  "63": {
+    "「その倉庫には　何も|　お預かりしていないようです。|　どの倉庫から　アイテムを取りだしますか？|<break>": "I don't have anything for you in that|warehouse. Which warehouse would you like to|retrieve the item from?<break>"
+  },
+  "64": {
+    "「お客さまからは　何も|　お預かりしていないようです。|　他にも　ご用はありますか？|<break>": "I don't have anything for you... Is there|anything else I can do for you, sir?<break>"
+  },
+  "65": {
+    "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
+  },
+  "66": {
+    "「失礼ですが　お客さまは　現在|　預けられる物を　お持ちではないようです。|　他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't believe you have|anything that can be left with us at this|time. Is there anything else I can do for|<br>|you?<break>"
+  },
+  "67": {
+    "「今日は　どういたしますか？|<bw_break>": "What can I do for you today?<bw_break>"
+  },
+  "68": {
+    "<select_se_off>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "69": {
+    "<select_se_off 2>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "70": {
+    "<select_se_off>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "71": {
+    "<select_se_off 2>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "72": {
+    "<select_se_off>|あずける|とりだす|<select_end><break>": "<select_se_off>|Deposit|Retrieve|<select_end><break>"
+  },
+  "73": {
+    "<select_se_off 2>|あずける|とりだす|<select_end><break>": "<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
+  },
+  "74": {
+    "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
+  },
+  "75": {
+    "「新しい倉庫名を入力してください。|<break>": "Please enter a new warehouse name.|<break>"
+  },
+  "76": {
+    "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": "I'd like to rename the warehouse... Do you|have any other storage units that you would|like to rename?<break>"
+  },
+  "77": {
+    "「<%sL_STORAGE>を|　<%sL_STORAGE2>に変更してよろしいですか？|<yesno><break>": "Are you sure you want to change <%sL_STORAGE>|to <%sL_STORAGE2>?<yesno><break>"
+  },
+  "78": {
+    "<%sL_STORAGE>を　<%sL_STORAGE2>に変更した|<break>": "changed <%sL_STORAGE> to <%sL_STORAGE2>|<break>"
+  },
+  "79": {
+    "「どの倉庫の名前を　変えますか？|<break>": "Which warehouse would you like to rename?<break>"
+  },
+  "80": {
+    "「他の倉庫の名前も　変更しますか？|<break>": ""
+  },
+  "81": {
+    "ワンタイムパスワードの倉庫が|使えない状態です。|<break>": "The One Time Password Warehouse is not|working...<break>"
+  },
+  "82": {
+    "「プレイコースの登録状況が|　変更されたため　５キャラ倉庫を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　５キャラコースに　ご登録いただければ|　５キャラ倉庫を　また利用いただけます。|<bw_break>": "Due to a change in your playlist, you will no|longer be able to use the 5-Character|Warehouse. We have your items in storage, so|<br>|if you re-enroll in a 5-Chara course, you|will be able to use the 5-Chara Warehouse|again...<bw_break>"
+  },
+  "83": {
+    "「確かに　移動しました。|<br>|「どれを　移動しますか？|<break>": "Sure, let's move... Which one do you want to|move?<break>"
+  },
+  "84": {
+    "「お客さまは　現在　アイテムをひとつしか|　お持ちでないため　|　整理する必要が　ありません。|<break>": "The customer only has one item at the moment,|and it needs to be sorted...<break>"
+  },
+  "85": {
+    "「えっ？　その倉庫には　なにも|　お預かりしていませんが……。|<br>|「どれを　移動しますか？|<break>": "What? We don't have anything in that|warehouse, sir. Which one do you want to|move?<break>"
+  },
+  "86": {
+    "「申し訳ありませんが　|　その倉庫は　いっぱいです。|<break>": "I'm sorry, but that warehouse is full of...<break>"
+  },
+  "87": {
+    "「どれを移動しますか？|<break>": "Which one do you want to move?<break>"
+  },
+  "88": {
+    "「どの倉庫を　整理しますか？|<break>": ""
+  },
+  "89": {
+    "「どの倉庫に　移動させますか？|<break>": "What warehouse are you moving it to?<break>"
+  },
+  "90": {
+    "「失礼ですが　そうびぶくろには|　何も入っていないようです。|<br>|「何を　お預けになりますか？|<break>": "I'm sorry, sir, but I don't think there's|anything in that bag. What would you like to|keep in your bag, sir?<break>"
+  },
+  "91": {
+    "「申し訳ありませんが　これ以上|　お預かりできません。|<end>": "I'm sorry, sir. I can't keep you any longer.<end>"
+  },
+  "92": {
+    "「申し訳ありませんが　|　<%sL_AZU_ITEM_NAME>は|　これ以上　お預かりできません。|<break>": "We're sorry, but we can't keep|<%sL_AZU_ITEM_NAME> any longer...<break>"
+  },
+  "93": {
+    "「<pc>さま申し訳ありません。|　ワンタイムパスワードの倉庫から|　取り出せません。|<break>": "<pc> Sir, I'm sorry... I've just retrieved the|one-time password from the warehouse...<break>"
+  },
+  "94": {
+    "「申し訳ありませんが|　５キャラコースの登録が　確認できないので|　５キャラ倉庫を　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that you've|registered for a 5-Character Course, so you|can't use the 5-Character Warehouse...<end>"
+  },
+  "95": {
+    "「失礼ですが　<%sL_AZU_STORAGE>には|　何も入っていないようです。|　何を　お預けになりますか？|<break>": "Excuse me, sir, but there's nothing in|<%sL_AZU_STORAGE>... What can I get for you,|sir?<break>"
+  },
+  "96": {
+    "正しい数を　入れてください。|<bw_break>": ""
+  },
+  "97": {
+    "「他にも　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "98": {
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+  },
+  "99": {
+    "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
+  },
+  "100": {
+    "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you. We look forward to serving you|again.|<turn_end>"
+  },
+  "101": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "102": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "103": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "104": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "105": {
+    "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "106": {
+    "「ご自分が預けたい　持ち物の種類を|　選んでください。|<end>": "Please select the type of item you'd like to|deposit.<end>"
+  },
+  "107": {
+    "「預け先となる　倉庫を選んでください。|<end>": "Please select the storage to deposit in.|<end>"
+  },
+  "108": {
+    "「預かり所から　屋根裏収納に|　アクセスできるようになりました！|　家をたてて　ご利用ください。|<bw_break>": "We now have access to the attic storage from|the storage area! We've built a home for|you...<bw_break>"
+  },
+  "109": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|　装備していますが　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,|is that correct?<yesno><break>"
+  },
+  "110": {
+    "「<PC>さまの　追加倉庫＋５の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　５個まで　ご利用いただけます。|<bw_break>": "<PC>We've just received confirmation that you've|registered for 5 additional warehouses... You|can now use up to 5 additional warehouses...<bw_break>"
+  },
+  "111": {
+    "「<PC>さまの　追加倉庫＋４の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　４個まで　ご利用いただけます。|<bw_break>": "<PC>We've just received confirmation that you've|registered for four additional warehouses...|You can now use up to four additional|<br>|warehouses...<bw_break>"
+  },
+  "112": {
+    "「<PC>さまの　追加倉庫＋１の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　１個まで　ご利用いただけます。|<bw_break>": "<PC>We've just received confirmation that you've|registered for an additional warehouse...|From now on, you can use up to one additional|<br>|storage unit...<bw_break>"
+  },
+  "113": {
+    "「<PC>さまの　追加倉庫＋３の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　３個まで　ご利用いただけます。|<bw_break>": "<PC>We've confirmed that you've registered for|three additional warehouses... From now on,|you can use up to three additional|<br>|warehouses...<bw_break>"
+  },
+  "114": {
+    "「<PC>さまの　追加倉庫＋２の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　２個まで　ご利用いただけます。|<bw_break>": "<PC>We've just received confirmation that you've|registered for an additional warehouse plus|two... From now on, you can also use up to|<br>|two additional warehouses...<bw_break>"
+  },
+  "115": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋５が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't see any|additional warehouses at +5, so this|additional warehouse is not available...<end>"
+  },
+  "116": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋４が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion, additional storage plus|four, is available for this...<end>"
+  },
+  "117": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋１が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that the|additional warehouse +1 is available, so this|additional warehouse...<end>"
+  },
+  "118": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋３が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|additional storage capacity is +3, so this|additional storage is not available...<end>"
+  },
+  "119": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋２が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion, additional storage plus|two, is available...<end>"
+  },
+  "120": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋５を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　５個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 5|warehouses... You can now use up to 5|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
+  },
+  "121": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋４を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　４個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 4|warehouses... You may now use up to 4|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
+  },
+  "122": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋１を　ご利用ですね。|<br>|「アイテムを　５０種類収納できる|　追加倉庫を　１個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to one additional|warehouse... You may now use up to 1|additional warehouse to store up to 50|<br>|different items!<bw_break>"
+  },
+  "123": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋３を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　３個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 3|warehouses... You can now use up to 3|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
+  },
+  "124": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋２を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　２個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 2|warehouses... You can now use up to 2|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
+  },
+  "125": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　５個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋５に　ご登録いただければ|　追加倉庫を　５個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to the five additional warehouses. We're|<br>|still storing your items, so if you'd like to|re-register for the additional 5 warehouses,|you can use them again...<bw_break>"
+  },
+  "126": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　４個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋４に　ご登録いただければ|　追加倉庫を　４個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to four additional warehouses. We have your|<br>|items in storage, so if you would like to re-|register for the additional 4 warehouses, you|will be able to use up to 4 additional|<br>|warehouses...<bw_break>"
+  },
+  "127": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　１個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋１に　ご登録いただければ|　追加倉庫を　１個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to one additional warehouse. We're still|<br>|holding onto your items, so if you'd like to|re-register for the additional warehouse +1,|you'll be able to use up to one additional|<br>|warehouse...<bw_break>"
+  },
+  "128": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　３個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋３に　ご登録いただければ|　追加倉庫を　３個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to the three additional warehouses. We're|<br>|still holding onto your items, so if you'd|like to re-register for the additional 3|warehouses, you'll be able to use them|<br>|again...<bw_break>"
+  },
+  "129": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　２個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋２に　ご登録いただければ|　追加倉庫を　２個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to two additional warehouses. We're still|<br>|holding onto your items, so if you'd like to|re-register for additional storage plus two,|you'll be able to use up to two additional|<br>|storage units...<bw_break>"
+  },
+  "130": {
+    "「取りだしたい　持ち物が入っている|　倉庫を選んでください。|<end>": "Please select the warehouse that contains the|item you wish to retrieve...<end>"
+  },
+  "131": {
+    "「取りだしたい　持ち物が入っている|　倉庫を選んでください。|<end>": "Please select the warehouse that contains the|item you wish to retrieve...<end>"
+  },
+  "132": {
+    "<pipipi_off><speed=0>|預けたい　持ち物の種類を選んでください。|<break>": "<pipipi_off><speed=0>Please select the type of item you'd like to|deposit.<break>"
+  },
+  "133": {
+    "<pipipi_off><speed=0>|預け先となる　倉庫を選んでください。|<break>": "<pipipi_off><speed=0>|Please select the storage to deposit in.|<break>"
+  },
+  "134": {
+    "「おやめに　なるのですね？": "So you're quitting?"
+  },
+  "135": {
+    "「１０００ゴールド単位で　お預かりします。|　いくら　お預けになりますか？|<break>": "We accept deposits in increments of 1,000|gold. How much would you like to deposit?<break>"
+  },
+  "136": {
+    "「１０００ゴールド単位で　お渡しできます。|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　いくら引き出しますか？|<break>": "You can withdraw gold in units of 1000.|You currently have <%dL_AZU_BALANCE>000 gold in your|account. How much would you like to withdraw?|<break>"
+  },
+  "137": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド　お預かりして|　合計で　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。他に　ご用はありますか？|<break>": "<%dL_AZU_DEPOS_GLD>000 gold has been deposited.|You now have a total of <%dL_AZU_BALANCE>000 gold.|Is there anything else I can do for you?|<break>"
+  },
+  "138": {
+    "「申し訳ありませんが|　これ以上　お預かりできません。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, sir. I can't take any more of|your... Is there anything else I can do for|you?<break>"
+  },
+  "139": {
+    "「お客さまからは　ゴールドを|　お預かりしていないようです。|<br>|「他にも　ご用はありますか？|<break>": "I don't think you have any gold on you... Is|there anything else I can do for you?<break>"
+  },
+  "140": {
+    "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "You have <%dL_AZU_BALANCE>000 gold in your|possession. Is there anything else I can do|for you?<break>"
+  },
+  "141": {
+    "「現在　お預かりしている|　ゴールドは　ありません。|　他にも　ご用はありますか？|<break>": "We have gold in our possession at the moment,|but... Is there anything else I can do for|you?<break>"
+  },
+  "142": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド|　確かに　お預かりしました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, we have it...|You have <%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
+  },
+  "143": {
+    "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　どうしますか？|<break>": "You currently have <%dL_AZU_BALANCE>000 Gold|deposited. What do you want to do?<break>"
+  },
+  "144": {
+    "「お客さまから　お預かりのゴールドは|　ありませんが　今日は　どうしますか？|<break>": "I don't have any gold for you. What can I do|for you today?<break>"
+  },
+  "145": {
+    "「そんなに　たくさん　お持ちになれませんよ。|<br>|「他にも　ご用はありますか？|<break>": "We don't have that many... Is there anything|else I can do for you, sir?<break>"
+  },
+  "146": {
+    "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
+  },
+  "147": {
+    "<select_se_off 2>|あずける|ひきだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
+  },
+  "148": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド　お返しして|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。他に　ご用はありますか？|<break>": "<%dL_WITHDRW_GLD>000 gold has been returned.|Your new balance is <%dL_AZU_BALANCE>000 gold.|Is there anything else I can do for you?|<break>"
+  },
+  "149": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　確かに　お返ししました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold... You now have|<%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
+  },
+  "150": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　お返ししました。現在　お客さまから|　お預かりのゴールドは　ありません。|<br>|「他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold returned to you...|We do not currently have any gold on file for|you... Is there anything else I can do for|<br>|you?<break>"
+  },
+  "151": {
+    "「失礼ですが　お客さまは|　預けられるだけの　ゴールドを|　お持ちでないようです。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't think you have|enough gold in your account to make a|deposit. Is there anything else I can do for|<br>|you, sir?<break>"
+  },
+  "152": {
+    "「ゴールド銀行を　ご利用ですね。|　本日は　どうされますか？|<break>": "I'm a Gold Bank customer... How can I help|you today?<break>"
+  },
+  "153": {
+    "「申し訳ありませんが|　そのアイテムは　お預かりできません。|　何を　お預けになりますか？|<end>": "I'm sorry, sir. We can't keep that item. What|would you like to check in?<end>"
+  },
+  "154": {
+    "「預かり所へ　ようこそ。|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "Welcome to the Depository. Both are free to|use. Which would you like to use today?|<break>"
+  },
+  "155": {
+    "「預けるときは　預けたい持ち物の種類と|　預け先となる倉庫を　選んでください。|<br>|「取り出すときは　複数の倉庫をお持ちなら|　取り出したい倉庫を　選んでください。|<br>|「その後　移動させたいアイテムを選ぶと|　預けたり　取り出すことができます。|<end>": "To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
+  },
+  "156": {
+    "「どの倉庫に　アイテムを預けますか？|<break>": ""
+  },
+  "157": {
+    "「どの倉庫から　アイテムを取りだしますか？|<break>": "Which warehouse do you want to retrieve the|items from?<break>"
+  },
+  "158": {
+    "「かしこまりました。|　拡張券はいつでも使えるので|　また持ってきてください|<break>": "Yes, sir... You can always use the expansion|tickets. Bring them back.<break>"
+  },
+  "159": {
+    "「おめでとうございます！|　<%sL_STORAGE>が|　使えるようになりました！|<break>": "Congratulations! You've got <%sL_STORAGE>|working for you!<break>"
+  },
+  "160": {
+    "未使用|<break>": "unused|<break>"
+  },
+  "161": {
+    "「承りました。それでは以前いただいた|　きらめきのインクで　サインをお願いします。|<break>": "I'll take that... Now, I'd like you to sign|this with the sparkling ink that you gave|me...<break>"
+  },
+  "162": {
+    "「さて　本日は　どちらをご利用ですか？|<break>": "So, where would you like to go today, sir?<break>"
+  },
+  "163": {
+    "「預かり所へ　ようこそ。|　このたび　アイテム倉庫が|　大幅に　リニューアルいたしました！|<br>|「また　お使いの倉庫に|　名前をつけることも　できるようになりました！|　『倉庫名を変える』から　お試しください。|<bw_break>": "To the storeroom, please... We're pleased to|announce that the Item Warehouse has|undergone a major overhaul! And now you can|<br>|name your warehouse! Go to \"Rename Warehouse\"|and try it out...<bw_break>"
+  },
+  "164": {
+    "「今回　お客さまに　より便利に|　預かり所を　ご活用いただける|　新サービスの　お知らせです。|<br>|「なんと　こちらの預かり所から|　ご住宅にある　屋根ウラ収納を|　ご利用いただけるようになりました！|<br>|「ただし　こちらは　住宅村に|　家を　お持ちの方が　ご利用できる|　サービスとなっております。|<br>|「もし　家を　お持ちで|　屋根ウラ収納を　ご利用でしたら|　ぜひ　ご活用ください。|<bw_break>": "We'd like to announce a new service that will|make it even easier for our customers to use|our storage facility... What's more, you can|<br>|now use the storage space on the roof of your|residence from this storage facility!|However, this service is only available to|<br>|those who own a home in the residential|village... If you own a home and are using|the storage space under your roof, please|<br>|take advantage of this service...<bw_break>"
+  },
+  "165": {
+    "「<pc>さまの　５キャラコースの登録を|　確認しました。今回から　また|　５キャラ倉庫を　ご利用いただけます。|<bw_break>": "<pc> Your registration for the 5-Character Course|has been confirmed... You can now use the|5-Character Warehouse again...<bw_break>"
+  },
+  "166": {
+    "「このたび　預かり所では|　５キャラコースを　ご利用の方に|　新たなサービスを　追加いたしました！|<br>|「<pc>さまは　５キャラコースを|　ご利用なので　アイテムを５０種類収納できる|　５キャラ倉庫を　追加で　ご利用いただけます！|<bw_break>": "We're pleased to announce that we've added a|new service for our 5-Chara Course users!<pc> Since you're using the 5-Character Course,|you'll have access to the 5-Character|Warehouse, which holds an additional 50|<br>|items!<bw_break>"
+  },
+  "167": {
+    "<pc>は申込書にサインした|<break>": "<pc> signed the application form|<break>"
+  },
+  "168": {
+    "<pc>は拡張倉庫が使えるようになった|<break>": "<pc> can now use the extended warehouse|<break>"
+  },
+  "169": {
+    "「５キャラ倉庫の中身は　こちらになります。|<end>": "Here's what's in the five-character|warehouse...<end>"
+  },
+  "170": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll get it back to you. Which|warehouse do you want to retrieve the item|<br>|from?<break>"
+  },
+  "171": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|it back. Which warehouse do you want to|<br>|retrieve the item from?<break>"
+  },
+  "172": {
+    "「<%sL_AZU_ITEM_NAME>でありますね。|　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
+  },
+  "173": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": ""
+  },
+  "174": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|　装備していますが　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,|is that correct?<yesno><break>"
+  },
+  "175": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|　仲間モンスターが　装備していますが|　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped|by a fellow monster, is that correct?<yesno><break>"
+  },
+  "176": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>... Now, if|you'll excuse me... Is there anything else I|can do for you, sir?<break>"
+  },
+  "177": {
+    "「<pc>さま申し訳ありません。|　ワンタイムパスワードの倉庫には|　預けられません。|<break>": "<pc> I'm sorry, sir... You can't keep a one-time|password in a warehouse...<break>"
+  },
+  "178": {
+    "「申し訳ありませんが|　５キャラコースの登録が　確認できないので|　５キャラ倉庫を　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that you've|registered for a 5-Character Course, so you|can't use the 5-Character Warehouse...<end>"
+  },
+  "179": {
+    "「では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "I'll take good care of it. Is there anything|else I can do for you, sir?<break>"
+  },
+  "180": {
+    "「倉庫がいっぱいなので|　代わりに<%sL_STORAGE>に|　しまっていいですか？|<break>": "My warehouse is full, can I put it in|<%sL_STORAGE> instead?<break>"
+  },
+  "181": {
+    "「<%sL_AZU_SOUKO_NAME>は　いっぱいです。|　別の倉庫に　切り替えますか？|<yesno><break>": "<%sL_AZU_SOUKO_NAME> is full... Do you want|to switch to a different warehouse?<yesno><break>"
+  },
+  "182": {
+    "「では　大切に　お預かりします。|　他の物も　預けますか？|<break>": "Well, I'll take good care of it. Do you want|me to take anything else?<break>"
+  },
+  "183": {
+    "「<%sL_AZU_ITEM_NAME>　ひとつを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> I'll take one... May I?<yesno><break>"
+  },
+  "184": {
+    "「<%sL_AZU_ITEM_NAME>を|　どの倉庫に　お入れしますか？|<break>": "In which warehouse would you like to store|<%sL_AZU_ITEM_NAME>?<break>"
+  },
+  "185": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　お預かりします。|　他の物も　預けますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> for|safekeeping... Do you want to keep the other|items?<break>"
+  },
+  "186": {
+    "「それでは　<%sL_STORAGE>を|　整理していただけますか|<break>": "Now let's add <%sL_STORAGE> to the| Can you sort it out, please?|<break>"
+  },
+  "187": {
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I|take this... May I?<yesno><break>"
+  },
+  "188": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　どの倉庫に　お入れしますか？|<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>|individual... In which warehouse would you|like it stored?<break>"
+  },
+  "189": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個|　お預かりします。|　他の物も　預けますか？|<break>": "We have <%sL_AZU_ITEM_NAME> for|<%nL_AZU_ITEM_NUM>... Do you want to keep the|other items?<break>"
+  },
+  "190": {
+    "「何を　お預けになりますか？|<end>": "What would you like to drop off?<end>"
+  },
+  "191": {
+    "「おやめになるのですね。|　他に　預けたいものはありますか？|<end>": "If you don't mind... Is there anything else|you'd like to leave with me?<end>"
+  },
+  "192": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Well,|I'll certainly return the favor... Is there|anything else I can do for you?<break>"
+  },
+  "193": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll give you... Would you like|something else in return?<break>"
+  },
+  "194": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get|back to you... Is there anything else I can|<br>|do for you, sir?<break>"
+  },
+  "195": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|you... Would you like something else in|<br>|return?<break>"
+  },
+  "196": {
+    "「おや　<%sL_STORAGE>がいっぱいのようですね。|　そんなに　たくさん　お持ちになれませんよ。|　何を　お返ししますか？|<end>": "Oh, you have a lot of <%sL_STORAGE>... You|can't have that many... What can I get for|you?<end>"
+  },
+  "197": {
+    "「申し訳ありませんが　<%sL_HIKI_ITEM_NAME>は|　それ以上　お持ちになれません。|<break>": "I'm sorry, but <%sL_HIKI_ITEM_NAME> can't|hold any more...<break>"
+  },
+  "198": {
+    "「その倉庫には　何も|　お預かりしていないようです。|　どの倉庫から　アイテムを取りだしますか？|<break>": "I don't have anything for you in that|warehouse. Which warehouse would you like to|retrieve the item from?<break>"
+  },
+  "199": {
+    "「お客さまからは　何も|　お預かりしていないようです。|　他にも　ご用はありますか？|<break>": "I don't have anything for you... Is there|anything else I can do for you, sir?<break>"
+  },
+  "200": {
+    "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
+  },
+  "201": {
+    "「失礼ですが　お客さまは　現在|　預けられる物を　お持ちではないようです。|　他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't believe you have|anything that can be left with us at this|time. Is there anything else I can do for|<br>|you?<break>"
+  },
+  "202": {
+    "「今日は　どういたしますか？|<bw_break>": "What can I do for you today?<bw_break>"
+  },
+  "203": {
+    "<select_se_off>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "204": {
+    "<select_se_off 2>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "205": {
+    "<select_se_off>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "206": {
+    "<select_se_off 2>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "207": {
+    "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
+  },
+  "208": {
+    "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
+  },
+  "209": {
+    "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
+  },
+  "210": {
+    "「新しい倉庫名を入力してください。|<break>": "Please enter a new warehouse name.|<break>"
+  },
+  "211": {
+    "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": "I'd like to rename the warehouse... Do you|have any other storage units that you would|like to rename?<break>"
+  },
+  "212": {
+    "「<%sL_STORAGE>を|　<%sL_STORAGE2>に変更してよろしいですか？|<yesno><break>": "Are you sure you want to change <%sL_STORAGE>|to <%sL_STORAGE2>?<yesno><break>"
+  },
+  "213": {
+    "<%sL_STORAGE>を　<%sL_STORAGE2>に変更した|<break>": "changed <%sL_STORAGE> to <%sL_STORAGE2>|<break>"
+  },
+  "214": {
+    "「どの倉庫の名前を　変えますか？|<break>": "Which warehouse would you like to rename?<break>"
+  },
+  "215": {
+    "「他の倉庫の名前も　変更しますか？|<break>": ""
+  },
+  "216": {
+    "ワンタイムパスワードの倉庫が|使えない状態です。|<break>": "The One Time Password Warehouse is not|working...<break>"
+  },
+  "217": {
+    "「プレイコースの登録状況が|　変更されたため　５キャラ倉庫を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　５キャラコースに　ご登録いただければ|　５キャラ倉庫を　また利用いただけます。|<bw_break>": "Due to a change in your playlist, you will no|longer be able to use the 5-Character|Warehouse. We have your items in storage, so|<br>|if you re-enroll in a 5-Chara course, you|will be able to use the 5-Chara Warehouse|again...<bw_break>"
+  },
+  "218": {
+    "「確かに　移動しました。|<br>|「どれを　移動しますか？|<break>": "Sure, let's move... Which one do you want to|move?<break>"
+  },
+  "219": {
+    "「お客さまは　現在　アイテムをひとつしか|　お持ちでないため　|　整理する必要が　ありません。|<break>": "The customer only has one item at the moment,|and it needs to be sorted...<break>"
+  },
+  "220": {
+    "「えっ？　その倉庫には　なにも|　お預かりしていませんが……。|<br>|「どれを　移動しますか？|<break>": "What? We don't have anything in that|warehouse, sir. Which one do you want to|move?<break>"
+  },
+  "221": {
+    "「申し訳ありませんが　|　その倉庫は　いっぱいです。|<break>": "I'm sorry, but that warehouse is full of...<break>"
+  },
+  "222": {
+    "「どれを移動しますか？|<break>": "Which one do you want to move?<break>"
+  },
+  "223": {
+    "「どの倉庫を　整理しますか？|<break>": ""
+  },
+  "224": {
+    "「どの倉庫に　移動させますか？|<break>": "What warehouse are you moving it to?<break>"
+  },
+  "225": {
+    "「失礼ですが　そうびぶくろには|　何も入っていないようです。|<br>|「何を　お預けになりますか？|<break>": "I'm sorry, sir, but I don't think there's|anything in that bag. What would you like to|keep in your bag, sir?<break>"
+  },
+  "226": {
+    "「申し訳ありませんが　これ以上|　お預かりできません。|<end>": "I'm sorry, sir. I can't keep you any longer.<end>"
+  },
+  "227": {
+    "「申し訳ありませんが　|　<%sL_AZU_ITEM_NAME>は|　これ以上　お預かりできません。|<break>": "We're sorry, but we can't keep|<%sL_AZU_ITEM_NAME> any longer...<break>"
+  },
+  "228": {
+    "「預けるときは　預けたい持ち物の種類と|　預け先となる倉庫を　選んでください。|<br>|「取り出すときは　複数の倉庫をお持ちなら|　取り出したい倉庫を　選んでください。|<br>|「その後　移動させたいアイテムを選ぶと|　預けたり　取り出すことができます。|<end>": "To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
+  },
+  "229": {
+    "「申し訳ありませんが|　５キャラコースの登録が　確認できないので|　５キャラ倉庫を　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that you've|registered for a 5-Character Course, so you|can't use the 5-Character Warehouse...<end>"
+  },
+  "230": {
+    "「失礼ですが　<%sL_AZU_STORAGE>には|　何も入っていないようです。|　何を　お預けになりますか？|<break>": "Excuse me, sir, but there's nothing in|<%sL_AZU_STORAGE>... What can I get for you,|sir?<break>"
+  },
+  "231": {
+    "「おや？　正しい数が|　入っていないようですよ。|<bw_break>": "Hmm? I don't think we have the right|number...<bw_break>"
+  },
+  "232": {
+    "「他にも　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "233": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋５の登録を　確認しました。|<br>|「今回から　追加倉庫を　５個まで|　ご利用いただけます。|<bw_break>": "<pc> We've just received confirmation that you've|registered for our warehouse expansion|service... From now on, you can use up to|<br>|five additional warehouses...<bw_break>"
+  },
+  "234": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋４の登録を　確認しました。|<br>|「今回から　追加倉庫を　４個まで|　ご利用いただけます。|<bw_break>": "<pc> We've just received confirmation that you've|registered for our warehouse expansion|service... You can now use up to four|<br>|additional warehouses...<bw_break>"
+  },
+  "235": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋１の登録を　確認しました。|<br>|「今回から　追加倉庫を　１個まで|　ご利用いただけます。|<bw_break>": "<pc> We've just received confirmation that you've|registered for our warehouse expansion|service... From now on, you can use up to one|<br>|additional warehouse...<bw_break>"
+  },
+  "236": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋３の登録を　確認しました。|<br>|「今回から　追加倉庫を　３個まで|　ご利用いただけます。|<bw_break>": "<pc> We've just received confirmation that you've|signed up for our warehouse expansion|service, additional warehouse +3. You can now|<br>|use up to three additional warehouses...<bw_break>"
+  },
+  "237": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋２の登録を　確認しました。|<br>|「今回から　追加倉庫を　２個まで|　ご利用いただけます。|<bw_break>": ""
+  },
+  "238": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋５が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has added an|additional +5 warehouse, so this additional|<br>|warehouse is not available...<end>"
+  },
+  "239": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋４が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has added an|additional warehouse +4, so this additional|<br>|warehouse is not available...<end>"
+  },
+  "240": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋１が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has an additional|warehouse +1, so this additional warehouse is|<br>|not available...<end>"
+  },
+  "241": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋３が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has added an|additional warehouse +3, so this additional|<br>|warehouse is not available...<end>"
+  },
+  "242": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋２が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has added an|additional warehouse plus two, so this|<br>|additional warehouse is not available...<end>"
+  },
+  "243": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋５を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　５個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouses,|you can now add up to 5 additional|warehouses... You can now use up to 5|<br>|additional warehouses that can hold up to 50|different items each!<bw_break>"
+  },
+  "244": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋４を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　４個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouses,|you can now add up to 4 additional|warehouses... You can now use up to 4|<br>|additional warehouses that can hold up to 50|different items each!<bw_break>"
+  },
+  "245": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋１を　ご利用ですね。|<br>|「アイテムを　５０種類収納できる|　追加倉庫を　１個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouse,|you can use our Additional Warehouse +1...|You can use up to 1 additional warehouse to|<br>|store 50 different items!<bw_break>"
+  },
+  "246": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋３を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　３個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouse,|you can use the additional warehouse +3...|You can now use up to 3 additional warehouses|<br>|that can hold up to 50 different items each!<bw_break>"
+  },
+  "247": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋２を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　２個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouse,|you'll need to purchase an additional|warehouse +2... You can now use up to 2|<br>|additional warehouses that can hold up to 50|different items each!<bw_break>"
+  },
+  "248": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋５に　ご登録いただければ|　追加倉庫を　５個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up for the additional|warehousing +5 service again, you'll be able|<br>|to use up to five additional warehouses...<bw_break>"
+  },
+  "249": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋４に　ご登録いただければ|　追加倉庫を　４個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up for additional|storage +4, you can use up to four additional|<br>|warehouses...<bw_break>"
+  },
+  "250": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋１に　ご登録いただければ|　追加倉庫を　１個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to register for the additional|warehouse +1, you can use up to one|<br>|additional warehouse again...<bw_break>"
+  },
+  "251": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋３に　ご登録いただければ|　追加倉庫を　３個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up again for the|additional storage +3, you'll be able to use|<br>|up to three additional storage units...<bw_break>"
+  },
+  "252": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋２に　ご登録いただければ|　追加倉庫を　２個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up for additional|storage plus two, you'll be able to use up to|<br>|two additional storage units...<bw_break>"
+  },
+  "253": {
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+  },
+  "254": {
+    "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
+  },
+  "255": {
+    "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you. We look forward to serving you|again.|<turn_end>"
+  },
+  "256": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "257": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "258": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "259": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "260": {
+    "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "261": {
+    "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve.<break>"
+  },
+  "262": {
+    "<pipipi_off><speed=0>|持ち物をしまう場合は　しまうを|持ち物を取りだす場合は　とりだすを|選択してください。|<break>": "<pipipi_off><speed=0>Select \"Put away\" to put your belongings away|or \"Take out\" to take them out...<break>"
+  },
+  "263": {
+    "「ご自分が預けたい　持ち物の種類を|　選んでください。|<end>": "Please select the type of item you'd like to|deposit.<end>"
+  },
+  "264": {
+    "「預け先となる　倉庫を選んでください。|<end>": "Please select the storage to deposit in.|<end>"
+  },
+  "265": {
+    "「おやめに　なるのですね？": "So you're quitting?"
+  },
+  "266": {
+    "「ゴールドは　１００１ゴールド単位で|　おあずかりします。|　いくら　おあずけになりますか？|<break>": "Gold is available in increments of 1001|gold... How much do I owe you?<break>"
+  },
+  "267": {
+    "「１００１ゴールド単位で　お渡しできます。|　いくら　お返ししますか？|<break>": "I can give you 1001 gold pieces... How much|do I owe you?<break>"
+  },
+  "268": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド|　確かに　おあずかりしました。|<br>|「他にも　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 gold. Certainly, sir.|Is there anything else I can do for you, sir?<break>"
+  },
+  "269": {
+    "「申し訳ありませんが|　これ以上　おあずかりできません。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, sir. I can't take any more... Is|there anything else I can do for you?<break>"
+  },
+  "270": {
+    "「おや　お客さまからは　現在|　ゴールドを　おあずかりしていませんよ。|<br>|「他にも　ご用はありますか？|<break>": "Oh, I'm sorry, sir, but we're currently in|possession of a gold... Is there anything|else I can do for you?<break>"
+  },
+  "271": {
+    "「現在　<%nL_AZU_BALANCE>００１ゴールド|　おあずかりしています。|　他にも　ご用はありますか？|<break>": "You are currently in possession of|<%nL_AZU_BALANCE>001 gold... Is there|anything else I can do for you?<break>"
+  },
+  "272": {
+    "「現在　おあずかりしている|　ゴールドは　ありません。|　他にも　ご用はありますか？|<break>": "We have the gold you are currently holding|for us. Is there anything else I can do for|you?<break>"
+  },
+  "273": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド|　確かに　おあずかりしました。|<br>|「現在　<%nL_AZU_BALANCE>００１ゴールド|　おあずかりしています。|　他にも　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 Gold Indeed, we are at|your service... Now <%nL_AZU_BALANCE>001|gold, at your service... Is there anything|<br>|else I can do for you, sir?<break>"
+  },
+  "274": {
+    "「ゴールド銀行では　お客さまの大切なお金を|　無料で　おあずかりいたします。|<br>|「現在　<%nL_AZU_BALANCE>００１ゴールド|　おあずかりしています。|　今日は　どういたしますか？|<break>": "At Gold Bank, we're happy to hold your money|for free... We're currently at|<%nL_AZU_BALANCE>001 Gold... How can I help|<br>|you today?<break>"
+  },
+  "275": {
+    "「ゴールド銀行では　お客さまの大切なお金を|　無料で　おあずかりいたします。|<br>|「現在　お客様からは|　ゴールドを　おあずかりしていません。|　今日は　どういたしますか？|<break>": "At Goldcorp, we're happy to hold your money|for free... We're currently accepting gold|from customers... How can we help you today?<break>"
+  },
+  "276": {
+    "「そんなに　たくさん　お持ちになれませんよ。|<br>|「他にも　ご用はありますか？|<break>": "We don't have that many... Is there anything|else I can do for you, sir?<break>"
+  },
+  "277": {
+    "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
+  },
+  "278": {
+    "<select_se_off 3>|あずける|ひきだす|<select_end><break>": "<select_se_off 3>|Deposit|Withdraw|<select_end><break>"
+  },
+  "279": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　確かに　お返ししました。|<br>|「他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold. I'll certainly|return the... Is there anything else I can do|for you, sir?<break>"
+  },
+  "280": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　確かに　お返ししました。|<br>|「現在　<%nL_AZU_BALANCE>００１ゴールド|　おあずかりしています。|　他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 Gold I will certainly|return... <%nL_AZU_BALANCE>001 gold, at your|service... Is there anything else I can do|<br>|for you, sir?<break>"
+  },
+  "281": {
+    "「<%nL_WITHDRW_GLD>００１ゴールド|　確かに　お返ししました。|<br>|「現在　お客様からは|　ゴールドを　おあずかりしていません。|　今日は　どういたしますか？|<break>": "<%nL_WITHDRW_GLD>001 Gold, we have your|gold... We are currently in possession of the|gold... What can I do for you today?<break>"
+  },
+  "282": {
+    "「失礼ですが　お客様は|　あずけられるだけの　お金を|　お持ちでないようです。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't think you have|enough money to leave... Is there anything|else I can do for you, sir?<break>"
+  },
+  "283": {
+    "「ゴールド銀行を　ご利用ですね。|　本日は　どうされますか？|<break>": "I'm a Gold Bank customer... How can I help|you today?<break>"
+  },
+  "284": {
+    "「申し訳ありませんが|　そのアイテムは　おあずかりできません。|<br>|「なにを　おあずかりしますか？|<break>": "I'm sorry, sir. We don't have that item...|What can I get for you, sir?<break>"
+  },
+  "285": {
+    "「預かり所へ　ようこそ。|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "Welcome to the Depository. Both are free to|use. Which would you like to use today?|<break>"
+  },
+  "286": {
+    "「<convenience>で　持ち物や倉庫を決めてから|　反対側の画面に　移動させたいアイテムを選ぶと|　預けたり　取りだしたりすることができます。|<bw_break>": "<convenience>In the other side of the screen, select the|item you want to move and you can deposit or|retrieve it.<bw_break>"
+  },
+  "287": {
+    "「倉庫拡張券をお持ちですね。|　それを使って倉庫を拡張しますか？|<break>": "You have a warehouse expansion ticket...|Would you like to use it to expand your|warehouse?<break>"
+  },
+  "288": {
+    "追加倉庫用　実行確認|<break>": ""
+  },
+  "289": {
+    "かしこまりました|<break>": "Yes, sir|<break>"
+  },
+  "290": {
+    "「おめでとうございます！|　○追加倉庫○が|　使えるようになりました！|<break>": "Congratulations! You now have access to|additional storage!<break>"
+  },
+  "291": {
+    "未使用|<break>": "unused|<break>"
+  },
+  "292": {
+    "「承りました。それでは以前いただいた|　きらめきのインクで　サインをお願いします。|<break>": "I'll take that... Now, I'd like you to sign|this with the sparkling ink that you gave|me...<break>"
+  },
+  "293": {
+    "「○○さまお待ちしておりました|<break>": "I've been waiting for you, sir|<break>"
+  },
+  "294": {
+    "制限モードのメッセージ|<break>": "Message in restricted mode|<break>"
+  },
+  "295": {
+    "制限モードのメッセージ|<break>": "Message in restricted mode|<break>"
+  },
+  "296": {
+    "追加倉庫用　挨拶　ワンタイムパスワード|<break>": "Greeting for additional warehouse One-time password|<break>"
+  },
+  "297": {
+    "追加倉庫用　挨拶　プレミアムコース|<break>": "Greetings for additional warehouses Premium Course|<break>"
+  },
+  "298": {
+    "○○は申込書にサインした|<break>": "XX signed the application form|<break>"
+  },
+  "299": {
+    "○○は拡張倉庫が使えるようになった|<break>": "XX can now use the extended warehouse|<break>"
+  },
+  "300": {
+    "追加倉庫用　汎用つなぎメッセージ|<break>": ""
+  },
+  "301": {
+    "追加倉庫用　汎用つなぎメッセージ|<break>": ""
+  },
+  "302": {
+    "追加倉庫用　汎用つなぎメッセージ|<break>": ""
+  },
+  "303": {
+    "「<%sL_AZU_ITEM_NAME>でありますね。|　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
+  },
+  "304": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　では　大切に　おあずかりします。|<bw_break>": "<%sL_AZU_ITEM_NAME> for <%nL_AZU_ITEM_NUM>...|I'll take good care of it...<bw_break>"
+  },
+  "305": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|　装備していますが　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,|is that correct?<yesno><break>"
+  },
+  "306": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|　装備していますが　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,|is that correct?<yesno><break>"
+  },
+  "307": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　大切に　おあずかりします。|<bw_break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>... We'll|take good care of you...<bw_break>"
+  },
+  "308": {
+    "ワンタイムパスワードの倉庫が使えない|<break>": "The one-time password warehouse is not available|<break>"
+  },
+  "309": {
+    "プレミアムコースの倉庫にあずけられない|<break>": "I can't leave it in the warehouse for a premium course|<break>"
+  },
+  "310": {
+    "「では　大切に　おあずかりします。|<bw_break>": "I'll take good care of it.<bw_break>"
+  },
+  "311": {
+    "「倉庫がいっぱいなので|　代わりに<%sL_STORAGE>に|　しまっていいですか？|<break>": "My warehouse is full, can I put it in|<%sL_STORAGE> instead?<break>"
+  },
+  "312": {
+    "利用不可なので代わりに|○倉庫名○にしまっていい？|<break>": "It's not available. Can I store it in the|warehouse instead?<break>"
+  },
+  "313": {
+    "「では　大切に　おあずかりします。|　他にも　おあずかりしますか？|<bw_break>": "I'll take good care of it. Is there anything|else I can get for you?<bw_break>"
+  },
+  "314": {
+    "「<%sL_AZU_ITEM_NAME>　ひとつを|　おあずかりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> I have one for you... May|I?<yesno><break>"
+  },
+  "315": {
+    "「<%sL_AZU_ITEM_NAME>を|　どの倉庫に　お入れしますか？|<break>": "In which warehouse would you like to store|<%sL_AZU_ITEM_NAME>?<break>"
+  },
+  "316": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　大切に　おあずかりします。|　他にも　おあずかりしますか？|<bw_break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>... Now, if|you'll excuse me... Do you have any other|items you'd like to share?<bw_break>"
+  },
+  "317": {
+    "「それでは　○倉庫名○を|　整理していただけますか|<break>": "I'll take the name of the warehouse| Can you sort it out, please?|<break>"
+  },
+  "318": {
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを|　おあずかりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>I'd|like to take this... May I?<yesno><break>"
+  },
+  "319": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　どの倉庫に　お入れしますか？|<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>|individual... In which warehouse would you|like it stored?<break>"
+  },
+  "320": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　では　大切に　おあずかりします。|　他にも　おあずかりしますか？|<bw_break>": "<%sL_AZU_ITEM_NAME> for <%nL_AZU_ITEM_NUM>...|Now, if you'll excuse me... Do you have any|other items you'd like to share?<bw_break>"
+  },
+  "321": {
+    "「何を　おあずかりしますか？|<break>": "What can I do for you, sir?<break>"
+  },
+  "322": {
+    "「おやめになるのですね。|　他に　あずけたいものはありますか？|<break>": "Are you sure you don't want... Is there|anything else you'd like to give up?<break>"
+  },
+  "323": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|<br>|「他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Well,|I'll certainly return the favor... Is there|anything else I can do for you?<break>"
+  },
+  "324": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|<br>|「何を　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... So,|sure, I'll give you... What would you like to|return?<break>"
+  },
+  "325": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|<br>|「他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get|back to you... Is there anything else I can|<br>|do for you, sir?<break>"
+  },
+  "326": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|<br>|「何を　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|you... What would you like to give back?<break>"
+  },
+  "327": {
+    "「そんなに　たくさん　お持ちになれませんよ。|<br>|「何を　お返ししますか？|<break>": "You can't have that many... What can I get|for you, sir?<break>"
+  },
+  "328": {
+    "「申し訳ありませんが　<%sL_HIKI_ITEM_NAME>は|　それ以上　お持ちになれません。|<break>": "I'm sorry, but <%sL_HIKI_ITEM_NAME> can't|hold any more...<break>"
+  },
+  "329": {
+    "「おや　その倉庫には　何も|　おあずかりして　いませんが……。|<br>|「何を　お返ししますか？|<break>": "Well, I don't have anything for you in that|warehouse. What can I get for you?<break>"
+  },
+  "330": {
+    "「おや　お客様からは　なにも|　おあずかりして　いませんが……。|<br>|「他にも　ご用はありますか？|<break>": "Well, we don't have anything for you, but...|Is there anything else I can do for you?<break>"
+  },
+  "331": {
+    "「何を　お返ししますか？|<break>": "What can I get for you?|<bw_break>"
+  },
+  "332": {
+    "「失礼ですが　お客さまは　現在|　あずけられる物を　お持ちではないようです。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't believe you have|anything to give away at this time. Is there|anything else I can do for you?<break>"
+  },
+  "333": {
+    "「本日は　どうされますか？|　本日は　どうされますか？|<break>": "How can I help you today? How can I help you|today?<break>"
+  },
+  "334": {
+    "<select_se_off>|あずける|ひきだす|整理する|名前をかえる|<select_end><break>": "<select_se_off>|give into custody|pull out|Organize|change one's name|<select_end><break>"
+  },
+  "335": {
+    "<select_se_off 3>|あずける|ひきだす|整理する|名前をかえる|<select_end><break>": "<select_se_off 3>|give into custody|pull out|Organize|change one's name|<select_end><break>"
+  },
+  "336": {
+    "<select_se_off 3>|あずける|ひきだす|整理する|名前を変える|<select_end><break>": "<select_se_off 3>|give into custody|pull out|Organize|change one's name|<select_end><break>"
+  },
+  "337": {
+    "<select_se_off 4>|あずける|ひきだす|整理する|名前を変える|<select_end><break>": "<select_se_off 4>|give into custody|pull out|Organize|change one's name|<select_end><break>"
+  },
+  "338": {
+    "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
+  },
+  "339": {
+    "<select_se_off 3>|あずける|ひきだす|<select_end><break>": "<select_se_off 3>|Deposit|Withdraw|<select_end><break>"
+  },
+  "340": {
+    "「それでは新しい倉庫名を入力してください|<break>": "Now please enter a new warehouse name|<break>"
+  },
+  "341": {
+    "「もう一度　新しい倉庫名を入力してください|<break>": "Please enter the new warehouse name again|<break>"
+  },
+  "342": {
+    "「倉庫の名前を　変更いたしました。|<br>|「他にも　名前を変えたい倉庫は|　ありますか？|<break>": "I'd like to rename the warehouse... Do you|have any other storage units that you would|like to rename?<break>"
+  },
+  "343": {
+    "「○倉庫名○○を|　○倉庫名○○に変更してよろしいですか？|<break>": ""
+  },
+  "344": {
+    "○倉庫名○○が　○倉庫名○○に変更された|<break>": ""
+  },
+  "345": {
+    "「どの倉庫の名前を　変えますか？|<break>": "Which warehouse would you like to rename?<break>"
+  },
+  "346": {
+    "「ほかにも倉庫の名前を変更しますか？|<break>": "Do you want to change the name of the other|warehouse?<break>"
+  },
+  "347": {
+    "ワンタイムパスワードの倉庫が使えない|<break>": "The one-time password warehouse is not available|<break>"
+  },
+  "348": {
+    "プレミアムコースの倉庫が使えない|<break>": "Premium course warehouse is not available|<break>"
+  },
+  "349": {
+    "「確かに　移動しました。|<br>|「どれを　移動しますか？|<break>": "Sure, let's move... Which one do you want to|move?<break>"
+  },
+  "350": {
+    "「お客様は　現在　アイテムをひとつしか|　お持ちでないため　|　整理する必要が　ありません。|<break>": "The customer only has one item at the moment,|and it needs to be sorted...<break>"
+  },
+  "351": {
+    "「えっ？　その倉庫には　なにも|　おあずかりしていませんが……。|<br>|「どれを　移動しますか？|<break>": "What? We don't have anything in that|warehouse, but... Which one do you want to|move?<break>"
+  },
+  "352": {
+    "「申し訳ありませんが　|　その倉庫は　いっぱいです。|<break>": "I'm sorry, but that warehouse is full of...<break>"
+  },
+  "353": {
+    "「どれを移動しますか？|<break>": "Which one do you want to move?<break>"
+  },
+  "354": {
+    "「どの倉庫を　整理しますか？|<break>": ""
+  },
+  "355": {
+    "「どの倉庫に　移動させますか？|<break>": "What warehouse are you moving it to?<break>"
+  },
+  "356": {
+    "「失礼ですが　そうびぶくろには|　何も入っていないようです。|<br>|「なにを　おあずけになりますか？|<break>": "I'm sorry, but I don't think there's anything|in the bag. What can I get for you, sir?<break>"
+  },
+  "357": {
+    "「申し訳ありませんが　これ以上|　おあずかりできません。|<br>|「何を　お預けになりますか？|<break>": "I'm sorry, sir. I can't take any more of|your... What can I get for you, sir?<break>"
+  },
+  "358": {
+    "「申し訳ありませんが　|　<%sL_AZU_ITEM_NAME>は|　これ以上　おあずかりできません。|<break>": "I'm sorry, but we can't take|<%sL_AZU_ITEM_NAME> any more...<break>"
+  },
+  "359": {
+    "ワンタイムパスワードの倉庫が使えない|<break>": "The one-time password warehouse is not available|<break>"
+  },
+  "360": {
+    "プレミアムコースの倉庫にあずけられない|<break>": "I can't leave it in the warehouse for a premium course|<break>"
+  },
+  "361": {
+    "「失礼ですが　<%sL_AZU_STORAGE>には|　何も入っていないようです。|<br>|「なにを　おあずけになりますか？|<break>": "Excuse me, but I don't see anything in|<%sL_AZU_STORAGE>... What can I get for you,|sir?<break>"
+  },
+  "362": {
+    "「おや？　正しい数が|　入っていないようですよ。": "Hmm? I don't think we have the right|number..."
+  },
+  "363": {
+    "「他にも　ご用は　ございますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "364": {
+    "「<PC>さまの　追加倉庫＋５の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　５個まで　ご利用いただけます。|<bw_break>": "<PC>We've just received confirmation that you've|registered for 5 additional warehouses... You|can now use up to 5 additional warehouses...<bw_break>"
+  },
+  "365": {
+    "「<PC>さまの　追加倉庫＋４の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　４個まで　ご利用いただけます。|<bw_break>": "<PC>We've just received confirmation that you've|registered for four additional warehouses...|You can now use up to four additional|<br>|warehouses...<bw_break>"
+  },
+  "366": {
+    "「<PC>さまの　追加倉庫＋１の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　１個まで　ご利用いただけます。|<bw_break>": "<PC>We've just received confirmation that you've|registered for an additional warehouse...|From now on, you can use up to one additional|<br>|storage unit...<bw_break>"
+  },
+  "367": {
+    "「<PC>さまの　追加倉庫＋３の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　３個まで　ご利用いただけます。|<bw_break>": "<PC>We've confirmed that you've registered for|three additional warehouses... From now on,|you can use up to three additional|<br>|warehouses...<bw_break>"
+  },
+  "368": {
+    "「<PC>さまの　追加倉庫＋２の登録を|　確認しました。|<br>|「今回から　また　追加倉庫を|　２個まで　ご利用いただけます。|<bw_break>": "<PC>We've just received confirmation that you've|registered for an additional warehouse plus|two... From now on, you can also use up to|<br>|two additional warehouses...<bw_break>"
+  },
+  "369": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋５が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't see any|additional warehouses at +5, so this|additional warehouse is not available...<end>"
+  },
+  "370": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋４が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion, additional storage plus|four, is available for this...<end>"
+  },
+  "371": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋１が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that the|additional warehouse +1 is available, so this|additional warehouse...<end>"
+  },
+  "372": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋３が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|additional storage capacity is +3, so this|additional storage is not available...<end>"
+  },
+  "373": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋２が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion, additional storage plus|two, is available...<end>"
+  },
+  "374": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋５を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　５個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 5|warehouses... You can now use up to 5|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
+  },
+  "375": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋４を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　４個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 4|warehouses... You may now use up to 4|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
+  },
+  "376": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋１を　ご利用ですね。|<br>|「アイテムを　５０種類収納できる|　追加倉庫を　１個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to one additional|warehouse... You may now use up to 1|additional warehouse to store up to 50|<br>|different items!<bw_break>"
+  },
+  "377": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋３を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　３個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 3|warehouses... You can now use up to 3|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
+  },
+  "378": {
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋２を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　２個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 2|warehouses... You can now use up to 2|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
+  },
+  "379": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　５個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋５に　ご登録いただければ|　追加倉庫を　５個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to the five additional warehouses. We're|<br>|still storing your items, so if you'd like to|re-register for the additional 5 warehouses,|you can use them again...<bw_break>"
+  },
+  "380": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　４個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋４に　ご登録いただければ|　追加倉庫を　４個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to four additional warehouses. We have your|<br>|items in storage, so if you would like to re-|register for the additional 4 warehouses, you|will be able to use up to 4 additional|<br>|warehouses...<bw_break>"
+  },
+  "381": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　１個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋１に　ご登録いただければ|　追加倉庫を　１個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to one additional warehouse. We're still|<br>|holding onto your items, so if you'd like to|re-register for the additional warehouse +1,|you'll be able to use up to one additional|<br>|warehouse...<bw_break>"
+  },
+  "382": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　３個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋３に　ご登録いただければ|　追加倉庫を　３個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to the three additional warehouses. We're|<br>|still holding onto your items, so if you'd|like to re-register for the additional 3|warehouses, you'll be able to use them|<br>|again...<bw_break>"
+  },
+  "383": {
+    "「倉庫拡張の登録状況が|　変更されたため　追加倉庫　２個を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋２に　ご登録いただければ|　追加倉庫を　２個まで　また利用いただけます。|<bw_break>": "Due to a change in your warehouse|registration, you will no longer have access|to two additional warehouses. We're still|<br>|holding onto your items, so if you'd like to|re-register for additional storage plus two,|you'll be able to use up to two additional|<br>|storage units...<bw_break>"
+  },
+  "384": {
+    "制限モードのメッセージ|<break>": "Message in restricted mode|<break>"
+  },
+  "385": {
+    "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
+  },
+  "386": {
+    "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you. We look forward to serving you|again.|<turn_end>"
+  },
+  "387": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "388": {
+    "<select_se_off 3>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 3>|Item Warehouse|gold bank|<select_end><break>"
+  },
+  "389": {
+    "<select_se_off 3>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 3>|Item Warehouse|gold bank|<select_end><break>"
+  },
+  "390": {
+    "<select_se_off 3>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 3>|Item Warehouse|gold bank|<select_end><break>"
+  },
+  "391": {
+    "<select_se_off 3>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 3>|Item Warehouse|gold bank|<select_end><break>"
+  },
+  "392": {
+    "「取りだしたい　持ち物が入っている|　倉庫を選んでください。|<end>": "Please select the warehouse that contains the|item you wish to retrieve...<end>"
+  },
+  "393": {
+    "「取りだしたい　持ち物が入っている|　倉庫を選んでください。|<end>": "Please select the warehouse that contains the|item you wish to retrieve...<end>"
+  },
+  "394": {
+    "<pipipi_off><speed=0>|預けたい　持ち物の種類を選んでください。|<break>": "<pipipi_off><speed=0>Please select the type of item you'd like to|deposit.<break>"
+  },
+  "395": {
+    "<pipipi_off><speed=0>|預け先となる　倉庫を選んでください。|<break>": "<pipipi_off><speed=0>|Please select the storage to deposit in.|<break>"
+  },
+  "396": {
+    "「おやめに　なるのですね？": "So you're quitting?"
+  },
+  "397": {
+    "「１０００ゴールド単位で　お預かりします。|　いくら　お預けになりますか？|<break>": "We accept deposits in increments of 1,000|gold. How much would you like to deposit?<break>"
+  },
+  "398": {
+    "「１０００ゴールド単位で　お渡しできます。|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　いくら引き出しますか？|<break>": "You can withdraw gold in units of 1000.|You currently have <%dL_AZU_BALANCE>000 gold in your|account. How much would you like to withdraw?|<break>"
+  },
+  "399": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド　お預かりして|　合計で　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。他に　ご用はありますか？|<break>": "<%dL_AZU_DEPOS_GLD>000 gold has been deposited.|You now have a total of <%dL_AZU_BALANCE>000 gold.|Is there anything else I can do for you?|<break>"
+  },
+  "400": {
+    "「申し訳ありませんが|　これ以上　お預かりできません。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, sir. I can't take any more of|your... Is there anything else I can do for|you?<break>"
+  },
+  "401": {
+    "「あなたさまからは　ゴールドを|　お預かりしていないようです。|<br>|「他にも　ご用はありますか？|<break>": "I don't have any gold for you... Is there|anything else I can do for you?<break>"
+  },
+  "402": {
+    "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "You have <%dL_AZU_BALANCE>000 gold in your|possession. Is there anything else I can do|for you?<break>"
+  },
+  "403": {
+    "「現在　お預かりしている|　ゴールドは　ありません。|　他にも　ご用はありますか？|<break>": "We have gold in our possession at the moment,|but... Is there anything else I can do for|you?<break>"
+  },
+  "404": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド|　確かに　お預かりしました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, we have it...|You have <%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
+  },
+  "405": {
+    "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　どうしますか？|<break>": "You currently have <%dL_AZU_BALANCE>000 Gold|deposited. What do you want to do?<break>"
+  },
+  "406": {
+    "「あなたさまから　お預かりのゴールドは|　ありませんが　今日は　どうしますか？|<break>": "I don't have any gold for you. What can I do|for you today?<break>"
+  },
+  "407": {
+    "「そんなに　たくさん　お持ちになれませんよ。|<br>|「他にも　ご用はありますか？|<break>": "We don't have that many... Is there anything|else I can do for you, sir?<break>"
+  },
+  "408": {
+    "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
+  },
+  "409": {
+    "<select_se_off 2>|あずける|ひきだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
+  },
+  "410": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド　お返しして|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。他に　ご用はありますか？|<break>": "<%dL_WITHDRW_GLD>000 gold has been returned.|Your new balance is <%dL_AZU_BALANCE>000 gold.|Is there anything else I can do for you?|<break>"
+  },
+  "411": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　確かに　お返ししました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold... You now have|<%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
+  },
+  "412": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　お返ししました。現在　あなたさまから|　お預かりのゴールドは　ありません。|<br>|「他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold returned to you...|We currently have no gold for you... Is there|anything else I can do for you?<break>"
+  },
+  "413": {
+    "「失礼ですが　あなたさまは|　預けられるだけの　ゴールドを|　お持ちでないようです。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, but I don't think you have enough|gold in your account to make a deposit. Is|there anything else I can do for you?<break>"
+  },
+  "414": {
+    "「ゴールド銀行を　ご利用ですね。|　本日は　どうされますか？|<break>": "I'm a Gold Bank customer... How can I help|you today?<break>"
+  },
+  "415": {
+    "「申し訳ありませんが|　そのアイテムは　お預かりできません。|　何を　お預けになりますか？|<end>": "I'm sorry, sir. We can't keep that item. What|would you like to check in?<end>"
+  },
+  "416": {
+    "「私は　剣姫さまの弟子　魔封士のひとりにして|　預かり所の役割を　背負う者。|<br>|「アイテム倉庫と　ゴールド銀行|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "I'm the apprentice of the sword princess, one|of the mages, and the keeper of the... The|Item Depository and the Gold Bank are both|<br>|free to use, but which would you like to use|today?<break>"
+  },
+  "417": {
+    "「預けるときは　預けたい持ち物の種類と|　預け先となる倉庫を　選んでください。|<br>|「取り出すときは　複数の倉庫をお持ちなら|　取り出したい倉庫を　選んでください。|<br>|「その後　移動させたいアイテムを選ぶと|　預けたり　取り出すことができます。|<end>": "To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
+  },
+  "418": {
+    "「どの倉庫に　アイテムを預けますか？|<break>": ""
+  },
+  "419": {
+    "「どの倉庫から　アイテムを取りだしますか？|<break>": "Which warehouse do you want to retrieve the|items from?<break>"
+  },
+  "420": {
+    "「かしこまりました。|　拡張券はいつでも使えるので|　また持ってきてください|<break>": "Yes, sir... You can always use the expansion|tickets. Bring them back.<break>"
+  },
+  "421": {
+    "「おめでとうございます！|　<%sL_STORAGE>が|　使えるようになりました！|<break>": "Congratulations! You've got <%sL_STORAGE>|working for you!<break>"
+  },
+  "422": {
+    "未使用|<break>": "unused|<break>"
+  },
+  "423": {
+    "「承りました。それでは以前いただいた|　きらめきのインクで　サインをお願いします。|<break>": "I'll take that... Now, I'd like you to sign|this with the sparkling ink that you gave|me...<break>"
+  },
+  "424": {
+    "「私は　剣姫さまの弟子　魔封士のひとりにして|　預かり所の役割を　背負う者。|<br>|「アイテム倉庫と　ゴールド銀行|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "I'm the apprentice of the sword princess, one|of the mages, and the keeper of the... The|Item Depository and the Gold Bank are both|<br>|free to use, but which would you like to use|today?<break>"
+  },
+  "425": {
+    "「ようこそ　おいでくださいました。|　このたび　アイテム倉庫が|　大幅に　リニューアルいたしました！|<br>|「また　お使いの倉庫に|　名前をつけることも　できるようになりました！|　『倉庫名を変える』から　お試しください。|<bw_break>": "Welcome, welcome... We're pleased to announce|that our Item Warehouse has undergone a major|overhaul! You can now name your warehouse|<br>|after yourself! Go to \"Rename Warehouse\" and|try it out...<bw_break>"
+  },
+  "426": {
+    "「今回　あなたさまに　より便利に|　預かり所を　ご活用いただける|　新サービスの　お知らせです。|<br>|「なんと　こちらの預かり所から|　ご住宅にある　屋根ウラ収納を|　ご利用いただけるようになりました！|<br>|「ただし　こちらは　住宅村に|　家を　お持ちの方が　ご利用できる|　サービスとなっております。|<br>|「もし　家を　お持ちで|　屋根ウラ収納を　ご利用でしたら|　ぜひ　ご活用ください。|<bw_break>": "We'd like to announce a new service that will|make your storage even more convenient...|What's more, you can now use the storage|<br>|space on the roof of your residence from this|storage facility! However, this service is|only available to those who own a home in the|<br>|residential village... If you own a home and|are using the storage space under your roof,|please take advantage of this service...<bw_break>"
+  },
+  "427": {
+    "「<pc>さまの　５キャラコースの登録を|　確認しました。今回から　また|　５キャラ倉庫を　ご利用いただけます。|<bw_break>": "<pc> Your registration for the 5-Character Course|has been confirmed... You can now use the|5-Character Warehouse again...<bw_break>"
+  },
+  "428": {
+    "「このたび　５キャラコースを　ご利用の方に|　新たなサービスを　追加いたしました！|<br>|「<pc>さまは　５キャラコースを|　ご利用なので　アイテムを５０種類収納できる|　５キャラ倉庫を　追加で　ご利用いただけます！|<bw_break>": "We've added a new service for our 5-Chara|Course users!<pc> Since you're using the 5-Character Course,|you'll have access to the 5-Character|Warehouse, which holds 50 different items!<bw_break>"
+  },
+  "429": {
+    "<pc>は申込書にサインした|<break>": "<pc> signed the application form|<break>"
+  },
+  "430": {
+    "<pc>は拡張倉庫が使えるようになった|<break>": "<pc> can now use the extended warehouse|<break>"
+  },
+  "431": {
+    "「５キャラ倉庫の中身は　こちらになります。|<end>": "Here's what's in the five-character|warehouse...<end>"
+  },
+  "432": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll get it back to you. Which|warehouse do you want to retrieve the item|<br>|from?<break>"
+  },
+  "433": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|it back. Which warehouse do you want to|<br>|retrieve the item from?<break>"
+  },
+  "434": {
+    "「<%sL_AZU_ITEM_NAME>でありますね。|　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
+  },
+  "435": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": ""
+  },
+  "436": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|　装備していますが　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,|is that correct?<yesno><break>"
+  },
+  "437": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|　仲間モンスターが　装備していますが|　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped|by a fellow monster, is that correct?<yesno><break>"
+  },
+  "438": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>... Now, if|you'll excuse me... Is there anything else I|can do for you, sir?<break>"
+  },
+  "439": {
+    "「<pc>さま申し訳ありません。|　ワンタイムパスワードの倉庫には|　預けられません。|<break>": "<pc> I'm sorry, sir... You can't keep a one-time|password in a warehouse...<break>"
+  },
+  "440": {
+    "「申し訳ありませんが|　５キャラコースの登録が　確認できないので|　５キャラ倉庫を　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that you've|registered for a 5-Character Course, so you|can't use the 5-Character Warehouse...<end>"
+  },
+  "441": {
+    "「では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "I'll take good care of it. Is there anything|else I can do for you, sir?<break>"
+  },
+  "442": {
+    "「倉庫がいっぱいなので|　代わりに<%sL_STORAGE>に|　しまっていいですか？|<break>": "My warehouse is full, can I put it in|<%sL_STORAGE> instead?<break>"
+  },
+  "443": {
+    "「<%sL_AZU_SOUKO_NAME>は　いっぱいです。|　別の倉庫に　切り替えますか？|<yesno><break>": "<%sL_AZU_SOUKO_NAME> is full... Do you want|to switch to a different warehouse?<yesno><break>"
+  },
+  "444": {
+    "「では　大切に　お預かりします。|　他の物も　預けますか？|<break>": "Well, I'll take good care of it. Do you want|me to take anything else?<break>"
+  },
+  "445": {
+    "「<%sL_AZU_ITEM_NAME>　ひとつを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> I'll take one... May I?<yesno><break>"
+  },
+  "446": {
+    "「<%sL_AZU_ITEM_NAME>を|　どの倉庫に　お入れしますか？|<break>": "In which warehouse would you like to store|<%sL_AZU_ITEM_NAME>?<break>"
+  },
+  "447": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　お預かりします。|　他の物も　預けますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> for|safekeeping... Do you want to keep the other|items?<break>"
+  },
+  "448": {
+    "「それでは　<%sL_STORAGE>を|　整理していただけますか|<break>": "Now let's add <%sL_STORAGE> to the| Can you sort it out, please?|<break>"
+  },
+  "449": {
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I|take this... May I?<yesno><break>"
+  },
+  "450": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　どの倉庫に　お入れしますか？|<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>|individual... In which warehouse would you|like it stored?<break>"
+  },
+  "451": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個|　お預かりします。|　他の物も　預けますか？|<break>": "We have <%sL_AZU_ITEM_NAME> for|<%nL_AZU_ITEM_NUM>... Do you want to keep the|other items?<break>"
+  },
+  "452": {
+    "「何を　お預けになりますか？|<end>": "What would you like to drop off?<end>"
+  },
+  "453": {
+    "「おやめになるのですね。|　他に　預けたいものはありますか？|<end>": "If you don't mind... Is there anything else|you'd like to leave with me?<end>"
+  },
+  "454": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Well,|I'll certainly return the favor... Is there|anything else I can do for you?<break>"
+  },
+  "455": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll give you... Would you like|something else in return?<break>"
+  },
+  "456": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get|back to you... Is there anything else I can|<br>|do for you, sir?<break>"
+  },
+  "457": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|you... Would you like something else in|<br>|return?<break>"
+  },
+  "458": {
+    "「おや　<%sL_STORAGE>がいっぱいのようですね。|　そんなに　たくさん　お持ちになれませんよ。|　何を　お返ししますか？|<end>": "Oh, you have a lot of <%sL_STORAGE>... You|can't have that many... What can I get for|you?<end>"
+  },
+  "459": {
+    "「申し訳ありませんが　<%sL_HIKI_ITEM_NAME>は|　それ以上　お持ちになれません。|<break>": "I'm sorry, but <%sL_HIKI_ITEM_NAME> can't|hold any more...<break>"
+  },
+  "460": {
+    "「その倉庫には　何も|　お預かりしていないようです。|　どの倉庫から　アイテムを取りだしますか？|<break>": "I don't have anything for you in that|warehouse. Which warehouse would you like to|retrieve the item from?<break>"
+  },
+  "461": {
+    "「あなたさまからは　何も|　お預かりしていないようです。|　他にも　ご用はありますか？|<break>": "I don't have anything for you... Is there|anything else I can do for you?<break>"
+  },
+  "462": {
+    "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
+  },
+  "463": {
+    "「失礼ながら　あなたさまは　現在|　預けられる物を　お持ちではないようです。|　他にも　ご用はありますか？|<break>": "With all due respect, sir, I don't think you|have anything to leave with us at the moment.|Is there anything else I can do for you?<break>"
+  },
+  "464": {
+    "「今日は　どういたしますか？|<bw_break>": "What can I do for you today?<bw_break>"
+  },
+  "465": {
+    "<select_se_off>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "466": {
+    "<select_se_off 2>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "467": {
+    "<select_se_off>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "468": {
+    "<select_se_off 2>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "469": {
+    "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
+  },
+  "470": {
+    "<pipipi_off><speed=0>|アイテム倉庫を　利用します。|持ち物を　預けたり　取りだせます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>|You can deposit or retrieve your stored items.|What would you like to do?|<select_se_off 2>|Deposit|Retrieve|<select_end><break>"
+  },
+  "471": {
+    "「それでは　新しい倉庫名を入力してください。|<break>": "Then, enter the new warehouse name you'd like.|<break>"
+  },
+  "472": {
+    "「新しい倉庫名を入力してください。|<break>": "Please enter a new warehouse name.|<break>"
+  },
+  "473": {
+    "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": "I'd like to rename the warehouse... Do you|have any other storage units that you would|like to rename?<break>"
+  },
+  "474": {
+    "「<%sL_STORAGE>を|　<%sL_STORAGE2>に変更してよろしいですか？|<yesno><break>": "Are you sure you want to change <%sL_STORAGE>|to <%sL_STORAGE2>?<yesno><break>"
+  },
+  "475": {
+    "<%sL_STORAGE>を　<%sL_STORAGE2>に変更した|<break>": "changed <%sL_STORAGE> to <%sL_STORAGE2>|<break>"
+  },
+  "476": {
+    "「どの倉庫の名前を　変えますか？|<break>": "Which warehouse would you like to rename?<break>"
+  },
+  "477": {
+    "「他の倉庫の名前も　変更しますか？|<break>": ""
+  },
+  "478": {
+    "ワンタイムパスワードの倉庫が|使えない状態です。|<break>": "The One Time Password Warehouse is not|working...<break>"
+  },
+  "479": {
+    "「プレイコースの登録状況が|　変更されたため　５キャラ倉庫を|　ご利用いただけなくなりました。|<br>|「お預かりした物は　保管していますので|　再度　５キャラコースに　ご登録いただければ|　５キャラ倉庫を　また利用いただけます。|<bw_break>": "Due to a change in your playlist, you will no|longer be able to use the 5-Character|Warehouse. We have your items in storage, so|<br>|if you re-enroll in a 5-Chara course, you|will be able to use the 5-Chara Warehouse|again...<bw_break>"
+  },
+  "480": {
+    "「確かに　移動しました。|<br>|「どれを　移動しますか？|<break>": "Sure, let's move... Which one do you want to|move?<break>"
+  },
+  "481": {
+    "「あなたさまは　現在　アイテムをひとつしか|　お持ちでないため　|　整理する必要が　ありません。|<break>": "You currently have only one item that needs|to be sorted...<break>"
+  },
+  "482": {
+    "「えっ？　その倉庫には　なにも|　お預かりしていませんが……。|<br>|「どれを　移動しますか？|<break>": "What? We don't have anything in that|warehouse, sir. Which one do you want to|move?<break>"
+  },
+  "483": {
+    "「申し訳ありませんが　|　その倉庫は　いっぱいです。|<break>": "I'm sorry, but that warehouse is full of...<break>"
+  },
+  "484": {
+    "「どれを移動しますか？|<break>": "Which one do you want to move?<break>"
+  },
+  "485": {
+    "「どの倉庫を　整理しますか？|<break>": ""
+  },
+  "486": {
+    "「どの倉庫に　移動させますか？|<break>": "What warehouse are you moving it to?<break>"
+  },
+  "487": {
+    "「失礼ですが　そうびぶくろには|　何も入っていないようです。|<br>|「何を　お預けになりますか？|<break>": "I'm sorry, sir, but I don't think there's|anything in that bag. What would you like to|keep in your bag, sir?<break>"
+  },
+  "488": {
+    "「申し訳ありませんが　これ以上|　お預かりできません。|<end>": "I'm sorry, sir. I can't keep you any longer.<end>"
+  },
+  "489": {
+    "「申し訳ありませんが　|　<%sL_AZU_ITEM_NAME>は|　これ以上　お預かりできません。|<break>": "We're sorry, but we can't keep|<%sL_AZU_ITEM_NAME> any longer...<break>"
+  },
+  "490": {
+    "「預けるときは　預けたい持ち物の種類と|　預け先となる倉庫を　選んでください。|<br>|「取り出すときは　複数の倉庫をお持ちなら|　取り出したい倉庫を　選んでください。|<br>|「その後　移動させたいアイテムを選ぶと|　預けたり　取り出すことができます。|<end>": "To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
+  },
+  "491": {
+    "「申し訳ありませんが|　５キャラコースの登録が　確認できないので|　５キャラ倉庫を　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that you've|registered for a 5-Character Course, so you|can't use the 5-Character Warehouse...<end>"
+  },
+  "492": {
+    "「失礼ですが　<%sL_AZU_STORAGE>には|　何も入っていないようです。|　何を　お預けになりますか？|<break>": "Excuse me, sir, but there's nothing in|<%sL_AZU_STORAGE>... What can I get for you,|sir?<break>"
+  },
+  "493": {
+    "「おや？　正しい数が|　入っていないようですよ。|<bw_break>": "Hmm? I don't think we have the right|number...<bw_break>"
+  },
+  "494": {
+    "「他にも　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "495": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋５の登録を　確認しました。|<br>|「今回から　追加倉庫を　５個まで|　ご利用いただけます。|<bw_break>": "<pc> We've just received confirmation that you've|registered for our warehouse expansion|service... From now on, you can use up to|<br>|five additional warehouses...<bw_break>"
+  },
+  "496": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋４の登録を　確認しました。|<br>|「今回から　追加倉庫を　４個まで|　ご利用いただけます。|<bw_break>": "<pc> We've just received confirmation that you've|registered for our warehouse expansion|service... You can now use up to four|<br>|additional warehouses...<bw_break>"
+  },
+  "497": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋１の登録を　確認しました。|<br>|「今回から　追加倉庫を　１個まで|　ご利用いただけます。|<bw_break>": "<pc> We've just received confirmation that you've|registered for our warehouse expansion|service... From now on, you can use up to one|<br>|additional warehouse...<bw_break>"
+  },
+  "498": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋３の登録を　確認しました。|<br>|「今回から　追加倉庫を　３個まで|　ご利用いただけます。|<bw_break>": "<pc> We've just received confirmation that you've|signed up for our warehouse expansion|service, additional warehouse +3. You can now|<br>|use up to three additional warehouses...<bw_break>"
+  },
+  "499": {
+    "「<pc>さまの　倉庫拡張サービス|　追加倉庫＋２の登録を　確認しました。|<br>|「今回から　追加倉庫を　２個まで|　ご利用いただけます。|<bw_break>": ""
+  },
+  "500": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋５が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has added an|additional +5 warehouse, so this additional|<br>|warehouse is not available...<end>"
+  },
+  "501": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋４が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has added an|additional warehouse +4, so this additional|<br>|warehouse is not available...<end>"
+  },
+  "502": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋１が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has an additional|warehouse +1, so this additional warehouse is|<br>|not available...<end>"
+  },
+  "503": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋３が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has added an|additional warehouse +3, so this additional|<br>|warehouse is not available...<end>"
+  },
+  "504": {
+    "「申し訳ありませんが　倉庫拡張サービスの|　追加倉庫＋２が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't confirm that the|warehouse expansion service has added an|additional warehouse plus two, so this|<br>|additional warehouse is not available...<end>"
+  },
+  "505": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋５を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　５個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouses,|you can now add up to 5 additional|warehouses... You can now use up to 5|<br>|additional warehouses that can hold up to 50|different items each!<bw_break>"
+  },
+  "506": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋４を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　４個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouses,|you can now add up to 4 additional|warehouses... You can now use up to 4|<br>|additional warehouses that can hold up to 50|different items each!<bw_break>"
+  },
+  "507": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋１を　ご利用ですね。|<br>|「アイテムを　５０種類収納できる|　追加倉庫を　１個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouse,|you can use our Additional Warehouse +1...|You can use up to 1 additional warehouse to|<br>|store 50 different items!<bw_break>"
+  },
+  "508": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋３を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　３個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouse,|you can use the additional warehouse +3...|You can now use up to 3 additional warehouses|<br>|that can hold up to 50 different items each!<bw_break>"
+  },
+  "509": {
+    "「<pc>さまは　倉庫拡張サービスの|　追加倉庫＋２を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　２個まで　ご利用いただけます！|<bw_break>": "<pc> If you're looking to expand your warehouse,|you'll need to purchase an additional|warehouse +2... You can now use up to 2|<br>|additional warehouses that can hold up to 50|different items each!<bw_break>"
+  },
+  "510": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋５に　ご登録いただければ|　追加倉庫を　５個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up for the additional|warehousing +5 service again, you'll be able|<br>|to use up to five additional warehouses...<bw_break>"
+  },
+  "511": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋４に　ご登録いただければ|　追加倉庫を　４個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up for additional|storage +4, you can use up to four additional|<br>|warehouses...<bw_break>"
+  },
+  "512": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋１に　ご登録いただければ|　追加倉庫を　１個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to register for the additional|warehouse +1, you can use up to one|<br>|additional warehouse again...<bw_break>"
+  },
+  "513": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋３に　ご登録いただければ|　追加倉庫を　３個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up again for the|additional storage +3, you'll be able to use|<br>|up to three additional storage units...<bw_break>"
+  },
+  "514": {
+    "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋２に　ご登録いただければ|　追加倉庫を　２個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up for additional|storage plus two, you'll be able to use up to|<br>|two additional storage units...<bw_break>"
+  },
+  "515": {
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+  },
+  "516": {
+    "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
+  },
+  "517": {
+    "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you. We look forward to serving you|again.|<turn_end>"
+  },
+  "518": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "519": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "520": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "521": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "522": {
+    "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "523": {
+    "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve.<break>"
+  },
+  "524": {
+    "<pipipi_off><speed=0>|持ち物をしまう場合は　しまうを|持ち物を取りだす場合は　とりだすを|選択してください。|<break>": "<pipipi_off><speed=0>Select \"Put away\" to put your belongings away|or \"Take out\" to take them out...<break>"
+  },
+  "525": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋５が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't see any|additional warehouses at +5, so this|additional warehouse is not available...<end>"
+  },
+  "526": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「アイテム倉庫と　ゴールド銀行|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm still a... The Item Depository and the|<br>|Gold Bank are both free to use, but which one|would you like to use today?<break>"
+  },
+  "527": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「アイテム倉庫と　ゴールド銀行|　どちらも無料で　ご利用いただけますが|　本日は　どちらをご利用ですか？|<break>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm still a... The Item Depository and the|<br>|Gold Bank are both free to use, but which one|would you like to use today?<break>"
+  },
+  "528": {
+    "「申し訳ありませんが　倉庫拡張の|　追加倉庫＋５が　確認できないので|　この追加倉庫は　ご利用いただけません。|<end>": "I'm sorry, sir, but I can't see any|additional warehouses at +5, so this|additional warehouse is not available...<end>"
+  },
+  "529": {
+    "<pipipi_off><speed=0>|預けたい　持ち物の種類を選んでください。|<break>": "<pipipi_off><speed=0>Please select the type of item you'd like to|deposit.<break>"
+  },
+  "530": {
+    "<pipipi_off><speed=0>|預け先となる　倉庫を選んでください。|<break>": "<pipipi_off><speed=0>|Please select the storage to deposit in.|<break>"
+  },
+  "531": {
+    "「おやめに　なるのですね？": "So you're quitting?"
+  },
+  "532": {
+    "<speed=0>|１０００ゴールド単位で|ゴールドを　預けることができます。|いくら　預けますか？|<break>": "<speed=0>You can deposit gold in increments of 1,000|gold... How much would you like to deposit?<break>"
+  },
+  "533": {
+    "<speed=0>|１０００ゴールド単位で　引き出せます。|現在　<%nL_AZU_BALANCE>０００ゴールドを|預けていますが　いくら引き出しますか？|<break>": "<speed=0>Withdrawals in increments of 1,000 gold...|You have <%nL_AZU_BALANCE>000 gold on|deposit. How much would you like to withdraw?<break>"
+  },
+  "534": {
+    "<speed=0>|<pc>は　ツボに|<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！|<br>|ゴールド銀行に　預けているゴールドが|<%nL_AZU_BALANCE>０００ゴールドになった。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>|<pc> has thrown <%nL_AZU_DEPOS_GLD>000 gold into|the urn! He now has <%nL_AZU_BALANCE>000 gold|in his gold bank... Somehow, through this|<br>|urn, I can move items in and out of the Item|Warehouse and the Gold Bank...<break>"
+  },
+  "535": {
+    "<speed=0>|しかし　これ以上|預けることはできないようだ。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I can't deposit any more... Somehow,|through this urn, you can get in and out of|the item vault and the gold bank...<break>"
+  },
+  "536": {
+    "<speed=0>|<pc>は　ツボに手を入れて|中をさぐった！|<br>|しかし　ツボには　何も入っていなかった。|どうやら　ゴールド銀行に|ゴールドを預けていないようだ。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>|<pc> He put his hand in the urn and poked around|inside! But there was nothing in the urn...|Apparently, he didn't deposit any gold in the|<br>|Gold Bank... Somehow, through this urn, I can|access the item vault and the gold bank...<break>"
+  },
+  "537": {
+    "<speed=0>|現在　ゴールド銀行に|<%nL_AZU_BALANCE>０００ゴールド|預けています。どうしますか？|<break>": "<speed=0>I currently have <%nL_AZU_BALANCE>000 gold|deposited in a gold bank... What do you want|to do?<break>"
+  },
+  "538": {
+    "<speed=0>|現在　ゴールド銀行に|預けているゴールドは　ありません。|<break>": "<speed=0>Do you have any gold currently deposited in|the Gold Bank...<break>"
+  },
+  "539": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド|　確かに　お預かりしました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, we have it...|You have <%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
+  },
+  "540": {
+    "<speed=0>|現在　ゴールド銀行に|<%nL_AZU_BALANCE>０００ゴールド|預けています。どうしますか？|<break>": "<speed=0>I currently have <%nL_AZU_BALANCE>000 gold|deposited in a gold bank... What do you want|to do?<break>"
+  },
+  "541": {
+    "<speed=0>|現在　ゴールド銀行に|預けているゴールドは　ありません。|<break>": "<speed=0>Do you have any gold currently deposited in|the Gold Bank...<break>"
+  },
+  "542": {
+    "<speed=0>|しかし　引き出そうとしたゴールドを|持ちきれないようだ！|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I can't seem to hold all the gold I'm|trying to withdraw! Somehow, through this|urn, you can access your belongings in the|<br>|item vault and the gold bank...<break>"
+  },
+  "543": {
+    "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
+  },
+  "544": {
+    "<select_se_off 2>|あずける|ひきだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
+  },
+  "545": {
+    "<speed=0>|<pc>は　ツボに手を入れて|中をさぐった！|<br>|なんと　<%nL_WITHDRW_GLD>０００ゴールドを|見つけた！|<br>|現在　ゴールド銀行には|<%nL_AZU_BALANCE>０００ゴールドを|預けているようだ。|<break>": "<speed=0>|<pc> He put his hand in the urn and poked around|inside! He found <%nL_WITHDRW_GLD>000 gold!|He now has <%nL_AZU_BALANCE>000 gold in the|<br>|Gold Bank...<break>"
+  },
+  "546": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　確かに　お返ししました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold... You now have|<%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
+  },
+  "547": {
+    "<speed=0>|<pc>は　ツボに手を入れて|中をさぐった！|<br>|なんと　<%nL_WITHDRW_GLD>０００ゴールドを|見つけた！|<br>|現在　ゴールド銀行に|預けているゴールドは　ないようだ。|<break>": "<speed=0>|<pc> He put his hand in the urn and poked around|inside! He found <%nL_WITHDRW_GLD>000 gold!|There is currently no gold in the Gold|<br>|Bank...<break>"
+  },
+  "548": {
+    "<speed=0>|しかし　預けられるだけのゴールドを|持っていなかった。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I don't have enough gold to deposit...|Somehow, through this urn, I can access my|possessions in the item vault and the gold|<br>|bank...<break>"
+  },
+  "549": {
+    "「ゴールド銀行を　ご利用ですね。|　本日は　どうされますか？|<break>": "I'm a Gold Bank customer... How can I help|you today?<break>"
+  },
+  "550": {
+    "<speed=0>|このアイテムを預けることは　できません！|<end>": "<speed=0>You can't deposit this item!<end>"
+  },
+  "551": {
+    "<speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>It's solid, stable... If you look closely,|you'll see the symbol for the Depository|engraved on it. Somehow, through this urn, we|<br>|can access the item storage and the gold|bank...<break>"
+  },
+  "552": {
+    "<speed=0>|預けるときは　預けたい持ち物の種類と|預け先となる倉庫を　選んでください。|<br>|取り出すときは　複数の倉庫をお持ちなら|取り出したい倉庫を　選んでください。|<br>|その後　移動させたいアイテムを選ぶと|預けたり　取り出すことができます。|<end>": "<speed=0>To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
+  },
+  "553": {
+    "<speed=0>|私は　テリーさんと　行動を共にする|さすらいの　預かり所モンスターです。|モンスターと言えど　きっちりやります。|<br>|アイテム倉庫と　ゴールド銀行|どちらも無料で　ご利用いただけますが|本日は　どちらをご利用ですか？|<break>": "<speed=0>I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm still a... The Item Depository and the|<br>|Gold Bank are both free to use, but which one|would you like to use today?<break>"
+  },
+  "554": {
+    "「どの倉庫に　アイテムを預けますか？|<break>": ""
+  },
+  "555": {
+    "「どの倉庫から　アイテムを取りだしますか？|<break>": "Which warehouse do you want to retrieve the|items from?<break>"
+  },
+  "556": {
+    "「かしこまりました。|　拡張券はいつでも使えるので|　また持ってきてください|<break>": "Yes, sir... You can always use the expansion|tickets. Bring them back.<break>"
+  },
+  "557": {
+    "「おめでとうございます！|　<%sL_STORAGE>が|　使えるようになりました！|<break>": "Congratulations! You've got <%sL_STORAGE>|working for you!<break>"
+  },
+  "558": {
+    "未使用|<break>": "unused|<break>"
+  },
+  "559": {
+    "「承りました。それでは以前いただいた|　きらめきのインクで　サインをお願いします。|<break>": "I'll take that... Now, I'd like you to sign|this with the sparkling ink that you gave|me...<break>"
+  },
+  "560": {
+    "<speed=0>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>Somehow, through these pressure points, you|can access your possessions in the item vault|and the gold bank...<break>"
+  },
+  "561": {
+    "<speed=0>|アイテム倉庫が　リニューアルされました！|<br>|また　お使いの倉庫に|名前をつけることも　できるようになりました！|『倉庫名を変える』から　お試しください。|<bw_break>": "<speed=0>The Item Warehouse has been redesigned! You|can also now name your warehouse! Go to|\"Rename Warehouse\" to try it out...<bw_break>"
+  },
+  "562": {
+    "<speed=0>|住宅村に　家を持っていれば|預かり所で　屋根ウラ収納を|利用できるように　なりました！|<bw_break>": "<speed=0>If you own a house in the Housing Village,|you now have access to the roof-ura storage|at the Depository!<bw_break>"
+  },
+  "563": {
+    "<speed=0>|５キャラコースの利用により|アイテムを５０種類収納できる|５キャラ倉庫を　追加で使えるようになった！|<bw_break>": "<speed=0>With the 5-Character Course, you now have|access to an additional 5-Character Warehouse|that can hold 50 different items!<bw_break>"
+  },
+  "564": {
+    "<speed=0>|預かり所に　新たなサービスが|追加されました！|<br>|５キャラコースを　利用していれば|アイテムを５０種類収納できる|５キャラ倉庫を　追加で　使うことができます。|<bw_break>": "<speed=0>We've added a new service to the Depository!|If you're using the 5-Character Course,|you'll be able to use the 5-Character|<br>|Warehouse, which holds 50 different items...<bw_break>"
+  },
+  "565": {
+    "<pc>は申込書にサインした|<break>": "<pc> signed the application form|<break>"
+  },
+  "566": {
+    "<pc>は拡張倉庫が使えるようになった|<break>": "<pc> can now use the extended warehouse|<break>"
+  },
+  "567": {
+    "「５キャラ倉庫の中身は　こちらになります。|<end>": "Here's what's in the five-character|warehouse...<end>"
+  },
+  "568": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll get it back to you. Which|warehouse do you want to retrieve the item|<br>|from?<break>"
+  },
+  "569": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|it back. Which warehouse do you want to|<br>|retrieve the item from?<break>"
+  },
+  "570": {
+    "「<%sL_AZU_ITEM_NAME>でありますね。|　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
+  },
+  "571": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": ""
+  },
+  "572": {
+    "<speed=0>|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|装備していますが　よろしいですか？|<yesno><break>": "<speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,|is that correct?<yesno><break>"
+  },
+  "573": {
+    "<speed=0>|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|仲間モンスターが　装備していますが|よろしいですか？|<yesno><break>": "<speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped|by a fellow monster, is that correct?<yesno><break>"
+  },
+  "574": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>... Now, if|you'll excuse me... Is there anything else I|can do for you, sir?<break>"
+  },
+  "575": {
+    "「<pc>さま申し訳ありません。|　ワンタイムパスワードの倉庫には|　預けられません。|<break>": "<pc> I'm sorry, sir... You can't keep a one-time|password in a warehouse...<break>"
+  },
+  "576": {
+    "「申し訳ありませんが|　５キャラコースの登録が　確認できないので|　５キャラ倉庫を　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that you've|registered for a 5-Character Course, so you|can't use the 5-Character Warehouse...<end>"
+  },
+  "577": {
+    "「では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "I'll take good care of it. Is there anything|else I can do for you, sir?<break>"
+  },
+  "578": {
+    "「倉庫がいっぱいなので|　代わりに<%sL_STORAGE>に|　しまっていいですか？|<break>": "My warehouse is full, can I put it in|<%sL_STORAGE> instead?<break>"
+  },
+  "579": {
+    "<speed=0>|<%sL_AZU_SOUKO_NAME>は　いっぱいです。|別の倉庫に　切り替えますか？|<yesno><break>": "<speed=0><%sL_AZU_SOUKO_NAME> is full... Do you want|to switch to a different warehouse?<yesno><break>"
+  },
+  "580": {
+    "「では　大切に　お預かりします。|　他の物も　預けますか？|<break>": "Well, I'll take good care of it. Do you want|me to take anything else?<break>"
+  },
+  "581": {
+    "「<%sL_AZU_ITEM_NAME>　ひとつを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> I'll take one... May I?<yesno><break>"
+  },
+  "582": {
+    "「<%sL_AZU_ITEM_NAME>を|　どの倉庫に　お入れしますか？|<break>": "In which warehouse would you like to store|<%sL_AZU_ITEM_NAME>?<break>"
+  },
+  "583": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　お預かりします。|　他の物も　預けますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> for|safekeeping... Do you want to keep the other|items?<break>"
+  },
+  "584": {
+    "「それでは　<%sL_STORAGE>を|　整理していただけますか|<break>": "Now let's add <%sL_STORAGE> to the| Can you sort it out, please?|<break>"
+  },
+  "585": {
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I|take this... May I?<yesno><break>"
+  },
+  "586": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　どの倉庫に　お入れしますか？|<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>|individual... In which warehouse would you|like it stored?<break>"
+  },
+  "587": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個|　お預かりします。|　他の物も　預けますか？|<break>": "We have <%sL_AZU_ITEM_NAME> for|<%nL_AZU_ITEM_NUM>... Do you want to keep the|other items?<break>"
+  },
+  "588": {
+    "「何を　お預けになりますか？|<end>": "What would you like to drop off?<end>"
+  },
+  "589": {
+    "<speed=0>|他に　預けるものはありますか？|<end>": "<speed=0>Is there anything else I can give you?<end>"
+  },
+  "590": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Well,|I'll certainly return the favor... Is there|anything else I can do for you?<break>"
+  },
+  "591": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll give you... Would you like|something else in return?<break>"
+  },
+  "592": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get|back to you... Is there anything else I can|<br>|do for you, sir?<break>"
+  },
+  "593": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|you... Would you like something else in|<br>|return?<break>"
+  },
+  "594": {
+    "<speed=0>|<%sL_STORAGE>を|これ以上　持つことはできないようだ。|<end>": "<speed=0>You can't have any more <%sL_STORAGE>...<end>"
+  },
+  "595": {
+    "「申し訳ありませんが　<%sL_HIKI_ITEM_NAME>は|　それ以上　お持ちになれません。|<break>": "I'm sorry, but <%sL_HIKI_ITEM_NAME> can't|hold any more...<break>"
+  },
+  "596": {
+    "「その倉庫には　何も|　お預かりしていないようです。|　どの倉庫から　アイテムを取りだしますか？|<break>": "I don't have anything for you in that|warehouse. Which warehouse would you like to|retrieve the item from?<break>"
+  },
+  "597": {
+    "<speed=0>|しかし　何も　預けていなかった！|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I never deposited anything! Somehow,|through this urn, you can access your|belongings in the item vault and the gold|<br>|bank...<break>"
+  },
+  "598": {
+    "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
+  },
+  "599": {
+    "「失礼ですが　お客さまは　現在|　預けられる物を　お持ちではないようです。|　他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't believe you have|anything that can be left with us at this|time. Is there anything else I can do for|<br>|you?<break>"
+  },
+  "600": {
+    "「今日は　どういたしますか？|<bw_break>": "What can I do for you today?<bw_break>"
+  },
+  "601": {
+    "<select_se_off>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "602": {
+    "<select_se_off 2>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "603": {
+    "<select_se_off>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "604": {
+    "<select_se_off 2>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "605": {
+    "<pipipi_off><speed=0>|アイテム倉庫に　持ち物を送るか|預けているものを　取り出すことができます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>I can send your belongings to the item depot,|or I can retrieve what you have in storage...|What do you want to do?|<select_se_off>|give into custody|retrieve|<select_end><break>"
+  },
+  "606": {
+    "<pipipi_off><speed=0>|アイテム倉庫に　持ち物を送るか|預けているものを　取り出すことができます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>I can send your belongings to the item depot,|or I can retrieve what you have in storage...|What do you want to do?|<select_se_off 2>|give into custody|retrieve|<select_end><break>"
+  },
+  "607": {
+    "<speed=0>|新しい倉庫名を入力してください。|<break>": "<speed=0>Please enter a new warehouse name...<break>"
+  },
+  "608": {
+    "<speed=0>|新しい倉庫名を入力してください。|<break>": "<speed=0>Please enter a new warehouse name...<break>"
+  },
+  "609": {
+    "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": "I'd like to rename the warehouse... Do you|have any other storage units that you would|like to rename?<break>"
+  },
+  "610": {
+    "<speed=0>|<%sL_STORAGE>を|<%sL_STORAGE2>に変更します。よろしいですか？|<yesno><break>": "<speed=0>Change <%sL_STORAGE> to <%sL_STORAGE2>... Are|you sure?<yesno><break>"
+  },
+  "611": {
+    "<%sL_STORAGE>を　<%sL_STORAGE2>に変更した|<break>": "changed <%sL_STORAGE> to <%sL_STORAGE2>|<break>"
+  },
+  "612": {
+    "<speed=0>|どの倉庫の名前を　変えますか？|<break>": "<speed=0>Which warehouse would you like to rename?<break>"
+  },
+  "613": {
+    "<speed=0>|他の倉庫の名前も　変更しますか？|<break>": ""
+  },
+  "614": {
+    "ワンタイムパスワードの倉庫が|使えない状態です。|<break>": "The One Time Password Warehouse is not|working...<break>"
+  },
+  "615": {
+    "<speed=0>|プレイコースの登録状況が　変更されたため|５キャラ倉庫が　使えなくなりました。|<br>|預けていた物は　保管されているため|再度　５キャラコースに　登録することで|５キャラ倉庫から　取り出すことができます。|<bw_break>": "<speed=0>Due to a change in the course of play, the|5-Character Warehouse is no longer available.|Your items are still in storage, so you can|<br>|retrieve them from the 5-Character Warehouse|by registering for another 5-Character|Course.<bw_break>"
+  },
+  "616": {
+    "「確かに　移動しました。|<br>|「どれを　移動しますか？|<break>": "Sure, let's move... Which one do you want to|move?<break>"
+  },
+  "617": {
+    "「お客さまは　現在　アイテムをひとつしか|　お持ちでないため　|　整理する必要が　ありません。|<break>": "The customer only has one item at the moment,|and it needs to be sorted...<break>"
+  },
+  "618": {
+    "「えっ？　その倉庫には　なにも|　お預かりしていませんが……。|<br>|「どれを　移動しますか？|<break>": "What? We don't have anything in that|warehouse, sir. Which one do you want to|move?<break>"
+  },
+  "619": {
+    "「申し訳ありませんが　|　その倉庫は　いっぱいです。|<break>": "I'm sorry, but that warehouse is full of...<break>"
+  },
+  "620": {
+    "「どれを移動しますか？|<break>": "Which one do you want to move?<break>"
+  },
+  "621": {
+    "「どの倉庫を　整理しますか？|<break>": ""
+  },
+  "622": {
+    "「どの倉庫に　移動させますか？|<break>": "What warehouse are you moving it to?<break>"
+  },
+  "623": {
+    "「失礼ですが　そうびぶくろには|　何も入っていないようです。|<br>|「何を　お預けになりますか？|<break>": "I'm sorry, sir, but I don't think there's|anything in that bag. What would you like to|keep in your bag, sir?<break>"
+  },
+  "624": {
+    "<speed=0>|これ以上　預けることは　できないようだ。|<end>": "<speed=0>I can't leave you any longer...<end>"
+  },
+  "625": {
+    "「申し訳ありませんが　|　<%sL_AZU_ITEM_NAME>は|　これ以上　お預かりできません。|<break>": "We're sorry, but we can't keep|<%sL_AZU_ITEM_NAME> any longer...<break>"
+  },
+  "626": {
+    "<speed=0>|預けるときは　預けたい持ち物の種類と|預け先となる倉庫を　選んでください。|<br>|取り出すときは　複数の倉庫をお持ちなら|取り出したい倉庫を　選んでください。|<br>|その後　移動させたいアイテムを選ぶと|預けたり　取り出すことができます。|<end>": "<speed=0>To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
+  },
+  "627": {
+    "<speed=0>|５キャラコースの登録が　確認できないため|５キャラ倉庫を　使うことはできません。|<end>": "<speed=0>I can't confirm that you've registered for a|5-Character Course, so you can't use the|5-Character Warehouse...<end>"
+  },
+  "628": {
+    "「失礼ですが　<%sL_AZU_STORAGE>には|　何も入っていないようです。|　何を　お預けになりますか？|<break>": "Excuse me, sir, but there's nothing in|<%sL_AZU_STORAGE>... What can I get for you,|sir?<break>"
+  },
+  "629": {
+    "<speed=0>|正しい数が　入っていません！|<bw_break>": "<speed=0>You're not getting the right number!<bw_break>"
+  },
+  "630": {
+    "「他にも　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "631": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋５が|登録されました。追加倉庫を|５個まで使うことが　できます。|<bw_break>": "<speed=0>The warehouse expansion service has|registered an additional five warehouses...|You can now use up to five additional|<br>|warehouses...<bw_break>"
+  },
+  "632": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋４が|登録されました。追加倉庫を|４個まで使うことが　できます。|<bw_break>": "<speed=0>The warehouse expansion service has|registered an additional four warehouses...|You can now use up to four additional|<br>|warehouses...<bw_break>"
+  },
+  "633": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋１が|登録されました。追加倉庫を|１個まで使うことが　できます。|<bw_break>": "<speed=0>The warehouse expansion service has|registered an additional warehouse... You can|use up to one additional warehouse...<bw_break>"
+  },
+  "634": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋３が|登録されました。追加倉庫を|３個まで使うことが　できます。|<bw_break>": "<speed=0>The warehouse expansion service has added an|additional three warehouses... You can now|use up to three additional warehouses...<bw_break>"
+  },
+  "635": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋２が|登録されました。追加倉庫を|２個まで使うことが　できます。|<bw_break>": ""
+  },
+  "636": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋５の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "637": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋４の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "638": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋１の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "639": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋３の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "640": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋２の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "641": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋５を|利用中です。アイテムを　各５０種類収納できる|追加倉庫を　５個まで　使うことができます。|<bw_break>": "<speed=0>You can use up to 5 additional warehouses...|You can use up to 5 additional warehouses|that can hold up to 50 different items|<br>|each...<bw_break>"
+  },
+  "642": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋４を|利用中です。アイテムを　各５０種類収納できる|追加倉庫を　４個まで　使うことができます。|<bw_break>": "<speed=0>You can use up to four additional|warehouses... You can use up to four|additional warehouses, each holding up to 50|<br>|different items...<bw_break>"
+  },
+  "643": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋１を|利用中です。アイテムを　５０種類収納できる|追加倉庫を　１個まで　使うことができます。|<bw_break>": "<speed=0>You can use the warehouse expansion service,|additional warehouse +1. You can use up to 1|additional warehouse to store up to 50|<br>|different items...<bw_break>"
+  },
+  "644": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋３を|利用中です。アイテムを　各５０種類収納できる|追加倉庫を　３個まで　使うことができます。|<bw_break>": "<speed=0>You can use up to three additional|warehouses... You can use up to three|additional warehouses, each holding up to 50|<br>|different items...<bw_break>"
+  },
+  "645": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋２を|利用中です。アイテムを　各５０種類収納できる|追加倉庫を　２個まで　使うことができます。|<bw_break>": "<speed=0>You can use the additional warehouse +2...|You can use up to two additional warehouses|that can hold up to 50 different items|<br>|each...<bw_break>"
+  },
+  "646": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋５に　登録すれば|追加倉庫を　５個まで　使うことができます。|<bw_break>": "<speed=0>There are additional warehouses that are no|longer available due to a change in the|registration status of the warehouse|<br>|expansion service. Since the items you|deposited are still in storage, you can re-|register for additional storage and use up to|<br>|five additional warehouses...<bw_break>"
+  },
+  "647": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋４に　登録すれば|追加倉庫を　４個まで　使うことができます。|<bw_break>": ""
+  },
+  "648": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋１に　登録すれば|追加倉庫を　１個まで　使うことができます。|<bw_break>": ""
+  },
+  "649": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋３に　登録すれば|追加倉庫を　３個まで　使うことができます。|<bw_break>": ""
+  },
+  "650": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋２に　登録すれば|追加倉庫を　２個まで　使うことができます。|<bw_break>": ""
+  },
+  "651": {
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+  },
+  "652": {
+    "<speed=0>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>Somehow, through these pressure points, you|can access your possessions in the item vault|and the gold bank...<break>"
+  },
+  "653": {
+    "未使用|<turn_end>": "unused|<turn_end>"
+  },
+  "654": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "655": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "656": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "657": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "658": {
+    "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "659": {
+    "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve.<break>"
+  },
+  "660": {
+    "<pipipi_off><speed=0>|持ち物をしまう場合は　しまうを|持ち物を取りだす場合は　とりだすを|選択してください。|<break>": "<pipipi_off><speed=0>Select \"Put away\" to put your belongings away|or \"Take out\" to take them out...<break>"
+  },
+  "661": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... No way.|I'm pretty sure it's... The key to the belt|<br>|warehouse... It's quite a rare find... The|belt vault is a special vault that can only|hold special belts... such as the pyroxene|<br>|belt and the war god belt. With this key, you|can store up to 10 belts in the Belt|Warehouse... When we get a new key, we'll add|<br>|10 more belts to the belt vault, so don't|forget to take them to your nearest vault.|The Belt Warehouse uses a mysterious power to|<br>|store belts and their special effects|separately... When you retrieve your belt,|the special effects will be combined with the|<br>|belt in storage and returned to you. Because|of this, if you leave a belt in the belt|vault, the item's history will be deleted. If|<br>|you don't want to delete your item's history,|please use the regular warehouse. Now, if|you'd like to use the key to unlock the belt|<br>|vault...<end>"
+  },
+  "662": {
+    "「私は　剣姫さまの弟子　魔封士のひとりにして|　預かり所の役割を　背負う者。|<br>|「……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'm Ken-hime's apprentice, one of the mages,|and I'm responsible for the guardianship...|... Hmm? That thing in your hand... No way. I|<br>|knew it... The key to the belt warehouse...|It's quite a rare find... The belt vault is a|special vault that can only hold special|<br>|belts... such as the pyroxene belt and the|war god belt. With this key, you can store up|to 10 belts in the Belt Warehouse... When we|<br>|get a new key, we'll add 10 more belts to the|belt vault, so don't forget to take them to|your nearest vault. The Belt Warehouse uses a|<br>|mysterious power to store belts and their|special effects separately... When you|retrieve your belt, the special effects will|<br>|be combined with the belt in storage and|returned to you. Because of this, if you|leave a belt in the belt vault, the item's|<br>|history will be deleted. If you don't want to|delete your item's history, please use the|regular warehouse. Now, if you'd like to use|<br>|the key to unlock the belt vault...<end>"
+  },
+  "663": {
+    "<pipipi_off><speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|ツボは　突然まばゆい光をはなち|<pc>が持っていたベルト倉庫のカギを|<%nL_ITEM_NUM>個　吸い込んでいった！|<br>|どうやら　預かり所に|ベルト倉庫というものが　追加されたようだ。|<br>|<color_yellow>ベルト倉庫とは　ベルト装備の中でも特殊な|輝石のベルトと　戦神のベルトだけ　|入れることができる　特別な倉庫です。|<br>|このカギ１つで　ベルト倉庫の中に|１０個まで　輝石のベルトと　戦神のベルトを|預けることが　できます。|<br>|新たにベルト倉庫のカギを　入手した場合は|さらに１０個預けられるように　増設されるので|忘れずに　最寄りの預かり所へ持っていきましょう。|<br>|注意事項として　ベルト倉庫は不思議なチカラで|ベルトと　ベルトに付与されている特殊効果を|別々に保管する　仕組みになっています。|<br>|ベルトを取り出す際は|保管されているベルトと　特殊効果を|結びつけて　返却されます。|<br>|そのため　ベルト倉庫に|ベルトを預けると　アイテムの歴史が　|削除されてしまいます。|<br>|アイテムの歴史を　消したくない場合には|通常倉庫を　利用するように|注意しましょう。|<color_white><bw_break>": "<pipipi_off><speed=0>It's solid, stable... If you look closely,|you can see the mark of the depositary|engraved on it... The urn is suddenly bathed|<br>|in a dazzling light.<pc>  He took <%nL_ITEM_NUM> of the keys to the|belt depository that <%nL_ITEM_NUM> was|holding! Apparently, they've added something|<br>|called the Belt Depository to the|Depository...<color_yellow>The belt vault is a special vault that can|only hold belts of brilliance and warrior|gods. With this key, you can store up to 10|<br>|belts in the Belt Warehouse... If you get a|new key for the Belt Vault, you'll be able to|deposit 10 more belts, so don't forget to|<br>|take them to your nearest Vault. Note that|the Belt Warehouse is a magical place where|belts and their special effects are stored|<br>|separately... To retrieve a belt, you must|combine it with its special effect and return|it. So if you put a belt in the belt vault,|<br>|the item's history will be deleted. If you|don't want to erase the history of an item,|use the normal storage...<color_white><bw_break>"
+  },
+  "664": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... No way.|I'm pretty sure it's... The key to the belt|<br>|warehouse... It's quite a rare find... The|belt vault is a special vault that can only|hold special belts... such as the pyroxene|<br>|belt and the war god belt. With this key, you|can store up to 10 belts in the Belt|Warehouse... When we get a new key, we'll add|<br>|10 more belts to the belt vault, so don't|forget to take them to your nearest vault.|The Belt Warehouse uses a mysterious power to|<br>|store belts and their special effects|separately... When you retrieve your belt,|the special effects will be combined with the|<br>|belt in storage and returned to you. Because|of this, if you leave a belt in the belt|vault, the item's history will be deleted. If|<br>|you don't want to delete your item's history,|please use the regular warehouse. Now, if|you'd like to use the key to unlock the belt|<br>|vault...<end>"
+  },
+  "665": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... No way.|I'm pretty sure it's... The key to the belt|<br>|warehouse... It's quite a rare find... The|belt vault is a special vault that can only|hold special belts... such as the pyroxene|<br>|belt and the war god belt. With this key, you|can store up to 10 belts in the Belt|Warehouse... When we get a new key, we'll add|<br>|10 more belts to the belt vault, so don't|forget to take them to your nearest vault.|The Belt Warehouse uses a mysterious power to|<br>|store belts and their special effects|separately... When you retrieve your belt,|the special effects will be combined with the|<br>|belt in storage and returned to you. Because|of this, if you leave a belt in the belt|vault, the item's history will be deleted. If|<br>|you don't want to delete your item's history,|please use the regular warehouse. Now, if|you'd like to use the key to unlock the belt|<br>|vault...<end>"
+  },
+  "666": {
+    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc>  You can now store up to <%nL_BLTSTR_NUM>|belts in the Belt Warehouse. You can now|store up to <%nL_BLTSTR_NUM> belts of|<br>|brilliance and war gods in the new belt|vault!<me_60>|<end>"
+  },
+  "667": {
+    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc>  You can now store up to <%nL_BLTSTR_NUM>|belts in the Belt Warehouse. You can now|store up to <%nL_BLTSTR_NUM> belts of|<br>|brilliance and war gods in the new belt|vault!<me_60>|<end>"
+  },
+  "668": {
+    "<pipipi_off><speed=0>ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><speed=0>The belt vault has been liberated and now|holds a total of <%nL_BLTSTR_NUM> belts of|brilliance and belts of war!<me_60>|<end>"
+  },
+  "669": {
+    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc>  You can now store up to <%nL_BLTSTR_NUM>|belts in the Belt Warehouse. You can now|store up to <%nL_BLTSTR_NUM> belts of|<br>|brilliance and war gods in the new belt|vault!<me_60>|<end>"
+  },
+  "670": {
+    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc>  You can now store up to <%nL_BLTSTR_NUM>|belts in the Belt Warehouse. You can now|store up to <%nL_BLTSTR_NUM> belts of|<br>|brilliance and war gods in the new belt|vault!<me_60>|<end>"
+  },
+  "671": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've obtained another key to the belt|<br>|depot. Now we can add another belt depot...|Let's see if we can use the belt storage key|to expand the warehouse.<end>"
+  },
+  "672": {
+    "「私は　剣姫さまの弟子　魔封士のひとりにして|　預かり所の役割を　背負う者。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'm Ken-hime's apprentice, one of the mages,|and I'm responsible for the guardianship...|... Hmm? What you're holding in your hand...|<br>|I see you've obtained the key to the belt|storehouse again. Now we can add more belt|storage... Let's see if we can use the belt|<br>|storage key to expand the warehouse.<end>"
+  },
+  "673": {
+    "<pipipi_off><speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|ツボは　突然まばゆい光をはなち|<pc>が　持っていた|ベルト倉庫のカギを<%nL_ITEM_NUM>個　吸い込んでいった！|<bw_break>": "<pipipi_off><speed=0>It's solid, stable... If you look closely,|you can see the mark of the depositary|engraved on it... The urn is suddenly bathed|<br>|in a dazzling light.<pc> He took <%nL_ITEM_NUM> of the keys to the|belt warehouse that<bw_break>"
+  },
+  "674": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've obtained another key to the belt|<br>|depot. Now we can add another belt depot...|Let's see if we can use the belt storage key|to expand the warehouse.<end>"
+  },
+  "675": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've obtained another key to the belt|<br>|depot. Now we can add another belt depot...|Let's see if we can use the belt storage key|to expand the warehouse.<end>"
+  },
+  "676": {
+    "<pipipi_off><speed=0>|ベルトを　選んでください。|ただし　ベルト倉庫に　ベルトを入れると|アイテムの歴史が消えるので　ご注意ください。|<break>": "<pipipi_off><speed=0>Select a belt... But be warned, if you put|the belt in the belt vault, the item's|history will be lost.<break>"
+  },
+  "677": {
+    "<pipipi_off><speed=0>|ベルトを　選んでください。|ただし　ベルト倉庫に　ベルトを入れると|アイテムの歴史が消えるので　ご注意ください。|<break>": "<pipipi_off><speed=0>Select a belt... But be warned, if you put|the belt in the belt vault, the item's|history will be lost.<break>"
+  },
+  "678": {
+    "<pipipi_off><speed=0>|ベルトを　選んでください。|ただし　ベルト倉庫に　ベルトを入れると|アイテムの歴史が消えるので　ご注意ください。|<break>": "<pipipi_off><speed=0>Select a belt... But be warned, if you put|the belt in the belt vault, the item's|history will be lost.<break>"
+  },
+  "679": {
+    "<pipipi_off><speed=0>|ベルトを　選んでください。|ただし　ベルト倉庫に　ベルトを入れると|アイテムの歴史が消えるので　ご注意ください。|<break>": "<pipipi_off><speed=0>Select a belt... But be warned, if you put|the belt in the belt vault, the item's|history will be lost.<break>"
+  },
+  "680": {
+    "<pipipi_off><speed=0>|ベルトを　選んでください。|ただし　ベルト倉庫に　ベルトを入れると|アイテムの歴史が消えるので　ご注意ください。|<break>": "<pipipi_off><speed=0>Select a belt... But be warned, if you put|the belt in the belt vault, the item's|history will be lost.<break>"
+  },
+  "681": {
+    "<pipipi_off><speed=0>|預けると　アイテムの歴史が消えますので|ご注意ください。|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　預けますか？|<yesno_2><break>": "<pipipi_off><speed=0>Please note that depositing an item will|erase its history... Do you want to deposit|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>?<yesno_2><break>"
+  },
+  "682": {
+    "<pipipi_off><speed=0>|預けると　アイテムの歴史が消えますので|ご注意ください。|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　預けますか？|<yesno_2><break>": "<pipipi_off><speed=0>Please note that depositing an item will|erase its history... Do you want to deposit|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>?<yesno_2><break>"
+  },
+  "683": {
+    "<pipipi_off><speed=0>|預けると　アイテムの歴史が消えますので|ご注意ください。|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　預けますか？|<yesno_2><break>": "<pipipi_off><speed=0>Please note that depositing an item will|erase its history... Do you want to deposit|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>?<yesno_2><break>"
+  },
+  "684": {
+    "<pipipi_off><speed=0>|預けると　アイテムの歴史が消えますので|ご注意ください。|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　預けますか？|<yesno_2><break>": "<pipipi_off><speed=0>Please note that depositing an item will|erase its history... Do you want to deposit|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>?<yesno_2><break>"
+  },
+  "685": {
+    "<pipipi_off><speed=0>|預けると　アイテムの歴史が消えますので|ご注意ください。|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　預けますか？|<yesno_2><break>": "<pipipi_off><speed=0>Please note that depositing an item will|erase its history... Do you want to deposit|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>?<yesno_2><break>"
+  },
+  "686": {
+    "<pipipi_off><speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を|ベルト倉庫に　預けた！|<end>": "<pipipi_off><speed=0>You deposited|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> in the belt|warehouse!<end>"
+  },
+  "687": {
+    "<pipipi_off><speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を|ベルト倉庫に　預けた！|<end>": "<pipipi_off><speed=0>You deposited|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> in the belt|warehouse!<end>"
+  },
+  "688": {
+    "<pipipi_off><speed=0>|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を|ベルト倉庫に　預けた！|<end>": "<pipipi_off><speed=0>You deposited|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> in the belt|warehouse!<end>"
+  },
+  "689": {
+    "<pipipi_off><speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を|ベルト倉庫に　預けた！|<end>": "<pipipi_off><speed=0>You deposited|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> in the belt|warehouse!<end>"
+  },
+  "690": {
+    "<pipipi_off><speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を|ベルト倉庫に　預けた！|<end>": "<pipipi_off><speed=0>You deposited|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> in the belt|warehouse!<end>"
+  },
+  "691": {
+    "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM>を　ベルト倉庫から|取り出しました。|<end>": "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM> from the belt|warehouse...<end>"
+  },
+  "692": {
+    "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM>を　ベルト倉庫から|取り出しました。|<end>": "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM> from the belt|warehouse...<end>"
+  },
+  "693": {
+    "<pipipi_off><speed=0>|<%sL_BELT_NAME><%sL_PLUSNUM>を　ベルト倉庫から|取り出しました。|<end>": "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM> from the belt|warehouse...<end>"
+  },
+  "694": {
+    "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM>を　ベルト倉庫から|取り出しました。|<end>": "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM> from the belt|warehouse...<end>"
+  },
+  "695": {
+    "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM>を　ベルト倉庫から|取り出しました。|<end>": "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM> from the belt|warehouse...<end>"
+  },
+  "696": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所までお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... What? I'm pretty sure it's...|The key to the belt warehouse... It's quite a|rare find... The belt vault is a special|<br>|vault that can only hold special belts...|such as the pyroxene belt and the war god|belt. With this key, you can store up to 10|<br>|belts in the Belt Warehouse... When we get a|new key, we'll add 10 more belts to the belt|vault, so don't forget to bring them to the|<br>|nearest vault. The Belt Vault is a magical|place where belts and their special effects|are stored separately. When you retrieve your|<br>|belt, you will be asked to return it to the|belt warehouse with its special effect|attached. Because of this, if you leave a|<br>|belt in the belt vault, the item's history|will be deleted. If you don't want to delete|your item's history, please use the regular|<br>|warehouse. Now, if you'd like to use the key|to unlock the belt vault...<end>"
+  },
+  "697": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所までお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... What? I'm pretty sure it's...|The key to the belt warehouse... It's quite a|rare find... The belt vault is a special|<br>|vault that can only hold special belts...|such as the pyroxene belt and the war god|belt. With this key, you can store up to 10|<br>|belts in the Belt Warehouse... When we get a|new key, we'll add 10 more belts to the belt|vault, so don't forget to bring them to the|<br>|nearest vault. The Belt Vault is a magical|place where belts and their special effects|are stored separately. When you retrieve your|<br>|belt, you will be asked to return it to the|belt warehouse with its special effect|attached. Because of this, if you leave a|<br>|belt in the belt vault, the item's history|will be deleted. If you don't want to delete|your item's history, please use the regular|<br>|warehouse. Now, if you'd like to use the key|to unlock the belt vault...<end>"
+  },
+  "698": {
+    "<pipipi_off><speed=0>|私は　テリーさんと　行動を共にする|さすらいの　預かり所モンスターです。|モンスターと言えど　きっちりやります。|<br>|アイテム倉庫と　ゴールド銀行|どちらも無料で　ご利用いただけますが|本日は　どちらをご利用ですか？|<break>": "<pipipi_off><speed=0>I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm still a... The Item Depository and the|<br>|Gold Bank are both free to use, but which one|would you like to use today?<break>"
+  },
+  "699": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所までお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... What? I'm pretty sure it's...|The key to the belt warehouse... It's quite a|rare find... The belt vault is a special|<br>|vault that can only hold special belts...|such as the pyroxene belt and the war god|belt. With this key, you can store up to 10|<br>|belts in the Belt Warehouse... When we get a|new key, we'll add 10 more belts to the belt|vault, so don't forget to bring them to the|<br>|nearest vault. The Belt Vault is a magical|place where belts and their special effects|are stored separately. When you retrieve your|<br>|belt, you will be asked to return it to the|belt warehouse with its special effect|attached. Because of this, if you leave a|<br>|belt in the belt vault, the item's history|will be deleted. If you don't want to delete|your item's history, please use the regular|<br>|warehouse. Now, if you'd like to use the key|to unlock the belt vault...<end>"
+  },
+  "700": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所までお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... What? I'm pretty sure it's...|The key to the belt warehouse... It's quite a|rare find... The belt vault is a special|<br>|vault that can only hold special belts...|such as the pyroxene belt and the war god|belt. With this key, you can store up to 10|<br>|belts in the Belt Warehouse... When we get a|new key, we'll add 10 more belts to the belt|vault, so don't forget to bring them to the|<br>|nearest vault. The Belt Vault is a magical|place where belts and their special effects|are stored separately. When you retrieve your|<br>|belt, you will be asked to return it to the|belt warehouse with its special effect|attached. Because of this, if you leave a|<br>|belt in the belt vault, the item's history|will be deleted. If you don't want to delete|your item's history, please use the regular|<br>|warehouse. Now, if you'd like to use the key|to unlock the belt vault...<end>"
+  },
+  "701": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained another|key to the belt depot. Now we can add to our|belt storage... Let's see if we can use the|<br>|belt storage key to expand the warehouse.<end>"
+  },
+  "702": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained another|key to the belt depot. Now we can add to our|belt storage... Let's see if we can use the|<br>|belt storage key to expand the warehouse.<end>"
+  },
+  "703": {
+    "<pipipi_off><speed=0>|私は　テリーさんと　行動を共にする|さすらいの　預かり所モンスターです。|モンスターと言えど　きっちりやります。|<br>|アイテム倉庫と　ゴールド銀行|どちらも無料で　ご利用いただけますが|本日は　どちらをご利用ですか？|<break>": "<pipipi_off><speed=0>I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm still a... The Item Depository and the|<br>|Gold Bank are both free to use, but which one|would you like to use today?<break>"
+  },
+  "704": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained another|key to the belt depot. Now we can add to our|belt storage... Let's see if we can use the|<br>|belt storage key to expand the warehouse.<end>"
+  },
+  "705": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained another|key to the belt depot. Now we can add to our|belt storage... Let's see if we can use the|<br>|belt storage key to expand the warehouse.<end>"
+  },
+  "706": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've managed to get your hands on the keys|<br>|to the belt depot again. I see.<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+  },
+  "707": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've managed to get your hands on the keys|<br>|to the belt depot again. I see.<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+  },
+  "708": {
+    "<pipipi_off><speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|ツボは　突然まばゆい光をはなち|<pc>が　持っていた|ベルト倉庫のカギを　吸い込んでいった！|<br>|しかし　ベルト倉庫のカギは|ツボから　はじき出された！|<br>|どうやら　今は|ベルト倉庫を　増設できないようだ。|<br>|増設できるようになるまで|ベルト倉庫のカギは　取っておこう。|<end>": "<pipipi_off><speed=0>It's solid, stable... If you look closely,|you can see the mark of the depositary|engraved on it... The urn is suddenly bathed|<br>|in a dazzling light.<pc> The key to the belt depot, which was in the|possession of the two men, was sucked into|the urn! But the key to the belt vault has|<br>|been ejected from the urn! Apparently, we|can't build more belt storage right now...|We'll keep the key until we can...<end>"
+  },
+  "709": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've managed to get your hands on the keys|<br>|to the belt depot again. I see.<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+  },
+  "710": {
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've managed to get your hands on the keys|<br>|to the belt depot again. I see.<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+  },
+  "711": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained the key to|the belt depot again. I see...<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+  },
+  "712": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained the key to|the belt depot again. I see...<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+  },
+  "713": {
+    "<pipipi_off><speed=0>|<pc>が　持っていた|<%sL_ITEM_NAME>が　ツボの中に吸い込まれた！|<br>|しかし　<%sL_ITEM_NAME>は|ツボから　はじき出された！|<br>|どうやら　いまは|ベルト倉庫を　拡張できないようだ。|<end>": "<pipipi_off><speed=0>|<pc> The <%sL_ITEM_NAME> that <%sL_ITEM_NAME> was|holding was sucked into the urn! But|<%sL_ITEM_NAME> has been ejected from the|<br>|urn! Apparently, we can't expand the belt|vault at the moment...<end>"
+  },
+  "714": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained the key to|the belt depot again. I see...<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+  },
+  "715": {
+    "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained the key to|the belt depot again. I see...<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+  },
+  "716": {
+    "<speed=0>|花のようなツボが　光をたたえている……。|どういうわけか　このツボを通じて|預かり所を　利用できるらしい。|<break>": "<speed=0>There's an acupuncture point that looks like|a flower, but it's holding a light. Somehow,|through these pressure points, you can access|<br>|the lockup...<break>"
+  },
+  "717": {
+    "「他にも　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "718": {
+    "未使用|<turn_end>": "unused|<turn_end>"
+  },
+  "719": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "720": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|<select_end><break>"
+  },
+  "721": {
+    "<pipipi_off><speed=0>|アイテム倉庫に　持ち物を送るか|預けているものを　取り出すことができます。|どうしますか？|<select_se_off>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>I can send your belongings to the item depot,|or I can retrieve what you have in storage...|What do you want to do?|<select_se_off>|give into custody|retrieve|<select_end><break>"
+  },
+  "722": {
+    "<pipipi_off><speed=0>|アイテム倉庫に　持ち物を送るか|預けているものを　取り出すことができます。|どうしますか？|<select_se_off 2>|あずける|とりだす|<select_end><break>": "<pipipi_off><speed=0>I can send your belongings to the item depot,|or I can retrieve what you have in storage...|What do you want to do?|<select_se_off 2>|give into custody|retrieve|<select_end><break>"
+  },
+  "723": {
+    "<select_se_off>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "724": {
+    "<select_se_off 2>|最初の倉庫|追加倉庫|<select_end><break>": ""
+  },
+  "725": {
+    "<select_se_off>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "726": {
+    "<select_se_off 2>|最初の倉庫|５キャラ倉庫|<select_end><break>": ""
+  },
+  "727": {
+    "<select_se_off>|あずける|ひきだす|<select_end><break>": "<select_se_off>|Deposit|Withdraw|<select_end><break>"
+  },
+  "728": {
+    "<select_se_off 2>|あずける|ひきだす|<select_end><break>": "<select_se_off 2>|Deposit|Withdraw|<select_end><break>"
+  },
+  "729": {
+    "「今日は　どういたしますか？|<bw_break>": "What can I do for you today?<bw_break>"
+  },
+  "730": {
+    "「何を　お預けになりますか？|<end>": "What would you like to drop off?<end>"
+  },
+  "731": {
+    "「失礼ですが　お客さまは　現在|　預けられる物を　お持ちではないようです。|　他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't believe you have|anything that can be left with us at this|time. Is there anything else I can do for|<br>|you?<break>"
+  },
+  "732": {
+    "「失礼ですが　<%sL_AZU_STORAGE>には|　何も入っていないようです。|　何を　お預けになりますか？|<break>": "Excuse me, sir, but there's nothing in|<%sL_AZU_STORAGE>... What can I get for you,|sir?<break>"
+  },
+  "733": {
+    "「失礼ですが　そうびぶくろには|　何も入っていないようです。|<br>|「何を　お預けになりますか？|<break>": "I'm sorry, sir, but I don't think there's|anything in that bag. What would you like to|keep in your bag, sir?<break>"
+  },
+  "734": {
+    "<speed=0>|これ以上　預けることは　できないようだ。|<end>": "<speed=0>I can't leave you any longer...<end>"
+  },
+  "735": {
+    "<speed=0>|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|装備していますが　よろしいですか？|<yesno><break>": "<speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,|is that correct?<yesno><break>"
+  },
+  "736": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": ""
+  },
+  "737": {
+    "「では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "I'll take good care of it. Is there anything|else I can do for you, sir?<break>"
+  },
+  "738": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　大切に　お預かりします。|　他にも　ご用はありますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>... Now, if|you'll excuse me... Is there anything else I|can do for you, sir?<break>"
+  },
+  "739": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個|　お預かりします。|　他の物も　預けますか？|<break>": "We have <%sL_AZU_ITEM_NAME> for|<%nL_AZU_ITEM_NUM>... Do you want to keep the|other items?<break>"
+  },
+  "740": {
+    "「では　大切に　お預かりします。|　他の物も　預けますか？|<break>": "Well, I'll take good care of it. Do you want|me to take anything else?<break>"
+  },
+  "741": {
+    "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　お預かりします。|　他の物も　預けますか？|<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> for|safekeeping... Do you want to keep the other|items?<break>"
+  },
+  "742": {
+    "<speed=0>|このアイテムを預けることは　できません！|<end>": "<speed=0>You can't deposit this item!<end>"
+  },
+  "743": {
+    "「<%sL_AZU_ITEM_NAME>を|　どの倉庫に　お入れしますか？|<break>": "In which warehouse would you like to store|<%sL_AZU_ITEM_NAME>?<break>"
+  },
+  "744": {
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。|　どの倉庫に　お入れしますか？|<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>|individual... In which warehouse would you|like it stored?<break>"
+  },
+  "745": {
+    "<speed=0>|正しい数が　入っていません！|<bw_break>": "<speed=0>You're not getting the right number!<bw_break>"
+  },
+  "746": {
+    "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
+  },
+  "747": {
+    "<speed=0>|しかし　何も　預けていなかった！|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I never deposited anything! Somehow,|through this urn, you can access your|belongings in the item vault and the gold|<br>|bank...<break>"
+  },
+  "748": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Well,|I'll certainly return the favor... Is there|anything else I can do for you?<break>"
+  },
+  "749": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　ご用はありますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get|back to you... Is there anything else I can|<br>|do for you, sir?<break>"
+  },
+  "750": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll give you... Would you like|something else in return?<break>"
+  },
+  "751": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　他にも　お返ししますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|you... Would you like something else in|<br>|return?<break>"
+  },
+  "752": {
+    "<speed=0>|<%sL_STORAGE>を|これ以上　持つことはできないようだ。|<end>": "<speed=0>You can't have any more <%sL_STORAGE>...<end>"
+  },
+  "753": {
+    "「その倉庫には　何も|　お預かりしていないようです。|　どの倉庫から　アイテムを取りだしますか？|<break>": "I don't have anything for you in that|warehouse. Which warehouse would you like to|retrieve the item from?<break>"
+  },
+  "754": {
+    "「どの倉庫を　整理しますか？|<break>": ""
+  },
+  "755": {
+    "「どれを移動しますか？|<break>": "Which one do you want to move?<break>"
+  },
+  "756": {
+    "「どの倉庫に　移動させますか？|<break>": "What warehouse are you moving it to?<break>"
+  },
+  "757": {
+    "<speed=0>|<pc>は　ツボに手を入れて|中をさぐった！|<br>|しかし　ツボには　何も入っていなかった。|どうやら　ゴールド銀行に|ゴールドを預けていないようだ。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>|<pc> He put his hand in the urn and poked around|inside! But there was nothing in the urn...|Apparently, he didn't deposit any gold in the|<br>|Gold Bank... Somehow, through this urn, I can|access the item vault and the gold bank...<break>"
+  },
+  "758": {
+    "<speed=0>|しかし　預けられるだけのゴールドを|持っていなかった。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I don't have enough gold to deposit...|Somehow, through this urn, I can access my|possessions in the item vault and the gold|<br>|bank...<break>"
+  },
+  "759": {
+    "<speed=0>|しかし　これ以上|預けることはできないようだ。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I can't deposit any more... Somehow,|through this urn, you can get in and out of|the item vault and the gold bank...<break>"
+  },
+  "760": {
+    "<speed=0>|しかし　引き出そうとしたゴールドを|持ちきれないようだ！|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I can't seem to hold all the gold I'm|trying to withdraw! Somehow, through this|urn, you can access your belongings in the|<br>|item vault and the gold bank...<break>"
+  },
+  "761": {
+    "<speed=0>|どの倉庫の名前を　変えますか？|<break>": "<speed=0>Which warehouse would you like to rename?<break>"
+  },
+  "762": {
+    "「倉庫の名前を　変更いたしました。|　他にも　名前を変えたい倉庫は|　ありますか？|<break>": "I'd like to rename the warehouse... Do you|have any other storage units that you would|like to rename?<break>"
+  },
+  "763": {
+    "<speed=0>|現在　ゴールド銀行に|<%nL_AZU_BALANCE>０００ゴールド|預けています。どうしますか？|<break>": "<speed=0>I currently have <%nL_AZU_BALANCE>000 gold|deposited in a gold bank... What do you want|to do?<break>"
+  },
+  "764": {
+    "<speed=0>|現在　ゴールド銀行に|預けているゴールドは　ありません。|<break>": "<speed=0>Do you have any gold currently deposited in|the Gold Bank...<break>"
+  },
+  "765": {
+    "<speed=0>|１０００ゴールド単位で|ゴールドを　預けることができます。|いくら　預けますか？|<break>": "<speed=0>You can deposit gold in increments of 1,000|gold... How much would you like to deposit?<break>"
+  },
+  "766": {
+    "<speed=0>|１０００ゴールド単位で　引き出せます。|現在　<%nL_AZU_BALANCE>０００ゴールドを|預けていますが　いくら引き出しますか？|<break>": "<speed=0>Withdrawals in increments of 1,000 gold...|You have <%nL_AZU_BALANCE>000 gold on|deposit. How much would you like to withdraw?<break>"
+  },
+  "767": {
+    "<speed=0>|他に　預けるものはありますか？|<end>": "<speed=0>Is there anything else I can give you?<end>"
+  },
+  "768": {
+    "<speed=0>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>Somehow, through these pressure points, you|can access your possessions in the item vault|and the gold bank...<break>"
+  },
+  "769": {
+    "<speed=0>|現在　ゴールド銀行に|<%nL_AZU_BALANCE>０００ゴールド|預けています。どうしますか？|<break>": "<speed=0>I currently have <%nL_AZU_BALANCE>000 gold|deposited in a gold bank... What do you want|to do?<break>"
+  },
+  "770": {
+    "<speed=0>|現在　ゴールド銀行に|預けているゴールドは　ありません。|<break>": "<speed=0>Do you have any gold currently deposited in|the Gold Bank...<break>"
+  },
+  "771": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド|　確かに　お預かりしました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, we have it...|You have <%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
+  },
+  "772": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　確かに　お返ししました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold... You now have|<%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
+  },
+  "773": {
+    "<speed=0>|<pc>は　ツボに手を入れて|中をさぐった！|<br>|なんと　<%nL_WITHDRW_GLD>０００ゴールドを|見つけた！|<br>|現在　ゴールド銀行に|預けているゴールドは　ないようだ。|<break>": "<speed=0>|<pc> He put his hand in the urn and poked around|inside! He found <%nL_WITHDRW_GLD>000 gold!|There is currently no gold in the Gold|<br>|Bank...<break>"
+  },
+  "774": {
+    "「おやめに　なるのですね？": "So you're quitting?"
+  },
+  "775": {
+    "「申し訳ありませんが　|　<%sL_AZU_ITEM_NAME>は|　これ以上　お預かりできません。|<break>": "We're sorry, but we can't keep|<%sL_AZU_ITEM_NAME> any longer...<break>"
+  },
+  "776": {
+    "「<%sL_AZU_ITEM_NAME>でありますね。|　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
+  },
+  "777": {
+    "「申し訳ありませんが　<%sL_HIKI_ITEM_NAME>は|　それ以上　お持ちになれません。|<break>": "I'm sorry, but <%sL_HIKI_ITEM_NAME> can't|hold any more...<break>"
+  },
+  "778": {
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I|take this... May I?<yesno><break>"
+  },
+  "779": {
+    "「<%sL_AZU_ITEM_NAME>　ひとつを|　お預かりします。　よろしいですか？|<yesno><break>": "<%sL_AZU_ITEM_NAME> I'll take one... May I?<yesno><break>"
+  },
+  "780": {
+    "<speed=0>|<pc>は　ツボに手を入れて|中をさぐった！|<br>|なんと　<%nL_WITHDRW_GLD>０００ゴールドを|見つけた！|<br>|現在　ゴールド銀行には|<%nL_AZU_BALANCE>０００ゴールドを|預けているようだ。|<break>": "<speed=0>|<pc> He put his hand in the urn and poked around|inside! He found <%nL_WITHDRW_GLD>000 gold!|He now has <%nL_AZU_BALANCE>000 gold in the|<br>|Gold Bank...<break>"
+  },
+  "781": {
+    "「申し訳ありませんが　|　その倉庫は　いっぱいです。|<break>": "I'm sorry, but that warehouse is full of...<break>"
+  },
+  "782": {
+    "「お客さまは　現在　アイテムをひとつしか|　お持ちでないため　|　整理する必要が　ありません。|<break>": "The customer only has one item at the moment,|and it needs to be sorted...<break>"
+  },
+  "783": {
+    "<speed=0>|<pc>は　ツボに|<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！|<br>|ゴールド銀行に　預けているゴールドが|<%nL_AZU_BALANCE>０００ゴールドになった。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>|<pc> has thrown <%nL_AZU_DEPOS_GLD>000 gold into|the urn! He now has <%nL_AZU_BALANCE>000 gold|in his gold bank... Somehow, through this|<br>|urn, I can move items in and out of the Item|Warehouse and the Gold Bank...<break>"
+  },
+  "784": {
+    "「ゴールド銀行を　ご利用ですね。|　本日は　どうされますか？|<break>": "I'm a Gold Bank customer... How can I help|you today?<break>"
+  },
+  "785": {
+    "「確かに　移動しました。|<br>|「どれを　移動しますか？|<break>": "Sure, let's move... Which one do you want to|move?<break>"
+  },
+  "786": {
+    "「えっ？　その倉庫には　なにも|　お預かりしていませんが……。|<br>|「どれを　移動しますか？|<break>": "What? We don't have anything in that|warehouse, sir. Which one do you want to|move?<break>"
+  },
+  "787": {
+    "「倉庫がいっぱいなので|　代わりに<%sL_STORAGE>に|　しまっていいですか？|<break>": "My warehouse is full, can I put it in|<%sL_STORAGE> instead?<break>"
+  },
+  "788": {
+    "「それでは　<%sL_STORAGE>を|　整理していただけますか|<break>": "Now let's add <%sL_STORAGE> to the| Can you sort it out, please?|<break>"
+  },
+  "789": {
+    "<speed=0>|他の倉庫の名前も　変更しますか？|<break>": ""
+  },
+  "790": {
+    "<speed=0>|新しい倉庫名を入力してください。|<break>": "<speed=0>Please enter a new warehouse name...<break>"
+  },
+  "791": {
+    "<speed=0>|新しい倉庫名を入力してください。|<break>": "<speed=0>Please enter a new warehouse name...<break>"
+  },
+  "792": {
+    "<speed=0>|<%sL_STORAGE>を|<%sL_STORAGE2>に変更します。よろしいですか？|<yesno><break>": "<speed=0>Change <%sL_STORAGE> to <%sL_STORAGE2>... Are|you sure?<yesno><break>"
+  },
+  "793": {
+    "<%sL_STORAGE>を　<%sL_STORAGE2>に変更した|<break>": "changed <%sL_STORAGE> to <%sL_STORAGE2>|<break>"
+  },
+  "794": {
+    "<select_se_off>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "795": {
+    "<select_se_off 2>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 2>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "796": {
+    "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
+  },
+  "797": {
+    "<speed=0>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>Somehow, through these pressure points, you|can access your possessions in the item vault|and the gold bank...<break>"
+  },
+  "798": {
+    "「どの倉庫に　アイテムを預けますか？|<break>": ""
+  },
+  "799": {
+    "「どの倉庫から　アイテムを取りだしますか？|<break>": "Which warehouse do you want to retrieve the|items from?<break>"
+  },
+  "800": {
+    "「承りました。それでは以前いただいた|　きらめきのインクで　サインをお願いします。|<break>": "I'll take that... Now, I'd like you to sign|this with the sparkling ink that you gave|me...<break>"
+  },
+  "801": {
+    "未使用|<break>": "unused|<break>"
+  },
+  "802": {
+    "「おめでとうございます！|　<%sL_STORAGE>が|　使えるようになりました！|<break>": "Congratulations! You've got <%sL_STORAGE>|working for you!<break>"
+  },
+  "803": {
+    "<pc>は申込書にサインした|<break>": "<pc> signed the application form|<break>"
+  },
+  "804": {
+    "<pc>は拡張倉庫が使えるようになった|<break>": "<pc> can now use the extended warehouse|<break>"
+  },
+  "805": {
+    "「かしこまりました。|　拡張券はいつでも使えるので|　また持ってきてください|<break>": "Yes, sir... You can always use the expansion|tickets. Bring them back.<break>"
+  },
+  "806": {
+    "<speed=0>|預かり所に　新たなサービスが|追加されました！|<br>|５キャラコースを　利用していれば|アイテムを５０種類収納できる|５キャラ倉庫を　追加で　使うことができます。|<bw_break>": "<speed=0>We've added a new service to the Depository!|If you're using the 5-Character Course,|you'll be able to use the 5-Character|<br>|Warehouse, which holds 50 different items...<bw_break>"
+  },
+  "807": {
+    "<speed=0>|５キャラコースの利用により|アイテムを５０種類収納できる|５キャラ倉庫を　追加で使えるようになった！|<bw_break>": "<speed=0>With the 5-Character Course, you now have|access to an additional 5-Character Warehouse|that can hold 50 different items!<bw_break>"
+  },
+  "808": {
+    "「５キャラ倉庫の中身は　こちらになります。|<end>": "Here's what's in the five-character|warehouse...<end>"
+  },
+  "809": {
+    "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,|sure, I'll get it back to you. Which|warehouse do you want to retrieve the item|<br>|from?<break>"
+  },
+  "810": {
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。|　では　確かに　お返しします。|　どの倉庫から　アイテムを取りだしますか？|<break>": "<%sL_HIKI_ITEM_NAME> to|<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give|it back. Which warehouse do you want to|<br>|retrieve the item from?<break>"
+  },
+  "811": {
+    "<speed=0>|プレイコースの登録状況が　変更されたため|５キャラ倉庫が　使えなくなりました。|<br>|預けていた物は　保管されているため|再度　５キャラコースに　登録することで|５キャラ倉庫から　取り出すことができます。|<bw_break>": "<speed=0>Due to a change in the course of play, the|5-Character Warehouse is no longer available.|Your items are still in storage, so you can|<br>|retrieve them from the 5-Character Warehouse|by registering for another 5-Character|Course.<bw_break>"
+  },
+  "812": {
+    "「申し訳ありませんが|　５キャラコースの登録が　確認できないので|　５キャラ倉庫を　ご利用いただけません。|<end>": "I'm sorry, but I can't confirm that you've|registered for a 5-Character Course, so you|can't use the 5-Character Warehouse...<end>"
+  },
+  "813": {
+    "<speed=0>|５キャラコースの登録が　確認できないため|５キャラ倉庫を　使うことはできません。|<end>": "<speed=0>I can't confirm that you've registered for a|5-Character Course, so you can't use the|5-Character Warehouse...<end>"
+  },
+  "814": {
+    "ワンタイムパスワードの倉庫が|使えない状態です。|<break>": "The One Time Password Warehouse is not|working...<break>"
+  },
+  "815": {
+    "「<pc>さま申し訳ありません。|　ワンタイムパスワードの倉庫には|　預けられません。|<break>": "<pc> I'm sorry, sir... You can't keep a one-time|password in a warehouse...<break>"
+  },
+  "816": {
+    "<speed=0>|預けるときは　預けたい持ち物の種類と|預け先となる倉庫を　選んでください。|<br>|取り出すときは　複数の倉庫をお持ちなら|取り出したい倉庫を　選んでください。|<br>|その後　移動させたいアイテムを選ぶと|預けたり　取り出すことができます。|<end>": "<speed=0>To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
+  },
+  "817": {
+    "<speed=0>|<%sL_AZU_SOUKO_NAME>は　いっぱいです。|別の倉庫に　切り替えますか？|<yesno><break>": "<speed=0><%sL_AZU_SOUKO_NAME> is full... Do you want|to switch to a different warehouse?<yesno><break>"
+  },
+  "818": {
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+  },
+  "819": {
+    "<speed=0>|アイテム倉庫が　リニューアルされました！|<br>|また　お使いの倉庫に|名前をつけることも　できるようになりました！|『倉庫名を変える』から　お試しください。|<bw_break>": "<speed=0>The Item Warehouse has been redesigned! You|can also now name your warehouse! Go to|\"Rename Warehouse\" to try it out...<bw_break>"
+  },
+  "820": {
+    "<speed=0>|住宅村に　家を持っていれば|預かり所で　屋根ウラ収納を|利用できるように　なりました！|<bw_break>": "<speed=0>If you own a house in the Housing Village,|you now have access to the roof-ura storage|at the Depository!<bw_break>"
+  },
+  "821": {
+    "<speed=0>|預けるときは　預けたい持ち物の種類と|預け先となる倉庫を　選んでください。|<br>|取り出すときは　複数の倉庫をお持ちなら|取り出したい倉庫を　選んでください。|<br>|その後　移動させたいアイテムを選ぶと|預けたり　取り出すことができます。|<end>": "<speed=0>To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
+  },
+  "822": {
+    "<speed=0>|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は|仲間モンスターが　装備していますが|よろしいですか？|<yesno><break>": "<speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped|by a fellow monster, is that correct?<yesno><break>"
+  },
+  "823": {
+    "<pipipi_off><speed=0>|預けたい　持ち物の種類を選んでください。|<break>": "<pipipi_off><speed=0>Please select the type of item you'd like to|deposit.<break>"
+  },
+  "824": {
+    "<pipipi_off><speed=0>|預け先となる　倉庫を選んでください。|<break>": "<pipipi_off><speed=0>|Please select the storage to deposit in.|<break>"
+  },
+  "825": {
+    "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve.<break>"
+  },
+  "826": {
+    "<pipipi_off><speed=0>|持ち物をしまう場合は　しまうを|持ち物を取りだす場合は　とりだすを|選択してください。|<break>": "<pipipi_off><speed=0>Select \"Put away\" to put your belongings away|or \"Take out\" to take them out...<break>"
+  },
+  "827": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋１を|利用中です。アイテムを　５０種類収納できる|追加倉庫を　１個まで　使うことができます。|<bw_break>": "<speed=0>You can use the warehouse expansion service,|additional warehouse +1. You can use up to 1|additional warehouse to store up to 50|<br>|different items...<bw_break>"
+  },
+  "828": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋２を|利用中です。アイテムを　各５０種類収納できる|追加倉庫を　２個まで　使うことができます。|<bw_break>": "<speed=0>You can use the additional warehouse +2...|You can use up to two additional warehouses|that can hold up to 50 different items|<br>|each...<bw_break>"
+  },
+  "829": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋３を|利用中です。アイテムを　各５０種類収納できる|追加倉庫を　３個まで　使うことができます。|<bw_break>": "<speed=0>You can use up to three additional|warehouses... You can use up to three|additional warehouses, each holding up to 50|<br>|different items...<bw_break>"
+  },
+  "830": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋４を|利用中です。アイテムを　各５０種類収納できる|追加倉庫を　４個まで　使うことができます。|<bw_break>": "<speed=0>You can use up to four additional|warehouses... You can use up to four|additional warehouses, each holding up to 50|<br>|different items...<bw_break>"
+  },
+  "831": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋５を|利用中です。アイテムを　各５０種類収納できる|追加倉庫を　５個まで　使うことができます。|<bw_break>": "<speed=0>You can use up to 5 additional warehouses...|You can use up to 5 additional warehouses|that can hold up to 50 different items|<br>|each...<bw_break>"
+  },
+  "832": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋１に　登録すれば|追加倉庫を　１個まで　使うことができます。|<bw_break>": ""
+  },
+  "833": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋２に　登録すれば|追加倉庫を　２個まで　使うことができます。|<bw_break>": ""
+  },
+  "834": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋３に　登録すれば|追加倉庫を　３個まで　使うことができます。|<bw_break>": ""
+  },
+  "835": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋４に　登録すれば|追加倉庫を　４個まで　使うことができます。|<bw_break>": ""
+  },
+  "836": {
+    "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋５に　登録すれば|追加倉庫を　５個まで　使うことができます。|<bw_break>": "<speed=0>There are additional warehouses that are no|longer available due to a change in the|registration status of the warehouse|<br>|expansion service. Since the items you|deposited are still in storage, you can re-|register for additional storage and use up to|<br>|five additional warehouses...<bw_break>"
+  },
+  "837": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋１が|登録されました。追加倉庫を|１個まで使うことが　できます。|<bw_break>": "<speed=0>The warehouse expansion service has|registered an additional warehouse... You can|use up to one additional warehouse...<bw_break>"
+  },
+  "838": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋２が|登録されました。追加倉庫を|２個まで使うことが　できます。|<bw_break>": ""
+  },
+  "839": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋３が|登録されました。追加倉庫を|３個まで使うことが　できます。|<bw_break>": "<speed=0>The warehouse expansion service has added an|additional three warehouses... You can now|use up to three additional warehouses...<bw_break>"
+  },
+  "840": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋４が|登録されました。追加倉庫を|４個まで使うことが　できます。|<bw_break>": "<speed=0>The warehouse expansion service has|registered an additional four warehouses...|You can now use up to four additional|<br>|warehouses...<bw_break>"
+  },
+  "841": {
+    "<speed=0>|倉庫拡張サービス　追加倉庫＋５が|登録されました。追加倉庫を|５個まで使うことが　できます。|<bw_break>": "<speed=0>The warehouse expansion service has|registered an additional five warehouses...|You can now use up to five additional|<br>|warehouses...<bw_break>"
+  },
+  "842": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋１の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "843": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋２の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "844": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋３の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "845": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋４の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "846": {
+    "<speed=0>|倉庫拡張サービスの　追加倉庫＋５の登録が|確認できないため　この追加倉庫を|使うことはできません。|<end>": "<speed=0>I can't see any additional warehouses|registered with the warehouse expansion|service, so you can't use this additional|<br>|warehouse...<end>"
+  },
+  "847": {
+    "<speed=0>|私は　テリーさんと　行動を共にする|さすらいの　預かり所モンスターです。|モンスターと言えど　きっちりやります。|<br>|アイテム倉庫と　ゴールド銀行|どちらも無料で　ご利用いただけますが|本日は　どちらをご利用ですか？|<break>": "<speed=0>I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm still a... The Item Depository and the|<br>|Gold Bank are both free to use, but which one|would you like to use today?<break>"
+  },
+  "848": {
+    "<pipipi_off><speed=0>|花のようなツボが　光をたたえている……。|どういうわけか　このツボを通じて|預かり所を　利用できるらしい。|<br>|ツボは　突然まばゆい光をはなち|<pc>が持っていたベルト倉庫のカギを|<%nL_ITEM_NUM>個　吸い込んでいった！|<br>|どうやら　預かり所に|ベルト倉庫というものが　追加されたようだ。|<br>|<color_yellow>ベルト倉庫とは　ベルト装備の中でも特殊な|輝石のベルトと　戦神のベルトだけ　|入れることができる　特別な倉庫です。|<br>|このカギ１つで　ベルト倉庫の中に|１０個まで　輝石のベルトと　戦神のベルトを|預けることが　できます。|<br>|新たにベルト倉庫のカギを　入手した場合は|さらに１０個預けられるように　増設されるので|忘れずに　最寄りの預かり所へ持っていきましょう。|<br>|注意事項として　ベルト倉庫は不思議なチカラで|ベルトと　ベルトに付与されている特殊効果を|別々に保管する　仕組みになっています。|<br>|ベルトを取り出す際は|保管されているベルトと　特殊効果を|結びつけて　返却されます。|<br>|そのため　ベルト倉庫に|ベルトを預けると　アイテムの歴史が　|削除されてしまいます。|<br>|アイテムの歴史を　消したくない場合には|通常倉庫を　利用するように|注意しましょう。|<color_white><bw_break>": "<pipipi_off><speed=0>There's an acupuncture point that looks like|a flower, but it's holding a light. Somehow,|through this urn, you can access the safe|<br>|deposit box... The acupuncture point suddenly|glows with a bright light.<pc>  He took <%nL_ITEM_NUM> of the keys to the|belt depository that <%nL_ITEM_NUM> was|holding! Apparently, they've added something|<br>|called the Belt Depository to the|Depository...<color_yellow>The belt vault is a special vault that can|only hold belts of brilliance and warrior|gods. With this key, you can store up to 10|<br>|belts in the Belt Warehouse... If you get a|new key for the Belt Vault, you'll be able to|deposit 10 more belts, so don't forget to|<br>|take them to your nearest Vault. Note that|the Belt Warehouse is a magical place where|belts and their special effects are stored|<br>|separately... To retrieve a belt, you must|combine it with its special effect and return|it. So if you put a belt in the belt vault,|<br>|the item's history will be deleted. If you|don't want to erase the history of an item,|use the normal storage...<color_white><bw_break>"
+  },
+  "849": {
+    "<pipipi_off><speed=0>ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><speed=0>The belt vault has been liberated and now|holds a total of <%nL_BLTSTR_NUM> belts of|brilliance and belts of war!<me_60>|<end>"
+  },
+  "850": {
+    "<pipipi_off><speed=0>|花のようなツボが　光をたたえている……。|どういうわけか　このツボを通じて|預かり所を　利用できるらしい。|<br>|ツボは　突然まばゆい光をはなち|<pc>が　持っていた|ベルト倉庫のカギを<%nL_ITEM_NUM>個　吸い込んでいった！|<bw_break>": "<pipipi_off><speed=0>There's an acupuncture point that looks like|a flower, but it's holding a light. Somehow,|through this urn, you can access the safe|<br>|deposit box... The acupuncture point suddenly|glows with a bright light.<pc> He took <%nL_ITEM_NUM> of the keys to the|belt warehouse that<bw_break>"
+  },
+  "851": {
+    "<pipipi_off><speed=0>|ベルトを　選んでください。|ただし　ベルト倉庫に　ベルトを入れると|アイテムの歴史が消えるので　ご注意ください。|<break>": "<pipipi_off><speed=0>Select a belt... But be warned, if you put|the belt in the belt vault, the item's|history will be lost.<break>"
+  },
+  "852": {
+    "<pipipi_off><speed=0>|預けると　アイテムの歴史が消えますので|ご注意ください。|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　預けますか？|<yesno_2><break>": "<pipipi_off><speed=0>Please note that depositing an item will|erase its history... Do you want to deposit|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>?<yesno_2><break>"
+  },
+  "853": {
+    "<pipipi_off><speed=0>|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を|ベルト倉庫に　預けた！|<end>": "<pipipi_off><speed=0>You deposited|<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> in the belt|warehouse!<end>"
+  },
+  "854": {
+    "<pipipi_off><speed=0>|<%sL_BELT_NAME><%sL_PLUSNUM>を　ベルト倉庫から|取り出しました。|<end>": "<pipipi_off><speed=0><%sL_BELT_NAME><%sL_PLUSNUM> from the belt|warehouse...<end>"
+  },
+  "855": {
+    "<pipipi_off><speed=0>|私は　テリーさんと　行動を共にする|さすらいの　預かり所モンスターです。|モンスターと言えど　きっちりやります。|<br>|アイテム倉庫と　ゴールド銀行|どちらも無料で　ご利用いただけますが|本日は　どちらをご利用ですか？|<break>": "<pipipi_off><speed=0>I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm still a... The Item Depository and the|<br>|Gold Bank are both free to use, but which one|would you like to use today?<break>"
+  },
+  "856": {
+    "<pipipi_off><speed=0>|私は　テリーさんと　行動を共にする|さすらいの　預かり所モンスターです。|モンスターと言えど　きっちりやります。|<br>|アイテム倉庫と　ゴールド銀行|どちらも無料で　ご利用いただけますが|本日は　どちらをご利用ですか？|<break>": "<pipipi_off><speed=0>I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm still a... The Item Depository and the|<br>|Gold Bank are both free to use, but which one|would you like to use today?<break>"
+  },
+  "857": {
+    "<pipipi_off><speed=0>|花のようなツボが　光をたたえている……。|どういうわけか　このツボを通じて|預かり所を　利用できるらしい。|<br>|ツボは　突然まばゆい光をはなち|<pc>が　持っていた|ベルト倉庫のカギを　吸い込んでいった！|<br>|しかし　ベルト倉庫のカギは|ツボから　はじき出された！|<br>|どうやら　今は|ベルト倉庫を　増設できないようだ。|<br>|増設できるようになるまで|ベルト倉庫のカギは　取っておこう。|<end>": "<pipipi_off><speed=0>There's an acupuncture point that looks like|a flower, but it's holding a light. Somehow,|through this urn, you can access the safe|<br>|deposit box... The acupuncture point suddenly|glows with a bright light.<pc> The key to the belt depot, which was in the|possession of the two men, was sucked into|the urn! But the key to the belt vault has|<br>|been ejected from the urn! Apparently, we|can't build more belt storage right now...|We'll keep the key until we can...<end>"
+  },
+  "858": {
+    "<pipipi_off><speed=0>|<pc>が　持っていた|<%sL_ITEM_NAME>が　ツボの中に吸い込まれた！|<br>|しかし　<%sL_ITEM_NAME>は|ツボから　はじき出された！|<br>|どうやら　いまは|ベルト倉庫を　拡張できないようだ。|<end>": "<pipipi_off><speed=0>|<pc> The <%sL_ITEM_NAME> that <%sL_ITEM_NAME> was|holding was sucked into the urn! But|<%sL_ITEM_NAME> has been ejected from the|<br>|urn! Apparently, we can't expand the belt|vault at the moment...<end>"
+  }
+}

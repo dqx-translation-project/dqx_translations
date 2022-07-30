@@ -1,0 +1,1163 @@
+{
+  "1": {
+    "作る物の種類を　選んでください。|<break>": "You can choose what you want to make...<break>"
+  },
+  "2": {
+    "何を作りますか？<break>": ""
+  },
+  "3": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+  },
+  "4": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "5": {
+    "予期せぬエラーにより|実行することが　できませんでした。|<end>": "Due to an unexpected error, we are unable to|execute...<end>"
+  },
+  "6": {
+    "<speed=0>地金が　冷えきってしまった！<end>": "<speed=0>The bullion's gone cold!<end>"
+  },
+  "7": {
+    "clarity_nt_char_7": "clarity_nt_char_7"
+  },
+  "8": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "9": {
+    "<speed=0>たたきすぎて　地金が|ぼろぼろに　なってしまった…。<end>": "<speed=0>I've been hitting it so hard, the metal's|falling apart...<end>"
+  },
+  "10": {
+    "clarity_nt_char_10": "clarity_nt_char_10"
+  },
+  "11": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "12": {
+    "clarity_nt_char_12": "clarity_nt_char_12"
+  },
+  "13": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "14": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "15": {
+    "<yesno><close>": "<yesno><close>"
+  },
+  "16": {
+    "鍛冶設備がある。|ここで　鍛冶ができそうだ。|<break>": "Blacksmithing equipment... You can forge|here...<break>"
+  },
+  "17": {
+    "<speed=0>これ以上は　冷やせない！": "<speed=0>I can't cool it down any more!"
+  },
+  "18": {
+    "<speed=0>|<pc>は　いま作っている|<%sL_RECIPE>を　じっくりと眺めた。": "<speed=0>|<pc> I'm working on <%sL_RECIPE> now..."
+  },
+  "19": {
+    "鍛冶とは　素材となる地金をたたいて|目的のアイテムを　作ることです。|<br>|地金をたたくと　鍛え度が上がっていきます。|ゲージの　緑色の成功ゾーンをねらいましょう。|完成品のできのよさは　この精度で決まります。|<br>|鍛冶コマンドを実行するには　集中力が必要です。|集中力がなくなると　実行できなくなるので|ペース配分を考えて　コマンドを選びましょう。|<br>|地金には温度があり　温度が下がると|たたいても　鍛え度が上がりづらくなります。|地金が冷え切ってしまうと　その回は終了です。|<br>|なお　鍛冶をしている途中に|通信エラーなどでゲームが中断した場合|チケットは失われますので　ご注意ください。|<end>": "Blacksmithing is the process of creating a|desired item by striking the metal used as a|material... As you strike the metal, your|<br>|forge level will increase... Aim for the|green success zone on the gauge... The|quality of the finished product depends on|<br>|the accuracy of the... Blacksmithing commands|require concentration... If you lose your|concentration, you won't be able to execute|<br>|them, so pace yourself and choose your|commands... Bullion has a temperature, and|when the temperature drops, it's hard to|<br>|increase the forgeability... If the metal|gets too cold, the session is over... If the|game is interrupted by a communication error|<br>|while you're blacksmithing, your ticket will|be lost.<end>"
+  },
+  "20": {
+    "鍛冶の遊び方の説明です！|<br>|熱くなった地金をたたくと　鍛え度メーターが|上昇していきます。鍛え度メーターが　緑色の|成功ゾーンの中に入るように　調整してください。|<br>|すべてのゲージの鍛え度メーターが|緑色の　成功ゾーンの中に入ったら|『しあげる』コマンドで　完成です！|<br>|素材となる地金の温度が下がると|鍛え度が上がりづらくなります。地金の温度や|集中力に注意しながら　完成を目指しましょう！|<end>": "Here's an explanation of how to play|blacksmithing! When you tap the hot metal,|the forge meter will go up... Adjust the|<br>|forge meter so that it is within the green|success zone... When all your gauges are|within the green success zone, you can use|<br>|the \"Finish\" command. If the temperature of|the metal you're using as material drops, it|will be difficult to increase the|<br>|forgeability... Keep an eye on the|temperature of the metal and your|concentration as you work towards completion!<end>"
+  },
+  "21": {
+    "鍛冶設備がある。|武器鍛冶部　防具鍛冶部　道具鍛冶部　いずれかの|部員であれば　ここで　アイテムが作れそうだ。": "Blacksmithing equipment... If you're a member|of the Weaponsmith, Armormith, or Toolsmith|divisions, you can create items here..."
+  },
+  "22": {
+    "<speed=0>地金の温度が　足りない！": "<speed=0>The bullion's not hot enough!"
+  },
+  "23": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "24": {
+    "<%sL_RECIPE>を　作るのに|失敗した……。<bw_break>": "I failed to create <%sL_RECIPE>...<bw_break>"
+  },
+  "25": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "26": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "27": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>It's done!<bw_break>"
+  },
+  "28": {
+    "<%sL_RECIPE>が　<%dL_CREATE_NUM>個できた！|<bw_break>": "<%sL_RECIPE> now has <%dL_CREATE_NUM>!<bw_break>"
+  },
+  "29": {
+    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|<break>": ""
+  },
+  "30": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "31": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "32": {
+    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+  },
+  "33": {
+    "clarity_nt_char_33": "clarity_nt_char_33"
+  },
+  "34": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "35": {
+    "clarity_nt_char_35": "clarity_nt_char_35"
+  },
+  "36": {
+    "clarity_nt_char_36": "clarity_nt_char_36"
+  },
+  "37": {
+    "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|<%sL_CATEGORY_NAME>鍛冶が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now forge <%sL_CATEGORY_NAME> using|the materials in the Storage Area and Roof|Storage, not just the Toolbox! When you|<br>|select a recipe for which you don't have|enough materials, you can use the materials|items in the Storage Area and Roof Storage...<color_white>|<end>"
+  },
+  "38": {
+    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|<yesno><close>": ""
+  },
+  "39": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "40": {
+    "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><break>": "<speed=0>Finish <%sL_RECIPE>... Are you sure?<yesno><break>"
+  },
+  "41": {
+    "<%sL_TICKET_NAME>を　使って|<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "How do I use <%sL_TICKET_NAME> to create|<%sL_RECIPE>? Are you sure?<yesno><close>"
+  },
+  "42": {
+    "clarity_nt_char_42": "clarity_nt_char_42"
+  },
+  "43": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "44": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "45": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "46": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "47": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "48": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "49": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "50": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "51": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "52": {
+    "clarity_nt_char_52": "clarity_nt_char_52"
+  },
+  "53": {
+    "作る物の種類を　選んでください。|<break>": "You can choose what you want to make...<break>"
+  },
+  "54": {
+    "何を作りますか？<break>": ""
+  },
+  "55": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+  },
+  "56": {
+    "clarity_nt_char_56": "clarity_nt_char_56"
+  },
+  "57": {
+    "予期せぬエラーにより|実行することが　できませんでした。|<end>": "Due to an unexpected error, we are unable to|execute...<end>"
+  },
+  "58": {
+    "clarity_nt_char_58": "clarity_nt_char_58"
+  },
+  "59": {
+    "clarity_nt_char_59": "clarity_nt_char_59"
+  },
+  "60": {
+    "clarity_nt_char_60": "clarity_nt_char_60"
+  },
+  "61": {
+    "clarity_nt_char_61": "clarity_nt_char_61"
+  },
+  "62": {
+    "<speed=0>けずりすぎて　木材が折れてしまった！<end>": "<speed=0>I scraped so hard I broke the wood!<end>"
+  },
+  "63": {
+    "clarity_nt_char_63": "clarity_nt_char_63"
+  },
+  "64": {
+    "clarity_nt_char_64": "clarity_nt_char_64"
+  },
+  "65": {
+    "clarity_nt_char_65": "clarity_nt_char_65"
+  },
+  "66": {
+    "clarity_nt_char_66": "clarity_nt_char_66"
+  },
+  "67": {
+    "<yesno><close>": "<yesno><close>"
+  },
+  "68": {
+    "木工設備がある。|ここで　木工ができそうだ。|<break>": "Woodworking equipment... You can do|woodworking here...<break>"
+  },
+  "69": {
+    "clarity_nt_char_69": "clarity_nt_char_69"
+  },
+  "70": {
+    "<speed=0>|<pc>は　いま作っている|<%sL_RECIPE>を　じっくりと眺めた。": "<speed=0>|<pc> I'm working on <%sL_RECIPE> now..."
+  },
+  "71": {
+    "木工とは　素材となる木材を彫って|目的のアイテムを　作ることです。|<br>|木材を彫ると　少しずつ削られていきますので|成功ラインに沿うように　形を整えましょう。|完成品のできのよさは　この精度で決まります。|<br>|木工コマンドを実行するには　集中力が必要です。|集中力がなくなると　実行できなくなるので|ペース配分を考えて　コマンドを選びましょう。|<br>|彫る時は　マス目の下から上に向かって彫ります。|木目に沿っていないと　少ししか　削れませんので|作業台を回転させて　向きを調整してください。|<br>|なお　木工をしている途中に|通信エラーなどでゲームが中断した場合|チケットは失われますので　ご注意ください。|<end>": "Woodworking is the process of carving a piece|of wood to make a desired item. As the wood|is carved, it is gradually removed and shaped|<br>|to follow the success line. The quality of|the finished product depends on the accuracy|of the... It takes concentration to execute|<br>|woodworking commands... If you lose your|concentration, you won't be able to do it, so|pace yourself and choose your commands...|<br>|Carve from the bottom of the grid to the|top... If you're not following the grain of|the wood, you'll only be able to carve a|<br>|small amount, so rotate the workbench to|adjust the direction... If the game is|interrupted by a communication error while|<br>|you are woodworking, your ticket will be|lost.<end>"
+  },
+  "72": {
+    "木工の遊び方の説明です！|<br>|木材を彫って　成功ラインに沿うように|形を整えていってください。|<br>|すべてのマス目が　成功ラインに合ったら|『しあげる』コマンドで　完成です！|<br>|木目の方向と　彫る向きが合っていると|たくさん削れます。|<br>|木目の方向と　彫る向きが合っていないと|少しだけ削れます。|<br>|作業台を回転させて　木目の向きを変え|うまく調整をして　完成を目指しましょう！|<end>": "Here are some instructions on how to play|with wood! Carve a piece of wood and shape it|along the success line... When all the|<br>|squares are aligned with the success line,|use the \"Finish\" command to complete your|work. If the direction of the wood grain and|<br>|the direction of the carving are correct, you|can carve a lot... If the direction of the|grain and the direction of the carving are|<br>|not aligned, only a little will be cut.|Rotate the workbench to change the direction|of the wood grain, and make any necessary|<br>|adjustments.<end>"
+  },
+  "73": {
+    "木工設備がある。|木工部員であれば|ここで　アイテムが作れそうだ。": "Woodworking equipment... If you are a|woodworker, you can make items here..."
+  },
+  "74": {
+    "clarity_nt_char_74": "clarity_nt_char_74"
+  },
+  "75": {
+    "clarity_nt_char_75": "clarity_nt_char_75"
+  },
+  "76": {
+    "<%sL_RECIPE>を　作るのに|失敗した……。<bw_break>": "I failed to create <%sL_RECIPE>...<bw_break>"
+  },
+  "77": {
+    "clarity_nt_char_77": "clarity_nt_char_77"
+  },
+  "78": {
+    "clarity_nt_char_78": "clarity_nt_char_78"
+  },
+  "79": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>It's done!<bw_break>"
+  },
+  "80": {
+    "clarity_nt_char_80": "clarity_nt_char_80"
+  },
+  "81": {
+    "木工を　続けますか？|<break>": ""
+  },
+  "82": {
+    "clarity_nt_char_82": "clarity_nt_char_82"
+  },
+  "83": {
+    "clarity_nt_char_83": "clarity_nt_char_83"
+  },
+  "84": {
+    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+  },
+  "85": {
+    "clarity_nt_char_85": "clarity_nt_char_85"
+  },
+  "86": {
+    "clarity_nt_char_86": "clarity_nt_char_86"
+  },
+  "87": {
+    "clarity_nt_char_87": "clarity_nt_char_87"
+  },
+  "88": {
+    "clarity_nt_char_88": "clarity_nt_char_88"
+  },
+  "89": {
+    "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|木工が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now do woodworking using materials|found not only in the Animal Bag, but also in|the Storage Area and Under the Roof! When you|<br>|select a recipe for which you don't have the|necessary materials, you can use the|materials items in the Storage Area and Roof|<br>|Storage...<color_white>|<end>"
+  },
+  "90": {
+    "木工を　続けますか？|<break>": ""
+  },
+  "91": {
+    "clarity_nt_char_91": "clarity_nt_char_91"
+  },
+  "92": {
+    "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><break>": "<speed=0>Finish <%sL_RECIPE>... Are you sure?<yesno><break>"
+  },
+  "93": {
+    "<%sL_TICKET_NAME>を　使って|<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "How do I use <%sL_TICKET_NAME> to create|<%sL_RECIPE>? Are you sure?<yesno><close>"
+  },
+  "94": {
+    "けずっていない　木材がありますが|木工をやめますか？|<yesno><close>": "I have some wood that hasn't been scraped. Do|you want to stop woodworking?<yesno><close>"
+  },
+  "95": {
+    "clarity_nt_char_95": "clarity_nt_char_95"
+  },
+  "96": {
+    "<speed=0>大成功エリアは　これ以上　増やせません。": "<speed=0>We can't add any more to the Greater Success|Area."
+  },
+  "97": {
+    "<speed=0>大成功エリアがないため|この特技は　使えません。": "<speed=0>Since there's no area of great success, this|feat is useless..."
+  },
+  "98": {
+    "<speed=0>失敗エリアがないため|この特技は　使えません。": "<speed=0>Since there's no area of failure, you can use|this skill..."
+  },
+  "99": {
+    "<speed=0>ルーレットの針の先が　失敗エリアではないため|この特技は　使えません。": "<speed=0>The roulette needle is not in the failure|area, so this trick won't work..."
+  },
+  "100": {
+    "<speed=0>パルプンテエリアは　これ以上　増やせません。": "<speed=0>We can't add any more to the Pulpunkt area..."
+  },
+  "101": {
+    "<speed=0>パルプンテエリアがないため|この特技は　使えません。": "<speed=0>Since we don't have a Pulpunkt area, we can't|use this feat..."
+  },
+  "102": {
+    "<speed=0>成功エリアは　これ以上　増やせません。": "<speed=0>I can't add any more to the success area."
+  },
+  "103": {
+    "<speed=0>成功エリアがないため|この特技は　使えません。": "<speed=0>There's no success area, so you can't use|this skill..."
+  },
+  "104": {
+    "<speed=0>超大成功エリアは　これ以上　増やせません。": "<speed=0>We can't add any more super-successful|areas..."
+  },
+  "105": {
+    "clarity_nt_char_105": "clarity_nt_char_105"
+  },
+  "106": {
+    "<%sL_SOUBI><%sL_PLUSNUM>に付けたい|錬金効果を　選んでください。<break>": "Choose the alchemy effect you want to add to|<%sL_SOUBI><%sL_PLUSNUM>...<break>"
+  },
+  "107": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_SOUBI><%sL_PLUSNUM>に|<%sL_KOUKA>の　錬金効果を付けますか？|<yesno><close>": "Can I add the alchemy effect of <%sL_KOUKA>|to <%sL_SOUBI><%sL_PLUSNUM> using the|materials in the Storage Area and Roof|<br>|Storage?<yesno><close>"
+  },
+  "108": {
+    "<%sL_SOUBI><color_yellow><%sL_STAR><color_white>に付けられる|錬金効果の数が　上限に達した！ |<br>|他の装備品を　錬金しますか？|<yesno><close>": ""
+  },
+  "109": {
+    "予期せぬエラーにより|実行することが　できませんでした。|<end>": "Due to an unexpected error, we are unable to|execute...<end>"
+  },
+  "110": {
+    "clarity_nt_char_110": "clarity_nt_char_110"
+  },
+  "111": {
+    "clarity_nt_char_111": "clarity_nt_char_111"
+  },
+  "112": {
+    "clarity_nt_char_112": "clarity_nt_char_112"
+  },
+  "113": {
+    "clarity_nt_char_113": "clarity_nt_char_113"
+  },
+  "114": {
+    "clarity_nt_char_114": "clarity_nt_char_114"
+  },
+  "115": {
+    "おや？　<%sL_SYOKUNIN_TOOL>が…………？|<br>|黄色に　かがやきはじめた！|<br>|なんと　成功エリアが　すべて|大成功エリアになった！": "Hmm? <%sL_SYOKUNIN_TOOL> is...? It started to|glow yellow! Oh, my God, all the success|areas have turned into big success areas!"
+  },
+  "116": {
+    "おや？　<%sL_SYOKUNIN_TOOL>が…………？|<br>|黄色に　かがやきはじめた！|<br>|なんと　大成功エリアが　３倍に広がった！": "Hmm? <%sL_SYOKUNIN_TOOL> is...? It started to|glow yellow! What a surprise! The area of|great success has tripled in size!"
+  },
+  "117": {
+    "おや？　<%sL_SYOKUNIN_TOOL>が…………？|<br>|むらさき色に　かがやきはじめた！|<br>|なんと　失敗エリアが　すべて|パルプンテエリアになった！": "Hmm? <%sL_SYOKUNIN_TOOL> is...? It's starting|to glow with a purple hue! Oh my god, all the|failed areas are now Pulpunkt areas!"
+  },
+  "118": {
+    "おや？　<%sL_SYOKUNIN_TOOL>が…………？|<br>|白く　かがやきはじめた！|<br>|なんと　この錬金に失敗しても|弱い効果が付かず　さらに|素材も失わないようになった！": "Hmm? <%sL_SYOKUNIN_TOOL> is...? It started|glowing white! What's more, even if this|alchemy fails, I won't get any weak effects,|<br>|and I won't lose any materials!"
+  },
+  "119": {
+    "<yesno><close>": "<yesno><close>"
+  },
+  "120": {
+    "<%sL_SKILL_NAME>設備がある。|ここで　装備品に特殊な効果を付ける|錬金ができそうだ。|<break>": "<%sL_SKILL_NAME>Equipment... Here, you can|alchemize special effects on your|equipment...<break>"
+  },
+  "121": {
+    "clarity_nt_char_121": "clarity_nt_char_121"
+  },
+  "122": {
+    "clarity_nt_char_122": "clarity_nt_char_122"
+  },
+  "123": {
+    "<%sL_SKILL_NAME>とは　<%sL_TOOL_BASE_NAME>のフタにある|ルーレットを使って　装備品に|特殊な錬金効果を　付けることです。|<br>|ただし　錬金効果を付けられる装備品は|できのよさに　<color_yellow>★<color_white>が付いている物だけです。|<color_yellow>★<color_white>の数だけ　錬金効果を付けられます。|<br>|錬金効果を付けたい装備品と　付ける錬金効果を|選んだら　ルーレットの針を　回してください。|青いエリアに針が止まれば　錬金成功です！|<br>|グレーのエリアに針が止まると　錬金失敗です。|失敗してしまうと　選んだ錬金効果よりも|ずっと弱い効果が　付いてしまいます。|<br>|錬金成功の確率を上げるためには|特技を使います。錬金の特技は|集中力がある限り　使うことができます。|<br>|なお　錬金をしている途中に|通信エラーなどで　ゲームが中断した場合|チケットは失われますので　ご注意ください。|<end>": "<%sL_SKILL_NAME> is a roulette on the cover|of <%sL_TOOL_BASE_NAME> that can be used to|add special alchemical effects to|<br>|equipment... However, the quality of the|equipment to which the alchemical effect can|be applied will depend on its quality.<color_yellow>★<color_white>It's the one with the...<color_yellow>★<color_white>You can add as many alchemical effects as you|want... Once you've chosen the equipment you|want to alchemize and the alchemical effect|<br>|you want to apply, spin the roulette|needle... If the needle stops in the blue|area, you've achieved alchemy! If the needle|<br>|stops in the gray area, you've lost your|alchemy. If you fail, you'll get a much|weaker alchemy effect than the one you|<br>|chose... To increase the chance of alchemy|success, use special skills... You can use|alchemy skills as long as you have the|<br>|concentration. In addition, if the game is|interrupted by a communication error while|you're smelting, your ticket will be lost.<end>"
+  },
+  "124": {
+    "<%sL_SKILL_NAME>の遊び方の説明です！|<br>|ルーレットの針を回して|針が青のエリアに止まれば　錬金成功！|グレーのエリアなら　錬金失敗となります。|<br>|ルーレットの針を回す前に|集中力を使って　錬金を成功させるための|様々な特技が　使えます。|<br>|集中力が切れると　特技は使えなくなります。|『スタート』で　ルーレットの針を回し|あとは運を天にまかせて　祈りましょう。|<br>|では　成功目指して　がんばってください！|<end>": "Here's an explanation of how to play|<%sL_SKILL_NAME>! If you spin the roulette|needle and the needle stops in the blue area,|<br>|your smelting succeeds! If the needle stops|in the gray area, it's a smelting failure...|Before spinning the roulette needle, you need|<br>|to use your concentration to use various|skills to make your smelting successful. If|you lose your concentration, you can't use|<br>|any of them. \"Start\" to turn the roulette|needle, and leave the rest to luck. Good luck|and good luck to you!<end>"
+  },
+  "125": {
+    "<%sL_SKILL_NAME>設備がある。|<%sL_SKILL_NAME>部員であれば　ここで|装備品に特殊な効果を付ける　錬金ができそうだ。": ""
+  },
+  "126": {
+    "clarity_nt_char_126": "clarity_nt_char_126"
+  },
+  "127": {
+    "<%sL_SOUBI><%sL_PLUSNUM>が|<%sL_KOUKA>の効果で　うめつくされる！|<bw_break>": "<%sL_SOUBI><%sL_PLUSNUM> will be filled with|the effects of <%sL_KOUKA>!<bw_break>"
+  },
+  "128": {
+    "clarity_nt_char_128": "clarity_nt_char_128"
+  },
+  "129": {
+    "しかし　<%sL_SYOKUNIN_TOOL>のおかげで|<%sL_SOUBI><%sL_PLUSNUM>には　何の効果も付かず|素材も　失わなかった！<bw_break>": "But thanks to <%sL_SYOKUNIN_TOOL>,|<%sL_SOUBI><%sL_PLUSNUM> didn't have any|effect and didn't lose any material!<bw_break>"
+  },
+  "130": {
+    "パルプンテが　起こった！|ふしぎなチカラが　集まってくる……！<bw_break>": "Pulpunkt is happening! Magical powers are|gathering...<bw_break>"
+  },
+  "131": {
+    "clarity_nt_char_131": "clarity_nt_char_131"
+  },
+  "132": {
+    "clarity_nt_char_132": "clarity_nt_char_132"
+  },
+  "133": {
+    "錬金を　続けますか？|<break>": ""
+  },
+  "134": {
+    "使う<%sL_TOOL_BASE_NAME>を　選んでください。|<break>": "Select the <%sL_TOOL_BASE_NAME> you want to|use...<break>"
+  },
+  "135": {
+    "どの装備品に　錬金効果を付けますか？<break>": ""
+  },
+  "136": {
+    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+  },
+  "137": {
+    "clarity_nt_char_137": "clarity_nt_char_137"
+  },
+  "138": {
+    "clarity_nt_char_138": "clarity_nt_char_138"
+  },
+  "139": {
+    "clarity_nt_char_139": "clarity_nt_char_139"
+  },
+  "140": {
+    "clarity_nt_char_140": "clarity_nt_char_140"
+  },
+  "141": {
+    "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|<%sL_SKILL_NAME>が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now <%sL_SKILL_NAME> not only from|the Animal Bag, but also from the materials|in the Storage Area and the Roof Storage|<br>|Area! When you select a recipe for which you|don't have all the materials you need, you|can use the materials items in the Storage|<br>|Area and Under the Roof...<color_white>|<end>"
+  },
+  "142": {
+    "clarity_nt_char_142": "clarity_nt_char_142"
+  },
+  "143": {
+    "clarity_nt_char_143": "clarity_nt_char_143"
+  },
+  "144": {
+    "<speed=0>スタートして　よろしいですか？|<yesno><close>": "<speed=0>May we begin?<yesno><close>"
+  },
+  "145": {
+    "<%sL_SOUBI><%sL_PLUSNUM>に|<%sL_KOUKA>の　錬金効果を付けますか？|<yesno><close>": ""
+  },
+  "146": {
+    "clarity_nt_char_146": "clarity_nt_char_146"
+  },
+  "147": {
+    "これ以上　予知はできない！": "There's no more predictions!"
+  },
+  "148": {
+    "clarity_nt_char_148": "clarity_nt_char_148"
+  },
+  "149": {
+    "clarity_nt_char_149": "clarity_nt_char_149"
+  },
+  "150": {
+    "clarity_nt_char_150": "clarity_nt_char_150"
+  },
+  "151": {
+    "clarity_nt_char_151": "clarity_nt_char_151"
+  },
+  "152": {
+    "clarity_nt_char_152": "clarity_nt_char_152"
+  },
+  "153": {
+    "clarity_nt_char_153": "clarity_nt_char_153"
+  },
+  "154": {
+    "clarity_nt_char_154": "clarity_nt_char_154"
+  },
+  "155": {
+    "clarity_nt_char_155": "clarity_nt_char_155"
+  },
+  "156": {
+    "clarity_nt_char_156": "clarity_nt_char_156"
+  },
+  "157": {
+    "作る物の種類を　選んでください。|<break>": "You can choose what you want to make...<break>"
+  },
+  "158": {
+    "何を作りますか？<break>": ""
+  },
+  "159": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+  },
+  "160": {
+    "clarity_nt_char_160": "clarity_nt_char_160"
+  },
+  "161": {
+    "予期せぬエラーにより|実行することが　できませんでした。|<end>": "Due to an unexpected error, we are unable to|execute...<end>"
+  },
+  "162": {
+    "clarity_nt_char_162": "clarity_nt_char_162"
+  },
+  "163": {
+    "clarity_nt_char_163": "clarity_nt_char_163"
+  },
+  "164": {
+    "clarity_nt_char_164": "clarity_nt_char_164"
+  },
+  "165": {
+    "clarity_nt_char_165": "clarity_nt_char_165"
+  },
+  "166": {
+    "clarity_nt_char_166": "clarity_nt_char_166"
+  },
+  "167": {
+    "clarity_nt_char_167": "clarity_nt_char_167"
+  },
+  "168": {
+    "clarity_nt_char_168": "clarity_nt_char_168"
+  },
+  "169": {
+    "clarity_nt_char_169": "clarity_nt_char_169"
+  },
+  "170": {
+    "clarity_nt_char_170": "clarity_nt_char_170"
+  },
+  "171": {
+    "<yesno><close>": "<yesno><close>"
+  },
+  "172": {
+    "さいほう設備がある。|ここで　さいほうが　できそうだ。|<break>": "Equipment... We can do it here...<break>"
+  },
+  "173": {
+    "clarity_nt_char_173": "clarity_nt_char_173"
+  },
+  "174": {
+    "<speed=0>|<pc>は　いま作っている|<%sL_RECIPE>を　じっくりと眺めた。": "<speed=0>|<pc> I'm working on <%sL_RECIPE> now..."
+  },
+  "175": {
+    "さいほうとは　素材となる布を　ぬいあわせて|目的のアイテムを　作ることです。|<br>|カットされた布を　ぬいあわせて|成功ラインに沿うように　形を整えましょう。|完成品のできのよさは　この精度で決まります。|<br>|コマンドを実行するには　集中力が必要です。|集中力がなくなると　実行できなくなるので|ペース配分を考えて　コマンドを選びましょう。|<br>|ぬいパワーが強いほど　大きくぬいあわせますが|１回ごとに　ぬいパワーは変化していきます。|パワーの変化を見て　調整していきましょう。|<br>|なお　さいほうをしている途中に|通信エラーなどでゲームが中断した場合|チケットは失われますので　ご注意ください。|<end>": "A sewing method is the process of cutting and|sewing together fabric to create a desired|item... The cut fabric is wove together and|<br>|shaped to follow the success line... The|quality of the finished product depends on|the accuracy of this... It takes|<br>|concentration to execute a command... If you|lose your concentration, you won't be able to|do it, so pace yourself and choose your|<br>|commands. The more power you have, the more|you'll be able to pull it off, but each time|you pull it off, the power will change. The|<br>|more power you have, the more you'll be able|to... If the game is interrupted by a|communication error while you are playing,|<br>|you will lose your ticket...<end>"
+  },
+  "176": {
+    "さいほうの遊び方の説明です！|<br>|カットされた布を　ぬいあわせて|成功ラインに合うように　形を整えてください。|<br>|すべてのマス目が　成功ラインに合ったら|『しあげる』コマンドで　完成です！|<br>|ぬう強さは　１回ぬうごとに変わっていきます。|ぬいパワーの変化と　残りの集中力に|注意しながら　完成を目指しましょう！|<end>": "Here's how to play it again! Wipe the cut|pieces of cloth together and shape them to|fit the success line... When all the squares|<br>|meet the success line, use the \"finish\"|command to complete the game. The strength of|the cloth changes each time it's sewn. The|<br>|strength of your wipe changes with each wipe,|so keep an eye on your wiping power and the|amount of concentration you have left to|<br>|achieve your goal!<end>"
+  },
+  "177": {
+    "さいほう設備がある。|さいほう部員であれば|ここで　アイテムが作れそうだ。": "Sewing equipment... If you're a member of the|Saiho club, you can make items here..."
+  },
+  "178": {
+    "clarity_nt_char_178": "clarity_nt_char_178"
+  },
+  "179": {
+    "clarity_nt_char_179": "clarity_nt_char_179"
+  },
+  "180": {
+    "<%sL_RECIPE>を　作るのに|失敗した……。<bw_break>": "I failed to create <%sL_RECIPE>...<bw_break>"
+  },
+  "181": {
+    "clarity_nt_char_181": "clarity_nt_char_181"
+  },
+  "182": {
+    "clarity_nt_char_182": "clarity_nt_char_182"
+  },
+  "183": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>It's done!<bw_break>"
+  },
+  "184": {
+    "clarity_nt_char_184": "clarity_nt_char_184"
+  },
+  "185": {
+    "さいほうを　続けますか？|<break>": ""
+  },
+  "186": {
+    "clarity_nt_char_186": "clarity_nt_char_186"
+  },
+  "187": {
+    "clarity_nt_char_187": "clarity_nt_char_187"
+  },
+  "188": {
+    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+  },
+  "189": {
+    "clarity_nt_char_189": "clarity_nt_char_189"
+  },
+  "190": {
+    "clarity_nt_char_190": "clarity_nt_char_190"
+  },
+  "191": {
+    "clarity_nt_char_191": "clarity_nt_char_191"
+  },
+  "192": {
+    "clarity_nt_char_192": "clarity_nt_char_192"
+  },
+  "193": {
+    "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|裁縫が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now sew using materials found not|only in the Animal Bag, but also in the|Storage Area and Under the Roof! When you|<br>|select a recipe for which you don't have all|the materials you need, you can use the|materials items in the Storage Area and Under|<br>|the Roof...<color_white>|<end>"
+  },
+  "194": {
+    "さいほうを　続けますか？|<break>": ""
+  },
+  "195": {
+    "clarity_nt_char_195": "clarity_nt_char_195"
+  },
+  "196": {
+    "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><break>": "<speed=0>Finish <%sL_RECIPE>... Are you sure?<yesno><break>"
+  },
+  "197": {
+    "<%sL_TICKET_NAME>を　使って|<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "How do I use <%sL_TICKET_NAME> to create|<%sL_RECIPE>? Are you sure?<yesno><close>"
+  },
+  "198": {
+    "clarity_nt_char_198": "clarity_nt_char_198"
+  },
+  "199": {
+    "clarity_nt_char_199": "clarity_nt_char_199"
+  },
+  "200": {
+    "clarity_nt_char_200": "clarity_nt_char_200"
+  },
+  "201": {
+    "clarity_nt_char_201": "clarity_nt_char_201"
+  },
+  "202": {
+    "clarity_nt_char_202": "clarity_nt_char_202"
+  },
+  "203": {
+    "clarity_nt_char_203": "clarity_nt_char_203"
+  },
+  "204": {
+    "clarity_nt_char_204": "clarity_nt_char_204"
+  },
+  "205": {
+    "clarity_nt_char_205": "clarity_nt_char_205"
+  },
+  "206": {
+    "clarity_nt_char_206": "clarity_nt_char_206"
+  },
+  "207": {
+    "clarity_nt_char_207": "clarity_nt_char_207"
+  },
+  "208": {
+    "clarity_nt_char_208": "clarity_nt_char_208"
+  },
+  "209": {
+    "作る物の種類を　選んでください。|<break>": "You can choose what you want to make...<break>"
+  },
+  "210": {
+    "何を作りますか？<break>": ""
+  },
+  "211": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+  },
+  "212": {
+    "clarity_nt_char_212": "clarity_nt_char_212"
+  },
+  "213": {
+    "予期せぬエラーにより|実行することが　できませんでした。|<end>": "Due to an unexpected error, we are unable to|execute...<end>"
+  },
+  "214": {
+    "clarity_nt_char_214": "clarity_nt_char_214"
+  },
+  "215": {
+    "<speed=0><%sL_TOKUGI>の　効果範囲に|<%sL_TOKUGI>できない具材が　含まれています。": "<speed=0>If <%sL_TOKUGI> contains ingredients that|cannot be <%sL_TOKUGI>..."
+  },
+  "216": {
+    "<speed=0><%sL_TOKUGI>の　効果範囲に|具材の一部が　含まれていないので|<%sL_TOKUGI>は　使えません。": "<speed=0>Since <%sL_TOKUGI> doesn't include some of|the ingredients in its area of effect,|<%sL_TOKUGI> can't be used..."
+  },
+  "217": {
+    "clarity_nt_char_217": "clarity_nt_char_217"
+  },
+  "218": {
+    "clarity_nt_char_218": "clarity_nt_char_218"
+  },
+  "219": {
+    "clarity_nt_char_219": "clarity_nt_char_219"
+  },
+  "220": {
+    "clarity_nt_char_220": "clarity_nt_char_220"
+  },
+  "221": {
+    "clarity_nt_char_221": "clarity_nt_char_221"
+  },
+  "222": {
+    "clarity_nt_char_222": "clarity_nt_char_222"
+  },
+  "223": {
+    "<yesno><close>": "<yesno><close>"
+  },
+  "224": {
+    "調理設備がある。|ここで　料理が作れそうだ。|<break>": "Cooking facilities... You can cook here...<break>"
+  },
+  "225": {
+    "clarity_nt_char_225": "clarity_nt_char_225"
+  },
+  "226": {
+    "<speed=0>|<pc>は　いま作っている|<%sL_RECIPE>を　じっくりと眺めた。": "<speed=0>|<pc> I'm working on <%sL_RECIPE> now..."
+  },
+  "227": {
+    "調理とは　フライパンにのせた　具材を焼いて|目的のアイテムを　作ることです。|<br>|具材を焼くと　焼き加減メーターが上昇します。|メーターが　満タンになった具材は|食べごろ状態になります。|<br>|すべての具材を　食べごろ状態にしましょう。|完成品のできのよさは　この精度で決まります。|<br>|調理コマンドを実行するには　集中力が必要です。|集中力がなくなると　実行できなくなるので|ペース配分を考えて　コマンドを選びましょう。|<br>|具材は　フライパンの中心に近いほど|焼き加減メーターが　上がりやすくなるので|具材の位置を　調整していきましょう。|<br>|なお　調理をしている途中に|通信エラーなどでゲームが中断した場合|チケットは失われますので　ご注意ください。|<end>": "Cooking is when you cook the ingredients on|the pan to make the desired item... The more|ingredients you cook, the more the cook meter|<br>|will rise. When the meter is full, the|ingredients are ready to eat... All|ingredients are ready to eat. The quality of|<br>|the final product is determined by the|accuracy of this... It takes concentration to|execute the cooking commands. If you lose|<br>|concentration, you won't be able to execute|them, so pace yourself and choose your|commands... The closer the ingredients are to|<br>|the center of the pan, the higher the|browning meter will be, so adjust the|position of the ingredients... If the game is|<br>|interrupted by a communication error while|you are cooking, you will lose your ticket...<end>"
+  },
+  "228": {
+    "調理の遊び方の説明です！|<br>|毎ターン　具材を焼く度に|各具材の　焼き加減メーターが　上昇します。|焼き加減メーターを　満タンにしましょう。|<br>|焼き加減メーターが　満タンになった具材は|食べごろ状態になります。|<br>|すべての具材が　食べごろ状態になったら|『しあげる』コマンドで　完成です！|<br>|ただし　食べごろ状態になった具材の|焼き加減メーターが　もう一度　満タンになると|具材が焼けコゲてしまうので　注意してください。|<br>|具材は　フライパンの中心に近いほど|焼き加減メーターが　上がりやすくなります。|集中力に注意しながら　完成を目指しましょう！|<end>": "Here's how to play cooking. Each turn, as you|cook the ingredients, the doneness meter for|each ingredient goes up. When the doneness|<br>|meter is full... When the doneness meter is|full, the ingredients are ready to eat...|When all the ingredients are ready to eat,|<br>|use the \"finish\" command. However, be careful|not to burn the ingredients when the browning|meter is full again. The closer the|<br>|ingredients are to the center of the pan, the|easier it will be for the browning meter to|rise. The closer the ingredients are to the|<br>|center of the pan, the easier it is for the|burn meter to rise.<end>"
+  },
+  "229": {
+    "調理設備がある。|調理部員であれば|ここで　アイテムが作れそうだ。": "Cooking equipment... If you're a cook, you|can make items here..."
+  },
+  "230": {
+    "clarity_nt_char_230": "clarity_nt_char_230"
+  },
+  "231": {
+    "clarity_nt_char_231": "clarity_nt_char_231"
+  },
+  "232": {
+    "<%sL_RECIPE>を　作るのに|失敗した……。<bw_break>": "I failed to create <%sL_RECIPE>...<bw_break>"
+  },
+  "233": {
+    "clarity_nt_char_233": "clarity_nt_char_233"
+  },
+  "234": {
+    "clarity_nt_char_234": "clarity_nt_char_234"
+  },
+  "235": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>It's done!<bw_break>"
+  },
+  "236": {
+    "clarity_nt_char_236": "clarity_nt_char_236"
+  },
+  "237": {
+    "調理を　続けますか？|<break>": ""
+  },
+  "238": {
+    "clarity_nt_char_238": "clarity_nt_char_238"
+  },
+  "239": {
+    "clarity_nt_char_239": "clarity_nt_char_239"
+  },
+  "240": {
+    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+  },
+  "241": {
+    "<speed=0>移動先のマスには　既に具材があるため|その方向に　この具材を動かすことはできません。": "<speed=0>The square you're moving to already has an|ingredient in it, so you can't move this|ingredient in that direction."
+  },
+  "242": {
+    "<speed=0>同じ種類の　具材同士でしか|まぜあわせは　できません。": "<speed=0>You can only mix ingredients of the same|type..."
+  },
+  "243": {
+    "<speed=0>この具材は　まぜあわせの対象に選べません。": "<speed=0>These ingredients can be chosen to be mixed|together..."
+  },
+  "244": {
+    "<speed=0>この具材の焼き加減は　既に固定されています。": "<speed=0>These ingredients are already cooked to a|certain degree..."
+  },
+  "245": {
+    "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|調理が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now cook with ingredients found not|only in the Animal Bag, but also in the|Storage Area and Under the Roof! When you|<br>|select a recipe for which you don't have|enough ingredients, you can use the|ingredients in the Storage Area and the Roof|<br>|Storage...<color_white>|<end>"
+  },
+  "246": {
+    "調理を　続けますか？|<break>": ""
+  },
+  "247": {
+    "調理設備がある。|ここで　料理が作れそうだ。|<break>": "Cooking facilities... You can cook here...<break>"
+  },
+  "248": {
+    "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><break>": "<speed=0>Finish <%sL_RECIPE>... Are you sure?<yesno><break>"
+  },
+  "249": {
+    "<%sL_TICKET_NAME>を　使って|<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "How do I use <%sL_TICKET_NAME> to create|<%sL_RECIPE>? Are you sure?<yesno><close>"
+  },
+  "250": {
+    "clarity_nt_char_250": "clarity_nt_char_250"
+  },
+  "251": {
+    "clarity_nt_char_251": "clarity_nt_char_251"
+  },
+  "252": {
+    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|<yesno><break>": ""
+  },
+  "253": {
+    "鍛冶の種類を　選んでください。<break>": "Please select a type of blacksmithing...<break>"
+  },
+  "254": {
+    "<%sL_TICKET_NAME>を　もっていません。": "I have <%sL_TICKET_NAME>..."
+  },
+  "255": {
+    "<%sL_TICKET_NAME>を|すべて　使い切りました。": "We've used up all of <%sL_TICKET_NAME>..."
+  },
+  "256": {
+    "<color_yellow>|学園内では　所属する部の設備を使って|何度でも　練習をすることが　できます。|<br>|練習では　成功しても|失敗しても　何も失いませんので|気軽に　ためしてみてください。|<br>|アイテムの　作り方は|『説明を見る』コマンドから|見ることが　できます。|<br>|所属する部を　変えれば|他の部の設備でも|練習することが　できます。|<br>|思うぞんぶん　練習して|技術を高めましょう。<color_white>": "<color_yellow>On campus, you can practice as often as you|like using the facilities of your club...|When you practice, you lose nothing if you|<br>|succeed or fail, so feel free to try it|out... You can learn how to make items by|clicking on the \"Show description\" command...|<br>|If you change the club you belong to, you can|practice with other clubs' equipment... You|can practice as much as you want and improve|<br>|your skills...<color_white>"
+  },
+  "257": {
+    "武器鍛冶部　防具鍛冶部　道具鍛冶部　いずれかの|部が活動を再開するまでは|この設備を使うことは　できません。": "Until one of the weapon smithing, armor|smithing, or tool smithing divisions is|activated again, you will not be able to use|<br>|this facility."
+  },
+  "258": {
+    "木工を　続けますか？|<yesno><break>": ""
+  },
+  "259": {
+    "clarity_nt_char_259": "clarity_nt_char_259"
+  },
+  "260": {
+    "<%sL_TICKET_NAME>を　もっていません。": "I have <%sL_TICKET_NAME>..."
+  },
+  "261": {
+    "<%sL_TICKET_NAME>を|すべて　使い切りました。": "We've used up all of <%sL_TICKET_NAME>..."
+  },
+  "262": {
+    "<color_yellow>|学園内では　所属する部の設備を使って|何度でも　練習をすることが　できます。|<br>|練習では　成功しても|失敗しても　何も失いませんので|気軽に　ためしてみてください。|<br>|アイテムの　作り方は|『説明を見る』コマンドから|見ることが　できます。|<br>|所属する部を　変えれば|他の部の設備でも|練習することが　できます。|<br>|思うぞんぶん　練習して|技術を高めましょう。<color_white>": "<color_yellow>On campus, you can practice as often as you|like using the facilities of your club...|When you practice, you lose nothing if you|<br>|succeed or fail, so feel free to try it|out... You can learn how to make items by|clicking on the \"Show description\" command...|<br>|If you change the club you belong to, you can|practice with other clubs' equipment... You|can practice as much as you want and improve|<br>|your skills...<color_white>"
+  },
+  "263": {
+    "木工部が　活動を再開するまでは|この設備を使うことは　できません。": "We can't use this equipment until the|woodworkers are back in action..."
+  },
+  "264": {
+    "<%sL_SKILL_NAME>を　続けますか？|<yesno><break>": ""
+  },
+  "265": {
+    "clarity_nt_char_265": "clarity_nt_char_265"
+  },
+  "266": {
+    "<%sL_TICKET_NAME>を　もっていません。": "I have <%sL_TICKET_NAME>..."
+  },
+  "267": {
+    "<%sL_TICKET_NAME>を|すべて　使い切りました。": "We've used up all of <%sL_TICKET_NAME>..."
+  },
+  "268": {
+    "<color_yellow>|学園内では　所属する部の設備を使って|何度でも　練習をすることが　できます。|<br>|練習では　せいこうしても|しっぱいしても　何も失いませんので|気軽に　ためしてみてください。|<br>|所属する部を　変えれば|他の部の設備でも|練習することが　できます。|<br>|思うぞんぶん　練習して|技術を高めましょう。<color_white>": "<color_yellow>On campus, you can practice as often as you|like using the facilities of your club... In|practice, you don't lose anything if you|<br>|succeed or fail, so feel free to try it|out... If you change the club you belong to,|you can practice on other clubs' equipment...|<br>|You can practice as much as you want and|improve your skills...<color_white>"
+  },
+  "269": {
+    "<%sL_SKILL_NAME>部が　活動を再開するまでは|この設備を使うことは　できません。": "<%sL_SKILL_NAME> Until the department resumes|operations, this equipment is not to be|used..."
+  },
+  "270": {
+    "さいほうを　続けますか？|<yesno><break>": ""
+  },
+  "271": {
+    "clarity_nt_char_271": "clarity_nt_char_271"
+  },
+  "272": {
+    "<%sL_TICKET_NAME>を　もっていません。": "I have <%sL_TICKET_NAME>..."
+  },
+  "273": {
+    "<%sL_TICKET_NAME>を|すべて　使い切りました。": "We've used up all of <%sL_TICKET_NAME>..."
+  },
+  "274": {
+    "<color_yellow>|学園内では　所属する部の設備を使って|何度でも　練習をすることが　できます。|<br>|練習では　成功しても|失敗しても　何も失いませんので|気軽に　ためしてみてください。|<br>|所属する部を　変えれば|他の部の設備でも|練習することが　できます。|<br>|思うぞんぶん　練習して|技術を高めましょう。<color_white>": "<color_yellow>On campus, you can practice as often as you|like using the facilities of your club...|When you practice, you lose nothing if you|<br>|succeed or fail, so feel free to try it|out... If you change your club, you can|practice on other clubs' equipment... You can|<br>|practice as much as you want and improve your|skills...<color_white>"
+  },
+  "275": {
+    "裁縫部が　活動を再開するまでは|この設備を使うことは　できません。": "Until the sewing department is back in|action, we can't use this equipment..."
+  },
+  "276": {
+    "調理を　続けますか？|<yesno><break>": ""
+  },
+  "277": {
+    "clarity_nt_char_277": "clarity_nt_char_277"
+  },
+  "278": {
+    "<%sL_TICKET_NAME>を　もっていません。": "I have <%sL_TICKET_NAME>..."
+  },
+  "279": {
+    "<%sL_TICKET_NAME>を|すべて　使い切りました。": "We've used up all of <%sL_TICKET_NAME>..."
+  },
+  "280": {
+    "<color_yellow>|学園内では　所属する部の設備を使って|何度でも　練習をすることが　できます。|<br>|練習では　せいこうしても|しっぱいしても　何も失いませんので|気軽に　ためしてみてください。|<br>|所属する部を　変えれば|他の部の設備でも|練習することが　できます。|<br>|思うぞんぶん　練習して|技術を高めましょう。<color_white>": "<color_yellow>On campus, you can practice as often as you|like using the facilities of your club... In|practice, you don't lose anything if you|<br>|succeed or fail, so feel free to try it|out... If you change the club you belong to,|you can practice on other clubs' equipment...|<br>|You can practice as much as you want and|improve your skills...<color_white>"
+  },
+  "281": {
+    "調理部が　活動を再開するまでは|この設備を使うことは　できません。": "We can't use this facility until the cooks|are back in action..."
+  },
+  "282": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を　部長に納品した。|部活ポイント　<%dL_BASE_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>I've got a P... I've got <%dL_BASE_POINT> P!|<se_nots System 7>|<bw_break>"
+  },
+  "283": {
+    "お手伝いチケットは　|他の部のために　使いましょう。": "I'll use the tickets to help the rest of the|team."
+  },
+  "284": {
+    "部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "I wasn't able to meet the requirements for|the week's assignment...<bw_break>"
+  },
+  "285": {
+    "しかし　部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "However, I was unable to fulfill the|requirements of my assignment for Club|Activities Week...<bw_break>"
+  },
+  "286": {
+    "<pc>は　部活強化週間の|課題成功ボーナスとして|<%dL_BONUS_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "<pc>  has earned <%dL_BONUS_POINT> P as a bonus for|completing his assignment during club|activities week!|<se_nots System 7>|<bw_break>"
+  },
+  "287": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を　部長に納品した。|部活ポイント　<%dL_BASE_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>I've got a P... I've got <%dL_BASE_POINT> P!|<se_nots System 7>|<bw_break>"
+  },
+  "288": {
+    "お手伝いチケットは　|他の部のために　使いましょう。": "I'll use the tickets to help the rest of the|team."
+  },
+  "289": {
+    "部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "I wasn't able to meet the requirements for|the week's assignment...<bw_break>"
+  },
+  "290": {
+    "しかし　部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "However, I was unable to fulfill the|requirements of my assignment for Club|Activities Week...<bw_break>"
+  },
+  "291": {
+    "<pc>は　部活強化週間の|課題成功ボーナスとして|<%dL_BONUS_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "<pc>  has earned <%dL_BONUS_POINT> P as a bonus for|completing his assignment during club|activities week!|<se_nots System 7>|<bw_break>"
+  },
+  "292": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を　部長に納品した。|部活ポイント　<%dL_BASE_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>I've got a P... I've got <%dL_BASE_POINT> P!|<se_nots System 7>|<bw_break>"
+  },
+  "293": {
+    "お手伝いチケットは　|他の部のために　使いましょう。": "I'll use the tickets to help the rest of the|team."
+  },
+  "294": {
+    "部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "I wasn't able to meet the requirements for|the week's assignment...<bw_break>"
+  },
+  "295": {
+    "しかし　部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "However, I was unable to fulfill the|requirements of my assignment for Club|Activities Week...<bw_break>"
+  },
+  "296": {
+    "部活強化週間の　課題の条件を　みたした！|部活ポイント　<%dL_BONUS_POINT> Pを|課題成功ボーナスとして　手に入れた！<se_nots System 7>|<bw_break>": "Fulfilled the requirements for the Club|Activity Week challenge! Earned|<%dL_BONUS_POINT> P in club points as a bonus|<br>|for completing the challenge!|<se_nots System 7>|<bw_break>"
+  },
+  "297": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を　部長に納品した。|部活ポイント　<%dL_BASE_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>I've got a P... I've got <%dL_BASE_POINT> P!|<se_nots System 7>|<bw_break>"
+  },
+  "298": {
+    "お手伝いチケットは　|他の部のために　使いましょう。": "I'll use the tickets to help the rest of the|team."
+  },
+  "299": {
+    "部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "I wasn't able to meet the requirements for|the week's assignment...<bw_break>"
+  },
+  "300": {
+    "しかし　部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "However, I was unable to fulfill the|requirements of my assignment for Club|Activities Week...<bw_break>"
+  },
+  "301": {
+    "<pc>は　部活強化週間の|課題成功ボーナスとして|<%dL_BONUS_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "<pc>  has earned <%dL_BONUS_POINT> P as a bonus for|completing his assignment during club|activities week!|<se_nots System 7>|<bw_break>"
+  },
+  "302": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を　部長に納品した。|部活ポイント　<%dL_BASE_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>I've got a P... I've got <%dL_BASE_POINT> P!|<se_nots System 7>|<bw_break>"
+  },
+  "303": {
+    "お手伝いチケットは　|他の部のために　使いましょう。": "I'll use the tickets to help the rest of the|team."
+  },
+  "304": {
+    "部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "I wasn't able to meet the requirements for|the week's assignment...<bw_break>"
+  },
+  "305": {
+    "しかし　部活強化週間の|課題の条件を　みたすことは|できなかった……。|<bw_break>": "However, I was unable to fulfill the|requirements of my assignment for Club|Activities Week...<bw_break>"
+  },
+  "306": {
+    "部活強化週間の　課題の条件を　みたした！|部活ポイント　<%dL_BONUS_POINT> Pを|課題成功ボーナスとして　手に入れた！<se_nots System 7>|<bw_break>": "Fulfilled the requirements for the Club|Activity Week challenge! Earned|<%dL_BONUS_POINT> P in club points as a bonus|<br>|for completing the challenge!|<se_nots System 7>|<bw_break>"
+  },
+  "307": {
+    "できのよさボーナスとして|部活ポイント　<%dL_ADD_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "I got <%dL_ADD_POINT> P club points as a|goodness bonus!|<se_nots System 7>|<bw_break>"
+  },
+  "308": {
+    "できのよさボーナスとして|部活ポイント　<%dL_ADD_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "I got <%dL_ADD_POINT> P club points as a|goodness bonus!|<se_nots System 7>|<bw_break>"
+  },
+  "309": {
+    "できのよさボーナスとして|部活ポイント　<%dL_ADD_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "I got <%dL_ADD_POINT> P club points as a|goodness bonus!|<se_nots System 7>|<bw_break>"
+  },
+  "310": {
+    "できのよさボーナスとして|部活ポイント　<%dL_ADD_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "I got <%dL_ADD_POINT> P club points as a|goodness bonus!|<se_nots System 7>|<bw_break>"
+  },
+  "311": {
+    "できのよさボーナスとして|部活ポイント　<%dL_ADD_POINT> Pを　手に入れた！<se_nots System 7>|<bw_break>": "I got <%dL_ADD_POINT> P club points as a|goodness bonus!|<se_nots System 7>|<bw_break>"
+  },
+  "312": {
+    "あと　<%dL_NUM>個を納品すると|<%sL_CATEGORY_NAME>鍛冶部の　目標を　達成できるようだ。": "If we deliver <%dL_NUM> more units, we'll be|able to meet the <%sL_CATEGORY_NAME>|blacksmithing objective..."
+  },
+  "313": {
+    "すでに　<%sL_CATEGORY_NAME>鍛冶部の課題の|目標数には　到達済みです。": "I've already reached my goal for the|<%sL_CATEGORY_NAME>forge challenge..."
+  },
+  "314": {
+    "練習に使う　職人道具を|選んでください。<break>": ""
+  },
+  "315": {
+    "お試し練習で|<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "Create <%sL_RECIPE> for trial practice... Are|you sure?<yesno><close>"
+  },
+  "316": {
+    "あと　<%dL_NUM>個を納品すると|木工部の　目標を　達成できるようだ。": ""
+  },
+  "317": {
+    "すでに　木工部の課題の|目標数には　到達済みです。": "We've already reached our goal for the|woodworking project..."
+  },
+  "318": {
+    "練習に使う　職人道具を|選んでください。<break>": ""
+  },
+  "319": {
+    "お試し練習で|<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "Create <%sL_RECIPE> for trial practice... Are|you sure?<yesno><close>"
+  },
+  "320": {
+    "<%sL_SKILL_NAME>部の　課題の目標数まで|あと　<%dL_NUM>個です。": "<%sL_SKILL_NAME>There are <%dL_NUM>more|assignments in the section..."
+  },
+  "321": {
+    "すでに　<%sL_SKILL_NAME>部の課題の|目標数には　到達済みです。": ""
+  },
+  "322": {
+    "練習に使う　職人道具を|選んでください。<break>": ""
+  },
+  "323": {
+    "<%sL_SOUBI><%sL_PLUSNUM>に|<%sL_KOUKA>の　錬金効果を付けますか？|<yesno><close>": ""
+  },
+  "324": {
+    "さいほう部の　課題の目標数まで|あと　<%dL_NUM>個です。": "We're <%dL_NUM> away from the target number|of issues in the last section..."
+  },
+  "325": {
+    "すでに　さいほう部の課題の|目標数には　到達済みです。": "We've already reached the target number for|the reporter's assignment..."
+  },
+  "326": {
+    "練習に使う　職人道具を|選んでください。<break>": ""
+  },
+  "327": {
+    "お試し練習で|<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "Create <%sL_RECIPE> for trial practice... Are|you sure?<yesno><close>"
+  },
+  "328": {
+    "調理部の　課題の目標数まで|あと　<%dL_NUM>個です。": ""
+  },
+  "329": {
+    "すでに　調理部の課題の|目標数には　到達済みです。": "We've already reached the target number for|the cooking assignment..."
+  },
+  "330": {
+    "練習に使う　職人道具を|選んでください。<break>": ""
+  },
+  "331": {
+    "お試し練習で|<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "Create <%sL_RECIPE> for trial practice... Are|you sure?<yesno><close>"
+  },
+  "332": {
+    "<%sL_CATEGORY_NAME>鍛冶部の課題が|目標数に　到達しました！": "<%sL_CATEGORY_NAME>The Forge has reached its|target number of challenges!"
+  },
+  "333": {
+    "木工部の課題が|目標数に　到達しました！": ""
+  },
+  "334": {
+    "<%sL_SKILL_NAME>部の課題が|目標数に　到達しました！": ""
+  },
+  "335": {
+    "さいほう部の課題が|目標数に　到達しました！": ""
+  },
+  "336": {
+    "調理部の課題が|目標数に　到達しました！": "The Culinary Arts project has reached its|target number!"
+  },
+  "337": {
+    "練習で作った　<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を|部長に納品しました。": "<%sL_RECIPE> made in practice<color_yellow><%sL_QUALITY><color_white>I've got a delivery for you..."
+  },
+  "338": {
+    "練習で作った　<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を|部長に納品しました。": "<%sL_RECIPE> made in practice<color_yellow><%sL_QUALITY><color_white>I've got a delivery for you..."
+  },
+  "339": {
+    "練習で作った　<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を|部長に納品しました。": "<%sL_RECIPE> made in practice<color_yellow><%sL_QUALITY><color_white>I've got a delivery for you..."
+  },
+  "340": {
+    "練習で作った　<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を|部長に納品しました。": "<%sL_RECIPE> made in practice<color_yellow><%sL_QUALITY><color_white>I've got a delivery for you..."
+  },
+  "341": {
+    "練習で作った　<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>を|部長に納品しました。": "<%sL_RECIPE> made in practice<color_yellow><%sL_QUALITY><color_white>I've got a delivery for you..."
+  },
+  "342": {
+    "強化週間品となっている|アイテムを　作りましょう！": "We're going to create an item that will|become an Enhanced Weekly Item!"
+  },
+  "343": {
+    "強化週間品となっている　アイテムを|できのよさ　★１以上で　しあげましょう！": ""
+  },
+  "344": {
+    "強化週間品となっている　アイテムを|できのよさ　★２以上で　しあげましょう！": ""
+  },
+  "345": {
+    "強化週間品となっている　アイテムを|できのよさ　★３（大成功）で　しあげましょう！": "You'll be able to get the best out of the|items that you've got in your collection."
+  },
+  "346": {
+    "強化週間品となっている|アイテムを　作りましょう！": "We're going to create an item that will|become an Enhanced Weekly Item!"
+  },
+  "347": {
+    "強化週間品となっている　アイテムを|できのよさ　★１以上で　しあげましょう！": ""
+  },
+  "348": {
+    "強化週間品となっている　アイテムを|できのよさ　★２以上で　しあげましょう！": ""
+  },
+  "349": {
+    "強化週間品となっている　アイテムを|できのよさ　★３（大成功）で　しあげましょう！": "You'll be able to get the best out of the|items that you've got in your collection."
+  },
+  "350": {
+    "強化週間品となっている|アイテムを　しあげましょう！": ""
+  },
+  "351": {
+    "強化週間品となっている　アイテムを|できのよさ　★１以上で　しあげましょう！": ""
+  },
+  "352": {
+    "強化週間品となっている　アイテムを|できのよさ　★２以上で　しあげましょう！": ""
+  },
+  "353": {
+    "強化週間品となっている　アイテムを|できのよさ　★３（大成功）で　しあげましょう！": "You'll be able to get the best out of the|items that you've got in your collection."
+  },
+  "354": {
+    "強化週間品となっている|アイテムを　しあげましょう！": ""
+  },
+  "355": {
+    "強化週間品となっている　アイテムを|できのよさ　★１以上で　しあげましょう！": ""
+  },
+  "356": {
+    "強化週間品となっている　アイテムを|できのよさ　★２以上で　しあげましょう！": ""
+  },
+  "357": {
+    "強化週間品となっている　アイテムを|できのよさ　★３（大成功）で　しあげましょう！": "You'll be able to get the best out of the|items that you've got in your collection."
+  },
+  "358": {
+    "強化週間品となっている|アイテムを　しあげましょう！": ""
+  },
+  "359": {
+    "強化週間品となっている　アイテムを|できのよさ　★１以上で　しあげましょう！": ""
+  },
+  "360": {
+    "強化週間品となっている　アイテムを|できのよさ　★２以上で　しあげましょう！": ""
+  },
+  "361": {
+    "強化週間品となっている　アイテムを|できのよさ　★３（大成功）で　しあげましょう！": "You'll be able to get the best out of the|items that you've got in your collection."
+  },
+  "362": {
+    "<color_yellow>|部活強化週間が　始まっています。|部長に話しかけて　ぜひ　参加しましょう！|<color_white>": "<color_yellow>It's the start of club activity week... Talk|to the director and join us!<color_white>"
+  },
+  "363": {
+    "<color_yellow>|部活強化週間が　始まっています。|部長に話しかけて　ぜひ　参加しましょう！|<color_white>": "<color_yellow>It's the start of club activity week... Talk|to the director and join us!<color_white>"
+  },
+  "364": {
+    "clarity_nt_char_364": "clarity_nt_char_364"
+  },
+  "365": {
+    "clarity_nt_char_365": "clarity_nt_char_365"
+  },
+  "366": {
+    "clarity_nt_char_366": "clarity_nt_char_366"
+  },
+  "367": {
+    "<%nL_TURN>ターン目": "<%nL_TURN>turn 1"
+  },
+  "368": {
+    "clarity_nt_char_368": "clarity_nt_char_368"
+  },
+  "369": {
+    "clarity_nt_char_369": "clarity_nt_char_369"
+  },
+  "370": {
+    "clarity_nt_char_370": "clarity_nt_char_370"
+  },
+  "371": {
+    "clarity_nt_char_371": "clarity_nt_char_371"
+  },
+  "372": {
+    "<%nL_TURN>ターン目|素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": ""
+  },
+  "373": {
+    "clarity_nt_char_373": "clarity_nt_char_373"
+  },
+  "374": {
+    "clarity_nt_char_374": "clarity_nt_char_374"
+  },
+  "375": {
+    "clarity_nt_char_375": "clarity_nt_char_375"
+  },
+  "376": {
+    "clarity_nt_char_376": "clarity_nt_char_376"
+  },
+  "377": {
+    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン": "Mass <%sL_MASU_1> surface hardening and <%nL_MASU_TURN_1> turn"
+  },
+  "378": {
+    "clarity_nt_char_378": "clarity_nt_char_378"
+  },
+  "379": {
+    "clarity_nt_char_379": "clarity_nt_char_379"
+  },
+  "380": {
+    "clarity_nt_char_380": "clarity_nt_char_380"
+  },
+  "381": {
+    "clarity_nt_char_381": "clarity_nt_char_381"
+  },
+  "382": {
+    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン|マス<%sL_MASU_2>　表面固め　あと<%nL_MASU_TURN_2>ターン": "Mass <%sL_MASU_1> surface hardening and <%nL_MASU_TURN_1> turn|Mass <%sL_MASU_2> surface hardening and <%nL_MASU_TURN_2> turn"
+  },
+  "383": {
+    "clarity_nt_char_383": "clarity_nt_char_383"
+  },
+  "384": {
+    "clarity_nt_char_384": "clarity_nt_char_384"
+  },
+  "385": {
+    "clarity_nt_char_385": "clarity_nt_char_385"
+  },
+  "386": {
+    "clarity_nt_char_386": "clarity_nt_char_386"
+  },
+  "387": {
+    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン|マス<%sL_MASU_2>　表面固め　あと<%nL_MASU_TURN_2>ターン|マス<%sL_MASU_3>　表面固め　あと<%nL_MASU_TURN_3>ターン": "Mass <%sL_MASU_1> surface hardening and <%nL_MASU_TURN_1> turn|Mass <%sL_MASU_2> surface hardening and <%nL_MASU_TURN_2> turn|Mass <%sL_MASU_3> surface hardening and <%nL_MASU_TURN_3> turn"
+  }
+}

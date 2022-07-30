@@ -1,0 +1,56 @@
+{
+  "1": {
+    "「ぬぬ？　考え直しますかな。|　聖紋と引き換えにさずける　探索の極意を|　ひとつ　選んでくだされ。|<break>": "Hmm? Changed your mind? Please choose one|of the exploration secrets I'll give you|in exchange for crests.|<break>"
+  },
+  "2": {
+    "<select_se_off>|探索開始時　海神のうろこ３個追加|錬金効果＋３の装備のみ出現|持ち帰り可能な装備数２個追加|説明を聞く|やめる|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case 4>|<break>|<case 5>|<break>|<case_cancel>|<break>|<case_end>": "<select_se_off>|Begin with 3 Scales|Find All +3 Equipment|Can Take 2 Extra Equips|Explanation|Cancel|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case 4>|<break>|<case 5>|<break>|<case_cancel>|<break>|<case_end>"
+  },
+  "3": {
+    "「ぬぬ？　必要ありませぬか。|<end>": "Hmm? No need for it?|<end>"
+  },
+  "4": {
+    "「探索の極意は　遺跡の探索に|　効果を発揮する　特殊なわざなのです。|　１回の探索のあいだ　ずっと効果がありますぞ。|<br>|「パーティリーダーの　探索の極意のみが使用され|　パーティ全員に　効果が発揮されますな。|<br>|「このとき　リーダー以外の　探索の極意が|　なくなることはないので　ご安心くだされ。|<br>|「さらに　遺跡に立ち入らぬ限り|　遺跡以外の場所へ移動したり　冒険を中断しても|　探索の極意が　なくなることはありませぬ。|<br>|「また　一度にさずけられる|　探索の極意は　ひとつのみですぞ。|　よおく吟味なさることを　おすすめいたす。|<br>|「最後に　ご自分の　探索の極意は|　遺跡の入り口のメニューや　探索中に|　ゼルメアメニューを開いて　確認できますぞ。|<bw_break>": "A secret of exploration is a special technique|that's effective while searching the ruins.|Its effect lasts for one exploration.|<br>|Only the party leader's secret will take|effect, and all party members will benefit|from it.|<br>|Rest assured, those member's secrets won't|be overwritten from the leader's effect.|<br>|Furthermore, your secret will remain so long|as you don't explore the ruins, so do as you|wish in the meantime.|<br>|I can only give you one secret at a time, so|please examine each one carefully.|<br>|Lastly, you can view your current secret at|the entrance menu here or the Zelmea Menu|inside of the ruins.|<bw_break>"
+  },
+  "5": {
+    "ゼルメアの聖紋<%nM_EXCHANGE_NUM>個と　引き換えに|<%sM_Kouka>　を|さずけてもらいますか？|<yesno2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "You'll give me <%dM_EXCHANGE_NUM> Zelmea Crests in exchange|for <%sM_Kouka>?|<yesno2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
+  },
+  "6": {
+    "「かたじけない。さずけた探索の極意は|　１回の探索のあいだ　効果がありますぞ。|<br>|「パーティ探索では　リーダーの極意のみが|　使用され　パーティ全員に効果が発揮されるので|　ぜひ活用してくだされ。ご武運を！|<end>": "Much appreciated. The secret I've given will|last for one exploration.|<br>|In a party, the leader's secret will take|effect and all members will benefit.|Good luck!|<end>"
+  },
+  "7": {
+    "<pc>は　冒険者ジグロウから|探索の極意を　さずけてもらった！<se_nots System 7>": "<pc> was a given a secret of|exploration from Adventurer Jiguro!<se_nots System 7>"
+  },
+  "8": {
+    "「……やや　遺跡の探索者でありますかな？|<br>|「拙者は　ジグロウと申す者。|　しがない　冒険家であり|　世の防具という防具を愛する　収集家。|<br>|「このキテレツな遺跡に　魅入られて|　日々　防具収集に明け暮れるあまり|　ゼルメアの聖紋を　切らしてしもうた。|<br>|「おぬしは……<pc>殿と　申すか。|　おぬしも　防具を求める者と　お見受けする。|<br>|「もし　ゼルメアの聖紋を　余分にお持ちなら|　拙者が会得した　探索の極意を　さずけるゆえ|　聖紋をひとつ　分けていただけませんかな。|<bw_break>": "...hey, aren't you an explorer of these ruins?|<br>|My name is Jiguro. I'm adventurer and a|collector, and love to collect armor from|all over the world.|<br>|I've been so fascinated with these strange|ruins and collecting armor that I ran out of|Zelmea Crests to use.|<br>|You are... <pc>, I presume. I|see you've been collecting armor as well.|<br>|I'd be grateful for any Zelmea Crests you|could share. In exchange, I'll show you some|exploration secrets I have learned.|<bw_break>"
+  },
+  "9": {
+    "「……やや　<pc>殿ではありませぬか！|　遺跡の探索に　向かわれるのですかな。|<br>|「拙者も　探索に向かいたいのだが|　防具収集に　明け暮れるあまり|　ゼルメアの聖紋を　切らしてしもうた。|<br>|「もし　ゼルメアの聖紋を　余分にお持ちなら|　拙者が会得した　探索の極意を　さずけるゆえ|　聖紋をひとつ　分けていただけませんかな。|<bw_break>": "...well, if it isn't <pc>!|Are you planning to explore the ruins?|<br>|I'd like go exploring too, but I got a bit|carried away with collecting armor that I|ran out of Zelmea Crests.|<br>|I'd be grateful for any Zelmea Crests you|could share. In exchange, I'll show you some|exploration secrets I have learned.|<bw_break>"
+  },
+  "10": {
+    "「おお　気が変わりましたかな。|　拙者が会得した　探索の極意を　さずけるゆえ|　聖紋をひとつ　分けていただけませんかな。|<bw_break>": "Oh, you changed your mind? If you share your|crests with me, I will share my secrets|of exploration.|<bw_break>"
+  },
+  "11": {
+    "「おお　<pc>殿！|　聖紋をいただき　感謝いたす。|　これでまた　防具の収集に臨めますぞ。|<br>|「<pc>殿も　お気をつけて。さずけた極意|　<%sM_Kouka>　が|　役に立てば　ありがたいですな。|<bw_break>": "Oh, <pc>! Thank you for the|crests. Now I can resume collecting armor.|<br>|Please take care, <pc>. I would|be grateful if those secrets end up being|of some use to you.|<bw_break>"
+  },
+  "12": {
+    "「聖紋と　引き換えにさずける|　探索の極意を　ひとつ　選んでくだされ。|<break>": "Choose an exploration secret to exchange for|Zelmea Crests.|<break>"
+  },
+  "13": {
+    "「もし　ほかの探索の極意を　ご所望であれば|　ひとつ　選び直してくだされ。|　選び直しに　聖紋は必要ありませぬぞ。|<break>": "If you would like another secret, please|choose another. It won't cost you any crests.|<break>"
+  },
+  "14": {
+    "「探索の極意を　ひとつ　選び直してくだされ。|　選び直しに　聖紋は必要ありませぬぞ。|<break>": "Please select one secret. It won't cost|any crests to select again.|<break>"
+  },
+  "15": {
+    "「……むむ？　どうやら　ゼルメアの聖紋を|　持っていないようですな……。|　いたしかたない　またの機会にしましょうぞ。|<end>": "...Hm? It seems you do not have any Zelmea|Crests.... Looks like we'll have to do this|another time.|<end>"
+  },
+  "16": {
+    "遺跡内では　パーティリーダーの　探索の極意が|パーティ全員にかかりますが　よろしいですか？|リーダー以外の探索の極意は　なくなりません。|<yesno2><break>": "The party leader's exploration secret will be|applied to the party. Is this okay? The other|members' secrets will not be overwritten.|<yesno2><break>"
+  },
+  "17": {
+    "<%sM_Kouka>　の代わりに|<%sM_Kouka2>　を|さずけてもらいますか？|<yesno>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "So you'd like to have <%sM_Kouka2>|instead of <%sM_Kouka>?|<yesno>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
+  },
+  "18": {
+    "「むむ？　その探索の極意は|　すでに　さずけておりますぞ。|<bw_break>": "Hmm? I've already given you a secret.|<bw_break>"
+  }
+}

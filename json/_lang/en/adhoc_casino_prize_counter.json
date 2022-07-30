@@ -1,0 +1,107 @@
+{
+  "1": {
+    "「すぐに　そのレシピを　覚えていきますか？|<yesno 2><break>": "Do you want to learn that recipe right now?|<yesno 2><break>"
+  },
+  "2": {
+    "エラーが発生しました。|<break>": "An error has occurred.<break>"
+  },
+  "3": {
+    "「<%sL_COIN_PRIZE>のレシピは|　もう　覚えているようですが|　これで　よろしいですか？|<yesno><break>": "It seems you've already learned that recipe.|Do you still want it?|<yesno><break>"
+  },
+  "4": {
+    "「<%sL_COIN_PRIZE>ですね。|　カジノコイン<%nL_PRICE>枚になりますが|　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? That will be|<%dL_PRICE> Casino Tokens, if you don't mind.<yesno><break>"
+  },
+  "5": {
+    "「他にも　交換したい品は|　ございますか？|<yesno>": "Are there any other items you'd like to|exchange?<yesno>"
+  },
+  "6": {
+    "「ご利用ありがとうございました。|　また　いつでも　おこしください。|<turn_end>": "Thank you for your visit. We look forward to|serving you again.|<turn_end>"
+  },
+  "7": {
+    "「では　もういちど　おえらびください。 |<break>": "Now, please choose again..<break>"
+  },
+  "8": {
+    "「申し訳ありませんが　<%sL_COIN_PRIZE>は|　これ以上　交換できません。|　ほかの品を　おえらびください。|<break>": "I'm sorry, but you can't exchange for any more|of <%sL_COIN_PRIZE>. Please choose|another item."
+  },
+  "9": {
+    "「では　<%sL_COIN_PRIZE>は|　これより　<pc>さんの物です！|<end>": "<%sL_COIN_PRIZE> now belongs|to you, <pc>!<end>"
+  },
+  "10": {
+    "「<pc>さんは　現在　カジノコインを|　<%nL_MY_COIN>枚　お持ちです。|<br>|「この中に　欲しいものがございましたら|　カジノコインと　交換してさしあげます。|　ただし　青い文字の品物は　一度きりです。|<break>": "You currently have <%dL_MY_COIN> Casino Tokens. If|there's anything here you're interested in,|I'll exchange it to you for Casino Tokens.|<br>|However, items marked in blue can only be|exchanged for once.|<break>"
+  },
+  "11": {
+    "「ここは　カジノコインとひきかえに|　景品をおわたしする　交換所です。|<bw_break>": "Here you can exchange your Casino Tokens for|prizes.|<bw_break>"
+  },
+  "12": {
+    "「残念ながら　<%sL_COIN_PRIZE>は|　<%sL_STORAGE>に　入りきらないようです。|　他の景品をおえらびください。|<break>": "I'm sorry, but the <%sL_COIN_PRIZE> won't|fit in your <%sL_STORAGE>. Please choose|another prize.|<break>"
+  },
+  "13": {
+    "「<pc>さんは　現在　カジノコインを|　<%dL_MY_COIN>枚　お持ちですが　景品と　交換しますか？|<yesno>": "You currently have <%dL_MY_COIN> Casino Tokens.|Would you like to exchange them for prizes?|<yesno>"
+  },
+  "14": {
+    "「<pc>さんは　現在……|<auto_bw=800>|「あら？　１枚もカジノコインを|　お持ちではありませんね。|<br>|「カジノコインを　お持ちでしたら|　この中の景品と　交換してさしあげます。|<break>": "You currently have...|<auto_bw=800>|Huh? You don't have even a single Casino|Token.|<br>|If you want any of these prizes listed,|you'll need Casino Tokens.|<break>"
+  },
+  "15": {
+    "「<%sL_COIN_PRIZE>ですね。|　これは　<%sL_SYOKUNIN>でないと|　扱えないレシピですが　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? This recipe can|only be learned by <%sL_SYOKUNIN>. Is|that all right?|<yesno><break>"
+  },
+  "16": {
+    "<pipipi_off><pc>は|<%sL_COIN_PRIZE>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off><pc> received <%sL_COIN_PRIZE>!|<se_nots System 7>|<end>"
+  },
+  "17": {
+    "「<%sL_COIN_PRIZE>ですね、|　これは　<%sL_SYOKUNIN>でないと|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? This recipe can|only be created by <%sL_SYOKUNIN>. Is|that all right?|<yesno><break>"
+  },
+  "18": {
+    "「<%sL_COIN_PRIZE>を　交換するには|　カジノコインの枚数が足りません。|　他の景品をおえらびください。|<break>": "You don't have enough Casino Tokens to|exchange for that. Please choose another item.|<break>"
+  },
+  "19": {
+    "「<%sL_COIN_PRIZE>ですね。|　これは　<%sL_GENDER>性でないと|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? This can only|be equipped by a <%sL_GENDER>. Is|that all right?|<yesno><break>"
+  },
+  "20": {
+    "「<%sL_COIN_PRIZE>ですね。|　これは　<pc>さんの職業では|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? This can't be|equipped by your current vocation. Is that|all right?|<yesno><break>"
+  },
+  "21": {
+    "「<%sL_COIN_PRIZE>ですね。|　これは　<pc>さんのレベルでは|　まだ装備できませんが　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? This can't be|equipped at your current level. Is that|all right?|<yesno><break>"
+  },
+  "22": {
+    "「<%sL_COIN_PRIZE>ですね。|　これは　<%sL_RACE>でないと|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? This can only|be equipped by a <%sL_RACE>. Is|that all right?|<yesno><break>"
+  },
+  "23": {
+    "「他にも　交換したい品は|　ございますか？|<break>": "Is there anything else you'd like to exchange|for?<break>"
+  },
+  "24": {
+    "「<%sL_COIN_PRIZE>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "It seems you already know <%sL_COIN_PRIZE>.|Do you still want it?|<yesno><break>"
+  },
+  "25": {
+    "「<%sL_COIN_PRIZE>は|　取り引き不可の　スカウトの書ですが|　交換しても　よろしいですか？|<yesno 2><break>": "<%sL_COIN_PRIZE> is a Scout Book|you can't trade to others. Is that all right?|<yesno 2><break>"
+  },
+  "26": {
+    "「<%sL_COIN_PRIZE>を　<%nL_NUM>個　ですね。|　カジノコイン<%nL_PRICE>枚になりますが|　よろしいですか？|<yesno><break>": "<%dL_NUM> <%sL_COIN_PRIZE>, was it? That|will be <%dL_PRICE> Casino Tokens, please.|<yesno><break>"
+  },
+  "27": {
+    "<pipipi_off><pc>は|<%sL_COIN_PRIZE>を　<%nL_NUM>個　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off><pc> received <%dL_NUM> <%sL_COIN_PRIZE>!|<se_nots System 7>|<end>"
+  },
+  "28": {
+    "<pipipi_off><pc>は|<%sL_COIN_PRIZE>（だいじなもの）を|手に入れた！|<me 60>|<end>": "<pipipi_off><pc> received <%sL_COIN_PRIZE> (Key Item)!<me 60>|<end>"
+  },
+  "29": {
+    "「<%sL_COIN_PRIZE>は　３ｒｄディスクの|　レジストレーションコードが入力されていないと|　使うことができないどうぐです。|<br>|「<%sL_COIN_PRIZE>と　交換するには|　カジノコイン<%nL_PRICE>枚が　必要ですが|　本当に　交換して　よろしいですか？|<yesno 2><break>": "<%sL_COIN_PRIZE> can only be used if the|registration code for the 3rd disc is|entered... I need <%nL_PRICE> Casino Tokens to|<br>|exchange for <%sL_COIN_PRIZE>, are you sure|you want to do this?<yesno 2><break>"
+  },
+  "30": {
+    "「ここは　カジノコインとひきかえに|　景品をおわたしする　交換所です。|<br>|「イベント用の　景品の交換は|　エントランス北側の　カウンターで|　受け付けておりますので　ご注意ください。|<bw_break>": "Here you can exchange your Casino Tokens for|prizes.|<br>|Please note that event prizes must be|exchanged at the counter near the north-side|entrance.<bw_break>"
+  },
+  "31": {
+    "「<%sL_COIN_PRIZE>の　しぐさは|　もう　覚えているので　交換できません。|　ほかの景品を　おえらびください。|<break>": "I see you've already learned the|<%sL_COIN_PRIZE>. Please choose|another item.|<break>"
+  },
+  "32": {
+    "「<%sL_COIN_PRIZE>の　立ちかたは|　もう　覚えているので　交換できません。|　ほかの景品を　おえらびください。|<break>": "I see you've already learned the| <%sL_COIN_PRIZE>. Please choose|another item.|<break>"
+  },
+  "33": {
+    "「<%sL_COIN_PRIZE>は|　すでに読んだことがあるので　交換できません。|　ほかの景品を　おえらびください。|<break>": "I see you've already learned the| <%sL_COIN_PRIZE>. Please choose|another item.|<break>"
+  },
+  "34": {
+    "「<%sL_COIN_PRIZE>の　立ちかたは|　もう　覚えているようですが|　これで　よろしいですか？|<yesno 2><break>": "I see you've already learned the| <%sL_COIN_PRIZE>. Do you|still want it?|<yesno 2><break>"
+  },
+  "35": {
+    "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しますか？|<yesno 2><break>": "It seems you've already made a replica of that|item. Are you sure you still want it?|<yesno 2><break>"
+  }
+}

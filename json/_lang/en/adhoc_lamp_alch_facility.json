@@ -1,0 +1,305 @@
+{
+  "1": {
+    "<%sL_SOUBI><color_yellow><%sL_STAR><color_white>に付けられる|錬金効果の数が　上限に達した！ |<br>|他の装備品を　錬金しますか？|<yesno><close>": ""
+  },
+  "2": {
+    "<%sL_SOUBI><%sL_PLUSNUM>には|これ以上　錬金効果を付けられません。|<end>": "I can't add any more alchemical effects to|<%sL_SOUBI><%sL_PLUSNUM>...<end>"
+  },
+  "3": {
+    "<%sL_SKILL_NAME>設備がある。|<%sL_SKILL_NAME>のレシピを覚えれば　ここで|装備品に特殊な効果を付ける　錬金ができそうだ。": "<%sL_SKILL_NAME> equipment... If you learn|the recipe for <%sL_SKILL_NAME>, you can|alchemize special effects on equipment|<br>|here..."
+  },
+  "4": {
+    "<%sL_SKILL_NAME>設備がある。|錬金効果を付けられる装備品を持っていれば|ここで　錬金ができそうだ。": "<%sL_SKILL_NAME>Equipment... If you have|equipment that can add an alchemical effect,|you can alchemize it here..."
+  },
+  "5": {
+    "<%sL_SKILL_NAME>設備がある。|<%sL_SKILL_NAME>職人であれば　ここで|装備品に特殊な効果を付ける　錬金ができそうだ。": "<%sL_SKILL_NAME>Equipment...|<%sL_SKILL_NAME>If you're a craftsman, this|is where you can alchemize equipment to|<br>|create special effects..."
+  },
+  "6": {
+    "<%sL_SKILL_NAME>設備がある。|<%sL_TOOL_BASE_NAME>があれば　ここで|装備品に特殊な効果を付ける　錬金ができそうだ。": "<%sL_SKILL_NAME> equipment... If you have|<%sL_TOOL_BASE_NAME>, you can alchemize|equipment here to give it special effects..."
+  },
+  "7": {
+    "パルプンテが　起こった！|ふしぎなチカラが　集まってくる……！<bw_break>": "Pulpunkt is happening! Magical powers are|gathering...<bw_break>"
+  },
+  "8": {
+    "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
+  },
+  "9": {
+    "<pc>が使っていた|<%sL_SYOKUNIN_TOOL>は　限界がきて|こわれてしまった……。<end>": "The <%sL_SYOKUNIN_TOOL> that|<pc> was using has reached its|limit and is now broken.<end>"
+  },
+  "10": {
+    "これ以上　予知はできない！": "There's no more predictions!"
+  },
+  "11": {
+    "<%sL_KOUKA>を付けるには|<pc>の　<%sL_SKILL_NAME>職人レベルが|<%nL_HITUYOU_LV>以上　必要です。|<end>": ""
+  },
+  "12": {
+    "しかし　<%sL_SYOKUNIN_TOOL>のおかげで|<%sL_SOUBI><%sL_PLUSNUM>には　何の効果も付かず|素材も　失わなかった！<bw_break>": "But thanks to <%sL_SYOKUNIN_TOOL>,|<%sL_SOUBI><%sL_PLUSNUM> didn't have any|effect, didn't lose any material!<bw_break>"
+  },
+  "13": {
+    "<%sL_SOUBI><%sL_PLUSNUM>には|できのよさの　<color_yellow>★<color_white>がないので|錬金効果を　付けられません。|<end>": "<%sL_SOUBI><%sL_PLUSNUM> has a|The quality of the workmanship<color_yellow>★<color_white>So I can't add alchemical effects...<end>"
+  },
+  "14": {
+    "<speed=0><pc>は　<%sL_SKILL_NAME>の特技を|おぼえていない！": "<speed=0><pc> doesn't know the <%sL_SKILL_NAME> skill!"
+  },
+  "15": {
+    "<%sL_KOUKA>を付けるには|素材が　足りません。|<end>": "We don't have enough material to add|<%sL_KOUKA>...<end>"
+  },
+  "16": {
+    "<%sL_SOUBI><%sL_PLUSNUM>に|<%sL_KOUKA>の　錬金効果を付けますか？|<select>|ふつうに付ける|いっぱつしあげ|<select_end><break>": ""
+  },
+  "17": {
+    "おや？　<%sL_SYOKUNIN_TOOL>が…………？|<br>|黄色に　かがやきはじめた！|<br>|なんと　成功エリアが　すべて|大成功エリアになった！": "Hmm? <%sL_SYOKUNIN_TOOL> is...? It started to|glow yellow! Oh, my god, all the success|areas became big success areas!"
+  },
+  "18": {
+    "おや？　<%sL_SYOKUNIN_TOOL>が…………？|<br>|黄色に　かがやきはじめた！|<br>|なんと　大成功エリアが　３倍に広がった！": "Hmm? <%sL_SYOKUNIN_TOOL> is...? It started to|glow yellow! What a surprise! The area of|great success has tripled in size!"
+  },
+  "19": {
+    "おや？　<%sL_SYOKUNIN_TOOL>が…………？|<br>|むらさき色に　かがやきはじめた！|<br>|なんと　失敗エリアが　すべて|パルプンテエリアになった！": "Hmm? <%sL_SYOKUNIN_TOOL> is...? It started to|glow in purple! Oh no, all the failed areas|have turned into Pulpunkt areas!"
+  },
+  "20": {
+    "おや？　<%sL_SYOKUNIN_TOOL>が…………？|<br>|白く　かがやきはじめた！|<br>|なんと　この錬金に失敗しても|弱い効果が付かず　さらに|素材も失わないようになった！": "Hmm? <%sL_SYOKUNIN_TOOL> is...? It started to|glow white! What's more, even if I fail this|alchemy, I won't get any weak effects, and I|<br>|won't lose any materials!"
+  },
+  "21": {
+    "どの装備品に　錬金効果を付けますか？<break>": ""
+  },
+  "22": {
+    "現在　<%sL_SKILL_NAME>職人レベル<%dL_SYOKUNIN_LV>です。|<%sL_SOUBI><%sL_PLUSNUM>に付けたい|錬金効果を　選んでください。<break>": "You are currently <%sL_SKILL_NAME> craftsman|level <%dL_SYOKUNIN_LV... Choose the alchemy|effect you want to add to|<br>|<%sL_SOUBI><%sL_PLUSNUM>...<break>"
+  },
+  "23": {
+    "<speed=0>成功エリアがないため|この特技は　使えません。": "<speed=0>There's no success area, so you can't use|this feat..."
+  },
+  "24": {
+    "<%sL_SOUBI><%sL_PLUSNUM>に付けられる|<%sL_SKILL_NAME>レシピを　覚えていません。|<end>": "Remember the <%sL_SKILL_NAME> recipe that|gets attached to <%sL_SOUBI><%sL_PLUSNUM>...<end>"
+  },
+  "25": {
+    "<%sL_SKILL_NAME>とは　<%sL_TOOL_BASE_NAME>のフタにある|ルーレットを使って　装備品に|特殊な錬金効果を　付けることです。|<br>|ただし　錬金効果を付けられる装備品は|できのよさに　<color_yellow>★<color_white>が付いている物だけです。|<color_yellow>★<color_white>の数だけ　錬金効果を付けられます。|<br>|錬金効果を付けたい装備品と　付ける錬金効果を|選んだら　ルーレットの針を　回してください。|青いエリアに針が止まれば　錬金成功です！|<br>|グレーのエリアに針が止まると　錬金失敗です。|失敗してしまうと　選んだ錬金効果よりも|ずっと弱い効果が　付いてしまいます。|<br>|錬金成功の確率を上げるためには|特技を使います。錬金の特技は|集中力がある限り　使うことができます。|<br>|錬金ギルドで売っている　錬金専用の装備品には|ルーレットを回さず　確実に　せいこうが付く|いっぱつしあげが できます。|<br>|なお　錬金をしている途中に|通信エラーなどで　ゲームが中断した場合|錬金は成功しませんので　ご注意ください。|<end>": "<%sL_SKILL_NAME> is a roulette on the cover|of <%sL_TOOL_BASE_NAME> that allows you to|add special alchemical effects to your|<br>|equipment. However, the quality of the|equipment to which you can apply the alchemy|effect<color_yellow>★<color_white>It's the one with the...<color_yellow>★<color_white>You can add as many alchemical effects as|there are... Choose the equipment you want to|alchemize and the alchemical effect you want|<br>|to add, then spin the roulette needle... If|the needle stops in the blue area, you've|achieved an alchemy! If the needle stops in|<br>|the gray area, you've lost your alchemy. If|you fail, you'll get a much weaker alchemy|effect than the one you chose. To increase|<br>|the chance of alchemy success, you can use|special skills... You can use alchemy skills|as long as you have concentration. The|<br>|smelting equipment sold in the smelting guild|does not require a roulette wheel. If the|game is interrupted by a communication error|<br>|while you are smelting, the smelting will not|succeed.<end>"
+  },
+  "26": {
+    "大成功確率プラスを使うと|ルーレットの　成功エリアの一部が|大成功エリアに　変わります。": ""
+  },
+  "27": {
+    "大成功シャッフルを使うと|ルーレットの　大成功エリアの|位置が変わります。": ""
+  },
+  "28": {
+    "結果予知を使うと　ルーレットの針の|止まる範囲が　大まかに見えるようになり|盤面を　回転させられるようになります！|<br>|予知の特技を使ったら　スタート前に|<rotate>で　盤面を回転させて|ねらいを　つけましょう。": "When you use the Predict Outcome skill,|you'll be able to see roughly where the|roulette needle will stop, and you'll be able|<br>|to spin the board! If you use the prediction|skill, before you start<rotate>I'm going to rotate the board and aim at|the..."
+  },
+  "29": {
+    "覚えた時の説明文": ""
+  },
+  "30": {
+    "超・結果予知を使うと　ルーレットの針の|止まる範囲が　よく見えるようになります。|重ねがけで　さらに　ねらいをしぼりこめます。": "With super-resolve, you'll be able to see|where the roulette wheel stops. You'll be|able to focus more on your target..."
+  },
+  "31": {
+    "パルプンテプラスを使うと|ルーレットの　成功エリアの一部が|パルプンテエリアに　変わります。": "By using Hocus Pocus Plus, a|section of the Success Area will|become Hocus Pocus Area."
+  },
+  "32": {
+    "<speed=0>失敗エリアがないため|この特技は　使えません。": "<speed=0>Since there's no area of failure, you can use|this feat..."
+  },
+  "33": {
+    "成功確率プラスを使うと|ルーレットの　失敗エリアの一部が|成功エリアに　変わります。": "When you use success probability plus, it|turns some of the roulette's failure areas|into success areas."
+  },
+  "34": {
+    "<speed=0>スタートして　よろしいですか？|<yesno><close>": "<speed=0>May we begin?<yesno><close>"
+  },
+  "35": {
+    "<%sL_SKILL_NAME>の遊び方の説明です！|<br>|ルーレットの針を回して|針が青のエリアに止まれば　錬金成功！|グレーのエリアなら　錬金失敗となります。|<br>|ルーレットの針を回す前に|集中力を使って　錬金を成功させるための|様々な特技が　使えます。|<br>|集中力が切れると　特技は使えなくなります。|『スタート』で　ルーレットの針を回し|あとは運を天にまかせて　祈りましょう。|<br>|特技は　職人レベルが上がると習得します。|では　成功目指して　がんばってください！|<end>": "Here's an explanation of how to play|<%sL_SKILL_NAME>! If you spin the roulette|needle and the needle stops at the blue area,|<br>|your smelting succeeds! If the needle stops|in the gray area, the smelting fails...|Before spinning the roulette needle, you can|<br>|use your concentration to use various skills|to succeed in smelting. If you lose your|concentration, you can't use the specials.|<br>|Start, turn the roulette wheel, and pray for|luck. Special skills can be learned at higher|levels of skill. Well, good luck with that!<end>"
+  },
+  "36": {
+    "成功率１％アップは|覚えているだけで　常に成功エリアが|１％分　増えるようになります。": "Just remember, a 1% increase in success rate|will always increase your success area by|1%..."
+  },
+  "37": {
+    "成功率２％アップは|覚えているだけで　常に成功エリアが|２％分　増えるようになります。": "Just remember, a 2% increase in your success|rate will always increase your success area|by 2%."
+  },
+  "38": {
+    "成功率３％アップは|覚えているだけで　常に成功エリアが|３％分　増えるようになります。": "Just remember, a 3% increase in your success|rate will always increase your success area|by 3%."
+  },
+  "39": {
+    "成功率３％アップは|覚えているだけで　常に成功エリアが|３％分　増えるようになります。": "Just remember, a 3% increase in your success|rate will always increase your success area|by 3%."
+  },
+  "40": {
+    "成功率５％アップは|覚えているだけで　常に成功エリアが|５％分　増えるようになります。": "Just remember, a 5% increase in your success|rate will always increase your success area|by 5%."
+  },
+  "41": {
+    "成功率１％アップは|覚えているだけで　常に成功エリアが|１％分　増えるようになります。": "Just remember, a 1% increase in success rate|will always increase your success area by|1%..."
+  },
+  "42": {
+    "成功率２％アップは|覚えているだけで　常に成功エリアが|２％分　増えるようになります。": "Just remember, a 2% increase in your success|rate will always increase your success area|by 2%."
+  },
+  "43": {
+    "成功率３％アップは|覚えているだけで　常に成功エリアが|３％分　増えるようになります。": "Just remember, a 3% increase in your success|rate will always increase your success area|by 3%."
+  },
+  "44": {
+    "成功率３％アップは|覚えているだけで　常に成功エリアが|３％分　増えるようになります。": "Just remember, a 3% increase in your success|rate will always increase your success area|by 3%."
+  },
+  "45": {
+    "成功率５％アップは|覚えているだけで　常に成功エリアが|５％分　増えるようになります。": "Just remember, a 5% increase in your success|rate will always increase your success area|by 5%."
+  },
+  "46": {
+    "<speed=0>大成功エリアは　これ以上　増やせません。": "<speed=0>We can't add any more areas of great|success..."
+  },
+  "47": {
+    "<speed=0>パルプンテエリアは　これ以上　増やせません。": "<speed=0>We can't add any more to the Pulpunkt area..."
+  },
+  "48": {
+    "<%sL_SOUBI><%sL_PLUSNUM>が|<%sL_KOUKA>の効果で　うめつくされる！|<bw_break>": "<%sL_SOUBI><%sL_PLUSNUM> is covered by the|effects of <%sL_KOUKA>!<bw_break>"
+  },
+  "49": {
+    "<speed=0>成功エリアは　これ以上　増やせません。": "<speed=0>We can't add any more success areas..."
+  },
+  "50": {
+    "覚えた時の説明文": ""
+  },
+  "51": {
+    "パルプンチェンジを使うと|ルーレットの　パルプンテエリアの一部が|大成功エリアに　変わります。": "When you use the pulpun change, a portion of|the pulpuncture area of the roulette wheel is|transformed into the grand success area..."
+  },
+  "52": {
+    "<speed=0>パルプンテエリアがないため|この特技は　使えません。": "<speed=0>Since there is no Pulpunkt area, this feat is|not available..."
+  },
+  "53": {
+    "使う<%sL_TOOL_BASE_NAME>を　選んでください。|<break>": "Please select the <%sL_TOOL_BASE_NAME> you|want to use...<break>"
+  },
+  "54": {
+    "成功シュートを使うと|ルーレットの針の先にある　失敗エリアが|成功エリアに　変わります。": "When you use the success chute, the failure|area on the end of the roulette needle turns|into the success area."
+  },
+  "55": {
+    "<speed=0>ルーレットの針の先が　失敗エリアではないため|この特技は　使えません。": "<speed=0>Since the end of the roulette needle isn't in|the failure area, this trick works..."
+  },
+  "56": {
+    "<%sL_PC>から　<%dL_GOLD> Gもらった。": "<%sL_PC> to <%dL_GOLD> G also..."
+  },
+  "57": {
+    "錬金の依頼が　中止されたため|錬金は成功しませんでした。|<bw_break>": "The smelting request has been canceled. The|smelting will not succeed...<bw_break>"
+  },
+  "58": {
+    "<%sL_KOUKA>は|この職人どうぐでは　付けられません。|<bw_break>": "<%sL_KOUKA> can be added by this craftsman's|tool...<bw_break>"
+  },
+  "59": {
+    "<%sL_KOUKA>は|この職人どうぐでは　付けられません。|<%sL_SEASON_TOOL>を　使いましょう。|<bw_break>": "<%sL_KOUKA> can't be added with this|craftsman's tool... <%sL_SEASON_TOOL> is|used...<bw_break>"
+  },
+  "60": {
+    "今日の依頼は　全て達成済みです。|<end>": "All of today's requests have been|fulfilled...<end>"
+  },
+  "61": {
+    "<pc>の使える|<%sL_SYOKUNIN_TYPE>設備が　近くにないため|ここで　錬金はできません。": "<pc> We can't smelt here because we don't have a|<%sL_SYOKUNIN_TYPE> facility nearby..."
+  },
+  "62": {
+    "<%sL_SYOKUNIN_TYPE>の依頼が　キャンセルされました。": "The request for <%sL_SYOKUNIN_TYPE> has been|cancelled..."
+  },
+  "63": {
+    "<%sL_KOUKA>を付けられる|装備品を　持っていません。|<end>": "I have a piece of equipment that can be|marked with <%sL_KOUKA>...<end>"
+  },
+  "64": {
+    "その依頼は　既に達成済みです。|<end>": "That request has already been fulfilled...<end>"
+  },
+  "65": {
+    "どの装備品に|<%sL_KOUKA>を付けますか？<break>": ""
+  },
+  "66": {
+    "現在　<%sL_SKILL_NAME>職人レベル<%dL_SYOKUNIN_LV>です。|付けたい錬金効果を　選んでください。<break>": "You are currently <%sL_SKILL_NAME> craftsman|level <%dL_SYOKUNIN_LV... Select the alchemy|effect you want to add...<break>"
+  },
+  "67": {
+    "<yesno><close>": "<yesno><close>"
+  },
+  "68": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<select_end><break>"
+  },
+  "69": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<select_end><break>"
+  },
+  "70": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<select_end><break>"
+  },
+  "71": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<select_end><break>"
+  },
+  "72": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<%sL_MENU_NO_6>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<%sL_MENU_NO_6>|<select_end><break>"
+  },
+  "73": {
+    "<%sL_SKILL_NAME>設備がある。|ここで　装備品に特殊な効果を付ける|錬金ができそうだ。|<break>": "<%sL_SKILL_NAME> Equipment... Here, you can|alchemize special effects on your|equipment...<break>"
+  },
+  "74": {
+    "錬金を　続けますか？|<break>": ""
+  },
+  "75": {
+    "今日できる　ギルドの依頼は無いようです。|<end>": "I can do it today. There's no guild|request...<end>"
+  },
+  "76": {
+    "<%sL_SOUBI><%sL_PLUSNUM>は|ロック中の装備品ですが|本当に　錬金効果を付けますか？|<yesno 2><break>": ""
+  },
+  "77": {
+    "<%sL_SYOKUNIN_TOOL>は|ロック中ですが　本当に使いますか？|<yesno 2><break>": "<%sL_SYOKUNIN_TOOL> is locked, are you sure|you want to use it?<yesno 2><break>"
+  },
+  "78": {
+    "<%sL_KOUKA>のレシピは|まだ　覚えていません。<end>": "I still don't remember the recipe for|<%sL_KOUKA>...<end>"
+  },
+  "79": {
+    "必殺率　小アップは|覚えているだけで　常に必殺技の出る確率が|少しだけ　上がるようになります。": "Just by remembering it, you'll always have a|slight chance of getting a special move."
+  },
+  "80": {
+    "必殺率　小アップは|覚えているだけで　常に必殺技の出る確率が|少しだけ　上がるようになります。": "Just by remembering it, you'll always have a|slight chance of getting a special move."
+  },
+  "81": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_SOUBI><%sL_PLUSNUM>に|<%sL_KOUKA>の　錬金効果を付けますか？|<yesno><close>": "Can I add the alchemical effect of|<%sL_KOUKA> to <%sL_SOUBI><%sL_PLUSNUM> using|the materials in the Depository and Roof|<br>|Storage?<yesno><close>"
+  },
+  "82": {
+    "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|<%sL_SKILL_NAME>が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now use <%sL_SKILL_NAME> from not|only the Animal Bag, but also from the|Storage Area and the Roof Storage Area! When|<br>|you select a recipe that doesn't have enough|materials, you can use the materials items in|the Storage Area and Under the Roof...<color_white>|<end>"
+  },
+  "83": {
+    "予期せぬエラーにより|実行することが　できませんでした。|<end>": "Due to an unforeseen error, we are unable to|execute...<end>"
+  },
+  "84": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って|<%sL_KOUKA>の　錬金効果を付けますか？|<yesno><close>": "Do you want to add the <%sL_KOUKA> alchemy|effect using the materials in the Storage and|Roof Storage?<yesno><close>"
+  },
+  "85": {
+    "超大成功率プラスを使うと|ルーレットの　大成功エリアの一部が|超大成功エリアに　変わります。|<br>|超大成功エリアに　針が止まると|大成功の中で　最も高い効果値の|錬金効果が　必ず付きます！": "When you use the Super Success Rate Plus, a|portion of the roulette's super success area|turns into a super success area... When the|<br>|needle stops in the super-success area, the|highest alchemy effect of all the super-|successes will be applied."
+  },
+  "86": {
+    "<speed=0>大成功エリアがないため|この特技は　使えません。": "<speed=0>Since there is no area of great success, this|feat can be used..."
+  },
+  "87": {
+    "<speed=0>超大成功エリアは　これ以上　増やせません。": "<speed=0>We can't add any more super-successful areas|to the..."
+  },
+  "88": {
+    "<speed=0><%sL_KOUKA>の　レシピでは|この特技は　使えません。": "<speed=0>In the recipe for <%sL_KOUKA>, this trick|works..."
+  },
+  "89": {
+    "パルシャッフルを使うと|ルーレットの　パルプンテエリアの|位置が変わります。": "When you use the pal shuffle, it changes the|position of the palpunte area of the roulette|wheel..."
+  },
+  "90": {
+    "<speed=0>位置を変えられる|大成功エリアが　ありません。": "<speed=0>There's a large success area that can be|repositioned..."
+  },
+  "91": {
+    "<speed=0>位置を変えられる|パルプンテエリアが　ありません。": "<speed=0>There's a Pulpunkt area that can be|repositioned..."
+  },
+  "92": {
+    "今週の職人回数が　上限に達したので|これ以上　錬金はできません。|<br>|日曜日の　朝６時以降になると|ふたたび　錬金が　できるようになります。|<end>": "I've reached my limit for this week, so I|can't smelt any more... On Sunday mornings|after 6am, you'll be able to smelt again...<end>"
+  },
+  "93": {
+    "<%sL_SKILL_NAME>設備がある。|ここで　錬金ができそうだ。|（今週は　あと<%nL_PLAYABLE>回　錬金ができます。）|<break>": "<%sL_SKILL_NAME> Equipment... Here, you can|smelt... （<%nL_PLAYABLE> more times this|week...)<break>"
+  },
+  "94": {
+    "錬金を　続けますか？|（今週は　あと<%nL_PLAYABLE>回　錬金ができます。）|<break>": "Would you like to continue your alchemy? （I|have one more smelting to do this week.)<break>"
+  },
+  "95": {
+    "まれに集中力回復は|覚えているだけで　集中力が残り少なくなった時に|低確率で　集中力が３０回復します。": ""
+  },
+  "96": {
+    "<%sL_SOUBI><color_yellow><%sL_STAR><color_white>に付けられる|錬金効果の数が　上限に達した！ |<br>|他の装備品を　錬金しますか？|（今週は　あと<%nL_PLAYABLE>回　錬金ができます。）|<yesno><close>": "<%sL_SOUBI><color_yellow><%sL_STAR><color_white>The number of smelting effects on the item|has reached its limit! Would you like to|smelt another piece of equipment? （You have|<br>|<%nL_PLAYABLE> more smelting to do this|week...)<yesno><close>"
+  },
+  "97": {
+    "いっぱつしあげが　できない装備品です。|いっぱつしあげ用の装備品は　錬金ギルド内の|武器防具屋から　購入できます。": "Equipment that can't be upgraded... Equipment|that can be used for a one-shot upgrade can|be purchased from the Weapons and Armor Shop|<br>|in the Alchemy Guild."
+  },
+  "98": {
+    "ここでは　いっぱつしあげは　できません。|<end>": "I can't do a single raise here...<end>"
+  },
+  "99": {
+    "大成功品は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "I can't give you the big prize, but may I|give you a one-time raise?<yesno><close>"
+  },
+  "100": {
+    "パルプンシュートを使うと|ルーレットの針の先にある　成功エリアが|パルプンテエリアに　変わります。": ""
+  },
+  "101": {
+    "<speed=0>ルーレットの針の先が　成功エリアではないため|この特技は　使えません。": ""
+  }
+}

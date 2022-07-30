@@ -1,0 +1,98 @@
+{
+  "1": {
+    "やりなおしの宝珠を　捧げることで|スキルの振り直しが可能です。|スキルを振り直しますか？|<yesno><close>": "By offering the Pearl of Redemption, you can|reassign your skills... Would you like to|reassign your skills?<yesno><close>"
+  },
+  "2": {
+    "<%sM_job>の　<%sM_skill1><%sM_01>を振り直すと|<%dL_Spoint>ポイントが　<%sM_job>に戻ります。|<br>|ただし　マスタースキルポイントと|職業クエストポイントは　ここでは戻りません。|スキル振り直しを　実行してもよいですか？|<yesno><close>": "If you reassign <%sM_skill1><%sM_01> in|<%sM_job>, <%dL_Spoint> points will return to|<%sM_job>... But master skill points and|<br>|profession quest points will be returned|here... Can I perform a skill reassignment?<yesno><close>"
+  },
+  "3": {
+    "やりなおしの宝珠を持っていると|スキルの振り直しが　できるようだ。|<end>": "If you have the Pearl of Redemption, you can|reassign your skills...<end>"
+  },
+  "4": {
+    "振り直すスキルを　選んでください。|<break>": "You can choose which skills to reassign...<break>"
+  },
+  "5": {
+    "<pc>は　炎にむかって|祈りを捧げた。|<end>": "<pc> is praying to the fire...<end>"
+  },
+  "6": {
+    "やりなおしの宝珠は　青い炎に|吸い込まれていった……。|<end>": "The Pearl of Redemption was sucked into a|blue flame...<end>"
+  },
+  "7": {
+    "全やりなおしの宝珠を捧げると|全てのスキルが　振り直されます。|<br>|振り直し後も　設定した呪文や特技の表示内容は|一度変更するまで　今の状態が記憶されます。|全てのスキルを　振り直しますか？|<yesno2><close>": "If you give the Pearl of Redo, all your|skills will be reassigned. Even after you've|reassigned them, the spells and feats you've|<br>|set will be remembered until you change them|again. Would you like to reassign all your|skills?<yesno2><close>"
+  },
+  "8": {
+    "「<%sC_ITEM>は　ひとつ|　<%nC_gold>ゴールドになるが|　この宝珠で　よいのだな？|<yesno><close>": "One <%sC_ITEM> would be <%nC_gold> gold, but|you're sure it's this pearl?<yesno><close>"
+  },
+  "9": {
+    "捧げる宝珠を　選んでください。|<break>": "Choose a jewel to offer...<break>"
+  },
+  "10": {
+    "「では　確かに　<%nC_gold>ゴールド受け取った。|　やりなおしの宝珠を　受け取るがいい。": "Well, then, you've certainly received|<%nC_gold> gold... I receive the Pearl of|Redemption..."
+  },
+  "11": {
+    "<pc>は|<%sC_ITEM>を　受け取った！<se_nots System 7>": "<pc> has received <%sC_ITEM>!|<se_nots System 7>"
+  },
+  "12": {
+    "「そうか……。|　では　必要になったら　また来るがいい。": "Okay, well... I'll come back when I need|you..."
+  },
+  "13": {
+    "「……ふむ。|　しかし　所持金が　足りないようだな。|　出直してくるがよい。": "..... But I don't have enough money... I'll|come back..."
+  },
+  "14": {
+    "「宝珠を　青い炎に捧げた後も|　呪文や特技の表示内容は　一度変更するまで|　今の状態が　記憶されているぞ。|<br>|「<%sC_ITEM>は　そなたの　かばんの中に|　入れておいたからな。また　必要になったら|　いつでも　ここへ来るがいい。": "Even after you sacrifice the Pearl to the|Blue Flame, your spells and feats will|remember their current state until you change|<br>|them. I've placed <%sC_ITEM> in your bag. If|you ever need it again, you can always come|back here..."
+  },
+  "15": {
+    "全やりなおしの宝珠は　青い炎に|吸いこまれていった……。|<end>": "The Pearl of Redemption was sucked into the|blue flames...<end>"
+  },
+  "16": {
+    "「……ふむ。|　しかし　そなたの持ち物が　いっぱいのようだ。|　かばんを空けて　出直してくるがよい。": "..... But your things are full... I'm gonna|go empty my bag and come back..."
+  },
+  "17": {
+    "<%sC_ITEM>を　持っていないようだ。": "You don't have <%sC_ITEM>..."
+  },
+  "18": {
+    "<select_se_off>|やりなおしの宝珠(3000Ｇ)|職やりなおしの宝珠(10000Ｇ)|全やりなおしの宝珠(30000Ｇ)|<select_end><break>": "<select_se_off>|Pearl of Redo (3000G)|Treasure of Job Redo (10000G)|Pearl of All Redo (30000G)|<select_end><break>"
+  },
+  "19": {
+    "青い炎が　神々しく燃えさかっている。": "A blue flame, burning like a god..."
+  },
+  "20": {
+    "「バグレア教会跡地に|　ガミルゴの護符を納めた　そなたには|　闘神ラダ・ガートの祝福が　与えられた。|<br>|「あの青い炎に　やりなおしの宝珠を捧げれば|　闘神ラダ・ガートが応え　選択したスキルか|　全てのスキルの　振り直しができるようになる。|<br>|「宝珠は　ここで有料で分けているが|　どちらかの宝珠を　買い求めるかね？|<break>": "You have placed the talisman of Gamilgo in|the ruins of the Church of Bagulea... and the|blessing of Rada Gath, the God of War... is|<br>|yours. By offering the Redeemer Pearl to that|blue flame, you will be answered by Radha|Gath, and you will be able to reassign any or|<br>|all of your skills. The pearls are sold|separately here for a fee. Would you like to|buy one of them?<break>"
+  },
+  "21": {
+    "「私は　オーグリード大陸　ガートラント王国が|　建国王　闘神ラダ・ガートの遺志を伝える者。|　より多くの旅人を救済するため　この地へ来た。|<br>|「そなたは　闘神ラダ・ガートの祝福を|　受けているようだな。スキルの振り直しは|　ここでもできるので　心配は無用だ。|<br>|「ガートラント王国から持ってきた　あの青い炎の|　種火に　やりなおしの宝珠を捧げれば|　選んだスキルか　全てのスキルを　振り直せる。|<br>|「宝珠は　ここで有料で分けているが|　どちらかの宝珠を　買い求めるかね？|<break>": "I am the founder of the kingdom of Gautland|on the continent of Aughrid... and the legacy|of Rada Gaut, the god of war. To save as many|<br>|travelers as possible. You've been blessed by|Rada Gath. You can reassign your skills here,|so don't worry. If you offer the Redemption|<br>|Pearl to the blue flame from the Kingdom of|Gartland, you can reassign any or all of your|skills... The pearls are sold separately here|<br>|for a fee, but would you like to buy one of|them?<break>"
+  },
+  "22": {
+    "「ガートラント王国から持ってきた　あの青い炎の|　種火に　やりなおしの宝珠を捧げれば|　選んだスキルか　全てのスキルを　振り直せる。|<br>|「宝珠は　ここで有料で分けているが|　どちらかの宝珠を　買い求めるかね？|<break>": "If you offer the Redeemer Pearl to the blue|flame from the Kingdom of Gartland, it will|restore your chosen skill or all of your|<br>|skills... The pearls are divided up here for|a fee, but would you like to buy one of them?<break>"
+  },
+  "23": {
+    "<select_se_off>|やりなおしの宝珠を捧げる|職やりなおしの宝珠を捧げる|全やりなおしの宝珠を捧げる|やめる|<select_end><break>": "<select_se_off>|I offer you the Pearl of Redemption|Offer the Pearl of Job Redo|I offer you the Pearl of All Redo|stop|<select_end><break>"
+  },
+  "24": {
+    "スキルポイントを　振りわけていないため|スキルの振り直しが　できません。": "You can't reassign skills because you haven't|allocated any skill points..."
+  },
+  "25": {
+    "捧げる宝珠を　選んでください。|マスタースキルポイントは　ここでは|振り直すことができません。|<break>": "Choose a bead to offer... Master skill points|can't be reallocated here...<break>"
+  },
+  "26": {
+    "ここで　スキルの振り直しが　できるようだ。|<color_yellow>※つかうものの　やりなおしの無限石からでも<color_white>|<color_yellow>　スキルポイントを　リセットできます。<color_white>|<br>|現在のスキルポイントを　リセットしますか？|<yesno><close>": "You can reassign your skills here...<color_yellow>Even if it's from an infinite number of redone stones<color_white>|<color_yellow>I can reset my skill points...<color_white>Do you want to reset your current skill|points?<yesno><close>"
+  },
+  "27": {
+    "「バグレア教会跡地の　迷える魂を|　救った　そなたには|　闘神ラダ・ガートの祝福が　与えられた。|<br>|「だいじなものから　その青い炎を使って|　やりなおしの宝珠を　捧げれば　町中なら|　どこでも　スキルの振り直しができる。|<br>|「やりなおしの宝珠は　ここ以外にも|　各町の道具屋で　有料で分けているが|　どちらかの宝珠を　買い求めるかね？|<break>": "You have rescued the lost souls of the former|church of Baguleia, and you have been blessed|by Radha Gath, the God of War. If you use the|<br>|blue flame from your precious, and offer the|Pearl of Redemption, you can reassign your|skills anywhere in town... You can find the|<br>|Pearl of Redemption here, or at any of the|other shops in town for a fee.<break>"
+  },
+  "28": {
+    "職やりなおしの宝珠を捧げると|選択した職業で　覚えているスキルが|振り直されます。|<br>|振り直し後も　設定した呪文や特技の表示内容は|一度変更するまで　今の状態が記憶されます。|選択した職業のスキルを　振り直しますか？|<yesno2><close>": "If you give the \"Redo Job Pearl\", the skills|you have for the selected profession will be|reassigned. Even after reassignment, the|<br>|spells and skills you have set will be|remembered until you change them... Do you|want to reassign the skills of the selected|<br>|profession?<yesno2><close>"
+  },
+  "29": {
+    "職やりなおしの宝珠は　青い炎に|吸いこまれていった……。|<end>": "The Pearl of Redemption was sucked into the|blue flames...<end>"
+  },
+  "30": {
+    "スキルを　振り直す職業を|選んでください。|<break>": ""
+  },
+  "31": {
+    "<%sM_job>の　<%sM_skill1><%sM_01>を振り直すと|<%dL_Spoint>ポイントが　<%sM_job>に戻ります。|<br>|ただし　マスタースキルポイントと|職業クエストポイントは　ここでは戻りません。|<br>|また　他のスキルへ　追加分のポイントも|一緒に　リセットされます。|<br>|スキル振り直しを　実行してもよいですか？|<yesno><close>": "If you reassign <%sM_skill1><%sM_01> in|<%sM_job>, <%dL_Spoint> points will return to|<%sM_job>... But master skill points and|<br>|profession quest points will be returned|here... And any additional points for other|skills will be reset as well. Can I perform a|<br>|skill reassignment?<yesno><close>"
+  },
+  "32": {
+    "<%sM_job>の　<%sM_skill1><%sM_01>を振り直すと|<%dL_Spoint>ポイントが　<%sM_job>に戻ります。|<br>|ただし　マスタースキルポイントと|他のスキルから　加算されているポイント|職業クエストポイントは　ここでは戻りません。|<br>|スキル振り直しを　実行してもよいですか？|<yesno><close>": "If I re-roll <%sM_skill1><%sM_01> in|<%sM_job>, <%dL_Spoint> points are returned|to <%sM_job>... However, master skill points|<br>|and points added from other skills, and|occupation quest points are not returned|here... Can I perform a skill reassignment?<yesno><close>"
+  }
+}

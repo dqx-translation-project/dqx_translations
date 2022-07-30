@@ -1,0 +1,239 @@
+{
+  "1": {
+    "<%sL_STORAGE_NAME>が　いっぱいなので|<%sL_CATEGORY_NAME>鍛冶が　できません。": "<%sL_STORAGE_NAME> is full, so you can't|do any <%sL_CATEGORY_NAME> smithing."
+  },
+  "2": {
+    "<speed=0>地金が　冷えきってしまった！<end>": "<speed=0>The bullion's gone cold!<end>"
+  },
+  "3": {
+    "<speed=0>たたきすぎて　地金が|ぼろぼろに　なってしまった…。<end>": "<speed=0>The bullion was so beat up, it started|falling apart...<end>"
+  },
+  "4": {
+    "そのカテゴリのレシピは|まだ　覚えていません。<end>": "You don't know any recipes of this category yet.<end>"
+  },
+  "5": {
+    "鍛冶設備がある。|武器鍛冶　防具鍛冶　道具鍛冶　いずれかの|職人であれば　ここで　アイテムが作れそうだ。": "It's blacksmithing equipment. If you're a|weaponsmith, armorsmith, or toolsmith, you|can make items here."
+  },
+  "6": {
+    "鍛冶設備がある。|鍛冶ハンマーがあれば|ここで　<%sL_CATEGORY_NAME>鍛冶が　できそうだ。": "It's blacksmithing equipment. If you have a|smithing hammer, you can do|<%sL_CATEGORY_NAME> smithing here."
+  },
+  "7": {
+    "<%sL_RECIPE>の素材を　失った……。<bw_break>": "We've lost the <%sL_RECIPE> material...<bw_break>"
+  },
+  "8": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
+  },
+  "9": {
+    "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
+  },
+  "10": {
+    "<pc>が使っていた|<%sL_SYOKUNIN_TOOL>は　限界がきて|こわれてしまった……。<end>": "The <%sL_SYOKUNIN_TOOL> that|<pc> was using has reached its|limit and is now broken.<end>"
+  },
+  "11": {
+    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|<yesno><close>": "Continue <%sL_CATEGORY_NAME>smithing?|<yesno><close>"
+  },
+  "12": {
+    "できのよさ<color_yellow>★★★<color_white>の物は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "Do you want to quick craft this item you have|a knack for? The item will not have a quality|of <color_yellow>★★★<color_white>.<yesno><close>"
+  },
+  "13": {
+    "<%sL_RECIPE>は|『いっぱつしあげ』が　できます。|<select>|ふつうに作る|いっぱつしあげ|<select_end><break>": "<%sL_RECIPE> can be quick crafted.|<select>|Craft Normally|Quick Craft|<select_end><break>"
+  },
+  "14": {
+    "<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "Craft the <%sL_RECIPE>?<yesno><close>"
+  },
+  "15": {
+    "<speed=0><pc>は　<%sL_CATEGORY_NAME>鍛冶のとくぎを|おぼえていない！": "<speed=0><pc> hasn't learned any <%sL_CATEGORY_NAME>|skills!"
+  },
+  "16": {
+    "<%sL_RECIPE>を作るには|素材が　足りません。<end>": "You don't have enough materials to craft|the <%sL_RECIPE>.<end>"
+  },
+  "17": {
+    "鍛冶設備がある。|<%sL_CATEGORY_NAME>のレシピを　覚えれば|ここで　<%sL_CATEGORY_NAME>鍛冶が　できそうだ。": "Blacksmithing equipment... If you learn the|recipe for <%sL_CATEGORY_NAME>, you can forge|<%sL_CATEGORY_NAME> here..."
+  },
+  "18": {
+    "<%sL_RECIPE>を　作るには|<pc>の　<%sL_CATEGORY_NAME>鍛冶職人レベルが|<%nL_HITUYOU_LV>以上　必要です。<end>": "To craft the <%sL_RECIPE>, your|<%sL_CATEGORY_NAME> smithing level must be at|least level <%dL_HITUYOU_LV>.<end>"
+  },
+  "19": {
+    "<%sL_RECIPE>のレシピは|まだ　覚えていません。<end>": "You don't know any <%sL_RECIPE> recipes|yet.<end>"
+  },
+  "20": {
+    "作る物の種類を　選んでください。|<break>": "Please select what you'd like to craft.|<break>"
+  },
+  "21": {
+    "現在　<%sL_CATEGORY_NAME>鍛冶職人レベル<%dL_SYOKUNIN_LV>です。|何を作りますか？<break>": "Your current <%sL_CATEGORY_NAME> level is <%dL_SYOKUNIN_LV>.|What do you want to craft?<break>"
+  },
+  "22": {
+    "<speed=0>これ以上は　冷やせない！": "<speed=0>Can't cool it down any more!"
+  },
+  "23": {
+    "鍛冶とは　素材となる地金をたたいて|目的のアイテムを　作ることです。|<br>|地金をたたくと　鍛え度が上がっていきます。|ゲージの　緑色の成功ゾーンをねらいましょう。|完成品のできのよさは　この精度で決まります。|<br>|鍛冶コマンドを実行するには　集中力が必要です。|集中力がなくなると　実行できなくなるので|ペース配分を考えて　コマンドを選びましょう。|<br>|地金には温度があり　温度が下がると|たたいても　鍛え度が上がりづらくなります。|地金が冷え切ってしまうと　その回は終了です。|<br>|なお　鍛冶をしている途中に|通信エラーなどでゲームが中断した場合|素材は　すべて失われますので　ご注意ください。|<end>": "Blacksmithing is the art of forging items by|striking the metal used to make them. As you|strike the metal, your forge level will|<br>|increase... Aim for the green success zone on|the gauge... The quality of the finished|product is determined by the accuracy... To|<br>|execute the forge command, you need to|concentrate. If you lose concentration, you|won't be able to execute them, so pace|<br>|yourself and choose your commands... The|metal has a temperature, and when the|temperature drops, it's hard to increase the|<br>|forge... If the metal gets too cold, the|session is over... Please note that if the|game is interrupted due to a communication|<br>|error while blacksmithing, all materials will|be lost...<end>"
+  },
+  "24": {
+    "ばくれつ打ちを使うと|一気に　６回　たたくことができますが|どこに当たるかは　わかりません！": "With the Bakuretsu-uchi, you can hit him six|times in one go, but you never know where|you'll hit him!"
+  },
+  "25": {
+    "冷やし込みを使うと|地金の温度を　３００度下げることができます。|すごく弱く　たたきたい時に　使いましょう。": "With the chill-in, you can lower the|temperature of the bullion by 300 degrees...|I use it when I want to hit something really|<br>|hard..."
+  },
+  "26": {
+    "てかげん打ちを使うと|半分のチカラで　たたくことができます。|細かい調整をしたい時に　便利です。": "If you use the Tekagen-uchi, you can hit it|with half the force... When you want to make|a fine adjustment..."
+  },
+  "27": {
+    "会心0.1％アップは|覚えているだけで　常に会心率が|0.1％分　上がるようになります。": "Just remember that 0.1% increase in|Perception will always increase your|Perception rate by 0.1%..."
+  },
+  "28": {
+    "会心0.2％アップは|覚えているだけで　常に会心率が|0.2％分　上がるようになります。": "Just remember that 0.2% increase in|Perception will always increase your|Perception rate by 0.2%..."
+  },
+  "29": {
+    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Just remember that 0.3% increase in|Perception will always increase your|Perception rate by 0.3%..."
+  },
+  "30": {
+    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Just remember that 0.3% increase in|Perception will always increase your|Perception rate by 0.3%..."
+  },
+  "31": {
+    "会心0.5％アップは|覚えているだけで　常に会心率が|0.5％分　上がるようになります。": "Just remember that 0.5% increase in|Perception will always increase your|Perception rate by 0.5%..."
+  },
+  "32": {
+    "みだれ打ちを使うと|一気に　４回　たたくことができますが|どこに当たるかは　わかりません！": "If you use the Midori-uchi, you can hit him|four times at once, but you never know where|you'll hit him!"
+  },
+  "33": {
+    "ねらい打ちを使うと|とぎすました　会心率の高い一発を放ちます。": "When you use the Aiming Strike, you'll hit a|target with a high rate of accuracy..."
+  },
+  "34": {
+    "上下打ちを使うと|上下の２マス分を同時に|やや強めのチカラで　鍛えられます。": ""
+  },
+  "35": {
+    "３倍打ちを使うと|ひとつのマスを　３倍のチカラで|大きく鍛えられます。": "If you use the triple strike, you can triple|the size of a single square..."
+  },
+  "36": {
+    "火力上げを使うと|地金の温度を　３００度上げることができます。|カタくて鍛えにくい時に　使いましょう。": "With the power up, you can raise the|temperature of the metal 300 degrees... It's|used when the metal is too hard to forge..."
+  },
+  "37": {
+    "４連打ちは|やや強めのチカラで　２×２の４マス分を|広く鍛える　豪快な技です！": "The quadruple strike is a powerful technique|that uses a slightly stronger force to train|four squares of 2 x 2."
+  },
+  "38": {
+    "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><break>": "<speed=0><%sL_RECIPE> to finish... Are you sure?<yesno><break>"
+  },
+  "39": {
+    "鍛冶の遊び方の説明です！|<br>|熱くなった地金をたたくと　鍛え度メーターが|上昇していきます。鍛え度メーターが　緑色の|成功ゾーンの中に入るように　調整してください。|<br>|すべてのゲージの鍛え度メーターが|緑色の　成功ゾーンの中に入ったら|『しあげる』コマンドで　完成です！|<br>|素材となる地金の温度が下がると|鍛え度が上がりづらくなります。地金の温度や|集中力に注意しながら　完成を目指しましょう！|<end>": "Here's how to play blacksmithing! As you|strike the hot metal, the forge meter will|rise... Adjust your forge meter so that it is|<br>|within the green success zone... When all|your gauges are within the green success|zone, you can use the \"Finish\" command. The|<br>|lower the temperature of the metal, the|harder it will be to raise the forge... Keep|an eye on the temperature of the metal and|<br>|your concentration as you work towards|completion!<end>"
+  },
+  "40": {
+    "２倍打ちを使うと|ひとつのマスを　２倍のチカラで|大きく鍛えられます。": "If you use the double strike, you can train a|single square with twice the power..."
+  },
+  "41": {
+    "超４連打ちは|２倍のチカラで　２×２の４マス分を|広く鍛える　とても豪快な技です！": "The Super Four-Strike is a very powerful|technique that uses twice the power to train|four squares of 2×2."
+  },
+  "42": {
+    "一度　コツをつかんだレシピは|『いっぱつしあげ』が　できるようになります。|<br>|『いっぱつしあげ』を使えば|すぐにアイテムを　完成させられますが|できのよさ<color_yellow>★★★<color_white>には　ならないので　ご注意を。|<br>|また　『ふつうに作る』時も|かいしんのてごたえの　出る確率が|少しアップします！": "Once you've got the hang of it, you'll be|able to use \"Ippatsu Shiage\"... You'll be|able to finish the item in no time at all.<color_yellow>★★★<color_white>So please be careful... Also, when you're|making a normal game, the chance of getting a|new challenge goes up a bit!"
+  },
+  "43": {
+    "<%sL_RECIPE>は|『いっぱつしあげ』が　できます。|<select 2>|ふつうに作る|いっぱつしあげ|<select_end><break>": "<%sL_RECIPE> has a \"one shot raise\"...<select 2>|cook conventionally|make-or-break job|<select_end><break>"
+  },
+  "44": {
+    "うでまくりを使うと　次に　たたく時に|チカラが１.５倍になり　会心率も上がります。|他の特技と　組み合わせて使うと　効果的！": "The next time you hit him, his power is|multiplied by 1.5, and his attack rate goes|up. Use it in combination with your other|<br>|specials for the best results!"
+  },
+  "45": {
+    "大成功品は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "I can't give you the big prize, but may I|give you a one-time raise?<yesno><close>"
+  },
+  "46": {
+    "ななめ打ちを使うと|ななめ２マス分を同時に|やや強めのチカラで　鍛えられます。": "When you use the lick, you can train two|squares at the same time with a slightly|stronger force..."
+  },
+  "47": {
+    "使う鍛冶ハンマーを　選んでください。|<break>": "Please choose a smith hammer.|<break>"
+  },
+  "48": {
+    "レシピを　覚えていないため|<%sL_SEISAN_MENU>を作ることが　できません。|<bw_break>": "I don't remember the recipe, so I can't make|<%sL_SEISAN_MENU>...<bw_break>"
+  },
+  "49": {
+    "<%sL_RECIPE>は|この職人どうぐでは　作れません。|<bw_break>": "<%sL_RECIPE> can't be made with these artisan|tools...<bw_break>"
+  },
+  "50": {
+    "<%sL_RECIPE>は|この職人どうぐでは　作れません。|<%sL_SEASON_TOOL>を　使いましょう。|<bw_break>": "<%sL_RECIPE> can be made with this artisan|tool... <%sL_SEASON_TOOL> can be used...<bw_break>"
+  },
+  "51": {
+    "今日の依頼は　全て達成済みです。|<end>": "All of today's requests have been|fulfilled.|<end>"
+  },
+  "52": {
+    "その依頼は　既に達成済みです。|<end>": "That request has already been fulfilled.|<end>"
+  },
+  "53": {
+    "<%sL_RECIPE>が　<%dL_CREATE_NUM>個できた！|<bw_break>": "Created <%dL_CREATE_NUM> <%sL_RECIPE>!<bw_break>"
+  },
+  "54": {
+    "<yesno><close>": "<yesno><close>"
+  },
+  "55": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<select_end><break>"
+  },
+  "56": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<select_end><break>"
+  },
+  "57": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<select_end><break>"
+  },
+  "58": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<select_end><break>"
+  },
+  "59": {
+    "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<%sL_MENU_NO_6>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<%sL_MENU_NO_6>|<select_end><break>"
+  },
+  "60": {
+    "鍛冶設備がある。|ここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。|<break>": "It's Blacksmithing equipment. Here you can make|<%sL_MENU_NO_1_>, <%sL_MENU_NO_2_>, and <%sL_MENU_NO_3_>.<break>"
+  },
+  "61": {
+    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|<break>": "Continue <%sL_CATEGORY_NAME> smithing?|<break>"
+  },
+  "62": {
+    "今日できる　ギルドの依頼は無いようです。|<end>": "There doesn't appear to be any guild requests|today.<end>"
+  },
+  "63": {
+    "<%sL_SYOKUNIN_TOOL>は|ロック中ですが　本当に使いますか？|<yesno 2><break>": "<%sL_SYOKUNIN_TOOL> is locked. Are you sure|you want to use it?<yesno 2><break>"
+  },
+  "64": {
+    "必殺率　小アップは|覚えているだけで　常に必殺技の出る確率が|少しだけ　上がるようになります。": "Just by remembering it, you'll always have a|slight chance of getting a special move."
+  },
+  "65": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<select>|ふつうに作る|いっぱつしあげ|<select_end><break>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?|<select>|cook conventionally|make-or-break job|<select_end><break>"
+  },
+  "66": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<select 2>|ふつうに作る|いっぱつしあげ|<select_end><break>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<select 2>|cook conventionally|make-or-break job|<select_end><break>"
+  },
+  "67": {
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+  },
+  "68": {
+    "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|<%sL_CATEGORY_NAME>鍛冶が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now forge <%sL_CATEGORY_NAME> using|the materials in the Storage Area and Roof|Storage, not just the Toolbox! When you|<br>|select a recipe that doesn't have enough|materials, you can use the materials items in|the Storage Area and Roof Storage...<color_white>|<end>"
+  },
+  "69": {
+    "予期せぬエラーにより|実行することが　できませんでした。|<end>": "Due to an unforeseen error, we are unable to|execute...<end>"
+  },
+  "70": {
+    "熱風おろしを使うと|ひとつのマスを　強めのチカラで　鍛えると同時に|地金の温度が　１５０度下がります。": ""
+  },
+  "71": {
+    "<speed=0>地金の温度が　足りない！": "<speed=0>The bullion's not hot enough!"
+  },
+  "72": {
+    "<speed=0>|<pc>は　いま作っている|<%sL_RECIPE>を　じっくりと眺めた。": "<speed=0>|<pc> examined carefully the|<%sL_RECIPE> they were working on."
+  },
+  "73": {
+    "上下ねらい打ちを使うと|上下の２マス分に　やや強めのチカラで|会心率の高い　２連打を放ちます。": ""
+  },
+  "74": {
+    "今週の職人回数が　上限に達したので|これ以上　<%sL_CATEGORY_NAME>鍛冶はできません。|<br>|日曜日の　朝６時以降になると|ふたたび　<%sL_CATEGORY_NAME>鍛冶が　できるようになります。|<end>": "I've reached my limit for this week, so I|can't <%sL_CATEGORY_NAME>forge any more... On|Sunday mornings, after 6am, I can|<br>|<%sL_CATEGORY_NAME>forge again...<end>"
+  },
+  "75": {
+    "鍛冶設備がある。|ここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。|（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）|<break>": "Blacksmithing equipment... Here you can make|<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL|_YA2><%sL_MENU_NO_3_><%sL_YA3>... （I have|<br>|<%nL_PLAYABLE> more <%sL_CATEGORY_NAME>|forges to do this week...)<break>"
+  },
+  "76": {
+    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）|<break>": "Would you like to continue|<%sL_CATEGORY_NAME>forging? （I have|<%nL_PLAYABLE>more <%sL_CATEGORY_NAME>forges|<br>|to do this week...)<break>"
+  },
+  "77": {
+    "まれに集中力回復は|覚えているだけで　集中力が残り少なくなった時に|低確率で　集中力が３０回復します。": ""
+  },
+  "78": {
+    "ここでは　いっぱつしあげは　できません。|<end>": "I can't do a single raise here...<end>"
+  },
+  "79": {
+    "弱ねらい打ちは|半分のチカラでたたく　ねらい打ちです。|会心率は　ねらい打ちと同じです。": ""
+  }
+}

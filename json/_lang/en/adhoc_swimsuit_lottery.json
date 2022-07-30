@@ -1,0 +1,77 @@
+{
+  "1": {
+    "<pc>は　ムーロンから|<%sL_ITEM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM> from Mulron!|<se_nots System 7>|<end>"
+  },
+  "2": {
+    "「おっと　そうびぶくろが　いっぱいみたいだね。 |　そうびぶくろに　ひとつ　空きを作ってきてよ！|<end>": "Oops, I saw a lot of sobekuros... Why don't|you go make an opening in the sobi bag?<end>"
+  },
+  "3": {
+    "「おっと　そうびぶくろが　いっぱいみたいだな。 |　そうびぶくろに　ひとつ　空きを作ってきな。|<end>": "Oops, I saw a bunch of shofar bags... I left|one empty in my sobi bag...<end>"
+  },
+  "4": {
+    "「くぅ～。じらすねぇ。 |　オッケー！　お嬢さんの好きなタイミングで|　また　オレに声をかけてね！|<end>": "... Jira... Okay! You can call out to me|again whenever you like, young lady!<end>"
+  },
+  "5": {
+    "「幸運のビッグウェーブを待っているってトコか。 |　ふふ……わかるぜ　その気持ち。オレも昔は|　キュララナの波乗り王子と呼ばれていたからな。|<end>": "He's waiting for a big wave of good luck...|Hmm... I know what you mean. I used to be|known as the Prince of Surf and Turf in|<br>|Culalana.<end>"
+  },
+  "6": {
+    "「オッケー！　それじゃ　水着ふくびき…… |　レッツ　トライ！|<end>": "Okay! All right, swimsuit sweepstakes...|Let's try!<end>"
+  },
+  "7": {
+    "「オーケー。それじゃ　水着ふくびき…… |　レッツ　トライ！|<end>": "Oh... Let's try the bathing suit sweepstakes.|Let's try!<end>"
+  },
+  "8": {
+    "「さてさて　水着ふくびき挑戦券　１枚で |　１回　水着ふくびきができるけど|　さっそく　やってみるかい？|<yesno><break>": "Well, one swimsuit coupon is good for one|swimsuit coupon, so why don't you give it a|try?<yesno><break>"
+  },
+  "9": {
+    "「水着ふくびきで　もらえる水着は　３種類。 |　はずれなしの　大盤振る舞いだ。さっそく|　水着ふくびき挑戦券　１枚で　引いてみるか？|<yesno><break>": "The swimsuit you get in the swimsuit|raffle... You can't go wrong. Let's see if we|can get one of the swimsuit coupons.<yesno><break>"
+  },
+  "10": {
+    "「おお　おめでとう！　見事 |　特等の　<%sL_ITEM>が当たったよ！|　さあ　こいつを受け取ってね！|<bw><close>": "Oh, congratulations! You've just won the|grand prize of <%sL_ITEM>! Here, take this!<bw><close>"
+  },
+  "11": {
+    "「おお　やったな！　見事 |　特等の　<%sL_ITEM>が当たったぞ！|　さあ　こいつを受け取れ！|<bw><close>": "Oh, you did it! You've won the grand prize of|<%sL_ITEM>! Come on, take it!<bw><close>"
+  },
+  "12": {
+    "「ふんふん。１等ね。 |　ちょっと待っててくれる？|<end>": "Huh. ...... Can you hold on for a second?<end>"
+  },
+  "13": {
+    "「そうか。１等か。 |　ちょっと待ってろよ。|<end>": "...... Wait a minute...<end>"
+  },
+  "14": {
+    "「ふんふん。２等ね。 |　ちょっと待っててくれる？|<end>": "Huh. ...... Can you hold on for a second?<end>"
+  },
+  "15": {
+    "「そうか。２等か。 |　ちょっと待ってろよ。|<end>": "...... Wait a minute...<end>"
+  },
+  "16": {
+    "「……ところで　お嬢さん |　よく　この海の家に　足を運んでくれてるね。|<br>|「大方　お目当ての水着が|　なかなか当たらないって感じかな？|　ぶっちゃけ　どの水着が　お目当て？|<select_nc>|特等　フリルのビキニ|１等　リゾートビキニ|２等　あわあわ水着|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>": "I'm sorry. By the way, young lady, you often|come to this beach house... Most of you are|having trouble finding the swimsuit you want.|<br>|Which swimsuit are you looking for, to be|honest?|<select_nc>|Special Prize: Ruffled Bikini|1st Prize: Resort Bikini|2nd prize: A fuzzy swimsuit|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>"
+  },
+  "17": {
+    "「……ところで　お前さん |　よく　この海の家に　足を運んでくれてるな。|<br>|「大方　目当ての水着が|　なかなか当たらないってところか？|　ぶっちゃけ　どの水着が　お目当てなんだ？|<select_nc>|特等　スマートな水着|１等　アロハな海パン|２等　あわあわ水着|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>": "I'm sorry. By the way, how come you guys come|to this beach house so often... Most of you|are having a hard time finding the swimsuit|<br>|you want, aren't you? Which swimsuit are you|looking for, to be honest?|<select_nc>|Privilege Smart Swimwear|1st prize: Aloha sea pants|2nd prize: A fuzzy swimsuit|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>"
+  },
+  "18": {
+    "「………………。|<end>": "...<end>"
+  },
+  "19": {
+    "「………………。|<end> ": "...<end>"
+  },
+  "20": {
+    "「はい！　お待たせ～！ |　それじゃあ　今引いてみてっ！|<end>": "Here you go! Here you go! Then pull it now!<end>"
+  },
+  "21": {
+    "「よし！　待たせたな！ |　それじゃあ　今引いてみろ！ |<end>": "All right! You kept me waiting! Well, pull it|now!<end>"
+  },
+  "22": {
+    "「ふんふん。特等ね。 |　ちょっと待っててくれる？|<end>": "Huh. ...... Can you hold on for a second?<end>"
+  },
+  "23": {
+    "「そうか。特等か。 |　ちょっと待ってろよ。|<end>": "...... Wait a minute...<end>"
+  },
+  "24": {
+    "「おお　おめでとう！　見事 |　<%nL_TOU>等の　<%sL_ITEM>が当たったよ！|　さあ　こいつを受け取ってね！|<bw><close>": "Oh, congratulations! You've just won|<%sL_ITEM>, including <%nL_TOU>! Here, take|this!<bw><close>"
+  },
+  "25": {
+    "「おお　やったな！　見事 |　<%nL_TOU>等の　<%sL_ITEM>が当たったぞ！|　さあ　こいつを受け取れ！|<bw><close>": "Oh, you did it! You've won <%nL_TOU> and|other <%sL_ITEM>! Come on, take it!<bw><close>"
+  }
+}

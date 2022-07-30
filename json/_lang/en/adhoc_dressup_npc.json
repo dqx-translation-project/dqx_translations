@@ -1,0 +1,152 @@
+{
+  "1": {
+    "「ふむ……。残念だが　そなたは|　その装備品の　見た目となれる装備を|　持っていないようだぞ。": "Hmm... I'm afraid you don't have any|equipment that can look like that piece of|equipment.|<br>"
+  },
+  "2": {
+    "「ドレスアップしたいのだな？|　ならば　今装備しているものの中から|　ドレスアップしたい装備品を　選ぶがよい。|<br>|「顔アクセサリーは　ドレスアップできるが|　それ以外のアクセサリーと　職人道具は|　ドレスアップできないからな。": "So you want to dress up? Then choose what you|want to dress up from your current|equipment... You can dress up your face, but|<br>|you can't dress up your other accessories or|your craftsman tools..."
+  },
+  "3": {
+    "「では　ドレスアップした装備品を|　元の姿に戻そう。|　見た目に使った装備は　戻ってはこぬぞ。|<br>|「また　元の姿に戻した装備品にしてあった|　カラーリングは失われ|　元の色に戻るが　構わないな？|<yesno 2><close>": ""
+  },
+  "4": {
+    "「やめるのだな？　それも　よかろう。": "You're not going to do this, are you?|That's..."
+  },
+  "5": {
+    "「よし……。解除成功だ。|　装備を　元の見た目に戻したぞ。": "Okay... Disarm... I'll restore your equipment|to its original appearance..."
+  },
+  "6": {
+    "<select_se_off>|ドレスアップする|元にもどす|説明を聞く|<select_end><close>": "<select_se_off>|Dress Up|go back to the start|Listen to the explanation|<select_end><close>"
+  },
+  "7": {
+    "「ここは　魔法のドレスアップ屋。|　魔法仕立て術により　装備品の性能はそのまま|　見た目だけを他の装備に変える　奇跡の店だ。|<br>|「よくぞ来た　我が同胞よ。|　今日は　我に何を求めるのだ？|<break>": "This is a magic dress-up... A magical|tailoring technique that changes the|appearance of an item of equipment without|<br>|changing its performance. Welcome, my friend.|What do you want from me today?<break>"
+  },
+  "8": {
+    "「それでは　また　いつでも来るがよいぞ。": "Well, I'll be back any time, but..."
+  },
+  "9": {
+    "「むむむ……？|　そこには　何も装備してないではないか。": "Mmm...? You're not equipped with anything..."
+  },
+  "10": {
+    "<select_se_off>|はい|いいえ|<select_end><close>": ""
+  },
+  "11": {
+    "「ドレスアップとは　魔法仕立て術により|　装備品の性能はそのまま　見た目だけを|　他の装備に変える　奇跡の技であるぞ。|<br>|「まず性能となる方を　装備しているものから選び|　その後に　見た目となる方を選ぶ。|　見た目の装備は　レベル職業　関係なく選べる。|<br>|「見た目に使った装備は　ドレスアップすると|　消滅してしまう。ドレスアップを解いても|　戻ってくることはないから　しかと覚悟せよ。|<br>|「ドレスアップした装備品を　再び見た目として|　使うことはできる。気に入った見た目を|　次々　引き継いでいくことが可能ということだ。|<br>|「当然だが　ドレスアップは　有料であるぞ。|　だが　ドレスアップを解いて|　元の姿に戻すときは　無料でやってやろう。": "A dress-up is a miraculous feat of magical|tailoring that transforms one piece of|equipment into another without sacrificing|<br>|its performance. First, you choose a piece of|equipment that will perform, then you choose|a piece of equipment that will look... The|<br>|equipment used for the look is level- and|profession-neutral. The equipment you use to|look good will disappear when you dress up.|<br>|And they don't come back when you undress|them, so remember... Once you've dressed up a|piece of gear, you can't use it as a look|<br>|again. And you can keep using the same look|over and over again. Of course, you have to|pay to dress up your gear. But if you want to|<br>|un-dress and revert to your original look,|it's free."
+  },
+  "12": {
+    "「<%sM_item2><%sM_plusnum2>を性能として|　他の見た目に　ドレスアップするのだな？|　では　見た目に使いたい装備を選ぶのだ。": ""
+  },
+  "13": {
+    "「よかろう！|　では　我が魔法の仕立て術の神秘！|　その目で　とくと見るがよい！": "Very well. Now, the mysteries of my magical|art of tailoring! See for yourself!"
+  },
+  "14": {
+    "「<%sM_item2><%sM_plusnum2>を|　<%sM_item><%sM_plusnum>に|　ドレスアップすると　こんな感じになるぞ。|<br>|「<%nM_gold>ゴールドかかるが　構わぬか？|<yesno 2><close>": "If you dress up <%sM_item2><%sM_p|lusnum2> to <%sM_item|><%sM_plusnum>, it looks like|<br>|this... <%nM_gold>It'll cost you|gold, if you don't mind.<yesno 2><close>"
+  },
+  "15": {
+    "「その装備は　ドレスアップには使えぬのだ。|　魔法仕立て術も　万能ではないと知るがいい。": "That equipment can't be used for dress-up...|I've learned that the art of tailoring isn't|all it's cracked up to be.|<br>"
+  },
+  "16": {
+    "「むむっ？　<%sM_item><%sM_plusnum>は|　仲間モンスターが　装備しているようだが|　見た目に使ってしまって　本当によいのだな？|<yesno 2><close>": "Mmm? <%sM_item><%sM_plusnumFILLER|STRING> seems to be equipped by a fellow|monster, but are you sure you want to use it|<br>|for appearance?<yesno 2><close>"
+  },
+  "17": {
+    "「その装備は　そなたとは違う種族の装備のため|　今は　ドレスアップには　使えぬぞ。": "That equipment belongs to a different species|than yours, so for now, it can't be used to|dress up...|<br>"
+  },
+  "18": {
+    "「むむっ？　残念だが　お金が足りないようだぞ。": "Mmm? I'm sorry, but we don't have enough|money..."
+  },
+  "19": {
+    "「<%sM_item><%sM_plusnum>は|　珍しい装備だが　ドレスアップの|　見た目に使用して　本当に　よいのだな？|<yesno 2><close>": "<%sM_item><%sM_plusnumFILLERSTRIN|G> is an unusual piece of equipment, but|you're sure you want to use it for a dress-up|<br>|look?<yesno 2><close>"
+  },
+  "20": {
+    "「他に　我に求めることはあるか？|<break>": "Is there anything else you want from me?<break>"
+  },
+  "21": {
+    "<%sM_item2><%sM_plusnum2>を<%sM_item><%sM_plusnum>にドレスアップしました。": "Dress up <%sM_item2><%sM_plusnum2|> to <%sM_item><%sM_p|lusnum> and...|<br>"
+  },
+  "22": {
+    "ドレスアップを解き<%sM_item2><%sM_plusnum2>の見た目が　元に戻りました。": "Solve the dress-up and <%sM_item2|><%sM_plusnum2> will look the|same again...|<br>"
+  },
+  "23": {
+    "「……よし！　ドレスアップ成功だ！|　魔法仕立て術は　やはり素晴らしい！": "... Okay! The dress up worked! I've never|seen anything quite like this magic tailoring|trick.|<br>"
+  },
+  "24": {
+    "「その装備は　ドレスアップしても　|　ドレスアップ前と　同じ見た目になるぞ。|　同じ装備を重ねることはできん。": "You can dress it up and it'll still look the|same... You can't keep wearing the same gear|over and over...|<br>"
+  },
+  "25": {
+    "「<%sM_item><%sM_plusnum>は　結晶化できる|　装備だが　ドレスアップの見た目に使用して|　本当に　よいのだな？|<yesno 2><close>": "<%sM_item><%sM_plusnumFILLERSTRIN|G> is a crystallizable piece of equipment,|but you're sure you want to use it for a|<br>|dress-up look?<yesno 2><close>"
+  },
+  "26": {
+    "「ならば　職人道具以外で　|　解除したい装備品を　選ぶがよい。": "Then you can choose any piece of equipment|you'd like to unlock..."
+  },
+  "27": {
+    "「その装備は　ドレスアップしたい装備品とは|　違う部位の装備品だぞ。": "It's a different piece of equipment than the|one you want to dress up..."
+  },
+  "28": {
+    "「その装備は　性別が合わない装備のため|　今は　ドレスアップには　使えぬぞ。": "That equipment is not gender-neutral, so it's|not currently being used for dress-up..."
+  },
+  "29": {
+    "「その装備は　ドレスアップしてないようだぞ。": "I didn't dress up that gear..."
+  },
+  "30": {
+    "「むむっ？　それはドレスアップする装備だぞ。": "Mmm? It's time to dress up in these|clothes..."
+  },
+  "31": {
+    "「その武器は　武器種が違うため|　ドレスアップには　使えぬぞ。": "That weapon is a different type of weapon, so|it can't be used to dress up..."
+  },
+  "32": {
+    "<select_se_off 2>|ドレスアップする|元にもどす|説明を聞く|<select_end><close>": "<select_se_off 2>|Dress Up|go back to the start|Listen to the explanation|<select_end><close>"
+  },
+  "33": {
+    "<select_se_off 3>|ドレスアップする|元にもどす|説明を聞く|<select_end><close>": "<select_se_off 3>|Dress Up|go back to the start|Listen to the explanation|<select_end><close>"
+  },
+  "34": {
+    "「その装備は　職業が合わない装備のため|　今は　ドレスアップには　使えぬぞ。": "That equipment is not suitable for my|profession, so I can't use it to dress up..."
+  },
+  "35": {
+    "「おお。<%sM_item>を　持っているな？|　その<%sM_item>を　使うか？|<yesno 2><close>": "Oh. You have <%sM_item>, right?|Do you want to use that|<%sM_item>?|<br><yesno 2><close>"
+  },
+  "36": {
+    "「ふむ。それも　よかろう。": "Hmm. That's a good..."
+  },
+  "37": {
+    "「では　無料で　ドレスアップしてやろう。|　ドレスアップしたい装備品を　選ぶがよい。": "It's free to play dress up... Choose the|equipment you want to dress up with..."
+  },
+  "38": {
+    "「……よし！　ドレスアップ成功だ！|　魔法仕立て術は　やはり素晴らしい！|<br>|「では　<%sM_item>を　いただこう。": "... Okay! The dress up worked! The art of|magical tailoring is a thing of beauty. Now,|let's add <%sM_item>...|<br>"
+  },
+  "39": {
+    "「<%sM_item2><%sM_plusnum2>を|　<%sM_item><%sM_plusnum>に|　ドレスアップすると　こんな感じになるぞ。|<br>|「これでドレスアップして　構わぬか？|<yesno 2><close>": "If you dress up <%sM_item2><%sM_p|lusnum2> to <%sM_item|><%sM_plusnum>, it looks like|<br>|this... You don't mind if I dress it up with|this?<yesno 2><close>"
+  },
+  "40": {
+    "「その装備は　装備中のようだな。|　装備中の装備品は　見た目には使えぬぞ。": "That's the equipment that's being... It's not|what it looks like, it's what it feels like."
+  },
+  "41": {
+    "「その装備は　ロックされているため|　今は　ドレスアップには　使えぬぞ。": "That equipment is locked up and can't be used|for dress-up right now, so..."
+  },
+  "42": {
+    "「<%sM_item2><%sM_plusnum2>は|　ロックされているが　ドレスアップの|　性能になる方にしても　構わぬのか？|<yesno 2><close>": "<%sM_item2><%sM_plusnum2FILLERSTR|ING> is locked, but you don't mind if it's|for dress-up performance?|<br><yesno 2><close>"
+  },
+  "43": {
+    "「その装備は　ロックされているため|　ドレスアップには　使えぬぞ。": "That equipment is locked and can't be used to|dress up..."
+  },
+  "44": {
+    "「その装備は　ロックされているため|　ドレスアップには　使えぬぞ。": "That equipment is locked and can't be used to|dress up..."
+  },
+  "45": {
+    "「その装備は　ロックされているため|　ドレスアップには　使えぬぞ。": "That equipment is locked and can't be used to|dress up..."
+  },
+  "46": {
+    "「おお。<%sM_item>と|　<%sM_item2>を　持っているな？|　そのどちらかを　使うか？|<yesno 2><close>": "Oh. You have <%sM_item> and|<%sM_item2>, right? Do you want|to use one of them?|<br><yesno 2><close>"
+  },
+  "47": {
+    "「ならば　どちらを使うのか選ぶがよい。|<select_se_off>|ドレスアップ優待券|ドレスアップ無料券|<select_end><close>": "Then you can choose which one you want to|use...|<select_se_off>|Dress-up gift certificates|Free dress-up ticket|<select_end><close>"
+  },
+  "48": {
+    "「ここは　魔法のドレスアップ屋。|　魔法仕立て術により　装備品の性能はそのまま|　見た目だけを他の装備に変える　奇跡の店だ。|<br>|「むむっ？　レンタル衣装や　チームユニフォーム|　マイコーデには　魔法仕立て術は　使えぬぞ。|　これらを脱いで　また　訪れるがよい。": "This is a magic dress-up... Through the magic|of tailoring, the performance of the|equipment remains the same, and only the|<br>|appearance is changed to other equipment, a|miracle... Mmm? You can't use magic tailoring|on rented outfits, team uniforms, or your own|<br>|wardrobe. Take these off and come back..."
+  },
+  "49": {
+    "「その装備は　性別が合わない装備に|　ドレスアップ済みなので|　今は　ドレスアップには　使えぬぞ。": "That equipment has already been dressed up to|be gender neutral, so it's not being used for|dress-up right now.|<br>"
+  },
+  "50": {
+    "「ドレスアップした装備を　元に戻す時|　元の姿に戻した装備品に　ほどこされた|　カラーリングが　戻らぬことは知っておるな？|<br>|「<%sM_item2><%sM_plusnum2>は|　貴重なアイテムで　ツヤを変更しているようだが|　本当に　ドレスアップして　よいのだな？|<yesno 2><close>": "You know that when you dress up an item of|equipment and then put it back together|again, you don't get back the coloring that|<br>|was applied to the original item, right? <%sM|_item2><%sM_plusnum2>|is a valuable item that you've altered the|<br>|luster of, but you're sure you want to dress|it up?<yesno 2><close>"
+  }
+}

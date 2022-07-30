@@ -1,0 +1,164 @@
+{
+  "1": {
+    "<pc>は　錬金釜で|<%sM_item><%sM_plusnum>を　カラーリングした！<se_nots System 7>|<end>": "<pc>  has colored <%sM_item><%sM_plusnum> in the|smelting pot!|<se_nots System 7>|<end>"
+  },
+  "2": {
+    "色を付けるための　必要な素材が足りません。|必要な素材を　全て　そろえてください。|<end>": "I don't have all the materials I need to add|color... I'll get you all the materials you|need...<end>"
+  },
+  "3": {
+    "<color_yellow>|錬金釜についての　説明です。|<br>|錬金釜は　釜に入れた素材を|さらに魅力的なものに　変化させられる|不思議なチカラを　持っています。|<br>|まずは　錬金釜で　作りたいものを|選んでみましょう。必要な素材が　全て|そろっていれば　錬金することができます。|<br>|一度　錬金をすると　チャージ時間が発生し|次の錬金を　行うには　チャージ時間分の|リアルタイムでの　時間経過が必要になります。|<br>|もちろん　ログアウト中でも|チャージ時間は　経過していくので|安心して　錬金してください。|<br>|錬金釜で　色々なものを錬金し|冒険生活に　役立ててみてください！|<end>": "<color_yellow>What is the alchemy cauldron? The alchemy|cauldron has the mysterious power to|transform the materials you put into it into|<br>|something even more fascinating. First, let's|choose what we want to make in the smelting|pot. If you have all the materials you need,|<br>|you can alchemize it. Once you've smelted,|there's a charge time, and you need to wait|for the charge time to pass in real time|<br>|before you can smelt again. Of course, even|when you're logged out, the charge time will|pass, so don't worry about smelting... Use|<br>|the smelting pot to smelt all sorts of things|and use them in your adventures!<end>"
+  },
+  "4": {
+    "錬金釜で　<%sL_ITEM>　<%dL_ITEMNUM>個が|完成しています！|今すぐ　取り出しますか？|<yesno><close>": "There are <%sL_ITEM> <%dL_ITEMNUM> pieces|finished in the smelting pot! Would you like|to retrieve them now?<yesno><close>"
+  },
+  "5": {
+    "<%sL_ITEM>の錬金が 完了しました": "The <%sL_ITEM> has been completed."
+  },
+  "6": {
+    "<pc>は　錬金釜で|<%sL_ITEM>を作成した！|<br>|<pc>は|<%sL_ITEM>を <%dL_ITEMNUM>個 手に入れた！<se_nots System 7>": "<pc>  has created <%sL_ITEM> in the alchemy|cauldron!<pc> got <%dL_ITEMNUM> of <%sL_ITEM>!|<se_nots System 7>"
+  },
+  "7": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個は|完成するまでに　<%dM_hh>時間　必要です。|錬金釜で　錬金を開始しますか？|<yesno><close>": "The <%sL_ITEM> <%dL_ITEMNUM> pieces will take|<%dM_hh> hours to complete... Do you want to|start smelting in the smelting pot?<yesno><close>"
+  },
+  "8": {
+    "<%sL_ITEM>の錬金を 開始しました": "We've started smelting <%sL_ITEM>"
+  },
+  "9": {
+    "錬金釜で　<%sL_ITEM>　<%dL_ITEMNUM>個の|錬金を開始しました！|完成は　<%dM_hh>時間後です。|<end>": "The smelting pot has begun smelting|<%sL_ITEM> <%dL_ITEMNUM> pieces! Completion|in <%dM_hh> hours...<end>"
+  },
+  "10": {
+    "錬金釜での錬金を 中断しました": "The alchemy process has been interrupted."
+  },
+  "11": {
+    "どうぐかばんが　いっぱいで|錬金素材を　受け取れません。|錬金は　中断できませんでした。|<br>|錬金を中断するには　錬金中の素材を|全て　受け取る必要があります。|どうぐかばんに　空きを作ってください。|<end>": "My glove compartment is full. I can't get my|alchemy materials... Alchemy cannot be|interrupted... To interrupt smelting, you|<br>|must receive all the materials you're|smelting... Please make room in the|toolbox...<end>"
+  },
+  "12": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個の|錬金を　中断しました。|<end>": "<%sL_ITEM> <%dL_ITEMNUM>They interrupt the|smelting of...<end>"
+  },
+  "13": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|完成までに　あと　<%dM_hh>時間が必要です。|錬金を　中断しますか？|<yesno2><close>": "I need <%sL_ITEM> <%dL_ITEMNUM> pieces to|smelt... I need <%dM_hh> more hours to|complete... Would you like to abort the|<br>|smelting?<yesno2><close>"
+  },
+  "14": {
+    "錬金を中断すると　錬金中のアイテムは|完成せずに　錬金中の素材は　手元に戻ります。|本当に　錬金を中断しますか？|<yesno2><close>": "If you interrupt the alchemy process, the item|will not be completed and the materials will|be returned to you. Are you sure?|<yesno2><close>"
+  },
+  "15": {
+    "ここでは　錬金釜を使えないようだ。|別の場所で　使ってみよう。|<end>": "You can't use the smelting pot here... You|have to use it somewhere else.<end>"
+  },
+  "16": {
+    "錬金するために必要な素材が　足りません。|錬金に必要な素材を　そろえてください。|<end>": "I need more materials for smelting... I need|the materials for smelting...<end>"
+  },
+  "17": {
+    "<color_yellow>|武器と盾に　色を付ける説明です。|<br>|錬金釜で　武器と盾に最大２か所|カラーとツヤを　変更できます。|<br>|ただし　装備中の　武器と盾には|色を付けることは　できません。|<br>|武器と盾の中にも　カラーやツヤを|変更できない物が　あるので|お気をつけください。|<br>|カラーの変更には　染色用の花が必要です。|花の代わりに　カラフルブーケも使用できます。|ツヤの変更には　ツヤめきペイントが必要です。|<br>|カラーが　元の色のままの時は|ツヤの変更が　できません。|<br>|カラーを　元の色にする場合は|変更したツヤも　元のツヤに戻ってしまうので|お気をつけください。|<br>|ツヤを変更すると　色アイコンのところに|変更したツヤのアイコンが　表示されます。|<br>|元のツヤの時や　ツヤを変更できない場合は|ツヤアイコンは　表示されません。|<br>|カラフルブーケ　および　ツヤめきペイントは|ＤＱＸショップなどで　入手できます。|<br>|プレイヤー専用サイト|目覚めし冒険者の広場ドラゴンクエストＸショップ|https://sqex.to/dqxshop|<br>|武器と盾に　思い通りの色を付けて|冒険生活を　よりオシャレに彩ってみましょう！|<end>": "<color_yellow>I can change the color and luster of up to|two weapons and shields... The smelting pot|allows you to change the color and luster of|<br>|up to two weapons and shields. But you can't|change the color of a weapon or shield that's|already equipped. Be aware that some weapons|<br>|and shields cannot be changed in color or|luster. To change the color, you'll need a|flower to dye. Instead of flowers, you can|<br>|use colorful bouquets... To change the|luster, you'll need luster paint. To change|the shine, use the original color... If you|<br>|want to change the color of your bouquet back|to its original color, you will have to|change the shine back to its original color.|<br>|If you change the luster, the new luster icon|will appear in the color icon... The gloss|icon will not be displayed when the original|<br>|gloss is... You can get the Colorful Bouquet|and Gloss Paint from the DQX Shop... Awakened|Adventurer's Square Dragon Quest X Shop|<br>|https://sqex.to/dqxshop Add your own colors|to your weapons and shields to make your|adventures more stylish!<end>"
+  },
+  "18": {
+    "どうぐかばんが　いっぱいで|できあがったものを　受け取れません。|<br>|どうぐかばんに　空きを作ってから|できあがったものを　受け取ってください。|<end>": "The toolbox is full, so you'll have to...|You'll have to make a space in your toolbox|before you can pick up your finished...<end>"
+  },
+  "19": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個の|錬金を　とりやめました。|<end>": "<%sL_ITEM> <%dL_ITEMNUM>They've stopped|smelting...<end>"
+  },
+  "20": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|完成までに　あと　<%dM_hh>時間が必要です。|<end>": "I need <%sL_ITEM> <%dL_ITEMNUM> pieces to|smelt... It will take <%dM_hh>hours to|complete...<end>"
+  },
+  "21": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|完成までに　あと　<%dM_mm>分が必要です。|<end>": "<%sL_ITEM> <%dL_ITEMNUM> for smelting... I'll|need <%dM_mm> more to complete...<end>"
+  },
+  "22": {
+    "錬金釜で　<%sL_ITEM>　<%dL_ITEMNUM>個の|錬金を開始しました。|完成は　<%dM_mm>分後です。|<end>": "The smelting pot will begin smelting|<%sL_ITEM> <%dL_ITEMNUM> pieces... <%dM_mm>|minutes to complete...<end>"
+  },
+  "23": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個は|完成するまでに　<%dM_mm>分　必要です。|錬金釜で　錬金を開始しますか？|<yesno><close>": "<%sL_ITEM> <%dL_ITEMNUM> will take <%dM_mm>|minutes to complete... Do you want to start|smelting in the smelting pot?<yesno><close>"
+  },
+  "24": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|完成までに　あと　<%dM_mm>分が必要です。|錬金を　中断しますか？|<yesno2><close>": "<%sL_ITEM> <%dL_ITEMNUM> for smelting... I|need <%dM_mm> more minutes to complete...|Would you like to interrupt the alchemy?<yesno2><close>"
+  },
+  "25": {
+    "錬金釜での錬金を　中断しようとしましたが|錬金が　完了していました。|できあがったものを　取り出してください。|<end>": "I tried to interrupt the smelting in the|cauldron, but the smelting was complete.|Please remove the finished product...<end>"
+  },
+  "26": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|錬金を　中断しますか？|<yesno2><close>": "<%sL_ITEM> <%dL_ITEMNUM> pieces for|smelting... Do you want to abort the alchemy?<yesno2><close>"
+  },
+  "27": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　取り出した。<se_nots System 7>|<end>": "Take <%sL_ITEM> <%dL_ITEMNUM> pieces...|<se_nots System 7>|<end>"
+  },
+  "28": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　取り出した。<se_nots System 7>|<%sL_ITEM_2>　<%dL_ITEMNUM_2>個を　取り出した。<se_nots System 7>|<end>": "Take <%sL_ITEM> <%dL_ITEMNUM> pieces...|<se_nots System 7>Take <%sL_ITEM_2> <%dL_ITEMNUM_2> pieces...|<se_nots System 7>|<end>"
+  },
+  "29": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　取り出した。|<%sL_ITEM_2>　<%dL_ITEMNUM_2>個を　取り出した。<se_nots System 7>|<%sL_ITEM_3>　<%dL_ITEMNUM_3>個を　取り出した。<se_nots System 7>|<end>": "Takes <%sL_ITEM> <%dL_ITEMNUM> pieces...|Takes <%sL_ITEM_2> <%dL_ITEMNUM_2> pieces...|<se_nots System 7>Take <%sL_ITEM_3> <%dL_ITEMNUM_3> pieces...|<se_nots System 7>|<end>"
+  },
+  "30": {
+    "新品の装備です。一度　カラーリングすると|新品ではなくなり　他の人に渡せなくなりますが|よろしいですか？|<yesno2><close>": "A brand-new outfit... Once it's been colored,|it's no longer brand new and can't be passed|on to someone else.<yesno2><close>"
+  },
+  "31": {
+    "装備中のため　カラーリングできません。|装備をはずしてから　選んでください。|<end>": "I can't color it because it's rigged...|You'll have to remove your gear before you|can choose...<end>"
+  },
+  "32": {
+    "その色は　今付いている色と　変わりません。|他の色を　選んでください。|<end>": "That color will change from the one you're|currently wearing... I'd like you to choose|another color...<end>"
+  },
+  "33": {
+    "仲間モンスターが　装備中のため|色を付けることができません。|装備をはずしてから　選んでください。|<end>": "I can't add color to a monster while it's|equipped... You'll have to un-equip it before|you can choose...<end>"
+  },
+  "34": {
+    "この装備品は　カラーリングできません。|他の装備品を　選んでください。|<end>": "This piece of equipment can be colored...|Please select another piece of equipment...<end>"
+  },
+  "35": {
+    "色を付ける　武器と盾を持っていません。|<end>": "Color me. I have a weapon and a shield...<end>"
+  },
+  "36": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|完成までに　あと　<%dM_hh>時間<%dM_mm>分が必要です。|<end>": "I've smelted <%sL_ITEM> <%dL_ITEMNUM>|pieces... You have <%dM_hh> hours and|<%dM_mm> minutes to complete...<end>"
+  },
+  "37": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|完成までに　あと　<%dM_hh>時間<%dM_mm>分が必要です。|錬金を　中断しますか？|<yesno2><close>": "I've smelted <%sL_ITEM> <%dL_ITEMNUM>|pieces... You have <%dM_hh> hours and|<%dM_mm> minutes to complete... Would you|<br>|like to abort the alchemy?<yesno2><close>"
+  },
+  "38": {
+    "チャージ中なので|錬金釜で　アイテムを錬金できません。": "We're charging up, so we can smelt items in|the smelting pot..."
+  },
+  "39": {
+    "<color_yellow>|錬金釜の　使い方　変更のお知らせです！|<br>|錬金釜に　素材をいれると|錬金がすぐ完了し　作成されたアイテムが|その場で　取り出せるようになりました。|<br>|アイテムを取り出したら　レシピに書かれた|チャージ時間が始まります。チャージ時間が|過ぎたら　次の錬金を行えるようになります。|<br>|もちろん　ログアウト中でも|チャージ時間は　経過していくので|安心して　錬金してください。|<br>|錬金釜で　色々なものを錬金し|冒険生活に　役立ててみてください！|<end>": "<color_yellow>We've changed the way you use the alchemy|pot! When you put an ingredient into the|smelting pot, the smelting process will be|<br>|completed immediately and you can take out|the created item on the spot. Once the item|is removed, the charge time written in the|<br>|recipe will begin. After the charge time is|up, you can start the next alchemy. Of|course, even if you're logged out, the charge|<br>|time will still elapse, so don't worry about|smelting... Use the alchemy kettle to smelt|all sorts of things and use them in your|<br>|adventures!<end>"
+  },
+  "40": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_mm>分後になります。|釜錬金を　行いますか？|<yesno2><close>": "If you alchemize <%dL_ITEMNUM> <%sL_ITEM>,|it will be <%dM_mm> minutes before you can alchemize|again. Do you want to perform pot alchemy?|<yesno2><close>"
+  },
+  "41": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間<%dM_mm>分後に|なります。釜錬金を　行いますか？|<yesno2><close>": "If you smelt <%dL_ITEMNUM> <%sL_ITEM>,|the next pot smelting will take <%dM_hh> hours <%dM_mm>|minutes. Do you want to perform pot smelting?|<yesno2><close>"
+  },
+  "42": {
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間後に|なります。釜錬金を　行いますか？|<yesno2><close>": "Once you have smelted <%dL_ITEMNUM> <%sL_ITEM>,|the next pot smelting will be available in <%dM_hh>|hours. Do you want to perform pot smelting?|<yesno2><close>"
+  },
+  "43": {
+    "カラフルブーケの　割り当てを|キャンセルして　戻りますが|よろしいですか？|<yesno><close>": "I'd like to cancel my Colorful Bouquet|assignment and return, if that's all right.<yesno><close>"
+  },
+  "44": {
+    "必要な素材を　確認してください。|この内容で　カラーリングしますか？|<yesno><close>": "I need you to identify the materials you|need... Would you like me to color this for|you?<yesno><close>"
+  },
+  "45": {
+    "セットした　カラーとツヤを|元に戻しますか？|<yesno><close>": "Would you like to restore the color and|luster to your set?<yesno><close>"
+  },
+  "46": {
+    "そのカラー部位は　カラーリングできません。": "Its colored parts can be colored..."
+  },
+  "47": {
+    "元の色の場合は　ツヤを変更できません。|元のツヤに戻りますが　よろしいですか？|<yesno><close>": "If you want the original color, you can|change the luster... I'll go back to my|original luster, if that's okay.<yesno><close>"
+  },
+  "48": {
+    "<color_yellow>|武器・盾のカラーリングの|新機能のお知らせです。|<br>|染色用の花の代わりとして　カラフルブーケを|割り当てられるようになりました。|<br>|ツヤめきペイント　というアイテムを使って|装備品のツヤを　変更できるようになりました。|<br>|ただし　カラーが　元の色のままの時は|ツヤの変更が　できません。|<br>|カラーを　元の色にする場合は|変更したツヤも　元のツヤに戻ってしまうので|お気をつけください。|<br>|ツヤを変更すると　色アイコンのところに|変更したツヤのアイコンが　表示されます。|<br>|元のツヤの時や　ツヤを変更できない場合は|ツヤアイコンは　表示されません。|<br>|カラフルブーケ　および　ツヤめきペイントは|ＤＱＸショップなどで　入手できます。|<br>|プレイヤー専用サイト|目覚めし冒険者の広場ドラゴンクエストＸショップ|https://sqex.to/dqxshop|<br>|武器と盾に　思い通りの色を付けて|冒険生活を　よりオシャレに彩ってみましょう！|<end>": "<color_yellow>Announcing a new feature for weapon and|shield coloring... You can now assign|colorful bouquets as an alternative to|<br>|flowers for dyeing... You can now change the|luster of your equipment using the item|\"Luster Paint\"... However, you cannot change|<br>|the luster of an item while it is in its|original color... If you change the color|back to the original color, the luster will|<br>|revert to the original color. If you change|the luster, the new luster icon will appear|in the color icon... The gloss icon will not|<br>|be displayed when the original gloss is...|You can get the Colorful Bouquet and Gloss|Paint from the DQX Shop... Awakened|<br>|Adventurer's Square Dragon Quest X Shop|https://sqex.to/dqxshop Add your own colors|to your weapons and shields to make your|<br>|adventures more stylish!<end>"
+  },
+  "49": {
+    "このカラーリングに　必要な素材を|コミュニケーションウィンドウの　システムログに|書き込みますか？|<yesno><close>": "Do you want the materials required for this|livery to be written to the system log in the|communication window?<yesno><close>"
+  },
+  "50": {
+    "コミュニケーションウィンドウの　システムログに|このカラーリングに　必要な素材を|書き込んだ！": "In the system log of the communication|window, I've written down the materials|needed for this livery!"
+  },
+  "51": {
+    "カラーリングを　キャンセルしますか？|<yesno><close>": "Would you like to cancel the coloring?<yesno><close>"
+  },
+  "52": {
+    "必要な素材に　染色用の花がない時は|カラフルブーケが　使えません。": "If the material you need doesn't have flowers|for dyeing, you can use the colorful|bouquet..."
+  },
+  "53": {
+    "必要な素材を　確認してください。|期限付きの場合は　期限が近いものを使います。|この内容で　カラーリングしますか？|<yesno_2><close>": "Make sure you have all the materials you|need... If there's an expiration date, we'll|use the closest one... Would you like to|<br>|color this content?<yesno_2><close>"
+  },
+  "54": {
+    "貴重なアイテムの　ツヤめきペイントで　|ツヤを変更した箇所が　含まれていますが|本当にツヤを戻しても　よろしいですか？|<yesno_2><close>": "The glossy paint on your precious item|includes a section where the gloss has been|changed, but are you sure you want to put the|<br>|gloss back on?<yesno_2><close>"
+  }
+}

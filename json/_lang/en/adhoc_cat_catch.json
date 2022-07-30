@@ -1,0 +1,50 @@
+{
+  "1": {
+    "ネコバッグが　いっぱいのようだ……。|<br>|新エテーネの村にいる　メレアーデに|ネコを　渡しにいこう！|<end>": "It seems your Cat Bag is full. Go give the|cats to Mereade in New Ethene Village!|<end>"
+  },
+  "2": {
+    "<%sL_NEKOCAN>を　使って|ネコを　つかまえますか？|<yesno><close>": "Use <%sL_NEKOCAN> to catch cats?|<yesno><close>"
+  },
+  "3": {
+    "<%sL_NEKOCAN>と|<%sL_CAPTURE_TOOL>を　使って|ネコを　つかまえますか？|<yesno><close>": "Use <%sL_NEKOCAN> and|<%sL_CAPTURE_TOOL> to catch cats?|<yesno><close>"
+  },
+  "4": {
+    "捕獲グッズを　<%sL_CAPTURE_TOOL>に|変更しました。|<end>": "Catching tool changed to <%sL_CAPTURE_TOOL>.|<end>"
+  },
+  "5": {
+    "このネコ缶は　持っていないようだ……。|<end>": "You don't have any of this cat food...|<end>"
+  },
+  "6": {
+    "<%sL_CAPTURE_TOOL>は　すでに　セット中です。|<end>": "<%sL_CAPTURE_TOOL> is already set.<end>"
+  },
+  "7": {
+    "バッグには　ネコが　１匹もいないようだ……。|<end>": "There's not even a single cat inside|the bag...|<end>"
+  },
+  "8": {
+    "<pc>は　<%sL_CAT_SIZE>サイズの|<%sL_CAT_TYPE_NAME>（<%sL_CAT_COLOR>）を|つかまえた！|<se_nots System 7><end>": "<pc> caught a <%sL_CAT_TYPE_NAME> (<%sL_CAT_COLOR>)|of <%sL_CAT_SIZE> size!|<se_nots System 7><end>"
+  },
+  "9": {
+    "ここでは　ネコをつかまえられないようだ……。|違う場所で　使ってみよう！|<end>": "t doesn't seem like you can catch cats here.|Try using it somewhere else!|<end>"
+  },
+  "10": {
+    "ここでは　ネコをつかまえられないようだ……。|ネコバッグは　新エテーネの村の屋外で|使ってみよう。|<end>": "It doesn't seem like you can catch cats here.|Try using the Cat Bag inside New Ethene|Village.|<end>"
+  },
+  "11": {
+    "<%sL_CAT_SIZE>サイズの|<%sL_CAT_TYPE_NAME>（<%sL_CAT_COLOR>）と|お別れしますか？|<yesno 2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "Do you want to part with <%sL_CAT_TYPE_NAME>|(<%sL_CAT_COLOR>) (<%sL_CAT_SIZE> Size)?|<yesno 2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
+  },
+  "12": {
+    "お別れすると　二度と会えなくなりますが|本当に　いいですか？|<yesno 2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "If you say goodbye, you'll never see them|again. Are you sure about this?|<yesno 2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
+  },
+  "13": {
+    "<pc>は　<%sL_CAT_SIZE>サイズの|<%sL_CAT_TYPE_NAME>（<%sL_CAT_COLOR>）と|お別れした……。|<end>": "<pc> said goodbye to <%sL_CAT_TYPE_NAME>|(<%sL_CAT_COLOR>) (<%sL_CAT_SIZE> Size)...<end>"
+  },
+  "14": {
+    "<pc>は　ネコと　お別れしようとしたが|メレアーデが待っているのを　思いだした。|<br>|ネコバッグの中にいる　ネコを|メレアーデに　渡しにいこう！|<end>": "<pc> was about to let the cat go,|but then remembered to bring it to Mereade.|<br>|Go bring the cat to Mereade!"
+  },
+  "15": {
+    "<pc>は　<%sL_CAT_SIZE>サイズの|<%sL_CAT_TYPE_NAME>（<%sL_CAT_COLOR>）を|つかまえた！|<se_nots System 7><br>|はじめて　出会ったネコだ！|<end>": "<pc> caught a <%sL_CAT_TYPE_NAME> (<%sL_CAT_COLOR>)|of <%sL_CAT_SIZE> size!|<se_nots System 7>It's the first cat of this type you've caught!|<end>"
+  },
+  "16": {
+    "つかまえたネコ|場所：<%sL_CAT_AREA>|種類：<%sL_CAT_TYPE> <%sL_CAT_SEX><%sL_CAT_SIZE>|色： <%sL_CAT_COLOR> <%sL_EYE_COLOR>|性格：<%sL_CAT_CHAR>|<end>": "Caught Cat|Place: <%sL_CAT_AREA>|Type: <%sL_CAT_TYPE> <%sL_CAT_SEX><%sL_CAT_SIZE>|Color: <%sL_CAT_COLOR> <%sL_EYE_COLOR>|Personality: <%sL_CAT_CHAR>|<end>"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "1": {
+    "<%sL_PC>との取り引きを　やめますか？|<yesno><close>": "Stop trading with <%sL_PC>?|<yesno><close>"
+  },
+  "2": {
+    "<%sL_ITEM>を　取り下げますか？|<yesno><break>": "Do you want to remove <%sL_ITEM>?|<yesno><break>"
+  },
+  "3": {
+    "自分から相手に渡す物を　選択します。|<color_yellow>|※相手が選んだ物にも　カーソルが移動できます。|「くわしくみる」で　しっかり確認しましょう。|<color_white>|<break>": "Please choose the items you'd like to trade.|<color_yellow>|※You can also move the cursor to the other|player's items and examine them.|<color_white>|<break>"
+  },
+  "4": {
+    "渡すアイテムの|種類を　選んでください。|<break>": "Please select the type of item you'd like to|trade.<break>"
+  },
+  "5": {
+    "この内容で　取り引きをします。|よろしいですか？|<yesno><break>": "Make a trade with these items?|<yesno><break>"
+  },
+  "6": {
+    "エラーのため　トレードできませんでした。|もう一度　お試しください。|<end>": "Unable to trade due to an error. Please try|again.<end>"
+  },
+  "7": {
+    "<%sL_PC>との取り引きが　成立しました！|<end>": "Trade with <%sL_PC> was|successful!<end>"
+  },
+  "8": {
+    "<%sL_STORAGE>には　渡せる物が　ありません。|<bw_break>": "<%sL_STORAGE> has something to give...<bw_break>"
+  },
+  "9": {
+    "<%sL_COIN>を　持っていません。|<bw_break>": "You don't have <%sL_COIN>.<bw_break>"
+  },
+  "10": {
+    "<%sL_PC>との取り引きを　やめました。|<end>": "Stopped trading with|<%sL_PC>.<end>"
+  },
+  "11": {
+    "<%sL_ITEM>を　取り消しました。|<end>": "Undo <%sL_ITEM>...<end>"
+  },
+  "12": {
+    "<%sL_PC>の　<%sL_STORAGE>がいっぱいで|<%sL_ITEM>が入りきらないため|取り引きが　できませんでした。|<end>": "The <%sL_STORAGE> of <%sL_PC> is full and|<%sL_ITEM> cannot be filled, so the|transaction cannot be made...<end>"
+  },
+  "13": {
+    "<%sL_STORAGE>がいっぱいで|<%sL_ITEM>を受け取れないため|取り引きが　できませんでした。|<end>": "The <%sL_STORAGE> is too full to receive|<%sL_ITEM> and the transaction cannot be|completed...<end>"
+  },
+  "14": {
+    "取り引きが　キャンセルされました。|<end>": "The transaction has been canceled...<end>"
+  },
+  "15": {
+    "<%sL_PC>が決定するのを　待っています。|しばらく　お待ちください……。|<break>": "Waiting for <%sL_PC> to decide... Please wait|a moment...<break>"
+  },
+  "16": {
+    "自分から相手に渡す物を　選択します。|<color_yellow>|※相手が選んだ物にも　カーソルが移動できます。|「くわしくみる」で　しっかり確認しましょう。|<color_white>|<break>": "Please choose the items you'd like to trade.|<color_yellow>|※You can also move the cursor to the other|player's items and examine them.|<color_white>|<break>"
+  },
+  "17": {
+    "<%sL_ITEM>は　選んであります。|<bw_break>": "<%sL_ITEM> was selected.|<bw_break>"
+  },
+  "18": {
+    "<%sL_PC>に　<%nL_GOLD>ゴールドを|渡せなかったので|取り引きが　できませんでした。|<end>": "Couldn't give <%dL_GOLD> Gold to|<%sL_PC>, so the trade was|unsuccessful.|<end>"
+  },
+  "19": {
+    "<%nL_GOLD>ゴールドを|受け取れなかったので|取り引きが　できませんでした。|<end>": "Couldn't receive the <%dL_GOLD> Gold,|so the trade was unsuccessful.|<end>"
+  },
+  "20": {
+    "<%sL_PC>が　キャンセルしました。|<break>": "<%sL_PC> cancelled the trade.<break>"
+  },
+  "21": {
+    "<%sL_PC>の返事を　待っています……。|<break>": "Waiting for <%sL_PC> to respond...<break>"
+  },
+  "22": {
+    "取り引きの相手が　いなくなりました。|<end>": "Trade partner is too far away.<end>"
+  },
+  "23": {
+    "<%nL_GOLD>ゴールドを　取り出した。|<end>": "Received <%dL_GOLD> Gold from the trade.<end>"
+  },
+  "24": {
+    "<%sL_ITEM>を　取り出した。|<end>": "Received <%sL_ITEM> by trade.|<end>"
+  },
+  "25": {
+    "<%sL_ITEM>は|他のプレイヤーに　渡せないアイテムです。|<bw_break>": "<%sL_ITEM> cannot be traded.|<bw_break>"
+  },
+  "26": {
+    "<%sL_ITEM>を　<%nL_NUM>個　取り出した。|<end>": "Received <%dL_NUM> <%sL_ITEM> by trade.|<end>"
+  },
+  "27": {
+    "<%nL_GOLD>ゴールドを　取り消しました。|<end>": "<%dL_GOLD> Gold was removed.|<end>"
+  },
+  "28": {
+    "<%nL_GOLD>ゴールドを　取り下げますか？|<yesno><break>": "Withdraw <%dL_GOLD> Gold?|<yesno><break>"
+  },
+  "29": {
+    "取り引きは　行われませんでした。|<end>": "Trade was unsuccessful.|<end>"
+  },
+  "30": {
+    "<%sL_PC>に　取り引きを　申し込みますか？|<yesno><break>": "Would you like to trade with <%sL_PC>?|<yesno><break>"
+  },
+  "31": {
+    "取り引きの申し込みを　キャンセルしますか？|<yesno><break>": "Cancel the trade request?|<yesno><break>"
+  },
+  "32": {
+    "<speed=0>|とりひきの　説明です！|<br>|他のプレイヤーのキャラに　とりひきを申し込み|相手からも　ＯＫしてもらえると　そのキャラと|アイテムやゴールドの　交換ができます。|<br>|とりひきは　突然　申し込まずに|チャットなどで　先に　相手に|確認してからにしましょう。|<break>": "<speed=0>Here's how it works! If you offer to trade|for another player's character, and they|accept, you can trade that character for|<br>|items or gold... You don't want to make a|deal out of the blue, but you do want to|check with the other player first.<break>"
+  },
+  "33": {
+    "<%sL_ITEM>は|現在　<%nL_NUM>個　選択しています。|いくつに　変更しますか？|<break>": "<%sL_ITEM> now has <%nL_NUM> selected... How|many do you want to change?<break>"
+  },
+  "34": {
+    "<%sL_ITEM>を追加して|合計で　<%nL_NUM>個　取り出した。|<end>": "Add <%sL_ITEM> for a total of <%nL_NUM>...<end>"
+  },
+  "35": {
+    "<%sL_ITEM>は|すでに　装備されているため|他のプレイヤーに　渡せません。|<bw_break>": "<%sL_ITEM> is already equipped, so you can't|give it to another player...<bw_break>"
+  },
+  "36": {
+    "エラーのため　トレードがキャンセルされました。|もう一度　お試しください。|<end>": "The trade was canceled due to an error...|Please try again...<end>"
+  },
+  "37": {
+    "<%sL_ITEM>は|ロックされているため|他のプレイヤーに　渡せません。|<bw_break>": "<%sL_ITEM> is locked and cannot be passed to|another player...<bw_break>"
+  },
+  "38": {
+    "<%sL_ITEM>は|男性から女性にしか　渡せません。|<bw_break>": "<%sL_ITEM> can only be given by a man to a|woman...<bw_break>"
+  },
+  "39": {
+    "<%sL_PC>は　もう今日の分の|<%sL_ITEM>を受け取っているので|渡せません！|<bw_break>": "I can't give you <%sL_PC> because you've|already received <%sL_ITEM> for today!<bw_break>"
+  },
+  "40": {
+    "とても高額なゴールドの　取り引きです！|信頼できる相手か　よく確認してください。|<color_yellow>|※本メッセージは高額取り引き時に表示されます。|<color_white>|<br>|現実の金品によるゲームデータの売買（ＲＭＴ）は|禁止されており　処罰の対象となります。|そのようなことのないよう　ご注意ください。|<bw_break>": "This is a very expensive gold deal! Please|make sure you're dealing with someone you can|trust.<color_yellow>This message is displayed when a high value|deal is made...<color_white>Buying and selling game data for real money|(RMT) is prohibited and will be punished...|Please be careful not to do this...<bw_break>"
+  },
+  "41": {
+    "他のプレイヤーに　渡せないアイテムが|選択されています。|<bw_break>": "You've selected an item that can't be given|to another player.<bw_break>"
+  },
+  "42": {
+    "現在　捧げているアイテムのため|相手に渡すことは　できません。|<bw_break>": "Now that the item is dedicated, we can't give|it to the other...<bw_break>"
+  }
+}

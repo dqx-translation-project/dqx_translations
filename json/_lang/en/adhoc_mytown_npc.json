@@ -1,0 +1,1478 @@
+{
+  "1": {
+    "「どんなことを　聞きますか？|<break>": "What do you want to hear about?<break>"
+  },
+  "2": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』で|　つくることができる　大型の居住エリアです！|<br>|「景観や環境や　空の状態を変更できるほか|　時間を設定したり　道に庭具を配置できたり|　拠点になる　家を持つこともできますよ！|<br>|「ただし　景観や環境を|　変更できない町も　一部あります！|<br>|「それと　マイタウン内では　各種施設の係員の|　立ち位置を　変えられるので　好きな場所に|　お店を　開くこともできます！|<br>|「広い町を　みんなで　たのしく飾ったり|　たくさんの人を招いて　イベントを行うなど|　用途は　購入者さま次第！|<br>|「住宅村とは　ちょびっとちがった　充実の|　アストルティア・ライフを　送るために|　マイタウンの　ご提供をしています！": ""
+  },
+  "3": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』を　消費することで|　つくれますが　ここでは受け付けてません！|<br>|「港町レンドア北にいる『土地管理人リステア』が|　購入の受け付けを　おこなってますので|　そこで　聞いてみてください！": "You can buy My Town with a certain amount of|gold or by consuming a My Town Certificate of|Title and Seal, but we don't accept them|<br>|here! You'll find Listea, the Land Manager,|north of the port city of Lendore, and she'll|be happy to help you.|<br>"
+  },
+  "4": {
+    "「こんにちは！|　こちらは　マイタウンの　サポート窓口です！|　どういった　ご用でしょうか？|<break>": "Hello! This is the My Town support desk! How|may I help you?<break>"
+  },
+  "5": {
+    "「ほかに　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "6": {
+    "「マイタウンに　関することでしたら|　いつでも　声をかけてくださいね！": "If you have any questions about My Town, you|can always give me a call!"
+  },
+  "7": {
+    "「<pc>さんが　今　訪問ができる|　マイタウンを　探します！|　どの方法で　探しますか？|<break>": "<pc> I'll find My Town, where you can visit now!|Which way do you want to search?<break>"
+  },
+  "8": {
+    "「このマイタウンへ　移動しますか？|<yesno><break>": "Would you like to move to this My Town?<yesno><break>"
+  },
+  "9": {
+    "「お探しの条件での　マイタウンは|　見つかりませんでした～。|　もう一度　試してみてもらえますか？|<break>": "I couldn't find anything in My Town that|matches your criteria. Could you please try|again?|<br><break>"
+  },
+  "10": {
+    "「探したい　マイタウンＩＤを|　入力してください！|<break>": "Please enter the My Town ID you're looking|for!<break>"
+  },
+  "11": {
+    "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています！|<break>": "You're viewing my town for <%sL_MYTOWN_IDFILL|ERSTRING>-<%sL_MYTOWN_ID2>!<break>"
+  },
+  "12": {
+    "「はい！|　それでは　移動しちゃいますよ！|<br>|「ええーい！|　ケイデント　ニンウタイマ～！！|<break>": "Yes, sir! Then we're moving! Yeah! Cadet|Ninewootimer!<break>"
+  },
+  "13": {
+    "「探したい　マイタウン名を|　入力してください！|<break>": "Please enter the name of the My Town you're|looking for!<break>"
+  },
+  "14": {
+    "「<%sL_MYTOWN_NAME>という名前で|　登録しているマイタウンを　表示しています！|　どのマイタウンへ　移動しますか？|<break>": "I'm showing you the MyTowns registered under|the name <%sL_MYTOWN_NAME>! Which|MyTown would you like to move to?|<br><break>"
+  },
+  "15": {
+    "「ウェルカム設定してる　マイタウンの家に|　ランダムで訪問します！　遊びにいきたい|　マイタウンの家のテーマを　選んでください！|<break>": "You'll be randomly selected to visit any|MyTown house you've set up as a welcome!|Choose the theme of the My Town house you'd|<br>|like to visit!<break>"
+  },
+  "16": {
+    "「<%sL_MYTOWN_CATE>に設定してる|　マイタウンの家へ　ランダムで訪問します！|　移動しますか？|<yesno><break>": "I'll randomly visit the My Town house you've|set in <%sL_MYTOWN_CATE>! Do you|want to move?|<yesno><break>"
+  },
+  "17": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "18": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "19": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "20": {
+    "「お！　じゃあ！|　今から　さっそく|　自分のマイタウンへ　移動しちゃいますか？|<yesno><break>": "Oh! Well then! Do you want to move to your|own town right now?<yesno><break>"
+  },
+  "21": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "22": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "23": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "24": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "25": {
+    "clarity_nt_char_25": "clarity_nt_char_25"
+  },
+  "26": {
+    "clarity_nt_char_26": "clarity_nt_char_26"
+  },
+  "27": {
+    "「どの説明を　聞きますか？|<break>": "Listen to which explanation?<break>"
+  },
+  "28": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』で|　つくることができる　大型の居住エリアです。|<br>|「景観や環境　空の状態を変更できるほか|　時間を設定したり　道に庭具を配置でき|　拠点となる　家を持つこともできます。|<br>|「ただし　景観や環境を|　変更できない町も　一部あります。|<br>|「マイタウン内では　各種施設の係員の|　立ち位置を　変えられるので　好きな場所に|　お店を　開くこともできますよ。|<br>|「広い町を　みんなで　にぎやかに飾ったり|　たくさんの人を招いて　イベントを行うなど|　用途は　ご購入者さま次第。|<br>|「住宅村とは　ひと味ちがった　充実の|　アストルティア・ライフを　送るために|　マイタウンの　ご提供をしております。": ""
+  },
+  "29": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』を　消費することで|　つくれますが　ここでは受け付けておりません。|<br>|「港町レンドア北にいる『土地管理人リステア』が|　購入の受け付けを　おこなっておりますので|　そこで　おたずねいただけますか？": "You can buy My Town with a certain amount of|gold, or by spending a My Town Certificate of|Title and a sealed envelope, but we don't|<br>|accept... Listea, the land manager, is|located in the north of the port city of|Lendore, and she'll be happy to help you with|<br>|your purchase."
+  },
+  "30": {
+    "「こんにちは。|　こちらは　マイタウンの　サポート窓口です。|　どういった　ご用でしょうか？|<break>": "Hello... This is the support window for My|Town... How can I help you?<break>"
+  },
+  "31": {
+    "「ほかに　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "32": {
+    "「マイタウンに　関することでしたら|　いつでも　声をかけてくださいね。": "If you have any questions about My Town,|please feel free to contact me..."
+  },
+  "33": {
+    "「<pc>さんが　今　訪問ができる|　マイタウンを　探します。|　どの方法で　探しますか？|<break>": "<pc> I'm looking for My Town, where you can visit|now... How would you like to find it?<break>"
+  },
+  "34": {
+    "「このマイタウンへ　移動しますか？|<yesno><break>": "Would you like to move to this My Town?<yesno><break>"
+  },
+  "35": {
+    "「お探しの条件での　マイタウンは|　見つかりませんでした。|　再度　お試しください。|<break>": "We can't find a My Town that matches your|search criteria... Please try again...<break>"
+  },
+  "36": {
+    "「探したい　マイタウンＩＤを|　入力してください。|<break>": "Please enter the My Town ID you're looking|for.<break>"
+  },
+  "37": {
+    "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています。|<break>": "I'm displaying the My Town with the ID|<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>.<break>"
+  },
+  "38": {
+    "「それでは　移動します。|<br>|「ケイデント～　ニンウタイマ！|<break>": "Now, let's move... Cadet~ Ningutai Ma!<break>"
+  },
+  "39": {
+    "「探したい　マイタウン名を|　入力してください。|<break>": "Please enter the name of the My Town you're|looking for.<break>"
+  },
+  "40": {
+    "「<%sL_MYTOWN_NAME>　という名前で|　登録しているマイタウンを　表示しています。|　どのマイタウンへ　移動しますか？|<break>": "I'm displaying all My Towns with the name|<%sL_MYTOWN_NAME>.|Which would you like to go to?|<break>"
+  },
+  "41": {
+    "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問します。遊びにいきたい|　マイタウンの家のテーマを　選んでください。|<break>": "You'll randomly visit a My Town that has the|Welcome setting enabled. Please choose the|theme of the My Town you'd like to visit.|<break>"
+  },
+  "42": {
+    "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問します。|　移動しますか？|<yesno><break>": "You'll randomly visit a My Town that's set to|<%sL_MYTOWN_CATE>.|Do you want to go?|<yesno><break>"
+  },
+  "43": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "44": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "45": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "46": {
+    "「わかりました。|　では　今から　さっそく|　ご自分のマイタウンへ　移動しますか？|<yesno><break>": "Understood. Would you like to go to your own|My Town?|<yesno><break>"
+  },
+  "47": {
+    "clarity_nt_char_47": "clarity_nt_char_47"
+  },
+  "48": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "49": {
+    "clarity_nt_char_49": "clarity_nt_char_49"
+  },
+  "50": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "51": {
+    "clarity_nt_char_51": "clarity_nt_char_51"
+  },
+  "52": {
+    "clarity_nt_char_52": "clarity_nt_char_52"
+  },
+  "53": {
+    "「どの説明を　聞きますか？|<break>": "Listen to which explanation?<break>"
+  },
+  "54": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』で|　つくることができる　大型の居住エリアです。|<br>|「景観や環境　空の状態を変更できるほか|　時間を設定したり　道に庭具を配置できたり|　拠点となる　家を持つこともできます。|<br>|「ただし　景観や環境を|　変更できない町も　一部あります。|<br>|「マイタウン内では　各種施設の係員の|　立ち位置を　変えられるので　好きな場所に|　お店を　開くことも可能です。|<br>|「広大な町を　みんなで　にぎやかに飾ったり|　たくさんの人を招いて　イベントを行うなど|　用途は　ご購入者さま次第。|<br>|「住宅村とは　ひと味ちがった　充実の|　アストルティア・ライフを　送るために|　マイタウンの　ご提供をしております。": ""
+  },
+  "55": {
+    "「マイタウンの　ご購入については|　こちらで　受け付けております。|<br>|「一定額のゴールドを　お支払いになるか|　『マイタウン権利証・封書』を　こちらへ|　お持ちになることで　購入ができます。|<br>|「購入を希望される場合は|　『マイタウンをつくる』を　お選びいただき|　どちらの方法で購入するか　ご検討ください。|<br>|「『マイタウン権利証・封書』については|　さまざまな　入手手段がありますが|　旅人バザーで　出品可能なアイテムとなります。|<br>|「また　マイタウンメダルという　メダルを|　１０００こ　集められても　権利証・封書を１つ|　お渡ししますので　ぜひ集めてみてください。": ""
+  },
+  "56": {
+    "「こんにちは。|　こちらは　マイタウンの　総合案内窓口です。|　どういった　ご用でしょうか？|<break>": "This is... This is My Town's general|information window... What can I do for you,|sir?|<br><break>"
+  },
+  "57": {
+    "「ほかに　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "58": {
+    "「ありがとうございました。|　マイタウンに　関することでしたら|　いつでも　声をかけてくださいね。": "Thank you... If you have any questions about|My Town, please feel free to contact me..."
+  },
+  "59": {
+    "「<pc>さんが　現在　訪問できる|　マイタウンを　探します。|　どの方法で　探しますか？|<break>": "You want to visit a My Town? How would you|like to search for one?|<break>"
+  },
+  "60": {
+    "「このマイタウンへ　移動なさいますか？|<yesno><break>": "Would you like to move to this My Town?<yesno><break>"
+  },
+  "61": {
+    "「お探しの条件での　マイタウンは|　見つかりませんでした。|　再度　お試しくださいませ。|<break>": "We can't find a My Town that matches your|search criteria... Please try again...<break>"
+  },
+  "62": {
+    "「探したい　マイタウンＩＤを|　入力してください。|<break>": "Please enter the My Town ID you're looking|for.<break>"
+  },
+  "63": {
+    "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています。|<break>": "I'm displaying the My Town with the ID|<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>.<break>"
+  },
+  "64": {
+    "「それでは　移動します。|<br>|「ケイデント……　ニンウタイマ！|<break>": "Then, let's go!|<br>|<break>|Nwot ym ot....ylf s'tel!|<break>"
+  },
+  "65": {
+    "「探したい　マイタウン名を|　入力してください。|<break>": "Please enter the name of the My Town you're|looking for.<break>"
+  },
+  "66": {
+    "「<%sL_MYTOWN_NAME>という名前で|　登録している　マイタウンを表示しています。|　どのマイタウンへ　移動なさいますか？|<break>": "I want to see all the MyTowns that are|registered under the name|<%sL_MYTOWN_NAME>... Which MyTown|<br>|would you like to move to?<break>"
+  },
+  "67": {
+    "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問します。遊びにいきたい|　マイタウンの家のテーマを　選んでください。|<break>": "You'll randomly visit a My Town that has the|Welcome setting enabled. Please choose the|theme of the My Town you'd like to visit.|<break>"
+  },
+  "68": {
+    "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問します。|　移動しますか？|<yesno><break>": "You'll randomly visit a My Town that's set to|<%sL_MYTOWN_CATE>.|Do you want to go?|<yesno><break>"
+  },
+  "69": {
+    "「購入前の　確認ですが|　拠点として利用できる　マイタウンは|　おひとり様　ひとつまで。|<br>|「ご購入いただいた町の権利は|　他の町や住宅村に　引っ越しをしても|　なくなることはないので　ご安心ください。|<br>|「マイタウンでは　新しい自宅の住所を持つため|　住宅村に自宅がある場合は　マイタウンへの|　引っ越しが　必要となります。|<br>|「バトンちゃんは　マイタウンへは　来ないので|　プレゼントの受け取りが　まだでしたら|　受け取ってからのご購入を　お勧めいたします。": ""
+  },
+  "70": {
+    "「ご購入を　やめられるのですね。|　よく検討してからでも　よいと思いますよ。": "If you decide not to purchase... I think it|would be best if you considered..."
+  },
+  "71": {
+    "「マイタウンが　完成しました。|　<pc>さんの|　マイタウン情報は　こちらになります。|<br>|「マイタウンの　土地所有者として|　だいじなものに　『マイタウン権利証』を|　入れさせていただきました。|<br>|「また　マイタウンの機能を　使う準備として|　マイタウン内の土地の　いずれかの立て札から|　拠点となる住まいを　設定する必要があります。|<br>|「入場後は　まず　いずれかの立て札を調べて|　『本宅』にする土地を　決めてください。|　そうすることで　機能の使用が可能になります。": "Now that My Town is complete...<pc> Here's the My Town information for Mr... As a|MyTown landowner, it is important that you|have a MyTown Certificate of Title... In|<br>|preparation for using the MyTown feature, you|need to set up a home base on one of the|MyTown lots... Once you've entered, you'll|<br>|need to check out one of the signs and decide|which one you'd like to use as your main|residence... Then you'll be able to use the|<br>|functions..."
+  },
+  "72": {
+    "「では……|　今から　さっそく|　ご自分のマイタウンへ　移動なさいますか？|<yesno><break>": "So... Would you like to move to your own town|now?<yesno><break>"
+  },
+  "73": {
+    "「ゴールドでのご購入には　費用として|　<%nL_HSGTOWN_PRICE>ゴールド|　かかりますが　よろしいですか？|<yesno 2><close>": "It will cost you|<%nL_HSGTOWN_PRICE> gold to|purchase it, is that correct?|<br><yesno 2><close>"
+  },
+  "74": {
+    "「<%nL_HSGTOWN_PRICE>ゴールドを|　お支払いいただくことに　なりますが|　本当に　マイタウンを　購入なさいますか？|<yesno 2><break>": "You'll be paying|<%nL_HSGTOWN_PRICE> gold, but are|you sure you want to buy My Town?|<br><yesno 2><break>"
+  },
+  "75": {
+    "「申し訳ありません。<pc>さんは|　お持ちのゴールドが　足りないため|　マイタウンの　購入ができないようです。|<br>|「ゴールドでの購入を　ご希望される場合|　必要な費用を　ご用意なさってから|　再度　お声がけくださいませ。": "I'm sorry...<pc> I'm sorry, but Mr. and Mrs. Fitzgerald are|unable to purchase My Town because they do|not have enough gold... If you would like to|<br>|purchase MyTown with your Gold, please|contact us again when you have the necessary|funds...|<br>"
+  },
+  "76": {
+    "「おや？　<pc>さんは|　すでに　マイタウンをお持ちですね。|<br>|「申し訳ありませんが　マイタウンの購入は|　おひとりさま　ひとつまでとなっておりますので|　新しい購入は　できません。|<bw_break>": "Hmm?<pc> You already have a My Town... I'm sorry, but|you can only purchase one MyTown per person,|so you can't purchase a new...|<br><bw_break>"
+  },
+  "77": {
+    "「『マイタウン権利証・封書』を　使って|　マイタウンを　購入なさいますか？|<yesno 2><break>": "Would you like to purchase My Town using the|My Town Certificate of Title and Envelope?<yesno 2><break>"
+  },
+  "78": {
+    "「お持ちの『マイタウン権利証・封書』でも|　マイタウンを　つくれますけど|　どの方法で　つくりますか？": "You can create My Town with your My Town|Certificate of Title and sealed envelope, but|which method do you use?|<br>"
+  },
+  "79": {
+    "「どんなことを　聞きたいんだ？|<break>": "What do you want to hear about?<break>"
+  },
+  "80": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』で|　つくることができる　大型の居住エリアだ。|<br>|「景観や環境　空の状態を変更できるほか|　時間を設定したり　道に庭具を配置できたり|　拠点となる　家を持つこともできるんだ。|<br>|「ただし　景観や環境を|　変更できない町も　一部あるんだ。|<br>|「あと　マイタウンの中では　各種施設の係員の|　立ち位置を　変えられるから　好きな場所に|　店を　開くことも可能だ。|<br>|「みんなで　広い町を　華やかに飾ったり|　たくさんの人を呼んで　イベントを行ったり|　用途は　購入した人次第だな。|<br>|「住宅村とは　少しちがった　充実の|　アストルティア・ライフを　送るために|　マイタウンの　提供をしているんだ。": ""
+  },
+  "81": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』を　消費することで|　つくれるが　ここでは受け付けていない。|<br>|「港町レンドア北にいる『土地管理人リステア』が|　購入の受け付けを　やってるはずだから|　そこで　聞いてみてもらえるだろうか？": "You can buy My Town with a certain amount of|gold or by consuming a My Town Certificate of|Title, but we don't accept them here. Listea,|<br>|the land manager north of the port city of|Lendore, should be accepting purchases, so|you could ask her there.|<br>"
+  },
+  "82": {
+    "「ああ　こんにちは。|　ここは　マイタウンの　サポート窓口だ。|　何か用か？|<break>": "Oh, my... This is My Town Support... What do|you want?<break>"
+  },
+  "83": {
+    "「ほかに　用はあるか？|<break>": "Anything else you need?|<break>"
+  },
+  "84": {
+    "「マイタウンに　関することなら|　いつでも　声をかけてくれ。|　まだ少し慣れないが……がんばって　案内する。": "If you have any questions about my town, you|can always reach out to me... I'm still a|little new at this, but... I'll do my best...|<br>"
+  },
+  "85": {
+    "「<pc>さんが　今　訪問できる|　マイタウンを　探せるが|　どの方法で　探したいんだ？|<break>": "<pc> I can find My Town for you to visit now, but|which way do you want to do it?<break>"
+  },
+  "86": {
+    "「このマイタウンへ　移動するか？|<yesno><break>": "Do you want to move to this My Town?<yesno><break>"
+  },
+  "87": {
+    "「探している条件での　マイタウンは|　見つからないようだ。|　もう一度　試してみてほしい。|<break>": "I can't find anything in My Town that matches|what I'm looking for... Please try again...<break>"
+  },
+  "88": {
+    "「探したい　マイタウンＩＤを|　入力してくれ。|<break>": "Just enter the Mytown ID you're looking|for...<break>"
+  },
+  "89": {
+    "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しているぞ。|<break>": " <%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2> My Town is being displayed.<break>"
+  },
+  "90": {
+    "「じゃあ　移動を開始する。|<br>|「ケイデント……　ニンウタイマ！|<break>": "Okay, let's move... Cadet... Ninwutimer!<break>"
+  },
+  "91": {
+    "「探したい　マイタウン名を|　入力してくれ。|<break>": "Please type in the My Town name that you are|looking for.|<break>"
+  },
+  "92": {
+    "「<%sL_MYTOWN_NAME>という名前で|　登録しているマイタウンは　これだけあるが|　どのマイタウンへ　移動したいんだ？|<break>": "This is the only MyTown I have registered|under the name <%sL_MYTOWN_NAME>,|but which MyTown do you want to move to?|<br><break>"
+  },
+  "93": {
+    "「ウェルカム設定している　マイタウンの家に|　ランダムで訪問するぞ。遊びにいきたい|　マイタウンの家のテーマを　選んでくれ。|<break>": "I've set up a welcome for you to visit a|random house in my town. Select the theme of|the My Town house you wish to visit...|<br><break>"
+  },
+  "94": {
+    "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問するぞ。|　移動するか？|<yesno><break>": "<%sL_MYTOWN_CATE> is set to|Randomly visit a house in My Town... Do you|want to move?|<br><yesno><break>"
+  },
+  "95": {
+    "clarity_nt_char_95": "clarity_nt_char_95"
+  },
+  "96": {
+    "clarity_nt_char_96": "clarity_nt_char_96"
+  },
+  "97": {
+    "clarity_nt_char_97": "clarity_nt_char_97"
+  },
+  "98": {
+    "「わかった。|　今から　すぐに|　自分のマイタウンに　移動するんだな？|<yesno><break>": "Wow... You're going to move to your own town|right now, aren't you?<yesno><break>"
+  },
+  "99": {
+    "clarity_nt_char_99": "clarity_nt_char_99"
+  },
+  "100": {
+    "clarity_nt_char_100": "clarity_nt_char_100"
+  },
+  "101": {
+    "clarity_nt_char_101": "clarity_nt_char_101"
+  },
+  "102": {
+    "clarity_nt_char_102": "clarity_nt_char_102"
+  },
+  "103": {
+    "clarity_nt_char_103": "clarity_nt_char_103"
+  },
+  "104": {
+    "clarity_nt_char_104": "clarity_nt_char_104"
+  },
+  "105": {
+    "「どの説明を　聞きましゅか？|<break>": "Which explanation did you hear?<break>"
+  },
+  "106": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』で|　つくることができる　大型の居住エリアでし。|<br>|「景観や環境や　空の状態や時間を変更したり|　道に庭具を配置できたり　拠点になる家を|　持つこともできる　わりと自由な空間でしよ。|<br>|「ただし　景観や環境を|　変更できない町も　一部あるでし。|<br>|「あと　マイタウンの中では　各種施設の係員の|　立ち位置を　変えられるので　好きな場所に|　お店を　開くこともできましゅよ。|<br>|「おっきな町を　みんなで　にぎやかに飾ったり|　たっくさんの人を呼んで　イベントをしたり|　用途は　購入した人次第でし。|<br>|「住宅村とは　ちょっぴりちがった　たのしい|　アストルティア・ライフを　送るために|　マイタウンを　提供してるでし。": ""
+  },
+  "107": {
+    "「マイタウンは　一定額のゴールドで購入するか|　『マイタウン権利証・封書』で　つくれましゅが|　ここでは　受け付けてないでし～。|<br>|「港町レンドア北にいる『土地管理人リステア』が|　購入の受け付けを　やってましゅので|　そこで　聞いてみてもらえましゅか？": "You can buy a MyTown with a certain amount of|gold or with a MyTown Certificate of Title|and a sealed envelope, but we don't accept|<br>|them here... Listea, the land manager in the|north of the port city of Lendore, is|accepting purchases, so could you ask her|<br>|about it?"
+  },
+  "108": {
+    "「こんにゃちわ！|　こちらは　マイタウンの　サポート窓口でし！|　どんな　ご用でしか？|<break>": "Good afternoon! This is the support desk for|My Town! How can I help you?<break>"
+  },
+  "109": {
+    "「ほかに　ご用はありましゅか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "110": {
+    "「マイタウンのことでしたら|　いつでも　声をかけてくだしゃいね。": "If you have any questions about My Town, you|can always reach out to me..."
+  },
+  "111": {
+    "「<pc>さんが　今　訪問できる|　マイタウンを　探しましゅ。|　どの方法で　探しましゅか？|<break>": "You'd like to visit a My Town now? How would|you like to search for one?|<break>"
+  },
+  "112": {
+    "「このマイタウンへ　移動しましゅか？|<yesno><break>": "Are you moving to this My Town?<yesno><break>"
+  },
+  "113": {
+    "「探してる条件での　マイタウンは|　見つかりましぇん～。|　もう一度　試してみてほしいでしゅ。|<break>": "I'm sorry, sir, but I think I've found the My|Town you're looking for... I'd like you to|try again...|<br><break>"
+  },
+  "114": {
+    "「探したい　マイタウンＩＤを|　入力してくだしゃい。|<break>": "Please enter the My Town ID you're looking|for.|<break>"
+  },
+  "115": {
+    "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示してましゅ。|<break>": "Show My Town in <%sL_MYTOWN_ID>-<|%sL_MYTOWN_ID2>...<break>"
+  },
+  "116": {
+    "「それじゃあ　いきましゅよ～。|<br>|「うにゃにゃにゃにゃ～！！|　ケイデント　ニンウタイマ～！！|<break>": "Okay, here we go... Nya-ya-ya-ya~! Kay-dent|nin-utai-ma~!<break>"
+  },
+  "117": {
+    "「探したい　マイタウン名を|　入力してくだしゃい。|<break>": "Please enter the name of the My Town you're|looking for...<break>"
+  },
+  "118": {
+    "「<%sL_MYTOWN_NAME>ちゅう名前で|　登録してるマイタウンを　表示してましゅ。|　どのマイタウンへ　移動しましゅか？|<break>": "<%sL_MYTOWN_NAME> This will show|you all the MyTowns that you have registered|for... Which MyTown would you like to move|<br>|to?<break>"
+  },
+  "119": {
+    "「ウェルカム設定してる　マイタウンの家に|　ランダムで訪問しましゅ。遊びにいきたい|　マイタウンの家のテーマを　選んでくだしゃい。|<break>": "I'm gonna randomly visit all the houses in my|town that I've set up as welcomes. Select the|theme of the My Town house you wish to|<br>|visit...<break>"
+  },
+  "120": {
+    "「<%sL_MYTOWN_CATE>に設定してる|　マイタウンの家へ　ランダムで|　訪問しましゅけど　移動しましゅか？|<yesno><break>": "I've set <%sL_MYTOWN_CATE> to|randomly visit homes in my town, do you want|to move?|<br><yesno><break>"
+  },
+  "121": {
+    "clarity_nt_char_121": "clarity_nt_char_121"
+  },
+  "122": {
+    "clarity_nt_char_122": "clarity_nt_char_122"
+  },
+  "123": {
+    "clarity_nt_char_123": "clarity_nt_char_123"
+  },
+  "124": {
+    "「了解でし！|　今から　さっそく|　ご自分のマイタウンへ　移動しましゅか？|<yesno><break>": "Yes, sir! Would you like to move to your own|town now?<yesno><break>"
+  },
+  "125": {
+    "clarity_nt_char_125": "clarity_nt_char_125"
+  },
+  "126": {
+    "clarity_nt_char_126": "clarity_nt_char_126"
+  },
+  "127": {
+    "clarity_nt_char_127": "clarity_nt_char_127"
+  },
+  "128": {
+    "clarity_nt_char_128": "clarity_nt_char_128"
+  },
+  "129": {
+    "clarity_nt_char_129": "clarity_nt_char_129"
+  },
+  "130": {
+    "clarity_nt_char_130": "clarity_nt_char_130"
+  },
+  "131": {
+    "「どんなことを　聞きたいのかしら？|<break>": "What do you want to ask me about?<break>"
+  },
+  "132": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』で|　つくることができる　大型の居住エリアよ。|<br>|「景観や環境　空の状態を変更できるほか|　時間の設定をしたり　道に庭具を配置できたり|　拠点となる　家を持つこともできるの。|<br>|「ただし　景観や環境を|　変更できない町も　一部あるわ。|<br>|「あと　マイタウン内では　各種施設の係員の|　立ち位置を　変えられるから　好きな場所に|　お店を　開くこともできるわ。|<br>|「みんなで　大きな町を　華やかに飾ったり|　たくさんの人を招いて　イベントを行ったり|　用途は　購入した人次第ね。|<br>|「住宅村とは　少しちがった　優雅な|　アストルティア・ライフを　送るために|　マイタウンの　提供をしているわ。": ""
+  },
+  "133": {
+    "「マイタウンは　一定額のゴールドでの購入か|　『マイタウン権利証・封書』を　消費することで|　つくれるけれど　ここでは受け付けていないの。|<br>|「港町レンドア北にいる『土地管理人リステア』が|　購入の受け付けを　やっているはずだから|　そこで　聞いてみてもらえるかしら？": "You can buy a MyTown with a certain amount of|gold or by spending a MyTown Certificate of|Entitlement, but we don't accept... I'm sure|<br>|Listea, the land manager north of the port|city of Lendore, will be able to help you|purchase one.|<br>"
+  },
+  "134": {
+    "「あら　いらっしゃい。|　ここは　マイタウンの　サポート窓口よ。|　どういった　ご用かしら？|<break>": "Hey, there... This is My Town Support... How|can I help you?<break>"
+  },
+  "135": {
+    "「ほかに　ご用はおありかしら？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "136": {
+    "「マイタウンに　関することなら|　いつでも　声をかけてちょうだいね。": "If you have any questions about My Town, you|can always call me..."
+  },
+  "137": {
+    "「<pc>さんが　今　訪問できる|　マイタウンを　探すわね。|　どの方法で　探したいのかしら？|<break>": "You're trying to find a My Town? How would|like to search for one?|<break>"
+  },
+  "138": {
+    "「このマイタウンへ　移動するの？|<yesno><break>": "Are we moving to this My Town?<yesno><break>"
+  },
+  "139": {
+    "「探している条件での　マイタウンは|　見つからないわねぇ。|　もう一度　試してみてもらえる？|<break>": "I can't find anything in My Town that matches|what I'm looking for... Can you try again?<break>"
+  },
+  "140": {
+    "「探したい　マイタウンＩＤを|　入力してちょうだい。|<break>": "I want to find it. Just enter your Mytown|ID...<break>"
+  },
+  "141": {
+    "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示してるわ。|<break>": "<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2> My Town is being displayed.|<break>"
+  },
+  "142": {
+    "「じゃあ　移動するわよ。|<br>|「ケイデント……　ニンウタイマ！|<break>": "Okay, let's move... Cadet... Ninwutimer!<break>"
+  },
+  "143": {
+    "「探したい　マイタウン名を|　入力してちょうだい。|<break>": "Please enter the name of the My Town you want|to search for.|<break>"
+  },
+  "144": {
+    "「<%sL_MYTOWN_NAME>という名前で|　登録しているマイタウンは　これだけあるわ。|　どのマイタウンへ　移動したいのかしら？|<break>": "This is the only MyTown I have registered|under the name|<%sL_MYTOWN_NAME>... Which MyTown|<br>|would you like to move to?<break>"
+  },
+  "145": {
+    "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問するわ。遊びにいきたい|　マイタウンの家のテーマを　選んでちょうだい。|<break>": "I'm going to randomly visit houses in my town|that I've set up to welcome me. Select the|theme of the My Town house you wish to|<br>|visit...<break>"
+  },
+  "146": {
+    "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問するけど|　移動したいのかしら？|<yesno><break>": "I've got <%sL_MYTOWN_CATE> set to|randomly visit houses in my town, but do I|want to move them?|<br><yesno><break>"
+  },
+  "147": {
+    "clarity_nt_char_147": "clarity_nt_char_147"
+  },
+  "148": {
+    "clarity_nt_char_148": "clarity_nt_char_148"
+  },
+  "149": {
+    "clarity_nt_char_149": "clarity_nt_char_149"
+  },
+  "150": {
+    "「そう……|　今から　すぐに|　自分のマイタウンへ　移動するのね？|<yesno><break>": "So... You're going to move to your own town|right now, aren't you?<yesno><break>"
+  },
+  "151": {
+    "clarity_nt_char_151": "clarity_nt_char_151"
+  },
+  "152": {
+    "clarity_nt_char_152": "clarity_nt_char_152"
+  },
+  "153": {
+    "clarity_nt_char_153": "clarity_nt_char_153"
+  },
+  "154": {
+    "clarity_nt_char_154": "clarity_nt_char_154"
+  },
+  "155": {
+    "clarity_nt_char_155": "clarity_nt_char_155"
+  },
+  "156": {
+    "clarity_nt_char_156": "clarity_nt_char_156"
+  },
+  "157": {
+    "「こんにちは！|　こちらは　マイタウンの　サポート窓口です！|　どういった　ご用でしょうか？|<br>|「あれ？　<pc>さんは|　港町レンドア北にいる　土地管理人リステアと|　一度も　話したことがないみたいですね。|<br>|「マイタウンについては　土地管理人リステアと|　一度でも　話したことがある人にだけ|　ご案内をさせていただいてるんです！|<br>|「ごめんなさい！　港町レンドア北にいる|　土地管理人リステアと　話しをしてから|　私に　また話しかけてもらえますか？": "Hello! This is the My Town support desk! How|may I help you? Huh?<pc> It seems that you've never spoken to Listair,|the caretaker of the land north of Lendore...|We only give information about My Town to|<br>|those who have spoken to the caretaker,|Listair, at least once! I'm sorry! Could you|please talk to Listea the Caretaker north of|<br>|the port city of Lendore, and then talk to me|again?"
+  },
+  "158": {
+    "「こんにちは。|　こちらは　マイタウンの　サポート窓口です。|　どういった　ご用でしょうか？|<br>|「あれ？　<pc>さんは|　港町レンドア北にいる　土地管理人リステアと|　一度も　話したことがないようですね。|<br>|「マイタウンについては　土地管理人リステアと|　一度でも　お話しをしたことがある人にだけ|　ご案内をさせていただいてます。|<br>|「申し訳ありませんが　港町レンドア北にいる|　土地管理人リステアと　お話しをされてから|　もう一度　お声がけいただけますか？": "Hello... This is the support window for My|Town... How may I help you? Huh?<pc> You've never spoken to Listair the Caretaker|north of Lendore... My Town is only available|to those who have spoken to Listair the|<br>|Caretaker at least once. I'm sorry, but I'm|afraid you'll have to wait until you've|spoken to Listair, the groundskeeper north of|<br>|Port Lendl, before you can speak to him|again."
+  },
+  "159": {
+    "「こんにちは。|　こちらは　マイタウンの　総合案内窓口です。|　どういった　ご用でしょうか？|<br>|「おや？　<pc>さんは|　港町レンドア北にいる　土地管理人リステアと|　一度も　話したことがないようですね。|<br>|「マイタウンについては　土地管理人リステアと|　お話しをしたことがある方にのみ|　ご案内をさせていただいております。|<br>|「申し訳ありませんが　港町レンドア北にいる|　土地管理人リステアと　お話しをされてから|　再度　お声がけいただけますか？": "This is... This is My Town's general|information window... How may I help you?|Hmm?|<br><pc> You've never spoken to Listair, the land|manager north of Lendore... My Town is only|available to those who have spoken with|<br>|Listair the Caretaker... I'm sorry, but I'm|afraid you'll have to speak with Listair the|Caretaker at Port Lendl North, and then we|<br>|can talk again."
+  },
+  "160": {
+    "「ああ　こんにちは。|　ここは　マイタウンの　サポート窓口だ。|　何か用か？|<br>|「ん？　あんたは|　港町レンドア北にいる　土地管理人リステアと|　まだ一度も　話したことがないようだな。|<br>|「マイタウンについては　土地管理人リステアと|　一度でも　話したことがある人にだけ|　案内をしているんだ。|<br>|「何かのついででも　港町レンドア北にいる|　土地管理人リステアと　話しをしてから|　また　私に話しかけてもらえないだろうか？": "Oh, my... This is My Town Support... Can I|help you? Hmm? You've never spoken to|Listair, the groundskeeper north of the port|<br>|city of Lendore... My town is only open to|those who've spoken to the caretaker,|Listair... I was wondering if you could take|<br>|a moment to talk to Listair the Caretaker|north of the port city of Lendore, and then|come back and talk to me.|<br>"
+  },
+  "161": {
+    "「こんにゃちわ！|　こちらは　マイタウンの　サポート窓口でし！|　どんな　ご用でしか？|<br>|「うにゃ？　<pc>さんは|　港町レンドア北にいる　土地管理人リステアと|　一度も　話したことがないみたいでしゅね。|<br>|「マイタウンについては　土地管理人リステアと|　一度でも　お話しをしたことがある人にだけ|　ご案内してるでし。|<br>|「申し訳ないでしゅけど　港町レンドア北にいる|　土地管理人リステアと　お話しをしてから|　また　話しかけてもらえましゅか？": "Good afternoon! This is the support desk for|My Town! How can I help you? What?<pc> You've never spoken to Listair, the caretaker|of the land north of Lendore... My Town is|only for those who've spoken to Listair the|<br>|Caretaker at least once... I'm sorry, but|could you please talk to Listea, the land|manager, north of the port town of Lendore,|<br>|and then talk to me again?"
+  },
+  "162": {
+    "「いらっしゃい。|　ここは　マイタウンの　サポート窓口よ。|　どういった　ご用かしら？|<br>|「あら？　<pc>さんは|　港町レンドア北にいる　土地管理人リステアと|　まだ一度も　話したことがないようね。|<br>|「マイタウンについては　土地管理人リステアと|　一度でも　話しをしたことがある人にだけ|　案内をさせてもらってるの。|<br>|「申し訳ないけど　港町レンドア北にいる|　土地管理人リステアと　話しをしてから|　また　私に話しかけもらえるかしら？": "Welcome to... This is My Town Support... What|can I do for you? Oh, no.<pc> You've never spoken to Listair, the caretaker|of the land north of Lendore... I'll only|show you My Town if you've already spoken to|<br>|Listair the Caretaker. I'm sorry, but after|you've spoken to Listair the Caretaker north|of the port city of Lendore, would you mind|<br>|talking to me again?"
+  },
+  "163": {
+    "「マイタウンＩＤを　入力してないので|　探せないです！　もう一度　探したい|　マイタウンＩＤを　入力してください！|<bw_break>": "You didn't enter a My Town ID! Please try|again by entering a My Town ID.|<bw_break>"
+  },
+  "164": {
+    "「マイタウン名を　入力してないので|　探せないです！　もう一度　探したい|　マイタウン名を　入力してください！|<bw_break>": "I can't find it because I didn't enter my|town's name! Please enter the name of the My|Town you want to find again!|<br><bw_break>"
+  },
+  "165": {
+    "clarity_nt_char_165": "clarity_nt_char_165"
+  },
+  "166": {
+    "「マイタウンＩＤを　入力しないと|　探すことができません。もう一度　探したい|　マイタウンＩＤを　入力してください。|<bw_break>": "If you don't enter your My Town ID, you won't|be able to find it... I want to search again.|Please enter your Mytown ID...|<br><bw_break>"
+  },
+  "167": {
+    "「マイタウン名を　入力しないと|　探すことができません。もう一度　探したい|　マイタウン名を　入力してください。|<bw_break>": "If you don't enter a My Town name, you can't|find it... Please enter the name of the My|Town you wish to find again...|<br><bw_break>"
+  },
+  "168": {
+    "clarity_nt_char_168": "clarity_nt_char_168"
+  },
+  "169": {
+    "「マイタウンＩＤを　入力されないと|　探すことができません。もう一度　探したい|　マイタウンＩＤを　入力してください。|<bw_break>": "If you don't enter your My Town ID, we can't|find you... Please enter your Mytown ID to|search again...|<br><bw_break>"
+  },
+  "170": {
+    "「マイタウン名を　入力されないと|　探すことができません。もう一度　探したい|　マイタウン名を　入力してください。|<bw_break>": "If you don't enter a My Town name, we can't|find it... Please enter the name of the My|Town you wish to find again...|<br><bw_break>"
+  },
+  "171": {
+    "「申し訳ありません。<pc>さんは|　『マイタウン権利証・封書』を|　お持ちでないため　購入できないようです。|<br>|「『マイタウン権利証・封書』を|　お手元に　ご用意されてから|　再度　お声がけいただけますか？": "I'm sorry...<pc> You don't have a My Town Certificate of Title|and Sealed Letter, so you can't purchase...|Please have your My Town Certificate of Title|<br>|and Sealed Letter ready and call us again."
+  },
+  "172": {
+    "「マイタウンＩＤを　入力してくれないと|　探せないぞ。もう一度　探したい|　マイタウンＩＤを　入力してくれないか？|<bw_break>": "If you don't enter your My Town ID, we can't|find you... I need you to enter your My Town|ID so I can look again.|<br><bw_break>"
+  },
+  "173": {
+    "「マイタウン名を　入力してくれないと|　探せないぞ。もう一度　探したい|　マイタウン名を　入力してくれないか？|<bw_break>": "I need you to type in the name of my town so|I can find it... I need you to type in the|name of the town you're looking for again,|<br>|please.<bw_break>"
+  },
+  "174": {
+    "clarity_nt_char_174": "clarity_nt_char_174"
+  },
+  "175": {
+    "「マイタウンＩＤを　入力しないと|　探せないでしゅよ。もう一度　探したい|　マイタウンＩＤを　入力してくだしゃい。|<bw_break>": "I'd like to search again, please enter your|My Town ID... Please enter your Mytown ID to|search again...|<br><bw_break>"
+  },
+  "176": {
+    "「マイタウン名を　入力しないと|　探せないでしゅよ。もう一度　探したい|　マイタウン名を　入力してくだしゃい。|<bw_break>": "If you don't type in the name of your town,|we can't find it... Please enter the name of|the My Town you're looking for again...|<br><bw_break>"
+  },
+  "177": {
+    "clarity_nt_char_177": "clarity_nt_char_177"
+  },
+  "178": {
+    "「マイタウンＩＤを　入力してくれないと|　探せないわ。もう一度　探したい|　マイタウンＩＤを　入力してちょうだい。|<bw_break>": "If you don't enter your My Town ID, we can't|find you... I'd like to look again, please|enter your Mytown ID...|<br><bw_break>"
+  },
+  "179": {
+    "「マイタウン名を　入力してくれないと|　探せないわ。もう一度　探したい|　マイタウン名を　入力してちょうだい。|<bw_break>": "If you don't type in the name of my town, I|can't find it... Please enter the name of the|My Town you're looking for again...|<br><bw_break>"
+  },
+  "180": {
+    "clarity_nt_char_180": "clarity_nt_char_180"
+  },
+  "181": {
+    "「ほかに　なにか知りたいことはありますか？|<break>": "Is there anything else you'd like to know?<break>"
+  },
+  "182": {
+    "clarity_nt_char_182": "clarity_nt_char_182"
+  },
+  "183": {
+    "「ほかにも　知りたいことがありますか？|<break>": "Is there anything else you'd like to know?<break>"
+  },
+  "184": {
+    "clarity_nt_char_184": "clarity_nt_char_184"
+  },
+  "185": {
+    "「どの説明を　聞きますか？|<break>": "Listen to which explanation?<break>"
+  },
+  "186": {
+    "「では……|　どちらの方法で|　マイタウンを　購入なさいますか？|<break>": "So... Which way would you like to purchase My|Town?<break>"
+  },
+  "187": {
+    "「ほかに　なにを知りたいんだ？|<break>": "What else do you want to know?<break>"
+  },
+  "188": {
+    "clarity_nt_char_188": "clarity_nt_char_188"
+  },
+  "189": {
+    "「ほかに　なにか知りたいことがありましゅか？|<break>": "Is there anything else you want to know?<break>"
+  },
+  "190": {
+    "clarity_nt_char_190": "clarity_nt_char_190"
+  },
+  "191": {
+    "「ほかに　なにを知りたいのかしら？|<break>": "What else do you want to know?<break>"
+  },
+  "192": {
+    "clarity_nt_char_192": "clarity_nt_char_192"
+  },
+  "193": {
+    "clarity_nt_char_193": "clarity_nt_char_193"
+  },
+  "194": {
+    "clarity_nt_char_194": "clarity_nt_char_194"
+  },
+  "195": {
+    "「それでは　マイタウンをつくります。|<br>|「ヨデイ　ヨデイ……　ヨンウタイマ！|<end>": "Let's make my town... Yoday, Yoday... Yong-u-|timer!<end>"
+  },
+  "196": {
+    "clarity_nt_char_196": "clarity_nt_char_196"
+  },
+  "197": {
+    "clarity_nt_char_197": "clarity_nt_char_197"
+  },
+  "198": {
+    "clarity_nt_char_198": "clarity_nt_char_198"
+  },
+  "199": {
+    "clarity_nt_char_199": "clarity_nt_char_199"
+  },
+  "200": {
+    "clarity_nt_char_200": "clarity_nt_char_200"
+  },
+  "201": {
+    "「申し訳ありません。<pc>さんは|　『マイタウン権利証・封書』も　ゴールドも|　不足しているため　ご購入できないようです。|<br>|　『マイタウン権利証・封書』か　必要な費用の|　ゴールドを　お手元に　ご用意なさってから|　再度　お声がけいただけますか？": "I'm sorry...<pc> You are unable to purchase the My Town|Certificate of Title and Enclosure because|you do not have enough gold... Please have|<br>|your MyTown Certificate of Title and Sealed|Letter or the necessary gold on hand and then|contact us again.|<br>"
+  },
+  "202": {
+    "clarity_nt_char_202": "clarity_nt_char_202"
+  },
+  "203": {
+    "clarity_nt_char_203": "clarity_nt_char_203"
+  },
+  "204": {
+    "clarity_nt_char_204": "clarity_nt_char_204"
+  },
+  "205": {
+    "clarity_nt_char_205": "clarity_nt_char_205"
+  },
+  "206": {
+    "clarity_nt_char_206": "clarity_nt_char_206"
+  },
+  "207": {
+    "<pipipi_off>|<pc>は　<%sM_Region_Name>を購入した！|<me_72><end>": ""
+  },
+  "208": {
+    "clarity_nt_char_208": "clarity_nt_char_208"
+  },
+  "209": {
+    "clarity_nt_char_209": "clarity_nt_char_209"
+  },
+  "210": {
+    "clarity_nt_char_210": "clarity_nt_char_210"
+  },
+  "211": {
+    "clarity_nt_char_211": "clarity_nt_char_211"
+  },
+  "212": {
+    "clarity_nt_char_212": "clarity_nt_char_212"
+  },
+  "213": {
+    "「なんらかの　問題が起きたため|　マイタウンを　つくることができませんでした。|　時間をおいてから　改めて　お声がけください。|<end>": "I'm sorry, but we've had some problems. We|can't create a My Town... Please give us some|time and we'll get back to you...|<br><end>"
+  },
+  "214": {
+    "clarity_nt_char_214": "clarity_nt_char_214"
+  },
+  "215": {
+    "clarity_nt_char_215": "clarity_nt_char_215"
+  },
+  "216": {
+    "clarity_nt_char_216": "clarity_nt_char_216"
+  },
+  "217": {
+    "「お探しのテーマに　設定してる|　マイタウンの家は　まだ１軒もないみたいです！|　ちょっと待ってから　また試してください！": "It looks like none of the houses in My Town|that you're looking for are set to your theme|yet! Give it a minute and try again!|<br>"
+  },
+  "218": {
+    "「お探しのテーマに　設定している|　マイタウンの家は　まだ１軒もないようです。|　しばらくしてから　また試してください。": "I don't see any houses in My Town that match|the theme you're looking for... Let's try|again in a little while...|<br>"
+  },
+  "219": {
+    "「お探しのテーマに　設定している|　マイタウンの家は　まだ１軒もないようです。|　しばらく待ってから　またお試しください。": "I don't see any houses in My Town that match|the theme you're looking for... Wait a while|and try again...|<br>"
+  },
+  "220": {
+    "「お探しのテーマに　設定している|　マイタウンの家は　まだ１軒もないようだな。|　しばらくしてから　また試してみてくれ。": "There's still no sign of any of the houses in|My Town that you're looking for... I'll try|again in a while...|<br>"
+  },
+  "221": {
+    "「お探しのテーマに　設定してる|　マイタウンの家は　１軒もないみたいでしゅ。|　少し待ってから　試してみてくだしゃい。": "It looks like none of the houses in My Town|are on the theme you're looking for... You'll|have to wait a bit before you can try...|<br>"
+  },
+  "222": {
+    "「お探しのテーマに　設定している|　マイタウンの家は　まだ１軒もないようね。|　しばらくしてから　また試してもらえるかしら。": "None of the houses in My Town that you're|looking for are listed yet... You can try|again in a little while...|<br>"
+  },
+  "223": {
+    "「ごめんなさい！　そのマイタウンは|　オーナーの　許可をもらってないので|　訪問できませんでした！": "I'm sorry! I couldn't visit that Mytown|because I didn't get permission from the|owner!|<br>"
+  },
+  "224": {
+    "「なにかの　問題が起きたので|　マイタウンへの　訪問ができませんでした！|　時間をおいてから　改めて　お声がけください！": "Something went wrong and I couldn't visit My|Town! Please give me some time to get back to|you!|<br>"
+  },
+  "225": {
+    "「ごめんなさい！　そのマイタウンは|　住所として　使われてないので|　訪問できませんでした！": "I'm sorry! I couldn't visit that Mytown|because it's not used as an address!"
+  },
+  "226": {
+    "「申し訳ありませんが　そのマイタウンは|　オーナーの　許可をいただいていないため|　訪問ができません。": "I'm sorry, but we don't have permission from|the owner to visit that My Town..."
+  },
+  "227": {
+    "「なんらかの　問題が起きたため|　マイタウンへの　訪問ができませんでした。|　時間をおいてから　改めて　お声がけください。": "There's been some sort of problem. I can't|visit My Town... Please give us some time and|we'll get back to you...|<br>"
+  },
+  "228": {
+    "「申し訳ありませんが　そのマイタウンは|　住所として　使われていないので|　訪問ができません。": "I'm sorry, but that My Town address is no|longer in use, so you can't visit..."
+  },
+  "229": {
+    "「申し訳ありません。そのマイタウンは|　オーナーの　許可をいただいていないため|　訪問ができません。": "I'm sorry... I can't visit My Town because I|don't have permission from the owner..."
+  },
+  "230": {
+    "「なんらかの　問題が起きたため|　マイタウンへの　訪問ができませんでした。|　時間をおいてから　改めて　お声がけください。": "There's been some sort of problem. I can't|visit My Town... Please give us some time and|we'll get back to you...|<br>"
+  },
+  "231": {
+    "「申し訳ありません。|　そのマイタウンは　住所として|　使われていないため　訪問ができません。": "I'm sorry... That My Town is not being used|as an address, so you can't visit..."
+  },
+  "232": {
+    "「悪いが　そのマイタウンは|　オーナーの　許可をもらっていないから|　訪問ができなくなってるな。": "I'm sorry, but that MyTown doesn't have the|owner's permission, so I can no longer|visit...|<br>"
+  },
+  "233": {
+    "「なんらかの　問題が起きたようで|　マイタウンへの　訪問ができなかった。|　時間をおいてから　声をかけてもらえるか？": "I'm afraid there's been some sort of problem.|I can't visit My Town... Can you give me some|time to get back to you?|<br>"
+  },
+  "234": {
+    "「悪いが　そのマイタウンは|　住所として　使われていないようで|　訪問ができなくなってるな。": "I'm sorry, but it appears that My Town is no|longer being used as an address, and you can|no longer visit...|<br>"
+  },
+  "235": {
+    "「はれ？　そのマイタウンは|　オーナーの　許可をもらってないので|　訪問ができなくなってましゅ。": "Huh? That My Town doesn't have the owner's|permission, so you can't visit it anymore..."
+  },
+  "236": {
+    "「なにかの　問題が起きたので|　マイタウンへの　訪問ができませんでした。|　時間をおいてから　また　試してくだしゃい。": "Something's gone wrong. I can't visit My|Town... Please give it some time and try|again...|<br>"
+  },
+  "237": {
+    "「はれ？　そのマイタウンは|　住所として　使われてないみたいで|　訪問ができなくなってましゅ。": "Huh? Well, it looks like My Town isn't being|used as an address, so you can't visit it|anymore...|<br>"
+  },
+  "238": {
+    "「あら？　そのマイタウンは|　オーナーの　許可をもらっていないから|　訪問ができないわ。": "Oh? That My Town doesn't have the owner's|permission, so I can't visit..."
+  },
+  "239": {
+    "「なにかの　問題が起きたみたいで|　マイタウンへの　訪問ができなかったわ。|　時間をおいてから　声をかけてもらえる？": "I'm afraid something's gone wrong. I can't|visit My Town... Can you give me some time to|get back to you?|<br>"
+  },
+  "240": {
+    "「あら？　そのマイタウンは|　住所として　使われていないみたいね。|　訪問ができないわ。": "What? That My Town address isn't being|used... You can visit..."
+  },
+  "241": {
+    "clarity_nt_char_241": "clarity_nt_char_241"
+  },
+  "242": {
+    "clarity_nt_char_242": "clarity_nt_char_242"
+  },
+  "243": {
+    "clarity_nt_char_243": "clarity_nt_char_243"
+  },
+  "244": {
+    "clarity_nt_char_244": "clarity_nt_char_244"
+  },
+  "245": {
+    "clarity_nt_char_245": "clarity_nt_char_245"
+  },
+  "246": {
+    "clarity_nt_char_246": "clarity_nt_char_246"
+  },
+  "247": {
+    "clarity_nt_char_247": "clarity_nt_char_247"
+  },
+  "248": {
+    "clarity_nt_char_248": "clarity_nt_char_248"
+  },
+  "249": {
+    "clarity_nt_char_249": "clarity_nt_char_249"
+  },
+  "250": {
+    "clarity_nt_char_250": "clarity_nt_char_250"
+  },
+  "251": {
+    "clarity_nt_char_251": "clarity_nt_char_251"
+  },
+  "252": {
+    "clarity_nt_char_252": "clarity_nt_char_252"
+  },
+  "253": {
+    "「こんにちは。|　こちらは　マイタウンの　総合案内窓口です。|<br>|「……おや？　お客様|　<%sL_ITEM>を　<%dL_Num>個|　お集めになられたのですね！|<br>|「それだけの　<%sL_ITEM>があれば|　<%sL_ITEM2>　<%dL_Num2>個と|　交換する事ができますが　いかがいたしますか？|<select_se_off 2>|交換する|やめる|<select_end><break>": "This is... This is My Town's general|information window... ... Hmm? You've|collected <%dL_Num> of|<br>|<%sL_ITEM>! If you have that many|<%sL_ITEM>, we can exchange them|for <%sL_ITEM2>|<br>|<%dL_Num2>, how would you like?|<select_se_off 2>|Exchange|stop|<select_end><break>"
+  },
+  "254": {
+    "「あら？　<%sL_BAG_TYPE>が　いっぱいで|　<%sL_ITEM2>を　<%dL_Num2>個|　持ちきれないみたいですね。|<br>|「<%sL_BAG_TYPE>の　空きを<%dL_Num2>個作って|　再び　私に　話しかけ下さいね。|　それでは　気を取りなおしまして……。|<end>": "What? It looks like|<%sL_BAG_TYPE> is so full that it|can't hold <%dL_Num2>|<br>|<%sL_ITEM2>... Make room for|<%dL_Num2>|<%sL_BAG_TYPE> and talk to me|<br>|again... And now, if you'll excuse me...<end>"
+  },
+  "255": {
+    "「<%sL_ITEM2>は　高価なものですから|　お取り扱いには　十分　ご注意くださいね。|　ご利用　ありがとうございました！": "<%sL_ITEM2> is a very expensive|item, so please handle it with care... Thank|you for your interest!|<br>"
+  },
+  "256": {
+    "「了解いたしました。|　それでは　こちらをどうぞ。": "Yes, sir. Okay, let's take this..."
+  },
+  "257": {
+    "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+  },
+  "258": {
+    "「おやめになるのですね。|　了解いたしました。|　それでは　気を取りなおしまして……。|<end>": "You don't want to... I understand... Now, if|you'll excuse me...<end>"
+  },
+  "259": {
+    "clarity_nt_char_259": "clarity_nt_char_259"
+  },
+  "260": {
+    "clarity_nt_char_260": "clarity_nt_char_260"
+  },
+  "261": {
+    "clarity_nt_char_261": "clarity_nt_char_261"
+  },
+  "262": {
+    "clarity_nt_char_262": "clarity_nt_char_262"
+  },
+  "263": {
+    "clarity_nt_char_263": "clarity_nt_char_263"
+  },
+  "264": {
+    "clarity_nt_char_264": "clarity_nt_char_264"
+  },
+  "265": {
+    "clarity_nt_char_265": "clarity_nt_char_265"
+  },
+  "266": {
+    "clarity_nt_char_266": "clarity_nt_char_266"
+  },
+  "267": {
+    "clarity_nt_char_267": "clarity_nt_char_267"
+  },
+  "268": {
+    "clarity_nt_char_268": "clarity_nt_char_268"
+  },
+  "269": {
+    "clarity_nt_char_269": "clarity_nt_char_269"
+  },
+  "270": {
+    "clarity_nt_char_270": "clarity_nt_char_270"
+  },
+  "271": {
+    "clarity_nt_char_271": "clarity_nt_char_271"
+  },
+  "272": {
+    "clarity_nt_char_272": "clarity_nt_char_272"
+  },
+  "273": {
+    "clarity_nt_char_273": "clarity_nt_char_273"
+  },
+  "274": {
+    "clarity_nt_char_274": "clarity_nt_char_274"
+  },
+  "275": {
+    "clarity_nt_char_275": "clarity_nt_char_275"
+  },
+  "276": {
+    "clarity_nt_char_276": "clarity_nt_char_276"
+  },
+  "277": {
+    "clarity_nt_char_277": "clarity_nt_char_277"
+  },
+  "278": {
+    "clarity_nt_char_278": "clarity_nt_char_278"
+  },
+  "279": {
+    "「あら……　なにか　問題が起きたようで|　<%sL_ITEM2>を|　発行できませんでした。|<br>|「お手数ですが　もういちど|　私に　お声がけ　お願いいたします。|<bw_break>": "Oh... Something seems to have gone wrong and|I can't issue <%sL_ITEM2>... I'm|sorry, but you'll have to ask me again...|<br><bw_break>"
+  },
+  "280": {
+    "clarity_nt_char_280": "clarity_nt_char_280"
+  },
+  "281": {
+    "clarity_nt_char_281": "clarity_nt_char_281"
+  },
+  "282": {
+    "clarity_nt_char_282": "clarity_nt_char_282"
+  },
+  "283": {
+    "clarity_nt_char_283": "clarity_nt_char_283"
+  },
+  "284": {
+    "clarity_nt_char_284": "clarity_nt_char_284"
+  },
+  "285": {
+    "「あら……　いまは　これ以上|　新たなマイタウンを|　つくることが　できないようです。|<br>|「申し訳ありませんが|　新しいマイタウンの土地が　開放されるまで|　お待ちくださいますようお願いします。|<bw_break>": "Oh, no... I'm afraid we can't build any more|MyTowns right now... I'm sorry, but I'm|afraid you'll have to wait until the new My|<br>|Town lots are open...<bw_break>"
+  },
+  "286": {
+    "clarity_nt_char_286": "clarity_nt_char_286"
+  },
+  "287": {
+    "clarity_nt_char_287": "clarity_nt_char_287"
+  },
+  "288": {
+    "clarity_nt_char_288": "clarity_nt_char_288"
+  },
+  "289": {
+    "clarity_nt_char_289": "clarity_nt_char_289"
+  },
+  "290": {
+    "clarity_nt_char_290": "clarity_nt_char_290"
+  },
+  "291": {
+    "「あら……　いまは　マイタウンの|　登録リストの　調子が悪いようです。|　時間をおいて　再度　お試しいただけますか？": "Oh... There's something wrong with the Mytown|list right now. Would you mind giving it a|minute and trying again?|<br>"
+  },
+  "292": {
+    "clarity_nt_char_292": "clarity_nt_char_292"
+  },
+  "293": {
+    "clarity_nt_char_293": "clarity_nt_char_293"
+  },
+  "294": {
+    "clarity_nt_char_294": "clarity_nt_char_294"
+  },
+  "295": {
+    "clarity_nt_char_295": "clarity_nt_char_295"
+  },
+  "296": {
+    "clarity_nt_char_296": "clarity_nt_char_296"
+  },
+  "297": {
+    "<pipipi_off>|<pc>は|マイタウン権利証（だいじなもの）を|手に入れた！<me 60>": "<pipipi_off>|<pc> I've got the My Town Bill of Rights!<me 60>"
+  },
+  "298": {
+    "clarity_nt_char_298": "clarity_nt_char_298"
+  },
+  "299": {
+    "clarity_nt_char_299": "clarity_nt_char_299"
+  },
+  "300": {
+    "clarity_nt_char_300": "clarity_nt_char_300"
+  },
+  "301": {
+    "「<%sL_CATEGORY>の家は|　<%nL_WELCOME_NUM>軒あります。|　移動しますか？|<yesno><break>": "The house in <%sL_CATEGORY> has|<%nL_WELCOME_NUM>eaves... Do you|want to move?|<br><yesno><break>"
+  },
+  "302": {
+    "「<%sL_CATEGORY>の家は|　<%nL_WELCOME_NUM>軒あります。|　移動しますか？|<yesno><break>": "The house in <%sL_CATEGORY> has|<%nL_WELCOME_NUM>eaves... Do you|want to move?|<br><yesno><break>"
+  },
+  "303": {
+    "「<%sL_CATEGORY>の家は|　<%nL_WELCOME_NUM>軒ありましゅ。|　移動しましゅか？|<yesno><break>": "<%sL_CATEGORY>has|<%nL_WELCOME_NUM>houses... Do you|want to move it?|<br><yesno><break>"
+  },
+  "304": {
+    "「<%sL_CATEGORY>の家は|　<%nL_WELCOME_NUM>軒あるわ。|　移動したいのかしら？|<yesno><break>": "The <%sL_CATEGORY> house is|<%nL_WELCOME_NUM>eaves... Do you|think they want to move?|<br><yesno><break>"
+  },
+  "305": {
+    "「<%sL_CATEGORY>の家は|　<%nL_WELCOME_NUM>軒あります！|　移動しますか？|<yesno><break>": "The <%sL_CATEGORY> house has|<%nL_WELCOME_NUM> houses! Do you|want to move it?|<br><yesno><break>"
+  },
+  "306": {
+    "「<%sL_CATEGORY>の家は|　<%nL_WELCOME_NUM>軒あるぞ。|　移動するか？|<yesno><break>": "The house in <%sL_CATEGORY> is|<%nL_WELCOME_NUM>Eaves... Do you|want to move?|<br><yesno><break>"
+  },
+  "307": {
+    "「ウェルカム中の　マイタウンを持っている|　フレンドが　いません。|<bw_break>": ""
+  },
+  "308": {
+    "「ウェルカム中の　マイタウンを持っている|　フレンドが　いません。|<bw_break>": ""
+  },
+  "309": {
+    "「はれ？|　ウェルカム中の　マイタウンを持っている|　フレンドが　いましぇん。|<bw_break>": ""
+  },
+  "310": {
+    "「あら？|　ウェルカム中の　マイタウンを持っている|　フレンドが　いないみたいね。|<bw_break>": ""
+  },
+  "311": {
+    "「ごめんなさい！|　ウェルカム中の　マイタウンを持っている|　フレンドが　いないみたい！|<bw_break>": ""
+  },
+  "312": {
+    "「悪いが　ウェルカム中の　マイタウンを|　持っている　フレンドが　いないな。|<bw_break>": ""
+  },
+  "313": {
+    "「ウェルカム中の　マイタウンを持っている|　チームメンバーが　いません。|<bw_break>": ""
+  },
+  "314": {
+    "「ウェルカム中の　マイタウンを持っている|　チームメンバーが　いません。|<bw_break>": ""
+  },
+  "315": {
+    "「はれ？|　ウェルカム中の　マイタウンを持っている|　チームメンバーが　いましぇん。|<bw_break>": ""
+  },
+  "316": {
+    "「あら？|　ウェルカム中の　マイタウンを持っている|　チームメンバーが　いないみたいね。|<bw_break>": ""
+  },
+  "317": {
+    "「ごめんなさい！|　ウェルカム中の　マイタウンを持っている|　チームメンバーが　いないみたい！|<bw_break>": ""
+  },
+  "318": {
+    "「悪いが　ウェルカム中の　マイタウンを|　持っている　チームメンバーが　いないな。|<bw_break>": ""
+  },
+  "319": {
+    "「ウェルカム中の　フレンドのマイタウンへ|　訪問します。|　訪問先を　選んでください。|<break>": ""
+  },
+  "320": {
+    "「ウェルカム中の　フレンドのマイタウンへ|　訪問します。|　訪問先を　選んでください。|<break>": ""
+  },
+  "321": {
+    "「ウェルカム中の　フレンドのマイタウンへ|　訪問しましゅ。|　訪問先を　選んでくだしゃい。|<break>": ""
+  },
+  "322": {
+    "「ウェルカム中の　フレンドのマイタウンへ|　訪問するわ。|　訪問先を　選んでちょうだい。|<break>": ""
+  },
+  "323": {
+    "「ウェルカム中の　フレンドのマイタウンへ|　訪問します！|　訪問先を　選んでください！|<break>": ""
+  },
+  "324": {
+    "「ウェルカム中の　フレンドのマイタウンへ|　訪問するぞ。|　訪問先を　選んでくれ。|<break>": ""
+  },
+  "325": {
+    "「ウェルカム中の　チームメンバーの|　マイタウンへ　訪問します。|　訪問先を　選んでください。|<break>": ""
+  },
+  "326": {
+    "「ウェルカム中の　チームメンバーの|　マイタウンへ　訪問します。|　訪問先を　選んでください。|<break>": ""
+  },
+  "327": {
+    "「ウェルカム中の　チームメンバーの|　マイタウンへ　訪問しましゅ。|　訪問先を　選んでくだしゃい。|<break>": ""
+  },
+  "328": {
+    "「ウェルカム中の　チームメンバーの|　マイタウンへ　訪問するわ。|　訪問先を　選んでちょうだい。|<break>": ""
+  },
+  "329": {
+    "「ウェルカム中の　チームメンバーの|　マイタウンへ　訪問します！|　訪問先を　選んでください！|<break>": ""
+  },
+  "330": {
+    "「ウェルカム中の　チームメンバーの|　マイタウンへ　訪問するぞ。|　訪問先を　選んでくれ。|<break>": ""
+  },
+  "331": {
+    "「このたび　ウェルカム中の　フレンドと|　チームメンバーの　マイタウンを|　検索できるようになりました。|<br>|「ウェルカム中の　フレンドと　チームメンバーの|　家に　ひとっとびで　行くことができますので|　ぜひ　遊びにいってみてください。|<bw_break>": ""
+  },
+  "332": {
+    "「このたび　ウェルカム中の　フレンドと|　チームメンバーの　マイタウンを|　検索できるようになりました。|<br>|「ウェルカム中の　フレンドと　チームメンバーの|　家に　ひとっとびで　行くことができますので|　ぜひ　遊びにいってみてください。|<bw_break>": ""
+  },
+  "333": {
+    "「にゃんと　このたび　ウェルカム中のフレンドと|　チームメンバーの　マイタウンを|　検索できるようになったでし！|<br>|「ウェルカム中の　フレンドと　チームメンバーの|　家に　ひとっとびで　行くことができましゅので|　ぜひ　遊びにいってみてくだしゃい。|<bw_break>": ""
+  },
+  "334": {
+    "「そうそう。ウェルカム中の　フレンドと|　チームメンバーの　マイタウンを|　検索できるようになったの。|<br>|「ウェルカム中の　フレンドと　チームメンバーの|　家に　ひとっとびで　行くことができるから|　ぜひ　遊びにいくといいわ。|<break>": ""
+  },
+  "335": {
+    "「このたび　ウェルカム中の　フレンドと|　チームメンバーの　マイタウンを|　検索できるようになったんです！|<br>|「ウェルカム中の　フレンドと　チームメンバーの|　家に　ひとっとびで　行くことができるので|　ぜひ　遊びにいってみてください！|<bw_break>": ""
+  },
+  "336": {
+    "「ああ　そうだ。ウェルカム中の　フレンドと|　チームメンバーの　マイタウンを|　検索できるようになったぞ。|<br>|「ウェルカム中の　フレンドと　チームメンバーの|　家に　ひとっとびで　行くことができるから|　ぜひ　遊びにいってみてくれ。|<bw_break>": ""
+  },
+  "337": {
+    "「アストルティア住宅展示場へ　訪問します。|<break>": ""
+  },
+  "338": {
+    "「アストルティア住宅展示場へ　訪問します。|<break>": ""
+  },
+  "339": {
+    "「アストルティア住宅展示場へ　訪問しましゅ。|<break>": ""
+  },
+  "340": {
+    "「アストルティア住宅展示場へ　訪問するわ。|<break>": ""
+  },
+  "341": {
+    "「アストルティア住宅展示場へ　訪問します！|<break>": ""
+  },
+  "342": {
+    "「アストルティア住宅展示場へ　訪問するぞ。|<break>": ""
+  },
+  "343": {
+    "「このたび　アストルティア住宅展示場へ|　直接　訪問できるようになりました。|　ぜひ　遊びにいってみてください。|<bw_break>": ""
+  },
+  "344": {
+    "「このたび　アストルティア住宅展示場へ|　直接　訪問できるようになりました。|　ぜひ　遊びにいってみてください。|<bw_break>": ""
+  },
+  "345": {
+    "「このたび　アストルティア住宅展示場へ|　直接　訪問できるようになったんでしゅ。|　ぜひ　遊びにいってみてくだしゃい。　|<bw_break>": ""
+  },
+  "346": {
+    "「そうそう。アストルティア住宅展示場へ|　直接　訪問できるようになったの。|　ぜひ　遊びにいくといいわ。|<bw_break>": ""
+  },
+  "347": {
+    "「このたび　アストルティア住宅展示場へ|　直接　訪問できるようになったんです！|　ぜひ　遊びにいってみてください！|<bw_break>": ""
+  },
+  "348": {
+    "「ああ　そうだ。アストルティア住宅展示場へ|　直接　訪問できるようになったから　ぜひ|　遊びにいってみてくれ。|<bw_break>": ""
+  },
+  "349": {
+    "「申し訳ありませんが　ただいま準備中です。|　時間をおいてから　改めて　お声がけください。|<bw_break>": ""
+  },
+  "350": {
+    "「ただいま準備中です。しばらくお待ちください。|<bw_break>": ""
+  },
+  "351": {
+    "「はれ？　ただいま準備中なのでしゅ。|　時間をおいてから　また　試してくだしゃい。|<bw_break>": ""
+  },
+  "352": {
+    "「あら？　ただいま準備中のようね。|　時間をおいてから　声をかけてもらえる？|<bw_break>": ""
+  },
+  "353": {
+    "「ごめんなさい！　ただいま準備中なのです！|　時間をおいてから　改めて　お声がけください！|<bw_break>": ""
+  },
+  "354": {
+    "「悪いが　ただいま準備中なんだ。　|　時間をおいてから　声をかけてもらえるか？|<bw_break>": ""
+  },
+  "355": {
+    "「家のテーマを　選んでください。|<break>": ""
+  },
+  "356": {
+    "「家のテーマを　選んでください。|<break>": ""
+  },
+  "357": {
+    "「家のテーマを　選んでくだしゃい。|<break>": ""
+  },
+  "358": {
+    "「家のテーマを　選んでちょうだい。|<break>": ""
+  },
+  "359": {
+    "「家のテーマを　選んでください！|<break>": ""
+  },
+  "360": {
+    "「家のテーマを　選んでくれ。|<break>": ""
+  },
+  "361": {
+    "「申し訳ありませんが　ただいま準備中です。|　時間をおいてから　改めて　お声がけください。|<bw_break>": ""
+  },
+  "362": {
+    "「申し訳ありませんが　ただいま準備中です。|　時間をおいてから　改めて　お声がけください。|<bw_break>": ""
+  },
+  "363": {
+    "「はれ？　ただいま準備中なのでしゅ。|　時間をおいてから　また　試してくだしゃい。|<bw_break>": ""
+  },
+  "364": {
+    "「あら？　ただいま準備中のようね。|　時間をおいてから　声をかけてもらえる？|<bw_break>": ""
+  },
+  "365": {
+    "「ごめんなさい！　ただいま準備中なのです！|　時間をおいてから　改めて　お声がけください！|<bw_break>": ""
+  },
+  "366": {
+    "「悪いが　ただいま準備中なんだ。　|　時間をおいてから　声をかけてもらえるか？|<bw_break>": ""
+  },
+  "367": {
+    "「どの町を　購入なさいますか？|<break>": ""
+  },
+  "368": {
+    "clarity_nt_char_368": "clarity_nt_char_368"
+  },
+  "369": {
+    "clarity_nt_char_369": "clarity_nt_char_369"
+  },
+  "370": {
+    "clarity_nt_char_370": "clarity_nt_char_370"
+  },
+  "371": {
+    "clarity_nt_char_371": "clarity_nt_char_371"
+  },
+  "372": {
+    "clarity_nt_char_372": "clarity_nt_char_372"
+  },
+  "373": {
+    "「申し訳ありません。<pc>さんは|　『マイタウン権利証・封書』も　ゴールドも|　不足しているため　ご購入できないようです。|<br>|　『マイタウン権利証・封書』か　必要な費用の|　ゴールドを　お手元に　ご用意なさってから|　再度　お声がけいただけますか？": "I'm sorry...<pc> You are unable to purchase the My Town|Certificate of Title and Enclosure because|you do not have enough gold... Please have|<br>|your MyTown Certificate of Title and Sealed|Letter or the necessary gold on hand and then|contact us again.|<br>"
+  },
+  "374": {
+    "clarity_nt_char_374": "clarity_nt_char_374"
+  },
+  "375": {
+    "clarity_nt_char_375": "clarity_nt_char_375"
+  },
+  "376": {
+    "clarity_nt_char_376": "clarity_nt_char_376"
+  },
+  "377": {
+    "clarity_nt_char_377": "clarity_nt_char_377"
+  },
+  "378": {
+    "clarity_nt_char_378": "clarity_nt_char_378"
+  },
+  "379": {
+    "「どの町へ　移動なさいますか？|<break>": ""
+  },
+  "380": {
+    "「どの町へ　移動なさいますか？|<break>": ""
+  },
+  "381": {
+    "「どの町へ　移動しましゅか？|<break>": ""
+  },
+  "382": {
+    "「どの町へ　移動するの？|<break>": ""
+  },
+  "383": {
+    "「どの町へ　移動なさいますか？|<break>": ""
+  },
+  "384": {
+    "「どの町へ　移動するんだ？|<break>": ""
+  },
+  "385": {
+    "「<%sM_Region_Name>へ|　移動しますか？|<yesno><break>": ""
+  },
+  "386": {
+    "「<%sM_Region_Name>へ|　移動しますか？|<yesno><break>": ""
+  },
+  "387": {
+    "「<%sM_Region_Name>へ|　移動しましゅか？|<yesno><break>": ""
+  },
+  "388": {
+    "「<%sM_Region_Name>へ|　移動するのね？|<yesno><break>": ""
+  },
+  "389": {
+    "「<%sM_Region_Name>へ|　移動しますか？|<yesno><break>": ""
+  },
+  "390": {
+    "「<%sM_Region_Name>へ|　移動するんだな？|<yesno><break>": ""
+  },
+  "391": {
+    "「現在　移動できる地区は|　ないようです。|<bw_break>": ""
+  },
+  "392": {
+    "「現在　移動できる地区は|　ないようです。|<bw_break>": ""
+  },
+  "393": {
+    "「現在　移動できる地区は|　ないようでしゅ。|<bw_break>": ""
+  },
+  "394": {
+    "「あら？　訪問できる地区は|　ないようね。|<bw_break>": ""
+  },
+  "395": {
+    "「現在　訪問できる地区は|　ないようなのです！|<bw_break>": ""
+  },
+  "396": {
+    "「現在　移動できる地区は|　ないようだ。|<bw_break>": ""
+  },
+  "397": {
+    "「<%sM_Region_Name>の|　ご購入　ありがとうございます。|<br>|「購入された町で　マイタウンの機能を|　使う準備として　いずれかの立て札から|　拠点となる住まいを　設定する必要があります。|<br>|「入場後は　まず　いずれかの立て札を調べて|　『本宅』にする土地を　決めてください。|　そうすることで　機能の使用が可能になります。|": ""
+  },
+  "398": {
+    "clarity_nt_char_398": "clarity_nt_char_398"
+  },
+  "399": {
+    "clarity_nt_char_399": "clarity_nt_char_399"
+  },
+  "400": {
+    "clarity_nt_char_400": "clarity_nt_char_400"
+  },
+  "401": {
+    "clarity_nt_char_401": "clarity_nt_char_401"
+  },
+  "402": {
+    "clarity_nt_char_402": "clarity_nt_char_402"
+  },
+  "403": {
+    "<pipipi_off>|<pc>は　<%sM_Region_Name>を購入した！|<me_72><end>": ""
+  },
+  "404": {
+    "clarity_nt_char_404": "clarity_nt_char_404"
+  },
+  "405": {
+    "clarity_nt_char_405": "clarity_nt_char_405"
+  },
+  "406": {
+    "clarity_nt_char_406": "clarity_nt_char_406"
+  },
+  "407": {
+    "clarity_nt_char_407": "clarity_nt_char_407"
+  },
+  "408": {
+    "clarity_nt_char_408": "clarity_nt_char_408"
+  },
+  "409": {
+    "「では……|　今から　さっそく|　<%sM_Region_Name>へ　移動なさいますか？|<yesno><break>": ""
+  },
+  "410": {
+    "clarity_nt_char_410": "clarity_nt_char_410"
+  },
+  "411": {
+    "clarity_nt_char_411": "clarity_nt_char_411"
+  },
+  "412": {
+    "clarity_nt_char_412": "clarity_nt_char_412"
+  },
+  "413": {
+    "clarity_nt_char_413": "clarity_nt_char_413"
+  },
+  "414": {
+    "clarity_nt_char_414": "clarity_nt_char_414"
+  },
+  "415": {
+    "「<%nL_HSGTOWN_PRICE>ゴールドを|　お支払いいただくことに　なりますが|　本当に　購入なさいますか？|<yesno 2><break>": ""
+  },
+  "416": {
+    "clarity_nt_char_416": "clarity_nt_char_416"
+  },
+  "417": {
+    "clarity_nt_char_417": "clarity_nt_char_417"
+  },
+  "418": {
+    "clarity_nt_char_418": "clarity_nt_char_418"
+  },
+  "419": {
+    "clarity_nt_char_419": "clarity_nt_char_419"
+  },
+  "420": {
+    "clarity_nt_char_420": "clarity_nt_char_420"
+  },
+  "421": {
+    "「『<%sM_Item>』を　使って|　<%sM_Region_Name>を　購入なさいますか？|<yesno 2><break>": ""
+  },
+  "422": {
+    "clarity_nt_char_422": "clarity_nt_char_422"
+  },
+  "423": {
+    "clarity_nt_char_423": "clarity_nt_char_423"
+  },
+  "424": {
+    "clarity_nt_char_424": "clarity_nt_char_424"
+  },
+  "425": {
+    "clarity_nt_char_425": "clarity_nt_char_425"
+  },
+  "426": {
+    "clarity_nt_char_426": "clarity_nt_char_426"
+  },
+  "427": {
+    "「『<%sM_Item>』を　使って|　<%sM_Region_Name>を　購入なさいますか？|<yesno 2><break>": ""
+  },
+  "428": {
+    "clarity_nt_char_428": "clarity_nt_char_428"
+  },
+  "429": {
+    "clarity_nt_char_429": "clarity_nt_char_429"
+  },
+  "430": {
+    "clarity_nt_char_430": "clarity_nt_char_430"
+  },
+  "431": {
+    "clarity_nt_char_431": "clarity_nt_char_431"
+  },
+  "432": {
+    "clarity_nt_char_432": "clarity_nt_char_432"
+  },
+  "433": {
+    "「あら……|　今は　新たに購入できる町は|　ないようです。|<bw_break>": ""
+  },
+  "434": {
+    "clarity_nt_char_434": "clarity_nt_char_434"
+  },
+  "435": {
+    "clarity_nt_char_435": "clarity_nt_char_435"
+  },
+  "436": {
+    "clarity_nt_char_436": "clarity_nt_char_436"
+  },
+  "437": {
+    "clarity_nt_char_437": "clarity_nt_char_437"
+  },
+  "438": {
+    "clarity_nt_char_438": "clarity_nt_char_438"
+  },
+  "439": {
+    "「申し訳ありません。<pc>さんは|　『<%sM_Item>』を|　お持ちでないため　購入できないようです。|<br>|「『<%sM_Item>』を|　お手元に　ご用意されてから|　再度　お声がけいただけますか？": ""
+  },
+  "440": {
+    "clarity_nt_char_440": "clarity_nt_char_440"
+  },
+  "441": {
+    "clarity_nt_char_441": "clarity_nt_char_441"
+  },
+  "442": {
+    "clarity_nt_char_442": "clarity_nt_char_442"
+  },
+  "443": {
+    "clarity_nt_char_443": "clarity_nt_char_443"
+  },
+  "444": {
+    "clarity_nt_char_444": "clarity_nt_char_444"
+  },
+  "445": {
+    "「申し訳ありません。<pc>さんは|　お持ちのゴールドが　足りないため|　購入ができないようです。|<br>|「ゴールドでの購入を　ご希望される場合|　<%nL_HSGTOWN_PRICE>ゴールドを|　ご用意なさってから　お声がけくださいませ。": ""
+  },
+  "446": {
+    "clarity_nt_char_446": "clarity_nt_char_446"
+  },
+  "447": {
+    "clarity_nt_char_447": "clarity_nt_char_447"
+  },
+  "448": {
+    "clarity_nt_char_448": "clarity_nt_char_448"
+  },
+  "449": {
+    "clarity_nt_char_449": "clarity_nt_char_449"
+  },
+  "450": {
+    "clarity_nt_char_450": "clarity_nt_char_450"
+  },
+  "451": {
+    "「では……|　どちらの方法で <%sM_Region_Name>を|　購入なさいますか？|<break>": ""
+  },
+  "452": {
+    "clarity_nt_char_452": "clarity_nt_char_452"
+  },
+  "453": {
+    "clarity_nt_char_453": "clarity_nt_char_453"
+  },
+  "454": {
+    "clarity_nt_char_454": "clarity_nt_char_454"
+  },
+  "455": {
+    "clarity_nt_char_455": "clarity_nt_char_455"
+  },
+  "456": {
+    "clarity_nt_char_456": "clarity_nt_char_456"
+  },
+  "457": {
+    "「『マイタウン権利証・封書』を　使って|　<%sM_Region_Name>を　購入なさいますか？|<yesno 2><close>": ""
+  },
+  "458": {
+    "clarity_nt_char_458": "clarity_nt_char_458"
+  },
+  "459": {
+    "clarity_nt_char_459": "clarity_nt_char_459"
+  },
+  "460": {
+    "clarity_nt_char_460": "clarity_nt_char_460"
+  },
+  "461": {
+    "clarity_nt_char_461": "clarity_nt_char_461"
+  },
+  "462": {
+    "clarity_nt_char_462": "clarity_nt_char_462"
+  },
+  "463": {
+    "「マイタウン権利証・封書は|　どの町でも　購入することができる|　高価なアイテムです。|<br>|「本当に　マイタウン権利証・封書を使って|　<%sM_Region_Name>を　購入なさいますか？|<yesno 2><break>": ""
+  },
+  "464": {
+    "clarity_nt_char_464": "clarity_nt_char_464"
+  },
+  "465": {
+    "clarity_nt_char_465": "clarity_nt_char_465"
+  },
+  "466": {
+    "clarity_nt_char_466": "clarity_nt_char_466"
+  },
+  "467": {
+    "clarity_nt_char_467": "clarity_nt_char_467"
+  },
+  "468": {
+    "clarity_nt_char_468": "clarity_nt_char_468"
+  },
+  "469": {
+    "「<%sM_Region_Name>の　ご購入ですね。|　この町では　マイタウンの機能を|　すべて　ご利用になることができます。|<bw_break>": ""
+  },
+  "470": {
+    "clarity_nt_char_470": "clarity_nt_char_470"
+  },
+  "471": {
+    "clarity_nt_char_471": "clarity_nt_char_471"
+  },
+  "472": {
+    "clarity_nt_char_472": "clarity_nt_char_472"
+  },
+  "473": {
+    "clarity_nt_char_473": "clarity_nt_char_473"
+  },
+  "474": {
+    "clarity_nt_char_474": "clarity_nt_char_474"
+  },
+  "475": {
+    "「<%sM_Region_Name>の　ご購入ですね。|　この町では　マイタウン機能の一部が|　制限されております。|<br>|「具体的な内容としましては　『見た目設定』の|　『遠景』『地景』を　変更することが|　できませんので　ご注意ください。|<bw_break>": ""
+  },
+  "476": {
+    "clarity_nt_char_476": "clarity_nt_char_476"
+  },
+  "477": {
+    "clarity_nt_char_477": "clarity_nt_char_477"
+  },
+  "478": {
+    "clarity_nt_char_478": "clarity_nt_char_478"
+  },
+  "479": {
+    "clarity_nt_char_479": "clarity_nt_char_479"
+  },
+  "480": {
+    "clarity_nt_char_480": "clarity_nt_char_480"
+  },
+  "481": {
+    "「権利証・封書の種類には|　『マイタウン権利証・封書』と|　町ごとの専用権利証・封書があります。|<br>|「マイタウン権利証・封書は|　すべての　町の購入に使えるアイテムで|　バザー出品や　取り引きが可能です。|<br>|「町ごとの名前がついた　専用の|　権利証・封書は　その町の|　購入時に　使うことができます。|<br>|「また　専用の権利証・封書は　バザー出品や|　取り引きなどができず　他のキャラクターへの|　譲渡は　できませんので　ご注意ください。": ""
+  },
+  "482": {
+    "「権利証・封書の種類には|　『マイタウン権利証・封書』と|　町ごとの専用権利証・封書があります。|<br>|「マイタウン権利証・封書は|　すべての　町の購入に使えるアイテムで|　バザー出品や　取り引きが可能です。|<br>|「町ごとの名前がついた　専用の|　権利証・封書は　その町の|　購入時に　使うことができます。|<br>|「また　専用の権利証・封書は　バザー出品や|　取り引きなどができず　他のキャラクターへの|　譲渡は　できませんので　ご注意ください。": ""
+  },
+  "483": {
+    "「権利証・封書の種類には|　『マイタウン権利証・封書』と|　町ごとの専用権利証・封書があるでし。|<br>|「マイタウン権利証・封書は|　すべての　町の購入に使えるアイテムで|　バザー出品や　取り引きが可能でし。|<br>|「町ごとの名前がついた　専用の|　権利証・封書は　その町の|　購入時に　使うことができましゅ。|<br>|「また　専用の権利証・封書は　バザー出品や|　取り引きなどができず　他のキャラクターへの|　譲渡はできないので　ご注意くだしゃい。": ""
+  },
+  "484": {
+    "「権利証・封書の種類には|　『マイタウン権利証・封書』と|　町ごとの専用権利証・封書があるわ。|<br>|「マイタウン権利証・封書は|　すべての　町の購入に使えるアイテムで|　バザー出品や　取り引きが可能よ。|<br>|「町ごとの名前がついた　専用の|　権利証・封書は　その町の|　購入時に　使うことができるわ。|<br>|「また　専用の権利証・封書は　バザー出品や|　取り引きなどができず　他のキャラクターへの|　譲渡はできないから　注意してね。": ""
+  },
+  "485": {
+    "「権利証・封書の種類には|　『マイタウン権利証・封書』と|　町ごとの専用権利証・封書があります！|<br>|「マイタウン権利証・封書は|　すべての　町の購入に使えるアイテムで|　バザー出品や　取り引きが可能です！|<br>|「町ごとの名前がついた　専用の|　権利証・封書は　その町の|　購入時に　使うことができます！|<br>|「また　専用の権利証・封書は　バザー出品や|　取り引きなどができず　他のキャラクターへの|　譲渡はできませんので　注意してください！": ""
+  },
+  "486": {
+    "「権利証・封書の種類には|　『マイタウン権利証・封書』と|　町ごとの専用権利証・封書があるんだ。|<br>|「マイタウン権利証・封書は|　すべての　町の購入に使えるアイテムで|　バザー出品や　取り引きが可能だ。|<br>|「町ごとの名前がついた　専用の|　権利証・封書は　その町の|　購入時に　使うことができるんだ。|<br>|「また　専用の権利証・封書は　バザー出品や|　取り引きなどができず　他のキャラクターへの|　譲渡はできないから　注意してくれ。": ""
+  },
+  "487": {
+    "「マイタウンの町には　マイタウンの機能を|　すべて　利用できる町と|　一部の機能が　制限されている町があります。|<br>|「『丘の町』では　マイタウン機能を|　すべて　ご利用になることができますが|　『浜辺の町』では　一部の制限があります。|<br>|「具体的な内容としましては|　『見た目設定』の　『遠景』『地景』を|　変更することができません。": ""
+  },
+  "488": {
+    "「マイタウンの町には　マイタウンの機能を|　すべて　利用できる町と|　一部の機能が　制限されている町があります。|<br>|「『丘の町』では　マイタウン機能を|　すべて　利用することができますが|　『浜辺の町』では　一部の制限があります。|<br>|「具体的な内容としては|　『見た目設定』の　『遠景』『地景』を|　変更することができません。": ""
+  },
+  "489": {
+    "「マイタウンの町には　マイタウンの機能を|　すべて　利用できる町と|　一部の機能が　制限されている町がありましゅ。|<br>|「『丘の町』では　マイタウン機能を|　すべて　利用することができましゅが|　『浜辺の町』では　一部の制限があるでしよ。|<br>|「具体的な内容としては|　『見た目設定』の　『遠景』『地景』を|　変更することができないでし。": ""
+  },
+  "490": {
+    "「マイタウンの町には　マイタウンの機能を|　すべて　利用できる町と|　一部の機能が　制限されている町があるわ。|<br>|「『丘の町』では　マイタウン機能を|　すべて　利用することができるけど|　『浜辺の町』では　一部の制限があるの。|<br>|「具体的な内容としては|　『見た目設定』の　『遠景』『地景』を|　変更することができないわ。": ""
+  },
+  "491": {
+    "「マイタウンの町には　マイタウンの機能を|　すべて　利用できる町と|　一部の機能が　制限されている町があります！|<br>|「『丘の町』では　マイタウン機能を|　すべて　利用することができますが|　『浜辺の町』では　一部の制限があります！|<br>|「具体的な内容としましては|　『見た目設定』の　『遠景』『地景』を|　変更することができません！": ""
+  },
+  "492": {
+    "「マイタウンの町には　マイタウンの機能を|　すべて　利用できる町と|　一部の機能が　制限されている町があるんだ。|<br>|「『丘の町』では　マイタウン機能を|　すべて　利用することができるのだが|　『浜辺の町』では　一部の制限がある。|<br>|「具体的な内容としては|　『見た目設定』の　『遠景』『地景』を|　変更することができないんだ。": ""
+  }
+}

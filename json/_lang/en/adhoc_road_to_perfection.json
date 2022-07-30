@@ -1,0 +1,293 @@
+{
+  "1": {
+    "<pipipi_mid>|「おいおい　何　言ってんだ。|　この道標の目標は　もうクリアしてるぞ？|<end>": "<pipipi_mid>Hey, hey, what are you... We've already|cleared the target on this beacon, okay?<end>"
+  },
+  "2": {
+    "<pipipi_mid>|「おお！|　この目標は　クリアしたんだな！|　さすが　<pc>！　やるじゃねえか！！|<br>|「それじゃ　報酬を受け取ってくれ。|<end>": "<pipipi_mid>Oh! I see you've cleared this target! That's|what I'm talking about.<pc> You're good! That's what I'm talking about!|All right, let's get you paid.<end>"
+  },
+  "3": {
+    "<pipipi_mid>|「道標の目標を確認するんだな。|　見事クリアしてたら　報酬をやるぜ！|<end>": "<pipipi_mid>I'll check the targets on the signposts... If|you successfully complete it, you'll be|rewarded!<end>"
+  },
+  "4": {
+    "<pipipi_mid>|「……んー？　なんか　おかしいな。|　ちょっと　問題が　起きてるみたいなんで|　すまねえが　しばらくしてから　また来てくれ。|<end>": "<pipipi_mid>... Hmm? Something's wrong... There seems to|be a problem, so I'm sorry, but I'll come|back in a while...<end>"
+  },
+  "5": {
+    "<pipipi_mid>|「極致への道標について　何が知りたいんだ？|<break>": "<pipipi_mid>What do you want to know about the signpost|to extremis?<break>"
+  },
+  "6": {
+    "<pipipi_mid>|「極致への道標ってのは|　冒険者を　強さの極致へと導くためのモンだ。|<br>|「冒険者が　ひとつ　目標を達成すると|　道標は　次なる目標を示していく。|　くり返せば　やがて極致へ　たどり着く。|<br>|「かつては　スキルマスターの修行の一環だった。|　いにしえの時代に　失われちまったが|　それを　俺流に再現してみたってワケさ。|<br>|「どうだ？　<pc>も　極致ってヤツを|　見てみたくなってきたんじゃねえか？|<br>|「ちょいと　キツいかもしれねえが|　俺が　しっかりと　導いてやるからよ。|　とにかく　挑戦してみてくれ！|<end>": "<pipipi_mid>Signposts of Perfection are meant to guide|adventurers to the ultimate in strength. When|the adventurer has achieved one goal, the|<br>|signpost will point him to the next.|Repetition will eventually lead you to the|ultimate... It was once part of a skill|<br>|master's training... It was lost to the|ancient world, but I've recreated it in my|own way. What do you think?<pc> I'm sure you've been wanting to see the|ultimate, haven't you? It might be a little|tough, but I'll lead you right to it...|<br>|Anyway, give it a try!<end>"
+  },
+  "7": {
+    "<pipipi_mid>|「具体的には　俺に話しかけたときの|　<pc>の　つよさが|　道標の目標以上なら　オッケーだ。|<br>|「その状態で　道標を選んで|　報告してくれれば　見事クリアさ。|　次の目標に　挑戦できるようになるぜ。|<br>|「ちょっとした　報酬と|　さらに上のランクも用意してあるから|　どんどん　挑戦してくれよな！|<br>|「それと　俺がいないところで|　目標の確認とか　報告したくなったときは|　だいじなものから　道標メモを使ってくれ。|<br>|「町の中とかの　安全な場所でなら|　目標内容のメモとか　達成報告ができるぜ。|　ただし　報酬は　直接取りにきてくれよ。|<end>": "<pipipi_mid>|Specifically, when you spoke to me|<pc> If the strength of the target is greater than|the target of the guidepost, then yes... In|that condition, if you select the signpost|<br>|and report back to me, you will receive the|prize... And then you're ready to take on the|next goal... I've got little rewards for you,|<br>|and even higher ranks for you, so keep|trying! Also, if you ever need to check on a|target or report on a target when I'm not|<br>|around, you can use the beacon memo from the|important stuff... If you're in a safe place,|like inside a town, you can write down your|<br>|goals and report your achievements. But|you'll have to pick up your reward in|person...<end>"
+  },
+  "8": {
+    "<pipipi_mid>|「極致への道標に　挑戦するんなら|　何をしたいか　俺に　言ってくれ！　　|<break>": "<pipipi_mid>If you're going to challenge the signposts to|extremes, you're going to have to tell me|what you want!<break>"
+  },
+  "9": {
+    "<pipipi_mid>|「この道標には　まだ挑戦できないぜ。|　順番に　挑戦可能になるから|　まずは挑戦中の目標を　クリアするこった。|<end>": "<pipipi_mid>These guideposts are yet to be challenged...|They'll be available in order of challenge,|so first, you need to complete the target|<br>|you're trying to reach...<end>"
+  },
+  "10": {
+    "<pipipi_mid>|「他に　何か　用はあるか？|<break>": "<pipipi_mid>Is there anything else I can do for you?<break>"
+  },
+  "11": {
+    "<pipipi_off><pc>は　<%sM_item>を|受け取った！|<se_nots System 7><pipipi_on><end>": "<pipipi_off><pc> has received <%sM_item>!|<se_nots System 7><pipipi_on><end>"
+  },
+  "12": {
+    "<pipipi_mid>|「おお　すげぇな！|　この目標　クリアしちまったのか。|　じゃあ　この報酬を……　|<br>|「なんだ　持ち物が　いっぱいじゃねぇか。|　荷物を整理してから　もう１回　来てくれ。|<end>": "<pipipi_mid>Oh, my God! I'm gonna clear this target.|Okay, here's your reward. Oh, my God. You|have so much stuff. I'm gonna go get my stuff|<br>|together, and then we'll come back...<end>"
+  },
+  "13": {
+    "clarity_nt_char_13": "clarity_nt_char_13"
+  },
+  "14": {
+    "clarity_nt_char_14": "clarity_nt_char_14"
+  },
+  "15": {
+    "clarity_nt_char_15": "clarity_nt_char_15"
+  },
+  "16": {
+    "<pipipi_off>不明なエラーが　発生しました。|しばらくしてから　やり直してください。<pipipi_on><end>": "<pipipi_off>I'm getting an unknown error. Please try|again in a few minutes.<pipipi_on><end>"
+  },
+  "17": {
+    "clarity_nt_char_17": "clarity_nt_char_17"
+  },
+  "18": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "19": {
+    "clarity_nt_char_19": "clarity_nt_char_19"
+  },
+  "20": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "21": {
+    "clarity_nt_char_21": "clarity_nt_char_21"
+  },
+  "22": {
+    "clarity_nt_char_22": "clarity_nt_char_22"
+  },
+  "23": {
+    "clarity_nt_char_23": "clarity_nt_char_23"
+  },
+  "24": {
+    "clarity_nt_char_24": "clarity_nt_char_24"
+  },
+  "25": {
+    "<pipipi_mid>|「……マジかよ。|　すべてのランクを　クリアしちまったってのか。|　もう　道標は　残ってないぜ。|<br>|「道標が　新しい目標を探してるみてえだ。|　より難しい目標が　見つかるかもな。|　気長に　待っててくれ。|<end>": "<pipipi_mid>... Ma... We've cleared all ranks... There|are no more signposts left... The signposts|are looking for a new target... They're|<br>|looking for new targets, harder targets. Just|wait and see...<end>"
+  },
+  "26": {
+    "<pipipi_mid>|「よし　次の道標が　示されたぜ。|　今度も　がんばってくれよな！|<end>": "<pipipi_mid>Okay, the next marker... Good luck this time!<end>"
+  },
+  "27": {
+    "「<%sL_RANK>を|　全部　クリアしちまったんだな。|<br>|「次の<%sL_NXT_RANK>を　ご開帳といこうか！|<end>": "I've cleared all of <%sL_RANK>... Let's get|to the next <%sL_NXT_RANK>!<end>"
+  },
+  "28": {
+    "<%sL_NXT_RANK>に　挑めるようになった！|<me_60><pipipi_on><end>": "Now I can take on <%sL_NXT_RANK>!<me_60><pipipi_on><end>"
+  },
+  "29": {
+    "clarity_nt_char_29": "clarity_nt_char_29"
+  },
+  "30": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "31": {
+    "clarity_nt_char_31": "clarity_nt_char_31"
+  },
+  "32": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "33": {
+    "<pipipi_mid>|「なんだ　もう　おしまいか？|　まあ　いいや。また　来てくれよな！|<end>": "<pipipi_mid>What, are we done here? Well... You'll have|to come back!<end>"
+  },
+  "34": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "35": {
+    "<pipipi_off>この条件を　満たした状態で|ダーマ神殿にいる　ディエゴに　会いにいこう！|<end>": "<pipipi_off>With these conditions met, let's go see Diego|at the Alltrades Abbey!<end>"
+  },
+  "36": {
+    "<pipipi_off><pc>は　<%sL_DAIJI_ITEM>を使った。|<br>|すぐに挑戦できる目標は　ないようだ。|<end>": "<pipipi_off><pc> is <%sL_DAIJI_ITEM>... I don't have any|immediate goals that I can try...<end>"
+  },
+  "37": {
+    "<pipipi_off><pc>は　<%sL_DAIJI_ITEM>を使った。|極致への道標が示す　次なる目標が|浮かんでくる……。|<end>": "<pipipi_off><pc> is <%sL_DAIJI_ITEM>... The next goal that|comes to mind, marked by a signpost to the|extreme...<end>"
+  },
+  "38": {
+    "clarity_nt_char_38": "clarity_nt_char_38"
+  },
+  "39": {
+    "clarity_nt_char_39": "clarity_nt_char_39"
+  },
+  "40": {
+    "clarity_nt_char_40": "clarity_nt_char_40"
+  },
+  "41": {
+    "<pipipi_mid>|「この道標に示された目標には|　まだ　達してないみてえだな。|　メモしといてやるから　それ見て　がんばれ。|<end>": "<pipipi_mid>I don't think I've reached the goal that's|marked on this sign. I'll write it down for|you. Look at it.<end>"
+  },
+  "42": {
+    "clarity_nt_char_42": "clarity_nt_char_42"
+  },
+  "43": {
+    "<select_se_off>|極致への道標について|具体的な内容について|目標が複数ある場合|料理について|<select_end>|<break>": "<select_se_off>|About Signposts to the Extreme|Specifics|If you have more than one goal|About the food|<select_end>|<break>"
+  },
+  "44": {
+    "clarity_nt_char_44": "clarity_nt_char_44"
+  },
+  "45": {
+    "道標に記された目標を|コミュニケーションウィンドウの　システムログに|書き込みました。|<end>": "Write the goals listed in the guideposts to|the system log in the communication window...<end>"
+  },
+  "46": {
+    "clarity_nt_char_46": "clarity_nt_char_46"
+  },
+  "47": {
+    "<pipipi_mid>|「今までに示された道標は　全部クリアしてるな。|　新たな目標が　見つかるまで|　できるのは　クリア状況の確認だけだ。|<br>|「そのうち　次の道標が示されるハズだから|　気長に　待っててくれよな。|<end>": "<pipipi_mid>I've cleared all the milestones you've given|me so far... Until we find a new target, all|we can do is check the status. I'm sure the|<br>|next marker will appear soon, so please be|patient...<end>"
+  },
+  "48": {
+    "clarity_nt_char_48": "clarity_nt_char_48"
+  },
+  "49": {
+    "<pipipi_off><%sL_CATEGORY> <%sL_RANK>を|すべてクリアした！<me_71>|<end>": "<pipipi_off>Cleared all <%sL_CATEGORY> <%sL_RANK>!<me_71>|<end>"
+  },
+  "50": {
+    "clarity_nt_char_50": "clarity_nt_char_50"
+  },
+  "51": {
+    "<pipipi_mid>|「道標が示す目標は　ひとつだけじゃなく|　最大ＨＰ　と　攻撃力|　みたいなやつもあるんだ。|<br>|「さらに　特定の職業になっていたり|　特定の武器を　装備していることを|　条件にしてくることもある。|<br>|「ちょいと　メンドーだろうが|　そんときは　すべての条件を合わせつつ|　つよさも目標以上にしてから　報告してくれ。|<br>|「極致ってヤツを目指すには　いろんな強さを|　身につける必要が　あるってことさ。|　果てしない挑戦に　なるかもしれねえな。|<end>": "<pipipi_mid>There's more than just one target that's|marked by a signpost, there's also things|like maximum HP and attack power... And|<br>|sometimes they require you to be a certain|profession or have a certain weapon|equipped... I know it's a bit of a hassle,|<br>|but in that case, just make sure you meet all|the requirements and your strength is above|the target, then report back to me... I've|<br>|been told that in order to reach the ultimate|goal, you need to acquire a variety of|strengths. It could be an endless|<br>|challenge...<end>"
+  },
+  "52": {
+    "clarity_nt_char_52": "clarity_nt_char_52"
+  },
+  "53": {
+    "<pipipi_mid>|「道標が示す目標は　あくまで|　冒険者自身の　本来のつよさと|　愛用してる装備で　超えなきゃいけねえんだ。|<br>|「料理を食べたときの効果みたいな|　一定時間で消える　つよさの変化は|　認めてくれねえ。|<br>|「目標まで　ちょいと　足りないってときは|　錬金効果の見直しや　アクセサリー合成なんかも|　試してみるといいかもだぜ。|<end>": "<pipipi_mid>The guideposts indicate goals that must be|surpassed by the adventurer's own natural|strength and the equipment he uses. I'll|<br>|allow changes in strength that disappear|after a certain amount of time, like the|effects of eating food... If you're a little|<br>|short of your goal, you might want to rethink|the alchemy effect or try synthesizing|accessories...<end>"
+  },
+  "54": {
+    "clarity_nt_char_54": "clarity_nt_char_54"
+  },
+  "55": {
+    "<pipipi_mid>|「よう　<pc>。|　いいところに　来てくれたぜ！|<br>|「ちょっとした　修行に　つき合わねえか？|　極致への道標ってんだけどよ|　冒険者を　強さの極致へと導くためのモンだ。|<br>|「カンタンに　説明するとだな。|　まず俺が　極致への道標が記されたリストと|　挑戦できる目標を　見せるぜ。|<br>|「で　<pc>の　いまのつよさが|　道標が示す目標以上なら|　見事　クリアになるってカンジだ。|<br>|「<pc>が　ひとつ　目標を達成すると|　道標は　次なる目標を示していく。|　くり返せば　やがて極致へたどり着く。|<br>|「どうだ？　<pc>も　極致ってヤツを|　見てみたくなってきたんじゃねえか？|<end>": "<pipipi_mid>|Yo, <pc>! Nice to see you.|<br>|Why don't you join me for a little training?|This is the Road to Perfection, and is meant|to guide you to the height of your abilities.|<br>|It's easy to explain. First, I'll show you|the different Roads you can take and the|challenges each one has.|<br>|If the specified stat is equal to or higher|than the challenge's target stat value, you'll|clear it.|<br>|Each time you complete a challenge, the next|one'll open up. Keep this up, and you'll|eventually reach the ultimate challenge.|<br>|So, whadd'ya think? Don't you want to reach|that ultimate challenge too, <pc>?"
+  },
+  "56": {
+    "clarity_nt_char_56": "clarity_nt_char_56"
+  },
+  "57": {
+    "<pipipi_mid>|「それと　極致への道標には|　つよさ　職業　武器の３つの道標があるぜ。|<br>|「つよさの道標は　単に目標を達成すればいいが|　職業と　武器の道標は　決まった職業や|　武器の条件を満たして　達成しなきゃならない。|<br>|「さらに　最強の極致への挑戦……|　かつて最強とうたわれた　英雄たちのつよさに|　チャレンジするものも　用意してある。|<br>|「とはいえ　こっちの目標は　マジでキツいし|　あくまで　チャレンジだからな。|　無理して挑まなくても　大丈夫だ。|<br>|「そんじゃ　いつでも　目標の確認とか|　達成報告が　できるように|　コイツを　渡しておくからよ。|<end>": "<pipipi_mid>Also, there are three guideposts to|mastery... Strength, Profession, and Weapon.|The strength guideposts simply require you to|<br>|complete a goal, but the occupation and|weapon guideposts require you to meet|specific occupation and weapon requirements|<br>|to complete. And then there's the challenge|to reach the ultimate in strength. A|challenge to the best of the best... a|<br>|challenge to the strength of the greatest|heroes of all time. But this goal is really|hard, and it's only a challenge... You don't|<br>|have to do it. It's... So I'll give you this|so you can check your goals and report back|to me whenever you want.<end>"
+  },
+  "58": {
+    "clarity_nt_char_58": "clarity_nt_char_58"
+  },
+  "59": {
+    "<pipipi_mid>|「ソイツを見たいときは　だいじなものから|　使ってくれれば　オッケーだ。|<br>|「もっと　くわしいことを　知りたかったら|　『説明を聞く』を　選んでくれ。|　いつでも　レクチャーしてやるからよ。|<br>|「それじゃ　おっぱじめるとしようぜ！|<end>": "<pipipi_mid>If you want to see it, just start with the|most important one and you're good to go. If|you want to know more about it, just select|<br>|\"Ask me about it.\" I'll give you a lecture|any time. Okay, let's get this over with.<end>"
+  },
+  "60": {
+    "clarity_nt_char_60": "clarity_nt_char_60"
+  },
+  "61": {
+    "<pipipi_off><pc>は|<%sL_DAIJI_ITEM>（だいじなもの）を手に入れた。|<me 60>|<end>": "<pipipi_off><pc>  is getting <%sL_DAIJI_ITEM> (something|important)...<me 60>|<end>"
+  },
+  "62": {
+    "clarity_nt_char_62": "clarity_nt_char_62"
+  },
+  "63": {
+    "<pipipi_mid>|「よう　<pc>。　来たな。|　あれから　俺も修行を積んできたからよ。|　極致への道標の　新たな段階を解放したんだ！|<br>|「<pc>が　今まで挑戦していたものは|　つよさの道標に　名前が変わり|　職業の道標と武器の道標が　新たに示された。|<br>|「新たな道標は　示す目標に|　特定の職業や武器が　含まれるってヤツだ。|　手ごわいが　相応の報酬も用意してるぜ。|<br>|「さらに　最強の極致への挑戦……|　かつて最強とうたわれた　英雄たちのつよさにも|　チャレンジできるようになったんだぜ。|<br>|「とはいえ　この目標は　マジでキツいし|　あくまで　チャレンジだからな。|　無理して挑まなくても　大丈夫だ。|<end>": "<pipipi_mid>|be exalted<pc>  ... ... Since then, I've trained myself...|I've unlocked a new stage on the path to|perfection!<pc> But the ones we've been trying have been|renamed strength signposts, and there are new|occupational and weapon signposts. The new|<br>|guideposts include specific professions and|weapons as targets... They're tough, but|they're also rewarding. And the challenge of|<br>|becoming the greatest of them all. Now you|can challenge the strength of the greatest|heroes of all time. However, this goal is|<br>|really hard, and it's only a challenge.|There's no need to push yourself.<end>"
+  },
+  "64": {
+    "clarity_nt_char_64": "clarity_nt_char_64"
+  },
+  "65": {
+    "<pipipi_mid>|「……っと。　あとそうだ　道標メモ。|　渡した　だいじなもの　あるだろ。|　こっちも　ちょっと　チカラを解放してな。|<br>|「道標メモを使って　町の中ならどこからでも|　達成報告を　できるようにしといたぜ。|　まあ　その場合　報酬は渡せないんだけど。|<br>|「……なに？　報酬もメモから受け取りたい？|　ダメ　ダメ。そういうのは　直接渡したいだろ。|　悪いけど　直接　俺のとこ来てくれよな。|<br>|「さてと　ちと長くなっちまったが|　話したいことは　これで全部だ。|<br>|　それじゃ　また　おっぱじめるとしようぜ！|<end>": "<pipipi_mid>..... And yes, the road... I gave it to you.|It's very important. I'll free up a bit of|energy here too... We can use the signpost|<br>|memo to report the achievement from anywhere|in town... Well, in that case, I can't give|you the reward... I... What? You want to get|<br>|your reward from the memo? No, no, no. I'll|give it to you in person. I'm sorry, but|you'll have to come to me. I'm sorry, but|<br>|this is all I have to say. Let's get this|over with, shall we?<end>"
+  },
+  "66": {
+    "clarity_nt_char_66": "clarity_nt_char_66"
+  },
+  "67": {
+    "<pipipi_mid>|「おっ！　最強の極致に挑戦するんだな。|　お前もチャレンジャーだよなあ。|　さあ　どの極致に挑戦する？|<end>": "<pipipi_mid>Whoa! I challenge the best of the best...|You're a challenger... I don't know. Which|one will you challenge?<end>"
+  },
+  "68": {
+    "clarity_nt_char_68": "clarity_nt_char_68"
+  },
+  "69": {
+    "<pipipi_mid>|「おお……！　この最強の極致を|　全部　クリアしちまうなんてな……|　さすがは　<pc>だぜ！|<end>": "<pipipi_mid>Oh...! I can't believe you've managed to|clear all of this... As expected...<pc> Yeah!<end>"
+  },
+  "70": {
+    "clarity_nt_char_70": "clarity_nt_char_70"
+  },
+  "71": {
+    "<pipipi_mid>|「道標は　まだまだ残ってるから|　まあ　気長に　がんばってこうぜ。|<end>": "<pipipi_mid>The guideposts are still there, so please be|patient...<end>"
+  },
+  "72": {
+    "clarity_nt_char_72": "clarity_nt_char_72"
+  },
+  "73": {
+    "<pipipi_off>|最強の極致に挑戦の　<%sL_RANK>を|すべてクリアした！|<me_71>|<end>": "<pipipi_off>You've completed all <%sL_RANK> of the most|extreme challenges!<me_71>|<end>"
+  },
+  "74": {
+    "clarity_nt_char_74": "clarity_nt_char_74"
+  },
+  "75": {
+    "<pipipi_mid>|「おいおいおい　マジかよ……。|　最強の極致だぜ？　全部クリアしちまうなんて|　お前　ホントに最強じゃねえか！|<end>": "<pipipi_mid>Whoa, whoa, whoa, whoa, whoa, whoa, whoa,|whoa. You're the best of the best! You're|really the strongest, clearing everything!<end>"
+  },
+  "76": {
+    "clarity_nt_char_76": "clarity_nt_char_76"
+  },
+  "77": {
+    "<pipipi_off>|最強の極致への挑戦　すべての道標をクリアした！|これをクリアしてしまうなんて　とんでもない！|達成おめでとうございます！|<me_71><br>|最強の極致への挑戦の|次なる道標が示されるまで　お待ちください。|<end>": "<pipipi_off>A challenge to the strongest extremity. All|the milestones have been cleared! It's|outrageous that you've cleared all of these!|<br>|Congratulations on your accomplishment!<me_71>Wait for the next signpost in our quest for|the ultimate in power...<end>"
+  },
+  "78": {
+    "clarity_nt_char_78": "clarity_nt_char_78"
+  },
+  "79": {
+    "<pipipi_mid>|「念のため　もっかい伝えとくが|　このメモでできるのは　報告までだからな。|　さて……|<end>": "<pipipi_mid>Just so you know, the only thing I can do|with this note is report it... Well...<end>"
+  },
+  "80": {
+    "clarity_nt_char_80": "clarity_nt_char_80"
+  },
+  "81": {
+    "<pipipi_mid>|「おお！|　この目標は　クリアしたんだな！|　さすが　<pc>！　やるじゃねえか！！|<br>|「報酬は　直接渡したいから|　ダーマの俺のとこ　来てくれよ。|<end>": "<pipipi_mid>Oh! I see you've cleared this target! That's|what I'm talking about.<pc> You're good! You're good! I want to give you|your reward in person, so come to my place in|Dharma...<end>"
+  },
+  "82": {
+    "clarity_nt_char_82": "clarity_nt_char_82"
+  },
+  "83": {
+    "<pipipi_mid>|「よう　<pc>。　俺だ　ディエゴだ。|　いきなり声が聞こえて　おどろいた……って|　顔してるな。まあ　見えてないんだけど。|<br>|「それでだ　極致への道標のことで話がある。|　ヒマなときにでも　ちょっとツラかしてくれ。|　待ってるぜ。|<end>": "<pipipi_mid>|be exalted<pc> It's me. It's me, Di... I heard a voice out|of nowhere, and I was startled... You look...|Well, I can't see... So, I was wondering if|<br>|we could talk about the guidepost to the|ultimate... If you're not too busy, I could|give you a hard time. Wait...<end>"
+  },
+  "84": {
+    "clarity_nt_char_84": "clarity_nt_char_84"
+  },
+  "85": {
+    "<pipipi_off>|真のダーマ神殿にいる|ディエゴのところへ　行ってみよう。|<end>": "<pipipi_off>Go to Diego in the true Dharma temple...<end>"
+  },
+  "86": {
+    "clarity_nt_char_86": "clarity_nt_char_86"
+  },
+  "87": {
+    "<pipipi_mid>|「おっと。荷物がいっぱいになっちまったな。|　わりーけど　つかうものを整理してから|　もう１回　来てくれ。|<end>": "<pipipi_mid>... I've got so much stuff... I'm sorry, but|I'll come back again after I've sorted out|what I need...<end>"
+  },
+  "88": {
+    "clarity_nt_char_88": "clarity_nt_char_88"
+  },
+  "89": {
+    "<pipipi_mid>|「……って　なんだ|　まだ　荷物いっぱいじゃねえか。|　整理してから　もう１回　来てくれ。|<end>": "<pipipi_mid>I'm sorry. What do you mean? You're still|full of stuff... I'll come back one more|time...<end>"
+  },
+  "90": {
+    "clarity_nt_char_90": "clarity_nt_char_90"
+  },
+  "91": {
+    "<pipipi_mid>|「なんだ　もう　おしまいか？|　まあ　いいや。また　呼んでくれよな！|<end>": "<pipipi_mid>What, are we done here? Well... I hope you'll|call me again.<end>"
+  },
+  "92": {
+    "clarity_nt_char_92": "clarity_nt_char_92"
+  },
+  "93": {
+    "<pipipi_mid>|「よう　<pc>。来たな。|　極致への道標だろ？　わかってるって。|　っと　その前にだな……|<br>|「まだ渡せてなかった　報酬があるから|　受け取ってくれ。|<end>": "<pipipi_mid>|be exalted<pc> It's a... A beacon to the extreme, right? You|know... But first... I have a reward for you|that I haven't given you yet, so...<end>"
+  },
+  "94": {
+    "clarity_nt_char_94": "clarity_nt_char_94"
+  },
+  "95": {
+    "<pipipi_mid>|「これで　このランクは　すべてクリアしたな。|　この調子で　ほかのランクの道標も|　ガンガンいこうぜ！|<end>": "<pipipi_mid>That's all the way through this rank. Let's|keep up the good work with the other rank|signposts!<end>"
+  },
+  "96": {
+    "clarity_nt_char_96": "clarity_nt_char_96"
+  },
+  "97": {
+    "<pipipi_off>|<%sL_CATEGORY>をすべてクリアした！<me_71>|<end>": "<pipipi_off>I cleared all <%sL_CATEGORY>!<me_71>|<end>"
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "1": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|ツスクルの村|木かげの集落（アズラン地方）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village of Tuskul|Village in the shade of a tree (Azlan region)|I'm not getting in|<select_end><break>"
+  },
+  "2": {
+    "「まいど　ありがとうございます。|　ではすぐに　<%sW_STAGE>へ|　出発させていただきます。": "Thank you... We'll be leaving immediately for|<%sW_STAGE>..."
+  },
+  "3": {
+    "「お乗りに　なりませんか。|　ではまた　別の機会に　ご利用くださいませ。": "I'll be right with you. Well, we'll see you|another time..."
+  },
+  "4": {
+    "「残念ですが　お金が足りないようでございます。|　お金を持って　また来ていただければ……。": "I'm afraid we don't have enough money... If|you could just bring the money and come|back..."
+  },
+  "5": {
+    "「<%sW_STAGE>まで　行かれるのですね。|　<%nL_GOLD_A>ゴールドになりますが　よろしいですか？|<yesno><break>": "If you can get to <%sW_STAGE>... <%nL_GOLD_A>|gold, if you don't mind.<yesno><break>"
+  },
+  "6": {
+    "「そうですか。それは残念でございます。|　ではまた　別の機会に　ご利用くださいませ。": "Well... I'm sorry to hear that. Well, I'm|sure we'll have another opportunity."
+  },
+  "7": {
+    "「ただし　送るだけで　迎えはありまへん。|　それでも　ええなら　どこまで行かれます？|<select_se_off>|アグラニの町|モガレキャンプ（モガリム街道）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If that's all right with you, how far|would you like to go?|<select_se_off>|Town of Agrani|Mogale Camp (Moghalim Road)|I'm not getting in|<select_end><break>"
+  },
+  "8": {
+    "「まいど　おおきに！|　ほなすぐに　<%sW_STAGE>へ　出発しますで。": "Thank you very much. All right, we're off to|the <%sW_STAGE>..."
+  },
+  "9": {
+    "「あらら。乗りませんか。|　ほなまた　よろしゅう。": "... I'm gonna ride... I'll see you later..."
+  },
+  "10": {
+    "「あちゃー。残念やけど　お金が足りまへん。|　悪いんやけど　こっちも商売なんで。|　お金のある時に　また　よろしゅう頼んます。": "I'm... I'm sorry, but I don't have enough|money... I'm sorry, but I'm in the business|of... I'm sorry, but we're a business..."
+  },
+  "11": {
+    "「<%sW_STAGE>まで　行かれるんやね。|　<%nL_GOLD_A>ゴールド　もらいますけど　ええですか？|<yesno><break>": "I can get you to the <%sW_STAGE>...|<%nL_GOLD_A> I'll take the gold, if that's|okay.<yesno><break>"
+  },
+  "12": {
+    "「さいですか。|　ほなまた　よろしゅう。": "I'll be back. See you around..."
+  },
+  "13": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|ランガーオ村|獅子門|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Langao Village|Lions Gate|I'm not getting in|<select_end><break>"
+  },
+  "14": {
+    "「まいど　ありがとう。|　ではすぐに　<%sW_STAGE>へ　出発するぞ。": "Thank you, Ari... Let's go to <%sW_STAGE>|right away..."
+  },
+  "15": {
+    "「そうか。乗らないか。|　機会があれば　また利用してくれ。": "... Ride... I'd use it again if I had the|chance..."
+  },
+  "16": {
+    "「すまない。お金が足りないようだ。|　お金を持って　また来てくれ。": "I'm... I don't have enough money... Bring the|money and come back..."
+  },
+  "17": {
+    "「<%sW_STAGE>まで　行くのか。|　運賃を<%nL_GOLD_A>ゴールドいただくが　いいか？|<yesno><break>": "I'm going to <%sW_STAGE>... I'll take|<%nL_GOLD_A> gold for the fare, okay?<yesno><break>"
+  },
+  "18": {
+    "「そうか。それは残念だ。|　機会があれば　また来てくれ。": "... It's... I'll come back when I have a|chance..."
+  },
+  "19": {
+    "「システムエラー。|　選択肢１と選択肢２。|　このパターンのメッセージは　ありえません。": "System... Option one and option two. This|pattern of messages is impossible..."
+  },
+  "20": {
+    "「まいどあり！　それじゃ　すぐに|　<%sW_STAGE>へ　出発するぜ。|　さあ　乗った　乗った！": "Thank you. Okay, we'll be on our way to the|<%sW_STAGE> soon... Come on, we're on, we're|on!"
+  },
+  "21": {
+    "「おっと。乗らないのか。そいつは残念だ。|　どこかに行きたくなったら　また来いよ。": "... I'm not getting in... That's... If you|need to go somewhere, I'll just..."
+  },
+  "22": {
+    "「おっと。残念だが　お金が足りないな。|　それじゃ　乗せてやることはできん。|　お金を持って　また来てくれよ。": "... I'm sorry, but we don't have enough|money... Well, then, I can't give you a ride.|Bring the money and come back..."
+  },
+  "23": {
+    "「<%sW_STAGE>まで　行くんだな。|　<%nL_GOLD_A>ゴールドもらうが　いいかい？|<yesno><break>": "I'm going to the <%sW_STAGE>...|<%nL_GOLD_A>I'll take the gold, okay?<yesno><break>"
+  },
+  "24": {
+    "「おっと。そりゃ　失礼したな。|　どこかに行きたくなったら　また来いよ。": "... Oh, excuse me... If you ever need to go|somewhere, I'll just..."
+  },
+  "25": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|レーンの村|祈りの宿（レーナム緑野）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Lane's Village|Prayer Inn (Rainham Green Field)|I'm not getting in|<select_end><break>"
+  },
+  "26": {
+    "「まいど　どうも。|　それじゃ　<%sW_STAGE>へ　出発しますぜ！": "Hey... Okay, we're off to <%sW_STAGE>!"
+  },
+  "27": {
+    "「おや。乗らないですかい。|　では乗りたくなったら　また来ておくんなせい。": "Oh. Don't get in... Then come back when you|want to ride..."
+  },
+  "28": {
+    "「おっと残念。金が足りないようですぜ。|　金がある時に　また来ておくんなせい。": "Oh... I don't think we have enough money...|Come back when you have more money..."
+  },
+  "29": {
+    "「<%sW_STAGE>まで　行くんですな。|　お代<%nL_GOLD_A>ゴールドで　よろしいですかい？|<yesno><break>": "We're going to the <%sW_STAGE>... Would you|like to pay me in gold?<yesno><break>"
+  },
+  "30": {
+    "「そうですかい。|　では乗りたくなったら　また来ておくんなせい。": "So... Well, come back when you're ready to|ride..."
+  },
+  "31": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|プクレットの村|ピィピのお宿（オルフェア地方東）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Village of Pucrette|Pippi's Inn (East of Orphea)|I'm not getting in|<select_end><break>"
+  },
+  "32": {
+    "「まいど　ありがとうございますー。|　ではすぐに　<%sW_STAGE>へ|　出発しますねー。": "Thank you very much... We'll be leaving for|<%sW_STAGE> soon..."
+  },
+  "33": {
+    "「あー。乗らないんですねー。|　機会があれば　また　利用してくださいー。": "Uh... I don't ride... If you have a chance,|please use it again..."
+  },
+  "34": {
+    "「あー。お金が足りないようですねー。|　お金を持って　また来てくださいー。": "Ah. I don't think we have enough money...|Please bring money and come back..."
+  },
+  "35": {
+    "「<%sW_STAGE>まで　行くんですねー。|　<%nL_GOLD_A>ゴールドになりますがー　いいですかー？|<yesno><break>": "I'm going to <%sW_STAGE>... <%nL_GOLD_A>I'm|going to be gold, is that okay?<yesno><break>"
+  },
+  "36": {
+    "「そうですかー。それは残念ですー。|　機会があれば　また利用してくださいー。": "So... That's too bad... If you ever get the|chance, please come back..."
+  },
+  "37": {
+    "「<%sW_STAGE>まで　行かれるのですね。|　ただし　送るのみで　迎えにはあがれません。|　<%nL_GOLD_A>ゴールドになりますが　よろしいですか？|<yesno><break>": "You can go to <%sW_STAGE>... But I can only|take you there. I can't pick you up...|<%nL_GOLD_A>I'll be gold, if that's okay.<yesno><break>"
+  },
+  "38": {
+    "「<%sW_STAGE>まで　行かれるんやね。|　ただし　送るだけで　迎えはありまへん。|　<%nL_GOLD_A>ゴールド　もらいますけど　ええですか？|<yesno><break>": "You can go to <%sW_STAGE>... But I can only|take you there, not pick you up... <I'll take|the gold. Is that okay?<yesno><break>"
+  },
+  "39": {
+    "「<%sW_STAGE>まで　行くのか。|　ただし　送るのみで　迎えには行けん。|　運賃を<%nL_GOLD_A>ゴールドいただくが　いいか？|<yesno><break>": "I'll take you to <%sW_STAGE>... But I can|only take you there. I can't pick you up. I'd|like to pay you in gold, if that's okay.<yesno><break>"
+  },
+  "40": {
+    "「<%sW_STAGE>まで　行くんだな。|　ただし　送るだけで　迎えはしないからな。|　<%nL_GOLD_A>ゴールドもらうが　いいかい？|<yesno><break>": "I'll go to <%sW_STAGE>... But I'm not going|to pick you up... <%nL_GOLD_A> I'll take the|gold, okay?<yesno><break>"
+  },
+  "41": {
+    "「<%sW_STAGE>まで　行くんですな。|　ただし　送るだけで　迎えには行けやせん。|　お代<%nL_GOLD_A>ゴールドで　よろしいですかい？|<yesno><break>": "I'm going to <%sW_STAGE>... But I can't pick|you up... Would you like to pay me in gold?<yesno><break>"
+  },
+  "42": {
+    "「<%sW_STAGE>まで　行くんですねー。|　ただし　送るだけで　迎えには行けませーん。|　<%nL_GOLD_A>ゴールドになりますがー　いいですかー？|<yesno><break>": "I'm going to <%sW_STAGE>... But I can't pick|you up... <%nL_GOLD_A> I'm going gold, is|that okay?<yesno><break>"
+  },
+  "43": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|ツスクルの村|木かげの集落（アズラン地方）|レンジャー協会支部（モリナラ大森林）|山間の関所（イナミノ街道）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village of Tuskul|Village in the shade of a tree (Azlan region)|Ranger Association Chapter (Molinarra Great Forest)|A barrier in the mountains (Inamino Highway)|I'm not getting in|<select_end><break>"
+  },
+  "44": {
+    "「……送るだけ。迎えには行けない……。|　それでいいなら……どこ行く？|<select_se_off>|橋上の宿（ゲルト海峡）|ザマ烽火台（ザマ峠）|乗らない|<select_end><break>": "... I can't... I can't pick you up... If|that's okay with you... Where are you going?|<select_se_off>|Inn on the Bridge (Gert Strait)|Zama Signal Tower (Zama Pass)|I'm not getting in|<select_end><break>"
+  },
+  "45": {
+    "「……送るだけ。迎えには行けない……。|　それでいいなら……どこ行く？|<select_se_off>|橋上の宿（ゲルト海峡）|ザマ烽火台（ザマ峠）|入り江の集落（ギルザッド地方）|乗らない|<select_end><break>": "... I can't... I can't pick you up... If|that's okay with you... Where are you going?|<select_se_off>|Inn on the Bridge (Gert Strait)|Zama Signal Tower (Zama Pass)|Settlement at the Cove (Gilzad Region)|I'm not getting in|<select_end><break>"
+  },
+  "46": {
+    "「……まいど。|　<%sW_STAGE>……行く！": "...... <%sW_STAGE>... Go!"
+  },
+  "47": {
+    "「そうか……。": "Well..."
+  },
+  "48": {
+    "「…………。|　お金……足りない。": "... Money... Feet..."
+  },
+  "49": {
+    "「<%sW_STAGE>　行く。|　<%nL_GOLD_A>ゴールドかかる……いい？|<yesno><break>": "<%sW_STAGE>... <%nL_GOLD_A>It costs gold...|Okay?<yesno><break>"
+  },
+  "50": {
+    "「そうか……。残念だ。": "Okay. ......"
+  },
+  "51": {
+    "「<%sW_STAGE>　行く。|　……送るだけ。迎えには行けない……。|　<%nL_GOLD_A>ゴールドかかる……いい？|<yesno><break>": "<%sW_STAGE>... ... Sending... I can't pick|you up... <%nL_GOLD_A> It'll cost you gold...|Okay?<yesno><break>"
+  },
+  "52": {
+    "「ただし　送るだけで　迎えはありまへん。|　それでも　ええなら　どこまで行かれます？|<select_se_off>|アグラニの町|モガレキャンプ（モガリム街道）|オアシスの隊商宿（ゴブル砂漠東）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If that's all right with you, how far|would you like to go?|<select_se_off>|Town of Agrani|Mogale Camp (Moghalim Road)|Oasis Trading Post (east of Goble Desert)|I'm not getting in|<select_end><break>"
+  },
+  "53": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|ランガーオ村|獅子門|橋上の宿（ゲルト海峡）|ザマ烽火台（ザマ峠）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Langao Village|Lions Gate|Inn on the Bridge (Gert Strait)|Zama Signal Tower (Zama Pass)|I'm not getting in|<select_end><break>"
+  },
+  "54": {
+    "「ばってん　送るだけで　迎えには行かれんばい|　そいでもよかなら　どこさ行くと？|<select_se_off>|オアシスの隊商宿（ゴブル砂漠東）|商人たちのテント（ゴブル砂漠西）|乗らない|<select_end><break>": "I'm not going to pick you up, just drop you|off. Where would you go if that's okay?|<select_se_off>|Oasis Trading Post (east of Goble Desert)|Merchants' Tent (west of Goble Desert)|I'm not getting in|<select_end><break>"
+  },
+  "55": {
+    "「ばってん　送るだけで　迎えには行かれんばい|　そいでもよかなら　どこさ行くと？|<select_se_off>|オアシスの隊商宿（ゴブル砂漠東）|商人たちのテント（ゴブル砂漠西）|乗らない|<select_end><break>": "I'm not going to pick you up, just drop you|off. Where would you go if that's okay?|<select_se_off>|Oasis Trading Post (east of Goble Desert)|Merchants' Tent (west of Goble Desert)|I'm not getting in|<select_end><break>"
+  },
+  "56": {
+    "「まいどありがとね。|　そしたら　<%sW_STAGE>へ|　出発するばい。": "Thank you... Then we'll go to <%sW_STAGE>..."
+  },
+  "57": {
+    "「おっとと。乗らんとね。|　乗りたくなりよったら　また来んしゃい。": "Oh... Get in... Come back when you feel like|riding..."
+  },
+  "58": {
+    "「おっとと。金が足らんちゃ。|　金んある時に　また来んしゃい。": "Oh... I don't have enough money... I'll come|back when I have money..."
+  },
+  "59": {
+    "「<%sW_STAGE>まで　行くんやね。|　お代は<%nL_GOLD_A>ゴールドたい。そいでもよかと？|<yesno><break>": "I'll take you to <%sW_STAGE>... You'll pay|for the goal... Is that all right with you?<yesno><break>"
+  },
+  "60": {
+    "「おっとと。やめると？|　乗りたくなりよったら　また来んしゃい。": "Oh... You're stopping? If you feel like|riding, we'll come back..."
+  },
+  "61": {
+    "「<%sW_STAGE>まで　行くんやね。|　ただし　送るだけで　迎えには行かれんばい。|　お代は<%nL_GOLD_A>ゴールドたい。そいでもよかと？|<yesno><break>": "I'll go to <%sW_STAGE>... But I can't pick|you up... You'll have to pay for the goal...|Is that all right with you?<yesno><break>"
+  },
+  "62": {
+    "「ただし　送るだけで　迎えはしないからな。|　もし　それでも　いいなら|　あんたは　どこへ　行きたいんだ？|<select_se_off>|メルサンディ村|セレドの町|アラハギーロ王国|三門の関所|乗らない|<select_end><break>": "But I'm not gonna pick you up. If that's all|right with you, where do you want to go?|<select_se_off>|Mersandi Village|Town of Cerrado|Kingdom of Arahaguillo|Sanmon no Sekisho (gate of the Imperial palace)|I'm not getting in|<select_end><break>"
+  },
+  "63": {
+    "「ただし　送るだけで　迎えには行けぬでござる。|　それでもよければ|　どちらに　向かわれるでござるか？|<select_se_off>|山間の関所（イナミノ街道）|ガケっぷち村跡（落陽の草原）|乗らない|<select_end><break>": "But I can only take you home. I cannot pick|you up... If you don't mind, where are you|headed, that you are?|<select_se_off>|A barrier in the mountains (Inamino Highway)|Ruins of Gakkety Village (meadow of falling sun)|I'm not getting in|<select_end><break>"
+  },
+  "64": {
+    "「ただし　送るだけで　迎えには行けぬでござる。|　それでもよければ|　どちらに　向かわれるでござるか？|<select_se_off>|山間の関所（イナミノ街道）|ガケっぷち村跡（落陽の草原）|乗らない|<select_end><break>": "But I can only take you home. I cannot pick|you up... If you don't mind, where are you|headed, that you are?|<select_se_off>|A barrier in the mountains (Inamino Highway)|Ruins of Gakkety Village (meadow of falling sun)|I'm not getting in|<select_end><break>"
+  },
+  "65": {
+    "「まいどあり！　でござる。|　では　すぐに　<%sW_STAGE>へ行くでござる。": "Thank you! So... We'll go to <%sW_STAGE>|soon..."
+  },
+  "66": {
+    "「おお。お乗りにはなられぬか。|　では　乗りたくなったら|　また来てほしいでござる。": "Oh. You're not riding... Well, if you want to|ride, please come back..."
+  },
+  "67": {
+    "「むむ。お金が足りないようでござるな。|　お金を持って　また来てほしいでござる。": "Mmm. I'm afraid I don't have enough money...|Please bring the money and come back..."
+  },
+  "68": {
+    "「<%sW_STAGE>まで　行くでござるな。|　運賃<%nL_GOLD_A>ゴールド　いただくが　よろしいか？|<yesno><break>": "We're going to the <%sW_STAGE>... Do you mind|if I take the gold?<yesno><break>"
+  },
+  "69": {
+    "「おお。それは残念でござるな。|　機会があれば　また来てほしいでござる。": "Oh. I'm sorry to hear that... I hope you'll|come back when you have the chance..."
+  },
+  "70": {
+    "「<%sW_STAGE>まで　行くでござるな。|　ただし　送るだけで　迎えには行けぬでござる。|　運賃<%nL_GOLD_A>ゴールド　いただくが　よろしいか？|<yesno><break>": "I'm going to <%sW_STAGE>... But I can only|take you there, I can't pick you up... Do you|mind if I take the gold for the fare?<yesno><break>"
+  },
+  "71": {
+    "「でも　送るだけで　迎えには行けないよ。|　それでも　いいなら　どこまで行くね？|<select_se_off>|オルファの丘（まもの使いハウス）|キラキラ大風車塔|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up... If that's all right with you, how|far would you go?|<select_se_off>|Orpha Hill (Magician's House)|Glittering Great Windmill Tower|I'm not getting in|<select_end><break>"
+  },
+  "72": {
+    "「でも　送るだけで　迎えには行けないよ。|　それでも　いいなら　どこまで行くね？|<select_se_off>|オルファの丘（まもの使いハウス）|キラキラ大風車塔|荒野の休息所（チョッピ荒野）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up... If that's all right with you, how|far would you go?|<select_se_off>|Orpha Hill (Magician's House)|Glittering Great Windmill Tower|Wilderness Rest Area (Choppi Wilderness)|I'm not getting in|<select_end><break>"
+  },
+  "73": {
+    "「まいどありね。|　では　<%sW_STAGE>へ　向かうよ。": "Hello... Now, to <%sW_STAGE>..."
+  },
+  "74": {
+    "「あら？　乗らないか？|　それは　残念だよ。": "What? You need a ride? That's not..."
+  },
+  "75": {
+    "「おお　お客さん　お金が足りないよ。|　お金を持って　また来てね。": "Oh, sir, we need more money... I'll bring the|money. I'll bring the..."
+  },
+  "76": {
+    "「<%sW_STAGE>まで　行くね。|　<%nL_GOLD_A>ゴールドね。やすいよ。乗っていくね？|<yesno><break>": "<%sW_STAGE> Up to ... <%nL_GOLD_A>go... Ya...|I'm going for a ride, aren't I?<yesno><break>"
+  },
+  "77": {
+    "「あら。それは残念だよ。|　またきっと　来てね。": "Oh, my. That's left... I'm sure we'll..."
+  },
+  "78": {
+    "「<%sW_STAGE>まで　行くね。|　でも　送るだけで　迎えには行けないよ。|　<%nL_GOLD_A>ゴールドね。やすいよ。乗っていくね？|<yesno><break>": "To <%sW_STAGE>... But I can only drop you|off. I can't pick you up... <%nL_GOLD_A>Go...|I'll... I'll give you a ride, okay?<yesno><break>"
+  },
+  "79": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|レーンの村|祈りの宿（レーナム緑野）|浜辺の小屋（ラーディス王島）|海辺の交易所（ヴェリナード領南）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Lane's Village|Prayer Inn (Rainham Green Field)|Hut on the beach (King Ladis Island)|Trading post by the sea (south of Velinade territory)|I'm not getting in|<select_end><break>"
+  },
+  "80": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|プクレットの村|ピィピのお宿（オルフェア地方東）|オルファの丘（まもの使いハウス）|キラキラ大風車塔|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Village of Pucrette|Pippi's Inn (East of Orphea)|Orpha Hill (Magician's House)|Glittering Great Windmill Tower|I'm not getting in|<select_end><break>"
+  },
+  "81": {
+    "「ただよー　送るだけで　迎えには行けねーぜ？|　それでもよけりゃ　どこに行くよー？|<select_se_off>|海辺の交易所（ヴェリナード領南）|密林の野営地（ブーナー熱帯雨林）|乗らない|<select_end><break>": "It's just, you know, I can't just drop you|off and pick you up, okay? If you don't mind,|where will you go?|<select_se_off>|Trading post by the sea (south of Velinade territory)|Dense forest encampment (Boonah Rainforest)|I'm not getting in|<select_end><break>"
+  },
+  "82": {
+    "「ただよー　送るだけで　迎えには行けねーぜ？|　それでもよけりゃ　どこに行くよー？|<select_se_off>|海辺の交易所（ヴェリナード領南）|密林の野営地（ブーナー熱帯雨林）|乗らない|<select_end><break>": "It's just, you know, I can't just drop you|off and pick you up, okay? If you don't mind,|where will you go?|<select_se_off>|Trading post by the sea (south of Velinade territory)|Dense forest encampment (Boonah Rainforest)|I'm not getting in|<select_end><break>"
+  },
+  "83": {
+    "「まいどありー。|　じゃー　<%sW_STAGE>へ　行くぜ！": "Hey... Let's go to <%sW_STAGE>!"
+  },
+  "84": {
+    "「そうかー。乗らねーかー。|　乗りたくなったら　また来るんだぜー。": "I don't... I don't... We'll come back when|we're ready..."
+  },
+  "85": {
+    "「あー。金が足りねーな。|　すまねーが　金のある時に|　また来てくれよー。": "Ahh. I'm short on money... I'm sorry, but|you'll have to come back when you have more|money..."
+  },
+  "86": {
+    "「<%sW_STAGE>まで　だな。|　代金<%nL_GOLD_A>ゴールドいただくぜ？|<yesno><break>": "Until <%sW_STAGE>... I'll take the gold,|okay?<yesno><break>"
+  },
+  "87": {
+    "「そうかー。やめるのかー。|　乗りたくなったら　また来るんだぜー。": "I... I'll stop. I'll come back if I need a|ride..."
+  },
+  "88": {
+    "「<%sW_STAGE>まで　だな。|　ただよー　送るだけで　迎えには行けねーぜ？|　あと　代金<%nL_GOLD_A>ゴールドいただくぜ？|<yesno><break>": "To <%sW_STAGE>... I'm just gonna drop you|off, not pick you up, okay? And I'll take|your gold.<yesno><break>"
+  },
+  "89": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|木かげの集落（アズラン地方）|レンジャー協会支部（モリナラ大森林）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village in the shade of a tree (Azlan region)|Ranger Association Chapter (Molinarra Great Forest)|I'm not getting in|<select_end><break>"
+  },
+  "90": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|ツスクルの村|レンジャー協会支部（モリナラ大森林）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village of Tuskul|Ranger Association Chapter (Molinarra Great Forest)|I'm not getting in|<select_end><break>"
+  },
+  "91": {
+    "「……送るだけ。迎えには行けない……。|　それでいいなら……どこ行く？|<select_se_off>|ザマ烽火台（ザマ峠）|入り江の集落（ギルザッド地方）|乗らない|<select_end><break>": "... I can't... I can't pick you up... If|that's okay with you... Where are you going?|<select_se_off>|Zama Signal Tower (Zama Pass)|Settlement at the Cove (Gilzad Region)|I'm not getting in|<select_end><break>"
+  },
+  "92": {
+    "「……送るだけ。迎えには行けない……。|　それでいいなら……どこ行く？|<select_se_off>|橋上の宿（ゲルト海峡）|入り江の集落（ギルザッド地方）|乗らない|<select_end><break>": "... I can't... I can't pick you up... If|that's okay with you... Where are you going?|<select_se_off>|Inn on the Bridge (Gert Strait)|Settlement at the Cove (Gilzad Region)|I'm not getting in|<select_end><break>"
+  },
+  "93": {
+    "「ただし　送るだけで　迎えはありまへん。|　それでも　ええなら　どこまで行かれます？|<select_se_off>|モガレキャンプ（モガリム街道）|オアシスの隊商宿（ゴブル砂漠東）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If that's all right with you, how far|would you like to go?|<select_se_off>|Mogale Camp (Moghalim Road)|Oasis Trading Post (east of Goble Desert)|I'm not getting in|<select_end><break>"
+  },
+  "94": {
+    "「ただし　送るだけで　迎えはありまへん。|　それでも　ええなら　どこまで行かれます？|<select_se_off>|アグラニの町|オアシスの隊商宿（ゴブル砂漠東）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If that's all right with you, how far|would you like to go?|<select_se_off>|Town of Agrani|Oasis Trading Post (east of Goble Desert)|I'm not getting in|<select_end><break>"
+  },
+  "95": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|獅子門|橋上の宿（ゲルト海峡）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Lions Gate|Inn on the Bridge (Gert Strait)|I'm not getting in|<select_end><break>"
+  },
+  "96": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|ランガーオ村|橋上の宿（ゲルト海峡）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Langao Village|Inn on the Bridge (Gert Strait)|I'm not getting in|<select_end><break>"
+  },
+  "97": {
+    "「システムエラー。|　選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "98": {
+    "「システムエラー。|　選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "99": {
+    "「システムエラー。|　選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "100": {
+    "「システムエラー。|　選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "101": {
+    "「システムエラー。|　選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "102": {
+    "「システムエラー。|　選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "103": {
+    "「でも　送るだけで　迎えには行けないよ。|　それでも　いいなら　どこまで行くね？|<select_se_off>|キラキラ大風車塔|荒野の休息所（チョッピ荒野）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up... If that's all right with you, how|far would you go?|<select_se_off>|Glittering Great Windmill Tower|Wilderness Rest Area (Choppi Wilderness)|I'm not getting in|<select_end><break>"
+  },
+  "104": {
+    "「でも　送るだけで　迎えには行けないよ。|　それでも　いいなら　どこまで行くね？|<select_se_off>|オルファの丘（まもの使いハウス）|荒野の休息所（チョッピ荒野）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up... If that's all right with you, how|far would you go?|<select_se_off>|Orpha Hill (Magician's House)|Wilderness Rest Area (Choppi Wilderness)|I'm not getting in|<select_end><break>"
+  },
+  "105": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|祈りの宿（レーナム緑野）|浜辺の小屋（ラーディス王島）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Prayer Inn (Rainham Green Field)|Hut on the beach (King Ladis Island)|I'm not getting in|<select_end><break>"
+  },
+  "106": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|レーンの村|浜辺の小屋（ラーディス王島）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Lane's Village|Hut on the beach (King Ladis Island)|I'm not getting in|<select_end><break>"
+  },
+  "107": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|ピィピのお宿（オルフェア地方東）|オルファの丘（まもの使いハウス）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Pippi's Inn (East of Orphea)|Orpha Hill (Magician's House)|I'm not getting in|<select_end><break>"
+  },
+  "108": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|プクレットの村|オルファの丘（まもの使いハウス）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Village of Pucrette|Orpha Hill (Magician's House)|I'm not getting in|<select_end><break>"
+  },
+  "109": {
+    "「システムエラー。|　選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "110": {
+    "「システムエラー。|　選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "111": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|木かげの集落（アズラン地方）|レンジャー協会支部（モリナラ大森林）|山間の関所（イナミノ街道）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village in the shade of a tree (Azlan region)|Ranger Association Chapter (Molinarra Great Forest)|A barrier in the mountains (Inamino Highway)|I'm not getting in|<select_end><break>"
+  },
+  "112": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|ツスクルの村|山間の関所（イナミノ街道）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village of Tuskul|A barrier in the mountains (Inamino Highway)|I'm not getting in|<select_end><break>"
+  },
+  "113": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|木かげの集落（アズラン地方）|山間の関所（イナミノ街道）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village in the shade of a tree (Azlan region)|A barrier in the mountains (Inamino Highway)|I'm not getting in|<select_end><break>"
+  },
+  "114": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|レンジャー協会支部（モリナラ大森林）|山間の関所（イナミノ街道）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Ranger Association Chapter (Molinarra Great Forest)|A barrier in the mountains (Inamino Highway)|I'm not getting in|<select_end><break>"
+  },
+  "115": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|ツスクルの村|木かげの集落（アズラン地方）|レンジャー協会支部（モリナラ大森林）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village of Tuskul|Village in the shade of a tree (Azlan region)|Ranger Association Chapter (Molinarra Great Forest)|I'm not getting in|<select_end><break>"
+  },
+  "116": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|ツスクルの村|木かげの集落（アズラン地方）|山間の関所（イナミノ街道）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village of Tuskul|Village in the shade of a tree (Azlan region)|A barrier in the mountains (Inamino Highway)|I'm not getting in|<select_end><break>"
+  },
+  "117": {
+    "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<select_se_off>|ツスクルの村|レンジャー協会支部（モリナラ大森林）|山間の関所（イナミノ街道）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's not too much to ask, how|far would you like to ride?|<select_se_off>|Village of Tuskul|Ranger Association Chapter (Molinarra Great Forest)|A barrier in the mountains (Inamino Highway)|I'm not getting in|<select_end><break>"
+  },
+  "118": {
+    "「システムエラー。|　選択肢２と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option three and|option... This pattern of messages is|impossible..."
+  },
+  "119": {
+    "「システムエラー。|　選択肢１と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two. This|pattern of messages is impossible..."
+  },
+  "120": {
+    "「システムエラー。|　選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "121": {
+    "「システムエラー。|　選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option three and option... This|pattern of messages is impossible..."
+  },
+  "122": {
+    "「……送るだけ。迎えには行けない……。|　それでいいなら……どこ行く？|<select_se_off>|橋上の宿（ゲルト海峡）|ザマ烽火台（ザマ峠）|入り江の集落（ギルザッド地方）|乗らない|<select_end><break>": "... I can't... I can't pick you up... If|that's okay with you... Where are you going?|<select_se_off>|Inn on the Bridge (Gert Strait)|Zama Signal Tower (Zama Pass)|Settlement at the Cove (Gilzad Region)|I'm not getting in|<select_end><break>"
+  },
+  "123": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "124": {
+    "「システムエラー。|　選択肢１と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option three and|option... There's no way that this pattern of|messages..."
+  },
+  "125": {
+    "「システムエラー。|　選択肢２と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option three and|option... This pattern of messages is|impossible..."
+  },
+  "126": {
+    "「システムエラー。|　選択肢１と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two. This|pattern of messages is impossible..."
+  },
+  "127": {
+    "「システムエラー。|　選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "128": {
+    "「システムエラー。|　選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option three and option... This|pattern of messages is impossible..."
+  },
+  "129": {
+    "「ただし　送るだけで　迎えはありまへん。|　それでも　ええなら　どこまで行かれます？|<select_se_off>|アグラニの町|モガレキャンプ（モガリム街道）|オアシスの隊商宿（ゴブル砂漠東）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If that's all right with you, how far|would you like to go?|<select_se_off>|Town of Agrani|Mogale Camp (Moghalim Road)|Oasis Trading Post (east of Goble Desert)|I'm not getting in|<select_end><break>"
+  },
+  "130": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "131": {
+    "「システムエラー。|　選択肢１と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option three and|option... There's no way that this pattern of|messages..."
+  },
+  "132": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|獅子門|橋上の宿（ゲルト海峡）|ザマ烽火台（ザマ峠）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Lions Gate|Inn on the Bridge (Gert Strait)|Zama Signal Tower (Zama Pass)|I'm not getting in|<select_end><break>"
+  },
+  "133": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|ランガーオ村|ザマ烽火台（ザマ峠）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Langao Village|Zama Signal Tower (Zama Pass)|I'm not getting in|<select_end><break>"
+  },
+  "134": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|獅子門|ザマ烽火台（ザマ峠）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Lions Gate|Zama Signal Tower (Zama Pass)|I'm not getting in|<select_end><break>"
+  },
+  "135": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|橋上の宿（ゲルト海峡）|ザマ烽火台（ザマ峠）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Inn on the Bridge (Gert Strait)|Zama Signal Tower (Zama Pass)|I'm not getting in|<select_end><break>"
+  },
+  "136": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|ランガーオ村|獅子門|橋上の宿（ゲルト海峡）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Langao Village|Lions Gate|Inn on the Bridge (Gert Strait)|I'm not getting in|<select_end><break>"
+  },
+  "137": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|ランガーオ村|獅子門|ザマ烽火台（ザマ峠）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Langao Village|Lions Gate|Zama Signal Tower (Zama Pass)|I'm not getting in|<select_end><break>"
+  },
+  "138": {
+    "「ただし　送るのみで　迎えには行けん。|　それでも　よければ　どこまで行く？|<select_se_off>|ランガーオ村|橋上の宿（ゲルト海峡）|ザマ烽火台（ザマ峠）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Langao Village|Inn on the Bridge (Gert Strait)|Zama Signal Tower (Zama Pass)|I'm not getting in|<select_end><break>"
+  },
+  "139": {
+    "「システムエラー。|　選択肢２と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option three and|option... This pattern of messages is|impossible..."
+  },
+  "140": {
+    "「システムエラー。|　選択肢１と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two. This|pattern of messages is impossible..."
+  },
+  "141": {
+    "「システムエラー。|　選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "142": {
+    "「システムエラー。|　選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option three and option... This|pattern of messages is impossible..."
+  },
+  "143": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "144": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "145": {
+    "「システムエラー。|　選択肢１と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option three and|option... There's no way that this pattern of|messages..."
+  },
+  "146": {
+    "「システムエラー。|　選択肢２と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option three and|option... This pattern of messages is|impossible..."
+  },
+  "147": {
+    "「システムエラー。|　選択肢１と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two. This|pattern of messages is impossible..."
+  },
+  "148": {
+    "「システムエラー。|　選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "149": {
+    "「システムエラー。|　選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option three and option... This|pattern of messages is impossible..."
+  },
+  "150": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "151": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "152": {
+    "「システムエラー。|　選択肢１と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option three and|option... There's no way that this pattern of|messages..."
+  },
+  "153": {
+    "「システムエラー。|　選択肢２と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option three and|option... This pattern of messages is|impossible..."
+  },
+  "154": {
+    "「システムエラー。|　選択肢１と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two. This|pattern of messages is impossible..."
+  },
+  "155": {
+    "「システムエラー。|　選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "156": {
+    "「システムエラー。|　選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option three and option... This|pattern of messages is impossible..."
+  },
+  "157": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "158": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "159": {
+    "「システムエラー。|　選択肢１と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option three and|option... There's no way that this pattern of|messages..."
+  },
+  "160": {
+    "「システムエラー。|　選択肢２と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option three and|option... This pattern of messages is|impossible..."
+  },
+  "161": {
+    "「システムエラー。|　選択肢１と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two. This|pattern of messages is impossible..."
+  },
+  "162": {
+    "「システムエラー。|　選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "163": {
+    "「システムエラー。|　選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option three and option... This|pattern of messages is impossible..."
+  },
+  "164": {
+    "「でも　送るだけで　迎えには行けないよ。|　それでも　いいなら　どこまで行くね？|<select_se_off>|オルファの丘（まもの使いハウス）|キラキラ大風車塔|荒野の休息所（チョッピ荒野）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up... If that's all right with you, how|far would you go?|<select_se_off>|Orpha Hill (Magician's House)|Glittering Great Windmill Tower|Wilderness Rest Area (Choppi Wilderness)|I'm not getting in|<select_end><break>"
+  },
+  "165": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "166": {
+    "「システムエラー。|　選択肢１と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option three and|option... There's no way that this pattern of|messages..."
+  },
+  "167": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|祈りの宿（レーナム緑野）|浜辺の小屋（ラーディス王島）|海辺の交易所（ヴェリナード領南）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Prayer Inn (Rainham Green Field)|Hut on the beach (King Ladis Island)|Trading post by the sea (south of Velinade territory)|I'm not getting in|<select_end><break>"
+  },
+  "168": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|レーンの村|海辺の交易所（ヴェリナード領南）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Lane's Village|Trading post by the sea (south of Velinade territory)|I'm not getting in|<select_end><break>"
+  },
+  "169": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|祈りの宿（レーナム緑野）|海辺の交易所（ヴェリナード領南）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Prayer Inn (Rainham Green Field)|Trading post by the sea (south of Velinade territory)|I'm not getting in|<select_end><break>"
+  },
+  "170": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|浜辺の小屋（ラーディス王島）|海辺の交易所（ヴェリナード領南）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Hut on the beach (King Ladis Island)|Trading post by the sea (south of Velinade territory)|I'm not getting in|<select_end><break>"
+  },
+  "171": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|レーンの村|祈りの宿（レーナム緑野）|浜辺の小屋（ラーディス王島）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Lane's Village|Prayer Inn (Rainham Green Field)|Hut on the beach (King Ladis Island)|I'm not getting in|<select_end><break>"
+  },
+  "172": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|レーンの村|祈りの宿（レーナム緑野）|海辺の交易所（ヴェリナード領南）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Lane's Village|Prayer Inn (Rainham Green Field)|Trading post by the sea (south of Velinade territory)|I'm not getting in|<select_end><break>"
+  },
+  "173": {
+    "「ただし　送るだけで　迎えには行けやせん。|　それでも　いいなら　どこまで行きやすか？|<select_se_off>|レーンの村|浜辺の小屋（ラーディス王島）|海辺の交易所（ヴェリナード領南）|乗らない|<select_end><break>": "But I can only give you a lift. I can't pick|you up... If that's all right with you, how|far would you like to go?|<select_se_off>|Lane's Village|Hut on the beach (King Ladis Island)|Trading post by the sea (south of Velinade territory)|I'm not getting in|<select_end><break>"
+  },
+  "174": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|ピィピのお宿（オルフェア地方東）|オルファの丘（まもの使いハウス）|キラキラ大風車塔|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Pippi's Inn (East of Orphea)|Orpha Hill (Magician's House)|Glittering Great Windmill Tower|I'm not getting in|<select_end><break>"
+  },
+  "175": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|プクレットの村|キラキラ大風車塔|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Village of Pucrette|Glittering Great Windmill Tower|I'm not getting in|<select_end><break>"
+  },
+  "176": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|ピィピのお宿（オルフェア地方東）|キラキラ大風車塔|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Pippi's Inn (East of Orphea)|Glittering Great Windmill Tower|I'm not getting in|<select_end><break>"
+  },
+  "177": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|オルファの丘（まもの使いハウス）|キラキラ大風車塔|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Orpha Hill (Magician's House)|Glittering Great Windmill Tower|I'm not getting in|<select_end><break>"
+  },
+  "178": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|プクレットの村|ピィピのお宿（オルフェア地方東）|オルファの丘（まもの使いハウス）|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Village of Pucrette|Pippi's Inn (East of Orphea)|Orpha Hill (Magician's House)|I'm not getting in|<select_end><break>"
+  },
+  "179": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|プクレットの村|ピィピのお宿（オルフェア地方東）|キラキラ大風車塔|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Village of Pucrette|Pippi's Inn (East of Orphea)|Glittering Great Windmill Tower|I'm not getting in|<select_end><break>"
+  },
+  "180": {
+    "「ただし　送るだけで　迎えには行けませーん。|　それでも　いいなら　どこまで行きますかー？|<select_se_off>|プクレットの村|オルファの丘（まもの使いハウス）|キラキラ大風車塔|乗らない|<select_end><break>": "But I can only take you home. I can't pick|you up. If you don't mind, how far would you|like to go?|<select_se_off>|Village of Pucrette|Orpha Hill (Magician's House)|Glittering Great Windmill Tower|I'm not getting in|<select_end><break>"
+  },
+  "181": {
+    "「システムエラー。|　選択肢２と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option three and|option... This pattern of messages is|impossible..."
+  },
+  "182": {
+    "「システムエラー。|　選択肢１と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two. This|pattern of messages is impossible..."
+  },
+  "183": {
+    "「システムエラー。|　選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option two and option... This|pattern of messages is impossible..."
+  },
+  "184": {
+    "「システムエラー。|　選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option three and option... This|pattern of messages is impossible..."
+  },
+  "185": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢３。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "186": {
+    "「システムエラー。|　選択肢１と選択肢２と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option two and|option... This pattern of messages is|impossible..."
+  },
+  "187": {
+    "「システムエラー。|　選択肢１と選択肢３と選択肢４。|　このパターンのメッセージは　ありえません。": "System... Option one and option three and|option... There's no way that this pattern of|messages..."
+  }
+}

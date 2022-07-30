@@ -1,0 +1,1802 @@
+{
+  "1": {
+    "「<%sL_ADDRESS>さんを|　送り先から　外しますか？|<yesno><break>": "Do you want to remove|<%sL_ADDRESS> from the recipient|list?|<br><yesno><break>"
+  },
+  "2": {
+    "「<%sL_SENDER_NAME>さんから届いた　お金を|　捨ててしまっても　よろしいですか？|<yesno 2><break>": "<%sL_SENDER_NAME>May I throw away|the money you sent me?<yesno 2><break>"
+  },
+  "3": {
+    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　おもいで私書箱で見られないので|　ご注意くださいね。|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? Please note|that this letter cannot be seen at the P.O.|<br>|Box...<yesno 2><break>"
+  },
+  "4": {
+    "「<%sL_SENDER_NAME>さんから届いた|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|　捨ててしまっても　よろしいですか？|<yesno 2><break>": "May I throw away the <%sL_ITEM_NAMEFILLERSTRI|NG><%sL_PLUS><%nL_KOUKA_NUMFILLER|STRING> sent by|<br>|<%sL_SENDER_NAME>?<yesno 2><break>"
+  },
+  "5": {
+    "「手紙の送料は　無料となっています。|　では　このお手紙を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|<yesno><break>": "The postage on the letter will be free. May I|send this letter to|<%sL_ADDRESS>, please?|<br><yesno><break>"
+  },
+  "6": {
+    "「手紙の送料は　無料となっています。|　では　このお手紙を　皆さんに|　お送りして　よろしいでしょうか？|<yesno><break>": "The postage on the letter is free... I hope|you don't mind if I send this letter to you|all.|<br><yesno><break>"
+  },
+  "7": {
+    "「おっと。申し訳ありませんが|　<%sL_ADDRESS>さんへの郵便は|　現在　お受けできないようです。|<bw_break>": "... We're sorry, but we are currently unable|to accept mail for|<%sL_ADDRESS>...|<br><bw_break>"
+  },
+  "8": {
+    "「<%sL_SENDER_NAME>さんから届いた|　お金を　処分いたしました。|<bw_break>": "We will dispose of the money received from|Mr. <%sL_SENDER_NAME>...<bw_break>"
+  },
+  "9": {
+    "「<%sL_SENDER_NAME>さんから届いた|　お手紙を　処分いたしました。|<bw_break>": "I am disposing of a letter received from Mr.|<%sL_SENDER_NAME>...<bw_break>"
+  },
+  "10": {
+    "「<%sL_SENDER_NAME>さんから届いた|　お荷物を　処分いたしました。|<bw_break>": "<%sL_SENDER_NAME>We're disposing|of the package you received from...<bw_break>"
+  },
+  "11": {
+    "「<%sL_ADDRESS>さんは|　すでに　送り先に入っていますよ。": "<%sL_ADDRESS> is already in the|destination..."
+  },
+  "12": {
+    "「申し訳ありませんが　送り先の全員に|　お送りすることが　できませんでした。|<bw_break>": "I'm sorry, but we can't send this to everyone|you're sending it to...<bw_break>"
+  },
+  "13": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんと|　<%sL_ADDRESS_7>さんと　<%sL_ADDRESS_8>さんに|　お送りできませんでした。|<bw_break>": "I'm sorry <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... We are|unable to send to <%sL_ADDRESS_5>|and <%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8>. ...<bw_break>"
+  },
+  "14": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんに　お送りできませんでした。|<bw_break>": "Sorry, we can't send to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5>...|<br><bw_break>"
+  },
+  "15": {
+    "「申し訳ありませんが　<%sL_ADDRESS>さんと|　<%sL_ADDRESS_2>さんと　<%sL_ADDRESS_3>さんと|　<%sL_ADDRESS_4>さんに　お送りできませんでした。|<bw_break>": "I'm sorry, but I can't send this to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4>. I can't...<bw_break>"
+  },
+  "16": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんと|　<%sL_ADDRESS_7>さんと　<%sL_ADDRESS_8>さんと|　<%sL_ADDRESS_9>さんに　お送りできませんでした。|<bw_break>": "I'm sorry <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and...|<%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8> and <%sL_|ADDRESS_9>...|<br><bw_break>"
+  },
+  "17": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんに　お送りできませんでした。|<bw_break>": "Sorry, we can't send this to|<%sL_ADDRESS>...<bw_break>"
+  },
+  "18": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんと|　<%sL_ADDRESS_7>さんに　お送りできませんでした。|<bw_break>": "I'm sorry <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... We are|unable to send to <%sL_ADDRESS_5>|and <%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7>...<bw_break>"
+  },
+  "19": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんに|　お送りできませんでした。|<bw_break>": "Sorry, but we can't send to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4> and... We are|unable to send to <%sL_ADDRESS_5>|<br>|and <%sL_ADDRESS_6>...<bw_break>"
+  },
+  "20": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんに　お送りできませんでした。|<bw_break>": "Sorry, we can't send this to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3>...<bw_break>"
+  },
+  "21": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんに|　お送りできませんでした。|<bw_break>": "Sorry, we can't send this to|<%sL_ADDRESS> and|<%sL_ADDRESS_2>...|<br><bw_break>"
+  },
+  "22": {
+    "「すいませんが　その袋には|　何も入っていないようです。|<bw_break>": "I'm sorry, but there's nothing in that bag...<bw_break>"
+  },
+  "23": {
+    "「すいませんが　お客様は|　ゴールドを　お持ちではないようです。|<bw_break>": "I'm sorry, sir, but you don't have any|gold...<bw_break>"
+  },
+  "24": {
+    "「申し訳ありませんが|　お届けできる　お相手が|　フレンドリストに　いないようです。|<bw_break>": "I'm sorry, but I don't see anyone on your|friends list who can help you.<bw_break>"
+  },
+  "25": {
+    "「ああ　申し訳ありません。|　何人か　フレンドを|　探すのに　失敗してしまいました……。|<break>": "Oh, I'm sorry... I've failed to find some of|your friends...<break>"
+  },
+  "26": {
+    "「では　お受けいたしました！|　こちらは　確かに　お届けいたします！|<bw_break>": "Then we have your order! We'll make sure this|one gets to you!<bw_break>"
+  },
+  "27": {
+    "「郵便局へ　ようこそ！|　本日は　どんな　ご用ですか？|<break>": "Welcome to the post office! What can I do for|you today?<break>"
+  },
+  "28": {
+    "<select_se_off>|うけとる|売り上げうけとり|おくる|おもいで私書箱を見る|説明を聞く|<select_end><break>": "<select_se_off>|receive|receipt of sales|send (a thing)|View the POBOX|Listen to the explanation|<select_end><break>"
+  },
+  "29": {
+    "「お客様の　郵便箱には|　何も　届いていないようですね。|<bw_break>": "Nothing seems to have arrived in your|mailbox...<bw_break>"
+  },
+  "30": {
+    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|　お送りすることは　できないんです。|<bw_break>": "Sorry, but we can't send you <%sL_ITEM_NAMEFI|LLERSTRING><%sL_PLUS><%nL_KOUKA_N|UM>...|<br><bw_break>"
+  },
+  "31": {
+    "「他にも　ご用は　ございますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "32": {
+    "「以上で　すべて　お受け取りいただきました。|　ありがとうございました。|<bw_break>": "That's all for now. Thank you...<bw_break>"
+  },
+  "33": {
+    "「お荷物の送り先は　おひとりのみになります。|　どなたに　お送りしますか？|<break>": "The package can only be sent to one person...|Who would you like to send it to?<break>"
+  },
+  "34": {
+    "「何を　お送りしますか？|<break>": "What would you like to send?|<break>"
+  },
+  "35": {
+    "「どちらを　ご覧になりますか？|<break>": "Which one would you like to see?<break>"
+  },
+  "36": {
+    "「……おや？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱が　いっぱいで|　お受け取りが　できないようです。|<bw_break>": "... Hmm? I'm sorry, sir, but|<%sL_ADDRESS>'s mailbox is full|and we can't accept your package...|<br><bw_break>"
+  },
+  "37": {
+    "「……おや？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱が　いっぱいで|　お受け取りが　できなかったようです。|<bw_break>": "... Hmm? I'm sorry, sir, but|<%sL_ADDRESS>'s mailbox was full|and we couldn't pick it up...|<br><bw_break>"
+  },
+  "38": {
+    "「ありがとうございました！|　またのご利用を　お待ちしています！|<end>": "Thank you very much! We look forward to|serving you again!<end>"
+  },
+  "39": {
+    "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
+  },
+  "40": {
+    "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc> received the letter from|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
+  },
+  "41": {
+    "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
+  },
+  "42": {
+    "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
+  },
+  "43": {
+    "「おや　<%sL_STORAGE>が　いっぱいで|　持ち切れないようですね。|<bw_break>": "Oh, it looks like <%sL_STORAGE>|is too full to hold...<bw_break>"
+  },
+  "44": {
+    "「おおっ！|　どうやら　お金を　持ち切れないようですね。|　お金を減らして　またお越しください。|<bw_break>": "Oh! Looks like we're running out of money...|We're gonna need less money, so come back...<bw_break>"
+  },
+  "45": {
+    "「どうやら　お手紙を　お持ちでないようですね。|　お手紙を書くための便せんは　各地の便せん屋や|　道具屋などで　お求めくださいませ。|<bw_break>": "It appears that you do not have a letter...|You can purchase stationery for writing|letters at any stationery or tool store...|<br><bw_break>"
+  },
+  "46": {
+    "「お手紙か　お荷物をお選びください。<break>": "You can choose to receive a letter or a|package...<break>"
+  },
+  "47": {
+    "「何について　説明いたしましょうか？|<select_se_off>|うけとるについて|売り上げうけとりについて|おくるについて|おもいで私書箱について|手紙の整理について|<select_end><break>": "What would you like me to explain?|<select_se_off>|About getting it|Receipt of sales|About us|About Omoide PO Box|On organizing letters|<select_end><break>"
+  },
+  "48": {
+    "「『うけとる』を　ご利用いただくと|　お客様宛てに届いた　手紙や荷物を|　一つひとつ選んで　受け取ることができます。|<br>|「手紙を受け取ると　てがみぶくろの|　『もらった手紙』に入りますが　１００枚を|　超える枚数は　入りませんので　ご注意を！|<br>|「旅人バザーに出品した物の　売上金や|　時間切れで　返却された物も　こちらで|　受け取ることができます。|<br>|「ただし　旅人バザーからのお届け物を|　受け取らず　郵便箱が　いっぱいに|　なってしまわないよう　ご注意ください。|<br>|「いっぱいになると　空きをつくらないかぎり|　旅人バザーで　出品できなくなってしまいます。|　適度に　郵便箱をチェックしてくださいね。|<bw_break>": "When you use the \"Receive\" function, you can|select and receive letters and packages that|have been sent to you one by one. When you|<br>|receive a letter, it will be placed in the|\"Received Letters\" section of your package,|but please note that no more than 100 letters|<br>|will be placed in this section! You can also|receive the proceeds from items sold at the|Traveler's Bazaar, as well as items that were|<br>|returned because time ran out... However,|please be careful not to fill up your mailbox|without receiving a delivery from the|<br>|Traveler's Bazaar. If your mailbox is full,|you won't be able to sell your items at the|Traveler's Bazaar unless you make room for|<br>|them. Please check your mailbox from time to|time.<bw_break>"
+  },
+  "49": {
+    "「『おくる』は　便せんに書いた　１枚の手紙と|　５種類までの荷物を　フレンドや|　チームメンバーの１人に　送ることができます。|<br>|「ただし　送る物が　手紙のみの場合は|　最大１０人まで　同じ手紙を送れます。|<br>|「こちらで　送れる手紙は　てがみぶくろにある|　『書いた手紙』に　入っているものだけです。|　とりひきで直接　人に渡すこともできます。|<br>|「『書いた手紙』には　最大１０枚までの|　手紙を　入れておくことができます。|　封をした後でも　書き直しができます。|<br>|「人に渡った手紙は　てがみぶくろの|　『送った手紙』のなかに　記録が残ります。|<br>|「最新の１００件まで　記録されますが|　古い物から　消えてしまうので|　大切な　手紙は　ロックするのをお忘れなく！|<bw_break>": "You can send a letter and up to five|different packages to a friend or team|member. But if you're only sending a letter,|<br>|you can send the same letter to up to 10|people... The only letters you can send here|are the ones in the \"Written Letters\" section|<br>|of your Letterbox... You can also give them|directly to people... You can keep up to 10|letters in the \"Written Letter\"... You can|<br>|rewrite them even after they're sealed.|Letters that have been passed on to other|people will be recorded in the \"Letters|<br>|you've sent\" section of your package... It|keeps track of the last 100 letters you've|sent, but the oldest ones will disappear, so|<br>|don't forget to lock your most important|letters!<bw_break>"
+  },
+  "50": {
+    "「お客様が書いたお手紙は　てがみぶくろの|　『書いた手紙』に入り　郵便局から送ったり|　とりひきで　人に渡すことができます。|<br>|「『書いた手紙』には　最大１０枚までの|　お手紙を　入れておくことができます。|　後から　書き直しも　できますよ。|<bw_break>": "The letters you write will be stored in a|letter bag, which you can send from the post|office or give to someone through an|<br>|exchange... Up to 10 letters can be stored in|the \"Written Letter\"... And you can rewrite|them later.|<br><bw_break>"
+  },
+  "51": {
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+  },
+  "52": {
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+  },
+  "53": {
+    "「<%sL_NPC><%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに　お選びのようですね。|<bw_break>": ""
+  },
+  "54": {
+    "「<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　現在<%nL_ITEM_NUM>個　お選びです。|　いくつに　変更しますか？|<break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> is currently|<%nL_ITEM_NUM>... How many do you|<br>|want to change?<break>"
+  },
+  "55": {
+    "「……おや？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱は|　あと<%nL_BOX_NUM>件しか　空きがないようです。|<bw_break>": "... Hmm? I'm sorry, but|<%sL_ADDRESS> has only|<%nL_BOX_NUM> more mailboxes|<br>|available...<bw_break>"
+  },
+  "56": {
+    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send you <%sL_ITEM_NA|ME><%sL_PLUS><%nL_KOU|KA_NUM> because it's already|<br>|owned by...<bw_break>"
+  },
+  "57": {
+    "「おや？　申し訳ありませんが　こちらの荷物を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but we're unable to|deliver your package... Please give it some|time and try again.|<br><bw_break>"
+  },
+  "58": {
+    "「おや？　申し訳ありませんが　こちらの手紙を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but I'm afraid I can't|give you this letter... Please give it some|time and try again...|<br><bw_break>"
+  },
+  "59": {
+    "<%sL_ADDRESS>さんを|送り先から　外しますか？|<yesno><break>": ""
+  },
+  "60": {
+    "<%sL_SENDER_NAME>から届いたお金を|捨てますか？|<yesno 2><break>": ""
+  },
+  "61": {
+    "<%sL_SENDER_NAME>さんから届いた手紙を　捨てますか？|このお手紙は　おもいで私書箱から見られません。|ご注意ください。|<yesno 2><break>": "Do you want to throw away the letter you|received from <%sL_SENDER_NAME>?|This letter can be found at the P.O. Box...|<br>|Please note...<yesno 2><break>"
+  },
+  "62": {
+    "<%sL_SENDER_NAME>から届いた|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|捨てますか？|<yesno 2><break>": ""
+  },
+  "63": {
+    "この荷物を　<%sL_ADDRESS>さんの郵便ポストに|いれます。よろしいですか？|<yesno><break>": "I'd like to drop this package off at|<%sL_ADDRESS>'s mailbox... May I?<yesno><break>"
+  },
+  "64": {
+    "この手紙を　<%sL_ADDRESS>さんの|郵便ポストに　いれますか？|<yesno><break>": "Would you like to put this letter in the|mailbox of <%sL_ADDRESS>?<yesno><break>"
+  },
+  "65": {
+    "この荷物を　<%sL_ADDRESS>さんの郵便ポストに|いれます。よろしいですか？|<yesno><break>": "I'd like to drop this package off at|<%sL_ADDRESS>'s mailbox... May I?<yesno><break>"
+  },
+  "66": {
+    "この手紙を　皆さんに送りますか？|<yesno><break>": "Do you want me to send this letter to you?<yesno><break>"
+  },
+  "67": {
+    "<%sL_ADDRESS>さんの　郵便ポストに|いれることができません。|時間をおいて　再度お試しください。|<bw_break>": "I can put it in <%sL_ADDRESS>'s|mailbox... Please give it some time and try|again...|<br><bw_break>"
+  },
+  "68": {
+    "<%sL_SENDER_NAME>さんから届いた|お金を　処分しました。|<bw_break>": "<%sL_SENDER_NAME>I'll get rid of|the money you sent me...<bw_break>"
+  },
+  "69": {
+    "<%sL_SENDER_NAME>さんから届いた|手紙を　処分しました。|<bw_break>": "<%sL_SENDER_NAME>I'm getting rid|of a letter I got from Mr...<bw_break>"
+  },
+  "70": {
+    "<%sL_SENDER_NAME>さんから届いた|荷物を　処分しました。|<bw_break>": "<%sL_SENDER_NAME>I've just|received a package from Mr...<bw_break>"
+  },
+  "71": {
+    "<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|すでに所有者の決まった　装備品のため|入れることが　できません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> can be|included because the equipment already has an|<br>|owner...<bw_break>"
+  },
+  "72": {
+    "<%sL_ADDRESS>さんは|すでに　送り先に入っています。": "<%sL_ADDRESS> is already in the|destination..."
+  },
+  "73": {
+    "送り先の全員に　送れませんでした。|<bw_break>": "I can't send it to everyone I'm sending it|to...<bw_break>"
+  },
+  "74": {
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>と　<%sL_ADDRESS_8>に|送れませんでした。|<bw_break>": "<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8>...<bw_break>"
+  },
+  "75": {
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>に　送れませんでした。|<bw_break>": "<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5>...<bw_break>"
+  },
+  "76": {
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>に|送れませんでした。|<bw_break>": "Can't send to <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4>...<bw_break>"
+  },
+  "77": {
+    "申し訳ありませんが|<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>と　<%sL_ADDRESS_8>と|<%sL_ADDRESS_9>に　お送りできませんでした。|<bw_break>": "Sorry, <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and...|<%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8> and|<%sL_ADDRESS_9 >...|<br><bw_break>"
+  },
+  "78": {
+    "<%sL_ADDRESS>さんの郵便ポストに|いれられませんでした。|<bw_break>": "Couldn't put it in <%sL_ADDRESS>'s|mailbox.|<bw_break>"
+  },
+  "79": {
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>に　送れませんでした。|<bw_break>": "Send it to <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7>...<bw_break>"
+  },
+  "80": {
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>に|送れませんでした。|<bw_break>": "<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5> and|<%sL_ADDRESS_6>...|<br><bw_break>"
+  },
+  "81": {
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>に　送れませんでした。|<bw_break>": "Can't send to <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3>...|<br><bw_break>"
+  },
+  "82": {
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>に|送れませんでした。|<bw_break>": "Unable to send to <%sL_ADDRESS>|and <%sL_ADDRESS_2>...<bw_break>"
+  },
+  "83": {
+    "荷物を取り出すことが　できません。|時間をおいて　もう一度お試しください。|<bw_break>": "I can't get the package out... Please give it|some time and try again.<bw_break>"
+  },
+  "84": {
+    "手紙を取り出すことが　できません。|時間をおいて　もう一度お試しください。|<bw_break>": "I can't get the letter out... Please give it|some time and try again.<bw_break>"
+  },
+  "85": {
+    "その袋には　何も入っていません。|<bw_break>": "There's nothing in that bag...<bw_break>"
+  },
+  "86": {
+    "郵便ポストに　いれるゴールドを|持っていません。|<bw_break>": "I have some gold to put in the mailbox...<bw_break>"
+  },
+  "87": {
+    "送れる　相手が|フレンドリストに　いないようです。|<bw_break>": "I don't see anyone on your friends list that|I can send it to.<bw_break>"
+  },
+  "88": {
+    "何人か　フレンドを|探すのに　失敗しました。|<break>": "I tried to find some friends, but I couldn't.<break>"
+  },
+  "89": {
+    "郵便ポストに　いれました！|<bw_break>": "I put it in the mailbox!<bw_break>"
+  },
+  "90": {
+    "郵便ポストがある。|<break>": "Mailboxes...<break>"
+  },
+  "91": {
+    "<select_se_off>|うけとる|いれる|説明を聞く|<select_end><break>": ""
+  },
+  "92": {
+    "郵便ポストには|何も　届いていないようだ。|<bw_break>": "There's nothing in the mailbox...<bw_break>"
+  },
+  "93": {
+    "手紙か　荷物を選んでください。<break>": "You can pick up a letter or a package...<break>"
+  },
+  "94": {
+    "<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|郵便ポストには　いれられません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> cannot be|placed in mailboxes...|<br><bw_break>"
+  },
+  "95": {
+    "郵便ポストがある。|<break>": "Mailboxes...<break>"
+  },
+  "96": {
+    "郵便ポストから　すべて受け取りました。|<bw_break>": "All mail in the mailbox was received.|<bw_break>"
+  },
+  "97": {
+    "荷物の送り先は　おひとりのみになります。|どなたに　送りますか？|<break>": "The package can only be sent to one person...|Who would you like to send it to?<break>"
+  },
+  "98": {
+    "何を　郵便ポストにいれますか？|<break>": "What would you like to put in the mailbox?<break>"
+  },
+  "99": {
+    "どちらを　確認しますか？|<break>": "Which do you want to check?|<break>"
+  },
+  "100": {
+    "「何について　説明いたしましょうか？|<select_se_off>|もらった手紙について|書いた手紙について|送った手紙について|おもいで私書箱について|手紙の整理について|<select_end><break>": "What would you like me to explain?|<select_se_off>|About the letter I got|About the letter I wrote|About the letter you sent|About Omoide PO Box|On organizing letters|<select_end><break>"
+  },
+  "101": {
+    "「お客様が　郵便局や　とりひきで|　受け取られたお手紙は　てがみぶくろの|　『もらった手紙』に入ります。|<br>|「てがみぶくろに入れられる　お手紙の数には|　限りがあります。いっぱいになってしまうと|　それ以上　持てなくなるので　ご注意ください。　|<bw_break>": "Letters that you receive at the post office|or through a courier are placed in the|\"received letters\" section of your handbag...|<br>|There's a limit to the number of letters you|can put in your letter bag... Once the bag is|full, you can't hold any more...|<br><bw_break>"
+  },
+  "102": {
+    "「郵便局や　とりひきで|　人に渡したお手紙は　てがみぶくろの|　『送った手紙』に　記録が残ります。|<br>|「『送った手紙』は　最新１００件まで|　記録されますが　古い物は消えてしまいます。|　大切な　お手紙は　ロックするのをお忘れなく！|<bw_break>": "Letters you give to people at the post office|or at a bank... will be recorded in the \"Sent|Letters\" section of your wallet. You can keep|<br>|track of the last 100 letters you've sent,|but older letters will disappear. Don't|forget to lock all your important letters!|<br><bw_break>"
+  },
+  "103": {
+    "「お客様が書いたお手紙は　てがみぶくろの|　『書いた手紙』に入り　郵便局から送ったり|　とりひきで　人に渡すことができます。|<br>|「『書いた手紙』には　最大１０枚までの|　お手紙を　入れておくことができます。|　後から　書き直しも　できますよ。|<bw_break>": "The letters you write will be stored in a|letter bag, which you can send from the post|office or give to someone through an|<br>|exchange... Up to 10 letters can be stored in|the \"Written Letter\"... And you can rewrite|them later.|<br><bw_break>"
+  },
+  "104": {
+    "<%sL_NPC><%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|すでに　選んでいます。|<bw_break>": ""
+  },
+  "105": {
+    "<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|現在<%nL_ITEM_NUM>個　選んでいます。|いくつに　変更しますか？|<break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> is currently|<%nL_ITEM_NUM>... How many do you|<br>|want to change?<break>"
+  },
+  "106": {
+    "<%sL_ADDRESS>さんの郵便ポストが　いっぱいで|いれることが　できません。|<bw_break>": "<%sL_ADDRESS>'s mailbox is so|full, we can't fit...<bw_break>"
+  },
+  "107": {
+    "<%sL_ADDRESS>さんの郵便ポストは|あと<%nL_BOX_NUM>件しか　空きがないようだ。|<bw_break>": "<%sL_ADDRESS> has only|<%nL_BOX_NUM> mailboxes|available...|<br><bw_break>"
+  },
+  "108": {
+    "<%sL_ADDRESS>さんの郵便ポストが　いっぱいで|いれられませんでした。|<bw_break>": "<%sL_ADDRESS>'s mailbox is full|and cannot be filled...<bw_break>"
+  },
+  "109": {
+    "「ありがとうございました！|　またのご利用を　お待ちしています！|<end>": "Thank you very much! We look forward to|serving you again!<end>"
+  },
+  "110": {
+    "<pc>は　郵便ポストから|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!|<end>"
+  },
+  "111": {
+    "<pc>は　郵便ポストから|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc> received the letter from|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
+  },
+  "112": {
+    "<%sL_SENDER_NAME>さんからの手紙を|受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
+  },
+  "113": {
+    "<pc>は　郵便ポストから|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!<se_nots System 7>|<end>"
+  },
+  "114": {
+    "<%sL_STORAGE>が　いっぱいで|持ち切れません。|<bw_break>": "<%sL_STORAGE> is too full to|hold...<bw_break>"
+  },
+  "115": {
+    "お金を　持ち切れません。|お金を減らしてから　受け取ってください。|<bw_break>": "I can't hold on to the money. I'm gonna need|less money, and then you can take it...<bw_break>"
+  },
+  "116": {
+    "郵便ポストにいれる手紙が　ありません。|手紙を書くための便せんは　各地の便せん屋や|道具屋などで　お求めください。|<bw_break>": "I have a letter for the mailbox... You can|buy letter paper for writing letters... at|letter paper shops and tool stores...|<br><bw_break>"
+  },
+  "117": {
+    "「申し訳ありませんが|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品のため　お送りできません。|<bw_break>": "We're sorry, but <%sL_ITEM_NAME><|%sL_PLUS><%nL_KOUKA_NUMFILLERSTRI|NG> is a locked piece of equipment and we|<br>|can't send you...<bw_break>"
+  },
+  "118": {
+    "<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|ロックされている　装備品のため|入れることが　できません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> is a locked|piece of equipment and cannot be...|<br><bw_break>"
+  },
+  "119": {
+    "「<%sL_ADDRESS>しゃんを|　おくりさきから　はずしましゅか？|<yesno><break>": "<%sL_ADDRESS>Would you like to|remove the car from the destination?<yesno><break>"
+  },
+  "120": {
+    "「<%sL_SENDER_NAME>しゃんからの　おカネ|　すてちゃっても　いいでしゅか？|<yesno><break>": "<%sL_SENDER_NAME>Is it okay if I|throw away the money from you?<yesno><break>"
+  },
+  "121": {
+    "「<%sL_SENDER_NAME>の　おてまみ　すてましゅか？|　おもいで私書箱で　みられない　おてまみでしゅ|　きをつけるでしゅ！|<yesno><break>": "Do you have a <%sL_SENDER_NAME>?|It's the one you can't find in your P.O. Box,|so be careful!|<br><yesno><break>"
+  },
+  "122": {
+    "「<%sL_SENDER_NAME>しゃんから　もらった|　<%sL_ITEM_NAME>を|　すてちゃっても　いいでしゅか？|<yesno><break>": "Can I give away <%sL_ITEM_NAME>|that I got from|<%sL_SENDER_NAME>?|<br><yesno><break>"
+  },
+  "123": {
+    "「このにもつを　<%sL_ADDRESS>しゃんに|　おくっていいでしゅか？|　おだちんは　いりましぇんよ！|<yesno><break>": "Can I send this package to|<%sL_ADDRESS>? I don't need a|penis!|<br><yesno><break>"
+  },
+  "124": {
+    "「おてまみは　おだちんナシで　おくりましゅよ！|　じゃ　この　おてまみを|　<%sL_ADDRESS>しゃんに　おくっていいでしゅか？|<yesno><break>": "I'll send you the omamimi without a penis!|Then, can I send this diaper to|<%sL_ADDRESS>?|<br><yesno><break>"
+  },
+  "125": {
+    "「このにもつを　<%sL_ADDRESS>しゃんに|　おくっていいでしゅか？|　おだちんは　いりましぇんよ！|<yesno><break>": "Can I send this package to|<%sL_ADDRESS>? I don't need a|penis!|<br><yesno><break>"
+  },
+  "126": {
+    "「おてまみ　おだちん　ナシで　おくりましゅよ！|　じゃ　この　おてまみを|　みんなに　おくっていいでしゅか？|<yesno><break>": "I'm sending you a tepee without a penis! So,|can I send this trick to everyone?<yesno><break>"
+  },
+  "127": {
+    "「ごめんなしゃい。|　<%sL_ADDRESS>しゃん　あての|　ゆうびんは　うけられないみたいでしゅ。|<bw_break>": "Sorry... <%sL_ADDRESS>I can't|seem to get the mail for you...<bw_break>"
+  },
+  "128": {
+    "「<%sL_SENDER_NAME>しゃんから　とどいた|　おカネを　すてまちた。|<bw_break>": "<%sL_SENDER_NAME>Send the money|you got from your friend...<bw_break>"
+  },
+  "129": {
+    "「<%sL_SENDER_NAME>しゃんから　とどいた|　おてまみを　すてまちた。|<bw_break>": "<%sL_SENDER_NAME>She got out of|the way and threw away her...<bw_break>"
+  },
+  "130": {
+    "「<%sL_SENDER_NAME>しゃんから　とどいた|　にもつを　すてまちた。|<bw_break>": "<%sL_SENDER_NAME>Save the stuff|you got from the...<bw_break>"
+  },
+  "131": {
+    "「<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　もう　だれのものか　きまってるから|　おくれないんでしゅ。|<bw_break>": "I can't send <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|because I already know who it belongs to...|<br><bw_break>"
+  },
+  "132": {
+    "「<%sL_ADDRESS>しゃんは|　もう　おくりさきに　はいってましゅよ。": "<%sL_ADDRESS>She's already in the|destination..."
+  },
+  "133": {
+    "「ごめんなしゃい。おくりさきの　みんなに|　おくれましぇんでちた。|<bw_break>": "I'm sorry... I'm sorry I'm late for the|people I'm sending you to...<bw_break>"
+  },
+  "134": {
+    "「<%sL_ADDRESS>しゃんと　<%sL_ADDRESS_2>しゃんと|　<%sL_ADDRESS_3>しゃんと　<%sL_ADDRESS_4>しゃんと|　<%sL_ADDRESS_5>しゃんと……|<br>|「<%sL_ADDRESS_6>しゃんと　<%sL_ADDRESS_7>しゃんと|　<%sL_ADDRESS_8>しゃんに　おくれましぇんでちた。|　ごめんなしゃい。|<bw_break>": "<%sL_ADDRESS>shand|<%sL_ADDRESS_2>shand|<%sL_ADDRESS_3>shand|<br>|<%sL_ADDRESS_4>shand <%sL_|ADDRESS_5>shand...|<%sL_ADDRESS_6>shank and|<br>|<%sL_ADDRESS_7>shank and|<%sL_ADDRESS_8>shank... Sorry...<bw_break>"
+  },
+  "135": {
+    "「ごめんなしゃい。<%sL_ADDRESS>しゃんと|　<%sL_ADDRESS_2>しゃんと　<%sL_ADDRESS_3>しゃんと|　<%sL_ADDRESS_4>しゃんと……|<br>|「<%sL_ADDRESS_5>しゃんには|　おくれましぇんでちた。|<bw_break>": "Sorry... <%sL_ADDRESS>Shan and|<%sL_ADDRESS_2>Shan and|<%sL_ADDRESS_3>Shan and|<br>|<%sL_ADDRESS_4>Shan and...|<%sL_ADDRESS_5>Sha...<bw_break>"
+  },
+  "136": {
+    "「ごめんなしゃい。<%sL_ADDRESS>しゃんと|　<%sL_ADDRESS_2>しゃんと　<%sL_ADDRESS_3>しゃんと|　<%sL_ADDRESS_4>しゃんに　おくれましぇんでちた。|<bw_break>": "Sorry... <%sL_ADDRESS>Shaan and|<%sL_ADDRESS_2>Shaan and|<%sL_ADDRESS_3>Shaan and|<br>|<%sL_ADDRESS_4>Shaan. ...<bw_break>"
+  },
+  "137": {
+    "「<%sL_ADDRESS>しゃんと　<%sL_ADDRESS_2>しゃんと|　<%sL_ADDRESS_3>しゃんと　<%sL_ADDRESS_4>しゃんと|　<%sL_ADDRESS_5>しゃんと……|<br>|「<%sL_ADDRESS_6>しゃんと　<%sL_ADDRESS_7>しゃんと|　<%sL_ADDRESS_8>しゃんと　<%sL_ADDRESS_9>しゃんに|　おくれましぇんでちた。ごめんなしゃい。|<bw_break>": "<%sL_ADDRESS>shand|<%sL_ADDRESS_2>shand|<%sL_ADDRESS_3>shand|<br>|<%sL_ADDRESS_4>shand <%sL_|ADDRESS_5>shand...|<%sL_ADDRESS_6>shanks and|<br>|<%sL_ADDRESS_7>shanks and|<%sL_ADDRESS_8>shanks and|<%sL_ADDRESS_9>shanks. I'm|<br>|sorry... I'm sorry...<bw_break>"
+  },
+  "138": {
+    "「ごめんなしゃい。|　<%sL_ADDRESS>しゃんに　おくれましぇんでちた。|<bw_break>": "Sorry... <%sL_ADDRESS>Sorry for|the delay...<bw_break>"
+  },
+  "139": {
+    "「ごめんなしゃい。　<%sL_ADDRESS>しゃんと|　<%sL_ADDRESS_2>しゃんと　<%sL_ADDRESS_3>しゃんと|　<%sL_ADDRESS_4>しゃんと……|<br>|「<%sL_ADDRESS_5>しゃんと　<%sL_ADDRESS_6>しゃんと|　<%sL_ADDRESS_7>しゃんに　おくれましぇんでちた。|<bw_break>": "Sorry... <%sL_ADDRESS>Shanto|<%sL_ADDRESS_2>Shanto|<%sL_ADDRESS_3>Shanto|<br>|<%sL_ADDRESS_4>Shanto...|<%sL_ADDRESS_5>shanks and|<%sL_ADDRESS_6>shanks and|<br>|<%sL_ADDRESS_7>shanks...<bw_break>"
+  },
+  "140": {
+    "「ごめんなしゃい。　<%sL_ADDRESS>しゃんと|　<%sL_ADDRESS_2>しゃんと　<%sL_ADDRESS_3>しゃんと|　<%sL_ADDRESS_4>しゃんと……|<br>|「<%sL_ADDRESS_5>しゃんと　<%sL_ADDRESS_6>しゃんに|　おくれましぇんでちた。|<bw_break>": "Sorry... <%sL_ADDRESS>Shanto|<%sL_ADDRESS_2>Shanto|<%sL_ADDRESS_3>Shanto|<br>|<%sL_ADDRESS_4>Shanto...|<%sL_ADDRESS_5>Shaan and|<%sL_ADDRESS_6>Shaan...|<br><bw_break>"
+  },
+  "141": {
+    "「ごめんなしゃい。|　<%sL_ADDRESS>しゃんと　<%sL_ADDRESS_2>しゃんと|　<%sL_ADDRESS_3>しゃんに　おくれましぇんでちた。|<bw_break>": "Sorry... <%sL_ADDRESS>Shaan and|<%sL_ADDRESS_2>Shaan and|<%sL_ADDRESS_3>Shaan are late...|<br><bw_break>"
+  },
+  "142": {
+    "「ごめんなしゃい。|　<%sL_ADDRESS>しゃんと　<%sL_ADDRESS_2>しゃんに|　おくれましぇんでちた。|<bw_break>": "Sorry... <%sL_ADDRESS>Sha and|<%sL_ADDRESS_2>Sha are late...<bw_break>"
+  },
+  "143": {
+    "「あれ？　ごめんなしゃい。この　にもつ|　うまく　わたせないみたいでしゅ。|　ちょっとまって　もっかいためしてくだしゃい。|<bw_break>": "Huh? Sorry... I can't seem to get this stuff|to work... Hold on, please try again...<bw_break>"
+  },
+  "144": {
+    "「あれ？　ごめんなしゃい。この　おてまみ|　うまく　わたせないみたいでしゅ。|　ちょっとまって　もっかいためしてくだしゃい。|<bw_break>": "Huh? Sorry... I can't seem to get this trick|to work... Hold on, please try again...<bw_break>"
+  },
+  "145": {
+    "「えっと……。そのふくろには|　なにも　はいってないみたいでしゅよ。|<bw_break>": "Well... I don't think there's anything in|that bag, so...<bw_break>"
+  },
+  "146": {
+    "「えっと……。おきゃくしゃまは|　おカネ　もってないみたいでしゅよ。|<bw_break>": "Well... The customer doesn't seem to have any|money...<bw_break>"
+  },
+  "147": {
+    "「ごめんなしゃい。|　とどけられるひとが　おきゃくしゃまの|　フレンドリストに　いないみたいでしゅ。|<bw_break>": "Sorry... I don't think there's anyone on your|friends list who can help you get out of the|way.|<br><bw_break>"
+  },
+  "148": {
+    "「あっ　ごめんなしゃい。|　なんにんか　フレンドを　さがすのに|　しっぱいしちゃいまちた……。|<break>": "Oh, sorry... I'm sorry, I'm having trouble|finding my friend...<break>"
+  },
+  "149": {
+    "「たちかに　おあじゅかりちまちた！|　バッチリおとどけしましゅね。|<bw_break>": "I've been sent to Tachika! I'll get it to|you...<bw_break>"
+  },
+  "150": {
+    "「いらっちゃいまて！|　あたち　ゆうびんやしゃんゴッコ　ちてるの！ |　きょうは　どんなごようでしゅか？|<break>": "I'm scared! We're playing Yubin-yakko! What|are you doing today?<break>"
+  },
+  "151": {
+    "「ごめんなしゃい。|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　ロックされてるから　おくれないでしゅ。|<bw_break>": "Sorry... I can't give you <%sL_ITEM_NAMEFILLE|RSTRING><%sL_PLUS><%nL_KOUKA_NUMF|ILLERSTRING> because it's locked...|<br><bw_break>"
+  },
+  "152": {
+    "<select_se_off>|うけとる|売り上げうけとり|おくる|おもいで私書箱を見る|説明を聞く|<select_end><break>": "<select_se_off>|receive|receipt of sales|send (a thing)|View the POBOX|Listen to the explanation|<select_end><break>"
+  },
+  "153": {
+    "「おきゃくしゃまの　ゆーびんばこには　|　なにも　はいってないでしゅよ。|<bw_break>": "There's nothing in the teacup...<bw_break>"
+  },
+  "154": {
+    "「おてまみか　にもつを|　えらんでくだしゃい！|<break>": "Please choose one of your favorites!<break>"
+  },
+  "155": {
+    "「ごめんなしゃい。<%sL_ITEM_NAME>は|　おとどけ　できないんでしゅ。|<bw_break>": "Sorry... I can't send you|<%sL_ITEM_NAME>...<bw_break>"
+  },
+  "156": {
+    "「ほかに　ごようは　ありましゅか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "157": {
+    "「これで　ぜんぶでしゅね！|　うけとり　ありあとうございましゅ！|<bw_break>": "That's all of them! Thank you for the win!<bw_break>"
+  },
+  "158": {
+    "「にもつの　おくりさきは|　おひとりさま　だけでしゅ！|　だれに　おくりましゅか？|<break>": "Only one person can send a gift! Who would|you like to send it to?<break>"
+  },
+  "159": {
+    "「なにを　おくりましゅか？|<break>": "What would you like to send?<break>"
+  },
+  "160": {
+    "「どれを　みましゅか？|<break>": "Which one do you want to see?<break>"
+  },
+  "161": {
+    "「なにについて　せつめいしましゅか？|<select_se_off>|うけとるについて|売り上げうけとりについて|おくるについて|おもいで私書箱について|手紙の整理について|<select_end><break>": "What would you like to tell me about?|<select_se_off>|About getting it|Receipt of sales|About us|About Omoide PO Box|On organizing letters|<select_end><break>"
+  },
+  "162": {
+    "「『うけとる』は　おっきゃくしゃまに　とどいた|　おてまみや　にもつを　ひとつひとちゅ|　えらんで　うけとることができましゅ！|<br>|「おてまみを　うけとると　てがみぶくろの|　『もらった手紙』に　はいりましゅが|　うけとれるのは　１００まいまででしゅよ。|<br>|「たびびとばじゃーしゃんからの　うりあげきんや|　じかんぎれで　かえされちゃったものも|　ここから　うけとれましゅ。|<br>|「でしゅが　たびびとばじゃーしゃんからの|　おとどけもので　ゆーびんばこが　いっぱいに|　なっちゃわないよう　きをつけてくだしゃい！|<br>|「いっぱいになると　たびびとばじゃーしゃんで|　ものをしゅっぴんできなく　なっちゃいましゅ。|　ゆーびんばこは　おまめに　チェックでしゅ！|<bw_break>": "In order to receive a letter, you must select|one letter or item from the list of letters|that have been sent to the Opaque Shrine.|<br>|When you receive a letter, it will be placed|in the \"received letter\" section of your|letter bag, but you can only receive up to|<br>|100 letters... If you get a letter from a|traveler or a letter that's been returned to|you because of a lost time, you can also get|<br>|it here... But be careful not to fill up your|mailbox with things from the traveler! If it|gets full, you won't be able to take things|<br>|home with you... Check your mailbox often!<bw_break>"
+  },
+  "163": {
+    "「『おくる』は　１まいの　おてまみと|　５しゅるいまでの　にもつを　フレンドか|　チームメンバーのひとりに　おくれましゅ！|<br>|「おくるものが　おてまみだけだと|　さいだいで　１０にんまで　おなじ　おてまみを|　おくることができましゅ。|<br>|「おくれる　おてまみは　てがみぶくろの|　『書いた手紙』に　はいってるものだけでしゅ。|　とりひきで　ひとにわたすこともできましゅよ。|<br>|「『書いた手紙』には　さいだいで　１０まいまで|　おてまみを　いれられましゅ。ふうをした|　あとでも　書き直しができましゅよ。|<br>|「ひとにわたした　おてまみは　てがみぶくろの|　『送った手紙』に　きろくがのこりましゅ。|　１００けんまで　きろくされましゅよ。|<br>|「でしゅが　ふるいものから　どんどん|　きえちゃいましゅので　たいせつな　おてまみや|　おもいでは　ぜったいロックちてくだしゃいね！|<bw_break>": "To send, you must give one Omotenashi and up|to five other items to a friend or team|member. If you only send one Omotenashi, you|<br>|can send up to 10 Omotenashi at most... You|can only send a letter if it's in the \"letter|you wrote\" box in your letter bag. You can|<br>|also give them to others through trade... The|letter you write can contain up to 10 gifts|at most... You can rewrite the letter after|<br>|you've written it... The letter you give to|someone will be recorded in the \"letter you|sent\" in your handbag... It will be recorded|<br>|for up to 100 tickets... But the older ones|will be lost, so be sure to lock up your most|precious mementos and memories!|<br><bw_break>"
+  },
+  "164": {
+    "「おきゃくしゃまが　かいた　おてまみは|　てがみぶくろの　『書いた手紙』に|　はいりましゅ。|<br>|「それで　ゆうびんきょくから　おくったり|　とりひきで　ひとに　わたせましゅ！|<br>|「『書いた手紙』には　さいだい１０まいの|　おてまみが　はいりましゅ！|　あとで　かきなおしも　できましゅよ。|<bw_break>": "The letter that the customer wrote was put in|the letter bag... And then they can be sent|from the post office or given to others|<br>|through trade! The letter you write will|contain up to 10 omotenames! You can rewrite|it later...|<br><bw_break>"
+  },
+  "165": {
+    "「<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　もう　えらんでましゅよ？|<bw_break>": ""
+  },
+  "166": {
+    "「<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　いま　<%nL_ITEM_NUM>コ　えらんでましゅ。|　いくつに　かえましゅか？|<break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> is now|<%nL_ITEM_NUM>co... How old are|<br>|you?<break>"
+  },
+  "167": {
+    "「あれ？　ごめんなしゃい。|　<%sL_ADDRESS>しゃんの　ゆうびんばこが|　いっぱいで　おくれましぇんでちた。|<bw_break>": "Huh? Sorry... <%sL_ADDRESS>Your|mailbox is full, so I can't get to you...<bw_break>"
+  },
+  "168": {
+    "「あれ？　ごめんなしゃい。|　<%sL_ADDRESS>しゃんの　ゆうびんばこは|　あと<%nL_BOX_NUM>コしか　あいてないみたいでしゅ。|<bw_break>": "Huh? Sorry... It looks like|<%sL_ADDRESS>'s mailbox only has|<%nL_BOX_NUM>co's left...|<br><bw_break>"
+  },
+  "169": {
+    "「ごめんなしゃい。|　<%sL_ADDRESS>しゃんの　ゆーびんばこが|　いっぱいで　おくれましぇんでちた。|<bw_break>": "Sorry... <%sL_ADDRESS>Your|mailbox is full and I can't finish...<bw_break>"
+  },
+  "170": {
+    "「ありあとうございまちた！|　またのおこちを　おまちしてましゅ！|<end>": "<speed=0>Thank you very much! We're looking forward to|seeing you again!<end>"
+  },
+  "171": {
+    "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
+  },
+  "172": {
+    "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc> received the letter from|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
+  },
+  "173": {
+    "「この　<%sL_SENDER_NAME>さんからの|　おてまみを　うけとりましゅか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
+  },
+  "174": {
+    "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
+  },
+  "175": {
+    "「あれ？　<%sL_STORAGE>|　いっぱいみたいでしゅね。|<bw_break>": "Huh? <%sL_STORAGE> Looks like|it's full...<bw_break>"
+  },
+  "176": {
+    "「あれ？　おカネ　いっぱいみたいでしゅね。|　へらしてから　また　きてくだしゃい！|<bw_break>": "What? It looks like you're full of money...|Please come back when you've lost it!<bw_break>"
+  },
+  "177": {
+    "「あれ？　おてまみ　もってないみたいでしゅね。|　びんせんやとか　どうぐやで　びんせんをかって|　おてまみ　かいてきてくだしゃい！|<bw_break>": "What? I don't seem to have any omotes...|Please go to the stationery store and buy|some bottles and write me a card!|<br><bw_break>"
+  },
+  "178": {
+    "「おくりさきは　フレンドか|　チームメンバーか　最近送った人から|　えらべましゅ！　どちらに　おくりましゅか？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can send it to a friend, a team member,|or someone you've sent it to recently! Who|would you like to send it to?|<br>|<select_se_off>|Choose from Friends|Select from team members|Choose from those who have recently sent|<select_end><break>"
+  },
+  "179": {
+    "「おてまみは　おなじものを　さいだいで|　１０人まで　おとどけできましゅ。|　おくりさきを　えらんでくだしゃい。|<break>": "We can send the same gift to up to 10 people|at once... Please choose where to send it...<break>"
+  },
+  "180": {
+    "「ごめんなしゃい。|　とどけられるひとが　おきゃくしゃまの|　チームメンバーに　いないみたいでしゅ。|<bw_break>": "Sorry... I don't think there's anyone on your|team who can stop it...<bw_break>"
+  },
+  "181": {
+    "「あっ　ごめんなしゃい。|　なんにんか　チームメンバーを　さがすのに|　しっぱいしちゃいまちた……。|<break>": "Oh, sorry... I'm having a hard time finding a|team member...<break>"
+  },
+  "182": {
+    "「送り先は　フレンドか|　チームメンバーか　最近送った人から　|　選べます。どちらに　お送りしますか？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can choose to send it to a friend, a team|member, or someone you've sent it to|recently. Who would you like to send it to?|<br>|<select_se_off>|Choose from Friends|Select from team members|Choose from those who have recently sent|<select_end><break>"
+  },
+  "183": {
+    "「お手紙は　最大１０人まで　同じ物を送れます。|　送り先を　お選びください。|<break>": "You can send the same letter to up to 10|people... Please select a recipient...<break>"
+  },
+  "184": {
+    "「申し訳ありませんが　お届けできる|　チームメンバーが　いないようです。|<bw_break>": "I'm sorry, but we don't have a team member|available to deliver...<bw_break>"
+  },
+  "185": {
+    "「ああ　申し訳ありません。|　何人か　チームメンバーを|　探すのに　失敗してしまいました……。|<break>": "Oh, I'm sorry... I've failed to find some of|the team members...<break>"
+  },
+  "186": {
+    "送り先は　フレンドか|チームメンバーか　最近送った人から　|選べます。どちらに　送りますか？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can choose to send it to a friend, a team|member, or someone you've sent it to|recently. Who would you like to send it to?|<br>|<select_se_off>|Choose from Friends|Select from team members|Choose from those who have recently sent|<select_end><break>"
+  },
+  "187": {
+    "手紙は　同じものを　最大で|１０人のフレンドに　送れます。|送り先を　選んでください。|<break>": "You can send the same letter to up to 10|different friends. You can choose who to send|it to.|<br><break>"
+  },
+  "188": {
+    "チームメンバーが　いないようです。|<bw_break>": "I don't have a team member...<bw_break>"
+  },
+  "189": {
+    "何人か　チームメンバーを|探すのに　失敗しました。|<break>": "I failed to find some team members...<break>"
+  },
+  "190": {
+    "「ごめんなしゃい。|　とどけられるひとが　いないみたいでしゅ。|<bw_break>": "I'm sorry... I don't think there's anyone I|can get out of the way...<bw_break>"
+  },
+  "191": {
+    "「申し訳ありませんが|　お届けできる　お相手が　いないようです。|<bw_break>": "I'm sorry, but I don't have anyone to deliver|it to...<bw_break>"
+  },
+  "192": {
+    "送れる相手が　いないようです。|<bw_break>": "There's no one I can send it to...<bw_break>"
+  },
+  "193": {
+    "「これ　とってもめずらしいものみたいでしゅが|　ほんとに　すてちゃっても　いいんでしゅか？|<yesno 2><close>": "This seems to be a very rare item, but can I|really just throw it away?<yesno 2><close>"
+  },
+  "194": {
+    "「こちらは　手に入りづらい　貴重なものですが|　本当に　捨ててしまってもよろしいですか？|<yesno 2><close>": "These are hard-to-find, valuable items, but|are you sure you want to throw them away?<yesno 2><close>"
+  },
+  "195": {
+    "手に入りづらい　貴重なものですが|本当に　捨ててもいいですか？|<yesno 2><close>": "It's hard to come by, it's valuable, but are|you sure you want to throw it away?<yesno 2><close>"
+  },
+  "196": {
+    "「あっ　ごめんなしゃい。|　さいきんおくったひと　を　さがすのに|　しっぱいしちゃいまちた……。|<break>": "Oh, I'm sorry... I ran out of time to look|for the person who sent it to me recently...<break>"
+  },
+  "197": {
+    "「ごめんなしゃい。|　さいきんおくったひとが　いないみたいでしゅ。|<bw_break>": "I'm sorry... It seems that no one has sent me|anything lately...<bw_break>"
+  },
+  "198": {
+    "「おくりさきは　フレンドか|　最近送った人から　えらべましゅ！|　どちらに　おくりましゅか？|<select_se_off>|フレンドから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can choose who to send it to, your|friends or the people you've sent it to|recently! Who would you like to send it to?|<br>|<select_se_off>|Choose from Friends|Choose from those who have recently sent|<select_end><break>"
+  },
+  "199": {
+    "「ああ　申し訳ありません。|　最近送った人を　探すのに|　失敗してしまいました……。|<break>": "Oh, I'm so sorry... I've been trying|unsuccessfully to locate the last person who|sent...|<br><break>"
+  },
+  "200": {
+    "「申し訳ありませんが　|　最近送った人が　いないようです。|<bw_break>": "I'm sorry, but no one's sent you anything|recently...<bw_break>"
+  },
+  "201": {
+    "「送り先は　フレンドか|　最近送った人から　選べます。|　どちらに　お送りしますか？|<select_se_off>|フレンドから選ぶ|最近送った人から選ぶ|<select_end><break>": ""
+  },
+  "202": {
+    "最近送った人を　探すのに|失敗しました。|<break>": ""
+  },
+  "203": {
+    "最近送った人が　いないようです。|<bw_break>": ""
+  },
+  "204": {
+    "送り先は　フレンドか|最近送った人から　選べます。|どちらに　送りますか？|<select_se_off>|フレンドから選ぶ|最近送った人から選ぶ|<select_end><break>": ""
+  },
+  "205": {
+    "「おきゃくさまが　ゆうびんきょくで|　おてまみやアイテムを　おくると|　おくりさきが　きろくされまちゅ。|<br>|「最近送った人は　５けんまで　のこるけど|　ふるいのから　きえてっちゃうから|　きをつけてくだしゃい！|<bw_break>": "If a customer sends a package or item by|mail, the recipient's address will be lost.|If you've sent in items recently, you'll get|<br>|up to 5 points, but the old ones will|disappear, so be careful!<bw_break>"
+  },
+  "206": {
+    "「お客様が　郵便局で|　手紙やアイテムを送ると|　『最近送った人』に　送り先が記録されます。|<br>|「最近送った人は　最大５件まで記録されますが|　古い記録から　順番に消えてしまいますので|　ご注意ください。|<bw_break>": "When you send a letter or an item at the post|office, the recipient will be recorded in|\"Recently Sent\". You can send up to five|<br>|items to the most recent recipients, but the|oldest items will be lost.<bw_break>"
+  },
+  "207": {
+    "手紙やアイテムを送ると|『最近送った人』に　送り先が記録されます。|<br>|最近送った人は　最大５件まで記録されますが|古い記録から　順番に消えてしまいますので|ご注意ください。|<bw_break>": "When you send a letter or an item, the|recipient will be recorded in \"Recently|Sent\". You can send up to five items to the|<br>|most recent recipients, but they will|disappear in order from the oldest...<bw_break>"
+  },
+  "208": {
+    "未使用": "unused"
+  },
+  "209": {
+    "未使用": "unused"
+  },
+  "210": {
+    "未使用": "unused"
+  },
+  "211": {
+    "未使用": "unused"
+  },
+  "212": {
+    "未使用": "unused"
+  },
+  "213": {
+    "未使用": "unused"
+  },
+  "214": {
+    "未使用": "unused"
+  },
+  "215": {
+    "未使用": "unused"
+  },
+  "216": {
+    "未使用": "unused"
+  },
+  "217": {
+    "未使用": "unused"
+  },
+  "218": {
+    "未使用": "unused"
+  },
+  "219": {
+    "未使用": "unused"
+  },
+  "220": {
+    "未使用": "unused"
+  },
+  "221": {
+    "未使用": "unused"
+  },
+  "222": {
+    "未使用": "unused"
+  },
+  "223": {
+    "未使用": "unused"
+  },
+  "224": {
+    "この手紙を　<%sL_ADDRESS>さんに|送りますか？|<yesno><break>": "Would you like to send this letter to|<%sL_ADDRESS>?<yesno><break>"
+  },
+  "225": {
+    "<%sL_ADDRESS>さんへの郵便は|現在　お受けできないようです。|<bw_break>": "We are sorry, but we are currently unable to|accept mail for <%sL_ADDRESS>...<bw_break>"
+  },
+  "226": {
+    "<%sL_ADDRESS>さんに　|送ることが　できませんでした。|<bw_break>": "I can't send this to|<%sL_ADDRESS>...<bw_break>"
+  },
+  "227": {
+    "郵便ポストに　いれるゴールドを|持っていません。|<bw_break>": "I have some gold to put in the mailbox...<bw_break>"
+  },
+  "228": {
+    "郵便を　送りました！|<bw_break>": "I've sent you mail!<bw_break>"
+  },
+  "229": {
+    "何を　送りますか？|<break>": "What do you want me to send?<break>"
+  },
+  "230": {
+    "<%sL_ADDRESS>さんの郵便箱が　いっぱいで|受け取りが　できないようです。|<bw_break>": "<%sL_ADDRESS>'s mailbox is full|and I can't pick it up...<bw_break>"
+  },
+  "231": {
+    "書いた手紙が　ありません。|手紙を書くための便せんは　各地の便せん屋や|道具屋などで　お求めください。|<bw_break>": "I have a letter... You can buy letter paper|for writing letters at any letter paper shop|or tool store...|<br><bw_break>"
+  },
+  "232": {
+    "「おかねを　すてるなんて|　もったいないでしゅ！|　かならず　うけとって　ほしいでしゅ！|<end>": "It's a shame to throw away all that money! I|want to make sure you get it!<end>"
+  },
+  "233": {
+    "「申し訳ありませんが　届いた　お金は|　お受け取りしていただきますよう|　お願いします。|<end>": "I'm sorry, sir, but I'm going to have to ask|you to pick up the money...<end>"
+  },
+  "234": {
+    "届いた　お金を　すてることはできません。|<end>": "You can't just throw away the money you|received...<end>"
+  },
+  "235": {
+    "「いじょう　あわしぇて|　<%nL_ALL_SALES>ゴールドでしゅ！|　おうけとりに　なられましゅか？|<yesno><break>": "I've got <%nL_ALL_SALES>gold!|Would you like to accept it?<yesno><break>"
+  },
+  "236": {
+    "「あれ？　こんなにたくさんの　おカネは|　いっぺんに　わたせましぇんよ。|　『うけとる』から　うけとってくださしゃい！|<bw_break>": "What? We can only give away so much money at|once... Please take it from \"Take it\"!<bw_break>"
+  },
+  "237": {
+    "「たびびとばじゃーしゃんから|  うりあげきんは　とどいていないでしゅよ。|<bw_break>": "I didn't get a ticket from a traveling|baja...<bw_break>"
+  },
+  "238": {
+    "「『売り上げうけとり』は　な～んと|　たびびとばじゃーさんからの　うりあげきんを|　まとめて　うけとることができるのでしゅ！|<br>|「じかんぎれで　かえされちゃったものは|　わたせましぇんので　『うけとる』から|　うけとってくだしゃいね。|<bw_break>": "The \"Sales Receipt\" function allows you to|collect all of the sales from the Tabibito|Baja-san! You can't give away items that have|<br>|been returned in a timely manner, so please|use the \"Receiving\" function...<bw_break>"
+  },
+  "239": {
+    "「こちらが　たびびとばじゃーしゃんから|　おあじゅかりちている　おてまみの|　いちらんでしゅ！|<break>": "This is the one of the temples that we|receive from the Tabibito Bajasha!<break>"
+  },
+  "240": {
+    "<se_nots System 7>|<pc>は　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has collectively received|<%nL_ALL_SALES> gold!<end>"
+  },
+  "241": {
+    "「以上　合わせて|　<%nL_ALL_SALES>ゴールドです。|　お受け取りに　なられますか？|<yesno><break>": "Altogether, your sales total <%dL_ALL_SALES>|Gold. Would you like to receive it now?|<yesno><break>"
+  },
+  "242": {
+    "「おおっ！|　これほどの大金は　一度に　お渡しできません。|　『うけとる』で　１つずつお受け取りください。|<bw_break>": "Oh! This is a lot of money. We can't give it|to you all at once. You can pick them up one|at a time...|<br><bw_break>"
+  },
+  "243": {
+    "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "I don't think the money from the Traveler's|Bazaar was sent to you...<bw_break>"
+  },
+  "244": {
+    "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができます！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけます。|<bw_break>": "By using the \"Get Bazaar Sales\" function, you|can receive all of your proceeds from the|Traveler's Bazaar at once!|<br>|However, this is for proceeds only. To|receive items from expired sales, please|use \"Receive\".|<bw_break>"
+  },
+  "245": {
+    "「こちらが　旅人バザーより|　お預かりしている　お手紙の　一覧です。|<break>": "These are some of the letters we've been|receiving from the Traveler's Bazaar.<break>"
+  },
+  "246": {
+    "<se_nots System 7>|<pc>は　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has collectively received|<%nL_ALL_SALES> gold!<end>"
+  },
+  "247": {
+    "売上金|<%nL_ALL_SALES>ゴールドを　受け取りますか？|<yesno><break>": "Would you like to receive your sales of|<%dL_ALL_SALES> Gold?|<yesno><break>"
+  },
+  "248": {
+    "売上金の合計金額が　大きすぎて|一度に　受け取れません。|『うけとる』で　１つずつ受け取ってください。|<bw_break>": "The total amount of your sales is too large.|I can't take it all at once. I'll take them|one at a time.|<br><bw_break>"
+  },
+  "249": {
+    "郵便ポストに　旅人バザーからの|売上金は　届いていないようだ。|<bw_break>": "No money from the Traveler's Bazaar arrived|in the mailbox...<bw_break>"
+  },
+  "250": {
+    "「仮テキスト|<bw_break>": "dummy text|<bw_break>"
+  },
+  "251": {
+    "旅人バザーから　売上金が　届いている。|<break>": "The proceeds from the Traveler's Bazaar are|delivered.<break>"
+  },
+  "252": {
+    "<se_nots System 7>|<pc>は　郵便ポストから　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> received <%dL_ALL_SALES> Gold from|the mailbox!|<end>"
+  },
+  "253": {
+    "「あれ？　ごめんなしゃい。|　うりあげきん　すこし　わたせましぇんでちた。|　『うけとる』から　うけとってくだしゃい！|<end>": "Huh? Sorry... I can't give you any more|money... Please take it from \"Take it\"!<end>"
+  },
+  "254": {
+    "「おっと。申し訳ありませんが|　いくつかの売上金を　お渡しできませんでした。|　『うけとる』から　お受け取りください。|<end>": "... I'm sorry, but I'm afraid I can't give|you the money from some of the sales... You|can pick them up by clicking \"pick up\"...|<br><end>"
+  },
+  "255": {
+    "<se_nots System 7>|いくつかの売上金を|受け取ることに　失敗しました。|『うけとる』から　受け取ってください。|<end>": "<se_nots System 7>Failed to receive some of the proceeds.|Please use \"Receive\" to receive them.|<end>"
+  },
+  "256": {
+    "「……あれ？|　まだ　みられる　おてまみ|　ないみたいでしゅよ？|<bw_break>": "... What? It doesn't look like there's any|magic trick you can see yet.<bw_break>"
+  },
+  "257": {
+    "「<%sL_SENDER_NAME>の　おてまみ　すてましゅか？|　この　おてまみは　『おもいで私書箱を見る』で|　いつでも　みることが　できましゅよ！|<yesno 2><break>": "Do you have a copy of|<%sL_SENDER_NAME>? You can see|this address at any time by clicking \"View|<br>|Post Office Box\"!<yesno 2><break>"
+  },
+  "258": {
+    "「あたち　おてまみを　いれておく|　おっきな　はこを　つくりまちた！|　おなまえは　おもいでししょばこ　でしゅ！|<br>|「おもいでししょばこは　あんないの　おてまみや|　すてちゃった　おてまみを　のこちぇる|　すごい　はこなのでしゅ！　えっへん！|<br>|「『すてる』を　えらんだときに|　のこちぇる　おてまみだったら|　おちえてあげるから　あんしんちてくだしゃい！|<bw_break>": "We've made a big box to hold your mascot! The|name is Omoshideshibako! It's an amazing box|that can hold all of your mementos and|<br>|mementos that you've lost! No! If you choose|to throw it away, and it's your trash, I'll|get rid of it, so please don't worry!|<br><bw_break>"
+  },
+  "259": {
+    "「……どうやら　ご覧いただける|　お手紙は　まだ　ないようですね。|<bw_break>": "... Apparently, we don't have a letter for|you to read yet.<bw_break>"
+  },
+  "260": {
+    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　『おもいで私書箱を見る』で|　いつでも　見ることができますよ。|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? You can view|this letter at any time by clicking on \"View|<br>|Post Office Box\"...<yesno 2><break>"
+  },
+  "261": {
+    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となります。|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね。|<bw_break>": "This is a special P.O. Box that holds some of|the letters that were sent to adventurers.|The letters you can view include information|<br>|on seasonal events, limited-time events,|storylines, quests,... When you discard your|letters, we'll let you know in the message if|<br>|you can view them in the P.O. Box...<bw_break>"
+  },
+  "262": {
+    "確認できる手紙が　ありません。|<bw_break>": "We have a letter confirming...<bw_break>"
+  },
+  "263": {
+    "<%sL_SENDER_NAME>さんから届いた手紙を　捨てますか？|このお手紙は　『おもいで私書箱を見る』で|いつでも　見ることができます。|<yesno 2><break>": "Do you want to throw away the letter you|received from <%sL_SENDER_NAME>?|You can view this letter at any time by|<br>|clicking on \"View Post Office Box\"...<yesno 2><break>"
+  },
+  "264": {
+    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となります。|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね。|<bw_break>": "This is a special P.O. Box that holds some of|the letters that were sent to adventurers.|The letters you can view include information|<br>|on seasonal events, limited-time events,|storylines, quests,... When you discard your|letters, we'll let you know in the message if|<br>|you can view them in the P.O. Box...<bw_break>"
+  },
+  "265": {
+    "「そのアイテムは　すてられないでしゅ！|　かならず　うけとって　ほしいでしゅ！|<end>": "You can't throw that item away! I want to|make sure you get it!<end>"
+  },
+  "266": {
+    "「申し訳ありませんが　そのアイテムは|　すてることが　できません。|　お受け取りを　お願いします。|<end>": "I'm sorry, but I'm afraid I can't part with|that item. Please accept...<end>"
+  },
+  "267": {
+    "そのアイテムを　すてることはできません。|お受け取りを　お願いします。|<end>": "I'm afraid I can't part with the item. I need|you to pick up...<end>"
+  },
+  "268": {
+    "「とどいてる　おてまみ　せいりしましょう！|　しょぶん　したい　おてまみを|　えらんでほしいでしゅ！|<break>": "Let's get rid of all these badges! I want you|to choose the design you want to work on!<break>"
+  },
+  "269": {
+    "「ほかにも　しょぶん　したい|　おてまみは　ありますか？|<break>": "Do you have any other requests you'd like to|share?<break>"
+  },
+  "270": {
+    "「えらんでる　すべての　おてまみを|　しょぶん　しましゅ。|<br>|「しょぶん　しちゃうと　もとに　もどすのが|　できまくなっちゃいましゅが|　ほんとに　さくじょしても　よいでしゅか？|<yesno 2><break>": "I'm going to have to divide up all your|choices... If I do that, it's going to be|hard to get them back, but can I really do it|<br>|again?<yesno 2><break>"
+  },
+  "271": {
+    "「……あい！|　えらんだ　すべての　おてまみは|　しょぶん　しましたれす！|<bw_break>": "... Yes! All of your choices have been taken|care of!<bw_break>"
+  },
+  "272": {
+    "「この　おてまみには　だいじな　にもつも|　とどいてるから　しょぶん　なんて|　できないでしゅよ！|<bw_break>": "There's a very important package in this|package, so you can't save it!<bw_break>"
+  },
+  "273": {
+    "「おもいでししょばこで　みれる　おてまみを|　ぜんぶ　えらんでも　よいでしゅか？　|<yesno 2><break>": "Can I choose all of the items that I can see|in my bookcase?<yesno 2><break>"
+  },
+  "274": {
+    "「郵便局に届いている　手紙を整理します。|　削除したい　手紙を選択してください。|<break>": ""
+  },
+  "275": {
+    "「ほかにも　削除したい手紙は|　ございますか？|<break>": "Are there any other letters you'd like me to|delete?<break>"
+  },
+  "276": {
+    "「選択した　すべての手紙を　削除します。|　削除した手紙は　もどすことができませんが|　本当に　削除しても　よろしいですか？|<yesno 2><break>": "I've deleted all selected letters. I know you|can't bring back deleted letters, but are you|sure you want to delete them?|<br><yesno 2><break>"
+  },
+  "277": {
+    "「……はい。|　選択した　すべての手紙は|　削除いたしました。|<bw_break>": "..... All selected letters will be deleted...<bw_break>"
+  },
+  "278": {
+    "「申し訳ありません。|　この手紙には　荷物も一緒に　届いているため|　削除することができません。|<bw_break>": "I'm sorry... This letter came with a package,|so I can't delete it...<bw_break>"
+  },
+  "279": {
+    "「おもいで私書箱で　みれる手紙を|　すべて選択した状態にしますが|　よろしいですか？|<yesno 2><break>": "I'd like to select all the letters you can|see in the P.O. Box, if that's okay.<yesno 2><break>"
+  },
+  "280": {
+    "削除したい　手紙を選択してください。|<break>": "Select the letter you wish to delete...<break>"
+  },
+  "281": {
+    "ほかに　削除したい|手紙を選択してください。|<break>": "You can also select the letters you want to|delete...<break>"
+  },
+  "282": {
+    "選択した　すべての手紙を　削除します。|削除した手紙は　もとに戻せません。|本当に　削除しても　よろしいですか？|<yesno 2><break>": "You can delete all selected letters. Deleted|letters can be restored. Are you sure you|want to delete this letter?|<br><yesno 2><break>"
+  },
+  "283": {
+    "選択した　すべての手紙を|削除しました。|<bw_break>": "Delete all selected letters...<bw_break>"
+  },
+  "284": {
+    "この手紙には　荷物も一緒に　届いているため|削除することができません。|<bw_break>": "Since this letter came with a package, I|can't just delete it...<bw_break>"
+  },
+  "285": {
+    "おもいで私書箱で　みれる手紙を|すべて選択した状態にしますが|よろしいですか？|<yesno 2><break>": "I'd like to select all the letters you can|see in the P.O. Box, if that's okay.<yesno 2><break>"
+  },
+  "286": {
+    "「てがみが　ひとつも|　えらばれていないでしゅよ！|<bw_break>": "You didn't choose a single letter!<bw_break>"
+  },
+  "287": {
+    "「削除したい　手紙が|　ひとつも　選択されておりません。|<bw_break>": "None of the letters you wish to delete have|been selected.<bw_break>"
+  },
+  "288": {
+    "手紙が　ひとつも　選択されていません。|<bw_break>": "None of the letters have been selected.<bw_break>"
+  },
+  "289": {
+    "「『手紙を整理する』では|　おきゃくしゃまあてに　とどいてる　おてまみを|　まとめて　しょぶん　しちゃいましゅ。|<br>|「しょぶん　したい　おてまみを　えらんでから|　『けってい』することで|　まとめて　しょぶん　しちゃいましゅ。|<br>|「あと　おもいでししょばこで　かくにんできる|　おてまみは　まとめて　えらぶことも|　できちゃうから　かつよーしてくだしゃい。|<br>|「ひとつ　ちゅーいが　しょぶんした|　おてまみは　もとにもどすことが|　できないから　きをつけてほしいでしゅ。|<br>|「でも　アイテムやゴールドとか|　にもつも　とどいてる　おてまみは|　しょぶん　できないから　あんしんれす。|<bw_break>": "In \"Organize Your Letters\", you can sort out|all the letters that have been sent to your|customers. By selecting the letters you want|<br>|to share and then assigning them, you can|share them all at once. You can also select|the items that you want to share in your|<br>|bookcase. I don't know what to do with it,|but I'm not sure if it's worth it. But items,|gold, and other items that are in the way|<br>|can't be returned, so don't worry...<bw_break>"
+  },
+  "290": {
+    "「『手紙を整理する』では|　お客様あてに　とどいている　お届けものを|　まとめて削除することができます。|<br>|「削除したい　お届けものを選択してから|　最後に『けってい』することで|　まとめて　削除いたします。|<br>|「さらに　おもいで私書箱で確認できる|　お届け物は　一括で　まとめて選択する機能も|　ございますので　ぜひお試しください。|<br>|「ひとつ注意なのが　削除してしまった|　お届けものは　もとにもどすことが|　できませんので　慎重に　お選びください。|<br>|「また　アイテムやゴールドなどの|　荷物も一緒に届いている　お届け物は|　削除されませんので　ご安心ください。|<bw_break>": "In the \"Organize Letters\" section, you can|delete all the deliveries that are addressed|to you at once. Select the items you want to|<br>|delete, and then click \"Done\" to delete them|all at once. In addition, you can select all|deliveries that can be checked at the P.O.|<br>|Box. One thing to keep in mind is that you|can't restore deliveries that have been|deleted, so please choose carefully... Also,|<br>|deliveries that contain items or gold will|not be deleted.<bw_break>"
+  },
+  "291": {
+    "「お客様が　郵便局や　とりひきで|　受け取られたお手紙は　てがみぶくろの|　『もらった手紙』に入ります。|<br>|「てがみぶくろに入れられる　お手紙の数には|　限りがあります。いっぱいになってしまうと|　それ以上　持てなくなるので　ご注意ください。　|<bw_break>": "Letters that you receive at the post office|or through a courier are placed in the|\"received letters\" section of your handbag...|<br>|There's a limit to the number of letters you|can put in your letter bag... Once the bag is|full, you can't hold any more...|<br><bw_break>"
+  },
+  "292": {
+    "「えらんだ　おてまみを　しょぶんしました！|　でも　さくじょできなかった　おてまみが|　あったから　かくにんしてみてくらしゃい。|<bw_break>": "I've written down all the ideas I chose! But|there were some ideas that I couldn't work|out, so please check them out...|<br><bw_break>"
+  },
+  "293": {
+    "「選択した手紙を　削除いたしました。|　一部　削除できない手紙が　ありますので|　ご確認ください。|<bw_break>": "We will delete the letters you have|selected... There are some letters that|cannot be deleted, so please check...|<br><bw_break>"
+  },
+  "294": {
+    "選択した手紙を　削除しました。|一部　削除できない手紙が　ありますので|ご確認ください。|<bw_break>": "You can delete selected letters... There are|some letters that cannot be deleted, so|please check...|<br><bw_break>"
+  },
+  "295": {
+    "「おや　まだお手紙が　ないようですね。|<bw_break>": "Oh, I don't think you have your letter yet.<bw_break>"
+  },
+  "296": {
+    "まだ　手紙がないようだ。|<bw_break>": "I haven't gotten a letter yet...<bw_break>"
+  },
+  "297": {
+    "「あれ　おてまみが　ないようでしゅよ？|<bw_break>": "Hey, it looks like you don't have your|magician's charm.<bw_break>"
+  },
+  "298": {
+    "「郵便局へ　ようこそ　いらっしゃいました。|　本日は　いかがなさいますか？|<break>": "Welcome to the post office. Welcome... How|can I help you today?<break>"
+  },
+  "299": {
+    "<select_se_off>|うけとる|売り上げうけとり|おくる|おもいで私書箱を見る|説明を聞く|<select_end><break>": "<select_se_off>|receive|receipt of sales|send (a thing)|View the POBOX|Listen to the explanation|<select_end><break>"
+  },
+  "300": {
+    "「こちらが　旅人バザーより|　お預かりしている　お手紙の　一覧です。|<break>": "These are some of the letters we've been|receiving from the Traveler's Bazaar.<break>"
+  },
+  "301": {
+    "「以上　合わせて|　<%nL_ALL_SALES>ゴールドです。|　お受け取りに　なられますか？|<yesno><break>": "Altogether, your sales total <%dL_ALL_SALES>|Gold. Would you like to receive it now?|<yesno><break>"
+  },
+  "302": {
+    "<se_nots System 7>|<pc>は　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has collectively received|<%nL_ALL_SALES> gold!<end>"
+  },
+  "303": {
+    "「おや？　申し訳ありませんが|　いくつかの売上金を　お渡しできませんでした。|　『うけとる』から　お受け取りください。|<end>": "Hmm? I'm sorry, but we're unable to give you|some of the proceeds... You can pick them up|by clicking \"pick up\"...|<br><end>"
+  },
+  "304": {
+    "「お荷物の送り先は　おひとりのみになります。|　どなたに　お送りしますか？|<break>": "The package can only be sent to one person...|Who would you like to send it to?<break>"
+  },
+  "305": {
+    "「何を　お送りしますか？|<break>": "What would you like to send?|<break>"
+  },
+  "306": {
+    "未使用": "unused"
+  },
+  "307": {
+    "「他にも　ご用は　ございますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "308": {
+    "「ありがとうございました。|　またのご利用を　お待ちしております。|<end>": "Thank you. We look forward to serving you|again.|<turn_end>"
+  },
+  "309": {
+    "「では　お受けいたしました。|　こちらは　確かに　お届けいたしますね。|<bw_break>": "Okay, we'll take it. I'm sure this will be|delivered...<bw_break>"
+  },
+  "310": {
+    "未使用": "unused"
+  },
+  "311": {
+    "「おや？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱が　いっぱいで|　お受け取りが　できないようです。|<bw_break>": "Hmm? I'm sorry, sir, but|<%sL_ADDRESS>'s mailbox is full|and we can't accept your...|<br><bw_break>"
+  },
+  "312": {
+    "未使用": "unused"
+  },
+  "313": {
+    "「おや？　申し訳ありませんが|　<%sL_ADDRESS>さんへの郵便は|　現在　お受けできないようです。|<bw_break>": "Hmm? We're sorry, but we can't accept mail|for <%sL_ADDRESS> at this time...<bw_break>"
+  },
+  "314": {
+    "未使用": "unused"
+  },
+  "315": {
+    "「どうやら　お手紙を　お持ちでないようですね。|　お手紙を書くための便せんは　各地の便せん屋や|　道具屋などで　お求めくださいませ。|<bw_break>": "It appears that you do not have a letter...|You can purchase stationery for writing|letters at any stationery or tool store...|<br><bw_break>"
+  },
+  "316": {
+    "未使用": "unused"
+  },
+  "317": {
+    "「手紙の送料は　無料となっています。|　では　このお手紙を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|<yesno><break>": "The postage on the letter will be free. May I|send this letter to|<%sL_ADDRESS>, please?|<br><yesno><break>"
+  },
+  "318": {
+    "未使用": "unused"
+  },
+  "319": {
+    "「手紙の送料は　無料となっています。|　では　このお手紙を　皆さんに|　お送りして　よろしいでしょうか？|<yesno><break>": "The postage on the letter is free... I hope|you don't mind if I send this letter to you|all.|<br><yesno><break>"
+  },
+  "320": {
+    "「お客様の　郵便箱には|　何も　届いていないようですね。|<bw_break>": "Nothing seems to have arrived in your|mailbox...<bw_break>"
+  },
+  "321": {
+    "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "I don't think the money from the Traveler's|Bazaar was sent to you...<bw_break>"
+  },
+  "322": {
+    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　おもいで私書箱で見られないので|　ご注意くださいね。|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? Please note|that this letter cannot be seen at the P.O.|<br>|Box...<yesno 2><break>"
+  },
+  "323": {
+    "「<%sL_SENDER_NAME>さんから届いた|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|　捨ててしまっても　よろしいですか？|<yesno 2><break>": "May I throw away the <%sL_ITEM_NAMEFILLERSTRI|NG><%sL_PLUS><%nL_KOUKA_NUMFILLER|STRING> sent by|<br>|<%sL_SENDER_NAME>?<yesno 2><break>"
+  },
+  "324": {
+    "「<%sL_SENDER_NAME>さんから届いた　お金を|　捨ててしまっても　よろしいですか？|<yesno 2><break>": "<%sL_SENDER_NAME>May I throw away|the money you sent me?<yesno 2><break>"
+  },
+  "325": {
+    "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc> received the letter from|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
+  },
+  "326": {
+    "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
+  },
+  "327": {
+    "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
+  },
+  "328": {
+    "「以上で　すべて　お受け取りいただきました。|　ありがとうございました。|<bw_break>": "That's all for now. Thank you...<bw_break>"
+  },
+  "329": {
+    "「おおっ！　どうやら　お金を|　持ち切れないようですね。|　お金を減らして　またお越しください。|<bw_break>": "Oh! Looks like we're running out of money...|We're gonna need less money, so come back...<bw_break>"
+  },
+  "330": {
+    "「おおっ！|　これほどの大金は　一度に　お渡しできません。|　『うけとる』で　１つずつお受け取りください。|<bw_break>": "Oh! This is a lot of money. We can't give it|to you all at once. You can pick them up one|at a time...|<br><bw_break>"
+  },
+  "331": {
+    "「おや？　<%sL_STORAGE>が　いっぱいで|　持ち切れないようですね。|<bw_break>": "Hmm? It looks like <%sL_STORAGE>|is too full to hold...<bw_break>"
+  },
+  "332": {
+    "「どちらを　ご覧になりますか？|<break>": "Which one would you like to see?<break>"
+  },
+  "333": {
+    "「<%sL_SENDER_NAME>さんから届いた|　お手紙を　処分いたしました。|<bw_break>": "I am disposing of a letter received from Mr.|<%sL_SENDER_NAME>...<bw_break>"
+  },
+  "334": {
+    "「<%sL_SENDER_NAME>さんから届いた|　お荷物を　処分いたしました。|<bw_break>": "<%sL_SENDER_NAME>We're disposing|of the package you received from...<bw_break>"
+  },
+  "335": {
+    "「<%sL_SENDER_NAME>さんから届いた|　お金を　処分いたしました。|<bw_break>": "We will dispose of the money received from|Mr. <%sL_SENDER_NAME>...<bw_break>"
+  },
+  "336": {
+    "「申し訳ありませんが|　お届けできる　お相手が|　フレンドリストに　いないようです。|<bw_break>": "I'm sorry, but I don't see anyone on your|friends list who can help you.<bw_break>"
+  },
+  "337": {
+    "「<%sL_ADDRESS>さんは|　すでに　送り先に入っておりますよ。": "<%sL_ADDRESS> is already in the|recipient's..."
+  },
+  "338": {
+    "「<%sL_ADDRESS>さんを|　送り先から　外しますか？|<yesno><break>": "Do you want to remove|<%sL_ADDRESS> from the recipient|list?|<br><yesno><break>"
+  },
+  "339": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんに　お送りできませんでした。|<bw_break>": "Sorry, we can't send this to|<%sL_ADDRESS>...<bw_break>"
+  },
+  "340": {
+    "未使用": "unused"
+  },
+  "341": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんに|　お送りできませんでした。|<bw_break>": "Sorry, we can't send this to|<%sL_ADDRESS> and|<%sL_ADDRESS_2>...|<br><bw_break>"
+  },
+  "342": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんに　お送りできませんでした。|<bw_break>": "Sorry, we can't send this to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3>...<bw_break>"
+  },
+  "343": {
+    "「申し訳ありませんが　<%sL_ADDRESS>さんと|　<%sL_ADDRESS_2>さんと　<%sL_ADDRESS_3>さんと|　<%sL_ADDRESS_4>さんに　お送りできませんでした。|<bw_break>": "I'm sorry, but I can't send this to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4>. I can't...<bw_break>"
+  },
+  "344": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんに　お送りできませんでした。|<bw_break>": "Sorry, we can't send to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5>...|<br><bw_break>"
+  },
+  "345": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんに|　お送りできませんでした。|<bw_break>": "Sorry, but we can't send to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4> and... We are|unable to send to <%sL_ADDRESS_5>|<br>|and <%sL_ADDRESS_6>...<bw_break>"
+  },
+  "346": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんと|　<%sL_ADDRESS_7>さんに　お送りできませんでした。|<bw_break>": "I'm sorry <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... We are|unable to send to <%sL_ADDRESS_5>|and <%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7>...<bw_break>"
+  },
+  "347": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんと|　<%sL_ADDRESS_7>さんと　<%sL_ADDRESS_8>さんに|　お送りできませんでした。|<bw_break>": "I'm sorry <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... We are|unable to send to <%sL_ADDRESS_5>|and <%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8>. ...<bw_break>"
+  },
+  "348": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんと|　<%sL_ADDRESS_7>さんと　<%sL_ADDRESS_8>さんと|　<%sL_ADDRESS_9>さんに　お送りできませんでした。|<bw_break>": "I'm sorry <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and...|<%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8> and <%sL_|ADDRESS_9>...|<br><bw_break>"
+  },
+  "349": {
+    "「申し訳ありませんが　送り先の全員に|　お送りすることが　できませんでした。|<bw_break>": "I'm sorry, but we can't send this to everyone|you're sending it to...<bw_break>"
+  },
+  "350": {
+    "「……おや？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱が　いっぱいで|　お受け取りが　できなかったようです。|<bw_break>": "... Hmm? I'm sorry, sir, but|<%sL_ADDRESS>'s mailbox was full|and we couldn't pick it up...|<br><bw_break>"
+  },
+  "351": {
+    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|　お送りすることは　できないんです。|<bw_break>": "Sorry, but we can't send you <%sL_ITEM_NAMEFI|LLERSTRING><%sL_PLUS><%nL_KOUKA_N|UM>...|<br><bw_break>"
+  },
+  "352": {
+    "「すいませんが　その袋には|　何も入っていないようです。|<bw_break>": "I'm sorry, but there's nothing in that bag...<bw_break>"
+  },
+  "353": {
+    "「すいませんが　お客様は|　ゴールドを　お持ちではないようです。|<bw_break>": "I'm sorry, sir, but you don't have any|gold...<bw_break>"
+  },
+  "354": {
+    "未使用": "unused"
+  },
+  "355": {
+    "「何について　説明いたしましょうか？|<select_se_off>|うけとるについて|売り上げうけとりについて|おくるについて|おもいで私書箱について|手紙の整理について|<select_end><break>": "What would you like me to explain?|<select_se_off>|About getting it|Receipt of sales|About us|About Omoide PO Box|On organizing letters|<select_end><break>"
+  },
+  "356": {
+    "「『うけとる』を　ご利用いただくと|　お客様宛てに届いた　手紙や荷物を|　一つひとつ選んで　受け取ることができます。|<br>|「手紙を受け取ると　てがみぶくろの|　『もらった手紙』に入りますが　１００枚を|　超える枚数は　入りませんので　ご注意を！|<br>|「旅人バザーに出品した物の　売上金や|　時間切れで　返却された物も　こちらで|　受け取ることができます。|<br>|「ただし　旅人バザーからのお届け物を|　受け取らず　郵便箱が　いっぱいに|　なってしまわないよう　ご注意ください。|<br>|「いっぱいになると　空きをつくらないかぎり|　旅人バザーで　出品できなくなってしまいます。|　適度に　郵便箱をチェックしてくださいね。|<bw_break>": "When you use the \"Receive\" function, you can|select and receive letters and packages that|have been sent to you one by one. When you|<br>|receive a letter, it will be placed in the|\"Received Letters\" section of your package,|but please note that no more than 100 letters|<br>|will be placed in this section! You can also|receive the proceeds from items sold at the|Traveler's Bazaar, as well as items that were|<br>|returned because time ran out... However,|please be careful not to fill up your mailbox|without receiving a delivery from the|<br>|Traveler's Bazaar. If your mailbox is full,|you won't be able to sell your items at the|Traveler's Bazaar unless you make room for|<br>|them. Please check your mailbox from time to|time.<bw_break>"
+  },
+  "357": {
+    "「お客様が書いたお手紙は　てがみぶくろの|　『書いた手紙』に入り　郵便局から送ったり|　とりひきで　人に渡すことができます。|<br>|「『書いた手紙』には　最大１０枚までの|　お手紙を　入れておくことができます。|　後から　書き直しも　できますよ。|<bw_break>": "The letters you write will be stored in a|letter bag, which you can send from the post|office or give to someone through an|<br>|exchange... Up to 10 letters can be stored in|the \"Written Letter\"... And you can rewrite|them later.|<br><bw_break>"
+  },
+  "358": {
+    "「『おくる』は　便せんに書いた　１枚の手紙と|　５種類までの荷物を　フレンドや|　チームメンバーの１人に　送ることができます。|<br>|「ただし　送る物が　手紙のみの場合は|　最大１０人まで　同じ手紙を送れます。|<br>|「こちらで　送れる手紙は　てがみぶくろにある|　『書いた手紙』に　入っているものだけです。|　とりひきで直接　人に渡すこともできます。|<br>|「『書いた手紙』には　最大１０枚までの|　手紙を　入れておくことができます。|　封をした後でも　書き直しができます。|<br>|「人に渡った手紙は　てがみぶくろの|　『送った手紙』のなかに　記録が残ります。|<br>|「最新の１００件まで　記録されますが|　古い物から　消えてしまうので|　大切な　手紙は　ロックするのをお忘れなく！|<bw_break>": "You can send a letter and up to five|different packages to a friend or team|member. But if you're only sending a letter,|<br>|you can send the same letter to up to 10|people... The only letters you can send here|are the ones in the \"Written Letters\" section|<br>|of your Letterbox... You can also give them|directly to people... You can keep up to 10|letters in the \"Written Letter\"... You can|<br>|rewrite them even after they're sealed.|Letters that have been passed on to other|people will be recorded in the \"Letters|<br>|you've sent\" section of your package... It|keeps track of the last 100 letters you've|sent, but the oldest ones will disappear, so|<br>|don't forget to lock your most important|letters!<bw_break>"
+  },
+  "359": {
+    "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができます！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけます。|<bw_break>": "By using the \"Get Bazaar Sales\" function, you|can receive all of your proceeds from the|Traveler's Bazaar at once!|<br>|However, this is for proceeds only. To|receive items from expired sales, please|use \"Receive\".|<bw_break>"
+  },
+  "360": {
+    "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
+  },
+  "361": {
+    "「大変　申し訳ありません。|　何人か　フレンドを|　探すのに　失敗してしまいました……。|<break>": "I'm so sorry... I've failed to find some of|your friends...<break>"
+  },
+  "362": {
+    "「お手紙か　お荷物をお選びください。<break>": "You can choose to receive a letter or a|package...<break>"
+  },
+  "363": {
+    "「<%sL_NPC><%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに　お選びのようですね。|<bw_break>": ""
+  },
+  "364": {
+    "「<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　現在<%nL_ITEM_NUM>個　お選びです。|　いくつに　変更しますか？|<break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> is currently|<%nL_ITEM_NUM>... How many do you|<br>|want to change?<break>"
+  },
+  "365": {
+    "「……おや？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱は|　あと<%nL_BOX_NUM>件しか　空きがないようです。|<bw_break>": "... Hmm? I'm sorry, but|<%sL_ADDRESS> has only|<%nL_BOX_NUM> more mailboxes|<br>|available...<bw_break>"
+  },
+  "366": {
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+  },
+  "367": {
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+  },
+  "368": {
+    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send you <%sL_ITEM_NA|ME><%sL_PLUS><%nL_KOU|KA_NUM> because it's already|<br>|owned by...<bw_break>"
+  },
+  "369": {
+    "「……おや？　申し訳ありませんが　こちらの手紙を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "... Hmm? I'm sorry, sir, but I can't give you|this letter... Please give it some time and|try again...|<br><bw_break>"
+  },
+  "370": {
+    "「……おや？　申し訳ありませんが　こちらの荷物を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "... Hmm? I'm sorry, sir, but I'm afraid I|can't give you your package. Please give it|some time and try again.|<br><bw_break>"
+  },
+  "371": {
+    "「申し訳ありませんが|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品のため　お送りできません。|<bw_break>": "We're sorry, but <%sL_ITEM_NAME><|%sL_PLUS><%nL_KOUKA_NUMFILLERSTRI|NG> is a locked piece of equipment and we|<br>|can't send you...<bw_break>"
+  },
+  "372": {
+    "「送り先は　フレンドか|　チームメンバーか　最近送った人から　|　選べます。どちらに　お送りしますか？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can choose to send it to a friend, a team|member, or someone you've sent it to|recently. Who would you like to send it to?|<br>|<select_se_off>|Choose from Friends|Select from team members|Choose from those who have recently sent|<select_end><break>"
+  },
+  "373": {
+    "「お手紙は　最大１０人まで　同じ物を送れます。|　送り先を　お選びください。|<break>": "You can send the same letter to up to 10|people... Please select a recipient...<break>"
+  },
+  "374": {
+    "「申し訳ありませんが　お届けできる|　チームメンバーが　いないようです。|<bw_break>": "I'm sorry, but we don't have a team member|available to deliver...<bw_break>"
+  },
+  "375": {
+    "「大変　申し訳ありません。|　何人か　チームメンバーを|　探すのに　失敗してしまいました……。|<break>": "I'm so sorry... I've failed to find some of|the team members...<break>"
+  },
+  "376": {
+    "「申し訳ありませんが|　お届けできる　お相手が　いないようです。|<bw_break>": "I'm sorry, but I don't have anyone to deliver|it to...<bw_break>"
+  },
+  "377": {
+    "「こちらは　手に入りづらい　貴重なものですが|　本当に　捨ててしまってもよろしいですか？|<yesno 2><close>": "These are hard-to-find, valuable items, but|are you sure you want to throw them away?<yesno 2><close>"
+  },
+  "378": {
+    "「送り先は　フレンドか|　最近送った人から　選べます。|　どちらに　お送りしますか？|<select_se_off>|フレンドから選ぶ|最近送った人から選ぶ|<select_end><break>": ""
+  },
+  "379": {
+    "「申し訳ありませんが　|　最近送った人が　いないようです。|<bw_break>": "I'm sorry, but no one's sent you anything|recently...<bw_break>"
+  },
+  "380": {
+    "「大変　申し訳ありません。|　最近送った人を　探すのに|　失敗してしまいました……。|<break>": "I'm so sorry... I've been trying|unsuccessfully to locate the last person who|sent you...|<br><break>"
+  },
+  "381": {
+    "「お客様が　郵便局で|　手紙やアイテムを送ると|　『最近送った人』に　送り先が記録されます。|<br>|「最近送った人は　最大５件まで記録されますが|　古い記録から　順番に消えてしまいますので|　ご注意ください。|<bw_break>": "When you send a letter or an item at the post|office, the recipient will be recorded in|\"Recently Sent\". You can send up to five|<br>|items to the most recent recipients, but the|oldest items will be lost.<bw_break>"
+  },
+  "382": {
+    "「申し訳ありませんが　届いた　お金は|　お受け取りしていただきますよう|　お願いします。|<end>": "I'm sorry, sir, but I'm going to have to ask|you to pick up the money...<end>"
+  },
+  "383": {
+    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となります。|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね。|<bw_break>": "This is a special P.O. Box that holds some of|the letters that were sent to adventurers.|The letters you can view include information|<br>|on seasonal events, limited-time events,|storylines, quests,... When you discard your|letters, we'll let you know in the message if|<br>|you can view them in the P.O. Box...<bw_break>"
+  },
+  "384": {
+    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　『おもいで私書箱を見る』で|　いつでも　見ることができますよ。|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? You can view|this letter at any time by clicking on \"View|<br>|Post Office Box\"...<yesno 2><break>"
+  },
+  "385": {
+    "「……どうやら　ご覧いただける|　お手紙は　まだ　ないようですね。|<bw_break>": "... Apparently, we don't have a letter for|you to read yet.<bw_break>"
+  },
+  "386": {
+    "「申し訳ありませんが　そのアイテムは|　すてることが　できません。|　お受け取りを　お願いします。|<end>": "I'm sorry, but I'm afraid I can't part with|that item. Please accept...<end>"
+  },
+  "387": {
+    "「郵便局に届いている　手紙を整理します。|　削除したい　手紙を選択してください。|<break>": ""
+  },
+  "388": {
+    "「申し訳ありません。|　この手紙には　荷物も一緒に　届いているため|　削除することができません。|<bw_break>": "I'm sorry... This letter came with a package,|so I can't delete it...<bw_break>"
+  },
+  "389": {
+    "「おもいで私書箱で　みれる手紙を|　すべて選択した状態にしますが|　よろしいですか？|<yesno 2><break>": "I'd like to select all the letters you can|see in the P.O. Box, if that's okay.<yesno 2><break>"
+  },
+  "390": {
+    "「ほかにも　削除したい手紙は|　ございますか？|<break>": "Are there any other letters you'd like me to|delete?<break>"
+  },
+  "391": {
+    "「選択した　すべての手紙を　削除します。|　削除した手紙は　もどすことができませんが|　本当に　削除しても　よろしいですか？|<yesno 2><break>": "I've deleted all selected letters. I know you|can't bring back deleted letters, but are you|sure you want to delete them?|<br><yesno 2><break>"
+  },
+  "392": {
+    "「……はい。|　選択した　すべての手紙は|　削除いたしました。|<bw_break>": "..... All selected letters will be deleted...<bw_break>"
+  },
+  "393": {
+    "「削除したい　手紙が|　ひとつも　選択されておりません。|<bw_break>": "None of the letters you wish to delete have|been selected.<bw_break>"
+  },
+  "394": {
+    "「『手紙を整理する』では|　お客様あてに　とどいている　お届けものを|　まとめて削除することができます。|<br>|「削除したい　お届けものを選択してから|　最後に『けってい』することで|　まとめて　削除いたします。|<br>|「さらに　おもいで私書箱で確認できる|　お届け物は　一括で　まとめて選択する機能も|　ございますので　ぜひお試しください。|<br>|「ひとつ注意なのが　削除してしまった|　お届けものは　もとにもどすことが|　できませんので　慎重に　お選びください。|<br>|「また　アイテムやゴールドなどの|　荷物も一緒に届いている　お届け物は|　削除されませんので　ご安心ください。|<bw_break>": "In the \"Organize Letters\" section, you can|delete all the deliveries that are addressed|to you at once. Select the items you want to|<br>|delete, and then click \"Done\" to delete them|all at once. In addition, you can select all|deliveries that can be checked at the P.O.|<br>|Box. One thing to keep in mind is that you|can't restore deliveries that have been|deleted, so please choose carefully... Also,|<br>|deliveries that contain items or gold will|not be deleted.<bw_break>"
+  },
+  "395": {
+    "「選択した手紙を　削除いたしました。|　一部　削除できない手紙が　ありますので|　ご確認ください。|<bw_break>": "We will delete the letters you have|selected... There are some letters that|cannot be deleted, so please check...|<br><bw_break>"
+  },
+  "396": {
+    "「おや　まだお手紙が　ないようですね。|<bw_break>": "Oh, I don't think you have your letter yet.<bw_break>"
+  },
+  "397": {
+    "「……ここは郵便局だ。|　今日は　なんの用だ。|<break>": "... This is the Post... What is it today...<break>"
+  },
+  "398": {
+    "「郵便局へ　ようこそっ！|　本日は　どんな　ご用ですか？|<break>": "Hello, post office! What can I do for you|today, sir?<break>"
+  },
+  "399": {
+    "<select_se_off>|うけとる|売り上げうけとり|おくる|おもいで私書箱を見る|説明を聞く|<select_end><break>": "<select_se_off>|receive|receipt of sales|send (a thing)|View the POBOX|Listen to the explanation|<select_end><break>"
+  },
+  "400": {
+    "<select_se_off>|うけとる|売り上げうけとり|おくる|おもいで私書箱を見る|説明を聞く|<select_end><break>": "<select_se_off>|receive|receipt of sales|send (a thing)|View the POBOX|Listen to the explanation|<select_end><break>"
+  },
+  "401": {
+    "「これが　旅人バザーから|　預かった　手紙の　一覧だ。|<break>": "This is the letter I received from the|Traveler's Bazaar.<break>"
+  },
+  "402": {
+    "「こちらが　旅人バザーより|　お預かりしている　お手紙の　一覧ですっ！|<break>": "This is a list of all the letters we've|received from the Traveler's Bazaar.<break>"
+  },
+  "403": {
+    "「以上　合わせて|　<%nL_ALL_SALES>ゴールドだ。|　受け取るのか？|<yesno><break>": "Above, together with|<%nL_ALL_SALES>go... Do you get|it?|<br><yesno><break>"
+  },
+  "404": {
+    "「以上　合わせて|　<%nL_ALL_SALES>ゴールドですっ！|　お受け取りに　なられますか？|<yesno><break>": "Your total sales come to <%dL_ALL_SALES> Gold!|Would you like to receive it now?|<yesno><break>"
+  },
+  "405": {
+    "<se_nots System 7>|<pc>は　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has collectively received|<%nL_ALL_SALES> gold!<end>"
+  },
+  "406": {
+    "<se_nots System 7>|<pc>は　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has collectively received|<%nL_ALL_SALES> gold!<end>"
+  },
+  "407": {
+    "「……いくつかの売上金を　渡せなかったようだ。|　『うけとる』から　もう一度　受け取りやがれ。|<end>": "... I failed to give you some of the|proceeds... I'd like to pick up the money|again...|<br><end>"
+  },
+  "408": {
+    "「あれ？　申し訳ありませんが|　いくつかの売上金を　お渡しできませんでした。|　『うけとる』から　お受け取りくださいっ。|<end>": "Huh? I'm sorry, but we're unable to give you|some of the proceeds... You can pick them up|by clicking \"pick up\"...|<br><end>"
+  },
+  "409": {
+    "「荷物の送り先は　ひとりのみだ。|　だれに　送るんだ？|<break>": "The package was sent to one person... Who are|you sending it to?<break>"
+  },
+  "410": {
+    "「お荷物の送り先は　おひとりのみになります。|　どなたに　お送りしますか？|<break>": "The package can only be sent to one person...|Who would you like to send it to?<break>"
+  },
+  "411": {
+    "「どれを　送るんだ？|<break>": "Which one are you sending?<break>"
+  },
+  "412": {
+    "「何を　お送りしますか？|<break>": "What would you like to send?|<break>"
+  },
+  "413": {
+    "未使用": "unused"
+  },
+  "414": {
+    "未使用": "unused"
+  },
+  "415": {
+    "「他にも　用が　あるのか？|<break>": "Do you have other needs?<break>"
+  },
+  "416": {
+    "「他にも　ご用は　ございますかっ？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "417": {
+    "「……ふん。|　またの　利用を　待ってるぜ。|<end>": "..... I'll be waiting to use it again...<end>"
+  },
+  "418": {
+    "「ありがとうございましたっ！|　またのご利用を　お待ちしています！|<end>": "Thank you very much! We look forward to|serving you again!<end>"
+  },
+  "419": {
+    "「……確かに　受け取った。|　確実に　届けるから　心配するんじゃねえぞ。|<bw_break>": "... I'm sure I'll get it. I'll make sure you|get it. Don't worry.<bw_break>"
+  },
+  "420": {
+    "「では　お受けいたしましたー！|　こちらは　確かに　お届けいたしますっ！|<bw_break>": "Then, I've accepted! This one will be|delivered to you for sure!<bw_break>"
+  },
+  "421": {
+    "未使用": "unused"
+  },
+  "422": {
+    "未使用": "unused"
+  },
+  "423": {
+    "「……おい。|　<%sL_ADDRESS>の郵便箱が　いっぱいで|　受け取りできないみたいだぜ。|<bw_break>": "..... The <%sL_ADDRESS> mailbox|is full and I can't seem to get it...<bw_break>"
+  },
+  "424": {
+    "「あれ？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱が　いっぱいで|　お受け取りが　できないようです。|<bw_break>": "Huh? I'm sorry, but|<%sL_ADDRESS>'s mailbox is full|and we can't accept your package...|<br><bw_break>"
+  },
+  "425": {
+    "未使用": "unused"
+  },
+  "426": {
+    "未使用": "unused"
+  },
+  "427": {
+    "「……おい。|　<%sL_ADDRESS>への郵便は|　今は　受けられないみたいだ。|<bw_break>": "..... We're afraid we can't take mail to|<%sL_ADDRESS> right now...<bw_break>"
+  },
+  "428": {
+    "「あれ？　申し訳ありませんが|　<%sL_ADDRESS>さんへの郵便は|　現在　お受けできないようです。|<bw_break>": "Huh? We're sorry, but we're currently unable|to accept mail for|<%sL_ADDRESS>...|<br><bw_break>"
+  },
+  "429": {
+    "未使用": "unused"
+  },
+  "430": {
+    "未使用": "unused"
+  },
+  "431": {
+    "「おいおい　手紙を　持っていないじゃねえか。|　手紙を書くための便せんは　各地の便せん屋や|　道具屋などで　売ってるぜ。|<bw_break>": "Oh, come on. You don't have a letter...|Letter paper for writing letters is sold at|letter paper shops and tool stores...|<br><bw_break>"
+  },
+  "432": {
+    "「どうやら　お手紙を　お持ちでないようですね。|　お手紙を書くための便せんは　各地の便せん屋や|　道具屋などで　お求めくださいませっ。|<bw_break>": "It would appear that you do not have a|letter... You can purchase stationery for|your letters at any letter-writing shop...|<br><bw_break>"
+  },
+  "433": {
+    "未使用": "unused"
+  },
+  "434": {
+    "未使用": "unused"
+  },
+  "435": {
+    "「手紙の送料は　無料だ。|　この手紙を　<%sL_ADDRESS>に　送るのか？|<yesno><break>": "The postage for the letter is ... Are you|sending this letter to|<%sL_ADDRESS>?|<br><yesno><break>"
+  },
+  "436": {
+    "「手紙の送料は　無料となっていますっ！|　では　このお手紙を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|<yesno><break>": "The postage for the letter is free! Then, may|I send this letter to|<%sL_ADDRESS>?|<br><yesno><break>"
+  },
+  "437": {
+    "未使用": "unused"
+  },
+  "438": {
+    "未使用": "unused"
+  },
+  "439": {
+    "「手紙の送料は　無料だ。|　この手紙を　選んだ全員に　送るのか？|<yesno><break>": "The postage on the letter ... You're sending|this letter to everyone you've chosen?<yesno><break>"
+  },
+  "440": {
+    "「手紙の送料は　無料となっていますっ！|　では　このお手紙を　皆さんに|　お送りして　よろしいでしょうか？|<yesno><break>": "There's no charge for postage! Then, may I|send this letter to you all?<yesno><break>"
+  },
+  "441": {
+    "「お前の　郵便箱には　何も　届いてねえぞ。|<bw_break>": "There's nothing in your mailbox...<bw_break>"
+  },
+  "442": {
+    "「お客様の　郵便箱には|　何も　届いていないようですね。|<bw_break>": "Nothing seems to have arrived in your|mailbox...<bw_break>"
+  },
+  "443": {
+    "「旅人バザーから　売上金は|　届いていないようだ。|<bw_break>": "I haven't received any proceeds from the|Traveler's Bazaar...<bw_break>"
+  },
+  "444": {
+    "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "I don't think the money from the Traveler's|Bazaar was sent to you...<bw_break>"
+  },
+  "445": {
+    "「<%sL_SENDER_NAME>からの手紙を　捨てるのか？|　この手紙は　おもいで私書箱で見られないから|　注意するんだな。|<yesno 2><break>": "You're throwing away a letter from|<%sL_SENDER_NAME>? This letter|can't be seen at the P.O. Box, so be|<br>|careful...<yesno 2><break>"
+  },
+  "446": {
+    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　おもいで私書箱で見られないので|　ご注意くださいね！|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? Please note|that this letter can't be seen at the P.O.|<br>|Box in Omoide!<yesno 2><break>"
+  },
+  "447": {
+    "「<%sL_SENDER_NAME>から届いた|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|　捨ててしまっても　いいのか？|<yesno 2><break>": ""
+  },
+  "448": {
+    "「<%sL_SENDER_NAME>さんから届いた|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|　捨ててしまっても　よろしいですか？|<yesno 2><break>": "May I throw away the <%sL_ITEM_NAMEFILLERSTRI|NG><%sL_PLUS><%nL_KOUKA_NUMFILLER|STRING> sent by|<br>|<%sL_SENDER_NAME>?<yesno 2><break>"
+  },
+  "449": {
+    "「<%sL_SENDER_NAME>から届いた　カネを|　捨ててしまっても　いいのか？|<yesno 2><break>": "Are you sure you want to throw away the money|that came from <%sL_SENDER_NAME>?<yesno 2><break>"
+  },
+  "450": {
+    "「<%sL_SENDER_NAME>さんから届いた　お金を|　捨ててしまっても　よろしいですか？|<yesno 2><break>": "<%sL_SENDER_NAME>May I throw away|the money you sent me?<yesno 2><break>"
+  },
+  "451": {
+    "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc> received the letter from|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
+  },
+  "452": {
+    "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc> received the letter from|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
+  },
+  "453": {
+    "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
+  },
+  "454": {
+    "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
+  },
+  "455": {
+    "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
+  },
+  "456": {
+    "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
+  },
+  "457": {
+    "「ふん。これで|　すべて　受け取ったようだな。|<bw_break>": "Hmm. Now that I've received everything...<bw_break>"
+  },
+  "458": {
+    "「以上で　すべて　お受け取りいただきました。|　ありがとうございましたっ！|<bw_break>": "That's it. You've received everything. Thank|you very much!<bw_break>"
+  },
+  "459": {
+    "「……どうやら　カネを　持ち切れないようだな。|　持っているカネを減らして　また来やがれ。|<bw_break>": "... I don't think we have enough money. We're|gonna have to cut back and come back...<bw_break>"
+  },
+  "460": {
+    "「わわっ！|　どうやら　お金を　持ち切れないようですね！|　お金を減らして　またお越しください。|<bw_break>": "Whoa! Looks like you can't hold all your|money! We'll come back later with less|money...|<br><bw_break>"
+  },
+  "461": {
+    "「……こんな大金　一度に　渡せねえぜ。|　『うけとる』で　１つずつ　受け取りやがれ。|<bw_break>": "I can't... I can't give you this much money|at once. I'll take it one at a time.<bw_break>"
+  },
+  "462": {
+    "「わわっ！|　これほどの大金は　一度に　お渡しできません。|　『うけとる』で　１つずつお受け取りくださいっ！|<bw_break>": "Whoa! We can't give you this much money at|once... Please pick them up one at a time!<bw_break>"
+  },
+  "463": {
+    "「……<%sL_STORAGE>が　いっぱいで|　持ち切れないようだ。|<bw_break>": "... <%sL_STORAGE> is too full to|hold...<bw_break>"
+  },
+  "464": {
+    "「あれ？　<%sL_STORAGE>が　いっぱいで|　持ち切れないようですね。|<bw_break>": "What? It looks like <%sL_STORAGE>|is too full to hold...<bw_break>"
+  },
+  "465": {
+    "「どれを　見るんだ？|<break>": "Which one are you looking at?<break>"
+  },
+  "466": {
+    "「どちらを　ご覧になりますか？|<break>": "Which one would you like to see?<break>"
+  },
+  "467": {
+    "「<%sL_SENDER_NAME>から届いた|　手紙を　処分したぜ。|<bw_break>": "I've disposed the letter received from|<%sL_SENDER_NAME>.|<bw_break>"
+  },
+  "468": {
+    "「<%sL_SENDER_NAME>さんから届いた|　お手紙を　処分いたしました。|<bw_break>": "I am disposing of a letter received from Mr.|<%sL_SENDER_NAME>...<bw_break>"
+  },
+  "469": {
+    "「<%sL_SENDER_NAME>から届いた|　荷物を　処分したぜ。|<bw_break>": "I've disposed the package received from|<%sL_SENDER_NAME>.|<bw_break>"
+  },
+  "470": {
+    "「<%sL_SENDER_NAME>さんから届いた|　お荷物を　処分いたしました。|<bw_break>": "<%sL_SENDER_NAME>We're disposing|of the package you received from...<bw_break>"
+  },
+  "471": {
+    "「<%sL_SENDER_NAME>から届いた|　カネを　処分したぜ。|<bw_break>": "I've disposed the money received from|<%sL_SENDER_NAME>.|<bw_break>"
+  },
+  "472": {
+    "「<%sL_SENDER_NAME>さんから届いた|　お金を　処分いたしました。|<bw_break>": "We will dispose of the money received from|Mr. <%sL_SENDER_NAME>...<bw_break>"
+  },
+  "473": {
+    "「おいおい。届けられる　相手が|　フレンドリストに　いないようだぜ。|<bw_break>": "Oh... I don't see anyone on your friends list|that I can deliver this to.<bw_break>"
+  },
+  "474": {
+    "「申し訳ありませんが|　お届けできる　お相手が|　フレンドリストに　いないようです。|<bw_break>": "I'm sorry, but I don't see anyone on your|friends list who can help you.<bw_break>"
+  },
+  "475": {
+    "「<%sL_ADDRESS>は|　すでに　送り先に入っているな。": "<%sL_ADDRESS> is already in the|destination..."
+  },
+  "476": {
+    "「<%sL_ADDRESS>さんは|　すでに　送り先に入っていますよ。": "<%sL_ADDRESS> is already in the|destination..."
+  },
+  "477": {
+    "「<%sL_ADDRESS>を|　送り先から　外すのか？|<yesno><break>": ""
+  },
+  "478": {
+    "「<%sL_ADDRESS>さんを|　送り先から　外しますか？|<yesno><break>": "Do you want to remove|<%sL_ADDRESS> from the recipient|list?|<br><yesno><break>"
+  },
+  "479": {
+    "「……どうやら　<%sL_ADDRESS>に|　送れなかったようだ。|<bw_break>": "... Apparently it couldn't be sent to|<%sL_ADDRESS>...<bw_break>"
+  },
+  "480": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんに　お送りできませんでした。|<bw_break>": "Sorry, we can't send this to|<%sL_ADDRESS>...<bw_break>"
+  },
+  "481": {
+    "未使用": "unused"
+  },
+  "482": {
+    "未使用": "unused"
+  },
+  "483": {
+    "「……どうやら|　<%sL_ADDRESS>と　<%sL_ADDRESS_2>に|　送れなかったようだ。|<bw_break>": "... Apparently I couldn't send it to|<%sL_ADDRESS> and|<%sL_ADDRESS_2>...|<br><bw_break>"
+  },
+  "484": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんに|　お送りできませんでした。|<bw_break>": "Sorry, we can't send this to|<%sL_ADDRESS> and|<%sL_ADDRESS_2>...|<br><bw_break>"
+  },
+  "485": {
+    "「……どうやら|　<%sL_ADDRESS>と　<%sL_ADDRESS_2>と|　<%sL_ADDRESS_3>に　送れなかったようだ。|<bw_break>": "... Apparently I couldn't send it to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3>...<bw_break>"
+  },
+  "486": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんに　お送りできませんでした。|<bw_break>": "Sorry, we can't send this to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3>...<bw_break>"
+  },
+  "487": {
+    "「……どうやら<%sL_ADDRESS>と|　<%sL_ADDRESS_2>と　<%sL_ADDRESS_3>と|　<%sL_ADDRESS_4>に　送れなかったようだ。|<bw_break>": "... Apparently it couldn't send to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4>...<bw_break>"
+  },
+  "488": {
+    "「申し訳ありませんが　<%sL_ADDRESS>さんと|　<%sL_ADDRESS_2>さんと　<%sL_ADDRESS_3>さんと|　<%sL_ADDRESS_4>さんに　お送りできませんでした。|<bw_break>": "I'm sorry, but I can't send this to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4>. I can't...<bw_break>"
+  },
+  "489": {
+    "「……どうやら|　<%sL_ADDRESS>と　<%sL_ADDRESS_2>と|　<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|「<%sL_ADDRESS_5>に　送れなかったようだ。|<bw_break>": "... Apparently <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... Couldn't|send to <%sL_ADDRESS_5>...<bw_break>"
+  },
+  "490": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんに　お送りできませんでした。|<bw_break>": "Sorry, we can't send to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5>...|<br><bw_break>"
+  },
+  "491": {
+    "「……どうやら|　<%sL_ADDRESS>と　<%sL_ADDRESS_2>と|　<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|「<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>に|　送れなかったようだ。|<bw_break>": "... Apparently it didn't send to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4> and... Could not|send to <%sL_ADDRESS_5> and|<br>|<%sL_ADDRESS_6>...<bw_break>"
+  },
+  "492": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんに|　お送りできませんでした。|<bw_break>": "Sorry, but we can't send to|<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<br>|<%sL_ADDRESS_3> and|<%sL_ADDRESS_4> and... We are|unable to send to <%sL_ADDRESS_5>|<br>|and <%sL_ADDRESS_6>...<bw_break>"
+  },
+  "493": {
+    "「……どうやら|　<%sL_ADDRESS>と　<%sL_ADDRESS_2>と|　<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|「<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|　<%sL_ADDRESS_7>に　送れなかったようだ。|<bw_break>": "... It appears that <%sL_ADDRESS>|and <%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and ... Could not|send to <%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7>...<bw_break>"
+  },
+  "494": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんと|　<%sL_ADDRESS_7>さんに　お送りできませんでした。|<bw_break>": "I'm sorry <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... We are|unable to send to <%sL_ADDRESS_5>|and <%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7>...<bw_break>"
+  },
+  "495": {
+    "「……どうやら|　<%sL_ADDRESS>と　<%sL_ADDRESS_2>と|　<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|「<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|　<%sL_ADDRESS_7>と　<%sL_ADDRESS_8>に|　送れなかったようだ。|<bw_break>": "... It appears that <%sL_ADDRESS>|and <%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and ... Could not|send to <%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8>...<bw_break>"
+  },
+  "496": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんと|　<%sL_ADDRESS_7>さんと　<%sL_ADDRESS_8>さんに|　お送りできませんでした。|<bw_break>": "I'm sorry <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... We are|unable to send to <%sL_ADDRESS_5>|and <%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8>. ...<bw_break>"
+  },
+  "497": {
+    "「……どうやら|　<%sL_ADDRESS>と　<%sL_ADDRESS_2>と|　<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|「<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|　<%sL_ADDRESS_7>と　<%sL_ADDRESS_8>と|　<%sL_ADDRESS_9>に　送れなかったようだ。|<bw_break>": "... It appears that <%sL_ADDRESS>|and <%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and ...|<%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8> and|<%sL_ADDRESS_9 > could not be|<br>|sent to...<bw_break>"
+  },
+  "498": {
+    "「申し訳ありませんが|　<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>さんと|　<%sL_ADDRESS_3>さんと　<%sL_ADDRESS_4>さんと……|<br>|「<%sL_ADDRESS_5>さんと　<%sL_ADDRESS_6>さんと|　<%sL_ADDRESS_7>さんと　<%sL_ADDRESS_8>さんと|　<%sL_ADDRESS_9>さんに　お送りできませんでした。|<bw_break>": "I'm sorry <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and...|<%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8> and <%sL_|ADDRESS_9>...|<br><bw_break>"
+  },
+  "499": {
+    "「……どうやら　送り先の全員に|　送れなかったようだ。|<bw_break>": "... Apparently, we didn't send it to everyone|we sent it to...<bw_break>"
+  },
+  "500": {
+    "「申し訳ありませんが　送り先の全員に|　お送りすることが　できませんでした。|<bw_break>": "I'm sorry, but we can't send this to everyone|you're sending it to...<bw_break>"
+  },
+  "501": {
+    "「……どうやら|　<%sL_ADDRESS>の郵便箱が　いっぱいで|　受け取りが　できないようだ。|<bw_break>": "... Apparently, the mailbox at|<%sL_ADDRESS> is full and I can't|pick it up...|<br><bw_break>"
+  },
+  "502": {
+    "「……おや？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱が　いっぱいで|　お受け取りが　できなかったようです。|<bw_break>": "... Hmm? I'm sorry, sir, but|<%sL_ADDRESS>'s mailbox was full|and we couldn't pick it up...|<br><bw_break>"
+  },
+  "503": {
+    "「……おいおい。<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　送れないぜ。|<bw_break>": "... Oh... <%sL_ITEM_NAME><%sL_PLU|S><%nL_KOUKA_NUM> can|be sent...|<br><bw_break>"
+  },
+  "504": {
+    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|　お送りすることは　できないんです。|<bw_break>": "Sorry, but we can't send you <%sL_ITEM_NAMEFI|LLERSTRING><%sL_PLUS><%nL_KOUKA_N|UM>...|<br><bw_break>"
+  },
+  "505": {
+    "「おいおい。その袋には|　何も入っていない　みたいだぜ。|<bw_break>": "Oh... I don't think there's anything in that|bag...<bw_break>"
+  },
+  "506": {
+    "「すいませんが　その袋には|　何も入っていないようです。|<bw_break>": "I'm sorry, but there's nothing in that bag...<bw_break>"
+  },
+  "507": {
+    "「おいおい。ゴールドを|　持っていないようだが？|<bw_break>": "Oh... I don't think you have the gold.<bw_break>"
+  },
+  "508": {
+    "「すいませんが　お客様は|　ゴールドを　お持ちではないようです。|<bw_break>": "I'm sorry, sir, but you don't have any|gold...<bw_break>"
+  },
+  "509": {
+    "未使用": "unused"
+  },
+  "510": {
+    "未使用": "unused"
+  },
+  "511": {
+    "「何の説明を　聞きたいんだ。|<select_se_off>|うけとるについて|売り上げうけとりについて|おくるについて|おもいで私書箱について|手紙の整理について|<select_end><break>": "I don't know what you're talking about.|<select_se_off>|About getting it|Receipt of sales|About us|About Omoide PO Box|On organizing letters|<select_end><break>"
+  },
+  "512": {
+    "「何について　説明いたしましょうかっ？|<select_se_off>|うけとるについて|売り上げうけとりについて|おくるについて|おもいで私書箱について|手紙の整理について|<select_end><break>": "What would you like me to explain?|<select_se_off>|About getting it|Receipt of sales|About us|About Omoide PO Box|On organizing letters|<select_end><break>"
+  },
+  "513": {
+    "「『うけとる』では|　届いた　手紙や荷物を|　一つひとつ選んで　受け取ることができる。|<br>|「手紙を受け取ると　てがみぶくろの|　『もらった手紙』に入るが　１００枚を|　超える枚数は　入らないので　注意が必要だ。|<br>|「旅人バザーに出品した物の　売上金や|　時間切れで　返却された物も|　ここで　受け取ることができる。|<br>|「ただし　旅人バザーからの　届け物を|　受け取らず　郵便箱が　いっぱいに|　なってしまわないよう　注意するんだな。|<br>|「いっぱいになると　空きをつくらないかぎり|　旅人バザーで　出品できなくなってしまう。|　適度に　郵便箱をチェックすることだ。|<bw_break>": "In the \"Receiving\" section, you can select|and receive each letter or package as it|arrives. When you receive a letter, it will|<br>|be placed in the \"Received Letters\" section|of your package, but be careful, because you|can't receive more than 100 letters... You|<br>|can also receive the proceeds of items you've|sold at the Traveler's Bazaar, as well as|items that have been returned because time|<br>|ran out. But be careful not to fill up your|mailbox without receiving a delivery from the|Traveler's Bazaar. If the mailbox is full,|<br>|you will not be able to sell your items in|the Traveler's Bazaar unless you make room|for them. Check your mailbox from time to|<br>|time...<bw_break>"
+  },
+  "514": {
+    "「『うけとる』を　ご利用いただくと|　お客様宛てに届いた　手紙や荷物を|　一つひとつ選んで　受け取ることができますっ！|<br>|「手紙を受け取ると　てがみぶくろの|　『もらった手紙』に入りますが　１００枚を|　超える枚数は　入りませんので　ご注意を！|<br>|「旅人バザーに出品した物の　売上金や|　時間切れで　返却された物も　こちらで|　受け取ることができます。|<br>|「ただし　旅人バザーからのお届け物を|　受け取らず　郵便箱が　いっぱいに|　なってしまわないよう　ご注意くださいっ！|<br>|「いっぱいになると　空きをつくらないかぎり|　旅人バザーで　出品できなくなってしまいます。|　適度に　郵便箱をチェックしてくださいね。|<bw_break>": "If you use the \"Receive\" function, you can|select and receive each letter or package|that is sent to you. When you receive a|<br>|letter, it will be placed in the \"Received|Letters\" section of your package, but please|note that no more than 100 letters will be|<br>|placed in this section! You can also receive|the proceeds from items sold at the|Traveler's Bazaar, as well as items that have|<br>|been returned because they ran out of time...|However, please be careful not to fill up|your mailbox without receiving any deliveries|<br>|from the Traveler's Bazaar! If your mailbox|is full, you won't be able to sell your items|in the Traveler's Bazaar unless you make|<br>|room... Please check your mailbox from time|to time...<bw_break>"
+  },
+  "515": {
+    "「お客様が書いたお手紙は　てがみぶくろの|　『書いた手紙』に入り　郵便局から送ったり|　とりひきで　人に渡すことができます。|<br>|「『書いた手紙』には　最大１０枚までの|　お手紙を　入れておくことができます。|　後から　書き直しも　できますよ。|<bw_break>": "The letters you write will be stored in a|letter bag, which you can send from the post|office or give to someone through an|<br>|exchange... Up to 10 letters can be stored in|the \"Written Letter\"... And you can rewrite|them later.|<br><bw_break>"
+  },
+  "516": {
+    "「お客様が書いたお手紙は　てがみぶくろの|　『書いた手紙』に入り　郵便局から送ったり|　とりひきで　人に渡すことができます。|<br>|「『書いた手紙』には　最大１０枚までの|　お手紙を　入れておくことができます。|　後から　書き直しも　できますよ。|<bw_break>": "The letters you write will be stored in a|letter bag, which you can send from the post|office or give to someone through an|<br>|exchange... Up to 10 letters can be stored in|the \"Written Letter\"... And you can rewrite|them later.|<br><bw_break>"
+  },
+  "517": {
+    "「『おくる』では　便せんに書いた　１枚の手紙と|　５種類までの荷物を　フレンドや|　チームメンバーの１人に　送ることができる。|<br>|「ただし　送る物が　手紙のみの場合は|　最大１０人まで　同じ手紙を送れる。|<br>|「ここで　送れる手紙は　てがみぶくろにある|　『書いた手紙』に　入っているものだけだ。|　とりひきで直接　人に渡すこともできる。|<br>|「『書いた手紙』には　最大１０枚までの|　手紙を　入れておくことができる。|　封をした後でも　書き直しができるぜ。|<br>|「人に渡った手紙は　てがみぶくろの|　『送った手紙』のなかに　記録が残る。|<br>|「最新の１００件まで　記録されるが|　古い物から　消えてしまうから|　大切な　手紙は　ロックしておくといい。|<bw_break>": "You can send a letter and up to five|different packages to a friend or team|member... However, if you're only sending a|<br>|letter, you can send the same letter to up to|10 people... The letters you can send here|are the ones in the \"Written Letters\" section|<br>|of the Letterbox... You can also give them|directly to people... Up to ten letters can|be stored in the Letterbox. You can rewrite|<br>|them after they're sealed... Letters that|have been passed on to others will be|recorded in the letters you've sent... You|<br>|can keep track of the last 100 letters you've|sent, but the oldest ones will disappear, so|you'll want to lock up your most important|<br>|letters...<bw_break>"
+  },
+  "518": {
+    "「『おくる』は　便せんに書いた　１枚の手紙と|　５種類までの荷物を　フレンドや|　チームメンバーの１人に　送ることができます！|<br>|「ただし　送る物が　手紙のみの場合は|　最大１０人まで　同じ手紙を送れます。|<br>|「こちらで　送れる手紙は　てがみぶくろにある|　『書いた手紙』に　入っているものだけです。|　とりひきで直接　人に渡すこともできますっ。|<br>|「『書いた手紙』には　最大１０枚までの|　手紙を　入れておくことができます。|　封をした後でも　書き直しができます。|<br>|「人に渡った手紙は　てがみぶくろの|　『送った手紙』のなかに　記録が残ります。|<br>|「最新の１００件まで　記録されますが|　古い物から　消えてしまうので|　大切な　手紙は　ロックするのをお忘れなく！|<bw_break>": "You can send a letter and up to five|different packages to a friend or team|member. However, if you're only sending a|<br>|letter, you can send the same letter to up to|10 people... The only letters you can send|here are the ones in the \"Written Letters\"|<br>|section of your Letterbox... You can also|give them directly to people... You can keep|up to 10 letters in the \"Written Letter\"...|<br>|You can rewrite them even after they're|sealed. Letters that have been passed on to|other people will be recorded in the \"Letters|<br>|you've sent\" section of your package... It|keeps track of the last 100 letters you've|sent, but the oldest ones will disappear, so|<br>|don't forget to lock your most important|letters!<bw_break>"
+  },
+  "519": {
+    "「『売り上げうけとり』では|　旅人バザーからの売上金を|　一度にまとめて　受け取ることができる。|<br>|「ただし　受け取れるのは　売上金のみ。|　時間切れで　返却された出品物は|　『うけとる』から　受け取れるぜ。|<bw_break>": "With the Sales receipt, you can receive all|the proceeds from the Traveler's Bazaar at|once... However, you can only receive...|<br>|Items returned after the time limit has|expired can be retrieved from the \"Take-|Back\"...|<br><bw_break>"
+  },
+  "520": {
+    "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができますっ！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけますっ！|<bw_break>": "If you use the \"Sales Receipt\" function, you|can receive all the proceeds from the|Traveler's Bazaar at once! However, you will|<br>|only receive the proceeds... You can also|receive items that have been returned because|the time has expired!|<br><bw_break>"
+  },
+  "521": {
+    "「この　<%sL_SENDER_NAME>からの手紙を|　受け取るか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
+  },
+  "522": {
+    "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
+  },
+  "523": {
+    "「……どうやら|　何人か　フレンドを|　探すのに　失敗したようだ……。|<break>": "... Apparently, some of you have failed to|find your friends...<break>"
+  },
+  "524": {
+    "「ああ　申し訳ありません。|　何人か　フレンドを|　探すのに　失敗してしまいました……。|<break>": "Oh, I'm sorry... I've failed to find some of|your friends...<break>"
+  },
+  "525": {
+    "「手紙か　荷物を　選びやがれ。<break>": "You can choose to send a letter or a package.<break>"
+  },
+  "526": {
+    "「お手紙か　お荷物をお選びくださいっ！<break>": "Please choose between a letter and a package!<break>"
+  },
+  "527": {
+    "「<%sL_NPC><%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに　選んでいるな。|<bw_break>": ""
+  },
+  "528": {
+    "「<%sL_NPC><%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに　お選びのようですね。|<bw_break>": ""
+  },
+  "529": {
+    "「<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　今　<%nL_ITEM_NUM>個　選んでいるな。|　いくつに　変更するんだ？|<break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> is now|<%nL_ITEM_NUM>... How many are|<br>|you going to change?<break>"
+  },
+  "530": {
+    "「<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　現在<%nL_ITEM_NUM>個　お選びです。|　いくつに　変更しますか？|<break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> is currently|<%nL_ITEM_NUM>... How many do you|<br>|want to change?<break>"
+  },
+  "531": {
+    "「……どうやら|　<%sL_ADDRESS>の郵便箱は|　あと<%nL_BOX_NUM>件しか　空きがないようだ。|<bw_break>": "... Apparently there are only|<%nL_BOX_NUM> more mailboxes|available for <%sL_ADDRESS>...|<br><bw_break>"
+  },
+  "532": {
+    "「……あれ？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱は|　あと<%nL_BOX_NUM>件しか　空きがないようです。|<bw_break>": "... Huh? I'm sorry, but|<%sL_ADDRESS> has only|<%nL_BOX_NUM> more mailboxes|<br>|available...<bw_break>"
+  },
+  "533": {
+    "「じゃあ　この荷物を　<%sL_ADDRESS>に|　送るのか？　送料は　無料にしてやる。|<yesno><break>": "So you're sending this package to|<%sL_ADDRESS>? I'll give you free|shipping...|<br><yesno><break>"
+  },
+  "534": {
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+  },
+  "535": {
+    "「じゃあ　この荷物を　<%sL_ADDRESS>に|　送るのか？　送料は　無料にしてやる。|<yesno><break>": "So you're sending this package to|<%sL_ADDRESS>? I'll give you free|shipping...|<br><yesno><break>"
+  },
+  "536": {
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+  },
+  "537": {
+    "「おいおい。<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品だから|　送ることは　できないぜ。|<bw_break>": "Oh... We can't send you <%sL_ITEM_NAMEFILLERS|TRING><%sL_PLUS><%nL_KOUKA_NUMFIL|LERSTRING> because it's already owned|<br>|equipment...<bw_break>"
+  },
+  "538": {
+    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send you <%sL_ITEM_NA|ME><%sL_PLUS><%nL_KOU|KA_NUM> because it's already|<br>|owned by...<bw_break>"
+  },
+  "539": {
+    "「……どうやら　この手紙を|　渡すことが　できないようだ。|　時間をおいて　もう一度　試しやがれ。|<bw_break>": "... I can't seem to get this letter across.|I'll give it some time, and then I'll try|again.|<br><bw_break>"
+  },
+  "540": {
+    "「おや？　申し訳ありませんが　こちらの手紙を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but I'm afraid I can't|give you this letter... Please give it some|time and try again...|<br><bw_break>"
+  },
+  "541": {
+    "「……どうやら　この荷物を|　渡すことが　できないようだ。|　時間をおいて　もう一度　試しやがれ。|<bw_break>": "... I can't seem to get this package across.|I'll give it some time, and then I'll try|again.|<br><bw_break>"
+  },
+  "542": {
+    "「おや？　申し訳ありませんが　こちらの荷物を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but we're unable to|deliver your package... Please give it some|time and try again.|<br><bw_break>"
+  },
+  "543": {
+    "「おいおい。|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品だから　送ることは　できないぜ。|<bw_break>": "Oh... You can't send <%sL_ITEM_NAMEFILLERSTRI|NG><%sL_PLUS><%nL_KOUKA_NUMFILLER|STRING> because it's a locked piece of|<br>|equipment...<bw_break>"
+  },
+  "544": {
+    "「申し訳ありませんが|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品のため　お送りできません。|<bw_break>": "We're sorry, but <%sL_ITEM_NAME><|%sL_PLUS><%nL_KOUKA_NUMFILLERSTRI|NG> is a locked piece of equipment and we|<br>|can't send you...<bw_break>"
+  },
+  "545": {
+    "「送り先は　フレンドか|　チームメンバーか　最近送った人から　|　選べるが　どこに送るんだ？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can choose to send it to a friend, a team|member, or someone you've sent it to|recently, but where do you send it to?|<br>|<select_se_off>|Choose from Friends|Select from team members|Choose from those who have recently sent|<select_end><break>"
+  },
+  "546": {
+    "「送り先は　フレンドか|　チームメンバーか　最近送った人から　|　選べます。どちらに　お送りしますかっ？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can send it to a friend, a team member,|or someone you've sent it to recently. Who|would you like to send it to?|<br>|<select_se_off>|Choose from Friends|Select from team members|Choose from those who have recently sent|<select_end><break>"
+  },
+  "547": {
+    "「手紙は　最大１０人まで　同じ物を送れる。|　送り先を　選びやがれ。|<break>": "You can send the same letter to up to 10|people... You choose the recipient...<break>"
+  },
+  "548": {
+    "「お手紙は　最大１０人まで　同じ物を送れますっ！|　送り先を　お選びください。|<break>": "You can send the same letter to up to 10|people! Please choose your recipient...<break>"
+  },
+  "549": {
+    "「おいおい。届けられる|　チームメンバーが　いないぜ。|<bw_break>": "I... I have a team member who can deliver...<bw_break>"
+  },
+  "550": {
+    "「申し訳ありませんが　お届けできる|　チームメンバーが　いないようです。|<bw_break>": "I'm sorry, but we don't have a team member|available to deliver...<bw_break>"
+  },
+  "551": {
+    "「……どうやら|　何人か　チームメンバーを|　探すのに　失敗してしまったようだ……。|<break>": "... Apparently, I failed to find some of my|team members...<break>"
+  },
+  "552": {
+    "「ああっ！　申し訳ありません。|　何人か　チームメンバーを|　探すのに　失敗してしまいました……。|<break>": "Aah! My apologies... I failed to find some of|the team members...<break>"
+  },
+  "553": {
+    "「……どうやら|　届けられる　相手が　いないようだ。|<bw_break>": "I... Apparently, there's no one to deliver it|to...<bw_break>"
+  },
+  "554": {
+    "「申し訳ありませんが|　お届けできる　お相手が　いないようです。|<bw_break>": "I'm sorry, but I don't have anyone to deliver|it to...<bw_break>"
+  },
+  "555": {
+    "「おい。これは|　手に入りづらい　貴重なものだが|　本当に　捨ててしまってもいいのか？|<yesno 2><close>": "Hey. This is hard-to-find, valuable stuff,|but are you sure you want to throw it away?<yesno 2><close>"
+  },
+  "556": {
+    "「こちらは　手に入りづらい　貴重なものですが|　本当に　捨ててしまってもよろしいですか？|<yesno 2><close>": "These are hard-to-find, valuable items, but|are you sure you want to throw them away?<yesno 2><close>"
+  },
+  "557": {
+    "「送り先は　フレンドか|　最近送った人から　選べる。|　どこに　送るんだ？|<select_se_off>|フレンドから選ぶ|最近送った人から選ぶ|<select_end><break>": ""
+  },
+  "558": {
+    "「送り先は　フレンドか|　最近送った人から　選べます。|　どちらに　お送りしますか？|<select_se_off>|フレンドから選ぶ|最近送った人から選ぶ|<select_end><break>": ""
+  },
+  "559": {
+    "「……どうやら|　最近送った人が　いないようだ。|<bw_break>": "... Apparently, no one's sent it in|recently...<bw_break>"
+  },
+  "560": {
+    "「申し訳ありませんが　|　最近送った人が　いないようです。|<bw_break>": "I'm sorry, but no one's sent you anything|recently...<bw_break>"
+  },
+  "561": {
+    "「……どうやら|　最近送った人を　探すのに|　失敗してしまったようだ……。|<break>": "... Apparently, I've failed to find someone|who recently sent...<break>"
+  },
+  "562": {
+    "「ああっ！　申し訳ありません。|　最近送った人を　探すのに|　失敗してしまいました……。|<break>": "Aah! My apologies... I failed to find the|last person who sent you...<break>"
+  },
+  "563": {
+    "「郵便局で　手紙やアイテムを送ると|　『最近送った人』に　送り先が記録される。|<br>|「最近送った人は　最大５件まで記録されるが|　古い記録から　順番に消えてしまうから|　注意することだな。|<bw_break>": "When you send a letter or an item at the post|office, the recipient is recorded in the|\"Recently Sent\" list. You can have up to five|<br>|recent recipients, but they'll disappear in|order of oldest to newest, so be careful...<bw_break>"
+  },
+  "564": {
+    "「お客様が　郵便局で|　手紙やアイテムを送ると|　『最近送った人』に　送り先が記録されますっ！|<br>|「最近送った人は　最大５件まで記録されますが|　古い記録から　順番に消えてしまいますので|　ご注意ください。|<bw_break>": "When you send a letter or item at the post|office, the recipient will be recorded in|\"Recently Sent\"! You can send up to five|<br>|items to people you've recently sent to, but|the oldest items will disappear first, so|please be careful...|<br><bw_break>"
+  },
+  "565": {
+    "「おいおい。届いた　カネを|　受け取ってくれ。|<end>": "Oh... I got your money. I got your money.<end>"
+  },
+  "566": {
+    "「申し訳ありませんが　届いた　お金は|　お受け取りしていただきますよう|　お願いします。|<end>": "I'm sorry, sir, but I'm going to have to ask|you to pick up the money...<end>"
+  },
+  "567": {
+    "「『おもいで私書箱を見る』とは|　冒険者宛てに送られた　一部の手紙を|　まとめて保管した　専用の私書箱のことだ。|<br>|「閲覧できる　手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストの手紙などだ。|<br>|「持っている　手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージで　案内してやろう。|<bw_break>": "View P.O. Box of Memories is a special P.O.|Box that holds a collection of letters sent|to adventurers. You can view letters about|<br>|seasonal events, limited-time events,|storylines, quests,... When you're ready to|discard your letters, you'll receive a|<br>|message letting you know if you can view them|in your P.O. Box...<bw_break>"
+  },
+  "568": {
+    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となりますっ！|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね！|<bw_break>": "You'll be able to see all of the letters that|have been sent to adventurers. The letters|you can view include information on seasonal|<br>|events, limited-time events, and other|events... If you have any questions, please|feel free to contact me.|<br><bw_break>"
+  },
+  "569": {
+    "「<%sL_SENDER_NAME>からの手紙を　捨てるのか？|　この手紙は　『おもいで私書箱を見る』で|　いつでも　見ることができるぜ。|<yesno 2><break>": "You're throwing away a letter from|<%sL_SENDER_NAME>? You can view|this letter at any time by going to \"View|<br>|P.O. Box\"...<yesno 2><break>"
+  },
+  "570": {
+    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　『おもいで私書箱を見る』で|　いつでも　見ることができますよっ！|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? You can see|this letter at any time by clicking on \"View|<br>|Post Office Box\"!<yesno 2><break>"
+  },
+  "571": {
+    "「……どうやら　見ることができる|　手紙は　まだ　ないようだ。|<bw_break>": "... Apparently, there are no letters yet that|we can look at...<bw_break>"
+  },
+  "572": {
+    "「……どうやら　ご覧いただける|　お手紙は　まだ　ないようですね。|<bw_break>": "... Apparently, we don't have a letter for|you to read yet.<bw_break>"
+  },
+  "573": {
+    "「おいおい。そのアイテムは|　捨てることが　できないぜ。|　さっさと　受け取りやがれ。|<end>": "Oh... The item can be discarded... I'll just|pick it up...<end>"
+  },
+  "574": {
+    "「申し訳ありませんが　そのアイテムは|　すてることが　できません。|　お受け取りを　お願いします。|<end>": "I'm sorry, but I'm afraid I can't part with|that item. Please accept...<end>"
+  },
+  "575": {
+    "「郵便局に届いている　手紙を整理する。|　削除したい　手紙を選びやがれ。|<break>": "I've got some letters in the post office.|Select the letter you want to delete...<break>"
+  },
+  "576": {
+    "「郵便局に届いている　手紙を整理しますっ！|　削除したい　手紙を選択してください。|<break>": ""
+  },
+  "577": {
+    "「おいおい。|　この手紙には　荷物も一緒に　届いているから|　削除することができないな。|<bw_break>": "Oh... This letter came with a package, so I|can't just delete it...<bw_break>"
+  },
+  "578": {
+    "「申し訳ありません。|　この手紙には　荷物も一緒に　届いているため|　削除することができません。|<bw_break>": "I'm sorry... This letter came with a package,|so I can't delete it...<bw_break>"
+  },
+  "579": {
+    "「おもいで私書箱で　みれる手紙を|　すべて選択した状態にするが　いいか？|<yesno 2><break>": "I want you to select all the letters you can|see in the P.O. Box, okay?<yesno 2><break>"
+  },
+  "580": {
+    "「おもいで私書箱で　みれる手紙を|　すべて選択した状態にしますが|　よろしいですか？|<yesno 2><break>": "I'd like to select all the letters you can|see in the P.O. Box, if that's okay.<yesno 2><break>"
+  },
+  "581": {
+    "「ほかにも　削除したい手紙は　あるのか？|<break>": "Are there any other letters you'd like me to|delete?<break>"
+  },
+  "582": {
+    "「ほかにも　削除したい手紙は|　ございますか？|<break>": "Are there any other letters you'd like me to|delete?<break>"
+  },
+  "583": {
+    "「選択した　すべての手紙を　削除する。|　削除した手紙は　もどすことができないが|　本当に　削除して　いいんだな？|<yesno 2><break>": "You can't delete all the letters you've|selected. You can't bring back a letter|you've deleted, but are you sure you want to|<br>|delete it?<yesno 2><break>"
+  },
+  "584": {
+    "「選択した　すべての手紙を　削除します。|　削除した手紙は　もどすことができませんが|　本当に　削除しても　よろしいですか？|<yesno 2><break>": "I've deleted all selected letters. I know you|can't bring back deleted letters, but are you|sure you want to delete them?|<br><yesno 2><break>"
+  },
+  "585": {
+    "「……よし。|　選択した　すべての手紙は|　削除したぜ。|<bw_break>": "..... All letters selected for deletion...<bw_break>"
+  },
+  "586": {
+    "「……はいっ。|　選択した　すべての手紙は|　削除いたしました。|<bw_break>": "...... All selected letters will be|deleted...<bw_break>"
+  },
+  "587": {
+    "「削除したい　手紙が|　ひとつも　選択されていないぜ。|<bw_break>": "There are no letters selected for deletion.<bw_break>"
+  },
+  "588": {
+    "「削除したい　手紙が|　ひとつも　選択されておりません。|<bw_break>": "None of the letters you wish to delete have|been selected.<bw_break>"
+  },
+  "589": {
+    "「『手紙を整理する』では|　とどいている　届けものを|　まとめて削除することができる。|<br>|「削除したい　お届けものを選択してから|　最後に『けってい』することで|　まとめて　削除するぜ。|<br>|「おもいで私書箱で確認できる|　届け物は　一括で|　まとめて選択する機能もあるぜ。|<br>|「……ただ　削除してしまった|　届けものは　もとにもどすことが|　できない。慎重に　選びやがれ。|<br>|「アイテムやゴールドなどの|　荷物も一緒に届いている　届け物は|　削除させないから　安心しやがれ。|<bw_break>": "In the \"Organize Letters\" section, you can|delete all of your deliveries at once...|Select the delivery you want to delete, and|<br>|then click \"Set\" to delete them all at once.|You can also select all deliveries that can|be checked at the P.O. Box... ... But if you|<br>|delete a delivery, you can undo it... Choose|carefully... If a delivery contains items or|gold, it won't be deleted, so don't worry...|<br><bw_break>"
+  },
+  "590": {
+    "「『手紙を整理する』では|　お客様あてに　とどいている　お届けものを|　まとめて削除することができますっ！|<br>|「削除したい　お届けものを選択してから|　最後に『けってい』することで|　まとめて　削除いたします。|<br>|「さらに　おもいで私書箱で確認できる|　お届け物は　一括で　まとめて選択する機能も|　ございますので　ぜひお試しください！|<br>|「……ひとつ注意なのが　削除してしまった|　お届けものは　もとにもどすことが|　できませんので　慎重に　お選びください。|<br>|「また　アイテムやゴールドなどの|　荷物も一緒に届いている　お届け物は|　削除されませんので　ご安心くださいっ！|<bw_break>": "In the \"Organize Letters\" section, you can|delete all deliveries that have been sent to|you at once! After selecting the delivery you|<br>|want to delete, you can delete it by clicking|\"Set\" at the end... In addition, there is a|function to select all the deliveries that|<br>|can be checked in the P.O.BOX at once, so|please try it! ... One thing to keep in mind|is that you can't restore deliveries that|<br>|have been deleted, so please choose|carefully... Also, deliveries that contain|items or gold will not be deleted, so don't|<br>|worry!<bw_break>"
+  },
+  "591": {
+    "「選択した手紙を　削除した。|　一部　削除できない手紙が　あったから|　確認しやがれ。|<bw_break>": "I'm trying to delete selected letters. There|were some letters that I couldn't delete, so|I just wanted to make sure...|<br><bw_break>"
+  },
+  "592": {
+    "「選択した手紙を　削除いたしましたっ！|　一部　削除できない手紙が　ありますので|　ご確認ください。|<bw_break>": "We've deleted the letters you selected! There|are some letters that cannot be deleted, so|please check...|<br><bw_break>"
+  },
+  "593": {
+    "「……まだ手紙が　ないようだ。|<bw_break>": "I... I still don't have the letter...<bw_break>"
+  },
+  "594": {
+    "「あれ？　まだお手紙が　ないようですね。|<bw_break>": "What? I don't see your letter yet.<bw_break>"
+  },
+  "595": {
+    "「最大所持数に　制限のあるアイテムのため|　これ以上　受け取ることは　できないようです。|<end>": ""
+  },
+  "596": {
+    "clarity_nt_char_596": "clarity_nt_char_596"
+  },
+  "597": {
+    "clarity_nt_char_597": "clarity_nt_char_597"
+  },
+  "598": {
+    "clarity_nt_char_598": "clarity_nt_char_598"
+  },
+  "599": {
+    "「最大所持数に　制限のあるアイテムだから|　これ以上は　受け取れないぜ。|<end>": ""
+  },
+  "600": {
+    "「最大所持数に　制限のあるアイテムなので|　これ以上　受け取れないみたいです。|<end>": ""
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "1": {
+    "ダミー": "Dummy"
+  },
+  "2": {
+    "<%sL_ITEM><%sL_PLUSNUM>は　装備できませんが|<%nL_GOUKEI>ゴールドで 買いますか？|所持金　<%nL_SYOZIGOLD>ゴールド|<yesno 2><break>": "You can't equip <%sL_ITEM><%sL_PLUSNUM>, but|you want to buy it with <%nL_GOUKEI> gold?|Possession <%nL_SYOZIGOLD> gold<yesno 2><break>"
+  },
+  "3": {
+    "<%sL_ITEM><%sL_PLUSNUM>　<%nL_QUANTITY>個|合計　<%nL_GOUKEI>ゴールドで買いますか？|所持金　<%nL_SYOZIGOLD>ゴールド|<yesno 2><break>": ""
+  },
+  "4": {
+    "<%sL_ITEM><%sL_PLUSNUM>の値段は|<%nL_NEDAN>ゴールドで|よろしいですか？|<yesno><break>": "Are you sure you want <%sL_ITEM><%sL_PLUSNUM>|to be priced at <%nL_NEDAN> gold?<yesno><break>"
+  },
+  "5": {
+    "出品の状況が　変わったため|買えませんでした。|<bw_break>": "I can't buy it because the status of the|listing has changed...<bw_break>"
+  },
+  "6": {
+    "<%sL_ITEM><%sL_PLUSNUM>を|<%nL_QUANTITY>個　買いました！|<bw_break>": "I bought <%sL_ITEM><%sL_PLUSNUM> for|<%nL_QUANTITY>!<bw_break>"
+  },
+  "7": {
+    "<%sL_ITEM><%sL_PLUSNUM>の値段を　|<%nL_NEDAN>ゴールドに　設定しました。|<bw_break>": "Set the price of <%sL_ITEM><%sL_PLUSNUM> to|<%nL_NEDAN> gold...<bw_break>"
+  },
+  "8": {
+    "購入権がないため　買えませんでした。": ""
+  },
+  "9": {
+    "設定金額が　変更されたため|買えませんでした。|<bw_break>": "You can't buy it because the set amount has|been changed.<bw_break>"
+  },
+  "10": {
+    "アイテムがなくなったため|キャンセルできませんでした。|<bw_break>": "Item no longer available, cannot be|cancelled...<bw_break>"
+  },
+  "11": {
+    "このアイテムは　売り物に設定できません。|<bw_break>": "This item can be set for sale...<bw_break>"
+  },
+  "12": {
+    "その金額は　設定できません。|<bw_break>": "That amount can be set...<bw_break>"
+  },
+  "13": {
+    "<%sL_ITEM><%sL_PLUSNUM>は|<%sL_SYOKUNIN>のレシピです。|<%nL_GOUKEI>ゴールドで　購入しますか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is a reciprocal of|<%sL_SYOKUNIN>... <%nL_GOUKEI>Would you like|to buy in gold?<yesno 2><break>"
+  },
+  "14": {
+    "<%sL_ITEM><%sL_PLUSNUM>は　すでに覚えています。|<%nL_GOUKEI>ゴールドで|購入しますか？|<yesno 2><break>": "I already remembered|<%sL_ITEM><%sL_PLUSNUM>... <%nL_GOUKEI>Would|you like to buy in gold?<yesno 2><break>"
+  },
+  "15": {
+    "<%sL_BAG_TYPE>が　いっぱいのため|<%sL_ITEM><%sL_PLUSNUM>は　購入できなかった。|<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> can't be purchased|because <%sL_BAG_TYPE> is full...<bw_break>"
+  },
+  "16": {
+    "しかし　お金が足りなかった。|<bw_break>": "But we're short on money...<bw_break>"
+  },
+  "17": {
+    "このモーモンバザーには|現在　売り物が　ありません。": "This Mormon bazaar currently has nothing for|sale..."
+  },
+  "18": {
+    "モーモンバザーがある。|このモーモンバザーには|現在　売り物が　ありません。": "Mormon Bazaar... This Mormon bazaar currently|has nothing for sale."
+  },
+  "19": {
+    "売り物に設定できるアイテムが|収納家具に　ありません。": "There's an item in the storage furniture that|we can put up for sale."
+  },
+  "20": {
+    "自分の家のモーモンバザーからは　買えません！|<bw_break>": "I can't buy from the Mormon Bazaar in my own|house!<bw_break>"
+  },
+  "21": {
+    "他の人が　収納家具を　さわっているので|商品を買えませんでした。": "I can't buy the product because someone else|is looking at the storage furniture..."
+  },
+  "22": {
+    "現在の　売り物一覧です。|<break>": "Current sale...<break>"
+  },
+  "23": {
+    "モーモンバザーの　売上金の合計が|所持できる上限金額を　超えています。|お金をへらしてから　再度お試しください。": "The Mormon Bazaar has sold more money than it|can hold in its entirety. Please reduce the|amount of money and try again."
+  },
+  "24": {
+    "とても高額なゴールドの　取り引きです！|間違いがないか　よく　ご確認ください。|<color_yellow>|※本メッセージは高額取り引き時に表示されます。|<color_white>|<br>|現実の金品によるゲームデータの売買（ＲＭＴ）は|禁止されており　処罰の対象となります。|そのようなことのないよう　ご注意ください。|<bw_break>": "This is a very expensive gold deal! Please|check carefully to make sure...<color_yellow>This message is displayed when a high value|deal is made...<color_white>Buying and selling game data for real money|(RMT) is prohibited and punishable by law.|Please be careful not to do this...<bw_break>"
+  },
+  "25": {
+    "<%sL_ITEM><%sL_PLUSNUM>を|売らない設定にしました。|<bw_break>": "Set <%sL_ITEM><%sL_PLUSNUM> to not sell...<bw_break>"
+  },
+  "26": {
+    "このモーモンバザーの　売上金の合計が|貯めておける上限金額を　超えているため|これ以上　商品を　購入できません。": "The total amount of money you've raised from|the Mormon Bazaar has exceeded the maximum|amount you can save, so you can't purchase|<br>|any more items."
+  },
+  "27": {
+    "<select_se_off>|売らない|値段をつけ直す|<select_end><break>": "<select_se_off>|I'm not selling it|reprice|<select_end><break>"
+  },
+  "28": {
+    "値段を　いくらに変更しますか？|<break>": ""
+  },
+  "29": {
+    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？|<break>": "How many <%sL_ITEM><%sL_PLUSNUM> do you want|to buy?<break>"
+  },
+  "30": {
+    "モーモンバザーで売る物を　設定してください。|<break>": "I need you to set up the items for sale at|the Mormon Bazaar.<break>"
+  },
+  "31": {
+    "どれを　買いますか？|<break>": "Which one do you want to buy?<break>"
+  },
+  "32": {
+    "出品が　取り下げられたため|買えませんでした。|<bw_break>": "I can't buy it because the listing has been|withdrawn...<bw_break>"
+  },
+  "33": {
+    "家具機能の利用権限がないため|モーモンバザーを　|つかうことは　できません。": "You don't have permission to use the|furniture feature, so you can't use the|Mormon Bazaar."
+  },
+  "34": {
+    "<%sL_ITEM><%sL_PLUSNUM>は　すでに読んでいます。|<%nL_GOUKEI>ゴールドで|購入しますか？|<yesno 2><break>": "You've already read|<%sL_ITEM><%sL_PLUSNUM>... <%nL_GOUKEI>Would|you like to buy in gold?<yesno 2><break>"
+  },
+  "35": {
+    "購入することが　できませんでした。": "I'm afraid I can't make the purchase."
+  },
+  "36": {
+    "設定することが　できませんでした。": "I can't set it up..."
+  },
+  "37": {
+    "予期せぬエラーにより|処理を実行することが　できませんでした。": "Due to an unexpected error, we are unable to|execute the operation..."
+  },
+  "38": {
+    "便利ツールで　モーモンバザーが|使用されているため　現在利用できません。": "The Mormon Bazaar is being used as a|convenience tool and is currently|unavailable."
+  },
+  "39": {
+    "このモーモンバザーからは|現在　買うことができません。": "From this Mormon bazaar, you can now buy..."
+  },
+  "40": {
+    "このモーモンバザーの　売上個数の合計が|貯めておける上限を　超えているため|これ以上　商品を　購入できません。": "The total number of items sold in this Mormon|Bazaar has exceeded the limit of what I can|store, so I can't purchase any more items."
+  },
+  "41": {
+    "種族の　キャラクターを　作成してから　|１週間経過しないと　出品できません。|<br>|また　出品している物が　ある場合|値段を　つけ直すことはできません。": "You have to wait a week after you create a|character of your race before you can sell|it. Also, if you have an item on display, you|<br>|may not reprice it..."
+  },
+  "42": {
+    "<color_yellow>|現在　旅人バザーに　出品されている|同じ商品よりも　値段が　ずいぶん高いようです。|<bw_break>": "<color_yellow>The price is much higher than the same item|currently on the Traveler's Bazaar.<bw_break>"
+  },
+  "43": {
+    "こちらは　すでに　|レプリカになっていますが|本当に　購入しますか？|<yesno 2><break>": "This one's already a replica. Are you sure|you want to buy it?<yesno 2><break>"
+  }
+}

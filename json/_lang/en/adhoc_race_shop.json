@@ -1,0 +1,2312 @@
+{
+  "1": {
+    "「もうスタートは　しているよ。|　一刻も早く　ゴールを目指すんだ！": "We've already started... We have to get to|the finish line as fast as we can!"
+  },
+  "2": {
+    "「また　来ておくれ！": "Come again!"
+  },
+  "3": {
+    "「また　来ておくれ！": "Come again!"
+  },
+  "4": {
+    "「エントリーするのかい？|<yesno><break>": "Are you entering?<yesno><break>"
+  },
+  "5": {
+    "「じゃあ　エントリーは取り消すよ。|　また　来てくれ！": "Okay, I'll take your entry... Come again!"
+  },
+  "6": {
+    "「エントリーを　やめるのかい？|<yesno><break>": "Are you going to stop entering?<yesno><break>"
+  },
+  "7": {
+    "「おっと今回のエントリーは　時間切れだ。|　手続きは　スタートの１分前までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, this entry was timed... You have until|one minute before the start... I'm sorry.|I'll have to take care of the next entry..."
+  },
+  "8": {
+    "「今は　アストルティアラリー開催中だね。|　この時期　ドルボードレースは|　お休みに　なるんだ。<br>|「すまないが　アストルティアラリーの|　期間が終わったら　また来てくれ。": "It's the Astorian Rally... This is the time|of year when the dollar board races are|cancelled. I'm sorry, but we'll be back after|<br>|the Astoltia rally..."
+  },
+  "9": {
+    "「おっと　グランプリのエントリーは終了だ。|　もう少しでトライアル期間が　はじまるから|　エントリー手続きは　その後に頼むよ。": "Oh, I'm not going to enter the Grand Prix.|The trial period starts in a few weeks, so|you'll have to wait until after that to|<br>|enter."
+  },
+  "10": {
+    "「おっと今回のエントリーは　締め切りだ。|　レースの参加は　最大で９０人までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, whoa, whoa, whoa, whoa, whoa. The race|is limited to a maximum of 90 entrants... I'm|sorry. I'll have to take care of that next|<br>|time."
+  },
+  "11": {
+    "「よし！　エントリーの受付　完了だ。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでくれよ。": "Okay! Call for entries... The race will start|when the time is right, so stay on the yellow|line that you see..."
+  },
+  "12": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "13": {
+    "「おお　あんた　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったね！<br>|「じゃあ　これを持っていきな！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>だよ！！": "Oh, you got your best time under|<%nW_T_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then take this! Your reward for|<br>|beating <%nW_T_M_MINUTE> minutes|<%02nW_T_M_SECOND> seconds is <%sEV_HOUSYU>!"
+  },
+  "14": {
+    "「これで　ベストタイム報酬は全部　獲得したよ！|　まったく　あんたからは　すさまじいまでの|　レース屋スピリットを感じるよ！": "I've got all the best time rewards! You've|got a real racing spirit, you know that?"
+  },
+  "15": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "16": {
+    "「……って　あんた　どうぐかばんが|　いっぱいで　持てないみたいだよ！|　荷物を整理して　また来てくれ！": "I... It looks like your bag is too full to|carry it! Get your stuff together and come|back!"
+  },
+  "17": {
+    "「レース　お疲れさま。|　あんたに　渡す報酬があったはずさ。|　ええと……": "Race you... I had a reward to give you... I,|uh..."
+  },
+  "18": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "19": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "20": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "21": {
+    "「うん？　": "Hmm?"
+  },
+  "22": {
+    "「あら　惜しかったね……。|　ここまで　来れたのなら|　制限時間内のゴールは　もう少しだよ！<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Well, that was close... If you've made it|this far, you're close to finishing within|the time limit! Well, whatever it is, this|<br>|race is over! Now, back to the starting line?<yesno><break>"
+  },
+  "23": {
+    "「うん。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけておくれ。<br>|「ただし　あんたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してくれよ。": "Yeah. So... Then, if you want to go home,|talk to me again... But if you go somewhere|else, I'll disappear, so be careful..."
+  },
+  "24": {
+    "「ああ。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけておくれ。<br>|「ただし　あんたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してくれよ。": "Oh. Well... Then talk to me again when you|want to go home... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "25": {
+    "「さて　スタート地点までもどるかい？|<yesno><break>": "Now, do you want to go back to the starting|point?<yesno><break>"
+  },
+  "26": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたのかな？<br>|「今回のレースで　あんたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位で　ここに到着したみたいだ。|　タイムと順位は　別物だけどね。<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|second out of <%nEV_LUA_NUM_1>... Time and|<br>|place are not the same thing... But whatever|the case, this race is over! Now, back to the|start, shall we?<yesno><break>"
+  },
+  "27": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "28": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "29": {
+    "「今は　準備中だ。": "I'm a quasi..."
+  },
+  "30": {
+    "「ゴール時に　規定のタイムを切っていれば|　ごらんの通りの　報酬を進呈するよ！": "If you're still under the time limit at the|finish line, you'll be rewarded as you see|fit!"
+  },
+  "31": {
+    "「ベストタイムを出して　報酬をゲットだよ！": "Get the best time and you'll get the reward!"
+  },
+  "32": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができる。<br>|「だけど　残念ながら|　まだ　ゴールした人は　いないようだね。　　": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you'll be able to see their time|<br>|ranking... But unfortunately, no one's|finished yet."
+  },
+  "33": {
+    "「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ<br>|「今は　グランプリ開催期間中だから|　いい成績を　残せれば|　すてきな報酬を　進呈しよう。<br>|「グランプリが　開催されていない時は|　いつでも練習できる　トライアル期間だから|　フレンドやチームの人と　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a time-limited race|organized by the racing group Turbo Axel. The|course starts here and ends near the exit of|<br>|the Chaldean Mountain Road. The finish line|is at Mogale Camp on the Moghalim Road, and|we're in the middle of the Grand Prix, so if|<br>|you do well, you'll be rewarded with... When|the Grand Prix is not in session, you can|practice with your friends and your team|<br>|during the trial period.<bw_break>"
+  },
+  "34": {
+    "「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「わたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものだよ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ<br>|「今は　グランプリ開催期間中だから|　いい成績を　残せれば|　すてきな報酬を　進呈しよう。<br>|「グランプリが　開催されていない時は|　いつでも練習できる　トライアル期間だから|　フレンドやチームの人と　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a time-limited race|organized by the racing group Turbo Axel. It|was created by our boss, Stellakat, as a|<br>|result of his pursuit of even greater speed|in the Astoltia Rally. This course starts|here, near the exit of the Chaldean Mountain|<br>|Road... The finish line is at the Mogale Camp|on the Moghalim Road, and we're in the middle|of the Grand Prix, so if you do well, you'll|<br>|be rewarded with... When the Grand Prix is|not in session, you can practice with your|friends and your team during the trial|<br>|period.<bw_break>"
+  },
+  "35": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　訪れる。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするわけさ。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どしどしエントリーしておくれ。|<bw_break>": "In the dollar board race, the start is timed|in five-minute intervals... At the start of|the race, everyone who's entered will start|<br>|at the same time. You can participate as many|times as you like, so feel free to enter as|many times as you like...<bw_break>"
+  },
+  "36": {
+    "「ドルボードレースが　始まると|　経過時間と　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。<br>": "When the dollar board race begins, you'll be|shown your elapsed time and your best time.|If your elapsed time goes over 10 minutes,|<br>|you're disqualified. You've got to get to the|finish line before that happens."
+  },
+  "37": {
+    "「道中には『ハザード』という障害物があって|　それに触れると　速度が遅くなるから|　当たらないような　コース取りが重要さ。|<bw_break>": "There are hazards along the way, and touching|them slows you down, so it's important to|stay on course so you don't get hit...<bw_break>"
+  },
+  "38": {
+    "「グランプリ開催中に　あんたが出した|　最速のタイムは　ベストタイムとして|　わたしが　記録しておくよ。<br>|「ベストタイムが　規定のタイムを切ったとき|　それに応じた報酬を　進呈するよ。<br>|「どんな報酬があるか　知りたければ|　『報酬を見る』を　選んでくれ。|<bw_break>": "Your fastest time during the Grand Prix will|be recorded by me as your best time. If your|best time falls below a certain time, you|<br>|will be rewarded accordingly. If you want to|see what rewards are available, select \"See|rewards\"...<bw_break>"
+  },
+  "39": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができる。<br>|「ランキングには　グランプリ用と|　トライアル用の　２種類が　あって|　それぞれ　別々に記録されるのさ。<br>|「今は　グランプリ開催中だから|　確認できるのは　グランプリのランキングだよ。<br>|「グランプリが　終わった後は|　トライアル期間になって|　トライアル用のランキングを記録するよ。|<bw_break>": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you can see their time ranking. There|<br>|are two types of rankings, one for the Grand|Prix and one for the Trials, and they're|recorded separately. The Grand Prix is now in|<br>|progress so you can only see the Grand Prix|rankings... After the Grand Prix is over, the|trial period starts and the trial rankings|<br>|are recorded...<bw_break>"
+  },
+  "40": {
+    "「さあ　何について　聞きたいんだ？|<break>": "Come on, what do you want to talk about?<break>"
+  },
+  "41": {
+    "「他に　聞きたいことはあるか？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "42": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "43": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進むんだ。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツだね。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいよ。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charge booth on|the dollar board... If you have it, you'll|<br>|need to use it in the right way... to get the|best results. If you don't have the charge|boost, then you'll need to complete all of|<br>|Memme-san's requests in the mountain city of|Gathara.<bw_break>"
+  },
+  "44": {
+    "「もうひとつ　このコースには|　チャージブースト機能を　持っている人向けに|　『フルチャージ』という仕掛けがある。<br>|「チャージブーストの　エネルギーが|　貯まっていない時に　触れると|　即座に貯まりきる　仕掛けだ。<br>|「それと　ブースト中に触れた場合は|　そのブーストが　終わった時|　即座に　エネルギーが貯まりきる。<br>|「ただし　『フルチャージ』は|　エネルギーが　貯まりきっている時は|　なんの効果も発揮しない。<br>|「そんなわけで　できるだけ|　エネルギーが貯まっていない時に|　触れることが　うまく利用するコツだよ。": "There's one more thing... for those of you|who have the Charge Boost feature... it's|called \"Full Charge.\" If you touch the charge|<br>|boost when it's not fully charged, it'll|instantly charge up. And if you touch it|while it's boosting, when the boost is over,|<br>|the energy is instantly stored... However, a|full charge will have no effect if the energy|is already depleted. That's why the best time|<br>|to use it is when you have the least amount|of energy left in your system."
+  },
+  "45": {
+    "使用しません": "Not used"
+  },
+  "46": {
+    "使用しません": "Not used"
+  },
+  "47": {
+    "使用しません": "Not used"
+  },
+  "48": {
+    "「最後に　このコースのゴール地点についてだね。|　ここからスタートした後|　まずは　カルデア山道を目指すことになる。<br>|「カルデア山道からは　ガタラ原野への道前の|　チェックポイントを通って|　ガタラ原野を　目指しておくれ。<br>|「ガタラ原野からは　南に向かって|　モガリム街道を　目指すんだ。<br>|「そして　このコースのゴール地点は|　モガリム街道の　モガレキャンプだよ。<br>|「エントリー後は　地図に目的地がでるから|　参考にすると　いいよ。|　ぜひとも　ベストタイムを　狙っておくれ。": "And finally, the finish line of this|course... After starting here, we'll head up|the Chaldean Mountain Road... From the|<br>|Chaldean Mountain Road, we will pass through|the checkpoint before the road to the Gathara|Field... From Gatara Field, we will head|<br>|south to the Moghalim Road... And the goal|point of this course is Mogare Camp on|Moghalim Road... After you enter the course,|<br>|your destination will be shown on the map, so|if you refer to it... I'm sure you'll try to|get the best time..."
+  },
+  "49": {
+    "「今は　グランプリ開催中だね！|　ここは　ドルボードレースの受付だ。|　何か　用はあるかい？|<break>": "We're at the Grand Prix! This is the dollar|board race... What can I do for you?<break>"
+  },
+  "50": {
+    "使用しません": "Not used"
+  },
+  "51": {
+    "「よう！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だ。<br>|「ただ　今は休止中だから|　再開したら　また来てくれ。": "Hey! This is the place for the dollar board|race through Astoltia... But it's on hiatus|right now, so we'll be back when it's back|<br>|on."
+  },
+  "52": {
+    "「よう！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だ。<br>|「ただ　今は休止中だから|　再開したら　また来てくれ。": "Hey! This is the place for the dollar board|race through Astoltia... But it's on hiatus|right now, so we'll be back when it's back|<br>|on."
+  },
+  "53": {
+    "「それと　あんたには　これを渡しておく。": "And I want you to have this..."
+  },
+  "54": {
+    "「それがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしてくれ！<br>|「あと　エントリー中やレース中に|　こいつを使えば　レースを棄権できるから|　それも　覚えておくといい。<bw_break>": "If you have one of these, you can enter a|dollar board race any time you want, so get|out there and enter! And remember, if you use|<br>|it while you're entering or racing, you can|cancel the race...<bw_break>"
+  },
+  "55": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "56": {
+    "「ん。あんたからは　ほとばしるような|　レース屋スピリットを感じるな！<br>|「ああ失礼。|　ここは　ドルボードレースの受付だ。<br>|「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　進呈するよ。<bw_break>": "Yeah. I can feel your racing spirit surging|through you! Oh... This is the dolphin board|race... The Dollar Board Race is a time-|<br>|limited, heated race organized by the racing|group Turbo Axel... This course starts here,|near the exit of Chaldean Mountain Road...|<br>|The Mogare Camp on the Mogarim Road is the|go... The Grand Prix is going on right now,|so if you do well, you'll be rewarded with...<bw_break>"
+  },
+  "57": {
+    "「ん。あんたは……|　アストルティアラリーの経験者だね？|　レース屋のカンが　そう告げているよ。<br>|「ああ失礼。|　ここは　ドルボードレースの受付だ。<br>|「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「わたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものだよ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　進呈するよ。<bw_break>": "Mmm. You're... You've done the Astoltia Rally|before, haven't you? That's what my racing|guy told me... Oh... This is the place for|<br>|dollar board racing... The Dollar Board Race|is a time-limited, heated race organized by|the racing group Turbo Axel. It was created|<br>|by our boss, Stellakat, as a result of his|pursuit of greater speed from the Astoltia|Rally. This course starts here, near the exit|<br>|of the Chaldean Mountain Road... The Mogare|camp on the Mogarim road is the go... Now,|we're in the middle of the Grand Prix, so if|<br>|you do well, we'll give you a nice reward...<bw_break>"
+  },
+  "58": {
+    "「よう！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だ。<br>|「すまないが　ドルボードレースは|　一人前で　なおかつ　ドルボードを持った|　冒険者だけしか　参加できないんだ。<br>|「条件を満たしてから　また来てくれ。": "Hey! We're here to race the dolphins through|Astoltia. I'm sorry, but only adventurers who|are full-grown and have a dolphin board can|<br>|participate in the dolphinboard race. We'll|come back when we've fulfilled the|requirements..."
+  },
+  "59": {
+    "「今は　グランプリ開催中だ！|　他に何か　用はあるかい？|<break>": "We're in the middle of the Grand Prix! Is|there anything else I can do for you?<break>"
+  },
+  "60": {
+    "「今は　グランプリ開催中だ！|　他に何か　用はあるかい？|<break>": "We're in the middle of the Grand Prix! Is|there anything else I can do for you?<break>"
+  },
+  "61": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "62": {
+    "「今　エントリー手続き中だ。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうよ。<br>|「ドルボードレースが　始まると|　経過時間と　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。|<bw_break>": "Now, the entry procedure... While you're|going through the formalities, I'd like to|explain the rules of the race. When the|<br>|dollar board race begins, you'll be shown|your elapsed time and your best time. If your|elapsed time goes over 10 minutes, you will|<br>|be disqualified, so be careful. You've got to|get to the finish line before that happens.<bw_break>"
+  },
+  "63": {
+    "「もうスタートは　しているよ。|　一刻も早く　ゴールを目指すんだ！": "We've already started... We have to get to|the finish line as fast as we can!"
+  },
+  "64": {
+    "「また　来てくれ！": "Come again!"
+  },
+  "65": {
+    "「また　来てくれ！": "Come again!"
+  },
+  "66": {
+    "「エントリーするのかい？|<yesno><break>": "Are you entering?<yesno><break>"
+  },
+  "67": {
+    "「じゃあ　エントリーは取り消すよ。|　また　来てくれ！": "Okay, I'll take your entry... Come again!"
+  },
+  "68": {
+    "「エントリーを　やめるのかい？|<yesno><break>": "Are you going to stop entering?<yesno><break>"
+  },
+  "69": {
+    "「おっと今回のエントリーは　時間切れだ。|　手続きは　スタートの１分前までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, this entry was timed... You have until|one minute before the start... I'm sorry.|I'll have to take care of the next entry..."
+  },
+  "70": {
+    "「今は　アストルティアラリー開催中だね。|　この時期　ドルボードレースは|　お休みに　なるんだ。<br>|「すまないが　アストルティアラリーの|　期間が終わったら　また来てくれ。": "It's the Astorian Rally... This is the time|of year when the dollar board races are|cancelled. I'm sorry, but we'll be back after|<br>|the Astoltia rally..."
+  },
+  "71": {
+    "「おっと　お試しのエントリーは終了だ。|　もう少しでグランプリが　はじまるから|　エントリー手続きは　その後に頼むよ。": "Oh, no, no, no, no, no. The grand prix will|be starting in a few minutes, so we'll have|to wait until after that..."
+  },
+  "72": {
+    "「おっと今回のエントリーは　締め切りだ。|　レースの参加は　最大で９０人までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, whoa, whoa, whoa, whoa, whoa. The race|is limited to a maximum of 90 entrants... I'm|sorry. I'll have to take care of that next|<br>|time."
+  },
+  "73": {
+    "「よし！　エントリーの受付　完了だ。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでくれよ。": "Okay! Call for entries... The race will start|when the time is right, so stay on the yellow|line that you see..."
+  },
+  "74": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "75": {
+    "「おお　あんた　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったね！<br>|「じゃあ　これを持っていきな！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>だよ！！": "Oh, you got your best time under|<%nW_T_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then take this! Your reward for|<br>|beating <%nW_T_M_MINUTE> minutes|<%02nW_T_M_SECOND> seconds is <%sEV_HOUSYU>!"
+  },
+  "76": {
+    "「これで　ベストタイム報酬は全部　獲得したよ！|　まったく　あんたからは　すさまじいまでの|　レース屋スピリットを感じるよ！": "I've got all the best time rewards! You've|got a real racing spirit, you know that?"
+  },
+  "77": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "78": {
+    "「……って　あんた　どうぐかばんが|　いっぱいで　持てないみたいだ！|　荷物を整理して　また来てくれ！": "I... It looks like you've got too much in|your bag! Get your stuff together and come|back!"
+  },
+  "79": {
+    "「レース　お疲れさま。|　あんたに　渡す報酬があったはずさ。|　ええと……": "Race you... I had a reward to give you... I,|uh..."
+  },
+  "80": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "81": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "82": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "83": {
+    "「うん？　": "Hmm?"
+  },
+  "84": {
+    "「あら　惜しかったね……。|　ここまで　来れたのなら|　制限時間内のゴールは　もう少しだよ！<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Well, that was close... If you've made it|this far, you're close to finishing within|the time limit! Well, whatever it is, this|<br>|race is over! Now, back to the starting line?<yesno><break>"
+  },
+  "85": {
+    "「うん。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけておくれ。<br>|「ただし　あんたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してくれよ。": "Yeah. So... Then, if you want to go home,|talk to me again... But if you go somewhere|else, I'll disappear, so be careful..."
+  },
+  "86": {
+    "「ああ。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけてくれ。<br>|「ただし　あんたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してくれよ。": "Oh. Well... Then if you want to go home, talk|to me again... But if you go somewhere else,|I'll be gone, so be careful..."
+  },
+  "87": {
+    "「さて　スタート地点までもどるかい？|<yesno><break>": "Now, do you want to go back to the starting|point?<yesno><break>"
+  },
+  "88": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたのかな？<br>|「今回のレースで　あんたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位で　ここに到着したみたいだ。|　タイムと順位は　別物だけどね。<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|second out of <%nEV_LUA_NUM_1>... Time and|<br>|place are not the same thing... But whatever|the case, this race is over! Now, back to the|start, shall we?<yesno><break>"
+  },
+  "89": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "90": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "91": {
+    "「今は　準備中だ。": "I'm a quasi..."
+  },
+  "92": {
+    "「今は　お試し期間中だから|　特に報酬は無いよ。|　次回のグランプリ開催を　待ってくれ。": "It's a trial period, so we're not getting|paid anything. We're waiting for the next|grand prix..."
+  },
+  "93": {
+    "「さて……": "Well"
+  },
+  "94": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよ。": "Right now, we're preparing for the Grand|Prix, so we can't look at the rankings..."
+  },
+  "95": {
+    "「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないし　ベストタイムも|　グランプリ開始と共に消える　仮のものだ。<br>|「ただ　いつでも　練習は大歓迎だから|　グランプリ開催前に　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a time-limited race|organized by the racing group Turbo Axel.|This course starts here, near the exit of the|<br>|Chaldean Mountain Road... The Mogare camp on|the Mogarim road is the go... Now, this is a|trial period, so there are no rankings, no|<br>|rewards, and your best times will disappear|when the Grand Prix begins. But you're always|welcome to practice before the Grand Prix|<br>|starts...<bw_break>"
+  },
+  "96": {
+    "「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「わたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものだよ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないし　ベストタイムも|　グランプリ開始と共に消える　仮のものだ。<br>|「ただ　いつでも　練習は大歓迎だから|　グランプリ開催前に　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a time-limited race|organized by the racing group Turbo Axel. It|was created by our boss, Stellakat, as a|<br>|result of his pursuit of even greater speed|in the Astoltia Rally. This course starts|here, near the exit of the Chaldean Mountain|<br>|Road... The Mogare camp on the Mogarim road|is the go... Now, this is a trial period, so|there are no rankings, no rewards, and your|<br>|best times will disappear when the Grand Prix|begins. But you're always welcome to practice|before the Grand Prix starts...<bw_break>"
+  },
+  "97": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　訪れる。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするわけさ。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どしどしエントリーしておくれ。|<bw_break>": "In the dollar board race, the start is timed|in five-minute intervals... At the start of|the race, everyone who's entered will start|<br>|at the same time. You can participate as many|times as you like, so feel free to enter as|many times as you like...<bw_break>"
+  },
+  "98": {
+    "「ドルボードレースが　始まると|　経過時間　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。<br>": "When the dollar board race begins, the|elapsed time, the best time you've ever|recorded will be displayed... If your elapsed|<br>|time goes over 10 minutes, you're|disqualified. You've got to get to the finish|line before that happens."
+  },
+  "99": {
+    "「普段　道中には『ハザード』という障害物が|　あるのだけど　今はお試し期間中だから|　グランプリが始まるまでは　おかないよ。|<bw_break>": "Normally, there are hazards along the way,|but since we're in a trial period, until the|Grand Prix starts, we can't...<bw_break>"
+  },
+  "100": {
+    "「お試し期間中は　一応　あんたが出した|　最速タイムの記録は　取るけれど　それは|　グランプリ開始と共に　消える仮のものだ。<br>|「それと　お試し期間中は|　ランキングも報酬も無いから|　あくまで　お試しの記録と　考えてくれ。|<bw_break>": "During the trial period, we'll keep track of|your fastest times, but they're temporary and|will disappear once the Grand Prix begins.|<br>|Also, during the trial period, there are no|rankings or rewards, so it's just a trial|record...<bw_break>"
+  },
+  "101": {
+    "「今は　お試し期間中だから|　ランキングもなく　ベストタイムも|　グランプリ開始と共に消える　仮のものだ。|<bw_break>": "We're in a trial period, so there's no|ranking, and the best times will disappear|when the Grand Prix starts.<bw_break>"
+  },
+  "102": {
+    "「さあ　何について　聞きたいんだ？|<break>": "Come on, what do you want to talk about?<break>"
+  },
+  "103": {
+    "「他に　聞きたいことはあるか？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "104": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "105": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進むんだ。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツだね。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいよ。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charge booth on|the dollar board... If you have it, you'll|<br>|need to use it in the right way... to get the|best results. If you don't have the charge|boost, then you'll need to complete all of|<br>|Memme-san's requests in the mountain city of|Gathara.<bw_break>"
+  },
+  "106": {
+    "使用しません": "Not used"
+  },
+  "107": {
+    "使用しません": "Not used"
+  },
+  "108": {
+    "使用しません": "Not used"
+  },
+  "109": {
+    "使用しません": "Not used"
+  },
+  "110": {
+    "「最後に　このコースのゴール地点についてだね。|　ここからスタートした後|　まずは　カルデア山道を目指すことになる。<br>|「カルデア山道からは　ガタラ原野への道前の|　チェックポイントを通って|　ガタラ原野を　目指しておくれ。<br>|「ガタラ原野からは　南に向かって|　モガリム街道を　目指すんだ。<br>|「そして　このコースのゴール地点は|　モガリム街道の　モガレキャンプだよ。<br>|「エントリー後は　地図に目的地がでるから|　参考にすると　いいよ。|　ぜひとも　ベストタイムを　狙っておくれ。": "And finally, the finish line of this|course... After starting here, we'll head up|the Chaldean Mountain Road... From the|<br>|Chaldean Mountain Road, we will pass through|the checkpoint before the road to the Gathara|Field... From Gatara Field, we will head|<br>|south to the Moghalim Road... And the goal|point of this course is Mogare Camp on|Moghalim Road... After you enter the course,|<br>|your destination will be shown on the map, so|if you refer to it... I'm sure you'll try to|get the best time..."
+  },
+  "111": {
+    "「９月１１日までは　お試し期間中だね！|　ここは　ドルボードレースの受付だ。|　何か　用はあるかい？|<break>": "Well, you're on a trial basis until Sept. 11!|This is the dollar board race... What can I|do for you?<break>"
+  },
+  "112": {
+    "使用しません": "Not used"
+  },
+  "113": {
+    "「よう！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だ。<br>|「ただ　今は休止中だから|　再開したら　また来てくれ。": "Hey! This is the place for the dollar board|race through Astoltia... But it's on hiatus|right now, so we'll be back when it's back|<br>|on."
+  },
+  "114": {
+    "「よう！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だ。<br>|「ただ　今は休止中だから|　再開したら　また来てくれ。": "Hey! This is the place for the dollar board|race through Astoltia... But it's on hiatus|right now, so we'll be back when it's back|<br>|on."
+  },
+  "115": {
+    "「それと　あんたには　これを渡しておく。": "And I want you to have this..."
+  },
+  "116": {
+    "「それがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしてくれ！<br>|「あと　エントリー中やレース中に|　こいつを使えば　レースを棄権できるから|　それも　覚えておくといい。<bw_break>": "If you have one of these, you can enter a|dollar board race any time you want, so get|out there and enter! And remember, if you use|<br>|it while you're entering or racing, you can|cancel the race...<bw_break>"
+  },
+  "117": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "118": {
+    "「ん。あんたからは　ほとばしるような|　レース屋スピリットを感じるな！<br>|「ああ失礼。|　ここは　ドルボードレースの受付だ。<br>|「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないけれど|　ベストタイムのみ記録しているよ。<bw_break>": "Yeah. I can feel your racing spirit surging|through you! Oh... This is the dolphin board|race... The Dollar Board Race is a time-|<br>|limited, heated race organized by the racing|group Turbo Axel... This course starts here,|near the exit of Chaldean Mountain Road...|<br>|The Mogare camp on the Mogarim road is the|go... We're in a trial period, so there are|no rankings or rewards, but we'll only record|<br>|your best times...<bw_break>"
+  },
+  "119": {
+    "「ん。あんたは……|　アストルティアラリーの経験者だね？|　レース屋のカンが　そう告げているよ。<br>|「ああ失礼。|　ここは　ドルボードレースの受付だ。<br>|「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「わたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものだよ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないけれど|　ベストタイムのみ記録しているよ。<bw_break>": "Mmm. You're... You've done the Astoltia Rally|before, haven't you? That's what my racing|guy told me... Oh... This is the place for|<br>|dollar board racing... The Dollar Board Race|is a time-limited, heated race organized by|the racing group Turbo Axel. It was created|<br>|by our boss, Stellakat, as a result of his|pursuit of greater speed from the Astoltia|Rally. This course starts here, near the exit|<br>|of the Chaldean Mountain Road... The Mogare|camp on the Mogarim road is the go... Now,|this is a trial period, so there are no|<br>|rankings or rewards, but we will only be|recording your best times...<bw_break>"
+  },
+  "120": {
+    "「よう！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だ。<br>|「すまないが　ドルボードレースは|　一人前で　なおかつ　ドルボードを持った|　冒険者だけしか　参加できないんだ。<br>|「条件を満たしてから　また来てくれ。": "Hey! We're here to race the dolphins through|Astoltia. I'm sorry, but only adventurers who|are full-grown and have a dolphin board can|<br>|participate in the dolphinboard race. We'll|come back when we've fulfilled the|requirements..."
+  },
+  "121": {
+    "「９月１１日までは　お試し期間中だ！|　他に何か　用はあるかい？|<break>": "It's a trial period until September 11th! Is|there anything else I can do for you?<break>"
+  },
+  "122": {
+    "「９月１１日までは　お試し期間中だ！|　他に何か　用はあるかい？|<break>": "It's a trial period until September 11th! Is|there anything else I can do for you?<break>"
+  },
+  "123": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "124": {
+    "「今　エントリー手続き中だ。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうよ。<br>|「ドルボードレースが　始まると|　経過時間と　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。|<bw_break>": "Now, the entry procedure... While you're|going through the formalities, I'd like to|explain the rules of the race. When the|<br>|dollar board race begins, you'll be shown|your elapsed time and your best time. If your|elapsed time goes over 10 minutes, you will|<br>|be disqualified, so be careful. You've got to|get to the finish line before that happens.<bw_break>"
+  },
+  "125": {
+    "「もうスタートは　しているよ。|　一刻も早く　ゴールを目指すんだ！": "We've already started... We have to get to|the finish line as fast as we can!"
+  },
+  "126": {
+    "「また　来てくれ！": "Come again!"
+  },
+  "127": {
+    "「また　来てくれ！": "Come again!"
+  },
+  "128": {
+    "「エントリーするのかい？|<yesno><break>": "Are you entering?<yesno><break>"
+  },
+  "129": {
+    "「じゃあ　エントリーは取り消すよ。|　また　来てくれ！": "Okay, I'll take your entry... Come again!"
+  },
+  "130": {
+    "「エントリーを　やめるのかい？|<yesno><break>": "Are you going to stop entering?<yesno><break>"
+  },
+  "131": {
+    "「おっと今回のエントリーは　時間切れだ。|　手続きは　スタートの１分前までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, this entry was timed... You have until|one minute before the start... I'm sorry.|I'll have to take care of the next entry..."
+  },
+  "132": {
+    "「今は　アストルティアラリー開催中だね。|　この時期　ドルボードレースは|　お休みに　なるんだ。<br>|「すまないが　アストルティアラリーの|　期間が終わったら　また来てくれ。": "It's the Astorian Rally... This is the time|of year when the dollar board races are|cancelled. I'm sorry, but we'll be back after|<br>|the Astoltia rally..."
+  },
+  "133": {
+    "「おっと　トライアルのエントリーは終了だ。|　もう少しでグランプリが　はじまるから|　エントリー手続きは　その後に頼むよ。": "Oh, I didn't get my trial entry in. Well, the|Grand Prix is about to start, so we'll have|to wait until after that..."
+  },
+  "134": {
+    "「おっと今回のエントリーは　締め切りだ。|　レースの参加は　最大で９０人までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, whoa, whoa, whoa, whoa, whoa. The race|is limited to a maximum of 90 entrants... I'm|sorry. I'll have to take care of that next|<br>|time."
+  },
+  "135": {
+    "「よし！　エントリーの受付　完了だ。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでくれよ。": "Okay! Call for entries... The race will start|when the time is right, so stay on the yellow|line that you see..."
+  },
+  "136": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "137": {
+    "「おお　あんた　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったね！<br>|「じゃあ　これを持っていきな！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>だよ！！": "Oh, you got your best time under|<%nW_T_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then take this! Your reward for|<br>|beating <%nW_T_M_MINUTE> minutes|<%02nW_T_M_SECOND> seconds is <%sEV_HOUSYU>!"
+  },
+  "138": {
+    "「これで　ベストタイム報酬は全部　獲得したよ！|　まったく　あんたからは　すさまじいまでの|　レース屋スピリットを感じるよ！": "I've got all the best time rewards! You've|got a real racing spirit, you know that?"
+  },
+  "139": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "140": {
+    "「……って　あんた　どうぐかばんが|　いっぱいで　持てないみたいだ！|　荷物を整理して　また来てくれ！": "I... It looks like you've got too much in|your bag! Get your stuff together and come|back!"
+  },
+  "141": {
+    "「レース　お疲れさま。|　あんたに　渡す報酬があったはずさ。|　ええと……": "Race you... I had a reward to give you... I,|uh..."
+  },
+  "142": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "143": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "144": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "145": {
+    "「うん？　": "Hmm?"
+  },
+  "146": {
+    "「あら　惜しかったね……。|　ここまで　来れたのなら|　制限時間内のゴールは　もう少しだよ！<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Well, that was close... If you've made it|this far, you're close to finishing within|the time limit! Well, whatever it is, this|<br>|race is over! Now, back to the starting line?<yesno><break>"
+  },
+  "147": {
+    "「うん。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけておくれ。<br>|「ただし　あんたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してくれよ。": "Yeah. So... Then, if you want to go home,|talk to me again... But if you go somewhere|else, I'll disappear, so be careful..."
+  },
+  "148": {
+    "「ああ。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけてくれ。<br>|「ただし　あんたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してくれよ。": "Oh. Well... Then if you want to go home, talk|to me again... But if you go somewhere else,|I'll be gone, so be careful..."
+  },
+  "149": {
+    "「さて　スタート地点までもどるかい？|<yesno><break>": "Now, do you want to go back to the starting|point?<yesno><break>"
+  },
+  "150": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたのかな？<br>|「今回のレースで　あんたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位で　ここに到着したみたいだ。|　タイムと順位は　別物だけどね。<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|second out of <%nEV_LUA_NUM_1>... Time and|<br>|place are not the same thing... But whatever|the case, this race is over! Now, back to the|start, shall we?<yesno><break>"
+  },
+  "151": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "152": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "153": {
+    "「今は　準備中だ。": "I'm a quasi..."
+  },
+  "154": {
+    "「今は　トライアル期間中だから|　特に報酬は無いよ。|　次回のグランプリ開催を　待ってくれ。": "It's a trial period, so there's not much in|the way of rewards right now. We're waiting|for the next grand prix..."
+  },
+  "155": {
+    "「さて……": "Well"
+  },
+  "156": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができる。<br>|「だけど　残念ながら|　まだ　ゴールした人は　いないようだね。　　": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you'll be able to see their time|<br>|ranking... But unfortunately, no one's|finished yet."
+  },
+  "157": {
+    "「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよ。<br>|「いつでも　練習は大歓迎だから|　フレンドやチームの人と　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a time-limited race|organized by the racing group Turbo Axel.|This course starts here, near the exit of the|<br>|Chaldean Mountain Road... The Mogare camp on|the Mogarim road is the go... Now, we're in|the trial period, so there's no reward for|<br>|this, but we'll be recording your best|times... You're always welcome to practice,|so if you'd like to try it out with your|<br>|friends or your team...<bw_break>"
+  },
+  "158": {
+    "「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「わたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものだよ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよ。<br>|「いつでも　練習は大歓迎だから|　フレンドやチームの人と　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a time-limited race|organized by the racing group Turbo Axel. It|was created by our boss, Stellakat, as a|<br>|result of his pursuit of even greater speed|in the Astoltia Rally. This course starts|here, near the exit of the Chaldean Mountain|<br>|Road... The Mogare camp on the Mogarim road|is the go... Now, we're in the trial phase,|so there's no reward in store, but we'll be|<br>|recording your best times... You're always|welcome to practice, so if you'd like to try|it out with your friends or your team...<bw_break>"
+  },
+  "159": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　訪れる。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするわけさ。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どしどしエントリーしておくれ。|<bw_break>": "In the dollar board race, the start is timed|in five-minute intervals... At the start of|the race, everyone who's entered will start|<br>|at the same time. You can participate as many|times as you like, so feel free to enter as|many times as you like...<bw_break>"
+  },
+  "160": {
+    "「ドルボードレースが　始まると|　経過時間　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。<br>": "When the dollar board race begins, the|elapsed time, the best time you've ever|recorded will be displayed... If your elapsed|<br>|time goes over 10 minutes, you're|disqualified. You've got to get to the finish|line before that happens."
+  },
+  "161": {
+    "「道中には『ハザード』という障害物があって|　それに触れると　速度が遅くなるから|　当たらないような　コース取りが重要さ。|<bw_break>": "There are hazards along the way, and touching|them slows you down, so it's important to|stay on course so you don't get hit...<bw_break>"
+  },
+  "162": {
+    "「トライアル期間中も　グランプリとは別に|　あんたが出した　最速のタイムを|　ベストタイムとして　記録しておくよ。<br>|「ただし　トライアル期間中は|　報酬が無いから　あくまで|　練習用の記録と　考えてくれ。|<bw_break>": "During the trial period, in addition to the|Grand Prix, we'll record your fastest time as|your best time. But since you won't be paid|<br>|for your time during the trials, we'll|consider it a practice run...<bw_break>"
+  },
+  "163": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができる。<br>|「ランキングには　グランプリ用と|　トライアル用の　２種類があって|　それぞれ　別々に記録されるのさ。<br>|「今は　トライアル期間中だから|　確認できるのは　直近のグランプリと|　トライアルのランキングだよ。<br>|「新しいグランプリが　始まったら|　グランプリ用のランキングを|　新しくして　記録するよ。|<bw_break>": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you can see their time ranking. There|<br>|are two types of rankings, one for the Grand|Prix and one for the Trials, and they're|recorded separately. Right now it's a trial|<br>|period so you can only see the latest grand|prix and trial rankings. When a new grand|prix starts, the grand prix rankings will be|<br>|updated to record...<bw_break>"
+  },
+  "164": {
+    "「さあ　何について　聞きたいんだ？|<break>": "Come on, what do you want to talk about?<break>"
+  },
+  "165": {
+    "「他に　聞きたいことはあるか？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "166": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "167": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進むんだ。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツだね。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいよ。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charge booth on|the dollar board... If you have it, you'll|<br>|need to use it in the right way... to get the|best results. If you don't have the charge|boost, then you'll need to complete all of|<br>|Memme-san's requests in the mountain city of|Gathara.<bw_break>"
+  },
+  "168": {
+    "「もうひとつ　このコースには|　チャージブースト機能を　持っている人向けに|　『フルチャージ』という仕掛けがある。<br>|「チャージブーストの　エネルギーが|　貯まっていない時に　触れると|　即座に貯まりきる　仕掛けだ。<br>|「それと　ブースト中に触れた場合は|　そのブーストが　終わった時|　即座に　エネルギーが貯まりきる。<br>|「ただし　『フルチャージ』は|　エネルギーが　貯まりきっている時は|　なんの効果も発揮しない。<br>|「そんなわけで　できるだけ|　エネルギーが貯まっていない時に|　触れることが　うまく利用するコツだよ。": "There's one more thing... for those of you|who have the Charge Boost feature... it's|called \"Full Charge.\" If you touch the charge|<br>|boost when it's not fully charged, it'll|instantly charge up. And if you touch it|while it's boosting, when the boost is over,|<br>|the energy is instantly stored... However, a|full charge will have no effect if the energy|is already depleted. That's why the best time|<br>|to use it is when you have the least amount|of energy left in your system."
+  },
+  "169": {
+    "使用しません": "Not used"
+  },
+  "170": {
+    "使用しません": "Not used"
+  },
+  "171": {
+    "使用しません": "Not used"
+  },
+  "172": {
+    "「最後に　このコースのゴール地点についてだね。|　ここからスタートした後|　まずは　カルデア山道を目指すことになる。<br>|「カルデア山道からは　ガタラ原野への道前の|　チェックポイントを通って|　ガタラ原野を　目指しておくれ。<br>|「ガタラ原野からは　南に向かって|　モガリム街道を　目指すんだ。<br>|「そして　このコースのゴール地点は|　モガリム街道の　モガレキャンプだよ。<br>|「エントリー後は　地図に目的地がでるから|　参考にすると　いいよ。|　ぜひとも　ベストタイムを　狙っておくれ。": "And finally, the finish line of this|course... After starting here, we'll head up|the Chaldean Mountain Road... From the|<br>|Chaldean Mountain Road, we will pass through|the checkpoint before the road to the Gathara|Field... From Gatara Field, we will head|<br>|south to the Moghalim Road... And the goal|point of this course is Mogare Camp on|Moghalim Road... After you enter the course,|<br>|your destination will be shown on the map, so|if you refer to it... I'm sure you'll try to|get the best time..."
+  },
+  "173": {
+    "「今は　トライアル期間中だね！|　ここは　ドルボードレースの受付だ。|　何か　用はあるかい？|<break>": "Well, you're on trial now! This is the dollar|board race... Can I help you with anything?<break>"
+  },
+  "174": {
+    "使用しません": "Not used"
+  },
+  "175": {
+    "「よう！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だ。<br>|「ただ　今は休止中だから|　再開したら　また来てくれ。": "Hey! This is the place for the dollar board|race through Astoltia... But it's on hiatus|right now, so we'll be back when it's back|<br>|on."
+  },
+  "176": {
+    "「よう！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だ。<br>|「ただ　今は休止中だから|　再開したら　また来てくれ。": "Hey! This is the place for the dollar board|race through Astoltia... But it's on hiatus|right now, so we'll be back when it's back|<br>|on."
+  },
+  "177": {
+    "「それと　あんたには　これを渡しておく。": "And I want you to have this..."
+  },
+  "178": {
+    "「それがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしてくれ！<br>|「あと　エントリー中やレース中に|　こいつを使えば　レースを棄権できるから|　それも　覚えておくといい。<bw_break>": "If you have one of these, you can enter a|dollar board race any time you want, so get|out there and enter! And remember, if you use|<br>|it while you're entering or racing, you can|cancel the race...<bw_break>"
+  },
+  "179": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "180": {
+    "「ん。あんたからは　ほとばしるような|　レース屋スピリットを感じるな！<br>|「ああ失礼。|　ここは　ドルボードレースの受付だ。<br>|「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよ。<bw_break>": "Yeah. You've got that racing spirit flowing|out of you! Oh... This is the dolphin board|race... The Dollar Board Race is a time-|<br>|limited, heated race organized by the racing|group Turbo Axel... This course starts here,|near the exit of Chaldean Mountain Road...|<br>|The Mogare camp on the Mogarim road is the|go... We're in the trial period, so there's|no reward, but I'll be recording your best|<br>|times...<bw_break>"
+  },
+  "181": {
+    "「ん。あんたは……|　アストルティアラリーの経験者だね？|　レース屋のカンが　そう告げているよ。<br>|「ああ失礼。|　ここは　ドルボードレースの受付だ。<br>|「ドルボードレースとは　わたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースだ。<br>|「わたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものだよ。<br>|「このコースは　ここからスタートして|　カルデア山道の出口付近が　中間地点。|　モガリム街道のモガレキャンプが　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよ。<bw_break>": "Mmm. You're... You've done the Astoltia Rally|before, haven't you? That's what my racing|guy told me... Oh... This is the place for|<br>|dollar board racing... The Dollar Board Race|is a time-limited, heated race organized by|the racing group Turbo Axel. It was created|<br>|by our boss, Stellakat, as a result of his|pursuit of greater speed from the Astoltia|Rally. This course starts here, near the exit|<br>|of the Chaldean Mountain Road... The Mogare|camp on the Mogarim road is the go... Now,|we're in the trial phase, so there's no|<br>|reward for this, but I'll be recording the|best time...<bw_break>"
+  },
+  "182": {
+    "「よう！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だ。<br>|「すまないが　ドルボードレースは|　一人前で　なおかつ　ドルボードを持った|　冒険者だけしか　参加できないんだ。<br>|「条件を満たしてから　また来てくれ。": "Hey! We're here to race the dolphins through|Astoltia. I'm sorry, but only adventurers who|are full-grown and have a dolphin board can|<br>|participate in the dolphinboard race. We'll|come back when we've fulfilled the|requirements..."
+  },
+  "183": {
+    "「今は　トライアル期間中だ！|　他に何か　用はあるかい？|<break>": "It's a trial period! Is there anything else I|can do for you?<break>"
+  },
+  "184": {
+    "「今は　トライアル期間中だ！|　他に何か　用はあるかい？|<break>": "It's a trial period! Is there anything else I|can do for you?<break>"
+  },
+  "185": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "186": {
+    "「今　エントリー手続き中だ。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうよ。<br>|「ドルボードレースが　始まると|　経過時間と　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。|<bw_break>": "Now, the entry procedure... While you're|going through the formalities, I'd like to|explain the rules of the race. When the|<br>|dollar board race begins, you'll be shown|your elapsed time and your best time. If your|elapsed time goes over 10 minutes, you will|<br>|be disqualified, so be careful. You've got to|get to the finish line before that happens.<bw_break>"
+  },
+  "187": {
+    "「もうスタートは　しているよ。|　一刻も早く　ゴールを目指しなよ！": "We've already started... You need to get to|the finish line as fast as you can!"
+  },
+  "188": {
+    "「また　来ておくれ！": "Come again!"
+  },
+  "189": {
+    "「また　来ておくれ！": "Come again!"
+  },
+  "190": {
+    "「エントリーするのかい？|<yesno><break>": "Are you entering?<yesno><break>"
+  },
+  "191": {
+    "「じゃあ　エントリーは取り消すよ。|　また　来ておくれ！": "Okay, I'll take your entry... Come again!"
+  },
+  "192": {
+    "「エントリーを　やめるのかい？|<yesno><break>": "Are you going to stop entering?<yesno><break>"
+  },
+  "193": {
+    "「おっと今回のエントリーは　時間切れだ。|　手続きは　スタートの１分前までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, this entry was timed... You have until|one minute before the start... I'm sorry.|I'll have to take care of the next entry..."
+  },
+  "194": {
+    "「今は　アストルティアラリー開催中だね。|　この時期　ドルボードレースは|　お休みに　なるんだ。<br>|「すまないが　アストルティアラリーの|　期間が終わったら　また来ておくれ。": "It's the Astorian Rally... This is the time|of year when the dollar board races are|cancelled... I'm sorry, but you'll have to|<br>|come back after the Astral rally..."
+  },
+  "195": {
+    "「おっと　グランプリのエントリーは終了だよ。|　もう少しでトライアル期間が　はじまるから|　エントリー手続きは　その後に頼むよ。": "Oops. Grand Prix entry is over. The trial|period starts in a few hours, so you'll have|to wait until after that..."
+  },
+  "196": {
+    "「おっと今回のエントリーは　締め切りだ。|　レースの参加は　最大で９０人までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, whoa, whoa, whoa, whoa, whoa. The race|is limited to a maximum of 90 entrants... I'm|sorry. I'll have to take care of that next|<br>|time."
+  },
+  "197": {
+    "「よし！　エントリーの受付　完了したよ。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでくれよ。": "Okay! Entries are now open... The race will|start when the time is right, so don't leave|the yellow line that you see..."
+  },
+  "198": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "199": {
+    "「おお　あんた　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったね！<br>|「じゃあ　これを持っていきな！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>だよ！！": "Oh, you got your best time under|<%nW_T_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then take this! Your reward for|<br>|beating <%nW_T_M_MINUTE> minutes|<%02nW_T_M_SECOND> seconds is <%sEV_HOUSYU>!"
+  },
+  "200": {
+    "「これで　ベストタイム報酬は全部　獲得したよ！|　まったく　あんたからは　すさまじいまでの|　レース屋スピリットを感じるよ！": "I've got all the best time rewards! You've|got a real racing spirit, you know that?"
+  },
+  "201": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "202": {
+    "「……って　あんた　どうぐかばんが|　いっぱいで　持てないみたいだよ！|　荷物を整理して　また来ておくれ！": "I... It looks like you've got too much in|your bag! Get your stuff together and come|back!"
+  },
+  "203": {
+    "「レース　お疲れさま。|　あんたに　渡す報酬があったはずさ。|　ええと……": "Race you... I had a reward to give you... I,|uh..."
+  },
+  "204": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "205": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "206": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "207": {
+    "「うん？　": "Hmm?"
+  },
+  "208": {
+    "「あらら　惜しかったね……。|　ここまで　来れたのなら|　制限時間内のゴールは　もう少しだよ！<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Well, that was a close one... If you've made|it this far, you're close to finishing within|the time limit! Well, whatever it is, this|<br>|race is over! Now, back to the starting line?<yesno><break>"
+  },
+  "209": {
+    "「うん。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけておくれ。<br>|「ただし　あんたが　別の場所に行ったら|　あたしは　いなくなるから|　注意しておいておくれ。": "Yeah. So... Then, if you want to go home,|talk to me again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "210": {
+    "「うん。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけておくれ。<br>|「ただし　あんたが　別の場所に行ったら|　あたしは　いなくなるから|　注意しておいておくれ。": "Yeah. So... Then, if you want to go home,|talk to me again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "211": {
+    "「さて　スタート地点までもどるかい？|<yesno><break>": "Now, do you want to go back to the starting|point?<yesno><break>"
+  },
+  "212": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたのかな？<br>|「今回のレースで　あんたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位で　ここに到着したみたいだ。|　タイムと順位は　別物だけどね。<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|second out of <%nEV_LUA_NUM_1>... Time and|<br>|place are not the same thing... But whatever|the case, this race is over! Now, back to the|start, shall we?<yesno><break>"
+  },
+  "213": {
+    "「あたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー。": "I'll be gone now until the next race|starts... So..."
+  },
+  "214": {
+    "「あたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー。": "I'll be gone now until the next race|starts... So..."
+  },
+  "215": {
+    "「今は　準備中だよ。": "I'm ready..."
+  },
+  "216": {
+    "「ゴール時に　規定のタイムを切っていれば|　ごらんの通りの　報酬を進呈するよ！": "If you're still under the time limit at the|finish line, you'll be rewarded as you see|fit!"
+  },
+  "217": {
+    "「ベストタイムを出して　報酬をゲットだよ！": "Get the best time and you'll get the reward!"
+  },
+  "218": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるよ。<br>|「だけど　残念ながら|　まだ　ゴールした人は　いないようだね。　　": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you'll be able to see their time|<br>|ranking... But unfortunately, no one has|finished yet..."
+  },
+  "219": {
+    "「ドルボードレースとは　あたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースさ。<br>|「このコースは　ここからスタートして|　ゲルト海峡の橋上の宿付近が　中間地点。|　ザマ峠にあるザマ烽火台が　ゴールだよ。<br>|「今は　グランプリ開催期間中だから|　いい成績を　残せれば|　すてきな報酬を　進呈しよう。<br>|「グランプリが　開催されていない時は|　いつでも練習できる　トライアル期間だから|　フレンドやチームの人と　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a timed race|organized by us, the racing group Turbo Axel.|The course starts here and ends at the inn on|<br>|the Ghent Strait... The Zama Beacon on the|Zama Pass is the go... We're in the middle of|a Grand Prix, so if you do well, you'll be|<br>|rewarded with... And when the Grand Prix|isn't in session, you can always practice|with your friends and teammates during the|<br>|trial period.<bw_break>"
+  },
+  "220": {
+    "「ドルボードレースとは　あたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースさ。<br>|「あたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのさ。<br>|「このコースは　ここからスタートして|　ゲルト海峡の橋上の宿付近が　中間地点。|　ザマ峠にあるザマ烽火台が　ゴールだよ。<br>|「今は　グランプリ開催期間中だから|　いい成績を　残せれば|　すてきな報酬を　進呈しよう。<br>|「グランプリが　開催されていない時は|　いつでも練習できる　トライアル期間だから|　フレンドやチームの人と　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a timed race|organized by us, the racing group Turbo Axel.|Our boss, Mr. Stellakat, created this race as|<br>|a result of his pursuit of greater speed from|the Astoltia Rally... This course starts here|and ends near the inn on the Gelt Strait|<br>|bridge... The Zama Beacon on the Zama Pass is|the go... We're in the middle of a Grand|Prix, so if you do well, you'll be rewarded|<br>|with... And when the Grand Prix isn't in|session, you can always practice with your|friends and teammates during the trial|<br>|period.<bw_break>"
+  },
+  "221": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　訪れる。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするわけさ。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どしどしエントリーしておくれ。|<bw_break>": "In the dollar board race, the start is timed|in five-minute intervals... At the start of|the race, everyone who's entered will start|<br>|at the same time. You can participate as many|times as you like, so feel free to enter as|many times as you like...<bw_break>"
+  },
+  "222": {
+    "「ドルボードレースが　始まると|　経過時間と　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。<br>": "When the dollar board race begins, you'll be|shown your elapsed time and your best time.|If your elapsed time goes over 10 minutes,|<br>|you're disqualified. You've got to get to the|finish line before that happens."
+  },
+  "223": {
+    "「道中には『ハザード』という障害物があって|　それに触れると　速度が遅くなるから|　当たらないような　コース取りが重要さ。|<bw_break>": "There are hazards along the way, and touching|them slows you down, so it's important to|stay on course so you don't get hit...<bw_break>"
+  },
+  "224": {
+    "「グランプリ開催中に　あんたが出した|　最速のタイムは　ベストタイムとして|　あたしが　記録しておくよ。<br>|「ベストタイムが　規定のタイムを切ったとき|　それに応じた報酬を　進呈するよ。<br>|「どんな報酬があるか　知りたければ|　『報酬を見る』を　選んでおくれ。|<bw_break>": "I will record your fastest time during the|Grand Prix as your best time. And if your|best time falls below that time, you will be|<br>|rewarded accordingly. If you'd like to see|what rewards are available, just select \"View|Rewards\"...<bw_break>"
+  },
+  "225": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるよ。<br>|「ランキングには　グランプリ用と|　トライアル用の２種類が　あって|　それぞれ　別々に記録されるのさ。<br>|「今は　グランプリ開催中だから|　確認できるのは　グランプリのランキングだよ。<br>|「グランプリが　終わった後は|　トライアル期間になって|　トライアル用のランキングを記録するよ。|<bw_break>": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you can see their time ranking. There|<br>|are two types of rankings, one for the Grand|Prix and one for the Trials, and they're|recorded separately. Now the Grand Prix is in|<br>|progress, so you can only see the Grand Prix|rankings... After the Grand Prix is over,|it's time for the Trials, and the Trials|<br>|rankings are recorded...<bw_break>"
+  },
+  "226": {
+    "「さあ　何について　聞きたいんだい？|<break>": "Come on, what do you want to talk about?<break>"
+  },
+  "227": {
+    "「他に　聞きたいことはあるかい？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "228": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "229": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進むんだ。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツだね。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいよ。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charge booth on|the dollar board... If you have it, you'll|<br>|need to use it in the right way... to get the|best results. If you don't have the charge|boost, then you'll need to complete all of|<br>|Memme-san's requests in the mountain city of|Gathara.<bw_break>"
+  },
+  "230": {
+    "使用しません": "Not used"
+  },
+  "231": {
+    "使用しません": "Not used"
+  },
+  "232": {
+    "使用しません": "Not used"
+  },
+  "233": {
+    "使用しません": "Not used"
+  },
+  "234": {
+    "「最後に　このコースのゴール地点についてだ。|　ここからスタートした後|　まずは　ゲルト海峡を目指すことになる。<br>|「ゲルト海峡からは　橋上の宿の|　チェックポイントを通って|　ランドンフットを目指しておくれ。<br>|「ランドンフットからは　西に向かって|　ザマ峠を　目指すんだ。<br>|「そして　このコースのゴール地点は|　ザマ峠の　ザマ烽火台だ。<br>|「エントリー後は　地図に目的地がでるから|　参考にすると　いいよ。|　ぜひとも　ベストタイムを　狙っておくれ。": "And finally, the finish line of this|course... After starting here, we'll head to|the Gelt Strait... From the Gelt Strait,|<br>|we'll go through the checkpoint at the inn on|the bridge... to Landon Foot... From Landon's|Foot, we'll head west to Zama Pass... And the|<br>|finish line of this course is at Zama Pass,|Zama Beacon... Once you've entered the|course, you'll see your destination on the|<br>|map, and you can refer to it... I'm sure|you'll try to get the best time..."
+  },
+  "235": {
+    "「今は　グランプリ開催中さ！|　ここは　ドルボードレースの受付だよ。|　何か　用はあるかい？|<break>": "We're in the middle of the Grand Prix! This|is the receiving end of the dollar board|race... What can I do for you?<break>"
+  },
+  "236": {
+    "「やあ！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付さ。<br>|「ただ　今は準備中だから|　準備がととのったら　また来ておくれ。|　そのときは　手紙でもおくるからさ。": "Hello! We're here for the dollar board race|through Astoltia... But we're just getting|ready, so come back when you're ready... And|<br>|I'll send you a letter..."
+  },
+  "237": {
+    "「やあ！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付さ。<br>|「ただ　今は休止中だから|　再開したら　また来ておくれ。": "Hello! This is the place for the dollar board|race through Astoltia... But it's on hiatus,|so come back when it's back on..."
+  },
+  "238": {
+    "「やあ！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付さ。<br>|「ただ　今は休止中だから|　再開したら　また来ておくれ。": "Hello! This is the place for the dollar board|race through Astoltia... But it's on hiatus,|so come back when it's back on..."
+  },
+  "239": {
+    "「それと　あんたには　これを渡しておくよ。": "And I want you to have this..."
+  },
+  "240": {
+    "「こいつがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしておくれ！<br>|「あと　エントリー中やレース中に|　こいつを使えば　レースを棄権できるから|　それも　覚えておくといいよ。<bw_break>": "If you have one of these, you can enter a|dollar board race any time you want, so get|out there and enter! Also, if you use this|<br>|while you're entering or racing, you can|cancel your race, so keep that in mind too...<bw_break>"
+  },
+  "241": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "242": {
+    "「お。あんたからは　ほとばしるような|　レース屋スピリットを感じるねぇ！<br>|「おっと失礼。|　ここは　ドルボードレースの受付だよ。<br>|「ドルボードレースとは　あたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースさ。<br>|「このコースは　ここからスタートして|　ゲルト海峡の橋上の宿付近が　中間地点。|　ザマ峠にあるザマ烽火台が　ゴールだよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　進呈するよ。<bw_break>": "Oh. I can feel your racing spirit radiating|from you! Whoa... This is the receiving end|of the Dollar Board Race... The Dollar Board|<br>|Race is a time-limited, heated race organized|by the racing group Turbo Axel... The course|starts here, and ends near the inn on the|<br>|Ghent Strait bridge... The Zama Beacon on the|Zama Pass is the go... We're in the middle of|the Grand Prix, so if you do well, we'll give|<br>|you a nice reward...<bw_break>"
+  },
+  "243": {
+    "「おや。あんたは……|　アストルティアラリーの経験者だね？|　レース屋のカンが　そう告げているよ。<br>|「おっと失礼。|　ここは　ドルボードレースの受付だよ。<br>|「ドルボードレースとは　あたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースさ。<br>|「あたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのさ。<br>|「このコースは　ここからスタートして|　ゲルト海峡の橋上の宿付近が　中間地点。|　ザマ峠にあるザマ烽火台が　ゴールだよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　進呈するよ。<bw_break>": "Oh. You're... You've been to the Astoltia|rally, haven't you? That's what my racing|buddy Kang told me... Oh... This is a place|<br>|for dollar board racing... The Dollar Board|Race is a time-limited, heated race organized|by us, the racing group Turbo Axel. It was|<br>|created by our boss, Stellakat, in pursuit of|greater speed from the Astoltia Rally... This|course starts here and ends near the inn on|<br>|the Gelt Strait bridge... The Zama Beacon on|the Zama Pass is the go... Now, we're in the|middle of the Grand Prix, so if you do well,|<br>|we'll give you a nice reward...<bw_break>"
+  },
+  "244": {
+    "「やあ！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付さ。<br>|「すまないが　ドルボードレースは|　一人前で　なおかつ　ドルボードを持った|　冒険者だけしか　参加できないんだ。<br>|「条件を満たしてから　また来ておくれ。": "Hello! You're in the middle of a dollar board|race through Astoltia. I'm sorry, but only|adventurers who are full-grown and have a|<br>|dolphin board can participate in the|dolphinboard race. Come back when you've|fulfilled the requirements..."
+  },
+  "245": {
+    "「今は　グランプリ開催中さ！|　他に何か　用はあるかい？|<break>": "There's a Grand Prix going on right now! Is|there anything else I can do for you?<break>"
+  },
+  "246": {
+    "「今は　グランプリ開催中さ！|　他に何か　用はあるかい？|<break>": "There's a Grand Prix going on right now! Is|there anything else I can do for you?<break>"
+  },
+  "247": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "248": {
+    "「今　エントリー手続き中だよ。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうよ。<br>|「ドルボードレースが　始まると|　経過時間と　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。|<bw_break>": "Now that the entry process is complete...|While you're going through the formalities,|I'd like to explain the rules of the race.|<br>|When the dollar board race begins, you'll be|shown your elapsed time and your best time.|If your elapsed time goes over 10 minutes,|<br>|you will be disqualified, so be careful.|You've got to get to the finish line before|that happens.<bw_break>"
+  },
+  "249": {
+    "「もうスタートは　しているよ。|　一刻も早く　ゴールを目指しなよ！": "We've already started... You need to get to|the finish line as fast as you can!"
+  },
+  "250": {
+    "「また　来ておくれ！": "Come again!"
+  },
+  "251": {
+    "「また　来ておくれ！": "Come again!"
+  },
+  "252": {
+    "「エントリーするのかい？|<yesno><break>": "Are you entering?<yesno><break>"
+  },
+  "253": {
+    "「じゃあ　エントリーは取り消すよ。|　また　来ておくれ！": "Okay, I'll take your entry... Come again!"
+  },
+  "254": {
+    "「エントリーを　やめるのかい？|<yesno><break>": "Are you going to stop entering?<yesno><break>"
+  },
+  "255": {
+    "「おっと今回のエントリーは　時間切れだ。|　手続きは　スタートの１分前までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, this entry was timed... You have until|one minute before the start... I'm sorry.|I'll have to take care of the next entry..."
+  },
+  "256": {
+    "「今は　アストルティアラリー開催中だね。|　この時期　ドルボードレースは|　お休みに　なるんだ。<br>|「すまないが　アストルティアラリーの|　期間が終わったら　また来ておくれ。": "It's the Astorian Rally... This is the time|of year when the dollar board races are|cancelled... I'm sorry, but you'll have to|<br>|come back after the Astral rally..."
+  },
+  "257": {
+    "「おっと　トライアルのエントリーは終了だよ。|　もう少しでグランプリが　はじまるから|　エントリー手続きは　その後に頼むよ。": "Oh, the trials are over. The Grand Prix will|be starting in a few weeks, so we'll have to|wait until after that..."
+  },
+  "258": {
+    "「おっと今回のエントリーは　締め切りだ。|　レースの参加は　最大で９０人までなんだ。|　すまないが　次回のエントリー手続きを頼むよ。": "Whoa, whoa, whoa, whoa, whoa, whoa. The race|is limited to a maximum of 90 entrants... I'm|sorry. I'll have to take care of that next|<br>|time."
+  },
+  "259": {
+    "「よし！　エントリーの受付　完了したよ。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでくれよ。": "Okay! Entries are now open... The race will|start when the time is right, so don't leave|the yellow line that you see..."
+  },
+  "260": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "261": {
+    "「おお　あんた　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったね！<br>|「じゃあ　これを持っていきな！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>だよ！！": "Oh, you got your best time under|<%nW_T_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then take this! Your reward for|<br>|beating <%nW_T_M_MINUTE> minutes|<%02nW_T_M_SECOND> seconds is <%sEV_HOUSYU>!"
+  },
+  "262": {
+    "「これで　ベストタイム報酬は全部　獲得したよ！|　まったく　あんたからは　すさまじいまでの|　レース屋スピリットを感じるよ！": "I've got all the best time rewards! You've|got a real racing spirit, you know that?"
+  },
+  "263": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "264": {
+    "「……って　あんた　どうぐかばんが|　いっぱいで　持てないみたいだよ！|　荷物を整理して　また来ておくれ！": "I... It looks like you've got too much in|your bag! Get your stuff together and come|back!"
+  },
+  "265": {
+    "「レース　お疲れさま。|　あんたに　渡す報酬があったはずさ。|　ええと……": "Race you... I had a reward to give you... I,|uh..."
+  },
+  "266": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "267": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "268": {
+    "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
+  },
+  "269": {
+    "「うん？　": "Hmm?"
+  },
+  "270": {
+    "「あらら　惜しかったね……。|　ここまで　来れたのなら|　制限時間内のゴールは　もう少しだよ！<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Well, that was a close one... If you've made|it this far, you're close to finishing within|the time limit! Well, whatever it is, this|<br>|race is over! Now, back to the starting line?<yesno><break>"
+  },
+  "271": {
+    "「うん。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけておくれ。<br>|「ただし　あんたが　別の場所に行ったら|　あたしは　いなくなるから|　注意しておいておくれ。": "Yeah. So... Then, if you want to go home,|talk to me again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "272": {
+    "「うん。そうかい。|　じゃあ　帰りたくなったら|　また　話しかけておくれ。<br>|「ただし　あんたが　別の場所に行ったら|　あたしは　いなくなるから|　注意しておいておくれ。": "Yeah. So... Then, if you want to go home,|talk to me again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "273": {
+    "「さて　スタート地点までもどるかい？|<yesno><break>": "Now, do you want to go back to the starting|point?<yesno><break>"
+  },
+  "274": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたのかな？<br>|「今回のレースで　あんたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位で　ここに到着したみたいだ。|　タイムと順位は　別物だけどね。<br>|「なんにしても　今回のレースは　終了だ！|　さて　スタート地点までもどるかい？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|second out of <%nEV_LUA_NUM_1>... Time and|<br>|place are not the same thing... But whatever|the case, this race is over! Now, back to the|start, shall we?<yesno><break>"
+  },
+  "275": {
+    "「あたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー。": "I'll be gone now until the next race|starts... So..."
+  },
+  "276": {
+    "「あたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー。": "I'll be gone now until the next race|starts... So..."
+  },
+  "277": {
+    "「今は　準備中だよ。": "I'm ready..."
+  },
+  "278": {
+    "「今は　トライアル期間中だから|　特に報酬は無いよ。|　次回のグランプリ開催を　待っておくれ。": "It's a trial period, so we're not offering|any rewards right now. We'll have to wait|until the next Grand Prix..."
+  },
+  "279": {
+    "「さて……": "Well"
+  },
+  "280": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるよ。<br>|「だけど　残念ながら|　まだ　ゴールした人は　いないようだね。　　": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you'll be able to see their time|<br>|ranking... But unfortunately, no one has|finished yet..."
+  },
+  "281": {
+    "「ドルボードレースとは　あたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースさ。<br>|「このコースは　ここからスタートして|　ゲルト海峡の橋上の宿付近が　中間地点。|　ザマ峠にあるザマ烽火台が　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよ。<br>|「いつでも　練習は大歓迎だから|　フレンドやチームの人と　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a timed race|organized by us, the racing group Turbo Axel.|The course starts here and ends at the inn on|<br>|the Ghent Strait... The Zama Beacon on the|Zama Pass is the go... Now, we're in the|trial period, so we're not offering any|<br>|rewards, but we'll be recording your best|times... You're always welcome to practice|with us, so if you'd like to try it out with|<br>|your friends or your team...<bw_break>"
+  },
+  "282": {
+    "「ドルボードレースとは　あたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースさ。<br>|「あたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのさ。<br>|「このコースは　ここからスタートして|　ゲルト海峡の橋上の宿付近が　中間地点。|　ザマ峠にあるザマ烽火台が　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよ。<br>|「いつでも　練習は大歓迎だから|　フレンドやチームの人と　やってみるといいよ。|<bw_break>": "The Dollar Board Race is a timed race|organized by us, the racing group Turbo Axel.|Our boss, Mr. Stellakat, created this race as|<br>|a result of his pursuit of greater speed from|the Astoltia Rally... This course starts here|and ends near the inn on the Gelt Strait|<br>|bridge... The Zama beacon on the Zama Pass is|the go... Now, we're in the trial period, so|there's no reward for this, but we'll be|<br>|recording your best times... You're always|welcome to practice with us, so if you'd like|to try it out with your friends or your|<br>|team...<bw_break>"
+  },
+  "283": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　訪れる。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするわけさ。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どしどしエントリーしておくれ。|<bw_break>": "In the dollar board race, the start is timed|in five-minute intervals... At the start of|the race, everyone who's entered will start|<br>|at the same time. You can participate as many|times as you like, so feel free to enter as|many times as you like...<bw_break>"
+  },
+  "284": {
+    "「ドルボードレースが　始まると|　経過時間　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。<br>": "When the dollar board race begins, the|elapsed time, the best time you've ever|recorded will be displayed... If your elapsed|<br>|time goes over 10 minutes, you're|disqualified. You've got to get to the finish|line before that happens."
+  },
+  "285": {
+    "「道中には『ハザード』という障害物があって|　それに触れると　速度が遅くなるから|　当たらないような　コース取りが重要さ。|<bw_break>": "There are hazards along the way, and touching|them slows you down, so it's important to|stay on course so you don't get hit...<bw_break>"
+  },
+  "286": {
+    "「トライアル期間中も　グランプリとは別に|　あんたが出した　最速のタイムを|　ベストタイムとして　記録しておくよ。<br>|「ただし　トライアル期間中は|　報酬が無いから　あくまで|　練習用の記録と　考えておくれ。|<bw_break>": "During the trial period, in addition to the|Grand Prix, we'll record your fastest time as|your best time. But since you won't be paid|<br>|for your time during the trials, it's just|for practice.<bw_break>"
+  },
+  "287": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるよ。<br>|「ランキングには　グランプリ用と|　トライアル用の　２種類があって|　それぞれ　別々に記録されるのさ。<br>|「今は　トライアル期間中だから|　確認できるのは　直近のグランプリと|　トライアルのランキングだよ。<br>|「新しいグランプリが　始まったら|　グランプリ用のランキングを|　新しくして　記録するよ。|<bw_break>": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you can see their time ranking. There|<br>|are two types of rankings, one for the Grand|Prix and one for the Trials, and they're|recorded separately. Right now we're in the|<br>|trial period so you can only see the most|recent grand prix and trial rankings. When a|new grand prix starts, the grand prix|<br>|rankings will be updated to record...<bw_break>"
+  },
+  "288": {
+    "「さあ　何について　聞きたいんだい？|<break>": "Come on, what do you want to talk about?<break>"
+  },
+  "289": {
+    "「他に　聞きたいことはあるかい？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "290": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "291": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進むんだ。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツだね。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいよ。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charge booth on|the dollar board... If you have it, you'll|<br>|need to use it in the right way... to get the|best results. If you don't have the charge|boost, then you'll need to complete all of|<br>|Memme-san's requests in the mountain city of|Gathara.<bw_break>"
+  },
+  "292": {
+    "使用しません": "Not used"
+  },
+  "293": {
+    "使用しません": "Not used"
+  },
+  "294": {
+    "使用しません": "Not used"
+  },
+  "295": {
+    "使用しません": "Not used"
+  },
+  "296": {
+    "「最後に　このコースのゴール地点についてだ。|　ここからスタートした後|　まずは　ゲルト海峡を目指すことになる。<br>|「ゲルト海峡からは　橋上の宿の|　チェックポイントを通って|　ランドンフットを目指しておくれ。<br>|「ランドンフットからは　西に向かって|　ザマ峠を　目指すんだ。<br>|「そして　このコースのゴール地点は|　ザマ峠の　ザマ烽火台だ。<br>|「エントリー後は　地図に目的地がでるから|　参考にすると　いいよ。|　ぜひとも　ベストタイムを　狙っておくれ。": "And finally, the finish line of this|course... After starting here, we'll head to|the Gelt Strait... From the Gelt Strait,|<br>|we'll go through the checkpoint at the inn on|the bridge... to Landon Foot... From Landon's|Foot, we'll head west to Zama Pass... And the|<br>|finish line of this course is at Zama Pass,|Zama Beacon... Once you've entered the|course, you'll see your destination on the|<br>|map, and you can refer to it... I'm sure|you'll try to get the best time..."
+  },
+  "297": {
+    "「今は　トライアル期間中さ！|　ここは　ドルボードレースの受付だよ。|　何か　用はあるかい？|<break>": "We're in a trial period! This is where the|dollar board races are held... Can I help you|with anything?<break>"
+  },
+  "298": {
+    "「やあ！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付さ。<br>|「ただ　今は準備中だから|　準備がととのったら　また来ておくれ。|　そのときは　手紙でもおくるからさ。": "Hello! We're here for the dollar board race|through Astoltia... But we're just getting|ready, so come back when you're ready... And|<br>|I'll send you a letter..."
+  },
+  "299": {
+    "「やあ！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付さ。<br>|「ただ　今は休止中だから|　再開したら　また来ておくれ。": "Hello! This is the place for the dollar board|race through Astoltia... But it's on hiatus,|so come back when it's back on..."
+  },
+  "300": {
+    "「やあ！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付さ。<br>|「ただ　今は休止中だから|　再開したら　また来ておくれ。": "Hello! This is the place for the dollar board|race through Astoltia... But it's on hiatus,|so come back when it's back on..."
+  },
+  "301": {
+    "「それと　あんたには　これを渡しておくよ。": "And I want you to have this..."
+  },
+  "302": {
+    "「こいつがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしておくれ！<br>|「あと　エントリー中やレース中に|　こいつを使えば　レースを棄権できるから|　それも　覚えておくといいよ。<bw_break>": "If you have one of these, you can enter a|dollar board race any time you want, so get|out there and enter! Also, if you use this|<br>|while you're entering or racing, you can|cancel your race, so keep that in mind too...<bw_break>"
+  },
+  "303": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "304": {
+    "「お。あんたからは　ほとばしるような|　レース屋スピリットを感じるねぇ！<br>|「おっと失礼。|　ここは　ドルボードレースの受付だよ。<br>|「ドルボードレースとは　あたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースさ。<br>|「このコースは　ここからスタートして|　ゲルト海峡の橋上の宿付近が　中間地点。|　ザマ峠にあるザマ烽火台が　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよ。<bw_break>": "Oh. I can feel your racing spirit radiating|from you! Whoa... This is the receiving end|of the Dollar Board Race... The Dollar Board|<br>|Race is a time-limited, heated race organized|by the racing group Turbo Axel... The course|starts here, and ends near the inn on the|<br>|Ghent Strait bridge... The Zama Beacon on the|Zama Pass is the go... Now, we're in a trial|period, so we're not offering any rewards,|<br>|but we will be recording the best times...<bw_break>"
+  },
+  "305": {
+    "「おや。あんたは……|　アストルティアラリーの経験者だね？|　レース屋のカンが　そう告げているよ。<br>|「おっと失礼。|　ここは　ドルボードレースの受付だよ。<br>|「ドルボードレースとは　あたしら|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースさ。<br>|「あたしらのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのさ。<br>|「このコースは　ここからスタートして|　ゲルト海峡の橋上の宿付近が　中間地点。|　ザマ峠にあるザマ烽火台が　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよ。<bw_break>": "Oh. You're... You've been to the Astoltia|rally, haven't you? That's what my racing|buddy Kang told me... Oh... This is a place|<br>|for dollar board racing... The Dollar Board|Race is a time-limited, heated race organized|by us, the racing group Turbo Axel. It was|<br>|created by our boss, Stellakat, in pursuit of|greater speed from the Astoltia Rally... This|course starts here and ends near the inn on|<br>|the Gelt Strait bridge... The Zama beacon on|the Zama Pass is the go... Now, we're in the|trial period, so we're not offering any|<br>|rewards, but we'll set a record for the best|time...<bw_break>"
+  },
+  "306": {
+    "「やあ！　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付さ。<br>|「すまないが　ドルボードレースは|　一人前で　なおかつ　ドルボードを持った|　冒険者だけしか　参加できないんだ。<br>|「条件を満たしてから　また来ておくれ。": "Hello! You're in the middle of a dollar board|race through Astoltia. I'm sorry, but only|adventurers who are full-grown and have a|<br>|dolphin board can participate in the|dolphinboard race. Come back when you've|fulfilled the requirements..."
+  },
+  "307": {
+    "「今は　トライアル期間中さ！|　他に何か　用はあるかい？|<break>": "It's a trial period! Is there anything else I|can do for you?<break>"
+  },
+  "308": {
+    "「今は　トライアル期間中さ！|　他に何か　用はあるかい？|<break>": "It's a trial period! Is there anything else I|can do for you?<break>"
+  },
+  "309": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "310": {
+    "「今　エントリー手続き中だよ。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうよ。<br>|「ドルボードレースが　始まると|　経過時間と　あんたの記録した|　ベストタイムが　常に表示される。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すんだ。|<bw_break>": "Now that the entry process is complete...|While you're going through the formalities,|I'd like to explain the rules of the race.|<br>|When the dollar board race begins, you'll be|shown your elapsed time and your best time.|If your elapsed time goes over 10 minutes,|<br>|you will be disqualified, so be careful.|You've got to get to the finish line before|that happens.<bw_break>"
+  },
+  "311": {
+    "使用しません": "Not used"
+  },
+  "312": {
+    "使用しません": "Not used"
+  },
+  "313": {
+    "使用しません": "Not used"
+  },
+  "314": {
+    "使用しません": "Not used"
+  },
+  "315": {
+    "<select_se_off>|直近のＧＰのランキング|トライアルのランキング|<select_end><break>": "<select_se_off>|Most recent GP rankings|Trial Ranking|<select_end><break>"
+  },
+  "316": {
+    "「どのランキングを　見るんだ？|<break>": "What rankings are you looking at?<break>"
+  },
+  "317": {
+    "使用しません": "Not used"
+  },
+  "318": {
+    "使用しません": "Not used"
+  },
+  "319": {
+    "<select_se_off>|直近のＧＰのランキング|トライアルのランキング|<select_end><break>": "<select_se_off>|Most recent GP rankings|Trial Ranking|<select_end><break>"
+  },
+  "320": {
+    "「どのランキングを　見るんだい？|<break>": "What rankings are you looking at?<break>"
+  },
+  "321": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよ。": "Right now, we're preparing for the Grand|Prix, so we can't look at the rankings..."
+  },
+  "322": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよ。": "Right now, we're preparing for the Grand|Prix, so we can't look at the rankings..."
+  },
+  "323": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよ。": "Right now, we're preparing for the Grand|Prix, so we can't look at the rankings..."
+  },
+  "324": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよ。": "Right now, we're preparing for the Grand|Prix, so we can't look at the rankings..."
+  },
+  "325": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよ。": "Right now, we're preparing for the Grand|Prix, so we can't look at the rankings..."
+  },
+  "326": {
+    "「今　あんたは　グランプリにエントリー中だよ。|　何か　用はあるかい？|<break>": "You are now entered in the Grand Prix of...|What can I do for you?<break>"
+  },
+  "327": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "328": {
+    "「今　あんたは　お試しにエントリー中だよ。|　何か　用はあるかい？|<break>": "Now, you're entered to try... What can I do|for you?<break>"
+  },
+  "329": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "330": {
+    "「今　あんたは　トライアルにエントリー中だよ。|　何か　用はあるかい？|<break>": "Now, you're entered into a trial... What can|I do for you?<break>"
+  },
+  "331": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "332": {
+    "「今　あんたは　グランプリにエントリー中だよ。|　何か　用はあるかい？|<break>": "You are now entered in the Grand Prix of...|What can I do for you?<break>"
+  },
+  "333": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "334": {
+    "「今　あんたは　トライアルにエントリー中だよ。|　何か　用はあるかい？|<break>": "Now, you're entered into a trial... What can|I do for you?<break>"
+  },
+  "335": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "336": {
+    "使用しません": "Not used"
+  },
+  "337": {
+    "使用しません": "Not used"
+  },
+  "338": {
+    "使用しません": "Not used"
+  },
+  "339": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だよー。<br>|「ごめんねー　ドルボードレースは|　一人前で　ドルボードを持った|　冒険者だけしか　参加できないんだー。<br>|「条件を満たしてから　また来てね。": "Hello! This is the registration desk for the|dolphinboard race through Astoltia... I'm|sorry, but only adventurers with a dolphin|<br>|board can participate in the dolphinboard|race. After you meet the requirements..."
+  },
+  "340": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だよー。<br>|「ごめんねー　ドルボードレースは|　一人前で　ドルボードを持った|　冒険者だけしか　参加できないんだー。<br>|「条件を満たしてから　また来てね。": "Hello! This is the registration desk for the|dolphinboard race through Astoltia... I'm|sorry, but only adventurers with a dolphin|<br>|board can participate in the dolphinboard|race. After you meet the requirements..."
+  },
+  "341": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だよー。<br>|「ごめんねー　ドルボードレースは|　一人前で　ドルボードを持った|　冒険者だけしか　参加できないんだー。<br>|「条件を満たしてから　また来てね。": "Hello! This is the registration desk for the|dolphinboard race through Astoltia... I'm|sorry, but only adventurers with a dolphin|<br>|board can participate in the dolphinboard|race. After you meet the requirements..."
+  },
+  "342": {
+    "「あれー。なんだか　ほとばしるような|　レース屋スピリットを感じるよー！<br>|「あー　ごめん　ごめん。|　ここは　ドルボードレースの受付だよー。<br>|「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないけれど|　ベストタイムのみ記録しているよー。<bw_break>": "... I'm feeling the spirit of the lace shop!|Oh, sorry... This is the registration desk|for the dollar board race... The Dollar Board|<br>|Race is an intense race with a time limit...|hosted by the racing group Turbo Axel. This|course starts from here, and the exit of|<br>|Megistris territory is in the middle... In|front of the glittering windmill tower on|Windmill Hill is the go... We're in a trial|<br>|period, so there are no rankings or rewards,|but we're only keeping track of your best|times...<bw_break>"
+  },
+  "343": {
+    "「あれー。なんだか　ほとばしるような|　レース屋スピリットを感じるよー！<br>|「あー　ごめん　ごめん。|　ここは　ドルボードレースの受付だよー。<br>|「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　あげちゃうよー。<bw_break>": "... I'm feeling the spirit of the lace shop!|Oh, sorry... This is the registration desk|for the dollar board race... The Dollar Board|<br>|Race is an intense race with a time limit...|hosted by the racing group Turbo Axel. This|course starts from here, and the exit of|<br>|Megistris territory is in the middle... In|front of the big glittering windmill tower on|Windmill Hill is the go... The Grand Prix is|<br>|now underway, so if you do well, you'll be|rewarded with...<bw_break>"
+  },
+  "344": {
+    "「あれー。なんだか　ほとばしるような|　レース屋スピリットを感じるよー！<br>|「あー　ごめん　ごめん。|　ここは　ドルボードレースの受付だよー。<br>|「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|　このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよー。<bw_break>": "... I'm feeling the spirit of the lace shop!|Oh, sorry... This is the registration desk|for the dollar board race... The Dollar Board|<br>|Race is an intense race with a time limit...|hosted by the racing group Turbo Axel. This|course starts from here, and the exit of|<br>|Megistris territory is in the middle... In|front of the big sparkling windmill tower on|Windmill Hill is the go... It's a trial|<br>|period, so there are no rewards, but I did|record my best time...<bw_break>"
+  },
+  "345": {
+    "「あれー。あなたは……|　アストルティアラリーの経験者だよね？|　レース屋のカンが　そう告げているよー。<br>|「あー　ごめん　ごめん。|　ここは　ドルボードレースの受付だよー。<br>|「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「わたしたちのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなんだよー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないけれど|　ベストタイムのみ記録しているよー。<bw_break>": "... You're... You've done the Astoltia rally|before, right? That's what my racing|instincts tell me... Oh, sorry... This is the|<br>|reception desk for the dolphin board race...|The Dollar Board Race is a timed race|organized by the racing group Turbo Axel...|<br>|Our boss, Mr. Stellakat, created this race as|a result of his pursuit of greater speed from|the Astoltia Rally. This course starts here|<br>|and ends near the exit of Megistris|territory... In front of the glittering|windmill tower on Windmill Hill is the go...|<br>|We're in a trial period, so there are no|rankings or rewards, but we're only keeping|track of your best times...<bw_break>"
+  },
+  "346": {
+    "「あれー。あなたは……|　アストルティアラリーの経験者だよね？|　レース屋のカンが　そう告げているよー。<br>|「あー　ごめん　ごめん。|　ここは　ドルボードレースの受付だよー。<br>|「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「わたしたちのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなんだよー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　あげちゃうよー。<bw_break>": "... You're... You've done the Astoltia rally|before, right? That's what my racing|instincts tell me... Oh, sorry... This is the|<br>|reception desk for the dolphin board race...|The Dollar Board Race is a timed race|organized by the racing group Turbo Axel...|<br>|Our boss, Mr. Stellakat, created this race as|a result of his pursuit of greater speed from|the Astoltia Rally. This course starts here|<br>|and ends near the exit of Megistris|territory... In front of the glittering|windmill tower on Windmill Hill is the go...|<br>|The Grand Prix is going on right now, so if|you do well, I'll give you a nice reward...<bw_break>"
+  },
+  "347": {
+    "「あれー。あなたは……|　アストルティアラリーの経験者だよね？|　レース屋のカンが　そう告げているよー。<br>|「あー　ごめん　ごめん。|　ここは　ドルボードレースの受付だよー。<br>|「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「わたしたちのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなんだよー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよー。<bw_break>": "... You're... You've done the Astoltia rally|before, right? That's what my racing|instincts tell me... Oh, sorry... This is the|<br>|reception desk for the dolphin board race...|The Dollar Board Race is a timed race|organized by the racing group Turbo Axel...|<br>|Our boss, Mr. Stellakat, created this race as|a result of his pursuit of greater speed from|the Astoltia Rally. This course starts here|<br>|and ends near the exit of Megistris|territory... In front of the glittering|windmill tower on Windmill Hill is the go...|<br>|We're in a trial period, so there are no|rewards, but I did record the best time...<bw_break>"
+  },
+  "348": {
+    "「それと　あなたには　これを渡しておくねー。": "And I'm giving you this..."
+  },
+  "349": {
+    "「それと　あなたには　これを渡しておくねー。": "And I'm giving you this..."
+  },
+  "350": {
+    "「それと　あなたには　これを渡しておくねー。": "And I'm giving you this..."
+  },
+  "351": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "352": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "353": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "354": {
+    "「それがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしてねー！<br>|「あと　エントリー中やレース中に使えば|　レースを　棄権できるから|　それも　覚えておいてねー。<bw_break>": "If you have it, you can enter the dollar|board race anytime you want, so keep|entering! Also, if you use it while you're|<br>|entering or racing, you can cancel the race,|so remember that too...<bw_break>"
+  },
+  "355": {
+    "「それがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしてねー！<br>|「あと　エントリー中やレース中に使えば|　レースを　棄権できるから|　それも　覚えておいてねー。<bw_break>": "If you have it, you can enter the dollar|board race anytime you want, so keep|entering! Also, if you use it while you're|<br>|entering or racing, you can cancel the race,|so remember that too...<bw_break>"
+  },
+  "356": {
+    "「それがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしてねー！<br>|「あと　エントリー中やレース中に使えば|　レースを　棄権できるから|　それも　覚えておいてねー。<bw_break>": "If you have it, you can enter the dollar|board race anytime you want, so keep|entering! Also, if you use it while you're|<br>|entering or racing, you can cancel the race,|so remember that too...<bw_break>"
+  },
+  "357": {
+    "「８月６日までは　お試し期間中だね！|　ここは　ドルボードレースの受付だよー。|　何か　用はあるー？|<break>": "Well, you're on a trial basis until August|6th! This is the registration desk for the|dollar board races... What can I do for you?<break>"
+  },
+  "358": {
+    "「今は　グランプリ開催中だね！|　ここは　ドルボードレースの受付だよー。|　何か　用はあるー？|<break>": "We're at the Grand Prix! This is the|registration desk for the dollar board|race... What can I do for you?<break>"
+  },
+  "359": {
+    "「今は　トライアル期間中だね！|　ここは　ドルボードレースの受付だよー。|　何か　用はあるー？|<break>": "Well, it's the trial period now! This is the|registration for the dollar board race...|What can I do for you?<break>"
+  },
+  "360": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だよー。<br>|「ただ　今は休止中だから|　再開したら　また来てねー。": "Hello! This is the registration desk for the|dollar board race through Astoltia... But|it's on hiatus right now, so I'll be back|<br>|when it's back on."
+  },
+  "361": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だよー。<br>|「ただ　今は休止中だから|　再開したら　また来てねー。": "Hello! This is the registration desk for the|dollar board race through Astoltia... But|it's on hiatus right now, so I'll be back|<br>|when it's back on."
+  },
+  "362": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だよー。<br>|「ただ　今は休止中だから|　再開したら　また来てねー。": "Hello! This is the registration desk for the|dollar board race through Astoltia... But|it's on hiatus right now, so I'll be back|<br>|when it's back on."
+  },
+  "363": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だよー。<br>|「ただ　今は休止中だから|　再開したら　また来てねー。": "Hello! This is the registration desk for the|dollar board race through Astoltia... But|it's on hiatus right now, so I'll be back|<br>|when it's back on."
+  },
+  "364": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だよー。<br>|「ただ　今は休止中だから|　再開したら　また来てねー。": "Hello! This is the registration desk for the|dollar board race through Astoltia... But|it's on hiatus right now, so I'll be back|<br>|when it's back on."
+  },
+  "365": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付だよー。<br>|「ただ　今は休止中だから|　再開したら　また来てねー。": "Hello! This is the registration desk for the|dollar board race through Astoltia... But|it's on hiatus right now, so I'll be back|<br>|when it's back on."
+  },
+  "366": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "367": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "368": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "369": {
+    "「８月６日までは　お試し期間中だね！|　他に何か　用はあるー？|<break>": "You're on a trial period until August 6th! Is|there anything else I can do for you?<break>"
+  },
+  "370": {
+    "「今は　グランプリ開催中だね！|　他に何か　用はあるー？|<break>": "The Grand Prix is going on right now! Is|there anything else I can do for you?<break>"
+  },
+  "371": {
+    "「今は　トライアル期間中だね！|　他に何か　用はあるー？|<break>": "You're on a trial period. Is there anything|else I can do for you?<break>"
+  },
+  "372": {
+    "「８月６日までは　お試し期間中だね！|　他に何か　用はあるー？|<break>": "You're on a trial period until August 6th! Is|there anything else I can do for you?<break>"
+  },
+  "373": {
+    "「今は　グランプリ開催中だね！|　他に何か　用はあるー？|<break>": "The Grand Prix is going on right now! Is|there anything else I can do for you?<break>"
+  },
+  "374": {
+    "「今は　トライアル期間中だね！|　他に何か　用はあるー？|<break>": "You're on a trial period. Is there anything|else I can do for you?<break>"
+  },
+  "375": {
+    "「エントリーするのー？|<yesno><break>": "Are you entering?<yesno><break>"
+  },
+  "376": {
+    "「エントリーするのー？|<yesno><break>": "Are you entering?<yesno><break>"
+  },
+  "377": {
+    "「エントリーするのー？|<yesno><break>": "Are you entering?<yesno><break>"
+  },
+  "378": {
+    "「うん！　エントリーの受付　終わったよー。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでね。": "Yeah! We're done taking entries... The race|will start when the time is right, so we need|to get out of the yellow line that you can|<br>|see right now..."
+  },
+  "379": {
+    "「うん！　エントリーの受付　終わったよー。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでね。": "Yeah! We're done taking entries... The race|will start when the time is right, so we need|to get out of the yellow line that you can|<br>|see right now..."
+  },
+  "380": {
+    "「うん！　エントリーの受付　終わったよー。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでね。": "Yeah! We're done taking entries... The race|will start when the time is right, so we need|to get out of the yellow line that you can|<br>|see right now..."
+  },
+  "381": {
+    "「あなたは　お試しにエントリー中だよ。|　何か　用はあるー？|<break>": "You can enter to try... What can I do for|you?<break>"
+  },
+  "382": {
+    "「あなたは　グランプリにエントリー中だよ。|　何か　用はあるー？|<break>": "You are entered in the Grand Prix... What can|I do for you?<break>"
+  },
+  "383": {
+    "「あなたは　トライアルにエントリー中だよ。|　何か　用はあるー？|<break>": "You're entering the trials... What can I do|for you?<break>"
+  },
+  "384": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "385": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "386": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "387": {
+    "「エントリーを　やめるのー？|<yesno><break>": "You're stopping me from entering?<yesno><break>"
+  },
+  "388": {
+    "「エントリーを　やめるのー？|<yesno><break>": "You're stopping me from entering?<yesno><break>"
+  },
+  "389": {
+    "「エントリーを　やめるのー？|<yesno><break>": "You're stopping me from entering?<yesno><break>"
+  },
+  "390": {
+    "「じゃあ　エントリーは取り消すね。|　また　来てねー！": "Okay, I'll take your entry... I'll see you|later!"
+  },
+  "391": {
+    "「じゃあ　エントリーは取り消すね。|　また　来てねー！": "Okay, I'll take your entry... I'll see you|later!"
+  },
+  "392": {
+    "「じゃあ　エントリーは取り消すね。|　また　来てねー！": "Okay, I'll take your entry... I'll see you|later!"
+  },
+  "393": {
+    "「あらら　今回のエントリーは　時間切れだね。|　手続きは　スタートの１分前までなんだー。|　ごめんね　次回のエントリーで手続きしてね。": "Oh, my gosh. This entry is timed... You have|until one minute before the start... I'm|sorry. I'll do it next time."
+  },
+  "394": {
+    "「あらら　今回のエントリーは　時間切れだね。|　手続きは　スタートの１分前までなんだー。|　ごめんね　次回のエントリーで手続きしてね。": "Oh, my gosh. This entry is timed... You have|until one minute before the start... I'm|sorry. I'll do it next time."
+  },
+  "395": {
+    "「あらら　今回のエントリーは　時間切れだね。|　手続きは　スタートの１分前までなんだー。|　ごめんね　次回のエントリーで手続きしてね。": "Oh, my gosh. This entry is timed... You have|until one minute before the start... I'm|sorry. I'll do it next time."
+  },
+  "396": {
+    "「今は　アストルティアラリー開催中だね。|　この時期　ドルボードレースは|　お休みに　なるんだー。<br>|「ごめんね　アストルティアラリーの|　期間が終わったら　また来てねー。": "We're in the middle of the Astral Tear|Rally... This time of year, the dollar board|races are closed... I'm sorry. I'll come back|<br>|when the Astoltia Rally is over..."
+  },
+  "397": {
+    "「今は　アストルティアラリー開催中だね。|　この時期　ドルボードレースは|　お休みに　なるんだー。<br>|「ごめんね　アストルティアラリーの|　期間が終わったら　また来てねー。": "We're in the middle of the Astral Tear|Rally... This time of year, the dollar board|races are closed... I'm sorry. I'll come back|<br>|when the Astoltia Rally is over..."
+  },
+  "398": {
+    "「今は　アストルティアラリー開催中だね。|　この時期　ドルボードレースは|　お休みに　なるんだー。<br>|「ごめんね　アストルティアラリーの|　期間が終わったら　また来てねー。": "We're in the middle of the Astral Tear|Rally... This time of year, the dollar board|races are closed... I'm sorry. I'll come back|<br>|when the Astoltia Rally is over..."
+  },
+  "399": {
+    "「あらら　お試しのエントリーは終了だね。|　もう少しでグランプリが　はじまるから|　エントリー手続きは　その後にお願いねー。": "Oh, no. The trial entry is over. The grand|prix will be starting in a few minutes, so|you'll have to wait until after that..."
+  },
+  "400": {
+    "「あらら　グランプリのエントリーは終了だね。|　もう少しでトライアル期間が　はじまるから|　エントリー手続きは　その後にお願いねー。": "Oh, no. The Grand Prix entry is closed. The|trial period is about to begin, so you'll|have to wait until after that to enter."
+  },
+  "401": {
+    "「あらら　トライアルのエントリーは終了だね。|　もう少しでグランプリが　はじまるから|　エントリー手続きは　その後にお願いねー。": "Oh, no. The trials are over. The Grand Prix|will be starting in a few weeks, so you'll|have to wait until after that to enter."
+  },
+  "402": {
+    "「あらら　今回のエントリーは　締め切りだね。|　レースの参加は　最大で９０人までなんだー。|　ごめんね　次回のエントリー手続きしてね。": "Oh, my gosh. We're closed for entries for|this... The race is limited to a maximum of|90 entrants... I'm sorry. We'll have to do it|<br>|again..."
+  },
+  "403": {
+    "「あらら　今回のエントリーは　締め切りだね。|　レースの参加は　最大で９０人までなんだー。|　ごめんね　次回のエントリー手続きしてね。": "Oh, my gosh. We're closed for entries for|this... The race is limited to a maximum of|90 entrants... I'm sorry. We'll have to do it|<br>|again..."
+  },
+  "404": {
+    "「あらら　今回のエントリーは　締め切りだね。|　レースの参加は　最大で９０人までなんだー。|　ごめんね　次回のエントリー手続きしてね。": "Oh, my gosh. We're closed for entries for|this... The race is limited to a maximum of|90 entrants... I'm sorry. We'll have to do it|<br>|again..."
+  },
+  "405": {
+    "「もうスタートしちゃってるよー。|　早く　ゴールを目指してね！": "We've already started... Come on, let's get|to the finish line!"
+  },
+  "406": {
+    "「もうスタートしちゃってるよー。|　早く　ゴールを目指してね！": "We've already started... Come on, let's get|to the finish line!"
+  },
+  "407": {
+    "「もうスタートしちゃってるよー。|　早く　ゴールを目指してね！": "We've already started... Come on, let's get|to the finish line!"
+  },
+  "408": {
+    "「今は　お試し期間中だから|　特に報酬は無いよー。|　次回のグランプリ開催を　待っててね。": "It's a trial period, so there are no|rewards... We're waiting for the next grand|prix..."
+  },
+  "409": {
+    "「ゴール時に　規定のタイムを切っていれば|　ごらんの通りの　報酬を進呈するよー！": "If you're still under the time limit at the|finish line, you'll be rewarded as you see|fit!"
+  },
+  "410": {
+    "「今は　トライアル期間中だから|　特に報酬は無いよー。|　次回のグランプリ開催を　待っててね。": "It's a trial period, so there are no|rewards... We're waiting for the next grand|prix..."
+  },
+  "411": {
+    "「さてー": "well"
+  },
+  "412": {
+    "「ベストタイムを出して　報酬をゲットだよー！": "Get the best time and you'll get the reward!"
+  },
+  "413": {
+    "「さてー": "well"
+  },
+  "414": {
+    "「今は　準備中だよー。": "Right now, I'm preparing..."
+  },
+  "415": {
+    "「今は　準備中だよー。": "Right now, I'm preparing..."
+  },
+  "416": {
+    "「今は　準備中だよー。": "Right now, I'm preparing..."
+  },
+  "417": {
+    "使用しません": "Not used"
+  },
+  "418": {
+    "使用しません": "Not used"
+  },
+  "419": {
+    "「どのランキングを　見るのー？|<break>": "What rankings are you looking at?<break>"
+  },
+  "420": {
+    "使用しません": "Not used"
+  },
+  "421": {
+    "使用しません": "Not used"
+  },
+  "422": {
+    "<select_se_off>|直近のＧＰのランキング|トライアルのランキング|<select_end><break>": "<select_se_off>|Most recent GP rankings|Trial Ranking|<select_end><break>"
+  },
+  "423": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよー。": "Right now, I'm preparing for the Grand Prix,|so I can't show you the rankings..."
+  },
+  "424": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるよー。<br>|「だけど　残念ながら|　まだ　ゴールした人は　いないねー。　　": "If one of your friends or a team member who's|on the same team as you has finished at least|once, you'll be able to see their time|<br>|ranking... But unfortunately, no one has|finished yet."
+  },
+  "425": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるよー。<br>|「だけど　残念ながら|　まだ　ゴールした人は　いないねー。　　": "If one of your friends or a team member who's|on the same team as you has finished at least|once, you'll be able to see their time|<br>|ranking... But unfortunately, no one has|finished yet."
+  },
+  "426": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよー。": "Right now, I'm preparing for the Grand Prix,|so I can't show you the rankings..."
+  },
+  "427": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよー。": "Right now, I'm preparing for the Grand Prix,|so I can't show you the rankings..."
+  },
+  "428": {
+    "「今は　グランプリの準備があって|　ランキングは　見れないよー。": "Right now, I'm preparing for the Grand Prix,|so I can't show you the rankings..."
+  },
+  "429": {
+    "「何について　聞きたいのー？|<break>": "What do you want to talk about?<break>"
+  },
+  "430": {
+    "「何について　聞きたいのー？|<break>": "What do you want to talk about?<break>"
+  },
+  "431": {
+    "「何について　聞きたいのー？|<break>": "What do you want to talk about?<break>"
+  },
+  "432": {
+    "「他に　聞きたいことはあるー？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "433": {
+    "「他に　聞きたいことはあるー？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "434": {
+    "「他に　聞きたいことはあるー？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "435": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "436": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "437": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "438": {
+    "「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないし　ベストタイムも|　グランプリ開始と共に消える　仮のものなんだ。<br>|「ただ　いつでも　練習は大歓迎だから|　グランプリ開催前に　やってみようー。|<bw_break>": "The Dollar Board Race is a timed, heated race|organized by the racing group Turbo Axel.|This course starts here, and near the exit of|<br>|Megistris territory... In front of the|glittering windmill tower on Windmill Hill is|the go... Now, this is a trial period, so|<br>|there are no rankings, no rewards, and your|best times will disappear when the Grand Prix|starts. But you're always welcome to practice|<br>|before the Grand Prix starts...<bw_break>"
+  },
+  "439": {
+    "「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　グランプリ開催期間中だから|　いい成績を　残せれば|　すてきな報酬を　あげちゃうよ。<br>|「グランプリが　開催されていない時は|　いつでも練習できる　トライアル期間だから|　フレンドやチームの人と　やってみようー。|<bw_break>": "The Dollar Board Race is a timed, heated race|organized by the racing group Turbo Axel.|This course starts here, and near the exit of|<br>|Megistris territory... In front of the big|glittering windmill tower on Windmill Hill is|the go... The Grand Prix is going on right|<br>|now, so if you do well, you'll be rewarded|with a nice prize... When the Grand Prix|isn't in session, you can practice any time|<br>|during the trial period with your friends or|your team.<bw_break>"
+  },
+  "440": {
+    "「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよー。<br>|「いつでも　練習は大歓迎だから|　フレンドやチームの人と　やってみようー。|<bw_break>": "The Dollar Board Race is a timed, heated race|organized by the racing group Turbo Axel.|This course starts here, and near the exit of|<br>|Megistris territory... In front of the big|sparkling windmill tower on Windmill Hill is|the go... We're in a trial period, so there's|<br>|no reward for this, but I've been recording|my best times... You're always welcome to|practice, so try it out with your friends or|<br>|your team...<bw_break>"
+  },
+  "441": {
+    "「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「わたしたちのリーダー　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなんだよー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないし　ベストタイムも|　グランプリ開始と共に消える　仮のものなんだ。<br>|「ただ　いつでも　練習は大歓迎だから|　グランプリ開催前に　やってみようー。|<bw_break>": "The Dollar Board Race is a timed race|organized by the racing group Turbo Axel...|Our leader, Mr. Stellakat, created this race|<br>|as a result of his pursuit of greater speed|in the Astoltia Rally... This course starts|here, and ends near the exit of Megistris|<br>|territory... In front of the glittering|windmill tower on Windmill Hill is the go...|We're in a trial period, so there are no|<br>|rankings, no rewards, and your best times are|temporary, and will disappear when the Grand|Prix starts. But you're always welcome to|<br>|practice before the Grand Prix starts...<bw_break>"
+  },
+  "442": {
+    "「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「わたしたちのリーダー　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなんだよー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　グランプリ開催期間中だから|　いい成績を　残せれば|　すてきな報酬を　あげちゃうよ。<br>|「グランプリが　開催されていない時は|　いつでも練習できる　トライアル期間だから|　フレンドやチームの人と　やってみようー。|<bw_break>": "The Dollar Board Race is a timed race|organized by the racing group Turbo Axel...|Our leader, Mr. Stellakat, created this race|<br>|as a result of his pursuit of greater speed|in the Astoltia Rally... This course starts|here, and ends near the exit of Megistris|<br>|territory... In front of the glittering|windmill tower on Windmill Hill is the go...|The Grand Prix is going on right now, so if|<br>|you do well, you'll be rewarded with a nice|prize... When the Grand Prix isn't in|session, you can practice any time during the|<br>|trial period with your friends or your team.<bw_break>"
+  },
+  "443": {
+    "「ドルボードレースっていうのは　わたしたち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースなんだー。<br>|「わたしたちのリーダー　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなんだよー。<br>|「このコースは　ここからスタートして|　メギストリス領の出口付近が　中間地点。|　風車の丘のキラキラ大風車塔前が　ゴールだよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているよー。<br>|「いつでも　練習は大歓迎だから|　フレンドやチームの人と　やってみようー。|<bw_break>": "The Dollar Board Race is a timed race|organized by the racing group Turbo Axel...|Our leader, Mr. Stellakat, created this race|<br>|as a result of his pursuit of greater speed|in the Astoltia Rally... This course starts|here, and ends near the exit of Megistris|<br>|territory... In front of the glittering|windmill tower on Windmill Hill is the go...|We're in a trial period, so there's no reward|<br>|for this, but I've been recording my best|times... You're always welcome to practice,|so try it out with your friends or your|<br>|team...<bw_break>"
+  },
+  "444": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　来るよー。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするんだよー。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どんどんエントリーしてねー。|<bw_break>": "In the dollar board race, the start time|comes every five minutes... When the time|comes, everyone who's entered the race starts|<br>|at the same time. You can participate as many|times as you like, so feel free to enter as|many times as you like...<bw_break>"
+  },
+  "445": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　来るよー。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするんだよー。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どんどんエントリーしてねー。|<bw_break>": "In the dollar board race, the start time|comes every five minutes... When the time|comes, everyone who's entered the race starts|<br>|at the same time. You can participate as many|times as you like, so feel free to enter as|many times as you like...<bw_break>"
+  },
+  "446": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　来るよー。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするんだよー。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どんどんエントリーしてねー。|<bw_break>": "In the dollar board race, the start time|comes every five minutes... When the time|comes, everyone who's entered the race starts|<br>|at the same time. You can participate as many|times as you like, so feel free to enter as|many times as you like...<bw_break>"
+  },
+  "447": {
+    "「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるんだー。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけてねー。|　そうなる前にゴールを　目指そうね。<br>": "When the dollar board race starts, the time|elapsed and the best time you've ever|recorded will always be displayed... If your|<br>|elapsed time exceeds 10 minutes, you'll be|disqualified, so be careful. You've got to|get to the finish line before that happens."
+  },
+  "448": {
+    "「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるんだー。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけてねー。|　そうなる前にゴールを　目指そうね。<br>": "When the dollar board race starts, the time|elapsed and the best time you've ever|recorded will always be displayed... If your|<br>|elapsed time exceeds 10 minutes, you'll be|disqualified, so be careful. You've got to|get to the finish line before that happens."
+  },
+  "449": {
+    "「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるんだー。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけてねー。|　そうなる前にゴールを　目指そうね。<br>": "When the dollar board race starts, the time|elapsed and the best time you've ever|recorded will always be displayed... If your|<br>|elapsed time exceeds 10 minutes, you'll be|disqualified, so be careful. You've got to|get to the finish line before that happens."
+  },
+  "450": {
+    "「普段　道中には『ハザード』という障害物が|　あるのだけど　今はお試し期間中だから|　グランプリが始まるまでは　おかないよー。|<bw_break>": "Normally, there are hazards along the way,|but since we're in a trial period, we can|wait until the Grand Prix starts...<bw_break>"
+  },
+  "451": {
+    "「道中には『ハザード』という障害物があって|　それに触れると　速度が遅くなるから|　当たらないような　コース取りが重要だよー。|<bw_break>": "There are hazards along the way, and touching|them slows you down, so it's important to|steer a course that doesn't...<bw_break>"
+  },
+  "452": {
+    "「道中には『ハザード』という障害物があって|　それに触れると　速度が遅くなるから|　当たらないような　コース取りが重要だよー。|<bw_break>": "There are hazards along the way, and touching|them slows you down, so it's important to|steer a course that doesn't...<bw_break>"
+  },
+  "453": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進もうねー。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツだよー。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいよー。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charge booth on|the dollar board... If you have it, the key|<br>|to getting good results is to use it|appropriately... If you don't have the charge|boost feature, then you'll have to do|<br>|everything Menme asks of you in the mountain|city of Gatara.<bw_break>"
+  },
+  "454": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進もうねー。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツだよー。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいよー。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charge booth on|the dollar board... If you have it, the key|<br>|to getting good results is to use it|appropriately... If you don't have the charge|boost feature, then you'll have to do|<br>|everything Menme asks of you in the mountain|city of Gatara.<bw_break>"
+  },
+  "455": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進もうねー。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツだよー。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいよー。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charge booth on|the dollar board... If you have it, the key|<br>|to getting good results is to use it|appropriately... If you don't have the charge|boost feature, then you'll have to do|<br>|everything Menme asks of you in the mountain|city of Gatara.<bw_break>"
+  },
+  "456": {
+    "使用しません": "Not used"
+  },
+  "457": {
+    "「もうひとつ　このコースには|　チャージブースト機能を　持っている人向けに|　『フルチャージ』という仕掛けがあるよー。<br>|「チャージブーストの　エネルギーが|　貯まっていない時に　触れると|　即座に貯まりきる　仕掛けだよー。<br>|「それと　ブースト中に触れた場合は|　そのブーストが　終わった時|　即座に　エネルギーが貯まりきるよー。<br>|「ただ　『フルチャージ』は|　エネルギーが　貯まりきっている時は|　なんの効果も発揮しないよー。<br>|「そんなわけで　できるだけ|　エネルギーが貯まっていない時に|　触れることが　うまく利用するコツだよー。": "There's one more thing on this course, for|those of you who have the charge boost|feature, it's called \"Full Charge.\" If you|<br>|touch the charge boost when it's not fully|charged, it'll instantly charge up. And if|you touch him while he's boosting, when the|<br>|boost is over, he'll instantly recharge. But|the Full Charge doesn't work if you're fully|charged. So the trick is to get the most out|<br>|of it by touching it when it's not fully|charged."
+  },
+  "458": {
+    "「もうひとつ　このコースには|　チャージブースト機能を　持っている人向けに|　『フルチャージ』という仕掛けがあるよー。<br>|「チャージブーストの　エネルギーが|　貯まっていない時に　触れると|　即座に貯まりきる　仕掛けだよー。<br>|「それと　ブースト中に触れた場合は|　そのブーストが　終わった時|　即座に　エネルギーが貯まりきるよー。<br>|「ただ　『フルチャージ』は|　エネルギーが　貯まりきっている時は|　なんの効果も発揮しないよー。<br>|「そんなわけで　できるだけ|　エネルギーが貯まっていない時に|　触れることが　うまく利用するコツだよー。": "There's one more thing on this course, for|those of you who have the charge boost|feature, it's called \"Full Charge.\" If you|<br>|touch the charge boost when it's not fully|charged, it'll instantly charge up. And if|you touch him while he's boosting, when the|<br>|boost is over, he'll instantly recharge. But|the Full Charge doesn't work if you're fully|charged. So the trick is to get the most out|<br>|of it by touching it when it's not fully|charged."
+  },
+  "459": {
+    "使用しません": "Not used"
+  },
+  "460": {
+    "使用しません": "Not used"
+  },
+  "461": {
+    "使用しません": "Not used"
+  },
+  "462": {
+    "使用しません": "Not used"
+  },
+  "463": {
+    "使用しません": "Not used"
+  },
+  "464": {
+    "使用しません": "Not used"
+  },
+  "465": {
+    "使用しません": "Not used"
+  },
+  "466": {
+    "使用しません": "Not used"
+  },
+  "467": {
+    "使用しません": "Not used"
+  },
+  "468": {
+    "「最後に　このコースについてだねー。|　ここからスタートした後|　まずは　メギストリス領を目指すんだー。<br>|「メギストリス領からは　風車の丘への道前の|　チェックポイントを通って|　風車の丘を　目指すよー。<br>|「そして　このコースのゴール地点は|　風車の丘の　キラキラ大風車塔前だよー。|「エントリー後は　地図に目的地が出るから|　参考にすると　いいよ。|　ぜひとも　ベストタイムを　狙ってねー。": "Finally, about this course... After starting|here, we'll head to Megistris territory...|From Megistris, we'll pass through the|<br>|checkpoint before the road to Windmill|Hill... And the goal point of this course is|in front of the Glittering Great Windmill|<br>|Tower on Windmill Hill... After entering the|course, your destination will appear on the|map, so if you refer to it... I'm sure you'll|<br>|try to get the best time..."
+  },
+  "469": {
+    "「最後に　このコースについてだねー。|　ここからスタートした後|　まずは　メギストリス領を目指すんだー。<br>|「メギストリス領からは　風車の丘への道前の|　チェックポイントを通って|　風車の丘を　目指すよー。<br>|「そして　このコースのゴール地点は|　風車の丘の　キラキラ大風車塔前だよー。|「エントリー後は　地図に目的地が出るから|　参考にすると　いいよ。|　ぜひとも　ベストタイムを　狙ってねー。": "Finally, about this course... After starting|here, we'll head to Megistris territory...|From Megistris, we'll pass through the|<br>|checkpoint before the road to Windmill|Hill... And the goal point of this course is|in front of the Glittering Great Windmill|<br>|Tower on Windmill Hill... After entering the|course, your destination will appear on the|map, so if you refer to it... I'm sure you'll|<br>|try to get the best time..."
+  },
+  "470": {
+    "「最後に　このコースについてだねー。|　ここからスタートした後|　まずは　メギストリス領を目指すんだー。<br>|「メギストリス領からは　風車の丘への道前の|　チェックポイントを通って|　風車の丘を　目指すよー。<br>|「そして　このコースのゴール地点は|　風車の丘の　キラキラ大風車塔前だよー。|「エントリー後は　地図に目的地が出るから|　参考にすると　いいよ。|　ぜひとも　ベストタイムを　狙ってねー。": "Finally, about this course... After starting|here, we'll head to Megistris territory...|From Megistris, we'll pass through the|<br>|checkpoint before the road to Windmill|Hill... And the goal point of this course is|in front of the Glittering Great Windmill|<br>|Tower on Windmill Hill... After entering the|course, your destination will appear on the|map, so if you refer to it... I'm sure you'll|<br>|try to get the best time..."
+  },
+  "471": {
+    "「お試し期間中は　一応　あなたが出した|　最速タイムの記録は　取るけれど　それは|　グランプリ開始と共に　消える仮のものだよー。<br>|「それと　お試し期間中は|　ランキングも報酬も無いから|　あくまで　お試しの記録と　考えてねー。|<bw_break>": "During the trial period, we'll keep track of|your fastest times, but they're temporary and|will disappear when the Grand Prix starts.|<br>|Also, during the trial period, there are no|rankings or rewards, so it's just a trial|record...<bw_break>"
+  },
+  "472": {
+    "「グランプリ開催中に　あなたが出した|　最速のタイムは　ベストタイムとして|　わたしが　記録しておくねー。<br>|「ベストタイムが　規定のタイムを切ったとき|　それに応じた報酬を　あげちゃうよー。<br>|「どんな報酬があるか　知りたければ|　『報酬を見る』を　選んでねー。|<bw_break>": "Your fastest time during the Grand Prix will|be recorded by me as your best time. If your|best time is less than the specified time, I|<br>|will reward you accordingly. If you'd like to|see what rewards are available, select \"View|Rewards\"...<bw_break>"
+  },
+  "473": {
+    "「トライアル期間中も　グランプリとは別に|　あなたが出した　最速のタイムを|　ベストタイムとして　記録しておくよー。<br>|「ただし　トライアル期間中は|　報酬が無いから　あくまで|　練習用の記録と　考えてねー。|<bw_break>": "During the trial period, in addition to the|Grand Prix, we'll be keeping a record of your|best times, your fastest times... However,|<br>|since you won't be paid during the trial|period, we'll consider it a practice run...<bw_break>"
+  },
+  "474": {
+    "「今は　お試し期間中だから|　ランキングもなく　ベストタイムも|　グランプリ開始と共に消える　仮のものだよー。|<bw_break>": "Right now, we're in a trial period, so there|are no rankings, and the best times are|temporary... until the Grand Prix starts.<bw_break>"
+  },
+  "475": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるよー。<br>|「ランキングには　グランプリ用と|　トライアル用の　２種類があって|　それぞれ　別々に記録されるんだー。<br>|「今は　グランプリ開催中だから|　確認できるのは　グランプリの|　ランキングだよー。<br>|「グランプリが　終わった後は|　トライアル期間になって|　トライアル用のランキングを記録するよー。|<bw_break>": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you can see their time ranking. There|<br>|are two types of rankings, one for the Grand|Prix and one for the Trials, and they're|recorded separately. Now the Grand Prix is in|<br>|progress so you can only see the Grand Prix|ranking. After the Grand Prix is over, the|trial period will start and the trial|<br>|rankings will be recorded...<bw_break>"
+  },
+  "476": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるよー。<br>|「ランキングには　グランプリ用と|　トライアル用の　２種類があって|　それぞれ　別々に記録されるんだー。<br>|「今は　トライアル期間中だから|　確認できるのは　直近のグランプリと|　トライアルのランキングだよー。<br>|「新しいグランプリが　始まったら|　グランプリ用のランキングを|　新しくして　記録するよー。|<bw_break>": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you can see their time ranking. There|<br>|are two types of rankings, one for the Grand|Prix and one for the Trials, and they're|recorded separately. Right now we're in the|<br>|trial period so you can only see the most|recent grand prix and the trial ranking. When|a new grand prix starts, the grand prix|<br>|ranking will be updated to record...<bw_break>"
+  },
+  "477": {
+    "「今　エントリー手続き中だよー。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうね。<br>|「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるんだー。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけてねー。|　そうなる前にゴールを　目指そうね。|<bw_break>": "I'm in the middle of the entry process...|While you're going through the process, I'd|like to explain the rules of the race... When|<br>|the dollar board race begins, your elapsed|time and the best time you've ever recorded|will be displayed at all times. If your|<br>|elapsed time goes over 10 minutes, you will|be disqualified, so be careful. You've got to|get to the finish line before that happens.<bw_break>"
+  },
+  "478": {
+    "「今　エントリー手続き中だよー。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうね。<br>|「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるんだー。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけてねー。|　そうなる前にゴールを　目指そうね。|<bw_break>": "I'm in the middle of the entry process...|While you're going through the process, I'd|like to explain the rules of the race... When|<br>|the dollar board race begins, your elapsed|time and the best time you've ever recorded|will be displayed at all times. If your|<br>|elapsed time goes over 10 minutes, you will|be disqualified, so be careful. You've got to|get to the finish line before that happens.<bw_break>"
+  },
+  "479": {
+    "「今　エントリー手続き中だよー。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうね。<br>|「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるんだー。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけてねー。|　そうなる前にゴールを　目指そうね。|<bw_break>": "I'm in the middle of the entry process...|While you're going through the process, I'd|like to explain the rules of the race... When|<br>|the dollar board race begins, your elapsed|time and the best time you've ever recorded|will be displayed at all times. If your|<br>|elapsed time goes over 10 minutes, you will|be disqualified, so be careful. You've got to|get to the finish line before that happens.<bw_break>"
+  },
+  "480": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "481": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "482": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "483": {
+    "「また　来てねー！": "Come again!"
+  },
+  "484": {
+    "「また　来てねー！": "Come again!"
+  },
+  "485": {
+    "「また　来てねー！": "Come again!"
+  },
+  "486": {
+    "「また　来てねー！": "Come again!"
+  },
+  "487": {
+    "「また　来てねー！": "Come again!"
+  },
+  "488": {
+    "「また　来てねー！": "Come again!"
+  },
+  "489": {
+    "「レース　お疲れさまー。|　あなたに　渡す報酬があったはずだよ。|　ええとー……": "Good work, race... I had a reward to give|you. I, um..."
+  },
+  "490": {
+    "「レース　お疲れさまー。|　あなたに　渡す報酬があったはずだよ。|　ええとー……": "Good work, race... I had a reward to give|you. I, um..."
+  },
+  "491": {
+    "「レース　お疲れさまー。|　あなたに　渡す報酬があったはずだよ。|　ええとー……": "Good work, race... I had a reward to give|you. I, um..."
+  },
+  "492": {
+    "「わあ　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったね！<br>|「じゃあ　これをあげちゃうね！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>だよー！！": "Wow, your best time is less than|<%nW_T_M_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then I'll give you this! The reward|<br>|for beating <%nW_T_MINUTE>minutes|<%02nW_T_M_SECOND>seconds is <%sEV_HOUSYU>!"
+  },
+  "493": {
+    "「わあ　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったね！<br>|「じゃあ　これをあげちゃうね！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>だよー！！": "Wow, your best time is less than|<%nW_T_M_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then I'll give you this! The reward|<br>|for beating <%nW_T_MINUTE>minutes|<%02nW_T_M_SECOND>seconds is <%sEV_HOUSYU>!"
+  },
+  "494": {
+    "「わあ　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったね！<br>|「じゃあ　これをあげちゃうね！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>だよー！！": "Wow, your best time is less than|<%nW_T_M_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then I'll give you this! The reward|<br>|for beating <%nW_T_MINUTE>minutes|<%02nW_T_M_SECOND>seconds is <%sEV_HOUSYU>!"
+  },
+  "495": {
+    "「……って　どうぐかばんが|　いっぱいで　持てないみたいだね。|　荷物を整理して　また来てねー！": "I don't know. There's so much stuff in my|bag, I can't even carry it... Get your stuff|together and come back!"
+  },
+  "496": {
+    "「……って　どうぐかばんが|　いっぱいで　持てないみたいだね。|　荷物を整理して　また来てねー！": "I don't know. There's so much stuff in my|bag, I can't even carry it... Get your stuff|together and come back!"
+  },
+  "497": {
+    "「……って　どうぐかばんが|　いっぱいで　持てないみたいだね。|　荷物を整理して　また来てねー！": "I don't know. There's so much stuff in my|bag, I can't even carry it... Get your stuff|together and come back!"
+  },
+  "498": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "499": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "500": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "501": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "502": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "503": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "504": {
+    "「これで　ベストタイム報酬は全部だね！|　あなたからは　すごくすごく|　レース屋スピリットを感じるよー！": "That's all the best times I've ever seen!|You've got so, so much racing spirit!"
+  },
+  "505": {
+    "「これで　ベストタイム報酬は全部だね！|　あなたからは　すごくすごく|　レース屋スピリットを感じるよー！": "That's all the best times I've ever seen!|You've got so, so much racing spirit!"
+  },
+  "506": {
+    "「これで　ベストタイム報酬は全部だね！|　あなたからは　すごくすごく|　レース屋スピリットを感じるよー！": "That's all the best times I've ever seen!|You've got so, so much racing spirit!"
+  },
+  "507": {
+    "「またの参加　待ってるねー！": "I'm waiting for you to join us again!"
+  },
+  "508": {
+    "「またの参加　待ってるねー！": "I'm waiting for you to join us again!"
+  },
+  "509": {
+    "「またの参加　待ってるねー！": "I'm waiting for you to join us again!"
+  },
+  "510": {
+    "「またの参加　待ってるねー！": "I'm waiting for you to join us again!"
+  },
+  "511": {
+    "「またの参加　待ってるねー！": "I'm waiting for you to join us again!"
+  },
+  "512": {
+    "「またの参加　待ってるねー！": "I'm waiting for you to join us again!"
+  },
+  "513": {
+    "「あれー？　": "Huh?"
+  },
+  "514": {
+    "「あれー？　": "Huh?"
+  },
+  "515": {
+    "「あれー？　": "Huh?"
+  },
+  "516": {
+    "「あらら　惜しかったねー。|　ここまで　来れたのなら|　制限時間内のゴールは　もうちょっとだね！<br>|「なんにしても　今回のレースは　おしまい！|　スタート地点までもどるー？|<yesno><break>": "Well, that was close. If you've made it this|far, you're almost at the finish line within|the time limit! Well, whatever it is, this|<br>|race is over! Back to the start?<yesno><break>"
+  },
+  "517": {
+    "「あらら　惜しかったねー。|　ここまで　来れたのなら|　制限時間内のゴールは　もうちょっとだね！<br>|「なんにしても　今回のレースは　おしまい！|　スタート地点までもどるー？|<yesno><break>": "Well, that was close. If you've made it this|far, you're almost at the finish line within|the time limit! Well, whatever it is, this|<br>|race is over! Back to the start?<yesno><break>"
+  },
+  "518": {
+    "「あらら　惜しかったねー。|　ここまで　来れたのなら|　制限時間内のゴールは　もうちょっとだね！<br>|「なんにしても　今回のレースは　おしまい！|　スタート地点までもどるー？|<yesno><break>": "Well, that was close. If you've made it this|far, you're almost at the finish line within|the time limit! Well, whatever it is, this|<br>|race is over! Back to the start?<yesno><break>"
+  },
+  "519": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたかなー？<br>|「今回のレースで　あなたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位みたいだよ。|　タイムと順位は　別物だけどねー。<br>|「なんにしても　今回のレースは　おしまい！|　さて　スタート地点までもどるー？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|<%nEV_LUA_NUM_2> out of <%nEV_LUA_NUM_1>...|<br>|Time and place are not the same thing... But|whatever it is, this race is over! Now, back|to the starting line?<yesno><break>"
+  },
+  "520": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたかなー？<br>|「今回のレースで　あなたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位みたいだよ。|　タイムと順位は　別物だけどねー。<br>|「なんにしても　今回のレースは　おしまい！|　さて　スタート地点までもどるー？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|<%nEV_LUA_NUM_2> out of <%nEV_LUA_NUM_1>...|<br>|Time and place are not the same thing... But|whatever it is, this race is over! Now, back|to the starting line?<yesno><break>"
+  },
+  "521": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたかなー？<br>|「今回のレースで　あなたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位みたいだよ。|　タイムと順位は　別物だけどねー。<br>|「なんにしても　今回のレースは　おしまい！|　さて　スタート地点までもどるー？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|<%nEV_LUA_NUM_2> out of <%nEV_LUA_NUM_1>...|<br>|Time and place are not the same thing... But|whatever it is, this race is over! Now, back|to the starting line?<yesno><break>"
+  },
+  "522": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "523": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "524": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "525": {
+    "「うん　わかったー。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してねー。": "Yeah, I get it... So if you want to go home,|we can talk again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "526": {
+    "「うん　わかったー。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してねー。": "Yeah, I get it... So if you want to go home,|we can talk again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "527": {
+    "「うん　わかったー。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してねー。": "Yeah, I get it... So if you want to go home,|we can talk again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "528": {
+    "「スタート地点までもどるー？|<yesno><break>": "Back to the start?<yesno><break>"
+  },
+  "529": {
+    "「スタート地点までもどるー？|<yesno><break>": "Back to the start?<yesno><break>"
+  },
+  "530": {
+    "「スタート地点までもどるー？|<yesno><break>": "Back to the start?<yesno><break>"
+  },
+  "531": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "532": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "533": {
+    "「わたしは　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　またー！": "I'll be gone now until the next race starts.|See you later!"
+  },
+  "534": {
+    "「うん　わかったー。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してねー。": "Yeah, I get it... So if you want to go home,|we can talk again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "535": {
+    "「うん　わかったー。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してねー。": "Yeah, I get it... So if you want to go home,|we can talk again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "536": {
+    "「うん　わかったー。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　わたしは　いなくなるから|　注意してねー。": "Yeah, I get it... So if you want to go home,|we can talk again... But if you go somewhere|else, I'll be gone, so be careful..."
+  },
+  "537": {
+    "使用しません": "Not used"
+  },
+  "538": {
+    "使用しません": "Not used"
+  },
+  "539": {
+    "使用しません": "Not used"
+  },
+  "540": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付よ。<br>|「残念だけど　ドルボードレースは|　一人前で　ドルボードを持った|　冒険者だけしか　参加できないのよ。<br>|「条件を満たしてから　また来てね。": "Hello! You're here to participate in a dollar|board race through Astoltia... I'm afraid|only adventurers with a dolphin board can|<br>|participate in the race. Once you meet the|requirements..."
+  },
+  "541": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付よ。<br>|「残念だけど　ドルボードレースは|　一人前で　ドルボードを持った|　冒険者だけしか　参加できないのよ。<br>|「条件を満たしてから　また来てね。": "Hello! You're here to participate in a dollar|board race through Astoltia... I'm afraid|only adventurers with a dolphin board can|<br>|participate in the race. Once you meet the|requirements..."
+  },
+  "542": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付よ。<br>|「残念だけど　ドルボードレースは|　一人前で　ドルボードを持った|　冒険者だけしか　参加できないのよ。<br>|「条件を満たしてから　また来てね。": "Hello! You're here to participate in a dollar|board race through Astoltia... I'm afraid|only adventurers with a dolphin board can|<br>|participate in the race. Once you meet the|requirements..."
+  },
+  "543": {
+    "「あら。なんだか　ほとばしるような|　レース屋スピリットを感じるわね！<br>|「ああ　失礼。|　ここは　ドルボードレースの受付よ。<br>|「ドルボードレースっていうのは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないけれど|　ベストタイムのみ記録しているわよ。<bw_break>": "Oh, my. I'm sensing an outpouring of|lacemaker spirit! Oh... This is the dolphin|board race... The Dollar Board Race is a|<br>|time-limited, heated race organized by the|racing group Turbo Axel... This course starts|from here, and the Inamino Highway's mountain|<br>|barrier... In front of the royal city in the|south of Kamikarumui territory... We're in a|trial period, so there are no rankings or|<br>|rewards, but we're only keeping track of your|best times...<bw_break>"
+  },
+  "544": {
+    "「あら。なんだか　ほとばしるような|　レース屋スピリットを感じるわね！<br>|「ああ　失礼。|　ここは　ドルボードレースの受付よ。<br>|「ドルボードレースっていうのは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　進呈するわ。<bw_break>": "Oh, my. I'm sensing an outpouring of|lacemaker spirit! Oh... This is the dolphin|board race... The Dollar Board Race is a|<br>|time-limited, heated race organized by the|racing group Turbo Axel... This course starts|from here, and the Inamino Highway's mountain|<br>|barrier... In front of the royal city in the|south of Kamihalmui territory... We're in the|middle of the Grand Prix, so if you do well,|<br>|you'll be rewarded with...<bw_break>"
+  },
+  "545": {
+    "「あら。なんだか　ほとばしるような|　レース屋スピリットを感じるわね！<br>|「ああ　失礼。|　ここは　ドルボードレースの受付よ。<br>|「ドルボードレースっていうのは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているわ。<bw_break>": "Oh, my. I'm sensing an outpouring of|lacemaker spirit! Oh... This is the dolphin|board race... The Dollar Board Race is a|<br>|time-limited, heated race organized by the|racing group Turbo Axel... This course starts|from here, and the Inamino Highway's mountain|<br>|barrier... In front of the royal city in the|south of Kamikarumui territory... We're in|the trial period, so there's no reward, but|<br>|I'll record your best time...<bw_break>"
+  },
+  "546": {
+    "「あら。あなたは……|　アストルティアラリーの経験者ね？|　レース屋のカンが　そう告げているわ。<br>|「ああ　失礼。|　ここは　ドルボードレースの受付よ。<br>|「ドルボードレースとは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「私たちのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないけれど|　ベストタイムのみ記録しているわよ。<bw_break>": "Oh, my. You're... You've been to the Astoltia|rally, haven't you? That's what my racing|buddy Kang told me. Oh... This is the place|<br>|for dollar board racing... The Dollar Board|Races are a time-limited, high-octane race|organized by our race company, Turbo Axel.|<br>|The result of our boss, Mr. Stellakat's quest|for greater speed in the Astoltia Rally...|This course starts here, at the mountain|<br>|crossing of the Inamino Highway... In front|of the royal city in the south of Kamikarumui|territory... We're in a trial period, so|<br>|there are no rankings or rewards, but we're|only keeping track of your best times...<bw_break>"
+  },
+  "547": {
+    "「あら。あなたは……|　アストルティアラリーの経験者ね？|　レース屋のカンが　そう告げているわ。<br>|「ああ　失礼。|　ここは　ドルボードレースの受付よ。<br>|「ドルボードレースとは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「私たちのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　進呈するわ。<bw_break>": "Oh, my. You're... You've been to the Astoltia|rally, haven't you? That's what my racing|buddy Kang told me. Oh... This is the place|<br>|for dollar board racing... The Dollar Board|Races are a time-limited, high-octane race|organized by our race company, Turbo Axel.|<br>|The result of our boss, Mr. Stellakat's quest|for greater speed in the Astoltia Rally...|This course starts here, at the mountain|<br>|crossing of the Inamino Highway... In front|of the royal city in the south of Kamikarumui|territory... The Grand Prix is now underway,|<br>|and if you do well, you will be rewarded|with...<bw_break>"
+  },
+  "548": {
+    "「あら。あなたは……|　アストルティアラリーの経験者ね？|　レース屋のカンが　そう告げているわ。<br>|「ああ　失礼。|　ここは　ドルボードレースの受付よ。<br>|「ドルボードレースとは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「私たちのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているわ。<bw_break>": "Oh, my. You're... You've been to the Astoltia|rally, haven't you? That's what my racing|buddy Kang told me. Oh... This is the place|<br>|for dollar board racing... The Dollar Board|Races are a time-limited, high-octane race|organized by our race company, Turbo Axel.|<br>|The result of our boss, Mr. Stellakat's quest|for greater speed in the Astoltia Rally...|This course starts here, at the mountain|<br>|crossing of the Inamino Highway... In front|of the royal city in the south of Kamikarmui|territory... It's a trial period, so there's|<br>|no reward, but we'll record your best time...<bw_break>"
+  },
+  "549": {
+    "「それと　あなたには　これを渡しておくわ。": "And I want you to have this..."
+  },
+  "550": {
+    "「それと　あなたには　これを渡しておくわ。": "And I want you to have this..."
+  },
+  "551": {
+    "「それと　あなたには　これを渡しておくわ。": "And I want you to have this..."
+  },
+  "552": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "553": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "554": {
+    "<pc>は|ＧＰライセンス（だいじなもの）を　手に入れた！<me 60>": "<pc> got a GP license!<me 60>"
+  },
+  "555": {
+    "「それがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしてね！<br>|「あと　エントリー中やレース中に|　こいつを使えば　レースを棄権できるから|　それも　覚えておくといいわ。<bw_break>": "If you have one of these, you can enter a|dollar board race any time you want, so get|out there and enter! Also, if you use this|<br>|while you're entering or racing, you can use|it to cancel the race, so keep that in mind|too...<bw_break>"
+  },
+  "556": {
+    "「それがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしてね！<br>|「あと　エントリー中やレース中に|　こいつを使えば　レースを棄権できるから|　それも　覚えておくといいわ。<bw_break>": "If you have one of these, you can enter a|dollar board race any time you want, so get|out there and enter! Also, if you use this|<br>|while you're entering or racing, you can use|it to cancel the race, so keep that in mind|too...<bw_break>"
+  },
+  "557": {
+    "「それがあれば　いつでも|　ドルボードレースに参加できるから|　どんどん　エントリーしてね！<br>|「あと　エントリー中やレース中に|　こいつを使えば　レースを棄権できるから|　それも　覚えておくといいわ。<bw_break>": "If you have one of these, you can enter a|dollar board race any time you want, so get|out there and enter! Also, if you use this|<br>|while you're entering or racing, you can use|it to cancel the race, so keep that in mind|too...<bw_break>"
+  },
+  "558": {
+    "「１０月１３日までは　お試し期間中よ！|　ここは　ドルボードレースの受付よ。|　何か　ご用はある？|<break>": "We're having a trial run through October|13th! This is the dollar board race... What|can I do for you?<break>"
+  },
+  "559": {
+    "「今は　グランプリ開催中よ！|　ここは　ドルボードレースの受付よ。|　何か　ご用はある？|<break>": "We're in the Grand Prix! This is the dollar|board race... What can I do for you?<break>"
+  },
+  "560": {
+    "「今は　トライアル期間中よ！|　ここは　ドルボードレースの受付よ。|　何か　ご用はある？|<break>": "We're in a trial period! This is the dollar|board race... What can I do for you?<break>"
+  },
+  "561": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付よ。<br>|「ただ　今は休止中だから|　再開したら　また来てね。": "Hello! We're here for the dollar board race|through Astoltia... But it's on hiatus right|now, so we'll be back..."
+  },
+  "562": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付よ。<br>|「ただ　今は休止中だから|　再開したら　また来てね。": "Hello! We're here for the dollar board race|through Astoltia... But it's on hiatus right|now, so we'll be back..."
+  },
+  "563": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付よ。<br>|「ただ　今は休止中だから|　再開したら　また来てね。": "Hello! We're here for the dollar board race|through Astoltia... But it's on hiatus right|now, so we'll be back..."
+  },
+  "564": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付よ。<br>|「ただ　今は休止中だから|　再開したら　また来てね。": "Hello! We're here for the dollar board race|through Astoltia... But it's on hiatus right|now, so we'll be back..."
+  },
+  "565": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付よ。<br>|「ただ　今は休止中だから|　再開したら　また来てね。": "Hello! We're here for the dollar board race|through Astoltia... But it's on hiatus right|now, so we'll be back..."
+  },
+  "566": {
+    "「こんにちは！|　ここは　アストルティアを駆け抜ける|　ドルボードレースの　受付よ。<br>|「ただ　今は休止中だから|　再開したら　また来てね。": "Hello! We're here for the dollar board race|through Astoltia... But it's on hiatus right|now, so we'll be back..."
+  },
+  "567": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "568": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "569": {
+    "<select_se_off>|エントリーする|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Entry|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+  },
+  "570": {
+    "「１０月１３日までは　お試し期間中よ！|　他に何か　ご用はある？|<break>": "It's a trial period until October 13th! Is|there anything else I can do for you?<break>"
+  },
+  "571": {
+    "「今は　グランプリ開催中よ！|　他に何か　ご用はある？|<break>": "We're in the middle of the Grand Prix! Is|there anything else I can do for you?<break>"
+  },
+  "572": {
+    "「今は　トライアル期間中よ！|　他に何か　用はある？|<break>": "It's a trial period! Is there anything else I|can do for you?<break>"
+  },
+  "573": {
+    "「１０月１３日までは　お試し期間中よ！|　他に何か　ご用はある？|<break>": "It's a trial period until October 13th! Is|there anything else I can do for you?<break>"
+  },
+  "574": {
+    "「今は　グランプリ開催中よ！|　他に何か　ご用はある？|<break>": "We're in the middle of the Grand Prix! Is|there anything else I can do for you?<break>"
+  },
+  "575": {
+    "「今は　トライアル期間中よ！|　他に何か　用はある？|<break>": "It's a trial period! Is there anything else I|can do for you?<break>"
+  },
+  "576": {
+    "「エントリーするの？|<yesno><break>": "You're entering?<yesno><break>"
+  },
+  "577": {
+    "「エントリーするの？|<yesno><break>": "You're entering?<yesno><break>"
+  },
+  "578": {
+    "「エントリーするの？|<yesno><break>": "You're entering?<yesno><break>"
+  },
+  "579": {
+    "「はい！　エントリーの受付　完了よ。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでね。": "Yes! Call for entries... The race will start|when the time is right, so you need to get|out of the yellow line that you see..."
+  },
+  "580": {
+    "「はい！　エントリーの受付　完了よ。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでね。": "Yes! Call for entries... The race will start|when the time is right, so you need to get|out of the yellow line that you see..."
+  },
+  "581": {
+    "「はい！　エントリーの受付　完了よ。|　時間になったら　スタートだから　今見えている|　黄色いラインから　出ないでね。": "Yes! Call for entries... The race will start|when the time is right, so you need to get|out of the yellow line that you see..."
+  },
+  "582": {
+    "「今　あなたは　お試しにエントリー中よ。|　何か　ご用はある？|<break>": "Now, you may enter to try... What can I do|for you?<break>"
+  },
+  "583": {
+    "「今　あなたは　グランプリにエントリー中よ。|　何か　ご用はある？|<break>": "Now you have entered the Grand Prix... What|can I do for you?<break>"
+  },
+  "584": {
+    "「今　あなたは　トライアルにエントリー中よ。|　何か　ご用はある？|<break>": "Now that you've entered the trials... What|can I do for you?<break>"
+  },
+  "585": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "586": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "587": {
+    "<select_se_off>|ランキングを見る|エントリーをやめる|<select_end><break>": "<select_se_off>|See the ranking|Cease Entry|<select_end><break>"
+  },
+  "588": {
+    "「エントリーを　やめるの？|<yesno><break>": "You're stopping the entry?<yesno><break>"
+  },
+  "589": {
+    "「エントリーを　やめるの？|<yesno><break>": "You're stopping the entry?<yesno><break>"
+  },
+  "590": {
+    "「エントリーを　やめるの？|<yesno><break>": "You're stopping the entry?<yesno><break>"
+  },
+  "591": {
+    "「では　エントリーは取り消すわ。|　また　来てね！": "Okay, I'll take your entries... Come again!"
+  },
+  "592": {
+    "「では　エントリーは取り消すわ。|　また　来てね！": "Okay, I'll take your entries... Come again!"
+  },
+  "593": {
+    "「では　エントリーは取り消すわ。|　また　来てね！": "Okay, I'll take your entries... Come again!"
+  },
+  "594": {
+    "「あら　今回のエントリーは　時間切れね。|　手続きは　スタートの１分前までなのよ。|　悪いけれど　次回のエントリーで手続きしてね。": "Oh, my goodness. This entry was timed... You|have until one minute before the start... I'm|sorry, but I'll have to do it next time..."
+  },
+  "595": {
+    "「あら　今回のエントリーは　時間切れね。|　手続きは　スタートの１分前までなのよ。|　悪いけれど　次回のエントリーで手続きしてね。": "Oh, my goodness. This entry was timed... You|have until one minute before the start... I'm|sorry, but I'll have to do it next time..."
+  },
+  "596": {
+    "「あら　今回のエントリーは　時間切れね。|　手続きは　スタートの１分前までなのよ。|　悪いけれど　次回のエントリーで手続きしてね。": "Oh, my goodness. This entry was timed... You|have until one minute before the start... I'm|sorry, but I'll have to do it next time..."
+  },
+  "597": {
+    "「今は　アストルティアラリー開催中よ。|　この時期　ドルボードレースは|　お休みに　なるわ。<br>|「悪いけれど　アストルティアラリーの|　期間が終わったら　また来てね。": "It's the start of the Astral Tear Rally...|This is the time of year when the dollar|board races are cancelled. I'm sorry, but|<br>|when the Astoltia rally is over..."
+  },
+  "598": {
+    "「今は　アストルティアラリー開催中よ。|　この時期　ドルボードレースは|　お休みに　なるわ。<br>|「悪いけれど　アストルティアラリーの|　期間が終わったら　また来てね。": "It's the start of the Astral Tear Rally...|This is the time of year when the dollar|board races are cancelled. I'm sorry, but|<br>|when the Astoltia rally is over..."
+  },
+  "599": {
+    "「今は　アストルティアラリー開催中よ。|　この時期　ドルボードレースは|　お休みに　なるわ。<br>|「悪いけれど　アストルティアラリーの|　期間が終わったら　また来てね。": "It's the start of the Astral Tear Rally...|This is the time of year when the dollar|board races are cancelled. I'm sorry, but|<br>|when the Astoltia rally is over..."
+  },
+  "600": {
+    "「あら　お試しのエントリーは終了よ。|　もう少しでグランプリが　はじまるから|　エントリー手続きは　その後にお願いね。": "Oh, well, the trial entry is... The grand|prix will be starting in a few weeks, so|you'll have to wait until after that to|<br>|enter."
+  },
+  "601": {
+    "「あら　グランプリのエントリーは終了よ。|　もう少しでトライアル期間が　はじまるから|　エントリー手続きは　その後にお願いね。": "Oh, my God. The Grand Prix entry... The trial|period starts in a few weeks, so you'll have|to wait until after that to enter..."
+  },
+  "602": {
+    "「あら　トライアルのエントリーは終了よ。|　もう少しでグランプリが　はじまるから|　エントリー手続きは　その後にお願いね。": "Well, you can enter the trials... Well, the|Grand Prix will be starting in a few weeks,|so we'll have to wait until after that to|<br>|start the entry process."
+  },
+  "603": {
+    "「あら　今回のエントリーは　締め切りね。|　レースの参加は　最大で９０人までなのよ。|　悪いけれど　次回のエントリーで手続きしてね。": "Well, we're closed for entries. The race is|limited to a maximum of 90 entrants... I'm|sorry, but you'll have to sign up for the|<br>|next one..."
+  },
+  "604": {
+    "「あら　今回のエントリーは　締め切りね。|　レースの参加は　最大で９０人までなのよ。|　悪いけれど　次回のエントリーで手続きしてね。": "Well, we're closed for entries. The race is|limited to a maximum of 90 entrants... I'm|sorry, but you'll have to sign up for the|<br>|next one..."
+  },
+  "605": {
+    "「あら　今回のエントリーは　締め切りね。|　レースの参加は　最大で９０人までなのよ。|　悪いけれど　次回のエントリーで手続きしてね。": "Well, we're closed for entries. The race is|limited to a maximum of 90 entrants... I'm|sorry, but you'll have to sign up for the|<br>|next one..."
+  },
+  "606": {
+    "「もうスタートは　しているわ。|　一刻も早く　ゴールを目指して！": "We've already started... Get to the finish|line as fast as you can!"
+  },
+  "607": {
+    "「もうスタートは　しているわ。|　一刻も早く　ゴールを目指して！": "We've already started... Get to the finish|line as fast as you can!"
+  },
+  "608": {
+    "「もうスタートは　しているわ。|　一刻も早く　ゴールを目指して！": "We've already started... Get to the finish|line as fast as you can!"
+  },
+  "609": {
+    "「今は　お試し期間中だから|　特に報酬は無いわよ。|　次回のグランプリ開催を　待ってね。": "It's a trial period, so there are no|rewards... We're waiting for the next grand|prix..."
+  },
+  "610": {
+    "「ゴール時に　規定のタイムを切っていれば|　ごらんの通りの　報酬を進呈するわ！": "If you're still under the time limit at the|finish line, you'll be rewarded as you see|fit!"
+  },
+  "611": {
+    "「今は　トライアル期間中だから|　特に報酬は無いわよ。|　次回のグランプリ開催を　待ってね。": "It's a trial period, so there are no|rewards... We're waiting for the next grand|prix..."
+  },
+  "612": {
+    "「さて……": "Well"
+  },
+  "613": {
+    "「ベストタイムを出して　報酬をゲットよ！": "Get the best time, get the reward!"
+  },
+  "614": {
+    "「さて……": "Well"
+  },
+  "615": {
+    "「今は　準備中よ。": "I'm a quasi..."
+  },
+  "616": {
+    "「今は　準備中よ。": "I'm a quasi..."
+  },
+  "617": {
+    "「今は　準備中よ。": "I'm a quasi..."
+  },
+  "618": {
+    "使用しません": "Not used"
+  },
+  "619": {
+    "使用しません": "Not used"
+  },
+  "620": {
+    "「どのランキングを　見るの？|<break>": "What rankings are you looking at?<break>"
+  },
+  "621": {
+    "使用しません": "Not used"
+  },
+  "622": {
+    "使用しません": "Not used"
+  },
+  "623": {
+    "<select_se_off>|直近のＧＰのランキング|トライアルのランキング|<select_end><break>": "<select_se_off>|Most recent GP rankings|Trial Ranking|<select_end><break>"
+  },
+  "624": {
+    "「今は　グランプリの準備があって|　ランキングは　見られないわ。": "Right now, I'm preparing for the Grand Prix,|so I can't show you the rankings..."
+  },
+  "625": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるわ。<br>|「だけど　残念ながら|　まだ　ゴールした人は　いないようね。　　": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you'll be able to see their time|<br>|ranking... But unfortunately, no one has|finished yet."
+  },
+  "626": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるわ。<br>|「だけど　残念ながら|　まだ　ゴールした人は　いないようね。　　": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you'll be able to see their time|<br>|ranking... But unfortunately, no one has|finished yet."
+  },
+  "627": {
+    "「今は　グランプリの準備があって|　ランキングは　見られないわ。": "Right now, I'm preparing for the Grand Prix,|so I can't show you the rankings..."
+  },
+  "628": {
+    "「今は　グランプリの準備があって|　ランキングは　見られないわ。": "Right now, I'm preparing for the Grand Prix,|so I can't show you the rankings..."
+  },
+  "629": {
+    "「今は　グランプリの準備があって|　ランキングは　見られないわ。": "Right now, I'm preparing for the Grand Prix,|so I can't show you the rankings..."
+  },
+  "630": {
+    "「さあ　何について　聞きたいの？|<break>": "Come on, what do you want to talk about?<break>"
+  },
+  "631": {
+    "「さあ　何について　聞きたいの？|<break>": "Come on, what do you want to talk about?<break>"
+  },
+  "632": {
+    "「さあ　何について　聞きたいの？|<break>": "Come on, what do you want to talk about?<break>"
+  },
+  "633": {
+    "「他に　聞きたいことはある？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "634": {
+    "「他に　聞きたいことはある？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "635": {
+    "「他に　聞きたいことはある？|<break>": "Is there anything else you want to ask me?<break>"
+  },
+  "636": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "637": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "638": {
+    "<select_se_off>|ドルボードレースについて|エントリーについて|レース中のルールについて|タイムと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|About Dollar Board Racing|About Entry|About the rules during the race|Time and Reward|About Ranking|<select_end><break>"
+  },
+  "639": {
+    "「ドルボードレースとは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないし　ベストタイムも|　グランプリ開始と共に消える　仮のものよ。<br>|「ただ　いつでも　練習は大歓迎だから|　グランプリ開催前に　やってみるといいわよ。|<bw_break>": "The Dollar Board Race is a timed race|organized by the racing group, Turbo Axel.|The course starts here, at the Inamino Pass,|<br>|in the mountains... In front of the royal|city in the south of Kamikarumui territory...|Now, this is a trial period, so there are no|<br>|rankings, no rewards, and your best times|will disappear when the Grand Prix begins.|But you're always welcome to practice before|<br>|the Grand Prix starts...<bw_break>"
+  },
+  "640": {
+    "「ドルボードレースとは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　進呈するわ。<br>|「グランプリが　開催されていない時は|　いつでも練習できる　トライアル期間だから|　フレンドやチームの人と　やってみるといいわ。|<bw_break>": "The Dollar Board Race is a timed race|organized by the racing group, Turbo Axel.|The course starts here, at the Inamino Pass,|<br>|in the mountains... In front of the royal|city in the south of Kamihalmui territory...|There's a Grand Prix going on right now, so|<br>|if you do well, you'll be rewarded with a|nice... When the Grand Prix is not in|session, you can practice with your friends|<br>|and your team during the trial period.<bw_break>"
+  },
+  "641": {
+    "「ドルボードレースとは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているわ。<br>|「いつでも　練習は大歓迎だから|　フレンドやチームの人と　やってみるといいわ。|<bw_break>": "The Dollar Board Race is a timed race|organized by the racing group, Turbo Axel.|The course starts here, at the Inamino Pass,|<br>|in the mountains... In front of the royal|city in the south of Kamikarumui territory...|Now, we're in the trial period, so there's no|<br>|reward, but we'll record your best time...|You're always welcome to practice, so if|you'd like to try it out with your friends or|<br>|your team...<bw_break>"
+  },
+  "642": {
+    "「ドルボードレースとは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「私たちのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　お試し期間中だから　ランキングもなく|　報酬は　用意されていないし　ベストタイムも|　グランプリ開始と共に消える　仮のものよ。<br>|「ただ　いつでも　練習は大歓迎だから|　グランプリ開催前に　やってみるといいわよ。|<bw_break>": "The Dollar Board Race is a time-limited,|high-octane race organized by our racing|group, Turbo Axel. The result of our boss,|<br>|Mr. Stellakat's quest for more speed in the|Astoltia Rally... This course starts here, at|the mountain crossing of the Inamino|<br>|Highway... In front of the royal city in the|south of Kamikarumui territory... Now, this|is a trial period, so there are no rankings,|<br>|no rewards, and your best times will|disappear when the Grand Prix begins. But|you're always welcome to practice before the|<br>|Grand Prix starts...<bw_break>"
+  },
+  "643": {
+    "「ドルボードレースとは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「私たちのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　グランプリ開催中だから|　いい成績を　残せれば|　すてきな報酬を　進呈するわ。<br>|「グランプリが　開催されていない時は|　いつでも練習できる　トライアル期間だから|　フレンドやチームの人と　やってみるといいわ。|<bw_break>": "The Dollar Board Race is a time-limited,|high-octane race organized by our racing|group, Turbo Axel. The result of our boss,|<br>|Mr. Stellakat's quest for more speed in the|Astoltia Rally... This course starts here, at|the mountain crossing of the Inamino|<br>|Highway... In front of the royal city in the|south of Kamikarumui territory... There's a|Grand Prix going on right now, so if you do|<br>|well, you'll be rewarded with a nice... When|the Grand Prix is not in session, you can|practice with your friends and your team|<br>|during the trial period.<bw_break>"
+  },
+  "644": {
+    "「ドルボードレースとは　私たち|　レース屋集団『ターボアクセル』が主催する|　時間制限付きの　激熱レースよ。<br>|「私たちのボス　ステラカットさんが|　アストルティアラリーから　よりスピードを|　追求した結果　生まれたものなのよ。<br>|「このコースは　ここからスタートして|　イナミノ街道の山間の関所が　中間地点。|　カミハルムイ領南の王都前が　ゴールよ。<br>|「今は　トライアル期間中だから|　報酬は　用意されていないけれど|　ベストタイムは　記録しているわ。<br>|「いつでも　練習は大歓迎だから|　フレンドやチームの人と　やってみるといいわ。|<bw_break>": "The Dollar Board Race is a time-limited,|high-octane race organized by our racing|group, Turbo Axel. The result of our boss,|<br>|Mr. Stellakat's quest for more speed in the|Astoltia Rally... This course starts here, at|the mountain crossing of the Inamino|<br>|Highway... In front of the royal city in the|south of Kamikarmui territory... Now, we're|in the trial period, so there's no reward,|<br>|but we'll record your best time... You're|always welcome to practice, so if you'd like|to try it out with your friends or your|<br>|team...<bw_break>"
+  },
+  "645": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　訪れるわ。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするのよ。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どしどしエントリーしてね。|<bw_break>": "The dollar board races are timed to start in|five-minute intervals... At the time of the|start, everyone who has entered the race will|<br>|start at the same time... You can enter as|many times as you like, so feel free to enter|as many times as you like...<bw_break>"
+  },
+  "646": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　訪れるわ。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするのよ。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どしどしエントリーしてね。|<bw_break>": "The dollar board races are timed to start in|five-minute intervals... At the time of the|start, everyone who has entered the race will|<br>|start at the same time... You can enter as|many times as you like, so feel free to enter|as many times as you like...<bw_break>"
+  },
+  "647": {
+    "「ドルボードレースは　５分間隔で|　スタートのタイミングが　訪れるわ。<br>|「スタートのタイミングで　エントリーしていた人|　全員が　一斉にスタートするのよ。<br>|「いつでも　何度だって参加できるものだから|　気軽に　どしどしエントリーしてね。|<bw_break>": "The dollar board races are timed to start in|five-minute intervals... At the time of the|start, everyone who has entered the race will|<br>|start at the same time... You can enter as|many times as you like, so feel free to enter|as many times as you like...<bw_break>"
+  },
+  "648": {
+    "「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるわ。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけてね。|　そうなる前にゴールを　目指すのよ。<br>": "When the dollar board race starts, you'll|always see your elapsed time and the best|time you've ever recorded. If your elapsed|<br>|time goes over 10 minutes, you're|disqualified, so be careful. You've got to|get to the finish line before that happens."
+  },
+  "649": {
+    "「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるわ。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけてね。|　そうなる前にゴールを　目指すのよ。<br>": "When the dollar board race starts, you'll|always see your elapsed time and the best|time you've ever recorded. If your elapsed|<br>|time goes over 10 minutes, you're|disqualified, so be careful. You've got to|get to the finish line before that happens."
+  },
+  "650": {
+    "「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるわ。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけてね。|　そうなる前にゴールを　目指すのよ。<br>": "When the dollar board race starts, you'll|always see your elapsed time and the best|time you've ever recorded. If your elapsed|<br>|time goes over 10 minutes, you're|disqualified, so be careful. You've got to|get to the finish line before that happens."
+  },
+  "651": {
+    "「普段　道中には『ハザード』という障害物が|　あるのだけど　今はお試し期間中だから|　グランプリが始まるまでは　おかないわ。|<bw_break>": "Normally, there are hazards along the way,|but since we're in a trial period, until the|Grand Prix starts, we can't...<bw_break>"
+  },
+  "652": {
+    "「道中には『ハザード』という障害物があって|　それに触れると　速度が遅くなるから|　当たらないような　コース取りが重要よ。|<bw_break>": "There are hazards along the way, and touching|them slows you down, so it's important to|stay on course so you don't get hit...<bw_break>"
+  },
+  "653": {
+    "「道中には『ハザード』という障害物があって|　それに触れると　速度が遅くなるから|　当たらないような　コース取りが重要よ。|<bw_break>": "There are hazards along the way, and touching|them slows you down, so it's important to|stay on course so you don't get hit...<bw_break>"
+  },
+  "654": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進むのよ。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツよ。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいわよ。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charging booth on|the dollar board... If you have it, you'll do|<br>|well if you use it appropriately... If you|don't have the charge boost feature, then|you'll need to complete all of Memme-san's|<br>|requests in Gatara.<bw_break>"
+  },
+  "655": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進むのよ。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツよ。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいわよ。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charging booth on|the dollar board... If you have it, you'll do|<br>|well if you use it appropriately... If you|don't have the charge boost feature, then|you'll need to complete all of Memme-san's|<br>|requests in Gatara.<bw_break>"
+  },
+  "656": {
+    "「モンスターも　いるから|　それらも　うまくかわしながら進むのよ。<br>|「それと　ドルボードのチャージブースト機能。|　持っているなら　状況に応じた|　使いどころが　いい成績を出すコツよ。<br>|「チャージブースト機能を　持っていないなら|　岳都ガタラにいる　メンメさんの依頼を|　すべてこなすと　いいわよ。|<bw_break>": "There are monsters out there, so we're gonna|have to dodge them. And the charging booth on|the dollar board... If you have it, you'll do|<br>|well if you use it appropriately... If you|don't have the charge boost feature, then|you'll need to complete all of Memme-san's|<br>|requests in Gatara.<bw_break>"
+  },
+  "657": {
+    "使用しません": "Not used"
+  },
+  "658": {
+    "「もうひとつ　このコースには|　チャージブースト機能を　持っている人向けに|　『フルチャージ』という仕掛けがあるわ。<br>|「チャージブーストの　エネルギーが|　貯まっていない時に　触れると|　即座に貯まりきる　仕掛けよ。<br>|「それと　ブースト中に触れた場合は|　そのブーストが　終わった時|　即座に　エネルギーが貯まりきるわ。<br>|「ただし　『フルチャージ』は|　エネルギーが　貯まりきっている時は|　なんの効果も発揮しないわよ。<br>|「そんなわけで　できるだけ|　エネルギーが貯まっていない時に|　触れることが　うまく利用するコツよ。": "There's one more thing on this course, for|those of you who have the Charge Boost|feature, it's called \"Full Charge.\" If you|<br>|touch the charge boost when it's not fully|charged, it will instantly charge up. And if|you touch it while it's boosting, when the|<br>|boost is over, the energy is instantly|stored... However, the full charge has no|effect when the energy is fully depleted. So|<br>|the best time to use it is when you have the|least amount of energy left in your system."
+  },
+  "659": {
+    "「もうひとつ　このコースには|　チャージブースト機能を　持っている人向けに|　『フルチャージ』という仕掛けがあるわ。<br>|「チャージブーストの　エネルギーが|　貯まっていない時に　触れると|　即座に貯まりきる　仕掛けよ。<br>|「それと　ブースト中に触れた場合は|　そのブーストが　終わった時|　即座に　エネルギーが貯まりきるわ。<br>|「ただし　『フルチャージ』は|　エネルギーが　貯まりきっている時は|　なんの効果も発揮しないわよ。<br>|「そんなわけで　できるだけ|　エネルギーが貯まっていない時に|　触れることが　うまく利用するコツよ。": "There's one more thing on this course, for|those of you who have the Charge Boost|feature, it's called \"Full Charge.\" If you|<br>|touch the charge boost when it's not fully|charged, it will instantly charge up. And if|you touch it while it's boosting, when the|<br>|boost is over, the energy is instantly|stored... However, the full charge has no|effect when the energy is fully depleted. So|<br>|the best time to use it is when you have the|least amount of energy left in your system."
+  },
+  "660": {
+    "使用しません": "Not used"
+  },
+  "661": {
+    "使用しません": "Not used"
+  },
+  "662": {
+    "使用しません": "Not used"
+  },
+  "663": {
+    "使用しません": "Not used"
+  },
+  "664": {
+    "使用しません": "Not used"
+  },
+  "665": {
+    "使用しません": "Not used"
+  },
+  "666": {
+    "使用しません": "Not used"
+  },
+  "667": {
+    "使用しません": "Not used"
+  },
+  "668": {
+    "使用しません": "Not used"
+  },
+  "669": {
+    "「最後に　このコースについてね。|　ここからスタートした後|　まずは　イナミノ街道を目指すことになるわ。<br>|「イナミノ街道からは　山間の関所にある|　チェックポイントを通って|　カミハルムイ領南を　目指すのよ。<br>|「そして　このコースのゴール地点は|　カミハルムイ領南の王都前よ。<br>|「エントリー後は　地図に目的地が出るから|　参考にすると　いいわ。|　ぜひとも　ベストタイムを　狙ってね。": "Finally, about this course... After starting|from here, we will go to the Inamino road...|From the Inamino road, we will pass through a|<br>|checkpoint in the mountains to the south of|Kamikhalmui territory. And the goal of this|course is the King of the South of|<br>|Kamikhalmui... Once you've entered the|course, your destination will appear on the|map, so if you refer to it... I'm sure you'll|<br>|try to get the best time..."
+  },
+  "670": {
+    "「最後に　このコースについてね。|　ここからスタートした後|　まずは　イナミノ街道を目指すことになるわ。<br>|「イナミノ街道からは　山間の関所にある|　チェックポイントを通って|　カミハルムイ領南を　目指すのよ。<br>|「そして　このコースのゴール地点は|　カミハルムイ領南の王都前よ。<br>|「エントリー後は　地図に目的地が出るから|　参考にすると　いいわ。|　ぜひとも　ベストタイムを　狙ってね。": "Finally, about this course... After starting|from here, we will go to the Inamino road...|From the Inamino road, we will pass through a|<br>|checkpoint in the mountains to the south of|Kamikhalmui territory. And the goal of this|course is the King of the South of|<br>|Kamikhalmui... Once you've entered the|course, your destination will appear on the|map, so if you refer to it... I'm sure you'll|<br>|try to get the best time..."
+  },
+  "671": {
+    "「最後に　このコースについてね。|　ここからスタートした後|　まずは　イナミノ街道を目指すことになるわ。<br>|「イナミノ街道からは　山間の関所にある|　チェックポイントを通って|　カミハルムイ領南を　目指すのよ。<br>|「そして　このコースのゴール地点は|　カミハルムイ領南の王都前よ。<br>|「エントリー後は　地図に目的地が出るから|　参考にすると　いいわ。|　ぜひとも　ベストタイムを　狙ってね。": "Finally, about this course... After starting|from here, we will go to the Inamino road...|From the Inamino road, we will pass through a|<br>|checkpoint in the mountains to the south of|Kamikhalmui territory. And the goal of this|course is the King of the South of|<br>|Kamikhalmui... Once you've entered the|course, your destination will appear on the|map, so if you refer to it... I'm sure you'll|<br>|try to get the best time..."
+  },
+  "672": {
+    "「お試し期間中は　一応　あなたが出した|　最速タイムの記録は　取るけれど　それは|　グランプリ開始と共に　消える仮のものよ。<br>|「それと　お試し期間中は|　ランキングも報酬も無いから|　あくまで　お試しの記録と　考えてね。|<bw_break>": "During the trial period, we'll keep track of|your fastest times, but they're temporary and|will disappear once the Grand Prix begins.|<br>|Also, during the trial period, there are no|rankings or rewards, so it's just a trial|record...<bw_break>"
+  },
+  "673": {
+    "「グランプリ開催中に　あなたが出した|　最速のタイムは　ベストタイムとして|　私が　記録しておくわ。<br>|「ベストタイムが　規定のタイムを切ったとき|　それに応じた報酬を　進呈するよ。<br>|「どんな報酬があるか　知りたければ|　『報酬を見る』を　選んでね。|<bw_break>": "Your fastest time during the Grand Prix will|be recorded by me as your best time. If your|best time falls below a certain time, you|<br>|will be rewarded accordingly. If you want to|see what rewards are available, select \"See|rewards\"...<bw_break>"
+  },
+  "674": {
+    "「トライアル期間中も　グランプリとは別に|　あなたが出した　最速のタイムを|　ベストタイムとして　記録しておくわ。<br>|「ただし　トライアル期間中は|　報酬が無いから　あくまで|　練習用の記録と　考えてね。|<bw_break>": "During the trial period, in addition to the|Grand Prix, we'll record your fastest time as|your best time... However, during the trial|<br>|period, you will not be paid, so it will be|considered a practice run...<bw_break>"
+  },
+  "675": {
+    "「今は　お試し期間中だから|　ランキングもなく　ベストタイムも|　グランプリ開始と共に消える　仮のものよ。|<bw_break>": "We're in a trial period, so there's no|ranking, and the best times will disappear|when the Grand Prix starts.<bw_break>"
+  },
+  "676": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるわ。<br>|「ランキングには　グランプリ用と|　トライアル用の　２種類が　あって|　それぞれ　別々に記録されるのよ。<br>|「今は　グランプリ開催中だから|　確認できるのは　グランプリのランキングよ。<br>|「グランプリが　終わった後は|　トライアル期間になって|　トライアル用のランキングを記録するわ。|<bw_break>": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you can see their time ranking. There|<br>|are two types of rankings, one for the Grand|Prix and one for the Trials, and they're|recorded separately. Now the Grand Prix is in|<br>|progress, so you can only see the Grand Prix|rankings... After the Grand Prix is over, it|is time for the Trials and the Trials|<br>|rankings are recorded...<bw_break>"
+  },
+  "677": {
+    "「フレンドか　同じチームに入っている|　チームメンバーが　一度でもゴールしていれば|　タイムのランキングを　見ることができるわ。<br>|「ランキングには　グランプリ用と|　トライアル用の　２種類があって|　それぞれ　別々に記録されるのよ。<br>|「今は　トライアル期間中だから|　確認できるのは　直近のグランプリと|　トライアルのランキングよ。<br>|「新しいグランプリが　始まったら|　グランプリ用のランキングを|　新しくして　記録するわ。|<bw_break>": "If a friend of yours or a team member who's|on the same team as you has finished at least|once, you can see their time ranking. There|<br>|are two types of rankings, one for the Grand|Prix and one for the Trials, and they're|recorded separately. Right now we're in the|<br>|trial period so you can only see the latest|grand prix and trial times. When a new grand|prix starts, the grand prix rankings will be|<br>|updated to record...<bw_break>"
+  },
+  "678": {
+    "「今　エントリー手続き中よ。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうわね。<br>|「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるわ。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すのよ。|<bw_break>": "Now that the entry process is complete...|Before you complete the process, I'd like to|explain the rules of the race... When the|<br>|dollar board race begins, your elapsed time|and the best time you've ever recorded will|be displayed at all times. If your elapsed|<br>|time goes over 10 minutes, you will be|disqualified, so be careful. You've got to|get to the finish line before that happens.<bw_break>"
+  },
+  "679": {
+    "「今　エントリー手続き中よ。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうわね。<br>|「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるわ。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すのよ。|<bw_break>": "Now that the entry process is complete...|Before you complete the process, I'd like to|explain the rules of the race... When the|<br>|dollar board race begins, your elapsed time|and the best time you've ever recorded will|be displayed at all times. If your elapsed|<br>|time goes over 10 minutes, you will be|disqualified, so be careful. You've got to|get to the finish line before that happens.<bw_break>"
+  },
+  "680": {
+    "「今　エントリー手続き中よ。|　手続きが完了するまでに　レースの|　ルールについて　説明させてもらうわね。<br>|「ドルボードレースが　始まると|　経過時間と　あなたの記録した|　ベストタイムが　常に表示されるわ。<br>|「経過時間が　１０分をこえてしまったら|　失格だから　気をつけて。|　そうなる前にゴールを　目指すのよ。|<bw_break>": "Now that the entry process is complete...|Before you complete the process, I'd like to|explain the rules of the race... When the|<br>|dollar board race begins, your elapsed time|and the best time you've ever recorded will|be displayed at all times. If your elapsed|<br>|time goes over 10 minutes, you will be|disqualified, so be careful. You've got to|get to the finish line before that happens.<bw_break>"
+  },
+  "681": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "682": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "683": {
+    "<pipipi_off><color_yellow>スタート前に　範囲内から出てしまうと|エントリーが取り消されてしまいます。<br>|レース中に　コース外のマップに出たり|ルーラストーンなどで　移動したりすると|失格となります。<br>|また　回線が切断された場合も|失格となります。ご注意ください。<br>|スタート後に　レースを棄権したい場合は|メインコマンドウィンドウで|<map>を押してください。<color_white>": "<pipipi_off><color_yellow>If you leave the area before the start of the|race, your entry will be cancelled... During|the race, if you go off course, or use a|<br>|Zoomstone, you will be disqualified. You|will also be disqualified if you lose your|connection... Please note... If you wish to|<br>|abandon the race after the start, go to the|main command window and click<map>Press the...<color_white>"
+  },
+  "684": {
+    "「また　来てね！": "Come again!"
+  },
+  "685": {
+    "「また　来てね！": "Come again!"
+  },
+  "686": {
+    "「また　来てね！": "Come again!"
+  },
+  "687": {
+    "「また　来てね！": "Come again!"
+  },
+  "688": {
+    "「また　来てね！": "Come again!"
+  },
+  "689": {
+    "「また　来てね！": "Come again!"
+  },
+  "690": {
+    "「レース　お疲れさま。|　あなたに　渡す報酬があったはずよ。|　ええと……": "Race you... I had a reward to give you...|Um..."
+  },
+  "691": {
+    "「レース　お疲れさま。|　あなたに　渡す報酬があったはずよ。|　ええと……": "Race you... I had a reward to give you...|Um..."
+  },
+  "692": {
+    "「レース　お疲れさま。|　あなたに　渡す報酬があったはずよ。|　ええと……": "Race you... I had a reward to give you...|Um..."
+  },
+  "693": {
+    "「あら　あなた　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったのね！<br>|「じゃあ　これを持っていって！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>よ！！": "Oh, you're best time is less than|<%nW_T_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then take this! Your reward for|<br>|beating <%nW_T_M_MINUTE> minutes|<%02nW_T_M_SECOND> seconds is <%sEV_HOUSYU>!"
+  },
+  "694": {
+    "「あら　あなた　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったのね！<br>|「じゃあ　これを持っていって！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>よ！！": "Oh, you're best time is less than|<%nW_T_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then take this! Your reward for|<br>|beating <%nW_T_M_MINUTE> minutes|<%02nW_T_M_SECOND> seconds is <%sEV_HOUSYU>!"
+  },
+  "695": {
+    "「あら　あなた　ベストタイムが|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を　切ったのね！<br>|「じゃあ　これを持っていって！|　<%nW_T_M_MINUTE>分<%02nW_T_M_SECOND>秒を切った　報酬は|　<%sEV_HOUSYU>よ！！": "Oh, you're best time is less than|<%nW_T_MINUTE> minutes <%02nW_T_M_SECOND>|seconds! Then take this! Your reward for|<br>|beating <%nW_T_M_MINUTE> minutes|<%02nW_T_M_SECOND> seconds is <%sEV_HOUSYU>!"
+  },
+  "696": {
+    "「……って　あなた　どうぐかばんが|　いっぱいで　持てないみたいよ！|　荷物を整理して　また来てね！": "I... It looks like your bag is full and you|can't carry it! Get your stuff together and|come back!"
+  },
+  "697": {
+    "「……って　あなた　どうぐかばんが|　いっぱいで　持てないみたいよ！|　荷物を整理して　また来てね！": "I... It looks like your bag is full and you|can't carry it! Get your stuff together and|come back!"
+  },
+  "698": {
+    "「……って　あなた　どうぐかばんが|　いっぱいで　持てないみたいよ！|　荷物を整理して　また来てね！": "I... It looks like your bag is full and you|can't carry it! Get your stuff together and|come back!"
+  },
+  "699": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "700": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "701": {
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+  },
+  "702": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "703": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "704": {
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+  },
+  "705": {
+    "「これで　ベストタイム報酬は　全部獲得よ！|　あなたからは　すさまじいまでの|　レース屋スピリットを感じるわ！": "You've earned all the best times! You've got|a hell of a racer's spirit!"
+  },
+  "706": {
+    "「これで　ベストタイム報酬は　全部獲得よ！|　あなたからは　すさまじいまでの|　レース屋スピリットを感じるわ！": "You've earned all the best times! You've got|a hell of a racer's spirit!"
+  },
+  "707": {
+    "「これで　ベストタイム報酬は　全部獲得よ！|　あなたからは　すさまじいまでの|　レース屋スピリットを感じるわ！": "You've earned all the best times! You've got|a hell of a racer's spirit!"
+  },
+  "708": {
+    "「またの参加　待っているわ！": "I'm waiting for you to join us again!"
+  },
+  "709": {
+    "「またの参加　待っているわ！": "I'm waiting for you to join us again!"
+  },
+  "710": {
+    "「またの参加　待っているわ！": "I'm waiting for you to join us again!"
+  },
+  "711": {
+    "「またの参加　待っているわ！": "I'm waiting for you to join us again!"
+  },
+  "712": {
+    "「またの参加　待っているわ！": "I'm waiting for you to join us again!"
+  },
+  "713": {
+    "「またの参加　待っているわ！": "I'm waiting for you to join us again!"
+  },
+  "714": {
+    "「あら？　": "What?"
+  },
+  "715": {
+    "「あら？　": "What?"
+  },
+  "716": {
+    "「あら？　": "What?"
+  },
+  "717": {
+    "「ううん　惜しかったね……。|　ここまで　来れたのなら|　制限時間内のゴールは　もう少しよ！<br>|「なんにしても　今回のレースは　終了よ！|　さて　スタート地点までもどるの？|<yesno><break>": "No, that was a close one... If you've made it|this far, you're close to finishing within|the time limit! Well, whatever it takes, this|<br>|race is over! So, are we going back to the|start?<yesno><break>"
+  },
+  "718": {
+    "「ううん　惜しかったね……。|　ここまで　来れたのなら|　制限時間内のゴールは　もう少しよ！<br>|「なんにしても　今回のレースは　終了よ！|　さて　スタート地点までもどるの？|<yesno><break>": "No, that was a close one... If you've made it|this far, you're close to finishing within|the time limit! Well, whatever it takes, this|<br>|race is over! So, are we going back to the|start?<yesno><break>"
+  },
+  "719": {
+    "「ううん　惜しかったね……。|　ここまで　来れたのなら|　制限時間内のゴールは　もう少しよ！<br>|「なんにしても　今回のレースは　終了よ！|　さて　スタート地点までもどるの？|<yesno><break>": "No, that was a close one... If you've made it|this far, you're close to finishing within|the time limit! Well, whatever it takes, this|<br>|race is over! So, are we going back to the|start?<yesno><break>"
+  },
+  "720": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたかな？<br>|「今回のレースで　あなたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位で　ここに到着したみたいよ。|　タイムと順位は　別物だけどね。<br>|「なんにしても　今回のレースは　終了よ！|　さて　スタート地点までもどるの？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|<%nEV_LUA_NUM_1> out of <%nEV_LUA_NUM_2>...|<br>|Time and place are not the same thing... But|whatever it is, this race is over! So, back|to the start?<yesno><break>"
+  },
+  "721": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたかな？<br>|「今回のレースで　あなたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位で　ここに到着したみたいよ。|　タイムと順位は　別物だけどね。<br>|「なんにしても　今回のレースは　終了よ！|　さて　スタート地点までもどるの？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|<%nEV_LUA_NUM_1> out of <%nEV_LUA_NUM_2>...|<br>|Time and place are not the same thing... But|whatever it is, this race is over! So, back|to the start?<yesno><break>"
+  },
+  "722": {
+    "「ゴールおめでとう！|　ベストタイムは　更新できたかな？<br>|「今回のレースで　あなたは|　<%nEV_LUA_NUM_1>人中<%nEV_LUA_NUM_2>位で　ここに到着したみたいよ。|　タイムと順位は　別物だけどね。<br>|「なんにしても　今回のレースは　終了よ！|　さて　スタート地点までもどるの？|<yesno><break>": "Congratulations on your goal. Did you beat|your best time? In this race, you came in|<%nEV_LUA_NUM_1> out of <%nEV_LUA_NUM_2>...|<br>|Time and place are not the same thing... But|whatever it is, this race is over! So, back|to the start?<yesno><break>"
+  },
+  "723": {
+    "「私は　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race|starts... See you later!"
+  },
+  "724": {
+    "「私は　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race|starts... See you later!"
+  },
+  "725": {
+    "「私は　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race|starts... See you later!"
+  },
+  "726": {
+    "「あら　そうなの。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　私は　いなくなるから|　注意してね。": "Oh, well... Well, if you want to go home,|we'll talk... But if you go somewhere else,|I'll be gone, so be careful..."
+  },
+  "727": {
+    "「あら　そうなの。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　私は　いなくなるから|　注意してね。": "Oh, well... Well, if you want to go home,|we'll talk... But if you go somewhere else,|I'll be gone, so be careful..."
+  },
+  "728": {
+    "「あら　そうなの。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　私は　いなくなるから|　注意してね。": "Oh, well... Well, if you want to go home,|we'll talk... But if you go somewhere else,|I'll be gone, so be careful..."
+  },
+  "729": {
+    "「さて　スタート地点までもどるの？|<yesno><break>": "So, we're back to where we started?<yesno><break>"
+  },
+  "730": {
+    "「さて　スタート地点までもどるの？|<yesno><break>": "So, we're back to where we started?<yesno><break>"
+  },
+  "731": {
+    "「さて　スタート地点までもどるの？|<yesno><break>": "So, we're back to where we started?<yesno><break>"
+  },
+  "732": {
+    "「私は　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race|starts... See you later!"
+  },
+  "733": {
+    "「私は　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race|starts... See you later!"
+  },
+  "734": {
+    "「私は　これで|　次のレースが始まるまで　いなくなるからね。|　それじゃあ　また！": "I'll be gone now until the next race|starts... See you later!"
+  },
+  "735": {
+    "「あら　そうなの。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　私は　いなくなるから|　注意してね。": "Oh, well... Well, if you want to go home,|we'll talk... But if you go somewhere else,|I'll be gone, so be careful..."
+  },
+  "736": {
+    "「あら　そうなの。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　私は　いなくなるから|　注意してね。": "Oh, well... Well, if you want to go home,|we'll talk... But if you go somewhere else,|I'll be gone, so be careful..."
+  },
+  "737": {
+    "「あら　そうなの。|　じゃあ　帰りたくなったら|　また　話しかけてね。<br>|「ただし　あなたが　別の場所に行ったら|　私は　いなくなるから|　注意してね。": "Oh, well... Well, if you want to go home,|we'll talk... But if you go somewhere else,|I'll be gone, so be careful..."
+  },
+  "738": {
+    "「今は　グランプリ開催中さ！|　おっと　まだ以前のグランプリ報酬を|　受け取っていない場所が　あるようだ。<br>|「以前グランプリが|　開催された場所で　報酬を受け取ってから|　また来ておくれ。": "We're in the middle of a Grand Prix! Oops,|there's still one place where I haven't|received my previous Grand Prix reward...|<br>|I'll have to pick up my reward at one of the|previous Grand Prix locations and come|back..."
+  },
+  "739": {
+    "使用しません": "Not used"
+  },
+  "740": {
+    "「９月１１日までは　お試し期間中だね！|　おっと　まだ以前のグランプリ報酬を|　受け取っていない場所が　あるようだ。<br>|「以前グランプリが|　開催された場所で　報酬を受け取ってから|　また来てくれ。": "You're in a trial period until September|11th. Oops, there's still a place where I|haven't received my previous Grand Prix|<br>|reward... You'll have to pick up your rewards|at a previous Grand Prix location and then|come back..."
+  },
+  "741": {
+    "「今は　グランプリ開催中だね！|　おっと　まだ以前のグランプリ報酬を|　受け取っていない場所が　あるようだ。<br>|「以前グランプリが|　開催された場所で　報酬を受け取ってから|　また来てくれ。": "The Grand Prix is on now! Oops, there's still|a place where I haven't received my previous|Grand Prix reward... I'll have to pick up my|<br>|reward at one of the previous Grand Prix|locations and then come back..."
+  },
+  "742": {
+    "使用しません": "Not used"
+  },
+  "743": {
+    "「８月６日までは　お試し期間中だね！|　あれれ？　まだ以前のグランプリ報酬を|　受け取っていない場所が　あるよー。<br>|「以前グランプリが|　開催された場所で　報酬を受け取ってから|　また来てねー。": "You're on a trial basis until August 6th!|What? There are still places where you|haven't received your rewards... You'll have|<br>|to pick up your rewards at a previous Grand|Prix location..."
+  },
+  "744": {
+    "「今は　グランプリ開催中だね！|　あれれ？　まだ以前のグランプリ報酬を|　受け取っていない場所が　あるよー。<br>|「以前グランプリが|　開催された場所で　報酬を受け取ってから|　また来てねー。": "We're in the middle of the Grand Prix! What?|There are still places where you haven't|received your previous Grand Prix rewards...|<br>|I'll have to pick up my reward at one of the|previous Grand Prix locations and come|back..."
+  },
+  "745": {
+    "使用しません": "Not used"
+  },
+  "746": {
+    "「１０月１３日までは　お試し期間中よ！|　あら？　まだ以前のグランプリ報酬を|　受け取っていない場所が　あるみたい。<br>|「以前グランプリが|　開催された場所で　報酬を受け取ってから|　また来てね。": "We're offering a trial period until October|13th! What? There are still places where you|haven't received your rewards... I'll have to|<br>|pick up my rewards at a previous grand prix|location and then..."
+  },
+  "747": {
+    "「今は　グランプリ開催中よ！|　あら？　まだ以前のグランプリ報酬を|　受け取っていない場所が　あるみたい。<br>|「以前グランプリが|　開催された場所で　報酬を受け取ってから|　また来てね。": "We're in the middle of the Grand Prix! What?|There are still places where you haven't|received your previous Grand Prix rewards...|<br>|You have to go to a previous Grand Prix to|collect your reward and then..."
+  },
+  "748": {
+    "使用しません": "Not used"
+  },
+  "749": {
+    "使用しません": "Not used"
+  },
+  "750": {
+    "使用しません": "Not used"
+  },
+  "751": {
+    "使用しません": "Not used"
+  },
+  "752": {
+    "使用しません": "Not used"
+  },
+  "753": {
+    "使用しません": "Not used"
+  },
+  "754": {
+    "使用しません": "Not used"
+  },
+  "755": {
+    "使用しません": "Not used"
+  },
+  "756": {
+    "使用しません": "Not used"
+  },
+  "757": {
+    "使用しません": "Not used"
+  },
+  "758": {
+    "使用しません": "Not used"
+  },
+  "759": {
+    "使用しません": "Not used"
+  },
+  "760": {
+    "使用しません": "Not used"
+  },
+  "761": {
+    "使用しません": "Not used"
+  },
+  "762": {
+    "使用しません": "Not used"
+  },
+  "763": {
+    "使用しません": "Not used"
+  },
+  "764": {
+    "使用しません": "Not used"
+  },
+  "765": {
+    "使用しません": "Not used"
+  },
+  "766": {
+    "使用しません": "Not used"
+  },
+  "767": {
+    "使用しません": "Not used"
+  },
+  "768": {
+    "使用しません": "Not used"
+  },
+  "769": {
+    "使用しません": "Not used"
+  },
+  "770": {
+    "使用しません": "Not used"
+  }
+}

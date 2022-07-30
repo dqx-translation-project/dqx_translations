@@ -1,0 +1,74 @@
+{
+  "1": {
+    "「他にも　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "2": {
+    "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you... We look forward to serving you|again.<turn_end>"
+  },
+  "3": {
+    "<select_se_off>|あずける|ひきだす|<select_end><break>": ""
+  },
+  "4": {
+    "<select_se_off 2>|あずける|ひきだす|<select_end><break>": ""
+  },
+  "5": {
+    "「おや？　正しい数が|　入っていないようですよ。|<bw_break>": "Hmm? I don't think we have the right|number...<bw_break>"
+  },
+  "6": {
+    "「お客さまからは　ゴールドを|　お預かりしていないようです。|<br>|「他にも　ご用はありますか？|<break>": "I don't think you have any gold on you. Is|there anything else I can do for you?<break>"
+  },
+  "7": {
+    "「失礼ですが　お客さまは|　預けられるだけの　ゴールドを|　お持ちでないようです。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't think you have|enough gold in your account to make a|deposit. Is there anything else I can do for|<br>|you?<break>"
+  },
+  "8": {
+    "「申し訳ありませんが|　これ以上　お預かりできません。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, sir. I can't keep you any longer.|Is there anything else I can do for you?<break>"
+  },
+  "9": {
+    "「そんなに　たくさん　お持ちになれませんよ。|<br>|「他にも　ご用はありますか？|<break>": "I'm afraid I don't have that many. Is there|anything else I can do for you?<break>"
+  },
+  "10": {
+    "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　どうしますか？|<break>": "You currently have <%nL_AZU_BALANCE>000 gold|in your account.<break>"
+  },
+  "11": {
+    "「お客さまから　お預かりのゴールドは|　ありませんが　今日は　どうしますか？|<break>": "I don't have any gold for you. What can I do|for you today?<break>"
+  },
+  "12": {
+    "「１０００ゴールド単位で　お預かりします。|　いくら　お預けになりますか？|<break>": "We accept deposits in increments of 1,000|gold... How much would you like to deposit?<break>"
+  },
+  "13": {
+    "「１０００ゴールド単位で　お渡しできます。|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　いくら引き出しますか？|<break>": "I'll give it to you in units of 1000 gold...|You currently have <%nL_AZU_BALANCE>000 gold.|How much would you like to withdraw?<break>"
+  },
+  "14": {
+    "「どちらを　ご利用になりますか？|<break>": "Which one do you want to use?<break>"
+  },
+  "15": {
+    "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "We currently have <%nL_AZU_BALANCE>000 gold|in our custody... Is there anything else I|can do for you, sir?<break>"
+  },
+  "16": {
+    "「現在　お預かりしている|　ゴールドは　ありません。|　他にも　ご用はありますか？|<break>": "We have the gold in our possession now. Is|there anything else I can do for you?<break>"
+  },
+  "17": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド|　確かに　お預かりしました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, we have it...|You have <%L_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you, sir?<break>"
+  },
+  "18": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　確かに　お返ししました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold... You have|<%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you, sir?<break>"
+  },
+  "19": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド|　お返ししました。現在　お客さまから|　お預かりのゴールドは　ありません。|<br>|「他にも　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold returned... We|currently have no gold on deposit... Is there|anything else I can do for you?<break>"
+  },
+  "20": {
+    "「<%nL_WITHDRW_GLD>０００ゴールド　お返しして|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。他に　ご用はありますか？|<break>": "<%nL_WITHDRW_GLD>000 gold Returned and|currently <%nL_AZU_BALANCE>000 gold I'll|leave you... Is there anything else I can do|<br>|for you?<break>"
+  },
+  "21": {
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド　お預かりして|　合計で　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。他に　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, keep it. Total,|<%nL_AZU_BALANCE>000 Gold, please keep... Is|there anything else I can do for you?<break>"
+  },
+  "22": {
+    "「さて　本日は　どちらをご利用ですか？|<break>": "So, where would you like to go today, sir?<break>"
+  },
+  "23": {
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+  },
+  "24": {
+    "「わたくし　魔塔銀行員のボクスでございます。|　お客様が　魔塔で手に入れた　大切なゴールドは|　責任をもって　お預かりさせて　いただきます。|<bw_break>": "I'm Vox, the banker from the evil tower...|I'll take full responsibility for the|precious gold you've acquired in the magical|<br>|tower...<bw_break>"
+  }
+}

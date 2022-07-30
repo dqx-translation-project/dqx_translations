@@ -1,0 +1,128 @@
+{
+  "1": {
+    "「お前さん　それ以上　持ちきれんようじゃな。|　どうぐかばんを整理して　また来ておくれ。|<end>": "I don't think I can carry much more... You'll|have to clean out your bag and come back...<end>"
+  },
+  "2": {
+    "<pc>は|<%sM_CAPSULE_NAME>を　手に入れた！|<end>": "<pc> got <%sM_CAPSULE_NAME>!<end>"
+  },
+  "3": {
+    "「どのパックの　ラインナップを|　見たいんじゃ？|<break>": "Which pack would you like to see in the|lineup?<break>"
+  },
+  "4": {
+    "「<%sM_CAPSULE_NAME>じゃな。|　それなら　ダブリィポイントを|　<%nM_DOUBLY_POINT>ポイントもらうが　よいかのう？|<yesno2>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>": "<%sM_CAPSULE_NAME>... Would you like to get|<%nM_DOUBLY_POINT> points?<yesno2>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>"
+  },
+  "5": {
+    "「おや？　このカプセルは|　前に　手に入れたことが　あるようじゃが|　本当に　これで　よいのか？|<yesno2>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>": "Hmm? These capsules look like they've been in|your possession before, but are you sure|these are the right ones?<yesno2>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>"
+  },
+  "6": {
+    "「どのパックの　カプセルが|　ほしいんじゃ？|<break>": "What pack of capsules do you want?<break>"
+  },
+  "7": {
+    "「ダブリィポイントを　何に使うのかの？|　ニャンコインか　お前さんの好きなカプセルと|　交換してあげるぞい！|<break>": "What will you use your Doubly Points for? I|can trade them for coins or a capsule of your|choice!<break>"
+  },
+  "8": {
+    "「ニャンコインが　必要になったら|　ちいさなメダルを　たくさん持って|　また来ておくれ。|<end>": "If you ever need more coins, come back with|lots of little medals...<end>"
+  },
+  "9": {
+    "「ニャンコインセールは|　１１日　０５時５９分までじゃ。|　これを逃す手は　ないぞい！|<end>": "The Nyancoin Sale ends at 05:59 on the 11th.|You don't want to miss this!<end>"
+  },
+  "10": {
+    "「今　新しいパックを　準備しているところでな。|　うまくいけば　<tm%nM_NEXT_TIME>月の　にゃんにゃんの日に|　追加できそうなんで　期待して　待っててくれ！|<end>": "I'm getting a new pack ready... Hopefully.<tm%nM_NEXT_TIME>I'll be able to add it on NyanNyan Day in|June, so please wait and see!<end>"
+  },
+  "11": {
+    "「む……。回収できるカプセルを|　持っていないようじゃな。|　ガニャポンで手に入るカプセルは　回収するぞい。|<bw_break>": "No... I don't think we have any capsules to|collect. The capsules you get from the|Gagnapons are collectable...<bw_break>"
+  },
+  "12": {
+    "「ちいさなメダルが　足りんようじゃ。|　ニャンコインと　交換するには|　<%nM_COIN_MEDAL>枚　必要なんじゃ。すまんのう。|<bw_break>": "We need more of those little medals... I'll|need <%nM_COIN_MEDAL> to exchange for the|coins. Sorry...<bw_break>"
+  },
+  "13": {
+    "「お前さん　それ以上　持ちきれんようじゃな。|　どうぐかばんを整理して　また来ておくれ。|<bw_break>": "I don't think I can carry much more... You'll|have to clean out your bag and come back...<bw_break>"
+  },
+  "14": {
+    "<pc>は|ニャンコインを　<%dM_NUM>個　手に入れた！|<end>": "<pc> got <%dM_NUM> of Nyancoins!<end>"
+  },
+  "15": {
+    "「ニャンコインを　何個　ほしいのじゃ？|　ちいさなメダル　<%nM_COIN_MEDAL>枚で|　ニャンコイン　１個と　交換するぞい。|<break>": "How many Nyancoins do you want? A small medal|<%nM_COIN_MEDAL> can be exchanged for one|Nyan coin...<break>"
+  },
+  "16": {
+    "「ニャンコイン　<%nM_NUM>個　じゃな？|　ちいさなメダル　<%nM_COST>枚と　交換になるが|　それでも　よいかのう？|<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>": "Nyancoins <%nM_NUM>, right? I'll trade you a|small medal <%nM_COST> if you're okay with|that.<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>"
+  },
+  "17": {
+    "「ちいさなメダル　<%nM_COIN_SALE_OUT>枚で|　ニャンコイン　５個のところ　２個オマケで|　<%nM_COIN_SALE_IN>個と交換してやろう！　どうじゃ？|<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>": "For every <%nM_COIN_SALE_OUT> small medal,|I'll give you two extra Nyancoins for five|<%nM_COIN_SALE_IN>! What do you think?<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>"
+  },
+  "18": {
+    "「お前さんや。|　ちょろまかそうとしちゃあ　いかんよ。|　きちんと　ちいさなメダルを持っておいで。|<bw_break>": "You... Don't try to fool around... Take your|little medallion...<bw_break>"
+  },
+  "19": {
+    "「ニャンコインを　何個　ほしいのじゃ？|　ダブリィポイント　<%nM_COIN_DOUBLY>ポイントで|　ニャンコイン　１個と　交換するぞい。|<break>": "How many Nyancoins do you want? You can|exchange <%nM_COIN_DOUBLY> points for 1|Nyancoin...<break>"
+  },
+  "20": {
+    "「ニャンコイン　<%nM_NUM>個　じゃな？|　ダブリィポイント　<%nM_COST>ポイントと|　交換になるが　それでも　よいかのう？|<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>": "Nyancoins <%nM_NUM>, right? It'll be|exchanged for <%nM_COST> Doubly Points, if|that's okay with you.<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>"
+  },
+  "21": {
+    "「ちまたでは　ネコが　大人気らしくてのう。 |　いろいろな姿と色をしたネコの　ついてクンを　|　配ることに　決めたんじゃ。|<br>|「じゃが　ただ　配るだけじゃ　おもしろくない。 |　どのネコが来るか　わからないようにしたら|　ワクワクできるとは　思わんか？|<br>|「そこで　錬金術を駆使して　こさえたのが |　この　無作為型ついてクンカプセル自動提供装置|　『ガニャポン』なのじゃよ。|<br>|「ついてクンを　未来永劫　作りまくって |　わしの名を売り　完全なる魔法生物の研究を|　続けてみせようではないか！|<bw_break>": "Cats seem to be all the rage around here...|We decided to hand out tokens with cats of|all shapes and colors... But it's not fun to|<br>|just hand them out... Don't you think it'd be|more exciting if you didn't know which cat|would come? That's why I used alchemy to|<br>|create this randomized tokens capsule|delivery device called \"Ganyapon\". I'll make|Follow-Cunts forever and ever, sell my name,|<br>|and continue my research on the perfect|magical creature!<bw_break>"
+  },
+  "22": {
+    "「ガニャポンを使うのに　必要なコインじゃ。|　ちいさなメダル　<%nM_COIN_MEDAL>枚で|　ニャンコイン　１個と　交換してやるぞい。|<br>|「ちいさなメダルは　メダル・オーナーとやらが|　いろいろな物と　交換してくれるらしいでな。|　わしが　ほしいものは……秘密じゃ！|<bw_break>": "I need the coins to use the Gagnapon. A small|medal <%nM_COIN_MEDAL> can be exchanged for|one Nyan coin... The medal owner will|<br>|exchange the medal for a variety of things.|What I want... It's a secret!<bw_break>"
+  },
+  "23": {
+    "「もしも　すでに　手に入れたカプセルや|　こいつは　いらんというカプセルが　出たときは|　わしが　引き取るから　安心するんじゃ。|<br>|「引きかえに　ダブリィポイントをやろう。|　このポイントを貯めれば　ニャンコインか|　好きなカプセルと　交換できるんじゃぞい！|<bw_break>": "If you come across any capsules that you've|already acquired, or any capsules that you|don't want, rest assured, I will take them.|<br>|In exchange, I'll give you some Doubly|Points. These points can be exchanged for|Nyancoins or capsules of your choice!<bw_break>"
+  },
+  "24": {
+    "「わしは　おのれの意思を持ち　自由に行動する |　完全なる魔法生物を作ることを　目指しとる。|　あの人に　追いつくためにな。|<br>|「……今のわしには　持ち主のうしろを|　自由気ままに　ついてくるだけの|　ついてクンをこさえるのが　精いっぱいじゃ。|<br>|「じゃが　決して　あきらめんぞ。|　いつかは　あの人の作った　ハナを超える|　完全なる魔法生物を　こさえてみせるぞい！|<br>|「……おお　そうじゃ。ついてクンカプセルは |　風の町アズランにいる　玩具屋カルタという|　エルフの男に　渡してくれ。|<br>|「彼が　カプセルを開いて |　ついてクンを　取りだしてくれるぞい。|　くわしい使いかたも　そこで聞けるでな。|<bw_break>": "My goal is to create a magical creature with|a mind of its own and the freedom to act as|it pleases. I'm trying to catch up with her.|<br>|... Right now, I can only manage to keep up|with the Followers, who follow their owners|around at will. But I'll never give up...|<br>|Someday, I'll create a magical creature more|perfect than the one you created. Oh... Oh,|yeah... I'm going to give this capsule to an|<br>|elven man named Karuta, a toymaker in the|wind town of Aztlan. He'll open the capsule|and take out your tails... He'll also tell|<br>|you how to use it.<bw_break>"
+  },
+  "25": {
+    "「ほほう　勉強熱心じゃな。感心　感心。|　何について　聞きたいのじゃ？|<break>": "You're very studious... I'm impressed. What|do you want to know about?<break>"
+  },
+  "26": {
+    "「他にも　何か　聞きたいことは　あるかの？|<break>": "Is there anything else you'd like to ask me?<break>"
+  },
+  "27": {
+    "「<%sM_CAPSULE_NAME>を　<%nM_NUM>個じゃな？|　ダブリィポイント　<%nM_GAIN_POINT>ポイントになるが|　それで　よいかの？|<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>": "<%sM_CAPSULE_NAME> for <%nM_NUM>, right?|That's <%nM_GAIN_POINT> points of duplicity,|is that okay?<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>"
+  },
+  "28": {
+    "「まだ　開けたことがない　カプセルのようじゃが|　本当に　引き取ってしまって　よいかの？|<yesno2>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>": "It looks like a capsule that hasn't been|opened yet. Are you sure you want to take it?<yesno2>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>"
+  },
+  "29": {
+    "<pc>は|<%sM_CAPSULE_NAME>を　<%dM_NUM>個渡して|ダブリィポイントを　<%dM_GAIN_POINT>ポイント　もらった。|<end>": "<pc> passes <%dM_NUM> of <%sM_CAPSULE_NAME> and|<%dM_GAIN_POINT> points for the dummy|points...<end>"
+  },
+  "30": {
+    "「なんと！　<%sM_CAPSULE_NAME>ではないか。|　これなら　<%nM_NUM>個で　ダブリィポイント|　<%nM_GAIN_POINT>ポイントになるが　それで　よいかの？|<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>": "Oh my god! <%sM_CAPSULE_NAME>... That would|be <%nM_NUM> double points <%nM_GAIN_POINT>|points, is that okay?<yesno>|<case 1><close>|<case 2><break>|<case_cancel><break>|<case_end>"
+  },
+  "31": {
+    "「ふむ。回収してほしいのは|　どのカプセルなのじゃ？|　引きかえに　ダブリィポイントをやるぞい。|<break>": "Hmm. Which capsule would you like me to|retrieve? In exchange, I'll give you a few|Doubly Points and...<break>"
+  },
+  "32": {
+    "「さあさあ　何を　お望みかの？|　ガニャポンのことなら　なんでもござれじゃ。|<break>": "Now, now, what can I do for you? Anything|about gagnapons...<break>"
+  },
+  "33": {
+    "「他に　したいことは　あるかの？|　ガニャポンのことなら　なんでもござれじゃ。|<break>": "Is there anything else you'd like to do?|Anything to do with ganyapon...<break>"
+  },
+  "34": {
+    "「ダブリィポイントが　足りないようじゃのう。|　<%sM_CAPSULE_NAME>は　<%nM_DOUBLY_POINT>ポイントあれば|　交換するんで　がんばって　集めとくれ。|<end>": "Looks like you're short on Dubly points...|I'll exchange <%sM_CAPSULE_NAME> for|<%nM_DOUBLY_POINT> points if I have them, so|<br>|good luck collecting them...<end>"
+  },
+  "35": {
+    "「ダブリィポイントが　足りないようじゃのう。|　<%nM_COIN_DOUBLY>ポイントあれば　ニャンコイン　１個と|　交換するんで　がんばって　集めとくれ。|<bw_break>": "It looks like you're short on Dubly points...|If you have <%nM_COIN_DOUBLY> points, I'll|exchange them for one Nyancoin, so good luck|<br>|collecting them...<bw_break>"
+  },
+  "36": {
+    "「今　お得なセールを　やっとるんじゃが|　そっちを利用せんでも　ええんか？|　損してしまうかも　しれんぞ。|<yesno2><break>": "There's a great sale going on right now. Is|it okay if I don't take advantage of it? You|might lose money...<yesno2><break>"
+  },
+  "37": {
+    "「なんじゃ　やめるんか。|<bw_break>": "What? Don't...<bw_break>"
+  },
+  "38": {
+    "「……む。今　なんの話をしていたか|　スッポリと　忘れてしまったわい。|<br>|「すまんが　もう一度　わしに|　話しかけてもらえんかのう。|　トシは　取りたくないもんじゃな。|<end>": ".... I completely forgot what I was talking|about... I'm sorry, but if you could talk to|me again... I don't want to get old...<end>"
+  },
+  "39": {
+    "「ちいさなメダルが　足りんようじゃな。|　お得なセットは　ちいさなメダル　<%nM_COIN_SALE_OUT>枚から|　交換可能なんじゃ。すまんのう。|<bw_break>": "You're missing a little medal... We're|offering a special set of medals that can be|exchanged for <%nM_COIN_SALE_OUT>... I'm|<br>|sorry...<bw_break>"
+  },
+  "40": {
+    "「さあさあ　何を　お望みかの？|　ガニャポンのことなら　なんでもござれじゃ。|　今なら　お得なセールを　やっとるぞ。|<break>": "Now, now, what can I do for you? Everything|you need to know about gagnapons... We're|having a special sale right now...<break>"
+  },
+  "41": {
+    "「他に　したいことは　あるかの？|　ガニャポンのことなら　なんでもござれじゃ。|　今なら　お得なセールを　やっとるぞ。|<break>": "Is there anything else you'd like to do?|Anything to do with ganyapon... We're having|a special sale right now...<break>"
+  },
+  "42": {
+    "「お前さんや。|　ちょろまかそうとしちゃあ　いかんよ。|　きちんと　ダブリィポイントを貯めるのじゃよ。|<bw_break>": "You... Don't try to cheat... I'm just trying|to earn some points...<bw_break>"
+  }
+}

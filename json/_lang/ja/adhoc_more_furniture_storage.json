@@ -1,0 +1,179 @@
+{
+  "1": {
+    "<speed=0><select 2>|<%sL_ITEM_NAME><%sL_PLUSNUM>は|今　装備している物ですが|<%sL_VAULT_TYPE>に　しまいますか？|<yesno><break>": "<speed=0><select 2>|<%sL_ITEM_NAME><%sL_PLUSNUM>は|今　装備している物ですが|<%sL_VAULT_TYPE>に　しまいますか？|<yesno><break>"
+  },
+  "2": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を|<%sL_VAULT_TYPE>に　しまった！|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を|<%sL_VAULT_TYPE>に　しまった！|<bw_break>"
+  },
+  "3": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個|<%sL_VAULT_TYPE>に　しまった！|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個|<%sL_VAULT_TYPE>に　しまった！|<bw_break>"
+  },
+  "4": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ|<%sL_VAULT_TYPE>に　しまった！|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ|<%sL_VAULT_TYPE>に　しまった！|<bw_break>"
+  },
+  "5": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだした。|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだした。|<bw_break>"
+  },
+  "6": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個　取りだした。|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個　取りだした。|<bw_break>"
+  },
+  "7": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ　取りだした。|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ　取りだした。|<bw_break>"
+  },
+  "8": {
+    "<speed=0>左手に装備してる|<%sL_EQUIP_LEFT>を　はずして|そうびぶくろの中に入れた。|<bw_break>": "<speed=0>左手に装備してる|<%sL_EQUIP_LEFT>を　はずして|そうびぶくろの中に入れた。|<bw_break>"
+  },
+  "9": {
+    "<speed=0><%sL_BAG_TYPE>には　何も入っていません。|<bw_break>": "<speed=0><%sL_BAG_TYPE>には　何も入っていません。|<bw_break>"
+  },
+  "10": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　呪われているので|はずせません。|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　呪われているので|はずせません。|<bw_break>"
+  },
+  "11": {
+    "<speed=0><%sL_BAG_TYPE>が　いっぱいのため|<%sL_ITEM_NAME><%sL_PLUSNUM>は　取りだせなかった。|<bw_break>": "<speed=0><%sL_BAG_TYPE>が　いっぱいのため|<%sL_ITEM_NAME><%sL_PLUSNUM>は　取りだせなかった。|<bw_break>"
+  },
+  "12": {
+    "<speed=0><%sL_VAULT_TYPE>には　これ以上|<%sL_ITEM_NAME><%sL_PLUSNUM>を　しまえません。|<bw_break>": "<speed=0><%sL_VAULT_TYPE>には　これ以上|<%sL_ITEM_NAME><%sL_PLUSNUM>を　しまえません。|<bw_break>"
+  },
+  "13": {
+    "<speed=0><%sL_VAULT_TYPE>には　これ以上|アイテムをしまうことが　できません。|<bw_break>": "<speed=0><%sL_VAULT_TYPE>には　これ以上|アイテムをしまうことが　できません。|<bw_break>"
+  },
+  "14": {
+    "<speed=0>収納家具の利用権限がないため|収納家具は　使えません。": "<speed=0>収納家具の利用権限がないため|収納家具は　使えません。"
+  },
+  "15": {
+    "<speed=0>この家のオーナーではないため|屋根ウラ収納は　使えません。": "<speed=0>この家のオーナーではないため|屋根ウラ収納は　使えません。"
+  },
+  "16": {
+    "<speed=0><%sL_VAULT_TYPE>には　何もありません。|<bw_break>": "<speed=0><%sL_VAULT_TYPE>には　何もありません。|<bw_break>"
+  },
+  "17": {
+    "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<break>": "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<break>"
+  },
+  "18": {
+    "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　のぞきこんだ。|<break>": "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　のぞきこんだ。|<break>"
+  },
+  "19": {
+    "<speed=0>|持ち物を　しまったり　取りだせます。|どうしますか？|<select_se_off>|しまう|取りだす|<select_end><break>": "<speed=0>|持ち物を　しまったり　取りだせます。|どうしますか？|<select_se_off>|しまう|取りだす|<select_end><break>"
+  },
+  "20": {
+    "<speed=0>|持ち物を　しまったり　取りだせます。|どうしますか？|<select_se_off 2>|しまう|取りだす|<select_end><break>": "<speed=0>|持ち物を　しまったり　取りだせます。|どうしますか？|<select_se_off 2>|しまう|取りだす|<select_end><break>"
+  },
+  "21": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　|他の人に　わたすことができないアイテムのため|他人の家の収納家具には　しまえません。|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　|他の人に　わたすことができないアイテムのため|他人の家の収納家具には　しまえません。|<bw_break>"
+  },
+  "22": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなた専用の装備品のため|他人の家の収納家具には　しまえません。|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなた専用の装備品のため|他人の家の収納家具には　しまえません。|<bw_break>"
+  },
+  "23": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　|屋根ウラ収納や　収納家具に|入れることは　できません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　|屋根ウラ収納や　収納家具に|入れることは　できません。"
+  },
+  "24": {
+    "<speed=0>予期せぬエラーにより|動作を完了することが　できませんでした。": "<speed=0>予期せぬエラーにより|動作を完了することが　できませんでした。"
+  },
+  "25": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　しまうことが|できませんでした。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　しまうことが|できませんでした。"
+  },
+  "26": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだすことが|できませんでした。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだすことが|できませんでした。"
+  },
+  "27": {
+    "しまうときは　持ち物の種類を選択し|しまいたいアイテムを選ぶと　収納できます。|<br>|取り出すときは　収納に入っている|取り出したいアイテムを選ぶと　取り出せます。|<end>": "しまうときは　持ち物の種類を選択し|しまいたいアイテムを選ぶと　収納できます。|<br>|取り出すときは　収納に入っている|取り出したいアイテムを選ぶと　取り出せます。|<end>"
+  },
+  "28": {
+    "<%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<br>|しまうときは　持ち物の種類を選択し|しまいたいアイテムを選ぶと　収納できます。|<br>|取り出すときは　収納に入っている|取り出したいアイテムを選ぶと　取り出せます。|<end>": "<%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<br>|しまうときは　持ち物の種類を選択し|しまいたいアイテムを選ぶと　収納できます。|<br>|取り出すときは　収納に入っている|取り出したいアイテムを選ぶと　取り出せます。|<end>"
+  },
+  "29": {
+    "<speed=0>家具が　かたづけられたので|つかうことが　できませんでした。": "<speed=0>家具が　かたづけられたので|つかうことが　できませんでした。"
+  },
+  "30": {
+    "<speed=0><%sL_VAULT_TYPE>が　カラになりました。|<bw_break>": "<speed=0><%sL_VAULT_TYPE>が　カラになりました。|<bw_break>"
+  },
+  "31": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなたの装備品ではないため|取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなたの装備品ではないため|取りだせません。"
+  },
+  "32": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなたの　持ち物ではないため|取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなたの　持ち物ではないため|取りだせません。"
+  },
+  "33": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　|収納家具にしまうことは　できません。|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　|収納家具にしまうことは　できません。|<bw_break>"
+  },
+  "34": {
+    "<speed=0>収納家具にしまう権限がないため|アイテムをしまうことは　できません。": "<speed=0>収納家具にしまう権限がないため|アイテムをしまうことは　できません。"
+  },
+  "35": {
+    "<speed=0>収納家具から取りだす権限がないため|アイテムを取りだすことは　できません。": "<speed=0>収納家具から取りだす権限がないため|アイテムを取りだすことは　できません。"
+  },
+  "36": {
+    "収納家具から取りだす権限がないため|収納家具に　しまってしまうと|取りだせなくなりますが　よろしいですか？|<yesno 2><break>": "収納家具から取りだす権限がないため|収納家具に　しまってしまうと|取りだせなくなりますが　よろしいですか？|<yesno 2><break>"
+  },
+  "37": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個　取りだした。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個　取りだした。"
+  },
+  "38": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ　取りだした。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ　取りだした。"
+  },
+  "39": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだした。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだした。"
+  },
+  "40": {
+    "<speed=0>|何を　しまいますか？|しまいたい　持ち物の種類を　選んでください。|<break>": "<speed=0>|何を　しまいますか？|しまいたい　持ち物の種類を　選んでください。|<break>"
+  },
+  "41": {
+    "<speed=0>|何を　取りだしますか？|<break>": "<speed=0>|何を　取りだしますか？|<break>"
+  },
+  "42": {
+    "<%sL_ITEM_NAME><%sL_PLUSNUM>は　|売り物に　設定されているため|新たに収納家具に入れることは　できません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM>は　|売り物に　設定されているため|新たに収納家具に入れることは　できません。|<bw_break>"
+  },
+  "43": {
+    "<%sL_ITEM_NAME><%sL_PLUSNUM>は|売り物に　設定されているため|収納家具から取りだすことが　できません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM>は|売り物に　設定されているため|収納家具から取りだすことが　できません。|<bw_break>"
+  },
+  "44": {
+    "<select_se_off>|<%sL_COMMAND1>|<select_end><break>": "<select_se_off>|<%sL_COMMAND1>|<select_end><break>"
+  },
+  "45": {
+    "<select_se_off>|<%sL_COMMAND1>|<%sL_COMMAND2>|<select_end><break>": "<select_se_off>|<%sL_COMMAND1>|<%sL_COMMAND2>|<select_end><break>"
+  },
+  "46": {
+    "しまうときは　持ち物の種類を選択し|しまいたいアイテムを選ぶと　収納できます。|<br>|取り出すときは　収納に入っている|取り出したいアイテムを選ぶと　取り出せます。|<end>": "しまうときは　持ち物の種類を選択し|しまいたいアイテムを選ぶと　収納できます。|<br>|取り出すときは　収納に入っている|取り出したいアイテムを選ぶと　取り出せます。|<end>"
+  },
+  "47": {
+    "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<end>": "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<end>"
+  },
+  "48": {
+    "<%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<br>|しまうときは　持ち物の種類を選択し|しまいたいアイテムを選ぶと　収納できます。|<br>|取り出すときは　収納に入っている|取り出したいアイテムを選ぶと　取り出せます。|<end>": "<%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<br>|しまうときは　持ち物の種類を選択し|しまいたいアイテムを選ぶと　収納できます。|<br>|取り出すときは　収納に入っている|取り出したいアイテムを選ぶと　取り出せます。|<end>"
+  },
+  "49": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|ロックされている装備品なので|他人の家の収納家具には　しまえません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|ロックされている装備品なので|他人の家の収納家具には　しまえません。"
+  },
+  "50": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|他の人が　ロックしている装備品なので|取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|他の人が　ロックしている装備品なので|取りだせません。"
+  },
+  "51": {
+    "<speed=0><select 2>|<%sL_ITEM_NAME><%sL_PLUSNUM>は|仲間モンスターが　装備している物ですが|<%sL_VAULT_TYPE>に　しまいますか？|<yesno><break>": "<speed=0><select 2>|<%sL_ITEM_NAME><%sL_PLUSNUM>は|仲間モンスターが　装備している物ですが|<%sL_VAULT_TYPE>に　しまいますか？|<yesno><break>"
+  },
+  "52": {
+    "<speed=0>|預けたい持ち物の種類を　選んでください。|<break>": "<speed=0>|預けたい持ち物の種類を　選んでください。|<break>"
+  },
+  "53": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなたの料理ではないため|取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなたの料理ではないため|取りだせません。"
+  },
+  "54": {
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなた専用の料理のため|他人の家の収納家具には　しまえません。|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は|あなた専用の料理のため|他人の家の収納家具には　しまえません。|<bw_break>"
+  },
+  "55": {
+    "<speed=0>|取りだす権限がない　<%sL_FURNITURE>です。|しまうことのみ　できます。|<select_se_off 2>|しまう|<select_end><break>": "<speed=0>|取りだす権限がない　<%sL_FURNITURE>です。|しまうことのみ　できます。|<select_se_off 2>|しまう|<select_end><break>"
+  },
+  "56": {
+    "<speed=0>|しまう権限がない　<%sL_FURNITURE>です。|取りだすことのみ　できます。|<select_se_off 2>|取りだす|<select_end><break>": "<speed=0>|しまう権限がない　<%sL_FURNITURE>です。|取りだすことのみ　できます。|<select_se_off 2>|取りだす|<select_end><break>"
+  },
+  "57": {
+    "<speed=0><%sL_ITEM_NAME>を|収納家具にしまうと　残り期限が|ドラキーメッセージで　告知されなくなります。|<br>|<%sL_ITEM_NAME>を　しまいますか？|<yesno 2><break>": "<speed=0><%sL_ITEM_NAME>を|収納家具にしまうと　残り期限が|ドラキーメッセージで　告知されなくなります。|<br>|<%sL_ITEM_NAME>を　しまいますか？|<yesno 2><break>"
+  },
+  "58": {
+    "収納家具を　さわっている人がいるので|同時に　使用することはできません。": "収納家具を　さわっている人がいるので|同時に　使用することはできません。"
+  },
+  "59": {
+    "便利ツールで　モーモンバザーが|使用されているため　現在利用できません。": "便利ツールで　モーモンバザーが|使用されているため　現在利用できません。"
+  }
+}

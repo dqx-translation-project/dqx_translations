@@ -1,0 +1,2420 @@
+{
+  "1": {
+    "「あら？　<%sL_STORAGE>が　いっぱいだから|　その仕事をしても　報酬が受け取れないわよ。|　持ち物を整理してから　また来てくださる？|<bw_break>": "What? <%sL_STORAGE> is full, so you won't get|paid for that job. Would you mind coming back|when you've sorted through your things?<bw_break>"
+  },
+  "2": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "3": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU>!|<se_nots System 7><end>"
+  },
+  "4": {
+    "「ありがとう。注文通りの　いいデキね。|　さあ　これが　その報酬よ。|<end>": "Yes... Just what I ordered. I don't know,|this is...<end>"
+  },
+  "5": {
+    "「……あら　やめるのね？|　他に　納品できそうな依頼は　あるかしら？|<break>": "... Oh, you're quitting? Do you have any|other requests that you think you can deliver|on?<break>"
+  },
+  "6": {
+    "「あら？　この防具……|　あなたが作った物では　ないわね。|　依頼の品は　ちゃんと自分で作ってくださる？|<bw_break>": "What? This armor... I don't think you made|it. Would you be so kind as to make what I|asked for yourself?<bw_break>"
+  },
+  "7": {
+    "「あら？　確かに　依頼の品だけど……。|　こんなデキでは　受け取れないわ。|<bw_break>": "What? Yeah, I know it's what you asked for,|but... I can't take it like this.<bw_break>"
+  },
+  "8": {
+    "「その依頼は　今日は　もう済んでるわ。|<bw_break>": "I'm done with that request for today.<bw_break>"
+  },
+  "9": {
+    "「クスッ。ついに　評判が|　<%sL_HYOUBAN>まで　上がったようね。|　これは　私からの　贈り物よ<heart>|<end>": "... I finally got my reputation up to|<%sL_HYOUBAN>... This is my gift to you.<heart>|<end>"
+  },
+  "10": {
+    "「<%sL_ITEM>を　頼むわね。|　どれを　渡してくれるの？|<break>": "<%sL_ITEM>, please... Which one are you going|to give me?<break>"
+  },
+  "11": {
+    "「<%sL_ITEM>を　頼みたいのだけど……|　今は　持っていないようね。|　他に　納品できそうな依頼は　あるかしら？|<break>": "I'd like to request <%sL_ITEM>, but... I|don't have it right now. Do you have any|other requests that you could deliver?<break>"
+  },
+  "12": {
+    "「あら？　どうしたの　<pc>。|　前に来たときより　評判が下がってるみたいね。|　……でも　あなたなら　すぐ取り戻せるわ。|<bw_break>": "Oh? What's wrong?<pc> I'm sorry. It seems to have lost some of its|reputation since the last time I was here...|I know. But you'll get it back soon.<bw_break>"
+  },
+  "13": {
+    "「評判を　次のランクに上げるには|　まだまだ　かかりそうね。|　コツコツやるしかないから　がんばってね<heart>|<end>": "It's going to take a lot more than that to|get your reputation to the next level. You'll|just have to keep at it. Good luck.<heart>|<end>"
+  },
+  "14": {
+    "「クスッ。あなたの評判が|　もうすぐ　次のランクに　上がりそうよ。|　気を抜かないで　がんばってね<heart>|<end>": "... Your reputation is about to be elevated|to the next rank. Keep your head up. Good|luck.<heart>|<end>"
+  },
+  "15": {
+    "「あなたの評判も　すこしずつ　上がっているわ。|　これからも　がんばって　命を輝かせてね<heart>|<end>": "Your reputation is growing little by|little... Keep up the good work and let your|life shine.<heart>|<end>"
+  },
+  "16": {
+    "「あら？　<%sL_STORAGE>が　いっぱいで|　持ちきれないようね。|　じゃあ　次の機会に　渡すことにするわ。|<bw_break>": "What? The <%sL_STORAGE> is too full to hold|it. I'll give it to you next time...<bw_break>"
+  },
+  "17": {
+    "「今　あなたに手伝ってもらいたい|　依頼は　こんなところよ。|　すぐに納品できそうなものは　あるかしら？|<break>": "Here's what I need your help with right now.|Is there anything that you think you can|deliver quickly?<break>"
+  },
+  "18": {
+    "「他に　納品できそうな依頼は　あるかしら？|<break>": ""
+  },
+  "19": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+  },
+  "20": {
+    "「……おや　<%sL_STORAGE>が　いっぱいで|　その仕事をしても　報酬を持ちきれないぞ。|　また改めて　頼むぜ。|<bw_break>": "... Oh, there's so much <%sL_STORAGE> in|there, I can't even hold the reward for that|job. And again...<bw_break>"
+  },
+  "21": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "22": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU>!|<se_nots System 7><end>"
+  },
+  "23": {
+    "「おう　ありがとよ！|　……うむ　いいデキだ。さすがだな！|　それじゃあ　これは報酬だ。|<end>": "Oh, thank you! ... Mmm, good... That's what|I'm talking about! Okay, this is...<end>"
+  },
+  "24": {
+    "「おっと　やめるのか。|　納品できるものを　持ってきてくれよ。|　他に　納品できそうな依頼は　あるかい？|<break>": "Whoa, no... Just bring me something I can|deliver... Do you have any other requests|that you think you can deliver on?<break>"
+  },
+  "25": {
+    "「おいおい　その武器は|　自分で作った物じゃないだろう！？|　ズルしようったって　オレには　わかるぜ。|<bw_break>": "Hey, hey, hey, you didn't make that weapon|yourself, did you? I don't know if you're|trying to cheat.<bw_break>"
+  },
+  "26": {
+    "「むっ　確かに依頼の品だが……|　そのデキでは　受け取れないな。|<bw_break>": "Yes, it's a request, but... But I can't|accept it in that condition.<bw_break>"
+  },
+  "27": {
+    "「その依頼は　今日はもう済んでるぜ。|<bw_break>": "I'm done with that request for the day.<bw_break>"
+  },
+  "28": {
+    "「ついに　評判が　<%sL_HYOUBAN>まで|　上がったようだな！|　よし　これは　オレからのお祝いだ！|<end>": "Looks like your reputation has finally|reached <%sL_HYOUBAN>! Well, this is my way|of congratulating you!<end>"
+  },
+  "29": {
+    "「<%sL_ITEM>を　よろしく頼むぜ。|　どれを　渡してもらえるんだ？|<break>": "<%sL_ITEM>, please... Which one do you think|they'll give me?<break>"
+  },
+  "30": {
+    "「<%sL_ITEM>を　頼みたいが……|　今は　持ってないようだな。|　他に　納品できそうな依頼は　あるかい？|<break>": "I'd ask for <%sL_ITEM>, but... I don't have|it at the moment, so... Do you have any other|requests that you think you can deliver on?<break>"
+  },
+  "31": {
+    "「おや　<pc>。前に来たときより|　評判が　下がっているようだな。|　ま　あんたなら　すぐに挽回できるさ。|<bw_break>": "parent<pc> I'm sorry. Your reputation's gone downhill|since the last time I was here... Well,|you'll make up for it soon enough...<bw_break>"
+  },
+  "32": {
+    "「評判を　次のランクに上げるには|　まだまだ　かかりそうだが　|　コツコツやればいいさ。がんばれよ！|<end>": "It's going to take a lot more than that to|get your reputation to the next level, but if|you keep at it... Come on, man!<end>"
+  },
+  "33": {
+    "「あんたの評判も　もうすぐ|　次のランクに　上がりそうだな。|　もう　ひと息。ここが　がんばりどきだぜ！|<end>": "Your reputation is about to move up to the|next level. Oh, my... This is the place to|be!<end>"
+  },
+  "34": {
+    "「評判も　少しずつ　上がってるようだな。|　この調子で　がんばってくれよ。|<end>": "Your reputation is growing little by little.|Keep up the good work...<end>"
+  },
+  "35": {
+    "「……おっと　<%sL_STORAGE>が　いっぱいで|　これ以上は　持ちきれないようだな。|　次の機会に渡すことにしよう。|<bw_break>": "... Oops, there's too much <%sL_STORAGE> in|there. I can't hold it any longer. I'll give|it to you next time...<bw_break>"
+  },
+  "36": {
+    "「今　頼める依頼は　こんなところだな。|　この中に　すぐに納品できそうなものは|　あるかい？|<break>": "Here's what I can do for you right now. Is|there anything on this list that you think|you can deliver right away?<break>"
+  },
+  "37": {
+    "「他に　すぐ納品できそうな依頼は　あるかい？|<break>": ""
+  },
+  "38": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+  },
+  "39": {
+    "「……おや　<%sL_STORAGE>が　いっぱいで|　その仕事をしても　報酬を持ちきれないね。|　また　次の機会に　挑戦するといい……。|<bw_break>": "... Well, I'm afraid the <%sL_STORAGE> is too|full to hold the reward for that work. You|can try again next time...<bw_break>"
+  },
+  "40": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "41": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU>!|<se_nots System 7><end>"
+  },
+  "42": {
+    "「……ふむ。確かに　依頼の品だね。|　受け取っておこう。|　では　これが　仕事の報酬だよ……。|<end>": "..... Sure, I'll take your request... I|received... Okay, here's what you get for|your work...<end>"
+  },
+  "43": {
+    "「……満足いく物が　ないのか。|　他に　納品できそうな依頼は　あるかい……？|<break>": "I can't... I'm not satisfied. Do you have any|other requests that you think you can deliver|on?<break>"
+  },
+  "44": {
+    "「おや　その職人道具は……|　キミが　自分で作った物ではないね。|　ボクには　わかるよ。|<bw_break>": "Oh, those craftsmen's tools... You didn't|make those yourself. I don't...<bw_break>"
+  },
+  "45": {
+    "「ふむ。確かにそれは　依頼の品だが……|　そのデキでは　受け取るわけにはいかない……。|<bw_break>": "Hmm. It's a commission, yes, but... But I|can't accept it in that condition.<bw_break>"
+  },
+  "46": {
+    "「その依頼は……今日はもう　済んでいるね。|<bw_break>": "That request... We're done for the day.<bw_break>"
+  },
+  "47": {
+    "「ふむ　評判が　<%sL_HYOUBAN>まで|　上がったようだね……。|　これは　ボクからの　ささやかな　お祝いだ……。|<end>": "Well, it looks like your reputation has grown|to <%sL_HYOUBAN>... This is my small way of|congratulating you...<end>"
+  },
+  "48": {
+    "「<%sL_ITEM>を　お願いするよ……。|　どれを　渡してもらえるんだい？|<break>": "<%sL_ITEM>, please... Which one do you have|for me?<break>"
+  },
+  "49": {
+    "「<%sL_ITEM>を　お願いしたいが……|　今は　持っていないようだね……。|　他に　納品できそうな仕事は　あるかい……？|<break>": "I'd ask for <%sL_ITEM>, but... But you don't|seem to have any at the moment. Do you have|any other work that you can deliver?<break>"
+  },
+  "50": {
+    "「<pc>か……。どうやら前に来たときより|　評判が　下がっているようだね……。|　でも　キミなら　すぐに挽回できるだろう。|<bw_break>": "<pc> Well... I'm afraid you've lost a bit of your|reputation since your last visit. But you'll|get it back soon enough.<bw_break>"
+  },
+  "51": {
+    "「評判を　次の段階に上げるには|　まだまだ　かかりそうだが……　|　あせらずに　コツコツやればいい。|<end>": "It's going to take a lot more than that to|take our reputation to the next level, but...|Don't rush, just keep at it.<end>"
+  },
+  "52": {
+    "「キミの評判も　もうじき|　次の領域に　達することだろう……。|　ここで気を抜かずに　はげんでほしい。|<end>": "Your reputation is about to reach the next|level. Don't let your guard down here.<end>"
+  },
+  "53": {
+    "「キミの評判も　少しずつだけど|　上がってきているようだね。|　続けていくことが　大事だよ……。|<end>": "Your reputation's starting to grow, little by|little. It's important that you keep going.<end>"
+  },
+  "54": {
+    "「……おや　<%sL_STORAGE>が　いっぱいで|　持ちきれなかったか。|　では　次の機会に渡すことにしよう……。|<bw_break>": "... Oh, there's too many <%sL_STORAGE>s to|hold them all. I'll give it to you next|time...<bw_break>"
+  },
+  "55": {
+    "「今　キミに手伝ってほしい依頼は|　こんなところだな。|　すぐに納品できそうなものは　あるかい？|<break>": "Here's what I need your help with right now.|Is there anything that you think you can|deliver quickly?<break>"
+  },
+  "56": {
+    "「他に　納品できそうな依頼は　あるかい……？|<break>": "Do you have any other requests that you think|you can deliver?<break>"
+  },
+  "57": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+  },
+  "58": {
+    "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
+  },
+  "59": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "60": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<end>": "<pc> got <%sL_HOUSYUU>!<end>"
+  },
+  "61": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "62": {
+    "「やめるんだな。|　納品してもいいものを|　持ってきてくれよ。|<br>|「他に　気になる仕事はあるかい？|<break>": "I don't want to... Bring me something I can|deliver... Is there any other work you're|interested in?<break>"
+  },
+  "63": {
+    "「むむっ　それは|　自分で作ったものではないな！？|　ズルしようったって　ダメだぜ。|<bw_break>": "That's not something you made yourself, is|it? You're trying to cheat.<bw_break>"
+  },
+  "64": {
+    "「確かに依頼の品だが……|　そのデキでは　受け取れないぜ。|<bw_break>": "I know it's a request, but... But I can't|accept it in that condition.<bw_break>"
+  },
+  "65": {
+    "「おっと　それは今は間に合ってるよ。|<bw_break>": "Whoa, it's not too late to...<bw_break>"
+  },
+  "66": {
+    "「評判が　<%sL_HYOUBAN>まで|　上がったようだな！|　よし　これは　おれからのお祝いだ！|<bw_break>": "I see your reputation has grown to|<%sL_HYOUBAN>! Well, this is my way of|congratulating you!<bw_break>"
+  },
+  "67": {
+    "「どれを　渡してもらえるんだ？|<break>": "Which one do you have for me?<break>"
+  },
+  "68": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "69": {
+    "「<pc>か。　前に来たときより|　評判が下がっているようじゃないか。|　サボってちゃ　いけないぜ。|<bw_break>": "<pc> I see. It looks like you've lost your|reputation since the last time you were|here... I can't just slack off...<bw_break>"
+  },
+  "70": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "71": {
+    "「用は済んだか？|　あんたの評判も　もうすぐ上がりそうだぜ。|　もう一息　頑張ってくれ！|<end>": "Are you done here? Your reputation's about to|be on the line. One more breath, and you're|on your way!<end>"
+  },
+  "72": {
+    "「用は済んだか？|　それじゃ　よろしく頼むぜ。|<end>": "You're done here? All right, well...<end>"
+  },
+  "73": {
+    "「どうぐが一杯で渡せないぜ。|　整理したらまた来てくれよ。|<bw_break>": ""
+  },
+  "74": {
+    "「今　あんたに手伝ってほしい|　仕事は　こんなところだな。|　達成したものは　あるかい？|<bw_break>": "Here's the job I need your help with right|now. Is there anything you've accomplished?<bw_break>"
+  },
+  "75": {
+    "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
+  },
+  "76": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "77": {
+    "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
+  },
+  "78": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "79": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<end>": "<pc> got <%sL_HOUSYUU>!<end>"
+  },
+  "80": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "81": {
+    "「やめるんだな。|　納品してもいいものを|　持ってきてくれよ。|<br>|「他に　気になる仕事はあるかい？|<break>": "I don't want to... Bring me something I can|deliver... Is there any other work you're|interested in?<break>"
+  },
+  "82": {
+    "「むむっ　それは|　自分で作ったものではないな！？|　ズルしようったって　ダメだぜ。|<bw_break>": "That's not something you made yourself, is|it? You're trying to cheat.<bw_break>"
+  },
+  "83": {
+    "「確かに依頼の品だが……|　そのデキでは　受け取れないぜ。|<bw_break>": "I know it's a request, but... But I can't|accept it in that condition.<bw_break>"
+  },
+  "84": {
+    "「おっと　それは今は間に合ってるよ。|<bw_break>": "Whoa, it's not too late to...<bw_break>"
+  },
+  "85": {
+    "「評判が　<%sL_HYOUBAN>まで|　上がったようだな！|　よし　これは　おれからのお祝いだ！|<bw_break>": "I see your reputation has grown to|<%sL_HYOUBAN>! Well, this is my way of|congratulating you!<bw_break>"
+  },
+  "86": {
+    "「どれを　渡してもらえるんだ？|<break>": "Which one do you have for me?<break>"
+  },
+  "87": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "88": {
+    "「<pc>か。　前に来たときより|　評判が下がっているようじゃないか。|　サボってちゃ　いけないぜ。|<bw_break>": "<pc> I see. It looks like you've lost your|reputation since the last time you were|here... I can't just slack off...<bw_break>"
+  },
+  "89": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "90": {
+    "「用は済んだか？|　あんたの評判も　もうすぐ上がりそうだぜ。|　もう一息　頑張ってくれ！|<end>": "Are you done here? Your reputation's about to|be on the line. One more breath, and you're|on your way!<end>"
+  },
+  "91": {
+    "「用は済んだか？|　それじゃ　よろしく頼むぜ。|<end>": "You're done here? All right, well...<end>"
+  },
+  "92": {
+    "「どうぐが一杯で渡せないぜ。|　整理したらまた来てくれよ。|<bw_break>": ""
+  },
+  "93": {
+    "「今　あんたに手伝ってほしい|　仕事は　こんなところだな。|　達成したものは　あるかい？|<bw_break>": "Here's the job I need your help with right|now. Is there anything you've accomplished?<bw_break>"
+  },
+  "94": {
+    "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
+  },
+  "95": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "96": {
+    "「……あっ　<%sL_STORAGE>が　いっぱいで|　その仕事をしても　報酬を持ちきれませんよ。|　また改めて　お願いしますねっ。|<bw_break>": "... Oh, <%sL_STORAGE> is full and I can't|hold the reward for that job... I'll ask you|again...<bw_break>"
+  },
+  "97": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "98": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU>!|<se_nots System 7><end>"
+  },
+  "99": {
+    "「ありがとうございます！|　……はい　確かに依頼の品ですねっ。|　では　こちらが報酬になります。|<end>": "Thank you! ... Yes, it's exactly what you|asked for. Then this is your reward...<end>"
+  },
+  "100": {
+    "「おやめになるのですね。|　ご用意できるのを　お待ちしていますっ。|　他に　納品できそうな依頼は　ありますか？|<break>": "You can stop now... I'm waiting for you to|prepare... Do you have any other requests|that you think you can deliver on?<break>"
+  },
+  "101": {
+    "「あっ　<pc>さん……。その品は|　ご自分で作った物では　ないですよね？|　信用に関わるので　ごめんなさいっ……。|<bw_break>": "oh!<pc> Miss... You didn't make that item yourself,|did you? I'm sorry, it's a matter of trust...<bw_break>"
+  },
+  "102": {
+    "「あらっ……　確かに　依頼のアイテムですけど|　ごめんなさい。この　できのよさでは|　ちょっと　受け取れません……。|<bw_break>": "Oh... It's definitely a requested item, but|sorry... I can't accept it with this|quality...<bw_break>"
+  },
+  "103": {
+    "「あっ……その依頼は　もう　お済みです。|<bw_break>": "Oh... I've already made that request.<bw_break>"
+  },
+  "104": {
+    "「評判が　<%sL_HYOUBAN>まで|　上がったんですね！　おめでとうございます！|　では　こちら　私からのお祝いですっ。|<end>": "So your reputation is up to <%sL_HYOUBAN>!|Congratulations! Here's my congratulations...<end>"
+  },
+  "105": {
+    "「<%sL_ITEM>を　お願いしますね。|　どれを　渡していただけますか？|<break>": "<%sL_ITEM>, please... Which one do you have|for me?<break>"
+  },
+  "106": {
+    "「<%sL_ITEM>を　お願いしたいのですが|　……今は　お持ちでないようですね。|　他に　納品できそうな依頼は　ありますか？|<break>": "I'd like to request <%sL_ITEM>, but... You|don't seem to have it at the moment. Do you|have any other requests that you could|<br>|deliver?<break>"
+  },
+  "107": {
+    "「あっ　<pc>さん。……あら？|　前　いらしたときよりも　評判が落ちています。|　でも大丈夫！　すぐに挽回できますよっ。|<bw_break>": "oh!<pc> Three... Oh? Your reputation is worse than|the last time you were here... But don't|worry! We'll make up for it soon...<bw_break>"
+  },
+  "108": {
+    "「評判を　次のランクに上げるには|　もうしばらく　かかりそうですけれども……　|　大丈夫！　まだまだ　これからですよっ。|<end>": "It'll be a while before I can raise my|reputation to the next level, but... Don't|worry! It's just the beginning...<end>"
+  },
+  "109": {
+    "「あなたの評判も　もうすぐ|　次のランクに　上がりそうですよ。|　ここが　ふんばりどころですね！|<end>": "Your reputation is about to move up to the|next level. This is where you need to hang in|there!<end>"
+  },
+  "110": {
+    "「評判も　じわじわ　上がってるようです。|　この調子で　がんばってくださいね。|　続けていくことが　大事ですよっ！|<end>": "Your reputation is growing by the minute...|Keep up the good work... It's important to|keep going.<end>"
+  },
+  "111": {
+    "「……けど　<%sL_STORAGE>が　いっぱいで|　持ちきれないみたいですね……。|　整理したら　また取りにいらしてください。|<bw_break>": "... But it looks like <%sL_STORAGE> is too|full to hold it all. When you've sorted it|out, please come back and get it...<bw_break>"
+  },
+  "112": {
+    "「今　手伝っていただきたい依頼は|　こんな感じですっ。|　すぐに納品できそうなものは　ありますか？|<break>": "Here's what I need your help with... Is there|anything you think you can deliver right|away?<break>"
+  },
+  "113": {
+    "「他に　納品できそうな依頼は　ありますか？|<break>": "Do you have any other requests that you can|deliver?<break>"
+  },
+  "114": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+  },
+  "115": {
+    "「……っと　ちょい待ち。<pc>ちゃんてば|　<%sL_STORAGE>が　いっぱいじゃ～ん。|　持ち物を整理して　もっかい　来てちょ。|<bw_break>": "... A little...<pc> You're full of <%sL_STORAGE>... Let's go|through our stuff and come back...<bw_break>"
+  },
+  "116": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "117": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU>!|<se_nots System 7><end>"
+  },
+  "118": {
+    "「サンキュー　<pc>ちゃん！|　うんうん。いい感じじゃん　この錬金効果！|　じゃあ　コレ　今回の報酬ね。|<end>": "thank you<pc> Hey! Ugh... That's nice! This alchemy effect!|Then this is the one...<end>"
+  },
+  "119": {
+    "「おっと　やっぱり　やめるのね？|　納品できる物が作れたら　また持ってきてちょ！|　他に　納品できそうな依頼は　ある？|<break>": "Oh, so you're quitting after all, huh? If you|can make something that can be delivered,|bring it to me again! Do you have any other|<br>|requests that you can deliver?<break>"
+  },
+  "120": {
+    "「ちょっと　<pc>ちゃーん！|　その錬金効果　自分で付けたものじゃなくない？|　職人の世界じゃ　その手のズルは　タブーよ？|<bw_break>": "Hey<pc> Mmm! That alchemical effect isn't something|you put on yourself, is it? In the artisan|world, that kind of cheating is taboo.<bw_break>"
+  },
+  "121": {
+    "「おっと！　それ　確かに依頼の錬金効果だけど|　効果の量が　ちょっと足りてない感じ？|　悪いけど　もっかい　やってきてくれるかな？|<bw_break>": "Whoa! That's definitely the alchemy effect of|the request, but the amount of the effect is|a bit insufficient? I'm sorry. Can you try|<br>|again?<bw_break>"
+  },
+  "122": {
+    "「おっと　<pc>ちゃん。|　その依頼は　もう済んでるっぽいね。|<bw_break>": "oops<pc> I... I've already made that request.<bw_break>"
+  },
+  "123": {
+    "「ク～ッ！　評判が　<%sL_HYOUBAN>まで|　上がった　<pc>ちゃん　カッキィー！|　オッケー！　お祝いのプレゼント　受け取って！|<end>": "Crap! My reputation's gone up to|<%sL_HYOUBAN>.<pc> Girl, you're so lucky! Okay! Please accept my|congratulatory gift!<end>"
+  },
+  "124": {
+    "「そう　<%sL_KOUKA1_NPCMES>を付けた装備品が|　欲しいってわけよ！|　どれを　渡してくれる？|<break>": "Yeah, they want equipment with|<%sL_KOUKA1_NPCMES> on it! Which one do you|want to give me?<break>"
+  },
+  "125": {
+    "「<%sL_KOUKA1_NPCMES>を付けた装備品だけど|　今は　持ってない系だったり？|　んじゃ　他に　納品できそうな依頼はある？|<break>": "Equipment with <%sL_KOUKA1_NPCMES> on it that|you don't currently have? So, do you have any|other requests that you can deliver?<break>"
+  },
+  "126": {
+    "「あれ？　<pc>ちゃんってば|　前に来たときより　評判が　ダウンしてる系？|　ま　やる気さえダウンしてなきゃ　オッケーよ！|<bw_break>": "Huh?<pc> Are you the kind of person whose reputation|has gone downhill since the last time you|were here? Well, as long as you're not losing|<br>|motivation, you're fine!<bw_break>"
+  },
+  "127": {
+    "「でもって　<pc>ちゃんの評判だけど|　次のランクには　まだまだ　かかりそうだね。|　ま　あせらず　コツコツやれば　オッケーよ！|<end>": "by<pc> I'm not sure if I'm ready for the next rank.|Well, don't panic, just keep at it and you'll|be fine!<end>"
+  },
+  "128": {
+    "「でもって　<pc>ちゃんの評判だけど|　もうすぐ　次のランクに上がりそうよ？|　ここが　マジ　気合いの入れどこだかんね！|<end>": "by<pc> According to your reputation, you'll be|moving up to the next rank soon. This is|where I'm really getting into it!<end>"
+  },
+  "129": {
+    "「でもって　<pc>ちゃんの評判だけど|　ジワジワとキテるっぽいよ。この調子でいけば|　近いうち　報われる時が　来ちゃう感じだね！|<end>": "by<pc> I've been hearing about you for a while now,|and it's starting to get to me. If she keeps|this up, she's going to get her comeuppance|<br>|soon.<end>"
+  },
+  "130": {
+    "「……っと　ちょい待ち。<pc>ちゃんてば|　<%sL_STORAGE>が　いっぱいじゃ～ん。|　それじゃ　プレゼントは　またの機会だね。|<bw_break>": "... A little...<pc> You're full of <%sL_STORAGE>... I'll get you|your present another time...<bw_break>"
+  },
+  "131": {
+    "「今　手伝ってほしい依頼は　こんな感じだけど|　すぐに　納品できそうなもの　ある？|　くわしい情報は『レシピをみる』でチェックね！|<break>": "Here's what I need help with right now. Check|out the Recipes section for more information!<break>"
+  },
+  "132": {
+    "「他に　すぐ納品できそうな依頼　あったりする？|<break>": "Do you have any other requests that you can|deliver right away?<break>"
+  },
+  "133": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+  },
+  "134": {
+    "「……おや？　<%sL_STORAGE>が　いっぱいで|　その仕事をしても　報酬を持ちきれないよ。|<bw_break>": "... Hmm? <%sL_STORAGE> is full, and I can't|hold onto my reward for doing that job...<bw_break>"
+  },
+  "135": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "136": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU>!|<se_nots System 7><end>"
+  },
+  "137": {
+    "「ふふっ。ありがとう。|　……うん　確かに　依頼した品だね。|　さあ　報酬を受け取ってくれ。|<end>": "... There is... Yeah. Yeah, that's what I|asked. Now, I'm gonna get my fee...<end>"
+  },
+  "138": {
+    "「……おや　やめるのかい？|　他に　納品できそうな依頼は　あるかな？|<break>": "... Oh, you're quitting? Do you have any|other requests that you think you can deliver|on?<break>"
+  },
+  "139": {
+    "「おや？　その仕立て物は……|　自分で作った物ではないね？|　キミに頼んでいるんだ。よろしく頼むよ。|<bw_break>": "Hmm? Your tailoring... You didn't make it|yourself, did you? I asked you to... I'm...<bw_break>"
+  },
+  "140": {
+    "「おや？　……確かに　依頼のアイテムだけど|　この　できのよさでは　受け取れないよ。|<bw_break>": "Hmm? Well... I'm sure it's a commissioned|item, but with work of this quality, I can't|accept...<bw_break>"
+  },
+  "141": {
+    "「おや？　その依頼は　もう済んでるよ。|<bw_break>": "Hmm? I've already made that request.<bw_break>"
+  },
+  "142": {
+    "「ふふっ。キミの評判も|　<%sL_HYOUBAN>まで　上がったのか。|　これは　ボクからのお祝いだよ。|<end>": "... Your reputation has grown to the point|where... This is my way of congratulating|you.<end>"
+  },
+  "143": {
+    "「<%sL_ITEM>をひとつ　頼むよ。|　どれを　渡してもらえるのかな？|<break>": "One <%sL_ITEM> ... Which one do you think|they'll give me?<break>"
+  },
+  "144": {
+    "「<%sL_ITEM>を　頼みたいけど……|　今は　持ってないようだね。|　他に　納品できそうな依頼は　あるかい？|<break>": "I'd ask for <%sL_ITEM>, but... I don't have|it at the moment, so... Do you have any other|requests that you think you can deliver on?<break>"
+  },
+  "145": {
+    "「……おや　<pc>？|　前に来たときよりも　評判が　落ちてるね。|　でも　キミなら　すぐに取り戻せるよ。|<bw_break>": " Oh<pc> What? You're not as popular as you were last|time I was here. But you'll get it back soon|enough.<bw_break>"
+  },
+  "146": {
+    "「評判を　次のランクに上げるには|　もうしばらく　かかりそうだね……。|　でも　キミなら　きっとできるよ。|<end>": "It's gonna take me a while to get my|reputation up to the next level, but... But I|know you can do it.<end>"
+  },
+  "147": {
+    "「ふふっ。キミの評判が|　もうすぐ　次のランクに　上がりそうだよ。|　ここが　がんばりどころだね。|<end>": ""
+  },
+  "148": {
+    "「評判も　じわじわ　上がってきてるね。|　この調子で　続けていけば|　キミの情熱は　きっと報われるはずだよ。|<end>": "Your reputation is growing. If you keep going|at this rate, your passion will pay off.<end>"
+  },
+  "149": {
+    "「……おや　<%sL_STORAGE>が　いっぱいで|　持ちきれないみたいだね。|　整理してから　また取りに来ておくれよ。|<bw_break>": "... Oh, it looks like <%sL_STORAGE> is too|full to hold it all. You'll have to come back|for it when you've sorted it out...<bw_break>"
+  },
+  "150": {
+    "「今　手伝ってもらいたい依頼は|　こんなところだよ。|　すぐに納品できそうなものは　あるかい？|<break>": "Now, here's what I need your help with... Is|there anything that you think you can deliver|right away?<break>"
+  },
+  "151": {
+    "「他に　納品できそうな依頼は　あるかい？|<break>": "Do you have any other requests you think you|can deliver on?<break>"
+  },
+  "152": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+  },
+  "153": {
+    "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
+  },
+  "154": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "155": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<end>": "<pc> got <%sL_HOUSYUU>!<end>"
+  },
+  "156": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "157": {
+    "「やめるんだな。|　納品してもいいものを|　持ってきてくれよ。|<br>|「他に　気になる仕事はあるかい？|<break>": "I don't want to... Bring me something I can|deliver... Is there any other work you're|interested in?<break>"
+  },
+  "158": {
+    "「むむっ　それは|　自分で作ったものではないな！？|　ズルしようったって　ダメだぜ。|<bw_break>": "That's not something you made yourself, is|it? You're trying to cheat.<bw_break>"
+  },
+  "159": {
+    "「確かに依頼の品だが……|　そのデキでは　受け取れないぜ。|<bw_break>": "I know it's a request, but... But I can't|accept it in that condition.<bw_break>"
+  },
+  "160": {
+    "「おっと　それは今は間に合ってるよ。|<bw_break>": "Whoa, it's not too late to...<bw_break>"
+  },
+  "161": {
+    "「評判が　<%sL_HYOUBAN>まで|　上がったようだな！|　よし　これは　おれからのお祝いだ！|<bw_break>": "I see your reputation has grown to|<%sL_HYOUBAN>! Well, this is my way of|congratulating you!<bw_break>"
+  },
+  "162": {
+    "「どれを　渡してもらえるんだ？|<break>": "Which one do you have for me?<break>"
+  },
+  "163": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "164": {
+    "「<pc>か。　前に来たときより|　評判が下がっているようじゃないか。|　サボってちゃ　いけないぜ。|<bw_break>": "<pc> I see. It looks like you've lost your|reputation since the last time you were|here... I can't just slack off...<bw_break>"
+  },
+  "165": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "166": {
+    "「用は済んだか？|　あんたの評判も　もうすぐ上がりそうだぜ。|　もう一息　頑張ってくれ！|<end>": "Are you done here? Your reputation's about to|be on the line. One more breath, and you're|on your way!<end>"
+  },
+  "167": {
+    "「用は済んだか？|　それじゃ　よろしく頼むぜ。|<end>": "You're done here? All right, well...<end>"
+  },
+  "168": {
+    "「どうぐが一杯で渡せないぜ。|　整理したらまた来てくれよ。|<bw_break>": ""
+  },
+  "169": {
+    "「今　あんたに手伝ってほしい|　仕事は　こんなところだな。|　達成したものは　あるかい？|<bw_break>": "Here's the job I need your help with right|now. Is there anything you've accomplished?<bw_break>"
+  },
+  "170": {
+    "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
+  },
+  "171": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "172": {
+    "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
+  },
+  "173": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "174": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<end>": "<pc> got <%sL_HOUSYUU>!<end>"
+  },
+  "175": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "176": {
+    "「やめるんだな。|　納品してもいいものを|　持ってきてくれよ。|<br>|「他に　気になる仕事はあるかい？|<break>": "I don't want to... Bring me something I can|deliver... Is there any other work you're|interested in?<break>"
+  },
+  "177": {
+    "「むむっ　それは|　自分で作ったものではないな！？|　ズルしようったって　ダメだぜ。|<bw_break>": "That's not something you made yourself, is|it? You're trying to cheat.<bw_break>"
+  },
+  "178": {
+    "「確かに依頼の品だが……|　そのデキでは　受け取れないぜ。|<bw_break>": "I know it's a request, but... But I can't|accept it in that condition.<bw_break>"
+  },
+  "179": {
+    "「おっと　それは今は間に合ってるよ。|<bw_break>": "Whoa, it's not too late to...<bw_break>"
+  },
+  "180": {
+    "「評判が　<%sL_HYOUBAN>まで|　上がったようだな！|　よし　これは　おれからのお祝いだ！|<bw_break>": "I see your reputation has grown to|<%sL_HYOUBAN>! Well, this is my way of|congratulating you!<bw_break>"
+  },
+  "181": {
+    "「どれを　渡してもらえるんだ？|<break>": "Which one do you have for me?<break>"
+  },
+  "182": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "183": {
+    "「<pc>か。　前に来たときより|　評判が下がっているようじゃないか。|　サボってちゃ　いけないぜ。|<bw_break>": "<pc> I see. It looks like you've lost your|reputation since the last time you were|here... I can't just slack off...<bw_break>"
+  },
+  "184": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "185": {
+    "「用は済んだか？|　あんたの評判も　もうすぐ上がりそうだぜ。|　もう一息　頑張ってくれ！|<end>": "Are you done here? Your reputation's about to|be on the line. One more breath, and you're|on your way!<end>"
+  },
+  "186": {
+    "「用は済んだか？|　それじゃ　よろしく頼むぜ。|<end>": "You're done here? All right, well...<end>"
+  },
+  "187": {
+    "「どうぐが一杯で渡せないぜ。|　整理したらまた来てくれよ。|<bw_break>": ""
+  },
+  "188": {
+    "「今　あんたに手伝ってほしい|　仕事は　こんなところだな。|　達成したものは　あるかい？|<bw_break>": "Here's the job I need your help with right|now. Is there anything you've accomplished?<bw_break>"
+  },
+  "189": {
+    "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
+  },
+  "190": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "191": {
+    "「……あら？　<%sL_STORAGE>が　いっぱいで|　報酬を　受け取れないじゃない。|　持ち物を整理したら　またお願いね。|<bw_break>": "... What? My <%sL_STORAGE> is full and I|can't get my reward. I'll get back to you|after I sort through my stuff.<bw_break>"
+  },
+  "192": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "193": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU>!|<se_nots System 7><end>"
+  },
+  "194": {
+    "「ありがとう！|　……うん　バッチリ！　さっすが～！|　じゃ　これが　依頼の報酬よ。|<end>": "Thank you! ... Yeah, it's perfect! That's|what I'm talking about! So this is what you|asked for...<end>"
+  },
+  "195": {
+    "「あら　やめるの？|　納品してもいいものを　お願いね。|　他に　納品できそうな依頼は　あるかな？|<break>": "Oh, no, you're not? I was wondering if you|had any other... Do you have any other|requests that you think we could deliver?<break>"
+  },
+  "196": {
+    "「あっ　ちょっと～！　その錬金効果|　自分で付けたものじゃ　ないでしょ！？|　ズルしようったって　ダメだからね！|<bw_break>": "Hey~! That alchemical effect isn't something|you put on yourself, is it! You can't cheat!<bw_break>"
+  },
+  "197": {
+    "「んんっ？　確かに　依頼の錬金効果だけど|　効果の量が　足りてないじゃない！|　はいダメ。やりなおしー。|<bw_break>": "Hmm? It's true that it's a requested alchemy|effect, but the amount of the effect isn't|enough! I... Do it...<bw_break>"
+  },
+  "198": {
+    "「その依頼は　もう済んでるわ。|<bw_break>": "I've already made that request.<bw_break>"
+  },
+  "199": {
+    "「ついに　評判が　<%sL_HYOUBAN>まで|　上がったようね！　おめでとう！|　よ～し。私から　お祝いをあげちゃう！|<end>": "Looks like your reputation is finally up to|<%sL_HYOUBAN>! Congratulations! ... I have|something to celebrate with you!<end>"
+  },
+  "200": {
+    "「<%sL_KOUKA1_NPCMES>を付けた装備品を　頼むわ。|　どれを　渡してもらえるのかな？|<break>": "Equipment with <%sL_KOUKA1_NPCMES> ... Which|one do you think they'll give me?<break>"
+  },
+  "201": {
+    "「<%sL_KOUKA1_NPCMES>を付けた装備品だけど|　今は　持ってなさそうね。|　他に　納品できそうな依頼は　あるかな？|<break>": "Equipment with <%sL_KOUKA1_NPCMES> on it, but|I don't have it right now. Do you have any|other requests that you think you can|<br>|deliver?<break>"
+  },
+  "202": {
+    "「あらー？　<pc>。前に来たときよりも|　評判が　下がっちゃってるみたいよ。|　でも大丈夫！　また　がんばればいいんだから。|<bw_break>": "Oh?<pc> I'm sorry. Your reputation seems to be worse|than the last time I was here... But that's|okay! You just have to try again...<bw_break>"
+  },
+  "203": {
+    "「評判を　次のランクに上げるには|　まだまだ　かかりそうだけど|　あなたなら　大丈夫！　がんばってね！|<end>": "It's going to take a lot more than that to|get my reputation to the next level, but I|know you can do it! Good luck!<end>"
+  },
+  "204": {
+    "「評判も　もうすぐ　次のランクに上がりそうよ！|　でも　ここで油断しちゃダメだからね。|　ランクアップまで　がんばって！|<end>": "Our reputation is about to move to the next|level! But we mustn't let our guard down...|Just hang in there!<end>"
+  },
+  "205": {
+    "「評判も　ジワジワ　上がってるみたいだから|　この調子で　がんばって！|<end>": "It looks like your reputation is slowly|growing, so keep up the good work!<end>"
+  },
+  "206": {
+    "「……あら？　<%sL_STORAGE>が　いっぱいで|　これ以上は　持ちきれないみたいね。|　整理してから　また取りに来て。|<bw_break>": "... What? It looks like <%sL_STORAGE> is full|and I can't hold any more... I'll sort it out|and get back to you...<bw_break>"
+  },
+  "207": {
+    "「今　手伝ってほしい依頼は　こんなところよ。|　すぐに納品できそうなものは　あるかな？|　くわしい情報は『レシピをみる』で確認してね。|<break>": "Here's what I need your help with right now.|Is there anything that you think you can|deliver right away? For more information,|<br>|please see the recipe...<break>"
+  },
+  "208": {
+    "「他に　すぐ納品できそうな依頼は　ある？|<break>": ""
+  },
+  "209": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+  },
+  "210": {
+    "「……わわっ　<pc>さんの|　<%sL_STORAGE>が　満腹みたい！|　荷物を　整理してきてねっ！|<bw_break>": " Wow!<pc> Looks like Mr. <%sL_STORAGE> is full! Go get|your stuff together!<bw_break>"
+  },
+  "211": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "212": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU>!|<se_nots System 7><end>"
+  },
+  "213": {
+    "「えへへ　ありがとうだよ！|　バッチリ　おいしそうな出来だねっ！|　はいっ　報酬どうぞ～！|<end>": "Thanks a lot! It's perfect! It looks|delicious! Here's your reward!<end>"
+  },
+  "214": {
+    "「あらら　やめちゃうのねっ？|　納品できる物が作れたら　また持ってきてね！|　他に　納品できそうな依頼は　あるかなーっ？|<break>": "Oh, no. You're quitting, aren't you? If you|can make something that can be delivered,|please bring it to me again! Do you have any|<br>|other requests that you can deliver?<break>"
+  },
+  "215": {
+    "「あれれー？　この香りは|　自分で作った　お料理じゃないでしょ～？|　ダメダメッ　わかっちゃうんだから！|<bw_break>": "What is it? This scent doesn't come from your|own cooking, does it? No, no, no! I can tell!<bw_break>"
+  },
+  "216": {
+    "「くんくん……確かに　依頼のアイテムだけど|　できのよさが　足りないみたい！|　ごめんね　もういっかい　作ってみてっ！|<bw_break>": "Kun Kun... I know it's a requested item, but|it's not good enough. I'm sorry. Try making|it again!<bw_break>"
+  },
+  "217": {
+    "「おやや？　その依頼ってば　もう済んでるねっ！|<bw_break>": "Oh, no? You've already made that request,|haven't you?<bw_break>"
+  },
+  "218": {
+    "「わぁっ！　評判が　<%sL_HYOUBAN>まで|　上がってる！　やったね　<pc>さんっ！|　これは　あたしからの　お祝いだよ～<heart>|<end>": "Whoa! Your reputation is up to <%sL_HYOUBAN>!|We did it.<pc>  Hey, you! This is my way of congratulating|you!<heart>|<end>"
+  },
+  "219": {
+    "「<%sL_ITEM>を　お願いするねっ。|　どれを　渡してくれるのかなー？　わくわく！|<break>": "<%sL_ITEM>, please... I wonder which one|you'll give me? I'm excited!<break>"
+  },
+  "220": {
+    "「<%sL_ITEM>を　お願いしたいんだけど|　今は持ってないんだね！　ざんね～ん！|　他に　納品できそうな依頼は　あるかなーっ？|<break>": "I'd ask for <%sL_ITEM>, but you don't have it|right now! I'm sorry! Do you have any other|requests that you can deliver?<break>"
+  },
+  "221": {
+    "「おやっ？　<pc>さん　前に来たときより|　評判が　下がっちゃったみたい～。|　でも　だいじょーぶ！　また　がんばろうねっ！|<bw_break>": "Oh?<pc> I'm afraid I've lost my reputation since my|last visit. But I'm fine! I'll do my best|again!<bw_break>"
+  },
+  "222": {
+    "「<pc>さんの評判だけど　次のランクまで|　もうしばらく　かかりそうかなっ。|　一緒に　下ごしらえを　がんばろうね～！|<end>": "<pc> But it's going to be a while before I get my|next rank... Let's work together on the|preparation!<end>"
+  },
+  "223": {
+    "「<pc>さんの評判も　もうちょっとで|　次のランクに　上がっちゃいそうだよっ！|　さあっ　仕上げに　かかろっか～<heart>|<end>": "<pc>  Your reputation is about to rise to the next|level! Now, let's get to work.<heart>|<end>"
+  },
+  "224": {
+    "「<pc>さんの評判も　じわじわ|　上がってきてるみたい！　えらいぞ～！|　じっくり　コトコト　熟成しようねっ！|<end>": "<pc> It looks like your reputation is slowly|growing! That's great! Let's take our time|and let it mature!<end>"
+  },
+  "225": {
+    "「……わわっ　<pc>さんの|　<%sL_STORAGE>が　満腹みたい！|　荷物を　整理してきてねっ！|<bw_break>": " Wow!<pc> Looks like Mr. <%sL_STORAGE> is full! Go get|your stuff together!<bw_break>"
+  },
+  "226": {
+    "「今　手伝ってほしい依頼は　こんな感じだよ！|　すぐに納品できそうなものは　あるかなーっ？|<break>": "Here's what I need your help with right now.|Is there anything you can deliver right away?<break>"
+  },
+  "227": {
+    "「他に　納品できそうな依頼は　あるかなーっ？|<break>": "Do you have any other requests that you think|you can deliver?<break>"
+  },
+  "228": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+  },
+  "229": {
+    "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
+  },
+  "230": {
+    "<pc>は|<%dL_GOLD> Gを　手に入れた！|<se_nots System 7><end>": "<pc> got <%dL_GOLD> G!|<se_nots System 7><end>"
+  },
+  "231": {
+    "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<end>": "<pc> got <%sL_HOUSYUU>!<end>"
+  },
+  "232": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "233": {
+    "「やめるんだな。|　納品してもいいものを|　持ってきてくれよ。|<br>|「他に　気になる仕事はあるかい？|<break>": "I don't want to... Bring me something I can|deliver... Is there any other work you're|interested in?<break>"
+  },
+  "234": {
+    "「むむっ　それは|　自分で作ったものではないな！？|　ズルしようったって　ダメだぜ。|<bw_break>": "That's not something you made yourself, is|it? You're trying to cheat.<bw_break>"
+  },
+  "235": {
+    "「確かに依頼の品だが……|　そのデキでは　受け取れないぜ。|<bw_break>": "I know it's a request, but... But I can't|accept it in that condition.<bw_break>"
+  },
+  "236": {
+    "「おっと　それは今は間に合ってるよ。|<bw_break>": "Whoa, it's not too late to...<bw_break>"
+  },
+  "237": {
+    "「評判が　<%sL_HYOUBAN>まで|　上がったようだな！|　よし　これは　おれからのお祝いだ！|<bw_break>": "I see your reputation has grown to|<%sL_HYOUBAN>! Well, this is my way of|congratulating you!<bw_break>"
+  },
+  "238": {
+    "「どれを　渡してもらえるんだ？|<break>": "Which one do you have for me?<break>"
+  },
+  "239": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "240": {
+    "「<pc>か。　前に来たときより|　評判が下がっているようじゃないか。|　サボってちゃ　いけないぜ。|<bw_break>": "<pc> I see. It looks like you've lost your|reputation since the last time you were|here... I can't just slack off...<bw_break>"
+  },
+  "241": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "242": {
+    "「用は済んだか？|　あんたの評判も　もうすぐ上がりそうだぜ。|　もう一息　頑張ってくれ！|<end>": "Are you done here? Your reputation's about to|be on the line. One more breath, and you're|on your way!<end>"
+  },
+  "243": {
+    "「用は済んだか？|　それじゃ　よろしく頼むぜ。|<end>": "You're done here? All right, well...<end>"
+  },
+  "244": {
+    "「どうぐが一杯で渡せないぜ。|　整理したらまた来てくれよ。|<bw_break>": ""
+  },
+  "245": {
+    "「今　あんたに手伝ってほしい|　仕事は　こんなところだな。|　達成したものは　あるかい？|<bw_break>": "Here's the job I need your help with right|now. Is there anything you've accomplished?<bw_break>"
+  },
+  "246": {
+    "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
+  },
+  "247": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "248": {
+    "「それは　それとして……|<bw_break>": "Well, that's the thing|<bw_break>"
+  },
+  "249": {
+    "「じゃあ　そっちの話は置いといて……。|<bw_break>": "Okay, let's not talk about that...<bw_break>"
+  },
+  "250": {
+    "「では　改めて……。|<bw_break>": "So, once again...<bw_break>"
+  },
+  "251": {
+    "「では　改めて……。|<bw_break>": "So, once again...<bw_break>"
+  },
+  "252": {
+    "「では　改めて……。|<bw_break>": "So, once again...<bw_break>"
+  },
+  "253": {
+    "「では　そちらの話は置いといて……。|<bw_break>": "So, without further ado...<bw_break>"
+  },
+  "254": {
+    "「じゃ　そっちの話はともかく……。|<bw_break>": "Okay, well, whatever you're talking about...<bw_break>"
+  },
+  "255": {
+    "「じゃあ　その話は置いといて……。|<bw_break>": "Okay, let's not talk about that...<bw_break>"
+  },
+  "256": {
+    "「では　改めて……。|<bw_break>": "So, once again...<bw_break>"
+  },
+  "257": {
+    "「では　改めて……。|<bw_break>": "So, once again...<bw_break>"
+  },
+  "258": {
+    "「じゃあ　そっちの話は置いといて……。|<bw_break>": "Okay, let's not talk about that...<bw_break>"
+  },
+  "259": {
+    "「じゃ～　それはそれとして……。|<bw_break>": "Well, that's it...<bw_break>"
+  },
+  "260": {
+    "「では　改めて……。|<bw_break>": "So, once again...<bw_break>"
+  },
+  "261": {
+    "「あなたの評判については　言うことなしよ。|　それ以上　上がらないところまで　来ているわ。|　すばらしいわね　<pc>。|<end>": "As for your reputation, I'd say... I've|reached the point where I can't get any|higher... That's wonderful.<pc> I'm not sure.<end>"
+  },
+  "262": {
+    "「あんたの評判は　もう　言うことなしだ。|　それ以上　上がりようもないとはな。|　まったく　大したもんだ。|<end>": "I'm sorry, but your reputation... It can't|get any better than that. Oh, my God,|that's...<end>"
+  },
+  "263": {
+    "「キミの評判は　もう　言うことなしだ。|　それ以上　上がることは　ないだろう。|　恐れいったよ……。　|<end>": "I'm sorry to say that your reputation... It's|not going to get any better. I'm afraid so.<end>"
+  },
+  "264": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "265": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "266": {
+    "「あなたの評判は　上がるところまで|　上がってしまったようですね！|　もう　そんな境地まで……　感激ですっ。|<end>": "It seems your reputation has reached its|peak. You've reached such a point... I'm|impressed.<end>"
+  },
+  "267": {
+    "「でもって　<pc>ちゃんの評判だけど|　もう　マジで　ギンギンのマックス状態！|　評判は　それ以上　上がんないぜ！|<end>": "by<pc> You know, your reputation is really on the|rocks! Your reputation's not going to get any|better than that!<end>"
+  },
+  "268": {
+    "「キミの評判は　もう　上がるところまで|　上がってしまったようだね……。|　さすが　ボクの弟子だ。すばらしいよ。|<end>": "It seems your reputation has already been|well-deserved. That's my... Well done.<end>"
+  },
+  "269": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "270": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "271": {
+    "「あなたの評判は　行き着くところまで来てるよ。|　私の見る目は　やっぱり　すごかったんだわ。|　それ以上　上がらないのが　残念だわ～。|<end>": "Your reputation has come to the point|where... I knew I had a good eye. It's a|shame it won't go any higher.<end>"
+  },
+  "272": {
+    "「<pc>さんの評判は　これ以上ない|　最高級ランクに　至っちゃってるよ……！|　ここまで　よくがんばったねっ！|<end>": "<pc> Your reputation has reached the highest rank|possible...! You've worked so hard to get|here!<end>"
+  },
+  "273": {
+    "「用は済んだか？|　評判を上げるには　まだまだ　かかりそうだが|　あせらず　コツコツやっていけばいいぜ。|<end>": "You're done here? It's going to take a lot|more than that to make a name for yourself,|but if you take your time and work hard...<end>"
+  },
+  "274": {
+    "「鍛冶には　慣れてきたかしら？　<pc>。|　まだ　防具鍛冶職人としては　無名だけど|　あなたなら　評判なんて　すぐに上がるわ<heart>|<bw_break>": "Are you getting used to blacksmithing?<pc>  I'm not an armorer yet. I know you're not an|armor smith yet, but I'm sure your reputation|will grow quickly.<heart>|<bw_break>"
+  },
+  "275": {
+    "「<pc>。|　まさに　伝説と呼ぶにふさわしい　活躍ね。|　あなたの名前は　歴史に刻まれるでしょうね<heart>|<bw_break>": "<pc>  It's a legend. A legend in the making... Your|name will go down in history.<heart>|<bw_break>"
+  },
+  "276": {
+    "「あら　鍛冶ハンマーを持つ姿が　少しは|　板についてきたようね　<pc>。|　新人職人として　知られてきてるみたいだし。|<bw_break>": "Oh, you look a little more like a blacksmith with a hammer| Looks like you're getting used to it<pc> I'm not sure. You're becoming known as a new|craftsman...<bw_break>"
+  },
+  "277": {
+    "「クスッ。新鋭職人の　<pc>ね。|　時々　あなたの防具の評判が|　私の所にも　聞こえてくるわ。|<bw_break>": "... The New Craftsman<pc> I know. Sometimes I hear about your armor,|and I...<bw_break>"
+  },
+  "278": {
+    "「クスッ。最近　あなたの名前を|　よく耳にするようになったわ　<pc>。|　すっかり　人気職人の仲間入りね<heart>|<bw_break>": "... I've been hearing your name a lot lately.<pc>  You're a popular craftsman. You've become one|of the most popular craftsmen.<heart>|<bw_break>"
+  },
+  "279": {
+    "「いらっしゃい　<pc>。|　あなたも　今や　いっぱしの有名職人ね。|　評判も　ずいぶん上がっているみたい<heart>|<bw_break>": "welcome!<pc>  You're a famous person now. You're a famous|person now... I'm sure your reputation has|grown considerably.<heart>|<bw_break>"
+  },
+  "280": {
+    "「<pc>も　すっかり　カリスマ職人ね。|　あなたが来ると　職人たちが　ソワソワするの。|　彼らに　いいお手本を　見せてあげてね<heart>|<bw_break>": "<pc>  You're so charismatic. When you're here, the|artisans get nervous. You should show them|what a good role model you are.<heart>|<bw_break>"
+  },
+  "281": {
+    "「クスッ。<pc>も　名匠と呼ばれるまでに|　成長したのね……。うれしいわ。|　早く　私と同じ高みまで　のぼってきて<heart>|<bw_break>": "...<pc>  So you've grown up to be called a master...|I'm glad... Hurry up and climb to the same|height as me.<heart>|<bw_break>"
+  },
+  "282": {
+    "「立派になったわ　<pc>。|　世界屈指のウデ前って　言われてるみたいね<heart>|　今後も　その調子で　命を輝かせてくださる？|<bw_break>": "You've come a long way<pc>  I'm not sure. They say you're one of the best|in the world.<heart>Will you continue to make life shine like|that?<bw_break>"
+  },
+  "283": {
+    "「よく来てくれたわ　<pc>。|　神の手を持つと言われる　あなたが|　来てくれるなんて　私も　うれしいわ。|<bw_break>": "I'm glad you're here<pc> I'm so glad. I'm glad you're here, too, since|you're said to have the hands of God.<bw_break>"
+  },
+  "284": {
+    "「<pc>。鍛冶には　慣れてきたか？　|　まだまだ　武器鍛冶職人としては　無名だが|　なあに　評判は　これから上がっていくさ。|<bw_break>": "<pc> . Are you getting used to blacksmithing? I'm|still not known as a weaponsmith, but you|know, my reputation will grow...<bw_break>"
+  },
+  "285": {
+    "「おおお……　<pc>……！|　まさに　伝説と呼ぶにふさわしい活躍！|　あんたの名前は　歴史に残す価値があるぜ。|<bw_break>": "Oh<pc> ...! You're a legend! You're a legend! Your|name is worthy of a place in history.<bw_break>"
+  },
+  "286": {
+    "「おっ　少しは　ハンマーを持つ姿が|　板についてきたようだな　<pc>。|　新人職人として　知られてきてるぜ。|<bw_break>": "Whoa, a little bit of a hammer| Looks like you've got your head on straight<pc> I'm sorry. I've been known as a rookie|craftsman...<bw_break>"
+  },
+  "287": {
+    "「<pc>もすっかり　期待の新鋭職人だな。|　時々　あんたの武器の評判を|　聞くようになってきたぜ。|<bw_break>": "<pc> I've been looking forward to working with|you. I've heard so much about your weapon|from time to time...<bw_break>"
+  },
+  "288": {
+    "「最近　あんたの名前を　よく|　耳にするようになったぜ　<pc>。|　すっかり　人気職人の仲間入りだな！|<bw_break>": "I've been hearing your name a lot lately| I'm starting to hear it now<pc> I'll be back. You've become one of the most|popular craftsmen!<bw_break>"
+  },
+  "289": {
+    "「よく来てくれた　<pc>！|　あんたも　今や　いっぱしの有名職人だな。|　評判は　うなぎのぼりだぜ！|<bw_break>": "Thank you for coming<pc> I'm sorry. You're a famous man now. Your|reputation is growing!<bw_break>"
+  },
+  "290": {
+    "「おおっ　カリスマ職人　<pc>！|　あんたが来ると　若いヤツらが騒ぎ出すんだ。|　オレも　鼻が高いよ。|<bw_break>": "Oh, charismatic craftsman!<pc> You know what? Whenever you come around, the|younger guys start screaming. My nose is...<bw_break>"
+  },
+  "291": {
+    "「おおっ　<pc>か。|　あんたも　名匠と呼ばれるようになったか……。|　オレも　うかうかしてられないぜ！|<bw_break>": "Whoa!<pc> I see. You've become what they call a|master... I can't afford to be complacent|either!<bw_break>"
+  },
+  "292": {
+    "「おう　立派になったもんだな　<pc>！|　今や世界屈指のウデ前と　大評判だ。|　次の作品を　みんなが待ってるぜ！|<bw_break>": "Oh, you've come a long way, haven't you?<pc> Oh, my God! You're one of the best in the|world at what you do. Everyone's waiting to|see what you do next!<bw_break>"
+  },
+  "293": {
+    "「おおっ　<pc>じゃないか！|　神の手を持つと言われる　あんたが|　来てくれるなんて　光栄だよ！|<bw_break>": "Whoa!<pc> Oh, my God! I'm honored that you, who are|said to have the hands of God, are here!<bw_break>"
+  },
+  "294": {
+    "「鍛冶には　慣れたかい　<pc>……？|　まだまだ　道具鍛冶職人としては　無名だけど|　評判は　これから　上がっていくだろう……。|<bw_break>": "Are you familiar with blacksmithing?<pc> ...? I'm still not known as a tool smith, but|I'm sure my reputation will grow in the|future...<bw_break>"
+  },
+  "295": {
+    "「おお　<pc>……。|　まさに　伝説と呼ぶにふさわしい活躍だね。|　キミの名前は　後世にまで残す価値がある……。|<bw_break>": "oh!<pc> ... You're a legend in the making. Your name|is worthy of being preserved for posterity.<bw_break>"
+  },
+  "296": {
+    "「ふむ……だいぶ　ハンマーと　意志を|　通わせられるように　なってきたね。|　新人職人として　期待しているよ……。|<bw_break>": "Hmm... I'm getting pretty good at|communicating with the hammer. I have high|hopes for you as a new craftsman...<bw_break>"
+  },
+  "297": {
+    "「時々　キミの作った職人道具の評判を|　聞くようになったよ　<pc>……。|　まさに　新鋭職人と呼ぶに　ふさわしい……。|<bw_break>": "Sometimes I wonder about the reputation of your craftsmanship| I'm starting to listen<pc> ... I'm what you'd call an up-and-coming|craftsman.<bw_break>"
+  },
+  "298": {
+    "「ああ　<pc>か……。|　キミの名前を　最近　よく耳にするよ。|　すっかり　人気職人の仲間入りだね……。|<bw_break>": "Oh<pc> Oh, my... I've been hearing your name a lot|lately. You've become one of the most popular|craftsmen.<bw_break>"
+  },
+  "299": {
+    "「<pc>か……。|　キミも　今や　有名職人。その評判は|　錬金ランプのように　きらめいている……。|<bw_break>": "<pc> You... And now you have one. Your reputation|glitters like an alchemy lamp.<bw_break>"
+  },
+  "300": {
+    "「ああ　<pc>か……。|　キミが来ると　鍛冶ハンマーが騒ぎだすんだよ。|　さすが　カリスマ職人といったところか……。|<bw_break>": "Oh<pc> Oh... When you come in here, the hammer|starts screaming... That's what I call a|charismatic craftsman.<bw_break>"
+  },
+  "301": {
+    "「<pc>か……。よく来たね。|　キミも　名匠と呼ばれるようにまでなったか。|　……ヤルネ。|<bw_break>": "<pc> Well... How did you... You've made it to the|point where they call you a master... ......<bw_break>"
+  },
+  "302": {
+    "「<pc>も　立派になったものだ……。|　今や　世界屈指のウデ前と　大評判……。|　キミの作品を　皆が　手本にしているよ。|<bw_break>": "<pc> You've become a great man. You're now|considered one of the best in the world at|what you do. Your work is a model for all of|<br>|us to follow.<bw_break>"
+  },
+  "303": {
+    "「<pc>じゃないか……。|　神の手を持つとまで言われる　キミが|　来てくれるなんて　喜ばしい限りだよ。|<bw_break>": "<pc> I mean... I'm so glad you're here, because|you're supposed to have the hands of God.<bw_break>"
+  },
+  "304": {
+    "「おっ　ひよっこ職人の　<pc>だな。|　まだ慣れてないかも　しれないけど|　地道に　がんばれよっ。|<bw_break>": "Whoa, a chick craftsman<pc> That's right. I may not be used to it yet,|but I'll do my best...<bw_break>"
+  },
+  "305": {
+    "「あ……あんたは　まさか|　伝説の職人　<pc>！|　ああっ　生きて　その姿を拝めるとはっ……！|<bw_break>": "Oh You're not| Legendary Craftsman<pc> Oh! Oh, I never thought I'd see you alive...<bw_break>"
+  },
+  "306": {
+    "「おっ　<pc>か。|　やり方は　覚えたようだが|　評判は　まだまだだな。|<bw_break>": "Whoa<pc> I see. He seems to have learned how to do it,|but his reputation is still...<bw_break>"
+  },
+  "307": {
+    "「おっ　<pc>か。|　ときどき　評判を聞くようになったぜ。|　まずまずって　ところだな。|<bw_break>": "Whoa<pc> I see. I've heard good things about you from|time to time... It's not so bad...<bw_break>"
+  },
+  "308": {
+    "「おっ　<pc>か。|　精が出るな。|　最近　そこそこ名前を耳にするぜ。|<bw_break>": "Whoa<pc> I see. I've been... I've heard a few names|lately...<bw_break>"
+  },
+  "309": {
+    "「おう　<pc>か。|　調子はどうだ？|　評判は　うなぎのぼりだぜ！|<bw_break>": ""
+  },
+  "310": {
+    "「おっ　うわさのカリスマ職人|　<pc>さんの　ご来店だな！|　おれも　鼻が高いぜっ。|<bw_break>": "Oh, the charismatic craftsman I've heard so much about|<pc> I'm so excited to see you. I'm so excited...<bw_break>"
+  },
+  "311": {
+    "「これは　<pc>さん！|　その名前は　知らない人はいないくらい|　世界的に　大評判だぜ！|<bw_break>": "This is<pc> Oh, my God! That name is so well known all|over the world, it's almost impossible not to|recognize it!<bw_break>"
+  },
+  "312": {
+    "「ややっ　<pc>先生！|　巨匠と呼ばれる　先生の|　次の作品を　みんな待ってるぜ！|<bw_break>": "oh no!<pc> Master! We're all waiting to see what you,|the master, have in store for us!<bw_break>"
+  },
+  "313": {
+    "「おおっ　<pc>師匠じゃないか！|　神の手を持つと言われる　あなたに|　お目にかかれるなんて　光栄だぜ！|<bw_break>": "Whoa!<pc> You're the master! It's an honor to meet you,|the man with the divine hands!<bw_break>"
+  },
+  "314": {
+    "「おっ　ひよっこ職人の　<pc>だな。|　まだ慣れてないかも　しれないけど|　地道に　がんばれよっ。|<bw_break>": "Whoa, a chick craftsman<pc> That's right. I may not be used to it yet,|but I'll do my best...<bw_break>"
+  },
+  "315": {
+    "「あ……あんたは　まさか|　伝説の職人　<pc>！|　ああっ　生きて　その姿を拝めるとはっ……！|<bw_break>": "Oh You're not| Legendary Craftsman<pc> Oh! Oh, I never thought I'd see you alive...<bw_break>"
+  },
+  "316": {
+    "「おっ　<pc>か。|　やり方は　覚えたようだが|　評判は　まだまだだな。|<bw_break>": "Whoa<pc> I see. He seems to have learned how to do it,|but his reputation is still...<bw_break>"
+  },
+  "317": {
+    "「おっ　<pc>か。|　ときどき　評判を聞くようになったぜ。|　まずまずって　ところだな。|<bw_break>": "Whoa<pc> I see. I've heard good things about you from|time to time... It's not so bad...<bw_break>"
+  },
+  "318": {
+    "「おっ　<pc>か。|　精が出るな。|　最近　そこそこ名前を耳にするぜ。|<bw_break>": "Whoa<pc> I see. I've been... I've heard a few names|lately...<bw_break>"
+  },
+  "319": {
+    "「おう　<pc>か。|　調子はどうだ？|　評判は　うなぎのぼりだぜ！|<bw_break>": ""
+  },
+  "320": {
+    "「おっ　うわさのカリスマ職人|　<pc>さんの　ご来店だな！|　おれも　鼻が高いぜっ。|<bw_break>": "Oh, the charismatic craftsman I've heard so much about|<pc> I'm so excited to see you. I'm so excited...<bw_break>"
+  },
+  "321": {
+    "「これは　<pc>さん！|　その名前は　知らない人はいないくらい|　世界的に　大評判だぜ！|<bw_break>": "This is<pc> Oh, my God! That name is so well known all|over the world, it's almost impossible not to|recognize it!<bw_break>"
+  },
+  "322": {
+    "「ややっ　<pc>先生！|　巨匠と呼ばれる　先生の|　次の作品を　みんな待ってるぜ！|<bw_break>": "oh no!<pc> Master! We're all waiting to see what you,|the master, have in store for us!<bw_break>"
+  },
+  "323": {
+    "「おおっ　<pc>師匠じゃないか！|　神の手を持つと言われる　あなたに|　お目にかかれるなんて　光栄だぜ！|<bw_break>": "Whoa!<pc> You're the master! It's an honor to meet you,|the man with the divine hands!<bw_break>"
+  },
+  "324": {
+    "「<pc>さん　木工には慣れました？|　まだまだ　職人としては無名ですけど……|　評判なんて　すぐ上がるので　お気になさらず！|<bw_break>": "<pc> Are you familiar with woodworking? I'm still|a bit of a nobody, but... Don't worry, your|reputation will grow quickly.<bw_break>"
+  },
+  "325": {
+    "「まあっ　<pc>さん！　伝説の職人と|　お呼びするにふさわしい　ご活躍っぷりです。|　あなたのお名前　必ず歴史に残ると思いますよ！|<bw_break>": "oh dear!<pc> I'm sorry. You're worthy of being called a|legendary craftsman. I'm sure your name will|go down in history!<bw_break>"
+  },
+  "326": {
+    "「<pc>さん　ようこそっ！|　木工刀を構える姿も　板についてきましたね。|　新人職人として　知られてきているようです。|<bw_break>": "<pc> Hey, you! The way you're holding your wooden|sword is getting better... You're becoming|known as a new craftsman...<bw_break>"
+  },
+  "327": {
+    "「新鋭職人の　<pc>さん！　ふふふ。|　時折　あなたの作った　木工品の評判を|　うかがうようになりましたよっ。|<bw_break>": "The New Craftsman<pc> Three! ... From time to time, I've heard of|your woodwork...<bw_break>"
+  },
+  "328": {
+    "「あらっ　<pc>さん！|　最近　あなたのお名前を　よく耳にするんです。|　もうすっかり　人気職人ですね。|<bw_break>": "oh!<pc> You! I've been hearing your name a lot|lately... You've become a popular|craftsman...<bw_break>"
+  },
+  "329": {
+    "「ようこそ　<pc>さん。|　今や　れっきとした　有名職人ですねっ！|　評判も　グングン上がってるみたいですよ。|<bw_break>": "Welcome<pc> He is a famous craftsman. You're a famous|craftsman now! His reputation seems to be|growing rapidly...<bw_break>"
+  },
+  "330": {
+    "「あっ　カリスマ職人の　<pc>さん！|　あなたが来ると　若い職人たちが大騒ぎなので|　マスターの私としても　鼻が高いです！|<bw_break>": "Oh, the charismatic craftsman<pc> You're the master! When you come, the young|craftsmen will be in an uproar, even I, the|master, will be proud!<bw_break>"
+  },
+  "331": {
+    "「ようこそ　<pc>さん！|　ついに　名匠と呼ばれるようになったんですね。|　私も　気が引きしまる思いです。|<bw_break>": "Welcome<pc> Oh, my God! You've finally been called a|master... It's a sobering thought for me|too...<bw_break>"
+  },
+  "332": {
+    "「<pc>さん　すっかり立派になって……。|　今やもう　世界屈指のウデ前と大評判ですね。|　次の作品を　皆　待ち望んでいますよっ。|<bw_break>": "<pc> He's all grown up... Now he's got a|reputation as one of the best in the world...|We're all eagerly awaiting his next work...<bw_break>"
+  },
+  "333": {
+    "「まぁ　<pc>さん……！|　神の手を持つと言われる　あなたに|　来ていただけるなんて　光栄ですっ！|<bw_break>": "oh dear!<pc> You...! It's an honor to have you, who is|said to have the hands of God, here!<bw_break>"
+  },
+  "334": {
+    "「<pc>ちゃん！　錬金には慣れた～？|　まだまだ　ラン錬職人的には　無名だけど|　評判なんて　すぐ上がるし　ノープロブレムよ！|<bw_break>": "<pc> Hey! Are you familiar with alchemy? I know|I'm not a household name yet, but I'm sure my|reputation will grow quickly.<bw_break>"
+  },
+  "335": {
+    "「ちょ……　<pc>ちゃん！|　伝説の職人になっちゃうとか　マジありえねぇ！|　ギルドマスターの　オレの立場　考えてよ！|<bw_break>": "A little<pc> You! I can't believe you're going to become a|legendary craftsman! Think about my position|as guild master!<bw_break>"
+  },
+  "336": {
+    "「ウェーイ！　よく来たね　<pc>ちゃん！|　ランプを構える姿が　サマになってきて|　新人職人として　グイグイきてるってウワサよ？|<bw_break>": "Hey! Welcome aboard.<pc> Hey! The way you're holding the lamp is|becoming more and more stylish, and it's|rumored that you're gaining momentum as a new|<br>|craftsman.<bw_break>"
+  },
+  "337": {
+    "「ウェーイ！　よく来たね　<pc>ちゃん！|　期待の新鋭職人なんて呼ばれちゃって|　最近　評判いいらしいじゃん！　このこのー！|<bw_break>": "Hey! Welcome aboard.<pc> Hey! I heard you've been getting good reviews|lately, being called a promising new|craftsman! Well, well, well!<bw_break>"
+  },
+  "338": {
+    "「ウェーイ！　よく来たね　<pc>ちゃん！|　最近　２日にいっぺんは　名前を聞くよ～。|　人気職人の評判は　ダテじゃないって感じ！？|<bw_break>": "Hey! Welcome aboard.<pc> Hey! I've been hearing your name at least|once every two days lately. I've been hearing|your name at least twice a day lately.<bw_break>"
+  },
+  "339": {
+    "「ウェーイ！　ラン錬業界の有名職人|　<pc>ちゃん　いらっしゃ～い！|　評判が　チョーうなぎのぼりで　ゴイスーよ！|<bw_break>": "Way to go! Famous craftsmen in the run|smelting industry<pc> Hey, you! Your reputation is going through|the roof, and it's great!<bw_break>"
+  },
+  "340": {
+    "「ウェ～イ！　ウワサのカリスマ職人|　<pc>ちゃん　いらっしゃ～い！|　新しいエースの登場に　みんな　大コーフンよ！|<bw_break>": "Way to go! The charismatic craftsman of the|rumor mill.<pc> Come on, girl! We're all so excited to have a|new ace on our hands!<bw_break>"
+  },
+  "341": {
+    "「ク～ッ！　来た来た　来ちゃったよ！|　ラン錬の名匠　<pc>ちゃんが！|　そのウデ前に　みんなが　シビレてるっつーの！|<bw_break>": "Oh, shit! It's here, it's here, it's here!|The Master of Ren Ren.<pc> You are! You've got the whole world in|stitches, you know that?<bw_break>"
+  },
+  "342": {
+    "「ク～ッ！　<pc>ちゃんってば|　今やもう世界屈指のラン錬テクと　大評判だぜ！|　つか　オレより目立っちゃ　ダメダメ！|<bw_break>": "Kuh-uh!<pc> You already have a reputation as one of the|best runners in the world! You can't stand|out more than me!<bw_break>"
+  },
+  "343": {
+    "「ヤベー。マジ　ヤベー。|　<pc>ちゃんの評判が　ハンパねぇ！|　オレも　神の手を持つとか　呼ばれてえよ！|<bw_break>": "... Seriously...<pc> Your reputation is so great! I wish I could|be called the Hand of God!<bw_break>"
+  },
+  "344": {
+    "「さいほうには慣れたかい？　<pc>。|　まだまだ　職人としては無名だけど……|　評判なんて　すぐ上がるから　大丈夫だよ。|<bw_break>": "Have you gotten used to the new method?<pc> I'm still a nobody. I'm still a nobody as a|craftsman, but... But my reputation will rise|quickly.<bw_break>"
+  },
+  "345": {
+    "「ふふっ。<pc>……。|　まさに　伝説と呼ぶにふさわしい活躍だ。|　キミの名前は　きっと　歴史に残るだろうね。|<bw_break>": "...<pc> ... You're a legend, that's what you are.|Your name will go down in history.<bw_break>"
+  },
+  "346": {
+    "「やあ　<pc>。|　さいほう針が　似合うようになってきたね。|　新人職人として　知られてきてるよ。|<bw_break>": "Hi<pc> I'll be back. The method of needlework has|become more suitable... I'm becoming known as|the new craftsman...<bw_break>"
+  },
+  "347": {
+    "「ふふっ。新鋭職人の　<pc>。|　時々　キミの作った仕立て物の評判を|　聞くようになったよ。|<bw_break>": "... The New Craftsman<pc> You know... From time to time, I'd hear about|your tailoring...<bw_break>"
+  },
+  "348": {
+    "「最近　<pc>の名前を　よく耳にするよ。|　キミも　もう　人気職人と言っても|　いいんじゃないかな。|<bw_break>": "Recent<pc> I've often heard the name... I guess you|could say I'm a popular craftsman.<bw_break>"
+  },
+  "349": {
+    "「ようこそ　<pc>。|　今や　誰もが認める　有名職人だね。|　キミの評判は　急上昇中だよ。|<bw_break>": "Welcome<pc> I'm sorry. You're now a household name. Your|reputation is soaring...<bw_break>"
+  },
+  "350": {
+    "「カリスマ職人の　<pc>だね。|　キミが来ると　若い職人たちが大騒ぎだよ。|　いい手本になっておくれ。|<bw_break>": "The charismatic craftsman<pc> Yeah. When you arrive, the young craftsmen|will be in an uproar... You set a good|example.<bw_break>"
+  },
+  "351": {
+    "「よく来てくれたね　<pc>。|　とうとう　名匠と呼ばれるようになったか。|　ボクも　負けていられないよ。|<bw_break>": "I'm glad you're here<pc> I'm a master. He's finally being called a|master... I can't lose, too...<bw_break>"
+  },
+  "352": {
+    "「<pc>　すっかり立派になったね……。|　今やもう　世界屈指のウデ前と大評判だ。|　次の作品を　みんなが待ってるよ！|<bw_break>": "<pc> You've grown up so well... Now you're one of|the best in the world. Everyone's waiting to|see what you'll do next.<bw_break>"
+  },
+  "353": {
+    "「やあ　<pc>じゃないか。|　神の手を持つと言われる　キミが|　来てくれるなんて　光栄だよ。|<bw_break>": "Hi<pc> So... I can't believe you're here. You're|supposed to have the hands of God.<bw_break>"
+  },
+  "354": {
+    "「おっ　ひよっこ職人の　<pc>だな。|　まだ慣れてないかも　しれないけど|　地道に　がんばれよっ。|<bw_break>": "Whoa, a chick craftsman<pc> That's right. I may not be used to it yet,|but I'll do my best...<bw_break>"
+  },
+  "355": {
+    "「あ……あんたは　まさか|　伝説の職人　<pc>！|　ああっ　生きて　その姿を拝めるとはっ……！|<bw_break>": "Oh You're not| Legendary Craftsman<pc> Oh! Oh, I never thought I'd see you alive...<bw_break>"
+  },
+  "356": {
+    "「おっ　<pc>か。|　やり方は　覚えたようだが|　評判は　まだまだだな。|<bw_break>": "Whoa<pc> I see. He seems to have learned how to do it,|but his reputation is still...<bw_break>"
+  },
+  "357": {
+    "「おっ　<pc>か。|　ときどき　評判を聞くようになったぜ。|　まずまずって　ところだな。|<bw_break>": "Whoa<pc> I see. I've heard good things about you from|time to time... It's not so bad...<bw_break>"
+  },
+  "358": {
+    "「おっ　<pc>か。|　精が出るな。|　最近　そこそこ名前を耳にするぜ。|<bw_break>": "Whoa<pc> I see. I've been... I've heard a few names|lately...<bw_break>"
+  },
+  "359": {
+    "「おう　<pc>か。|　調子はどうだ？|　評判は　うなぎのぼりだぜ！|<bw_break>": ""
+  },
+  "360": {
+    "「おっ　うわさのカリスマ職人|　<pc>さんの　ご来店だな！|　おれも　鼻が高いぜっ。|<bw_break>": "Oh, the charismatic craftsman I've heard so much about|<pc> I'm so excited to see you. I'm so excited...<bw_break>"
+  },
+  "361": {
+    "「これは　<pc>さん！|　その名前は　知らない人はいないくらい|　世界的に　大評判だぜ！|<bw_break>": "This is<pc> Oh, my God! That name is so well known all|over the world, it's almost impossible not to|recognize it!<bw_break>"
+  },
+  "362": {
+    "「ややっ　<pc>先生！|　巨匠と呼ばれる　先生の|　次の作品を　みんな待ってるぜ！|<bw_break>": "oh no!<pc> Master! We're all waiting to see what you,|the master, have in store for us!<bw_break>"
+  },
+  "363": {
+    "「おおっ　<pc>師匠じゃないか！|　神の手を持つと言われる　あなたに|　お目にかかれるなんて　光栄だぜ！|<bw_break>": "Whoa!<pc> You're the master! It's an honor to meet you,|the man with the divine hands!<bw_break>"
+  },
+  "364": {
+    "「おっ　ひよっこ職人の　<pc>だな。|　まだ慣れてないかも　しれないけど|　地道に　がんばれよっ。|<bw_break>": "Whoa, a chick craftsman<pc> That's right. I may not be used to it yet,|but I'll do my best...<bw_break>"
+  },
+  "365": {
+    "「あ……あんたは　まさか|　伝説の職人　<pc>！|　ああっ　生きて　その姿を拝めるとはっ……！|<bw_break>": "Oh You're not| Legendary Craftsman<pc> Oh! Oh, I never thought I'd see you alive...<bw_break>"
+  },
+  "366": {
+    "「おっ　<pc>か。|　やり方は　覚えたようだが|　評判は　まだまだだな。|<bw_break>": "Whoa<pc> I see. He seems to have learned how to do it,|but his reputation is still...<bw_break>"
+  },
+  "367": {
+    "「おっ　<pc>か。|　ときどき　評判を聞くようになったぜ。|　まずまずって　ところだな。|<bw_break>": "Whoa<pc> I see. I've heard good things about you from|time to time... It's not so bad...<bw_break>"
+  },
+  "368": {
+    "「おっ　<pc>か。|　精が出るな。|　最近　そこそこ名前を耳にするぜ。|<bw_break>": "Whoa<pc> I see. I've been... I've heard a few names|lately...<bw_break>"
+  },
+  "369": {
+    "「おう　<pc>か。|　調子はどうだ？|　評判は　うなぎのぼりだぜ！|<bw_break>": ""
+  },
+  "370": {
+    "「おっ　うわさのカリスマ職人|　<pc>さんの　ご来店だな！|　おれも　鼻が高いぜっ。|<bw_break>": "Oh, the charismatic craftsman I've heard so much about|<pc> I'm so excited to see you. I'm so excited...<bw_break>"
+  },
+  "371": {
+    "「これは　<pc>さん！|　その名前は　知らない人はいないくらい|　世界的に　大評判だぜ！|<bw_break>": "This is<pc> Oh, my God! That name is so well known all|over the world, it's almost impossible not to|recognize it!<bw_break>"
+  },
+  "372": {
+    "「ややっ　<pc>先生！|　巨匠と呼ばれる　先生の|　次の作品を　みんな待ってるぜ！|<bw_break>": "oh no!<pc> Master! We're all waiting to see what you,|the master, have in store for us!<bw_break>"
+  },
+  "373": {
+    "「おおっ　<pc>師匠じゃないか！|　神の手を持つと言われる　あなたに|　お目にかかれるなんて　光栄だぜ！|<bw_break>": "Whoa!<pc> You're the master! It's an honor to meet you,|the man with the divine hands!<bw_break>"
+  },
+  "374": {
+    "「<pc>。錬金には　慣れた？|　まだまだ　ツボ錬金職人としては　無名だけど|　評判なんて　これから　上がっていくからね！|<bw_break>": "<pc> I'm sorry. Are you familiar with alchemy? I'm|still not known as a urn smith, but my|reputation will grow!<bw_break>"
+  },
+  "375": {
+    "「ああっ……<pc>っ！|　まさに　伝説と呼ぶにふさわしい活躍……！|　あなたの名前は　きっと　歴史に残るわね！！|<bw_break>": "Oh<pc> No! You're a legend, you know that? Your name|will go down in history!<bw_break>"
+  },
+  "376": {
+    "「あら？　錬金ツボを構える姿が|　少しは　サマになってきた……かな？|　新人職人として　知られてきてるみたいだし。|<bw_break>": "What? The way you're holding the metal urn is|becoming a little more stylish... Is that so?|I think I'm becoming known as the new|<br>|craftsman...<bw_break>"
+  },
+  "377": {
+    "「期待の新鋭職人　<pc>ね！|　時々　あなたの錬金効果の評判を|　聞くようになったわよ～。|<bw_break>": "New and promising craftsmen<pc> Hey! From time to time, I've heard of your|reputation for alchemical effects...<bw_break>"
+  },
+  "378": {
+    "「<pc>　<pc>！|　最近　あなたの名前を　よく耳にするわ。|　すっかり　人気職人の　仲間入りね！|<bw_break>": "<pc>  <pc> Oh, my God! I've been hearing your name a lot|lately. You've become one of the most popular|craftsmen in the world.<bw_break>"
+  },
+  "379": {
+    "「あっ　<pc>。|　あなたも　今や　いっぱしの有名職人ね！|　評判が　赤マル急上昇中よ！！|<bw_break>": "oh!<pc> You're a famous craftsman now! You're a|famous craftsman now! Your reputation is|skyrocketing!<bw_break>"
+  },
+  "380": {
+    "「おっ　カリスマ職人<pc>！|　あなたが来ると　若いコたちが大騒ぎよ。|　私も　自慢しちゃってるの。うふふっ。|<bw_break>": "Whoa, charismatic craftsman<pc> Oh, my God. You know, when you're here, a lot|of the younger girls... I'm so proud of you.|I'm...<bw_break>"
+  },
+  "381": {
+    "「あらっ　<pc>！|　あなたも　名匠と呼ばれるようになったのねー。|　でも　ギルドマスターの座は　ゆずらないわよ！|<bw_break>": "oh!<pc> You're a master. You've been called a|master... But that doesn't mean you can't|still be Guildmaster!<bw_break>"
+  },
+  "382": {
+    "「<pc>も　立派になったものねー！|　今やもう　世界屈指のウデ前と　大評判！|　次の作品を　みんな待ってるわ！|<bw_break>": "<pc> You've grown up so well! You're already|considered one of the best in the world!|We're all waiting to see what you do next!<bw_break>"
+  },
+  "383": {
+    "「きゃーっ　<pc>ー！|　神の手を持つと言われる　あなたが|　来てくれるなんて　光栄だわ！|<bw_break>": "yikes!<pc> Oh! It's an honor to have you here, with your|allegedly divine hands!<bw_break>"
+  },
+  "384": {
+    "「<pc>さん　調理には慣れてきたかなっ？|　まだまだ　調理職人としては　無名だけど|　評判なんて　すぐ上がるから　だいじょーぶっ！|<bw_break>": "<pc> You're getting used to cooking, aren't you? I|know I'm not a household name yet, but my|reputation will soon grow.<bw_break>"
+  },
+  "385": {
+    "「きゃああ……　<pc>さんっ！|　伝説の職人になっちゃうなんて……感激だよっ！|　キミこそが　クッキングドリームだねっ<heart>|<bw_break>": "Oh, my God<pc>  Oh, my God! You're becoming a legendary|craftsman... I'm impressed. You are the|cooking dream.<heart>|<bw_break>"
+  },
+  "386": {
+    "「いらっしゃーい　<pc>さん！|　フライパンを構える姿に　味が出てきたねっ。|　新人職人として　知られちゃってるよ～！|<bw_break>": "welcome!<pc> Oh, my God! The way you hold the frying|pan... You're known as a new craftsman~!<bw_break>"
+  },
+  "387": {
+    "「いらっしゃーい　期待の新鋭職人さん！|　最近　キミのお料理が　おいしいって|　お客さんの間で　ささやかれてるよ～！|<bw_break>": "Welcome, promising new artisan! Lately, the|customers have been whispering about how|delicious your cooking is~!<bw_break>"
+  },
+  "388": {
+    "「待ってたよ　<pc>さん！　|　グルメ通さんから　キミの名前をよく聞くよっ。|　こだわりの　人気職人さんだねっ！|<bw_break>": "I've been waiting for you<pc> Oh, my God! I've often heard your name|mentioned by gourmet connoisseurs... You're a|popular artisan!<bw_break>"
+  },
+  "389": {
+    "「待ってたよ　<pc>さん！|　評判が　うなぎのぼりで　ニュルニュルだよっ！|　うちの自慢の　有名職人さんだね～！|<bw_break>": "I've been waiting for you<pc> You! Your reputation is growing fast, and|you're slippery as a cucumber! You're one of|our most famous craftsmen!<bw_break>"
+  },
+  "390": {
+    "「わわっ！　カリスマ職人の　<pc>さん！|　キミが来るのを　みんな　心待ちにしてるよっ！|　あたしも　誇らしくなっちゃうなっ<heart>|<bw_break>": "Wow! The charismatic craftsman.<pc>  Hello! Everyone's waiting for you to come!|I'm so proud of you.<heart>|<bw_break>"
+  },
+  "391": {
+    "「わわっ！　名匠と呼ばれる　<pc>さん！|　本当に　すごい職人に　成長してくれたねっ！|　エンジェルの名を　ゆずらなきゃかも……！？|<bw_break>": "Whoa! They call me a master.<pc> Thank you! You've really grown into an|amazing craftsman! I might have to give up|the name Angel...<bw_break>"
+  },
+  "392": {
+    "「わぁっ　<pc>さんったら|　世界屈指のウデ前って　大評判だよ～！！|　キミの　お料理　あたしも食べたいな……<heart>|<bw_break>": "Whoa<pc>  You have a reputation as one of the best|cooks in the world! I want to try your|cooking too...<heart>|<bw_break>"
+  },
+  "393": {
+    "「あわわ……　<pc>さんってば|　神の手を持つって　呼ばれるなんて　すごいっ！|　つまり　クッキング☆ゴッドハンドってこと！？|<bw_break>": "Aww<pc> It's amazing that you have the hands of a|god! In other words, you're a cooking god|hand!<bw_break>"
+  },
+  "394": {
+    "「おっ　ひよっこ職人の　<pc>だな。|　まだ慣れてないかも　しれないけど|　地道に　がんばれよっ。|<bw_break>": "Whoa, a chick craftsman<pc> That's right. I may not be used to it yet,|but I'll do my best...<bw_break>"
+  },
+  "395": {
+    "「あ……あんたは　まさか|　伝説の職人　<pc>！|　ああっ　生きて　その姿を拝めるとはっ……！|<bw_break>": "Oh You're not| Legendary Craftsman<pc> Oh! Oh, I never thought I'd see you alive...<bw_break>"
+  },
+  "396": {
+    "「おっ　<pc>か。|　やり方は　覚えたようだが|　評判は　まだまだだな。|<bw_break>": "Whoa<pc> I see. He seems to have learned how to do it,|but his reputation is still...<bw_break>"
+  },
+  "397": {
+    "「おっ　<pc>か。|　ときどき　評判を聞くようになったぜ。|　まずまずって　ところだな。|<bw_break>": "Whoa<pc> I see. I've heard good things about you from|time to time... It's not so bad...<bw_break>"
+  },
+  "398": {
+    "「おっ　<pc>か。|　精が出るな。|　最近　そこそこ名前を耳にするぜ。|<bw_break>": "Whoa<pc> I see. I've been... I've heard a few names|lately...<bw_break>"
+  },
+  "399": {
+    "「おう　<pc>か。|　調子はどうだ？|　評判は　うなぎのぼりだぜ！|<bw_break>": ""
+  },
+  "400": {
+    "「おっ　うわさのカリスマ職人|　<pc>さんの　ご来店だな！|　おれも　鼻が高いぜっ。|<bw_break>": "Oh, the charismatic craftsman I've heard so much about|<pc> I'm so excited to see you. I'm so excited...<bw_break>"
+  },
+  "401": {
+    "「これは　<pc>さん！|　その名前は　知らない人はいないくらい|　世界的に　大評判だぜ！|<bw_break>": "This is<pc> Oh, my God! That name is so well known all|over the world, it's almost impossible not to|recognize it!<bw_break>"
+  },
+  "402": {
+    "「ややっ　<pc>先生！|　巨匠と呼ばれる　先生の|　次の作品を　みんな待ってるぜ！|<bw_break>": "oh no!<pc> Master! We're all waiting to see what you,|the master, have in store for us!<bw_break>"
+  },
+  "403": {
+    "「おおっ　<pc>師匠じゃないか！|　神の手を持つと言われる　あなたに|　お目にかかれるなんて　光栄だぜ！|<bw_break>": "Whoa!<pc> You're the master! It's an honor to meet you,|the man with the divine hands!<bw_break>"
+  },
+  "404": {
+    "「やるわね　<pc>。|　依頼品より　デキのいい防具を納品するなんて。|　じゃあ　報酬も　多めに出しておくわね。|<end>": "I'm in<pc> I'll be back. I'll deliver you better armor|than you asked for... Then I'll pay you|more...<end>"
+  },
+  "405": {
+    "「……おおっ！　こいつは　思っていたよりも|　すばらしいデキだぞ！　やるじゃないか！|　よし　報酬も　少しイロを付けておくぜっ！|<end>": "... Oh! This is even better than I thought it|would be! You're good! I'll give you a little|extra for your work!<end>"
+  },
+  "406": {
+    "「……ほほう。これは……思っていたより|　すばらしいデキ。確かな品質……。|　では　報酬も　少し上乗せしておこう……。|<end>": "...... This is... It's better than I|expected... It's of a certain quality. I'll|add a little extra to my fee...<end>"
+  },
+  "407": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "408": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "409": {
+    "「……まあっ！　こんなに　デキのよいものを|　納品していただけるなんて　感激です！|　では　報酬も　上げないといけませんねっ。|<end>": "... Oh, no! I'm so thrilled that you've|delivered such a great piece of work! Then|I'll have to raise my fee...<end>"
+  },
+  "410": {
+    "「……ク～ッ！　これってば　マジ|　グンバツの錬金効果　付いちゃってんじゃん！|　思わず　報酬を割り増ししちゃうレベルよ！？|<end>": "... Damn it! It's got a really cool alchemy|effect on it! I'm going to pay extra for|this!<end>"
+  },
+  "411": {
+    "「……おや？　これは　依頼した物よりも|　すばらしいデキ映えじゃないか！　|　それなら　報酬も　多めにしてあげないとね。|<end>": "... Huh? This is even better than what I|asked for! Then I guess I'll have to pay you|more...<end>"
+  },
+  "412": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "413": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "414": {
+    "「……あら！？　これって　依頼した物よりも|　すっごい効果が付いてない？　オッケー！|　報酬に　ちょっと　イロを付けちゃおうかな？|<end>": "... What? Isn't this a hell of a lot more|effective than what I asked for? Okay! I|think I'll add a little something to the|<br>|reward.<end>"
+  },
+  "415": {
+    "「わぁっ！　なんて　絶妙に|　仕上がってる　お料理っ！　……ごくり。|　これは　報酬も　てんこもりにしなきゃ～！|<end>": "Wow! What an exquisitely crafted dish! ......|I'm going to need a lot of money for this!<end>"
+  },
+  "416": {
+    "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
+  },
+  "417": {
+    "「あら？　それは　誰かが装備した　中古品よね？|　そんな物を　受け取るわけにはいかないわ。|　ギルドへの依頼品は　新品で　お願いね。|<bw_break>": "Oh? That's a secondhand piece of equipment,|isn't it? I can't accept that. The Guild|requires new equipment.<bw_break>"
+  },
+  "418": {
+    "「ん？　それは　一度　装備された物だな？|　悪いが　装備された物は　受け取れないんだ。|　新品の武器を　持ってきてくれよ。|<bw_break>": "Hmm? That's once it's rigged, right? I'm|sorry, but I can't accept anything once it's|been mounted. Bring me a new weapon...<bw_break>"
+  },
+  "419": {
+    "「おや？　それは……一度　装備された物だね。|　装備された職人道具は　もう　その人のものだ。|　新品でなければ　話にならない……。|<bw_break>": "Hmm? That's... Once equipped... Once|equipped, a craftsman's tools are no longer|his... If it's not new, it's not worth|<br>|talking about...<bw_break>"
+  },
+  "420": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "421": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "422": {
+    "「あっ　それは……　もしかして　一度|　装備された物では　ありませんか？|　ごめんなさい。新品の物を　お願いします。|<bw_break>": "Oh, that's... Isn't it something that was|installed once? Sorry... I need a new one...<bw_break>"
+  },
+  "423": {
+    "「ん？　それって　まさか　一度装備された物？|　悪いけど　納品する品物は　新品じゃないと|　受け取れないんだよねー。マジメンゴ！|<bw_break>": "Hmm? Don't tell me that's been equipped once?|I'm sorry, but I can't accept deliveries|unless they're brand-new... I'm sorry.<bw_break>"
+  },
+  "424": {
+    "「おや？　その仕立て物は……|　一度　装備された物だね？|　悪いけど　新品の物を　頼むよ。|<bw_break>": "Hmm? That tailoring... It's been outfitted|once, hasn't it? I'm sorry, but you'll need a|new one.<bw_break>"
+  },
+  "425": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "426": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "427": {
+    "「あれ？　それ　一度　装備された物よね？|　ダメダメ。装備された物じゃ　受け取れないの。|　新品の装備品で　お願いするわ。|<bw_break>": "What? That's the one that was rigged once,|right? It's... I can't take it if it's|already been equipped. New equipment,|<br>|please...<bw_break>"
+  },
+  "428": {
+    "「わわっ……かじったあとがあるよ！|　これ　食べたことがある　お料理でしょ～！|　できたてじゃなきゃ　ダメダメーッ！|<bw_break>": "Whoa... There are bite marks! This must be|something you've eaten before! You can't have|it unless it's fresh!<bw_break>"
+  },
+  "429": {
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+  },
+  "430": {
+    "「今日の依頼は　翌朝には|　すべて別の依頼に　入れ替えておくわね。|<bw_break>": "All of today's requests will be replaced by|another one the next morning.<bw_break>"
+  },
+  "431": {
+    "「私からの依頼だけど……|　今日のところは　間に合ってるわ。|　また明日　お願いね。|<bw_break>": "It's a request from me, but... I think we're|good for today. I'll see you tomorrow.<bw_break>"
+  },
+  "432": {
+    "「今日の依頼は　翌朝には　すべて別の依頼に|　入れ替えておくんで　また来てくれ。|<bw_break>": "All of today's requests will be replaced by|another one the next morning, so please come|back...<bw_break>"
+  },
+  "433": {
+    "「オレからの依頼だが|　悪いが　今日はもう　間に合ってるんだ。|　また　明日になったら頼むぜ。|<bw_break>": "I'm sorry, but I can't make it today, so...|I'll see you tomorrow...<bw_break>"
+  },
+  "434": {
+    "「今日の依頼は　翌朝には|　すべて別の依頼に　入れ替えておくよ……。|<bw_break>": "All of today's requests will be replaced by|another one the next morning...<bw_break>"
+  },
+  "435": {
+    "「ボクからの依頼だけど|　じつは　今日はもう　間に合っているんだ。|　また明日　来るといいだろう……。|<bw_break>": "I know I asked you to do this, but I'm|actually not available today. You can come|back tomorrow.<bw_break>"
+  },
+  "436": {
+    "<break>": ""
+  },
+  "437": {
+    "<break>": ""
+  },
+  "438": {
+    "<break>": ""
+  },
+  "439": {
+    "<break>": ""
+  },
+  "440": {
+    "「今日の依頼は　翌朝には　すべて別の依頼に|　入れ替えておきますので　またお願いしますね。|<bw_break>": "All of today's requests will be replaced by|another one the next morning.<bw_break>"
+  },
+  "441": {
+    "「あっ　今日の依頼ですが……|　じつは　もう間に合っているんです。|　明日以降　また　よろしくお願いします！|<bw_break>": "Oh, about today's request... Actually, it's|already ready... I'll see you tomorrow.<bw_break>"
+  },
+  "442": {
+    "「オッケー。<pc>ちゃん　カレオツ！|　今日の依頼は　翌朝には　全部　別の依頼に|　入れ替えておくんで　また来てちょ！|<bw_break>": "オ...<pc> Hey, Kaleoz! All of today's requests will be|replaced by another one the next morning, so|please come back!<bw_break>"
+  },
+  "443": {
+    "「ラン錬の依頼だけど……　マジメンゴ！|　今日はもう　間に合っちゃってんだよね～！|　また明日になったら　よろぴく！|<bw_break>": "It's a request from Ran Ren... Seriously, I'm|sorry! I'm sorry! I'm already late for work|today! I'll see you tomorrow.<bw_break>"
+  },
+  "444": {
+    "「今日の依頼は　翌朝には　すべて別の依頼に|　入れ替えておくから　また来ておくれよ。|<bw_break>": "All of today's requests will be replaced by|another one the next morning, so please come|back.<bw_break>"
+  },
+  "445": {
+    "「今日の依頼だけど……|　すまないが　もう　間に合ってるんだ。|　また明日　来ておくれよ。|<bw_break>": "About today's request... I'm sorry, I can't|make it. You can come back tomorrow...<bw_break>"
+  },
+  "446": {
+    "<break>": ""
+  },
+  "447": {
+    "<break>": ""
+  },
+  "448": {
+    "<break>": ""
+  },
+  "449": {
+    "<break>": ""
+  },
+  "450": {
+    "「今日の依頼は　翌朝には　全部　別の依頼に|　入れ替えておくから　またチェックしてね。|<bw_break>": "I'll replace all of today's requests with|another one in the morning, so check back...<bw_break>"
+  },
+  "451": {
+    "「依頼だけど……ゴメンっ。|　今日はもう　間に合っちゃってるのよ。|　また明日　お願いするから　よろしくね。|<bw_break>": "It's a request, but... I... I'm sorry, I|can't make it today. I'll see you tomorrow,|okay?<bw_break>"
+  },
+  "452": {
+    "「<pc>さん　お疲れさまだよ～！|　今日の依頼は　翌朝には　全部　別の依頼に|　入れ替えておくから　またチェックしてねっ。|<bw_break>": "<pc> Thank you for your hard work! I'll replace|all of today's requests with new ones the|next morning, so please check back...<bw_break>"
+  },
+  "453": {
+    "「あのねあのねっ　お料理の依頼だけど|　今日の分は　間に合っちゃったんだ～。|　明日以降　また　よろしくねーっ！|<bw_break>": "You know... about the cooking request... it's|not too late for today... I'll see you|tomorrow.<bw_break>"
+  },
+  "454": {
+    "<break>": ""
+  },
+  "455": {
+    "<break>": ""
+  },
+  "456": {
+    "「さて　今日は　どんな用かしら？|<break>": "So, what can I do for you today?<break>"
+  },
+  "457": {
+    "「他にも　用はあるかしら？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "458": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "459": {
+    "「どの説明を　聞きたいの？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": ""
+  },
+  "460": {
+    "「『評判』っていうのは　職人として　人から|　どれくらい評価されてるかを　示すものよ。|　今の評判は　『つよさ』から確認できるわ。|<br>|「例えば　自分の作った防具を　誰かが装備すると|　評判は上がるわ。レベルや　できのよさが|　高い防具ほど　評判も　上がりやすいの。|<br>|「とは言っても　いくら大勢に装備されたからって|　１日で　一気に評判が上がることは　ないわ。|　大切なのは　日々の積み重ね。そうでしょう？|<br>|「それに　評判は　しょせん評判でしかないわ。|　あなたのウデを上げるには　あなた自身が|　努力するしかないんだから。|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength... For example, if someone|equips a piece of armor you made, your|reputation goes up... The higher the level|<br>|and the better the armor, the higher the|reputation... But no matter how many people|equip your armor, your reputation won't rise|<br>|in a single day... What's important is the|daily accumulation... Isn't that right?|Besides, reputation is just that, a|<br>|reputation. To improve your skills, you have|to work hard.<end>"
+  },
+  "461": {
+    "「防具鍛冶などの　職人仕事をして|　職人経験値を積むと|　職人レベルが　上がっていくわ。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の　数も増えるの。次のレベルまでに|　必要な経験値は　『つよさ』から確認できるわ。|<br>|「でも　職人レベルの成長は　時に限界が来る。|　最初は　誰もが　レベル１０で|　カベに　ぶつかるでしょうね。|<br>|「そんな時は　私の所に　いらっしゃい。|　あなたが　自分の限界を超えるために必要な|　試練を　用意してあげるわ。|<br>|「あと　その試練をクリアして　一人前の|　職人になると　もう他の職人になれなくなるの。|　それが　職人の世界の　オ・キ・テ<heart>|<br>|「だから　防具鍛冶職人として|　一人前になる決心が　つく前に|　他の職人も　体験しておくといいでしょうね。|<end>": "As you work as a craftsman, such as armor|smith, and gain experience, your craftsman|level will increase. As your craftsman level|<br>|increases, you'll learn new skills, and the|number of items you can make will also|increase... You can check your strength to|<br>|see how much experience you need to reach the|next level. But there is a limit to how far|you can go... At first, we all hit a wall at|<br>|level 10. That's when you come to me... I've|prepared the trials and tribulations you'll|need to push past your limits. And once|<br>|you've passed those trials and become a full-|fledged craftsman, you'll never be able to|become another. That's the spirit of the|<br>|craftsman's world.<heart>So, before you decide to become a full-|fledged armor smith, it's a good idea to|experience other crafts...<end>"
+  },
+  "462": {
+    "「防具鍛冶職人に　なったなら|　まずは　コツコツと　レシピを集めながら|　いろんな防具を　作っていくといいわ。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売ってるわ。他にも　町の本棚で|　眠っていたりするものも　あるそうよ。|<br>|「仕事がほしいときは　私の所に来てくれれば|　あなたに　ちょうどいい依頼を　紹介するわ。|　『依頼をみる』で　確認してくださる？|<br>|「依頼の品を　私に納品したら|　その場で報酬を受け取って　仕事は終わりよ。|　割のいい依頼は　黄色にしてあるわ。|<br>|「さらに　職人レベルが３０以上になっていれば|　時々　特別な依頼をさせてもらうわ。|　オレンジ色の依頼よ。報酬は期待しててね。|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくけど　１日に頼まれる仕事は|　とりあえず　３件までよ。|<br>|「最初のうちは　３件も　ないだろうけど|　あなたの　職人レベルが上がったら|　依頼の数も　増やしてあげるわ。|<br>|「さらに　一人前の職人になっていれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておくわね。|<br>|「そのうち　デキのいい防具が作れたら|　旅人バザーにでも　出してみるといいわ。|　もしかしたら　高く売れるかもしれないわね？|<end>": "If you've become an armor smith, you'll need|to collect recipes to make a variety of|armor... The basic recipes are sold in the|<br>|recipe shop in the guild... There are also|some that are just sitting on bookshelves in|town... If you need a job, come to me, and|<br>|I'll find just the right one for you. Would|you mind going to \"View Requests\"? Once|you've delivered your order to me, you'll get|<br>|paid on the spot, and the job is done. And if|the request is good enough, I'll yellow it.|And if you're at least 30, sometimes I'll let|<br>|you do special requests... Orange... I don't|expect to be paid... I'll replace the request|with a new one the next morning, but for now,|<br>|I'll only take on three jobs a day. In the|beginning, you probably won't get three, but|as your skill level improves, you'll get more|<br>|requests. And when you're a full-fledged|craftsman, when you come back the next|morning with more than three jobs left to do,|<br>|we'll increase the number of requests by one|per day... Eventually, when you've made a|good suit of armor, you can sell it at the|<br>|Traveler's Bazaar... You might be able to get|a good price for it, right?<end>"
+  },
+  "463": {
+    "「さて　今日は　なんの用だ？|<break>": "So, what can I do for you today?<break>"
+  },
+  "464": {
+    "「まだ　用はあるか？|<break>": "Do you still need me?<break>"
+  },
+  "465": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "466": {
+    "「何について　聞きたいんだ？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What do you want to talk about?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "467": {
+    "「『評判』ってえのは　職人として　人から|　どれくらい評価されてるかを　示すものだ。|　今の評判は　『つよさ』から確認できるぞ。|<br>|「例えば　自分の作った武器が誰かに装備されると|　評判は上がる。レベルや　できのよさが高ければ|　その分だけ　評判も　上がりやすいぜ。|<br>|「っていっても　いくら大勢に装備されたからって|　１日で　一気に評判が上がるなんてことはない。|　大切なのは　日々の積み重ねだ。|<br>|「それに……　評判ってのは　しょせん評判だ。|　上がったところでウデ前まで　上がりゃしない。|　あんまり　気にしすぎない方がいいと思うぜ。|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. For example, if someone equips|a weapon you've made, your reputation is...|The higher your level and the better your|<br>|workmanship, the higher your reputation will|be. But it's not like your reputation will|rise in a day, no matter how many people|<br>|equip your weapon. What's important is the|daily accumulation... Besides... Reputation|is just that... It won't go up to your level.|<br>|I think it's better not to worry about it too|much...<end>"
+  },
+  "468": {
+    "「武器鍛冶などの職人仕事をやって|　職人経験値を積むと|　職人レベルが　上がっていくんだ。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の数も増えていく。次のレベルまでに|　必要な経験値は　『つよさ』から確認できるぜ。|<br>|「だが　職人レベルの成長は　時に限界がくる。|　最初は　レベル１０で　カベにぶつかるだろう。|<br>|「そんな時は　オレのとこに相談に来い。|　お前が　自分の限界を超えるために必要な|　試練を与えてやるぞ。|<br>|「あと　試練をクリアして　一人前の職人になると|　もう他の職人になれなくなる。|　これは　職人の世界のオキテだからな。|<br>|「だから　武器鍛冶職人として|　一人前になる決心がつく前に|　他の職人も　試してみると　いいだろう。|<end>": "As you work as a craftsman, such as a weapon|smith, and gain experience, your craftsman|level will increase. As your craftsman level|<br>|increases, you'll learn new skills, and the|number of things you can make will|increase... You can check your strength to|<br>|see how much experience you need to reach the|next level. But there are limits to how far|you can go. At first, at level 10, you'll hit|<br>|a wall. That's when you come to me. I'll give|you the trials and tribulations you need to|push past your limits. Also, once you|<br>|complete the trials and become a full-fledged|craftsman, you can't become another|craftsman. This is a rule in the world of|<br>|craftsmen... So before you decide to become a|full-fledged weapon smith, you should try|other crafts...<end>"
+  },
+  "469": {
+    "「武器鍛冶職人に　なったなら|　まずは　コツコツと　レシピを集めながら|　いろんな武器を　作っていくといいだろう。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売ってるぜ。他にも　町の本棚で|　眠っていたりするものも　あるらしい。|<br>|「仕事がほしけりゃ　オレのとこに顔を出せば|　お前に　ちょうどいい依頼を　紹介してやる。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　オレに納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　おいしい依頼は黄色にしとくから　見逃すなよ？|<br>|「さらに　職人レベルが　３０以上になっていれば|　時々　特別な依頼をさせてもらうぜ。|　オレンジ色の依頼だ。報酬は期待していいぜ。|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくが　頼まれる仕事の数は|　とりあえず　１日３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　職人レベルが上がったら|　依頼の数も　増やしていくからな。|<br>|「さらに　一人前の職人になっていれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておこう。|<br>|「そのうち　デキのいい武器が作れたら|　旅人バザーにでも　出してみるといい。|　もしかしたら　高く売れるかもしれないぜ？|<end>": "If you've become a weapon smith, you'll need|to collect recipes to make a variety of|weapons. The basic recipes are sold at the|<br>|recipe shop in this guild. There are also|some that are just sitting on the bookshelves|in town. If you want a job, come see me, and|<br>|I'll hook you up with just the job you need.|Go to \"View Requests\" and check it out. If|you deliver the requested item to me, you get|<br>|paid on the spot and the job is yours. I'll|keep the good ones in yellow so you don't|miss them. And if you're at least 30,|<br>|sometimes I'll make you a special request...|Orange... Expect to be paid... I'll replace|the requests with new ones the next morning,|<br>|but for now, you'll only be asked to do three|jobs a day. In the beginning, you won't get|three, but as your skill level rises, we'll|<br>|increase the number of requests. And when|you've become a full-fledged craftsman, when|you arrive the next morning with more than|<br>|three jobs left to do, you'll receive one|more request per day. Eventually, if I can|make a good weapon, I'll sell it at the|<br>|Traveler's Bazaar. You might be able to get a|good price for it.<end>"
+  },
+  "470": {
+    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+  },
+  "471": {
+    "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
+  },
+  "472": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "473": {
+    "「何について　説明しようか……？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What shall I explain?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "474": {
+    "「『評判』とは　職人として　人から|　どれくらい評価されてるかを　示すもの……。|　今の評判は　『つよさ』から確認できる。|<br>|「自分の作った職人道具が　誰かに装備されると|　評判は上がる。レベルや　できのよさが高ければ|　その分だけ　評判も　上がりやすいだろう。|<br>|「と言っても　いくら大勢に装備されたからって|　１日で　一気に評判が上がることはない……。|　大切なのは　日々の積み重ね……だよ。|<br>|「評判なんて　しょせん他人のモノサシ……。|　上がったところでウデ前まで　上がりはしない。|　あんまり　気にしすぎない方が　いいよ……。|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. Your|current reputation is confirmed by your|<br>|Strength. When someone equips one of your|tools, your reputation will increase... The|higher your level and the better your|<br>|workmanship, the higher your reputation will|be... But no matter how many people equip|your tools, your reputation won't rise all at|<br>|once in one day... What's important is the|accumulation of every day ..... Reputation is|just a measure of other people... It's only a|<br>|measure of others. You shouldn't worry about|it too much...<end>"
+  },
+  "475": {
+    "「道具鍛冶などの　職人仕事をやって|　職人経験値を積むと|　職人レベルが　上がっていくだろう……。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の数も増えていく。次のレベルまでに|　必要な経験値は『つよさ』から確認できる……。|<br>|「だが　職人レベルの成長は　時に限界が来る。|　最初は……そう　誰もが　レベル１０で|　カベにぶつかるだろう……。ボクには　わかる。|<br>|「そんな時は　ボクのとこに相談に来るといい。|　キミが　自分の限界を超えるために必要な|　試練を与えてあげよう……ふふふ。|<br>|「それと　その試練をクリアして　一人前の|　職人になると　もう他の職人には　なれない。|　これは　職人の世界の　オキテさ……。|<br>|「だから　道具鍛冶職人として|　一人前になる決心がつく前に……|　他の職人を試してみるのも　いいだろう。|<end>": "As you gain experience in craftsmanship, such|as tool smithing, your craftsmanship level|will increase... As your craftsman level|<br>|increases, you'll learn new skills and be|able to make more things... You can check|your strength to see how much experience you|<br>|need to reach the next level. But there is a|limit to how far you can go with your skill|level. At first... Yes, everyone hits a|<br>|breaking point at level 10. For me... And|that's when you come to me... I'll give you|the trials and tribulations that you need to|<br>|push yourself beyond your limits. ...... And|once you've passed that test, and you're a|full-fledged craftsman, there's nothing else|<br>|like it. That's the whole point of being a|craftsman. So before you decide to become a|full-fledged tool smith... It's good to try|<br>|out other craftsmen.<end>"
+  },
+  "476": {
+    "「道具鍛冶職人に　なったなら|　まずは　コツコツと　レシピを集めながら|　いろんな職人道具を　作っていくといいだろう。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売っている。他にも　町の本棚で|　眠っていたり……するものも　あるらしい。|<br>|「仕事がほしいなら　ボクの所に来れば|　キミに　ちょうどいい依頼を　紹介しよう……。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　ボクに納品してくれれば|　その場で報酬を受け取って　仕事は完了。|　割のいい依頼は　黄色にしておくからね……。|<br>|「さらに　職人レベルが　３０以上になっていれば|　時々　特別な依頼をさせてもらうよ……。|　オレンジ色の依頼さ。報酬は期待していい……。|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくけど　１日に頼まれる仕事は|　とりあえず　３件まで……。|<br>|「最初のうちは　３件もないだろうね。|　だが　キミの　職人レベルが上がったら|　依頼の数も　増やしていくよ……。|<br>|「さらに　一人前の職人になっていれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておこう……。|<br>|「いつしか　デキのいい道具が作れたときは|　旅人バザーに出品してみるといい……。|　もしかしたら　高く売れるかもしれないよ。|<end>": "If you've become a tool smith, you'll want to|start by collecting recipes and making all|sorts of artisan tools. The basic recipes are|<br>|sold at the recipe shop in this guild. There|are also a few other things that can be|found... Some of them are. If you're looking|<br>|for work, come to me and I'll find just the|job for you. Go to \"View Requests\" and check|it out. If you deliver what I'm asking for,|<br>|you'll get paid on the spot, and you'll get|to work. I'll keep the good ones in yellow.|And if your craftsmanship level is above 30,|<br>|I'll occasionally make you a special request.|Orange... You can expect to be paid... I'll|replace the requests with new ones the next|<br>|morning, but for now, you can only take on|three jobs a day. In the beginning, you won't|get three jobs. But as your level of|<br>|craftsmanship increases, I'll increase the|number of requests. And when you're a full-|fledged craftsman, you'll have more than|<br>|three jobs left to do the next morning, and|I'll increase the number of requests by one|per day. At some point, when you've made a|<br>|good tool, you can sell it at the Traveler's|Bazaar... Maybe you can sell them for a good|price...<end>"
+  },
+  "477": {
+    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+  },
+  "478": {
+    "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
+  },
+  "479": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "480": {
+    "「何について　説明しようか……？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What shall I explain?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "481": {
+    "「『評判』ってえのは　職人として　人から|　どれくらい評価されてるかを　示すものだ。|　今の評判は　『つよさ』から確認できるぞ。|<br>|「例えば　自分の作った武器が誰かに装備されると|　評判は上がる。レベルや　できのよさが高ければ|　その分だけ　評判も　上がりやすいぜ。|<br>|「っていっても　いくら大勢に装備されたからって|　一日で　一気に評判が上がるなんてことはない。|　大切なのは　日々の積み重ねだ。|<br>|「それに……　評判ってのは　しょせん評判だ。|　上がったところで腕前まで上がるわけじゃない。|　あんまり　気にしすぎない方がいいと思うぜ。|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. For example, if someone equips|a weapon you've made, your reputation is...|The higher your level and the better your|<br>|workmanship, the higher your reputation will|be. But it's not like your reputation will|rise in a single day, no matter how many|<br>|people equip your weapon. What's important is|the daily accumulation... Besides...|Reputation is just that... It doesn't mean|<br>|you'll be good at what you do. I think it's|better not to worry about it too much...<end>"
+  },
+  "482": {
+    "「武器鍛冶などの職人仕事をやって|　職人経験値を積むと|　職人レベルが　上がっていくんだ。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の数も増えていく。次のレベルまでに|　必要な経験値は　『つよさ』から確認できるぜ。|<br>|「だが　職人レベルの成長は　時に限界がくる。|　最初は　レベル１０で　壁にぶつかるだろうな。|<br>|「そんな時は　オレのとこに相談に来い。|　お前が　自分の限界を超えるために必要な|　試練を与えてやるぞ。|<br>|「あと　職人レベルが１０を超えて　一人前の|　職人になると　もう他の職人になれなくなる。|　これは　職人の世界のオキテだからな。|<end>": "As you work as a craftsman, such as a weapon|smith, and gain experience, your craftsman|level will increase. As your craftsman level|<br>|increases, you'll learn new skills and be|able to make more things. You can check your|strength to see how much experience you need|<br>|to reach the next level. But there are limits|to how far you can go. At first, you'll hit a|wall at level 10. That's when you come to me.|<br>|I'll give you the trials and tribulations you|need to push past your limits. Also, once|you've reached level 10 and you're a full-|<br>|fledged craftsman, you can't become another|craftsman. This is a rule in the world of|craftsmen.<end>"
+  },
+  "483": {
+    "「武器鍛冶職人になったなら|　まずは　コツコツと　レシピを集めながら|　いろんな武器を　作っていくといいだろう。|<br>|「仕事がほしけりゃ　オレのとこに顔を出せば|　お前に　ちょうどいい依頼を　紹介してやる。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　オレに納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　おいしい依頼は黄色にしとくから　見逃すなよ？|<br>|「達成した依頼は　毎日　新しいものに|　入れ替えておくが　１日に受けられる仕事は|　最大でも　３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　職人レベルが上がったら|　依頼の数も　増やしていくからな。|<br>|「そのうち　できのいい武器が作れたら|　旅人バザーにでも　出してみるといい。|　もしかしたら　高く売れるかもしれないぜ？|<end>": "If you're a weaponsmith, you should start by|collecting recipes and making all kinds of|weapons... If you want a job, just show up at|<br>|my place, and I'll introduce you to a job|that's just right for you. Go to \"View|Requests\" and check it out. If you deliver|<br>|the requested item to me, you'll get paid on|the spot and the job will be yours. I'll mark|the good ones in yellow so you don't miss|<br>|them. I'll replace the completed requests|with new ones every day, but I can only take|on a maximum of three jobs a day. You won't|<br>|get three at first, but as your skill level|rises, I'll increase the number of requests.|Eventually, if you make a good weapon, you|<br>|can sell it at the Traveler's Bazaar. You|might be able to get a good price for it.<end>"
+  },
+  "484": {
+    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+  },
+  "485": {
+    "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
+  },
+  "486": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "487": {
+    "「何について　説明しようか……？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What shall I explain?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "488": {
+    "「『評判』ってえのは　職人として　人から|　どれくらい評価されてるかを　示すものだ。|　今の評判は　『つよさ』から確認できるぞ。|<br>|「例えば　自分の作った武器が誰かに装備されると|　評判は上がる。レベルや　できのよさが高ければ|　その分だけ　評判も　上がりやすいぜ。|<br>|「っていっても　いくら大勢に装備されたからって|　一日で　一気に評判が上がるなんてことはない。|　大切なのは　日々の積み重ねだ。|<br>|「それに……　評判ってのは　しょせん評判だ。|　上がったところで腕前まで上がるわけじゃない。|　あんまり　気にしすぎない方がいいと思うぜ。|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. For example, if someone equips|a weapon you've made, your reputation is...|The higher your level and the better your|<br>|workmanship, the higher your reputation will|be. But it's not like your reputation will|rise in a single day, no matter how many|<br>|people equip your weapon. What's important is|the daily accumulation... Besides...|Reputation is just that... It doesn't mean|<br>|you'll be good at what you do. I think it's|better not to worry about it too much...<end>"
+  },
+  "489": {
+    "「武器鍛冶などの職人仕事をやって|　職人経験値を積むと|　職人レベルが　上がっていくんだ。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の数も増えていく。次のレベルまでに|　必要な経験値は　『つよさ』から確認できるぜ。|<br>|「だが　職人レベルの成長は　時に限界がくる。|　最初は　レベル１０で　壁にぶつかるだろうな。|<br>|「そんな時は　オレのとこに相談に来い。|　お前が　自分の限界を超えるために必要な|　試練を与えてやるぞ。|<br>|「あと　職人レベルが１０を超えて　一人前の|　職人になると　もう他の職人になれなくなる。|　これは　職人の世界のオキテだからな。|<end>": "As you work as a craftsman, such as a weapon|smith, and gain experience, your craftsman|level will increase. As your craftsman level|<br>|increases, you'll learn new skills and be|able to make more things. You can check your|strength to see how much experience you need|<br>|to reach the next level. But there are limits|to how far you can go. At first, you'll hit a|wall at level 10. That's when you come to me.|<br>|I'll give you the trials and tribulations you|need to push past your limits. Also, once|you've reached level 10 and you're a full-|<br>|fledged craftsman, you can't become another|craftsman. This is a rule in the world of|craftsmen.<end>"
+  },
+  "490": {
+    "「武器鍛冶職人になったなら|　まずは　コツコツと　レシピを集めながら|　いろんな武器を　作っていくといいだろう。|<br>|「仕事がほしけりゃ　オレのとこに顔を出せば|　お前に　ちょうどいい依頼を　紹介してやる。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　オレに納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　おいしい依頼は黄色にしとくから　見逃すなよ？|<br>|「達成した依頼は　毎日　新しいものに|　入れ替えておくが　１日に受けられる仕事は|　最大でも　３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　職人レベルが上がったら|　依頼の数も　増やしていくからな。|<br>|「そのうち　できのいい武器が作れたら|　旅人バザーにでも　出してみるといい。|　もしかしたら　高く売れるかもしれないぜ？|<end>": "If you're a weaponsmith, you should start by|collecting recipes and making all kinds of|weapons... If you want a job, just show up at|<br>|my place, and I'll introduce you to a job|that's just right for you. Go to \"View|Requests\" and check it out. If you deliver|<br>|the requested item to me, you'll get paid on|the spot and the job will be yours. I'll mark|the good ones in yellow so you don't miss|<br>|them. I'll replace the completed requests|with new ones every day, but I can only take|on a maximum of three jobs a day. You won't|<br>|get three at first, but as your skill level|rises, I'll increase the number of requests.|Eventually, if you make a good weapon, you|<br>|can sell it at the Traveler's Bazaar. You|might be able to get a good price for it.<end>"
+  },
+  "491": {
+    "「さて　今日のご用は　なんでしょうか？|<break>": "So, what can I do for you today?<break>"
+  },
+  "492": {
+    "「他にも　ご用件は　ありますか？|<break>": "Is there anything else I can do for you?<break>"
+  },
+  "493": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "494": {
+    "「何について　ご説明しましょうか？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What would you like me to explain to you?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "495": {
+    "「『評判』というのは　職人として　人から|　どれくらい評価されてるかを　示すものです。|　今の評判は　『つよさ』から確認できます。|<br>|「例えば　自分の作った武器が誰かに装備されると|　評判は上がります。レベルや　できのよさが|　高ければ　評判も　上がりやすいですよ。|<br>|「とは言え　いくら大勢に装備されたところで|　１日で　一気に評判が上がることはありません。|　大切なのは　日々の積み重ねなんです。|<br>|「それに　評判というのは　あくまでも人の評価。|　ご自身のウデ前に　影響があるわけではないので|　あまり意識せず　仕事に打ち込んでくださいね！|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. For example, if someone equips|a weapon you've made, your reputation goes|up. The higher your level and the better your|<br>|workmanship, the higher your reputation. But|no matter how many people equip your weapon,|your reputation won't rise all at once in one|<br>|day. What's important is the accumulation of|each day... Besides, reputation is just a|person... It doesn't affect your own skill|<br>|level, so don't think about it too much and|just focus on your work!<end>"
+  },
+  "496": {
+    "「木工などの　職人仕事をやって|　職人経験値を積んでいきますと|　職人レベルが　上がります。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の数も増えますよ。次のレベルまでに|　必要な経験値は　『つよさ』から確認できます。|<br>|「ですが　職人レベルの成長は|　時に　限界がくることもあります。最初は|　レベル１０で　カベに　ぶつかるでしょう。|<br>|「そんな時は　私のところに相談に来てください。|　<pc>さんが　限界を超えるために必要な|　試練を　ご用意しますから。　|<br>|「あと　その試練をクリアして　一人前の|　職人になると　もう他の職人には　なれません。|　これは　職人の世界のオキテなんですよ。|<br>|「ですから　木工職人として|　一人前になる決心が　つく前に|　他の職人も　体験してみてはいかがでしょう。|<end>": "As you work as a craftsman, such as a|woodworker, and gain experience as a|craftsman, your craftsman level will|<br>|increase. As your craftsman level increases,|you'll learn new skills and be able to make|more things... You can check your strength to|<br>|see how much experience you need to reach the|next level... However, there are times when|you reach the limit of your skill level... At|<br>|first, at level 10, you'll hit a wall... When|that happens, you can come to me for|advice...<pc> I've prepared the trials and tribulations|necessary to push you beyond your limits. And|once you've passed those trials and become a|<br>|full-fledged craftsman, you'll never be able|to be anything else. This is a rule in the|world of craftsmen. So before you decide to|<br>|become a full-fledged woodworker, why don't|you try your hand at another craft?<end>"
+  },
+  "497": {
+    "「木工職人に　なったのでしたら|　まずは　コツコツと　レシピを集めながら|　いろんな木工品を　作っていくのがいいですよ。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売っています。他にも　町の本棚で|　眠っていたりするものも　ありますよ。|<br>|「仕事がほしいなら　私の所に来ていただければ|　あなたに　ちょうどいい依頼を　ご紹介します。|　『依頼をみる』から　確認してみてください。|<br>|「依頼の品を　私に納品していただければ|　その場で報酬を受け取って　仕事は完了です。|　おトクな依頼は　黄色にしておきますね。|<br>|「さらに　職人レベルが３０以上になっていれば|　時々　特別な依頼をさせてもらいます！|　オレンジ色の依頼です。報酬は　はずみますよ！|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておきますが　１日に頼まれる仕事は|　とりあえず　３件までとなっています。|<br>|「最初のうちは　３件も　ありませんが|　あなたの　職人レベルが上がるのに合わせて|　依頼の数も　増やしていきますから。|<br>|「さらに　一人前の職人になっていれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておきますね。|<br>|「そのうち　デキのいい武器が作れたときは|　旅人バザーへ　出品してみてはいかがでしょう。|　もしかしたら　高く売れるかもしれませんよ。|<end>": "If you've become a woodworker, you'll want to|start by collecting recipes and making all|sorts of woodwork... The basic recipes are|<br>|sold at the recipe shop in this guild...|There are also some that are just sitting on|the bookshelves in town. If you're looking|<br>|for a job, you can come to me and I'll find|just the job for you. Just go to \"View|Requests\" and check it out. If you deliver|<br>|your order to me, you'll get paid on the spot|and the job is done. The best requests are|marked in yellow... And if your craftsman|<br>|level is over 30, sometimes I'll make you a|special request! Orange requests... You'll be|rewarded! I'll replace your requests with new|<br>|ones the next morning, but for now, you're|limited to three jobs a day. In the|beginning, there won't be three, but as your|<br>|level of craftsmanship increases, the number|of requests will increase. And when you're a|full-fledged craftsman, you'll have more than|<br>|three jobs left to do, and when the next|morning comes, you'll have one more request|per day. Eventually, when you've made a good|<br>|weapon, you can sell it at the Traveler's|Bazaar. You might be able to sell it for a|good price...<end>"
+  },
+  "498": {
+    "「さ～て　<pc>ちゃん！|　今日は　なんの用かなー？|<break>": "Well<pc> Hey! What can I do for you today?<break>"
+  },
+  "499": {
+    "「他にも　用があったりする感じ？|<break>": "Do you feel like you have other things to do?<break>"
+  },
+  "500": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "501": {
+    "「オッケー。ガンガン　聞いてちょ！|　なんについて　知りたい？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "O... Go ahead, ask away! What do you want to|know about?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "502": {
+    "「『評判』ってのは　職人として　人から|　どれくらい評価されてるか　示すものだね。|　今の評判は　『つよさ』から確認できるよん。|<br>|「自分で錬金効果を付けた装備品が|　誰かに装備されると　評判は上がってってさ。|　高レベルの錬金効果ほど　いい評判になるんだ。|<br>|「とはいえ　いくら大勢に装備されたからって|　１日で　一気に評判が上がることは　ないぜ。|　大切なのは　日々の積み重ねってコト！|<br>|「評判ばっか気にして　場数を踏まないのは|　職人として　バカバカしいっしょ？　……って|　オレ　今　うまいこと　まとめたんじゃね？|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. When someone equips a piece of|equipment with an alchemy effect you've|added, your reputation goes up. The higher|<br>|the level of the alchemy, the better the|reputation... But no matter how many people|equip it, your reputation won't go up in one|<br>|day. The most important thing is to build up|your reputation day by day! It would be|foolish for a craftsman to be so concerned|<br>|about his reputation that he doesn't practice|what he's learned. That's... I think I just|summed it up nicely, didn't I?<end>"
+  },
+  "503": {
+    "「ランプ錬金とかの　職人仕事をして|　職人経験値を積んでいくと|　職人レベルっていうのが　上がっていくのね。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　付けられる　錬金効果の種類も　増えるわけ。|　必要な経験値は　『つよさ』で確認できるよん。|<br>|「でもさぁ　職人レベルの成長って|　時に　限界が来ちゃうんだよね～。|　最初は　レベル１０のカベに　ブチ当たるかな。|<br>|「そんな時は　オレに相談すれば　オッケー！|　<pc>ちゃんが　自分の限界を超えるのに|　必要な試練っぽいモノを　出してあげるからさ！|<br>|「ただ　その試練をクリアして　一人前になると|　もう他の職人になれないから　そこだけ注意ね。|　職人の世界には　そういうオキテがあるのよ。|<br>|「だから　ランプ錬金職人として|　一人前になる決心がつく前に|　他の職人も　試してみるのが　オススメよ！|<end>": "When you do artisan work such as lamp|smelting, and gain artisan experience, your|artisan level will increase. As your|<br>|craftsman level increases, you'll learn new|skills and be able to add more alchemical|effects... The amount of experience you need|<br>|can be checked by \"Strength\"... But sometimes|there's a limit to how far you can go with|your craftsmanship level. At first, you'll|<br>|hit the level 10 mark... If that's the case,|just ask me and I'll be happy to help!<pc> I'll give you the trials and tribulations you|need to push yourself beyond your limits. But|once you pass those tests and become a full-|<br>|fledged craftsman, you won't be able to|become another craftsman, so... That's the|only thing... In the world of craftsmen,|<br>|there are rules... That's why it's|recommended that you try out other crafts|before you decide to become a full-fledged|<br>|lamp smith!<end>"
+  },
+  "504": {
+    "「オレらの仕事は　ランプ錬金を楽しむコト！|　まずは　コツコツと　レシピを集めながら|　いろんな効果を付けていくのが　オススメよ！|<br>|「最初は　こうげき魔力 +5しか付けられないから|　それで経験を積んでちょ。職人レベルが上がれば|　いろんな効果を　付けられるようになるからね。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売ってるよん。他にも　町の本棚で|　眠ってたりすることも　あんだよなー。|<br>|「ギルドの仕事がほしい時は　オレんトコに来れば|　<pc>ちゃんに合った依頼を紹介するから|　『依頼をみる』で　確認してみてちょ。|<br>|「依頼の品を　オレに納品してくれるだけで|　仕事は　しゅーりょー！　もちろん報酬は出すし|　おいしい依頼は黄色にしとくから要チェックね！|<br>|「さらに！　職人レベルが３０以上になってれば|　時々　特別な依頼をさせてもらうよん。|　オレンジ色の依頼で　報酬は　チョベリグよ！|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくけど　１日に頼まれる仕事は|　とりあえず　３件までって決まりなんだよね。|<br>|「ま　最初のうちは　３件も　ないだろうけど|　<pc>ちゃんの　職人レベルが上がったら|　依頼の数も　増やしておくんで　よろぴく！|<br>|「さらに　一人前の職人になってれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておくからね！|<br>|「仕事してる合間に　ハンパねぇ効果が付けれたら|　オレに納品しないで　旅人バザーに出品してみ？|　ひょっとすると　高く売れちゃうかもよ～？|<end>": "Our job is to have fun with lamp smelting! We|recommend that you start by collecting|recipes and adding various effects! At first,|<br>|you'll only be able to add +5 to your attack|power, so gain experience with that... As|your skill level increases, you'll be able to|<br>|add various effects... The basic recipes are|sold at the recipe shop in this guild. Other|recipes can be found on bookshelves around|<br>|town. If you ever need a guild job, just come|to my place.<pc>  I'll find you a job that suits you, so go to|\"View Requests\" and check it out. If you can|deliver the requested item to me, you'll get|<br>|the job! Of course I'll pay you, and I'll|mark the best ones in yellow, so check back!|And more! If your craftsman level is over 30,|<br>|sometimes I'll give you a special request.|The orange request is for Chobelig. I'll|replace the request with a new one the next|<br>|morning, but for now, I'm limited to three|jobs a day. I don't think I'll have three in|the beginning.<pc> When your craftsmanship level rises, I'll|increase the number of requests you receive,|thank you! And if you've become a full-|<br>|fledged craftsman, I'll increase the number|of requests by one per day when you arrive|the next morning with at least three jobs|<br>|left to do! If you're able to add any crazy|effects while you're working, why don't you|just sell them in the Traveler's Bazaar|<br>|instead of delivering them to me? You might|even be able to sell it for a good price!<end>"
+  },
+  "505": {
+    "「さて　今日は　なんの用だい？|<break>": "So, what can I do for you today?<break>"
+  },
+  "506": {
+    "「他にも　用はあるかい？|<break>": "Is there anything else you need?<break>"
+  },
+  "507": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "508": {
+    "「何について　説明しようか？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What do you want me to explain?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "509": {
+    "「『評判』というのは　職人として　人から|　どれくらい評価されてるかを　示すものさ。|　今の評判は　『つよさ』から確認できるよ。|<br>|「例えば　自分の作った服が　誰かに装備されると|　評判は上がる。レベルや　できのよさが高ければ|　その分だけ　評判も　上がりやすいんだ。|<br>|「といっても　いくら大勢に装備されたからって|　１日で　一気に評判が上がるなんてことはない。|　大切なのは　日々の積み重ねだからね。|<br>|「でも　評判ばかりに　気を取られてはダメだよ。　|　キミのウデを上げるのは　キミ自身の|　努力なんだからね。|<end>": "\"Reputation\" is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. For example, if someone equips|a piece of clothing that you've made, your|reputation is... The higher your level and|<br>|the better your work, the more your|reputation will grow. But it's not like your|reputation will rise in a day, no matter how|<br>|many people equip it. What's important is the|daily accumulation. But you can't just focus|on your reputation. It's your own efforts|<br>|that will make you better.<end>"
+  },
+  "510": {
+    "「さいほうなどの職人仕事をやって|　職人経験値を積むと|　職人レベルが　上がっていくんだ。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の数も増えていく。次のレベルまでに|　必要な経験値は　『つよさ』から確認できるよ。|<br>|「でも　職人レベルの成長は　時に限界が来る。|　レベル１０になると　最初のカベに|　ぶつかることになるだろう。|<br>|「そんな時は　ここに相談に来るといい。|　キミが　自分の限界を超えるために必要な|　試練を与えよう。|<br>|「あと　その試練をクリアして　一人前の|　職人になると　もう他の職人になれなくなるよ。|　これは　職人の世界のオキテなのさ。|<br>|「だから　さいほう職人として|　一人前になる決心がつく前に|　他の職人も　試してみるといいよ。|<end>": "The more you do, the more experience you|gain, and the higher your craftsmanship level|becomes. As your craftsman level increases,|<br>|you'll learn new skills and be able to make|more things... You can check your strength to|see how much experience you need to reach the|<br>|next level... But there is a limit to how far|you can go... When you reach level 10, you'll|hit your first bump in the road. That's when|<br>|you come to us. We'll give you the trials and|tribulations you need to push past your|limits. And once you've passed those trials,|<br>|once you've become a full-fledged craftsman,|you'll never be able to become another. This|is a rule in the world of craftsmen. So,|<br>|before you decide to become a master|craftsman, you should try other craftsmen...<end>"
+  },
+  "511": {
+    "「さいほう職人になったなら|　まずは　コツコツと　レシピを集めながら|　いろんな仕立て品を　作ってみよう。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売っているよ。他にも　町の本棚で|　眠っていたりするものも　あるらしいね。|<br>|「仕事がほしいなら　ボクのとこに来てくれれば|　キミに　ちょうどいい依頼を　紹介するよ。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　ボクに納品してくれれば|　その場で報酬を受け取って　仕事は完了さ。|　おトクな依頼は　黄色にしておくからね。|<br>|「さらに　職人レベルが３０以上になっていれば|　時々　特別な依頼をさせてもらうよ。|　オレンジ色の依頼だ。報酬は期待していてくれ。|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくけど　１日に頼まれる仕事は|　とりあえず　３件までだよ。|<br>|「最初のうちは　３件も　ないだろうけど|　キミの　職人レベルが上がったら|　依頼の数も　増やしていくからね。|<br>|「さらに　一人前の職人になっていれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておくよ。|<br>|「そのうち　デキのいい仕立て品が作れたら|　旅人バザーに　出してみるといい。|　もしかしたら　高く売れるかもしれないよ？|<end>": "If you've become a master craftsman, you'll|need to collect recipes and make a variety of|tailor-made items. The basic recipes are sold|<br>|at the recipe shop in this guild. There are|also some that are just sitting on the|bookshelves in town. If you're looking for a|<br>|job, come to me and I'll find you one. Go to|\"View Requests\" and check it out. If you|deliver the requested item to me, you'll get|<br>|paid on the spot, and the job will be yours.|The best requests are marked in yellow. Plus,|if you're at least 30, sometimes I'll let you|<br>|do special requests. Orange... I don't expect|to be paid... I'll replace the requests with|new ones the next morning, but for now, I'll|<br>|only take on three jobs a day. You won't get|three in the beginning, but as your skill|level rises, you'll be asked to do more. And|<br>|when you're a full-fledged craftsman, you'll|have more than three jobs left, and when the|next morning comes, you'll get one more|<br>|request per day. Eventually, when you've made|a good piece of tailoring, you can sell it at|the Traveler's Bazaar. Maybe you can get a|<br>|good price for it?<end>"
+  },
+  "512": {
+    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+  },
+  "513": {
+    "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
+  },
+  "514": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "515": {
+    "「何について　説明しようか……？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What shall I explain?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "516": {
+    "「『評判』ってえのは　職人として　人から|　どれくらい評価されてるかを　示すものだ。|　今の評判は　『つよさ』から確認できるぞ。|<br>|「例えば　自分の作った武器が誰かに装備されると|　評判は上がる。レベルや　できのよさが高ければ|　その分だけ　評判も　上がりやすいぜ。|<br>|「っていっても　いくら大勢に装備されたからって|　一日で　一気に評判が上がるなんてことはない。|　大切なのは　日々の積み重ねだ。|<br>|「それに……　評判ってのは　しょせん評判だ。|　上がったところで腕前まで上がるわけじゃない。|　あんまり　気にしすぎない方がいいと思うぜ。|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. For example, if someone equips|a weapon you've made, your reputation is...|The higher your level and the better your|<br>|workmanship, the higher your reputation will|be. But it's not like your reputation will|rise in a single day, no matter how many|<br>|people equip your weapon. What's important is|the daily accumulation... Besides...|Reputation is just that... It doesn't mean|<br>|you'll be good at what you do. I think it's|better not to worry about it too much...<end>"
+  },
+  "517": {
+    "「武器鍛冶などの職人仕事をやって|　職人経験値を積むと|　職人レベルが　上がっていくんだ。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の数も増えていく。次のレベルまでに|　必要な経験値は　『つよさ』から確認できるぜ。|<br>|「だが　職人レベルの成長は　時に限界がくる。|　最初は　レベル１０で　壁にぶつかるだろうな。|<br>|「そんな時は　オレのとこに相談に来い。|　お前が　自分の限界を超えるために必要な|　試練を与えてやるぞ。|<br>|「あと　職人レベルが１０を超えて　一人前の|　職人になると　もう他の職人になれなくなる。|　これは　職人の世界のオキテだからな。|<end>": "As you work as a craftsman, such as a weapon|smith, and gain experience, your craftsman|level will increase. As your craftsman level|<br>|increases, you'll learn new skills and be|able to make more things. You can check your|strength to see how much experience you need|<br>|to reach the next level. But there are limits|to how far you can go. At first, you'll hit a|wall at level 10. That's when you come to me.|<br>|I'll give you the trials and tribulations you|need to push past your limits. Also, once|you've reached level 10 and you're a full-|<br>|fledged craftsman, you can't become another|craftsman. This is a rule in the world of|craftsmen.<end>"
+  },
+  "518": {
+    "「武器鍛冶職人になったなら|　まずは　コツコツと　レシピを集めながら|　いろんな武器を　作っていくといいだろう。|<br>|「仕事がほしけりゃ　オレのとこに顔を出せば|　お前に　ちょうどいい依頼を　紹介してやる。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　オレに納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　おいしい依頼は黄色にしとくから　見逃すなよ？|<br>|「達成した依頼は　毎日　新しいものに|　入れ替えておくが　１日に受けられる仕事は|　最大でも　３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　職人レベルが上がったら|　依頼の数も　増やしていくからな。|<br>|「そのうち　できのいい武器が作れたら|　旅人バザーにでも　出してみるといい。|　もしかしたら　高く売れるかもしれないぜ？|<end>": "If you're a weaponsmith, you should start by|collecting recipes and making all kinds of|weapons... If you want a job, just show up at|<br>|my place, and I'll introduce you to a job|that's just right for you. Go to \"View|Requests\" and check it out. If you deliver|<br>|the requested item to me, you'll get paid on|the spot and the job will be yours. I'll mark|the good ones in yellow so you don't miss|<br>|them. I'll replace the completed requests|with new ones every day, but I can only take|on a maximum of three jobs a day. You won't|<br>|get three at first, but as your skill level|rises, I'll increase the number of requests.|Eventually, if you make a good weapon, you|<br>|can sell it at the Traveler's Bazaar. You|might be able to get a good price for it.<end>"
+  },
+  "519": {
+    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+  },
+  "520": {
+    "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
+  },
+  "521": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "522": {
+    "「何について　説明しようか……？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What shall I explain?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "523": {
+    "「『評判』ってえのは　職人として　人から|　どれくらい評価されてるかを　示すものだ。|　今の評判は　『つよさ』から確認できるぞ。|<br>|「例えば　自分の作った武器が誰かに装備されると|　評判は上がる。レベルや　できのよさが高ければ|　その分だけ　評判も　上がりやすいぜ。|<br>|「っていっても　いくら大勢に装備されたからって|　一日で　一気に評判が上がるなんてことはない。|　大切なのは　日々の積み重ねだ。|<br>|「それに……　評判ってのは　しょせん評判だ。|　上がったところで腕前まで上がるわけじゃない。|　あんまり　気にしすぎない方がいいと思うぜ。|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. For example, if someone equips|a weapon you've made, your reputation is...|The higher your level and the better your|<br>|workmanship, the higher your reputation will|be. But it's not like your reputation will|rise in a single day, no matter how many|<br>|people equip your weapon. What's important is|the daily accumulation... Besides...|Reputation is just that... It doesn't mean|<br>|you'll be good at what you do. I think it's|better not to worry about it too much...<end>"
+  },
+  "524": {
+    "「武器鍛冶などの職人仕事をやって|　職人経験値を積むと|　職人レベルが　上がっていくんだ。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の数も増えていく。次のレベルまでに|　必要な経験値は　『つよさ』から確認できるぜ。|<br>|「だが　職人レベルの成長は　時に限界がくる。|　最初は　レベル１０で　壁にぶつかるだろうな。|<br>|「そんな時は　オレのとこに相談に来い。|　お前が　自分の限界を超えるために必要な|　試練を与えてやるぞ。|<br>|「あと　職人レベルが１０を超えて　一人前の|　職人になると　もう他の職人になれなくなる。|　これは　職人の世界のオキテだからな。|<end>": "As you work as a craftsman, such as a weapon|smith, and gain experience, your craftsman|level will increase. As your craftsman level|<br>|increases, you'll learn new skills and be|able to make more things. You can check your|strength to see how much experience you need|<br>|to reach the next level. But there are limits|to how far you can go. At first, you'll hit a|wall at level 10. That's when you come to me.|<br>|I'll give you the trials and tribulations you|need to push past your limits. Also, once|you've reached level 10 and you're a full-|<br>|fledged craftsman, you can't become another|craftsman. This is a rule in the world of|craftsmen.<end>"
+  },
+  "525": {
+    "「武器鍛冶職人になったなら|　まずは　コツコツと　レシピを集めながら|　いろんな武器を　作っていくといいだろう。|<br>|「仕事がほしけりゃ　オレのとこに顔を出せば|　お前に　ちょうどいい依頼を　紹介してやる。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　オレに納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　おいしい依頼は黄色にしとくから　見逃すなよ？|<br>|「達成した依頼は　毎日　新しいものに|　入れ替えておくが　１日に受けられる仕事は|　最大でも　３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　職人レベルが上がったら|　依頼の数も　増やしていくからな。|<br>|「そのうち　できのいい武器が作れたら|　旅人バザーにでも　出してみるといい。|　もしかしたら　高く売れるかもしれないぜ？|<end>": "If you're a weaponsmith, you should start by|collecting recipes and making all kinds of|weapons... If you want a job, just show up at|<br>|my place, and I'll introduce you to a job|that's just right for you. Go to \"View|Requests\" and check it out. If you deliver|<br>|the requested item to me, you'll get paid on|the spot and the job will be yours. I'll mark|the good ones in yellow so you don't miss|<br>|them. I'll replace the completed requests|with new ones every day, but I can only take|on a maximum of three jobs a day. You won't|<br>|get three at first, but as your skill level|rises, I'll increase the number of requests.|Eventually, if you make a good weapon, you|<br>|can sell it at the Traveler's Bazaar. You|might be able to get a good price for it.<end>"
+  },
+  "526": {
+    "「さてっ。今日は　私に　なんの用かな？|<break>": "I'm sorry. What can I do for you today?<break>"
+  },
+  "527": {
+    "「まだ　私に用は　あるのかな？|<break>": "Do you still want to see me?<break>"
+  },
+  "528": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "529": {
+    "「何について　説明しよっか？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What do you want to talk about?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "530": {
+    "「『評判』っていうのは　職人として　人から|　どれくらい評価されてるかを　示すものよ。|　今の評判は　『つよさ』から確認できるからね。|<br>|「自分で錬金効果を付けた装備品が　誰かに|　装備されると　評判は上がるよ。高レベルの|　錬金効果ほど　評判も　上がりやすいの。|<br>|「っていっても　いくら大勢に装備されたからって|　１日で　一気に評判が上がったりしないのよね。|　日々の積み重ねが　大切っていうでしょ。|<br>|「だけど　評判だけに　気を取られちゃダメ。|　あなたのウデを上げるのは　あなた自身の|　努力なんだからね！|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. If someone equips a piece of|equipment with your alchemy, your reputation|will increase. The higher the level of the|<br>|alchemy, the higher the reputation... But no|matter how many people equip it, your|reputation won't go up in one day. It's|<br>|important to build up your reputation day by|day. But you can't just focus on your|reputation. It's your own efforts that will|<br>|make you better!<end>"
+  },
+  "531": {
+    "「ツボ錬金なんかの　職人仕事をやって|　職人経験値を積んでいくと|　職人レベルが　上がっていくのよ。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　付けられる錬金効果の種類も　増えていくわ。|　必要な経験値は　『つよさ』から確認できるよ。|<br>|「でもね。職人レベルの成長には　限界があるの。|　レベル１０になると　最初のカベに　|　ぶつかることに　なるのよね。|<br>|「そんな時は　私のところに相談に来て。|　あなたが　自分の限界を超えるために必要な|　テストを　受けさせてあげるからねっ。|<br>|「あと　そのテストをクリアして　一人前の|　職人になると　もう他の職人になれなくなるの。|　これは　職人の世界のオキテだからね。|<br>|「だから　ツボ錬金職人として|　一人前になる決心がつく前に|　他の職人も　試してみると　いいかも。|<end>": "As you do artisan work such as smithing vases|and gaining artisan experience, your artisan|level will increase. As your craftsman level|<br>|increases, you'll learn new skills, and|you'll be able to add more alchemical|effects. You can check the required|<br>|experience from \"Strength\"... ... There is a|limit to how much you can grow as a|craftsman... Once you reach level 10, you'll|<br>|hit your first obstacle. That's when you come|to me... I'll give you the tests you need to|push yourself beyond your limits. And once|<br>|you've passed those tests and you're a full-|fledged craftsman, you'll never be able to|take another job. This is a rule in the world|<br>|of craftsmen. So before you decide to become|a full-fledged urn smith, you should try out|other craftsmen.<end>"
+  },
+  "532": {
+    "「ツボ錬金職人に　なったなら|　まずは　コツコツと　レシピを集めながら|　いろんな効果を　付けてみるといいわ。|<br>|「最初は　こうげき力 +2しか付けられないけど |　それで経験を積むこと。職人レベルが上がれば|　いろいろな効果を　付けられるようになるわ。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売ってるわ。他には　町の本棚で|　眠っていたりすることも　あるのよ。|<br>|「仕事がほしければ　私のところに顔を出せば|　あなたに　ちょうどいい依頼を　紹介するよ。|　『依頼をみる』から　確認してくれるかな。|<br>|「依頼の品を　私に納品してくれれば|　その場で報酬を受け取って　仕事はおしまいよ。|　おいしい依頼は黄色にしとくから　注目してね。|<br>|「さらに　職人レベルが３０以上になっていたら|　時々　特別な依頼をさせてもらうわ。|　オレンジ色の依頼ね。報酬は　はずむわよ！|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくけど　頼まれる仕事の数は|　とりあえず　３件までだからね。|<br>|「最初のうちは　３件も　ないだろうけど|　あなたの　職人レベルが上がるのに合わせて|　依頼の数も　増やしてあげちゃうわ。|<br>|「さらに　一人前の職人になっていれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておくわよ。|<br>|「そのうち　たくさんの効果が付けられたら|　旅人バザーにでも　出品してみるといいわ。|　もしかしたら　高く売れるかもしれないし！|<end>": "If you've become an acupuncture point smith,|you'll want to start by collecting recipes|and adding various effects... At first, you|<br>|can only add +2 to your attack power, but as|you gain experience... As your skill level|increases, you'll be able to add more|<br>|effects. The basic recipes are sold at the|recipe shop in this guild. Others can be|found on the bookshelves in town. If you want|<br>|a job, just show up at my place and I'll find|you a job that's right for you. Just go to|\"View Requests\" and check it out. If you|<br>|deliver what I've asked for, you'll get paid|on the spot and the job will be yours. I'll|keep the good ones in yellow. And if you're|<br>|at least 30, sometimes I'll give you a|special request... Orange... You're not|getting paid! I'll replace the request with a|<br>|new one the next morning, but for now, you|can only ask for three jobs. You probably|won't get three at first, but as your skill|<br>|level increases, I'll increase the number of|requests. And when you're a full-fledged|craftsman, when you come back the next|<br>|morning with more than three jobs left to do,|you'll get one more request per day.|Eventually, when you've gained enough, you'll|<br>|be able to sell them at the Traveler's|Bazaar. You might even be able to sell it for|a good price!<end>"
+  },
+  "533": {
+    "「さて　<pc>さんっ！|　今日のご用は　何かな～？|<break>": "now<pc> Hey, you! What can I do for you today?<break>"
+  },
+  "534": {
+    "「他にも　何かあったりしてっ？|<break>": "Is there something else going on?<break>"
+  },
+  "535": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "536": {
+    "「何について　知りたいのかな～っ？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What do you want to know about?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "537": {
+    "「『評判』っていうのは　職人として　人から|　どれくらい評価されてるかを　示すものだよっ！|　今の評判は　『つよさ』から確認できるんだ～。|<br>|「キミの作った　お料理を　誰かが食べると|　評判が上がるよっ。レベルや　できのよさが|　高いと　評判も　上がりやすいんだっ！|<br>|「でもでもっ　いくら　いっぱい食べてもらっても|　１日で　一気に評判が上がることはないのっ。|　大切なのは　日々の積み重ねなんだよ～！|<br>|「だから　評判のことは　あまり気にせずに|　調理のウデ前を　みがいていこ～っ！|　毎日楽しく　クッキンドリーム<heart>|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your \"toughness.\" When someone eats your|food, your reputation increases... The higher|your level and quality, the higher your|<br>|reputation will be! But no matter how many|people eat your food, your reputation won't|rise all at once in one day. What's important|<br>|is the accumulation of each day~! So don't|worry too much about your reputation, just|work on your cooking skills! Have fun every|<br>|day! Cookin' dreams!<heart>|<end>"
+  },
+  "538": {
+    "「調理とかの　職人の仕事をやって|　職人経験値というのを　積んでいくと|　職人レベルが　上がっちゃうんだよっ！|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる料理の数も増えるのっ。次のレベルまでに|　必要な経験値は　『つよさ』から確認できるよ！|<br>|「でもでも　職人レベルの成長は|　時に　限界がくることもあるの……。|　最初は　レベル１０で　カベに　ぶつかるよっ。|<br>|「そんな時は　あたしのところに相談に来て～！|　<pc>さんが　限界を超えるために必要な|　試練を　ご用意しちゃうっ！|<br>|「あと　その試練をクリアして　一人前の|　職人になると　もう他の職人には　なれないよ。|　これは　職人の世界のオキテなんだぁ……。|<br>|「だからねっ　調理職人として|　一人前になる決心が　つく前に|　他の職人も　体験してみちゃうといいよっ！|<end>": "The more you cook and do other artisan jobs,|the more experience you gain, and the higher|your artisan level will be! As your craftsman|<br>|level increases, you'll learn new skills, and|the number of dishes you can make will also|increase... You can check the amount of|<br>|experience you need to reach the next level|from \"Strength\". But sometimes there is a|limit to how far you can go... At first, at|<br>|level 10, you'll hit a wall... When that|happens, come to me for advice!<pc> I've prepared the trials and tribulations|necessary for you to push your limits! And if|you pass those trials and become a full-|<br>|fledged craftsman, you will never be able to|become another craftsman... This is a rule in|the world of craftsmen... That's why you|<br>|should experience other crafts before you|decide to become a full-fledged chef!<end>"
+  },
+  "539": {
+    "「調理職人の　お仕事は　お料理だよーっ！|　まずは　コツコツと　レシピを集めて|　いろんな　お料理を　作ってみてねっ！|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売ってるよっ。他にも　町の本棚で|　眠っていたりすることも　あるかもっ？|<br>|「仕事がほしかったら　このあたしが|　キミに　ぴったりな依頼を　ご紹介するよ～！|　『依頼をみる』から　確認してねっ！|<br>|「依頼の品を　あたしに納品してくれたら|　お仕事は完了だよ！　お礼を渡すからねっ。|　おトクな依頼は　黄色にしておいちゃう！|<br>|「さらにさらにっ　職人レベルが３０以上だったら|　時々　特別な依頼を　お願いするよっ！|　オレンジ色の依頼ね。報酬は　すごいぞっ！|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくねっ。１日に頼める仕事は|　とりあえず　３件までなんだっ！|<br>|「最初のうちは　３件も　ないけど|　キミの　職人レベルが上がるのに合わせて|　依頼の数も　増やしちゃうよ～！|<br>|「さらにさらにっ　一人前の職人になってたら！|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておくねっ！|<br>|「そのうち　おいしそうな　お料理が作れたら|　旅人バザーへ　出品してみるといいんだよっ！|　もしかしたら　高く売れちゃうかも～？|<end>": "The job of a chef is to cook! The first thing|you need to do is collect recipes and try to|make various dishes! The basic recipes are|<br>|sold at the recipe shop in this guild... You|can also find them on the bookshelves in|town. If you want a job, I'll introduce you|<br>|to the perfect job for you! Just go to \"View|Requests\" and check it out! If you deliver|the requested item to me, your job is done!|<br>|I'll give you a thank you or... I'll keep the|special requests in yellow! And even more, if|your craftsman level is over 30, sometimes|<br>|I'll ask you for a special request! Orange...|The rewards are great! I'll replace the|request with a new one the next morning. I|<br>|can only take on three jobs a day. There|won't be three at first, but as your|craftsmanship level rises, so will the number|<br>|of requests! And furthermore, if you become a|full-fledged craftsman! I'll increase the|number of requests by one per day when you|<br>|arrive the next morning with more than three|jobs left to do! Eventually, if you make a|delicious-looking dish, you can sell it at|<br>|the Traveler's Bazaar! Maybe you can sell it|for a good price?<end>"
+  },
+  "540": {
+    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+  },
+  "541": {
+    "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
+  },
+  "542": {
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+  },
+  "543": {
+    "「何について　説明しようか……？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": "What shall I explain?|<select_se_off>|About the level of craftsmanship|About the work of craftsmen|About one-shot delivery|About reputation|About the Craftsman Training Center|<select_end>|<break>"
+  },
+  "544": {
+    "「『評判』ってえのは　職人として　人から|　どれくらい評価されてるかを　示すものだ。|　今の評判は　『つよさ』から確認できるぞ。|<br>|「例えば　自分の作った武器が誰かに装備されると|　評判は上がる。レベルや　できのよさが高ければ|　その分だけ　評判も　上がりやすいぜ。|<br>|「っていっても　いくら大勢に装備されたからって|　一日で　一気に評判が上がるなんてことはない。|　大切なのは　日々の積み重ねだ。|<br>|「それに……　評判ってのは　しょせん評判だ。|　上がったところで腕前まで上がるわけじゃない。|　あんまり　気にしすぎない方がいいと思うぜ。|<end>": "Reputation is a measure of how well you're|regarded by others as a craftsman. You can|check your current reputation by looking at|<br>|your Strength. For example, if someone equips|a weapon you've made, your reputation is...|The higher your level and the better your|<br>|workmanship, the higher your reputation will|be. But it's not like your reputation will|rise in a single day, no matter how many|<br>|people equip your weapon. What's important is|the daily accumulation... Besides...|Reputation is just that... It doesn't mean|<br>|you'll be good at what you do. I think it's|better not to worry about it too much...<end>"
+  },
+  "545": {
+    "「武器鍛冶などの職人仕事をやって|　職人経験値を積むと|　職人レベルが　上がっていくんだ。|<br>|「職人レベルが上がると　新しい特技を覚えたり|　作れる物の数も増えていく。次のレベルまでに|　必要な経験値は　『つよさ』から確認できるぜ。|<br>|「だが　職人レベルの成長は　時に限界がくる。|　最初は　レベル１０で　壁にぶつかるだろうな。|<br>|「そんな時は　オレのとこに相談に来い。|　お前が　自分の限界を超えるために必要な|　試練を与えてやるぞ。|<br>|「あと　職人レベルが１０を超えて　一人前の|　職人になると　もう他の職人になれなくなる。|　これは　職人の世界のオキテだからな。|<end>": "As you work as a craftsman, such as a weapon|smith, and gain experience, your craftsman|level will increase. As your craftsman level|<br>|increases, you'll learn new skills and be|able to make more things. You can check your|strength to see how much experience you need|<br>|to reach the next level. But there are limits|to how far you can go. At first, you'll hit a|wall at level 10. That's when you come to me.|<br>|I'll give you the trials and tribulations you|need to push past your limits. Also, once|you've reached level 10 and you're a full-|<br>|fledged craftsman, you can't become another|craftsman. This is a rule in the world of|craftsmen.<end>"
+  },
+  "546": {
+    "「武器鍛冶職人になったなら|　まずは　コツコツと　レシピを集めながら|　いろんな武器を　作っていくといいだろう。|<br>|「仕事がほしけりゃ　オレのとこに顔を出せば|　お前に　ちょうどいい依頼を　紹介してやる。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　オレに納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　おいしい依頼は黄色にしとくから　見逃すなよ？|<br>|「達成した依頼は　毎日　新しいものに|　入れ替えておくが　１日に受けられる仕事は|　最大でも　３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　職人レベルが上がったら|　依頼の数も　増やしていくからな。|<br>|「そのうち　できのいい武器が作れたら|　旅人バザーにでも　出してみるといい。|　もしかしたら　高く売れるかもしれないぜ？|<end>": "If you're a weaponsmith, you should start by|collecting recipes and making all kinds of|weapons... If you want a job, just show up at|<br>|my place, and I'll introduce you to a job|that's just right for you. Go to \"View|Requests\" and check it out. If you deliver|<br>|the requested item to me, you'll get paid on|the spot and the job will be yours. I'll mark|the good ones in yellow so you don't miss|<br>|them. I'll replace the completed requests|with new ones every day, but I can only take|on a maximum of three jobs a day. You won't|<br>|get three at first, but as your skill level|rises, I'll increase the number of requests.|Eventually, if you make a good weapon, you|<br>|can sell it at the Traveler's Bazaar. You|might be able to get a good price for it.<end>"
+  },
+  "547": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "548": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "549": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "550": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "551": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "552": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "553": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "554": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "555": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "556": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "557": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "558": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "559": {
+    "<pc>は|<%dL_MEISEI> Pの名声値を　かくとく！|<se_nots System 7><end>": "<pc> is the fame value of <%dL_MEISEI> P.|<se_nots System 7><end>"
+  },
+  "560": {
+    "「今日の依頼は　全部　終わったようね。|　助かったわ　<pc>。|<bw_break>": "I've finished all my work for the day. Thank|you.<pc> I'm not sure.<bw_break>"
+  },
+  "561": {
+    "「今日の依頼は　全部済んだようだな。|　あんたに頼める仕事は　もうないぜ。|<bw_break>": "I've done all the work for the day. There's|nothing more you can do for me.<bw_break>"
+  },
+  "562": {
+    "「今日の依頼は　すべて済んだようだね……。|　おつかれさま……と　言っておくよ。|<bw_break>": "I see you've done all your work for the day.|\"Thank you... I'll say...<bw_break>"
+  },
+  "563": {
+    "<break>": ""
+  },
+  "564": {
+    "<break>": ""
+  },
+  "565": {
+    "「今日の依頼は　全部　お済みのようです。|　おつかれさまでした！|<bw_break>": "I see you've completed all your requests for|today. Thank you for your time!<bw_break>"
+  },
+  "566": {
+    "「ウェ～イ！　今日の依頼　コンプリートッ！|　<pc>ちゃんに頼める仕事|　もう　ナッシングーよ！　マジ　カレオツ！|<bw_break>": "Way to go! Today's request is complete!<pc> There's nothing more I can ask you to do!|Seriously, Kaleoz!<bw_break>"
+  },
+  "567": {
+    "「今日の依頼は　全部済んだようだね。|　ふふっ。おつかれさま　<pc>。|<bw_break>": "I've done everything you asked of me today.|... Good night.<pc> I'm not sure.<bw_break>"
+  },
+  "568": {
+    "<break>": ""
+  },
+  "569": {
+    "<break>": ""
+  },
+  "570": {
+    "「今日の依頼は　全部済んだみたいね。|　<pc>が来てくれて|　ホント助かっちゃう～。|<bw_break>": "I think we're all done here for the day.<pc> I'm really glad you're here.<bw_break>"
+  },
+  "571": {
+    "「今日の依頼は　全部　終わったねっ！|　<pc>さんっ　今日も|　がんばってくれて　ありがと～っ！|<bw_break>": "You've done everything I asked you to do|today!<pc> Thank you for working so hard today, you two!<bw_break>"
+  },
+  "572": {
+    "<break>": ""
+  },
+  "573": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "574": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "575": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "576": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "577": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "578": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "579": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "580": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "581": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "582": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "583": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "584": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "585": {
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+  },
+  "586": {
+    "「じつは　<%sL_ITEM>の在庫が|　切れてしまったの。今　持ってきてくれたら|　特別に　報酬を割り増ししてあげる<heart><break>": "We're actually out of stock of <%sL_ITEM>...|If you bring it to me now, I'll give you a|special discount.<heart><break>"
+  },
+  "587": {
+    "「ちょうど　<%sL_ITEM>の在庫を|　切らしちまってな。今　持ってきてくれれば|　報酬は　割り増ししとくぜ。<break>": "We've just run out of <%sL_ITEM>. If you|bring it to me now, I'll give you a|premium...<break>"
+  },
+  "588": {
+    "「じつは　<%sL_ITEM>の在庫を|　切らしてしまってね。今　持ってきてくれるなら|　報酬の割り増しを　約束させてもらうよ……。<break>": "We're actually out of stock of <%sL_ITEM>. If|you bring it to me now, I can promise you a|premium...<break>"
+  },
+  "589": {
+    "<break>": ""
+  },
+  "590": {
+    "<break>": ""
+  },
+  "591": {
+    "「今　<%sL_ITEM>の在庫を|　切らしてしまってるので　納品していただけたら|　報酬は　割り増しさせていただきますっ！|<break>": "We're currently out of stock of <%sL_ITEM>,|so if you can deliver it to us, we'll give|you a premium!<break>"
+  },
+  "592": {
+    "「じつは　<%sL_KOUKA1_NPCMES>を付けた装備品|　在庫がなくてさぁ。今　持ってきてくれたら|　報酬は　割り増ししちゃうけど　どうよ？<break>": "We're actually out of stock of equipment with|<%sL_KOUKA1_NPCMES>. How about if you bring|it to me now, I'll give you an extra reward?<break>"
+  },
+  "593": {
+    "「じつは　<%sL_ITEM>が　在庫切れでね。|　今　持ってきてくれたら　特別に|　報酬を　割り増しさせてもらうよ。<break>": "We're actually out of stock of <%sL_ITEM>. If|you bring it to me now, I'll give you a|special discount...<break>"
+  },
+  "594": {
+    "<break>": ""
+  },
+  "595": {
+    "<break>": ""
+  },
+  "596": {
+    "「<%sL_KOUKA1_NPCMES>を強化した　装備品の在庫が|　ちょうど　切れちゃってるところなの。|　今　持ってきてくれたら　報酬アップするわよ！<break>": "We're just about out of stock of equipment|that enhances <%sL_KOUKA1_NPCMES>... If you|bring it to me now, I'll increase the reward!<break>"
+  },
+  "597": {
+    "「じつは　<%sL_ITEM>の在庫を|　切らしちゃって　たいへんなんだ～！|　持ってきてくれたら　いっぱい報酬あげちゃう！|<break>": "We're actually out of stock of <%sL_ITEM>, so|we're in trouble! If you bring it to me, I'll|reward you handsomely!<break>"
+  },
+  "598": {
+    "<break>": ""
+  },
+  "599": {
+    "「あら？　それは　ロック中の物ね？|　ロック中の物は　受け取れないわ。|　納品したいのなら　ロックを外してきて。|<bw_break>": "Oh? That's the one that's locked, isn't it? I|can't take anything that's locked... If you|want to deliver something, you need to unlock|<br>|it...<bw_break>"
+  },
+  "600": {
+    "「ん？　それは　ロック中の物だな？|　ロック中の物は　受け取れないな。|　納品したいのなら　ロックを外してきてくれよ。|<bw_break>": "Hmm? That's a locked item, isn't it? You|can't take something that's locked... If you|want to deliver it, you're gonna have to|<br>|unlock it...<bw_break>"
+  },
+  "601": {
+    "「ん？　それは　ロック中の物……だね？|　ロック中の物は　受け取れない……。|　納品したいのなら　ロックを外してきてくれ。|<bw_break>": "Hmm? That's the thing in the lock... Right? I|can't take anything that's locked... If you|want to deliver it, you're gonna have to go|<br>|unlock it...<bw_break>"
+  },
+  "602": {
+    "「ダミー|<bw_break>": "dummy|<bw_break>"
+  },
+  "603": {
+    "「ダミー|<bw_break>": "dummy|<bw_break>"
+  },
+  "604": {
+    "「まあ　それは　ロック中の物ですね？|　ロック中の物は　受け取れないんですよ。|　納品したいのなら　ロックを外してくださいね。|<bw_break>": "Well, that's the one that's locked, isn't it?|I can't accept anything that's locked... If|you want it delivered, you're gonna have to|<br>|unlock it...<bw_break>"
+  },
+  "605": {
+    "「ん？　それって　まさか　ロック中の物？|　悪いけど　ロック中の物は　受け取れないのよ。|　納品したいんなら　ロックを外してきてくれる？|<bw_break>": "Hmm? Are you sure it's locked? I'm sorry, but|I can't take anything that's locked... If you|want to deliver it, can you go unlock it?<bw_break>"
+  },
+  "606": {
+    "「おや？　それは　ロック中の物だね？|　ロック中の物は　受け取れないよ。|　納品したいのなら　ロックを外してきてくれ。|<bw_break>": "Hmm? That's a locked item, isn't it? I can't|take anything that's locked... If you want to|deliver it, you're gonna have to unlock it...<bw_break>"
+  },
+  "607": {
+    "「ダミー|<bw_break>": "dummy|<bw_break>"
+  },
+  "608": {
+    "「ダミー|<bw_break>": "dummy|<bw_break>"
+  },
+  "609": {
+    "「あれ？　それは　ロック中の物だよね？|　ロック中の物は　受け取れないの。|　納品したいのなら　ロックを外してきてね。|<bw_break>": "Huh? That's a locked item, right? You can't|take something that's locked... If you want|to deliver it, you're gonna have to unlock it|<br>|and...<bw_break>"
+  },
+  "610": {
+    "「それは　ロック中の　お料理だねっ？|　ロック中の物って　受け取れないんだ～。|　納品したい時は　ロックを外してねっ！|<bw_break>": "That's food on the rocks, right? I can't|accept anything that's locked... If you want|it delivered, you'll have to unlock it.<bw_break>"
+  },
+  "611": {
+    "「ダミー|<bw_break>": "dummy|<bw_break>"
+  },
+  "612": {
+    "「めずらしく　<%sL_ITEM>の|　注文が来ているの。難しい依頼だから|　報酬は　大サービスしておくわ。|<break>": "It's rare that I get an order for <%sL_ITEM>.|It's a difficult order, so I'm offering a big|discount.<break>"
+  },
+  "613": {
+    "「めずらしく　<%sL_ITEM>の|　注文が来ているんだ。難しい依頼だから|　報酬は　大サービスしてやるぜ。|<break>": "It's rare that I get an order for <%sL_ITEM>.|It's a difficult order, so I'm willing to pay|a lot...<break>"
+  },
+  "614": {
+    "「めずらしく　<%sL_ITEM>の|　注文が来ている……。難しい依頼だから|　報酬は　大サービスしてあげよう……。|<break>": "I've got a rare order for <%sL_ITEM>... It's|a difficult order, so I'll give you a big|discount...<break>"
+  },
+  "615": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "616": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "617": {
+    "「めずらしく　<%sL_ITEM>の|　注文が来ていますっ。難しい依頼だから|　報酬は　大サービスさせていただきますよっ！|<break>": "I got a rare order for <%sL_ITEM>... It's a|difficult order, so we'll give you a big|discount!<break>"
+  },
+  "618": {
+    "「めずらしく　<%sL_KOUKA1_NPCMES>の|　注文が来てるんだよね～。難しい依頼だから|　報酬は　ビッグサービスしちゃうよん！|<break>": "I've got a rare order for|<%sL_KOUKA1_NPCMES>... It's a difficult|order, so I'm offering a big reward!<break>"
+  },
+  "619": {
+    "「めずらしく　<%sL_ITEM>の|　注文が来ているんだ。難しい依頼だから|　報酬は　大サービスしてあげるよ。|<break>": "It's rare that I get an order for|<%sL_ITEM>... It's a difficult request, so|I'm offering a generous reward...<break>"
+  },
+  "620": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "621": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "622": {
+    "「めずらしく　<%sL_KOUKA1_NPCMES>の|　注文が来てるのよね。難しい依頼だから|　報酬は　大サービスしちゃうわよ！|<break>": "I've got a rare order for|<%sL_KOUKA1_NPCMES>... It's a difficult|order, so I'm offering a big discount!<break>"
+  },
+  "623": {
+    "「めずらしく　<%sL_ITEM>の|　注文が来てるの……！　難しい依頼だから|　報酬は　大サービスしちゃうよ～！|<break>": "I've got a rare order for <%sL_ITEM>...! It's|a difficult order, so I'll give you a big|discount!<break>"
+  },
+  "624": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "625": {
+    "<pc>は　別の職人で|『<%sL_HYOUBAN>』になったことがあるため|名声値は　かくとくできませんでした。|<end>": "<pc> has been <%sL_HYOUBAN> by another craftsman,|so I can't confirm the name value...<end>"
+  },
+  "626": {
+    "<pc>は　別の職人で|『<%sL_HYOUBAN>』になったことがあるため|名声値は　かくとくできませんでした。|<end>": "<pc> has been <%sL_HYOUBAN> by another craftsman,|so I can't confirm the name value...<end>"
+  },
+  "627": {
+    "<pc>は　別の職人で|『<%sL_HYOUBAN>』になったことがあるため|名声値は　かくとくできませんでした。|<end>": "<pc> has been <%sL_HYOUBAN> by another craftsman,|so I can't confirm the name value...<end>"
+  },
+  "628": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "629": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "630": {
+    "<pc>は　別の職人で|『<%sL_HYOUBAN>』になったことがあるため|名声値は　かくとくできませんでした。|<end>": "<pc> has been <%sL_HYOUBAN> by another craftsman,|so I can't confirm the name value...<end>"
+  },
+  "631": {
+    "<pc>は　別の職人で|『<%sL_HYOUBAN>』になったことがあるため|名声値は　かくとくできませんでした。|<end>": "<pc> has been <%sL_HYOUBAN> by another craftsman,|so I can't confirm the name value...<end>"
+  },
+  "632": {
+    "<pc>は　別の職人で|『<%sL_HYOUBAN>』になったことがあるため|名声値は　かくとくできませんでした。|<end>": "<pc> has been <%sL_HYOUBAN> by another craftsman,|so I can't confirm the name value...<end>"
+  },
+  "633": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "634": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "635": {
+    "<pc>は　別の職人で|『<%sL_HYOUBAN>』になったことがあるため|名声値は　かくとくできませんでした。|<end>": "<pc> has been <%sL_HYOUBAN> by another craftsman,|so I can't confirm the name value...<end>"
+  },
+  "636": {
+    "<pc>は　別の職人で|『<%sL_HYOUBAN>』になったことがあるため|名声値は　かくとくできませんでした。|<end>": "<pc> has been <%sL_HYOUBAN> by another craftsman,|so I can't confirm the name value...<end>"
+  },
+  "637": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "638": {
+    "「<%sL_ITEM>を　頼みたいのだけど……|　今は　持っていないようね。|　他に　納品できそうな依頼は　あるかしら？|<break>": "I'd like to request <%sL_ITEM>, but... I|don't have it right now. Do you have any|other requests that you could deliver?<break>"
+  },
+  "639": {
+    "「<%sL_ITEM>を　頼みたいが……|　今は　持ってないようだな。|　他に　納品できそうな依頼は　あるかい？|<break>": "I'd ask for <%sL_ITEM>, but... I don't have|it at the moment, so... Do you have any other|requests that you think you can deliver on?<break>"
+  },
+  "640": {
+    "「<%sL_ITEM>を　お願いしたいが……|　今は　持っていないようだね……。|　他に　納品できそうな仕事は　あるかい……？|<break>": "I'd ask for <%sL_ITEM>, but... But you don't|seem to have any at the moment. Do you have|any other work that you can deliver?<break>"
+  },
+  "641": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "642": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "643": {
+    "「<%sL_ITEM>を　お願いしたいのですが|　……今は　お持ちでないようですね。|　他に　納品できそうな依頼は　ありますか？|<break>": "I'd like to request <%sL_ITEM>, but... You|don't seem to have it at the moment. Do you|have any other requests that you could|<br>|deliver?<break>"
+  },
+  "644": {
+    "「<%sL_KOUKA1_NPCMES>を付けた装備品だけど|　今は　持ってない系だったり？|　んじゃ　他に　納品できそうな依頼はある？|<break>": "Equipment with <%sL_KOUKA1_NPCMES> on it that|you don't currently have? So, do you have any|other requests that you can deliver?<break>"
+  },
+  "645": {
+    "「<%sL_ITEM>を　頼みたいけど……|　今は　持ってないようだね。|　他に　納品できそうな依頼は　あるかい？|<break>": "I'd ask for <%sL_ITEM>, but... I don't have|it at the moment, so... Do you have any other|requests that you think you can deliver on?<break>"
+  },
+  "646": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "647": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "648": {
+    "「<%sL_KOUKA1_NPCMES>を付けた装備品だけど|　今は　持ってなさそうね。|　他に　納品できそうな依頼は　あるかな？|<break>": "Equipment with <%sL_KOUKA1_NPCMES> on it, but|I don't have it right now. Do you have any|other requests that you think you can|<br>|deliver?<break>"
+  },
+  "649": {
+    "「<%sL_ITEM>を　お願いしたいんだけど|　今は持ってないんだね！　ざんね～ん！|　他に　納品できそうな依頼は　あるかなーっ？|<break>": "I'd ask for <%sL_ITEM>, but you don't have it|right now! I'm sorry! Do you have any other|requests that you can deliver?<break>"
+  },
+  "650": {
+    "「おや　今は持ってないようだな。|<bw_break>": "Oh, I don't have it on me right now...<bw_break>"
+  },
+  "651": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "652": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "653": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "654": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "655": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "656": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "657": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "658": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "659": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "660": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "661": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "662": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "663": {
+    "<pc>は <%sL_ITEM>を 使った！": "<pc> used <%sL_ITEM>!"
+  },
+  "664": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "665": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "666": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "667": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "668": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "669": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "670": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "671": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "672": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "673": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "674": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "675": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "676": {
+    "<pc>は <%sL_SYOKUNIN>になった！": "<pc> is now <%sL_SYOKUNIN>!"
+  },
+  "677": {
+    "「お疲れ様　<pc>。|　依頼した品は　ちゃんと　受け取ったわ。|　……さあ　報酬を　あげなくちゃね<heart>|<end>": "thank you<pc>  I'm sorry. I'm sure you'll get what you asked|for. ... Now I have to pay you.<heart>|<end>"
+  },
+  "678": {
+    "「ありがとよ　<pc>！|　頼んでいた品は　受け取っているぜ。|　それじゃあ　これは報酬だ。|<end>": "Thanks, man<pc> Oh, my God. I got what I asked for, and...|Okay, this is...<end>"
+  },
+  "679": {
+    "「……ふむ　<pc>。|　依頼の品なら　受け取っているよ。|　では　これが　仕事の報酬だよ……。|<end>": " Hmm<pc> I'm sorry. If it's something you asked for,|take it. Well, here's what you get for your|work.<end>"
+  },
+  "680": {
+    "<break>": ""
+  },
+  "681": {
+    "<break>": ""
+  },
+  "682": {
+    "「お疲れさまです　<pc>さん！|　頼んでいた品は　受け取りましたよ。|　こちらが報酬になりますっ！|<end>": "Thank you for your time<pc> Oh, my God. I've received the items you|requested. This is your reward!<end>"
+  },
+  "683": {
+    "「<pc>ちゃん　カレオツ！|　依頼品　オレんとこ　届いてるよ！|　つことで　報酬を　あげちゃいまーす！|<end>": "<pc> You're so cool! Your order arrived at my|place! That's why I'm giving you your reward!<end>"
+  },
+  "684": {
+    "「やあ　<pc>。|　頼んでいた品は　受け取っているよ。|　さあ 報酬を受け取ってくれ。|<end>": "Hi<pc> I'm sorry. I got what I asked for... Now, to|receive your reward...<end>"
+  },
+  "685": {
+    "<break>": ""
+  },
+  "686": {
+    "<break>": ""
+  },
+  "687": {
+    "「ご苦労さま　<pc>！|　頼んでいた品は　ちゃんと届いてるわよ。|　それじゃ　報酬を受け取ってくれるかな。|<end>": "thank you very much for your<pc> I'm sorry. The items you requested have|arrived. Now, please accept your reward.<end>"
+  },
+  "688": {
+    "「<pc>さん　ありがと～～！|　依頼してた　お料理は　受け取ったよっ。|　はいっ　報酬どうぞ～！|<end>": "<pc> Thank you~! I got the food you requested...|Here's your reward~!<end>"
+  },
+  "689": {
+    "<break>": ""
+  },
+  "690": {
+    "clarity_nt_char_690": "clarity_nt_char_690"
+  },
+  "691": {
+    "clarity_nt_char_691": "clarity_nt_char_691"
+  },
+  "692": {
+    "clarity_nt_char_692": "clarity_nt_char_692"
+  },
+  "693": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "694": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "695": {
+    "clarity_nt_char_695": "clarity_nt_char_695"
+  },
+  "696": {
+    "このアイテムには　依頼されているものより|強力な錬金レシピが　付与されています。|本当に　納品してよろしいですか？|<yesno 2><close>": "This item comes with a more powerful alchemy|recipe than the one you're requesting. Are|you sure you want to deliver this?<yesno 2><close>"
+  },
+  "697": {
+    "clarity_nt_char_697": "clarity_nt_char_697"
+  },
+  "698": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "699": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "700": {
+    "このアイテムには　依頼されているものより|強力な錬金レシピが　付与されています。|本当に　納品してよろしいですか？|<yesno 2><close>": "This item comes with a more powerful alchemy|recipe than the one you're requesting. Are|you sure you want to deliver this?<yesno 2><close>"
+  },
+  "701": {
+    "<pc>は　別の職人で|『<%sL_HYOUBAN>』になったことがあるため|名声値は　かくとくできませんでした。|<end>": "<pc> has been <%sL_HYOUBAN> by another craftsman,|so I can't confirm the name value...<end>"
+  },
+  "702": {
+    "「ダミー|<break>": "dummy|<break>"
+  },
+  "703": {
+    "<color_yellow>|『冒険者のおでかけ超便利ツール』にて　獲得した|職人経験値とゴールドを　受け取りますか？|<color_white>|<yesno 2><close>": "<color_yellow>Do you want to receive the experience and|gold you gained from the \"Adventurer's|Guide\"?<color_white>|<yesno 2><close>"
+  },
+  "704": {
+    "<color_yellow>|『冒険者のおでかけ超便利ツール』にて　獲得した|職人経験値とゴールドを　受け取りますか？|<color_white>|<yesno 2><close>": "<color_yellow>Do you want to receive the experience and|gold you gained from the \"Adventurer's|Guide\"?<color_white>|<yesno 2><close>"
+  },
+  "705": {
+    "<color_yellow>|『冒険者のおでかけ超便利ツール』にて　獲得した|職人経験値とゴールドを　受け取りますか？|<color_white>|<yesno 2><close>": "<color_yellow>Do you want to receive the experience and|gold you gained from the \"Adventurer's|Guide\"?<color_white>|<yesno 2><close>"
+  },
+  "706": {
+    "<break>": ""
+  },
+  "707": {
+    "<break>": ""
+  },
+  "708": {
+    "<color_yellow>|『冒険者のおでかけ超便利ツール』にて　獲得した|職人経験値とゴールドを　受け取りますか？|<color_white>|<yesno 2><close>": "<color_yellow>Do you want to receive the experience and|gold you gained from the \"Adventurer's|Guide\"?<color_white>|<yesno 2><close>"
+  },
+  "709": {
+    "<color_yellow>|『冒険者のおでかけ超便利ツール』にて　獲得した|職人経験値とゴールドを　受け取りますか？|<color_white>|<yesno 2><close>": "<color_yellow>Do you want to receive the experience and|gold you gained from the \"Adventurer's|Guide\"?<color_white>|<yesno 2><close>"
+  },
+  "710": {
+    "<color_yellow>|『冒険者のおでかけ超便利ツール』にて　獲得した|職人経験値とゴールドを　受け取りますか？|<color_white>|<yesno 2><close>": "<color_yellow>Do you want to receive the experience and|gold you gained from the \"Adventurer's|Guide\"?<color_white>|<yesno 2><close>"
+  },
+  "711": {
+    "<break>": ""
+  },
+  "712": {
+    "<break>": ""
+  },
+  "713": {
+    "<color_yellow>|『冒険者のおでかけ超便利ツール』にて　獲得した|職人経験値とゴールドを　受け取りますか？|<color_white>|<yesno 2><close>": "<color_yellow>Do you want to receive the experience and|gold you gained from the \"Adventurer's|Guide\"?<color_white>|<yesno 2><close>"
+  },
+  "714": {
+    "<color_yellow>|『冒険者のおでかけ超便利ツール』にて　獲得した|職人経験値とゴールドを　受け取りますか？|<color_white>|<yesno 2><close>": "<color_yellow>Do you want to receive the experience and|gold you gained from the \"Adventurer's|Guide\"?<color_white>|<yesno 2><close>"
+  },
+  "715": {
+    "<break>": ""
+  },
+  "716": {
+    "「お疲れ様　<pc>。|　依頼した品は　ちゃんと　受け取ったわ。|　……で　報酬は受け取るの？|<yesno><close>": "thank you<pc> I'm sorry. I'm sure you'll get what you asked|for. ... And you'll get paid?<yesno><close>"
+  },
+  "717": {
+    "「わかったわ。|　報酬を受け取りたい時に　また来てちょうだい。|<end>": "Waka... Come back when you're ready to|receive your reward...<end>"
+  },
+  "718": {
+    "「あら？　頼んでいた品を|　いっぱつ納品で　受け取っていないわよ。|<end>": "What? I ordered a whole bunch of stuff, but I|never got it...<end>"
+  },
+  "719": {
+    "「『冒険者のおでかけ超便利ツール』から|　職人ギルドの依頼を|　いっぱつ納品することが　できるのよ。|<br>|「いっぱつ納品の　報酬を受け取りたいときは|　防具鍛冶ギルドにいる　私に話しかけて|　『いっぱつ納品の報酬受け取り』をして。|<end>": "You can use the \"Adventurer's Guide\" to|deliver a full set of requests from the|Craftsman's Guild. If you want to receive the|<br>|reward for a single delivery, talk to me at|the Armor Blacksmithing Guild and ask for|the...<end>"
+  },
+  "720": {
+    "「ありがとよ　<pc>！|　頼んでいた品は　受け取っているぜ。|　それじゃあ　報酬を受け取るかい？|<yesno><close>": "Thanks, man<pc> Oh, my God. I got what I asked for. So, do|you want to accept your reward?<yesno><close>"
+  },
+  "721": {
+    "「わかったよ。|　報酬を受け取りたい時に　また来てくれ。|<end>": "I don't know... I'll be back when you want|your reward...<end>"
+  },
+  "722": {
+    "「おいおい　頼んでいた品を|　いっぱつ納品で　受け取っていないぞ。|<end>": "Hey, hey, hey, hey, hey, hey, hey, hey, hey,|hey, hey.<end>"
+  },
+  "723": {
+    "「『冒険者のおでかけ超便利ツール』から|　職人ギルドの依頼を|　いっぱつ納品することが　できるんだ。|<br>|「いっぱつ納品の　報酬を受け取りたいときは|　武器鍛冶ギルドにいる　オレに話しかけて|　『いっぱつ納品の報酬受け取り』をしてくれ。|<end>": "I've been working on a new game for a while|now, and I'm really excited about it. If you|want to receive a reward for a single|<br>|delivery, talk to me at the Weaponsmithing|Guild and ask for a reward for a single|delivery.<end>"
+  },
+  "724": {
+    "「……ふむ　<pc>。|　依頼の品なら　受け取っているよ。|　それで　報酬は受け取るのかい……？|<yesno><close>": " Hmm<pc> I'm sorry. If you have something for me, I'll|take it... So you'll take the reward...?<yesno><close>"
+  },
+  "725": {
+    "「……了解だ。|　報酬を受け取りたい時に　また来てくれ。|<end>": "...... I'll be back when you want to receive|your reward...<end>"
+  },
+  "726": {
+    "「……はて？　頼んでいた品を|　いっぱつ納品で　受け取っていないが……。|<end>": "... What? I'm afraid we haven't received the|full delivery of what we ordered.<end>"
+  },
+  "727": {
+    "「『冒険者のおでかけ超便利ツール』から|　職人ギルドの依頼を|　いっぱつ納品することが　できる……。|<br>|「いっぱつ納品の　報酬を受け取りたいときは|　道具鍛冶ギルドにいる　ボクに話しかけて|　『いっぱつ納品の報酬受け取り』をしてくれ。|<end>": "You can deliver a batch of requests from the|craftsmen's guild from the \"Adventurer's|Outing Tool\"... If you want to receive a|<br>|reward for a single delivery, talk to me at|the Toolsmithing Guild and ask for a \"single|delivery reward\"...<end>"
+  },
+  "728": {
+    "<break>": ""
+  },
+  "729": {
+    "<break>": ""
+  },
+  "730": {
+    "<break>": ""
+  },
+  "731": {
+    "<break>": ""
+  },
+  "732": {
+    "<break>": ""
+  },
+  "733": {
+    "<break>": ""
+  },
+  "734": {
+    "<break>": ""
+  },
+  "735": {
+    "<break>": ""
+  },
+  "736": {
+    "「お疲れさまです　<pc>さん！|　頼んでいた品は　受け取りましたよ。|　さっそく　報酬を受け取りますか？|<yesno><close>": "Thank you for your time<pc> Oh, my God. I have received the items you|requested... Would you like to receive your|reward?<yesno><close>"
+  },
+  "737": {
+    "「そうですか。|　報酬を受け取りたい時は　また来てくださいね。|<end>": "Well... Come back when you're ready to|receive your reward...<end>"
+  },
+  "738": {
+    "「……あれ？　頼んでいた品を|　いっぱつ納品で　受け取ってませんよ。|<end>": "... What? I just received a full delivery of|what I ordered...<end>"
+  },
+  "739": {
+    "「『冒険者のおでかけ超便利ツール』から|　職人ギルドの依頼を|　いっぱつ納品することが　できるんですっ！|<br>|「いっぱつ納品の　報酬を受け取りたいときは|　木工ギルドにいる　私に話しかけて|　『いっぱつ納品の報酬受け取り』ですよっ！|<end>": "From the \"Adventurer's Outing Tool\", you can|deliver a full set of requests from the|Craftsman's Guild! If you want to receive the|<br>|reward for a single delivery, talk to me at|the Woodworkers' Guild and say \"Receive the|reward for a single delivery\"!<end>"
+  },
+  "740": {
+    "「<pc>ちゃん　カレオツー！|　依頼品　オレんとこ　届いてるよ！|　つーことで　報酬　受け取っちゃう？|<yesno><close>": "<pc> Hey, Kaleo Two! Your order arrived at my|place! So, you'll take the reward?<yesno><close>"
+  },
+  "741": {
+    "「オッケー。|　報酬を受け取りたい時は　また来てちょ。|<end>": "Oh... I'll be back to collect my reward...<end>"
+  },
+  "742": {
+    "「ヤベー。頼んでいた品　まだ|　いっぱつ納品で　受け取ってないんだケド。|<end>": "I'm sorry. I haven't received the other items|I ordered yet...<end>"
+  },
+  "743": {
+    "「『冒険者のおでかけ超便利ツール』から|　職人ギルドの依頼を　マジで|　いっぱつ納品することが　できるんよ。|<br>|「いっぱつ納品の　報酬を受け取りたいときは|　ランプ錬金ギルドにいる　オレに話しかけて|　『いっぱつ納品の報酬受け取り』をしてちょ。|<end>": "You can seriously deliver a full set of|craftsman guild requests from the|Adventurer's Outing Tool. If you want to|<br>|receive a reward for a full delivery, talk to|me at the Lamp Alchemy Guild and ask for a|\"Full Delivery Reward\"...<end>"
+  },
+  "744": {
+    "「やあ　<pc>。|　頼んでいた品は　受け取っているよ。|　さっそく　報酬を受け取るかい？|<yesno><close>": "Hi<pc> I'm sorry. I got what I asked for, so...|Would you like to get started on your reward?<yesno><close>"
+  },
+  "745": {
+    "「わかったよ。|　報酬を受け取りたい時に　また来ておくれ。|<end>": "Waka... Come back when you're ready to|receive your reward...<end>"
+  },
+  "746": {
+    "「おや？　頼んでいた品を|　いっぱつ納品で　受け取っていないよ。|<end>": "Hmm? I've just received a full delivery of|the items I ordered.<end>"
+  },
+  "747": {
+    "「『冒険者のおでかけ超便利ツール』から|　職人ギルドの依頼を|　いっぱつ納品することが　できるのさ。|<br>|「いっぱつ納品の　報酬を受け取りたいときは|　さいほうギルドにいる　ボクに話しかけて|　『いっぱつ納品の報酬受け取り』をしておくれ。|<end>": "You can use the Adventurer's Outing Tool to|deliver a single request from the Craftsman's|Guild. If you want to receive a reward for a|<br>|single delivery, talk to me at the most|advanced guild and ask for the...<end>"
+  },
+  "748": {
+    "<break>": ""
+  },
+  "749": {
+    "<break>": ""
+  },
+  "750": {
+    "<break>": ""
+  },
+  "751": {
+    "<break>": ""
+  },
+  "752": {
+    "<break>": ""
+  },
+  "753": {
+    "<break>": ""
+  },
+  "754": {
+    "<break>": ""
+  },
+  "755": {
+    "<break>": ""
+  },
+  "756": {
+    "「ご苦労さま　<pc>！|　頼んでいた品は　ちゃんと届いてるわよ。|　それじゃ　報酬を受け取ってくれる？|<yesno><close>": "thank you very much for your<pc> I'm sorry. The items you requested have|arrived. Now, will you accept my reward?<yesno><close>"
+  },
+  "757": {
+    "「わかったわ。|　報酬を受け取りたい時には　また来てね。|<end>": "Waka... When you want to receive your reward,|you must also...<end>"
+  },
+  "758": {
+    "「あらら。頼んでいた品を|　いっぱつ納品で　受け取っていないわよ。|<end>": "... We've had a full delivery of what we|ordered, but we haven't received it...<end>"
+  },
+  "759": {
+    "「『冒険者のおでかけ超便利ツール』から|　職人ギルドの依頼を|　いっぱつ納品することが　できるのよ。|<br>|「いっぱつ納品の　報酬を受け取りたいときは|　ツボ錬金ギルドにいる　私に話しかけて|　『いっぱつ納品の報酬受け取り』をしてね。|<end>": "You can use the \"Adventurer's Guide\" to|deliver a full set of requests from the|Craftsman's Guild. If you want to receive the|<br>|reward for a single delivery, talk to me in|the alchemy guild and ask for the \"Receive|reward for single delivery\"...<end>"
+  },
+  "760": {
+    "「<pc>さん　ありがと～～！|　依頼してた　お料理は　受け取ったよっ。|　さっそく　報酬を受け取っちゃう？|<yesno><close>": "<pc> Thank you~! I've received the food you|requested. Are you going to accept your|reward now?<yesno><close>"
+  },
+  "761": {
+    "「了解だよ～。|　報酬を受け取りたい時に　また来てね。|<end>": "Copy that... I'll be back when you're ready|to collect your reward.<end>"
+  },
+  "762": {
+    "「あれれ？　まだ　頼んでいた品を|　いっぱつ納品で　受け取っていないぞっ！|<end>": "What? I still haven't received the full|delivery of what I ordered!<end>"
+  },
+  "763": {
+    "「『冒険者のおでかけ超便利ツール』から|　職人ギルドの依頼を|　いっぱつ納品することが　できるんだ～。|<br>|「いっぱつ納品の　報酬を受け取りたいときは|　調理ギルドにいる　あたしに話しかけて|　『いっぱつ納品の報酬受け取り』をしてね！|<end>": "You can use the \"Adventurer's Outing Tool\" to|deliver a full set of requests from the|Artisan's Guild... If you want to receive the|<br>|reward for a single delivery, talk to me in|the cooking guild and ask for the \"Reward for|a Single Delivery\"!<end>"
+  },
+  "764": {
+    "<break>": ""
+  },
+  "765": {
+    "<break>": ""
+  },
+  "766": {
+    "<break>": ""
+  },
+  "767": {
+    "<break>": ""
+  },
+  "768": {
+    "「職人練習場では　練習用の素材と道具を使って|　職人の練習が　できるんだ。|<br>|「ただし　作ったものは　外に持ち出せないし|　アイテムの　持ち込みもできない。|<br>|「練習にならないから|　いっぱつしあげは　禁止だ。|<end>": "In the craftsman's workshop, you can practice|your craftsmanship using the materials and|tools provided... However, you can't take|<br>|your creations outside, and you can't bring|in items... It's not good practice.<end>"
+  },
+  "769": {
+    "「職人練習場では　練習用の素材と道具を使って|　職人の練習が　できるのよ。|<br>|「ただし　作ったものは　外に持ち出せないし|　アイテムの　持ち込みもできないわ。|<br>|「練習にならないから|　いっぱつしあげは　禁止よ。|<end>": "In the craftsman's workshop, you can practice|your craftsmanship using the materials and|tools provided... However, you can't take|<br>|your creations outside, and you can't bring|in items... It's not good practice.<end>"
+  },
+  "770": {
+    "「職人練習場では　練習用の素材と道具を使って|　職人の練習が　できる……。|<br>|「ただし　作ったものは　外に持ち出せないし|　アイテムの　持ち込みもできない……。|<br>|「練習にならないから|　いっぱつしあげは　禁止だ……。|<end>": "In the craftsmen's workshop, you can practice|your craftsmanship using the materials and|tools provided. But you can't take your|<br>|creations outside, and you can't bring in|items. It's not good for practice, so you're|not allowed to make any more.<end>"
+  },
+  "771": {
+    "「職人練習場では　練習用の素材と道具を使って|　職人の練習が　できるのさ。|<br>|「ただし　作ったものは　外に持ち出せないし|　アイテムの　持ち込みもできない。|<br>|「練習にならないから|　いっぱつしあげは　禁止だよ。|<end>": "In the craftsman's workshop, you can practice|your craftsmanship using the materials and|tools provided... However, you can't take|<br>|your creations outside, and you can't bring|in items... It's not good practice, so don't|do it all at once...<end>"
+  },
+  "772": {
+    "「職人練習場では　練習用の素材と道具を使って|　職人の練習が　できるんですっ！|<br>|「ただし　作ったものは　外に持ち出せないし|　アイテムの　持ち込みも　できません。|<br>|「練習にならないから|　いっぱつしあげは　禁止ですよっ！|<end>": "In the craftsman's workshop, you can use the|materials and tools to practice your craft!|However, you can't take your creations|<br>|outside, and you can't bring in your own|items... It's not good for practice, so|you're not allowed to take anything home with|<br>|you!<end>"
+  },
+  "773": {
+    "「職人練習場では　練習用の素材と道具を使って|　職人の練習が　できるんよ。|<br>|「ただし　作ったものは　外に持ち出せないし|　アイテムの　持ち込みもできないよ。|<br>|「練習にならないから|　いっぱつしあげは　禁止だよ。|<end>": "In the craftsman's workshop, you can practice|your craftsmanship using the materials and|tools provided... However, you can't take|<br>|your creations outside, and you can't bring|in items... It's not good practice, so don't|do it all at once...<end>"
+  },
+  "774": {
+    "「職人練習場では　練習用の素材と道具を使って|　職人の練習が　できるのよ。|<br>|「ただし　作ったものは　外に持ち出せないし|　アイテムの　持ち込みもできないわ。|<br>|「練習にならないから|　いっぱつしあげは　禁止よ。|<end>": "In the craftsman's workshop, you can practice|your craftsmanship using the materials and|tools provided... However, you can't take|<br>|your creations outside, and you can't bring|in items... It's not good practice.<end>"
+  },
+  "775": {
+    "<break>": ""
+  },
+  "776": {
+    "<break>": ""
+  },
+  "777": {
+    "<break>": ""
+  },
+  "778": {
+    "「職人練習場では　練習用の素材と道具を使って|　職人の練習が　できるんだ～。|<br>|「ただし　作ったものは　外に持ち出せないし|　アイテムの　持ち込みもできないよっ。|<br>|「練習にならないから|　いっぱつしあげは　禁止だぞっ！|<end>": "In the craftsman's workshop, you can use|materials and tools to practice your craft...|However, you can't take your creations|<br>|outside, and you can't bring in items... It's|not good practice, so you can't take anything|out!<end>"
+  },
+  "779": {
+    "<break>": ""
+  },
+  "780": {
+    "<break>": ""
+  },
+  "781": {
+    "「職人練習場に　行くか？|<yesno><close>": ""
+  },
+  "782": {
+    "「職人練習場に　行く？|<yesno><close>": ""
+  },
+  "783": {
+    "「職人練習場に　行くのかい……？|<yesno><close>": "Are you going to the artisans' training|grounds?<yesno><close>"
+  },
+  "784": {
+    "「職人練習場に　行くのかい？|<yesno><close>": ""
+  },
+  "785": {
+    "「職人練習場に　行きますか？|<yesno><close>": ""
+  },
+  "786": {
+    "「職人練習場に　行っちゃう？|<yesno><close>": ""
+  },
+  "787": {
+    "「職人練習場に　行く？|<yesno><close>": ""
+  },
+  "788": {
+    "<break>": ""
+  },
+  "789": {
+    "<break>": ""
+  },
+  "790": {
+    "<break>": ""
+  },
+  "791": {
+    "「職人練習場に　行っちゃう？|<yesno><close>": ""
+  },
+  "792": {
+    "<break>": ""
+  },
+  "793": {
+    "<break>": ""
+  },
+  "794": {
+    "<color_yellow>|現在のプレイ環境で　受け取ると|職人レベル上限を超えるため　受け取れない|職人経験値がありますが　よろしいですか？|<yesno 2><close>": "<color_yellow>I'm sorry, but under my current playing|environment, I can't receive some of the|craftsman experience because it would exceed|<br>|my craftsman level limit.<yesno 2><close>"
+  },
+  "795": {
+    "<color_yellow>|現在のプレイ環境で　受け取ると|職人レベル上限を超えるため　受け取れない|職人経験値がありますが　よろしいですか？|<yesno 2><close>": "<color_yellow>I'm sorry, but under my current playing|environment, I can't receive some of the|craftsman experience because it would exceed|<br>|my craftsman level limit.<yesno 2><close>"
+  },
+  "796": {
+    "<color_yellow>|現在のプレイ環境で　受け取ると|職人レベル上限を超えるため　受け取れない|職人経験値がありますが　よろしいですか？|<yesno 2><close>": "<color_yellow>I'm sorry, but under my current playing|environment, I can't receive some of the|craftsman experience because it would exceed|<br>|my craftsman level limit.<yesno 2><close>"
+  },
+  "797": {
+    "<color_yellow>|現在のプレイ環境で　受け取ると|職人レベル上限を超えるため　受け取れない|職人経験値がありますが　よろしいですか？|<yesno 2><close>": "<color_yellow>I'm sorry, but under my current playing|environment, I can't receive some of the|craftsman experience because it would exceed|<br>|my craftsman level limit.<yesno 2><close>"
+  },
+  "798": {
+    "<color_yellow>|現在のプレイ環境で　受け取ると|職人レベル上限を超えるため　受け取れない|職人経験値がありますが　よろしいですか？|<yesno 2><close>": "<color_yellow>I'm sorry, but under my current playing|environment, I can't receive some of the|craftsman experience because it would exceed|<br>|my craftsman level limit.<yesno 2><close>"
+  },
+  "799": {
+    "<color_yellow>|現在のプレイ環境で　受け取ると|職人レベル上限を超えるため　受け取れない|職人経験値がありますが　よろしいですか？|<yesno 2><close>": "<color_yellow>I'm sorry, but under my current playing|environment, I can't receive some of the|craftsman experience because it would exceed|<br>|my craftsman level limit.<yesno 2><close>"
+  },
+  "800": {
+    "<color_yellow>|現在のプレイ環境で　受け取ると|職人レベル上限を超えるため　受け取れない|職人経験値がありますが　よろしいですか？|<yesno 2><close>": "<color_yellow>I'm sorry, but under my current playing|environment, I can't receive some of the|craftsman experience because it would exceed|<br>|my craftsman level limit.<yesno 2><close>"
+  },
+  "801": {
+    "<break>": ""
+  },
+  "802": {
+    "<break>": ""
+  },
+  "803": {
+    "<break>": ""
+  },
+  "804": {
+    "<color_yellow>|現在のプレイ環境で　受け取ると|職人レベル上限を超えるため　受け取れない|職人経験値がありますが　よろしいですか？|<yesno 2><close>": "<color_yellow>I'm sorry, but under my current playing|environment, I can't receive some of the|craftsman experience because it would exceed|<br>|my craftsman level limit.<yesno 2><close>"
+  },
+  "805": {
+    "<break>": ""
+  },
+  "806": {
+    "<break>": ""
+  }
+}
