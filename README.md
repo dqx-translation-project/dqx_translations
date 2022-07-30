@@ -139,6 +139,23 @@ docker-compose exec --user weblate weblate \
    --configuration '{"match": "json/_lang/(?P<language>[^/.]*)/(?P<component>[^/]*)\\.json", "file_format": "json-nested", "base_file_template": "json/_lang/ja/{{component}}.json", "new_base_template": "", "intermediate_template": "", "name_template": "{{component}}.json", "language_regex": "^(en)$", "copy_addons": "on", "remove": "on", "confirm": ""}'
 ```
 
+## Creating users
+
+You can choose to do this in the UI, or make a request for each new user.
+
+Fill out the username, full_name and email fields.
+
+```bash
+curl -XPOST ${WEBLATE_HOST}/api/users/ \
+    --header "Content-Type: application/json" \
+    --header "Authorization: Token ${WEBLATE_API_KEY}" \
+    --data-binary '{
+       "username": "",
+       "full_name": "",
+       "email": ""
+    }'
+```
+
 ## Completion
 
 As the number of components being created is large, it will take an hour or two for the Weblate instance to process through all of the tasks in the celery queue. Be patient and let Weblate complete this work before making any changes.
