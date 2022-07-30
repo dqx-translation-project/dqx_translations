@@ -10,10 +10,10 @@ Instance is hosted in Docker. You will need a general understanding of how Docke
 
 Not discussed in this documentation is the configuration of a reverse proxy in front of the Docker container for secure access to the web UI. I'm hosting it this way, but you are free to present the web UI in whatever fashion you desire. As a reference, the proxy is configured to process requests as documented in the [Weblate documentation](https://docs.weblate.org/en/latest/admin/install/docker.html#docker-container-with-https-support).
 
-Update the local environment file with the appropriate values and run:
+Create a local `.env` file that references all of the environment variables in the `docker-compose.override.yml` file and fill in the appropriate values for each section. You can also create this file from the `.env_example` and fill in the values. You can reference [the Weblate documentation](https://docs.weblate.orgest/admin/install/docker.html) for details on what each of these environment variables does. Once finished, stand up the Weblate instance:
 
 ```
-docker-compose up -d
+docker-compose up -d 
 ```
 
 Watch the logs with:

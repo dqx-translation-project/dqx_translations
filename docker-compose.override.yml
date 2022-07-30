@@ -1,0 +1,52 @@
+version: '3.7'
+services:
+  weblate:
+    container_name: weblate
+    ports:
+      - 9009:8080
+    dns:
+      - 1.1.1.1
+      - 1.0.0.1
+    networks:
+      weblate:
+    environment:
+      WEBLATE_SITE_TITLE: DQX Translation Project
+      WEBLATE_ADMIN_NAME: ${WEBLATE_ADMIN_NAME}
+      WEBLATE_ADMIN_EMAIL: ${WEBLATE_ADMIN_EMAIL}
+      WEBLATE_ADMIN_PASSWORD: ${WEBLATE_ADMIN_PASSWORD}
+      WEBLATE_EMAIL_HOST: ${WEBLATE_EMAIL_HOST}
+      WEBLATE_EMAIL_HOST_USER: ${WEBLATE_EMAIL_HOST_USER}
+      WEBLATE_EMAIL_HOST_PASSWORD: ${WEBLATE_EMAIL_HOST_PASSWORD}
+      WEBLATE_SERVER_EMAIL: ${WEBLATE_SERVER_EMAIL}
+      WEBLATE_DEFAULT_FROM_EMAIL: ${WEBLATE_DEFAULT_FROM_EMAIL}
+      WEBLATE_SITE_DOMAIN: ${WEBLATE_SITE_DOMAIN}
+      WEBLATE_REGISTRATION_OPEN: ${WEBLATE_REGISTRATION_OPEN}
+      WEB_WORKERS: ${WEB_WORKERS}
+      CELERY_MAIN_OPTIONS: ${CELERY_MAIN_OPTIONS}
+      CELERY_NOTIFY_OPTIONS: ${CELERY_NOTIFY_OPTIONS}
+      CELERY_TRANSLATE_OPTIONS: ${CELERY_TRANSLATE_OPTIONS}
+      WEBLATE_TIME_ZONE: ${WEBLATE_TIME_ZONE}
+      WEBLATE_ENABLE_HTTPS: ${WEBLATE_ENABLE_HTTPS}
+      WEBLATE_REQUIRE_LOGIN: ${WEBLATE_REQUIRE_LOGIN}
+      WEBLATE_GITHUB_USERNAME: ${WEBLATE_GITHUB_USERNAME}
+      WEBLATE_GITHUB_TOKEN: ${WEBLATE_GITHUB_TOKEN}
+      WEBLATE_DEFAULT_PULL_MESSAGE: ${WEBLATE_DEFAULT_PULL_MESSAGE}
+      WEBLATE_DEFAULT_COMMITER_EMAIL: ${WEBLATE_DEFAULT_COMMITER_EMAIL}
+      WEBLATE_DEFAULT_COMMITER_NAME: ${WEBLATE_DEFAULT_COMMITER_NAME}
+      WEBLATE_SILENCED_SYSTEM_CHECKS: ${WEBLATE_SILENCED_SYSTEM_CHECKS}
+      WEBLATE_HIDE_VERSION: ${WEBLATE_HIDE_VERSION}
+      WEBLATE_ENABLE_AVATARS: ${WEBLATE_ENABLE_AVATARS}
+      WEBLATE_DATABASE_BACKUP: ${WEBLATE_DATABASE_BACKUP}
+      WEBLATE_REMOVE_CHECK: weblate.checks.markup.BBCodeCheck,weblate.checks.duplicate.DuplicateCheck,weblate.checks.glossary.GlossaryCheck,weblate.checks.chars.DoubleSpaceCheck,weblate.checks.angularjs.AngularJSInterpolationCheck,weblate.checks.format.CFormatCheck,weblate.checks.format.CSharpFormatCheck,weblate.checks.format.ESTemplateLiteralsCheck,weblate.checks.format.I18NextInterpolationCheck,weblate.checks.icu.ICUMessageFormatCheck,weblate.checks.format.JavaFormatCheck,weblate.checks.format.JavaMessageFormatCheck,weblate.checks.format.JavaScriptFormatCheck,weblate.checks.format.LuaFormatCheck,weblate.checks.format.ObjectPascalFormatCheck,weblate.checks.format.PercentPlaceholdersCheck,weblate.checks.format.PerlFormatCheck,weblate.checks.format.PHPFormatCheck,weblate.checks.format.PythonBraceFormatCheck,weblate.checks.format.PythonFormatCheck,weblate.checks.qt.QtFormatCheck,weblate.checks.qt.QtPluralCheck,weblate.checks.ruby.RubyFormatCheck,weblate.checks.format.SchemeFormatCheck,weblate.checks.format.VueFormattingCheck,weblate.checks.consistency.TranslatedCheck,weblate.checks.consistency.ConsistencyCheck,weblate.checks.chars.KashidaCheck,weblate.checks.markup.MarkdownLinkCheck,weblate.checks.markup.MarkdownRefLinkCheck,weblate.checks.markup.MarkdownSyntaxCheck,weblate.checks.chars.MaxLengthCheck,weblate.checks.render.MaxSizeCheck,weblate.checks.chars.EscapedNewlineCountingCheck,weblate.checks.chars.EndColonCheck,weblate.checks.chars.EndEllipsisCheck,weblate.checks.chars.EndExclamationCheck,weblate.checks.chars.EndStopCheck,weblate.checks.chars.EndQuestionCheck,weblate.checks.chars.EndSemicolonCheck,weblate.checks.chars.NewLineCountCheck,weblate.checks.consistency.PluralsCheck,weblate.checks.placeholders.PlaceholderCheck,weblate.checks.chars.PunctuationSpacingCheck,weblate.checks.placeholders.RegexCheck,weblate.checks.consistency.SamePluralsCheck,weblate.checks.chars.BeginNewlineCheck,weblate.checks.chars.BeginSpaceCheck,weblate.checks.chars.EndNewlineCheck,weblate.checks.chars.EndSpaceCheck,weblate.checks.same.SameCheck,weblate.checks.markup.SafeHTMLCheck,weblate.checks.markup.URLCheck,weblate.checks.markup.XMLTagsCheck,weblate.checks.markup.XMLValidityCheck,weblate.checks.chars.ZeroWidthSpaceCheck,weblate.checks.source.EllipsisCheck,weblate.checks.icu.ICUSourceCheck,weblate.checks.source.LongUntranslatedCheck,weblate.checks.source.MultipleFailingCheck,weblate.checks.format.MultipleUnnamedFormatsCheck,weblate.checks.source.OptionalPluralCheck
+      WEBLATE_ALLOWED_HOSTS: ${WEBLATE_ALLOWED_HOSTS}
+  database:
+    networks:
+      weblate:
+  cache:
+    networks:
+      weblate:
+
+networks:
+  weblate:
+    name: weblate
+    attachable: true
