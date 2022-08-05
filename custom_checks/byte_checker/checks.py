@@ -16,6 +16,9 @@ class ByteCheck(TargetCheck):
 
     # Real check code
     # Return True if you want check to fail on match
+    # Weblate assigns strings as unicode, so we need to encode first
     def check_single(self, source, target, unit):
-        if len(target) > len(source):
+        encoded_source = source.encode('utf-8')
+        encoded_target = target.encode('utf-8')
+        if len(encoded_target) > len(encoded_source):
             return True
