@@ -267,10 +267,10 @@
     "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
   },
   "90": {
-    "「<se_nots System 7>幸運の　ダブルチャンスとして|　スペシャルふくびき券を　<%nM_Hukubiki_Num>枚|　差し上げます。さらに……|<bw_break>": ""
+    "「<se_nots System 7>幸運の　ダブルチャンスとして|　スペシャルふくびき券を　<%nM_Hukubiki_Num>枚|　差し上げます。さらに……|<bw_break>": "<se_nots System 7>You will receive <%dM_Hukubiki_Num> SP Lottery Tickets as|a lucky double bonus. Furthermore...|<bw_break>"
   },
   "91": {
-    "「確認したところ　<pc>さまには|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "I checked<pc> I'm afraid you don't have any friends who can|give you special coupons...<bw_break>"
+    "「確認したところ　<pc>さまには|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "It seems you don't have any friends we can|send SP Lottery Tickets to.|<bw_break>"
   },
   "92": {
     "「おや？　<pc>さまの|　どうぐかばんに　空きが　ないようですので|　スペシャルふくびき券は　お預かりしますね。|<br>|「どうぐかばんに　空きをつくってから|　旅のコンシェルジュを　訪ねていただければ|　スペシャルふくびき券を　お渡しいたします。|<bw_break>": "Hmm?<pc> We're sorry, but we're afraid we don't have|room in your gift vault for your special|coupon. If you'd like to visit our travel|<br>|concierge after you've made room in your|inventory, we'll be happy to give you a|special coupon...<bw_break>"
@@ -291,16 +291,16 @@
     "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "You can draw once with one SP Lottery Ticket.|Would you like to play?|<select_se_off>|Single SP Draw|10 SP Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
   },
   "98": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "Want to play again?|<select_se_off>|Single SP Draw|10 SP Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
   },
   "99": {
     "「ふくびきの新しいサービス……|　スペシャルふくびきについて　ご説明します。|<br>|「通常のふくびきで　３等以上を獲得されますと|　幸運のダブルチャンスとして|　スペシャルふくびき券　２枚を進呈いたします。|<br>|「スペシャルふくびき券は　１枚で１回|　１０枚で１０回まとめて　特別な報酬の|　スペシャルふくびきに　挑戦できるチケット。|<br>|「さらに　スペシャルふくびき券　獲得の際には|　最近　一緒に冒険した　最大１２名のフレンドに|　幸運のおすそ分けが　起こるのです！|<br>|「なんと　フレンドの方たちにも|　スペシャルふくびき券を　１枚ずつ|　郵送させていただくという　出血大サービス！|<br>|「もちろん　このサービスにより|　<pc>さまの　スペシャルふくびき券が|　減ることはありませんので　ご安心ください。|<br>|「なお　スペシャルふくびき券の　おすそわけは|　サポート仲間にした　フレンドも|　対象となります。|<br>|「通常のふくびきで　３等以上を獲得されましたら|　フレンドの皆様とともに　スペシャルふくびきで|　さらなる福を　引き当ててください。|<end>": "New Lucky Draw Service... Explanation of the|Special Luck Draw... If you win the third|prize or more in the regular Lucky Draw, you|<br>|will receive two Special Lucky Draw tickets|as a lucky double chance... One Special Luck|Ticket gives you one chance to win a special|<br>|prize, and 10 Special Luck Tickets give you|10 chances to win a special prize... What's|more, when you earn a Special Luck Ticket,|<br>|you'll be able to share your good fortune|with up to 12 of your friends who've been|adventuring with you recently! What's more,|<br>|we'll even mail each of your friends a|Special Discount Coupon, a bloody great|service! Of course, with this service<pc> I'm sure you've heard of it. Please note that|you can share your Special Lucky Draw tickets|with friends you've made into supporters...|<br>|If you've won third prize or more in the|regular lottery, you and your friends can win|even more in the special lottery...<end>"
   },
   "100": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "101": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "102": {
     "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
@@ -318,7 +318,7 @@
     "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
   },
   "107": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "108": {
     "「おや……<pc>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh<pc> Thank you. There's not enough room in the bag|to hold all the prizes... The special prize|draw is only possible if there's room in one|<br>|bag and one in the gift bag... We'll sort out|your bag and bag, make the necessary space,|and come back...<bw_break>"
@@ -612,13 +612,13 @@
     "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "205": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "206": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "207": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "208": {
     "「確認したところ　<%sM_OWNER><%sM_SAMA>には|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "I checked and it seems that|<%sM_OWNER><%sM_SAMA> doesn't have any|friends who can receive the special coupon...<bw_break>"
@@ -1044,13 +1044,13 @@
     "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "349": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "350": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "351": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "352": {
     "「確認したところ　<%sM_OWNER><%sM_SAMA>には|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "I checked and it seems that|<%sM_OWNER><%sM_SAMA> doesn't have any|friends who can receive the special coupon...<bw_break>"
@@ -1422,13 +1422,13 @@
     "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "475": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "476": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "477": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "478": {
     "「確認したところ　<%sM_OWNER><%sM_SAMA>には|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "I checked and it seems that|<%sM_OWNER><%sM_SAMA> doesn't have any|friends who can receive the special coupon...<bw_break>"
@@ -1800,13 +1800,13 @@
     "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "601": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "602": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "603": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "604": {
     "「確認したところ　<%sM_OWNER>さまには|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "After checking, it seems that <%sM_OWNER>|doesn't have any friends who can receive|special coupons...<bw_break>"
@@ -2178,13 +2178,13 @@
     "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "727": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "728": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "729": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "730": {
     "「確認したところ　<%sM_OWNER>さまには|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "After checking, it seems that <%sM_OWNER>|doesn't have any friends who can receive|special coupons...<bw_break>"
@@ -2556,13 +2556,13 @@
     "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "853": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "854": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "855": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "856": {
     "「確認したところ　<%sM_OWNER>さまには|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "After checking, it seems that <%sM_OWNER>|doesn't have any friends who can receive|special coupons...<bw_break>"
@@ -2934,13 +2934,13 @@
     "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "979": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "980": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "981": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "982": {
     "「確認したところ　<%sM_OWNER>さまには|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "After checking, it seems that <%sM_OWNER>|doesn't have any friends who can receive|special coupons...<bw_break>"
@@ -3312,13 +3312,13 @@
     "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "1105": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "1106": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "1107": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "1108": {
     "「確認したところ　<%sM_OWNER>さまには|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "After checking, it seems that <%sM_OWNER>|doesn't have any friends who can receive|special coupons...<bw_break>"
@@ -3510,7 +3510,7 @@
     "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "I'm sorry, but you can't accept your prizes|because your inventory is full. The rest of|them will be held at the Travel Concierge.|<br>|You can pick up your prizes when you make|some space in your inventory.|<br>|Please remember you won't be able to do any|new draws until you receive all of your held|prizes.|<bw_break>"
   },
   "1171": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
   },
   "1172": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
@@ -3555,7 +3555,7 @@
     "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "I'm sorry, but you can't accept your prizes|because your inventory is full. The rest of|them will be held at the Travel Concierge.|<br>|You can pick up your prizes when you make|some space in your inventory.|<br>|Please remember you won't be able to do any|new draws until you receive all of your held|prizes.|<bw_break>"
   },
   "1186": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
   },
   "1187": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
@@ -3645,7 +3645,7 @@
     "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "I'm sorry, but you can't accept your prizes|because your inventory is full. The rest of|them will be held at the Travel Concierge.|<br>|You can pick up your prizes when you make|some space in your inventory.|<br>|Please remember you won't be able to do any|new draws until you receive all of your held|prizes.|<bw_break>"
   },
   "1216": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
   },
   "1217": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
@@ -3690,7 +3690,7 @@
     "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "I'm sorry, but you can't accept your prizes|because your inventory is full. The rest of|them will be held at the Travel Concierge.|<br>|You can pick up your prizes when you make|some space in your inventory.|<br>|Please remember you won't be able to do any|new draws until you receive all of your held|prizes.|<bw_break>"
   },
   "1231": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
   },
   "1232": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
@@ -3735,7 +3735,7 @@
     "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "I'm sorry, but you can't accept your prizes|because your inventory is full. The rest of|them will be held at the Travel Concierge.|<br>|You can pick up your prizes when you make|some space in your inventory.|<br>|Please remember you won't be able to do any|new draws until you receive all of your held|prizes.|<bw_break>"
   },
   "1246": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
   },
   "1247": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
@@ -3780,7 +3780,7 @@
     "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "I'm sorry, but you can't accept your prizes|because your inventory is full. The rest of|them will be held at the Travel Concierge.|<br>|You can pick up your prizes when you make|some space in your inventory.|<br>|Please remember you won't be able to do any|new draws until you receive all of your held|prizes.|<bw_break>"
   },
   "1261": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <pc>.|<bw_break>"
   },
   "1262": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
@@ -6225,16 +6225,16 @@
     "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますかっ？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "You can draw once with one SP Lottery Ticket.|Would you like to play?|<select_se_off>|Single SP Draw|10 SP Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
   },
   "2076": {
-    "「続けて　スペシャルふくびきを　するかい？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「続けて　スペシャルふくびきを　するかい？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single SP Draw|10 SP Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
   },
   "2077": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "Want to play again?|<select_se_off>|Single SP Draw|10 SP Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
   },
   "2078": {
-    "「続けて　スペシャルふくびきを　するのか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「続けて　スペシャルふくびきを　するのか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single SP Draw|10 SP Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
   },
   "2079": {
-    "「続けて　スペシャルふくびきをされますかっ？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「続けて　スペシャルふくびきをされますかっ？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single SP Draw|10 SP Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
   },
   "2080": {
     "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　もらうぜ。|　見事に福が引けるといいな！|<end>": "I'll give you a special lucky draw ticket...|I hope you get a good luck!<end>"
@@ -6264,25 +6264,25 @@
     "「フレンドから　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　送っておくぜ。|<bw_break>": ""
   },
   "2089": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたしますわ。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたしますわ。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "2090": {
     "「フレンドから　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　送っておく。|<bw_break>": ""
   },
   "2091": {
-    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送しちゃいますっ。|<bw_break>": ""
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nL_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送しちゃいますっ。|<bw_break>": "We will select up to 12 friends you have|recently adventured with, and send them|<%dL_Hukubiki_Num> SP Lottery Tickets via mail.|<bw_break>"
   },
   "2092": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドは　こいつらだぜ。|<br>|「１回のふくびきごとに　郵便を１通　送るぜ。|「郵便箱がいっぱいだった　フレンドには|　郵送していないから　注意してくれよな。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドは　こいつらだぜ。|<br>|「１回のふくびきごとに　郵便を１通　送るぜ。|「郵便箱がいっぱいだった　フレンドには|　郵送していないから　注意してくれよな。|<end><bw_break>": "Here's the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They'll receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "2093": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになりますわ。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになりますわ。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here's the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They'll receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "2094": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドは　こいつらだ。|<br>|「１回のふくびきごとに　郵便を１通　送った。|　郵便箱がいっぱいだった　フレンドには|　郵送していないから　注意するんだな。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドは　こいつらだ。|<br>|「１回のふくびきごとに　郵便を１通　送った。|　郵便箱がいっぱいだった　フレンドには|　郵送していないから　注意するんだな。|<end><bw_break>": "Here's the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They'll receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "2095": {
-    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります！|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承くださいっ。|<end><bw_break>": ""
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります！|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承くださいっ。|<end><bw_break>": "Here's the list of friends that will be|mailed SP Lottery Tickets this time!|<br>|They'll receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "2096": {
     "「確認したが　<pc>には|　スペシャルふくびき券を　受け取れる|　フレンドが　いないようだな。|<bw_break>": "I checked<pc> I don't have any friends who can give me|special coupons...<bw_break>"
@@ -6381,16 +6381,16 @@
     "「<pc>さま　お待ちください！|　３等以上の　当選となりますので|　こちらを　差し上げます。|<bw_break>": "<pc> Ladies and gentlemen, please wait! If you're|a third or higher prize winner, you'll|receive this...<bw_break>"
   },
   "2128": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "2129": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "2130": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "2131": {
-    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
+    "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "2132": {
     "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
@@ -6717,16 +6717,16 @@
     "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": "Here are the results of your 10 Draw. It|looks like the results changed, and you won a|higher ranked prize!|<bw_break>"
   },
   "2240": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <pc>.|<bw_break>"
   },
   "2241": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <pc>.|<bw_break>"
   },
   "2242": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <pc>.|<bw_break>"
   },
   "2243": {
-    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
+    "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been confirmed. Please take|your prizes, <pc>.|<bw_break>"
   },
   "2244": {
     "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "I'm sorry, but you won't be able to accept|all of the prizes because of a full inventory.|Please select the prizes you wish to receive.|<bw_break>"
@@ -7389,16 +7389,16 @@
     "<%sM_item><%sM_plusnum>を <%dM_item_num>個 手に入れた！": "I've got <%dM_item_num> of|<%sM_item><%sM_plusnum>!"
   },
   "2464": {
-    "「どの大陸のふくびきを　するんだ？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent are you going to take?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Play the Wena Islands Snapshot|Play the Dwachakka continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
+    "「どの大陸のふくびきを　するんだ？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
   },
   "2465": {
     "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
   },
   "2466": {
-    "「どの大陸のふくびきを　するんだ？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent are you going to take?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Play the Wena Islands Snapshot|Play the Dwachakka continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
+    "「どの大陸のふくびきを　するんだ？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
   },
   "2467": {
-    "「どの大陸のふくびきを　いたしますかっ？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent would you like to play for?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Play the Wena Islands Snapshot|Do the Dwachaqqa continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
+    "「どの大陸のふくびきを　いたしますかっ？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
   },
   "2468": {
     "「申し訳ありません。|　今のプレイ環境では　元気玉と　小元気玉の|　交換のみ　受け付けております。|<bw_break>": "I'm sorry... With the way we're playing,|we're only accepting exchanges for Genki-dama|and Ko-Genki-dama.<bw_break>"
