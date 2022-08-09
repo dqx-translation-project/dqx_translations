@@ -90,7 +90,7 @@
     "「<%sM_NAME>で　よろしいですか？|<yesno><break>": "Are you sure you want <%sM_NAME>?<yesno><break>"
   },
   "31": {
-    "「前と同じ名前で　よろしいですか？|<yesno><break>": ""
+    "「前と同じ名前で　よろしいですか？|<yesno><break>": "The same name as before is fine?|<yesno><break>"
   },
   "32": {
     "「かしこまりました。|　今後　私のことは|　<%sM_NAME>と　お呼びください。": "Yes, sir. From now on, you may refer to me|as <%sM_NAME>."
@@ -393,7 +393,7 @@
     "「……はっ！　すみません　固まっておりました。|　ああ　どうしたらいいのでしょう。|　いけません！　私は　お仕えする身ですのに！|<br>|「でも　私もずっと　お慕いしていたのです！|　そうだったらいいなと　ずっと思っていました。|　一生　<%sM_OWNER><%sM_SAMA>に　ついていきます！|<br>|「……って　何に愛してるって言ったか|　よく　聞いてなかったような……。|　あー！　申し訳ありません　忘れてください！": ". Huh! I'm sorry, sir. It's stuck. Oh, my|God, what do I do? I can't! I'm your servant!|But I've always loved you too! I've always|<br>|wished that. I'll follow|<%sM_OWNER><%sM_SAMA>|for the rest of my life! . I guess I didn't|<br>|quite catch what I said I love you for. Oh!|I'm sorry. Forget it!"
   },
   "132": {
-    "「それでは　<%sM_OWNER><%sM_SAMA>|　なんなりと　お申し付けください。|<break>": "Well then, <%sM_OWNER><%sM_SAMA>.|I am at your service.<break>"
+    "「それでは　<%sM_OWNER><%sM_SAMA>|　なんなりと　お申し付けください。|<break>": "Now then, I am at your service, <%sM_SAMA>| <%sM_OWNER>.|<break>"
   },
   "133": {
     "「『あいさつの頻度』から　<%sM_OWNER><%sM_SAMA>が|　家にお帰りになった時の　私からの|　ごあいさつの頻度を　ご指定いただけます。|<br>|「より快適に　生活していただけるよう|　お好みの頻度にて　お声掛けいたしますので|　ぜひ　ご用命くださいね。|<bw_break>": "The frequency of greetings|<%sM_OWNER><%sM_SAMA>|allows you to specify how often you would|<br>|like to be greeted by me when you return|home. I'll be sure to greet you as often as|you like to make your life more comfortable.|<br><bw_break>"
@@ -477,28 +477,28 @@
     "「<%sM_FURUMAI>で　お仕えするので|　よろしいでしょうか？|<yesno><break>": "I'll serve you with|<%sM_FURUMAI>, if that's all|right.|<br><yesno><break>"
   },
   "160": {
-    "「承知いたしました。|　今度からは　<%sM_FURUMAI>で|　精一杯　<%sM_OWNER><%sM_SAMA>にお仕えしますね！|<br>|「それでは……": "Yes, sir. From now on, I'll serve|<%sM_FURUMAI>|<%sM_OWNER><%sM_SAMA>|<br>|to the best of my ability! So."
+    "「承知いたしました。|　今度からは　<%sM_FURUMAI>で|　精一杯　<%sM_OWNER><%sM_SAMA>にお仕えしますね！|<br>|「それでは……": "Understood. From now on, I will do|<%sM_FURUMAI> as best as I can for you!|<br>|Now then..."
   },
   "161": {
     "「はっ！　お客様！|　気付かずに　すみません！|　つい　お掃除に　夢中になってしまいました。": "Ah! <if_woman>Ma'am<else>Sir<endif>! Please excuse me!|I was so absorbed in cleaning, I didn't|notice you."
   },
   "162": {
-    "「私の服の　変更をお申しつけですね。|　どれを着用して　お仕えいたしますか？": "I would like to request a change of my|attire. Which of these would you like me to|wear to the service?"
+    "「私の服の　変更をお申しつけですね。|　どれを着用して　お仕えいたしますか？": "You'd like me to change my attire? Which would|you like me to wear?"
   },
   "163": {
-    "「<%sM_HUKU>を　着用するのが|　よろしいでしょうか？|<yesno><break>": "Would you prefer I wear|<%sM_HUKU>?<yesno><break>"
+    "「<%sM_HUKU>を　着用するのが|　よろしいでしょうか？|<yesno><break>": "You'd like me to wear the|<%sM_HUKU>?<yesno><break>"
   },
   "164": {
-    "「承知いたしました。|　今度からは　<%sM_HUKU>を着用して|　お仕えいたしますね。": "Yes, sir. From now on, I will serve you|wearing <%sM_HUKU>."
+    "「承知いたしました。|　今度からは　<%sM_HUKU>を着用して|　お仕えいたしますね。": "Understood. From now on, I'll wear the|<%sM_HUKU>."
   },
   "165": {
-    "「あっ！　<%sM_OWNER><%sM_SAMA>！|　すみません　今日は　髪がうまく整わなくて|　ちょっと気が散ってしまい……すぐ支度します！": "Ah! <%sM_OWNER><%sM_SAMA>! Sorry, I couldn't get my hair to look|right today. I got a little distracted.|<br>|I'll be right back!"
+    "「あっ！　<%sM_OWNER><%sM_SAMA>！|　すみません　今日は　髪がうまく整わなくて|　ちょっと気が散ってしまい……すぐ支度します！": "Ah! <%sM_SAMA> <%sM_OWNER>! I'm sorry!|I couldn't get my hair right, and got|distracted... be right with you!"
   },
   "166": {
-    "「あっ！　お客様！|　すみません　今日は　髪がうまく整わなくて|　ちょっと気が散ってしまい……すぐ支度します！": "Ah! Customer! I'm sorry, I couldn't get my|hair right today. I got a little|distracted. I'll be right back!"
+    "「あっ！　お客様！|　すみません　今日は　髪がうまく整わなくて|　ちょっと気が散ってしまい……すぐ支度します！": "Ah! I didn't see you there, I'm sorry!|I couldn't get my hair right, and got|distracted... be right with you!"
   },
   "167": {
-    "「これは……　すごく　かっこいい服ですね！|　まるで　絵本の中の　王子様のようです。|　衣装に見合うよう　気を引き締めなければ！": "This is. That's a really cool outfit. You|look like a prince out of a storybook. I must|make sure I look as good as I feel!"
+    "「これは……　すごく　かっこいい服ですね！|　まるで　絵本の中の　王子様のようです。|　衣装に見合うよう　気を引き締めなければ！": "This is... a really cool outfit! I look like|a fairy tale prince. I have to shape up and|match my behavior to my look!"
   },
   "168": {
     "「えっ！　い　今なんておっしゃったのですか！|　私の聞きまちがえでしょうか……好きって……。|　あ　いえ　私のことじゃ　ないですよね……。|<br>|「ああ　私は何を言ってるんでしょう……。|　いいんです！　聞き流してください。|　<%sM_OWNER><%sM_SAMA>のこと　お慕いしています！": "What? What did you just say? Did I mishear?|You like. No, you weren't talking about|me. I don't know what I'm saying. It's|<br>|okay! Just listen. I adore <%sM_OWNER><%sM_SAMA>!"
@@ -1353,7 +1353,7 @@
     "「おー　お客さんかー。じつは　鏡見てたら　|　オイラ　案外イケメンなんじゃないかって|　疑惑が浮上してなー。|<br>|「小一時間　考えてみた結果|　そこそこのイケメンだ……って結論に|　達したところだー。よかった　よかったー。": "Sir... When I was looking in the mirror, it|occurred to me that I might be good-looking.|I thought about it for an hour, and came to|<br>|the conclusion that I'm pretty good-looking.|I've just come to the conclusion that I'm...|That's good. That's good."
   },
   "452": {
-    "「それじゃあ　<%sM_OWNER>|　なんでも　遠慮なく頼んでくれよー。|<break>": "Well then, feel free to ask|<%sM_OWNER> anything...<break>"
+    "「それじゃあ　<%sM_OWNER>|　なんでも　遠慮なく頼んでくれよー。|<break>": "Well then, feel free to ask|<%sM_OWNER> anything you need!|<break>"
   },
   "453": {
     "「オッケーだー。|　これからは　この位置に　つっ立ってるぞー。": "Ok... From now on, I'm just gonna stand|here..."
@@ -4263,7 +4263,7 @@
     "「おー　お客さんねー！　じつは　鏡見てたら　|　私　案外　イケてるんじゃないかって|　疑惑が浮上してねー。|<br>|「小一時間　考えてみた結果|　そこそこイケてる……って結論に|　達したところよー。よかった　よかったー。": "Oh, you have a visitor! Actually, I was|looking in the mirror and I suspected that|I'm not as good-looking as I thought. I|<br>|thought about it for about an hour, and came|to the conclusion that I'm pretty good-|looking. I've come to the conclusion. I'm|<br>|glad. I'm glad."
   },
   "1422": {
-    "「それじゃあ　<%sM_OWNER>|　なんでも　遠慮なく頼んでねー。|<break>": "Well then, <%sM_OWNER>, feel free|to ask...<break>"
+    "「それじゃあ　<%sM_OWNER>|　なんでも　遠慮なく頼んでねー。|<break>": "Well then, feel free to ask|<%sM_OWNER> anything.|<break>"
   },
   "1423": {
     "「オッケーだよー。|　これからは　この位置に　つっ立ってるねー。": "Okay... From now on, I'm gonna stand right|here..."
