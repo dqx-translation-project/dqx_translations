@@ -180,115 +180,115 @@
     "<%sL_SENDER_NAME>から届いたお金を|捨てますか？|<yesno 2><break>": ""
   },
   "61": {
-    "<%sL_SENDER_NAME>さんから届いた手紙を　捨てますか？|このお手紙は　おもいで私書箱から見られません。|ご注意ください。|<yesno 2><break>": "Do you want to throw away the letter you|received from <%sL_SENDER_NAME>?|This letter can be found at the P.O. Box...|<br>|Please note...<yesno 2><break>"
+    "<%sL_SENDER_NAME>さんから届いた手紙を　捨てますか？|このお手紙は　おもいで私書箱から見られません。|ご注意ください。|<yesno 2><break>": "Throw away the letter you received from|<%sL_SENDER_NAME>? Please note that this letter|cannot be viewed in the Mailbox.|<yesno 2><break>"
   },
   "62": {
-    "<%sL_SENDER_NAME>から届いた|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|捨てますか？|<yesno 2><break>": ""
+    "<%sL_SENDER_NAME>から届いた|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|捨てますか？|<yesno 2><break>": "Throw away the <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|sent from <%sL_SENDER_NAME>?|<yesno 2><break>"
   },
   "63": {
-    "この荷物を　<%sL_ADDRESS>さんの郵便ポストに|いれます。よろしいですか？|<yesno><break>": "I'd like to drop this package off at|<%sL_ADDRESS>'s mailbox... May I?<yesno><break>"
+    "この荷物を　<%sL_ADDRESS>さんの郵便ポストに|いれます。よろしいですか？|<yesno><break>": "Would you like to put this package into|<%sL_ADDRESS>'s mailbox?|<yesno><break>"
   },
   "64": {
-    "この手紙を　<%sL_ADDRESS>さんの|郵便ポストに　いれますか？|<yesno><break>": "Would you like to put this letter in the|mailbox of <%sL_ADDRESS>?<yesno><break>"
+    "この手紙を　<%sL_ADDRESS>さんの|郵便ポストに　いれますか？|<yesno><break>": "Would you like to put this letter into|<%sL_ADDRESS>'s mailbox?<yesno><break>"
   },
   "65": {
-    "この荷物を　<%sL_ADDRESS>さんの郵便ポストに|いれます。よろしいですか？|<yesno><break>": "I'd like to drop this package off at|<%sL_ADDRESS>'s mailbox... May I?<yesno><break>"
+    "この荷物を　<%sL_ADDRESS>さんの郵便ポストに|いれます。よろしいですか？|<yesno><break>": "Would you like to put this package into|<%sL_ADDRESS>'s mailbox?|<yesno><break>"
   },
   "66": {
-    "この手紙を　皆さんに送りますか？|<yesno><break>": "Do you want me to send this letter to you?<yesno><break>"
+    "この手紙を　皆さんに送りますか？|<yesno><break>": "Send this letter to everyone?|<yesno><break>"
   },
   "67": {
-    "<%sL_ADDRESS>さんの　郵便ポストに|いれることができません。|時間をおいて　再度お試しください。|<bw_break>": "I can put it in <%sL_ADDRESS>'s|mailbox... Please give it some time and try|again...|<br><bw_break>"
+    "<%sL_ADDRESS>さんの　郵便ポストに|いれることができません。|時間をおいて　再度お試しください。|<bw_break>": "Couldn't put it into <%sL_ADDRESS>'s|mailbox. Please wait a while and try again.|<bw_break>"
   },
   "68": {
-    "<%sL_SENDER_NAME>さんから届いた|お金を　処分しました。|<bw_break>": "<%sL_SENDER_NAME>I'll get rid of|the money you sent me...<bw_break>"
+    "<%sL_SENDER_NAME>さんから届いた|お金を　処分しました。|<bw_break>": "Threw away the money sent from|<%sL_SENDER_NAME>.<bw_break>"
   },
   "69": {
-    "<%sL_SENDER_NAME>さんから届いた|手紙を　処分しました。|<bw_break>": "<%sL_SENDER_NAME>I'm getting rid|of a letter I got from Mr...<bw_break>"
+    "<%sL_SENDER_NAME>さんから届いた|手紙を　処分しました。|<bw_break>": "Threw away the letter from|<%sL_SENDER_NAME>.|<bw_break>"
   },
   "70": {
-    "<%sL_SENDER_NAME>さんから届いた|荷物を　処分しました。|<bw_break>": "<%sL_SENDER_NAME>I've just|received a package from Mr...<bw_break>"
+    "<%sL_SENDER_NAME>さんから届いた|荷物を　処分しました。|<bw_break>": "Threw away the package from|<%sL_SENDER_NAME>.|<bw_break>"
   },
   "71": {
-    "<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|すでに所有者の決まった　装備品のため|入れることが　できません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> can be|included because the equipment already has an|<br>|owner...<bw_break>"
+    "<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|すでに所有者の決まった　装備品のため|入れることが　できません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTRING><%dL_KOUKA_NUM> cannot be put in|since it is already owned by someone else.|<bw_break>"
   },
   "72": {
-    "<%sL_ADDRESS>さんは|すでに　送り先に入っています。": "<%sL_ADDRESS> is already in the|destination..."
+    "<%sL_ADDRESS>さんは|すでに　送り先に入っています。": "<%sL_ADDRESS> is already in the|recipient list."
   },
   "73": {
-    "送り先の全員に　送れませんでした。|<bw_break>": "I can't send it to everyone I'm sending it|to...<bw_break>"
+    "送り先の全員に　送れませんでした。|<bw_break>": "Could not send to all recipients.|<bw_break>"
   },
   "74": {
-    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>と　<%sL_ADDRESS_8>に|送れませんでした。|<bw_break>": "<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8>...<bw_break>"
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>と　<%sL_ADDRESS_8>に|送れませんでした。|<bw_break>": "Could not send to <%sL_ADDRESS>, <%sL_ADDRESS_2>,| <%sL_ADDRESS_3>, <%sL_ADDRESS_4>,|<br>|<%sL_ADDRESS_5>, <%sL_ADDRESS_6>,|<%sL_ADDRESS_7>, and <%sL_ADDRESS_8>.|<bw_break>"
   },
   "75": {
-    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>に　送れませんでした。|<bw_break>": "<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5>...<bw_break>"
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>に　送れませんでした。|<bw_break>": "Could not send to <%sL_ADDRESS>, <%sL_ADDRESS_2>,| <%sL_ADDRESS_3>, <%sL_ADDRESS_4>,|<br>|and <%sL_ADDRESS_5>.|<bw_break>"
   },
   "76": {
-    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>に|送れませんでした。|<bw_break>": "Can't send to <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4>...<bw_break>"
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>に|送れませんでした。|<bw_break>": "Could not send to <%sL_ADDRESS>, <%sL_ADDRESS_2>,| <%sL_ADDRESS_3>, and <%sL_ADDRESS_4>.<bw_break>"
   },
   "77": {
-    "申し訳ありませんが|<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>と　<%sL_ADDRESS_8>と|<%sL_ADDRESS_9>に　お送りできませんでした。|<bw_break>": "Sorry, <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and...|<%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7> and|<%sL_ADDRESS_8> and|<%sL_ADDRESS_9 >...|<br><bw_break>"
+    "申し訳ありませんが|<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>と　<%sL_ADDRESS_8>と|<%sL_ADDRESS_9>に　お送りできませんでした。|<bw_break>": "Could not send to <%sL_ADDRESS>, <%sL_ADDRESS_2>,| <%sL_ADDRESS_3>, <%sL_ADDRESS_4>,|<br>|<%sL_ADDRESS_5>, <%sL_ADDRESS_6>,|<%sL_ADDRESS_7>, <%sL_ADDRESS_8>,|and <%sL_ADDRESS_9>.|<bw_break>"
   },
   "78": {
     "<%sL_ADDRESS>さんの郵便ポストに|いれられませんでした。|<bw_break>": "Couldn't put it in <%sL_ADDRESS>'s|mailbox.|<bw_break>"
   },
   "79": {
-    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>に　送れませんでした。|<bw_break>": "Send it to <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5> and|<%sL_ADDRESS_6> and|<br>|<%sL_ADDRESS_7>...<bw_break>"
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>と|<%sL_ADDRESS_7>に　送れませんでした。|<bw_break>": "Could not send to <%sL_ADDRESS>, <%sL_ADDRESS_2>,| <%sL_ADDRESS_3>, <%sL_ADDRESS_4>,|<br>|<%sL_ADDRESS_5>, <%sL_ADDRESS_6>,|and <%sL_ADDRESS_7>.|<bw_break>"
   },
   "80": {
-    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>に|送れませんでした。|<bw_break>": "<%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3> and|<br>|<%sL_ADDRESS_4> and... Cannot|send to <%sL_ADDRESS_5> and|<%sL_ADDRESS_6>...|<br><bw_break>"
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>と　<%sL_ADDRESS_4>と……|<br>|<%sL_ADDRESS_5>と　<%sL_ADDRESS_6>に|送れませんでした。|<bw_break>": "Could not send to <%sL_ADDRESS>, <%sL_ADDRESS_2>,| <%sL_ADDRESS_3>, <%sL_ADDRESS_4>,|<br>|<%sL_ADDRESS_5>, and <%sL_ADDRESS_6>.|<bw_break>"
   },
   "81": {
-    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>に　送れませんでした。|<bw_break>": "Can't send to <%sL_ADDRESS> and|<%sL_ADDRESS_2> and|<%sL_ADDRESS_3>...|<br><bw_break>"
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>と|<%sL_ADDRESS_3>に　送れませんでした。|<bw_break>": "Could not send to <%sL_ADDRESS>, <%sL_ADDRESS_2>,| and <%sL_ADDRESS_3>.|<bw_break>"
   },
   "82": {
-    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>に|送れませんでした。|<bw_break>": "Unable to send to <%sL_ADDRESS>|and <%sL_ADDRESS_2>...<bw_break>"
+    "<%sL_ADDRESS>さんと　<%sL_ADDRESS_2>に|送れませんでした。|<bw_break>": "Could not send to <%sL_ADDRESS> and|<%sL_ADDRESS_2>.|<bw_break>"
   },
   "83": {
-    "荷物を取り出すことが　できません。|時間をおいて　もう一度お試しください。|<bw_break>": "I can't get the package out... Please give it|some time and try again.<bw_break>"
+    "荷物を取り出すことが　できません。|時間をおいて　もう一度お試しください。|<bw_break>": "Couldn't receive the package. Please wait a|while and try again.|<bw_break>"
   },
   "84": {
-    "手紙を取り出すことが　できません。|時間をおいて　もう一度お試しください。|<bw_break>": "I can't get the letter out... Please give it|some time and try again.<bw_break>"
+    "手紙を取り出すことが　できません。|時間をおいて　もう一度お試しください。|<bw_break>": "Couldn't receive the letter. Please wait a|while and try again.|<bw_break>"
   },
   "85": {
-    "その袋には　何も入っていません。|<bw_break>": "There's nothing in that bag...<bw_break>"
+    "その袋には　何も入っていません。|<bw_break>": "There is nothing in that bag.|<bw_break>"
   },
   "86": {
-    "郵便ポストに　いれるゴールドを|持っていません。|<bw_break>": "I have some gold to put in the mailbox...<bw_break>"
+    "郵便ポストに　いれるゴールドを|持っていません。|<bw_break>": "You have no Gold to put in the mailbox.|<bw_break>"
   },
   "87": {
-    "送れる　相手が|フレンドリストに　いないようです。|<bw_break>": "I don't see anyone on your friends list that|I can send it to.<bw_break>"
+    "送れる　相手が|フレンドリストに　いないようです。|<bw_break>": "You don't have any friends you can send to.|<bw_break>"
   },
   "88": {
-    "何人か　フレンドを|探すのに　失敗しました。|<break>": "I tried to find some friends, but I couldn't.<break>"
+    "何人か　フレンドを|探すのに　失敗しました。|<break>": "Failed to find any friends.|<break>"
   },
   "89": {
-    "郵便ポストに　いれました！|<bw_break>": "I put it in the mailbox!<bw_break>"
+    "郵便ポストに　いれました！|<bw_break>": "Put it in the mailbox!|<bw_break>"
   },
   "90": {
-    "郵便ポストがある。|<break>": "Mailboxes...<break>"
+    "郵便ポストがある。|<break>": "It's a Mailbox.|<break>"
   },
   "91": {
-    "<select_se_off>|うけとる|いれる|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|うけとる|いれる|説明を聞く|<select_end><break>": "<select_se_off>|Receive|Put In|Explanation|<select_end><break>"
   },
   "92": {
-    "郵便ポストには|何も　届いていないようだ。|<bw_break>": "There's nothing in the mailbox...<bw_break>"
+    "郵便ポストには|何も　届いていないようだ。|<bw_break>": "There's nothing in the mailbox.|<bw_break>"
   },
   "93": {
-    "手紙か　荷物を選んでください。<break>": "You can pick up a letter or a package...<break>"
+    "手紙か　荷物を選んでください。<break>": "Please choose a letter or package.<break>"
   },
   "94": {
-    "<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|郵便ポストには　いれられません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> cannot be|placed in mailboxes...|<br><bw_break>"
+    "<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|郵便ポストには　いれられません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTRING><%dL_KOUKA_NUM> cannot be|placed into a mailbox.|<bw_break>"
   },
   "95": {
-    "郵便ポストがある。|<break>": "Mailboxes...<break>"
+    "郵便ポストがある。|<break>": "It's a Mailbox.|<break>"
   },
   "96": {
     "郵便ポストから　すべて受け取りました。|<bw_break>": "All mail in the mailbox was received.|<bw_break>"
   },
   "97": {
-    "荷物の送り先は　おひとりのみになります。|どなたに　送りますか？|<break>": "The package can only be sent to one person...|Who would you like to send it to?<break>"
+    "荷物の送り先は　おひとりのみになります。|どなたに　送りますか？|<break>": "This package can only be sent to one person.|Who would you like to send it to?<break>"
   },
   "98": {
     "何を　郵便ポストにいれますか？|<break>": "What would you like to put in the mailbox?<break>"
