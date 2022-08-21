@@ -255,7 +255,7 @@
     "<%sM_taikoku>公認チーム『<%sM_team>』を 結成した！": "<%sM_TAIKOKU> official team \"<%sM_team>\" was formed!"
   },
   "86": {
-    "チーム大使で <%sM_item><%sM_plusnum>に 盾カバーを取り付けた！": ""
+    "チーム大使で <%sM_item><%sM_plusnum>に 盾カバーを取り付けた！": "Applied a shield cover to <%sM_item><%sM_plusnum>!"
   },
   "87": {
     "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> Gで買った！": "Bought <%sL_KAITAI_ITEM><%sL_PLUSNUM> from the shop for <%dL_BUY_PRICE> G!"
@@ -273,16 +273,16 @@
     "clarity_nt_char_91": "clarity_nt_char_91"
   },
   "92": {
-    "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに 手紙を送った。": ""
+    "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに 手紙を送った。": "Sent a letter to \\s<%sC_PC>\\m<%sC_ID>\\e at <%sL_shisetu>."
   },
   "93": {
     "clarity_nt_char_93": "clarity_nt_char_93"
   },
   "94": {
-    "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_item><%sM_plusnum>を送った。": ""
+    "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_item><%sM_plusnum>を送った。": "Sent <%sM_item><%sM_plusnum> to \\s<%sC_PC>\\m<%sC_ID>\\e at <%sL_shisetu>."
   },
   "95": {
-    "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%dM_gold> Gを送った。": ""
+    "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%dM_gold> Gを送った。": "Sent <%dM_gold> G to \\s<%sC_PC>\\m<%sC_ID>\\e at <%sL_shisetu>."
   },
   "96": {
     "clarity_nt_char_96": "clarity_nt_char_96"
@@ -339,7 +339,7 @@
     "clarity_nt_char_113": "clarity_nt_char_113"
   },
   "114": {
-    "<%sM_item>を使って 手紙を書いた！": ""
+    "<%sM_item>を使って 手紙を書いた！": "Wrote a letter using the <%sM_item>!"
   },
   "115": {
     "clarity_nt_char_115": "clarity_nt_char_115"
@@ -384,10 +384,10 @@
     "clarity_nt_char_128": "clarity_nt_char_128"
   },
   "129": {
-    "<%sL_SYOKUNIN_KIND>で 使っていた|<%sL_SYOKUNIN_TOOL>は 限界がきて こわれてしまった……。": ""
+    "<%sL_SYOKUNIN_KIND>で 使っていた|<%sL_SYOKUNIN_TOOL>は 限界がきて こわれてしまった……。": "The <%sL_SYOKUNIN_TOOL> used for <%sL_SYOKUNIN_KIND>|has reached its limit and broke..."
   },
   "130": {
-    "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_item><%sM_plusnum>を <%dM_item_num>個 送った。": ""
+    "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_item><%sM_plusnum>を <%dM_item_num>個 送った。": "Sent <%dM_item_num> <%sM_item><%sM_plusnum> to \\s<%sC_PC>\\m<%sC_ID>\\e at <%sL_shisetu>."
   },
   "131": {
     "clarity_nt_char_131": "clarity_nt_char_131"
@@ -426,19 +426,19 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>レベルが <%dL_RANK>にアップ！": "\\s<%sC_PC>\\m<%sC_ID>\\e reached level <%dL_RANK> in <%sL_SYOKUNIN_KIND>!"
   },
   "143": {
-    "<%sL_SYOKUNIN_KIND>で 錬金に失敗し <%sB_item>に|<%sL_RENKIN_TEXT>が付いた！": ""
+    "<%sL_SYOKUNIN_KIND>で 錬金に失敗し <%sB_item>に|<%sL_RENKIN_TEXT>が付いた！": "<%sL_SYOKUNIN_KIND> alchemy failed, and <%sL_RENKIN_TEXT>|was applied to the <%sB_item>!"
   },
   "144": {
     "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "145": {
-    "<%sL_SYOKUNIN_KIND>で <%sB_item>が|<%sL_RENKIN_TEXT>で うめつくされた！": ""
+    "<%sL_SYOKUNIN_KIND>で <%sB_item>が|<%sL_RENKIN_TEXT>で うめつくされた！": "<%sB_item> was filled with <%sL_RENKIN_TEXT>|from <%sL_SYOKUNIN_KIND>!"
   },
   "146": {
     "clarity_nt_char_146": "clarity_nt_char_146"
   },
   "147": {
-    "<%sB_item>の <%sL_RENKIN_TEXT_1>が|<%sL_RENKIN_TEXT>に パワーアップした！": ""
+    "<%sB_item>の <%sL_RENKIN_TEXT_1>が|<%sL_RENKIN_TEXT>に パワーアップした！": "<%sB_item>'s <%sL_RENKIN_TEXT_1> boosted to|<%sL_RENKIN_TEXT>!"
   },
   "148": {
     "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "Took out <%sL_ITEM_NAME><%sL_PLUSNUM> from house storage."
@@ -450,7 +450,7 @@
     "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "<%sL_OWNER> took out <%sL_ITEM_NAME><%sL_PLUSNUM> from storage."
   },
   "151": {
-    "<%sL_REGION>住宅村 <%dL_AREA>丁目 |<%sL_DIVISION> <%dL_TOTI_BANGOU>番地の土地を 売った。": ""
+    "<%sL_REGION>住宅村 <%dL_AREA>丁目 |<%sL_DIVISION> <%dL_TOTI_BANGOU>番地の土地を 売った。": "Sold land at <%sL_REGION> Housing, Block <%dL_AREA>,|<%sL_DIVISION>, Plot <%dL_TOTI_BANGOU>."
   },
   "152": {
     "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "Put <%sL_ITEM_NAME><%sL_PLUSNUM> into house storage."
@@ -471,13 +471,13 @@
     "自宅の<%sL_CATEGORY_NAME>を <%sL_PARTS_NAME>に変えた！": "House <%sL_CATEGORY_NAME> name changed to <%sL_PARTS_NAME>!"
   },
   "158": {
-    "<%sL_REGION>住宅村 <%dL_AREA>丁目 |<%sL_DIVISION> <%dL_TOTI_BANGOU>番地の土地を 買った！": ""
+    "<%sL_REGION>住宅村 <%dL_AREA>丁目 |<%sL_DIVISION> <%dL_TOTI_BANGOU>番地の土地を 買った！": "Purchased land at <%sL_REGION> Housing, Block <%dL_AREA>,|<%sL_DIVISION>, Plot <%dL_TOTI_BANGOU>!"
   },
   "159": {
     "自分の土地に <%sL_HOUSE_NAME>を 建てた！": "Built <%sL_HOUSE_NAME> on my plot!"
   },
   "160": {
-    "自分の土地に建てられた <%sL_HOUSE_NAME>を たたんだ。": ""
+    "自分の土地に建てられた <%sL_HOUSE_NAME>を たたんだ。": "<%sL_HOUSE_NAME> on your plot was demolished."
   },
   "161": {
     "教会で <%sL_PC>を 生き返らせた！": "Revived <%sL_PC> in the church!"
@@ -489,22 +489,22 @@
     "教会で <%sL_PC>の どくを治した！": "Cured <%sL_PC>'s poison at the church!"
   },
   "164": {
-    "<%sL_SYOKUNIN>の仕事をして <%sM_item>を <%dM_item_num>個 手に入れた！": ""
+    "<%sL_SYOKUNIN>の仕事をして <%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item> from the <%sL_SYOKUNIN> work order!"
   },
   "165": {
-    "<%sL_SYOKUNIN>の仕事をして <%sM_item><%sM_plusnum>を 手に入れた！": ""
+    "<%sL_SYOKUNIN>の仕事をして <%sM_item><%sM_plusnum>を 手に入れた！": "Received <%sM_item><%sM_plusnum> from <%sL_SYOKUNIN> work order!"
   },
   "166": {
     "clarity_nt_char_166": "clarity_nt_char_166"
   },
   "167": {
-    "<%sL_SYOKUNIN>の仕事をして <%dL_GOLD> Gを 手に入れた！": ""
+    "<%sL_SYOKUNIN>の仕事をして <%dL_GOLD> Gを 手に入れた！": "Received <%dL_GOLD> G from the <%sL_SYOKUNIN> work order!"
   },
   "168": {
-    "<%sL_SYOKUNIN>の仕事をして <%dL_EXP> Pの職人経験値を かくとく！": ""
+    "<%sL_SYOKUNIN>の仕事をして <%dL_EXP> Pの職人経験値を かくとく！": "Received <%dL_EXP>  Craftsman EXP from the <%sL_SYOKUNIN> work order!"
   },
   "169": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>になった！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>になった！": "\\s<%sC_PC>\\m<%sC_ID>\\e became a <%sL_SYOKUNIN_KIND>!"
   },
   "170": {
     "clarity_nt_char_170": "clarity_nt_char_170"
@@ -540,16 +540,16 @@
     "clarity_nt_char_180": "clarity_nt_char_180"
   },
   "181": {
-    "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>の色を <%sL_PARTS_COLOR>に変えた！": ""
+    "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>の色を <%sL_PARTS_COLOR>に変えた！": "<%sL_OWNER>'s house's <%sL_CATEGORY_NAME> color changed to <%sL_PARTS_COLOR>!"
   },
   "182": {
-    "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を <%sL_PARTS_NAME>に変えた！": ""
+    "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を <%sL_PARTS_NAME>に変えた！": "<%sL_OWNER>'s house's <%sL_CATEGORY_NAME> changed to <%sL_PARTS_NAME>!"
   },
   "183": {
     "clarity_nt_char_183": "clarity_nt_char_183"
   },
   "184": {
-    "美容院で かみの色１を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で かみの色１を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Spent <%dM_gold> G to change hair color from <%sM_old> to <%sM_new>!"
   },
   "185": {
     "clarity_nt_char_185": "clarity_nt_char_185"
@@ -579,7 +579,7 @@
     "clarity_nt_char_193": "clarity_nt_char_193"
   },
   "194": {
-    "<%sL_ITEM><%sL_PLUSNUM>から 汗と涙の結晶を <%dL_NUM>個 取りだした！": ""
+    "<%sL_ITEM><%sL_PLUSNUM>から 汗と涙の結晶を <%dL_NUM>個 取りだした！": "Extracted <%dL_NUM> Sweat & Tears Gems from <%sL_ITEM><%sL_PLUSNUM>!"
   },
   "195": {
     "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成して|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>になった！": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1> and <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> were fused|and became <%sL_ACCE_ITEM><%sL_PLUSNUM_3>!"
