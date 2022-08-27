@@ -7158,7 +7158,7 @@
     "<speed=0><%sEV_LUA_STRING1>の前に　移動しますか？|<yesno><break>": "<speed=0>Go to <%sEV_LUA_STRING1>?|<yesno><break>"
   },
   "2387": {
-    "<speed=0>探索済みのため　黄金の秘宝を獲得できませんが|<%sEV_LUA_STRING1>の前まで　移動しますか？|あと<%nEV_LUA_NUM_1>日で　獲得できるようになります。|<yesno><break>": ""
+    "<speed=0>探索済みのため　黄金の秘宝を獲得できませんが|<%sEV_LUA_STRING1>の前まで　移動しますか？|あと<%nEV_LUA_NUM_1>日で　獲得できるようになります。|<yesno><break>": "<speed=0>You've already explored Tomb <%dEV_LUA_STRING1>, so you|won't find any more treasure. Explore anyways?|You can find treasure again in <%dEV_LUA_NUM_1> day(s).|<yesno><break>"
   },
   "2388": {
     "clarity_nt_char_2388": "clarity_nt_char_2388"
