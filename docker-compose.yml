@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   weblate:
-    image: weblate/weblate
+    image: weblate/weblate:4.14-1
     tmpfs:
     - /app/cache
     volumes:
