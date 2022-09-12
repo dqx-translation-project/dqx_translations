@@ -9,10 +9,10 @@
     "「まだ　なんか　あるかな？|<break>": "Is there anything else?<break>"
   },
   "4": {
-    "「じゃあ　まず　合成のベースになる|　アクセサリーを　選んでくれるかなあ？|<break>": "So, would you mind picking out some|accessories to use as a base for the|synthesis?<break>"
+    "「じゃあ　まず　合成のベースになる|　アクセサリーを　選んでくれるかなあ？|<break>": "So then, which accessory do you want to use|as the base?|<break>"
   },
   "5": {
-    "「選んだ　<%sL_ACCE_ITEM><%sL_PLUSNUM_1>に対して|　どの　アクセサリーを　合成素材にしちゃう？|<break>": "Which accessory will you use as a composite|material for your chosen|<%sL_ACCE_ITEM><%sL_PLUSNUM_1>?<break>"
+    "「選んだ　<%sL_ACCE_ITEM><%sL_PLUSNUM_1>に対して|　どの　アクセサリーを　合成素材にしちゃう？|<break>": "Which accessory will you use as a material for|that <%sL_ACCE_ITEM><%sL_PLUSNUM_1>?|<break>"
   },
   "6": {
     "「んー？　<%sL_ACCE_ITEM><%sL_PLUSNUM_1>に|　合成できるアクセを　持ってないみたいだね。|<end>": "Hmm? You don't seem to have an accessory that|can be synthesized into|<%sL_ACCE_ITEM><%sL_PLUSNUM_1>...<end>"
@@ -24,7 +24,7 @@
     "「あちゃ～……。|　お金が　足らないみたいだねー。|<br>|「合成チャレンジするには　<%nL_ACCE_GOLD>ゴールド|　効果を消すには　<%nL_ACCE_DLT_GOLD>ゴールド|　それぞれ　必要になるから　よろしくねっ。|<end>": "Oh, no... I don't have enough money... You'll|need <%nL_ACCE_GOLD> gold for the synthesis|challenge, and <%nL_ACCE_DLT_GOLD> gold to|<br>|remove the effect, so...<end>"
   },
   "9": {
-    "「そんじゃ　どうもありがとうございました！|　まった来ってね～♪|<turn_end>": "Well, thank you very much! Come again...<turn_end>"
+    "「そんじゃ　どうもありがとうございました！|　まった来ってね～♪|<turn_end>": "Well. thanks for coming!|I'll see you again soon... heh.|<turn_end>"
   },
   "10": {
     "「ヤッホー。ここは　アクセサリー合成屋だよ。|　さあ　今日は　なんのご用なんだい？|<break>": "Yoo-hoo. This is the Accessory Synthesis Shop.|So what can I do for you today?|<break>"
@@ -120,22 +120,22 @@
     "「じゃあ　合成のベースになる|　アクセサリーを　選んでくれるかなあ？|<break>": "Would you mind picking out some accessories|to use as a base for the synthesis?<break>"
   },
   "41": {
-    "「選んだ　<%sL_ACCE_ITEM><%sL_PLUSNUM_1>に対して|　どの　アクセサリーを　合成素材にしちゃう？|<break>": "Which accessory will you use as a composite|material for your chosen|<%sL_ACCE_ITEM><%sL_PLUSNUM_1>?<break>"
+    "「選んだ　<%sL_ACCE_ITEM><%sL_PLUSNUM_1>に対して|　どの　アクセサリーを　合成素材にしちゃう？|<break>": "Which accessory will you use as a material for|that <%sL_ACCE_ITEM><%sL_PLUSNUM_1>?|<break>"
   },
   "42": {
-    "「<%sL_ACCE_ITEM><%sL_PLUSNUM_1>は　ロックされてるけど|　合成のベースにしちゃっても　いいかな？|<yesno 2><break>": "I know <%sL_ACCE_ITEM><%sL_PLUSNUM_1> is|locked, but can we use it as a base for|compositing?<yesno 2><break>"
+    "「<%sL_ACCE_ITEM><%sL_PLUSNUM_1>は　ロックされてるけど|　合成のベースにしちゃっても　いいかな？|<yesno 2><break>": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1> is locked. You sure|you want to use it as the base?|<yesno 2><break>"
   },
   "43": {
-    "「<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>は|　いま　装備してる　アクセだけど|　合成素材にしちゃっても　いいかな？|<yesno 2><break>": "<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> is an|accessory I have now, but would it be okay if|I used it as a composite material?<yesno 2><break>"
+    "「<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>は|　いま　装備してる　アクセだけど|　合成素材にしちゃっても　いいかな？|<yesno 2><break>": "<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> is an|accessory you have equipped. Are you sure|you want to use it as a material?|<yesno 2><break>"
   },
   "44": {
-    "「<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>は|　仲間モンスターが　装備してる　アクセだけど|　合成素材にしちゃっても　いいかな？|<yesno 2><break>": "<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> is an|accessory worn by a fellow monster, but can I|use it as a composite material?<yesno 2><break>"
+    "「<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>は|　仲間モンスターが　装備してる　アクセだけど|　合成素材にしちゃっても　いいかな？|<yesno 2><break>": "A fellow monster currently has the|<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> equipped. Can|I still use it as a material?|<yesno 2><break>"
   },
   "45": {
-    "「<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と|　<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>で　合成だね？|<br>|「終わった後に　好きな効果を消すのと合わせて|　<%nL_ACCE_SUM_GOLD>ゴールドいただくけど　オッケー？|<yesno 2><break>": "It's a composite of|<%sL_ACCE_ITEM><%sL_PLUSNUM_1> and|<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>, right? When|<br>|you're done, I'll take <%nL_ACCE_SUM_GOLD>|gold along with whatever effect you want to|remove, okay?<yesno 2><break>"
+    "「<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と|　<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>で　合成だね？|<br>|「終わった後に　好きな効果を消すのと合わせて|　<%nL_ACCE_SUM_GOLD>ゴールドいただくけど　オッケー？|<yesno 2><break>": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1> combined with|<%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>, right?|<br>|It'll cost you <%dL_ACCE_SUM_GOLD> Gold, and I|can remove any effect you want. Okay?|<yesno 2><break>"
   },
   "46": {
-    "「そんじゃ　続けて|　<%sL_ACCE_ITEM><%sL_PLUSNUM>から　消したい効果を|　選んでくれるかなあ？|<break>": "Now, can you go on and select the effect you|want to remove from|<%sL_ACCE_ITEM><%sL_PLUSNUM>?<break>"
+    "「そんじゃ　続けて|　<%sL_ACCE_ITEM><%sL_PLUSNUM>から　消したい効果を|　選んでくれるかなあ？|<break>": "Can you choose which effect you want to remove|from the <%sL_ACCE_ITEM><%sL_PLUSNUM>?|<break>"
   },
   "47": {
     "<select_se_off>|<%sL_KOUKA_1>|<%sL_KOUKA_2>|<%sL_KOUKA_3>|<%sL_KOUKA_4>|<select_end>|<break>": "<select_se_off>|<%sL_KOUKA_1>|<%sL_KOUKA_2>|<%sL_KOUKA_3>|<%sL_KOUKA_4>|<select_end>|<break>"
@@ -144,7 +144,7 @@
     "「ヤッホー。ここは　アクセサリー合成屋だよ。|　最近　海で見つけた　きれいな真珠を使って|　新しいサービスを　始めたよー。|<br>|「なんと　これからは|　すでに　＋３になってるアクセサリーを|　合成のベースにしても　合成できちゃいまっす！|<br>|「ただし　４つの効果は　付けておけないから|　合成が終わった後　どの効果を消すのか|　ちゃんと　考えておいてよね？|<br>|「さあ　今日は　なんのご用なんだい？|<break>": "Ya... This is an accessory synthesis... We've|recently started a new service using those|beautiful pearls we found in the sea... From|<br>|now on, you can use an accessory that's|already at +3 as a base for synthesis! But|you won't be able to keep the 4 effects, so|<br>|be sure to think about which ones you want to|remove after you're done. What can I do for|you today?<break>"
   },
   "49": {
-    "「＋３になってない　アクセサリーは|　第一伝承の素材には　できないんだよねー。|<end>": "＋Accessories that aren't at +3 can't be used|as materials for the first lore...<end>"
+    "「＋３になってない　アクセサリーは|　第一伝承の素材には　できないんだよねー。|<end>": "Accessories that aren't at +3 can't be used|as a material for the first lore.|<end>"
   },
   "50": {
     "「ヤッホー。ここは　アクセサリー合成屋だよ。|　最近　実家の蔵にあった　スゴい書物を読んで|　新しいサービスを　始めたよー。|<br>|「その名も　伝承合成～。これを使えば|　決められたアクセサリー同士を　組み合わせて|　伝承効果っていう特別な効果が付けられるんだ。|<br>|「まず　合成素材のアクセに　合成効果を　３つ|　付けておくんだ。そして　違う種類のアクセに|　合成すると……。|<br>|「じゃじゃーん！　合成素材についていた|　合成効果のうちの　どれかひとつが|　伝承効果として　追加で付くんだよっ♪|<br>|「そして　伝承効果が　ひとつ付いたアクセに|　普通の合成効果を　３つ付けて|　さらに　違う種類のアクセと　合成すると……。|<br>|「合成素材に　もともと付いていた　伝承効果と|　追加で　３つの合成効果の　どれかひとつが|　２つめの伝承効果として　付くんだよ！|<br>|「ちなみに　１つめの伝承効果を『第一伝承』|　２つめの伝承効果を『第二伝承』と言うよ。|　ここ　テストにでるからね～。|<br>|「あと　伝承合成では　合成エナジーは増えないし|　ラッキー合成と　会心の合成も|　起こらないから　そこだけ　注意してね。|<br>|「伝承効果を　つけられるアクセの組み合わせは|　少ないんだ。どのアクセが伝承合成できるかは|　アクセの『くわしくみる』で　確認してね！|<br>|「さあ　今日は　なんのご用なんだい？|<break>": "Ya... This is accessory synthesis...|Recently, I read an amazing book in my|parents' warehouse, and I started a new|<br>|service... It's called \"Lore. It allows you|to combine certain accessories to create a|special effect called a lore effect... First,|<br>|you need to add three lore effects to a piece|of jewelry made of a synthetic material. Then|you combine them with a different type of|<br>|accessory... Ta-da! One of the synthetic|effects on the synthetic material will be|added as a lore effect... and if you add|<br>|three normal synthetic effects to the|accessory with one lore effect and then|combine it with a different type of|<br>|accessory... You'll get the original lore|effect and one of the three additional lore|effects as a second lore effect! The first|<br>|lore effect is called \"First Lore\" and the|second is called \"Second Lore.\" I'm not sure|if this will show up on the test. Also, Lore|<br>|Synthesis doesn't increase your Synthesis|Energy, and Lucky Synthesis and Kaiun|Synthesis don't happen, so be careful...|<br>|There are only a few accessory combinations|that can have the Lore effect... To find out|which items can be combined, check the item's|<br>|\"Learn More\" section! So what can I do for|you today?<break>"
@@ -153,34 +153,34 @@
     "「このままだと　付いてる効果が　多すぎだね。|　<%sL_ACCE_ITEM><%sL_PLUSNUM>から　消す効果を|　ちゃんと　選んでくれるかなあ？|<break>": "If I don't, there'll be too many effects... I|wonder if you can choose which effects to|remove from <%sL_ACCE_ITEM><%sL_PLUSNUM>?<break>"
   },
   "52": {
-    "「<%sL_ACCE_ITEM><%sL_PLUSNUM>には|　合成効果と伝承効果が　付いてるけど|　どっちの効果を　消したいの？|<select_se_off>|合成効果|伝承効果|<select_end>|<break>": "<%sL_ACCE_ITEM><%sL_PLUSNUM> has a synthesis|effect and a lore effect, which one do you|want to get rid of?|<select_se_off>|synthesis effect|transmission effect|<select_end>|<break>"
+    "「<%sL_ACCE_ITEM><%sL_PLUSNUM>には|　合成効果と伝承効果が　付いてるけど|　どっちの効果を　消したいの？|<select_se_off>|合成効果|伝承効果|<select_end>|<break>": "<%sL_ACCE_ITEM><%sL_PLUSNUM> has both a|synthesis effect and a lore effect. Which do|you want to get rid of?|<select_se_off>|Synthesis Effect|Lore Effect|<select_end>|<break>"
   },
   "53": {
-    "「……！　すごい反応！　今なら|　どんな効果でも　付けられちゃいそうだよ～！|<br>|「この中から　付けたい効果を　選んでくれる？|<break>": "...! What a reaction! I think I can get any|effect I want right now! Can you choose the|effect you want from these?<break>"
+    "「……！　すごい反応！　今なら|　どんな効果でも　付けられちゃいそうだよ～！|<br>|「この中から　付けたい効果を　選んでくれる？|<break>": "...wow, amazing! Looks like you can choose any|effect that you want!|<br>|So, which one of these effects would you|like?|<break>"
   },
   "54": {
-    "「じゃあ　どの効果を　付けたいんだい？|<break>": "So, which effect do you want to add?<break>"
+    "「じゃあ　どの効果を　付けたいんだい？|<break>": "So then, which effect do you want to add?|<break>"
   },
   "55": {
-    "「<%sL_BONUS>の効果を|　付けちゃって　本当に　いいかな？|<yesno 2><break>": "Are you sure you want to add the <%sL_BONUS>|effect?<yesno 2><break>"
+    "「<%sL_BONUS>の効果を|　付けちゃって　本当に　いいかな？|<yesno 2><break>": "<%sL_BONUS> is the|effect you really want to add?|<yesno 2><break>"
   },
   "56": {
-    "「オッケー。|　そんじゃ　できるまで　ちょっと待っててね。|<end>": "Oh... Okay, well, I'll just be a second until|I can...<end>"
+    "「オッケー。|　そんじゃ　できるまで　ちょっと待っててね。|<end>": "Okay. Just wait for a second.|<end>"
   },
   "57": {
-    "<pipipi_off>|<%dL_EXP> Pの合成経験値を　かくとく！|<se_nots System 7><end>": "<pipipi_off><%dL_EXP> Gains P synthetic experience!|<se_nots System 7><end>"
+    "<pipipi_off>|<%dL_EXP> Pの合成経験値を　かくとく！|<se_nots System 7><end>": "<pipipi_off>|Received <%dL_EXP> Synthesis EXP!|<se_nots System 7><end>"
   },
   "58": {
     "「ヤッホー。ここは　アクセサリー合成屋だよ。|　みんなの熱～い　ご要望に　おこたえして|　新しいサービスを　始めたよー。|<br>|「なんと　これからは　アクセを合成するたびに|　合成経験値や　合成エナジーっていう|　お役立ちポイントが　ゲットできちゃいます！|<br>|「合成経験値を集めて　合成レベルが上がると|　たまに　ラッキー合成や　会心の合成っていう|　超オトクな合成に　なるんだよ～。|<br>|「ラッキー合成は　合成素材に使ったはずの|　アクセサリーが　なくならずに戻ってくるんだ。|　ちょっぴりラッキーな　合成だね。|<br>|「そして　会心の合成は……　狙った合成効果を|　確実に付けられる　夢のような合成なんだ～♪|　君も　気に入ること　間違いなしっ！|<br>|「さらに　合成したアクセサリーには|　一度の合成につき　１ポイントだけ|　合成エナジーが　たまるんだ。|<br>|「同じアクセサリーを　何度も合成して|　合成エナジーが　いっぱいになったら　|　次の合成が　必ず　会心の合成になるんだよっ♪|<br>|「アクセサリー合成屋の新しいサービスを|　これからも　よろしくね！|　さあ　今日は　なんのご用なんだい？|<break>": "Ya... This is accessory synthesis. In|response to everyone's passionate requests,|we've started a new service... From now on,|<br>|every time you synthesize an accessory,|you'll earn useful points called Synthesis|Experience and Synthesis Energy! If you|<br>|collect enough synthesis experience and|increase your synthesis level, you'll|occasionally get a lucky synthesis or a heart|<br>|synthesis. Lucky Synthesis means you'll get|back the accessories you used to make the|synthesis... It's a bit of a lucky|<br>|combination. And Lucky Charms... It's a|dreamy synthesis that will give you the exact|effect you're after... you'll love it! In|<br>|addition... each synthesized accessory gives|you one point of Synthesis Energy... If you|synthesize the same accessory over and over|<br>|again and the Synthesis Energy is full, the|next synthesis will be the one you've been|waiting for! What can I do for you today?<break>"
   },
   "59": {
-    "<pipipi_off>|<%dL_EXP> Pの合成経験値を　かくとく！|<se_nots System 7><br>|合成レベルが<%nL_RANK>にアップ！|<me 62><end>": "<pipipi_off><%dL_EXP> Gains P synthetic experience!|<se_nots System 7>Your composite level has increased to|<%nL_RANK>!<me 62><end>"
+    "<pipipi_off>|<%dL_EXP> Pの合成経験値を　かくとく！|<se_nots System 7><br>|合成レベルが<%nL_RANK>にアップ！|<me 62><end>": "<pipipi_off>|Received <%dL_EXP> Synthesis EXP!|<se_nots System 7><br>|Your Synthesis Level has increased to <%dL_RANK>!<me 62><end>"
   },
   "60": {
-    "「今の合成レベルと　レベルボーナスは|　こんな感じに　なってるね。|<break>": "The current composite levels and level|bonuses look like this...<break>"
+    "「今の合成レベルと　レベルボーナスは|　こんな感じに　なってるね。|<break>": "This is your current Synthesis Level and any|level bonuses you have.<break>"
   },
   "61": {
-    "<pipipi_on>|「でっきた～♪　うまいこといったよ！|　しかも　ラッキーなことに|　合成素材のアクセも　なくならなかったみたい♪|<br>|「君が　こいつを気に入ってくれるといいな！|<bw_break>": "<pipipi_on>I got it! It worked! And lucky for me, I|didn't run out of synthetic accessories. I|hope you like it.<bw_break>"
+    "<pipipi_on>|「でっきた～♪　うまいこといったよ！|　しかも　ラッキーなことに|　合成素材のアクセも　なくならなかったみたい♪|<br>|「君が　こいつを気に入ってくれるといいな！|<bw_break>": "<pipipi_on>|Nice, got it! Lucky you, this synthesis|didn't use up your material! Enjoy!|<bw_break>"
   },
   "62": {
     "「ウチの　アクセサリー合成屋では|　同じアクセサリー同士を　合成することで|　効果を付けて　強化していくことができるんだ。|<br>|「ただし　合成の素材に選んだアクセサリーは|　なくなっちゃうから　気をつけてよね？|<br>|「どんな効果が付くかは　やってみての|　お楽しみ♪　ひとつのアクセサリーに|　最大３つまで　効果を　付けられるぞ。|<br>|「効果を　３つ付けた後で|　別の効果を　付けなおしたくなったら|　もっかい　レッツ合成チャレンジ！|<br>|「合成チャレンジの結果が　決まったら|　あふれた効果のうち|　どの効果を消すか　選ばせてあげるよ。|<br>|「合成チャレンジするには　<%nL_ACCE_GOLD>ゴールド|　効果を消すには　<%nL_ACCE_DLT_GOLD>ゴールド|　必要になるから　よろしくねっ。|<end>": "At my accessory synthesizer, you can combine|the same accessories to enhance them... But|be careful, because the accessory you choose|<br>|for the synthesis will be lost. You can add|up to three effects to a single accessory...|After you've added three effects, if you want|<br>|to add another effect, go back to the|synthesis challenge! When the result of the|synthesis challenge has been decided, you can|<br>|choose which of the overflowing effects you|want to remove... You'll need <%nL_ACCE_GOLD>|gold for the synthesis challenge, and|<br>|<%nL_ACCE_DLT_GOLD> gold to remove the|effect, so...<end>"
