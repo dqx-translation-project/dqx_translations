@@ -399,10 +399,10 @@
     "<color_yellow>|<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。<auto_bw=4000><close>|<color_white>": "<color_yellow><%sCAS_monster> got its strength back|and is no longer downed!|<auto_bw=4000><close>|<color_white>"
   },
   "134": {
-    "<color_yellow>|<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が<%sM_bonus_rate>倍になります！|<color_white><auto_bw=4000><close>": "<color_yellow><%sCAS_monster> is down! While|its down, you will receive <%sM_bonus_rate> times|more Coins!|<color_white><auto_bw=4000><close>"
+    "<color_yellow>|<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が<%sM_bonus_rate>倍になります！|<color_white><auto_bw=4000><close>": "<color_yellow><%sCAS_monster> is down! While|its down, you will receive <%sM_bonus_rate> times|more Tokens!|<color_white><auto_bw=4000><close>"
   },
   "135": {
-    "カジノレイドで　<%dM_coin>枚のコインを　獲得！|（内　ボーナス<%dM_coin_bonus>枚）<auto_bw=3000><close>": "Received <%dM_coin> Casino Tokens from|the Casino Raid! (+<%dM_coin_bonus> Bonus)<auto_bw=3000><close>"
+    "カジノレイドで　<%dM_coin>枚のコインを　獲得！|（内　ボーナス<%dM_coin_bonus>枚）<auto_bw=3000><close>": "Received <%dM_coin> Casino Tokens from|the Casino Raid!|(+<%dM_coin_bonus> Bonus)<auto_bw=3000><close>"
   },
   "136": {
     "<color_yellow>|『カジノレイド祭り』期間中|『ビンゴ』『すごろく』ホールについて|<br>|イベント期間中は　『ビンゴ』で遊ぶと|お祭りコインが　手に入り　『すごろく』では|通常の　カジノコインが　手に入るのである。|<br>|期間中の　ビンゴで遊ぶには|イベントの　参加登録をおこなう必要がある。|<br>|参加希望者は|ワガハイのもとに　来るのである。|　　　　　　　　　　　　　　　　　ゴルスラ会長|<color_white>": "<color_yellow>About the Bingo and Backgammon Halls during|the Casino Raid Festival During the event,|you can play Bingo to get Festival Coins and|<br>|Backgammon to get regular Casino Tokens... To|play bingo during the event, you must|register for the event... If you wish to|<br>|participate, you must come to the Wagahai...|Chairman Gorslas.<color_white>"
@@ -435,7 +435,7 @@
     "カジノレイド祭りが　開催中です。|コイン500枚を使って　ビンゴで遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）|<yesno><close>": "The Casino Raid Festival is underway.|Play Bingo for 500 Tokens?|(Floor <%dW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>)|<yesno><close>"
   },
   "146": {
-    "カジノレイド祭り期間中のビンゴの遊び方について|<br>|イベント期間中のビンゴを遊ぶには|お祭りコインが　500枚必要です。|<br>|ビンゴ券や　カジノプレイチケットでは|遊べませんので　ご注意ください。": "How to Play Bingo during the Casino Raid|Festival You will need 500 Festival Coins to|play bingo during the event. Please note that|<br>|bingo tickets and casino play tickets cannot|be used to play..."
+    "カジノレイド祭り期間中のビンゴの遊び方について|<br>|イベント期間中のビンゴを遊ぶには|お祭りコインが　500枚必要です。|<br>|ビンゴ券や　カジノプレイチケットでは|遊べませんので　ご注意ください。": "To play Bingo during the Casino Raid Festival,|you will need to use 500 Festival Tokens per|play|<br>|Bingo Tickets and Casino Play Tickets cannot|be used to play Bingo during the event."
   },
   "147": {
     "カジノレイド祭りが　開催中です。|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）|<br>|ブラックリストに　登録されている人がいます。|コイン500枚を使って|ここで　一緒に　ビンゴを遊びますか？|<yesno 2><close>": "The Casino Raid Festival is underway.|(Floor <%dW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>)|<br>|There is someone here on your blacklist.|Play Bingo for 500 Tokens?|<yesno 2><close>"
