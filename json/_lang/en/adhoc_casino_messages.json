@@ -15,13 +15,13 @@
     "<select_se_off>|ポーカーランキング|スロットランキング|ルーレットランキング|過去のランキング|報酬を見る|<select_end><break>": "<select_se_off>|Poker Ranking|Slots Ranking|Roulette Ranking|Past Ranking|View Rewards|<select_end><break>"
   },
   "6": {
-    "「ランキングを　見たいのかね？|<break>": "Do you want to see the rankings?<break>"
+    "「ランキングを　見たいのかね？|<break>": "You'd like to see the rankings?<break>"
   },
   "7": {
     "「他に　見たいものは　あるかね？|<break>": "Is there anything else you'd like to see?<break>"
   },
   "8": {
-    "「ランキングを　見たいのかね？|<break>": "Do you want to see the rankings?<break>"
+    "「ランキングを　見たいのかね？|<break>": "You'd like to see the rankings?<break>"
   },
   "9": {
     "<select_se_off>|コインについて|レイド討伐報酬について|ランキングについて|レイドの特殊ルールについて|大討伐について|<select_end><break>": "<select_se_off>|About Coins|About rewards for defeating raids|About Ranking|About the special rules of the raid|About the Great Conquest|<select_end><break>"
@@ -48,22 +48,22 @@
     "「イベント期間中は　コイン販売所で|　お祭りコインを購入し　遊んでもらうのである。|<br>|「ただし　『すごろく』では|　通常のカジノコインが　適用される。|<br>|「稼いだコインを使えば　限定交換屋で|　景品と　交換できるのである。|　限定交換屋は　ワガハイの　となりにおるぞ。　|<br>|「余ったコインは　イベント終了後に|　通常のカジノコインに　交換可能である。|　次回には　持ち越せぬので　交換するとよい。": "During the event, you'll be able to purchase|coins at the coin booth to play... However,|in Backgammon, regular Casino Tokens are|<br>|used... If you use the coins you've earned,|you can trade them for prizes at the Limited|Exchange... The limited edition shop is|<br>|located next to the Wagahai... Any leftover|coins can be exchanged for regular Casino|Tokens after the event... You can't carry them|<br>|over to the next event, so you'll have to|exchange them..."
   },
   "17": {
-    "<select_se_off>|討伐報酬を受け取る|討伐報酬をみる|<select_end><break>": "<select_se_off>|Claim Subjugation Prize|See Subjugation Prize|<select_end><break>"
+    "<select_se_off>|討伐報酬を受け取る|討伐報酬をみる|<select_end><break>": "<select_se_off>|Claim Prizes|View Prizes|<select_end><break>"
   },
   "18": {
-    "「<%nL_TOUBATU_COUNT>種　討伐を　達成しているのである。|　では　報酬を　授けるのである。|<bw_break>": "<%nL_TOUBATU_COUNT>You have|achieved the defeat of the species... Then|you will be rewarded...|<br><bw_break>"
+    "「<%nL_TOUBATU_COUNT>種　討伐を　達成しているのである。|　では　報酬を　授けるのである。|<bw_break>": "You've defeated <%dL_TOUBATU_COUNT> different types of raids.|In that case, I shall reward you.|<bw_break>"
   },
   "19": {
-    "「引き続き　レイド討伐を　がんばるのである。|<bw_break>": "We'll keep working on the raid...<bw_break>"
+    "「引き続き　レイド討伐を　がんばるのである。|<bw_break>": "Keep at it with defeating those raids, won't|you?|<bw_break>"
   },
   "20": {
     "「すべてのレイドを　討伐したようであるな。|　少しは　ワガハイの　ゴージャスな輝きに|　近づけたように　見えるぞ！|<bw_break>": "Looks like you've defeated all the raids...|Looks like we're getting a little closer to|that gorgeous Waggahai glow!|<br><bw_break>"
   },
   "21": {
-    "<pc>は　<%nL_TOUBATU_COUNT>種　討伐の報酬として|<%sc_item>を　<%dc_itemnum>個　受け取った！|<se_nots System 7>": "<pc> has received <%dc_itemnum> of|<%sc_item> as a reward for|killing|<br>|<%nL_TOUBATU_COUNT>species!|<se_nots System 7>"
+    "<pc>は　<%nL_TOUBATU_COUNT>種　討伐の報酬として|<%sc_item>を　<%dc_itemnum>個　受け取った！|<se_nots System 7>": "<pc> received <%dc_itemnum> <%sc_item> as a|reward for defeating <%dL_TOUBATU_COUNT> type(s) of raids!|<se_nots System 7>"
   },
   "22": {
-    "「レイドは　４種類　用意しておる。|　討伐した種類ごとに　報酬を授けるので|　ワガハイに　報告に来るとよい。|<break>": "There will be four types of raids... And for|each one you kill, you'll receive a reward,|so come report to Wagahai...|<br><break>"
+    "「レイドは　４種類　用意しておる。|　討伐した種類ごとに　報酬を授けるので|　ワガハイに　報告に来るとよい。|<break>": "There are four different types of raids. For|each one you defeat, I'll give you a reward.|Be sure to come see me when you do.|<break>"
   },
   "23": {
     "「ワガハイに　声をかけるとは|　キミも　参加希望者であるな？|<yesno><close>": "You've come to me because you wish to|join, yes?|<yesno><close>"
@@ -93,13 +93,13 @@
     "「今は　ランキングの　集計中である。|　結果の発表まで　もうしばらく|　待っていてほしいのである。|<break>": "We're still compiling the rankings... I'd|like you to wait a little longer for the|results.|<br><break>"
   },
   "32": {
-    "「カジノレイド祭りが　開催中である。|　何か　用でもあるかね？|<break>": "The casino raid fest is underway... Can I|help you with something?<break>"
+    "「カジノレイド祭りが　開催中である。|　何か　用でもあるかね？|<break>": "The Casino Raid Festival is currently|underway! What can I help you with?|<break>"
   },
   "33": {
     "「おや。お祭りコインが　残っておるな。|　そのコインは　もう使い道がないゆえ|　カジノコインに　交換してしまうのである。": "Oh. There are some Festival Tokens left...|Those coins are useless now, so we're|exchanging them for Casino Tokens...|<br>"
   },
   "34": {
-    "「受け取れる報酬は　ないのである。": "There's no reward for..."
+    "「受け取れる報酬は　ないのである。": "There's no rewards to claim right now."
   },
   "35": {
     "「ワガハイに　声をかけるとは|　キミも　参加希望者であるな？|<yesno><close>": "You've come to me because you wish to|join, yes?|<yesno><close>"
