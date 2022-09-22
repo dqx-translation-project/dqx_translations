@@ -30,7 +30,7 @@
     "カジノレイドを終了します。<auto_bw=3000><close>": "The Casino Raid is over.<auto_bw=3000><close>"
   },
   "11": {
-    "<pc>たちは　<%sCAS_monster>から|<%dM_coin>枚のコインを手に入れた！<auto_bw=2000><close>": "<pc> and co. received <%dM_coin> Coins|from <%sCAS_monster>!<auto_bw=2000><close>"
+    "<pc>たちは　<%sCAS_monster>から|<%dM_coin>枚のコインを手に入れた！<auto_bw=2000><close>": "<pc> and co. received <%dM_coin> Tokens|from the <%sCAS_monster>!<auto_bw=2000><close>"
   },
   "12": {
     "カジノレイドを戦って　全部で|<%dM_coin>枚のコインを　手に入れた！<auto_bw=3000><close>": "Received <%dM_coin> Coins from fighting|in the Casino Raid!<auto_bw=3000><close>"
@@ -387,13 +387,13 @@
     "カジノレイド祭りが　開催中です。|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）|<br>|ブラックリストに　登録されている人がいます。|ここで　一緒に|<%dM_coin>コイン　スロットを遊びますか？<yesno 2><close>": "The Casino Raid festivities are underway.|(Floor <%dW_INSTANCE_NO> <%sCAS_room> <%sCAS_table>)|<br>|There is someone here on your blacklist. Do|you want to play <%dM_coin> Coin Slots?|<yesno 2><close>"
   },
   "130": {
-    "パーティの人数が　変わりました。|仲間とレースへの参加を　キャンセルします。": "There's been a change in the size of the|party... I had to cancel my entry into the|race with my friends...|<br>"
+    "パーティの人数が　変わりました。|仲間とレースへの参加を　キャンセルします。": "The party size has changed, so the race was|cancelled."
   },
   "131": {
-    "既に　パーティメンバーが|仲間とレースに　エントリーしています。|<br>|エントランスに　移動すると|パーティメンバーの　仲間とレースへの参加が|キャンセルされますが　よろしいですか？<yesno 2><close>": "If a member of your party has already entered|the race with their friends... If you move to|the entrance, your party members' entries|<br>|into the race with their friends will be|cancelled, is that correct?<yesno 2><close>"
+    "既に　パーティメンバーが|仲間とレースに　エントリーしています。|<br>|エントランスに　移動すると|パーティメンバーの　仲間とレースへの参加が|キャンセルされますが　よろしいですか？<yesno 2><close>": "A party member is currently entering a Friend|Race.|<br>|If you leave this area, their entry will|be cancelled. Proceed?<yesno 2><close>"
   },
   "132": {
-    "スライムレースホールから|いなくなった　パーティメンバーがいます。|仲間とレースへの参加を　キャンセルしました。": "The party members who disappeared from the|slime race hall... I had to cancel my entry|into the race with my friends...|<br>"
+    "スライムレースホールから|いなくなった　パーティメンバーがいます。|仲間とレースへの参加を　キャンセルしました。": "There was a party member that left the Slime|Race Hall. Friend Race entry has been|cancelled."
   },
   "133": {
     "<color_yellow>|<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。<auto_bw=4000><close>|<color_white>": "<color_yellow><%sCAS_monster> got its strength back|and is no longer downed!|<auto_bw=4000><close>|<color_white>"
@@ -405,7 +405,7 @@
     "カジノレイドで　<%dM_coin>枚のコインを　獲得！|（内　ボーナス<%dM_coin_bonus>枚）<auto_bw=3000><close>": "Received <%dM_coin> Casino Tokens from|the Casino Raid!|(+<%dM_coin_bonus> Bonus)<auto_bw=3000><close>"
   },
   "136": {
-    "<color_yellow>|『カジノレイド祭り』期間中|『ビンゴ』『すごろく』ホールについて|<br>|イベント期間中は　『ビンゴ』で遊ぶと|お祭りコインが　手に入り　『すごろく』では|通常の　カジノコインが　手に入るのである。|<br>|期間中の　ビンゴで遊ぶには|イベントの　参加登録をおこなう必要がある。|<br>|参加希望者は|ワガハイのもとに　来るのである。|　　　　　　　　　　　　　　　　　ゴルスラ会長|<color_white>": "<color_yellow>About the Bingo and Backgammon Halls during|the Casino Raid Festival During the event,|you can play Bingo to get Festival Coins and|<br>|Backgammon to get regular Casino Tokens... To|play bingo during the event, you must|register for the event... If you wish to|<br>|participate, you must come to the Wagahai...|Chairman Gorslas.<color_white>"
+    "<color_yellow>|『カジノレイド祭り』期間中|『ビンゴ』『すごろく』ホールについて|<br>|イベント期間中は　『ビンゴ』で遊ぶと|お祭りコインが　手に入り　『すごろく』では|通常の　カジノコインが　手に入るのである。|<br>|期間中の　ビンゴで遊ぶには|イベントの　参加登録をおこなう必要がある。|<br>|参加希望者は|ワガハイのもとに　来るのである。|　　　　　　　　　　　　　　　　　ゴルスラ会長|<color_white>": "<color_yellow>\"About Bingo & Sugoroku During Raid Event\"|<br>|During the event, you can get Festival Tokens|by playing Bingo, and regular Tokens by|playing Sugoroku.|<br>|To play Bingo, you must first register|yourself. Please come see me to do so.|                              -Chairman Gemsly|<color_white>"
   },
   "137": {
     "<color_yellow>|『カジノレイド祭り』開催中。|入場には　イベントの参加登録が　必要である。|<br>|イベントの参加登録は　ゴルスラ会長まで。|　　　　　　　　　　　　　　　　　ゴルスラ会長|<color_white>": "<color_yellow>The Casino Raid Festival is underway. To|register, please speak to Chairman Gemsly.|                              -Chairman Gemsly|<color_white>"
