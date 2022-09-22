@@ -9,13 +9,13 @@
     "持てるコインの　限界を超えました。|これ以上　持てませんが　続けますか？<yesno_nc 2><close>": "I've reached the limit of my coin capacity...|I can't hold any more. Do you want to|continue?|<br><yesno_nc 2><close>"
   },
   "4": {
-    "コインが足りませんので|お買い求めのうえ　またおこしください！": "Not enough coins! Please come back after|purchasing some."
+    "コインが足りませんので|お買い求めのうえ　またおこしください！": "Not enough Tokens! Please come back after|purchasing some!"
   },
   "5": {
-    "コインがありませんので|お買い求めのうえ　またおこしください！": "You don't have any coins! Please come back|after purchasing some."
+    "コインがありませんので|お買い求めのうえ　またおこしください！": "You don't have any Tokens! Please come back|after purchasing some!"
   },
   "6": {
-    "おめでとうございます！|<%sCAS_pokerHand>です！<br>|<%dM_coin>枚のコインが　当たりました。": "Congratulations! You've won|<%sCAS_pokerHand>! You've won|<%dM_coin> coins...|<br>"
+    "おめでとうございます！|<%sCAS_pokerHand>です！<br>|<%dM_coin>枚のコインが　当たりました。": "Congratulations!|You got <%sCAS_pokerHand>! <br>|Received <%dM_coin> Tokens."
   },
   "7": {
     "<speed=0>もういちど　ポーカーを遊びますか？<yesno_nc><close>": "<speed=0>Would you like to play poker again?<yesno_nc><close>"
@@ -36,7 +36,7 @@
     "<speed=0>オープンしている　カードより|強いカードを　右の４枚から　選んでください。": "<speed=0>Choose a card from the four on the right that|is stronger than the open card..."
   },
   "13": {
-    "ダブルアップ成功です！|<%dM_coin>枚の　コインが当たりました。": "Double-up success! You've won|<%dM_coin> coins..."
+    "ダブルアップ成功です！|<%dM_coin>枚の　コインが当たりました。": "Double success!|Received <%dM_coin> Tokens."
   },
   "14": {
     "残念でした！|もういちど　ポーカーを遊びますか？<yesno_nc><close>": "I'm sorry! Would you like to play poker|again?<yesno_nc><close>"
@@ -180,7 +180,7 @@
     "ポーカーを終了します。": "Quit playing poker..."
   },
   "61": {
-    "持てるコインの　限界を超えています。|これ以上　持てませんが　遊びますか？<yesno_nc 2><close>": "You've reached the maximum amount of coins you|can carry. Do you still want to play?<yesno_nc 2><close>"
+    "持てるコインの　限界を超えています。|これ以上　持てませんが　遊びますか？<yesno_nc 2><close>": "You're carrying the maximum number of Tokens.|Do you still want to play?<yesno_nc2><close>"
   },
   "62": {
     "カジノレイドは　まもなく終了するため|参加できませんでした。": "The casino raid is about to end, so you can't|join it right now."
@@ -207,10 +207,10 @@
     "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": "Caused a Casino Raid.|Won <%dM_coin> coins.|<auto_bw=3000><close>"
   },
   "70": {
-    "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": "<%sCAS_monster> got back up!|Its strength has recovered."
+    "<%sCAS_monster>は　ダウンから　立ち直った！|体力が　回復した。": "<%sCAS_monster> is no longer down!"
   },
   "71": {
-    "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": "<%sCAS_monster> is down!|Coins will be doubled while its down!"
+    "<%sCAS_monster>は　ダウンした！|ダウン中は　コイン入手量が２倍になります！": "<%sCAS_monster> is down!|Tokens will be doubled while it's down!"
   },
   "72": {
     "コイン<%dM_coin>枚（内 ボーナス<%dM_coin_bonus>枚）かくとく！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Received <%dM_coin> Coins (+<%dM_coin_bonus> Bonus)!|<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
