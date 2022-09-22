@@ -165,7 +165,7 @@
     "「……おや？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱は|　あと<%nL_BOX_NUM>件しか　空きがないようです。|<bw_break>": "... Hmm? I'm sorry, but|<%sL_ADDRESS> has only|<%nL_BOX_NUM> more mailboxes|<br>|available...<bw_break>"
   },
   "56": {
-    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send you <%sL_ITEM_NA|ME><%sL_PLUS><%nL_KOU|KA_NUM> because it's already|<br>|owned by...<bw_break>"
+    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send the|<%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM> because it's already|owned by you. |<bw_break>"
   },
   "57": {
     "「おや？　申し訳ありませんが　こちらの荷物を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but we're unable to|deliver your package... Please give it some|time and try again.|<br><bw_break>"
@@ -1101,7 +1101,7 @@
     "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
   },
   "368": {
-    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send you <%sL_ITEM_NA|ME><%sL_PLUS><%nL_KOU|KA_NUM> because it's already|<br>|owned by...<bw_break>"
+    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send the|<%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM> because it's already|owned by you. |<bw_break>"
   },
   "369": {
     "「……おや？　申し訳ありませんが　こちらの手紙を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "... Hmm? I'm sorry, sir, but I can't give you|this letter... Please give it some time and|try again...|<br><bw_break>"
@@ -1611,28 +1611,28 @@
     "「おいおい。<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品だから|　送ることは　できないぜ。|<bw_break>": "Oh... We can't send you <%sL_ITEM_NAMEFILLERS|TRING><%sL_PLUS><%nL_KOUKA_NUMFIL|LERSTRING> because it's already owned|<br>|equipment...<bw_break>"
   },
   "538": {
-    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send you <%sL_ITEM_NA|ME><%sL_PLUS><%nL_KOU|KA_NUM> because it's already|<br>|owned by...<bw_break>"
+    "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send the|<%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM> because it's already|owned by you. |<bw_break>"
   },
   "539": {
-    "「……どうやら　この手紙を|　渡すことが　できないようだ。|　時間をおいて　もう一度　試しやがれ。|<bw_break>": "... I can't seem to get this letter across.|I'll give it some time, and then I'll try|again.|<br><bw_break>"
+    "「……どうやら　この手紙を|　渡すことが　できないようだ。|　時間をおいて　もう一度　試しやがれ。|<bw_break>": "... I can't seem to get this letter across.|I'll give it some time, and then I'll try|again.|<bw_break>"
   },
   "540": {
-    "「おや？　申し訳ありませんが　こちらの手紙を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but I'm afraid I can't|give you this letter... Please give it some|time and try again...|<br><bw_break>"
+    "「おや？　申し訳ありませんが　こちらの手紙を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but I'm afraid I can't|give you this letter... Please give it some|time and try again...|<bw_break>"
   },
   "541": {
-    "「……どうやら　この荷物を|　渡すことが　できないようだ。|　時間をおいて　もう一度　試しやがれ。|<bw_break>": "... I can't seem to get this package across.|I'll give it some time, and then I'll try|again.|<br><bw_break>"
+    "「……どうやら　この荷物を|　渡すことが　できないようだ。|　時間をおいて　もう一度　試しやがれ。|<bw_break>": "... I can't seem to get this package across.|I'll give it some time, and then I'll try|again.|<bw_break>"
   },
   "542": {
-    "「おや？　申し訳ありませんが　こちらの荷物を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but we're unable to|deliver your package... Please give it some|time and try again.|<br><bw_break>"
+    "「おや？　申し訳ありませんが　こちらの荷物を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but we're unable to|deliver your package... Please give it some|time and try again.|<bw_break>"
   },
   "543": {
-    "「おいおい。|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品だから　送ることは　できないぜ。|<bw_break>": "Oh... You can't send <%sL_ITEM_NAMEFILLERSTRI|NG><%sL_PLUS><%nL_KOUKA_NUMFILLER|STRING> because it's a locked piece of|<br>|equipment...<bw_break>"
+    "「おいおい。|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品だから　送ることは　できないぜ。|<bw_break>": "Hey, you can't send the| <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM> because it's|been locked.<bw_break>"
   },
   "544": {
-    "「申し訳ありませんが|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品のため　お送りできません。|<bw_break>": "We're sorry, but <%sL_ITEM_NAME><|%sL_PLUS><%nL_KOUKA_NUMFILLERSTRI|NG> is a locked piece of equipment and we|<br>|can't send you...<bw_break>"
+    "「申し訳ありませんが|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品のため　お送りできません。|<bw_break>": "Excuse me, but the|<%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM> is locked, so|it can't be sent.<bw_break>"
   },
   "545": {
-    "「送り先は　フレンドか|　チームメンバーか　最近送った人から　|　選べるが　どこに送るんだ？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can choose to send it to a friend, a team|member, or someone you've sent it to|recently, but where do you send it to?|<br>|<select_se_off>|Choose from Friends|Select from team members|Choose from those who have recently sent|<select_end><break>"
+    "「送り先は　フレンドか|　チームメンバーか　最近送った人から　|　選べるが　どこに送るんだ？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can choose to send it to a friend, a team|member, or someone you've sent it to|recently. Who will you send it to?|<select_se_off>|From Friends|From Team|Recently Sent List|<select_end><break>"
   },
   "546": {
     "「送り先は　フレンドか|　チームメンバーか　最近送った人から　|　選べます。どちらに　お送りしますかっ？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can send it to a friend, a team member,|or someone you've sent it to recently. Who|would you like to send it to?|<br>|<select_se_off>|Choose from Friends|Select from team members|Choose from those who have recently sent|<select_end><break>"
