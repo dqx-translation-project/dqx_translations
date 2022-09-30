@@ -75,7 +75,7 @@
     "「ああ　申し訳ありません。|　何人か　フレンドを|　探すのに　失敗してしまいました……。|<break>": "Oh, I'm sorry... I've failed to find some of|your friends...<break>"
   },
   "26": {
-    "「では　お受けいたしました！|　こちらは　確かに　お届けいたします！|<bw_break>": "Then we have your order! We'll make sure this|one gets to you!<bw_break>"
+    "「では　お受けいたしました！|　こちらは　確かに　お届けいたします！|<bw_break>": "Thank you! Will we send that to them straight|away!|<bw_break>"
   },
   "27": {
     "「郵便局へ　ようこそ！|　本日は　どんな　ご用ですか？|<break>": "Welcome to the post office! What can I do for|you today?<break>"
@@ -150,10 +150,10 @@
     "「お客様が書いたお手紙は　てがみぶくろの|　『書いた手紙』に入り　郵便局から送ったり|　とりひきで　人に渡すことができます。|<br>|「『書いた手紙』には　最大１０枚までの|　お手紙を　入れておくことができます。|　後から　書き直しも　できますよ。|<bw_break>": "The letters you write will be stored in a|letter bag, which you can send from the post|office or give to someone through an|<br>|exchange... Up to 10 letters can be stored in|the \"Written Letter\"... And you can rewrite|them later.|<br><bw_break>"
   },
   "51": {
-    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "You want me to send this package to|<%sL_ADDRESS>? There is|no shipping cost.|<yesno><break>"
   },
   "52": {
-    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "You want me to send this package to|<%sL_ADDRESS>? There is|no shipping cost.|<yesno><break>"
   },
   "53": {
     "「<%sL_NPC><%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに　お選びのようですね。|<bw_break>": ""
@@ -1095,10 +1095,10 @@
     "「……おや？　申し訳ありませんが|　<%sL_ADDRESS>さんの郵便箱は|　あと<%nL_BOX_NUM>件しか　空きがないようです。|<bw_break>": "... Hmm? I'm sorry, but|<%sL_ADDRESS> has only|<%nL_BOX_NUM> more mailboxes|<br>|available...<bw_break>"
   },
   "366": {
-    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "You want me to send this package to|<%sL_ADDRESS>? There is|no shipping cost.|<yesno><break>"
   },
   "367": {
-    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "You want me to send this package to|<%sL_ADDRESS>? There is|no shipping cost.|<yesno><break>"
   },
   "368": {
     "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send the|<%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM> because it's already|owned by you. |<bw_break>"
@@ -1599,13 +1599,13 @@
     "「じゃあ　この荷物を　<%sL_ADDRESS>に|　送るのか？　送料は　無料にしてやる。|<yesno><break>": "So you're sending this package to|<%sL_ADDRESS>? I'll give you free|shipping...|<br><yesno><break>"
   },
   "534": {
-    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "You want me to send this package to|<%sL_ADDRESS>? There is|no shipping cost.|<yesno><break>"
   },
   "535": {
     "「じゃあ　この荷物を　<%sL_ADDRESS>に|　送るのか？　送料は　無料にしてやる。|<yesno><break>": "So you're sending this package to|<%sL_ADDRESS>? I'll give you free|shipping...|<br><yesno><break>"
   },
   "536": {
-    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "Then, would you like me to send this package|to <%sL_ADDRESS>? No shipping|fee...|<br><yesno><break>"
+    "「では　この荷物を　<%sL_ADDRESS>さんに|　お送りして　よろしいでしょうか？|　送料は　無料です。|<yesno><break>": "You want me to send this package to|<%sL_ADDRESS>? There is|no shipping cost.|<yesno><break>"
   },
   "537": {
     "「おいおい。<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品だから|　送ることは　できないぜ。|<bw_break>": "Oh... We can't send you <%sL_ITEM_NAMEFILLERS|TRING><%sL_PLUS><%nL_KOUKA_NUMFIL|LERSTRING> because it's already owned|<br>|equipment...<bw_break>"
