@@ -42,7 +42,7 @@
     "錬金を中断すると　錬金中のアイテムは|完成せずに　錬金中の素材は　手元に戻ります。|本当に　錬金を中断しますか？|<yesno2><close>": "If you interrupt the alchemy process, the item|will not be completed and the materials will|be returned to you. Are you sure?|<yesno2><close>"
   },
   "15": {
-    "ここでは　錬金釜を使えないようだ。|別の場所で　使ってみよう。|<end>": "You can't use the smelting pot here... You|have to use it somewhere else.<end>"
+    "ここでは　錬金釜を使えないようだ。|別の場所で　使ってみよう。|<end>": "You can't use the Alchemy Pot here. Try using|it somewhere else.|<end>"
   },
   "16": {
     "錬金するために必要な素材が　足りません。|錬金に必要な素材を　そろえてください。|<end>": "You don't have the necessary materials to|alchemize this.|<end>"
@@ -54,7 +54,7 @@
     "どうぐかばんが　いっぱいで|できあがったものを　受け取れません。|<br>|どうぐかばんに　空きを作ってから|できあがったものを　受け取ってください。|<end>": "The toolbox is full, so you'll have to...|You'll have to make a space in your toolbox|before you can pick up your finished...<end>"
   },
   "19": {
-    "<%sL_ITEM>　<%dL_ITEMNUM>個の|錬金を　とりやめました。|<end>": "<%sL_ITEM> <%dL_ITEMNUM>They've stopped|smelting...<end>"
+    "<%sL_ITEM>　<%dL_ITEMNUM>個の|錬金を　とりやめました。|<end>": "Stopped alchemizing.|<end>"
   },
   "20": {
     "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|完成までに　あと　<%dM_hh>時間が必要です。|<end>": "I need <%sL_ITEM> <%dL_ITEMNUM> pieces to|smelt... It will take <%dM_hh>hours to|complete...<end>"
@@ -87,22 +87,22 @@
     "<%sL_ITEM>　<%dL_ITEMNUM>個を　取り出した。|<%sL_ITEM_2>　<%dL_ITEMNUM_2>個を　取り出した。<se_nots System 7>|<%sL_ITEM_3>　<%dL_ITEMNUM_3>個を　取り出した。<se_nots System 7>|<end>": "Takes <%sL_ITEM> <%dL_ITEMNUM> pieces...|Takes <%sL_ITEM_2> <%dL_ITEMNUM_2> pieces...|<se_nots System 7>Take <%sL_ITEM_3> <%dL_ITEMNUM_3> pieces...|<se_nots System 7>|<end>"
   },
   "30": {
-    "新品の装備です。一度　カラーリングすると|新品ではなくなり　他の人に渡せなくなりますが|よろしいですか？|<yesno2><close>": "A brand-new outfit... Once it's been colored,|it's no longer brand new and can't be passed|on to someone else.<yesno2><close>"
+    "新品の装備です。一度　カラーリングすると|新品ではなくなり　他の人に渡せなくなりますが|よろしいですか？|<yesno2><close>": "This equipment is new. Once dyed, it will no|longer be new and cannot be traded to other|players. Proceed with dyeing?|<yesno2><close>"
   },
   "31": {
-    "装備中のため　カラーリングできません。|装備をはずしてから　選んでください。|<end>": "I can't color it because it's rigged...|You'll have to remove your gear before you|can choose...<end>"
+    "装備中のため　カラーリングできません。|装備をはずしてから　選んでください。|<end>": "You can't dye this equipment because you|currently have it equipped. Unequip it first|and try again.|<end>"
   },
   "32": {
-    "その色は　今付いている色と　変わりません。|他の色を　選んでください。|<end>": "That color will change from the one you're|currently wearing... I'd like you to choose|another color...<end>"
+    "その色は　今付いている色と　変わりません。|他の色を　選んでください。|<end>": "That color is already being used. Please|choose a different color.|<end>"
   },
   "33": {
-    "仲間モンスターが　装備中のため|色を付けることができません。|装備をはずしてから　選んでください。|<end>": "I can't add color to a monster while it's|equipped... You'll have to un-equip it before|you can choose...<end>"
+    "仲間モンスターが　装備中のため|色を付けることができません。|装備をはずしてから　選んでください。|<end>": "You can't dye this equipment because your|fellow monster currently has it equipped.|Unequip it first and try again.|<end>"
   },
   "34": {
-    "この装備品は　カラーリングできません。|他の装備品を　選んでください。|<end>": "This piece of equipment can be colored...|Please select another piece of equipment...<end>"
+    "この装備品は　カラーリングできません。|他の装備品を　選んでください。|<end>": "This equipment cannot be dyed.|<end>"
   },
   "35": {
-    "色を付ける　武器と盾を持っていません。|<end>": "Color me. I have a weapon and a shield...<end>"
+    "色を付ける　武器と盾を持っていません。|<end>": "You have no weapons or shields to dye.|<end>"
   },
   "36": {
     "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|完成までに　あと　<%dM_hh>時間<%dM_mm>分が必要です。|<end>": "I've smelted <%sL_ITEM> <%dL_ITEMNUM>|pieces... You have <%dM_hh> hours and|<%dM_mm> minutes to complete...<end>"
@@ -117,13 +117,13 @@
     "<color_yellow>|錬金釜の　使い方　変更のお知らせです！|<br>|錬金釜に　素材をいれると|錬金がすぐ完了し　作成されたアイテムが|その場で　取り出せるようになりました。|<br>|アイテムを取り出したら　レシピに書かれた|チャージ時間が始まります。チャージ時間が|過ぎたら　次の錬金を行えるようになります。|<br>|もちろん　ログアウト中でも|チャージ時間は　経過していくので|安心して　錬金してください。|<br>|錬金釜で　色々なものを錬金し|冒険生活に　役立ててみてください！|<end>": "<color_yellow>We've changed the way you use the alchemy|pot! When you put an ingredient into the|smelting pot, the smelting process will be|<br>|completed immediately and you can take out|the created item on the spot. Once the item|is removed, the charge time written in the|<br>|recipe will begin. After the charge time is|up, you can start the next alchemy. Of|course, even if you're logged out, the charge|<br>|time will still elapse, so don't worry about|smelting... Use the alchemy kettle to smelt|all sorts of things and use them in your|<br>|adventures!<end>"
   },
   "40": {
-    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_mm>分後になります。|釜錬金を　行いますか？|<yesno2><close>": "If you alchemize <%dL_ITEMNUM> <%sL_ITEM>,|it will be <%dM_mm> minutes before you can alchemize|again. Do you want to perform pot alchemy?|<yesno2><close>"
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_mm>分後になります。|釜錬金を　行いますか？|<yesno2><close>": "After alchemizing <%dL_ITEMNUM> <%sL_ITEM>,|you will be able to alchemize again in|<%dM_mm> minutes. Alchemize these items?|<yesno2><close>"
   },
   "41": {
-    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間<%dM_mm>分後に|なります。釜錬金を　行いますか？|<yesno2><close>": "If you smelt <%dL_ITEMNUM> <%sL_ITEM>,|the next pot smelting will take <%dM_hh> hours <%dM_mm>|minutes. Do you want to perform pot smelting?|<yesno2><close>"
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間<%dM_mm>分後に|なります。釜錬金を　行いますか？|<yesno2><close>": "After alchemizing <%dL_ITEMNUM> <%sL_ITEM>,|you will be able to alchemize again in|<%dM_hh> hr. and <%dM_mm> min. Alchemize these items?|<yesno2><close>"
   },
   "42": {
-    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間後に|なります。釜錬金を　行いますか？|<yesno2><close>": "Once you have smelted <%dL_ITEMNUM> <%sL_ITEM>,|the next pot smelting will be available in <%dM_hh>|hours. Do you want to perform pot smelting?|<yesno2><close>"
+    "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間後に|なります。釜錬金を　行いますか？|<yesno2><close>": "After alchemizing <%dL_ITEMNUM> <%sL_ITEM>,|you will be able to alchemize again in|<%dM_hh> hours. Alchemize these items?|<yesno2><close>"
   },
   "43": {
     "カラフルブーケの　割り当てを|キャンセルして　戻りますが|よろしいですか？|<yesno><close>": "I'd like to cancel my Colorful Bouquet|assignment and return, if that's all right.<yesno><close>"
