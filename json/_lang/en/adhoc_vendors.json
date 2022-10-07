@@ -48,7 +48,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るが　いいかね？|<yesno><break>": ""
   },
   "17": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "18": {
     "「よし！　確かに買い取ったぜ！|<bw_break>": "Yeah! I did buy it!<bw_break>"
@@ -165,7 +165,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るけど　いいかい？|<yesno><break>": ""
   },
   "56": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "57": {
     "「はいよっ　ありがとう！|<bw_break>": "Yes, thank you!<bw_break>"
@@ -282,7 +282,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": ""
   },
   "95": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "96": {
     "「確かに　買い取らせていただきました。|<bw_break>": "Pleasure doing business with you.|<bw_break>"
@@ -333,7 +333,7 @@
     "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
   },
   "112": {
-    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll just put it in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "113": {
     "「それは　残念です。|　他に何か　お買い上げいただけますか？|<break>": "It's left over... Can I get you anything|else, sir?<break>"
@@ -399,7 +399,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
   },
   "134": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "135": {
     "「確かに　買い取らせていただきました。|<bw_break>": "Pleasure doing business with you.|<bw_break>"
@@ -492,28 +492,28 @@
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_RACE>の方でないと|　装備できませんが　よろしいですか？|<yesno 2><break>": ""
   },
   "165": {
-    "「どっちの手に　装備するんだ？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだ？|<break>": "Equip in which hand?|<break>"
   },
   "166": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "167": {
-    "「どっちの手に　装備するんだい？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだい？|<break>": "Equip in which hand?|<break>"
   },
   "168": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "169": {
-    "「どちらの手に　装備しますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どちらの手に　装備しますか？|<break>": "Equip in which hand?|<break>"
   },
   "170": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "171": {
-    "「どちらの手に　装備なさいますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どちらの手に　装備なさいますか？|<break>": "Equip in which hand?|<break>"
   },
   "172": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "173": {
     "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だが　いいかね？|<yesno><break>": "<%sL_KAITAI_ITEM> will be equipped in both|<%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2>.|That all right?|<yesno><break>"
@@ -642,7 +642,7 @@
     "「あっりがとーございまーすっ！|　ここで　装備していきますか？|<yesno 2><break>": "Thank you very much! Do you want to equip it|here?<yesno 2><break>"
   },
   "215": {
-    "「どっちの手に　装備しますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どっちの手に　装備しますか？|<break>": "Equip in which hand?|<break>"
   },
   "216": {
     "「<%sL_KAITAI_ITEM>ですねっ。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピですけど　いいですか？|<yesno 2><break>": ""
@@ -672,10 +672,10 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますけど　よろしいですか？|<yesno><break>": ""
   },
   "225": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "226": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "227": {
     "「はいっ　確かに買い取りましたよっ。|<bw_break>": "Yes, I did buy it...<bw_break>"
@@ -732,7 +732,7 @@
     "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
   },
   "245": {
-    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Now, I'm going to put you in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "246": {
     "「そうですか……。|　では　他の品は　いかがですかっ？|<break>": "I see... How about something else?<break>"
@@ -750,7 +750,7 @@
     "「これ　装備すれば|　戦いのときに　どうぐとして使っても|　効果があるんですよ。|<bw_break>": "If you equip it, you can use it as a weapon|in battle, and it'll work...<bw_break>"
   },
   "251": {
-    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Now, I'm going to put you in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "252": {
     "「まいどありぃ！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Thank you very much. Okay, let's put him in|the sash bag...<bw_break>"
@@ -759,7 +759,7 @@
     "「どうも　ありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you, thank you! Now, let's put him in|the sash bag...<bw_break>"
   },
   "254": {
-    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you very much. I'll put it in your sash|bag...<bw_break>"
+    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you very much!|I'll put it in your equipment bag.|<bw_break>"
   },
   "255": {
     "「ありがとうございます。|　では　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Thank you... Now, let's put him in the|sobekuro...<bw_break>"
@@ -810,7 +810,7 @@
     "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
   },
   "271": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "272": {
     "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|Extracting Gems?|Equipment Usage|Extraction Amount|<select_end><break>"
@@ -840,7 +840,7 @@
     "「……その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようだな。|<bw_break>": ""
   },
   "281": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "282": {
     "「どの説明を　聞くんだ？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -870,7 +870,7 @@
     "「おや？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないだね。|<bw_break>": ""
   },
   "291": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "292": {
     "「どの説明を　聞くんだい？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -900,7 +900,7 @@
     "「おや？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようです。|<bw_break>": ""
   },
   "301": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "302": {
     "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -930,7 +930,7 @@
     "「あら？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようですね。|<bw_break>": ""
   },
   "311": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "312": {
     "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -945,7 +945,7 @@
     "「使い込み度とは　装備品が　どれくらい|　使い込まれたかを　示す数値です。|<br>|「自分と同格以上の強さの魔物と戦った後|　時々　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「そして　使い込み度が　５０以上になった|　装備品からは　汗と涙の結晶を|　取りだせるようになるのです。|<br>|「今の使い込み度は　その装備品を|　くわしくみると　確認できます。|<br>|「ただし　職人が作れない装備品の中には|　使い込み度が　上がらないものもあるので|　そこは　ご注意ください。|<bw_break>": ""
   },
   "316": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "317": {
     "「他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
@@ -1050,7 +1050,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "351": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "352": {
     "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他に　結晶を取りだしたい装備品は|　あるか？|<break>": ""
@@ -1125,13 +1125,13 @@
     "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
   },
   "376": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "377": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "378": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "379": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -1227,7 +1227,7 @@
     "「お買い上げ　ありがとうございます！|　さっそく　こちらで　装備していきますか？|<yesno 2><break>": "Thank you for your purchase!|Would you like to equip that now?|<yesno 2><break>"
   },
   "410": {
-    "「どっちの手に　装備しますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どっちの手に　装備しますか？|<break>": "Equip in which hand?|<break>"
   },
   "411": {
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>さんでなければ|　作れないレシピですが　それでも買われますか？|<yesno 2><break>": ""
@@ -1269,10 +1269,10 @@
     "「うーん　申し訳ないですが|　お客さんは　すでに商品を購入されているので|　もう　お譲りできないですね。|<bw_break>": ""
   },
   "424": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "425": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "426": {
     "「はい　確かに　買い取らせていただきました。|<bw_break>": ""
@@ -1332,10 +1332,10 @@
     "「<%sL_KAITAI_ITEM>ですね。|　これは　<%sL_SYOKUNIN>さんしか|　扱えないレシピですが　それでも買いますか？|<yesno 2><break>": ""
   },
   "445": {
-    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll just put it in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "446": {
-    "「お買い上げ　ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": ""
+    "「お買い上げ　ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you for your purchase!|I'll put it into your equipment bag.|<bw_break>"
   },
   "447": {
     "「ありゃりゃ。それは残念です。|　それでは　他に何か|　お買い上げいただけるものはありますか？|<break>": ""
@@ -1350,10 +1350,10 @@
     "「どの品を　売っていただけますかね？|<break>": ""
   },
   "451": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "452": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "453": {
     "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
@@ -1386,16 +1386,16 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "463": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "464": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "465": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "466": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "467": {
     "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -1644,7 +1644,7 @@
     "「お買い上げ　ありがとございまーす！|　すぐに　装備してく感じですか？|<yesno 2><break>": ""
   },
   "549": {
-    "「どっちの手に　装備する感じですか？|<break>": ""
+    "「どっちの手に　装備する感じですか？|<break>": "Equip in which hand?|<break>"
   },
   "550": {
     "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。|　これって　<%sL_SYOKUNIN>じゃないと|　作れないレシピですけど　オッケーっすか？|<yesno 2><break>": ""
@@ -1689,10 +1689,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "564": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "565": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "566": {
     "「はいっ　どうもでーす！|<bw_break>": ""
@@ -1911,7 +1911,7 @@
     "「ありがとうございます。|　すぐに　装備なさいますか？|<yesno 2><break>": "Thank you... Would you like your equipment|now?<yesno 2><break>"
   },
   "638": {
-    "「どちらの手に　装備なさいますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どちらの手に　装備なさいますか？|<break>": "Equip in which hand?|<break>"
   },
   "639": {
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno 2><break>": ""
@@ -1956,10 +1956,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "653": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "654": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "655": {
     "「確かに　買い取らせていただきました。|<bw_break>": "Pleasure doing business with you.|<bw_break>"
@@ -2076,7 +2076,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "693": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "694": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -2178,7 +2178,7 @@
     "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": "Many thanks!|Want to equip it here?|<yesno 2><break>"
   },
   "727": {
-    "「どっちの手に　装備するんだ？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだ？|<break>": "Equip in which hand?|<break>"
   },
   "728": {
     "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno 2><break>": ""
@@ -2223,10 +2223,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "742": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "743": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "744": {
     "「よし！　確かに買い取ったぜ！|<bw_break>": "Yeah! I did buy it!<bw_break>"
@@ -2307,10 +2307,10 @@
     "「どれを　売ってくれるんだ？|<break>": "Which one are you going to sell me?<break>"
   },
   "770": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "771": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "772": {
     "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
@@ -2343,16 +2343,16 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "782": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "783": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "784": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "785": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "786": {
     "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -2406,7 +2406,7 @@
     "「あっ　ごめんなさい……。|　ロック中の装備品は　買い取れないんですっ。|<bw_break>": ""
   },
   "803": {
-    "「その装備品は　ロックされているので|　結晶の取りだしは　できません。|<bw_break>": ""
+    "「その装備品は　ロックされているので|　結晶の取りだしは　できません。|<bw_break>": "That equipment is locked, so no gems can be|extracted from it.|<bw_break>"
   },
   "804": {
     "「おっと。|　ロックされてる装備品は　買い取れないぜっ。|<bw_break>": ""
@@ -2850,7 +2850,7 @@
     "「へへっ　まいどあり……。|　ここで　装備していくか？|<yesno 2><break>": ""
   },
   "951": {
-    "「どっちの手に　装備するんだ？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだ？|<break>": "Equip in which hand?|<break>"
   },
   "952": {
     "「<%sL_KAITAI_ITEM>か。|　コイツは　<%sL_SYOKUNIN>以外じゃ|　作れねえレシピだが　いいんだな？|<yesno 2><break>": ""
@@ -2898,10 +2898,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "967": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "968": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "969": {
     "「……確かに　買い取ったぜ。|<bw_break>": ""
@@ -3018,10 +3018,10 @@
     "「どれを　売ってくれるんだ？|<break>": "Which one are you going to sell me?<break>"
   },
   "1007": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "1008": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "1009": {
     "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
@@ -3060,16 +3060,16 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "1021": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1022": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1023": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1024": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1025": {
     "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -3162,7 +3162,7 @@
     "「ケケケッ　まいどあり！|　すぐに　装備していくか？|<yesno 2><break>": ""
   },
   "1055": {
-    "「どっちの手に　装備するんだ？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだ？|<break>": "Equip in which hand?|<break>"
   },
   "1056": {
     "「<%sL_KAITAI_ITEM>だな。|　これは　<%sL_SYOKUNIN>でなければ|　作れないレシピだが　それでもいいのか？|<yesno 2><break>": ""
@@ -3210,10 +3210,10 @@
     "「ケケッ　ズルはいけねえな。|　お前は　既に商品を購入しているぜ。|　もう　譲ることはできないな。|<bw_break>": ""
   },
   "1071": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "1072": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "1073": {
     "「確かに　買い取ったぜ。|<bw_break>": ""
@@ -3372,7 +3372,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "1125": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1126": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -3474,7 +3474,7 @@
     "「お買い上げ　ありがとうゴザイマス！|　さっそく　こちらで　装備していきマスカ？|<yesno 2><break>": ""
   },
   "1159": {
-    "「どちらの手に　装備しマスカ？|<break>": ""
+    "「どちらの手に　装備しマスカ？|<break>": "Equip in which hand?|<break>"
   },
   "1160": {
     "「<%sL_KAITAI_ITEM>デスネ。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　それでも買われマスカ？|<yesno 2><break>": ""
@@ -3522,10 +3522,10 @@
     "「うーん　申し訳ないですが|　お客さんは　すでに商品を購入されているので|　もう　お譲りできないですね。|<bw_break>": ""
   },
   "1175": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "1176": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "1177": {
     "「ハイ　確かに　買い取らせていただきマシタ。|<bw_break>": ""
@@ -3642,10 +3642,10 @@
     "「どの品を　売っていただけマスカ？|　塔の外とは　買い取り価格が変わりマス。|　あらかじめ　ごリョウショウ　クダサイ。|<break>": ""
   },
   "1215": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "1216": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "1217": {
     "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
@@ -3684,16 +3684,16 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "1229": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1230": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1231": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1232": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1233": {
     "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -3786,7 +3786,7 @@
     "「ケケッ　まいどあり！|　すぐに　装備していくか？|<yesno 2><break>": ""
   },
   "1263": {
-    "「どっちの手に　装備するんだ？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだ？|<break>": "Equip in which hand?|<break>"
   },
   "1264": {
     "「<%sL_KAITAI_ITEM>だな。|　これは　<%sL_SYOKUNIN>でなければ|　作れないレシピだが　それでもいいのか？|<yesno 2><break>": ""
@@ -3834,10 +3834,10 @@
     "「ケケッ　ズルはいけねえな。|　お前は　既に商品を購入しているぜ。|　もう　譲ることはできないな。|<bw_break>": ""
   },
   "1279": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "1280": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "1281": {
     "「確かに　買い取ったぜ。|<bw_break>": ""
@@ -3996,7 +3996,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "1333": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1334": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -4098,7 +4098,7 @@
     "「ケケッ　まいどあり！|　すぐに　装備していくか？|<yesno 2><break>": ""
   },
   "1367": {
-    "「どっちの手に　装備するんだ？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだ？|<break>": "Equip in which hand?|<break>"
   },
   "1368": {
     "「<%sL_KAITAI_ITEM>だな。|　これは　<%sL_SYOKUNIN>でなければ|　作れないレシピだが　それでもいいのか？|<yesno 2><break>": ""
@@ -4146,10 +4146,10 @@
     "「ケケッ　ズルはいけねえな。|　お前は　既に商品を購入しているぜ。|　もう　譲ることはできないな。|<bw_break>": ""
   },
   "1383": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "1384": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "1385": {
     "「確かに　買い取りました！|<bw_break>": ""
@@ -4308,7 +4308,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "1437": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1438": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -5418,7 +5418,7 @@
     "「あなた　なかなか　お目が高くってよ。|　すぐに　装備していかれるのかしら？|<yesno 2><break>": ""
   },
   "1807": {
-    "「どちらの手に　装備しますの？|<break>": ""
+    "「どちらの手に　装備しますの？|<break>": "Equip in which hand?|<break>"
   },
   "1808": {
     "「<%sL_KAITAI_ITEM>ね？|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだけれど　よろしくて？|<yesno 2><break>": ""
@@ -5466,10 +5466,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "1823": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "1824": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "1825": {
     "「はい。ありがとう存じますわ。|<bw_break>": ""
@@ -5592,10 +5592,10 @@
     "「どれを　売ってくださるの？|<break>": ""
   },
   "1865": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "1866": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "1867": {
     "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
@@ -5643,16 +5643,16 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "1882": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1883": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1884": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1885": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1886": {
     "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -5754,7 +5754,7 @@
     "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": "Many thanks!|Want to equip it here?|<yesno 2><break>"
   },
   "1919": {
-    "「どっちの手に　装備するんだ？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだ？|<break>": "Equip in which hand?|<break>"
   },
   "1920": {
     "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno 2><break>": ""
@@ -5802,10 +5802,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "1935": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "1936": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "1937": {
     "「よし！　確かに買い取ったぜ！|<bw_break>": "Yeah! I did buy it!<bw_break>"
@@ -5928,10 +5928,10 @@
     "「どれを　売ってくれるんだ？|<break>": "Which one are you going to sell me?<break>"
   },
   "1977": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "1978": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "1979": {
     "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
@@ -5979,16 +5979,16 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "1994": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1995": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1996": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1997": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "1998": {
     "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -6090,7 +6090,7 @@
     "「どうも　ありがとう！|　すぐに　装備していくかい？|<yesno 2><break>": "Thank you, thank you! You want to equip it|now?<yesno 2><break>"
   },
   "2031": {
-    "「どっちの手に　装備するんだい？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだい？|<break>": "Equip in which hand?|<break>"
   },
   "2032": {
     "「<%sL_KAITAI_ITEM>だね？|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだけど　いいかい？|<yesno 2><break>": ""
@@ -6138,10 +6138,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "2047": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "2048": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "2049": {
     "「はいよっ　ありがとう！|<bw_break>": "Yes, thank you!<bw_break>"
@@ -6264,10 +6264,10 @@
     "「どれを　売ってくれるんだい？|<break>": "Which one are you gonna sell me?<break>"
   },
   "2089": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "2090": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "2091": {
     "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
@@ -6315,16 +6315,16 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "2106": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2107": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2108": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2109": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2110": {
     "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -6426,7 +6426,7 @@
     "「ありがとうございます！|　こちらで　装備していきますか？|<yesno 2><break>": "Thank you very much. Would you like me to|equip it for you?<yesno 2><break>"
   },
   "2143": {
-    "「どちらの手に　装備しますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どちらの手に　装備しますか？|<break>": "Equip in which hand?|<break>"
   },
   "2144": {
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno 2><break>": ""
@@ -6474,10 +6474,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "2159": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "2160": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "2161": {
     "「確かに　買い取らせていただきました。|<bw_break>": "Pleasure doing business with you.|<bw_break>"
@@ -6564,10 +6564,10 @@
     "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
   },
   "2189": {
-    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll just put it in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "2190": {
-    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you very much. I'll put it in your sash|bag...<bw_break>"
+    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you very much!|I'll put it in your equipment bag.|<bw_break>"
   },
   "2191": {
     "「それは　残念です。|　他に何か　お買い上げいただけますか？|<break>": "It's left over... Can I get you anything|else, sir?<break>"
@@ -6651,7 +6651,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "2218": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2219": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -6762,7 +6762,7 @@
     "「ありがとうございます。|　すぐに　装備なさいますか？|<yesno 2><break>": "Thank you... Would you like your equipment|now?<yesno 2><break>"
   },
   "2255": {
-    "「どちらの手に　装備なさいますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どちらの手に　装備なさいますか？|<break>": "Equip in which hand?|<break>"
   },
   "2256": {
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno 2><break>": ""
@@ -6810,10 +6810,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "2271": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "2272": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "2273": {
     "「確かに　買い取らせていただきました。|<bw_break>": "Pleasure doing business with you.|<bw_break>"
@@ -6987,7 +6987,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "2330": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2331": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -7929,7 +7929,7 @@
     "「どうも　ありがとう！|　すぐに　装備していくかい？|<yesno 2><break>": "Thank you, thank you! You want to equip it|now?<yesno 2><break>"
   },
   "2644": {
-    "「どっちの手に　装備するんだい？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだい？|<break>": "Equip in which hand?|<break>"
   },
   "2645": {
     "「<%sL_KAITAI_ITEM>だね？|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだけど　いいかい？|<yesno 2><break>": ""
@@ -7977,10 +7977,10 @@
     "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
   },
   "2660": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "2661": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "2662": {
     "「はいっ！|　確かに　買い取ったよ！|<bw_break>": ""
@@ -8130,10 +8130,10 @@
     "「どれを　売ってくれるのかな？|<break>": ""
   },
   "2711": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "2712": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "2713": {
     "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
@@ -8181,16 +8181,16 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "2728": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2729": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2730": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2731": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "2732": {
     "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -10131,13 +10131,13 @@
     "「あっりがとーございまーすっ！|　ここで　装備していきますか？|<yesno 2><break>": "Thank you very much! Do you want to equip it|here?<yesno 2><break>"
   },
   "3378": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "3379": {
-    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Now, I'm going to put you in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "3380": {
-    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Now, I'm going to put you in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "3381": {
     "「あれっ　<%sL_BAG_TYPE>が　いっぱいですね。|　<%sL_KAITAI_ITEM>は|　持ちきれないようですよ。|<bw_break>": ""
@@ -10218,10 +10218,10 @@
     "「これ　装備すれば|　戦いのときに　どうぐとして使っても|　効果があるんですよ。|<bw_break>": "If you equip it, you can use it as a weapon|in battle, and it'll work...<bw_break>"
   },
   "3407": {
-    "「どっちの手に　装備しますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どっちの手に　装備しますか？|<break>": "Equip in which hand?|<break>"
   },
   "3408": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "3409": {
     "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だけど　いいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is something you equip in|two places, <%sL_EQUIP_POINT1> and|<%sL_EQUIP_POINT2>, okay?<yesno><break>"
@@ -10242,7 +10242,7 @@
     "「ありがとーございまーすっ！|　ここで　レシピを覚えていきますか？|<yesno 2><break>": ""
   },
   "3415": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "3416": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -10551,7 +10551,7 @@
     "「まいどありだみゃー！|　ここで　装備していくのかみゃ？|<yesno 2><break>": ""
   },
   "3518": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "3519": {
     "「それでは　そうびぶくろの中に|　入れておくのみゃー。|<bw_break>": ""
@@ -10638,10 +10638,10 @@
     "「みゃっ。これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　あるんだみゃあ。|<bw_break>": ""
   },
   "3547": {
-    "「どっちの手に　装備するんだみゃ？|<break>": ""
+    "「どっちの手に　装備するんだみゃ？|<break>": "Equip in which hand?|<break>"
   },
   "3548": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "3549": {
     "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だけど　いいんだみゃ？|<yesno><break>": ""
@@ -10662,16 +10662,16 @@
     "「まいどありだみゃー！|　ここで　レシピを覚えていくかみゃ？|<yesno 2><break>": ""
   },
   "3555": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "3556": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "3557": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "3558": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "3559": {
     "「結晶の取り出しですね。|　どれに　なさいますか？|<break>": ""
@@ -10695,7 +10695,7 @@
     "「<%sL_ITEM><%sL_PLUSNUM>は|　今　装備しているものですが　本当に|　結晶を取りだして　よろしいですか？|<yesno 2><break>": ""
   },
   "3566": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "3567": {
     "「他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
@@ -10704,7 +10704,7 @@
     "「他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
   },
   "3569": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "3570": {
     "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|Extracting Gems?|Equipment Usage|Extraction Amount|<select_end><break>"
@@ -10971,7 +10971,7 @@
     "「ありがとうだモー！|　すぐに　装備していくかモ？|<yesno 2><break>": ""
   },
   "3658": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "3659": {
     "「では　そうびぶくろの中に|　入れておくモ。|<bw_break>": ""
@@ -11058,10 +11058,10 @@
     "「これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　あるんだモ。|<bw_break>": ""
   },
   "3687": {
-    "「どっちの手に　装備するんだモ？|<break>": ""
+    "「どっちの手に　装備するんだモ？|<break>": "Equip in which hand?|<break>"
   },
   "3688": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "3689": {
     "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だけど　構わないかモ？|<yesno><break>": ""
@@ -11082,7 +11082,7 @@
     "「ありがとうだモー！|　すぐに　レシピを覚えていくかモ？|<yesno 2><break>": ""
   },
   "3695": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "3696": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -12168,7 +12168,7 @@
     "「<%sL_KAITAI_ITEM>ですねっ。|　<%nL_BUY_PRICE>ゴールドになりますが|　よろしいですか？|<yesno 2><break>": ""
   },
   "4057": {
-    "「ほほう　<%sL_KAITAI_ITEM>ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno 2><break>": "Hoho, the <%sL_KAITAI_ITEM>, I see.|How does <%dL_BUY_PRICE> Gold sound?|<yesno><break>"
+    "「ほほう　<%sL_KAITAI_ITEM>ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno 2><break>": "Hoho, the <%sL_KAITAI_ITEM>, I see.|How does <%dL_BUY_PRICE> Gold sound?|<yesno 2>break>"
   },
   "4058": {
     "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになりますけど|　オッケーっすか？|<yesno 2><break>": ""
@@ -12930,7 +12930,7 @@
     "「ありがとうございます。|　すぐに　装備なさいますか？|<yesno 2><break>": "Thank you... Would you like your equipment|now?<yesno 2><break>"
   },
   "4311": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "4312": {
     "「では　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "I'll put you in the sobekuro...<bw_break>"
@@ -13017,10 +13017,10 @@
     "「こちらは　装備されれば|　戦いのときに　どうぐとして|　お使いいただいても　効果が　ございます。|<bw_break>": "If you equip it, you can use it as a weapon|in battle...<bw_break>"
   },
   "4340": {
-    "「どちらの手に　装備なさいますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どちらの手に　装備なさいますか？|<break>": "Equip in which hand?|<break>"
   },
   "4341": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "4342": {
     "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物ですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two|places, <%sL_EQUIP_POINT1> and|<%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
@@ -13041,7 +13041,7 @@
     "「ありがとうございます。|　すぐに　レシピを覚えていかれますか？|<yesno 2><break>": ""
   },
   "4348": {
-    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "4349": {
     "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -13491,13 +13491,13 @@
     "「お買い上げ　ありがとうございます！|　さっそく　こちらで　装備していきますか？|<yesno 2><break>": "Thank you for your purchase!|Would you like to equip that now?|<yesno 2><break>"
   },
   "4498": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "4499": {
-    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "4500": {
-    "「お買い上げ　ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you for your purchase! I'll put it|into your equipment bag.|<bw_break>"
+    "「お買い上げ　ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you for your purchase!|I'll put it into your equipment bag.|<bw_break>"
   },
   "4501": {
     "「ありゃりゃ。<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいですよ。|<bw_break>": ""
@@ -13635,7 +13635,7 @@
     "「<%sL_ITEM><%sL_PLUSNUM>は|　今　装備しているものですが　本当に|　結晶を取りだして　よろしいですか？|<yesno 2><break>": ""
   },
   "4546": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "4547": {
     "「他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
@@ -13644,7 +13644,7 @@
     "「他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
   },
   "4549": {
-    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
+    "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Anything else you'd like to extract from?|<break>"
   },
   "4550": {
     "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|Extracting Gems?|Equipment Usage|Extraction Amount|<select_end><break>"
