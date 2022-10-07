@@ -48,7 +48,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だな。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るが　いいかね？|<yesno><break>": ""
   },
   "17": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "18": {
     "「まいどありぃ！|<bw_break>": ""
@@ -171,7 +171,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だね。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るけど　いいかい？|<yesno><break>": ""
   },
   "58": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "59": {
     "「どうも　ありがとう！|<bw_break>": ""
@@ -294,7 +294,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": ""
   },
   "99": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "100": {
     "「お買い上げ　ありがとうございます！|<bw_break>": ""
@@ -351,7 +351,7 @@
     "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
   },
   "118": {
-    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll just put it in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "119": {
     "「それは　残念です。|　他に何か　お買い上げいただけますか？|<break>": "It's left over... Can I get you anything|else, sir?<break>"
@@ -417,7 +417,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
   },
   "140": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "141": {
     "「ありがとうございます。|　それでは　こちらを　お受け取りください。|<bw_break>": ""
@@ -516,28 +516,28 @@
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_RACE>の方でないと|　装備できませんが　よろしいですか？|<yesno><break>": ""
   },
   "173": {
-    "「どっちの手に　装備するんだ？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだ？|<break>": "Equip in which hand?|<break>"
   },
   "174": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "175": {
-    "「どっちの手に　装備するんだい？|<break>": "Which hand do you want it in?<break>"
+    "「どっちの手に　装備するんだい？|<break>": "Equip in which hand?|<break>"
   },
   "176": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "177": {
-    "「どちらの手に　装備しますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どちらの手に　装備しますか？|<break>": "Equip in which hand?|<break>"
   },
   "178": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "179": {
-    "「どちらの手に　装備なさいますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どちらの手に　装備なさいますか？|<break>": "Equip in which hand?|<break>"
   },
   "180": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "181": {
     "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だが　いいかね？|<yesno><break>": "<%sL_KAITAI_ITEM> will be equipped in both|<%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2>.|That all right?|<yesno><break>"
@@ -666,7 +666,7 @@
     "「あっりがとーございまーすっ！|　ここで　装備していきますか？|<yesno 2><break>": "Thank you very much! Do you want to equip it|here?<yesno 2><break>"
   },
   "223": {
-    "「どっちの手に　装備しますか？|<break>": "Which hand would you like me to equip?<break>"
+    "「どっちの手に　装備しますか？|<break>": "Equip in which hand?|<break>"
   },
   "224": {
     "「<%sL_KAITAI_ITEM>ですねっ。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピですけど　いいですか？|<yesno><break>": ""
@@ -696,10 +696,10 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですねっ。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますけど　よろしいですか？|<yesno><break>": ""
   },
   "233": {
-    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|right hand|left hand|<select_end><break>"
+    "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
   },
   "234": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "235": {
     "「はい　どうぞっ。|　毎度ありがとうございますっ！|<bw_break>": ""
@@ -762,7 +762,7 @@
     "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
   },
   "255": {
-    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Now, I'm going to put you in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "256": {
     "「そうですか……。|　では　他の品は　いかがですかっ？|<break>": "I see... How about something else?<break>"
@@ -780,7 +780,7 @@
     "「これ　装備すれば|　戦いのときに　どうぐとして使っても|　効果があるんですよ。|<bw_break>": "If you equip it, you can use it as a weapon|in battle, and it'll work...<bw_break>"
   },
   "261": {
-    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Now, I'm going to put you in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "262": {
     "「まいどありぃ！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Thank you very much. Okay, let's put him in|the sash bag...<bw_break>"
@@ -789,7 +789,7 @@
     "「どうも　ありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you, thank you! Now, let's put him in|the sash bag...<bw_break>"
   },
   "264": {
-    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you very much. I'll put it in your sash|bag...<bw_break>"
+    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you very much!|I'll put it in your equipment bag.|<bw_break>"
   },
   "265": {
     "「ありがとうございます。|　では　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Thank you... Now, let's put him in the|sobekuro...<bw_break>"
