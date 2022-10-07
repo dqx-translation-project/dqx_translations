@@ -168,10 +168,10 @@
     "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|　すでに所有者の決まった　装備品のため|　お送りすることは　できないんです。|<bw_break>": "I'm sorry, but we can't send the|<%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM> because it's already|owned by you. |<bw_break>"
   },
   "57": {
-    "「おや？　申し訳ありませんが　こちらの荷物を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but we're unable to|deliver your package... Please give it some|time and try again.|<br><bw_break>"
+    "「おや？　申し訳ありませんが　こちらの荷物を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but we're unable to|deliver your package... Please give it some|time and try again.|<bw_break>"
   },
   "58": {
-    "「おや？　申し訳ありませんが　こちらの手紙を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but I'm afraid I can't|give you this letter... Please give it some|time and try again...|<br><bw_break>"
+    "「おや？　申し訳ありませんが　こちらの手紙を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "Hmm? I'm sorry, sir, but I'm afraid I can't|give you this letter... Please give it some|time and try again...|<bw_break>"
   },
   "59": {
     "<%sL_ADDRESS>さんを|送り先から　外しますか？|<yesno><break>": ""
@@ -348,7 +348,7 @@
     "郵便ポストにいれる手紙が　ありません。|手紙を書くための便せんは　各地の便せん屋や|道具屋などで　お求めください。|<bw_break>": "I have a letter for the mailbox... You can|buy letter paper for writing letters... at|letter paper shops and tool stores...|<br><bw_break>"
   },
   "117": {
-    "「申し訳ありませんが|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品のため　お送りできません。|<bw_break>": "We're sorry, but <%sL_ITEM_NAME><|%sL_PLUS><%nL_KOUKA_NUMFILLERSTRI|NG> is a locked piece of equipment and we|<br>|can't send you...<bw_break>"
+    "「申し訳ありませんが|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品のため　お送りできません。|<bw_break>": "Excuse me, but the|<%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM> is locked, so|it can't be sent.<bw_break>"
   },
   "118": {
     "<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は|ロックされている　装備品のため|入れることが　できません。|<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSFILLERSTR|ING><%nL_KOUKA_NUM> is a locked|piece of equipment and cannot be...|<br><bw_break>"
@@ -549,7 +549,7 @@
     "「お手紙は　最大１０人まで　同じ物を送れます。|　送り先を　お選びください。|<break>": "You can send the same letter to up to 10|people... Please select a recipient...<break>"
   },
   "184": {
-    "「申し訳ありませんが　お届けできる|　チームメンバーが　いないようです。|<bw_break>": "I'm sorry, but we don't have a team member|available to deliver...<bw_break>"
+    "「申し訳ありませんが　お届けできる|　チームメンバーが　いないようです。|<bw_break>": "My apologies, but you don't have any Team|members that you can send this to.|<bw_break>"
   },
   "185": {
     "「ああ　申し訳ありません。|　何人か　チームメンバーを|　探すのに　失敗してしまいました……。|<break>": "Oh, I'm sorry... I've failed to find some of|the team members...<break>"
@@ -678,7 +678,7 @@
     "<%sL_ADDRESS>さんに　|送ることが　できませんでした。|<bw_break>": "I can't send this to|<%sL_ADDRESS>...<bw_break>"
   },
   "227": {
-    "郵便ポストに　いれるゴールドを|持っていません。|<bw_break>": "I have some gold to put in the mailbox...<bw_break>"
+    "郵便ポストに　いれるゴールドを|持っていません。|<bw_break>": "You have no Gold to put in the mailbox.|<bw_break>"
   },
   "228": {
     "郵便を　送りました！|<bw_break>": "I've sent you mail!<bw_break>"
@@ -1110,7 +1110,7 @@
     "「……おや？　申し訳ありませんが　こちらの荷物を|　お渡しすることが　できないようです。|　時間をおいて　もう一度お試しくださいませ。|<bw_break>": "... Hmm? I'm sorry, sir, but I'm afraid I|can't give you your package. Please give it|some time and try again.|<br><bw_break>"
   },
   "371": {
-    "「申し訳ありませんが|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品のため　お送りできません。|<bw_break>": "We're sorry, but <%sL_ITEM_NAME><|%sL_PLUS><%nL_KOUKA_NUMFILLERSTRI|NG> is a locked piece of equipment and we|<br>|can't send you...<bw_break>"
+    "「申し訳ありませんが|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>は ロックされている|　装備品のため　お送りできません。|<bw_break>": "Excuse me, but the|<%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM> is locked, so|it can't be sent.<bw_break>"
   },
   "372": {
     "「送り先は　フレンドか|　チームメンバーか　最近送った人から　|　選べます。どちらに　お送りしますか？|<select_se_off>|フレンドから選ぶ|チームメンバーから選ぶ|最近送った人から選ぶ|<select_end><break>": "You can choose to send it to a friend, a team|member, or someone you've sent it to|recently. Who would you like to send it to?|<select_se_off>|From Friends|From Team|Recently Sent List|<select_end><break>"
@@ -1119,7 +1119,7 @@
     "「お手紙は　最大１０人まで　同じ物を送れます。|　送り先を　お選びください。|<break>": "You can send the same letter to up to 10|people... Please select a recipient...<break>"
   },
   "374": {
-    "「申し訳ありませんが　お届けできる|　チームメンバーが　いないようです。|<bw_break>": "I'm sorry, but we don't have a team member|available to deliver...<bw_break>"
+    "「申し訳ありませんが　お届けできる|　チームメンバーが　いないようです。|<bw_break>": "My apologies, but you don't have any Team|members that you can send this to.|<bw_break>"
   },
   "375": {
     "「大変　申し訳ありません。|　何人か　チームメンバーを|　探すのに　失敗してしまいました……。|<break>": "I'm so sorry... I've failed to find some of|the team members...<break>"
@@ -1647,7 +1647,7 @@
     "「おいおい。届けられる|　チームメンバーが　いないぜ。|<bw_break>": "Hey, you don't have any Team members that|you can send this to.<bw_break>"
   },
   "550": {
-    "「申し訳ありませんが　お届けできる|　チームメンバーが　いないようです。|<bw_break>": "My apologies, but you don't have any Team|members that you can send this to. <bw_break>"
+    "「申し訳ありませんが　お届けできる|　チームメンバーが　いないようです。|<bw_break>": "My apologies, but you don't have any Team|members that you can send this to.|<bw_break>"
   },
   "551": {
     "「……どうやら|　何人か　チームメンバーを|　探すのに　失敗してしまったようだ……。|<break>": "... Apparently, it seems I wasn't able to find|any Team members...<break>"
