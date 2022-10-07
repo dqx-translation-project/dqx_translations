@@ -165,7 +165,7 @@
     "<%sL_ITEM><%sL_PLUSNUM>を　光の扉に捧げると|封印の砂が<%nL_POINT_NUM>個　手に入ります。|捧げたアイテムは失われますが　よろしいですか？|<yesno 2><break>": "If you offer <%sL_ITEM><%sL_PLUSNUM> to the|Door of Light, you will receive|<%nL_POINT_NUM> of sealing sand... The item|<br>|will be lost, is that okay?<yesno 2><break>"
   },
   "56": {
-    "<%sL_ITEM><%sL_PLUSNUM>は|今　装備しているものですが|本当に　捧げてよろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is what you have now,|are you sure you want to dedicate it?<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>は|今　装備しているものですが|本当に　捧げてよろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is currently|equipped. Is okay to offer it?|<yesno 2><break>"
   },
   "57": {
     "輝石のベルトを　光の扉に捧げて|封印の砂を　増やします。|どの輝石のベルトを　捧げますか？|<break>": ""
@@ -174,10 +174,10 @@
     "封印の砂は　<%nL_MAX_NUM>個までしか持てません。|今　<%sL_ITEM><%sL_PLUSNUM>を　捧げると|<%nL_GET_NUM>個分しか増えませんが　よろしいですか？|<yesno 2><break>": "I can only hold <%nL_MAX_NUM> of the sealing|sand... If I give <%sL_ITEM><%sL_PLUSNUM>|now, it will only increase by <%nL_GET_NUM>,|<br>|is that correct?<yesno 2><break>"
   },
   "59": {
-    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>を|光の扉に捧げた。|<bw_break>": "<pc> is <%sL_ITEM><%sL_PLUSNUM> to the door of|light...<bw_break>"
+    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>を|光の扉に捧げた。|<bw_break>": "<pc> offered the <%sL_ITEM><%sL_PLUSNUM>.|<bw_break>"
   },
   "60": {
-    "<%sL_ITEM><%sL_PLUSNUM>は|ロックされているため|捧げることは　できません。|<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> is locked and cannot|be converted.<bw_break>"
+    "<%sL_ITEM><%sL_PLUSNUM>は|ロックされているため|捧げることは　できません。|<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> is locked and cannot|be offered.<bw_break>"
   },
   "61": {
     "封印の砂に　変えられるアイテムを|持っていません。|<end>": "You have no items that can be converted into|Sealed Sand.|<end>"
