@@ -126,13 +126,13 @@
     "これ以上　庭具を置けません。": "I can't put any more garden tools..."
   },
   "43": {
-    "購入権がないため　買えませんでした。|<bw_break>": ""
+    "購入権がないため　買えませんでした。|<bw_break>": "You lack the purchase rights to purchase this.|<bw_break>"
   },
   "44": {
-    "設定金額が　変更されたため|買えませんでした。|<bw_break>": "You can't buy it because the price has|changed...<bw_break>"
+    "設定金額が　変更されたため|買えませんでした。|<bw_break>": "You can't buy it because the set amount has|been changed.<bw_break>"
   },
   "45": {
-    "アイテムがなくなったため|キャンセルできませんでした。|<bw_break>": "Item no longer available. Cannot cancel...<bw_break>"
+    "アイテムがなくなったため|キャンセルできませんでした。|<bw_break>": "Could not cancel because the item is no longer|available.<bw_break>"
   },
   "46": {
     "花を栽培中のため　かたづけられません。|かかしのコマンドの　『やりなおす』をすれば|かたづけられるようになります。": "I'm growing flowers. I can't put them away...|If you use the scarecrow's \"redo\" command,|you'll be able to put it back..."
@@ -153,16 +153,16 @@
     "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
   },
   "52": {
-    "このアイテムは　売り物に設定できません。|<bw_break>": "This item can be set for sale...<bw_break>"
+    "このアイテムは　売り物に設定できません。|<bw_break>": "This item cannot be put up for sale.<bw_break>"
   },
   "53": {
-    "このアイテムは　売り物に設定できません。|<bw_break>": "This item can be set for sale...<bw_break>"
+    "このアイテムは　売り物に設定できません。|<bw_break>": "This item cannot be put up for sale.<bw_break>"
   },
   "54": {
-    "その金額は　設定できません。|<bw_break>": "That amount can be set...<bw_break>"
+    "その金額は　設定できません。|<bw_break>": "Cannot be put up for that amount.|<bw_break>"
   },
   "55": {
-    "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because it's|something that can't be given away to|others..."
+    "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because it's|unable to be traded to others."
   },
   "56": {
     "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|かたづけられません。": "<speed=0><%sL_FURNITURE> is kept for things that can't|be given away to others..."
@@ -198,10 +198,10 @@
     "庭具を配置できませんでした。|<end>": "I can't place the garden tools...<end>"
   },
   "67": {
-    "家具機能の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": "You can't use <%sL_FURNITURE> because you|don't have permission to use the furniture|feature..."
+    "家具機能の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": "You can't use the <%sL_FURNITURE>|because you don't have use permissions."
   },
   "68": {
-    "庭具の配置権限がないため|<%sL_FURNITURE>を　|うごかすことは　できません。": "You don't have permission to place garden|tools, so you can't manipulate|<%sL_FURNITURE>..."
+    "庭具の配置権限がないため|<%sL_FURNITURE>を　|うごかすことは　できません。": "You don't have placement permissions, so you|can't move the <%sL_FURNITURE>."
   },
   "69": {
     "<%sL_FURNITURE>が　近くにないので|つかうことは　できません。": "I don't have <%sL_FURNITURE> nearby, so I|can't grab it..."
@@ -213,10 +213,10 @@
     "収納家具の利用権限がないため|<%sL_FURNITURE>を　|かたづけることは　できません。": "You don't have permission to use storage|furniture, so you can't put <%sL_FURNITURE>|around it..."
   },
   "72": {
-    "庭具の配置権限がないため|庭具を置くことは　できません。": "I don't have the authority to place garden|tools, so I can't place garden tools..."
+    "庭具の配置権限がないため|庭具を置くことは　できません。": "You don't have placement permissions."
   },
   "73": {
-    "<%sM_item>は|これ以上　置けません。|<end>": "I can't put any more <%sM_item>...<end>"
+    "<%sM_item>は|これ以上　置けません。|<end>": "Cannot place any more|<%sM_item>.<end>"
   },
   "74": {
     "ここに　庭具は　配置できません。|庭具は　平らなところに　置きましょう。": "The garden tools can be placed here... The|garden tools can be placed on a flat|surface..."
@@ -270,7 +270,7 @@
     "近くに　たくさんの庭具があるので|ここには　置けません。": "There's a lot of garden tools nearby, so we|can't put them here..."
   },
   "91": {
-    "収納家具の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": "You can't use <%sL_FURNITURE> because you|don't have permission to use storage|furniture..."
+    "収納家具の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": "You can't use the <%sL_FURNITURE>|because you don't have storage permissions."
   },
   "92": {
     "<%sL_FURNITURE>がある。|<break>": "It's a <%sL_FURNITURE>.|<break>"
@@ -474,16 +474,16 @@
     "<%sL_FURNITURE>がある。|この家具は　他の人が　つかっています。": "<%sL_FURNITURE>... This furniture has been|used by other people..."
   },
   "159": {
-    "これ以上　家具を置けません。": "I can't put any more furniture..."
+    "これ以上　家具を置けません。": "You can't place any more decor."
   },
   "160": {
-    "購入権がないため　買えませんでした。|<bw_break>": ""
+    "購入権がないため　買えませんでした。|<bw_break>": "You lack the purchase rights to purchase this.|<bw_break>"
   },
   "161": {
-    "設定金額が　変更されたため|買えませんでした。|<bw_break>": "You can't buy it because the price has|changed...<bw_break>"
+    "設定金額が　変更されたため|買えませんでした。|<bw_break>": "You can't buy it because the set amount has|been changed.<bw_break>"
   },
   "162": {
-    "アイテムがなくなったため|キャンセルできませんでした。|<bw_break>": "Item no longer available. Cannot cancel...<bw_break>"
+    "アイテムがなくなったため|キャンセルできませんでした。|<bw_break>": "Could not cancel because the item is no longer|available.<bw_break>"
   },
   "163": {
     "花を栽培中のため　かたづけられません。|かかしのコマンドの　『やりなおす』をすれば|かたづけられるようになります。": "I'm growing flowers. I can't put them away...|If you use the scarecrow's \"redo\" command,|you'll be able to put it back..."
@@ -504,16 +504,16 @@
     "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
   },
   "169": {
-    "このアイテムは　売り物に設定できません。|<bw_break>": "This item can be set for sale...<bw_break>"
+    "このアイテムは　売り物に設定できません。|<bw_break>": "This item cannot be put up for sale.<bw_break>"
   },
   "170": {
-    "このアイテムは　売り物に設定できません。|<bw_break>": "This item can be set for sale...<bw_break>"
+    "このアイテムは　売り物に設定できません。|<bw_break>": "This item cannot be put up for sale.<bw_break>"
   },
   "171": {
-    "その金額は　設定できません。|<bw_break>": "That amount can be set...<bw_break>"
+    "その金額は　設定できません。|<bw_break>": "Cannot be put up for that amount.|<bw_break>"
   },
   "172": {
-    "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because it's|something that can't be given away to|others..."
+    "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because it's|unable to be traded to others."
   },
   "173": {
     "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|かたづけられません。": "<speed=0><%sL_FURNITURE> is kept for things that can't|be given away to others..."
@@ -546,10 +546,10 @@
     "予期せぬエラーにより|処理を実行することが　できませんでした。": "Due to an unexpected error, we are unable to|perform the operation..."
   },
   "183": {
-    "家具を配置できませんでした。|<end>": "I can't place the furniture...<end>"
+    "家具を配置できませんでした。|<end>": "Could not place decor.|<end>"
   },
   "184": {
-    "家具機能の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": "You can't use <%sL_FURNITURE> because you|don't have permission to use the furniture|feature..."
+    "家具機能の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": "You can't use the <%sL_FURNITURE>|because you don't have use permissions."
   },
   "185": {
     "家具の配置権限がないため|<%sL_FURNITURE>を　|うごかすことは　できません。": "You don't have permission to place furniture,|so you can't manipulate <%sL_FURNITURE>..."
@@ -567,10 +567,10 @@
     "家具の配置権限がないため|家具を置くことは　できません。": "I don't have the authority to place furniture|in this room, so I can't..."
   },
   "190": {
-    "<%sM_item>は|これ以上　置けません。|<end>": "I can't put any more <%sM_item>...<end>"
+    "<%sM_item>は|これ以上　置けません。|<end>": "Cannot place any more|<%sM_item>.<end>"
   },
   "191": {
-    "ここに　家具は　配置できません。|家具は　平らなところに　置きましょう。": "The furniture can be placed here... Furniture|can be placed on a flat surface..."
+    "ここに　家具は　配置できません。|家具は　平らなところに　置きましょう。": "You cannot place that here. Try again on a|flat surface."
   },
   "192": {
     "そのアイテムを　置くことはできません。": "That item cannot be placed."
@@ -618,10 +618,10 @@
     "この家具は　他の人が　さわっているので|動かせません。": "This piece of furniture has been touched by|someone else, so I can't move it..."
   },
   "207": {
-    "近くに　たくさんの家具があるので|ここには　置けません。": "There's a lot of furniture nearby. We can't|put it here..."
+    "近くに　たくさんの家具があるので|ここには　置けません。": "There is too much decor nearby, so you can't|place that here."
   },
   "208": {
-    "収納家具の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": "You can't use <%sL_FURNITURE> because you|don't have permission to use storage|furniture..."
+    "収納家具の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": "You can't use the <%sL_FURNITURE>|because you don't have storage permissions."
   },
   "209": {
     "<%sL_FURNITURE>がある。|<break>": "It's a <%sL_FURNITURE>.|<break>"
