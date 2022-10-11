@@ -15,16 +15,16 @@
     "<%sL_FURNITURE>を置く場所を|決めてください。|あと<%nL_AVAILABLE_NUM>個の家具を　置くことができます。|<break>": "Please choose where to place the|<%sL_FURNITURE>. You can place|<%dL_AVAILABLE_NUM> more pieces of furniture.|<break>"
   },
   "6": {
-    "これ以上　家具を置けません。": "I can't put any more furniture..."
+    "これ以上　家具を置けません。": "You can't place any more decor."
   },
   "7": {
-    "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because it's|something that can't be given away to|others..."
+    "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because it's|unable to be traded to others."
   },
   "8": {
     "かたづけられた家具を　すべて置かないと|新たな家具は　置けません。": "We need to get rid of all the furniture|that's been put away so we can put in new|furniture..."
   },
   "9": {
-    "家具を配置できませんでした。|<end>": "I can't place the furniture...<end>"
+    "家具を配置できませんでした。|<end>": "Could not place decor.|<end>"
   },
   "10": {
     "家具の配置権限がないため|<%sL_FURNITURE>を　|うごかすことは　できません。": "You don't have permission to place furniture,|so you can't manipulate <%sL_FURNITURE>..."
@@ -57,7 +57,7 @@
     "これ以上　庭具を置けません。": "I can't put any more garden tools..."
   },
   "20": {
-    "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because it's|something that can't be given away to|others..."
+    "<speed=0><%sL_FURNITURE>は　|他の人に　わたすことができない物のため|配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because it's|unable to be traded to others."
   },
   "21": {
     "かたづけられた庭具を　すべて置かないと|新たな庭具は　置けません。": "If we don't get rid of all the furniture|that's been put away, we can't put in new|furniture."
@@ -66,10 +66,10 @@
     "庭具を配置できませんでした。|<end>": "I can't place the garden tools...<end>"
   },
   "23": {
-    "庭具の配置権限がないため|<%sL_FURNITURE>を　|うごかすことは　できません。": "You don't have permission to place garden|tools, so you can't manipulate|<%sL_FURNITURE>..."
+    "庭具の配置権限がないため|<%sL_FURNITURE>を　|うごかすことは　できません。": "You don't have placement permissions, so you|can't move the <%sL_FURNITURE>."
   },
   "24": {
-    "庭具の配置権限がないため|庭具を置くことは　できません。": "I don't have the authority to place garden|tools, so I can't place garden tools..."
+    "庭具の配置権限がないため|庭具を置くことは　できません。": "You don't have placement permissions."
   },
   "25": {
     "家を建ててから|家具や庭具を　配置してください。|<end>": ""
@@ -108,13 +108,13 @@
     "<%sL_FURNITURE>は|これ以上　置けません。|<end>": "I can't put any more <%sL_FURNITURE>...<end>"
   },
   "37": {
-    "ここに　家具は　配置できません。|家具は　平らなところに　置きましょう。": "The furniture can be placed here... Furniture|can be placed on a flat surface..."
+    "ここに　家具は　配置できません。|家具は　平らなところに　置きましょう。": "You cannot place that here. Try again on a|flat surface."
   },
   "38": {
-    "ここに　家具は　配置できません。|家具は　家の中か庭に置きましょう。": "Furniture can be placed here... Furniture can|be placed inside the house or in the|garden..."
+    "ここに　家具は　配置できません。|家具は　家の中か庭に置きましょう。": "You cannot place that here. Try again either|inside or outside of your home."
   },
   "39": {
-    "近くに　たくさんの家具があるので|ここには　置けません。": "There's a lot of furniture nearby. We can't|put it here..."
+    "近くに　たくさんの家具があるので|ここには　置けません。": "There is too much decor nearby, so you can't|place that here."
   },
   "40": {
     "床下水そう用ハッチを　置いたので|釣ったさかなを　水そう床に飾れるように|なりました！|<br>|水そう床は　全部で５種類。|一番下の床だけに　設置することができ|５匹まで　さかなを入れられます。|<br>|水そうに　さかなを出し入れできるのは|家のオーナーのみ。水そうに入った|さかなの情報は　だれでも見ることができます。|<br>|それではさっそく　釣ったさかなを|水そうに　飾ってみましょう！": "We've put in an underfloor water hatch so we|can display our catch on the piscatorial|floor! There's a total of... It can be|<br>|installed only on the bottom floor, and it|can hold up to 5 fish... The owner of the|house can put fish in and out of the water|<br>|tank... Anyone can see the information of the|fish in the tank... So let's start decorating|the pond with fish we've caught!"
