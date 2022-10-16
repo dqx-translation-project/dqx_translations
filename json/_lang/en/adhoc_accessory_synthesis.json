@@ -150,7 +150,7 @@
     "「ヤッホー。ここは　アクセサリー合成屋だよ。|　最近　実家の蔵にあった　スゴい書物を読んで|　新しいサービスを　始めたよー。|<br>|「その名も　伝承合成～。これを使えば|　決められたアクセサリー同士を　組み合わせて|　伝承効果っていう特別な効果が付けられるんだ。|<br>|「まず　合成素材のアクセに　合成効果を　３つ|　付けておくんだ。そして　違う種類のアクセに|　合成すると……。|<br>|「じゃじゃーん！　合成素材についていた|　合成効果のうちの　どれかひとつが|　伝承効果として　追加で付くんだよっ♪|<br>|「そして　伝承効果が　ひとつ付いたアクセに|　普通の合成効果を　３つ付けて|　さらに　違う種類のアクセと　合成すると……。|<br>|「合成素材に　もともと付いていた　伝承効果と|　追加で　３つの合成効果の　どれかひとつが|　２つめの伝承効果として　付くんだよ！|<br>|「ちなみに　１つめの伝承効果を『第一伝承』|　２つめの伝承効果を『第二伝承』と言うよ。|　ここ　テストにでるからね～。|<br>|「あと　伝承合成では　合成エナジーは増えないし|　ラッキー合成と　会心の合成も|　起こらないから　そこだけ　注意してね。|<br>|「伝承効果を　つけられるアクセの組み合わせは|　少ないんだ。どのアクセが伝承合成できるかは|　アクセの『くわしくみる』で　確認してね！|<br>|「さあ　今日は　なんのご用なんだい？|<break>": "Ya... This is accessory synthesis...|Recently, I read an amazing book in my|parents' warehouse, and I started a new|<br>|service... It's called \"Lore. It allows you|to combine certain accessories to create a|special effect called a lore effect... First,|<br>|you need to add three lore effects to a piece|of jewelry made of a synthetic material. Then|you combine them with a different type of|<br>|accessory... Ta-da! One of the synthetic|effects on the synthetic material will be|added as a lore effect... and if you add|<br>|three normal synthetic effects to the|accessory with one lore effect and then|combine it with a different type of|<br>|accessory... You'll get the original lore|effect and one of the three additional lore|effects as a second lore effect! The first|<br>|lore effect is called \"First Lore\" and the|second is called \"Second Lore.\" I'm not sure|if this will show up on the test. Also, Lore|<br>|Synthesis doesn't increase your Synthesis|Energy, and Lucky Synthesis and Kaiun|Synthesis don't happen, so be careful...|<br>|There are only a few accessory combinations|that can have the Lore effect... To find out|which items can be combined, check the item's|<br>|\"Learn More\" section! So what can I do for|you today?<break>"
   },
   "51": {
-    "「このままだと　付いてる効果が　多すぎだね。|　<%sL_ACCE_ITEM><%sL_PLUSNUM>から　消す効果を|　ちゃんと　選んでくれるかなあ？|<break>": "If I don't, there'll be too many effects... I|wonder if you can choose which effects to|remove from <%sL_ACCE_ITEM><%sL_PLUSNUM>?<break>"
+    "「このままだと　付いてる効果が　多すぎだね。|　<%sL_ACCE_ITEM><%sL_PLUSNUM>から　消す効果を|　ちゃんと　選んでくれるかなあ？|<break>": "If I don't remove one, there'll be too many|effects. So, can you can please choose an|effect to remove?|<break>"
   },
   "52": {
     "「<%sL_ACCE_ITEM><%sL_PLUSNUM>には|　合成効果と伝承効果が　付いてるけど|　どっちの効果を　消したいの？|<select_se_off>|合成効果|伝承効果|<select_end>|<break>": "<%sL_ACCE_ITEM><%sL_PLUSNUM> has both a|synthesis effect and a lore effect. Which do|you want to get rid of?|<select_se_off>|Synthesis Effect|Lore Effect|<select_end>|<break>"
@@ -198,7 +198,7 @@
     "「どの説明が　聞きたいんだい？|<break>": "Which explanation do you want to hear?<break>"
   },
   "67": {
-    "<select_se_off>|アクセサリー合成について|伝承合成について|合成レベルについて|合成エナジーについて|<select_end>|<break>": "<select_se_off>|About Accessory Synthesis|About Lore Synthesis|About the synthesis level|About Synthetic Energy|<select_end>|<break>"
+    "<select_se_off>|アクセサリー合成について|伝承合成について|合成レベルについて|合成エナジーについて|<select_end>|<break>": "<select_se_off>|About Accessory Synthesis|About Lore Synthesis|About Synthesis Level|About Synthesis Energy|<select_end>|<break>"
   },
   "68": {
     "「他に　聞きたい説明は　あるかなあ？|<break>": "Is there any other explanation you'd like to|hear?<break>"
@@ -207,10 +207,10 @@
     "「合成チャレンジで　効果が　あふれてから|　いらない効果を選んで　消すこともできるけど|　ホントに　今　消したいの？|<yesno 2><break>": "There's a synthesis challenge, and you can|choose to remove the effects you don't want|after they've run their course, but do you|<br>|really want to do that now?<yesno 2><break>"
   },
   "70": {
-    "<pipipi_off>|合成経験値を　かくとくできなかった。|<end>": "<pipipi_off>I can't gain any synthetic experience...<end>"
+    "<pipipi_off>|合成経験値を　かくとくできなかった。|<end>": "<pipipi_off>Couldn't receive any Synthesis EXP.|<end>"
   },
   "71": {
-    "<pipipi_off>|<se_nots Joutyu_SE 122>|ラッキー！　合成素材が　なくならなかった！|<end>": "<pipipi_off>|<se_nots Joutyu_SE 122>Lucky! We didn't run out of synthetic|materials!<end>"
+    "<pipipi_off>|<se_nots Joutyu_SE 122>|ラッキー！　合成素材が　なくならなかった！|<end>": "<pipipi_off>|<se_nots Joutyu_SE 122>|Lucky! The synthesis didn't consume its|material!|<end>"
   },
   "72": {
     "<pipipi_off>|<%dL_EXP> Pの合成経験値を　かくとく！|<se_nots System 7><br>|合成レベルが<%nL_RANK>にアップ！|<me 62><br>|合成手数料が　<%.1fM_LV_KOUKA>％　安くなった！|<end>": "<pipipi_off>You received <%dL_EXP> Synthesis EXP!|<se_nots System 7><br>|Your Synthesis Level has increased to <%dL_RANK>!<me 62><br>|Synthesis fees are now <%.1fM_LV_KOUKA>% cheaper!|<end>"
@@ -228,13 +228,13 @@
     "「おー　戻って来れたんだねっ♪|　合成の途中で　急に　いなくなったから|　ビックリしちゃったよ～。|<br>|「そんじゃ　あらためて……|　合成チャレンジ　いってみます！|<end>": "Oh, you're back! I was surprised when you|suddenly up and left while I was synthesizing.|<br>|Anyways, I'll try synthesizing again!|<end>"
   },
   "77": {
-    "<pipipi_off>|<%sL_ACCE_ITEM><%sL_PLUSNUM_1>に|<%sL_BONUS>の効果が付いた！|<bw_break>": "<pipipi_off><%sL_ACCE_ITEM><%sL_PLUSNUM_1> now has|<%sL_BONUS> effect!<bw_break>"
+    "<pipipi_off>|<%sL_ACCE_ITEM><%sL_PLUSNUM_1>に|<%sL_BONUS>の効果が付いた！|<bw_break>": "<pipipi_off><%sL_ACCE_ITEM><%sL_PLUSNUM_1> now has the|<%sL_BONUS> effect!<bw_break>"
   },
   "78": {
-    "「<%sL_ACCE_ITEM><%sL_PLUSNUM>には|　合成効果と２つの伝承効果が　付いてるけど|　どっちの効果を　消したいの？|<select_se_off>|合成効果|２つの伝承効果|<select_end>|<break>": "<%sL_ACCE_ITEM><%sL_PLUSNUM> has a composite|effect and two lore effects on it, which one|do you want to get rid of?|<select_se_off>|synthesis effect|Two lore effects|<select_end>|<break>"
+    "「<%sL_ACCE_ITEM><%sL_PLUSNUM>には|　合成効果と２つの伝承効果が　付いてるけど|　どっちの効果を　消したいの？|<select_se_off>|合成効果|２つの伝承効果|<select_end>|<break>": "<%sL_ACCE_ITEM><%sL_PLUSNUM> has a|both a synthesis effect and a two lore|effects. Which do you want to remove?|<select_se_off>|Synthesis Effect|2 Lore Effects|<select_end>|<break>"
   },
   "79": {
-    "「＋４になってない　アクセサリーは|　第二伝承の素材には　できないんだよねー。|<end>": "＋Accessories that haven't reached +4 can't be|used for the second lore...<end>"
+    "「＋４になってない　アクセサリーは|　第二伝承の素材には　できないんだよねー。|<end>": "Accessories that aren't +4 can't be used as|a material for the second lore.|<end>"
   },
   "80": {
     "<pipipi_off>|<%sL_ACCE_ITEM><%sL_PLUSNUM_1>が|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>になった！|第一伝承と第二伝承の　伝承効果が付いた！|<br>|第一伝承の|<%sL_BONUS2>の|効果が付いた！|<br>|第二伝承の|<%sL_BONUS>の|効果が付いた！": "<pipipi_off><%sL_ACCE_ITEM><%sL_PLUSNUM_1> is now|<%sL_ACCE_ITEM><%sL_PLUSNUM_3>! Lore I and|Lore II now have lore effects! <%sL_BONUS2>|<br>|of Lore I has taken effect! Second Lore now|has <%sL_BONUS>!"
