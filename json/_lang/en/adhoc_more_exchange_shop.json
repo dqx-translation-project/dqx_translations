@@ -3054,7 +3054,7 @@
     "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と　交換するのか？|<yesno 2><break>": "Do you want to replace this <%sL_BAG_ITEM>|with <%sL_GOODS_ITEM>?<yesno 2><break>"
   },
   "1019": {
-    "<pipipi_on>|「ほかにも　何か　交換していくか？|<break>": "<pipipi_on>You want me to trade you something else?<break>"
+    "<pipipi_on>|「ほかにも　何か　交換していくか？|<break>": "<pipipi_on>Is there anything else you want?|<break>"
   },
   "1020": {
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
@@ -3150,37 +3150,37 @@
     "clarity_nt_char_1050": "clarity_nt_char_1050"
   },
   "1051": {
-    "「ありがとよ！|　それじゃ　こいつを　受け取ってくれ！|<end>": "Thank you! All right, let's get this thing!<end>"
+    "「ありがとよ！|　それじゃ　こいつを　受け取ってくれ！|<end>": "Thanks much! Here ya go!|<end>"
   },
   "1052": {
-    "「ありがとよ！|　それじゃ　こいつを　受け取ってくれ！|<end>": "Thank you! All right, let's get this thing!<end>"
+    "「ありがとよ！|　それじゃ　こいつを　受け取ってくれ！|<end>": "Thanks much! Here ya go!|<end>"
   },
   "1053": {
     "clarity_nt_char_1053": "clarity_nt_char_1053"
   },
   "1054": {
-    "「どのアイテムを　交換するんだ？|<break>": "What items are you trading?<break>"
+    "「どのアイテムを　交換するんだ？|<break>": "Exchange for which item?|<break>"
   },
   "1055": {
-    "「バトエンポイント　<%nL_KOUKAN_NUM>Ｐで|　<%sL_GOODS_ITEM>　１個と　交換できるぜ。|　交換していいか？|<yesno><break>": "For every <%nL_KOUKAN_NUM>p in Batoen points,|you can exchange 1 <%sL_GOODS_ITEM> for...|Can I trade?<yesno><break>"
+    "「バトエンポイント　<%nL_KOUKAN_NUM>Ｐで|　<%sL_GOODS_ITEM>　１個と　交換できるぜ。|　交換していいか？|<yesno><break>": "For every <%dL_KOUKAN_NUM> Batoen Points, you can|exchange for 1 <%sL_GOODS_ITEM>.|You wanna exchange?|<yesno><break>"
   },
   "1056": {
-    "<pipipi_on>|「ほかにも　何か　交換していくか？|<break>": "<pipipi_on>You want me to trade you something else?<break>"
+    "<pipipi_on>|「ほかにも　何か　交換していくか？|<break>": "<pipipi_on>Is there anything else you want?|<break>"
   },
   "1057": {
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
   },
   "1058": {
-    "「バトエンポイント　<%nL_KOUKAN_NUM>Ｐで|　<%sL_GOODS_ITEM>　１個と　交換できるぜ。|　交換していいか？|<yesno><break>": "For every <%nL_KOUKAN_NUM>p in Batoen points,|you can exchange 1 <%sL_GOODS_ITEM> for...|Can I trade?<yesno><break>"
+    "「バトエンポイント　<%nL_KOUKAN_NUM>Ｐで|　<%sL_GOODS_ITEM>　１個と　交換できるぜ。|　交換していいか？|<yesno><break>": "For every <%dL_KOUKAN_NUM> Batoen Points, you can|exchange for 1 <%sL_GOODS_ITEM>.|You wanna exchange?|<yesno><break>"
   },
   "1059": {
-    "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個だな。|　バトエンポイントを　<%nL_KOUKAN_NUM>Ｐ　もらうが|　交換していいか？|<yesno><break>": "<%sL_GOODS_ITEM> <%nL_GET_NUM>... I'll give|you <%nL_KOUKAN_NUM>P for batoen points, can|I trade?<yesno><break>"
+    "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個だな。|　バトエンポイントを　<%nL_KOUKAN_NUM>Ｐ　もらうが|　交換していいか？|<yesno><break>": "<%dL_GET_NUM> <%sL_GOODS_ITEM>? You can have|it for <%dL_KOUKAN_NUM> Batoen Points. Sound good?|<yesno><break>"
   },
   "1060": {
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
   },
   "1061": {
-    "「<%sL_GOODS_ITEM>を　交換するには|　必要な　バトエンポイントが　足りないな。|<bw_break>": "You need more batoen points to exchange|<%sL_GOODS_ITEM>...<bw_break>"
+    "「<%sL_GOODS_ITEM>を　交換するには|　必要な　バトエンポイントが　足りないな。|<bw_break>": "You don't have enough Batoen Points for the|<%sL_GOODS_ITEM>.|<bw_break>"
   },
   "1062": {
     "clarity_nt_char_1062": "clarity_nt_char_1062"
@@ -3213,19 +3213,19 @@
     "clarity_nt_char_1071": "clarity_nt_char_1071"
   },
   "1072": {
-    "「そのアイテムは　すでに交換しているので|　もう渡せないな。|<bw_break>": "The item has already been exchanged. I can't|give it to you...<bw_break>"
+    "「そのアイテムは　すでに交換しているので|　もう渡せないな。|<bw_break>": "You've already exchanged for this once, so|I can't give it to you.<bw_break>"
   },
   "1073": {
     "clarity_nt_char_1073": "clarity_nt_char_1073"
   },
   "1074": {
-    "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　これで　よろしいですか？|<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>|gesture. Are you sure you want to do this?<yesno2><break>"
+    "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようですが|　これで　よろしいですか？|<yesno2><break>": "You've already learned the <%sL_GOODS_ITEM>|emote. Is that all right?|<yesno2><break>"
   },
   "1075": {
     "「<%sL_COIN_PRIZE>の　内容は|　もう　覚えているようですね。|<bw_break>": "I think you already know what|<%sL_COIN_PRIZE> is...<bw_break>"
   },
   "1076": {
-    "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　これで　よろしいですか？|<yesno2><break>": "It looks like you already have|<%sL_GOODS_ITEM> installed, is that correct?<yesno2><break>"
+    "「<%sL_GOODS_ITEM>は|　すでに取り付けているようですが|　これで　よろしいですか？|<yesno2><break>": "It seems you already have the|<%sL_GOODS_ITEM> installed. Do you still|want it?|<yesno2><break>"
   },
   "1077": {
     "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,|so I can't give it to you.|<bw_break>"
