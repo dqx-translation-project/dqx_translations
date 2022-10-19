@@ -12,7 +12,7 @@
     "「おやめになるのですね。|　それでは　他の色を　お選びください。": "If you don't want to... Then I suggest you|choose another color..."
   },
   "5": {
-    "「では　カラーリングしたい装備品を|　武器と盾以外の　身に着けている物から|　お選びください。": ""
+    "「それでは　カラーリングに|　お進みください。": ""
   },
   "6": {
     "「かしこまりました。|　それでは　カラーリングしますね。": "Yes, sir. Now, let's color it..."
@@ -48,7 +48,7 @@
     "「あら？　お金が足りないようです。": "What? You're short on money..."
   },
   "17": {
-    "「カラーリング屋では　お客様の装備品の|　カラーとツヤを　変更できます。|<br>|「カラーリングできる装備品は|　防具と　一部の顔アクセサリーです。|　武器や盾は　カラーリングできません。|<br>|「防具の中にも　カラーリングできない物が|　ありますので　ご注意ください。|<br>|「カラーの変更には　ゴールドのほかに|　染色用の素材が　必要になります。|　元の色に戻す時は　ゴールドのみで大丈夫です。|<br>|「カラフルブーケを　お持ちでしたら|　染色用の素材の　代わりに|　使っていただくこともできますよ。|<br>|「カラーの変更には　ゴールドがかかりますが|　ツヤの変更は　ツヤめきペイントの使用のみで|　うけたまわります。|<br>|「ただし　カラーが　元の色のままの時は|　ツヤを変更することが　できません。|<br>|「カラーを　元の色にする場合は|　変更したツヤも　元のツヤに戻ってしまうので|　お気をつけください。|<br>|「ツヤを変更すると　色アイコンのところに|　変更したツヤのアイコンが　表示されます。|<br>|「元のツヤの時や　ツヤを変更できない場合は|　ツヤアイコンは　表示されません。|<br><pipipi_off><color_yellow>|カラフルブーケ　および　ツヤめきペイントは|ＤＱＸショップなどで　入手できます。|<br>|プレイヤー専用サイト|目覚めし冒険者の広場ドラゴンクエストＸショップ|https://sqex.to/dqxshop|<pipipi_on>": "The colorist can change the color and shine|of your equipment... We can color armor and|some facial accessories. Weapons and shields|<br>|cannot be colored... Please note that some|armor cannot be colored. To change the color|of your armor, you'll need gold and some|<br>|materials to dye it... To return to your|original color, you only need gold... If you|have a colorful bouquet, you can use it in|<br>|place of the dye... To change the color,|you'll need gold, but to change the shine, we|only need shine paint... However, you can|<br>|change the lustre if the colour remains the|original colour... If you change the color|back to the original color, the gloss will|<br>|return to the original color, so be careful.|When you change the luster, the new luster|icon will appear in the color icon... If the|<br>|gloss is the original gloss, or if you cannot|change the gloss, the gloss icon will not|appear...|<br><pipipi_off><color_yellow>Colorful Bouquet and Glossy Paint can be|found in the DQX Shop... Dragon Quest X Shop:|Awakened Adventurer's Square|<br>|https://sqex.to/dqxshop<pipipi_on>"
+    "「カラーリング屋では|　お客様の装備品や　マイコーデの|　カラーとツヤを　変更できます。|<br>|「カラーリングできるのは|　防具と　一部の顔アクセサリーです。|　武器や盾は　カラーリングできません。|<br>|「防具の中にも　カラーリングできない物が|　ありますので　ご注意ください。|<br>|「カラーの変更には　ゴールドのほかに|　染色用の素材が　必要になります。|　元の色に戻す時は　ゴールドのみで大丈夫です。|<br>|「カラフルブーケを　お持ちでしたら|　染色用の素材の　代わりに|　使っていただくこともできますよ。|<br>|「カラーの変更には　ゴールドがかかりますが|　ツヤの変更は　ツヤめきペイントの使用のみで|　うけたまわります。|<br>|「ただし　カラーが　元の色のままの時は|　ツヤを変更することが　できません。|<br>|「カラーを　元の色にする場合は|　変更したツヤも　元のツヤに戻ってしまうので|　お気をつけください。|<br>|「ツヤを変更すると　色アイコンのところに|　変更したツヤのアイコンが　表示されます。|<br>|「元のツヤの時や　ツヤを変更できない場合は|　ツヤアイコンは　表示されません。|<br><pipipi_off><color_yellow>|カラフルブーケ　および　ツヤめきペイントは|ＤＱＸショップなどで　入手できます。|<br>|プレイヤー専用サイト|目覚めし冒険者の広場ドラゴンクエストＸショップ|https://sqex.to/dqxshop|<pipipi_on>": ""
   },
   "18": {
     "「ありがとうございました。|　またのご来店を　お待ちしております。": "Thank you... We look forward to seeing you|again soon..."
@@ -144,9 +144,15 @@
     "「必要な素材と　金額を　お確かめください。|　期限付きの場合は　期限が近いものを使います。|　この内容で　カラーリングしますか？|<yesno_2><close>": "Please make sure you know what you need and|how much you're paying for it. If there's an|expiration date, use the one closest to the|<br>|date... Would you like to color this?<yesno_2><close>"
   },
   "49": {
-    "「貴重なアイテムの　ツヤめきペイントで　|　ツヤを変更した装備が　含まれていますが|　本当にツヤを戻しても　よろしいですか？|<yesno_2><close>": "I'm sure you're aware that some of your|equipment has had its luster altered by the|lustre paint on your precious items, but are|<br>|you sure you want to restore the luster?<yesno_2><close>"
+    "「貴重なアイテムの　ツヤめきペイントで　|　ツヤを変更した装備品が　含まれていますが|　本当にツヤを戻しても　よろしいですか？|<yesno_2><close>": ""
   },
   "50": {
-    "「着ているマイコーデの染色で　よろしいですか？|　装備中のアイテムの　染色をご希望でしたら|　マイコーデを脱いでから　ご来店くださいませ。|<yesno><close>": ""
+    "「マイコーデの染色で　よろしいですか？|　染色できるのは　マイコーデのカラーだけです。|　装備中のアイテムのカラーは　変わりません。|<yesno><close>": ""
+  },
+  "51": {
+    "「すみません。そちらのサービスは|　マイコーデを　脱いだ状態でないと|　お選び頂けません。": ""
+  },
+  "52": {
+    "「すみません。そちらのサービスは|　マイコーデを　着ていないと|　お選び頂けません。": ""
   }
 }
