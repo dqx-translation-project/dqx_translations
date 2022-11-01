@@ -1191,7 +1191,7 @@
     "モンスター酒場で <%sM_item>を <%nM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item> from|the Monster Tavern!"
   },
   "398": {
-    "<%sM_item><%sM_plusnum>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item>s <%sM_plusnum>!"
+    "<%sM_item><%sM_plusnum>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item> <%sM_plusnum>!"
   },
   "399": {
     "釣りの仕事をして <%dL_EXP> Pの釣り経験値を かくとく！": ""
@@ -1224,7 +1224,7 @@
     "clarity_nt_char_408": "clarity_nt_char_408"
   },
   "409": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM><%sM_PLUSNUM>を 渡した！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM><%sM_PLUSNUM>を 渡した！": "Gave <%sM_ITEM><%sM_PLUSNUM> to \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "410": {
     "<%sM_hihou>を鑑定して <%sM_item>を <%dM_ItemNum>個 手に入れた！": "<%sM_hihou> was appraised and you received|<%dM_ItemNum> <%sM_item>!"
@@ -1233,16 +1233,16 @@
     "clarity_nt_char_411": "clarity_nt_char_411"
   },
   "412": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM>を <%dM_NUM>個 渡した！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM>を <%dM_NUM>個 渡した！": "Gave <%dM_NUM> <%sM_ITEM> to \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "413": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM>を 渡した！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM>を 渡した！": "Gave <%sM_ITEM> to \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "414": {
     "clarity_nt_char_414": "clarity_nt_char_414"
   },
   "415": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%dM_GOLD> G 渡した！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%dM_GOLD> G 渡した！": "Gave <%dM_GOLD> G to \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "416": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM><%sM_PLUSNUM>を 受け取った！": "Received <%sM_ITEM><%sM_PLUSNUM> from \\s<%sC_PC>\\m<%sC_ID>\\e!"
@@ -1257,7 +1257,7 @@
     "clarity_nt_char_419": "clarity_nt_char_419"
   },
   "420": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を <%dM_NUM>個 受け取った！": "Received <%dM_NUM> \\s<%sC_PC>\\m<%sC_ID>\\e from \\s<%sC_PC>\\m<%sC_ID>\\e!"
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を <%dM_NUM>個 受け取った！": "Received <%dM_NUM> <%sM_ITEM>from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "421": {
     "clarity_nt_char_421": "clarity_nt_char_421"
@@ -1608,7 +1608,7 @@
     "<%sL_KYOUKA_ITEM>をつかった！|<%sL_ITEM><%sL_PLUSNUM>は　<%sL_ITEM><%sL_RESLT_PLUSNUM>になった！": ""
   },
   "537": {
-    "プライベートコンシェルジュに <%sM_ITEM>を 渡した！": ""
+    "プライベートコンシェルジュに <%sM_ITEM>を 渡した！": "Gave <%sM_ITEM> to your Private Concierge!"
   },
   "538": {
     "プライベートコンシェルジュから <%sM_ITEM><%nM_NUM>個を 受け取った！": "Received <%dM_NUM> <%sM_ITEM> from the Private Concierge!"
@@ -3468,7 +3468,7 @@
     "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウから受け取った！": "Received a <%sM_item><%sM_plusnum> Abyss Orb from Adventurer Jigrow!"
   },
   "1157": {
-    "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！": ""
+    "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！": "Gave <%sM_item><%sM_plusnum>'s Abyss Orb to Jiguro!"
   },
   "1158": {
     "clarity_nt_char_1158": "clarity_nt_char_1158"
@@ -3621,7 +3621,7 @@
     "clarity_nt_char_1207": "clarity_nt_char_1207"
   },
   "1208": {
-    "<pc>は<%sM_ITEM>を<%dM_NUM>個 渡した！": ""
+    "<pc>は<%sM_ITEM>を<%dM_NUM>個 渡した！": "<pc> gave <%dM_NUM> <%sM_ITEM>!"
   },
   "1209": {
     "<%sL_REGION>住宅村 <%sL_DIVISION>から　引っ越した。": ""
@@ -3726,7 +3726,7 @@
     "　→ <%sL_num>を選択": "　→ Chose <%sL_num>."
   },
   "1243": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eは\\s<%sL_name2>\\m<%sL_id2>\\eにカードを<%dL_num>枚渡した": ""
+    "　→\\s<%sL_name>\\m<%sL_id>\\eは\\s<%sL_name2>\\m<%sL_id2>\\eにカードを<%dL_num>枚渡した": "　→\\s<%sL_name>\\m<%sL_id>\\e gave <%dL_num> card(s) to \\s<%sL_name2>\\m<%sL_id2>\\e."
   },
   "1244": {
     "場が流れた": "Board reset."
