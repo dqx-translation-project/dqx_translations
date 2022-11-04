@@ -51,7 +51,7 @@
     "「よし。これより　そなたが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて|　復活するようになった。|<bw_break>": "Good. From now on, when you run out of|energy, you will be resurrected here in the|church of <%sL_KYOUKAI_NAME>|<br>|<%dL_TYOUME_NO1><%sL_TYOUME1>|<bw_break>"
   },
   "18": {
-    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> I prayed to God...<break>"
+    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> prayed to God...|<break>"
   },
   "19": {
     "「それでは　我が教会に|　<%nL_DOKU_GOLD>ゴールドの　ご寄付を。|　よろしいかな？|<yesno><break>": "Now, if you'll excuse me, my church is about|to receive a gold... May I?<yesno><break>"
@@ -123,7 +123,7 @@
     "「やめるのだな。|　それも　また　よろしかろう。|　他に　用はあるかな？|<break>": "I don't... That's good, too. Is there|anything else I can do for you?<break>"
   },
   "42": {
-    "「神に　みちびかれし　迷える子羊よ。|　ようこそ　我が教会へ。|　ご用は　なんでしょう？|<ask><bw_break>": "The lost and found... Welcome to my... What|can I do for you, sir?<ask><bw_break>"
+    "「神に　みちびかれし　迷える子羊よ。|　ようこそ　我が教会へ。|　ご用は　なんでしょう？|<ask><bw_break>": "O lost lamb, guided by God. Welcome to our|church. What can I do for you?|<ask><bw_break>"
   },
   "43": {
     "「さて……|　我が教会に　どんなご用でしょう？<bw_break>": "Now then... What do you need of us, little one? <bw_break>"
@@ -174,7 +174,7 @@
     "「これより　あなたが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて|　復活するように　なりました。|<bw_break>": "From now on, when you run out of energy, you|will be resurrected here in the church of <%s|L_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>.|<br>|..<bw_break>"
   },
   "59": {
-    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> I prayed to God...<break>"
+    "<pc>は　神に祈りを捧げた……。|<break>": "<pc> prayed to God...|<break>"
   },
   "60": {
     "「それでは　我が教会に|　<%nL_DOKU_GOLD>ゴールドの　ご寄付を。|　よろしいですか？|<yesno><break>": "Now, if you'll excuse me, my church is about|to receive a gold... May I?<yesno><break>"
@@ -183,7 +183,7 @@
     "「まあ……。残念ですが|　お金が　足りませんわ。|<bw_break>": "Well... I'm afraid I don't have enough|money...<bw_break>"
   },
   "62": {
-    "「神は　いつでも　あなたを|　見守っていてくださいます。|　また　おいでくださいね。<turn_end>": "God is always watching over you... Come|again...<turn_end>"
+    "「神は　いつでも　あなたを|　見守っていてくださいます。|　また　おいでくださいね。<turn_end>": "God is always watching over you. Please come|again.<turn_end>"
   },
   "63": {
     "「まあ　ご冗談を。あなたの仲間は|　みなさん　お元気では　ありませんか。|　おほほほ……。|<bw_break>": "Well, sir... I hope all your friends are|well... Ho, ho, ho...<bw_break>"
@@ -198,13 +198,13 @@
     "「あら？　<%sL_DOKU_PCNAME>さんは|　毒に　おかされては　いませんわ。|<bw_break>": "What? <%sL_DOKU_PCNAME> has not been poisoned|by...<bw_break>"
   },
   "67": {
-    "「まあ　ご冗談を。|　あなたは　生きておられるじゃありませんか。|<bw_break>": "Well, sir... You're still alive...<bw_break>"
+    "「まあ　ご冗談を。|　あなたは　生きておられるじゃありませんか。|<bw_break>": "Well, you must be kidding. You are still|alive.|<bw_break>"
   },
   "68": {
     "「まあ　ご冗談を。|　<%sL_DOKU_PCNAME>さんは　生きておられますわ。|<bw_break>": "Well, sir... <%sL_DOKU_PCNAME> is still|alive...<bw_break>"
   },
   "69": {
-    "「あら？　あなたは|　呪われてなど　いませんわ。|<bw_break>": "What? You're not cursed...<bw_break>"
+    "「あら？　あなたは|　呪われてなど　いませんわ。|<bw_break>": "What? You're not cursed.|<bw_break>"
   },
   "70": {
     "「あら？　<%sL_DOKU_PCNAME>さんは|　呪われてなど　いませんわ。|<bw_break>": "What? <%sL_DOKU_PCNAME> is not cursed...<bw_break>"
@@ -297,7 +297,7 @@
     "「冒険を続けるのだな。|　では　他に用はあるかね？<break>": "Continue the adventure... So, is there|anything else I can do for you?<break>"
   },
   "100": {
-    "「冒険を続けるのですね。|　では　他に ご用はありますか？<break>": "To continue the adventure... So, is there|anything else I can do for you, sir?<break>"
+    "「冒険を続けるのですね。|　では　他に ご用はありますか？<break>": "So you're continuing your adventure. Is there|anything else I can help you with?<break>"
   },
   "101": {
     "「生きとし生ける者は　皆　神の子。|　我が教会へ　よくぞ　まいられた！|<br>|「この世界では　神は常に　そなたの行動を|　見守っておられる。故に　教会に来て|　冒険の書に　旅の記録をする必要はないのだ。|<br>|「だが　教会で神に祈ることは　ムダではない。|　チカラ尽きた時の復活場所を|　祈りを捧げた教会に　変更することができるぞ。|<br>|「その日の冒険を終えて　休みたくなった時は|　さくせんコマンドの　『冒険を中断する』だ。|　危険な場所では　すこし時間がかかると心得よ。|<br>|「さて　我が教会に　どんな　ご用かな？|<ask><bw_break>": "Every living being is a child of the Almighty|One. Welcome to our church!|<br>|In this world, the Almighty One is always|watching over you. Therefore, you don't need|to come here to record your journey in your|<br>|Adventure Log.|,br>|That being said, it's still a good idea to|pray in a church. Praying will allow you to|change your resurrection spot.|<br>|When you've finished adventuring for the day,|you can take a break by using the Misc.|command and then \"Log Out\". If you're outside|of town, this might take a bit longer.|<br>|So then, what can our church assist you with?|<ask><bw_break>"
