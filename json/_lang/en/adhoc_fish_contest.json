@@ -36,7 +36,7 @@
     "「ああっと　すみません。|　うまく　交換できなかったようです。|　時間をおいて　もう一度お試し下さい。|<end>": "Oh, no, no, no. I couldn't get the exchange|to work... Give it some time and try again...<end>"
   },
   "13": {
-    "「<%sM_item>は|　これ以上　交換できません。|<bw_break>": "<%sM_item> can't be replaced any more...<bw_break>"
+    "「<%sM_item>は|　これ以上　交換できません。|<bw_break>": "I can't exchange for any more of the|<%sM_item>.|<bw_break>"
   },
   "14": {
     "「他に　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
@@ -57,13 +57,13 @@
     "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><bw_break>": "<speed=0>|<pc> gave <%sM_item> and got <%dM_Num> of fish|coins!|<se_nots System 7><bw_break>"
   },
   "20": {
-    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave <%sM_item> and got <%dM_Num> of fish|coins!|<se_nots System 7><end>"
+    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave the <%sM_item> and|received <%dM_Num> Fish Coins!|<se_nots System 7><end>"
   },
   "21": {
     "「ごめんなさい　紹介の無い方は|　おさかな交換の施設を　利用できないんです。|<br>|「港町レンドア南に　釣り老師ハルモス様が|　いらしていると　お聞きしたので|　訪ねてみると　良いかもしれません。|<turn end>": "Sorry, no one can use the fish exchange|facilities without a referral... I've heard|that Master Halmos, the old fisherman, is in|<br>|the harbor town of Lendah South, so you might|want to pay him a visit...<turn end>"
   },
   "22": {
-    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave <%sM_item> and got <%dM_Num> of fish|coins!|<se_nots System 7><end>"
+    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave the <%sM_item> and|received <%dM_Num> Fish Coins!|<se_nots System 7><end>"
   },
   "23": {
     "<speed=0>|<pc>は|ビッグサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><bw_break>": "<speed=0>|<pc> gave him a big <%sM_item> and got <%dM_Num>|of fish coins!|<se_nots System 7><bw_break>"
@@ -72,10 +72,10 @@
     "<speed=0>|<pc>は|ビッグサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave him a big <%sM_item> and got <%dM_Num>|of fish coins!|<se_nots System 7><end>"
   },
   "25": {
-    "<speed=0>|<pc>は|キングサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><bw_break>": "<speed=0>|<pc> gave him a king-sized <%sM_item> and got|<%dM_Num> of fish coins!|<se_nots System 7><bw_break>"
+    "<speed=0>|<pc>は|キングサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><bw_break>": "<speed=0>|<pc> gave the King Size <%sM_item> and|received <%dM_Num> Fish Coins!|<se_nots System 7><bw_break>"
   },
   "26": {
-    "<speed=0>|<pc>は|キングサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave him a king-sized <%sM_item> and got|<%dM_Num> of fish coins!|<se_nots System 7><end>"
+    "<speed=0>|<pc>は|キングサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave the King Size <%sM_item>|and received <%dM_Num> Fish Coins!|<se_nots System 7><end>"
   },
   "27": {
     "「<%sM_item>　<%nL_KAUKAZU>個を|　おさかなコイン　<%nM_Num>枚と|　交換しますが　よろしいですか？|<yesno><break>": "I'll trade you <%sM_item> <%nL_KAUKAZU> for|<%nM_Num> fish coins, if that's okay.<yesno><break>"
