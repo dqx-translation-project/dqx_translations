@@ -48,10 +48,10 @@
     "「<%sL_QUESTION>|<select_se_off>|<%sL_COMMAND1>|<%sL_COMMAND2>|<%sL_COMMAND3>|<%sL_COMMAND4>|<%sL_COMMAND5>|<select_end><break>": "<%sL_QUESTION>||<select_se_off>|<%sL_COMMAND1>|<%sL_COMMAND2>|<%sL_COMMAND3>|<%sL_COMMAND4>|<%sL_COMMAND5>|<select_end><break>"
   },
   "17": {
-    "<pc>は|<%sL_ITEM>を　手に入れた！|<se System 7><end>": "<pc> got <%sL_ITEM>!<se System 7><end>"
+    "<pc>は|<%sL_ITEM>を　手に入れた！|<se System 7><end>": "<pc> received <%sL_ITEM>!<se System 7><end>"
   },
   "18": {
-    "<pc>は|<%sL_ITEM>を<%nL_NUM>こ　手に入れた！|<se System 7><end>": "<pc> got <%sL_ITEM> with <%nL_NUM>!<se System 7><end>"
+    "<pc>は|<%sL_ITEM>を<%nL_NUM>こ　手に入れた！|<se System 7><end>": "<pc> received <%dL_NUM> <%sL_ITEM>!|<se System 7><end>"
   },
   "19": {
     "<attr><feel_happy_lv3><end_attr>「<pc>たま　おひさしぶりなの～！|　この前は　幸せを届けてくれて|　本当に　ありがとうなの～！|<br>|「今日は　そのお礼にやってきたの～！|　これはあたちからの　とっておきのお礼よ～！|　どうぞ　受け取ってほしいの～！": "<attr><feel_happy_lv3><end_attr><pc> Tama, it's been a while~! Thank you so much|for bringing me happiness the other day~!|We're here today to thank you~! This is a|<br>|special thank you from us~! I hope you'll|accept it!"
@@ -66,7 +66,7 @@
     "「これで　このバトンは　終わりだから|　立て札の　みんなの回答は　見れなくなるの～。|　またね～！　ばいばいなの～！": "This is the end of the baton, so you won't be|able to see everyone's answers on the|posters... See you later! Bye bye~!"
   },
   "23": {
-    "<pipipi_off><pc>は|<%sL_DAIJINAMONO>（だいじなもの）を|手に入れた！|<me 60>|<end>": "<pipipi_off><pc>  got <%sL_DAIJINAMONO>!<me 60>|<end>"
+    "<pipipi_off><pc>は|<%sL_DAIJINAMONO>（だいじなもの）を|手に入れた！|<me 60>|<end>": "<pipipi_off><pc> received the|<%sL_DAIJINAMONO> (Key Item)!<me 60>|<end>"
   },
   "24": {
     "「答えてくれて　ありがとうなの～！|　じゃあ　この幸せのご近所バトンを　渡すから|　だいじなものに　しまってなの～！": "Thank you for answering me~! Then I'll pass|this happy neighborhood baton to you, so make|it a precious one~!"
@@ -261,13 +261,13 @@
     "「さっすが　<pc>！|　見る目が　あるわね♪|<bw_break>": "as one would expect<pc> Oh! You have a good eye.<bw_break>"
   },
   "88": {
-    "<pipipi_off><pc>は|<%sL_DAIJINAMONO>（だいじなもの）を|手に入れた！|<me 60>|<end>": "<pipipi_off><pc>  got <%sL_DAIJINAMONO>!<me 60>|<end>"
+    "<pipipi_off><pc>は|<%sL_DAIJINAMONO>（だいじなもの）を|手に入れた！|<me 60>|<end>": "<pipipi_off><pc> received the|<%sL_DAIJINAMONO> (Key Item)!<me 60>|<end>"
   },
   "89": {
-    "<pc>は|<%sL_ITEM>を　手に入れた！|<se System 7><end>": "<pc> got <%sL_ITEM>!<se System 7><end>"
+    "<pc>は|<%sL_ITEM>を　手に入れた！|<se System 7><end>": "<pc> received <%sL_ITEM>!<se System 7><end>"
   },
   "90": {
-    "<pc>は|<%sL_ITEM>を<%nL_NUM>こ　手に入れた！|<se System 7><end>": "<pc> got <%sL_ITEM> with <%nL_NUM>!<se System 7><end>"
+    "<pc>は|<%sL_ITEM>を<%nL_NUM>こ　手に入れた！|<se System 7><end>": "<pc> received <%dL_NUM> <%sL_ITEM>!|<se System 7><end>"
   },
   "91": {
     "「オッケー！　アタシは　<%nL_MONTH>月<%nL_DAY>日<%nL_HOUR>時まで|　ここにいるから　気が向いたら|　また　話しかけてね！": "Okay! I'll be here until <%nL_MONTH>Monday|<%nL_DAY>Sunday <%nL_HOUR>, so please talk to|me again if you feel like it!"
