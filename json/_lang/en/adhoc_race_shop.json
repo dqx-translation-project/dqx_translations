@@ -54,7 +54,7 @@
     "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "19": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "20": {
     "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
@@ -237,10 +237,10 @@
     "「レース　お疲れさま。|　あんたに　渡す報酬があったはずさ。|　ええと……": "Race you... I had a reward to give you... I,|uh..."
   },
   "80": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "81": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "82": {
     "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
@@ -423,10 +423,10 @@
     "「レース　お疲れさま。|　あんたに　渡す報酬があったはずさ。|　ええと……": "Race you... I had a reward to give you... I,|uh..."
   },
   "142": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "143": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "144": {
     "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
@@ -609,10 +609,10 @@
     "「レース　お疲れさま。|　あんたに　渡す報酬があったはずさ。|　ええと……": "Race you... I had a reward to give you... I,|uh..."
   },
   "204": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "205": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "206": {
     "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
@@ -795,10 +795,10 @@
     "「レース　お疲れさま。|　あんたに　渡す報酬があったはずさ。|　ええと……": "Race you... I had a reward to give you... I,|uh..."
   },
   "266": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "267": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "268": {
     "「またの参加　待っているよ！": "I'm waiting for you to join us again!"
@@ -1491,22 +1491,22 @@
     "「……って　どうぐかばんが|　いっぱいで　持てないみたいだね。|　荷物を整理して　また来てねー！": "I don't know. There's so much stuff in my|bag, I can't even carry it... Get your stuff|together and come back!"
   },
   "498": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "499": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "500": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "501": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "502": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "503": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "504": {
     "「これで　ベストタイム報酬は全部だね！|　あなたからは　すごくすごく|　レース屋スピリットを感じるよー！": "That's all the best times I've ever seen!|You've got so, so much racing spirit!"
@@ -2094,22 +2094,22 @@
     "「……って　あなた　どうぐかばんが|　いっぱいで　持てないみたいよ！|　荷物を整理して　また来てね！": "I... It looks like your bag is full and you|can't carry it! Get your stuff together and|come back!"
   },
   "699": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "700": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "701": {
-    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "702": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "703": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "704": {
-    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> got <%sEV_HOUSYU> for <%nEV_NUM>!|<se_nots System 7>"
+    "<pc>は|<%sEV_HOUSYU>を　<%nEV_NUM>個手に入れた！<se_nots System 7>": "<pc> received <%dEV_NUM> <%sEV_HOUSYU>!|<se_nots System 7>"
   },
   "705": {
     "「これで　ベストタイム報酬は　全部獲得よ！|　あなたからは　すさまじいまでの|　レース屋スピリットを感じるわ！": "You've earned all the best times! You've got|a hell of a racer's spirit!"
