@@ -261,7 +261,7 @@
     "「<%sL_KAITAI_ITEM>を　ひとつですね。|　<%nL_BUY_PRICE>ゴールドに　なりますが|　よろしいですか？|<yesno><break>": "One <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold.|<yesno><break>"
   },
   "88": {
-    "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。|　合わせて　<%nL_BUY_PRICE>ゴールドですが|　よろしいですか？|<yesno><break>": "I'd like to buy <%sL_KAITAI_ITEM> in|<%nL_KAUKAZU>... I'd like to combine|<%nL_BUY_PRICE> gold, if that's okay.<yesno><break>"
+    "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。|　合わせて　<%nL_BUY_PRICE>ゴールドですが|　よろしいですか？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s .|That will be a total of <%dL_BUY_PRICE> gold,|is that okay?|<yesno><break>"
   },
   "89": {
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　お客さんの職業では|　装備できませんが　よろしいですか？|<yesno><break>": ""
@@ -339,7 +339,7 @@
     "「おや　お客さん|　お金を　持ちきれないようですね。|<br>|「預けるか　何か買うかして|　お金をへらしてから　またお願いします。|<bw_break>": "Well, sir, it looks like you don't have|enough money. Leave it with me or buy|something to reduce the amount of money, and|<br>|then I'll ask you again...<bw_break>"
   },
   "114": {
-    "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you... Please come again...<turn_end>"
+    "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you. Please come again.|<turn_end>"
   },
   "115": {
     "「いらっしゃいませ。|　こちらは　<%sL_SHOP_KIND>です。|<break>": "Welcome to the <%sL_SHOP_KIND>.|<break>"
@@ -354,10 +354,10 @@
     "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "119": {
-    "「それは　残念です。|　他に何か　お買い上げいただけますか？|<break>": "It's left over... Can I get you anything|else, sir?<break>"
+    "「それは　残念です。|　他に何か　お買い上げいただけますか？|<break>": "That's too bad. Can I get you anything else?|<break>"
   },
   "120": {
-    "「それは　残念です。|　他に売りたい物は　ありますか？|<break>": "That's too bad. Is there anything else you'd|like to sell to me?|<break>"
+    "「それは　残念です。|　他に売りたい物は　ありますか？|<break>": "That's too bad. Is there anything else you'd|like to sell?|<break>"
   },
   "121": {
     "「お買い上げですね。|　どちらに　なさいますか？|<break>": "You want to buy? Which one would you like?<break>"
@@ -384,7 +384,7 @@
     "「<%sL_KAITAI_ITEM>を　おひとつですね。|　<%nL_BUY_PRICE>ゴールド　いただきますが|　よろしいですか？|<yesno><break>": "One <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "129": {
-    "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。|　合わせて　<%nL_BUY_PRICE>ゴールドですが|　よろしいですか？|<yesno><break>": "I'd like to buy <%sL_KAITAI_ITEM> in|<%nL_KAUKAZU>... I'd like to combine|<%nL_BUY_PRICE> gold, if that's okay.<yesno><break>"
+    "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。|　合わせて　<%nL_BUY_PRICE>ゴールドですが|　よろしいですか？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s .|That will be a total of <%dL_BUY_PRICE> gold,|is that okay?|<yesno><break>"
   },
   "130": {
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　お客さまの職業では|　装備できませんが　よろしいですか？|<yesno><break>": ""
