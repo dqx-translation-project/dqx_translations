@@ -1,6 +1,6 @@
 {
   "1": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "2": {
     "「<%sL_BAG_ITEM>は|　今　装備しているものですが|　本当に　それを　渡していただけますか？|<yesno 2><break>": "<%sL_BAG_ITEM> is what you're currently|equipped with, but are you sure you want to|give it to me?<yesno 2><break>"
@@ -81,19 +81,19 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "28": {
-    "「では　こちらの破片をどうぞ。|<end>": "Okay, let's take this piece...<end>"
+    "「では　こちらの破片をどうぞ。|<end>": "Okay, please take these shards.|<end>"
   },
   "29": {
     "「どのアイテムに　交換したいの？|<break>": "What item would you like to trade for?<break>"
   },
   "30": {
-    "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換しても　いいですか？|<yesno 2><break>": "Can I trade this <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?<yesno 2><break>"
+    "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換しても　いいですか？|<yesno 2><break>": "Do you want to exchange your|<%sL_GOODS_ITEM> for the|<%sL_GOODS_ITEM>?|<yesno 2><break>"
   },
   "31": {
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
   },
   "32": {
-    "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　いいですか？|<yesno 2><break>": "Can I trade this <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM> <%nL_GET_NUM> pieces?<yesno 2><break>"
+    "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　いいですか？|<yesno 2><break>": "Do you want to exchange your|<%sL_BAG_ITEM> for|<%dL_GET_NUM> <%sL_GOODS_ITEM>?|<yesno 2><break>"
   },
   "33": {
     "<pipipi_off>|<pc>は <%sL_BAG_ITEM>を　<%dL_KOUKAN_NUM>個　渡して|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  gave <%dL_KOUKAN_NUM> <%sL_BAG_ITEM> and got|<%dL_GOODS_ITEM> <%dL_GET_NUM>!|<se_nots System 7>|<end>"
@@ -150,7 +150,7 @@
     "「もう　そのアイテムは　交換しているので|　お渡し　できません。|<bw_break>": "I can't give you the item because it's|already been exchanged...<bw_break>"
   },
   "51": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "52": {
     "「<%sL_BAG_ITEM>は|　今　装備しているものですが|　本当に　それを　渡していただけますか？|<yesno 2><break>": "<%sL_BAG_ITEM> is what you're currently|equipped with, but are you sure you want to|give it to me?<yesno 2><break>"
@@ -165,7 +165,7 @@
     "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "<speed=0>Thank you very much!|We look forward to seeing you again!|<turn_end>"
   },
   "56": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "57": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -237,7 +237,7 @@
     "「<%sL_GOODS_ITEM>が　できたぞ！|　さあ　持っていきたまえ。|<end>": "<%sL_GOODS_ITEM> is ready! Let's take it to|the...<end>"
   },
   "80": {
-    "「では　こちらの破片をどうぞ。|<end>": "Okay, let's take this piece...<end>"
+    "「では　こちらの破片をどうぞ。|<end>": "Okay, please take these shards.|<end>"
   },
   "81": {
     "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
@@ -345,10 +345,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "116": {
-    "「では　こちらの破片をどうぞ。|<end>": "Okay, let's take this piece...<end>"
+    "「では　こちらの破片をどうぞ。|<end>": "Okay, please take these shards.|<end>"
   },
   "117": {
-    "「では　こちらの破片をどうぞ。|<end>": "Okay, let's take this piece...<end>"
+    "「では　こちらの破片をどうぞ。|<end>": "Okay, please take these shards.|<end>"
   },
   "118": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -357,7 +357,7 @@
     "「どのアイテムに　交換したいの？|<break>": "What item would you like to trade for?<break>"
   },
   "120": {
-    "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換しても　いいですか？|<yesno 2><break>": "Can I trade this <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?<yesno 2><break>"
+    "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換しても　いいですか？|<yesno 2><break>": "Do you want to exchange your|<%sL_GOODS_ITEM> for the|<%sL_GOODS_ITEM>?|<yesno 2><break>"
   },
   "121": {
     "<pipipi_on>|「どのアクセサリーを　破片にしますか？|<break>": "<pipipi_on>Which accessory would you like to break down?<break>"
@@ -369,7 +369,7 @@
     "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "124": {
-    "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　いいですか？|<yesno 2><break>": "Can I trade this <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM> <%nL_GET_NUM> pieces?<yesno 2><break>"
+    "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　いいですか？|<yesno 2><break>": "Do you want to exchange your|<%sL_BAG_ITEM> for|<%dL_GET_NUM> <%sL_GOODS_ITEM>?|<yesno 2><break>"
   },
   "125": {
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
@@ -645,7 +645,7 @@
     "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
   },
   "216": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "217": {
     "「どうも　ありがとねー。|　また　来てねー。|<turn_end>": "Thank you. Thank you. I'll see you...<turn_end>"
@@ -852,7 +852,7 @@
     "「ならば　見るがよい　我が秘技を！|　ンヌオオオオオッ…………！！|<br>|「……フン。できたぞ。|　さっさと　受け取るがよい。|<end>": "Then you shall see... my secret technique!|Noooooooooooo! ..... And... I'll take that...<end>"
   },
   "285": {
-    "「では　こちらの破片をどうぞ。|<end>": "Okay, let's take this piece...<end>"
+    "「では　こちらの破片をどうぞ。|<end>": "Okay, please take these shards.|<end>"
   },
   "286": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -954,7 +954,7 @@
     "「それでは　呪文を唱えましょう。|　シュガルル　シュガリリ　シュガロィ～ン♪|　とっても　おいしい　お菓子にな～れっ！|<br>|「……はい　できました。|　では　受け取ってください。|<end>": "I'll recite the incantation... Sugarlicious|Sugarlicious Sugarlicious Sugarlicious|Sugarlicious Sugarlicious Sugarlicious|<br>|Sugarlicious Sugarlicious Sugarlicious|Sugarlicious ... Here it is... Please accept|this...<end>"
   },
   "319": {
-    "「では　こちらの破片をどうぞ。|<end>": "Okay, let's take this piece...<end>"
+    "「では　こちらの破片をどうぞ。|<end>": "Okay, please take these shards.|<end>"
   },
   "320": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -1029,7 +1029,7 @@
     "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
   },
   "344": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "345": {
     "「<%sL_BAG_ITEM>は|　今　装備しているものですが|　本当に　それを　渡していただけますか？|<yesno 2><break>": "<%sL_BAG_ITEM> is what you're currently|equipped with, but are you sure you want to|give it to me?<yesno 2><break>"
@@ -1047,7 +1047,7 @@
     "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "<speed=0>Thank you very much!|We look forward to seeing you again!|<turn_end>"
   },
   "350": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "351": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -1143,7 +1143,7 @@
     "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
   },
   "382": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "383": {
     "「ありがとう。|　また　来てね。|<turn_end>": "And... And...<turn_end>"
@@ -1245,7 +1245,7 @@
     "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
   },
   "416": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "417": {
     "「ありがとうございました。|　また　よろしくお願いしますです。|<turn_end>": "Thank you... I look forward to working with|you again.<turn_end>"
@@ -1347,7 +1347,7 @@
     "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
   },
   "450": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "451": {
     "「また　来いよ！|<turn_end>": "Come again!<turn_end>"
@@ -1449,7 +1449,7 @@
     "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
   },
   "484": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "485": {
     "「ありがとう。|　また　来てね。|<turn_end>": "And... And...<turn_end>"
@@ -1551,7 +1551,7 @@
     "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
   },
   "518": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "519": {
     "「ありがとうございましたー。|　また　おいでくださーい。|<turn_end>": "Thank you. Please come again.|<turn_end>"
@@ -1653,13 +1653,13 @@
     "<pipipi_off>|どのアイテムを　渡していただけますか？|<break>": "<pipipi_off>Which item would you like to give me?<break>"
   },
   "552": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "553": {
     "<pipipi_off>|友情の光がたまったら|また来よう。|<turn_end>": "<pipipi_off>I'll see you when the friendship light goes|out.<turn_end>"
   },
   "554": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "555": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<close>": ""
@@ -1755,7 +1755,7 @@
     "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
   },
   "586": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "587": {
     "「ご利用　ありがとうございまーす！|　魔天の星の交換は　１２月２５日（日）までと|　なっておりますので　お気をつけくださいね。": "Thank you for your interest! The exchange of|the star of heaven will last until Sunday,|December 25th, so please be careful..."
@@ -1959,7 +1959,7 @@
     "「どのアイテムを　渡してもらえますか？|<break>": "Which item would you like to give me?<break>"
   },
   "654": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "655": {
     "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "Dragonite Shards can be exchanged for|Dragonite. Please access again once you|have them. TRADE SEQUENCE TERMINATED.<turn_end>"
@@ -2151,7 +2151,7 @@
     "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
   },
   "718": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "719": {
     "「<%sL_BAG_ITEM>は|　今　装備しているものですが|　本当に　それを　渡していただけますか？|<yesno 2><break>": "<%sL_BAG_ITEM> is what you're currently|equipped with, but are you sure you want to|give it to me?<yesno 2><break>"
@@ -2163,13 +2163,13 @@
     "「どの錬金石を　渡していただけますか？|<break>": "What alchemy stone will you give me?<break>"
   },
   "722": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "723": {
     "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "<speed=0>Thank you very much!|We look forward to seeing you again!|<turn_end>"
   },
   "724": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "725": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -2265,13 +2265,13 @@
     "「どのお花を　花束にしますか？|<break>": "Which flowers would you like in your bouquet?<break>"
   },
   "756": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "757": {
     "「もし　お花を　花束にしたくなったら|　ここに　いらしてくださいね。|<turn_end>": "If you ever want to make a bouquet of|flowers, this is the place to come...<turn_end>"
   },
   "758": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "759": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -2646,7 +2646,7 @@
     "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
   },
   "883": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "884": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
@@ -2751,7 +2751,7 @@
     "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
   },
   "918": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "919": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
@@ -3789,7 +3789,7 @@
     "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
   },
   "1264": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "1265": {
     "「<%sL_BAG_ITEM>は|　今　装備しているものですが|　本当に　それを　渡していただけますか？|<yesno 2><break>": "<%sL_BAG_ITEM> is what you're currently|equipped with, but are you sure you want to|give it to me?<yesno 2><break>"
@@ -3801,7 +3801,7 @@
     "「どの錬金石を　渡していただけますか？|<break>": "What alchemy stone will you give me?<break>"
   },
   "1268": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "1269": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
@@ -3810,7 +3810,7 @@
     "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "<speed=0>Thank you very much!|We look forward to seeing you again!|<turn_end>"
   },
   "1271": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1272": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -3900,7 +3900,7 @@
     "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
   },
   "1301": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "1302": {
     "「<%sL_BAG_ITEM>は|　今　装備しているものですが|　本当に　それを　渡していただけますか？|<yesno 2><break>": "<%sL_BAG_ITEM> is what you're currently|equipped with, but are you sure you want to|give it to me?<yesno 2><break>"
@@ -3921,7 +3921,7 @@
     "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "<speed=0>Thank you very much!|We look forward to seeing you again!|<turn_end>"
   },
   "1308": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1309": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -4011,7 +4011,7 @@
     "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
   },
   "1338": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "1339": {
     "「<%sL_BAG_ITEM>は|　今　装備しているものですが|　本当に　それを　渡していただけますか？|<yesno 2><break>": "<%sL_BAG_ITEM> is what you're currently|equipped with, but are you sure you want to|give it to me?<yesno 2><break>"
@@ -4032,7 +4032,7 @@
     "「ありがとうございました。|　バトルロードコインの　交換は|　隣にいる姉に　声をかけて　くださいね。|<turn_end>": "Thank you... If you'd like to exchange your|Battle Lord coin, just ask my sister next|door...<turn_end>"
   },
   "1345": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1346": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -4254,7 +4254,7 @@
     "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "<speed=0>Thank you very much!|We look forward to seeing you again!|<turn_end>"
   },
   "1419": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1420": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -4368,7 +4368,7 @@
     "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "<speed=0>Thank you very much!|We look forward to seeing you again!|<turn_end>"
   },
   "1457": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1458": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -4482,7 +4482,7 @@
     "「また　いつでも　来てちょうだいね。|<turn_end>": "You're welcome to come back anytime...<turn_end>"
   },
   "1495": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1496": {
     "<select_se_off>|タマゴを変換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Convert an egg|Listen to the explanation|<select_end>|<break>"
@@ -4746,7 +4746,7 @@
     "「あら……？　どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "Oh, no... I can't seem to get it. My bag is|full.<bw_break>"
   },
   "1583": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1584": {
     "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
@@ -4878,7 +4878,7 @@
     "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
   },
   "1627": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "1628": {
     "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<bw_break>": "That item has already been exchanged, so I|can't give it to you anymore...<bw_break>"
@@ -4980,7 +4980,7 @@
     "「あら……？　どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "Oh, no... I can't seem to get it. My bag is|full.<bw_break>"
   },
   "1661": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1662": {
     "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
@@ -5094,10 +5094,10 @@
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
   },
   "1699": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "1700": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1701": {
     "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
@@ -5112,7 +5112,7 @@
     "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
   },
   "1705": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "1706": {
     "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<bw_break>": "That item has already been exchanged, so I|can't give it to you anymore...<bw_break>"
@@ -5214,7 +5214,7 @@
     "「むう……。どうぐかばんが　いっぱいで|　受け取れないようだな。|<bw_break>": "Oh no... My kitty litter is full. I can't get|it...<bw_break>"
   },
   "1739": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1740": {
     "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
@@ -5733,10 +5733,10 @@
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
   },
   "1912": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "1913": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1914": {
     "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
@@ -5859,10 +5859,10 @@
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
   },
   "1954": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "1955": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "1956": {
     "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
