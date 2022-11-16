@@ -12,7 +12,7 @@
     "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<end>": "I can't seem to get it. My kitty's full.<end>"
   },
   "5": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "6": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
@@ -78,7 +78,7 @@
     "「アイテム交換するNPCです。|　よろしくです。|<bw_break>": "NP to exchange items... Good...<bw_break>"
   },
   "27": {
-    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "You've already exchanged for that item, so I|can't exchange for any more.|<end>"
   },
   "28": {
     "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
@@ -96,7 +96,7 @@
     "「おまとめぶくろが　いっぱいで|　受け取れないようですね。|<end>": "My bag is full. I can't seem to get it...<end>"
   },
   "33": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "34": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 1><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 1><break>"
@@ -156,7 +156,7 @@
     "「アイテム交換するNPCです。|　よろしくです。錬金石|<bw_break>": "NP to exchange items... Good... Alchemy stone<bw_break>"
   },
   "53": {
-    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "You've already exchanged for that item, so I|can't exchange for any more.|<end>"
   },
   "54": {
     "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
@@ -180,7 +180,7 @@
     "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<end>": "I can't seem to get it. My kitty's full.<end>"
   },
   "61": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "62": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 1><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 1><break>"
@@ -825,10 +825,10 @@
     "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<bw_break>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<bw_break>"
   },
   "276": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "277": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "278": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
@@ -837,7 +837,7 @@
     "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
   },
   "280": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "281": {
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
@@ -1164,7 +1164,7 @@
     "「アイテム交換するNPCです。|　よろしくです。|<bw_break>": "NP to exchange items... Good...<bw_break>"
   },
   "389": {
-    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "You've already exchanged for that item, so I|can't exchange for any more.|<end>"
   },
   "390": {
     "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
@@ -1536,10 +1536,10 @@
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>こを|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
   },
   "513": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "514": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "515": {
     "「<%sL_GOODS_ITEM>を　交換するには|　アートな交換券が　足りないようですね。|　ＤＱＸショップで　手に入りますよ。|<br>|プレイヤー専用サイト　目覚めし冒険者の広場|ドラゴンクエストＸショップ（ＤＱＸショップ）|https://sqex.to/dqxshop|<bw_break>": "It looks like I don't have enough Artistic|Exchange Tickets to trade for|<%sL_GOODS_ITEM>. Can I get them from the DQX|<br>|Shop? Awakened Adventurer's Square Dragon|Quest X Shop (DQX Shop)|https://sqex.to/dqxshop<bw_break>"
@@ -1548,10 +1548,10 @@
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
   },
   "517": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "518": {
-    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "You've already exchanged for that item, so I|can't exchange for any more.|<end>"
   },
   "519": {
     "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<end>": "You already know the <%sL_GOODS_ITEM>|emote, so I can't give it to you.<end>"
@@ -1764,7 +1764,7 @@
     "「今のオマエの職業では　装備できないようだガ|　イイのか？|<yesno><break>": "I don't think you can equip it with your|current profession, is that okay?<yesno><break>"
   },
   "589": {
-    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "590": {
     "「今の職業では　装備できないけど　いい？|<yesno><break>": "You can't equip it in your current|profession, okay?<yesno><break>"
@@ -2076,10 +2076,10 @@
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
   },
   "693": {
-    "「今の職業では　装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
+    "「今の職業では　装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "694": {
-    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "You've already exchanged for that item, so I|can't exchange for any more.|<end>"
   },
   "695": {
     "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<end>": "You already know the <%sL_GOODS_ITEM>|emote, so I can't give it to you.<end>"
