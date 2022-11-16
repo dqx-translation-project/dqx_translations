@@ -15,7 +15,7 @@
     "「申し訳ありません。|　そのアイテムは　準備中なので|　まだ　お渡しする事ができません。|<end>": "I'm sorry... That item is still being|prepared, so I can't give it to you yet...<end>"
   },
   "6": {
-    "「今の職業では　装備できないようだが|　それでも　かまわないか？|<yesno><break>": "I'm afraid you can't equip it in your current|profession, but that doesn't bother you, does|it?<yesno><break>"
+    "「今の職業では　装備できないようだが|　それでも　かまわないか？|<yesno><break>": "You can't equip this in your current vocation.|Would you still like it?|<yesno><break>"
   },
   "7": {
     "「どの装備がいいか　選んでくれ。|<break>": "Please choose the equipment you'd like.|<break>"
@@ -27,7 +27,7 @@
     "「また　いつでも　来るがいい。|<end>": "Please come back anytime.|<end>"
   },
   "10": {
-    "「む……。貴公の　そうびぶくろが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがいい。|<bw_break>": "I can't... I can't take your envelope. It's|full. I'll come back when I have more room.<bw_break>"
+    "「む……。貴公の　そうびぶくろが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがいい。|<bw_break>": "Hmm... seems your equipment bag is full. Make|some room and then come back.|<bw_break>"
   },
   "11": {
     "<select_se_off>|装備を生成する|説明を聞く|<select_end>|<close>": "<select_se_off>|Create Equipment|Explanation|<select_end>|<close>"
@@ -90,7 +90,7 @@
     "「まず　説明をさせてもらおう。|　ここでは　貴公の持つ　防衛メダルと素材を使い|　武器や盾などの装備品を　生成できる。|<br>|「装備品には　錬金効果がつくのだが|　これは　私にも　何がつくか　わからない。|　貴公の運次第かもしれんな。|<br>|「なお　装備品は　より強力なものが|　追加されていく予定だが　その場合でも|　以前の装備品を選ぶことは　可能である。|<br>|「……説明は　以上だ。|　では　任務を遂行するとしよう。|<bw_break>": "First, let me explain... This is where you|use your defense medals and materials to|create weapons, shields, and other equipment.|<br>|Each piece of equipment has an alchemical|effect, but I don't know what that effect is.|It may depend on your luck. More powerful|<br>|equipment will be added in the future, but|even then, you will be able to choose your|old equipment... ... I'll explain... So, if|<br>|you complete your mission...<bw_break>"
   },
   "31": {
-    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "You've already exchanged for that item, so I|can't exchange for any more.|<end>"
   },
   "32": {
     "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
@@ -162,10 +162,10 @@
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
   },
   "55": {
-    "「今の職業では　装備できないようだが|　それでも　かまわないか？|<yesno><break>": "I'm afraid you can't equip it in your current|profession, but that doesn't bother you, does|it?<yesno><break>"
+    "「今の職業では　装備できないようだが|　それでも　かまわないか？|<yesno><break>": "You can't equip this in your current vocation.|Would you still like it?|<yesno><break>"
   },
   "56": {
-    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "That item has already been exchanged, so I|can't give it to you anymore...<end>"
+    "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<end>": "You've already exchanged for that item, so I|can't exchange for any more.|<end>"
   },
   "57": {
     "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<end>": "You already know the <%sL_GOODS_ITEM>|emote, so I can't give it to you.<end>"
@@ -405,7 +405,7 @@
     "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Huh..? Your equipment bag is full, so I guess|I can't give this to you.|<bw_break>"
   },
   "136": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Huh..? Your equipment bag is full, so I guess|I can't give this to you.|<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "137": {
     "「あら……？　<%sL_GOODS_ITEM>を|　交換するには　クイーン交換券２０２２が|　足りないようですね。|<bw_break>": "Oh...? It looks like you're short 2022|Queen's Exchange tickets to trade for|<%sL_GOODS_ITEM>...<bw_break>"
