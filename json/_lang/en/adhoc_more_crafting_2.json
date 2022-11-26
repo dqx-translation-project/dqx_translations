@@ -504,10 +504,10 @@
     "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
   },
   "169": {
-    "<%sL_RECIPE>の作成に|失敗してしまった…。<bw_break>": "Failed to create <%sL_RECIPE>...<bw_break>"
+    "<%sL_RECIPE>の作成に|失敗してしまった…。<bw_break>": "Failed to create the|<%sL_RECIPE>...<bw_break>"
   },
   "170": {
-    "削りすぎてしまい　木材が折れてしまった…。<bw_break>": "I cut too hard, and the wood broke...<bw_break>"
+    "削りすぎてしまい　木材が折れてしまった…。<bw_break>": "You cut the wood too much, and it ended up|breaking...<bw_break>"
   },
   "171": {
     "clarity_nt_char_171": "clarity_nt_char_171"
@@ -516,22 +516,22 @@
     "clarity_nt_char_172": "clarity_nt_char_172"
   },
   "173": {
-    "<%sL_CATEGORY>のレシピを|まだ覚えていない！": "I still can't remember the recipe for|<%sL_CATEGORY>!"
+    "<%sL_CATEGORY>のレシピを|まだ覚えていない！": "You still don't know any|<%sL_CATEGORY> recipes!"
   },
   "174": {
     "clarity_nt_char_174": "clarity_nt_char_174"
   },
   "175": {
-    "<%sL_BAG_NAME>に空きがないので|<%sL_CATEGORY>の作成ができません。": "<%sL_CATEGORY> cannot be created because|there is no space in <%sL_BAG_NAME>..."
+    "<%sL_BAG_NAME>に空きがないので|<%sL_CATEGORY>の作成ができません。": "<%sL_CATEGORY> cannot be created because|there is no space in your|<%sL_BAG_NAME>."
   },
   "176": {
-    "木工設備が　あります。|木工職人になると|木工品を　つくれるようになります。": "I have woodworking equipment... If you become|a woodworker, you'll be able to make|woodwork..."
+    "木工設備が　あります。|木工職人になると|木工品を　つくれるようになります。": "This is a woodworking facility. If you become|a woodworker, you'll be able to craft here."
   },
   "177": {
-    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>."
+    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>|equipped."
   },
   "178": {
-    "もう１度　<%sL_SKILL_NAME>をしますか？|<yesno><close>": "Do you want to do <%sL_SKILL_NAME> again?<yesno><close>"
+    "もう１度　<%sL_SKILL_NAME>をしますか？|<yesno><close>": "Do you want to perform|<%sL_SKILL_NAME> again?|<yesno><close>"
   },
   "179": {
     "clarity_nt_char_179": "clarity_nt_char_179"
@@ -549,7 +549,7 @@
     "clarity_nt_char_183": "clarity_nt_char_183"
   },
   "184": {
-    "集中力が　たりない！": "I can't concentrate!"
+    "集中力が　たりない！": "Not enough Focus!"
   },
   "185": {
     "clarity_nt_char_185": "clarity_nt_char_185"
@@ -570,10 +570,10 @@
     "<pc>は　さいほう職人ではないため|さいほうをすることができない。": "<pc> I'm not a lawyer, so I can't do it."
   },
   "191": {
-    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>."
+    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>|equipped."
   },
   "192": {
-    "もう１度　<%sL_SKILL_NAME>をしますか？|<yesno><close>": "Do you want to do <%sL_SKILL_NAME> again?<yesno><close>"
+    "もう１度　<%sL_SKILL_NAME>をしますか？|<yesno><close>": "Do you want to perform|<%sL_SKILL_NAME> again?|<yesno><close>"
   },
   "193": {
     "clarity_nt_char_193": "clarity_nt_char_193"
@@ -588,7 +588,7 @@
     "clarity_nt_char_196": "clarity_nt_char_196"
   },
   "197": {
-    "集中力が　たりない！": "I can't concentrate!"
+    "集中力が　たりない！": "Not enough Focus!"
   },
   "198": {
     "clarity_nt_char_198": "clarity_nt_char_198"
@@ -642,7 +642,7 @@
     "clarity_nt_char_214": "clarity_nt_char_214"
   },
   "215": {
-    "木工設備が　あります。|木工品を　つくりますか？<yesno><close>": "We have woodworking equipment... Do you want|to make woodwork?<yesno><close>"
+    "木工設備が　あります。|木工品を　つくりますか？<yesno><close>": "It's a woodworking facility.|Would you like to craft something?<yesno><close>"
   },
   "216": {
     "clarity_nt_char_216": "clarity_nt_char_216"
@@ -651,7 +651,7 @@
     "clarity_nt_char_217": "clarity_nt_char_217"
   },
   "218": {
-    "<%sL_SYOKUNIN_TOOL>を持っていないので|<%sL_SKILL_NAME>ができません。": "I don't have <%sL_SYOKUNIN_TOOL>, so I can|<%sL_SKILL_NAME>..."
+    "<%sL_SYOKUNIN_TOOL>を持っていないので|<%sL_SKILL_NAME>ができません。": "You do not have a <%sL_SYOKUNIN_TOOL>,|so you cannot perform <%sL_SKILL_NAME>."
   },
   "219": {
     "clarity_nt_char_219": "clarity_nt_char_219"
@@ -663,10 +663,10 @@
     "clarity_nt_char_221": "clarity_nt_char_221"
   },
   "222": {
-    "<%sL_RECIPE>の　一発仕上げができます。|どうしますか？|<select>|ふつうにつくる|一発仕上げ|やめる|<select_end><break>": "<%sL_RECIPE> is a one-shot finish... What do|you want to do?|<select>|cook conventionally|one-shot finish|stop|<select_end><break>"
+    "<%sL_RECIPE>の　一発仕上げができます。|どうしますか？|<select>|ふつうにつくる|一発仕上げ|やめる|<select_end><break>": "<%sL_RECIPE> can be quick crafted.|What would you like to do?|<select>|Craft Normally|Quick Craft|Cancel|<select_end><break>"
   },
   "223": {
-    "<%sL_RECIPE>を　つくります。|よろしいですか？|<yesno><break>": "Create <%sL_RECIPE>... Are you sure?<yesno><break>"
+    "<%sL_RECIPE>を　つくります。|よろしいですか？|<yesno><break>": "Craft the <%sL_RECIPE>?|<yesno><break>"
   },
   "224": {
     "clarity_nt_char_224": "clarity_nt_char_224"
@@ -684,7 +684,7 @@
     "clarity_nt_char_228": "clarity_nt_char_228"
   },
   "229": {
-    "<%sL_SYOKUNIN_TOOL>を持っていないので|<%sL_SKILL_NAME>ができません。": "I don't have <%sL_SYOKUNIN_TOOL>, so I can|<%sL_SKILL_NAME>..."
+    "<%sL_SYOKUNIN_TOOL>を持っていないので|<%sL_SKILL_NAME>ができません。": "You do not have a <%sL_SYOKUNIN_TOOL>,|so you cannot perform <%sL_SKILL_NAME>."
   },
   "230": {
     "clarity_nt_char_230": "clarity_nt_char_230"
