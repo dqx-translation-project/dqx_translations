@@ -111,7 +111,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "38": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "39": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -279,22 +279,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　レベル転生は　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't level up unless you're in a|battle...<end>"
   },
   "94": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "95": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "96": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "97": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "98": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "99": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "100": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「２回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has reincarnated|more than once, it can choose an additional|<br>|skill...<end>"
@@ -309,10 +309,10 @@
     "「では　新しく与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
   },
   "104": {
-    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "I'm going to ask you to choose a second|skill...<break>"
+    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Please choose the second skill line you want|to learn.|<break>"
   },
   "105": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "106": {
     "「ここは　旅人たちの仲間モンスターが集う|　モンスター酒場です。|<br>|「あら？　お客様　ついに　まもの使いと|　どうぐ使い　両方の職業に|　なれるように　なったんですね！|<br>|「そんな　モンスターを愛するお客様には|　より　多くのモンスターを　お預かりする|　サービスを　提供しています。|<br>|「仲間にできるモンスターも　増えていますので|　今まで以上に　モンスター酒場を|　ご活用ください！　ということで……|<bw_break>": "This is the place where the monsters of the|travelers gather to drink. Oh? I see you've|finally become both a magic user and a potion|<br>|user! For those of you who love monsters, we|offer a service that lets you keep more of|them... We've also increased the number of|<br>|monsters you can take in, so please make use|of the Monster Tavern more than ever! So...<bw_break>"
@@ -564,10 +564,10 @@
     "「では　新しく与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
   },
   "189": {
-    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "I'm going to ask you to choose a second|skill...<break>"
+    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Please choose the second skill line you want|to learn.|<break>"
   },
   "190": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "191": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -582,7 +582,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "195": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "196": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -600,22 +600,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "201": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "202": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "203": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "204": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "205": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "206": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "207": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「４回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has reincarnated|four or more times, it can choose an|<br>|additional skill...<end>"
@@ -1152,7 +1152,7 @@
     "「では　新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Next, please choose the second skill line|you would like to use.|<break>"
   },
   "385": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "386": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -1167,7 +1167,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "390": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "391": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -1185,22 +1185,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "396": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "397": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "398": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "399": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "400": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "401": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "402": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「６回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has reincarnated six|or more times, it can choose an additional|<br>|skill...<end>"
@@ -1608,7 +1608,7 @@
     "「では　新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Next, please choose the second skill line|you would like to use.|<break>"
   },
   "537": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "538": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -1623,7 +1623,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "542": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "543": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -1641,22 +1641,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "548": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "549": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "550": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "551": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "552": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "553": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "554": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「５回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has reincarnated|five or more times, it can choose an|<br>|additional skill...<end>"
@@ -2064,7 +2064,7 @@
     "「では　新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Next, please choose the second skill line|you would like to use.|<break>"
   },
   "689": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "690": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -2079,7 +2079,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "694": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "695": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -2097,22 +2097,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "700": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "701": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "702": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "703": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "704": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "705": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "706": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「８回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has reincarnated 8|or more times, it can choose an additional|<br>|skill...<end>"
@@ -2520,7 +2520,7 @@
     "「では　新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Next, please choose the second skill line|you would like to use.|<break>"
   },
   "841": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "842": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -2535,7 +2535,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "846": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "847": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -2553,22 +2553,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "852": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "853": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "854": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "855": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "856": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "857": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "858": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「７回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has reincarnated|more than seven times, it can choose an|<br>|additional skill...<end>"
@@ -2976,7 +2976,7 @@
     "「では　新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Next, please choose the second skill line|you would like to use.|<break>"
   },
   "993": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "994": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -2991,7 +2991,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "998": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "999": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -3009,22 +3009,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "1004": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "1005": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "1006": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "1007": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "1008": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "1009": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "1010": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「１０回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has reincarnated|more than 10 times, it can choose an|<br>|additional skill...<end>"
@@ -3432,7 +3432,7 @@
     "「では　新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Next, please choose the second skill line|you would like to use.|<break>"
   },
   "1145": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "1146": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -3447,7 +3447,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "1150": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "1151": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -3465,22 +3465,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "1156": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "1157": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "1158": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "1159": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "1160": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "1161": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "1162": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「１１回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has reincarnated 11|or more times, it can choose an additional|<br>|skill...<end>"
@@ -3990,7 +3990,7 @@
     "「では　新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Next, please choose the second skill line|you would like to use.|<break>"
   },
   "1331": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "1332": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -4005,7 +4005,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "1336": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "1337": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -4023,22 +4023,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "1342": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "1343": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "1344": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "1345": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "1346": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "1347": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "1348": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「９回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has reincarnated 9|times or more, they can choose an additional|<br>|skill...<end>"
@@ -5259,10 +5259,10 @@
     "「では　新しく与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
   },
   "1754": {
-    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "I'm going to ask you to choose a second|skill...<break>"
+    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Please choose the second skill line you want|to learn.|<break>"
   },
   "1755": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "1756": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -5277,7 +5277,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "1760": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "1761": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -5295,22 +5295,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "1766": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "1767": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "1768": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "1769": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "1770": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "1771": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "1772": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「３回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has been|reincarnated three or more times, it can|<br>|choose an additional skill...<end>"
@@ -6126,10 +6126,10 @@
     "「では　新しく与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
   },
   "2043": {
-    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "I'm going to ask you to choose a second|skill...<break>"
+    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Please choose the second skill line you want|to learn.|<break>"
   },
   "2044": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "2045": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -6144,7 +6144,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any redo weed... You can|buy it at the tool shop next door.<end>"
   },
   "2049": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "2050": {
     "<pipipi_on>|「はい！　これで　<%sM_otomo>のスキルは|　リセットされました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! <%sM_otomo>'s skills will now be|reset... Be sure to reassign the returned|skill points...<end>"
@@ -6162,22 +6162,22 @@
     "「あら？　<%sM_otomo>が　待機中のようですね。|　バトル参加設定を　参加中にしていないと|　スキルのリセットは　できないんです。|<end>": "What? Looks like <%sM_otomo> is waiting...|You can't reset your skills unless you're in|the middle of a battle...<end>"
   },
   "2055": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "2056": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "2057": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any weed... You can buy it|at the tool shop next door.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　となりの道具屋で|　売っていますので　お買い求めください。|<end>": "If you don't have any Indigo Grass, you can|buy some at the item shop next to me.|<end>"
   },
   "2058": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "2059": {
     "「ええと……死んでいる子のスキルは|　選びなおしが　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "Well... You can't re-select skills for a dead|girl... You'll have to bring her back to|life...<end>"
   },
   "2060": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "2061": {
     "「あら？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「３回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Oh? It looks like he doesn't have two extra|skills yet. If a monster has been|reincarnated three or more times, it can|<br>|choose an additional skill...<end>"
@@ -6468,37 +6468,37 @@
     "「あら？　その子はまだ|　追加スキルを　選んでいないみたいよ。|<br>|「スキル選びなおし　から|　追加スキルを覚えられるから|　忘れずに　選んであげてね。": "What? I don't think she's chosen any|additional skills yet. You can learn|additional skills by re-selecting them, so|<br>|don't forget to select them..."
   },
   "2157": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2158": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2159": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2160": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2161": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2162": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2163": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2164": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2165": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2166": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2167": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2168": {
     "<pipipi_off>|<%sM_otomo>の　スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Do you want to change the skills of|<%sM_otomo>?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
@@ -6534,37 +6534,37 @@
     "<pipipi_off>|<%sM_otomo>の　スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 9><break>": "<pipipi_off>Do you want to change the skills of|<%sM_otomo>?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 9><break>"
   },
   "2179": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2180": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2181": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2182": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2183": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2184": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2185": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2186": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2187": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2188": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2189": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2190": {
     "<pipipi_off><speed=0>|<color_yellow>|牧場に　追加部屋のモンスターを　預けた状態で|『預かり枠拡張』の　ご利用が　確認できないとき|<br>|牧場に　モンスターを送ったり　|牧場から　モンスターを連れていくことが|できません。|<br>|牧場から　追加部屋のモンスターを　外すか|『預かり枠拡張』サービスを　登録することで|できるようになります。|<color_white>|<bw_break>": "<pipipi_off><speed=0>|<color_yellow>If you have additional room monsters|deposited in your ranch and you don't see the|\"Expand Storage\" service, you can't send|<br>|monsters to or from your ranch. You'll need|to remove the additional room monsters from|your ranch or register for the \"Expand|<br>|Storage Capacity\" service...<color_white>|<bw_break>"
@@ -6849,7 +6849,7 @@
     "「やりなお草を　お持ちでないようですね。|　やりなお草は　モンスター酒場の　道具屋で|　売っていますので　お買い求めください。|<end>": "You don't have any redo weed... You can buy|it in the tool shop at the Monster Tavern.<end>"
   },
   "2284": {
-    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Yes, sir! Now... Here, take this. ....<end>"
+    "<pipipi_on>|「わかりました！|　では……これを　こうして……と。|<end>": "<pipipi_on>Understood! Now, just like this...|<end>"
   },
   "2285": {
     "<pipipi_off>|<%sM_npc>は　やりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>の　すべてのスキルに振っていた|スキルポイントが　リセットされた！|<end>": "<pipipi_off><%sM_npc> fed Redo Grass to <%sM_otomo>!|<%sM_otomo>'s skill points for all skills|have been reset!<end>"
@@ -6999,19 +6999,19 @@
     "「はい！　では　少々お待ちください。|　ここを　こうして……と。|<end>": "Yes, sir! Now, if you'll excuse me for a|moment... Here, take this. ....<end>"
   },
   "2334": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can re-select the skills you added to|your companion monster's level... To re-|select a skill, you need <%nM_number> of an|<br>|item called \"Torinae Weed\"...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
   },
   "2335": {
-    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Would you like to change <%sM_otomo>'s skill|using Torimegusa?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
+    "<pipipi_off>|とりなお草を使って　<%sM_otomo>の|スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Reset <%sM_otomo>'s skills using|the Indigo Grass?|<color_yellow>|(All used skill points will be refunded.)|<color_white>|<se_nots System 0><break>"
   },
   "2336": {
-    "「とりなお草を　お持ちでないようですね。|　とりなお草は　モンスター酒場の　道具屋で|　売っていますので　お買い求めください。|<end>": "I'm afraid you don't have any grass... You|can buy it in the tool shop at the Monster|Tavern.<end>"
+    "「とりなお草を　お持ちでないようですね。|　とりなお草は　モンスター酒場の　道具屋で|　売っていますので　お買い求めください。|<end>": "It seems you don't have any Indigo Grass.|You can buy some at an item shop inside any|Monster Tavern.|<end>"
   },
   "2337": {
-    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> has fed <%sM_otomo> some grass!|<%sM_otomo> has forgotten all his skills and|has woken up with new ones!<end>"
+    "<pipipi_off>|<%sM_npc>は　とりなお草を|<%sM_otomo>に食べさせた！|<br>|<%sM_otomo>は　すべてのスキルを忘れ|新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_npc> fed <%sM_otomo> some|Indigo Grass!|<br>|<%sM_otomo> forgot all of their learned|skills and can now choose new ones!|<end>"
   },
   "2338": {
-    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Yes! The additional skills of <%sM_otomo>|have now been changed... Be sure to reassign|the returned skill points...<end>"
+    "<pipipi_on>|「はい！　これで　<%sM_otomo>の追加スキルは|　変更されました。戻ったスキルポイントは|　ちゃんと　振りなおしてあげてくださいね。|<end>": "<pipipi_on>Good! <%sM_otomo>'s additional|skills were successfully changed. Make sure to|reassign their returned skill points.|<end>"
   },
   "2339": {
     "「おや？　その子はまだ|　追加スキルをふたつ|　覚えていないみたいですね。|<br>|「２回以上　レベル転生したモンスターなら|　追加スキルを　選びなおすことができますよ。|<end>": "Hmm? It looks like he doesn't have two extra|skills yet. If you've reincarnated more than|once, you can choose an additional skill...<end>"
@@ -7029,10 +7029,10 @@
     "「では　新しく与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
   },
   "2344": {
-    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "I'm going to ask you to choose a second|skill...<break>"
+    "「新しく与えられる|　ふたつ目のスキルを　選んでください。|<break>": "Please choose the second skill line you want|to learn.|<break>"
   },
   "2345": {
-    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "Am I correct in assuming that the newly given|skills are <%sM_skill_1> and <%sM_skill_2>?<break>"
+    "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>で|　よろしいですか？|<break>": "The skill lines that you want to learn are|<%sM_skill_1> and <%sM_skill_2>?|<break>"
   },
   "2346": {
     "<pipipi_off>|<%sM_monster>が　<%sM_item><%sM_plusnum>を|装備したので　<pc>の　Ａセットから|<%sM_item><%sM_plusnum>が　はずれました。|<end>": "<pipipi_off>|<%sM_monster>が <%sM_item><%sM_plusnum>を|I've equipped it with a<pc> The <%sM_item><%sM_plusnum> is missing from|the A set of...<end>"
@@ -7275,7 +7275,7 @@
     "「『追加部屋』とは　オプションプランの|　『預かり枠拡張』サービスを　ご利用の|　お客様が　お使いいただける部屋となります。|<br>|「ご登録されている　サービスに応じて|　さらに追加で　仲間モンスターを|　お預かりすることができます。|<br>|「ただし　サービスのご登録状況が|　確認できない場合　追加部屋の仲間モンスターは|　お連れすることが　できなくなります。|<br>|「他にも　モンスター牧場へお送りすることや|　レベル転生　スキルリセットや　おわかれなども|　行えなくなりますので　ご了承ください。|<br>|「サービスご登録中でしたら　『部屋いれかえ』で|　追加部屋に入れる　仲間モンスターを|　お選びできますので　そちらもご利用ください。|<bw_break>": "An \"Additional Room\" is a room that can be|used by customers who use the \"Expanded|Storage Space\" option plan... Depending on|<br>|the service you have registered for, you can|keep additional monsters... However, if we|can't confirm your service registration, we|<br>|won't be able to bring you the additional|room's companion monsters... In addition, we|will not be able to send you to a monster|<br>|farm, level up, reset your skills or say|goodbye. If you've registered for the|service, you can use \"Room Swap\" to select a|<br>|companion monster for an additional room...<bw_break>"
   },
   "2426": {
-    "「おや？|　そのスキルは　すでに選んでいますよ。|<bw_break>": "Hmm? I've already chosen that skill...<bw_break>"
+    "「おや？|　そのスキルは　すでに選んでいますよ。|<bw_break>": "Hm? That skill line is already chosen.|<bw_break>"
   },
   "2427": {
     "「そして　<%nM_tenseicount>回目の転生では|　一部のスキルラインが|　さらに　強化されます。|<br>|「スキル内容を|　改めて　確認してみてくださいね。|<bw_break>": "After reincarnating <%dM_tenseicount> times, some of the|existing skill lines have been further|enhanced.|<br>|Please take your time and look over each|skill line.|<bw_break>"
@@ -7290,13 +7290,13 @@
     "「おや？　その子はまだ|　追加スキルを　選んでいないみたいですね。|<br>|「スキル選びなおし　から|　追加スキルを覚えられるので|　忘れずに　選んであげてくださいね。": "Hmm? It seems that the child hasn't chosen an|additional skill yet... You can learn|additional skills by selecting them again, so|<br>|don't forget to select them..."
   },
   "2431": {
-    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can re-select the skills you added to|your companion monster's level... <%sM_otomo>|hasn't chosen any additional skills yet, so|<br>|he doesn't need to regain them...<end>"
+    "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「<%sM_otomo>は　まだ|　追加スキルを　選んでいないので|　『とりなお草』は　必要ありません。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|Since <%sM_otomo> hasn't chosen|any skills since the last reincarnation, you|don't need any Indigo Grass.|<end>"
   },
   "2432": {
     "<pipipi_off>|<%sM_otomo>の　スキルを　変更しますか？|<color_yellow>|※すでに振っているスキルポイントは戻ります。|<color_white>|<se_nots System 0><break>": "<pipipi_off>Do you want to change the skills of|<%sM_otomo>?<color_yellow>You can get back the skill points you've|already ...<color_white>|<se_nots System 0><break>"
   },
   "2433": {
-    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has awakened to a new skill!<end>"
+    "<pipipi_off>|<%sM_otomo>は　新たなスキルに　目覚めた！|<end>": "<pipipi_off><%sM_otomo> has learned new skills!|<end>"
   },
   "2434": {
     "「では　新しく与えられる|　スキルを　選んでください。|<break>": "Now then, please choose a new skill line to|use.|<break>"
