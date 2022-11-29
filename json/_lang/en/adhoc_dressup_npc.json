@@ -1,12 +1,12 @@
 {
   "1": {
-    "「ふむ……。残念だが　そなたは|　その装備品の　見た目となれる装備を|　持っていないようだぞ。": "Hmm... I'm afraid you don't have any|equipment that can look like that piece of|equipment.|<br>"
+    "「ふむ……。残念だが　そなたは|　その装備品の　見た目となれる装備を|　持っていないようだぞ。": "Hmm... I'm afraid you don't have any equipment|that could be used to dress up what you chose."
   },
   "2": {
     "「ドレスアップしたいのだな？|　ならば　今装備しているものの中から|　ドレスアップしたい装備品を　選ぶがよい。|<br>|「顔アクセサリーは　ドレスアップできるが|　それ以外のアクセサリーと　職人道具は|　ドレスアップできないからな。": "So you want to dress up? Then choose what you|want to dress up from your current|equipment... You can dress up your face, but|<br>|you can't dress up your other accessories or|your craftsman tools..."
   },
   "3": {
-    "「では　ドレスアップした装備品を|　元の姿に戻そう。|　見た目に使った装備は　戻ってはこぬぞ。|<br>|「また　元の姿に戻した装備品にしてあった|　カラーリングは失われ|　元の色に戻るが　構わないな？|<yesno 2><close>": ""
+    "「では　ドレスアップした装備品を|　元の姿に戻そう。|　見た目に使った装備は　戻ってはこぬぞ。|<br>|「また　元の姿に戻した装備品にしてあった|　カラーリングは失われ|　元の色に戻るが　構わないな？|<yesno 2><close>": "You want to restore this equipment to its|original appearance? You won't get back the|item you used to change it.|<br>|The equipment will also lose any custom|coloring. So, you want me to change it back?|<yesno 2><close>"
   },
   "4": {
     "「やめるのだな？　それも　よかろう。": "You're not going to do this, are you?|That's..."
@@ -15,7 +15,7 @@
     "「よし……。解除成功だ。|　装備を　元の見た目に戻したぞ。": "Okay... Disarm... I'll restore your equipment|to its original appearance..."
   },
   "6": {
-    "<select_se_off>|ドレスアップする|元にもどす|説明を聞く|<select_end><close>": "<select_se_off>|Dress Up|go back to the start|Listen to the explanation|<select_end><close>"
+    "<select_se_off>|ドレスアップする|元にもどす|説明を聞く|<select_end><close>": "<select_se_off>|Dress Up|Undo Dress Up|Explanation|<select_end><close>"
   },
   "7": {
     "「ここは　魔法のドレスアップ屋。|　魔法仕立て術により　装備品の性能はそのまま|　見た目だけを他の装備に変える　奇跡の店だ。|<br>|「よくぞ来た　我が同胞よ。|　今日は　我に何を求めるのだ？|<break>": "This is a magic dress-up... A magical|tailoring technique that changes the|appearance of an item of equipment without|<br>|changing its performance. Welcome, my friend.|What do you want from me today?<break>"
@@ -27,13 +27,13 @@
     "「むむむ……？|　そこには　何も装備してないではないか。": "Mmm...? You're not equipped with anything..."
   },
   "10": {
-    "<select_se_off>|はい|いいえ|<select_end><close>": ""
+    "<select_se_off>|はい|いいえ|<select_end><close>": "<select_se_off>|Yes|No|<select_end><close>"
   },
   "11": {
     "「ドレスアップとは　魔法仕立て術により|　装備品の性能はそのまま　見た目だけを|　他の装備に変える　奇跡の技であるぞ。|<br>|「まず性能となる方を　装備しているものから選び|　その後に　見た目となる方を選ぶ。|　見た目の装備は　レベル職業　関係なく選べる。|<br>|「見た目に使った装備は　ドレスアップすると|　消滅してしまう。ドレスアップを解いても|　戻ってくることはないから　しかと覚悟せよ。|<br>|「ドレスアップした装備品を　再び見た目として|　使うことはできる。気に入った見た目を|　次々　引き継いでいくことが可能ということだ。|<br>|「当然だが　ドレスアップは　有料であるぞ。|　だが　ドレスアップを解いて|　元の姿に戻すときは　無料でやってやろう。": "A dress-up is a miraculous feat of magical|tailoring that transforms one piece of|equipment into another without sacrificing|<br>|its performance. First, you choose a piece of|equipment that will perform, then you choose|a piece of equipment that will look... The|<br>|equipment used for the look is level- and|profession-neutral. The equipment you use to|look good will disappear when you dress up.|<br>|And they don't come back when you undress|them, so remember... Once you've dressed up a|piece of gear, you can't use it as a look|<br>|again. And you can keep using the same look|over and over again. Of course, you have to|pay to dress up your gear. But if you want to|<br>|un-dress and revert to your original look,|it's free."
   },
   "12": {
-    "「<%sM_item2><%sM_plusnum2>を性能として|　他の見た目に　ドレスアップするのだな？|　では　見た目に使いたい装備を選ぶのだ。": ""
+    "「<%sM_item2><%sM_plusnum2>を性能として|　他の見た目に　ドレスアップするのだな？|　では　見た目に使いたい装備を選ぶのだ。": "You want to apply a dress up on your|<%sM_item2><%sM_plusnum2>? If so, please|choose the appearance you'd like to use."
   },
   "13": {
     "「よかろう！|　では　我が魔法の仕立て術の神秘！|　その目で　とくと見るがよい！": "Very well. Now, the mysteries of my magical|art of tailoring! See for yourself!"
@@ -93,10 +93,10 @@
     "「その武器は　武器種が違うため|　ドレスアップには　使えぬぞ。": "That weapon is a different type of weapon, so|it can't be used to dress up..."
   },
   "32": {
-    "<select_se_off 2>|ドレスアップする|元にもどす|説明を聞く|<select_end><close>": "<select_se_off 2>|Dress Up|go back to the start|Listen to the explanation|<select_end><close>"
+    "<select_se_off 2>|ドレスアップする|元にもどす|説明を聞く|<select_end><close>": "<select_se_off 2>|Dress Up|Undo Dress Up|Explanation|<select_end><close>"
   },
   "33": {
-    "<select_se_off 3>|ドレスアップする|元にもどす|説明を聞く|<select_end><close>": "<select_se_off 3>|Dress Up|go back to the start|Listen to the explanation|<select_end><close>"
+    "<select_se_off 3>|ドレスアップする|元にもどす|説明を聞く|<select_end><close>": "<select_se_off 3>|Dress Up|Undo Dress Up|Explanation|<select_end><close>"
   },
   "34": {
     "「その装備は　職業が合わない装備のため|　今は　ドレスアップには　使えぬぞ。": "That equipment is not suitable for my|profession, so I can't use it to dress up..."
