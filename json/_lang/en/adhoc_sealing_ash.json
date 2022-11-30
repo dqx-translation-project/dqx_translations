@@ -24,7 +24,7 @@
     "<%sL_SEAL_KOUKA>を|封印した！|<se_nots System 7>|<bw_break>": "<%sL_SEAL_KOUKA> has been sealed!|<se_nots System 7>|<bw_break>"
   },
   "9": {
-    "「それでは　戦神のベルトの効果の|　封印状態をリセットします。|<br>|「封印の聖灰を　<%nL_POINT_NUM>個　使いますが|　これまでの封印に使った　<%nL_GET_NUM>個は|　戻ってきます。リセットして　よろしいですか？|<yesno 2><break>": "Now, to reset the sealing effect of the War|God's Belt... I'm going to use|<%nL_POINT_NUM> of the Holy Ashes of the|<br>|Seal, but the <%nL_GET_NUM> I've used to seal|it so far will be returned... Can I reset it?<yesno 2><break>"
+    "「それでは　戦神のベルトの効果の|　封印状態をリセットします。|<br>|「封印の聖灰を　<%nL_POINT_NUM>個　使いますが|　これまでの封印に使った　<%nL_GET_NUM>個は|　戻ってきます。リセットして　よろしいですか？|<yesno 2><break>": "To reset all of your sealed effects, I will|require <%dL_POINT_NUM> Sealing Ash.|<br>|In addition, the <%dL_POINT_NUM> Sealing Ash you've|used so far will be returned do you. Do you|want to reset them?|<yesno 2><break>"
   },
   "10": {
     "「それでは　戦神のベルトの効果の|　封印状態を　リセットします。|<br>|「封印の聖灰を　<%nL_POINT_NUM>個　使いますが|　これまでの封印に使った　<%nL_GET_NUM>個は|　戻ってきます。|<br>|「封印の聖灰は　<%nL_MAX_NUM>個までしか持てません。|　今　リセットを　おこなうと|　<%nL_GET_NUM2>個分しか増えませんが　よろしいですか？|<yesno 2><break>": "Let's reset the seal on the effects of the|War God's Belt. I'll use <%nL_POINT_NUM> of|holy ashes for sealing, but the <%nL_GET_NUM>|<br>|I've used for sealing so far will be|returned... You can only have <%nL_MAX_NUM>|ashes for sealing... If I reset it now, it|<br>|will only hold <%nL_GET_NUM2> more ashes, is|that okay?<yesno 2><break>"
@@ -93,7 +93,7 @@
     "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と|<%sL_KYOUKA_ITEM>を　捧げた！|<bw_break>": "<pc> offered <%sL_ITEM><%sL_PLUSNUM> and|<%sL_KYOUKA_ITEM>!<bw_break>"
   },
   "32": {
-    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と|<%sL_KYOUKA_ITEM>を　捧げた！|封印の聖灰の効果が　発動した！|<bw_break>": ""
+    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と|<%sL_KYOUKA_ITEM>を　捧げた！|封印の聖灰の効果が　発動した！|<bw_break>": "<pc> offered the <%sL_ITEM><%sL_PLUSNUM> and|<%sL_KYOUKA_ITEM>!|Sealing Ash effect has been triggered!|<bw_break>"
   },
   "33": {
     "おや……？　なんと　<%sL_ITEM>が|強い光を放ちはじめた……！|<bw_break>": "Oh...? Oh my god, <%sL_ITEM> is starting to|glow strongly...!<bw_break>"
