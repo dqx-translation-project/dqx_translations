@@ -2718,7 +2718,7 @@
     "clarity_nt_char_906": "clarity_nt_char_906"
   },
   "907": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を よびよせた！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を よびよせた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e called <%sB_ACTION>!"
   },
   "908": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは しんだふりをした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e played dead!"
@@ -4653,7 +4653,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは さとりをひらき 神の声に耳をかたむけた。": ""
   },
   "1552": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ボディーガードを よびよせた！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ボディーガードを よびよせた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e called a bodyguard!"
   },
   "1553": {
     "clarity_nt_char_1553": "clarity_nt_char_1553"
@@ -4860,7 +4860,7 @@
     "<%sB_EXTRA>は 生き返った！": "<%sB_EXTRA> returns to life!"
   },
   "1621": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは シャドウを よびよせた！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは シャドウを よびよせた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e called a Shadow!"
   },
   "1622": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 執事呼び！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls a butler!"
@@ -10077,7 +10077,7 @@
     "ビックリした顔": ""
   },
   "3360": {
-    "きあいの果実": ""
+    "きあいの果実": "Spirited Fruit"
   },
   "3361": {
     "clarity_nt_char_3361": "clarity_nt_char_3361"
@@ -24690,7 +24690,7 @@
     "clarity_nt_char_8230": "clarity_nt_char_8230"
   },
   "8231": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは なぐられると テンションアップ！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは なぐられると テンションアップ！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will now gain Tension on damage taken!"
   },
   "8232": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 周囲の味方のダメージを かわりにうけるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now taking damage in place of nearby allies!"
@@ -24762,7 +24762,7 @@
     "clarity_nt_char_8254": "clarity_nt_char_8254"
   },
   "8255": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 敵を シビれさせる！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 敵を シビれさせる！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can now paralyze enemies!"
   },
   "8256": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 身をかわしやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can now dodge more easily!"
@@ -25092,7 +25092,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 氷耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ice resist down!"
   },
   "8365": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔が とても 短くなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\'s command interval shortened by a lot!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔が とても 短くなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's command interval shortened by a lot!"
   },
   "8366": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 力のカードの効果が かかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's gained a Power Card effect!"
@@ -25764,7 +25764,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 攻撃魔力が ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's M. Might increased!"
   },
   "8589": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは タロットの回復とダメージが アップした！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは タロットの回復とダメージが アップした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Tarot recovery and damage increased!"
   },
   "8590": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 動きを封じられた！": ""
@@ -25791,7 +25791,7 @@
     "clarity_nt_char_8597": "clarity_nt_char_8597"
   },
   "8598": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふしぎなちからで 足元を 守られた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふしぎなちからで 足元を 守られた！": "A mysterious power protects \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e from falling!"
   },
   "8599": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 暗闇で チカラが増大した！！": ""
@@ -25998,7 +25998,7 @@
     "clarity_nt_char_8666": "clarity_nt_char_8666"
   },
   "8667": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 一定時間 ゴールドの消費が0になった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 一定時間 ゴールドの消費が0になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Gold costs reduced to 0 for a duration!"
   },
   "8668": {
     "clarity_nt_char_8668": "clarity_nt_char_8668"
@@ -27162,7 +27162,7 @@
     "clarity_nt_char_9054": "clarity_nt_char_9054"
   },
   "9055": {
-    "ボディーガードが 身体をはって守った！": "Your bodyguard protected you!"
+    "ボディーガードが 身体をはって守った！": "The bodyguard took the hit!"
   },
   "9056": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは パラディンバリアに 守られた！": ""
@@ -27609,7 +27609,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの からだから どくが きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's body was cleansed of poison!"
   },
   "9204": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションバーンの効果が きえた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションバーンの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Feel the Burn effect faded!"
   },
   "9205": {
     "clarity_nt_char_9205": "clarity_nt_char_9205"
@@ -27720,7 +27720,7 @@
     "clarity_nt_char_9240": "clarity_nt_char_9240"
   },
   "9241": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの モンスターゾーンが とけた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの モンスターゾーンが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Shocking Twist faded!"
   },
   "9242": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 身かわし率が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dodge rate returned to normal!"
@@ -28374,7 +28374,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マダンテのＭＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Magic Burst MP recovery faded!"
   },
   "9459": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃時 ＨＰ回復が きえた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃時 ＨＰ回復が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's HP recovery on attack faded!"
   },
   "9460": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 経験値と特訓アップの効果が きえた！": ""
@@ -28455,13 +28455,13 @@
     "clarity_nt_char_9485": "clarity_nt_char_9485"
   },
   "9486": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 物理テンションバーンの効果が きえた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 物理テンションバーンの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's physical Feel the Burn effect faded!"
   },
   "9487": {
     "clarity_nt_char_9487": "clarity_nt_char_9487"
   },
   "9488": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文テンションバーンの効果が きえた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文テンションバーンの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell Feel the Burn effect faded!"
   },
   "9489": {
     "clarity_nt_char_9489": "clarity_nt_char_9489"
@@ -28560,7 +28560,7 @@
     "clarity_nt_char_9520": "clarity_nt_char_9520"
   },
   "9521": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの タロットの威力アップの効果が きえた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの タロットの威力アップの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Tarot boost effect faded!"
   },
   "9522": {
     "clarity_nt_char_9522": "clarity_nt_char_9522"
@@ -28665,7 +28665,7 @@
     "clarity_nt_char_9555": "clarity_nt_char_9555"
   },
   "9556": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ゴールド消費0の効果が とけた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ゴールド消費0の効果が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's 0 Gold consumption effect faded!"
   },
   "9557": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ふっとびガードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Knockback Guard effect faded!"
@@ -32256,7 +32256,7 @@
     "clarity_nt_char_10752": "clarity_nt_char_10752"
   },
   "10753": {
-    "姿がもとにもどった": "No longer hidden."
+    "姿がもとにもどった": "Returned to normal."
   },
   "10754": {
     "達人の呼吸の|ＨＰ回復がおわった": "Master's Breath HP|recovery ended."
@@ -33993,7 +33993,7 @@
     "攻撃魔力の|効果時間延長！": ""
   },
   "11332": {
-    "足元が|ふしぎなちからで|守られた！": ""
+    "足元が|ふしぎなちからで|守られた！": "A mysterious|power will|prevent falling!"
   },
   "11333": {
     "clarity_nt_char_11333": "clarity_nt_char_11333"
