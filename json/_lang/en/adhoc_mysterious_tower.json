@@ -1,125 +1,125 @@
 {
-    "1": {
-        "「よく　来てくれたね。ここは　札強化屋だ。|　今日は　どんなご用かな？|<select_se_off>|効果を付ける|効果を成長させる|付いている効果を消す|不思議のカードをもらう|説明を聞く|<select_end><break>": "I'm glad you're here. This is a strong|bill... What can I do for you today?|<select_se_off>|add an effect|Growing Effectiveness|Erase the effect attached|I'll get a wonder card|Listen to the explanation|<select_end><break>"
-    },
-    "2": {
-        "予備テキスト": "supplementary text"
-    },
-    "3": {
-        "予備テキスト": "supplementary text"
-    },
-    "4": {
-        "予備テキスト": "supplementary text"
-    },
-    "5": {
-        "「効果を付けたいカードは　どれだい？|<break>": "Which card would you like to add the effect|to?<break>"
-    },
-    "6": {
-        "「この中から　付けたい効果を|　選んでくれるかな。|<break>": "You can choose any of these effects you|want...<break>"
-    },
-    "7": {
-        "「<%sL_ADD_KOUKA>だね。|　金のフェザーチップ　<%nL_WATASU_TIP>枚で|　効果を追加して　いいかな？|<yesno_2><break>": "<%sL_ADD_KOUKA... I'll add a gold feather tip|<%nL_WATASU_TIP> to the effect, okay?<yesno_2><break>"
-    },
-    "8": {
-        "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に|<%sL_ADD_KOUKA>の　効果を付けた！|<end>": "<pipipi_off><%sL_WATASITA_ITEM><%sM_plusnum> with the|effect of <%sL_ADD_KOUKA>!<end>"
-    },
-    "9": {
-        "「このカードは　ロックされているね。|　本当に　効果を付けても　いいかい？|<yesno_2><break>": "This card is locked... Are you sure you don't|want me to put an effect on it?<yesno_2><break>"
-    },
-    "10": {
-        "「他に　用はあるかい？|<select_se_off>|効果を付ける|効果を成長させる|付いている効果を消す|不思議のカードをもらう|説明を聞く|<select_end><break>": "Is there anything else I can do for you?|<select_se_off>|add an effect|Growing Effectiveness|Erase the effect attached|I'll get a wonder card|Listen to the explanation|<select_end><break>"
-    },
-    "11": {
-        "「効果を消したいカードは　どれだい？|<break>": "Which card would you like to remove the|effect from?<break>"
-    },
-    "12": {
-        "「消したい効果を　選んでくれるかな。|<break>": "You pick the effect you want to get rid of...<break>"
-    },
-    "13": {
-        "「<%sL_ERASE_KOUKA>だね。|　効果を消した後　<%sL_MODORU_ITEM>を|　<%nL_MODORU_TIP>枚　お返ししよう。|<br>|「<%nL_CARD_GOLD>ゴールド　かかるけど|　<%sL_ERASE_KOUKA>の|　効果を消しても　いいかい？|<yesno_2><break>": "<%sL_ERASE_KOUKA... <%sL_MODORU_ITEM> back to|<%nL_MODORU_TIP> after removing the effect...|It costs <%nL_CARD_GOLD> gold, but can I|<br>|remove the effect of <%sL_ERASE_KOUKA>?<yesno_2><break>"
-    },
-    "14": {
-        "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に 付いている|<%sL_ERASE_KOUKA>の　効果を消した！|<br>|<%sL_MODORU_ITEM>が　<%nL_MODORU_TIP>枚　戻ってきた！|<se_nots System 7>|<end>": "<pipipi_off>Removed <%sL_ERASE_KOUKA> from|<%sL_WATASITA_ITEM><%sM_plusnum>!|<%sL_MODORU_ITEM> is now back on|<br>|<%nL_MODORU_TIP>!|<se_nots System 7>|<end>"
-    },
-    "15": {
-        "「このカードには　これ以上|　効果を付けられないな……。|　すまないが　別のカードを　選んでくれないか。|<bw_break>": "I can't add any more effects to this card.|I'm sorry, but you'll have to choose another|card.<bw_break>"
-    },
-    "16": {
-        "「効果を消すには|　<%nL_CARD_GOLD>ゴールド　必要なんだが|　どうやら　お金が　足りないようだね。|<bw_break>": "I need <%nL_CARD_GOLD> gold to remove the|effect, but apparently I don't have enough...<bw_break>"
-    },
-    "17": {
-        "「このカードは　ロックされているね。|　別のカードを選んでくれるかな。|<bw_break>": "This card is locked. Please select another|card...<bw_break>"
-    },
-    "18": {
-        "「……すまないが　ひとつのカードに　同じ効果を|　ふたつ以上　付けることはできないんだ。|　別の効果を　選んでくれるかな。|<bw_break>": "I'm sorry. I'm sorry, but you can't have more|than one of the same effect on a single card.|You'll have to choose a different effect.<bw_break>"
-    },
-    "19": {
-        "「金のフェザーチップが　足りないようだね。|<bw_break>": "You're missing a gold feather tip...<bw_break>"
-    },
-    "20": {
-        "「そのカードには　まだ|　効果が　ひとつも付いてないな。|　すまないが　別のカードを　選んでくれないか。|<bw_break>": "That card still doesn't have any of the|effects. I'm sorry, but you're gonna have to|choose another card.<bw_break>"
-    },
-    "21": {
-        "「効果を成長させたいカードは　どれだい？|<break>": "Which of these cards would you like to grow|in effect?<break>"
-    },
-    "22": {
-        "「成長させたい効果を　選んでくれるかな。|<break>": "You can pick and choose the effects you want|to see grow...<break>"
-    },
-    "23": {
-        "「<%sL_GROW_KOUKA2>にするなら|　金のフェザーチップを　<%nL_WATASU_TIP>枚いただくけど|　効果を成長させて　いいかな？|<yesno_2><break>": "I'll take a <%nL_WATASU_TIP> gold feather tip|if you make it <%sL_GROW_KOUKA2>, but can I|grow the effect?<yesno_2><break>"
-    },
-    "24": {
-        "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に　付いている|<%sL_GROW_KOUKA>は|<%sL_GROW_KOUKA2>に　成長した！|<end>": "<pipipi_off>The <%sL_GROW_KOUKA> on|<%sL_WATASITA_ITEM><%sM_plusnum> has grown to|<%sL_GROW_KOUKA2>!<end>"
-    },
-    "25": {
-        "「このカードは　ロックされているね。|　本当に　効果を成長させても　いいかい？|<yesno_2><break>": "This card is locked... Are you sure you don't|want me to grow an effect on you?<yesno_2><break>"
-    },
-    "26": {
-        "※未使用": "* Not used"
-    },
-    "27": {
-        "※未使用": "* Not used"
-    },
-    "28": {
-        "※未使用": "* Not used"
-    },
-    "29": {
-        "「僕の店では　不思議のカードという　札アクセに|　キミの望む通りの　合成効果を付けられる。|<br>|「不思議のカードは　無料で配っているけれど|　効果を付けたり　強化するには　対価として|　金のフェザーチップを　何枚か　いただくよ。|<br>|「一度付けた効果を　消すこともできる。|　しかも　その効果に使った金のフェザーチップは|　全て　お返ししよう。|<br>|「ただし　効果を消す手数料として|　<%nL_CARD_GOLD>ゴールド　必要なので|　その辺は　ご理解いただきたい。|<br>|「あと　効果を付けたカードは　|　ぜったいに　間違って捨てないように頼むよ。|　使ったフェザーチップまで　無くなるからな。|<bw_break>": "In my shop, we have these magical cards that|can be used to create any effect you desire.|I give away the cards for free, but to add|<br>|effects or enhancements, you'll need a few|gold feather chips... Once an effect is|applied, it can be reversed. And all the gold|<br>|feather chips used for the effect are|returned to you. However, you will need to|pay a fee of <%nL_CARD_GOLD> gold to remove|<br>|the effect, so please understand that...|Also, please do not accidentally discard the|card with the effect... You'll lose the|<br>|feather chip you used...<bw_break>"
-    },
-    "30": {
-        "「僕でよかったら　いつでもチカラになろう。|　用がある時は　遠慮なく　声をかけてくれ。|<end>": "If it's okay with you, I'm always here for|you. If you need anything, please don't|hesitate to call me.<end>"
-    },
-    "31": {
-        "「不思議のカードを　持ってないようだね。|<end>": "I don't have the wonder card...<end>"
-    },
-    "32": {
-        "「よく　来てくれたね。ここは　札強化屋だ。|　しかし　塔がこの状態では|　商売も立ちいかなくてね……。|<br>|「チャコロット君に　協力してくれる|　物好きな人が　現れてくれると|　僕も　助かるんだが……。|<end>": "I'm glad you're here. This place is a|powerhouse... But with the tower in such a|state, it's hard to do business. It would be|<br>|a great help to me if some of you fancy a|little help with Mr. Chakolotto.<end>"
-    },
-    "33": {
-        "「不思議のカードを　もらっていくかい？|<yesno><break>": "Do you want to take the wonder card?<yesno><break>"
-    },
-    "34": {
-        "<%sL_GET_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "I got <%sL_GET_ITEM>!|<se_nots System 7>|<end>"
-    },
-    "35": {
-        "※未使用": "* Not used"
-    },
-    "36": {
-        "「<%sL_BAG_TYPE>が　いっぱいで|　<%sL_GET_ITEM>は|　持ちきれないようだね。|<bw_break>": "<%sL_BAG_TYPE> is too full to hold|<%sL_GET_ITEM>...<bw_break>"
-    },
-    "37": {
-        "「<%sL_BAG_TYPE>が　いっぱいで|　<%sL_MODORU_ITEM>は|　持ちきれないようだね。|<bw_break>": "<%sL_BAG_TYPE> is too full to hold|<%sL_MODORU_ITEM>...<bw_break>"
-    },
-    "38": {
-        "「やめておくんだね。|　ほしくなったら　いつでも言ってくれ。|<bw_break>": "I'll stop... If you ever need anything, just|let me know...<bw_break>"
-    },
-    "39": {
-        "「では　不思議のカードを　お渡ししよう。|　効果を付けたカードは　間違って|　捨てないように　注意してくれたまえ。|<bw_break>": "Now, I'm going to give you a wonder card...|Just make sure you don't accidentally throw|away the card with the effect...<bw_break>"
-    },
-    "40": {
-        "「……すまないが　その効果は|　これ以上　成長させられないんだ。|　別の効果を　選んでくれるかな。|<bw_break>": "I'm... I'm sorry, but I can't let that effect|grow any further. You'll have to choose|another effect.<bw_break>"
-    },
-    "41": {
-        "「キミが　魔物退治に協力してくれたおかげで|　ようやく　商売を再開できそうだよ。|　僕からも　お礼を言わせてくれ。ありがとう。|<br>|「僕は　札強化屋ラベロー。|　僕の店では　不思議のカードという　札アクセに|　キミの望む通りの　合成効果を付けられる。|<br>|「不思議のカードは　無料で配っているけれど|　効果を付けたり　強化するには　対価として|　金のフェザーチップを　何枚か　いただくよ。|<br>|「一度付けた効果を　消すこともできる。|　しかも　その効果に使った金のフェザーチップは|　全て　お返ししよう。|<br>|「ただし　効果を消す手数料として|　<%nL_CARD_GOLD>ゴールド　必要なので|　その辺は　ご理解いただきたい。|<br>|「あと　効果を付けたカードは　|　ぜったいに　間違って捨てないように頼むよ。|　使った　チップまで無くなるからな。さて……|<bw_break>": "Now that you've helped us defeat the demon,|we can finally get back to business. I'd like|to say thank you... Yes... I'm Ra, the card-|<br>|enhancer. At my shop, we sell cards of|wonders that can be used to create any effect|you desire. I give out the cards for free,|<br>|but to add effects or enhancements, I require|a few gold feather chips as payment. Once an|effect is applied, it can be reversed. And|<br>|all the gold feather chips used for the|effect are returned to you. However, you will|need to pay a fee of <%nL_CARD_GOLD> gold to|<br>|remove the effect, so please understand|that... Also, do not accidentally discard the|card with the effect... You'll lose the chip|<br>|you used. Now...<bw_break>"
-    }
+  "1": {
+    "「よく　来てくれたね。ここは　札強化屋だ。|　今日は　どんなご用かな？|<select_se_off>|効果を付ける|効果を成長させる|付いている効果を消す|不思議のカードをもらう|説明を聞く|<select_end><break>": "I'm glad you're here. This is a strong|bill... What can I do for you today?|<select_se_off>|add an effect|Growing Effectiveness|Erase the effect attached|I'll get a wonder card|Listen to the explanation|<select_end><break>"
+  },
+  "2": {
+    "予備テキスト": "supplementary text"
+  },
+  "3": {
+    "予備テキスト": "supplementary text"
+  },
+  "4": {
+    "予備テキスト": "supplementary text"
+  },
+  "5": {
+    "「効果を付けたいカードは　どれだい？|<break>": "Which card would you like to add the effect|to?<break>"
+  },
+  "6": {
+    "「この中から　付けたい効果を|　選んでくれるかな。|<break>": "You can choose any of these effects you|want...<break>"
+  },
+  "7": {
+    "「<%sL_ADD_KOUKA>だね。|　金のフェザーチップ　<%nL_WATASU_TIP>枚で|　効果を追加して　いいかな？|<yesno_2><break>": "<%sL_ADD_KOUKA... I'll add a gold feather tip|<%nL_WATASU_TIP> to the effect, okay?<yesno_2><break>"
+  },
+  "8": {
+    "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に|<%sL_ADD_KOUKA>の　効果を付けた！|<end>": "<pipipi_off><%sL_WATASITA_ITEM><%sM_plusnum> had the effect of|<%sL_ADD_KOUKA> added!<end>"
+  },
+  "9": {
+    "「このカードは　ロックされているね。|　本当に　効果を付けても　いいかい？|<yesno_2><break>": "This card is locked... Are you sure you don't|want me to put an effect on it?<yesno_2><break>"
+  },
+  "10": {
+    "「他に　用はあるかい？|<select_se_off>|効果を付ける|効果を成長させる|付いている効果を消す|不思議のカードをもらう|説明を聞く|<select_end><break>": "Is there anything else I can do for you?|<select_se_off>|add an effect|Growing Effectiveness|Erase the effect attached|I'll get a wonder card|Listen to the explanation|<select_end><break>"
+  },
+  "11": {
+    "「効果を消したいカードは　どれだい？|<break>": "Which card would you like to remove the|effect from?<break>"
+  },
+  "12": {
+    "「消したい効果を　選んでくれるかな。|<break>": "You pick the effect you want to get rid of...<break>"
+  },
+  "13": {
+    "「<%sL_ERASE_KOUKA>だね。|　効果を消した後　<%sL_MODORU_ITEM>を|　<%nL_MODORU_TIP>枚　お返ししよう。|<br>|「<%nL_CARD_GOLD>ゴールド　かかるけど|　<%sL_ERASE_KOUKA>の|　効果を消しても　いいかい？|<yesno_2><break>": "<%sL_ERASE_KOUKA... <%sL_MODORU_ITEM> back to|<%nL_MODORU_TIP> after removing the effect...|It costs <%nL_CARD_GOLD> gold, but can I|<br>|remove the effect of <%sL_ERASE_KOUKA>?<yesno_2><break>"
+  },
+  "14": {
+    "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に 付いている|<%sL_ERASE_KOUKA>の　効果を消した！|<br>|<%sL_MODORU_ITEM>が　<%nL_MODORU_TIP>枚　戻ってきた！|<se_nots System 7>|<end>": "<pipipi_off>Removed <%sL_ERASE_KOUKA> from|<%sL_WATASITA_ITEM><%sM_plusnum>!|<%sL_MODORU_ITEM> is now back on|<br>|<%nL_MODORU_TIP>!|<se_nots System 7>|<end>"
+  },
+  "15": {
+    "「このカードには　これ以上|　効果を付けられないな……。|　すまないが　別のカードを　選んでくれないか。|<bw_break>": "I can't add any more effects to this card.|I'm sorry, but you'll have to choose another|card.<bw_break>"
+  },
+  "16": {
+    "「効果を消すには|　<%nL_CARD_GOLD>ゴールド　必要なんだが|　どうやら　お金が　足りないようだね。|<bw_break>": "I need <%nL_CARD_GOLD> gold to remove the|effect, but apparently I don't have enough...<bw_break>"
+  },
+  "17": {
+    "「このカードは　ロックされているね。|　別のカードを選んでくれるかな。|<bw_break>": "This card is locked. Please select another|card...<bw_break>"
+  },
+  "18": {
+    "「……すまないが　ひとつのカードに　同じ効果を|　ふたつ以上　付けることはできないんだ。|　別の効果を　選んでくれるかな。|<bw_break>": "I'm sorry. I'm sorry, but you can't have more|than one of the same effect on a single card.|You'll have to choose a different effect.<bw_break>"
+  },
+  "19": {
+    "「金のフェザーチップが　足りないようだね。|<bw_break>": "You're missing a gold feather tip...<bw_break>"
+  },
+  "20": {
+    "「そのカードには　まだ|　効果が　ひとつも付いてないな。|　すまないが　別のカードを　選んでくれないか。|<bw_break>": "That card still doesn't have any of the|effects. I'm sorry, but you're gonna have to|choose another card.<bw_break>"
+  },
+  "21": {
+    "「効果を成長させたいカードは　どれだい？|<break>": "Which of these cards would you like to grow|in effect?<break>"
+  },
+  "22": {
+    "「成長させたい効果を　選んでくれるかな。|<break>": "You can pick and choose the effects you want|to see grow...<break>"
+  },
+  "23": {
+    "「<%sL_GROW_KOUKA2>にするなら|　金のフェザーチップを　<%nL_WATASU_TIP>枚いただくけど|　効果を成長させて　いいかな？|<yesno_2><break>": "I'll take a <%nL_WATASU_TIP> gold feather tip|if you make it <%sL_GROW_KOUKA2>, but can I|grow the effect?<yesno_2><break>"
+  },
+  "24": {
+    "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に　付いている|<%sL_GROW_KOUKA>は|<%sL_GROW_KOUKA2>に　成長した！|<end>": "<pipipi_off>The <%sL_GROW_KOUKA> on|<%sL_WATASITA_ITEM><%sM_plusnum> has grown to|<%sL_GROW_KOUKA2>!<end>"
+  },
+  "25": {
+    "「このカードは　ロックされているね。|　本当に　効果を成長させても　いいかい？|<yesno_2><break>": "This card is locked... Are you sure you don't|want me to grow an effect on you?<yesno_2><break>"
+  },
+  "26": {
+    "※未使用": "* Not used"
+  },
+  "27": {
+    "※未使用": "* Not used"
+  },
+  "28": {
+    "※未使用": "* Not used"
+  },
+  "29": {
+    "「僕の店では　不思議のカードという　札アクセに|　キミの望む通りの　合成効果を付けられる。|<br>|「不思議のカードは　無料で配っているけれど|　効果を付けたり　強化するには　対価として|　金のフェザーチップを　何枚か　いただくよ。|<br>|「一度付けた効果を　消すこともできる。|　しかも　その効果に使った金のフェザーチップは|　全て　お返ししよう。|<br>|「ただし　効果を消す手数料として|　<%nL_CARD_GOLD>ゴールド　必要なので|　その辺は　ご理解いただきたい。|<br>|「あと　効果を付けたカードは　|　ぜったいに　間違って捨てないように頼むよ。|　使ったフェザーチップまで　無くなるからな。|<bw_break>": "In my shop, we have these magical cards that|can be used to create any effect you desire.|I give away the cards for free, but to add|<br>|effects or enhancements, you'll need a few|gold feather chips... Once an effect is|applied, it can be reversed. And all the gold|<br>|feather chips used for the effect are|returned to you. However, you will need to|pay a fee of <%nL_CARD_GOLD> gold to remove|<br>|the effect, so please understand that...|Also, please do not accidentally discard the|card with the effect... You'll lose the|<br>|feather chip you used...<bw_break>"
+  },
+  "30": {
+    "「僕でよかったら　いつでもチカラになろう。|　用がある時は　遠慮なく　声をかけてくれ。|<end>": "If it's okay with you, I'm always here for|you. If you need anything, please don't|hesitate to call me.<end>"
+  },
+  "31": {
+    "「不思議のカードを　持ってないようだね。|<end>": "I don't have the wonder card...<end>"
+  },
+  "32": {
+    "「よく　来てくれたね。ここは　札強化屋だ。|　しかし　塔がこの状態では|　商売も立ちいかなくてね……。|<br>|「チャコロット君に　協力してくれる|　物好きな人が　現れてくれると|　僕も　助かるんだが……。|<end>": "I'm glad you're here. This place is a|powerhouse... But with the tower in such a|state, it's hard to do business. It would be|<br>|a great help to me if some of you fancy a|little help with Mr. Chakolotto.<end>"
+  },
+  "33": {
+    "「不思議のカードを　もらっていくかい？|<yesno><break>": "Do you want to take the wonder card?<yesno><break>"
+  },
+  "34": {
+    "<%sL_GET_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "I got <%sL_GET_ITEM>!|<se_nots System 7>|<end>"
+  },
+  "35": {
+    "※未使用": "* Not used"
+  },
+  "36": {
+    "「<%sL_BAG_TYPE>が　いっぱいで|　<%sL_GET_ITEM>は|　持ちきれないようだね。|<bw_break>": "<%sL_BAG_TYPE> is too full to hold|<%sL_GET_ITEM>...<bw_break>"
+  },
+  "37": {
+    "「<%sL_BAG_TYPE>が　いっぱいで|　<%sL_MODORU_ITEM>は|　持ちきれないようだね。|<bw_break>": "<%sL_BAG_TYPE> is too full to hold|<%sL_MODORU_ITEM>...<bw_break>"
+  },
+  "38": {
+    "「やめておくんだね。|　ほしくなったら　いつでも言ってくれ。|<bw_break>": "I'll stop... If you ever need anything, just|let me know...<bw_break>"
+  },
+  "39": {
+    "「では　不思議のカードを　お渡ししよう。|　効果を付けたカードは　間違って|　捨てないように　注意してくれたまえ。|<bw_break>": "Now, I'm going to give you a wonder card...|Just make sure you don't accidentally throw|away the card with the effect...<bw_break>"
+  },
+  "40": {
+    "「……すまないが　その効果は|　これ以上　成長させられないんだ。|　別の効果を　選んでくれるかな。|<bw_break>": "I'm... I'm sorry, but I can't let that effect|grow any further. You'll have to choose|another effect.<bw_break>"
+  },
+  "41": {
+    "「キミが　魔物退治に協力してくれたおかげで|　ようやく　商売を再開できそうだよ。|　僕からも　お礼を言わせてくれ。ありがとう。|<br>|「僕は　札強化屋ラベロー。|　僕の店では　不思議のカードという　札アクセに|　キミの望む通りの　合成効果を付けられる。|<br>|「不思議のカードは　無料で配っているけれど|　効果を付けたり　強化するには　対価として|　金のフェザーチップを　何枚か　いただくよ。|<br>|「一度付けた効果を　消すこともできる。|　しかも　その効果に使った金のフェザーチップは|　全て　お返ししよう。|<br>|「ただし　効果を消す手数料として|　<%nL_CARD_GOLD>ゴールド　必要なので|　その辺は　ご理解いただきたい。|<br>|「あと　効果を付けたカードは　|　ぜったいに　間違って捨てないように頼むよ。|　使った　チップまで無くなるからな。さて……|<bw_break>": "Now that you've helped us defeat the demon,|we can finally get back to business. I'd like|to say thank you... Yes... I'm Ra, the card-|<br>|enhancer. At my shop, we sell cards of|wonders that can be used to create any effect|you desire. I give out the cards for free,|<br>|but to add effects or enhancements, I require|a few gold feather chips as payment. Once an|effect is applied, it can be reversed. And|<br>|all the gold feather chips used for the|effect are returned to you. However, you will|need to pay a fee of <%nL_CARD_GOLD> gold to|<br>|remove the effect, so please understand|that... Also, do not accidentally discard the|card with the effect... You'll lose the chip|<br>|you used. Now...<bw_break>"
+  }
 }
