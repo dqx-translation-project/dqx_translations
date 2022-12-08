@@ -45,7 +45,7 @@
     "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": "The <%sL_URITAI_ITEM>.|I'll buy it for <%dL_SELL_PRICE> gold.|Is that okay?|<yesno><break>"
   },
   "16": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だな。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るが　いいかね？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だな。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るが　いいかね？|<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>, right?|I can buy those for <%dL_SELL_PRICE> Gold.|What do you say?|<yesno><break>"
   },
   "17": {
     "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
@@ -168,7 +168,7 @@
     "「<%sL_URITAI_ITEM>を　ひとつだね。|　<%nL_SELL_PRICE>ゴールドで　買い取るけど|　いいかい？|<yesno><break>": "<%sL_URITAI_ITEM> for one... <%nL_SELL_PRICE>|for gold, okay?<yesno><break>"
   },
   "57": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だね。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るけど　いいかい？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だね。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るけど　いいかい？|<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>, right?|I can buy those for <%dL_SELL_PRICE> Gold.|What do you say?|<yesno><break>"
   },
   "58": {
     "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
@@ -291,7 +291,7 @@
     "「<%sL_URITAI_ITEM>を　ひとつですね。|　<%nL_SELL_PRICE>ゴールドで　買い取りますが|　よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM>? I'll buy it|for <%dL_SELL_PRICE> Gold. How does that sound?|<yesno><break>"
   },
   "98": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>, was it?|I can buy them for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "99": {
     "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
@@ -414,7 +414,7 @@
     "「<%sL_URITAI_ITEM>を　おひとつですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM>... Then I'd like to buy|it for <%nL_SELL_PRICE> gold... Are you sure?<yesno><break>"
   },
   "139": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>, was it?|I can buy them for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "140": {
     "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
@@ -693,7 +693,7 @@
     "「<%sL_URITAI_ITEM>を　おひとつですねっ。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取りますけど　よろしいですか？|<yesno><break>": "<%sL_URITAI_ITEM> for one... Then I'll buy it|for <%nL_SELL_PRICE> gold, if that's okay|with you?<yesno><break>"
   },
   "232": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですねっ。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますけど　よろしいですか？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですねっ。|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますけど　よろしいですか？|<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>, was it?|I can buy them for <%dL_SELL_PRICE> Gold.|How's that sound?|<yesno><break>"
   },
   "233": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
