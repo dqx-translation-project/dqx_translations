@@ -99,10 +99,10 @@
     "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
   },
   "34": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<break>"
   },
   "35": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "36": {
     "「おめでとうございます！|　ダブルすれちがいポイント|　<%nL_MEGURIGET>ポイントを　達成いたしました！|<br>|「それを　記念しまして|　<%sL_ITEM>を　進呈いたします！|　これからも　ステキな　ダブルすれちがいを！|<bw_break>": "Congratulations! You've reached the double|passing point of <%nL_MEGURIGET>! To|celebrate, we're giving away a <%sL_ITEM>!|<br>|Have a wonderful Double Passing!<bw_break>"
@@ -180,10 +180,10 @@
     "「では　ふくびき券<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me your <%dM_Hukubiki_Num> tickets.|I pray that you'll have good luck.|<end>"
   },
   "61": {
-    "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won first prize,|<%sL_PRIZENAME>!<bw><close>"
+    "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won the top prize!|<bw><close>"
   },
   "62": {
-    "「おめでとうございます！　<%nL_TOU>等が当たりました！|　次の中から　<%sL_PRIZENAME>を|　お選びください。|<break>": "Congratulations! You've won <%nL_TOU> and|more! Please choose <%sL_PRIZENAME> from the|following...<break>"
+    "「おめでとうございます！　<%nL_TOU>等が当たりました！|　次の中から　<%sL_PRIZENAME>を|　お選びください。|<break>": "Congratulations! You won a Rank <%dL_TOU> prize!|Please select <%sL_PRIZENAME>|from the following.|<break>"
   },
   "63": {
     "「<%sL_KOUKAN_ITEM>で　よろしいですか？|<yesno><break>": "Are you sure you want to use|<%sL_KOUKAN_ITEM>?<yesno><break>"
@@ -285,7 +285,7 @@
     "「現在　スペシャルふくびき券が　<%dL_ITEMNUM>枚あります。|<br>|「お預かりしている　スペシャルふくびき券を|　引き取って頂かないと　スペシャルふくびきも|　通常のふくびきも　できません。|<br>|「スペシャルふくびき券を　受けとっていただき|　どうぐかばんと　そうびぶくろに　空きを作って|　また　おこしください。|<bw_break>": "We currently have <%dL_ITEMNUM> special|coupons... If you don't take back your|special coupons, we won't be able to do any|<br>|more special or regular coupons... We'll need|you to pick up your special coupon tickets,|make room in your bag and bag, and return...<bw_break>"
   },
   "96": {
-    "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me the special coupon... I'm|praying for a good luck...<end>"
+    "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "I'll take your <%dM_Hukubiki_Num> tickets, then.|I pray that you'll have good luck.|<end>"
   },
   "97": {
     "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "You can draw once with one SP Lottery Ticket.|Would you like to play?|<select_se_off>|Single SP Draw|10 SP Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
@@ -4389,7 +4389,7 @@
     "「この度　スペシャルふくびきに|　さらに　新しいサービスを始めましたので|　ご紹介させていただきます。|<br>|「その名も　スペシャル１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　スペシャルふくびきが　まとめてまわせます。|<br>|「スペシャル１０連ふくびきは　１度に１０枚の|　スペシャルふくびき券を　いただきます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "I'd like to introduce you to a new service|we've been working on... We're calling it the|Special 10-Strike Discount Service! We've|<br>|been working on a new service for a while|now... The Special 10-Pack is a service that|allows you to receive 10 special coupons at|<br>|once... We'll give you the 10 prizes you've|won on the spot, but if you can't keep them,|our travel concierge will keep them for|<br>|you... Please note, however, that you will|not be able to win any more prizes until you|have picked up all your prizes...<end>"
   },
   "1464": {
-    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! Here are the results of this|special 10-round lucky draw...<end>"
+    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! These are the results of your|10 SP Draw.|<end>"
   },
   "1465": {
     "「おや……<pc>さま。|　もちものの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャル１０連ふくびきは　|　どうぐかばんに　１つ　そうびぶくろに　１つ|　空きがないと　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから|　またお越しください。|<bw_break>": "Oh, <if_woman>Ms.<else>Mr.<endif> <pc>.... You don't have|enough space in your bags to be able to|receive all of your prizes.|<br>|You'll need at least 1 free slot in both your|item and equipment bags to play. Please|reorganize your bags and then come back.|<bw_break>"
@@ -6240,7 +6240,7 @@
     "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　もらうぜ。|　見事に福が引けるといいな！|<end>": "I'll give you a special lucky draw ticket...|I hope you get a good luck!<end>"
   },
   "2081": {
-    "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me the special coupon... I'm|praying for a good luck...<end>"
+    "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "I'll take your <%dM_Hukubiki_Num> tickets, then.|I pray that you'll have good luck.|<end>"
   },
   "2082": {
     "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　もらう。|　見事に福が引けるよう　祈ってやる。|<end>": "I've got a special coupon for you... Pray for|good luck...<end>"
@@ -7017,16 +7017,16 @@
     "「この度　スペシャルふくびきに|　さらに　新しいサービスを始めましたので|　ご紹介させていただきます。|<br>|「その名も　スペシャル１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　スペシャルふくびきが　まとめてまわせます。|<br>|「スペシャル１０連ふくびきは　１度に１０枚の|　スペシャルふくびき券を　いただきます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "I'd like to introduce you to a new service|we've been working on... We're calling it the|Special 10-Strike Discount Service! We've|<br>|been working on a new service for a while|now... The Special 10-Pack is a service that|allows you to receive 10 special coupons at|<br>|once... We'll give you the 10 prizes you've|won on the spot, but if you can't keep them,|our travel concierge will keep them for|<br>|you... Please note, however, that you will|not be able to win any more prizes until you|have picked up all your prizes...<end>"
   },
   "2340": {
-    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! Here are the results of this|special 10-round lucky draw...<end>"
+    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! These are the results of your|10 SP Draw.|<end>"
   },
   "2341": {
-    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! Here are the results of this|special 10-round lucky draw...<end>"
+    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! These are the results of your|10 SP Draw.|<end>"
   },
   "2342": {
-    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! Here are the results of this|special 10-round lucky draw...<end>"
+    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! These are the results of your|10 SP Draw.|<end>"
   },
   "2343": {
-    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! Here are the results of this|special 10-round lucky draw...<end>"
+    "「おめでとうございます！|　今回の　スペシャル１０連ふくびきの|　結果は　こちらになります。|<end>": "Congratulations! These are the results of your|10 SP Draw.|<end>"
   },
   "2344": {
     "「これで　すべての賞品が　決定しました。|　こちらが　今回の|　スペシャル１０連ふくびき賞品です。|<bw_break>": "Now that all the prizes have been|determined... This is the prize for this|special 10-round lucky draw...<bw_break>"
@@ -7488,82 +7488,82 @@
     "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換してよろしいですか？|<yesno 2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno 2><break>"
   },
   "2497": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2498": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2499": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2500": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2501": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2502": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2503": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2504": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2505": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2506": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2507": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2508": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2509": {
-    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": "Please select the prize you would like to|receive in advance for each prize rank.|<break>"
   },
   "2510": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2511": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2512": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2513": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2514": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2515": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2516": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2517": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2518": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2519": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2520": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2521": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2522": {
-    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": "Please select your desired prize.|<color_yellow>Please note that this preference is separate|from the one selected in the smartphone app.|<color_white>|<break>"
   },
   "2523": {
     "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
