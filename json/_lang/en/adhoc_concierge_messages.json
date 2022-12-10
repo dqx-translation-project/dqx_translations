@@ -258,10 +258,10 @@
     "「<pc>さまに　ご案内させていただいた|　本日のガイドは　こちらになります。|<bw_break>": "I'm more than happy to show you today's guide.|<bw_break>"
   },
   "87": {
-    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "This time, we at Travel Concierge would like|to share with you our top picks... It's not a|quest, so you don't need to order or report|<br>|anything... If you haven't already, please do|so.<pc> I hope you'll try to incorporate it into your|life of adventure.<bw_break>"
+    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "We would like to recommend you some|information that you may find useful.|<br>|It isn't a quest or anything, so there's|nothing to accept or report.|<br>|If you haven't given it a try yet, we hope|you'll incorporate it into your journey|somehow.|<bw_break>"
   },
   "88": {
-    "「おや……<pc>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh<pc> Thank you. There's not enough room in the bag|to carry all the prizes... You'll need two|empty bags and one empty envelope... We'll|<br>|sort through your bag and bag, make the|necessary room, and come back...<bw_break>"
+    "「おや……<pc>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh, my apologies, but you don't have enough|room in your equipment bag to hold all of|your prizes you've won.|<br>|You can't receive them unless you have at|least 2 open item bag slots and at least 1|open equipment bag slot.|<br>|Please make room in both of your bags, and|then come back to see me.|<bw_break>"
   },
   "89": {
     "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
@@ -303,7 +303,7 @@
     "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here is the list of friends that will be|mailed SP Lottery Tickets this time.|<br>|They will receive one letter per ticket.|Please note, we will not send mail to any|friends whose mailboxes are full.|<end><bw_break>"
   },
   "102": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "103": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
@@ -312,16 +312,16 @@
     "「<se_nots System 20><pc>さま　お待ちください！|　３等以上の　当選となりましたので……|<bw_break>": "<if_woman>Ms.<else>Mr.<endif> <pc>, wait a moment!|You've won at least 3rd prize...|<bw_break>"
   },
   "105": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "106": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "107": {
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "108": {
-    "「おや……<pc>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh<pc> Thank you. There's not enough room in the bag|to hold all the prizes... The special prize|draw is only possible if there's room in one|<br>|bag and one in the gift bag... We'll sort out|your bag and bag, make the necessary space,|and come back...<bw_break>"
+    "「おや……<pc>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh, my apologies, but you don't have enough|room in your equipment bag to hold all of|your prizes you've won.|<br>|You can't receive them unless you have at|least 1 open item bag slot and at least 1|open equipment bag slot.|<br>|Please make room in both of your bags, and|then come back to see me.|<bw_break>"
   },
   "109": {
     "「おや……<pc>さま。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh<pc> I'm sorry. I can't carry all the prizes|because I don't have enough room in my bag...|The special prize draw is only available if|<br>|there's room in one of your trinkets and one|in your glove compartment... We'll need to|clean out your bag and bag of supplies to|<br>|make room, then come back...<bw_break>"
@@ -390,13 +390,13 @@
     "「現在　私から　お伝えできる|　イベント情報はございません。|<br>|「目覚めし冒険者の広場に　別のイベント情報が|　出ている場合が　ありますので|　そちらも　お確かめください。|<bw_break>": "I'm afraid I don't have any information to|share with you at this time. There may be|other events listed in the Awakened|<br>|Adventurer's Square, so please check there as|well...<bw_break>"
   },
   "131": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "132": {
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
   },
   "133": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "134": {
     "「おや……<%sM_OWNER><%sM_SAMA>。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER><%sM_SA... There's not|enough room in the glove compartment to carry|all the prizes... You'll need two empty bags|<br>|and one empty bag... We'll sort through your|trinkets and your bag to make room, then come|back...<bw_break>"
@@ -807,13 +807,13 @@
     "「ごめんなさ～い。|　現在　ボクから　お伝えできる|　イベント情報は　ないのです～。|<br>|「目覚めし冒険者の広場に　別のイベント情報が|　出ている場合が　ありますので|　そちらも　確認してみてください～。|<bw_break>": "I'm sorry, I... I don't have any event|information to share with you right now.|There may be other events listed in the|<br>|Awakened Adventurer's Square, so please check|there as well...<bw_break>"
   },
   "270": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "271": {
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
   },
   "272": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "273": {
     "「おや……<%sM_OWNER><%sM_SAMA>。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER><%sM_SA... There's not|enough room in the glove compartment to carry|all the prizes... You'll need two empty bags|<br>|and one empty bag... We'll sort through your|trinkets and your bag to make room, then come|back...<bw_break>"
@@ -1185,13 +1185,13 @@
     "「ごめんなさ～い。|　現在　私から　お伝えできる|　イベント情報は　ないのです～。|<br>|「目覚めし冒険者の広場に　別のイベント情報が|　出ている場合が　ありますので|　そちらも　確認してみてください～。|<bw_break>": "I'm sorry... I don't have any event|information to share with you right now.|There may be other events listed in the|<br>|Awakened Adventurer's Square, so please check|there as well...<bw_break>"
   },
   "396": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "397": {
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
   },
   "398": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "399": {
     "「おや……<%sM_OWNER><%sM_SAMA>。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER><%sM_SA... There's not|enough room in the glove compartment to carry|all the prizes... You'll need two empty bags|<br>|and one empty bag... We'll sort through your|trinkets and your bag to make room, then come|back...<bw_break>"
@@ -1563,13 +1563,13 @@
     "「今　オイラから　伝えられる|　イベント情報は　ないなあー。|<br>|「目覚めし冒険者の広場に　別のイベント情報が|　出てることも　あるから|　そっちも　確かめてくれよー！|<bw_break>": "I don't have any event information to share|with you right now. There may be other events|listed in the Awakened Adventurer's Square,|<br>|so please check there as well!<bw_break>"
   },
   "522": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "523": {
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
   },
   "524": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "525": {
     "「おや……<%sM_OWNER>さま。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the glove compartment to carry all the|prizes... You'll need two empty trinkets in|<br>|your bag and one empty one in your bag of|tricks... We'll sort through your trinkets|and your bag to make room, then come back...<bw_break>"
@@ -1941,13 +1941,13 @@
     "「今　私から　伝えられる|　イベント情報は　ないなあー。|<br>|「目覚めし冒険者の広場に　別のイベント情報が|　出てることも　あるから|　そっちも　確かめてみてー！|<bw_break>": "There's nothing I can tell you right now...|There may be other events listed in the|Awakened Adventurer's Square, so please check|<br>|there as well!<bw_break>"
   },
   "648": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "649": {
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
   },
   "650": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "651": {
     "「おや……<%sM_OWNER>さま。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the glove compartment to carry all the|prizes... You'll need two empty trinkets in|<br>|your bag and one empty one in your bag of|tricks... We'll sort through your trinkets|and your bag to make room, then come back...<bw_break>"
@@ -2319,13 +2319,13 @@
     "「今んとこ　オレから　伝えられる|　イベント情報はないな。|<br>|「目覚めし冒険者の広場に|　別のイベント情報が　出ている場合があるから|　そっちも　気が向いたら　見とけよ。|<bw_break>": "So far, the only event information I can give|you is... There may be other events posted in|the Awakened Adventurer's Square, so if|<br>|you're so inclined...<bw_break>"
   },
   "774": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "775": {
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
   },
   "776": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "777": {
     "「おや……<%sM_OWNER>さま。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the glove compartment to carry all the|prizes... You'll need two empty trinkets in|<br>|your bag and one empty one in your bag of|tricks... We'll sort through your trinkets|and your bag to make room, then come back...<bw_break>"
@@ -2697,13 +2697,13 @@
     "「僕から　伝えられる　イベント情報は|　今のところは　特にないね。|<br>|「目覚めし冒険者の広場に|　別のイベント情報が　出ていることもあるから|　そっちも　確かめてみると　いいよ。|<bw_break>": "I'm afraid I don't have much to tell you at|the moment. There's another event listed in|the Awakened Adventurer's Square, so you|<br>|might want to check there as well.<bw_break>"
   },
   "900": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "901": {
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
   },
   "902": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "903": {
     "「おや……<%sM_OWNER>さま。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the glove compartment to carry all the|prizes... You'll need two empty trinkets in|<br>|your bag and one empty one in your bag of|tricks... We'll sort through your trinkets|and your bag to make room, then come back...<bw_break>"
@@ -3075,13 +3075,13 @@
     "「私から　伝えられる　イベント情報は|　今のところは　特にないわね。|<br>|「目覚めし冒険者の広場に|　別のイベント情報が　出ていることもあるから|　そっちも　確かめてみると　いいわよ。|<bw_break>": "I'm afraid there's nothing much I can tell|you at the moment... There may be other|events listed in the Awakened Adventurer's|<br>|Square, so you might want to check there as|well...<bw_break>"
   },
   "1026": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "1027": {
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
   },
   "1028": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "1029": {
     "「おや……<%sM_OWNER>さま。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the glove compartment to carry all the|prizes... You'll need two empty trinkets in|<br>|your bag and one empty one in your bag of|tricks... We'll sort through your trinkets|and your bag to make room, then come back...<bw_break>"
@@ -6177,16 +6177,16 @@
     "「<pc>さまに　ご案内させていただいた|　本日のガイドは　こちらになります。|<bw_break>": "I'm more than happy to show you today's guide.|<bw_break>"
   },
   "2060": {
-    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "This time, we at Travel Concierge would like|to share with you our top picks... It's not a|quest, so you don't need to order or report|<br>|anything... If you haven't already, please do|so.<pc> I hope you'll try to incorporate it into your|life of adventure.<bw_break>"
+    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "We would like to recommend you some|information that you may find useful.|<br>|It isn't a quest or anything, so there's|nothing to accept or report.|<br>|If you haven't given it a try yet, we hope|you'll incorporate it into your journey|somehow.|<bw_break>"
   },
   "2061": {
-    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "This time, we at Travel Concierge would like|to share with you our top picks... It's not a|quest, so you don't need to order or report|<br>|anything... If you haven't already, please do|so.<pc> I hope you'll try to incorporate it into your|life of adventure.<bw_break>"
+    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "We would like to recommend you some|information that you may find useful.|<br>|It isn't a quest or anything, so there's|nothing to accept or report.|<br>|If you haven't given it a try yet, we hope|you'll incorporate it into your journey|somehow.|<bw_break>"
   },
   "2062": {
-    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "This time, we at Travel Concierge would like|to share with you our top picks... It's not a|quest, so you don't need to order or report|<br>|anything... If you haven't already, please do|so.<pc> I hope you'll try to incorporate it into your|life of adventure.<bw_break>"
+    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "We would like to recommend you some|information that you may find useful.|<br>|It isn't a quest or anything, so there's|nothing to accept or report.|<br>|If you haven't given it a try yet, we hope|you'll incorporate it into your journey|somehow.|<bw_break>"
   },
   "2063": {
-    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "This time, we at Travel Concierge would like|to share with you our top picks... It's not a|quest, so you don't need to order or report|<br>|anything... If you haven't already, please do|so.<pc> I hope you'll try to incorporate it into your|life of adventure.<bw_break>"
+    "「今回　おすすめするのは|　われわれ　旅のコンシェルジュの|　イチ押し情報となります。|<br>|「クエストでは　ありませんので|　クエストの　受注や報告は　必要ありません。|<br>|「まだ　こちらの　ご用意ができていないなら|　ぜひとも　<pc>さまの　冒険生活に|　取り入れてみてください。|<bw_break>": "We would like to recommend you some|information that you may find useful.|<br>|It isn't a quest or anything, so there's|nothing to accept or report.|<br>|If you haven't given it a try yet, we hope|you'll incorporate it into your journey|somehow.|<bw_break>"
   },
   "2064": {
     "「おいおい　<pc>。|　そうびぶくろの　空きが足りないから|　賞品が当たっても　持ちきれないぜ。|<br>|「ふくびきは　そうびぶくろに　２つ|　そうびぶくろに　１つ　空きがないと|　できないな。|<br>|「そうびぶくろと　そうびぶくろを整理して|　必要な空きを作ってから　また来てくれよな。|<bw_break>": "step by step<pc> I'm sorry. There's not enough room in the|bag, so if you win a prize, you can't keep|it. You need two empty spaces in your bag and|<br>|one empty space in your sobi bag... You'll|have to sort out the bag and the bag, make|the necessary space, and then come back...<bw_break>"
@@ -6393,16 +6393,16 @@
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "Please play the SP Draw with your friends|for more fun and happiness!|<bw_break>"
   },
   "2132": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "2133": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "2134": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "2135": {
-    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
+    "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "Your last draw was interrupted unexpectedly,|so we'll start from where it left off.|<end>"
   },
   "2136": {
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
@@ -6417,16 +6417,16 @@
     "「おっと……　３等以上の当選でしたが|　スペシャルふくびき券については|　すでに　おわたししていたようですね。|<end>": "Oops... I won third prize and above, but I|think I already gave away the special|coupon...<end>"
   },
   "2140": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "2141": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "2142": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "2143": {
-    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "The last special lottery didn't end properly,|so we're restarting the special lottery from|where we left off...<end>"
+    "「前回のスペシャルふくびきが|　正常に終了しなかったので　前回の途中から|　スペシャルふくびきを再開します。|<end>": "Your last special draw was interrupted|unexpectedly, so we'll start from where it|left off.|<end>"
   },
   "2144": {
     "「おや……<pc>さま。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh<pc> I'm sorry. I can't carry all the prizes|because I don't have enough room in my bag...|The special prize draw is only available if|<br>|there's room in one of your trinkets and one|in your glove compartment... We'll need to|clean out your bag and bag of supplies to|<br>|make room, then come back...<bw_break>"
