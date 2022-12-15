@@ -3,7 +3,7 @@
     "「この家を　家キットに　戻しますか？|<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
   },
   "2": {
-    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": ""
+    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
   },
   "3": {
     "「修正した内容を取り消して　元に戻しますか？|<yesno 2><break>": "Do you want to undo and revert the changes|you made?<yesno 2><break>"
@@ -33,7 +33,7 @@
     "「それを実行することは　できませんでした。|<break>": "You can't do that...<break>"
   },
   "12": {
-    "「はい。家を　家キットに　戻しました。|<bw_break>": ""
+    "「はい。家を　家キットに　戻しました。|<bw_break>": "Understood. Your house has returned to a house|kit.|<bw_break>"
   },
   "13": {
     "「あいさつ文を　変更しました。|<bw_break>": "I'll change the greeting...<bw_break>"
@@ -90,7 +90,7 @@
     "「あら？　|　それはサイズの大きい　家キットのようですね。 |<br>|「建て替えは　同じサイズか　土地サイズ以下の|　家キットを　選択してください。|<bw_break>": "Oh? That looks like a larger house kit... If|you're rebuilding, you'll need to select a|house kit that's the same size or smaller|<br>|than the lot size...<bw_break>"
   },
   "31": {
-    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": ""
+    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": "You have to be outside in order to do that.|<bw_break>"
   },
   "32": {
     "「まあ　<pc>さま？|　名前が　入力されていないようですよ？|<bw_break>": "oh!<pc> Sir? I don't think you've entered your name.<bw_break>"
@@ -174,7 +174,7 @@
     "「この家を　家キットに　戻しますか？|<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
   },
   "59": {
-    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": ""
+    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
   },
   "60": {
     "「修正した内容を取り消して　元に戻しますか？|<yesno 2><break>": "Do you want to undo and revert the changes|you made?<yesno 2><break>"
@@ -204,7 +204,7 @@
     "「それを実行することは　できませんでした。|<break>": "You can't do that...<break>"
   },
   "69": {
-    "「はい。家を　家キットに　戻しました。|<bw_break>": ""
+    "「はい。家を　家キットに　戻しました。|<bw_break>": "Understood. Your house has returned to a house|kit.|<bw_break>"
   },
   "70": {
     "「あいさつ文を　変更しました。|<bw_break>": "I'll change the greeting...<bw_break>"
@@ -261,7 +261,7 @@
     "「あら？　|　それはサイズの大きい　家キットのようですね。 |<br>|「建て替えは　同じサイズか　土地サイズ以下の|　家キットを　選択してください。|<bw_break>": "Oh? That looks like a larger house kit... If|you're rebuilding, you'll need to select a|house kit that's the same size or smaller|<br>|than the lot size...<bw_break>"
   },
   "88": {
-    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": ""
+    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": "You have to be outside in order to do that.|<bw_break>"
   },
   "89": {
     "「まあ　<pc>さま？|　名前が　入力されていないようですよ？|<bw_break>": "oh!<pc> Sir? I don't think you've entered your name.<bw_break>"
@@ -420,7 +420,7 @@
     "部屋の照明を　暗く　しますか？|<yesno><break>": "Would you like to dim the lights in your|room?<yesno><break>"
   },
   "141": {
-    "部屋の照明を　けしますか？|<yesno><break>": ""
+    "部屋の照明を　けしますか？|<yesno><break>": "Dim this room's lights?|<yesno><break>"
   },
   "142": {
     "部屋の照明を　明るく　しますか？|<yesno><break>": "Would you like to turn up the light in your|room?<yesno><break>"
@@ -429,7 +429,7 @@
     "部屋の照明を　暗く　しますか？|<yesno><break>": "Would you like to dim the lights in your|room?<yesno><break>"
   },
   "144": {
-    "部屋の照明を　けしますか？|<yesno><break>": ""
+    "部屋の照明を　けしますか？|<yesno><break>": "Dim this room's lights?|<yesno><break>"
   },
   "145": {
     "現在　部屋の照明は　明るくなっています。|部屋の明るさを　変更しますか？|<break>": "The lights in my room are currently turned|up... Would you like to change the brightness|in your room?<break>"
@@ -456,7 +456,7 @@
     "部屋の照明を　暗く　しました。": "I'm gonna dim the lights in the room."
   },
   "153": {
-    "部屋の照明を　けしました。": ""
+    "部屋の照明を　けしました。": "Lights have been dimmed."
   },
   "154": {
     "部屋の照明を　明るく　しました。": "I'm gonna turn up the lights in the room."
@@ -465,7 +465,7 @@
     "部屋の照明を　暗く　しました。": "I'm gonna dim the lights in the room."
   },
   "156": {
-    "部屋の照明を　けしました。": ""
+    "部屋の照明を　けしました。": "Lights have been dimmed."
   },
   "157": {
     "「この家は　チーム集会所に設定されています。|　チーム集会所設定を　解除しますか？|<yesno><break>": "This house has been set up as a team meeting|place... Would you like to remove the team|meeting place setting?<yesno><break>"
@@ -540,7 +540,7 @@
     "「プライベートコンシェルジュは|　一旦戻って　待機しています。|　再度呼びますので　どこに立ってもらいますか？": "Your private concierge will return and wait|for... I'll call you back. Where would you|like me to stand?"
   },
   "181": {
-    "機能のない　家具・庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": ""
+    "機能のない　家具・庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": "Lock non-functional decor from being|interactable with <convenience>?|<yesno><break>"
   },
   "182": {
     "機能のない　家具・庭具が|<convenience>に　反応するように|ロックを　解除しますか？|<yesno><break>": "Furniture and garden tools that don't work|<convenience>Do you want to unlock it so that it responds|to<yesno><break>"
@@ -552,7 +552,7 @@
     "家具・庭具のロックを　解除しました。": "Unlock furniture, garden tools..."
   },
   "185": {
-    "機能のない　家具・庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": ""
+    "機能のない　家具・庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": "Lock non-functional decor from being|interactable with <convenience>?|<yesno><break>"
   },
   "186": {
     "機能のない　家具・庭具が|<convenience>に　反応するように|ロックを　解除しますか？|<yesno><break>": "Furniture and garden tools that don't work|<convenience>Do you want to unlock it so that it responds|to<yesno><break>"
@@ -564,13 +564,13 @@
     "家具・庭具のロックを　解除しました。": "Unlock furniture, garden tools..."
   },
   "189": {
-    "現在　家具・庭具は　ロック中です。|設定を変更しますか？|<break>": ""
+    "現在　家具・庭具は　ロック中です。|設定を変更しますか？|<break>": "Decor is currently locked. Do you want to|change this setting?|<break>"
   },
   "190": {
     "現在　家具・庭具は　ロックされていません。|設定を変更しますか？|<break>": "Furniture and garden tools are currently|locked... Would you like to change your|settings?<break>"
   },
   "191": {
-    "現在　家具・庭具は　ロック中です。|設定を変更しますか？|<break>": ""
+    "現在　家具・庭具は　ロック中です。|設定を変更しますか？|<break>": "Decor is currently locked. Do you want to|change this setting?|<break>"
   },
   "192": {
     "現在　家具・庭具は　ロックされていません。|設定を変更しますか？|<break>": "Furniture and garden tools are currently|locked... Would you like to change your|settings?<break>"
@@ -630,10 +630,10 @@
     "「あら？　番地の　敷地内に|　プライベートコンシェルジュが|　いるみたいですね。|<br>|「プライベートコンシェルジュを|　番地の　敷地の外に　移動させるか|　お別れをしてから　お試しくださいね。|<bw_break>": "Oh? It looks like there's a private concierge|on the grounds of lot number... You can|either move the private concierge off the lot|<br>|or say your goodbyes and try...<bw_break>"
   },
   "211": {
-    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "What? It appears that the garden tools have|been placed on the numbered property... I|suggest you move the garden tools off the lot|<br>|or put them away and try...<bw_break>"
+    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "Hm? It seems that this plot has placed garden|decor on it.|<br>|You'll have to either move them out of the|plot or put them into storage.|<bw_break>"
   },
   "212": {
-    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "What? It appears that the garden tools have|been placed on the numbered property... I|suggest you move the garden tools off the lot|<br>|or put them away and try...<bw_break>"
+    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "Hm? It seems that this plot has placed garden|decor on it.|<br>|You'll have to either move them out of the|plot or put them into storage.|<bw_break>"
   },
   "213": {
     "「マイタウンの名前を　変更いたします。|<break>": "I've changed the name of my town...<break>"
@@ -687,7 +687,7 @@
     "「この家を　家キットに　戻しますか？|<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
   },
   "230": {
-    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": ""
+    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
   },
   "231": {
     "「お招きのつばさは　１０回使えて|　ひとつ　<%nL_GOLD>ゴールドです。|　購入しますか？|<yesno><break>": "The Wings of Invitation can be used 10 times,|one <%nL_GOLD> goal... Do you want to buy it?<yesno><break>"
@@ -756,7 +756,7 @@
     "部屋の照明を　暗く　しますか？|<yesno><break>": "Would you like to dim the lights in your|room?<yesno><break>"
   },
   "253": {
-    "部屋の照明を　けしますか？|<yesno><break>": ""
+    "部屋の照明を　けしますか？|<yesno><break>": "Dim this room's lights?|<yesno><break>"
   },
   "254": {
     "機能のない　庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": ""
@@ -834,7 +834,7 @@
     "「あら？　|　畑で　花を栽培中のようですね。|　畑をきれいにしてから　お試しください。|<bw_break>": "Oh? Looks like they're growing flowers in the|field... I'll have to clean up the field|before we can try...<bw_break>"
   },
   "279": {
-    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "What? It appears that the garden tools have|been placed on the numbered property... I|suggest you move the garden tools off the lot|<br>|or put them away and try...<bw_break>"
+    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "Hm? It seems that this plot has placed garden|decor on it.|<br>|You'll have to either move them out of the|plot or put them into storage.|<bw_break>"
   },
   "280": {
     "「あら？　番地の　敷地内に|　施設の人が　いるみたいですね。|<br>|「施設の人を　番地の　敷地の外に|　移動させてから　お試しくださいね。|<bw_break>": "What? It looks like there's an orphan on the|property at number one. Let's move them off|the property and try again...<bw_break>"
@@ -1176,7 +1176,7 @@
     "「あら？　|　畑で　花を栽培中のようですね。|　畑をきれいにしてから　お試しください。|<bw_break>": "Oh? Looks like they're growing flowers in the|field... I'll have to clean up the field|before we can try...<bw_break>"
   },
   "393": {
-    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "What? It appears that the garden tools have|been placed on the numbered property... I|suggest you move the garden tools off the lot|<br>|or put them away and try...<bw_break>"
+    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "Hm? It seems that this plot has placed garden|decor on it.|<br>|You'll have to either move them out of the|plot or put them into storage.|<bw_break>"
   },
   "394": {
     "「あら？　番地の　敷地内に|　施設の人が　いるみたいですね。|<br>|「施設の人を　番地の　敷地の外に|　移動させてから　お試しくださいね。|<bw_break>": "What? It looks like there's an orphan on the|property at number one. Let's move them off|the property and try again...<bw_break>"
