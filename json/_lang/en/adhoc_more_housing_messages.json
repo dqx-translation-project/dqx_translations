@@ -12,7 +12,7 @@
     "<color_yellow>|土地を売ると　この土地へのルーラストーン設定が|消えます。作成した家パーツや　お花の妖精が|来ていた時は　再度土地を買えば　復活します。|<br><color_white>|また　この家が　チーム集会所に|設定されていた時は　土地を売ると|自動で　集会所設定が　解除されます。|<br>|さらに　以下に記載するものが　|リセットされます。|<br><color_yellow>|ハウジングの権限設定|スライムチャイムのメッセージ|バトンちゃんが訪ねてきた記録|<br><color_white>|本当に　この土地を|売ってしまって　よろしいですか？<yesno 2><close>": "<color_yellow>When you sell a piece of land, the Zoomstone|for this piece of land disappears. If|you have any house parts or flower fairies|<br>|that have been here, you can buy the land|again to restore them...<color_white>Also, if this house was set up as a team|meeting place, selling the land will|automatically unset the meeting place... In|<br>|addition, the following will be reset...<color_yellow>|Setting Housing Permissions|Message from Slime Chimes|A record of Baton-chan's visit|<color_white>Are you sure you don't want to sell this|land?<yesno 2><close>"
   },
   "5": {
-    "すでに家が建っているため　建てられません。": "Because the house has already been built. It|was built..."
+    "すでに家が建っているため　建てられません。": "There is already a house built here."
   },
   "6": {
     "この土地は　<%nL_LAND_PRICE>ゴールドで|売りに出されているようだ。|<bw_break>": "This land is being offered for sale at|<%nL_LAND_PRICE> Gold...<bw_break>"
@@ -249,13 +249,13 @@
     "幸せのご近所バトンを　|届けることが　できませんでした。|すこし時間をおいて　お試しください。": "Couldn't pass on the baton. Please try again|later."
   },
   "84": {
-    "この家が　すぐに引っ越しできる状態か|引っ越しチェックで　確認しますか？|<yesno><break>": "Would you like a move-in check to make sure|this house is ready to move into?<yesno><break>"
+    "この家が　すぐに引っ越しできる状態か|引っ越しチェックで　確認しますか？|<yesno><break>": "Do a move in check to see if this house is|ready to be moved into?|<yesno><break>"
   },
   "85": {
-    "以上が　引っ越しチェックとなります。|満たしていない項目があると|引っ越しできませんので　ご注意ください。": "These are the moving checks... Please note|that if you do not meet any of these|requirements, you will not be able to move..."
+    "以上が　引っ越しチェックとなります。|満たしていない項目があると|引っ越しできませんので　ご注意ください。": "Moving check has finished. If you do not meet|any of these requirements, you will not be|able to move out."
   },
   "86": {
-    "畑に　作物が植えられています。|収穫するか　『やりなおす』にて|畑に何も植えられてない状態に　してください。|<bw_break>": "If a field is planted with crops... You can|either harvest it, or you can \"start over\"|and leave the field empty...<bw_break>"
+    "畑に　作物が植えられています。|収穫するか　『やりなおす』にて|畑に何も植えられてない状態に　してください。|<bw_break>": "Your field is currently planted with seeds.|Either harvest the plants or use \"Replant\"|to clear the field out.|<bw_break>"
   },
   "87": {
     "すべての条件を　満たしています。|いつでも　引っ越しできる状態です。": "If you meet all the requirements... I'm ready|to move out at any time..."
@@ -267,7 +267,7 @@
     "引っ越しチェックを使えば　いつでも|この家が　引っ越しできる状態か|確認することができます。|<br>|引っ越しできないのは　畑に作物がある時や|床下水そうに　さかながいる時|また　家の中に人がいる時|<br>|さらに　モンスターのおうちに|仲間モンスターがいる時も　引っ越しできません。|<br>|引っ越しをしたい時は　事前にこの|引っ越しチェックを行って　すべての条件を|満たしているか　ご確認ください。": "With the moving check, you can check to see|if your house is ready to move at any time...|You can't move if there are crops in the|<br>|field, fish in the water, people in the|house, or monsters in the house... If you|want to move, please do this moving check|<br>|before you move to make sure you meet all the|conditions..."
   },
   "90": {
-    "床下水そうに　さかながいます。|床下水そうから　すべてのさかなを出して|からにしてください。|<bw_break>": "There's fish in the sewers... Please take all|the fish out of the underfloor tank and clean|them...<bw_break>"
+    "床下水そうに　さかながいます。|床下水そうから　すべてのさかなを出して|からにしてください。|<bw_break>": "There are fish currently in your floor tank.|Please remove all of the fish.|<bw_break>"
   },
   "91": {
     "現在　家の中か　庭に人がいるようです。|誰かがいると　引っ越しできませんので|家の中と庭に　誰もいないようにしてください。|<bw_break>": "Now, there are people in the house and in the|yard... I can't move in if there's someone in|the house, so please make sure there's no one|<br>|in the house or in the yard...<bw_break>"
