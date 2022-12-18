@@ -2751,7 +2751,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは のんびり かおを あらっている。": ""
   },
   "918": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こんらんして おびえている。": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こんらんして おびえている。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is confused and frightened."
   },
   "919": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは フワフワしている。": ""
@@ -24495,7 +24495,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が かなり さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack decreased by a lot!"
   },
   "8166": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力が かなり さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\'s defense decreased by a lot!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力が かなり さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's defense decreased by a lot!"
   },
   "8167": {
     "clarity_nt_char_8167": "clarity_nt_char_8167"
@@ -24699,7 +24699,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 自分の分身を つくりだした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e created a copy of themselves!"
   },
   "8234": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに まもりのきりが たちこめた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに まもりのきりが たちこめた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was covered in a protective fog!"
   },
   "8235": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 悪い効果に かかりにくくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now less likely to receive bad effects!"
@@ -24756,7 +24756,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 地形ダメージを 受けなくなった！": ""
   },
   "8253": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 一定時間 ＭＰ消費0になった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 一定時間 ＭＰ消費0になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will not consume MP for a duration!"
   },
   "8254": {
     "clarity_nt_char_8254": "clarity_nt_char_8254"
@@ -24975,7 +24975,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＨＰが ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Max HP increased!"
   },
   "8326": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 小さくなってしまった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 小さくなってしまった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e became small!"
   },
   "8327": {
     "clarity_nt_char_8327": "clarity_nt_char_8327"
@@ -26508,7 +26508,7 @@
     "clarity_nt_char_8836": "clarity_nt_char_8836"
   },
   "8837": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ダメージが 限界を突破するようになった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ダメージが 限界を突破するようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell damage limit was broken!"
   },
   "8838": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは どうぐ最適術の効果が かき消されなくなった！": ""
@@ -27144,7 +27144,7 @@
     "clarity_nt_char_9048": "clarity_nt_char_9048"
   },
   "9049": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの まもりのきりが 身代わりとなった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの まもりのきりが 身代わりとなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's protective fog guarded the attack!"
   },
   "9050": {
     "clarity_nt_char_9050": "clarity_nt_char_9050"
@@ -27300,7 +27300,7 @@
     "clarity_nt_char_9100": "clarity_nt_char_9100"
   },
   "9101": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ターンを 消費しなかった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ターンを 消費しなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e didn't use a turn!"
   },
   "9102": {
     "clarity_nt_char_9102": "clarity_nt_char_9102"
@@ -27342,7 +27342,7 @@
     "clarity_nt_char_9114": "clarity_nt_char_9114"
   },
   "9115": {
-    "雪だるまが \\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\eを 守った！": ""
+    "雪だるまが \\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\eを 守った！": "The snowman protected \\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\e!"
   },
   "9116": {
     "雪のおかげで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージを受けなかった！": ""
@@ -27384,7 +27384,7 @@
     "clarity_nt_char_9128": "clarity_nt_char_9128"
   },
   "9129": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 盟友の盾が ダメージを無効！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 盟友の盾が ダメージを無効！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Ally Shield nullified the damage!"
   },
   "9130": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 盟友の盾に 守られた！": ""
@@ -27423,7 +27423,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは チャージタイムを発生させずに とくぎを使用した！": ""
   },
   "9142": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは デスパワーを 消費しなかった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは デスパワーを 消費しなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e didn't consume Death Power!"
   },
   "9143": {
     "clarity_nt_char_9143": "clarity_nt_char_9143"
@@ -27459,7 +27459,7 @@
     "clarity_nt_char_9153": "clarity_nt_char_9153"
   },
   "9154": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから ＭＰを <%dB_VALUE>すいとった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから ＭＰを <%dB_VALUE>すいとった！": "Absorbed <%dB_VALUE> MP from \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
   },
   "9155": {
     "0": "0"
@@ -27582,13 +27582,13 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 目を さました！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e woke up!"
   },
   "9195": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは われにかえった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは われにかえった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e regained composure!"
   },
   "9196": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 幻惑が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's illusions disappeared!"
   },
   "9197": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マホトーンが とけた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マホトーンが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Fizzle faded!"
   },
   "9198": {
     "clarity_nt_char_9198": "clarity_nt_char_9198"
@@ -27621,13 +27621,13 @@
     "clarity_nt_char_9207": "clarity_nt_char_9207"
   },
   "9208": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの スケープガードの効果が きえた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの スケープガードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Scape Guard effect faded!"
   },
   "9209": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 分身が きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is no longer divided."
   },
   "9210": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの まもりのきりが きえた。": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの まもりのきりが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's protective fog faded."
   },
   "9211": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの キラキラポーンが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Snap Crackle Poof faded."
@@ -27636,10 +27636,10 @@
     "clarity_nt_char_9212": "clarity_nt_char_9212"
   },
   "9213": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マホステが きえた。": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マホステが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Snub faded."
   },
   "9214": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの パラディンバリアが きえた。": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの パラディンバリアが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Paladin Barrier faded."
   },
   "9215": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Critical Hit Guard faded."
@@ -27651,7 +27651,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの パラディンガードが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Knight Watch faded!"
   },
   "9218": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魔力の息吹が おわった。": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魔力の息吹が おわった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Focus Pocus ended."
   },
   "9219": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの いやしの雨のＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Right as Rain HP recovery ended!"
@@ -28824,7 +28824,7 @@
     "clarity_nt_char_9608": "clarity_nt_char_9608"
   },
   "9609": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの スピリットゾーンのＭＰ回復が おわった。": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの スピリットゾーンのＭＰ回復が おわった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Spirit Zone MP recovery ended."
   },
   "9610": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃時 呪いの効果が きえた！": ""
@@ -28908,7 +28908,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 鉄壁の進軍の効果が きえた！": ""
   },
   "9637": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ダメージ限界突破の効果が きえた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ダメージ限界突破の効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell damage limit break effect faded!"
   },
   "9638": {
     "clarity_nt_char_9638": "clarity_nt_char_9638"
@@ -31086,7 +31086,7 @@
     "clarity_nt_char_10362": "clarity_nt_char_10362"
   },
   "10363": {
-    "どうぐ最適術の効果が|かき消されなくなった！": ""
+    "どうぐ最適術の効果が|かき消されなくなった！": "Optimal Item Tech|effect will remain!"
   },
   "10364": {
     "clarity_nt_char_10364": "clarity_nt_char_10364"
@@ -33591,7 +33591,7 @@
     "clarity_nt_char_11197": "clarity_nt_char_11197"
   },
   "11198": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力ダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Defense down effect renewed!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力ダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's defense down effect renewed!"
   },
   "11199": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔延長の 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's command interval lengthen effect renewed!"
