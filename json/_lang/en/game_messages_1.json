@@ -393,7 +393,7 @@
     "clarity_nt_char_131": "clarity_nt_char_131"
   },
   "132": {
-    "<%sL_shisetu>で <%sC_system>からの手紙を受け取った！": "<%sC_system> received a letter from <%sL_shisetu>!"
+    "<%sL_shisetu>で <%sC_system>からの手紙を受け取った！": "Received a letter from <%sC_system> at <%sL_shisetu>!"
   },
   "133": {
     "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取った！": "Received <%dM_item_num> <%sM_item><%sM_plusnum> at the <%sL_shisetu> from <%sC_system>!"
@@ -501,7 +501,7 @@
     "<%sL_SYOKUNIN>の仕事をして <%dL_GOLD> Gを 手に入れた！": "Received <%dL_GOLD> G from the <%sL_SYOKUNIN> work order!"
   },
   "168": {
-    "<%sL_SYOKUNIN>の仕事をして <%dL_EXP> Pの職人経験値を かくとく！": "Received <%dL_EXP>  Craftsman EXP from the <%sL_SYOKUNIN> work order!"
+    "<%sL_SYOKUNIN>の仕事をして <%dL_EXP> Pの職人経験値を かくとく！": "Received <%dL_EXP> Craftsman EXP from the <%sL_SYOKUNIN> work order!"
   },
   "169": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>になった！": "\\s<%sC_PC>\\m<%sC_ID>\\e became a <%sL_SYOKUNIN_KIND>!"
@@ -1257,7 +1257,7 @@
     "clarity_nt_char_419": "clarity_nt_char_419"
   },
   "420": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を <%dM_NUM>個 受け取った！": "Received <%dM_NUM> <%sM_ITEM>from \\s<%sC_PC>\\m<%sC_ID>\\e!"
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を <%dM_NUM>個 受け取った！": "Received <%dM_NUM> <%sM_ITEM> from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "421": {
     "clarity_nt_char_421": "clarity_nt_char_421"
@@ -1449,7 +1449,7 @@
     "clarity_nt_char_483": "clarity_nt_char_483"
   },
   "484": {
-    "プライベートコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": "Received <%dM_gold> Support Gold from the Private Concierge!"
+    "プライベートコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": "Received <%dM_gold> Support Gold from your Private Concierge!"
   },
   "485": {
     "clarity_nt_char_485": "clarity_nt_char_485"
@@ -1611,13 +1611,13 @@
     "プライベートコンシェルジュに <%sM_ITEM>を 渡した！": "Gave <%sM_ITEM> to your Private Concierge!"
   },
   "538": {
-    "プライベートコンシェルジュから <%sM_ITEM><%nM_NUM>個を 受け取った！": "Received <%dM_NUM> <%sM_ITEM> from the Private Concierge!"
+    "プライベートコンシェルジュから <%sM_ITEM><%nM_NUM>個を 受け取った！": "Received <%dM_NUM> <%sM_ITEM> from your Private Concierge!"
   },
   "539": {
     "clarity_nt_char_539": "clarity_nt_char_539"
   },
   "540": {
-    "プライベートコンシェルジュから <%sM_ITEM>を 受け取った！": "Received <%sM_ITEM> from the Private Concierge!"
+    "プライベートコンシェルジュから <%sM_ITEM>を 受け取った！": "Received <%sM_ITEM> from your Private Concierge!"
   },
   "541": {
     "clarity_nt_char_541": "clarity_nt_char_541"
@@ -1941,16 +1941,16 @@
     "錬金屋で <%sM_item><%sM_plusnum>に|<%sL_KOUKA>を 付けた！": ""
   },
   "648": {
-    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_GROW_KOUKA>を 成長させた！": ""
+    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_GROW_KOUKA>を 成長させた！": "<%sL_GROW_KOUKA> effect on <%sL_WATASITA_ITEM><%sM_plusnum> was enhanced!"
   },
   "649": {
     "clarity_nt_char_649": "clarity_nt_char_649"
   },
   "650": {
-    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_ERASE_KOUKA>を 消した！": ""
+    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_ERASE_KOUKA>を 消した！": "<%sL_GROW_KOUKA> effect on <%sL_WATASITA_ITEM><%sM_plusnum> was removed!"
   },
   "651": {
-    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>に <%sL_ADD_KOUKA>を 付けた！": ""
+    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>に <%sL_ADD_KOUKA>を 付けた！": "<%sL_GROW_KOUKA> effect on <%sL_WATASITA_ITEM><%sM_plusnum> was added!"
   },
   "652": {
     "錬金釜のフォルムを 元に戻した！": ""
@@ -1983,7 +1983,7 @@
     "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って|<%sL_BELT_NAME>の効果の 封印状態を リセットした！|これまで封印に使った <%sL_KISEKI> <%nL_GET_NUM>個が 戻ってきた！": ""
   },
   "662": {
-    "札強化屋から <%sL_GET_ITEM>を もらった！": ""
+    "札強化屋から <%sL_GET_ITEM>を もらった！": "Received <%sL_GET_ITEM> from the Card Enhancer!"
   },
   "663": {
     "clarity_nt_char_663": "clarity_nt_char_663"
@@ -3465,7 +3465,7 @@
     "クラブ順位<br>|<%sL_CLUB_1> <%dM_CLUB_RANKNG_1>位<br>|<%sL_CLUB_2> <%dM_CLUB_RANKNG_2>位<br>|<%sL_CLUB_3> <%dM_CLUB_RANKNG_3>位<br>|<%dM_YEAR>年<%dM_MONTH>月<%dM_DAY>日<%dM_TIME>時<%dM_MIN>分 現在": "Club Standings<br>|#<%dM_CLUB_RANKNG_1>: <%sL_CLUB_1><br>|#<%dM_CLUB_RANKNG_2>: <%sL_CLUB_2><br>|#<%dM_CLUB_RANKNG_3>: <%sL_CLUB_3><br>|Current as of <%dM_MONTH>/<%dM_DAY>/<%dM_YEAR> <%dM_TIME>:<%02dM_MIN>"
   },
   "1156": {
-    "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウから受け取った！": "Received a <%sM_item><%sM_plusnum> Abyss Orb from Adventurer Jigrow!"
+    "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウから受け取った！": "Received a <%sM_item><%sM_plusnum> Abyss Orb from|Adventurer Jiguro!"
   },
   "1157": {
     "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！": "Gave <%sM_item><%sM_plusnum>'s Abyss Orb to Jiguro!"
@@ -4371,13 +4371,13 @@
     "clarity_nt_char_1457": "clarity_nt_char_1457"
   },
   "1458": {
-    "札強化屋に <%sL_WATASITA_ITEM>を わたした！": ""
+    "札強化屋に <%sL_WATASITA_ITEM>を わたした！": "Gave the <%sL_WATASITA_ITEM> to the Card Enhancer!"
   },
   "1459": {
     "clarity_nt_char_1459": "clarity_nt_char_1459"
   },
   "1460": {
-    "札強化屋で <%sL_WATASITA_ITEM><%dM_num>こ わたして <%sL_GET_ITEM><%sM_plusnum> もらった！": ""
+    "札強化屋で <%sL_WATASITA_ITEM><%dM_num>こ わたして <%sL_GET_ITEM><%sM_plusnum> もらった！": "Gave <%dM_num> <%sL_WATASITA_ITEM> to the Card Enhancer|and received <%sL_GET_ITEM><%sM_plusnum>!"
   },
   "1461": {
     "clarity_nt_char_1461": "clarity_nt_char_1461"
