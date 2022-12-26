@@ -1,15 +1,15 @@
 {
   "1": {
-    "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "<%sL_PC> obtained from a <%sL_COLOR> Treasure|Chest in <%sL_PLACE>."
+    "<%sL_PC>が <%sL_PLACE>の|<%sL_COLOR>宝箱から手に入れた。": "<%sL_PC> received from a <%sL_COLOR> Treasure|Chest in <%sL_PLACE>."
   },
   "2": {
     "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "3": {
-    "<%sL_PC>が <%sL_SYOKUNIN>で作った。": "<%sL_PC> made it with <%sL_SYOKUNIN>."
+    "<%sL_PC>が <%sL_SYOKUNIN>で作った。": "<%sL_PC> created it with <%sL_SYOKUNIN>."
   },
   "4": {
-    "<%sL_PC>が <%sL_SYOKUNIN>で|<%sL_KOUKA>の効果を付けた。": "<%sL_PC> used <%sL_SYOKUNIN> to add|the effect of <%sL_KOUKA>."
+    "<%sL_PC>が <%sL_SYOKUNIN>で|<%sL_KOUKA>の効果を付けた。": "<%sL_PC> used <%sL_SYOKUNIN> to add|the <%sL_KOUKA> effect."
   },
   "5": {
     "<%sL_PC>が <%sL_PLACE>の|お店で買った。": "<%sL_PC> bought it at a shop in|<%sL_PLACE>."
@@ -18,13 +18,13 @@
     "clarity_nt_char_6": "clarity_nt_char_6"
   },
   "7": {
-    "<%sL_PC>が <%sL_PLACE>での|クエストで手に入れた。": "<%sL_PC> got it as a quest reward in|<%sL_PLACE>."
+    "<%sL_PC>が <%sL_PLACE>での|クエストで手に入れた。": "<%sL_PC> received as a quest reward in|<%sL_PLACE>."
   },
   "8": {
     "<%sL_PC>が <%sL_PLACE>の|<%sL_MONSTER>を倒して 手に入れた。": "<%sL_PC> got it in <%sL_PLACE>|by defeating a <%sL_MONSTER>."
   },
   "9": {
-    "<%sL_PC>が ちいさなメダルと交換して|手に入れた。": "<%sL_PC> got it from the Mini Medal|Exchange."
+    "<%sL_PC>が ちいさなメダルと交換して|手に入れた。": "<%sL_PC> received from the Mini Medal|Exchange."
   },
   "10": {
     "<speed=0><%sM_pc>は|<%sM_item>を使った。<br>|しかし　何も　おこらなかった。|職人の　素材として　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it as a crafting material!"
@@ -90,7 +90,7 @@
     "clarity_nt_char_30": "clarity_nt_char_30"
   },
   "31": {
-    "アクセサリー合成屋で 合成して|<%sL_KOUKA>の効果を付けた。": "Effect of <%sL_KOUKA>|was added by synthesizing another accessory."
+    "アクセサリー合成屋で 合成して|<%sL_KOUKA>の効果を付けた。": "<%sL_KOUKA> was|added by synthesizing another accessory."
   },
   "32": {
     "<speed=0><%sM_pc>は|<%sM_item>使った。<br>|しかし　何も　おこらなかった。|栽培に　使ってみよう！": "<speed=0><%sM_pc>|used the <%sM_item>.<br>|But nothing happened.|Try using it for cultivating!"
@@ -162,7 +162,7 @@
     "しぐさ": "Emote"
   },
   "55": {
-    "<%sL_KOUKA> の|効果が付いた。": "Effect of <%sL_KOUKA>|was added."
+    "<%sL_KOUKA> の|効果が付いた。": "<%sL_KOUKA> effect|was added."
   },
   "56": {
     "人形ポーズ": "Doll Pose"
@@ -204,7 +204,7 @@
     "<%sL_PC>が プライベートコンシェルジュから|もらった。": "<%sL_PC> received it from a Private|Concierge."
   },
   "69": {
-    "<%sL_PC>が すごろくの景品で|手に入れた。": "<%sL_PC> obtained from playing Sugoroku."
+    "<%sL_PC>が すごろくの景品で|手に入れた。": "<%sL_PC> received from playing Sugoroku."
   },
   "70": {
     "<%sL_PC>が コロシアムの景品で|手に入れた。": "<%sL_PC> received it as a coliseum|prize."
@@ -213,10 +213,10 @@
     "clarity_nt_char_71": "clarity_nt_char_71"
   },
   "72": {
-    "アクセサリー合成屋で 合成して 第一伝承に|<%sL_KOUKA>の効果を付けた。": "Effect of <%sL_KOUKA>|was added from first tier inheritance."
+    "アクセサリー合成屋で 合成して 第一伝承に|<%sL_KOUKA>の効果を付けた。": "<%sL_KOUKA>|was added from first tier inheritance."
   },
   "73": {
-    "札強化屋で|<%sL_KOUKA>の効果を付けた。": "Added the effect of <%sL_KOUKA>."
+    "札強化屋で|<%sL_KOUKA>の効果を付けた。": "<%sL_KOUKA>|was added at the Card Enhancer."
   },
   "74": {
     "<%sL_PC>が すてきなめぐりあいをして|手に入れた。": "<%sL_PC> received it from a lovely|chance encounter."
@@ -234,10 +234,10 @@
     "<%sL_PC>が 防衛戦で 手に入れた。": "<%sL_PC> received from|Defense Force."
   },
   "79": {
-    "<%sL_PC>が <%sL_PLACE>で釣り上げた|金の宝箱から　手に入れた。": "<%sL_PC> reeled in at <%sL_PLACE>|and obtained from a gold treasure chest."
+    "<%sL_PC>が <%sL_PLACE>で釣り上げた|金の宝箱から　手に入れた。": "<%sL_PC> reeled in at <%sL_PLACE>|and received from a gold treasure chest."
   },
   "80": {
-    "<%sL_PC>が <%sL_PLACE>で|手に入れた。": "<%sL_PC> obtained from <%sL_PLACE>."
+    "<%sL_PC>が <%sL_PLACE>で|手に入れた。": "<%sL_PC> received from|<%sL_PLACE>."
   },
   "81": {
     "<%sL_KOUKA>に　強化した。": "Enhanced <%sL_KOUKA> effect."
@@ -432,7 +432,7 @@
     "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "145": {
-    "アクセサリー合成屋で 合成して 第二伝承に|<%sL_KOUKA>の効果を付けた。": "Effect of <%sL_KOUKA>|was added from second tier inheritance."
+    "アクセサリー合成屋で 合成して 第二伝承に|<%sL_KOUKA>の効果を付けた。": "<%sL_KOUKA>|was added from second tier inheritance."
   },
   "146": {
     "第<%nL_TITLE_NUM>回　<%sL_TITLE>のマイデッキで|<%nL_RANKING_NUM>位の座を　獲得した。": "Acquired rank <%nL_RANKING_NUM> with My Deck in|<%sL_TITLE> #<%nL_TITLE_NUM>."
