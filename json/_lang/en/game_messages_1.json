@@ -594,7 +594,7 @@
     "clarity_nt_char_198": "clarity_nt_char_198"
   },
   "199": {
-    "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME> <%sL_PLUSNUM> into|house storage."
+    "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Deposited <%dL_QUANTITY> <%sL_ITEM_NAME> <%sL_PLUSNUM> into house storage."
   },
   "200": {
     "clarity_nt_char_200": "clarity_nt_char_200"
@@ -603,7 +603,7 @@
     "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into <%sL_OWNER>'s|furniture storage."
   },
   "202": {
-    "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を はずした。": "Removed <%sL_CATEGORY_NAME> from house of <%sL_OWNER>."
+    "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を はずした。": "Removed <%sL_CATEGORY_NAME> from <%sL_OWNER>'s house."
   },
   "203": {
     "clarity_nt_char_203": "clarity_nt_char_203"
@@ -3378,7 +3378,7 @@
     "clarity_nt_char_1126": "clarity_nt_char_1126"
   },
   "1127": {
-    "-----【<%sM_type> <%sM_category>・挑戦中課題】-----": "-----[<%sM_type> <%sM_category>-Challenges]-----"
+    "-----【<%sM_type> <%sM_category>・挑戦中課題】-----": "-----[<%sM_type> <%sM_category> - Challenges]-----"
   },
   "1128": {
     "--------------------------------------": ""
@@ -3387,25 +3387,25 @@
     "clarity_nt_char_1129": "clarity_nt_char_1129"
   },
   "1130": {
-    "名声Lv<%dM_clg_flv>以上　（現在：<%dM_now_flv>）": ""
+    "名声Lv<%dM_clg_flv>以上　（現在：<%dM_now_flv>）": "Fame Lv: <%dM_clg_flv> or Higher (Current: <%dM_now_flv>)"
   },
   "1131": {
     "clarity_nt_char_1131": "clarity_nt_char_1131"
   },
   "1132": {
-    "職業：<%sL_clg_job>　（現在：<%sL_now_job>）": ""
+    "職業：<%sL_clg_job>　（現在：<%sL_now_job>）": "Vocation: <%sL_clg_job> (Current: <%sL_now_job>)"
   },
   "1133": {
-    "Lv<%dM_clg_lv>以上　（現在：<%dM_now_lv>）": ""
+    "Lv<%dM_clg_lv>以上　（現在：<%dM_now_lv>）": "Lv <%dM_clg_lv> or Higher (Current: <%dM_now_lv>)"
   },
   "1134": {
     "clarity_nt_char_1134": "clarity_nt_char_1134"
   },
   "1135": {
-    "<%sL_clg_sts><%dM_clg_prm>以上　（現在：<%dM_now_prm>）": ""
+    "<%sL_clg_sts><%dM_clg_prm>以上　（現在：<%dM_now_prm>）": "<%dM_clg_prm> <%sL_clg_sts> or Higher (Current: <%dM_now_prm>)"
   },
   "1136": {
-    "全職業合計Lv<%dM_clg_tlv>以上　（現在：<%dM_now_tlv>）": ""
+    "全職業合計Lv<%dM_clg_tlv>以上　（現在：<%dM_now_tlv>）": "Total Vocation Lv <%dM_clg_tlv> or Higher (Current: <%dM_now_tlv>)"
   },
   "1137": {
     "装備：<%sL_clg_wpn>　（現在：<%sL_now_wpn>）": "Equipment: <%sL_clg_wpn> (Current: <%sL_now_wpn>)"
@@ -3447,7 +3447,7 @@
     "今回のスコア：<%dM_sum_score>P": "Today's Score: <%dM_sum_score>P"
   },
   "1150": {
-    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は 回復しなかった。": ""
+    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は 回復しなかった。": " → <%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> didn't recover."
   },
   "1151": {
     "→<%sM_slime_name_2>の　『マホターン』で　『<%sL_ACTION_2>』を　はねかえされた！": ""
@@ -4278,13 +4278,13 @@
     "「<%sM_item>」<%dM_ItemNum>個　": "<%dM_ItemNum> \"<%sM_item>\" "
   },
   "1427": {
-    "<%sM_category>お題<%dM_number>をクリア！|<%sM_item>を 手に入れた！": "Cleared <%dM_number> of <%sM_category> Theme!|Received <%sM_item>!"
+    "<%sM_category>お題<%dM_number>をクリア！|<%sM_item>を 手に入れた！": "Cleared No. <%dM_number> of <%sM_category>!|Received <%sM_item>!"
   },
   "1428": {
     "clarity_nt_char_1428": "clarity_nt_char_1428"
   },
   "1429": {
-    "<%sM_category> <%sM_rank>お題<%dM_number>をクリア！|<%sM_item>を 手に入れた！": ""
+    "<%sM_category> <%sM_rank>お題<%dM_number>をクリア！|<%sM_item>を 手に入れた！": "<%sM_category> <%sM_rank> No. <%dM_number> cleared!|Received <%sM_item>!"
   },
   "1430": {
     "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA2>が 付いた！": ""
@@ -4446,7 +4446,7 @@
     "アンケート　<%nL_ANSWER_NUM>番の回答を　選択しました！": ""
   },
   "1483": {
-    "鑑定した宝珠 <%sM_SKILL>は すでに開花していた。": ""
+    "鑑定した宝珠 <%sM_SKILL>は すでに開花していた。": "The appraised jewel's <%sM_SKILL> is already known."
   },
   "1484": {
     "clarity_nt_char_1484": "clarity_nt_char_1484"
