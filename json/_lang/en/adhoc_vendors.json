@@ -10938,7 +10938,7 @@
     "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だモ。|　合わせて　<%nL_BUY_PRICE>ゴールドだけど|　これを　買うかモ？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM> comes to|<%dL_BUY_PRICE> Gold. Do you want to buy them?|<yesno><break>"
   },
   "3647": {
-    "「<%sL_KAITAI_ITEM>は　入荷１点限りの|　アイテムなんだモ。<%nL_BUY_PRICE>ゴールドで|　これを　買うかモ？|<yesno><break>": "<%sL_KAITAI_ITEM> is something I can only|sell to you once. It'll cost <%nL_BUY_PRICE> Gold.|Do you want to buy it?|<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は　入荷１点限りの|　アイテムなんだモ。<%nL_BUY_PRICE>ゴールドで|　これを　買うかモ？|<yesno><break>": "<%sL_KAITAI_ITEM> is something I can only|sell to you once. It'll cost <%dL_BUY_PRICE> Gold.|Do you want to buy it?|<yesno><break>"
   },
   "3648": {
     "「その数を　選ぶことはできないよっ！|<bw_break>": "You can't choose that many!|<bw_break>"
@@ -14094,7 +14094,7 @@
     "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": ""
   },
   "4699": {
-    "<pipipi_mid>「い…いらっしゃいませ。こちらでは|　ぼ…僕が　デザインした干支のぬいぐるみを|　取り扱っています。|<break>": ""
+    "<pipipi_mid>「い…いらっしゃいませ。こちらでは|　ぼ…僕が　デザインした干支のぬいぐるみを|　取り扱っています。|<break>": "<pipipi_mid>W-welcome. I'm selling plushies of animals|from the zodiac that I made myself.|<break>"
   },
   "4700": {
     "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -14118,7 +14118,7 @@
     "「その数は　選べないぜっ！|<bw_break>": "You can't pick that many!<bw_break>"
   },
   "4707": {
-    "<pipipi_mid>「ど…どちらの　ぬいぐるみを|　お求めでしょうか？|<break>": ""
+    "<pipipi_mid>「ど…どちらの　ぬいぐるみを|　お求めでしょうか？|<break>": "<pipipi_mid>W-which plushie would you like?|<break>"
   },
   "4708": {
     "「<%sL_KAITAI_ITEM>かみゃ。|　これは　<%sL_RACE>じゃないと|　装備できないけど　いいんだみゃ？|<yesno 2><break>": ""
@@ -14154,52 +14154,52 @@
     "「まいどありだみゃー！|　それでは　そうびぶくろの中に|　入れておくのみゃー。|<bw_break>": ""
   },
   "4719": {
-    "<pipipi_mid>「あれ……　<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたい……です。|<bw_break>": ""
+    "<pipipi_mid>「あれ……　<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたい……です。|<bw_break>": "<pipipi_mid>Ah, your <%sL_BAG_TYPE> is full...|I can't give the <%sL_KAITAI_ITEM> to|you... sorry...|<bw_break>"
   },
   "4720": {
-    "<pipipi_mid>「他の子も　お求めですか？|<break>": ""
+    "<pipipi_mid>「他の子も　お求めですか？|<break>": "<pipipi_mid>Anything else you're looking for?|<break>"
   },
   "4721": {
-    "<pipipi_mid>「他の子も　いかがですか？|<break>": ""
+    "<pipipi_mid>「他の子も　いかがですか？|<break>": "<pipipi_mid>How about these, then?|<break>"
   },
   "4722": {
-    "<pipipi_mid>「そうですか……。|　他に　ほしい子は　いますか？|<break>": ""
+    "<pipipi_mid>「そうですか……。|　他に　ほしい子は　いますか？|<break>": "<pipipi_mid>I see... is there anything else you'd like?|<break>"
   },
   "4723": {
-    "<pipipi_mid>「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": ""
+    "<pipipi_mid>「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": "<pipipi_mid>H-hey?! <%sL_NOROI_ITEM> is|cursed! It won't come off!|<bw_break>"
   },
   "4724": {
-    "<pipipi_mid>「おや……　その子を買うには|　お金が　足りないようです……。|<bw_break>": ""
+    "<pipipi_mid>「おや……　その子を買うには|　お金が　足りないようです……。|<bw_break>": "<pipipi_mid>Oh... you don't have enough money to buy|that...|<bw_break>"
   },
   "4725": {
-    "<pipipi_mid>「どれを　売っていただけますか？|<break>": ""
+    "<pipipi_mid>「どれを　売っていただけますか？|<break>": "<pipipi_mid>What would you like to sell?|<break>"
   },
   "4726": {
-    "<pipipi_mid>「うーん……。う…売れるものが|　かばんの中に　入っていないみたいです。|<bw_break>": ""
+    "<pipipi_mid>「うーん……。う…売れるものが|　かばんの中に　入っていないみたいです。|<bw_break>": "<pipipi_mid>S-sorry, but... you don't have anything|in your bag that I can buy from you.|<bw_break>"
   },
   "4727": {
-    "<pipipi_mid>「うーん……。そ…そうびぶくろの中には|　何も　入っていないみたいです。|<bw_break>": ""
+    "<pipipi_mid>「うーん……。そ…そうびぶくろの中には|　何も　入っていないみたいです。|<bw_break>": "S-sorry, but... you don't have anything|in your equipment bag that I can buy from you.|<bw_break>"
   },
   "4728": {
-    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
   },
   "4729": {
-    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
   },
   "4730": {
-    "<pipipi_mid>「うーん……。|　何も　持ってないみたいです。|<bw_break>": ""
+    "<pipipi_mid>「うーん……。|　何も　持ってないみたいです。|<bw_break>": "<pipipi_mid>Hmmmm... looks like you don't have anything.|<bw_break>"
   },
   "4731": {
-    "<pipipi_mid>「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取ります。|　それでも　よろしいでしょうか？|<yesno><break>": ""
+    "<pipipi_mid>「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取ります。|　それでも　よろしいでしょうか？|<yesno><break>": "<pipipi_mid>I can buy that <%sL_URITAI_ITEM><%sL_PLUSNUM>|for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "4732": {
-    "<pipipi_mid>「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取ります。それで　よろしいですか？|<yesno><break>": ""
+    "<pipipi_mid>「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取ります。それで　よろしいですか？|<yesno><break>": "<pipipi_mid>A new <%sL_URITAI_ITEM><%sL_PLUSNUM>, huh?|I can buy that for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "4733": {
-    "<pipipi_mid>「<%sL_URITAI_ITEM>を　ひとつですね。|　<%nL_SELL_PRICE>ゴールドで　買い取りますが|　それで　よろしいでしょうか？|<yesno><break>": ""
+    "<pipipi_mid>「<%sL_URITAI_ITEM>を　ひとつですね。|　<%nL_SELL_PRICE>ゴールドで　買い取りますが|　それで　よろしいでしょうか？|<yesno><break>": "<pipipi_mid>One <%sL_URITAI_ITEM>? I can|buy that for <%dL_SELL_PRICE> Gold. How does|that sound?|<yesno><break>"
   },
   "4734": {
-    "<pipipi_mid>「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": ""
+    "<pipipi_mid>「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": "<pipipi_mid>I can buy those <%dL_URUKAZU> <%sL_URITAI_ITEM>|for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "4735": {
     "<pipipi_mid>「あれ……　お客さん！|　お…お財布が　いっぱいですよ！|<br>|「預けて来るか　何か買うかして|　お金をへらしてから　売りにきてください。|<bw_break>": ""
@@ -14226,7 +14226,7 @@
     "<pipipi_mid>「他に何か　ご用はありますかね？|<break>": ""
   },
   "4743": {
-    "<pipipi_mid>「あ…ありがとうございました！|　ぜひ　また　来てくださいね！|<turn_end>": ""
+    "<pipipi_mid>「あ…ありがとうございました！|　ぜひ　また　来てくださいね！|<turn_end>": "<pipipi_mid>T-thank you so much! Please come again!|<turn_end>"
   },
   "4744": {
     "「みゃっ。これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　あるんだみゃあ。|<bw_break>": ""
