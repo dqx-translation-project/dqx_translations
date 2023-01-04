@@ -42,16 +42,16 @@
     "「今は　第<%nM_EVENT_NUMBER>回段位戦が　開催中だ。|　エントリー手続きをしておいたから|　トランプケースから　参加できるぜ。|<br>|「<pc>さんは　<%sM_RANK>から　スタートだ。|　わからないことがあったら|　『説明を聞く』で　聞いてくれ。|<end>": "Right now, the <%nM_EVENT_NUMBER>th Dan|Championship is in session... I've already|registered, so I can enter from the card|<br>|case...<pc> You are <%sM_RANK> to Star... If you don't|understand something, ask for|clarification...<end>"
   },
   "15": {
-    "「今は　大富豪決定戦　<%sM_SP_EVENT_NAME>が|　開催中だ。|<br>|「大富豪決定戦は　期間限定の大会だ。|　今回のために用意した　特別な背景で|　冒険者４人と　マッチングして遊んでもらう。|<br>|「今回は特別に　１０周年のお祝いで|　１０周年記念ふくびき券を　ランク達成報酬に|　追加してるぜ。|<br>|「大富豪決定戦の　期間中は|　段位戦には　参加できないから|　注意してくれ。|<br>|「エントリー手続きをしておいたから|　トランプケースから　参加できるぜ。|<br>|「まずは　<%sM_RANK>ランクから　スタートだ。|　もっと　くわしい説明が　ほしい時は|　『説明を聞く』で　聞いてくれ。|<bw_break>": ""
+    "「今は　大富豪決定戦　<%sM_SP_EVENT_NAME>が|　開催中だ。|<br>|「大富豪決定戦は　期間限定の大会だ。|　今回のために用意した　特別な背景で|　冒険者４人と　マッチングして遊んでもらう。|<br>|「今回は特別に　１０周年のお祝いで|　１０周年記念ふくびき券を　ランク達成報酬に|　追加してるぜ。|<br>|「大富豪決定戦の　期間中は|　段位戦には　参加できないから|　注意してくれ。|<br>|「エントリー手続きをしておいたから|　トランプケースから　参加できるぜ。|<br>|「まずは　<%sM_RANK>ランクから　スタートだ。|　もっと　くわしい説明が　ほしい時は|　『説明を聞く』で　聞いてくれ。|<bw_break>": "Right now the Tycoon Playoffs|<%sM_SP_EVENT_NAME> is underway.|<br>|These playoffs are a limited time event.|You'll be matched against 4 other players|using a special background.|<br>|To celebrate the 10th anniversary, I'll also|be giving away 10th Anniversary Lotto Tickets|as Rank Achievement prizes, too.|<br>|Also, you can't access normal Ranked|tournaments, so please remember that.|<br>|I've already registered you, so you can start|playing right away by using your Tycoon Card|Case.|<br>|You'll start at Rank <%sM_RANK>. If you need a|more detailed explanation, please select|\"Explanation\".|<bw_break>"
   },
   "16": {
     "「第<%nM_EVENT_NUMBER>回段位戦が　開催中だ。|　ここでは　報酬を確認できるぜ。|　何かしていくか？|<break>": "The <%nM_EVENT_NUMBER>th Dan Championship is|now open... Here, you can see the rewards...|Do you want to do something?<break>"
   },
   "17": {
-    "「他にも　何かしていくか？|<break>": ""
+    "「他にも　何かしていくか？|<break>": "Anything else I can do?|<break>"
   },
   "18": {
-    "「大富豪決定戦　<%sM_SP_EVENT_NAME>が　開催中だ。|　ここでは　報酬を確認できるぜ。|　何か　していくか？|<break>": "The millionaire's tournament|<%sM_SP_EVENT_NAME> is now open... Here, you|can see the rewards... What do we do now?<break>"
+    "「大富豪決定戦　<%sM_SP_EVENT_NAME>が　開催中だ。|　ここでは　報酬を確認できるぜ。|　何か　していくか？|<break>": "The current Tycoon tournament|<%sM_SP_EVENT_NAME> is underway. You can see|the rewards here. What do you want to do?|<break>"
   },
   "19": {
     "「まだ　ランキングは　確認できないぜ？|　始まったばかりだからな。|<bw_break>": "I can't check the rankings yet, okay? We're|just getting started...<bw_break>"
@@ -63,7 +63,7 @@
     "「<tm%nM_TIME>月<td%nM_TIME>日に|　新しいイベントを　始めるつもりだ。|　期待してくれていいぜ。|<end>": "<tm%nM_TIME>月<td%nM_TIME>I'm starting a new event on the first... You|can count on me...<end>"
   },
   "22": {
-    "「大富豪決定戦　<%sM_SP_EVENT_NAME>は|　<tm%nM_TIME>月<td%nM_TIME>日　<th%nM_TIME>時<ti%nM_TIME>分に|　終了予定だから　注意しておいてくれ。|<end>": ""
+    "「大富豪決定戦　<%sM_SP_EVENT_NAME>は|　<tm%nM_TIME>月<td%nM_TIME>日　<th%nM_TIME>時<ti%nM_TIME>分に|　終了予定だから　注意しておいてくれ。|<end>": "Please keep in mind that the <%sM_SP_EVENT_NAME>|is scheduled to end on <tm%dM_TIME>/<td%dM_TIME> at <th%dM_TIME>:<ti%02dM_TIME> JST.|<end>"
   },
   "23": {
     "「どの説明を　聞きたいんだ？|　私が　教えてやるよ。|<break>": "Which explanation do you want to hear? I'll|tell you...<break>"
@@ -108,37 +108,37 @@
     "<pipipi_off>|<speed=0><color_yellow>|新しい段位戦は|大型アップデートごとに　開催されます。|<end>": "<pipipi_off>|<speed=0><color_yellow>New tournaments will be held with each major|update...<end>"
   },
   "37": {
-    "<%sM_RANK>の昇段報酬 <%sM_ITEM_NAME> を <%dM_NUM>個 手にいれた！": "You got <%dM_NUM> of <%sM_ITEM_NAME> rewards|for promoting <%sM_RANK>!"
+    "<%sM_RANK>の昇段報酬 <%sM_ITEM_NAME> を <%dM_NUM>個 手にいれた！": "Received <%dM_NUM> <%sM_ITEM_NAME>|as reward for reaching Rank <%sM_RANK>!"
   },
   "38": {
-    "<%sM_RANK>の昇段報酬 <%sM_TRUMP_NAME> の絵柄を 手に入れた！": "Got the <%sM_RANK> promotion reward|<%sM_TRUMP_NAME> picture!"
+    "<%sM_RANK>の昇段報酬 <%sM_TRUMP_NAME> の絵柄を 手に入れた！": "Received the <%sM_TRUMP_NAME> design|for reaching Rank <%sM_RANK>!"
   },
   "39": {
-    "「すまないが　大富豪のイベントは　休止中だ。|　しばらくしてから　また来てくれ！|<end>": "I'm sorry, but the millionaire's event is|closed... Come back in a little while!<end>"
+    "「すまないが　大富豪のイベントは　休止中だ。|　しばらくしてから　また来てくれ！|<end>": "Sorry, but the Tycoon event's closed.|Come back in a little while!|<end>"
   },
   "40": {
-    "<pipipi_off>|<speed=0><color_yellow>|前回の　段位戦ランキング情報が|確定していません。|時間をおいて　再度　お試しください。|<end>": "<pipipi_off>|<speed=0><color_yellow>The previous dan ranking information has been|confirmed... Please take a moment and try|again...<end>"
+    "<pipipi_off>|<speed=0><color_yellow>|前回の　段位戦ランキング情報が|確定していません。|時間をおいて　再度　お試しください。|<end>": "<pipipi_off>|<speed=0><color_yellow>The previous Ranking information could not|be retrieved. Please wait a moment and try|again.<end>"
   },
   "41": {
-    "「<%sM_TRUMP_NAME>の絵柄は|　もう持ってるから　いらないね。|<end>": "I already have the <%sM_TRUMP_NAME> pattern,|so I don't need...<end>"
+    "「<%sM_TRUMP_NAME>の絵柄は|　もう持ってるから　いらないね。|<end>": "You already have that <%sM_TRUMP_NAME>|design, so you don't need this.|<end>"
   },
   "42": {
-    "「大富豪決定戦　<%sM_SP_EVENT_NAME>は|　終了したぜ。|<end>": ""
+    "「大富豪決定戦　<%sM_SP_EVENT_NAME>は|　終了したぜ。|<end>": "The Tycoon Playoffs <%sM_SP_EVENT_NAME>|is over.|<end>"
   },
   "43": {
     "「大富豪決定戦は　期間限定の大会だ。|　基本的な遊びは　いつもの段位戦と一緒だが|　いくつか違うところがあるから　説明するぜ。|<br>|「まず　大富豪決定戦のルールは|　期間中に　変わることはない。|　日替わりじゃないから　気をつけてくれ。|<br>|「次に　大富豪決定戦では　専用の背景で|　対戦してもらう。自前の背景は　使えないが|　いつもと違う雰囲気を　楽しんでくれよな。|<br>|「それから　ランクについてだが|　キミたちの実力を　ＤからＳまでの|　五段階で　分けさせてもらってるぜ。|<br>|「Ｓランク入りしていると　上級者として|　マッチングを　分けさせてもらってるから|　覚えておいてくれ。|<br>|「ランク達成報酬や　ランキング報酬も|　用意しているから　どんどん勝負して|　上位を　目指してくれよ。|<br>|「最後に　大富豪決定戦の期間中は|　通常の段位戦には　参加できないから|　注意してくれ。": "The Daifugo Championship is a limited time|event. The basic game is the same as the|usual Dan tournament, but there are a few|<br>|differences, so I'll explain... First of all,|the rules of the tournament don't change|during the tournament. It doesn't change|<br>|every day, so be careful... Secondly, in the|millionaire's tournament, you play against a|special background. You can't use your own|<br>|background, but you can enjoy the different|atmosphere... Now, as for the ranks, we've|divided you into five levels, from D to S. If|<br>|you're ranked S, you'll be matched with an|advanced player, so keep that in mind... We|also have rank achievement rewards and|<br>|ranking rewards, so keep playing and aim for|the top... Lastly, you can't participate in|the regular rankings during the tournament."
   },
   "44": {
-    "「<%sM_RANK>ランクまで　上がったから|　私からのお祝いだ。ランク達成報酬を渡すぜ。|<bw_break>": "Now that you're up to <%sM_RANK> rank, here's|a little something for you... I'll give you|your rank achievement...<bw_break>"
+    "「<%sM_RANK>ランクまで　上がったから|　私からのお祝いだ。ランク達成報酬を渡すぜ。|<bw_break>": "Now that you've hit Rank <%sM_RANK>,|here's a little reward for ya. A Rank|Achievement reward, if you will.|<bw_break>"
   },
   "45": {
-    "<%sM_RANK>ランク達成報酬 <%sM_ITEM_NAME> を <%dM_NUM>個 手にいれた！": "You have <%dM_NUM> <%sM_RANK> rank|achievement rewards <%sM_ITEM_NAME>!"
+    "<%sM_RANK>ランク達成報酬 <%sM_ITEM_NAME> を <%dM_NUM>個 手にいれた！": "Received <%dM_NUM> <%sM_ITEM_NAME>|as a Rank <%sM_RANK> Achievement reward!"
   },
   "46": {
-    "<%sM_RANK>ランク達成報酬 <%sM_TRUMP_NAME> の絵柄を 手に入れた！": "<%sM_RANK> rank achievement reward, got the|<%sM_TRUMP_NAME> picture!"
+    "<%sM_RANK>ランク達成報酬 <%sM_TRUMP_NAME> の絵柄を 手に入れた！": "Received <%sM_TRUMP_NAME> design|as a Rank <%sM_RANK> Achievement reward!"
   },
   "47": {
-    "<%sM_RANK>ランク達成報酬 <%sM_ITEM_NAME> を 手に入れた！": "I got <%sM_RANK> rank achievement reward|<%sM_ITEM_NAME>!"
+    "<%sM_RANK>ランク達成報酬 <%sM_ITEM_NAME> を 手に入れた！": "Received <%sM_ITEM_NAME>|as a Rank <%sM_RANK> Achievement reward!"
   },
   "48": {
     "<pipipi_off>|<pc>は|<%sM_ITEM_NAME>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sM_ITEM_NAME>!|<se_nots System 7>|<end>"
@@ -147,7 +147,7 @@
     "「<%sM_ITEM_NAME>は|　もう持ってるから　いらないね。|<end>": "I already have <%sM_ITEM_NAME>, so I don't|need...<end>"
   },
   "50": {
-    "「大富豪決定戦　<%sM_SP_EVENT_NAME>は終了したぜ。|　もしも　ランキング上位にランクインしてるなら|　キミにも　何かあげたんだが……|<bw_break>": ""
+    "「大富豪決定戦　<%sM_SP_EVENT_NAME>は終了したぜ。|　もしも　ランキング上位にランクインしてるなら|　キミにも　何かあげたんだが……|<bw_break>": "The Tycoon Playoffs <%sM_SP_EVENT_NAME>|is over. I'd have given you something if you|just ranked a little higher...|<bw_break>"
   },
   "51": {
     "「第<%nM_EVENT_NUMBER>回段位戦の|　エントリー手続きをしておいたぜ。|<br>|「<pc>さんは　<%sM_RANK>から　スタートだ。|　わからないことがあったら|　『説明を聞く』で　聞いてくれ。|<end>": "You've reached the entry point for the|<%nM_EVENT_NUMBER>th Dan Championship...<pc> You are <%sM_RANK> to Star... If you don't|understand something, ask for|clarification...<end>"
