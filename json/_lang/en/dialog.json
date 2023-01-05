@@ -2259,7 +2259,7 @@
     "<speed=0>いまは　<%sM_PTMember>を探せないようだ。|しばらく時間をおいて|もう一度　お試しください。": ""
   },
   "754": {
-    "<speed=0>パーティリーダーから　魔法の迷宮への|さそいを受けましたが　魔法の迷宮へ行くための|条件を　満たしていませんでした。<br>|条件を満たすには　港町レンドアで受けられる|『まほうのカギの仲間たち』を|受ける必要があります。": ""
+    "<speed=0>パーティリーダーから　魔法の迷宮への|さそいを受けましたが　魔法の迷宮へ行くための|条件を　満たしていませんでした。<br>|条件を満たすには　港町レンドアで受けられる|『まほうのカギの仲間たち』を|受ける必要があります。": "<speed=0>Could not receive the invitation to the Magic|Maze since you do not meet the requirements.|<br>|You must first complete the quest \"Magic Key|Companions\" which can be accepted in North|Port Lendor from Ronde."
   },
   "755": {
     "clarity_nt_char_755": "clarity_nt_char_755"
@@ -4266,13 +4266,13 @@
     "clarity_nt_char_1422": "clarity_nt_char_1422"
   },
   "1423": {
-    "<speed=0>パーティリーダーから　ボスモンスターとの|戦いに誘われましたが　戦いに行くための|条件を　満たしていませんでした。<br>|条件を満たすには　港町レンドアで受けられる|『ベジセルクの咆哮』を|クリアする必要があります。": ""
+    "<speed=0>パーティリーダーから　ボスモンスターとの|戦いに誘われましたが　戦いに行くための|条件を　満たしていませんでした。<br>|条件を満たすには　港町レンドアで受けられる|『ベジセルクの咆哮』を|クリアする必要があります。": "<speed=0>Could not accept the invitation to fight this|boss since you do not meet the requirements.|<br>|You must first complete the quest \"Vegiselk's|Roar\" received in North Port Lendor from|Selector Val-cu-rie."
   },
   "1424": {
     "clarity_nt_char_1424": "clarity_nt_char_1424"
   },
   "1425": {
-    "<speed=0>パーティリーダーから　強モードのボスとの|戦いのさそいを受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　戦う強モードのボスに関わる|シナリオをクリアしている必要があります。": ""
+    "<speed=0>パーティリーダーから　強モードのボスとの|戦いのさそいを受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　戦う強モードのボスに関わる|シナリオをクリアしている必要があります。": "<speed=0>Could not accept the invitation to fight this|hard mode boss since you do not meet the|requirements.|<br>|You must first defeat this boss during the|story in order to fight its hard mode version."
   },
   "1426": {
     "clarity_nt_char_1426": "clarity_nt_char_1426"
@@ -5925,28 +5925,28 @@
     "clarity_nt_char_1975": "clarity_nt_char_1975"
   },
   "1976": {
-    "<speed=0>仲間にすることが　できませんでした。": ""
+    "<speed=0>仲間にすることが　できませんでした。": "<speed=0>Couldn't join party."
   },
   "1977": {
-    "<%sM_pc>に　わたすそうびを選んでください。": ""
+    "<%sM_pc>に　わたすそうびを選んでください。": "Please select equipment for <%sM_pc>."
   },
   "1978": {
-    "<speed=0><%sM_SNPC>との　絆が強まった！": ""
+    "<speed=0><%sM_SNPC>との　絆が強まった！": "<speed=0>Further bonded with <%sM_SNPC>!"
   },
   "1979": {
-    "<se_nots Joutyu_SE 37><speed=0><%sM_SNPC>と　少し仲良くなった！": ""
+    "<se_nots Joutyu_SE 37><speed=0><%sM_SNPC>と　少し仲良くなった！": "<se_nots Joutyu_SE 37><speed=0>Became a little closer with <%sM_SNPC>!"
   },
   "1980": {
     "clarity_nt_char_1980": "clarity_nt_char_1980"
   },
   "1981": {
-    "<se_nots Joutyu_SE 37><speed=0><%sM_SNPC>と　仲良くなった！": ""
+    "<se_nots Joutyu_SE 37><speed=0><%sM_SNPC>と　仲良くなった！": "<se_nots Joutyu_SE 37><speed=0>Became closer with <%sM_SNPC>!"
   },
   "1982": {
     "clarity_nt_char_1982": "clarity_nt_char_1982"
   },
   "1983": {
-    "<se_nots Joutyu_SE 37><speed=0><%sM_SNPC>と　かなり仲良くなった！": ""
+    "<se_nots Joutyu_SE 37><speed=0><%sM_SNPC>と　かなり仲良くなった！": "<se_nots Joutyu_SE 37><speed=0>Became much closer with <%sM_SNPC>!"
   },
   "1984": {
     "あなたの　学生としての見た目を選んでください": "Please choose your appearance as a student."
@@ -5961,13 +5961,13 @@
     "clarity_nt_char_1987": "clarity_nt_char_1987"
   },
   "1988": {
-    "<speed=0>強くなった　<pc>との絆が|<%sM_SNPC>に　新たなるチカラを目覚めさせた！|<se_nots Joutyu_SE 150>": ""
+    "<speed=0>強くなった　<pc>との絆が|<%sM_SNPC>に　新たなるチカラを目覚めさせた！|<se_nots Joutyu_SE 150>": "<speed=0>The strengthened bond between|<pc> and <%sM_SNPC>|has awakened a new power!|<se_nots Joutyu_SE 150>"
   },
   "1989": {
-    "<speed=0><color_yellow>※学園内で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>*You cannot register yourself as a support|companion if you end the game in the school.|Is this okay? <yesno><close>"
+    "<speed=0><color_yellow>※学園内で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>You cannot register yourself as a support|companion if you end the game in the school.|Proceed? <yesno><close>"
   },
   "1990": {
-    "<speed=0><color_yellow>※占い師で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>*You cannot register yourself as a|support companion in the tavern as a Fortune|Teller. Is this okay? <yesno><close>"
+    "<speed=0><color_yellow>※占い師で　ゲームを終了した場合|サポート仲間として　酒場登録されませんが|よろしいですか？<yesno><close>": "<speed=0><color_yellow>You cannot register yourself as a|support companion in the tavern as a Fortune|Teller. Proceed? <yesno><close>"
   },
   "1991": {
     "<speed=0>習得中の　スキルノートです。": "<speed=0>Skill Notes being learned."
@@ -6000,7 +6000,7 @@
     "clarity_nt_char_2000": "clarity_nt_char_2000"
   },
   "2001": {
-    "<speed=0>|着ていないマイコーデの表示設定は　できません！|このマイコーデを　着ている状態で|表示設定を　選択してください。": ""
+    "<speed=0>|着ていないマイコーデの表示設定は　できません！|このマイコーデを　着ている状態で|表示設定を　選択してください。": "<speed=0>|You cannot set the display of a glamour you|aren't wearing!"
   },
   "2002": {
     "clarity_nt_char_2002": "clarity_nt_char_2002"
@@ -6117,7 +6117,7 @@
     "今は　あいのりできません。": "You can't carpool right now."
   },
   "2040": {
-    "<speed=0>|現在　受注しているチームクエストはありません。": ""
+    "<speed=0>|現在　受注しているチームクエストはありません。": "<speed=0>|There are currently no Team Quests available."
   },
   "2041": {
     "<speed=0>|この遊びたいことは　すでにセットされています。": ""
@@ -6162,7 +6162,7 @@
     "この宝箱は　すでに入手済です。": "You've already opened this chest."
   },
   "2055": {
-    "<speed=0>マッチングにいくための|条件を　満たしていませんでした。<br>|クエスト『<%sEV_QUEST_NAME>』を|受注するか　特定の進行状態にする|必要があります。": ""
+    "<speed=0>マッチングにいくための|条件を　満たしていませんでした。<br>|クエスト『<%sEV_QUEST_NAME>』を|受注するか　特定の進行状態にする|必要があります。": "<speed=0>Could not be matched since you do not meet|the requirements.|<br>|You must first accept the quest|\"<%sEV_QUEST_NAME>\" and|progressed it to a certain point."
   },
   "2056": {
     "clarity_nt_char_2056": "clarity_nt_char_2056"
@@ -6240,10 +6240,10 @@
     "clarity_nt_char_2080": "clarity_nt_char_2080"
   },
   "2081": {
-    "<speed=0>マッチングにいくための|条件を　満たしていませんでした。<br>|条件を満たすには|クエスト『<%sEV_QUEST_NAME>』を|クリアする必要があります。": ""
+    "<speed=0>マッチングにいくための|条件を　満たしていませんでした。<br>|条件を満たすには|クエスト『<%sEV_QUEST_NAME>』を|クリアする必要があります。": "<speed=0>Could not be matched since you do not meet|the requirements.|<br>|You must first clear the quest|\"<%sEV_QUEST_NAME>\"."
   },
   "2082": {
-    "<speed=0>マッチングにいくための|条件を　満たしていませんでした。<br>|条件を満たすには|クエスト『<%sEV_QUEST_NAME>』と|関連クエストの受注を　取り消す必要があります。": ""
+    "<speed=0>マッチングにいくための|条件を　満たしていませんでした。<br>|条件を満たすには|クエスト『<%sEV_QUEST_NAME>』と|関連クエストの受注を　取り消す必要があります。": "<speed=0>Could not be matched since you do not meet|the requirements.|<br>|You must first cancel the quest|\"<%sEV_QUEST_NAME>\" and|any other related quests."
   },
   "2083": {
     "<speed=0>指定した同盟相手のパーティの人数が|4人に満たないため　誘うことができません。": ""
@@ -6756,7 +6756,7 @@
     "clarity_nt_char_2252": "clarity_nt_char_2252"
   },
   "2253": {
-    "<speed=0>パーティリーダーから魔法の迷宮への|さそいを受けましたが　魔法の迷宮へ行くための|条件を　満たしていませんでした。<br>|条件を満たすには　港町レンドアで受けられる|『まほうのカギの仲間たち』を|クリアする必要があります。": ""
+    "<speed=0>パーティリーダーから魔法の迷宮への|さそいを受けましたが　魔法の迷宮へ行くための|条件を　満たしていませんでした。<br>|条件を満たすには　港町レンドアで受けられる|『まほうのカギの仲間たち』を|クリアする必要があります。": "<speed=0>Could not receive the invitation to the Magic|Maze since you do not meet the requirements.|<br>|You must first complete the quest \"Magic Key|Companions\" which can be accepted in North|Port Lendor from Ronde."
   },
   "2254": {
     "<pipipi_off>|どうぐに『おまとめぶくろ』が追加されました！|<wait=800><me 60><bw_break>": "<pipipi_off>|You now have access to the \"Currencies\"|command!|<wait=800><me 60><bw_break>"
