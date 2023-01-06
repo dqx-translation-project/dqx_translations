@@ -591,7 +591,7 @@
     "<speed=0>キャンセルすると　最初から|やりなおしになりますが　よろしいですか？<yesno 2><close>": "<speed=0>If you cancel now, you'll have to start over|from the beginning. Is this okay?<yesno 2><close>"
   },
   "198": {
-    "<speed=0>『<%sM_Quest2>』をクリア済みにして|クエスト『<%sM_Quest1>』が|リプレイできるように　なりました！": ""
+    "<speed=0>『<%sM_Quest2>』をクリア済みにして|クエスト『<%sM_Quest1>』が|リプレイできるように　なりました！": "<speed=0>\"<%sM_Quest2>\" has returned|to clear status and you can now accept|\"<%sM_Quest1>\" again!"
   },
   "199": {
     "clarity_nt_char_199": "clarity_nt_char_199"
@@ -705,7 +705,7 @@
     "<speed=0>サポート仲間を　全滅させますか？<yesno><close>": "<speed=0>Leave all of your support party members?<yesno><close>"
   },
   "236": {
-    "ポイントを|うしなったまま|ふっかつします": ""
+    "ポイントを|うしなったまま|ふっかつします": "Recover and|lose your|points."
   },
   "237": {
     "なにも みつからなかった。": "Nothing was found."
@@ -849,10 +849,10 @@
     "clarity_nt_char_283": "clarity_nt_char_283"
   },
   "284": {
-    "<speed=0>書くのをやめると　書いた内容が|元に戻りますが　よろしいですか？<yesno 2><close>": ""
+    "<speed=0>書くのをやめると　書いた内容が|元に戻りますが　よろしいですか？<yesno 2><close>": "<speed=0>Any changes you made while writing will be|reverted if you cancel. Proceed?<yesno 2><close>"
   },
   "285": {
-    "<speed=0>この場所では　手紙は書けません。|町や　ハウジングエリアなど|安全な場所で　書いてください。": "<speed=0>You cannot write a letter here. Try|again in a safe place, such as a town."
+    "<speed=0>この場所では　手紙は書けません。|町や　ハウジングエリアなど|安全な場所で　書いてください。": "<speed=0>You cannot write a letter here. Try|again in a safe place, such as a town or a|housing area."
   },
   "286": {
     "サポート仲間の|バトル参加状況と|作戦を変更します": "Change the|battle strategies|of your party."
@@ -921,10 +921,10 @@
     "clarity_nt_char_307": "clarity_nt_char_307"
   },
   "308": {
-    "<speed=0>手紙の作成に　失敗しました。|もう一度　やり直してください。": "<speed=0>You failed to write the letter.|Please try again."
+    "<speed=0>手紙の作成に　失敗しました。|もう一度　やり直してください。": "<speed=0>Failed to write the letter.|Please try again."
   },
   "309": {
-    "<speed=0><%sM_pc>を|チームから　はずせませんでした。|時間を置いて　もう一度お試しください。": "<speed=0>Could not remove <%sM_pc> from the team.|Please try again later."
+    "<speed=0><%sM_pc>を|チームから　はずせませんでした。|時間を置いて　もう一度お試しください。": "<speed=0>Could not remove <%sM_pc>|from the Team. Please try again later."
   },
   "310": {
     "<speed=0>アタマ装備を　『非表示』にしました。": "The head equipment was set to \"Hide\"."
@@ -936,13 +936,13 @@
     "clarity_nt_char_312": "clarity_nt_char_312"
   },
   "313": {
-    "<speed=0>この内容で　フリーコメントを設定しますか？<yesno><close>": "<speed=0>Set up a free comment with this content?<yesno><close>"
+    "<speed=0>この内容で　フリーコメントを設定しますか？<yesno><close>": "<speed=0>Set this free comment?<yesno><close>"
   },
   "314": {
     "clarity_nt_char_314": "clarity_nt_char_314"
   },
   "315": {
-    "<speed=0>フリーコメントを設定しました。": "<speed=0>Free comment set."
+    "<speed=0>フリーコメントを設定しました。": "<speed=0>Free comment has been set."
   },
   "316": {
     "clarity_nt_char_316": "clarity_nt_char_316"
@@ -963,7 +963,7 @@
     "clarity_nt_char_321": "clarity_nt_char_321"
   },
   "322": {
-    "手に入れた称号を|かたがきに|設定します": "Set the title|you've earned.|"
+    "手に入れた称号を|かたがきに|設定します": "Uses obtained|titles to make|your own."
   },
   "323": {
     "clarity_nt_char_323": "clarity_nt_char_323"
@@ -978,16 +978,16 @@
     "clarity_nt_char_326": "clarity_nt_char_326"
   },
   "327": {
-    "<speed=0><%sM_pc>への　仲間のさそいを|取り消して　いいですか？<yesno><close>": "<speed=0>Cancel party invitation to <%sM_pc>?<yesno><close>"
+    "<speed=0><%sM_pc>への　仲間のさそいを|取り消して　いいですか？<yesno><close>": "<speed=0>Cancel party invitation to|<%sM_pc>?<yesno><close>"
   },
   "328": {
     "clarity_nt_char_328": "clarity_nt_char_328"
   },
   "329": {
-    "<speed=0><%sM_pc>は　近くにいないため|仲間に　誘えませんでした。": "<speed=0><%sM_pc> could not be invited to join the|party because they were not nearby."
+    "<speed=0><%sM_pc>は　近くにいないため|仲間に　誘えませんでした。": "<speed=0><%sM_pc> could not be invited to join|the party because they were not nearby."
   },
   "330": {
-    "<speed=0>戦っている仲間がいるため|いまは　パーティを解散できません。": "<speed=0>You can't disband the party right now because|you have friends fighting."
+    "<speed=0>戦っている仲間がいるため|いまは　パーティを解散できません。": "<speed=0>You can't disband the party right now because|party members are in battle."
   },
   "331": {
     "<speed=0>いまは　<%sM_pc>を|仲間から　はずせません。": "<speed=0><%sM_pc> can't be removed from the party|right now."
@@ -996,7 +996,7 @@
     "<speed=0><%sM_pc>は　すでに　仲間に入っています。": "<speed=0><%sM_pc> is already in the party."
   },
   "333": {
-    "<speed=0>仲間に　さそっている相手は　いません。": ""
+    "<speed=0>仲間に　さそっている相手は　いません。": "<speed=0>No one has been invited."
   },
   "334": {
     "clarity_nt_char_334": "clarity_nt_char_334"
@@ -1080,13 +1080,13 @@
     "clarity_nt_char_360": "clarity_nt_char_360"
   },
   "361": {
-    "<speed=0>チームリーダー交代を　依頼中のため|今は　できません。": ""
+    "<speed=0>チームリーダー交代を　依頼中のため|今は　できません。": "<speed=0>Can't do that now as a new Team Leader is|being selected."
   },
   "362": {
     "clarity_nt_char_362": "clarity_nt_char_362"
   },
   "363": {
-    "<speed=0>ドラゴンクエストⅩの世界には|同じ名前のキャラが　<%dM_num>人ほどいます。|それでも　この名前で　よろしいですか？<yesno><close>": "<speed=0>There are <%dM_num> characters with the same|name in the Dragon Quest X world.|Is this name OK?<yesno><close>"
+    "<speed=0>ドラゴンクエストⅩの世界には|同じ名前のキャラが　<%dM_num>人ほどいます。|それでも　この名前で　よろしいですか？<yesno><close>": "<speed=0>There are <%dM_num> characters with the same|name in Dragon Quest X.|Proceed with this name?<yesno><close>"
   },
   "364": {
     "clarity_nt_char_364": "clarity_nt_char_364"
@@ -1143,7 +1143,7 @@
     "clarity_nt_char_381": "clarity_nt_char_381"
   },
   "382": {
-    "<speed=0>すでに　仲間が　いっぱいか|現在　パーティ招待中のため|サポート仲間の変更は　できません！": "<speed=0>You can't change your support group because|it's already full or you are currently being|invited to a party!"
+    "<speed=0>すでに　仲間が　いっぱいか|現在　パーティ招待中のため|サポート仲間の変更は　できません！": "<speed=0>You can't change your support party because|it's already full or you are currently being|invited to a party!"
   },
   "383": {
     "clarity_nt_char_383": "clarity_nt_char_383"
@@ -1215,7 +1215,7 @@
     "clarity_nt_char_405": "clarity_nt_char_405"
   },
   "406": {
-    "<speed=0>称号を　まだ　手にいれていない！": "<speed=0>You haven't earned your title yet!"
+    "<speed=0>称号を　まだ　手にいれていない！": "<speed=0>You haven't earned any titles yet!"
   },
   "407": {
     "モンスター": "Monster"
@@ -1275,10 +1275,10 @@
     "<speed=0>対象マップへの移動に　失敗しました。|時間をおいて　再度お試しください。": "<speed=0>Failed to move to the target map.|Please give it some time and try again."
   },
   "426": {
-    "<speed=0>このクエストは　まだ受注していません。|クリアに戻しますか？<yesno><close>": ""
+    "<speed=0>このクエストは　まだ受注していません。|クリアに戻しますか？<yesno><close>": "<speed=0>This quest has not yet been accepted. Return|it to clear status?<yesno><close>"
   },
   "427": {
-    "<speed=0>クエスト『<%sM_Quest1>』を|クリアに戻しました。": ""
+    "<speed=0>クエスト『<%sM_Quest1>』を|クリアに戻しました。": "<speed=0>The quest \"<%sM_Quest1>\"|was returned to clear status."
   },
   "428": {
     "<%sM_pc>は　宝箱のふたをしめた。": "<%sM_pc> closed the treasure chest."
@@ -1311,7 +1311,7 @@
     "<speed=0>みやぶれるものが　近くにありません。": "There's nothing nearby to see through."
   },
   "438": {
-    "<speed=0>サポート仲間が　死んでいるので|復活の呪文が　使えない！": "<speed=0>You can't use a resurrection spell　because|your support party is dead!"
+    "<speed=0>サポート仲間が　死んでいるので|復活の呪文が　使えない！": "<speed=0>You can't use a resurrection spell because|your support party is dead!"
   },
   "439": {
     "<speed=0>入力した内容を取り消して　元に戻しますか？<yesno 2><close>": "<speed=0>Cancel any changes you've made?<yesno><close>"
@@ -1326,7 +1326,7 @@
     "clarity_nt_char_442": "clarity_nt_char_442"
   },
   "443": {
-    "<speed=0>|ブラックリストの　説明です。|<br>|自分以外のプレイヤーのキャラを|ブラックリストに加えると　そのキャラの発言が|自分の画面には　表示されなくなります。|<br>|ブラックリストに加えたり　はずしたりしたことは|相手のキャラには　伝わりません。|ブラックリストには　100人まで登録できます。": "<speed=0>|This will explain the \"Blacklist\".|<br>|When you add someone to the blacklist, you|will no longer see any messages that they send.|<br>|If you add or remove someone from the blacklist,|they won't receive any notification, so there's no need|to worry. You can have up to 100 people blacklisted."
+    "<speed=0>|ブラックリストの　説明です。|<br>|自分以外のプレイヤーのキャラを|ブラックリストに加えると　そのキャラの発言が|自分の画面には　表示されなくなります。|<br>|ブラックリストに加えたり　はずしたりしたことは|相手のキャラには　伝わりません。|ブラックリストには　100人まで登録できます。": "<speed=0>|This will explain the blacklist.|<br>|When you add someone to the blacklist, you|will no longer see any messages that they|send.|<br>|If you add or remove someone from the|blacklist, they won't be notified. You can|have up to 100 people blacklisted."
   },
   "444": {
     "clarity_nt_char_444": "clarity_nt_char_444"
@@ -1374,16 +1374,16 @@
     "<speed=0>新しい<%sM_action>をつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Creating a new <%sM_action> causes the old one to|disappear. Is this okay?<yesno><close>"
   },
   "459": {
-    "ひとりで遊ぶので|他の人から仲間に|誘われない状態": "I play alone and|don't want to be|invited."
+    "ひとりで遊ぶので|他の人から仲間に|誘われない状態": "Play alone and|block party|invites."
   },
   "460": {
     "いちばん最初から|設定されている|初心者向けの状態": "Set from the|very beginning|for beginners."
   },
   "461": {
-    "ゲームの前から|しばらく離れる時|使う状態": "I will be|leaving the game|for awhile."
+    "ゲームの前から|しばらく離れる時|使う状態": "Use if you'll be|away from|the game."
   },
   "462": {
-    "チャット遅いけど|ゆるしてほしいと|言いたい状態": "I can't type as|I don't have a|keyboard."
+    "チャット遅いけど|ゆるしてほしいと|言いたい状態": "You don't have|a keyboard, so|you can't chat."
   },
   "463": {
     "clarity_nt_char_463": "clarity_nt_char_463"
@@ -1392,16 +1392,16 @@
     "アピールは特に|なにもない状態": ""
   },
   "465": {
-    "仲間として一緒に|遊んでくれる人を|探している状態": "Look for someone|to play with as|a companion."
+    "仲間として一緒に|遊んでくれる人を|探している状態": "You're looking|for others to|play with."
   },
   "466": {
-    "<speed=0>いまは　サポート仲間を|待機中に　変更できません！": ""
+    "<speed=0>いまは　サポート仲間を|待機中に　変更できません！": "<speed=0>You can't change your support party to standby|right now!"
   },
   "467": {
     "clarity_nt_char_467": "clarity_nt_char_467"
   },
   "468": {
-    "<speed=0>仲間が　いっぱいのため|バトル参加に　変更できません！": ""
+    "<speed=0>仲間が　いっぱいのため|バトル参加に　変更できません！": "<speed=0>You can't change support party status because|your party is already full!"
   },
   "469": {
     "clarity_nt_char_469": "clarity_nt_char_469"
@@ -1449,7 +1449,7 @@
     "しかし なにも みつからなかった。": "But you couldn't find anything."
   },
   "484": {
-    "<speed=0>|『なかまにさそう』の　説明です！|<br>|『なかまにさそう』を実行すると|周りにいるキャラを　直接　仲間に誘えます。|<br>|『いまどんな？設定』が『仲間募集中』以外の人を|誘う時は　突然誘わずに　先に相手の人に|誘ってもよいか確認するのが　マナーです。|<br>|他のプレイヤーのキャラを仲間に誘って|相手からもＯＫしてもらえると　そのキャラは|仲間になります。パーティを組むとも言います。|<br>|仲間になると　一緒にバトルやシナリオができ|仲間専用チャットも　使えるようになります。|仲間が持っているルーラストーンも　使えます。|<br>|ストーリーは　パーティリーダーのものが|進行しますが　パーティリーダーと|同じ進み具合の人は　一緒に　お話が進行します。|<br>|仲間から抜けたいときは|『さくせん』コマンドの　『なかま』から|『なかまをぬける』で　抜けられます。|<br>|もし　相手が初対面の人なら|ちゃんと　あいさつするのを忘れずに。|マナーを守って　楽しい　アストルティア生活を！": ""
+    "<speed=0>|『なかまにさそう』の　説明です！|<br>|『なかまにさそう』を実行すると|周りにいるキャラを　直接　仲間に誘えます。|<br>|『いまどんな？設定』が『仲間募集中』以外の人を|誘う時は　突然誘わずに　先に相手の人に|誘ってもよいか確認するのが　マナーです。|<br>|他のプレイヤーのキャラを仲間に誘って|相手からもＯＫしてもらえると　そのキャラは|仲間になります。パーティを組むとも言います。|<br>|仲間になると　一緒にバトルやシナリオができ|仲間専用チャットも　使えるようになります。|仲間が持っているルーラストーンも　使えます。|<br>|ストーリーは　パーティリーダーのものが|進行しますが　パーティリーダーと|同じ進み具合の人は　一緒に　お話が進行します。|<br>|仲間から抜けたいときは|『さくせん』コマンドの　『なかま』から|『なかまをぬける』で　抜けられます。|<br>|もし　相手が初対面の人なら|ちゃんと　あいさつするのを忘れずに。|マナーを守って　楽しい　アストルティア生活を！": "<speed=0>|This will explain \"Invite to Party\"!|<br>|Using the \"Invite to Party\" command, you can|invite nearby players to join your party.|<br>|If someone's Status Icon is set to something|other than \"Seeking Party\", it's a good idea|to ask them before sending an invitation.|<br>|If they agree to your invitation, they will|join you and you will form a party.|<br>|While in a party, you can progress the story,|battle, and chat with one another. You can|even use your party member's Zoomstones.|<br>|Story progress will follow that of the leader,|but if you are at the same story point, you|will progress alongside them.|<br>|If you want to leave the party, use the|\"Party\" command under \"Misc.\" and choose|\"Leave Party\".|<br>|Don't forget to say hello to players you meet|for the first time! Play nice, have fun, and|enjoy your adventures in Astoltia!"
   },
   "485": {
     "clarity_nt_char_485": "clarity_nt_char_485"
@@ -1461,13 +1461,13 @@
     "<speed=0>これ以上　仲間を増やすことは　できません！|サポート仲間を待機中にすれば　その分|他のプレイヤーを　仲間にできるようになります。": "<speed=0>Can't add any more party members!|Put a support member on standby to be able|to invite someone."
   },
   "488": {
-    "<speed=0>冒険を中断すると　仲間から抜けますが|よろしいですか？<yesno><close>": "<speed=0>You'll leave your party when you log out.|Is this okay?<yesno><close>"
+    "<speed=0>冒険を中断すると　仲間から抜けますが|よろしいですか？<yesno><close>": "<speed=0>You'll leave your party when you log out.|Proceed?<yesno><close>"
   },
   "489": {
     "clarity_nt_char_489": "clarity_nt_char_489"
   },
   "490": {
-    "「まわりに」の|発言内容が|見えなくなる状態": "I don't want to|see what others|are saying."
+    "「まわりに」の|発言内容が|見えなくなる状態": "Mute the nearby|chat of other|players."
   },
   "491": {
     "clarity_nt_char_491": "clarity_nt_char_491"
@@ -1479,19 +1479,19 @@
     "clarity_nt_char_493": "clarity_nt_char_493"
   },
   "494": {
-    "<speed=0>新しいバクダンをつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Is it okay to replace your current bomb with a new one?<yesno><close>"
+    "<speed=0>新しいバクダンをつくると　いちばん|古いものが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Replace your current bomb with a new one?<yesno><close>"
   },
   "495": {
-    "<speed=0>新しいボディガードを呼ぶと|今のボディガードが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Is it okay to replace your current bodyguard with a new one?<yesno><close>"
+    "<speed=0>新しいボディガードを呼ぶと|今のボディガードが消えますが　よろしいですか？|<yesno><close>": "<speed=0>Replace your current bodyguard with a new one?<yesno><close>"
   },
   "496": {
-    "<speed=0>新品の装備品です！|一度　装備すると　新品ではなくなりますが|よろしいですか？<yesno 2><close>": "<speed=0>This is brand new equipment!|Once you equip it, it will no longer be|new. Is this okay?<yesno 2><close>"
+    "<speed=0>新品の装備品です！|一度　装備すると　新品ではなくなりますが|よろしいですか？<yesno 2><close>": "<speed=0>This is brand new equipment!|Once you equip it, it will no longer be|new. Proceed?<yesno 2><close>"
   },
   "497": {
     "clarity_nt_char_497": "clarity_nt_char_497"
   },
   "498": {
-    "申し訳ありませんが|その名前は　入力できません。": ""
+    "申し訳ありませんが|その名前は　入力できません。": "That name cannot be used."
   },
   "499": {
     "clarity_nt_char_499": "clarity_nt_char_499"
@@ -1503,31 +1503,31 @@
     "clarity_nt_char_501": "clarity_nt_char_501"
   },
   "502": {
-    "ボス戦勝利時の　自動写真撮影を|『しない』から　『する』に　変更しますか？|<color_yellow>※写真がいっぱいの場合　古い順に上書きします。<color_white>|<yesno><close>": ""
+    "ボス戦勝利時の　自動写真撮影を|『しない』から　『する』に　変更しますか？|<color_yellow>※写真がいっぱいの場合　古い順に上書きします。<color_white>|<yesno><close>": "Turn on automatically taking a photo when|defeating a boss?|<color_yellow>Be careful of photos being overwritten.<color_white>|<yesno><close>"
   },
   "503": {
-    "ボス戦勝利時の　自動写真撮影を|『する』から　『しない』に　変更しますか？|<yesno><close>": ""
+    "ボス戦勝利時の　自動写真撮影を|『する』から　『しない』に　変更しますか？|<yesno><close>": "Turn off automatically taking a photo when|defeating a boss?|<yesno><close>"
   },
   "504": {
     "clarity_nt_char_504": "clarity_nt_char_504"
   },
   "505": {
-    "ボス戦勝利時の　自動写真撮影を|『する』にしました。": ""
+    "ボス戦勝利時の　自動写真撮影を|『する』にしました。": "Automatic photo taking upon defeating a boss|turned on."
   },
   "506": {
     "clarity_nt_char_506": "clarity_nt_char_506"
   },
   "507": {
-    "ボス戦勝利時の　自動写真撮影を|『しない』にしました。": ""
+    "ボス戦勝利時の　自動写真撮影を|『しない』にしました。": "Automatic photo taking upon defeating a boss|turned off."
   },
   "508": {
-    "変更した内容を　取り消して|兄弟のキャラを　元に戻しますか？": ""
+    "変更した内容を　取り消して|兄弟のキャラを　元に戻しますか？": "Undo the changes you've made to your sibling?"
   },
   "509": {
     "clarity_nt_char_509": "clarity_nt_char_509"
   },
   "510": {
-    "変更した内容を　取り消して|あなたのキャラを　元に戻しますか？": "Do you want to undo the changes|you made and restore your character?"
+    "変更した内容を　取り消して|あなたのキャラを　元に戻しますか？": "Undo the changes you've made to your|character?"
   },
   "511": {
     "ログイン状況を|知り合いに表示|するか設定します": "Set whether you|want to show your|login status."
