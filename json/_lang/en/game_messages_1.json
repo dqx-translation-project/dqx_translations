@@ -2064,7 +2064,7 @@
     "clarity_nt_char_688": "clarity_nt_char_688"
   },
   "689": {
-    "<%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item>s!"
+    "<%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item>!"
   },
   "690": {
     "clarity_nt_char_690": "clarity_nt_char_690"
@@ -3681,46 +3681,46 @@
     "大富豪おわり！": "Game over!"
   },
   "1228": {
-    "\\s<%sL_name>\\m<%sL_id>\\eは<%sL_card_suit>の<%sL_card_num>を出した": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eは<%sL_card_suit>の<%sL_card_num>を出した": "\\s<%sL_name>\\m<%sL_id>\\e played <%sL_card_num> of <%sL_card_suit>s."
   },
   "1229": {
-    "\\s<%sL_name>\\m<%sL_id>\\eはジョーカーを出した": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eはジョーカーを出した": "\\s<%sL_name>\\m<%sL_id>\\e played a Joker."
   },
   "1230": {
     "clarity_nt_char_1230": "clarity_nt_char_1230"
   },
   "1231": {
-    "\\s<%sL_name>\\m<%sL_id>\\eは<%sL_card>を<%dL_num>枚出した": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eは<%sL_card>を<%dL_num>枚出した": "\\s<%sL_name>\\m<%sL_id>\\e played <%dL_num> <%sL_card>."
   },
   "1232": {
-    "\\s<%sL_name>\\m<%sL_id>\\eは<%sL_card>を<%dL_num>枚とジョーカーを<%dL_num2>枚出した": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eは<%sL_card>を<%dL_num>枚とジョーカーを<%dL_num2>枚出した": "\\s<%sL_name>\\m<%sL_id>\\e played <%dL_num> <%sL_card> and <%dL_num2> Joker(s)."
   },
   "1233": {
-    "\\s<%sL_name>\\m<%sL_id>\\eはジョーカーを2枚出した": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eはジョーカーを2枚出した": "\\s<%sL_name>\\m<%sL_id>\\e played 2 Jokers."
   },
   "1234": {
     "clarity_nt_char_1234": "clarity_nt_char_1234"
   },
   "1235": {
-    "\\s<%sL_name>\\m<%sL_id>\\eは階段で<%sL_card_num>から<%dL_num>枚出した": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eは階段で<%sL_card_num>から<%dL_num>枚出した": "\\s<%sL_name>\\m<%sL_id>\\e played <%dL_num> <%sL_card_num> on the stack."
   },
   "1236": {
-    "\\s<%sL_name>\\m<%sL_id>\\eの <%sL_rule>！": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eの <%sL_rule>！": "\\s<%sL_name>\\m<%sL_id>\\e's <%sL_rule>!"
   },
   "1237": {
-    "\\s<%sL_name>\\m<%sL_id>\\eはパスした": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eはパスした": "\\s<%sL_name>\\m<%sL_id>\\e passed."
   },
   "1238": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eは なかまカードをパスした": ""
+    "　→\\s<%sL_name>\\m<%sL_id>\\eは なかまカードをパスした": "　→\\s<%sL_name>\\m<%sL_id>\\e passed a Friend Card."
   },
   "1239": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eは なかまカードと手札のカードを交換した": ""
+    "　→\\s<%sL_name>\\m<%sL_id>\\eは なかまカードと手札のカードを交換した": "　→\\s<%sL_name>\\m<%sL_id>\\e exchanged for a Friend Card."
   },
   "1240": {
     "clarity_nt_char_1240": "clarity_nt_char_1240"
   },
   "1241": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eの順番がスキップされた": ""
+    "　→\\s<%sL_name>\\m<%sL_id>\\eの順番がスキップされた": "　→\\s<%sL_name>\\m<%sL_id>\\e's turn was skipped."
   },
   "1242": {
     "　→ <%sL_num>を選択": "　→ Chose <%sL_num>."
@@ -3735,13 +3735,13 @@
     "スライムが <%dL_num>体あらわれて <%dL_num2>体になった": "<%dL_num> Slime(s) appeared for a total of <%dL_num2>."
   },
   "1246": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eは手札のカードを<%dL_num>枚捨てた": ""
+    "　→\\s<%sL_name>\\m<%sL_id>\\eは手札のカードを<%dL_num>枚捨てた": "　→\\s<%sL_name>\\m<%sL_id>\\e discarded <%dL_num> card(s)."
   },
   "1247": {
     "3": "3"
   },
   "1248": {
-    "\\s<%sL_name>\\m<%sL_id>\\eは<%sL_class>になった": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eは<%sL_class>になった": "\\s<%sL_name>\\m<%sL_id>\\e became <%sL_class>."
   },
   "1249": {
     "clarity_nt_char_1249": "clarity_nt_char_1249"
@@ -3816,7 +3816,7 @@
     "ジョーカー": "Joker"
   },
   "1273": {
-    "\\s<%sL_name>\\m<%sL_id>\\eはカードを出した": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eはカードを出した": "\\s<%sL_name>\\m<%sL_id>\\e issued cards."
   },
   "1274": {
     "clarity_nt_char_1274": "clarity_nt_char_1274"
@@ -3849,7 +3849,7 @@
     "clarity_nt_char_1283": "clarity_nt_char_1283"
   },
   "1284": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eから <%sL_card>を受け取った": ""
+    "　→\\s<%sL_name>\\m<%sL_id>\\eから <%sL_card>を受け取った": "　→Received <%sL_card> from \\s<%sL_name>\\m<%sL_id>\\e."
   },
   "1285": {
     "クラブ": "Club"
@@ -3882,7 +3882,7 @@
     "clarity_nt_char_1294": "clarity_nt_char_1294"
   },
   "1295": {
-    "<%dL_rank>位：\\s<%sL_name>\\m<%sL_id>\\e": ""
+    "<%dL_rank>位：\\s<%sL_name>\\m<%sL_id>\\e": "#<%dL_rank>: \\s<%sL_name>\\m<%sL_id>\\e"
   },
   "1296": {
     "clarity_nt_char_1296": "clarity_nt_char_1296"
@@ -3924,7 +3924,7 @@
     "clarity_nt_char_1308": "clarity_nt_char_1308"
   },
   "1309": {
-    "\\s<%sL_name>\\m<%sL_id>\\eからスタート": ""
+    "\\s<%sL_name>\\m<%sL_id>\\eからスタート": "Starting from \\s<%sL_name>\\m<%sL_id>\\e."
   },
   "1310": {
     "clarity_nt_char_1310": "clarity_nt_char_1310"
@@ -3939,7 +3939,7 @@
     "<%dL_game_count>ゲーム目の結果": "Game <%dL_game_count> Results"
   },
   "1314": {
-    "<%-6sL_class>：\\s<%-12sL_name>\\m<%-12sL_id>\\e  勝ち点：<%-3dL_win_point>P (+<%2dL_win_point2>P)": ""
+    "<%-6sL_class>：\\s<%-12sL_name>\\m<%-12sL_id>\\e  勝ち点：<%-3dL_win_point>P (+<%2dL_win_point2>P)": "<%-6sL_class>: \\s<%-12sL_name>\\m<%-12sL_id>\\e  Points: <%-3dL_win_point> (+ <%2dL_win_point2>)"
   },
   "1315": {
     "clarity_nt_char_1315": "clarity_nt_char_1315"
@@ -3960,7 +3960,7 @@
     "clarity_nt_char_1320": "clarity_nt_char_1320"
   },
   "1321": {
-    "アイテムの効果で　制限時間が少し増えた！": ""
+    "アイテムの効果で　制限時間が少し増えた！": "The item effect slightly increased time limit!"
   },
   "1322": {
     "clarity_nt_char_1322": "clarity_nt_char_1322"
@@ -3969,7 +3969,7 @@
     "<%sM_CW_stamp>（スタンプ　<%sM_CW_pack_no>）": "<%sM_CW_stamp> (Stamp <%sM_CW_pack_no>)"
   },
   "1324": {
-    "\\s<%-12sL_name>\\m<%-12sL_id>\\e  <%-6sL_rank> (<%7dL_rank_point>P)  <%sL_trump_name>": ""
+    "\\s<%-12sL_name>\\m<%-12sL_id>\\e  <%-6sL_rank> (<%7dL_rank_point>P)  <%sL_trump_name>": "\\s<%-12sL_name>\\m<%-12sL_id>\\e  <%-6sL_rank> (<%7dL_rank_point>P)  <%sL_trump_name>"
   },
   "1325": {
     "対戦相手      段位               使うトランプ": "Opponent      Rank               Deck"
@@ -4095,7 +4095,7 @@
     "clarity_nt_char_1365": "clarity_nt_char_1365"
   },
   "1366": {
-    "決定戦ポイントを　<%dL_rank_point>P 獲得した": ""
+    "決定戦ポイントを　<%dL_rank_point>P 獲得した": "Earned <%dL_rank_point> Battle Points."
   },
   "1367": {
     "<%sL_rank>ランクに ランクアップした": "Ranked up to Rank <%sL_rank>."
@@ -4146,7 +4146,7 @@
     "バシっ娘へ <%dM_gold> Gを 支払った。": "Paid <%dM_gold> G to Bazoom."
   },
   "1383": {
-    "決定戦ポイントを　<%dL_rank_point>P 失った": ""
+    "決定戦ポイントを　<%dL_rank_point>P 失った": "Lost <%dL_rank_point> Battle Points."
   },
   "1384": {
     "clarity_nt_char_1384": "clarity_nt_char_1384"
@@ -4161,10 +4161,10 @@
     "スコアジュエル/<%dM_total_cou_bonus>こ：<%dM_total_sco_bonus>P": "Score Jewels/<%dM_total_cou_bonus>: <%dM_total_sco_bonus>P"
   },
   "1388": {
-    "<%sM_play_hy_mo_kill>：<%sM_result_rank>": ""
+    "<%sM_play_hy_mo_kill>：<%sM_result_rank>": "<%sM_play_hy_mo_kill>: <%sM_result_rank>"
   },
   "1389": {
-    "<%sM_play_hy_yell>：<%sM_result_rank>": ""
+    "<%sM_play_hy_yell>：<%sM_result_rank>": "<%sM_play_hy_yell>: <%sM_result_rank>"
   },
   "1390": {
     "clarity_nt_char_1390": "clarity_nt_char_1390"
@@ -4176,7 +4176,7 @@
     "第2フェーズのクリアタイム/<%dM_cou_time2>/：<%dM_total_sco_time2>P": "Phase 2 Clear Time/<%dM_cou_time2>/：<%dM_total_sco_time2>P"
   },
   "1393": {
-    "<%sM_play_hy_natto>：<%sM_result_rank>": ""
+    "<%sM_play_hy_natto>：<%sM_result_rank>": "<%sM_play_hy_natto>: <%sM_result_rank>"
   },
   "1394": {
     "敵をたおした/<%dM_cou_kill>体：<%dM_total_sco_kill>P": "Enemy Slain/<%dM_cou_kill>: <%dM_total_sco_kill>P"
@@ -4218,7 +4218,7 @@
     "<%sL_ITEM>が　レプリカになった！": "Made of a replica of|<%sL_ITEM>!"
   },
   "1407": {
-    "<%sM_item>を <%dM_item_num><%sM_tani> 手に入れた！": " Received <%dM_item_num> <%sM_item>!"
+    "<%sM_item>を <%dM_item_num><%sM_tani> 手に入れた！": "Received <%dM_item_num> <%sM_item>!"
   },
   "1408": {
     "継続特典係で <%sM_item><%sM_plusnum>を 交換した！": ""
