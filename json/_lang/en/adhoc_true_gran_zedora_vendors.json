@@ -330,7 +330,7 @@
     "「ここは　不思議の宿屋だ。|　冒険で　ＨＰやＭＰが　減ってきたら|　宿屋で休むと　回復できるぞ。|<br>|「ひとり　<%nL_YADOYA_GOLD>ゴールドになるが|　休んでいくか？|<yesno><break>": "This is the place of wonder... If you're|running low on HP or MP during your|adventure, you can rest at the inn and|<br>|recover... One of us is worth|<%nL_YADOYA_GOLD> gold.<yesno><break>"
   },
   "111": {
-    "「おはよう。|　よく　休むことはできたか？|<br>|「……そういえば|　はじめて　泊まってくれた　お客さんには　|　大事なことを　伝えておかないとな。|<br>|「俺たち宿屋は　泊まってくれた　お客さんの|　名声を　聞くことがあるんだ。|<br>|「名声っていうのは　その名が冒険者として|　どれほど　世に認められているかを|　示したものだ。|<br>|「困っている人々からのクエストを　達成したり|　コツコツと　職人の活動に　はげんだり|　放置されている魔物を　倒したり……|<br>|「世のため　人のために　行動して|　ある程度の名声を　得たなら　宿屋で休んだとき|　名声レベルを　教えるぜ。|<bw_break>": "Oh... Did you get a good night's rest?|Well... Oh, by the way... if you're staying|with us for the first time, there's something|<br>|important you should know. We innkeepers|sometimes hear the voices of our guests...|Fame is an indication of how well a person is|<br>|known to the world as an adventurer. I've|completed quests for people in need, I've|worked tirelessly as an artisan, I've slayed|<br>|neglected demons... If you've achieved a|certain level of fame through your actions|for the good of the world and others, you'll|<br>|be taught your fame level when you rest at|the inn.<bw_break>"
+    "「おはよう。|　よく　休むことはできたか？|<br>|「……そういえば|　はじめて　泊まってくれた　お客さんには　|　大事なことを　伝えておかないとな。|<br>|「俺たち宿屋は　泊まってくれた　お客さんの|　名声を　聞くことがあるんだ。|<br>|「名声っていうのは　その名が冒険者として|　どれほど　世に認められているかを|　示したものだ。|<br>|「困っている人々からのクエストを　達成したり|　コツコツと　職人の活動に　はげんだり|　放置されている魔物を　倒したり……|<br>|「世のため　人のために　行動して|　ある程度の名声を　得たなら　宿屋で休んだとき|　名声レベルを　教えるぜ。|<bw_break>": "Good morning. Did you rest well?|<br>|By the way, if this is your first time staying|here, there's something important you should|know.|<br>|Us innkeepers often overhear the exploits of|guests that rest at our inns.|<br>|These exploits, known as fame, indicate how|well you are known amongst other adventurers.|<br>|Completing quests for those in need, working|tirelessly as a craftsman, defeating monsters|that no one else will take care of...|<br>|If you've reached a certain level of fame|when resting at an inn, we will let you know|what is it once you awake.|<bw_break>"
   },
   "112": {
     "「おはよう。|　よく　休むことはできたか。|<br>|「おっと　そうだ。ウチに泊まる　お客さんから|　<pc>さんの話を　たまに聞くぜ。|　いろいろ　活躍してるみたいだな。|<end>": "I... I don't get to rest very often. Oh... I|have a guest staying with me.<pc> I've heard a lot about you... I've heard|you've been doing a lot of work...<end>"
@@ -339,7 +339,7 @@
     "「残念だ。|　お金が　足りないようだな。<bw_break>": "... I don't have enough money...<bw_break>"
   },
   "114": {
-    "「おはよう。|　よく　休むことはできたか？|　じゃあ　がんばってこいよ。<turn_end>": "Oh... Did you get a good night's rest? Then|good luck...<turn_end>"
+    "「おはよう。|　よく　休むことはできたか？|　じゃあ　がんばってこいよ。<turn_end>": "Good morning. Did you rest well?|Good luck with your travels.<turn_end>"
   },
   "115": {
     "<pc>の　旅人バザーに出品できる数が|<%dL_SYUPPIN>個になった！<se_nots System 7>|<end>": ""
@@ -363,16 +363,16 @@
     "立て札への書き込みが　みんなの役に立って|<pc>は　<%dL_MEISEI2>の名声値を得た！|<end>": "I'm glad you found the postings useful|<pc> got a fame value of <%dL_MEISEI2>!<end>"
   },
   "122": {
-    "「たいした事は　してやれないが|　ゆっくり　休んでいってくれ。": "I can't do much for you, but I hope you get|some rest..."
+    "「たいした事は　してやれないが|　ゆっくり　休んでいってくれ。": "This is all I can do for you. I hope you have|a good rest."
   },
   "123": {
-    "「たいした事は　してやれないが|　ゆっくり　休んでいってくれ。": "I can't do much for you, but I hope you get|some rest..."
+    "「たいした事は　してやれないが|　ゆっくり　休んでいってくれ。": "This is all I can do for you. I hope you have|a good rest."
   },
   "124": {
-    "「また　いつでも来てくれよ。<turn_end>": "You can always come back...<turn_end>"
+    "「また　いつでも来てくれよ。<turn_end>": "Please come again.<turn_end>"
   },
   "125": {
-    "「こんにちは。|　旅人の宿屋へ　ようこそ。|<br>|「お泊まりですか？|　それとも　夜まで休まれますか？|　どちらも　<%nL_YADOYA_GOLD>ゴールドに　なります。|<select>|泊まる|休む|<select_end><break>": "Hello... Traveler's lodge. Hello... Are you|staying the night? Or can you stay the night?|Both are gold...|<select>|stay at (eg hotel)|rest|<select_end><break>"
+    "「こんにちは。|　旅人の宿屋へ　ようこそ。|<br>|「お泊まりですか？|　それとも　夜まで休まれますか？|　どちらも　<%nL_YADOYA_GOLD>ゴールドに　なります。|<select>|泊まる|休む|<select_end><break>": "Hello and welcome to our inn.|<br>|Would you like to stay overnight or rest until|night? It'll be <%dL_YADOYA_GOLD> Gold.|<select>|Stay Overnight|Rest Until Night|<select_end><break>"
   },
   "126": {
     "「旅人の宿屋へ　ようこそ。|　こんな夜ふけまで　お疲れさまでした。|<br>|「<%nL_YADOYA_GOLD>ゴールドに　なりますが|　お泊まりになりますか？|<yesno><break>": "Traveler's lodge. Hello. Thank you for|staying until this late at night. <Would you|like to stay for the night?<yesno><break>"
