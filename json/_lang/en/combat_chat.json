@@ -3348,7 +3348,7 @@
     "clarity_nt_char_1116": "clarity_nt_char_1116"
   },
   "1117": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eのチカラを吸収した！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eのチカラを吸収した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e absorbed \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's power!"
   },
   "1118": {
     "clarity_nt_char_1118": "clarity_nt_char_1118"
@@ -4428,7 +4428,7 @@
     "<%sB_ACTOR>は ターンを消費しない陣を 作りだした！": ""
   },
   "1477": {
-    "<%sB_ACTOR>は 会心・ぼうそう率の上がる陣を 作りだした！": ""
+    "<%sB_ACTOR>は 会心・ぼうそう率の上がる陣を 作りだした！": "<%sB_ACTOR> created a critical boosting magic circle!"
   },
   "1478": {
     "clarity_nt_char_1478": "clarity_nt_char_1478"
@@ -6378,7 +6378,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに これ以上は デスパワーを 注げなかった！": ""
   },
   "2127": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップと魔力かくせいが入れ替わった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's attack/spell power up was swapped!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力アップと魔力かくせいが入れ替わった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's attack and spell power boosts were swapped!"
   },
   "2128": {
     "clarity_nt_char_2128": "clarity_nt_char_2128"
@@ -20511,7 +20511,7 @@
     "身を守りつつ|敵１体に|大ダメージ": "Heavy damage to|a foe while|defending."
   },
   "6838": {
-    "聖なる光で|悪い効果から|自分の身を守る": "Protect yourself|from bad effects|with holy light."
+    "聖なる光で|悪い効果から|自分の身を守る": "Protect yourself|from ailments|with holy light."
   },
   "6839": {
     "clarity_nt_char_6839": "clarity_nt_char_6839"
@@ -20580,10 +20580,10 @@
     "clarity_nt_char_6860": "clarity_nt_char_6860"
   },
   "6861": {
-    "キラキラパワーで|悪い効果から|仲間の身を守る": "Use glitter power|to protect allies|from bad effects."
+    "キラキラパワーで|悪い効果から|仲間の身を守る": "Use glitter power|to protect allies|from ailments."
   },
   "6862": {
-    "いつもより|すばやく呪文を|唱えられる": "Increase your|spell casting|speed for 2 min."
+    "いつもより|すばやく呪文を|唱えられる": "Your spells will|cast faster for|a while."
   },
   "6863": {
     "仲間ひとりの|テンションを|１段階アップする": "Raise Tension|for one ally|by 1 level."
@@ -20883,7 +20883,7 @@
     "clarity_nt_char_6961": "clarity_nt_char_6961"
   },
   "6962": {
-    "範囲内の仲間を|悪い効果から|１度だけ守る": "Protects nearby|allies from bad|effects once."
+    "範囲内の仲間を|悪い効果から|１度だけ守る": "Protects nearby|allies from|ailments once."
   },
   "6963": {
     "敵１体に|ダメージを与え|テンションダウン": "Damage an enemy|and lower|their tension."
@@ -20973,7 +20973,7 @@
     "clarity_nt_char_6991": "clarity_nt_char_6991"
   },
   "6992": {
-    "自分の悪い効果を|はらいのける|武闘家専用特技": "Clear all bad|effects currently|affecting you."
+    "自分の悪い効果を|はらいのける|武闘家専用特技": "Clear all|ailments you're|inflicted with."
   },
   "6993": {
     "周囲の敵を|大声でおどかし|動けなくする": "Yell and attempt|to frighten|nearby enemies."
@@ -21441,7 +21441,7 @@
     "攻撃と回復呪文を|強化して詠唱も|大幅短縮される！": "Boosts spell|power, recovery,|and cast speed!"
   },
   "7148": {
-    "みんなのＨＰと|悪い効果を|一気に回復！": "Recover allies'|HP and bad|status effects!"
+    "みんなのＨＰと|悪い効果を|一気に回復！": "Recover allies'|HP and ailments!"
   },
   "7149": {
     "clarity_nt_char_7149": "clarity_nt_char_7149"
@@ -21933,7 +21933,7 @@
     "敵全体に悪い効果|観客を魅了したり|幻惑したりする": "May dazzle or|charm all|enemies."
   },
   "7312": {
-    "敵に不浄の効果が|多くついていると|威力が上がる攻撃": "Attacks boosted|when enemy has|more bad effects."
+    "敵に不浄の効果が|多くついていると|威力が上がる攻撃": "Attacks boosted|when enemy has|more ailments."
   },
   "7313": {
     "clarity_nt_char_7313": "clarity_nt_char_7313"
@@ -22212,7 +22212,7 @@
     "clarity_nt_char_7404": "clarity_nt_char_7404"
   },
   "7405": {
-    "悪い効果の数だけ|威力があがる|闇属性攻撃": "A dark attack|better with|more bad effects."
+    "悪い効果の数だけ|威力があがる|闇属性攻撃": "A dark attack|boosted by|more ailments."
   },
   "7406": {
     "自分に良い効果が|ついているほど|威力が上がる攻撃": "Deals more damage|if you have|more buffs."
@@ -22263,7 +22263,7 @@
     "範囲内にいる|仲間のＨＰを|２５～回復する": "Restores about|25 HP to|nearby allies."
   },
   "7422": {
-    "仲間ひとりの|悪い効果を消し|ＨＰを２５～回復": "Cure bad effects|and restore 25|HP of one ally."
+    "仲間ひとりの|悪い効果を消し|ＨＰを２５～回復": "Cure ailments|and restore 25|HP of one ally."
   },
   "7423": {
     "周囲の仲間の|防御力を上げ|ＨＰを徐々に回復": "Nearby allies'|defense up and|heal gradual HP."
@@ -22689,7 +22689,7 @@
     "周囲を巻き込む|裁きの大雷|闇耐性を下げる": "A great thunder|blow that lowers|dark resistance."
   },
   "7564": {
-    "悪い効果の数だけ|猛威を振るう|闇属性攻撃": "A dark attack|better with|more bad effects."
+    "悪い効果の数だけ|猛威を振るう|闇属性攻撃": "A dark attack|boosted by|more ailments."
   },
   "7565": {
     "近くにいる|仲間の攻撃力を|２段階上げる": "Nearby allies'|attack up by|2 stages."
@@ -22782,7 +22782,7 @@
     "周囲を巻き込む|裁きのいかずち|闇耐性を下げる": "Judgement thunder|that lowers|dark resistance."
   },
   "7595": {
-    "悪い効果の数だけ|威力を振るう|闇属性攻撃": "A dark attack|stronger with|more bad effects."
+    "悪い効果の数だけ|威力を振るう|闇属性攻撃": "A dark attack|stronger with|more ailments."
   },
   "7596": {
     "敵１体を襲う|闇の一撃|雷耐性を下げる": "A dark strike|that lowers|thunder resist."
@@ -22809,10 +22809,10 @@
     "敵１体の|テンション上昇時|自分も上昇する": "If the enemy's|tension rises,|yours will too."
   },
   "7604": {
-    "仲間ひとりの|悪い効果を消し|ＨＰを８０～回復": "Cure bad effects|and restore 80|HP of one ally."
+    "仲間ひとりの|悪い効果を消し|ＨＰを８０～回復": "Cure ailments|and restore 80|HP of one ally."
   },
   "7605": {
-    "仲間ひとりの|悪い効果を消し|ＨＰ１６４～回復": "Cure bad effects|and restore 164|HP of one ally."
+    "仲間ひとりの|悪い効果を消し|ＨＰ１６４～回復": "Cure ailments|and restore 164|HP of one ally."
   },
   "7606": {
     "範囲内にいる|仲間のＨＰを|１６４～回復する": "Restore 164 HP|to nearby allies."
@@ -23136,7 +23136,7 @@
     "clarity_nt_char_7712": "clarity_nt_char_7712"
   },
   "7713": {
-    "周囲の仲間を|生き返らせ|状態異常も治す": "Revives nearby allies|and heals bad|status effects."
+    "周囲の仲間を|生き返らせ|状態異常も治す": "Revives nearby allies|and cures any|ailments."
   },
   "7714": {
     "clarity_nt_char_7714": "clarity_nt_char_7714"
@@ -23847,7 +23847,7 @@
     "clarity_nt_char_7949": "clarity_nt_char_7949"
   },
   "7950": {
-    "悪い効果に対して|威力が上がる斬撃|回復効果付き": "Healing slash|stronger versus|bad effects."
+    "悪い効果に対して|威力が上がる斬撃|回復効果付き": "Healing slash|stronger versus|ailments."
   },
   "7951": {
     "clarity_nt_char_7951": "clarity_nt_char_7951"
@@ -24702,7 +24702,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに まもりのきりが たちこめた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was covered in a protective fog!"
   },
   "8235": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 悪い効果に かかりにくくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now less likely to receive bad effects!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 悪い効果に かかりにくくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now less likely to receive ailments!"
   },
   "8236": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 呪文をかきけす マホステ効果！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Snub effect to nullify spells!"
@@ -24750,7 +24750,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 光のチカラを 身にまとった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the power of light!"
   },
   "8251": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 悪い効果に かかりやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now more likely to receive bad effects!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 悪い効果に かかりやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now more likely to receive ailments!"
   },
   "8252": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 地形ダメージを 受けなくなった！": ""
@@ -29223,13 +29223,13 @@
     "clarity_nt_char_9741": "clarity_nt_char_9741"
   },
   "9742": {
-    "悪い効果に|かかりにくくなった！": "Harder to receive|bad status effects!"
+    "悪い効果に|かかりにくくなった！": "Harder to receive|ailments!"
   },
   "9743": {
     "clarity_nt_char_9743": "clarity_nt_char_9743"
   },
   "9744": {
-    "悪い効果に|かかりやすくなった！": "Easier to receive|bad status effects!"
+    "悪い効果に|かかりやすくなった！": "Easier to receive|ailments!"
   },
   "9745": {
     "clarity_nt_char_9745": "clarity_nt_char_9745"
@@ -31983,7 +31983,7 @@
     "会心と呪文ぼうそう率が|もとにもどった": "Critical/haywire rate|back to normal."
   },
   "10662": {
-    "悪い効果がかきけされた": "Bad effects|were erased."
+    "悪い効果がかきけされた": "Ailments were cured."
   },
   "10663": {
     "元気タイムが終わった": "Bonus Time|ended."
@@ -36276,7 +36276,7 @@
     "clarity_nt_char_12092": "clarity_nt_char_12092"
   },
   "12093": {
-    "源世の恵みが|悪い効果をけした！": "Origin Blessing removed|bad status effects!"
+    "源世の恵みが|悪い効果をけした！": "Origin Blessing removed|ailments!"
   },
   "12094": {
     "clarity_nt_char_12094": "clarity_nt_char_12094"
@@ -37002,7 +37002,7 @@
     "clarity_nt_char_12334": "clarity_nt_char_12334"
   },
   "12335": {
-    "相手をマヒさせ|悪い効果に対して|威力が上がる斬撃": "Paralyzes and|deals more if foe|has bad effects."
+    "相手をマヒさせ|悪い効果に対して|威力が上がる斬撃": "Paralyzes and|deals more if foe|has ailments."
   },
   "12336": {
     "死霊を召喚し|使役する|デスマスター専用": "Summon a spirit|to fight for|you."
@@ -37782,7 +37782,7 @@
     "clarity_nt_char_12594": "clarity_nt_char_12594"
   },
   "12595": {
-    "敵を弱体させ|悪い効果に対して|威力が上がる斬撃": "Weakens an enemy|and deals more|with bad effects."
+    "敵を弱体させ|悪い効果に対して|威力が上がる斬撃": "Weakens an enemy|and deals more|with ailments."
   },
   "12596": {
     "clarity_nt_char_12596": "clarity_nt_char_12596"
@@ -37803,7 +37803,7 @@
     "clarity_nt_char_12601": "clarity_nt_char_12601"
   },
   "12602": {
-    "弱体させ風耐性も|下げて悪い効果に|威力が上がる斬撃": "Lowers wind res.|and deals more|with bad effects."
+    "弱体させ風耐性も|下げて悪い効果に|威力が上がる斬撃": "Lowers wind res.|and deals more|with ailments."
   },
   "12603": {
     "clarity_nt_char_12603": "clarity_nt_char_12603"
