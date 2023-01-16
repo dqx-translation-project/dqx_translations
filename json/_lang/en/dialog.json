@@ -5700,13 +5700,13 @@
     "clarity_nt_char_1900": "clarity_nt_char_1900"
   },
   "1901": {
-    "-----【マイコーデメモ・素材】-----": ""
+    "-----【マイコーデメモ・素材】-----": "-----[Glamour Memo/Materials]-----"
   },
   "1902": {
     "clarity_nt_char_1902": "clarity_nt_char_1902"
   },
   "1903": {
-    "-----【妖精の姿見メモ・素材】-----": ""
+    "-----【妖精の姿見メモ・素材】-----": "-----[Fairy Mirror Memo/Materials]-----"
   },
   "1904": {
     "clarity_nt_char_1904": "clarity_nt_char_1904"
@@ -8610,10 +8610,10 @@
     "ＢＧＭの音量を|変更します": ""
   },
   "2871": {
-    "<speed=0>|その位置には　移動させられません。": ""
+    "<speed=0>|その位置には　移動させられません。": "<speed=0>|Cannot be moved to that position."
   },
   "2872": {
-    "<speed=0>キャラ作成から　90日以上経過しているか|最後に冒険を中断した日時から　60日未満のため|サーバーに入ることができません。": ""
+    "<speed=0>キャラ作成から　90日以上経過しているか|最後に冒険を中断した日時から　60日未満のため|サーバーに入ることができません。": "<speed=0>Only players less than 90 days old or|returning players over 60 days can enter this|server.<end>"
   },
   "2873": {
     "clarity_nt_char_2873": "clarity_nt_char_2873"
@@ -8637,13 +8637,13 @@
     "clarity_nt_char_2879": "clarity_nt_char_2879"
   },
   "2880": {
-    "<pc>は　<%sM_useitem>を使って|宝箱の封印を　解いた！|<%sM_useitem>を　消費した。": ""
+    "<pc>は　<%sM_useitem>を使って|宝箱の封印を　解いた！|<%sM_useitem>を　消費した。": "<pc> used the <%sM_useitem>|to unseal the sealed chest!|<%sM_useitem> has been consumed."
   },
   "2881": {
     "clarity_nt_char_2881": "clarity_nt_char_2881"
   },
   "2882": {
-    "<speed=0>宝箱の中身は　封印されている。|<%sM_useitem>を　１個　使って|宝箱の中身を　とりますか？（所持数　<%nM_Num>個）<yesno 2><close>": ""
+    "<speed=0>宝箱の中身は　封印されている。|<%sM_useitem>を　１個　使って|宝箱の中身を　とりますか？（所持数　<%nM_Num>個）<yesno 2><close>": "<speed=0>The chest's contents are sealed.|Use 1 <%sM_useitem> to unseal it?|(Stock: <%dM_Num>)<yesno 2><close>"
   },
   "2883": {
     "clarity_nt_char_2883": "clarity_nt_char_2883"
@@ -8658,13 +8658,13 @@
     "<speed=0><pc>は　あと　<%dW_ADWAIT>分|このマッチングに　参加できません。": "<speed=0><pc> can't use matching for another|<%dW_ADWAIT> minute(s)."
   },
   "2887": {
-    "おもいで私書箱で　みれる手紙を|すべて選択した状態にしますが|よろしいですか？<yesno 2><break>": "This will select all letters viewable in|your PO Box. Is this okay?<yesno 2><break>"
+    "おもいで私書箱で　みれる手紙を|すべて選択した状態にしますが|よろしいですか？<yesno 2><break>": "This will select all letters viewable in|your PO Box. Proceed?<yesno 2><break>"
   },
   "2888": {
     "この手紙には　荷物も一緒に　届いているため|削除することができません。": ""
   },
   "2889": {
-    "選択した　すべての手紙を　削除しました。": ""
+    "選択した　すべての手紙を　削除しました。": "All selected letters have been deleted."
   },
   "2890": {
     "clarity_nt_char_2890": "clarity_nt_char_2890"
@@ -8685,7 +8685,7 @@
     "clarity_nt_char_2895": "clarity_nt_char_2895"
   },
   "2896": {
-    "手紙が　ひとつも　選択されていません。": ""
+    "手紙が　ひとつも　選択されていません。": "No letters are selected."
   },
   "2897": {
     "<%sM_JOB>の<%sM_SKILL_LINE>に|ポイントを　振った！": "Allocated points into <%sM_JOB>|<%sM_SKILL_LINE>!"
@@ -8694,22 +8694,22 @@
     "clarity_nt_char_2898": "clarity_nt_char_2898"
   },
   "2899": {
-    "<%sM_JOB>の|マスタースキルポイントが|<%dM_Point>戻った！": ""
+    "<%sM_JOB>の|マスタースキルポイントが|<%dM_Point>戻った！": "Refunded <%sM_JOB>'s <%dM_Point>|Master Skill Points!"
   },
   "2900": {
-    "-----【妖精の姿見メモ・ツヤ】-----": ""
+    "-----【妖精の姿見メモ・ツヤ】-----": "-----[Fairy Mirror Memo/Gloss]-----"
   },
   "2901": {
     "clarity_nt_char_2901": "clarity_nt_char_2901"
   },
   "2902": {
-    "-----【マイコーデメモ・ツヤ】-----": ""
+    "-----【マイコーデメモ・ツヤ】-----": "-----[Glamour Memo/Gloss]-----"
   },
   "2903": {
     "clarity_nt_char_2903": "clarity_nt_char_2903"
   },
   "2904": {
-    "<speed=0>この見た目を　コミュニケーションウィンドウの|システムログに　メモしますか？|<yesno><close>": ""
+    "<speed=0>この見た目を　コミュニケーションウィンドウの|システムログに　メモしますか？|<yesno><close>": "<speed=0>Note this appearance down in the|Communication Window's system log?|<yesno><close>"
   },
   "2905": {
     "clarity_nt_char_2905": "clarity_nt_char_2905"
