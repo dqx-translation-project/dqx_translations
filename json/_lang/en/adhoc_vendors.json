@@ -42,16 +42,16 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": ""
   },
   "15": {
-    "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": "The <%sL_URITAI_ITEM>.|I'll buy it for <%dL_SELL_PRICE> gold.|Is that okay?|<yesno><break>"
+    "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": "One <%sL_URITAI_ITEM>.|I'll buy it for <%dL_SELL_PRICE> Gold.|Is that all right?|<yesno><break>"
   },
   "16": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るが　いいかね？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るが　いいかね？|<yesno><break>": "I can buy <%dL_URUKAZU> <%sL_URITAI_ITEM>|for <%dL_SELL_PRICE> Gold.|Sound good?|<yesno><break>"
   },
   "17": {
     "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "18": {
-    "「よし！　確かに買い取ったぜ！|<bw_break>": "Yeah! I did buy it!<bw_break>"
+    "「よし！　確かに買い取ったぜ！|<bw_break>": "Great! Pleasure doing business with ya!|<bw_break>"
   },
   "19": {
     "「おっと。<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいだな。|<bw_break>": "Hm. <%sL_BAG_TYPE> is too full to hold|the <%sL_KAITAI_ITEM>.<bw_break>"
@@ -99,13 +99,13 @@
     "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
   },
   "34": {
-    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
+    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Sure, I'll just put it in your equipment bag.|<bw_break>"
   },
   "35": {
     "「そりゃ　残念だな。|　他に　ほしい物は　あるか？|<break>": "That's too bad. Is there anything else you'd|like?<break>"
   },
   "36": {
-    "「そりゃ　残念だな。|　他に売りたい物は　あるか？|<break>": "Well, that's... Do you have anything else|you'd like to sell?<break>"
+    "「そりゃ　残念だな。|　他に売りたい物は　あるか？|<break>": "That's a shame. Is there anything else you'd|like to sell?|<break>"
   },
   "37": {
     "「買いにきたんだな。|　どれを　買うんだ？|<break>": "You've come to buy.|Which one are you buying?|<break>"
@@ -216,7 +216,7 @@
     "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
   },
   "73": {
-    "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
+    "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "I'll put this into your equipment bag.<bw_break>"
   },
   "74": {
     "「そうか　残念だなあ。|　他に　ほしい物は　あるかい？|<break>": "That's too bad. Is there anything else you|want?<break>"
@@ -243,7 +243,7 @@
     "「他にも　買っていきますか？|<break>": "Do you want to buy something else?<break>"
   },
   "82": {
-    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになります。|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|Is that okay?|<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになります。|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> Gold.|How about it?|<yesno><break>"
   },
   "83": {
     "「<%sL_KAITAI_ITEM>を　ひとつですね。|　<%nL_BUY_PRICE>ゴールドに　なりますが|　よろしいですか？|<yesno><break>": "One <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold.|<yesno><break>"
@@ -360,7 +360,7 @@
     "「他にも　ほしい商品は|　ございますか？|<break>": "Is there anything else you'd like?<break>"
   },
   "121": {
-    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになります。|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|Is that okay?|<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになります。|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> Gold.|How about it?|<yesno><break>"
   },
   "122": {
     "「<%sL_KAITAI_ITEM>を　おひとつですね。|　<%nL_BUY_PRICE>ゴールド　いただきますが|　よろしいですか？|<yesno><break>": "One <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold.|How does that sound?|<yesno><break>"
@@ -753,10 +753,10 @@
     "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "252": {
-    "「まいどありぃ！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Thank you very much. Okay, let's put him in|the sash bag...<bw_break>"
+    "「まいどありぃ！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Thanks much! I'll go ahead and put it in your|equipment bag.|<bw_break>"
   },
   "253": {
-    "「どうも　ありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you, thank you! Now, let's put him in|the sash bag...<bw_break>"
+    "「どうも　ありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you, thank you! I'll go ahead and put|this in your equipment bag.|<bw_break>"
   },
   "254": {
     "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you very much!|I'll put it in your equipment bag.|<bw_break>"
@@ -1881,7 +1881,7 @@
     "「他にも　ほしい商品は|　ございますか？|<break>": "Is there anything else you'd like?<break>"
   },
   "628": {
-    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになります。|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|Is that okay?|<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになります。|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> Gold.|How about it?|<yesno><break>"
   },
   "629": {
     "「<%sL_KAITAI_ITEM>を　おひとつですね。|　<%nL_BUY_PRICE>ゴールド　いただきますが|　よろしいですか？|<yesno><break>": "One <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold.|How does that sound?|<yesno><break>"
@@ -3294,10 +3294,10 @@
     "「<%sL_KAITAI_ITEM>だな。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　それでも　いいのか？|<yesno 2><break>": ""
   },
   "1099": {
-    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
+    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Sure, I'll just put it in your equipment bag.|<bw_break>"
   },
   "1100": {
-    "「ケケケッ　まいどあり！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": ""
+    "「ケケケッ　まいどあり！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Keh, heh, heh, thanks much! I'll put it in|your equipment bag for you.|<bw_break>"
   },
   "1101": {
     "「ケケケッ　わかったぜ。|　他に買いたい物は　あるのか？|<break>": ""
@@ -3918,7 +3918,7 @@
     "「<%sL_KAITAI_ITEM>だな。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　それでも　いいのか？|<yesno 2><break>": ""
   },
   "1307": {
-    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
+    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Sure, I'll just put it in your equipment bag.|<bw_break>"
   },
   "1308": {
     "「ケケッ　まいどあり！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": ""
@@ -4230,7 +4230,7 @@
     "「<%sL_KAITAI_ITEM>だな。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　それでも　いいのか？|<yesno 2><break>": ""
   },
   "1411": {
-    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
+    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Sure, I'll just put it in your equipment bag.|<bw_break>"
   },
   "1412": {
     "「ケケッ　まいどあり！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": ""
@@ -5790,7 +5790,7 @@
     "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>フェルドで　買い取るが|　それで　いいかね？|<yesno><break>": ""
   },
   "1931": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だな。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取るが　いいかね？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だな。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取るが　いいかね？|<yesno><break>": "I'll buy your <%dL_URUKAZU> <%sL_URITAI_ITEM> for|<%dL_SELL_PRICE> Feld. How's that sound?|<yesno><break>"
   },
   "1932": {
     "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
@@ -5808,7 +5808,7 @@
     "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
   },
   "1937": {
-    "「よし！　確かに買い取ったぜ！|<bw_break>": "Yeah! I did buy it!<bw_break>"
+    "「よし！　確かに買い取ったぜ！|<bw_break>": "Great! Pleasure doing business with ya!|<bw_break>"
   },
   "1938": {
     "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno 2><break>": ""
@@ -5892,34 +5892,34 @@
     "「<%sL_KAITAI_ITEM>か。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかね？|<yesno 2><break>": ""
   },
   "1965": {
-    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
+    "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Sure, I'll just put it in your equipment bag.|<bw_break>"
   },
   "1966": {
-    "「まいどありぃ！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Thank you very much. Okay, let's put him in|the sash bag...<bw_break>"
+    "「まいどありぃ！|　じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Thanks much! I'll go ahead and put it in your|equipment bag.|<bw_break>"
   },
   "1967": {
     "「そりゃ　残念だな。|　他に　ほしい物は　あるか？|<break>": "That's too bad. Is there anything else you'd|like?<break>"
   },
   "1968": {
-    "「そりゃ　残念だな。|　他に売りたい物は　あるか？|<break>": "Well, that's... Do you have anything else|you'd like to sell?<break>"
+    "「そりゃ　残念だな。|　他に売りたい物は　あるか？|<break>": "That's a shame. Is there anything else you'd|like to sell?|<break>"
   },
   "1969": {
-    "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+    "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
   },
   "1970": {
-    "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
+    "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>"
   },
   "1971": {
-    "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<select_end><break>": ""
+    "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<select_end><break>"
   },
   "1972": {
-    "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": ""
+    "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
   },
   "1973": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1974": {
-    "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
+    "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "TEMPORARY TEXT"
   },
   "1975": {
     "「買いにきたんだな。|　どれを　買うんだ？|<break>": "You've come to buy.|Which one are you buying?|<break>"
@@ -6228,10 +6228,10 @@
     "「<%sL_KAITAI_ITEM>だね？|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかい？|<yesno 2><break>": ""
   },
   "2077": {
-    "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
+    "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "I'll put this into your equipment bag.<bw_break>"
   },
   "2078": {
-    "「どうも　ありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you, thank you! Now, let's put him in|the sash bag...<bw_break>"
+    "「どうも　ありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you, thank you! I'll go ahead and put|this in your equipment bag.|<bw_break>"
   },
   "2079": {
     "「そうか　残念だなあ。|　他に　ほしい物は　あるかい？|<break>": "That's too bad. Is there anything else you|want?<break>"
@@ -8082,10 +8082,10 @@
     "「<%sL_KAITAI_ITEM>だね？|　写真立ての種類ごとに　写真は　１種類しか|　飾れないけど　大丈夫かな？|<yesno 2><break>": ""
   },
   "2695": {
-    "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
+    "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "I'll put this into your equipment bag.<bw_break>"
   },
   "2696": {
-    "「どうも　ありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you, thank you! Now, let's put him in|the sash bag...<bw_break>"
+    "「どうも　ありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you, thank you! I'll go ahead and put|this in your equipment bag.|<bw_break>"
   },
   "2697": {
     "「なんと　残念！|　他に　ほしいものはあるかな？|<break>": ""
