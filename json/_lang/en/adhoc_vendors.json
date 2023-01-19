@@ -393,10 +393,10 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>でしたら|　<%nL_SELL_PRICE>ゴールドで　買い取らせて|　いただきます。よろしいですか？|<yesno><break>": ""
   },
   "132": {
-    "「<%sL_URITAI_ITEM>を　おひとつですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM>... Then I'd like to buy|it for <%nL_SELL_PRICE> gold... Are you sure?<yesno><break>"
+    "「<%sL_URITAI_ITEM>を　おひとつですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM>? I can buy|that for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "133": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "I can buy those <%dL_URUKAZU> <%sL_URITAI_ITEM>|for <%dL_SELL_PRICE> Gold.|What do you think?|<yesno><break>"
   },
   "134": {
     "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> equipped the|<%sL_KAITAI_ITEM>!|<end>"
@@ -534,10 +534,10 @@
     "「おや？　それは　手に入りづらい|　貴重な物だけど|　本当に　売っていいのかい？|<yesno 2><break>": ""
   },
   "179": {
-    "「おや　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": ""
+    "「おや　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "180": {
-    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": ""
+    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "181": {
     "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno 2><break>": ""
@@ -573,7 +573,7 @@
     "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": ""
   },
   "192": {
-    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
+    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>, is it?|I can buy that for <%dL_SELL_PRICE> Gold.|What do you say?|<yesno><break>"
   },
   "193": {
     "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno 2><break>": ""
@@ -987,7 +987,7 @@
     "「あと　<%nL_NUM2>回　装備品から　取りだせますが|　他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
   },
   "330": {
-    "「おや　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": ""
+    "「おや　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": "Oh, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "331": {
     "「おや？　すいませんが　その装備品は|　結晶を取りだすことができない　装備品ですね。|<bw_break>": ""
@@ -999,7 +999,7 @@
     "「あと　<%nL_NUM2>回　装備品から　取りだせますが|　他にも　結晶を取りだしたい装備品は|　ございますか？|<break>": ""
   },
   "334": {
-    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": ""
+    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "335": {
     "「あら？　すいませんが　その装備品は|　結晶を取りだすことが|　できない　装備品のようです。|<bw_break>": ""
@@ -1932,19 +1932,19 @@
     "「他にも　お売りいただけますか？|<break>": "Do you have any other items you'd like to|sell?<break>"
   },
   "645": {
-    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
+    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>, is it?|I can buy that for <%dL_SELL_PRICE> Gold.|What do you say?|<yesno><break>"
   },
   "646": {
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>でしたら|　<%nL_SELL_PRICE>ゴールドで　買い取らせて|　いただきます。よろしいですか？|<yesno><break>": ""
   },
   "647": {
-    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": ""
+    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "648": {
-    "「<%sL_URITAI_ITEM>を　おひとつですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM>... Then I'd like to buy|it for <%nL_SELL_PRICE> gold... Are you sure?<yesno><break>"
+    "「<%sL_URITAI_ITEM>を　おひとつですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM>? I can buy|that for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "649": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "I can buy those <%dL_URUKAZU> <%sL_URITAI_ITEM>|for <%dL_SELL_PRICE> Gold.|What do you think?|<yesno><break>"
   },
   "650": {
     "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
@@ -2055,7 +2055,7 @@
     "「他にも　結晶を取りだしたい装備品は|　ございますか？|<break>": ""
   },
   "686": {
-    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": ""
+    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "687": {
     "「結晶の取りだしですね。|　どの装備品から　結晶を取りだしますか？|<break>": ""
@@ -6456,7 +6456,7 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>フェルドで　買い取ります。|　よろしいですか？|<yesno><break>": ""
   },
   "2153": {
-    "「おや　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": ""
+    "「おや　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "2154": {
     "「<%sL_URITAI_ITEM>を　ひとつですね。|　<%nL_SELL_PRICE>フェルドで　買い取りますが|　よろしいですか？|<yesno><break>": ""
@@ -6624,7 +6624,7 @@
     "「他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
   },
   "2209": {
-    "「おや　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": ""
+    "「おや　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": "Oh, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "2210": {
     "「結晶の取りだしですね。|　あと　<%nL_NUM2>回　装備品から　取りだせますが|　どの装備品から　結晶を取りだしますか？|<break>": ""
@@ -6786,19 +6786,19 @@
     "「他にも　お売りいただけますか？|<break>": "Do you have any other items you'd like to|sell?<break>"
   },
   "2263": {
-    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>フェルドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
+    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>フェルドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>, I see. In|that case, I can buy it for <%dL_SELL_PRICE> Feld.|How about it?|<yesno><break>"
   },
   "2264": {
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>でしたら|　<%nL_SELL_PRICE>フェルドで　買い取らせて|　いただきます。よろしいですか？|<yesno><break>": ""
   },
   "2265": {
-    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": ""
+    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "2266": {
-    "「<%sL_URITAI_ITEM>を　おひとつですね。|　それなら　<%nL_SELL_PRICE>フェルドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　おひとつですね。|　それなら　<%nL_SELL_PRICE>フェルドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM><%sL_PLUSNUM>, I see. In|that case, I can buy it for <%dL_SELL_PRICE> Feld.|How about it?|<yesno><break>"
   },
   "2267": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "I can buy your <%dL_URUKAZU> <%sL_URITAI_ITEM>|for <%dL_SELL_PRICE> Feld.|How about it?|<yesno><break>"
   },
   "2268": {
     "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
@@ -6960,7 +6960,7 @@
     "「他にも　結晶を取りだしたい装備品は|　ございますか？|<break>": ""
   },
   "2321": {
-    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": ""
+    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "2322": {
     "「結晶の取りだしですね。|　あと　<%nL_NUM2>回　装備品から　取りだせますが|　どの装備品から　結晶を取りだしますか？|<break>": ""
@@ -10443,7 +10443,7 @@
     "「申し訳ありませんが　本日はもう|　汗と涙の結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
   },
   "3482": {
-    "「あっ　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": ""
+    "「あっ　お客さん|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": "Oh, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "3483": {
     "clarity_nt_char_3483": "clarity_nt_char_3483"
@@ -13245,7 +13245,7 @@
     "「申し訳ありませんが　本日はもう|　汗と涙の結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
   },
   "4416": {
-    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": ""
+    "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "4417": {
     "「あら　お客さん　輝晶効果が付いていますね。|　貴重な輝晶核は結晶化の際に|　一緒に取りだすのでご安心ください。|<br>|「本当に　結晶を取りだして　よろしいのですか？|<yesno 2><break>": ""
