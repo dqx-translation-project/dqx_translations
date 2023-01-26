@@ -42,7 +42,7 @@
     "「おや？　やめるのですね。|<bw_break>": "Hmm? Don't...<bw_break>"
   },
   "15": {
-    "「わかりました！|　この子のお世話は　お任せください！|<end>": "Yes, sir! I'll take good care of her, sir!<end>"
+    "「わかりました！|　この子のお世話は　お任せください！|<end>": "Understood! They will be under great care|here!|<end>"
   },
   "16": {
     "「あら？　預けられるモンスターを|　連れていないみたいですね。|<bw_break>": "What? I don't think I have a monster to|deposit...<bw_break>"
@@ -126,13 +126,13 @@
     "「あら？　モンスターを連れていないようですね。|　スキルを振ったモンスターを　連れてきたら|　スキルを　リセットすることができますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If you bring a skilled monster, you|can reset the skill...<end>"
   },
   "43": {
-    "「わかりました！　<%sM_monster>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_monster>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_monste... I pray to be born|again... Oh, Lord! Let <%sM_monster> take a|new path!<bw_break>"
+    "「わかりました！　<%sM_monster>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_monster>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_monster>...|Pray with the feelings of rebirth...|Let <%sM_monster> forge a new path!|<bw_break>"
   },
   "44": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
   },
   "45": {
-    "「はい。これで　<%sM_monster>は|　レベル転生し　生まれ変わりました。|<end>": "Yes. Now <%sM_monster> will be leveled and|reincarnated...<end>"
+    "「はい。これで　<%sM_monster>は|　レベル転生し　生まれ変わりました。|<end>": "Good. <%sM_monster> has been|reincarnated onto a new path.|<end>"
   },
   "46": {
     "「死んでいる子を　レベル転生させることは|　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "We can't reanimate a dead child. You'll have|to bring her back to life...<end>"
@@ -147,7 +147,7 @@
     "「<%sM_monster>を|　レベル転生させますか？|<se_nots System 0><break>": "Do you want to reincarnate|<%sM_monster>?|<se_nots System 0><break>"
   },
   "50": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "51": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -210,16 +210,16 @@
     "「すみません。この機能は　まだ準備中なんです。|　もう少しだけ　お待ちくださいね。|<end>": "I'm sorry. This feature is still under|construction... Please wait a little|longer...<end>"
   },
   "71": {
-    "<pipipi_on>|「はい！　確かに　お預かりしました。|　<%sM_omekashi>を　用意しましたので|　確認してみてくださいね。|<br>|「おめかしグッズは　『さくせん』コマンド|　『なかまモンスター』の『おめかしグッズ』で|　着けることができますよ。ということで……|<bw_break>": "<pipipi_on>Yes, sir! I'm sure we have your... I've|prepared <%sM_omekashi>, so please check it|out. You can wear the \"Omekashi Goods\" of the|<br>|\"Nakama Monster\" command... So...<bw_break>"
+    "<pipipi_on>|「はい！　確かに　お預かりしました。|　<%sM_omekashi>を　用意しましたので|　確認してみてくださいね。|<br>|「おめかしグッズは　『さくせん』コマンド|　『なかまモンスター』の『おめかしグッズ』で|　着けることができますよ。ということで……|<bw_break>": "<pipipi_on>Understood! I've taken care of it all. You|can now use the <%sM_omekashi>!|<br>|You can view it by using the \"Misc.\" command,|and then \"Fellow Monster\" followed by|\"Dress Up\"."
   },
   "72": {
     "「あら？　どうぐかばんが　いっぱいのようです。|　レベル転生には　かばんの空きが必要なので|　持ち物を整理してから　お越しください。|<end>": "What? Your kitty bag is full... You'll need|to free up some space in your bag in order to|level up, so please clear out your belongings|<br>|before you come...<end>"
   },
   "73": {
-    "<pipipi_off>|生まれ変わった　<%sM_monster>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>There's a sparkling stone down near the|reborn <%sM_monster>!<pc>  got <%sM_item>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|生まれ変わった　<%sM_monster>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>The reincarnated <%sM_monster>|left behind a sparkling stone!|<br>|<pc> received <%sM_item>!<se_nots System 7>|<end>"
   },
   "74": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "75": {
     "「では　新しい名前を　教えてください。|<end>": "Now, tell me your new name...<end>"
@@ -264,7 +264,7 @@
     "「あら？　<%sM_monster>は　住宅村の|　モンスターのおうちで　過ごしているから|　今は　お別れできないみたいです……。": "Oh? <%sM_monster> is spending some time at|the monster house in the Housing Village, so|it looks like we can't say goodbye right|<br>|now..."
   },
   "89": {
-    "「はい！　では　少々お待ちください。|　ここを　こうして……と。|<end>": "Yes, sir! Now, if you'll excuse me for a|moment... Here, take this. ....<end>"
+    "「はい！　では　少々お待ちください。|　ここを　こうして……と。|<end>": "Understood! Now then, please excuse me for one|moment... Here, like this...|<end>"
   },
   "90": {
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_monster>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_monster> will awaken a new power and|can climb to even greater heights!|<break>"
@@ -669,7 +669,7 @@
     "「仲間モンスターさまの|　お世話をさせていただけるのですね。|　なんなりと　お申しつけください。|<break>": "I'd be happy to take care of your fellow|monsters... I'm at your service...<break>"
   },
   "224": {
-    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_otom... I pray to be born|again... Oh, Lord! Let <%sM_otomo> take a new|path!<bw_break>"
+    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_otomo>...|Pray with the feelings of rebirth...|Let <%sM_otomo> forge a new path!|<bw_break>"
   },
   "225": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
@@ -687,7 +687,7 @@
     "<pipipi_off>|生まれ変わった　<%sM_otomo>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>Near the reborn <%sM_otomo>, a glittering|stone has fallen!<pc>  got <%sM_item>!|<se_nots System 7>|<end>"
   },
   "230": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "231": {
     "「……あら？　今の私には|　これ以上　その子をレベル転生させることが|　できないみたいです。ごめんなさい……。|<end>": "... What? I'm afraid I can't reincarnate him|any more... I'm sorry...<end>"
@@ -702,7 +702,7 @@
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_otomo>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_otomo> will awaken a new power and|can climb to even greater heights!|<break>"
   },
   "235": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "236": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -753,13 +753,13 @@
     "「それと　<%sM_otomo>の　転生を祝して|　お客様の仲間モンスターを　モンスター牧場の|　パーティーに招待し　お世話してくれた人へ……|<br>|「お礼のお品を　お送りしたいと思います。|　ただし　お送りできるのは　転生した時点で|　招待の記録に残っている人だけです。|<br>|「それでは　お世話してくれた人を|　見てみましょう。|<end>": "And in honor of <%sM_otomo>'s reincarnation,|we'd like to invite your fellow monsters to a|monster farm party and send a thank-you gift|<br>|to the person who took care of you... I'd|like to send you a thank-you gift... However,|I can only send gifts to those who've been|<br>|recorded as invitations at the time of their|reincarnation... Now, let's take a look at|the people who took care of me...<end>"
   },
   "252": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "253": {
-    "「それと　<%sM_monster>の　転生を祝して|　お客様の仲間モンスターを　モンスター牧場の|　パーティーに招待し　お世話してくれた人へ……|<br>|「お礼のお品を　お送りしたいと思います。|　ただし　お送りできるのは　転生した時点で|　最近　招待してくれた方　30名までです。|<br>|「それでは　お世話してくれた人を|　見てみましょう。|<end>": "And to celebrate the reincarnation of|<%sM_monster>, we'd like to invite your|fellow monsters to a monster farm party and|<br>|send a thank-you gift to those who have cared|for them... I'd like to send you a thank-you|gift... But I can only send gifts to the 30|<br>|people who've invited me recently... Let's|take a look at the people who've taken care|of me...<end>"
+    "「それと　<%sM_monster>の　転生を祝して|　お客様の仲間モンスターを　モンスター牧場の|　パーティーに招待し　お世話してくれた人へ……|<br>|「お礼のお品を　お送りしたいと思います。|　ただし　お送りできるのは　転生した時点で|　最近　招待してくれた方　30名までです。|<br>|「それでは　お世話してくれた人を|　見てみましょう。|<end>": "And to celebrate this momentous occasion of|<%sM_monster>'s reincarnation, we'll reward those|who invited them to a Monster Farm party!|<br>|The 30 most recent people who invited them|to a party will receive a special gift. I'll|show you a list of who will be rewarded.|<end>"
   },
   "254": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "255": {
     "「おや？　なつき度が　<%nM_natsuki_max>に達しております。|　これ以上　なつき度は上がりませんが|　よろしいですか？|<yesno><break>": "Hmm? Your friendship level has reached|<%nM_natsuki_max>... I can't increase your|friendship level any further, is that okay?<yesno><break>"
@@ -852,7 +852,7 @@
     "「ここは　旅人たちの仲間モンスターが集う|　モンスター酒場です。|<br>|「このたび　お預かりできる|　仲間モンスターの数が　４匹　増えました。|<br>|「まもの使いか　どうぐ使いの　いずれかに|　転職できる状態だと　１２匹まで……|<br>|「両方の職業に　転職できる状態だと|　２０匹まで　お預かりできるようになります。|<br>|「これを機に　いろいろなモンスターを|　仲間にしてみてくださいね。|　ということで……|<bw_break>": "This is a monster tavern where travelers'|monsters gather... We've increased the number|of monsters you can keep by four... If you're|<br>|able to change your job to either a magic|user or a dodge user, you can keep up to 12|monsters... If you can switch to both, you'll|<br>|be able to keep up to 20 monsters... This is|a great opportunity to bring all kinds of|monsters into your life... So...<bw_break>"
   },
   "285": {
-    "「わかりました！　あと　モンスター牧場に|　空きがありますが　連れている　<%sM_otomo>を|　送っておきますか？|<yesno><break>": "Yes, sir! Also, there's a vacancy at the|monster farm, but would you like me to send|over the <%sM_otomo> you have with you?<yesno><break>"
+    "「わかりました！　あと　モンスター牧場に|　空きがありますが　連れている　<%sM_otomo>を|　送っておきますか？|<yesno><break>": "Understood! There is currently space in the|Monster Farm, but you would like to keep|<%sM_otomo> with me?|<yesno><break>"
   },
   "286": {
     "「では　<%sM_otomo>は　モンスター酒場で|　お預かりして　<%sM_monster>を　呼びますね。|<bw_break>": "So, <%sM_otomo> will be kept at the Monster|Tavern, and <%sM_monster> will be called...<bw_break>"
@@ -873,10 +873,10 @@
     "「あら？　モンスター牧場に空きがあるようです。|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Oh? There's an opening at the monster farm...|Would you like to send <%sM_otomo> to the|monster farm?<yesno><break>"
   },
   "292": {
-    "「わかりました！|　では　<%sM_otomo>は　モンスター酒場で|　お預かりしますね。|<end>": "Yes, sir! And now, <%sM_otomo> will be|waiting for you at the Monster Tavern...<end>"
+    "「わかりました！|　では　<%sM_otomo>は　モンスター酒場で|　お預かりしますね。|<end>": "Of course! <%sM_otomo> shall be|waiting for you at the Monster Tavern.|<end>"
   },
   "293": {
-    "「わかりました！|　では　<%sM_otomo>は　モンスター牧場に|　送っておきますね。|<end>": "Yes, sir! Then I'll send <%sM_otomo> to the|monster farm...<end>"
+    "「わかりました！|　では　<%sM_otomo>は　モンスター牧場に|　送っておきますね。|<end>": "Of course! I'll send <%sM_otomo>|over to the Monster Farm.|<end>"
   },
   "294": {
     "<pipipi_off>|<%sM_monster>を　モンスター牧場に送った！|<end>": "<pipipi_off>I sent <%sM_monster> to the monster farm!<end>"
@@ -1281,7 +1281,7 @@
     "「<%sM_OWNER><%sM_SAMA>の　仲間モンスターさんの|　お世話を　させてもらえるんですね。|　わーい　がんばります～。|<break>": "I get to take care of <%sM_OWNER><%sM_SAMA>'s|fellow monsters... Good luck...<break>"
   },
   "428": {
-    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_otom... I pray to be born|again... Oh, Lord! Let <%sM_otomo> take a new|path!<bw_break>"
+    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_otomo>...|Pray with the feelings of rebirth...|Let <%sM_otomo> forge a new path!|<bw_break>"
   },
   "429": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
@@ -1299,7 +1299,7 @@
     "<pipipi_off>|生まれ変わった　<%sM_otomo>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>Near the reborn <%sM_otomo>, a glittering|stone has fallen!<pc>  got <%sM_item>!|<se_nots System 7>|<end>"
   },
   "434": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "435": {
     "「……あら？　今のボクには|　これ以上　その子をレベル転生させることが|　できないみたいです。ごめんなさい……。|<end>": "... Oh? I don't think I can reincarnate her|any more than I already have. I'm sorry...<end>"
@@ -1317,7 +1317,7 @@
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_otomo>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_otomo> will awaken a new power and|can climb to even greater heights!|<break>"
   },
   "440": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "441": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -1332,7 +1332,7 @@
     "「あら？　モンスターを連れていないようですね。|　レベル<%nM_maxlv>に達したモンスターを　連れてきたら|　レベル転生させることが　できますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If I bring a monster that's reached|level <%nM_maxlv>, I can level-transform|<br>|it...<end>"
   },
   "445": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "446": {
     "「うーん。その子にレベル転生は早いみたいです。|　レベル<%nM_maxlv>になったら　レベル転生が|　できるから　また連れてきてくださいね。|<end>": "... He's not ready to level... When you reach|level <%nM_maxlv>, you can level transfer, so|bring him back...<end>"
@@ -1737,7 +1737,7 @@
     "「<%sM_OWNER><%sM_SAMA>の　仲間モンスターさんの|　お世話を　させてもらえるんですね。|　わーい　がんばります～。|<break>": "I get to take care of <%sM_OWNER><%sM_SAMA>'s|fellow monsters... Good luck...<break>"
   },
   "580": {
-    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_otom... I pray to be born|again... Oh, Lord! Let <%sM_otomo> take a new|path!<bw_break>"
+    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_otomo>...|Pray with the feelings of rebirth...|Let <%sM_otomo> forge a new path!|<bw_break>"
   },
   "581": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
@@ -1755,7 +1755,7 @@
     "<pipipi_off>|生まれ変わった　<%sM_otomo>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>Near the reborn <%sM_otomo>, a glittering|stone has fallen!<pc>  got <%sM_item>!|<se_nots System 7>|<end>"
   },
   "586": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "587": {
     "「……あら？　今の私には|　これ以上　その子をレベル転生させることが|　できないみたいです。ごめんなさい……。|<end>": "... What? I'm afraid I can't reincarnate him|any more... I'm sorry...<end>"
@@ -1773,7 +1773,7 @@
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_otomo>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_otomo> will awaken a new power and|can climb to even greater heights!|<break>"
   },
   "592": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "593": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -1788,7 +1788,7 @@
     "「あら？　モンスターを連れていないようですね。|　レベル<%nM_maxlv>に達したモンスターを　連れてきたら|　レベル転生させることが　できますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If I bring a monster that's reached|level <%nM_maxlv>, I can level-transform|<br>|it...<end>"
   },
   "597": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "598": {
     "「うーん。その子にレベル転生は早いみたいです。|　レベル<%nM_maxlv>になったら　レベル転生が|　できるから　また連れてきてくださいね。|<end>": "... He's not ready to level... When you reach|level <%nM_maxlv>, you can level transfer, so|bring him back...<end>"
@@ -2193,7 +2193,7 @@
     "「仲間モンスターの　お世話をするんだな。|　なんなりと　頼んじゃってくれよー。|<break>": "I take care of my monsters. Anything you|need, just ask.<break>"
   },
   "732": {
-    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_otom... I pray to be born|again... Oh, Lord! Let <%sM_otomo> take a new|path!<bw_break>"
+    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_otomo>...|Pray with the feelings of rebirth...|Let <%sM_otomo> forge a new path!|<bw_break>"
   },
   "733": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
@@ -2211,7 +2211,7 @@
     "<pipipi_off>|生まれ変わった　<%sM_otomo>の近くに|キラキラと輝く石が　落ちている！|<br>|<%sM_OWNER>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>A glittering stone has fallen near the reborn|<%sM_otomo>! <%sM_OWNER> has <%sM_item> in|his possession!|<se_nots System 7>|<end>"
   },
   "738": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "739": {
     "「……あら？　今のボクには|　これ以上　その子をレベル転生させることが|　できないみたいです。ごめんなさい……。|<end>": "... Oh? I don't think I can reincarnate her|any more than I already have. I'm sorry...<end>"
@@ -2229,7 +2229,7 @@
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_otomo>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_otomo> will awaken a new power and|can climb to even greater heights!|<break>"
   },
   "744": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "745": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -2244,7 +2244,7 @@
     "「あら？　モンスターを連れていないようですね。|　レベル<%nM_maxlv>に達したモンスターを　連れてきたら|　レベル転生させることが　できますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If I bring a monster that's reached|level <%nM_maxlv>, I can level-transform|<br>|it...<end>"
   },
   "749": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "750": {
     "「うーん。その子にレベル転生は早いみたいです。|　レベル<%nM_maxlv>になったら　レベル転生が|　できるから　また連れてきてくださいね。|<end>": "... He's not ready to level... When you reach|level <%nM_maxlv>, you can level transfer, so|bring him back...<end>"
@@ -2649,7 +2649,7 @@
     "「仲間モンスターの　世話をすんだな。|　はいはい　かわいがってやるよ。|<break>": "I take care of my monsters. Yeah, yeah, yeah,|yeah. Take care of...<break>"
   },
   "884": {
-    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_otom... I pray to be born|again... Oh, Lord! Let <%sM_otomo> take a new|path!<bw_break>"
+    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_otomo>...|Pray with the feelings of rebirth...|Let <%sM_otomo> forge a new path!|<bw_break>"
   },
   "885": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
@@ -2667,7 +2667,7 @@
     "<pipipi_off>|生まれ変わった　<%sM_otomo>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>Near the reborn <%sM_otomo>, a glittering|stone has fallen!<pc>  got <%sM_item>!|<se_nots System 7>|<end>"
   },
   "890": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "891": {
     "「……あら？　今のボクには|　これ以上　その子をレベル転生させることが|　できないみたいです。ごめんなさい……。|<end>": "... Oh? I don't think I can reincarnate her|any more than I already have. I'm sorry...<end>"
@@ -2685,7 +2685,7 @@
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_otomo>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_otomo> will awaken a new power and|can climb to even greater heights!|<break>"
   },
   "896": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "897": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -2700,7 +2700,7 @@
     "「あら？　モンスターを連れていないようですね。|　レベル<%nM_maxlv>に達したモンスターを　連れてきたら|　レベル転生させることが　できますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If I bring a monster that's reached|level <%nM_maxlv>, I can level-transform|<br>|it...<end>"
   },
   "901": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "902": {
     "「うーん。その子にレベル転生は早いみたいです。|　レベル<%nM_maxlv>になったら　レベル転生が|　できるから　また連れてきてくださいね。|<end>": "... He's not ready to level... When you reach|level <%nM_maxlv>, you can level transfer, so|bring him back...<end>"
@@ -3105,7 +3105,7 @@
     "「仲間モンスターの世話を　するんだね。|　何をすれば　いいかな？|<break>": "I'll take care of my fellow monsters... What|am I supposed to do?<break>"
   },
   "1036": {
-    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_otom... I pray to be born|again... Oh, Lord! Let <%sM_otomo> take a new|path!<bw_break>"
+    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_otomo>...|Pray with the feelings of rebirth...|Let <%sM_otomo> forge a new path!|<bw_break>"
   },
   "1037": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
@@ -3123,7 +3123,7 @@
     "<pipipi_off>|生まれ変わった　<%sM_otomo>の近くに|キラキラと輝く石が　落ちている！|<br>|<%sM_OWNER>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>A glittering stone has fallen near the reborn|<%sM_otomo>! <%sM_OWNER> has <%sM_item> in|his possession!|<se_nots System 7>|<end>"
   },
   "1042": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "1043": {
     "「……あら？　今のボクには|　これ以上　その子をレベル転生させることが|　できないみたいです。ごめんなさい……。|<end>": "... Oh? I don't think I can reincarnate her|any more than I already have. I'm sorry...<end>"
@@ -3141,7 +3141,7 @@
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_otomo>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_otomo> will awaken a new power and|can climb to even greater heights!|<break>"
   },
   "1048": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "1049": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -3156,7 +3156,7 @@
     "「あら？　モンスターを連れていないようですね。|　レベル<%nM_maxlv>に達したモンスターを　連れてきたら|　レベル転生させることが　できますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If I bring a monster that's reached|level <%nM_maxlv>, I can level-transform|<br>|it...<end>"
   },
   "1053": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "1054": {
     "「うーん。その子にレベル転生は早いみたいです。|　レベル<%nM_maxlv>になったら　レベル転生が|　できるから　また連れてきてくださいね。|<end>": "... He's not ready to level... When you reach|level <%nM_maxlv>, you can level transfer, so|bring him back...<end>"
@@ -3561,7 +3561,7 @@
     "「仲間モンスターの世話を　するのね。|　何をすれば　いいかしら？|<break>": "I need to take care of my monsters. What am I|supposed to do?<break>"
   },
   "1188": {
-    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_otom... I pray to be born|again... Oh, Lord! Let <%sM_otomo> take a new|path!<bw_break>"
+    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_otomo>...|Pray with the feelings of rebirth...|Let <%sM_otomo> forge a new path!|<bw_break>"
   },
   "1189": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
@@ -3579,7 +3579,7 @@
     "<pipipi_off>|生まれ変わった　<%sM_otomo>の近くに|キラキラと輝く石が　落ちている！|<br>|<%sM_OWNER>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>A glittering stone has fallen near the reborn|<%sM_otomo>! <%sM_OWNER> has <%sM_item> in|his possession!|<se_nots System 7>|<end>"
   },
   "1194": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "1195": {
     "「……あら？　今のボクには|　これ以上　その子をレベル転生させることが|　できないみたいです。ごめんなさい……。|<end>": "... Oh? I don't think I can reincarnate her|any more than I already have. I'm sorry...<end>"
@@ -3597,7 +3597,7 @@
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_otomo>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_otomo> will awaken a new power and|can climb to even greater heights!|<break>"
   },
   "1200": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "1201": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -3612,7 +3612,7 @@
     "「あら？　モンスターを連れていないようですね。|　レベル<%nM_maxlv>に達したモンスターを　連れてきたら|　レベル転生させることが　できますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If I bring a monster that's reached|level <%nM_maxlv>, I can level-transform|<br>|it...<end>"
   },
   "1205": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "1206": {
     "「うーん。その子にレベル転生は早いみたいです。|　レベル<%nM_maxlv>になったら　レベル転生が|　できるから　また連れてきてくださいね。|<end>": "... He's not ready to level... When you reach|level <%nM_maxlv>, you can level transfer, so|bring him back...<end>"
@@ -4125,7 +4125,7 @@
     "「仲間モンスターの　お世話をするんだね。|　なんなりと　頼んじゃってー。|<break>": "I take care of my monsters. I'll do anything|you want.<break>"
   },
   "1376": {
-    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_otom... I pray to be born|again... Oh, Lord! Let <%sM_otomo> take a new|path!<bw_break>"
+    "「わかりました！　<%sM_otomo>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_otomo>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_otomo>...|Pray with the feelings of rebirth...|Let <%sM_otomo> forge a new path!|<bw_break>"
   },
   "1377": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
@@ -4143,7 +4143,7 @@
     "<pipipi_off>|生まれ変わった　<%sM_otomo>の近くに|キラキラと輝く石が　落ちている！|<br>|<%sM_OWNER>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>A glittering stone has fallen near the reborn|<%sM_otomo>! <%sM_OWNER> has <%sM_item> in|his possession!|<se_nots System 7>|<end>"
   },
   "1382": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "1383": {
     "「……あら？　今のボクには|　これ以上　その子をレベル転生させることが|　できないみたいです。ごめんなさい……。|<end>": "... Oh? I don't think I can reincarnate her|any more than I already have. I'm sorry...<end>"
@@ -4161,7 +4161,7 @@
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_otomo>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_otomo> will awaken a new power and|can climb to even greater heights!|<break>"
   },
   "1388": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "1389": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -4176,7 +4176,7 @@
     "「あら？　モンスターを連れていないようですね。|　レベル<%nM_maxlv>に達したモンスターを　連れてきたら|　レベル転生させることが　できますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If I bring a monster that's reached|level <%nM_maxlv>, I can level-transform|<br>|it...<end>"
   },
   "1393": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "1394": {
     "「うーん。その子にレベル転生は早いみたいです。|　レベル<%nM_maxlv>になったら　レベル転生が|　できるから　また連れてきてくださいね。|<end>": "... He's not ready to level... When you reach|level <%nM_maxlv>, you can level transfer, so|bring him back...<end>"
@@ -4470,7 +4470,7 @@
     "「……えーと？　仲間モンスターさんの|　『預かり枠拡張』の　ご登録が確認できないため|　ご利用いただけないようなのです……。|<br>|「こちらは　『預かり枠拡張』で|　追加部屋サービスに　ご登録してもらえれば　|　ご利用いただくことができますよ～！|<bw_break>": "... Hmm? I can't seem to use this service|because I can't confirm that my fellow|monsters have registered for the \"Extended|<br>|Storage Space\" service... You can use this|service if you register for the \"Expand|Storage Space\" room service!<bw_break>"
   },
   "1491": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You guys are moving!|<bw_break>"
   },
   "1492": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -4482,7 +4482,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1495": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|You're moving!|<bw_break>"
   },
   "1496": {
     "「あら？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "What? I'm afraid I can't check the status of|the additional room this fellow monster is|in, so I can't let you in.<bw_break>"
@@ -4509,7 +4509,7 @@
     "「……えーと？　仲間モンスターさんの|　『預かり枠拡張』の　ご登録が確認できないため|　ご利用いただけないようなのです……。|<br>|「こちらは　『預かり枠拡張』で|　追加部屋サービスに　ご登録してもらえれば|　ご利用いただくことができますよ～！|<bw_break>": "... Hmm? I can't seem to use this service|because I can't confirm that my fellow|monsters have registered for the \"Extended|<br>|Storage Space\" service... You can use this|service if you register for the \"Expand|Storage Space\" room service!<bw_break>"
   },
   "1504": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You guys are moving!|<bw_break>"
   },
   "1505": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -4521,7 +4521,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1508": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|You're moving!|<bw_break>"
   },
   "1509": {
     "「あら？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "What? I'm afraid I can't check the status of|the additional room this fellow monster is|in, so I can't let you in.<bw_break>"
@@ -4548,7 +4548,7 @@
     "「ほへっ……？　仲間モンスターの|　『預かり枠拡張』の　登録が確認できないから|　こいつは　使えないぞー。|<br>|「『預かり枠拡張』の　追加部屋サービスに|　登録すれば　自由に|　使えるようになるからなー！|<bw_break>": "Huh...? I can't use this one because I can't|see if any of my monsters have registered for|the \"Expanded Storage Space\" service. He'll|<br>|be free to use once he registers for the|extra room service.<bw_break>"
   },
   "1517": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You guys are moving!|<bw_break>"
   },
   "1518": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -4560,7 +4560,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1521": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|You're moving!|<bw_break>"
   },
   "1522": {
     "「あら？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "What? I'm afraid I can't check the status of|the additional room this fellow monster is|in, so I can't let you in.<bw_break>"
@@ -4587,7 +4587,7 @@
     "「はにゃ……？　仲間モンスターの|　『預かり枠拡張』の　登録が確認できないから|　こいつは　使えないよー。|<br>|「『預かり枠拡張』の　追加部屋サービスに|　登録すれば　自由に|　使えるようになるからねー！|<bw_break>": "What the...? I can't use this monster because|I can't see if it's registered for the|\"Expanded Storage Space\"... He'll be free to|<br>|use once he registers for the extra room|service.<bw_break>"
   },
   "1530": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You guys are moving!|<bw_break>"
   },
   "1531": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -4599,7 +4599,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1534": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|You're moving!|<bw_break>"
   },
   "1535": {
     "「あら？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "What? I'm afraid I can't check the status of|the additional room this fellow monster is|in, so I can't let you in.<bw_break>"
@@ -4626,7 +4626,7 @@
     "「おや？　すみませんが　仲間モンスターさまの|　『預かり枠拡張』の　ご登録が|　確認できないため　ご利用いただけません。|<br>|「こちらは　『預かり枠拡張』で|　追加部屋サービスを　ご登録していただくことで|　ご利用することができますよ。|<bw_break>": "Hmm? I'm sorry, but we can't confirm that|your fellow monsters have registered for the|\"Extended Storage\" service. You can use this|<br>|service by registering for the additional|room service...<bw_break>"
   },
   "1543": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You guys are moving!|<bw_break>"
   },
   "1544": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -4638,7 +4638,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1547": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|You're moving!|<bw_break>"
   },
   "1548": {
     "「あら？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "What? I'm afraid I can't check the status of|the additional room this fellow monster is|in, so I can't let you in.<bw_break>"
@@ -4665,7 +4665,7 @@
     "「ん？　仲間モンスターの|　『預かり枠拡張』の　登録が確認できないから|　使えないみたいだぜ。|<br>|「これは　『預かり枠拡張』の|　追加部屋サービスに　登録すれば　|　使えるようになるからな。|<bw_break>": "Hmm? I can't seem to get my monsters to sign|up for the extra room service. It'll only|work if he registers for the \"Expanded|<br>|Storage\" room service.<bw_break>"
   },
   "1556": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You guys are moving!|<bw_break>"
   },
   "1557": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -4677,7 +4677,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1560": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|You're moving!|<bw_break>"
   },
   "1561": {
     "「あら？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "What? I'm afraid I can't check the status of|the additional room this fellow monster is|in, so I can't let you in.<bw_break>"
@@ -4704,7 +4704,7 @@
     "「おや？　仲間モンスターの|　『預かり枠拡張』の　登録が確認できないから|　使えないみたいだよ。|<br>|「『預かり枠拡張』の　追加部屋サービスに|　登録すれば　自由に|　使えるようになるからね。|<bw_break>": "Hmm? I can't seem to get a hold of any of my|monsters. If he registers for the extra room|service, he'll be free to use his slots...<bw_break>"
   },
   "1569": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You guys are moving!|<bw_break>"
   },
   "1570": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -4716,7 +4716,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1573": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|You're moving!|<bw_break>"
   },
   "1574": {
     "「あら？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "What? I'm afraid I can't check the status of|the additional room this fellow monster is|in, so I can't let you in.<bw_break>"
@@ -4743,7 +4743,7 @@
     "「あら？　仲間モンスターの|　『預かり枠拡張』の　登録が確認できないから|　使えないみたいだわ。|<br>|「『預かり枠拡張』の　追加部屋サービスに|　登録すれば　自由に|　使えるようになるわよ。|<bw_break>": "What? It looks like I can't use it because I|don't see any of my monsters registered for|the extra room service. If you sign up for|<br>|the extra room service, you'll be able to use|it at will.<bw_break>"
   },
   "1582": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You guys are moving!|<bw_break>"
   },
   "1583": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -4755,7 +4755,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1586": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|You're moving!|<bw_break>"
   },
   "1587": {
     "「あら？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "What? I'm afraid I can't check the status of|the additional room this fellow monster is|in, so I can't let you in.<bw_break>"
@@ -4782,7 +4782,7 @@
     "「おや？　仲間モンスターの|　『預かり枠拡張』の　ご登録が|　確認できないため　ご利用いただけません。|<br>|「『預かり枠拡張』で|　追加部屋サービスを　ご登録することで|　ご利用いただくことができますよ。|<bw_break>": "Hmm? You can't use this service because you|haven't registered for the \"Extended Storage|Space\" for your fellow monsters... You can|<br>|use it by registering for an additional room|service under \"Expand Storage Space\"...<bw_break>"
   },
   "1595": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引っ越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引っ越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You're guys're moving!|<bw_break>"
   },
   "1596": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -4794,7 +4794,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1599": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引っ越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引っ越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|It's time to move!|<bw_break>"
   },
   "1600": {
     "「おや？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "Hmm? I'm afraid I can't see the status of the|additional room this fellow monster is in, so|I can't let you in.<bw_break>"
@@ -5034,7 +5034,7 @@
     "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
   },
   "1679": {
-    "「わかりました！　あと　モンスター牧場に|　空きがありますが　連れている　<%sM_otomo>を|　送っておきますか？|<yesno><break>": "Yes, sir! Also, there's a vacancy at the|monster farm, but would you like me to send|over the <%sM_otomo> you have with you?<yesno><break>"
+    "「わかりました！　あと　モンスター牧場に|　空きがありますが　連れている　<%sM_otomo>を|　送っておきますか？|<yesno><break>": "Understood! There is currently space in the|Monster Farm, but you would like to keep|<%sM_otomo> with me?|<yesno><break>"
   },
   "1680": {
     "「では　<%sM_otomo>は　モンスター酒場で|　お預かりして　<%sM_monster>を　呼びますね。|<bw_break>": "So, <%sM_otomo> will be kept at the Monster|Tavern, and <%sM_monster> will be called...<bw_break>"
@@ -5088,7 +5088,7 @@
     "「おや？　やめるのですね。|<bw_break>": "Hmm? Don't...<bw_break>"
   },
   "1697": {
-    "「わかりました！|　この子のお世話は　お任せください！|<end>": "Yes, sir! I'll take good care of her, sir!<end>"
+    "「わかりました！|　この子のお世話は　お任せください！|<end>": "Understood! They will be under great care|here!|<end>"
   },
   "1698": {
     "「あら？　預けられるモンスターを|　連れていないみたいですね。|<bw_break>": "What? I don't think I have a monster to|deposit...<bw_break>"
@@ -5100,10 +5100,10 @@
     "「あら？　モンスター牧場に空きがあるようです。|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Oh? There's an opening at the monster farm...|Would you like to send <%sM_otomo> to the|monster farm?<yesno><break>"
   },
   "1701": {
-    "「わかりました！|　では　<%sM_otomo>は　モンスター酒場で|　お預かりしますね。|<end>": "Yes, sir! And now, <%sM_otomo> will be|waiting for you at the Monster Tavern...<end>"
+    "「わかりました！|　では　<%sM_otomo>は　モンスター酒場で|　お預かりしますね。|<end>": "Of course! <%sM_otomo> shall be|waiting for you at the Monster Tavern.|<end>"
   },
   "1702": {
-    "「わかりました！|　では　<%sM_otomo>は　モンスター牧場に|　送っておきますね。|<end>": "Yes, sir! Then I'll send <%sM_otomo> to the|monster farm...<end>"
+    "「わかりました！|　では　<%sM_otomo>は　モンスター牧場に|　送っておきますね。|<end>": "Of course! I'll send <%sM_otomo>|over to the Monster Farm.|<end>"
   },
   "1703": {
     "「追加部屋に入れるモンスターを　変更できます。|　追加部屋のモンスターは　利用券が切れると|　使えなくなりますので　気を付けてくださいね。|<end>": "You can change the monsters in the extra|rooms... Please note that the monsters in the|additional rooms will be useless once your|<br>|ticket expires...<end>"
@@ -5160,7 +5160,7 @@
     "「おめかしグッズを　作るのですね。|　では　どちらの　おめかしグッズを作りますか？|<end>": "I'm going to make a dress-up doll... So,|which of the two do you want to make?<end>"
   },
   "1721": {
-    "「はい！　では　少々お待ちください。|　ここを　こうして……と。|<end>": "Yes, sir! Now, if you'll excuse me for a|moment... Here, take this. ....<end>"
+    "「はい！　では　少々お待ちください。|　ここを　こうして……と。|<end>": "Understood! Now then, please excuse me for one|moment... Here, like this...|<end>"
   },
   "1722": {
     "<pipipi_on>|「……はい！　できました。|　さっそく　<%sM_otomo>に 着けてあげますか？|<yesno><close>": "<pipipi_on>... Yes! Ready... Would you like me to put it|on <%sM_otomo> for you?<yesno><close>"
@@ -5181,7 +5181,7 @@
     "<pipipi_off>|<pc>は|<%sM_ticket>を　渡した。|<end>": "<pipipi_off>|<pc> は <%sM_ticket>を ...<end>"
   },
   "1728": {
-    "<pipipi_on>|「はい！　確かに　お預かりしました。|　<%sM_omekashi>を　用意しましたので|　確認してみてくださいね。|<br>|「おめかしグッズは　『さくせん』コマンド|　『なかまモンスター』の『おめかしグッズ』で|　着けることができますよ。ということで……|<bw_break>": "<pipipi_on>Yes, sir! I'm sure we have your... I've|prepared <%sM_omekashi>, so please check it|out. You can wear the \"Omekashi Goods\" of the|<br>|\"Nakama Monster\" command... So...<bw_break>"
+    "<pipipi_on>|「はい！　確かに　お預かりしました。|　<%sM_omekashi>を　用意しましたので|　確認してみてくださいね。|<br>|「おめかしグッズは　『さくせん』コマンド|　『なかまモンスター』の『おめかしグッズ』で|　着けることができますよ。ということで……|<bw_break>": "<pipipi_on>Understood! I've taken care of it all. You|can now use the <%sM_omekashi>!|<br>|You can view it by using the \"Misc.\" command,|and then \"Fellow Monster\" followed by|\"Dress Up\"."
   },
   "1729": {
     "「あら？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　モンスター牧場に　送ることができません。|<br>|「部屋いれかえで　部屋の移動を|　行っていただくか　追加部屋サービスの|　ご登録を　お願いします。|<bw_break>": "What? I'm sorry, but I can't see the status|of the additional room that this fellow|monster is in, so I can't send him to the|<br>|monster farm. You'll have to either switch|rooms or register for the additional room|service...<bw_break>"
@@ -5223,7 +5223,7 @@
     "<pipipi_on>|「他に　ご用はありますか？|<break>": "<pipipi_on>Is there anything else I can do for you?<break>"
   },
   "1742": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引っ越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引っ越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You're guys're moving!|<bw_break>"
   },
   "1743": {
     "「<%sM_monster1>と|　<%sM_monster2>の　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -5235,7 +5235,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "1746": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引っ越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引っ越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|It's time to move!|<bw_break>"
   },
   "1747": {
     "「おや？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "Hmm? I'm afraid I can't see the status of the|additional room this fellow monster is in, so|I can't let you in.<bw_break>"
@@ -5397,13 +5397,13 @@
     "「ここは　旅人達の仲間モンスターが集う|　モンスター酒場です。|　今日は　どんな　ご用ですか？|<break>": "This is the place where travelers and their|monsters gather to drink... What can I do for|you today?<break>"
   },
   "1800": {
-    "「わかりました！　<%sM_monster>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_monster>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_monste... I pray to be born|again... Oh, Lord! Let <%sM_monster> take a|new path!<bw_break>"
+    "「わかりました！　<%sM_monster>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_monster>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_monster>...|Pray with the feelings of rebirth...|Let <%sM_monster> forge a new path!|<bw_break>"
   },
   "1801": {
     "<pipipi_on>|「あら？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>What? You're not... Is there anything else I|can do for you?<break>"
   },
   "1802": {
-    "「はい。これで　<%sM_monster>は|　レベル転生し　生まれ変わりました。|<end>": "Yes. Now <%sM_monster> will be leveled and|reincarnated...<end>"
+    "「はい。これで　<%sM_monster>は|　レベル転生し　生まれ変わりました。|<end>": "Good. <%sM_monster> has been|reincarnated onto a new path.|<end>"
   },
   "1803": {
     "「死んでいる子を　レベル転生させることは|　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "We can't reanimate a dead child. You'll have|to bring her back to life...<end>"
@@ -5412,16 +5412,16 @@
     "「あら？　どうぐかばんが　いっぱいのようです。|　レベル転生には　かばんの空きが必要なので|　持ち物を整理してから　お越しください。|<end>": "What? Your kitty bag is full... You'll need|to free up some space in your bag in order to|level up, so please clear out your belongings|<br>|before you come...<end>"
   },
   "1805": {
-    "<pipipi_off>|生まれ変わった　<%sM_monster>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>There's a sparkling stone down near the|reborn <%sM_monster>!<pc>  got <%sM_item>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|生まれ変わった　<%sM_monster>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>The reincarnated <%sM_monster>|left behind a sparkling stone!|<br>|<pc> received <%sM_item>!<se_nots System 7>|<end>"
   },
   "1806": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "1807": {
     "「……あら？　今の私には|　これ以上　その子をレベル転生させることが|　できないみたいです。ごめんなさい……。|<end>": "... What? I'm afraid I can't reincarnate him|any more... I'm sorry...<end>"
   },
   "1808": {
-    "「それと　<%sM_monster>の　転生を祝して|　お客様の仲間モンスターを　モンスター牧場の|　パーティーに招待し　お世話してくれた人へ……|<br>|「お礼のお品を　お送りしたいと思います。|　ただし　お送りできるのは　転生した時点で|　最近　招待してくれた方　30名までです。|<br>|「それでは　お世話してくれた人を|　見てみましょう。|<end>": "And to celebrate the reincarnation of|<%sM_monster>, we'd like to invite your|fellow monsters to a monster farm party and|<br>|send a thank-you gift to those who have cared|for them... I'd like to send you a thank-you|gift... But I can only send gifts to the 30|<br>|people who've invited me recently... Let's|take a look at the people who've taken care|of me...<end>"
+    "「それと　<%sM_monster>の　転生を祝して|　お客様の仲間モンスターを　モンスター牧場の|　パーティーに招待し　お世話してくれた人へ……|<br>|「お礼のお品を　お送りしたいと思います。|　ただし　お送りできるのは　転生した時点で|　最近　招待してくれた方　30名までです。|<br>|「それでは　お世話してくれた人を|　見てみましょう。|<end>": "And to celebrate this momentous occasion of|<%sM_monster>'s reincarnation, we'll reward those|who invited them to a Monster Farm party!|<br>|The 30 most recent people who invited them|to a party will receive a special gift. I'll|show you a list of who will be rewarded.|<end>"
   },
   "1809": {
     "「レベル転生とは　その道を極め　レベル<%nM_maxlv>に|　到達したモンスターが　さらなる高みを目指して|　初心に返ることです。|<br>|「レベル転生をすると　レベルは１に戻り|　スキルはリセットされますが　基礎能力と|　スキルポイントに　ボーナスがつきます。|<br>|「また　レベル転生した仲間モンスターは|　なんと　武器や防具を　装備レベルに関係なく|　扱うことが　できるようになるんです！|<br>|「さらに！　レベル転生をくり返すことで|　新しいスキルを　最大ふたつ追加できるので|　より特徴のある子に　育てることができます。|<br>|「レベル転生させるほどに　情熱を注いだ子なら|　きっと　期待に応えてくれると思いますよ。|<end>": "Level Reincarnation is the process by which a|monster who has mastered their craft and|reached level <%nM_maxlv> returns to their|<br>|roots in order to achieve even greater|heights. When you reincarnate, your level|will return to 1 and your skills will be|<br>|reset, but you will gain bonuses to your base|ability and skill points... Also, once you've|reincarnated, you'll be able to use weapons|<br>|and armor regardless of your equipment level!|And more! You can add up to two new skills by|level reincarnation, so you can make your|<br>|monsters even more unique... If you're|passionate about your child, I'm sure they'll|live up to your expectations...<end>"
@@ -5433,7 +5433,7 @@
     "「おおっ！|　<%sM_seikaku>な　たたずまいの中に|　道を極めた者のみが持つ　その風格……|<br>|「レベル転生をおこない　初心に返ることで|　<%sM_monster>は　新たなチカラに目覚めて|　さらなる高みを　目指すことができますよ！|<bw_break>": "Ohh! A monster with the <%sM_seikaku>|nature that definitely mastered its own|path...|<br>|By reincarnating and starting from scratch,|<%sM_monster> will awaken a new power and|can climb to even greater heights!|<break>"
   },
   "1812": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "1813": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Now then, please choose the first skill line|you would like to use.|<break>"
@@ -5448,7 +5448,7 @@
     "「あら？　モンスターを連れていないようですね。|　レベル<%nM_maxlv>に達したモンスターを　連れてきたら|　レベル転生させることが　できますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If I bring a monster that's reached|level <%nM_maxlv>, I can level-transform|<br>|it...<end>"
   },
   "1817": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "1818": {
     "「うーん。その子にレベル転生は早いみたいです。|　レベル<%nM_maxlv>になったら　レベル転生が|　できるから　また連れてきてくださいね。|<end>": "... He's not ready to level... When you reach|level <%nM_maxlv>, you can level transfer, so|bring him back...<end>"
@@ -5520,13 +5520,13 @@
     "「そして　<%nM_tenseicount>回目の転生では|　一部のスキルラインが|　さらに　強化されます。|<br>|「スキル内容を|　改めて　確認してみてくださいね。|<bw_break>": "After reincarnating <%dM_tenseicount> times, some of the|existing skill lines have been further|enhanced.|<br>|Please take your time and look over each|skill line.|<bw_break>"
   },
   "1841": {
-    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「レベル<%nM_maxlv>に　到達しているので|　これ以上　経験値は入りませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Yes, sir! I can send my <%sM_otomo> to the|monster farm... You've already reached level|<%nM_maxlv>, so you won't get any more|<br>|experience, but would you like to send|<%sM_otomo> to the monster farm?<yesno><break>"
+    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「レベル<%nM_maxlv>に　到達しているので|　これ以上　経験値は入りませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Understood! I can send <%sM_otomo>|to the Monster Farm, if you'd like.|<br>|They've already reached the maximum level|of <%dM_maxlv>, so they won't gain any more experience.|Do you still want to send them?|<yesno><break>"
   },
   "1842": {
-    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「<%sM_otomo>は　レベル<%nM_maxlv>に到達していて|　なつき度も　<%nM_natsuki_max>に達しています。|<br>|「これ以上　成長しませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Yes, sir! I can send <%sM_otomo> to the|monster farm... <%sM_otomo> has reached level|<%nM_maxlv> and has reached|<br>|<%nM_natsuki_max>... <%sM_otomo> is not|growing any more.<yesno><break>"
+    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「<%sM_otomo>は　レベル<%nM_maxlv>に到達していて|　なつき度も　<%nM_natsuki_max>に達しています。|<br>|「これ以上　成長しませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Understood! I can send <%sM_otomo>|to the Monster Farm, if you'd like.|<br>|They've already reached the maximum level|of <%dM_maxlv> and the maximum happiness of <%dM_natsuki_max>.|<br>|They aren't able to grow any further, but do|you still want to send them to the Monster|Farm?|<yesno><break>"
   },
   "1843": {
-    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「なつき度が　<%nM_natsuki_max>に達しているので|　これ以上　なつき度は上がりませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Yes, sir! I can send my <%sM_otomo> to the|monster farm... You've already reached|<%nM_natsuki_max>, so you can't get any|<br>|closer to him.<yesno><break>"
+    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「なつき度が　<%nM_natsuki_max>に達しているので|　これ以上　なつき度は上がりませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Understood! I can send <%sM_otomo>|to the Monster Farm, if you'd like.|<br>|They've already reached the maximum happiness|of <%dM_natsuki_max>, so they won't grow any closer.|Do you still want to send them?|<yesno><break>"
   },
   "1844": {
     "「あら？　モンスター牧場に空きがあるようです。|<br>|「レベル<%nM_maxlv>に　到達しているので|　これ以上　経験値は入りませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Oh? There's room in the monster farm...|You've reached level <%nM_maxlv>, so you|won't get any more experience, but would you|<br>|like to send <%sM_otomo> to the monster farm?<yesno><break>"
@@ -5709,13 +5709,13 @@
     "「あれ？　レベル<%nM_maxlv>に　到達しているわ。|　なつき度も　<%nM_natsuki_max>に達しているみたいね。|<br>|「これ以上　成長しないけど　|　本当に　いいのかしら？|<yesno><break>": "Huh? You've reached level <%nM_maxlv>... He's|also reached <%nM_natsuki_max>... I don't|think it'll grow any more, but is that really|<br>|okay?<yesno><break>"
   },
   "1904": {
-    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「レベル<%nM_maxlv>に　到達しているので|　これ以上　経験値は入りませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Yes, sir! I can send my <%sM_otomo> to the|monster farm... You've already reached level|<%nM_maxlv>, so you won't get any more|<br>|experience, but would you like to send|<%sM_otomo> to the monster farm?<yesno><break>"
+    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「レベル<%nM_maxlv>に　到達しているので|　これ以上　経験値は入りませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Understood! I can send <%sM_otomo>|to the Monster Farm, if you'd like.|<br>|They've already reached the maximum level|of <%dM_maxlv>, so they won't gain any more experience.|Do you still want to send them?|<yesno><break>"
   },
   "1905": {
-    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「<%sM_otomo>は　レベル<%nM_maxlv>に到達していて|　なつき度も　<%nM_natsuki_max>に達しています。|<br>|「これ以上　成長しませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Yes, sir! I can send <%sM_otomo> to the|monster farm... <%sM_otomo> has reached level|<%nM_maxlv> and has reached|<br>|<%nM_natsuki_max>... <%sM_otomo> is not|growing any more.<yesno><break>"
+    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「<%sM_otomo>は　レベル<%nM_maxlv>に到達していて|　なつき度も　<%nM_natsuki_max>に達しています。|<br>|「これ以上　成長しませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Understood! I can send <%sM_otomo>|to the Monster Farm, if you'd like.|<br>|They've already reached the maximum level|of <%dM_maxlv> and the maximum happiness of <%dM_natsuki_max>.|<br>|They aren't able to grow any further, but do|you still want to send them to the Monster|Farm?|<yesno><break>"
   },
   "1906": {
-    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「なつき度が　<%nM_natsuki_max>に達しているので|　これ以上　なつき度は上がりませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Yes, sir! I can send my <%sM_otomo> to the|monster farm... You've already reached|<%nM_natsuki_max>, so you can't get any|<br>|closer to him.<yesno><break>"
+    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「なつき度が　<%nM_natsuki_max>に達しているので|　これ以上　なつき度は上がりませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Understood! I can send <%sM_otomo>|to the Monster Farm, if you'd like.|<br>|They've already reached the maximum happiness|of <%dM_natsuki_max>, so they won't grow any closer.|Do you still want to send them?|<yesno><break>"
   },
   "1907": {
     "「あら？　モンスター牧場に空きがあるようです。|<br>|「レベル<%nM_maxlv>に　到達しているので|　これ以上　経験値は入りませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Oh? There's room in the monster farm...|You've reached level <%nM_maxlv>, so you|won't get any more experience, but would you|<br>|like to send <%sM_otomo> to the monster farm?<yesno><break>"
@@ -5733,61 +5733,61 @@
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1912": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1913": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1914": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1915": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1916": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1917": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1918": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1919": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1920": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1921": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1922": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1923": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1924": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1925": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1926": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1927": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1928": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1929": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1930": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "1931": {
     "「<pc>さまに　お知らせです。|　お預かりできる　仲間モンスターさまが|　さらに　４匹　増えました！|<br>|「まもの使いと　どうぐ使い　共に転職できる方は|　最大２４匹まで　仲間モンスターさまを|　預けることが　できるようになったのです。|<br>|「まだまだ　預かり枠が足りない場合は|　追加の部屋も　ご用意しております。|　詳細は　モンスター酒場にて　ご確認ください。|<br>|「さらに　今回から　モンスター酒場にて|　『部屋いれかえ』機能が　新しく|　ご利用いただけるように　なりました！|<br>|「こちらは名前のとおり　預けられている|　仲間モンスターさまたちの部屋を|　入れかえることが　できる機能となります。|<br>|「お好みの並び順にしたいときや|　別の部屋に　移動させたいときに|　ぜひ　ご利用ください。|<bw_break>": "<pc> I'm sorry to inform you... We've increased|the number of companion monsters you can keep|by 4! If you're both a magic user and a dodge|<br>|user, you can now keep up to 24 companion|monsters with you... If you don't have enough|room, we have additional rooms available...|<br>|Please check the Monster Tavern for|details... We've also added a new \"Room Swap\"|feature to the Monster Tavern! As the name|<br>|suggests, this function allows you to switch|the rooms of your fellow monsters in the|Monster Tavern. If you want to change the|<br>|order of your monsters, or move them to a|different room, please use this function...<bw_break>"
@@ -6090,7 +6090,7 @@
     "<pipipi_on>|「他に　ご用はございますか？|<break>": "<pipipi_on>Is there anything else I can do for you?<break>"
   },
   "2031": {
-    "「承知いたしました！|　<%sM_monster1>さま！　<%sM_monster2>さま！|　お引越しですよー！|<bw_break>": "Yes, sir! <%sM_monster1> sir! <%sM_monster2>|sir! You're moving!<bw_break>"
+    "「承知いたしました！|　<%sM_monster1>さま！　<%sM_monster2>さま！|　お引越しですよー！|<bw_break>": "Understood! <%sM_monster1>,|<%sM_monster2>! It's time to move!|<bw_break>"
   },
   "2032": {
     "「<%sM_monster1>さまと|　<%sM_monster2>さまの　部屋を|　いれかえて　よろしいですか？|<yesno><break>": "May I switch the rooms of <%sM_monster1> and|<%sM_monster2>?<yesno><break>"
@@ -6102,7 +6102,7 @@
     "「ふつうの部屋にいる　<%sM_monster1>さまを|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1>, who is in the|regular room, to the additional room?<yesno><break>"
   },
   "2035": {
-    "「承知いたしました！|　<%sM_monster1>さま　お引越しですよー！|<bw_break>": "Yes, sir! <%sM_monster1> Sir, you're moving!<bw_break>"
+    "「承知いたしました！|　<%sM_monster1>さま　お引越しですよー！|<bw_break>": "Understood! <%sM_monster1>!|It's time to move!|<bw_break>"
   },
   "2036": {
     "「申し訳ありませんが　この仲間モンスターさまの|　いる追加部屋の　ご登録状況が|　確認できないため　いれかえできません。|<bw_break>": "I'm sorry, but I can't confirm the|registration status of the additional room|this fellow monster is in, so I can't replace|<br>|him...<bw_break>"
@@ -6282,7 +6282,7 @@
     "「……まあ　どうぐかばんが　いっぱいですわ。|　レベル転生には　かばんの空きが必要なので|　持ち物を整理してから　お越しください。|<end>": "... Well, my bag is full... You'll need to|free up some space in your bag in order to|level up, so you'll need to sort through your|<br>|things before you come back...<end>"
   },
   "2095": {
-    "<pipipi_off>|生まれ変わった　<%sM_monster>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>There's a sparkling stone down near the|reborn <%sM_monster>!<pc>  got <%sM_item>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|生まれ変わった　<%sM_monster>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>The reincarnated <%sM_monster>|left behind a sparkling stone!|<br>|<pc> received <%sM_item>!<se_nots System 7>|<end>"
   },
   "2096": {
     "<pipipi_on>|「まあっ！　それは　<%sM_item>ですわ！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなのです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてください。|<end>": "<pipipi_on>Oh, no! That's a <%sM_item>! It's what you|get when a monster you've raised with passion|reincarnates... <%sM_item> is the material|<br>|you need to make a dress-up item, so please|try to make a new dress-up item...<end>"
@@ -6306,10 +6306,10 @@
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "2103": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "2104": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　お選びください。|<break>": "As this is my first level reincarnation, I|was wondering if I could learn one additional|skill... Choose a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　お選びください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "2105": {
     "「では　レベル転生によって与えられる|　ひとつ目のスキルを　お選びください。|<break>": "Now, please choose the first skill you will|be granted upon level reincarnation...<break>"
@@ -6324,7 +6324,7 @@
     "「あら？　モンスターを連れていないようですね。|　レベル<%nM_maxlv>に達したモンスターを　連れてきたら|　レベル転生させることが　できますよ。|<end>": "Oh? You don't seem to have any monsters with|you... If I bring a monster that's reached|level <%nM_maxlv>, I can level-transform|<br>|it...<end>"
   },
   "2109": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "2110": {
     "「そして　<%nM_tenseicount>回目の転生では|　一部のスキルラインが|　さらに　強化されます。|<br>|「スキル内容を|　ぜひ確認してみてくださいね。|<bw_break>": "After reincarnating <%dM_tenseicount> times, some of the|existing skill lines have been further|enhanced.|<br>|Please take your time and look over each|skill line.|<bw_break>"
@@ -6753,7 +6753,7 @@
     "「今　連れている　<%sM_otomo>を|　預けるんですね？|<yesno><break>": "So you're leaving <%sM_otomo> with us now?<yesno><break>"
   },
   "2252": {
-    "「わかりました！|　この子のお世話は　お任せください！|<end>": "Yes, sir! I'll take good care of her, sir!<end>"
+    "「わかりました！|　この子のお世話は　お任せください！|<end>": "Understood! They will be under great care|here!|<end>"
   },
   "2253": {
     "「おや？　やめるのですね。|<bw_break>": "Hmm? Don't...<bw_break>"
@@ -6798,7 +6798,7 @@
     "「<%sM_monster>を|　レベル転生させますか？|<se_nots System 0><break>": "Do you want to reincarnate|<%sM_monster>?|<se_nots System 0><break>"
   },
   "2267": {
-    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is my first level reincarnation, so I'm|hoping to learn one additional skill... I|need to pick a new skill...<break>"
+    "「はじめてのレベル転生なので|　追加スキルをひとつ　覚えられます。|　新しいスキルを　選んでください。|<break>": "This is their first reincarnation, so they can|choose 1 additional skill line. Please|choose the one you'd like.|<break>"
   },
   "2268": {
     "「今回が　<%nM_tenseicount>回目の　レベル転生なので|　追加スキルをふたつ　選ぶことができます。|　前回覚えたスキルも　選び直しとなります。|<bw_break>": "This is my <%nM_tenseicount> second level|rebirth, so I get to choose two additional|skills... You'll have to relearn the skills|<br>|you learned last time...<bw_break>"
@@ -6810,19 +6810,19 @@
     "「レベル転生によって与えられる|　ふたつ目のスキルを　選んでください。|<break>": "You will choose a second skill that will be|granted to you upon level reincarnation...<break>"
   },
   "2271": {
-    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill... starting at level 1, is that|correct?<se_nots System 0><break>"
+    "「新しく与えられるスキルは|　<%sM_skill>です。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skill you'll be given is|<%sM_skill>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "2272": {
     "「新しく与えられるスキルは|　<%sM_skill_1>と　<%sM_skill_2>。|　レベル１からとなりますが　よろしいですか？|<se_nots System 0><break>": "The new skills you'll be given are|<%sM_skill_1> and <%sM_skill_2>.|Level will also reset to 1. Is that okay?|<se_nots System 0><break>"
   },
   "2273": {
-    "「わかりました！　<%sM_monster>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_monster>に　新たな道を歩ませたまえー！|<bw_break>": "Yes, sir! <%sM_monste... I pray to be born|again... Oh, Lord! Let <%sM_monster> take a|new path!<bw_break>"
+    "「わかりました！　<%sM_monster>よ。|　生まれ変わる気持ちで祈りなさい。おお　神よ！|　<%sM_monster>に　新たな道を歩ませたまえー！|<bw_break>": "Understood! Oh, <%sM_monster>...|Pray with the feelings of rebirth...|Let <%sM_monster> forge a new path!|<bw_break>"
   },
   "2274": {
     "<pipipi_on>|「おや？　やめるのですね。|　他に　ご用はありますか？|<break>": "<pipipi_on>Hmm? I'm not... Is there anything else I can|do for you?<break>"
   },
   "2275": {
-    "「はい。これで　<%sM_monster>は|　レベル転生し　生まれ変わりました。|<end>": "Yes. Now <%sM_monster> will be leveled and|reincarnated...<end>"
+    "「はい。これで　<%sM_monster>は|　レベル転生し　生まれ変わりました。|<end>": "Good. <%sM_monster> has been|reincarnated onto a new path.|<end>"
   },
   "2276": {
     "「……おや？　今の私には|　これ以上　その子をレベル転生させることが|　できないようです。申し訳ありません……。|<end>": "... Hmm? I'm afraid I can't reincarnate him|any more... I'm sorry...<end>"
@@ -6951,10 +6951,10 @@
     "「おや？　どうぐかばんが　いっぱいのようです。|　レベル転生には　かばんの空きが必要なので|　持ち物を整理してから　お越しください。|<end>": "Hmm? Your kitty bag is full... You'll need to|free up some space in your bag in order to|level up, so please sort through your|<br>|belongings before you come back...<end>"
   },
   "2318": {
-    "<pipipi_off>|生まれ変わった　<%sM_monster>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>There's a sparkling stone down near the|reborn <%sM_monster>!<pc>  got <%sM_item>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|生まれ変わった　<%sM_monster>の近くに|キラキラと輝く石が　落ちている！|<br>|<pc>は|<%sM_item>を　手に入れた！<se_nots System 7>|<end>": "<pipipi_off>The reincarnated <%sM_monster>|left behind a sparkling stone!|<br>|<pc> received <%sM_item>!<se_nots System 7>|<end>"
   },
   "2319": {
-    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh! That's a <%sM_item>! It's what you get|when you reincarnate a monster you've raised|with passion... <%sM_item> is a necessary|<br>|material to make a dress-up item, so please|try to make a new dress-up item...<end>"
+    "<pipipi_on>|「おおっ！　それは　<%sM_item>ですね！|　情熱を注いで　育てたモンスターが|　レベル転生するときに　生み出すものなんです。|<br>|「<%sM_item>は　おめかしグッズを作るために|　必要な素材となりますので　ぜひ新しい|　おめかしグッズを　作ってみてくださいね。|<end>": "<pipipi_on>Oh, look! That's a <%sM_item>!|When you reincarnate a monster you've raised,|they'll leave one of them behind.|<br>|<%sM_item> can be used to create|dress up accessories for your monsters, so|please feel free to use them!|<end>"
   },
   "2320": {
     "「別の子を連れていく場合は　今　連れている子を|　入れ替えで　お預かりするのですが……|<br>|「死んでいる子を　預かることは|　できないんです……。|　生き返らせてから　連れてきてくださいね。|<end>": "If you want to take another child, we can|replace the one you have, but... We can't|take a dead child... You'll have to bring him|<br>|back to life...<end>"
@@ -6996,7 +6996,7 @@
     "「おや？　<%sM_monster>は　住宅村の|　モンスターのおうちで　過ごしているから|　今は　お別れできないみたいです……。": "Hmm? <%sM_monster> is spending some time at|the monster's house in the Housing Village,|so it looks like we can't say goodbye right|<br>|now..."
   },
   "2333": {
-    "「はい！　では　少々お待ちください。|　ここを　こうして……と。|<end>": "Yes, sir! Now, if you'll excuse me for a|moment... Here, take this. ....<end>"
+    "「はい！　では　少々お待ちください。|　ここを　こうして……と。|<end>": "Understood! Now then, please excuse me for one|moment... Here, like this...|<end>"
   },
   "2334": {
     "「お連れの　仲間モンスターの|　レベル転生時に　追加したスキルを|　選びなおすことができます。|<br>|「スキルを　選びなおすには|　『とりなお草』というアイテムが　<%nM_number>個|　必要になります。|<end>": "You can reselect which additional skills you'd|like after reincarnating.|<br>|You'll need <%dM_number> of an item called Indigo Grass|to reselect them.|<end>"
@@ -7089,10 +7089,10 @@
     "「これだけの人が　モンスター牧場の|　パーティーに　招待してくれましたよ。|<break>": "So many people have been invited to the|Monster Ranch party...<break>"
   },
   "2364": {
-    "「それと　<%sM_monster>の　転生を祝して|　お客様の仲間モンスターを　モンスター牧場の|　パーティーに招待し　お世話してくれた人へ……|<br>|「お礼のお品を　お送りしたいと思います。|　ただし　お送りできるのは　転生した時点で|　最近　招待してくれた方　30名までです。|<br>|「それでは　お世話してくれた人を|　見てみましょう。|<end>": "And to celebrate the reincarnation of|<%sM_monster>, we'd like to invite your|fellow monsters to a monster farm party and|<br>|send a thank-you gift to those who have cared|for them... I'd like to send you a thank-you|gift... But I can only send gifts to the 30|<br>|people who've invited me recently... Let's|take a look at the people who've taken care|of me...<end>"
+    "「それと　<%sM_monster>の　転生を祝して|　お客様の仲間モンスターを　モンスター牧場の|　パーティーに招待し　お世話してくれた人へ……|<br>|「お礼のお品を　お送りしたいと思います。|　ただし　お送りできるのは　転生した時点で|　最近　招待してくれた方　30名までです。|<br>|「それでは　お世話してくれた人を|　見てみましょう。|<end>": "And to celebrate this momentous occasion of|<%sM_monster>'s reincarnation, we'll reward those|who invited them to a Monster Farm party!|<br>|The 30 most recent people who invited them|to a party will receive a special gift. I'll|show you a list of who will be rewarded.|<end>"
   },
   "2365": {
-    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "I'm sending this item to their \"Monster Farm\"|in the \"Adventurer's Guide\"...<bw_break>"
+    "「お品は　この人たちの|　『冒険者のおでかけ超便利ツール』の|　『モンスター牧場』に　こちらから送ります。|<bw_break>": "The special gift will be sent to their Monster|Farm on the smartphone app.|<bw_break>"
   },
   "2366": {
     "「おや？　なつき度が　<%nM_natsuki_max>に達していますね。|　これ以上　なつき度は上がりませんが|　よろしいですか？|<yesno><break>": "Hmm? Your friendship level has reached|<%nM_natsuki_max>... I can't increase your|friendship level any further, is that okay?<yesno><break>"
@@ -7128,16 +7128,16 @@
     "「モンスター牧場に送るのは|　<%sM_monster>で　よろしいですか？|<yesno><break>": "Are you sure you want to send <%sM_monster>|to the monster farm?<yesno><break>"
   },
   "2377": {
-    "「わかりました！　あと　モンスター牧場に|　空きがありますが　連れている　<%sM_otomo>を|　送っておきますか？|<yesno><break>": "Yes, sir! Also, there's a vacancy at the|monster farm, but would you like me to send|over the <%sM_otomo> you have with you?<yesno><break>"
+    "「わかりました！　あと　モンスター牧場に|　空きがありますが　連れている　<%sM_otomo>を|　送っておきますか？|<yesno><break>": "Understood! There is currently space in the|Monster Farm, but you would like to keep|<%sM_otomo> with me?|<yesno><break>"
   },
   "2378": {
-    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「レベル<%nM_maxlv>に　到達しているので|　これ以上　経験値は入りませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Yes, sir! I can send my <%sM_otomo> to the|monster farm... You've already reached level|<%nM_maxlv>, so you won't get any more|<br>|experience, but would you like to send|<%sM_otomo> to the monster farm?<yesno><break>"
+    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「レベル<%nM_maxlv>に　到達しているので|　これ以上　経験値は入りませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Understood! I can send <%sM_otomo>|to the Monster Farm, if you'd like.|<br>|They've already reached the maximum level|of <%dM_maxlv>, so they won't gain any more experience.|Do you still want to send them?|<yesno><break>"
   },
   "2379": {
-    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「なつき度が　<%nM_natsuki_max>に達しているので|　これ以上　なつき度は上がりませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Yes, sir! I can send my <%sM_otomo> to the|monster farm... You've already reached|<%nM_natsuki_max>, so you can't get any|<br>|closer to him.<yesno><break>"
+    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「なつき度が　<%nM_natsuki_max>に達しているので|　これ以上　なつき度は上がりませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Understood! I can send <%sM_otomo>|to the Monster Farm, if you'd like.|<br>|They've already reached the maximum happiness|of <%dM_natsuki_max>, so they won't grow any closer.|Do you still want to send them?|<yesno><break>"
   },
   "2380": {
-    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「<%sM_otomo>は　レベル<%nM_maxlv>に到達していて|　なつき度も　<%nM_natsuki_max>に達しています。|<br>|「これ以上　成長しませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Yes, sir! I can send <%sM_otomo> to the|monster farm... <%sM_otomo> has reached level|<%nM_maxlv> and has reached|<br>|<%nM_natsuki_max>... <%sM_otomo> is not|growing any more.<yesno><break>"
+    "「わかりました！|　連れている　<%sM_otomo>を　このまま|　モンスター牧場に　送ることができます。|<br>|「<%sM_otomo>は　レベル<%nM_maxlv>に到達していて|　なつき度も　<%nM_natsuki_max>に達しています。|<br>|「これ以上　成長しませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Understood! I can send <%sM_otomo>|to the Monster Farm, if you'd like.|<br>|They've already reached the maximum level|of <%dM_maxlv> and the maximum happiness of <%dM_natsuki_max>.|<br>|They aren't able to grow any further, but do|you still want to send them to the Monster|Farm?|<yesno><break>"
   },
   "2381": {
     "「では　<%sM_otomo>を　モンスター牧場に送って|　<%sM_monster>を　呼びますね。|<bw_break>": "Now send <%sM_otomo> to the monster farm and|call <%sM_monster>...<bw_break>"
@@ -7158,10 +7158,10 @@
     "「おや？　モンスター牧場に空きがあるようです。|　<%sM_otomo>は　レベル<%nM_maxlv>に到達していて|　なつき度も　<%nM_natsuki_max>に達しています。|<br>|「これ以上　成長しませんが|　<%sM_otomo>を　モンスター牧場に送りますか？|<yesno><break>": "Hmm? There's room in the monster farm...|<%sM_otomo> has reached level <%nM_maxlv> and|has reached <%nM_natsuki_max>... He won't|<br>|grow any more, do you want to send him to the|monster farm?<yesno><break>"
   },
   "2387": {
-    "「わかりました！|　では　<%sM_otomo>は　モンスター牧場に|　送っておきますね。|<end>": "Yes, sir! Then I'll send <%sM_otomo> to the|monster farm...<end>"
+    "「わかりました！|　では　<%sM_otomo>は　モンスター牧場に|　送っておきますね。|<end>": "Of course! I'll send <%sM_otomo>|over to the Monster Farm.|<end>"
   },
   "2388": {
-    "「わかりました！|　では　<%sM_otomo>は　モンスター酒場で|　お預かりしますね。|<end>": "Yes, sir! And now, <%sM_otomo> will be|waiting for you at the Monster Tavern...<end>"
+    "「わかりました！|　では　<%sM_otomo>は　モンスター酒場で|　お預かりしますね。|<end>": "Of course! <%sM_otomo> shall be|waiting for you at the Monster Tavern.|<end>"
   },
   "2389": {
     "<pipipi_off>|<%sM_monster>を　モンスター牧場に送った！|<end>": "<pipipi_off>I sent <%sM_monster> to the monster farm!<end>"
@@ -7254,10 +7254,10 @@
     "「ふつうの部屋にいる　<%sM_monster1>を|　追加部屋に移動しても　よろしいですか？|<yesno><break>": "May I move <%sM_monster1> in the regular room|to the additional room?<yesno><break>"
   },
   "2419": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引っ越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|<%sM_monster2>! We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！　<%sM_monster2>！|　お引っ越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>, <%sM_monster2>!|You're guys're moving!|<bw_break>"
   },
   "2420": {
-    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引っ越しだよー！|<bw_break>": "Yes, sir. Yes, sir! Hey! <%sM_monster1>!|We're moving!<bw_break>"
+    "「はい　わかりました！|　おーい！　<%sM_monster1>！|　お引っ越しだよー！|<bw_break>": "Yeah, understood! Heeeey!|<%sM_monster1>!|It's time to move!|<bw_break>"
   },
   "2421": {
     "「おや？　この仲間モンスターのいる|　追加部屋の　ご登録状況が　確認できないため|　いれかえすることができません。|<bw_break>": "Hmm? I'm afraid I can't see the status of the|additional room this fellow monster is in, so|I can't let you in.<bw_break>"
