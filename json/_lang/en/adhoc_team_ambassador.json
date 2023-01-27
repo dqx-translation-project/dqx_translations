@@ -1,6 +1,6 @@
 {
   "1": {
-    "「私は　<%sM_timei>国より|　任命された　チーム大使。|　今日は　どんなご用でしょうか。|<break>": "I'm a government-appointed cheerleader... How|can I help you today...<break>"
+    "「私は　<%sM_timei>国より|　任命された　チーム大使。|　今日は　どんなご用でしょうか。|<break>": "Hello. I am <%sM_timei>'s government|appointed Team Ambassador.|What can I do for you today?|<break>"
   },
   "2": {
     "「ああ　残念ですが|　お金が　足りないようです…。<bw_break>": "Oh, I'm afraid I don't have enough money...<bw_break>"
@@ -30,10 +30,10 @@
     "目覚めし冒険者の広場には　チーム専用の掲示板が|ありますが　ベータテスト・フェーズ１の期間中は|使えません。https://hiroba.dqx.jp/sc/windowsb": "There's a team forum in the Awakened|Adventurer's Square, but it's not available|during Beta Test Phase 1.|<br>|.https://hiroba.dqx.jp/sc/windowsb"
   },
   "11": {
-    "<select_se_off>|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Use Shield Cover|Reassign Leader|Explanation|<select_end><break>"
   },
   "12": {
-    "「また　お越しください。|　チームの輪が　世界中に広まりますように。|<end>": "Please come back... We'll be spreading our|team around the world...<end>"
+    "「また　お越しください。|　チームの輪が　世界中に広まりますように。|<end>": "Please come back anytime. May our circle of|Teams spread across the world.|<end>"
   },
   "13": {
     "「かしこまりました。|　では　チーム『<%sL_TEAM>』は|　ただ今をもって　解散されました。|<end>": "Yes, sir. Team <%sL_TEAM> is disbanded as of|this moment...<end>"
@@ -54,7 +54,7 @@
     "<select_se_off>|チームを結成する|盾カバーをはずす|説明を聞く|<select_end><break>": "<select_se_off>|Form a team|Remove the shield cover|Listen to the explanation|<select_end><break>"
   },
   "19": {
-    "<select_se_off>|チームを結成する|盾カバーをつける|説明を聞く|<select_end><break>": "<select_se_off>|Form a team|Put a shield cover on it|Listen to the explanation|<select_end><break>"
+    "<select_se_off>|チームを結成する|盾カバーをつける|説明を聞く|<select_end><break>": "<select_se_off>|Form a Team|Use Shield Cover|Explanation|<select_end><break>"
   },
   "20": {
     "「では　チームの名前を　教えてください。|　チーム名は　後から変えられませんので|　慎重に　お決めくださいませ。|<break>": "Now, tell me the name of your team... You|can't change your team name after the fact,|so please choose carefully...<break>"
@@ -96,7 +96,7 @@
     "「スローガンを　受け付けました！|　スローガンは　こまめに更新するのが|　メンバーとの絆を深める　秘訣ですよ。|<bw_break>": "Slogans are now being accepted! Updating your|slogan frequently is the key to strengthening|the bond between members...<bw_break>"
   },
   "33": {
-    "「あなたのチームの　手続きをします。|　何を　お望みでしょう？|<break>": "I'll have your team take care of it. What can|I do for you, sir?<break>"
+    "「あなたのチームの　手続きをします。|　何を　お望みでしょう？|<break>": "You'd like to change one of your designs.|Which would you like to change?|<break>"
   },
   "34": {
     "「では　チームのスローガンを入れてください。|　スローガンは　今ここで決めなくても|　さくせんコマンドから　いつでも変更できます。<break>": "Now, please enter your team's slogan... We|don't have to decide on a slogan right now,|but we can change it at any time...<break>"
@@ -165,19 +165,19 @@
     "「ああっ……ですが　<pc>さんは|　すでに　チーム『<%sL_TEAM>』に|　所属なさっているでは　ありませんか！|<br>|「新しく　あなたのチームを結成するならば|　『<%sL_TEAM>』から　キチンと|　抜けてから　お申し込みください。　|<bw_break>": "Ah But<pc> You are already a member of <%sL_TEAM>! If|you want to start your own team, you need to|leave <%sL_TEAM> before you apply...<bw_break>"
   },
   "56": {
-    "<select_se_off>|チームクエスト|チームの手続き|盾カバーをつける|説明を聞く|<select_end><break>": "<select_se_off>|Team Quest|Team Procedures|Put a shield cover on it|Listen to the explanation|<select_end><break>"
+    "<select_se_off>|チームクエスト|チームの手続き|盾カバーをつける|説明を聞く|<select_end><break>": "<select_se_off>|Team Quests|Team Settings|Use Shield Cover|Explanation|<select_end><break>"
   },
   "57": {
     "<select_se_off>|チームクエスト|チームの手続き|盾カバーをはずす|説明を聞く|<select_end><break>": "<select_se_off>|Team Quest|Team Procedures|Remove the shield cover|Listen to the explanation|<select_end><break>"
   },
   "58": {
-    "<select_se_off>|リーダーを交代する|エンブレムデザイン|チームを解散する|<select_end><break>": "<select_se_off>|I'll replace the leader|Emblem Design|Disband the team|<select_end><break>"
+    "<select_se_off>|リーダーを交代する|エンブレムデザイン|チームを解散する|<select_end><break>": "<select_se_off>|Replace Leader|Emblem Design|Disband Team|<select_end><break>"
   },
   "59": {
-    "<select_se_off>|リーダーを交代する|エンブレムデザイン|<select_end><break>": "<select_se_off>|I'll replace the leader|Emblem Design|<select_end><break>"
+    "<select_se_off>|リーダーを交代する|エンブレムデザイン|<select_end><break>": "<select_se_off>|Replace Leader|Emblem Design|<select_end><break>"
   },
   "60": {
-    "<select_se_off>|リーダーを交代する|エンブレムデザイン|ユニフォームデザイン|チームを解散する|<select_end><break>": "<select_se_off>|I'll replace the leader|Emblem Design|Uniform Design|Disband the team|<select_end><break>"
+    "<select_se_off>|リーダーを交代する|エンブレムデザイン|ユニフォームデザイン|チームを解散する|<select_end><break>": "<select_se_off>|Replace Leader|Emblem Design|Uniform Design|Disband Team|<select_end><break>"
   },
   "61": {
     "「チームとは　結成した人がリーダーとなって|　最大２５５人もの仲間と　いつでも|　専用チャットで通じ合えるシステムです。|<br>|「チームには　必ず　国の後援があります。|　ここで　チームを結成したならば|　<%sM_timei>公認のチームになります。|<br>|「もちろん　<%sM_timei>公認と言っても|　チームメンバーの種族に　制限などありません！|<br>|「チームを結成すると　各国のチーム購買部が|　利用可能になったり　そのチームの顔となる|　オリジナルの　エンブレムを作れます。|<br>|「さらに　エンブレムの模様の入った　盾カバーを|　取り付けるサービスも　おこなっています。|　盾を装備した状態で　ご依頼ください。|<br>|「そして最後に　大事な話ですが|　チームは　ひとり　ひとつしか入れません。|　掛け持ちはできないので　ご注意ください。|<end>": "A team is a group of people, led by one|person, who can communicate with up to 255|other people at any time via a dedicated chat|<br>|room. Every team is sponsored by a|government... If you form a team here, you|become a <%sM_timei>-approved team... Of|<br>|course, <%sM_timei> official means that there|are no restrictions on the races of the team|members! Once you've formed a team, you'll|<br>|have access to each country's team purchasing|department, and you'll be able to create your|own emblem to represent your team... You can|<br>|even get a shield cover with the emblem's|design on it. Please have the shield in|place... And lastly, it's important to note|<br>|that you can only have one team... You can't|have more than one team.<end>"
@@ -207,10 +207,10 @@
     "<select_se_off>|エンブレムデザイン|<select_end><break>": "<select_se_off>|Emblem Design|<select_end><break>"
   },
   "70": {
-    "<select_se_off>|盾カバーをはずす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|盾カバーをはずす|説明を聞く|<select_end><break>": "<select_se_off>|Remove Shield Cover|Explanation|<select_end><break>"
   },
   "71": {
-    "<select_se_off>|盾カバーをつける|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|盾カバーをつける|説明を聞く|<select_end><break>": "<select_se_off>|Use Shield Cover|Explanation|<select_end><break>"
   },
   "72": {
     "「かしこまりました。|　これは　素晴らしいユニフォームです。|　メンバーの士気も　上がることでしょう！|<bw_break>": "Yes, sir... This is a wonderful uniform...|I'm sure it'll raise the morale of the|members!<bw_break>"
@@ -237,13 +237,13 @@
     "「チームクエストなどを　こなしていくと|　人と同じように　チームも経験値を得て|　レベルが　上がっていきます。|<br>|「チームレベルが上がると　使える機能が増えたり|　購買で買える品が　追加されていきます。|<br>|「チームレベルが上がることで|　可能になることについては　各大使に話しかけ|　『次のレベル特典確認』から　ご覧ください。|<bw_break>": "As you complete team quests, your team will|gain experience and level up, just like other|people. As your team level increases, you'll|<br>|be able to use more features and purchase|more items... To learn more about what's|possible when you reach a higher team level,|<br>|talk to your ambassador and click on \"Next|Level Perks\"...<bw_break>"
   },
   "80": {
-    "「それでは　依頼内容の|　達成状況を　確認させていただきます……。|<bw_break>": "Now, I'd like to check in with you to see if|we've accomplished what we asked...<bw_break>"
+    "「それでは　依頼内容の|　達成状況を　確認させていただきます……。|<bw_break>": "Now then, I will check to see if you've|completed any of our requests...|<bw_break>"
   },
   "81": {
     "「達成した依頼は　以上となります。|　翌朝には　新しい依頼に　更新されますので|　『チームクエスト』からご確認ください。|<bw_break>": "That's all the requests you've completed.|They'll be updated the next morning, so|please check your Team Quest...<bw_break>"
   },
   "82": {
-    "「……どうやら　今のところ|　ご報告の必要がある依頼は　なさそうですね。|　引き続き　ご報告を　お待ちしております。|<bw_break>": "... It appears we have nothing to report at|this time. We look forward to hearing from|you...<bw_break>"
+    "「……どうやら　今のところ|　ご報告の必要がある依頼は　なさそうですね。|　引き続き　ご報告を　お待ちしております。|<bw_break>": "It seems that you have nothing to report at|the moment. We look forward to your future|reports.|<bw_break>"
   },
   "83": {
     "チーム『<%sL_TEAM>』は　|<%dL_EXP> Pの　チーム経験値を　手に入れた！|<se_nots System 7><end>": "Team '<%sL_TEAM>' has gained <%dL_EXP> P in|team experience!|<se_nots System 7><end>"
@@ -264,7 +264,7 @@
     "「制限時間が過ぎた依頼は　変更しました。|　さくせんコマンドの　『チーム』の|　『チームクエスト』からご確認ください。|<br>|「達成できず　更新された依頼は|　チーム経験値が　多く手に入るように|　なっております。|<br>|「チーム経験値が　オレンジ色で|　表示されていますので　是非とも|　ご確認ください。|<end>": "The time limit has expired and the request|will be changed... Go to \"Team Quests\" under|\"Team\" in the \"Operation\" command. Requests|<br>|that were not completed and have been updated|will now have more team experience... Team|experience is displayed in orange, so be sure|<br>|to check it out...<end>"
   },
   "89": {
-    "「エンブレムデザインを　やめますか？|<yesno 2><break>": "Do you want to stop designing emblems?<yesno 2><break>"
+    "「エンブレムデザインを　やめますか？|<yesno 2><break>": "You'd like to stop?|<yesno 2><break>"
   },
   "90": {
     "「チームクエストへの　参加希望ですね。|　では　いくつか説明いたしましょう。|<br>|「チームクエストは　国家要請ですので|　依頼の内容を　自由に選ぶことはできませんが|　複数の依頼が　同時に出されます。|<br>|「依頼の内容は　さくせんコマンドの|　『チーム』の　『チームクエスト』から|　チームメンバー全員で　共有できます。|<br>|「見事に　依頼を達成した場合は|　必ず　チームメンバーの誰かから|　我々チーム大使に　ご報告を　お願いします。|<br>|「それぞれの依頼には　期限があります。|　期限内に達成できない場合は|　失敗となりますので　ご注意ください。|<br>|「期限が過ぎた依頼は　ご報告をいただくことで　|　新しい依頼に更新いたします。ご報告がないと　　|　更新されませんので　ご注意ください。|<br>|「依頼をこなしていくと　チームは経験値を得て|　レベルが上がっていきます。レベルが上がると|　チーム機能や　購買の品が　増えていきます。|<br>|「説明は　以上となります。|　ご不明な点がありましたら　今後は|　『説明を聞く』から　ご確認ください。|<end>": "I'd like to join Team Quest. Let me explain a|few things. Team Quest is a national request,|so you can't choose what you want to do, but|<br>|you can request multiple things at once. The|requests can be shared with all team members|by going to Team Quest in the Team section of|<br>|the Operation Command... If you successfully|complete a request, one of your team members|must report it to our team ambassador. Each|<br>|request has a deadline. If the request is not|completed by the deadline, it will be|considered a failure. If your request is|<br>|overdue, please report it to us and we will|update it with a new request... If you don't|report it, it won't be renewed, so please be|<br>|careful... As you complete requests, your|team will gain experience and level up... As|you level up, you'll find more team features,|<br>|more items to purchase... And that's it. If|you have any questions, please ask for|clarification...<end>"
@@ -288,10 +288,10 @@
     "変更内容の保存に　失敗しました。|しばらく時間を空けてから|もう一度　やり直してください。": "It failed to save the changes... Give it some|time, and then try again."
   },
   "97": {
-    "<select_se_off>|チームクエスト|チームの手続き|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Team Quest|Team Procedures|Put a shield cover on it|Leader handover|Listen to the explanation|<select_end><break>"
+    "<select_se_off>|チームクエスト|チームの手続き|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Team Quests|Team Settings|Use Shield Cover|Reassign Leader|Explanation|<select_end><break>"
   },
   "98": {
-    "<select_se_off>|チームクエスト|盾カバーをつける|説明を聞く|<select_end><break>": "<select_se_off>|Team Quest|Put a shield cover on it|Listen to the explanation|<select_end><break>"
+    "<select_se_off>|チームクエスト|盾カバーをつける|説明を聞く|<select_end><break>": "<select_se_off>|Team Quests|Use Shield Cover|Explanation|<select_end><break>"
   },
   "99": {
     "<select_se_off>|チームクエスト|盾カバーをはずす|説明を聞く|<select_end><break>": "<select_se_off>|Team Quest|Remove the shield cover|Listen to the explanation|<select_end><break>"
@@ -309,19 +309,19 @@
     "「すでに　<pc>さんの　チームには|　チームクエストを　依頼しております。|　よい報告を　お待ちしております！|<bw_break>": "already<pc> I've requested a Team Quest from your team. I|look forward to hearing from you, sir.<bw_break>"
   },
   "104": {
-    "<select_se_off>|チームの手続き|盾カバーをはずす|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|チームの手続き|盾カバーをはずす|説明を聞く|<select_end><break>": "<select_se_off>|Team Settings|Remove Shield Cover|Explanation|<select_end><break>"
   },
   "105": {
     "チーム『<%sL_TEAM>』は　新しい|チームクエストの依頼を受けた！|<se_nots System 7><end>": "Team '<%sL_TEAM>' has received a request for|a new team quest!|<se_nots System 7><end>"
   },
   "106": {
-    "「チームクエストの　手続きをします。|　何を　お望みでしょう？|<break>": "I'd like to start the Team Quest process.|What can I do for you, sir?<break>"
+    "「チームクエストの　手続きをします。|　何を　お望みでしょう？|<break>": "Certainly. Which would you like to do?|<break>"
   },
   "107": {
-    "<select_se_off>|クエストを報告する|次のレベル特典確認|<select_end><break>": "<select_se_off>|Report a Quest|Next Level Benefits Confirmation|<select_end><break>"
+    "<select_se_off>|クエストを報告する|次のレベル特典確認|<select_end><break>": "<select_se_off>|Report Quests|Check Next Level Reward|<select_end><break>"
   },
   "108": {
-    "<select_se_off>|リーダーを交代する|エンブレムデザイン|ユニフォームデザイン|<select_end><break>": "<select_se_off>|I'll replace the leader|Emblem Design|Uniform Design|<select_end><break>"
+    "<select_se_off>|リーダーを交代する|エンブレムデザイン|ユニフォームデザイン|<select_end><break>": "<select_se_off>|Replace Leader|Emblem Design|Uniform Design|<select_end><break>"
   },
   "109": {
     "<select_se_off>|エンブレムデザイン|ユニフォームデザイン|<select_end><break>": "<select_se_off>|Emblem Design|Uniform Design|<select_end><break>"
@@ -372,10 +372,10 @@
     "<select_se_off>|盾カバーをはずす|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Remove the shield cover|Leader handover|Listen to the explanation|<select_end><break>"
   },
   "125": {
-    "<select_se_off>|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Use Shield Cover|Reassign Leader|Explanation|<select_end><break>"
   },
   "126": {
-    "<select_se_off>|チームクエスト|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Team Quest|Put a shield cover on it|Leader handover|Listen to the explanation|<select_end><break>"
+    "<select_se_off>|チームクエスト|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Team Quests|Use Shield Cover|Reassign Leader|Explanation|<select_end><break>"
   },
   "127": {
     "<select_se_off>|チームクエスト|盾カバーをはずす|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Team Quest|Remove the shield cover|Leader handover|Listen to the explanation|<select_end><break>"
@@ -384,7 +384,7 @@
     "「どちらを変更しますか？|<select_se_off>|チーム名|エンブレム|<select_end><break>": "Which would you like to change?|<select_se_off>|Team Name|emblem|<select_end><break>"
   },
   "129": {
-    "<select_se_off>|チームの手続き|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Team Procedures|Put a shield cover on it|Leader handover|Listen to the explanation|<select_end><break>"
+    "<select_se_off>|チームの手続き|盾カバーをつける|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Team Settings|Use Shield Cover|Reassign Leader|Explanation|<select_end><break>"
   },
   "130": {
     "<select_se_off>|チームの手続き|盾カバーをはずす|リーダー引き継ぎ|説明を聞く|<select_end><break>": "<select_se_off>|Team Procedures|Remove the shield cover|Leader handover|Listen to the explanation|<select_end><break>"
@@ -420,13 +420,13 @@
     "「あっ……申し訳ありませんが|　チーム名の　先頭か　末尾に|　空白が入っているため　受付できません。|<br>|「ちがうチーム名を　入れてください。<break>": "Oh... I'm sorry, but we can't accept your|team name... because it starts or ends with a|blank space. Please enter a different team|<br>|name...<break>"
   },
   "141": {
-    "<select_se_off>|リーダーを交代する|エンブレムデザイン|ユニフォームデザイン|ドルボードデザイン|チームを解散する|<select_end><break>": "<select_se_off>|I'll replace the leader|Emblem Design|Uniform Design|Dollar Board Design|Disband the team|<select_end><break>"
+    "<select_se_off>|リーダーを交代する|エンブレムデザイン|ユニフォームデザイン|ドルボードデザイン|チームを解散する|<select_end><break>": "<select_se_off>|Replace Leader|Emblem Design|Uniform Design|Dolboard Design|Disband Team|<select_end><break>"
   },
   "142": {
-    "<select_se_off>|リーダーを交代する|エンブレムデザイン|ユニフォームデザイン|ドルボードデザイン|<select_end><break>": "<select_se_off>|I'll replace the leader|Emblem Design|Uniform Design|Dollar Board Design|<select_end><break>"
+    "<select_se_off>|リーダーを交代する|エンブレムデザイン|ユニフォームデザイン|ドルボードデザイン|<select_end><break>": "<select_se_off>|Replace Leader|Emblem Design|Uniform Design|Dolboard Design|<select_end><break>"
   },
   "143": {
-    "<select_se_off>|エンブレムデザイン|ユニフォームデザイン|ドルボードデザイン|<select_end><break>": "<select_se_off>|Emblem Design|Uniform Design|Dollar Board Design|<select_end><break>"
+    "<select_se_off>|エンブレムデザイン|ユニフォームデザイン|ドルボードデザイン|<select_end><break>": "<select_se_off>|Emblem Design|Uniform Design|Dolboard Design|<select_end><break>"
   },
   "144": {
     "「チームドルボードの変更を　ご希望ですね。|　手数料として　<%nL_GOLD>ゴールドいただきますが|　よろしいですか？|<yesno><break>": "I'd like to change my team's dollar board...|I'd like to charge you <%nL_GOLD> gold as a|commission, if that's okay.<yesno><break>"
