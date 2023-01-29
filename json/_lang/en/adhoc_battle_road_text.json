@@ -15,7 +15,7 @@
     "「あらっ　残念ですわ。|　気が変わったら　いつでも　お越しくださいね！|<end>": "Oh, that's too bad... If you change your|mind, you're always welcome to come back!<end>"
   },
   "6": {
-    "「ようこそ　モンスターバトルロードへ！|　何を　なさいますか？|<break>": "Welcome to Monster Battle Road! What can I do|for you, sir?<break>"
+    "「ようこそ　モンスターバトルロードへ！|　何を　なさいますか？|<break>": "Welcome to Monster Battle Road! What can I do|for you?<break>"
   },
   "7": {
     "「かしこまりました！　では　ええと……|　<pc>様は　はじめてのご出場ですので|　Ｇランクからの　スタートになりますわ。|<br>|「バトルロードでは　出場者の強さに応じた|　ランク制度を設けています。ランクが上がれば|　対戦相手は強くなり　景品が豪華になるんです！|<br>|「ランクを上げるには　試合に勝てばもらえる|　バトルロードポイントを　ためてください。|　ランクアップ試験の挑戦権が　与えられますの！|<br>|「現在は　Ｓランクまで　解放されてますわ。|　とにかく　どんどん試合に勝って|　ランクアップを目指してくださいませ！|<br>|「ただ　出場には　回数制限がありますの。|　最初に　３０回分のバトル参加権が与えられ|　以降は　１日に１回分がチャージされますわ。|<br>|「それでは　改めまして……|<end>": "Yes, sir! So, um...<pc> It's your first time competing, so you'll be|starting at G rank. In Battle Road, we have a|rank system based on the strength of the|<br>|contestant... The higher your rank, the|stronger your opponents, and the better the|prizes! To move up in rank, you need to|<br>|accumulate Battle Road Points, which you can|earn by winning matches... You'll be given|the right to challenge the rank-up test.|<br>|Currently, we're up to S rank. Anyway, win as|many matches as you can to move up the ranks!|But there is a limit to the number of times|<br>|you can participate... The first time you|enter a battle, you'll be given 30 entries,|and after that, you'll be charged once a day.|<br>|So, without further ado...<end>"
@@ -192,7 +192,7 @@
     "「バトルロードに　エントリーするには|　まず最初に　パーティの作成が必要ですわ。|　『パーティの準備』を　お選びくださいませ。|<end>": "To enter the Battle Roads, you must first|create a party... Please select \"Prepare|Party\"...<end>"
   },
   "65": {
-    "「バトルロードポイントが　条件をみたしたので|　ランクアップ試験に　ご挑戦いただけます！|　チャンプ教官に　声をおかけください。さて……|<bw_break>": "Now that you've earned enough Battle Road|points, you're ready to take the Rank Up|test! Call out to the champ instructor...|<br>|Now...<bw_break>"
+    "「バトルロードポイントが　条件をみたしたので|　ランクアップ試験に　ご挑戦いただけます！|　チャンプ教官に　声をおかけください。さて……|<bw_break>": "You've earned enough Battle Road Points to|take the rank up test! Go and speak with|Instructor Champ to get started.|<bw_break>"
   },
   "66": {
     "「サポートモンスターとは|　他の出場者の　助っ人として試合に参加する|　仲間モンスターのことですの。|<br>|「<pc>様も　Ｆランク以上に昇格すれば|　サポートモンスターの登録が　できますので|　ぜひ　ランクアップを目指してくださいね。|<bw_break>": "A support monster is a fellow monster who|joins a match as a helper to another|contestant...<pc> If you're a fan of the game, you'll love this|game.<bw_break>"
@@ -327,7 +327,7 @@
     "「あらっ？　すでに　<%sL_MONSTER>様を|　お選びのようですわ。|<end>": "What? It seems you've already chosen|<%sL_MONSTER>...<end>"
   },
   "110": {
-    "「ようこそ　モンスターバトルロードへ！|<br>|「まあ！　<pc>さんは|　バトルロードチケットを　お持ちのようですね。|<br>|「今　お手元にある　バトルロードチケットで|　参加権を<%nL_SANKAKEN>回　増やすことができますが|　交換されますか？|<yesno><break>": "Welcome to Monster Battle Road! Well!<pc> You have Battle Road tickets... Would you|like to trade your Battle Road tickets for an|extra <%nL_SANKAKEN> entry?<yesno><break>"
+    "「ようこそ　モンスターバトルロードへ！|<br>|「まあ！　<pc>さんは|　バトルロードチケットを　お持ちのようですね。|<br>|「今　お手元にある　バトルロードチケットで|　参加権を<%nL_SANKAKEN>回　増やすことができますが|　交換されますか？|<yesno><break>": "Welcome to Monster Battle Road!|<br>|Oh! It looks like you're carrying some|Battle Road Tickets.|<br>|Would you like to exchange them for|<%dL_SANKAKEN> extra battle tries?|<yesno><break>"
   },
   "111": {
     "「……あらっ？　バトルロード参加権が|　上限を超えてしまうようですね。|　このままでは　交換できませんわね。|<br>|「バトルに　参加して　バトルロード参加権を|　減らした状態なら　交換できますわ！|<br>|「それでは　改めて……。|<bw_break>": "... What? It looks like you've reached your|Battle Lord limit. I can't exchange them at|this rate. You can trade it in if you join|<br>|the battle and reduce your Battle Lord|credits. Let's try again...<bw_break>"
