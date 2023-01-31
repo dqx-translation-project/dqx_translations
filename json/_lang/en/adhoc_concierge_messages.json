@@ -99,10 +99,10 @@
     "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Speed|View Prizes|<select_end><break>"
   },
   "34": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<break>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<break>"
   },
   "35": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "36": {
     "「おめでとうございます！|　ダブルすれちがいポイント|　<%nL_MEGURIGET>ポイントを　達成いたしました！|<br>|「それを　記念しまして|　<%sL_ITEM>を　進呈いたします！|　これからも　ステキな　ダブルすれちがいを！|<bw_break>": "Congratulations! You've reached the double|passing point of <%nL_MEGURIGET>! To|celebrate, we're giving away a <%sL_ITEM>!|<br>|Have a wonderful Double Passing!<bw_break>"
@@ -123,7 +123,7 @@
     "「<pc>さまは　<%nL_MEGURINOW>名の方と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっております。|<bw_break>": "<pc> You've had a double pass with someone named|<%nL_MEGURINOW> and you've accumulated|<%nL_MEGURIPOINT> points.<bw_break>"
   },
   "42": {
-    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM>!<se_nots System 7>|<end>"
   },
   "43": {
     "「何について　説明いたしましょうか？|<select_se_off>|名声について|クエスト案内について|ダブルすれちがいについて|サーバー移動について|<select_end><break>": "What would you like me to explain?|<select_se_off>|About Fame|About Quest Guide|About Double Passing|About Server Moves|<select_end><break>"
@@ -426,7 +426,7 @@
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "Do you want to play again?|<select_se_off>|Single Draw|10 Draw|Animation Setting|View Prizes|Explanation|<select_end><break>"
   },
   "143": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<break>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<break>"
   },
   "144": {
     "「<%sL_KOUKAN_ITEM>で　よろしいですか？|<yesno><break>": "You'd like the <%sL_KOUKAN_ITEM>?|<yesno><break>"
@@ -438,7 +438,7 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, please choose another prize.|<break>"
   },
   "147": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "148": {
     "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won the top prize!|<bw><close>"
@@ -468,10 +468,10 @@
     "「<%sL_ITEM>ですね。こちらは　私ども|　旅のコンシェルジュで　豪華景品が当たる|　ふくびきに　挑戦できるチケットです。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>枚まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "<%sL_ITEM>... This is the ticket to challenge|the lucky draw to win gorgeous prizes at our|travel concierge... You have <%nL_CTIME>hours|<br>|to recharge your energy... I can give you up|to <%nL_MAXNUM> of <%sL_ITEM>, but how many|would you like?<break>"
   },
   "157": {
-    "「<%sL_ITEM>ですね。こちらは　使うと１０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になります。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "<%sL_ITEM>... If you use this, you'll get 10|minutes of \"Genki Time\" and double your|experience and gold... You currently have|<br>|<%nL_CTIME> hours of energy charge... I can|give you up to <%nL_MAXNUM> of <%sL_ITEM>,|but how many would you like?<break>"
+    "「<%sL_ITEM>ですね。こちらは　使うと１０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になります。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "You want the <%sL_ITEM>? By using|this, you'll get 10 minutes of Bonus Time,|which doubles experience and Gold earned.|<br>|With your current Energy Charge of <%dL_CTIME> hours,|I can give you up to <%dL_MAXNUM> of them.|How many would you like?|<break>"
   },
   "158": {
-    "「<%sL_ITEM>ですね。こちらは　使うと３０分間|　超元気タイムになり　同マップにいる仲間も|　獲得経験値やゴールドが　２倍になります！|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "<%sL_ITEM>... If you use this, you'll have 30|minutes of Super Vitality Time, and your|friends on the same map will gain double the|<br>|experience and gold! You currently have|<%nL_CTIME> hours of Vitality Charge... If|you're looking for <%sL_ITEM> you can get up|<br>|to <%nL_MAXNUM> of them, but how many do you|want?<break>"
+    "「<%sL_ITEM>ですね。こちらは　使うと３０分間|　超元気タイムになり　同マップにいる仲間も|　獲得経験値やゴールドが　２倍になります！|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "You want the <%sL_ITEM>? By using this,|your party gets 30 minutes of Bonus Time,|which doubles experience and Gold earned!|<br>|With your current Energy Charge of <%dL_CTIME> hours,|I can give you up to <%dL_MAXNUM> of them.|How many would you like?|<break>"
   },
   "159": {
     "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM><%sM_TANI>まで|　お渡しできますが　いくつ　ご希望でしょうか？|<break>": "You currently have <%dL_CTIME> hours of Energy Charge|remaining. I can give you up to <%dL_MAXNUM> of them.|How many would you like?|<break>"
@@ -531,7 +531,7 @@
     "「そうですか……。|　登録は　いつでもできますので|　気が変わったら　また　お越しください。": "Okay, well... You can register at any time,|so if you change your mind, please come|back..."
   },
   "178": {
-    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM>!<se_nots System 7>|<end>"
   },
   "179": {
     "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
@@ -561,7 +561,7 @@
     "「こちらは　プライベートコンシェルジュです。|　冒険者の皆さまに様々なサービスを提供するため|　世界宿屋協会より　派遣されております。|<br>|「私どもが　提供しているサービスについて|　ご紹介させていただきます。|<br>|「まずは　おサイフ応援サービス！|　当コンシェルジュに登録するだけで　週に１回|　サポートゴールドが　支給されるサービスです。|<br>|「続いて　カジノコイン　プレゼントサービス！|　こちらは　毎週金曜日に　カジノで使える|　コインチケットが　支給されるサービスです。|<br>|「続いて　元気玉交換サービス！|　遊んでいない時間を　獲得経験値などが倍になる|　元気玉という物に　交換できるサービスです。|<br>|「続いて　特訓元気玉交換サービス！|　遊んでいない時間を　特訓スタンプが倍になる|　特訓元気玉に　交換できるサービスです。|<br>|「なお　特訓元気玉交換サービスは|　特訓できる方のみが　対象となります。|　予めご了承くださいませ。|<bw_break>": "This is the Private Concierge... We have been|dispatched by the World Association of|Innkeepers to provide a variety of services|<br>|to adventurers... Let me introduce you to|some of the services we offer... First of|all, our wallet support service! All you have|<br>|to do is register with our concierge and|we'll give you support gold once a week...|Next, the Casino Coin Present Service! This|<br>|is a service that provides you with coin|tickets that can be used at the casino every|Friday... Next, the Genki Ball Exchange|<br>|Service! This is a service that allows you to|exchange your unused time for Genki Dama,|which doubles your experience... Next, the|<br>|Special Training Genki-dama Exchange Service!|This service allows you to exchange your|unplayed time into Tokkun Genki Dama, which|<br>|doubles your Tokkun Stamp... Please note that|this service is only available to those who|can train... Please understand that...<bw_break>"
   },
   "188": {
-    "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですか？|<break>": "You currently have <%nL_CTIME> hours of|energy left... Which one would you like?<break>"
+    "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですか？|<break>": "You currently have <%dL_CTIME> hour(s) of Energy|Charge remaining. Which one would you like?|<break>"
   },
   "189": {
     "「何について　説明いたしましょうか？|<select_se_off>|名声について|クエスト案内について|ダブルすれちがいについて|サーバー移動について|<select_end><break>": "What would you like me to explain?|<select_se_off>|About Fame|About Quest Guide|About Double Passing|About Server Moves|<select_end><break>"
@@ -642,7 +642,7 @@
     "「では　スペシャルふくびき券　１枚を|　いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "We'll give you a special lucky draw ticket...|Try your best to draw a good fortune...<end>"
   },
   "215": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "216": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
@@ -843,7 +843,7 @@
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "Do you want to play again?|<select_se_off>|Single Draw|10 Draw|Animation Setting|View Prizes|Explanation|<select_end><break>"
   },
   "282": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<break>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<break>"
   },
   "283": {
     "「<%sL_KOUKAN_ITEM>で　よろしいですか？|<yesno><break>": "You'd like the <%sL_KOUKAN_ITEM>?|<yesno><break>"
@@ -855,7 +855,7 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, please choose another prize.|<break>"
   },
   "286": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "287": {
     "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won the top prize!|<bw><close>"
@@ -1074,7 +1074,7 @@
     "「では　スペシャルふくびき券　１枚を|　いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "We'll give you a special lucky draw ticket...|Try your best to draw a good fortune...<end>"
   },
   "359": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "360": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
@@ -1233,7 +1233,7 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, please choose another prize.|<break>"
   },
   "412": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "413": {
     "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won the top prize!|<bw><close>"
@@ -1452,7 +1452,7 @@
     "「では　スペシャルふくびき券　１枚を|　いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "We'll give you a special lucky draw ticket...|Try your best to draw a good fortune...<end>"
   },
   "485": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "486": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
@@ -1599,7 +1599,7 @@
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "Do you want to play again?|<select_se_off>|Single Draw|10 Draw|Animation Setting|View Prizes|Explanation|<select_end><break>"
   },
   "534": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<break>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<break>"
   },
   "535": {
     "「<%sL_KOUKAN_ITEM>で　よろしいですか？|<yesno><break>": "You'd like the <%sL_KOUKAN_ITEM>?|<yesno><break>"
@@ -1611,7 +1611,7 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, please choose another prize.|<break>"
   },
   "538": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "539": {
     "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won the top prize!|<bw><close>"
@@ -1830,7 +1830,7 @@
     "「では　スペシャルふくびき券　１枚を|　いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "We'll give you a special lucky draw ticket...|Try your best to draw a good fortune...<end>"
   },
   "611": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "612": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
@@ -1989,7 +1989,7 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, please choose another prize.|<break>"
   },
   "664": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "665": {
     "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won the top prize!|<bw><close>"
@@ -2208,7 +2208,7 @@
     "「では　スペシャルふくびき券　１枚を|　いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "We'll give you a special lucky draw ticket...|Try your best to draw a good fortune...<end>"
   },
   "737": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "738": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
@@ -2367,7 +2367,7 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, please choose another prize.|<break>"
   },
   "790": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "791": {
     "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won the top prize!|<bw><close>"
@@ -2586,7 +2586,7 @@
     "「では　スペシャルふくびき券　１枚を|　いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "We'll give you a special lucky draw ticket...|Try your best to draw a good fortune...<end>"
   },
   "863": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "864": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
@@ -2745,7 +2745,7 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, please choose another prize.|<break>"
   },
   "916": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "917": {
     "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won the top prize!|<bw><close>"
@@ -2964,7 +2964,7 @@
     "「では　スペシャルふくびき券　１枚を|　いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "We'll give you a special lucky draw ticket...|Try your best to draw a good fortune...<end>"
   },
   "989": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "990": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
@@ -3123,7 +3123,7 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, please choose another prize.|<break>"
   },
   "1042": {
-    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You've won a Rank <%dL_TOU> prize!|<bw><close>"
+    "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations!|You won a Rank <%dL_TOU> prize!|<bw><close>"
   },
   "1043": {
     "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won the top prize!|<bw><close>"
@@ -3342,7 +3342,7 @@
     "「では　スペシャルふくびき券　１枚を|　いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "We'll give you a special lucky draw ticket...|Try your best to draw a good fortune...<end>"
   },
   "1115": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "1116": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
@@ -5460,7 +5460,7 @@
     "「いま　元気チャージが　<%nL_CTIME>時間あるな。|　どれに　変えたい？|<break>": "You currently have <%dL_CTIME> Charge Hours.|Which would you like?|<break>"
   },
   "1821": {
-    "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですか？|<break>": "You currently have <%nL_CTIME> hours of|energy left... Which one would you like?<break>"
+    "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですか？|<break>": "You currently have <%dL_CTIME> hour(s) of Energy|Charge remaining. Which one would you like?|<break>"
   },
   "1822": {
     "「いま　元気チャージが　<%nL_CTIME>時間あるな。|　どれに　変えたい？|<break>": "You currently have <%dL_CTIME> Charge Hours.|Which would you like?|<break>"
@@ -5769,16 +5769,16 @@
     "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "1924": {
-    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM>!<se_nots System 7>|<end>"
   },
   "1925": {
-    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM>!<se_nots System 7>|<end>"
   },
   "1926": {
-    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM>!<se_nots System 7>|<end>"
   },
   "1927": {
-    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM>!<se_nots System 7>|<end>"
   },
   "1928": {
     "「<pc>への|　次回の　サポートゴールド給付は|　およそ　<%nL_DAY>日後だぜ。|<bw_break>": "<pc> The next support gold benefit to <%nL_DAY>|will be approximately <%nL_DAY>...<bw_break>"
@@ -5958,19 +5958,19 @@
     "「<%sL_ITEM>か。これは　使うと１０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になるものだ。|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しい？|<break>": "<%sL_ITE... When you use this, you'll have 10|minutes of \"Vigor Time\", which doubles your|experience and gold... If you have|<br>|<%nL_CTIME> time... You can give <%sL_ITEM>|up to <%nL_MAXNUM>. How many do you want?<break>"
   },
   "1987": {
-    "「<%sL_ITEM>ですね。こちらは　使うと１０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になります。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "<%sL_ITEM>... If you use this, you'll get 10|minutes of \"Genki Time\" and double your|experience and gold... You currently have|<br>|<%nL_CTIME> hours of energy charge... I can|give you up to <%nL_MAXNUM> of <%sL_ITEM>,|but how many would you like?<break>"
+    "「<%sL_ITEM>ですね。こちらは　使うと１０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になります。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "You want the <%sL_ITEM>? By using|this, you'll get 10 minutes of Bonus Time,|which doubles experience and Gold earned.|<br>|With your current Energy Charge of <%dL_CTIME> hours,|I can give you up to <%dL_MAXNUM> of them.|How many would you like?|<break>"
   },
   "1988": {
     "「<%sL_ITEM>だな。これは　使うと３０分間|　超元気タイムになり　同マップにいる仲間も|　獲得経験値やゴールドが　２倍になるぜ！|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しいんだ？|<break>": "<%sL_ITEM... When you use this, you'll get 30|minutes of Super Vitality Time, and your|friends on the same map will get double the|<br>|experience and gold! If you have <%nL_CTIME>|time... I can give you <%sL_ITEM> up to|<%nL_MAXNUM>. How many do you want?<break>"
   },
   "1989": {
-    "「<%sL_ITEM>ですね。こちらは　使うと３０分間|　超元気タイムになり　同マップにいる仲間も|　獲得経験値やゴールドが　２倍になります！|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "<%sL_ITEM>... If you use this, you'll have 30|minutes of Super Vitality Time, and your|friends on the same map will gain double the|<br>|experience and gold! You currently have|<%nL_CTIME> hours of Vitality Charge... If|you're looking for <%sL_ITEM> you can get up|<br>|to <%nL_MAXNUM> of them, but how many do you|want?<break>"
+    "「<%sL_ITEM>ですね。こちらは　使うと３０分間|　超元気タイムになり　同マップにいる仲間も|　獲得経験値やゴールドが　２倍になります！|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "You want the <%sL_ITEM>? By using this,|your party gets 30 minutes of Bonus Time,|which doubles experience and Gold earned!|<br>|With your current Energy Charge of <%dL_CTIME> hours,|I can give you up to <%dL_MAXNUM> of them.|How many would you like?|<break>"
   },
   "1990": {
     "「<%sL_ITEM>か。これは　使うと３０分間|　超元気タイムになり　同マップにいる仲間も|　獲得経験値やゴールドが　２倍になるものだ。|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しい？|<break>": "<%sL_ITE... When you use this, you'll have 30|minutes of Super Vitality Time, and your|friends on the same map will get double the|<br>|experience and gold... If you have|<%nL_CTIME> time... I can give you <%sL_ITEM>|up to <%nL_MAXNUM>. How many do you want?<break>"
   },
   "1991": {
-    "「<%sL_ITEM>ですね。こちらは　使うと３０分間|　超元気タイムになり　同マップにいる仲間も|　獲得経験値やゴールドが　２倍になります！|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "<%sL_ITEM>... If you use this, you'll have 30|minutes of Super Vitality Time, and your|friends on the same map will gain double the|<br>|experience and gold! You currently have|<%nL_CTIME> hours of Vitality Charge... If|you're looking for <%sL_ITEM> you can get up|<br>|to <%nL_MAXNUM> of them, but how many do you|want?<break>"
+    "「<%sL_ITEM>ですね。こちらは　使うと３０分間|　超元気タイムになり　同マップにいる仲間も|　獲得経験値やゴールドが　２倍になります！|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "You want the <%sL_ITEM>? By using this,|your party gets 30 minutes of Bonus Time,|which doubles experience and Gold earned!|<br>|With your current Energy Charge of <%dL_CTIME> hours,|I can give you up to <%dL_MAXNUM> of them.|How many would you like?|<break>"
   },
   "1992": {
     "「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM><%sM_TANI>まで|　渡せるが　いくつ　欲しいんだ？|<break>": "I've got <%nL_CTIME> hours of energy left...|I can give you <%sL_ITEM> up to|<%nL_MAXNUM><%sM_TANI>, but how many do you|<br>|want?<break>"
@@ -6048,13 +6048,13 @@
     "「おっ。ふくびき補助券を持っているんだな。|　ふくびき券の代わりに　<%nM_Hukubiki_H_Num>枚いだくぜ。|　見事に福が引けるといいな！|<end>": "Whoa. I have a coupon... Instead of a coupon,|I have a <%nM_Hukubiki_H_Num>... I hope I can|pull off a good luck!<end>"
   },
   "2017": {
-    "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_H_Num>枚いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, since you have a lucky draw ticket,|instead of a lucky draw ticket, we'd like to|ask you for one... I'm praying for good|<br>|luck...<end>"
+    "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_H_Num>枚いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Since you have Lottery Coupons, I will take|<%dM_Hukubiki_H_Num> of them instead of your Lottery Tickets.|I pray that you'll have good luck.|<end>"
   },
   "2018": {
     "「……ふくびき補助券を　持っているな。|　ふくびき券の代わりに　<%nM_Hukubiki_H_Num>枚　使え。|　見事に　福を引き当ててみせろ。|<end>": "... I have a coupon... Instead of a coupon, I|have a <%nM_Hukubiki_H_Num>... I've just won|a lucky draw...<end>"
   },
   "2019": {
-    "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_H_Num>枚いただきます。|　見事に福が引けるよう　お祈りしてますねっ。|<end>": "So, since you have a lucky draw ticket,|instead of a lucky draw ticket, we'll just|give you one... I'm praying for good luck...<end>"
+    "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_H_Num>枚いただきます。|　見事に福が引けるよう　お祈りしてますねっ。|<end>": "Since you have Lottery Coupons, I will take|<%dM_Hukubiki_H_Num> of them instead of your Lottery Tickets.|I pray that you'll have good luck.|<end>"
   },
   "2020": {
     "「ただ今　期間限定の賞品を|　ご用意しております。くわしくは|　『賞品をくわしく見る』から　ご覧ください！|<bw_break>": "We're currently giving away a limited time|prize. Check \"View Prizes\" for more details!|<bw_break>"
@@ -6345,16 +6345,16 @@
     "「現在　スペシャルふくびき券が　<%dL_ITEMNUM>枚あります。|<br>|「お預かりしている　スペシャルふくびき券を|　引き取って頂かないと　スペシャルふくびきも|　通常のふくびきも　できません。|<br>|「スペシャルふくびき券を　受けとっていただき|　どうぐかばんと　そうびぶくろに　空きを作って|　また　おこしください。|<bw_break>": "We currently have <%dL_ITEMNUM> special|coupons... If you don't take back your|special coupons, we won't be able to do any|<br>|more special or regular coupons... We'll need|you to pick up your special coupon tickets,|make room in your bag and bag, and return...<bw_break>"
   },
   "2116": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "2117": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "2118": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "2119": {
-    "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
+    "スペシャルふくびき券を郵送できたフレンド": "Friends who were mailed SP Lottery Tickets."
   },
   "2120": {
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
