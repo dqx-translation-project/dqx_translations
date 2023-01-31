@@ -180,13 +180,13 @@
     "「おや　そうびぶくろには|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
   },
   "61": {
-    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Huh? There's nothing in that bag.|<bw_break>"
   },
   "62": {
     "「あれっ？　売れる物を　なんにも|　持ってないみたいだね。|<bw_break>": "Huh? It looks like you don't have anything to|sell...<bw_break>"
   },
   "63": {
-    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Huh? There's nothing in that bag.|<bw_break>"
   },
   "64": {
     "「その数を　選ぶことはできないよっ！|<bw_break>": "You can't choose that many!|<bw_break>"
@@ -2976,7 +2976,7 @@
     "「<%sL_KAITAI_ITEM>か。|　コイツは　<%sL_SYOKUNIN>以外じゃ|　扱えないレシピだが　いいんだな？|<yesno 2><break>": ""
   },
   "993": {
-    "「……<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けねえが　いいのか？|<yesno 2><break>": ""
+    "「……<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けねえが　いいのか？|<yesno 2><break>": "...<%sL_KAITAI_ITEM>? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "994": {
     "「……<%sL_KAITAI_ITEM>か。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　庭に置けねえが　いいのか？|<yesno 2><break>": ""
@@ -3180,7 +3180,7 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているようだが|　本当に　売ってしまっても　いいのか？|<yesno 2><break>": ""
   },
   "1061": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "1062": {
     "「他にも　売りたいものは　あるか？|<break>": "Is there anything else you want to sell?|<break>"
@@ -3348,7 +3348,7 @@
     "「他にも　結晶を取りだしたい装備品は|　ございますか？|<break>": "Is there any other equipment you'd like to|extract from?|<break>"
   },
   "1117": {
-    "「ケケケッ　おいおい|　それは　手に入りづらい　貴重な物だが|　本当に売ってしまって　いいのか？|<yesno 2><break>": ""
+    "「ケケケッ　おいおい|　それは　手に入りづらい　貴重な物だが|　本当に売ってしまって　いいのか？|<yesno 2><break>": "Keh, heh, heh! That's pretty valuable. Are you|sure you want to sell it to me?|<yesno 2><break>"
   },
   "1118": {
     "「結晶の取りだしですね。|　どの装備品から　結晶を取りだしますか？|<break>": ""
@@ -3438,7 +3438,7 @@
     "「他に何か　ご用はありマスカ？|<break>": ""
   },
   "1147": {
-    "「他にも　何か　見ていかれマスカ？|<break>": ""
+    "「他にも　何か　見ていかれマスカ？|<break>": "Is there anything else you're looking for?|<break>"
   },
   "1148": {
     "「まだ何か　見ていかれマスカ？|<break>": ""
@@ -3492,7 +3492,7 @@
     "「……ギギッ　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているものデスガ|　本当に　それを売っちゃいマスカ？|<yesno 2><break>": ""
   },
   "1165": {
-    "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを売っちゃいますか？|<yesno 2><break>": ""
+    "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを売っちゃいますか？|<yesno 2><break>": "Hm? Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "1166": {
     "「他にも　売っていただけるものは|　ありマスカ？|<break>": ""
@@ -3804,7 +3804,7 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているようだが|　本当に　売ってしまっても　いいのか？|<yesno 2><break>": ""
   },
   "1269": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "1270": {
     "「他にも　売りたいものは　あるか？|<break>": "Is there anything else you want to sell?|<break>"
@@ -3813,7 +3813,7 @@
     "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るが　それで　いいか？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>?|I can buy that for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "1272": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいか？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>? I can buy that|for <%dL_SELL_PRICE> Gold. How does that sound?|<yesno><break>"
   },
   "1273": {
     "「キキッ！|　そいつは　手に入りづらい　貴重な物だが|　本当に　売ってしまって　いいのか？|<yesno 2><break>": ""
@@ -4116,7 +4116,7 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているみたいだけど|　本当に　売ってしまっても　いいのかな？|<yesno 2><break>": ""
   },
   "1373": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "1374": {
     "「他にも　売りたいものは　あるかな？|<break>": ""
@@ -5490,13 +5490,13 @@
     "「あら　そうびぶくろには|　なんにも　入ってないようですわよ。|<bw_break>": ""
   },
   "1831": {
-    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Huh? There's nothing in that bag.|<bw_break>"
   },
   "1832": {
     "「あら？　売れる物を　なんにも|　持ってないみたいようですわね。|<bw_break>": ""
   },
   "1833": {
-    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Huh? There's nothing in that bag.|<bw_break>"
   },
   "1834": {
     "「その数を　選ぶことはできないよっ！|<bw_break>": "You can't choose that many!|<bw_break>"
@@ -5766,13 +5766,13 @@
     "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせる　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Hmm, <%sL_URITAI_ITEM><%sL_PLUSNUM> looks|like it can have gems extracted from it.|Are you sure you still want to sell it?|<yesno 2><break>"
   },
   "1923": {
-    "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるみたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
+    "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるみたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Hmm, <%sL_URITAI_ITEM><%sL_PLUSNUM> looks like|it can have gems extracted at a Material Shop.|Are you sure you want to sell it?|<yesno 2><break>"
   },
   "1924": {
     "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "You have that <%sL_URITAI_ITEM><%sL_PLUSNUM>|currently equipped. Are you sure you want to|sell it?|<yesno 2><break>"
   },
   "1925": {
-    "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
+    "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "1926": {
     "「他にも売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
@@ -5844,7 +5844,7 @@
     "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": "TEMPORARY TEXT"
   },
   "1949": {
-    "「おっと。|　ロックされてる装備品は　買い取れないぜっ。|<bw_break>": ""
+    "「おっと。|　ロックされてる装備品は　買い取れないぜっ。|<bw_break>": "Oops. That equipment is locked, so I can't|buy it.|<bw_break>"
   },
   "1950": {
     "「おっと。|　売れる物を　持ってないようだな。|<bw_break>": "Oops. You don't have anything to sell to me.|<bw_break>"
@@ -5871,7 +5871,7 @@
     "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えてるようだが　いいのかね？|<yesno 2><break>": "You already know that emote. Are you sure?|<yesno 2><break>"
   },
   "1958": {
-    "「<%sL_KAITAI_ITEM>の　立ちかたは|　もう　覚えてるようだが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>の　立ちかたは|　もう　覚えてるようだが　いいのかね？|<yesno 2><break>": "You already know that pose. You still want it?|<yesno 2><break>"
   },
   "1959": {
     "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
@@ -5886,10 +5886,10 @@
     "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　扱えないレシピだが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can't learn|that recipe unless you're a <%sL_SYOKUNIN>.|Do you still want it?|<yesno 2><break>"
   },
   "1963": {
-    "「<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "1964": {
-    "「<%sL_KAITAI_ITEM>か。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "1965": {
     "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Sure, I'll just put it in your equipment bag.|<bw_break>"
@@ -6108,7 +6108,7 @@
     "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだけど|　本当に　それを売っても　いいのかい？|<yesno 2><break>": "Hm? It looks like you have the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped.|Are you sure it's okay to sell it?|<yesno 2><break>"
   },
   "2037": {
-    "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているみたいだけど|　本当に　それを売っても　いいのかい？|<yesno 2><break>": ""
+    "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているみたいだけど|　本当に　それを売っても　いいのかい？|<yesno 2><break>": "Hm? Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "2038": {
     "「他にも　なにか売ってくれるかい？|<break>": "Anything else you'd like to sell?|<break>"
@@ -6162,13 +6162,13 @@
     "「おや　そうびぶくろには|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
   },
   "2055": {
-    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Huh? There's nothing in that bag.|<bw_break>"
   },
   "2056": {
     "「あれっ？　売れる物を　なんにも|　持ってないみたいだね。|<bw_break>": "Huh? It looks like you don't have anything to|sell...<bw_break>"
   },
   "2057": {
-    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Huh? There's nothing in that bag.|<bw_break>"
   },
   "2058": {
     "「その数を　選ぶことはできないよっ！|<bw_break>": "You can't choose that many!|<bw_break>"
@@ -6180,7 +6180,7 @@
     "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": "TEMPORARY TEXT"
   },
   "2061": {
-    "「おや……。|　ロックされてる装備品は　買い取れないよ。|<bw_break>": ""
+    "「おや……。|　ロックされてる装備品は　買い取れないよ。|<bw_break>": "Hey... that's locked, so I can't buy it!|<bw_break>"
   },
   "2062": {
     "「おや　かばんの中に|　売れる物は　入ってないよ。|<bw_break>": "Oh, I don't have anything to sell in my bag.<bw_break>"
@@ -6207,7 +6207,7 @@
     "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えているようだけど　いいのかい？|<yesno 2><break>": "You already know that emote. Are you sure?|<yesno 2><break>"
   },
   "2070": {
-    "「<%sL_KAITAI_ITEM>の　立ちかたは|　もう　覚えているようだけど　いいのかい？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>の　立ちかたは|　もう　覚えているようだけど　いいのかい？|<yesno 2><break>": "You've already learned that pose. Is that|fine?|<yesno 2><break>"
   },
   "2071": {
     "「<%sL_KAITAI_ITEM>は|　もう読んだことがあるようだけど　いいのかい？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
@@ -6222,10 +6222,10 @@
     "「<%sL_KAITAI_ITEM>だね？|　これは　<%sL_SYOKUNIN>じゃないと|　扱えないレシピだけど　いいかい？|<yesno 2><break>": ""
   },
   "2075": {
-    "「<%sL_KAITAI_ITEM>だね？|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかい？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>だね？|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかい？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "2076": {
-    "「<%sL_KAITAI_ITEM>だね？|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかい？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>だね？|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかい？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, was it? You can|only have a maximum of <%dL_MAX> placed at once.|Is that okay?|<yesno 2><break>"
   },
   "2077": {
     "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "I'll put this into your equipment bag.<bw_break>"
@@ -6279,7 +6279,7 @@
     "「<%sL_ITEM><%sL_PLUSNUM>は|　今　装備しているものですが　本当に|　結晶を取りだして　よろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is currently|equipped. Are you sure you want to extract|gems from it?|<yesno 2><break>"
   },
   "2094": {
-    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to extract gems from it?|<yesno 2><break>"
   },
   "2095": {
     "「他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": "Is there any other equipment you'd like to|extract from?|<break>"
@@ -6444,7 +6444,7 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているものですが|　本当に　それを　お売りになりますか？|<yesno 2><break>": ""
   },
   "2149": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを　お売りになりますか？|<yesno 2><break>": ""
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを　お売りになりますか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "2150": {
     "「他にも　お売りいただけますか？|<break>": "Do you have any other items you'd like to|sell?<break>"
@@ -6516,7 +6516,7 @@
     "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": "TEMPORARY TEXT"
   },
   "2173": {
-    "「その装備品は　ロックされているようですね。|　残念ですが　こちらでは買い取れません。|<bw_break>": ""
+    "「その装備品は　ロックされているようですね。|　残念ですが　こちらでは買い取れません。|<bw_break>": "That equipment seems to be locked. Sorry, but|I can't buy it.|<bw_break>"
   },
   "2174": {
     "「おや　かばんの中に|　売れる物は　ありませんね。|<bw_break>": "Oh, I don't have anything in my bag that I|can sell...<bw_break>"
@@ -6543,7 +6543,7 @@
     "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えているようですが|　よろしいですか？|<yesno 2><break>": ""
   },
   "2182": {
-    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えているようですが|　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えているようですが|　よろしいですか？|<yesno 2><break>": "You've already learned that pose. Is that|okay?|<yesno 2><break>"
   },
   "2183": {
     "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
@@ -6558,10 +6558,10 @@
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　扱えないレシピですが　よろしいですか？|<yesno 2><break>": ""
   },
   "2187": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "2188": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "2189": {
     "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
@@ -6615,7 +6615,7 @@
     "「<%sL_ITEM><%sL_PLUSNUM>は|　今　装備しているものですが　本当に|　結晶を取りだして　よろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is currently|equipped. Are you sure you want to extract|gems from it?|<yesno 2><break>"
   },
   "2206": {
-    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to extract gems from it?|<yesno 2><break>"
   },
   "2207": {
     "「あと　<%nL_NUM2>回　装備品から　取りだせますが|　他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
@@ -6780,7 +6780,7 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": ""
   },
   "2261": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "2262": {
     "「他にも　お売りいただけますか？|<break>": "Do you have any other items you'd like to|sell?<break>"
@@ -6852,7 +6852,7 @@
     "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": "TEMPORARY TEXT"
   },
   "2285": {
-    "「申し訳ありませんが　ロックされている装備品を|　買い取ることは　できません。|<bw_break>": ""
+    "「申し訳ありませんが　ロックされている装備品を|　買い取ることは　できません。|<bw_break>": "My apologies, but that equipment is locked.|I cannot buy it.|<bw_break>"
   },
   "2286": {
     "「あら　お客さま|　お売りいただけそうな物を|　お持ちでないようですね。|<bw_break>": "Oh, <if_woman>ma'am<else>sir<endif>, I'm afraid you don't have anything|to sell.<bw_break>"
@@ -6879,7 +6879,7 @@
     "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno 2><break>": ""
   },
   "2294": {
-    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno 2><break>": "You've already learned that pose. Is that|all right?|<yesno 2><break>"
   },
   "2295": {
     "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
@@ -6894,10 +6894,10 @@
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　扱えないレシピですが　よろしいですか？|<yesno 2><break>": ""
   },
   "2299": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "2300": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "2301": {
     "「では　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "I'll put you in the sobekuro...<bw_break>"
@@ -7056,7 +7056,7 @@
     "「こちらは　装備されれば|　戦いのときに　どうぐとして|　お使いいただいても　効果が　ございます。|<bw_break>": "Even if it's equipped, this can be used as an|item in battle to use its special effect.|<bw_break>"
   },
   "2353": {
-    "「<%sL_KAITAI_ITEM>ですねっ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　いいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですねっ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　いいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can only|put one photo in each type of photo frame.|Is that all right?|<yesno 2><break>"
   },
   "2354": {
     "「<%sL_KAITAI_ITEM>だね？|　写真立ての種類ごとに　写真は　１種類しか|　かざれないけど　いいのかね？|<yesno 2><break>": ""
@@ -8001,13 +8001,13 @@
     "「あれ～？　そうびぶくろの中に|　売れる物は　入ってないみたいだよ？|<bw_break>": ""
   },
   "2668": {
-    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Huh? There's nothing in that bag.|<bw_break>"
   },
   "2669": {
     "「あれ～？　売れるもの　なんにも|　持ってないみたいだよ。|<bw_break>": ""
   },
   "2670": {
-    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おや　ふくろの中には|　なんにも　入ってないよ。|<bw_break>": "Huh? There's nothing in that bag.|<bw_break>"
   },
   "2671": {
     "「その数を　選ぶことはできないよっ！|<bw_break>": "You can't choose that many!|<bw_break>"
@@ -10356,10 +10356,10 @@
     "「その装備品は　ロックされているので|　結晶の取りだしは　できません。|<bw_break>": "That equipment is locked, so no gems can be|extracted from it.|<bw_break>"
   },
   "3453": {
-    "「あっ　ごめんなさい……。|　ロック中の装備品は　買い取れないんですっ。|<bw_break>": ""
+    "「あっ　ごめんなさい……。|　ロック中の装備品は　買い取れないんですっ。|<bw_break>": "Oh, sorry... I can't buy equipment that's|locked.|<bw_break>"
   },
   "3454": {
-    "「あっ　<%sL_KAITAI_ITEM>は　もう|　読んだことあるみたいですけど　いいんですか？|<yesno 2><break>": ""
+    "「あっ　<%sL_KAITAI_ITEM>は　もう|　読んだことあるみたいですけど　いいんですか？|<yesno 2><break>": "Oh, you've already read that before. Do you|still want it?|<yesno 2><break>"
   },
   "3455": {
     "「あっ　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですけど|　本当に　売っても　いいんですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
@@ -10785,7 +10785,7 @@
     "「みゃっ？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているみたいだがね。|　本当に　売っても　いいんだみゃ？|<yesno 2><break>": ""
   },
   "3596": {
-    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to extract gems from it?|<yesno 2><break>"
   },
   "3597": {
     "「<%sL_KAITAI_ITEM>かみゃ。|　畑の庭具は　同時に１つしか|　庭に置けないけど　いいんだみゃ？|<yesno 2><break>": ""
@@ -11193,7 +11193,7 @@
     "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えているみたいだけど　いいのかモ？|<yesno 2><break>": "You already know that emote. Are you sure?|<yesno 2><break>"
   },
   "3732": {
-    "「その装備品は　ロックされているので|　結晶の取りだしは　できないよ。|<bw_break>": ""
+    "「その装備品は　ロックされているので|　結晶の取りだしは　できないよ。|<bw_break>": "That equipment's locked, so I can't extract|any gems from it.|<bw_break>"
   },
   "3733": {
     "「ごめんだモ。|　ロックされてる装備品は　買い取れないモ……。|<bw_break>": ""
@@ -11205,7 +11205,7 @@
     "「あ　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているみたいだけど|　本当に　それを売っても　いいのかモ？|<yesno 2><break>": ""
   },
   "3736": {
-    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものだけど|　本当に　結晶を取りだして　いいのかい？|<yesno 2><break>": ""
+    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものだけど|　本当に　結晶を取りだして　いいのかい？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to extract gems from it?|<yesno 2><break>"
   },
   "3737": {
     "「<%sL_KAITAI_ITEM>だモ？|　畑の庭具は　同時に１つしか|　庭に置けないけど　いいのかモ？|<yesno 2><break>": ""
@@ -12396,34 +12396,34 @@
     "「<%sL_KAITAI_ITEM>だね？|　すでに　レプリカになっているよ。|<br>|「畑の庭具は　同時に１つしか|　庭に置けないが　いいのかい？|<yesno 2><break>": ""
   },
   "4133": {
-    "「<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4134": {
-    "「<%sL_KAITAI_ITEM>ですねっ。|　畑の庭具は　同時に１つしか|　庭に置けませんけど　いいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですねっ。|　畑の庭具は　同時に１つしか|　庭に置けませんけど　いいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4135": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4136": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4137": {
-    "「<%sL_KAITAI_ITEM>ですねっ。|　畑の庭具は　同時に１つしか|　庭に置けませんけど　いいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですねっ。|　畑の庭具は　同時に１つしか|　庭に置けませんけど　いいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4138": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Do you still want to buy it?|<yesno 2><break>"
   },
   "4139": {
-    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。|　畑の庭具は　同時に１つしか|　庭に置けないっぽいですけど　オッケーっすか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。|　畑の庭具は　同時に１つしか|　庭に置けないっぽいですけど　オッケーっすか？|<yesno 2><break>": "That's one <%sL_KAITAI_ITEM>. You|can only have one field on your plot at a|time. That's okay with you?|<yesno 2><break>"
   },
   "4140": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4141": {
-    "「<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4142": {
-    "「……<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けねえが　いいのか？|<yesno 2><break>": ""
+    "「……<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けねえが　いいのか？|<yesno 2><break>": "...<%sL_KAITAI_ITEM>? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4143": {
     "clarity_nt_char_4143": "clarity_nt_char_4143"
@@ -12450,16 +12450,16 @@
     "「<%sL_KAITAI_ITEM>ですわね？|　畑の庭具は　同時に　ひとつしか|　庭に置けませんけれど　よろしくて？|<yesno 2><break>": ""
   },
   "4151": {
-    "「<%sL_KAITAI_ITEM>だね？|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかい？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>だね？|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかい？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4152": {
-    "「<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　畑の庭具は　同時に１つしか|　庭に置けないが　いいのかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4153": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4154": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4155": {
     "「<%sL_KAITAI_ITEM>だね！|　畑の庭具は　同時に１つしか|　庭に置けないけど　よいかな？|<yesno 2><break>": ""
@@ -12477,31 +12477,31 @@
     "「<%sL_KAITAI_ITEM>だね？|　すでに　レプリカになっているよ。|<br>|「<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかい？|<yesno 2><break>": ""
   },
   "4160": {
-    "「<%sL_KAITAI_ITEM>だね？|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>だね？|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, was it? You can|only have a maximum of <%dL_MAX> placed at once.|Do you still want it?|<yesno 2><break>"
   },
   "4161": {
-    "「<%sL_KAITAI_ITEM>ですねっ。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんけど　いいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですねっ。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんけど　いいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You can|only have a maximum of <%dL_MAX> placed at once.|Do you still want it?|<yesno 2><break>"
   },
   "4162": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "4163": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "4164": {
-    "「<%sL_KAITAI_ITEM>ですねっ。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんけど　いいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですねっ。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんけど　いいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You can|only have a maximum of <%dL_MAX> placed at once.|Do you still want it?|<yesno 2><break>"
   },
   "4165": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You can|only have a maximum of <%dL_MAX> placed at once.|Do you still want to buy it?|<yesno 2><break>"
   },
   "4166": {
-    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないっぽいですけど　オッケーっすか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないっぽいですけど　オッケーっすか？|<yesno 2><break>": "That's one <%sL_KAITAI_ITEM>. You can|only have a maximum of <%dL_MAX> placed at once.|Is that okay with you?|<yesno 2><break>"
   },
   "4167": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "4168": {
-    "「<%sL_KAITAI_ITEM>か。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "4169": {
     "「……<%sL_KAITAI_ITEM>か。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　庭に置けねえが　いいのか？|<yesno 2><break>": ""
@@ -12531,16 +12531,16 @@
     "「<%sL_KAITAI_ITEM>ね？|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんけれど　よろしくて？|<yesno 2><break>": ""
   },
   "4178": {
-    "「<%sL_KAITAI_ITEM>だね？|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかい？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>だね？|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかい？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, was it? You can|only have a maximum of <%dL_MAX> placed at once.|Is that okay?|<yesno 2><break>"
   },
   "4179": {
-    "「<%sL_KAITAI_ITEM>か。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないが　いいのかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "4180": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "4181": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "4182": {
     "「<%sL_KAITAI_ITEM>だね！|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないけど　大丈夫かな？|<yesno 2><break>": ""
@@ -12561,7 +12561,7 @@
     "「<%sL_KAITAI_ITEM>だね？|　写真立ての種類ごとに　写真は　１種類しか|　かざれないけど　いいのかね？|<yesno 2><break>": ""
   },
   "4188": {
-    "「<%sL_KAITAI_ITEM>ですねっ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　いいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですねっ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　いいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can only|put one photo in each type of photo frame.|Is that all right?|<yesno 2><break>"
   },
   "4189": {
     "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　よろしいですか？|<yesno 2><break>": ""
@@ -12570,7 +12570,7 @@
     "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　よろしいですか？|<yesno 2><break>": ""
   },
   "4191": {
-    "「<%sL_KAITAI_ITEM>ですねっ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　いいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですねっ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　いいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can only|put one photo in each type of photo frame.|Is that all right?|<yesno 2><break>"
   },
   "4192": {
     "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでも買われますか？|<yesno 2><break>": ""
@@ -13065,7 +13065,7 @@
     "「あら？　すいませんが　その装備品は|　結晶を取りだすことが|　できない　装備品のようです。|<bw_break>": ""
   },
   "4356": {
-    "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> can have <%dL_NUM> gems|extracted from it. The equipment will be lost|in the process. Are you sure?|<yesno 2><break>"
   },
   "4357": {
     "「あら？　つかうものが　いっぱいで|　持ちきれないようですね。|<bw_break>": "Huh? You've already got too many items, so|I can't give you this.|<bw_break>"
@@ -13113,7 +13113,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "4372": {
-    "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": ""
+    "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Pyroclasts!|<se_nots System 7>|<end>"
   },
   "4373": {
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせるようですが|　本当に　売っても　よろしいのでしょうか？|<yesno 2><break>": ""
@@ -13167,19 +13167,19 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものだけど|　本当に　売ってもいいのかしら？|<yesno 2><break>": ""
   },
   "4390": {
-    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to extract gems from it?|<yesno 2><break>"
   },
   "4391": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4392": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "4393": {
     "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　よろしいですか？|<yesno 2><break>": ""
   },
   "4394": {
-    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno 2><break>": "You've already learned that pose. Is that|all right?|<yesno 2><break>"
   },
   "4395": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "TEMPORARY TEXT"
@@ -13341,10 +13341,10 @@
     "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。|　合わせて　<%nL_BUY_PRICE>ゴールドですが|　よろしいですか？|<yesno 2><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That will be a total of <%dL_BUY_PRICE> gold,|is that okay?|<yesno 2><break>"
   },
   "4448": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Is that all right?|<yesno 2><break>"
   },
   "4449": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>? You can|only have a maximum of <%dL_MAX> placed at once.|Is that fine?|<yesno 2><break>"
   },
   "4450": {
     "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　よろしいですか？|<yesno 2><break>": ""
@@ -13482,7 +13482,7 @@
     "「<%sL_KAITAI_ITEM>ですね。|　おやっ　これは　<%sL_SYOKUNIN>さんしか|　装備できませんが　それでも買われますか？|<yesno 2><break>": ""
   },
   "4495": {
-    "「……ありゃっ　<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えているみたいですね。|　それでも買われますか？|<yesno 2><break>": ""
+    "「……ありゃっ　<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えているみたいですね。|　それでも買われますか？|<yesno 2><break>": "Hey, you already know that recipe. Do you|still want to buy it?|<yesno 2><break>"
   },
   "4496": {
     "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>さんでなければ|　作れないレシピですが　それでも買われますか？|<yesno 2><break>": ""
@@ -13503,10 +13503,10 @@
     "「ありゃりゃ。<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいですよ。|<bw_break>": ""
   },
   "4502": {
-    "「他にも　何か　見ていかれますか？|<break>": ""
+    "「他にも　何か　見ていかれますか？|<break>": "Is there anything else you're looking for?|<break>"
   },
   "4503": {
-    "「まだ何か　見ていかれますか？|<break>": ""
+    "「まだ何か　見ていかれますか？|<break>": "Anything else you're looking for?|<break>"
   },
   "4504": {
     "「ありゃりゃ。それは残念です。|　それでは　他に何か|　お買い上げいただけるものはありますか？|<break>": ""
@@ -13626,7 +13626,7 @@
     "「おや　その装備品は|　使い込み度が　上がらないので|　結晶を取りだせないようです。|<break>": "You haven't used that equipment enough, so it|can't have any gems extracted from it just|yet.|<break>"
   },
   "4543": {
-    "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> can have <%dL_NUM> gems|extracted from it. The equipment will be lost|in the process. Are you sure?|<yesno 2><break>"
   },
   "4544": {
     "「おやっ　つかうものが　いっぱいで|　持ちきれないようですね。|<break>": "Oh, it seems that you're already carrying|too many things.|<break>"
@@ -13674,7 +13674,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "4559": {
-    "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": ""
+    "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Pyroclasts!|<se_nots System 7>|<end>"
   },
   "4560": {
     "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせる　みたいだけど|　本当に　それを売っても　いいのかい？|<yesno 2><break>": ""
@@ -13719,28 +13719,28 @@
     "「その装備品は　ロックされているので|　結晶の取りだしは　できません。|<bw_break>": "That equipment is locked, so no gems can be|extracted from it.|<bw_break>"
   },
   "4574": {
-    "「ありゃりゃ。ロックされている装備品は|　こちらでは　買い取れませんよ。|<bw_break>": ""
+    "「ありゃりゃ。ロックされている装備品は|　こちらでは　買い取れませんよ。|<bw_break>": "Hey, wait a second... that's locked. I can't|buy that!|<bw_break>"
   },
   "4575": {
     "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　それでも買われますか？|<yesno 2><break>": "Looks like you've already read that. Do you|still want to buy it?|<yesno 2><break>"
   },
   "4576": {
-    "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを売っちゃいますか？|<yesno 2><break>": ""
+    "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを売っちゃいますか？|<yesno 2><break>": "Hm? Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "4577": {
-    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to extract gems from it?|<yesno 2><break>"
   },
   "4578": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Do you still want to buy it?|<yesno 2><break>"
   },
   "4579": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You can|only have a maximum of <%dL_MAX> placed at once.|Do you still want to buy it?|<yesno 2><break>"
   },
   "4580": {
     "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでも買われますか？|<yesno 2><break>": ""
   },
   "4581": {
-    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えているようですが|　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えているようですが|　それでも買われますか？|<yesno 2><break>": "You've already learned that pose. Do you still|want to buy it?|<yesno 2><break>"
   },
   "4582": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "TEMPORARY TEXT"
@@ -13905,10 +13905,10 @@
     "「ほほう|　<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno 2><break>": ""
   },
   "4636": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Do you still want to buy it?|<yesno 2><break>"
   },
   "4637": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You can|only have a maximum of <%dL_MAX> placed at once.|Do you still want to buy it?|<yesno 2><break>"
   },
   "4638": {
     "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでも買われますか？|<yesno 2><break>": ""
@@ -14328,7 +14328,7 @@
     "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received|<%dL_NUM> Sweat & Tears Gems!|<se_nots System 7>|<end>"
   },
   "4777": {
-    "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": ""
+    "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Pyroclasts!|<se_nots System 7>|<end>"
   },
   "4778": {
     "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせる　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Hmm, <%sL_URITAI_ITEM><%sL_PLUSNUM> looks|like it can have gems extracted from it.|Are you sure you still want to sell it?|<yesno 2><break>"
@@ -14382,22 +14382,22 @@
     "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　それでも買われますか？|<yesno 2><break>": "Looks like you've already read that. Do you|still want to buy it?|<yesno 2><break>"
   },
   "4795": {
-    "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを売っちゃいますか？|<yesno 2><break>": ""
+    "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを売っちゃいますか？|<yesno 2><break>": "Hm? Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to sell it?|<yesno 2><break>"
   },
   "4796": {
-    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　結晶を取りだして　よろしいですか？|<yesno 2><break>": "Your fellow monster currently has the|<%sL_URITAI_ITEM><%sL_PLUSNUM> equipped. Are|you sure you want to extract gems from it?|<yesno 2><break>"
   },
   "4797": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Do you still want to buy it?|<yesno 2><break>"
   },
   "4798": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You can|only have a maximum of <%dL_MAX> placed at once.|Do you still want to buy it?|<yesno 2><break>"
   },
   "4799": {
     "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでも買われますか？|<yesno 2><break>": ""
   },
   "4800": {
-    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えているようですが|　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えているようですが|　それでも買われますか？|<yesno 2><break>": "You've already learned that pose. Do you still|want to buy it?|<yesno 2><break>"
   },
   "4801": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "TEMPORARY TEXT"
@@ -14562,10 +14562,10 @@
     "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですか。|　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？|<yesno 2><break>": ""
   },
   "4855": {
-    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　畑の庭具は　同時に１つしか|　庭に置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You|can only have one field on your plot at a|time. Do you still want to buy it?|<yesno 2><break>"
   },
   "4856": {
-    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>ですね。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けませんが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? You can|only have a maximum of <%dL_MAX> placed at once.|Do you still want to buy it?|<yesno 2><break>"
   },
   "4857": {
     "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでも買われますか？|<yesno 2><break>": ""
