@@ -3,13 +3,13 @@
     "「他に　用はあるかね？|<break>": "Anything else I can do?|<break>"
   },
   "2": {
-    "「他にも　何か買っていくかね？|<break>": "Do you want me to get you anything else?|<break>"
+    "「他にも　何か買っていくかね？|<break>": "Is there anything else you'd like?|<break>"
   },
   "3": {
     "「まだ何か　買ってくかね？|<break>": "You still want to buy something?|<break>"
   },
   "4": {
-    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|Will you buy this?|<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> Gold.|Will you buy it?|<yesno><break>"
   },
   "5": {
     "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "The <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold.|You want to buy it?|<yesno><break>"
@@ -18,28 +18,28 @@
     "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold in total.|You want to buy them?|<yesno><break>"
   },
   "7": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current|vocation can't equip it. Do you still want it?|<yesno 2><break>"
   },
   "8": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんのレベルじゃ|　まだ装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんのレベルじゃ|　まだ装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your level isn't high|enough to equip it. Do you still want it?|<yesno 2><break>"
   },
   "9": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current crafting|vocation can't equip it. Do you still want it?|<yesno 2><break>"
   },
   "10": {
     "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": "Many thanks!|Want to equip it here?|<yesno 2><break>"
   },
   "11": {
-    "「他に　売りたい物は　あるか？|<break>": ""
+    "「他に　売りたい物は　あるか？|<break>": "Anything else you want to sell?|<break>"
   },
   "12": {
-    "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
+    "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "You have that <%sL_URITAI_ITEM><%sL_PLUSNUM>|currently equipped. Are you sure you want to|sell it?|<yesno 2><break>"
   },
   "13": {
     "「他にも売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
   },
   "14": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": "I can buy that <%sL_URITAI_ITEM><%sL_PLUSNUM>|for <%dL_SELL_PRICE> Gold. How about it?|<yesno><break>"
   },
   "15": {
     "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": "One <%sL_URITAI_ITEM>.|I'll buy it for <%dL_SELL_PRICE> Gold.|Is that all right?|<yesno><break>"
@@ -57,19 +57,19 @@
     "「おっと。<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいだな。|<bw_break>": "Hm. <%sL_BAG_TYPE> is too full to hold|the <%sL_KAITAI_ITEM>.<bw_break>"
   },
   "20": {
-    "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed|and it can't be taken off?!|<bw_break>"
   },
   "21": {
-    "「おっと　そうびぶくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　そうびぶくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your equipment bag is|empty.|<bw_break>"
   },
   "22": {
-    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
   },
   "23": {
-    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? I don't have anything to sell...<bw_break>"
+    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? It looks like you don't have anything|to sell to me.|<bw_break>"
   },
   "24": {
-    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
   },
   "25": {
     "「その数は　選べないぜっ！|<bw_break>": "You can't pick that many!<bw_break>"
@@ -174,7 +174,7 @@
     "「おっと。<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいだね。|<bw_break>": "Hm. <%sL_BAG_TYPE> is too full to hold|the <%sL_KAITAI_ITEM>.<bw_break>"
   },
   "59": {
-    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and|won't come off!|<bw_break>"
   },
   "60": {
     "「おや　そうびぶくろには|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
@@ -465,13 +465,13 @@
     "「どちらを　お売りいただけますか？|<break>": "What are you selling?<break>"
   },
   "156": {
-    "「こちらは　装備されれば|　戦いのときに　どうぐとして|　お使いいただいても　効果が　ございます。|<bw_break>": "If you equip it, you can use it as a weapon|in battle...<bw_break>"
+    "「こちらは　装備されれば|　戦いのときに　どうぐとして|　お使いいただいても　効果が　ございます。|<bw_break>": "Even if it's equipped, this can be used as an|item in battle to use its special effect.|<bw_break>"
   },
   "157": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current gender|can't equip it. Do you still want it?|<yesno 2><break>"
   },
   "158": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_RACE>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_RACE>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current race|can't equip it. Do you still want it?|<yesno 2><break>"
   },
   "159": {
     "「<%sL_KAITAI_ITEM>だね？|　これは　<%sL_GENDER>の人じゃないと|　装備できないけど　いいかい？|<yesno 2><break>": ""
@@ -528,7 +528,7 @@
     "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物ですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two|places, <%sL_EQUIP_POINT1> and|<%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
   },
   "177": {
-    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": ""
+    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": "Wait a second. That item is pretty valuable.|Are you really sure you want to sell it?|<yesno 2><break>"
   },
   "178": {
     "「おや？　それは　手に入りづらい|　貴重な物だけど|　本当に　売っていいのかい？|<yesno 2><break>": ""
@@ -540,7 +540,7 @@
     "「あら　お客さま|　それは　手に入りづらい　貴重な物ですが|　本当に　売ってしまって　よろしいのですか？|<yesno 2><break>": "Ah, my apologies, but it seems that item|is pretty valuable. Are you sure you're okay|with selling it?|<yesno 2><break>"
   },
   "181": {
-    "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno 2><break>": ""
+    "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno 2><break>": "Oh, looks like this is your first time|equipping something. In that case, there's one|important thing you should remember.|<br>|The first person to equip something will be|its exclusive owner. In other words, it can't|be given to or used by anyone else.|<br>|Do you still want to equip it here?|<yesno 2><break>"
   },
   "182": {
     "「おや？　はじめて　装備をするみたいだね。|　だったら　大事な注意があるよ。|<br>|「装備品は　最初に装備した人が|　その使用者に　決められるんだ。|　専用の物と　認められる感じかな。|<br>|「だから　一度　使用者が決まった装備品は|　もう　他の人に　渡せなくなるんだ。|　それでも　ここで装備していいかい？|<yesno 2><break>": ""
@@ -564,7 +564,7 @@
     "「申し訳ありませんが|　それを買い取ることは　できません。|<bw_break>": "I apologize, but I can't buy that.<bw_break>"
   },
   "189": {
-    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るぜ。それで　いいかね？|<yesno><break>": ""
+    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るぜ。それで　いいかね？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>, I see.|I can buy it for <%dL_SELL_PRICE> Gold.|How about it?|<yesno><break>"
   },
   "190": {
     "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だね。|　<%nL_SELL_PRICE>ゴールドで　買い取るけど|　いいかい？|<yesno><break>": ""
@@ -576,7 +576,7 @@
     "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>, is it?|I can buy that for <%dL_SELL_PRICE> Gold.|What do you say?|<yesno><break>"
   },
   "193": {
-    "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno 2><break>": "You've already learned this recipe. Is that|all right?|<yesno 2><break>"
   },
   "194": {
     "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えているようだけど　いいのかい？|<yesno 2><break>": ""
@@ -588,7 +588,7 @@
     "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno 2><break>": ""
   },
   "197": {
-    "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? This recipe requires|you to be <%sL_SYOKUNIN> to learn it.|Is that all right?|<yesno 2><break>"
   },
   "198": {
     "「<%sL_KAITAI_ITEM>だね？|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだけど　いいかい？|<yesno 2><break>": ""
@@ -783,7 +783,7 @@
     "「ありがとーございまーすっ！|　ここで　レシピを覚えていきますか？|<yesno 2><break>": ""
   },
   "262": {
-    "「まいどありぃ！|　ここで　レシピを覚えていくかね？|<yesno 2><break>": ""
+    "「まいどありぃ！|　ここで　レシピを覚えていくかね？|<yesno 2><break>": "Many thanks! Would you like to learn the|recipe right now?|<yesno 2><break>"
   },
   "263": {
     "「どうも　ありがとう！|　すぐに　レシピを覚えていくかい？|<yesno 2><break>": ""
@@ -843,7 +843,7 @@
     "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "282": {
-    "「どの説明を　聞くんだ？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞くんだ？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "283": {
     "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせる。|　５０と１００では　倍近くの差がある。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなるな。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるだろう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わらない。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　得になる。|<br>|「ちなみに　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせてもらう。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されるが|　持ち越しは　最大で　２５０回までだ。|<bw_break>": ""
@@ -873,7 +873,7 @@
     "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "292": {
-    "「どの説明を　聞くんだい？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞くんだい？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "293": {
     "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせるんだ。|　５０と１００では　倍近くの差があるんだよ。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなるね。|<br>|「それに　ついている錬金効果が|　よいものであれば　取りだせる結晶は|　さらに　増えていくんだ。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わらないんだ。|<br>|「だから　結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得だね。|<br>|「ちなみに　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせてもらうんだ。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されるけど|　持ち越しは　最大で　２５０回までになるよ。|<br>|「不便をかけて　申し訳ないけど|　協力してくれると　ありがたいな。|<bw_break>": ""
@@ -903,7 +903,7 @@
     "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "302": {
-    "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "303": {
     "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせます。|　５０と１００では　倍近くの差がありますよ。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<br>|「なお　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせていただきます。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されますが|　持ち越しは　最大で　２５０回までとなります。|<br>|「お客さまには　ご不便をおかけしますが|　ご協力をお願いします。|<bw_break>": ""
@@ -933,7 +933,7 @@
     "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
   },
   "312": {
-    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "313": {
     "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせます。|　５０と１００では　倍近くの差がありますよ。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<br>|「なお　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせていただきます。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されますが|　持ち越しは　最大で　２５０回までとなります。|<br>|「お客さまには　ご不便をおかけしますが|　ご協力をお願いします。|<bw_break>": ""
@@ -1017,7 +1017,7 @@
     "「おや？　かばんの中に|　結晶を取りだせる装備品は　ありませんね。|<bw_break>": ""
   },
   "340": {
-    "「あら？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": ""
+    "「あら？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "Hmm? I'm afraid you don't have any equipment|that can have gems extracted.|<bw_break>"
   },
   "341": {
     "「確かに　結晶を取りださせていただきました。|<bw_break>": ""
@@ -1101,28 +1101,28 @@
     "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|Extracting Gems?|Equipment Usage|Extraction Amount|<select_end><break>"
   },
   "368": {
-    "「どの説明を　聞くんだ？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞くんだ？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "369": {
-    "「どの説明を　聞くんだ？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞くんだ？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "370": {
-    "どの説明を　聞くんだい？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "どの説明を　聞くんだい？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "371": {
-    "どの説明を　聞くんだい？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "どの説明を　聞くんだい？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "372": {
-    "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "373": {
-    "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "374": {
-    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "375": {
-    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "376": {
     "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Gems|Explanation|<select_end><break>"
@@ -1422,13 +1422,13 @@
     "「これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果がある物ですね。|<bw_break>": ""
   },
   "475": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "476": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "477": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "478": {
     "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": ""
@@ -1440,13 +1440,13 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "481": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "482": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "483": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "484": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": ""
@@ -1458,13 +1458,13 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "487": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "488": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "489": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "490": {
     "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": ""
@@ -1476,49 +1476,49 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "493": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "494": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "495": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "496": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": ""
   },
   "497": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|As your Team completes Team Quests and levels|up, more items will become available for|purchase!|<br>|For more information about Team Quests,|please speak with a Team Ambassador.|Now then, how may I help you today?|<break>"
   },
   "498": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|...what's this? It seems that you don't belong|to a Team just yet.|<br>|You can join another person's Team, or even|create your own. If you want to create one,|speak with a Team Ambassador.|<end>"
   },
   "499": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "500": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "501": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "502": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": ""
   },
   "503": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|As your Team completes Team Quests and levels|up, more items will become available for|purchase!|<br>|For more information about Team Quests,|please speak with a Team Ambassador.|Now then, how may I help you today?|<break>"
   },
   "504": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|...what's this? It seems that you don't belong|to a Team just yet.|<br>|You can join another person's Team, or even|create your own. If you want to create one,|speak with a Team Ambassador.|<end>"
   },
   "505": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "506": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "507": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "508": {
     "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": ""
@@ -1530,19 +1530,19 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "511": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "512": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "513": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "514": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "515": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "516": {
     "「一度　商品を選ぶと　今回は|　他の商品を　お売りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
@@ -1557,10 +1557,10 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "520": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|How may I help you today?|<break>"
   },
   "521": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|How may I help you today?|<break>"
   },
   "522": {
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
@@ -1575,10 +1575,10 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "526": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
   },
   "527": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
   },
   "528": {
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
@@ -1680,13 +1680,13 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますけど　オッケーっすか？|<yesno><break>": ""
   },
   "561": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "562": {
     "「お買い上げ　ありがとございまーす！|　すぐに　レシピを覚えてく感じですか？|<yesno 2><break>": ""
   },
   "563": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "564": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -1848,13 +1848,13 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "617": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "618": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "619": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "620": {
     "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": ""
@@ -1947,13 +1947,13 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "I can buy those <%dL_URUKAZU> <%sL_URITAI_ITEM>|for <%dL_SELL_PRICE> Gold.|What do you think?|<yesno><break>"
   },
   "650": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "651": {
     "「ありがとうございます。|　すぐに　レシピを覚えていかれますか？|<yesno 2><break>": ""
   },
   "652": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "653": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -2112,7 +2112,7 @@
     "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|How may I help you today?|<break>"
   },
   "705": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
   },
   "706": {
     "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
@@ -2247,7 +2247,7 @@
     "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
   },
   "750": {
-    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? It looks like you don't have anything|to sell to me.<bw_break>"
+    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? It looks like you don't have anything|to sell to me.|<bw_break>"
   },
   "751": {
     "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
@@ -2460,25 +2460,25 @@
     "「あっ　<%sL_KAITAI_ITEM>は　もう|　読んだことあるみたいですけど　いいんですか？|<yesno 2><break>": "Oh, you've already read that before. Do you|still want it?|<yesno 2><break>"
   },
   "821": {
-    "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno 2><break>": "Looks like you've already read that. Is that|all right?|<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "822": {
-    "「<%sL_KAITAI_ITEM>は|　もう読んだことがあるようだけど　いいのかい？|<yesno 2><break>": "Seems like you've already read that. You still|want it?|<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は|　もう読んだことがあるようだけど　いいのかい？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "823": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read that before. Is that okay?|<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "824": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read that before. Is that okay?|<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "825": {
     "「<%sL_KAITAI_ITEM>は|　すでに　読んだことあるっぽいんですけど|　オッケーっすか？|<yesno 2><break>": "You've already read that. That okay with you?|<yesno 2><break>"
   },
   "826": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "827": {
-    "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno 2><break>": "Looks like you've already read that. Is that|all right?|<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "828": {
     "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　それでも買われますか？|<yesno 2><break>": "Looks like you've already read that. Do you|still want to buy it?|<yesno 2><break>"
@@ -2856,7 +2856,7 @@
     "「<%sL_KAITAI_ITEM>か。|　コイツは　<%sL_SYOKUNIN>以外じゃ|　作れねえレシピだが　いいんだな？|<yesno 2><break>": ""
   },
   "953": {
-    "「他に　売りたい物は　あるか？|<break>": ""
+    "「他に　売りたい物は　あるか？|<break>": "Anything else you want to sell?|<break>"
   },
   "954": {
     "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせる　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
@@ -2874,7 +2874,7 @@
     "「他にも売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
   },
   "959": {
-    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るぜ。それでいいか？|<yesno><break>": ""
+    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るぜ。それでいいか？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>, I see.|I can buy it for <%dL_SELL_PRICE> Gold.|How about it?|<yesno><break>"
   },
   "960": {
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それでいいか？|<yesno><break>": ""
@@ -2889,13 +2889,13 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るが　それでいいか？|<yesno><break>": ""
   },
   "964": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "965": {
     "「へへっ　まいどあり……。|　ここで　レシピを覚えていくか？|<yesno 2><break>": ""
   },
   "966": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "967": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -3006,7 +3006,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<select_end><break>": ""
   },
   "1003": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1004": {
     "「オレの店じゃ　職業専用装備なんかの|　少々変わった物を扱ってるぜ。|<br>|「ただし　その中でも　売ってやれるのは|　今までに　お前さんが|　手に入れたことのある　どうぐや装備だけだ。|<br>|「身に余る装備は　身を滅ぼす……必ずな。|　だから当然　ここで買った装備は|　他人に渡せないように　させてもらう。|<br>|「それでも良ければ　売ってやるよ。|　お代は　安くしとくぜ……へへっ。|<bw_break>": ""
@@ -3099,13 +3099,13 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "1034": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1035": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1036": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1037": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": ""
@@ -3126,7 +3126,7 @@
     "「他にも　用はあるか？|<break>": ""
   },
   "1043": {
-    "「他にも　何か買っていくか？|<break>": ""
+    "「他にも　何か買っていくか？|<break>": "Is there anything else you want to buy?|<break>"
   },
   "1044": {
     "「他にも　ほしい物が　あるのか？|<break>": ""
@@ -3201,7 +3201,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　全部で　<%nL_SELL_PRICE>ゴールドで|　買い取るが　それで　いいか？|<yesno><break>": ""
   },
   "1068": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "1069": {
     "「ケケッ　まいどあり！|　すぐに　レシピを覚えていくか？|<yesno><break>": "Keh, heh, heh! Thanks! Do you want to learn|it right now?|<yesno><break>"
@@ -3318,7 +3318,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": ""
   },
   "1107": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1108": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
@@ -3384,16 +3384,16 @@
     "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
   },
   "1129": {
-    "「おや？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": ""
+    "「おや？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "Hmm? I'm afraid you don't have any equipment|that can have gems extracted.|<bw_break>"
   },
   "1130": {
-    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "1131": {
-    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "1132": {
-    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "1133": {
     "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<bw_break>": ""
@@ -3405,28 +3405,28 @@
     "「使い込み度とは　装備品が　どれくらい|　使い込まれたかを　示す数値です。|<br>|「自分と同格以上の強さの魔物と戦った後|　時々　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「そして　使い込み度が　１００になった|　装備品からは　汗と涙の結晶を|　取りだせるようになるのです。|<br>|「今の使い込み度は　その装備品を|　くわしくみると　確認できます。|<br>|「ただし　職人が作れない装備品の中には|　使い込み度が　上がらないものもあるので|　そこは　ご注意ください。|<bw_break>": ""
   },
   "1136": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|How may I help you today?|<break>"
   },
   "1137": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
   },
   "1138": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1139": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1140": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1141": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": ""
   },
   "1142": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|As your Team completes Team Quests and levels|up, more items will become available for|purchase!|<br>|For more information about Team Quests,|please speak with a Team Ambassador.|Now then, how may I help you today?|<break>"
   },
   "1143": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|...what's this? It seems that you don't belong|to a Team just yet.|<br>|You can join another person's Team, or even|create your own. If you want to create one,|speak with a Team Ambassador.|<end>"
   },
   "1144": {
     "「これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果があるぜ。|<bw_break>": ""
@@ -3630,7 +3630,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": ""
   },
   "1211": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1212": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
@@ -3723,13 +3723,13 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "1242": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1243": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1244": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1245": {
     "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": ""
@@ -3750,7 +3750,7 @@
     "「他にも　用はあるか？|<break>": ""
   },
   "1251": {
-    "「他にも　何か買っていくか？|<break>": ""
+    "「他にも　何か買っていくか？|<break>": "Is there anything else you want to buy?|<break>"
   },
   "1252": {
     "「他にも　ほしい物が　あるのか？|<break>": ""
@@ -3807,10 +3807,10 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　売っても　よろしいですか？|<yesno 2><break>": ""
   },
   "1270": {
-    "「他にも　売りたいものは　あるか？|<break>": ""
+    "「他にも　売りたいものは　あるか？|<break>": "Is there anything else you want to sell?|<break>"
   },
   "1271": {
-    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るが　それで　いいか？|<yesno><break>": ""
+    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るが　それで　いいか？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>?|I can buy that for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
   },
   "1272": {
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいか？|<yesno><break>": ""
@@ -3825,7 +3825,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　全部で　<%nL_SELL_PRICE>ゴールドで|　買い取るが　それで　いいか？|<yesno><break>": ""
   },
   "1276": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "1277": {
     "「ケケッ　まいどあり！|　すぐに　レシピを覚えていくか？|<yesno><break>": "Keh, heh, heh! Thanks! Do you want to learn|it right now?|<yesno><break>"
@@ -3942,7 +3942,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": ""
   },
   "1315": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1316": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
@@ -4008,16 +4008,16 @@
     "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
   },
   "1337": {
-    "「おや？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": ""
+    "「おや？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "Hmm? I'm afraid you don't have any equipment|that can have gems extracted.|<bw_break>"
   },
   "1338": {
-    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "1339": {
-    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "1340": {
-    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "1341": {
     "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<bw_break>": ""
@@ -4029,28 +4029,28 @@
     "「使い込み度とは　装備品が　どれくらい|　使い込まれたかを　示す数値です。|<br>|「自分と同格以上の強さの魔物と戦った後|　時々　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「そして　使い込み度が　１００になった|　装備品からは　汗と涙の結晶を|　取りだせるようになるのです。|<br>|「今の使い込み度は　その装備品を|　くわしくみると　確認できます。|<br>|「ただし　職人が作れない装備品の中には|　使い込み度が　上がらないものもあるので|　そこは　ご注意ください。|<bw_break>": ""
   },
   "1344": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|How may I help you today?|<break>"
   },
   "1345": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
   },
   "1346": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1347": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1348": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1349": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": ""
   },
   "1350": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|As your Team completes Team Quests and levels|up, more items will become available for|purchase!|<br>|For more information about Team Quests,|please speak with a Team Ambassador.|Now then, how may I help you today?|<break>"
   },
   "1351": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|...what's this? It seems that you don't belong|to a Team just yet.|<br>|You can join another person's Team, or even|create your own. If you want to create one,|speak with a Team Ambassador.|<end>"
   },
   "1352": {
     "「これは　装備すれば|　戦いのときに　どうぐとして|　使っても　効果があるぜ。|<bw_break>": ""
@@ -4062,7 +4062,7 @@
     "「他にも　用はあるか？|<break>": ""
   },
   "1355": {
-    "「他にも　何か買っていくか？|<break>": ""
+    "「他にも　何か買っていくか？|<break>": "Is there anything else you want to buy?|<break>"
   },
   "1356": {
     "「他にも　ほしい物が　あるのか？|<break>": ""
@@ -4137,7 +4137,7 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　全部で　<%nL_SELL_PRICE>ゴールドで|　買い取るけど　それでもいいかな？|<yesno><break>": ""
   },
   "1380": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "1381": {
     "「ケケッ　まいどあり！|　すぐに　レシピを覚えていくか？|<yesno><break>": "Keh, heh, heh! Thanks! Do you want to learn|it right now?|<yesno><break>"
@@ -4254,7 +4254,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": ""
   },
   "1419": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1420": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
@@ -4320,16 +4320,16 @@
     "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
   },
   "1441": {
-    "「おや？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": ""
+    "「おや？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "Hmm? I'm afraid you don't have any equipment|that can have gems extracted.|<bw_break>"
   },
   "1442": {
-    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "1443": {
-    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "1444": {
-    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "1445": {
     "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<bw_break>": ""
@@ -4341,28 +4341,28 @@
     "「使い込み度とは　装備品が　どれくらい|　使い込まれたかを　示す数値です。|<br>|「自分と同格以上の強さの魔物と戦った後|　時々　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「そして　使い込み度が　１００になった|　装備品からは　汗と涙の結晶を|　取りだせるようになるのです。|<br>|「今の使い込み度は　その装備品を|　くわしくみると　確認できます。|<br>|「ただし　職人が作れない装備品の中には|　使い込み度が　上がらないものもあるので|　そこは　ご注意ください。|<bw_break>": ""
   },
   "1448": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|How may I help you today?|<break>"
   },
   "1449": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
   },
   "1450": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1451": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1452": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1453": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": ""
   },
   "1454": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|As your Team completes Team Quests and levels|up, more items will become available for|purchase!|<br>|For more information about Team Quests,|please speak with a Team Ambassador.|Now then, how may I help you today?|<break>"
   },
   "1455": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|...what's this? It seems that you don't belong|to a Team just yet.|<br>|You can join another person's Team, or even|create your own. If you want to create one,|speak with a Team Ambassador.|<end>"
   },
   "1456": {
     "「これは　装備すれば|　戦いのときに　どうぐとして|　使っても　効果があるぜ。|<bw_break>": ""
@@ -5019,13 +5019,13 @@
     "clarity_nt_char_1673": "clarity_nt_char_1673"
   },
   "1674": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1675": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1676": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1677": {
     "clarity_nt_char_1677": "clarity_nt_char_1677"
@@ -5457,13 +5457,13 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るけれど　よろしくて？|<yesno><break>": ""
   },
   "1820": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "1821": {
     "「うふふ。ありがとう存じます。|　すぐに　レシピを覚えていかれますの？|<yesno 2><break>": ""
   },
   "1822": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "1823": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -5484,7 +5484,7 @@
     "「すみませんが　本日はもう|　結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
   },
   "1829": {
-    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and|won't come off!|<bw_break>"
   },
   "1830": {
     "「あら　そうびぶくろには|　なんにも　入ってないようですわよ。|<bw_break>": ""
@@ -5580,7 +5580,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": ""
   },
   "1861": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1862": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
@@ -5691,13 +5691,13 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "1898": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1899": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1900": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "1901": {
     "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": ""
@@ -5712,13 +5712,13 @@
     "「こちらは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　ありますわよ。|<bw_break>": ""
   },
   "1905": {
-    "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno 2><break>": "You've already learned this recipe. Is that|all right?|<yesno 2><break>"
   },
   "1906": {
     "「他に　用はあるかね？|<break>": "Anything else I can do?|<break>"
   },
   "1907": {
-    "「他にも　何か買っていくかね？|<break>": "Do you want me to get you anything else?|<break>"
+    "「他にも　何か買っていくかね？|<break>": "Is there anything else you'd like?|<break>"
   },
   "1908": {
     "「まだ何か　買ってくかね？|<break>": "You still want to buy something?|<break>"
@@ -5733,19 +5733,19 @@
     "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>フェルドだが|　これを　買うかね？|<yesno><break>": ""
   },
   "1912": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current gender|can't equip it. Do you still want it?|<yesno 2><break>"
   },
   "1913": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current|vocation can't equip it. Do you still want it?|<yesno 2><break>"
   },
   "1914": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんのレベルじゃ|　まだ装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんのレベルじゃ|　まだ装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your level isn't high|enough to equip it. Do you still want it?|<yesno 2><break>"
   },
   "1915": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_RACE>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_RACE>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current race|can't equip it. Do you still want it?|<yesno 2><break>"
   },
   "1916": {
-    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current crafting|vocation can't equip it. Do you still want it?|<yesno 2><break>"
   },
   "1917": {
     "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だが　いいかね？|<yesno><break>": "<%sL_KAITAI_ITEM> will be equipped in both|<%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2>.|That all right?|<yesno><break>"
@@ -5757,10 +5757,10 @@
     "「どっちの手に　装備するんだ？|<break>": "Equip in which hand?|<break>"
   },
   "1920": {
-    "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? This recipe requires|you to be <%sL_SYOKUNIN> to learn it.|Is that all right?|<yesno 2><break>"
   },
   "1921": {
-    "「他に　売りたい物は　あるか？|<break>": ""
+    "「他に　売りたい物は　あるか？|<break>": "Anything else you want to sell?|<break>"
   },
   "1922": {
     "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせる　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
@@ -5769,7 +5769,7 @@
     "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるみたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
   },
   "1924": {
-    "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
+    "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "You have that <%sL_URITAI_ITEM><%sL_PLUSNUM>|currently equipped. Are you sure you want to|sell it?|<yesno 2><break>"
   },
   "1925": {
     "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
@@ -5778,13 +5778,13 @@
     "「他にも売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
   },
   "1927": {
-    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>フェルドで|　買い取るぜ。それで　いいかね？|<yesno><break>": ""
+    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>フェルドで|　買い取るぜ。それで　いいかね？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>, I see.|I can buy it for <%dL_SELL_PRICE> Feld.|How about it?|<yesno><break>"
   },
   "1928": {
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>フェルドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": ""
   },
   "1929": {
-    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": ""
+    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": "Wait a second. That item is pretty valuable.|Are you really sure you want to sell it?|<yesno 2><break>"
   },
   "1930": {
     "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>フェルドで　買い取るが|　それで　いいかね？|<yesno><break>": ""
@@ -5793,13 +5793,13 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だな。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取るが　いいかね？|<yesno><break>": "I'll buy your <%dL_URUKAZU> <%sL_URITAI_ITEM> for|<%dL_SELL_PRICE> Feld. How's that sound?|<yesno><break>"
   },
   "1932": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "1933": {
-    "「まいどありぃ！|　ここで　レシピを覚えていくかね？|<yesno 2><break>": ""
+    "「まいどありぃ！|　ここで　レシピを覚えていくかね？|<yesno 2><break>": "Many thanks! Would you like to learn the|recipe right now?|<yesno 2><break>"
   },
   "1934": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "1935": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -5811,7 +5811,7 @@
     "「よし！　確かに買い取ったぜ！|<bw_break>": "Great! Pleasure doing business with ya!|<bw_break>"
   },
   "1938": {
-    "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno 2><break>": ""
+    "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno 2><break>": "Oh, looks like this is your first time|equipping something. In that case, there's one|important thing you should remember.|<br>|The first person to equip something will be|its exclusive owner. In other words, it can't|be given to or used by anyone else.|<br>|Do you still want to equip it here?|<yesno 2><break>"
   },
   "1939": {
     "「おっと。<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいだな。|<bw_break>": "Hm. <%sL_BAG_TYPE> is too full to hold|the <%sL_KAITAI_ITEM>.<bw_break>"
@@ -5820,19 +5820,19 @@
     "「すみませんが　本日はもう|　結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
   },
   "1941": {
-    "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed|and it can't be taken off?!|<bw_break>"
   },
   "1942": {
-    "「おっと　そうびぶくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　そうびぶくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your equipment bag is|empty.|<bw_break>"
   },
   "1943": {
-    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
   },
   "1944": {
-    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? I don't have anything to sell...<bw_break>"
+    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? It looks like you don't have anything|to sell to me.|<bw_break>"
   },
   "1945": {
-    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
   },
   "1946": {
     "「その数は　選べないぜっ！|<bw_break>": "You can't pick that many!<bw_break>"
@@ -5874,7 +5874,7 @@
     "「<%sL_KAITAI_ITEM>の　立ちかたは|　もう　覚えてるようだが　いいのかね？|<yesno 2><break>": ""
   },
   "1959": {
-    "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "1960": {
     "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -5952,7 +5952,7 @@
     "「他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
   },
   "1985": {
-    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": ""
+    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": "Wait a second. That item is pretty valuable.|Are you really sure you want to sell it?|<yesno 2><break>"
   },
   "1986": {
     "「結晶の取り出しですね。|　どれに　なさいますか？|<break>": ""
@@ -6027,13 +6027,13 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "2010": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2011": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2012": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2013": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": ""
@@ -6129,13 +6129,13 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個だね。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取るけど　いいかい？|<yesno><break>": ""
   },
   "2044": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "2045": {
     "「どうも　ありがとう！|　すぐに　レシピを覚えていくかい？|<yesno 2><break>": ""
   },
   "2046": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "2047": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -6156,7 +6156,7 @@
     "「すみませんが　本日はもう|　結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
   },
   "2053": {
-    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and|won't come off!|<bw_break>"
   },
   "2054": {
     "「おや　そうびぶくろには|　なんにも　入ってないよ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
@@ -6210,7 +6210,7 @@
     "「<%sL_KAITAI_ITEM>の　立ちかたは|　もう　覚えているようだけど　いいのかい？|<yesno 2><break>": ""
   },
   "2071": {
-    "「<%sL_KAITAI_ITEM>は|　もう読んだことがあるようだけど　いいのかい？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>は|　もう読んだことがあるようだけど　いいのかい？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "2072": {
     "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -6252,7 +6252,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": ""
   },
   "2085": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2086": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
@@ -6363,13 +6363,13 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "2122": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2123": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2124": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2125": {
     "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": ""
@@ -6465,13 +6465,13 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取りますが　よろしいですか？|<yesno><break>": ""
   },
   "2156": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "2157": {
     "「ありがとうございます！|　こちらで　レシピを覚えていきますか？|<yesno 2><break>": ""
   },
   "2158": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "2159": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -6546,7 +6546,7 @@
     "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えているようですが|　よろしいですか？|<yesno 2><break>": ""
   },
   "2183": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "2184": {
     "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -6588,7 +6588,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": ""
   },
   "2197": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2198": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
@@ -6666,13 +6666,13 @@
     "「おや？　かばんの中に|　結晶を取りだせる装備品は　ありませんね。|<bw_break>": ""
   },
   "2223": {
-    "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "2224": {
-    "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "2225": {
-    "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "2226": {
     "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせます。|　５０と１００では　倍近くの差がありますよ。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<br>|「なお　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせていただきます。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されますが|　持ち越しは　最大で　２５０回までとなります。|<br>|「お客さまには　ご不便をおかけしますが|　ご協力をお願いします。|<bw_break>": ""
@@ -6693,28 +6693,28 @@
     "「使い込み度とは　装備品が　どれくらい|　使い込まれたかを　示す数値です。|<br>|「自分と同格以上の強さの魔物と戦った後|　装備品がキラキラと光り|　使い込み度が　上がります。|<br>|「一度の戦闘で上がる　使い込み度の量は|　倒した魔物の数によって　変わりますよ。|<br>|「そして　使い込み度が　５０以上になった|　装備品からは　汗と涙の結晶を|　取りだせるようになるのです。|<br>|「今の使い込み度は　その装備品を|　くわしくみると　確認できますよ。|<br>|「ただし　職人が作れない装備品の中には|　使い込み度が　上がらないものもあるので|　そこは　ご注意ください。|<bw_break>": ""
   },
   "2232": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|How may I help you today?|<break>"
   },
   "2233": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
   },
   "2234": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2235": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2236": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2237": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": ""
   },
   "2238": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|As your Team completes Team Quests and levels|up, more items will become available for|purchase!|<br>|For more information about Team Quests,|please speak with a Team Ambassador.|Now then, how may I help you today?|<break>"
   },
   "2239": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|...what's this? It seems that you don't belong|to a Team just yet.|<br>|You can join another person's Team, or even|create your own. If you want to create one,|speak with a Team Ambassador.|<end>"
   },
   "2240": {
     "「こちらは　装備すれば|　戦いのときに　どうぐとして使っても|　効果がある物に　なっております。|<bw_break>": "If you equip it, you can use it as a weapon|in battle...<bw_break>"
@@ -6801,13 +6801,13 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "I can buy your <%dL_URUKAZU> <%sL_URITAI_ITEM>|for <%dL_SELL_PRICE> Feld.|How about it?|<yesno><break>"
   },
   "2268": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "2269": {
     "「ありがとうございます。|　すぐに　レシピを覚えていかれますか？|<yesno 2><break>": ""
   },
   "2270": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "2271": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -6882,7 +6882,7 @@
     "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno 2><break>": ""
   },
   "2295": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "2296": {
     "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -6924,7 +6924,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": ""
   },
   "2309": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2310": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
@@ -6999,16 +6999,16 @@
     "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
   },
   "2334": {
-    "「あら？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": ""
+    "「あら？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "Hmm? I'm afraid you don't have any equipment|that can have gems extracted.|<bw_break>"
   },
   "2335": {
-    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "2336": {
-    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "2337": {
-    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "2338": {
     "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせます。|　５０と１００では　倍近くの差がありますよ。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<br>|「なお　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせていただきます。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されますが|　持ち越しは　最大で　２５０回までとなります。|<br>|「お客さまには　ご不便をおかけしますが|　ご協力をお願いします。|<bw_break>": ""
@@ -7029,31 +7029,31 @@
     "「使い込み度とは　装備品が　どれくらい|　使い込まれたかを　示す数値です。|<br>|「自分と同格以上の強さの魔物と戦った後|　装備品がキラキラと光り|　使い込み度が　上がります。|<br>|「一度の戦闘で上がる　使い込み度の量は|　倒した魔物の数によって　変わりますよ。|<br>|「そして　使い込み度が　５０以上になった|　装備品からは　汗と涙の結晶を|　取りだせるようになるのです。|<br>|「今の使い込み度は　その装備品を|　くわしくみると　確認できますよ。|<br>|「ただし　職人が作れない装備品の中には|　使い込み度が　上がらないものもあるので|　そこは　ご注意ください。|<bw_break>": ""
   },
   "2344": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|How may I help you today?|<break>"
   },
   "2345": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
   },
   "2346": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2347": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2348": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2349": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": ""
   },
   "2350": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|As your Team completes Team Quests and levels|up, more items will become available for|purchase!|<br>|For more information about Team Quests,|please speak with a Team Ambassador.|Now then, how may I help you today?|<break>"
   },
   "2351": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|...what's this? It seems that you don't belong|to a Team just yet.|<br>|You can join another person's Team, or even|create your own. If you want to create one,|speak with a Team Ambassador.|<end>"
   },
   "2352": {
-    "「こちらは　装備されれば|　戦いのときに　どうぐとして|　お使いいただいても　効果が　ございます。|<bw_break>": "If you equip it, you can use it as a weapon|in battle...<bw_break>"
+    "「こちらは　装備されれば|　戦いのときに　どうぐとして|　お使いいただいても　効果が　ございます。|<bw_break>": "Even if it's equipped, this can be used as an|item in battle to use its special effect.|<bw_break>"
   },
   "2353": {
     "「<%sL_KAITAI_ITEM>ですねっ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　いいですか？|<yesno 2><break>": ""
@@ -7968,13 +7968,13 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るけど　いいかな？|<yesno><break>": ""
   },
   "2657": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "2658": {
     "「どうも　ありがとう！|　すぐに　レシピを覚えていくかい？|<yesno 2><break>": ""
   },
   "2659": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "2660": {
     "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -7995,7 +7995,7 @@
     "「すみませんが　本日はもう|　結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
   },
   "2666": {
-    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and|won't come off!|<bw_break>"
   },
   "2667": {
     "「あれ～？　そうびぶくろの中に|　売れる物は　入ってないみたいだよ？|<bw_break>": ""
@@ -8118,7 +8118,7 @@
     "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<select_end><break>": ""
   },
   "2707": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2708": {
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
@@ -8229,13 +8229,13 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "2744": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2745": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2746": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "2747": {
     "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": ""
@@ -9501,7 +9501,7 @@
     "clarity_nt_char_3167": "clarity_nt_char_3167"
   },
   "3168": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3169": {
     "clarity_nt_char_3169": "clarity_nt_char_3169"
@@ -9795,7 +9795,7 @@
     "「おっと。|　今　それを買い取ることはできないんだ。|<bw_break>": ""
   },
   "3266": {
-    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? I don't have anything to sell...<bw_break>"
+    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? It looks like you don't have anything|to sell to me.|<bw_break>"
   },
   "3267": {
     "「おっと　お客さん|　売れる物を　何も|　お持ちでないようですね。|<bw_break>": "Uh, sir, I don't think you have anything to|sell...<bw_break>"
@@ -9816,7 +9816,7 @@
     "「お客さま　申し訳ありませんが|　お売りいただけそうな物を|　何も　お持ちでないようですね。|<bw_break>": "Sir, I'm sorry, but you don't seem to have|anything that you could sell...<bw_break>"
   },
   "3273": {
-    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? I don't have anything to sell...<bw_break>"
+    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? It looks like you don't have anything|to sell to me.|<bw_break>"
   },
   "3274": {
     "「……チッ。|　売れる物を　持ってねえみてえだな。|<bw_break>": ""
@@ -9846,7 +9846,7 @@
     "「あれっ？　売れる物を　なんにも|　持ってないみたいだね。|<bw_break>": "Huh? It looks like you don't have anything to|sell...<bw_break>"
   },
   "3283": {
-    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? I don't have anything to sell...<bw_break>"
+    "「んっ？　売れる物を|　何も　持ってないようだな。|<bw_break>": "Hmm? It looks like you don't have anything|to sell to me.|<bw_break>"
   },
   "3284": {
     "「おっと　お客さん|　売れる物を　何も|　お持ちでないようですね。|<bw_break>": "Uh, sir, I don't think you have anything to|sell...<bw_break>"
@@ -9867,7 +9867,7 @@
     "「他に　売りたい物は　あるかい？|<bw_break>": ""
   },
   "3290": {
-    "「他に　売りたい物は　あるか？|<bw_break>": ""
+    "「他に　売りたい物は　あるか？|<bw_break>": "Anything else you want to sell?|<bw_break>"
   },
   "3291": {
     "「他に　お売りいただける物は|　ありますか？|<bw_break>": ""
@@ -9888,10 +9888,10 @@
     "「他に　お売りいただける物は|　ございますか？|<bw_break>": ""
   },
   "3297": {
-    "「他に　売りたい物は　あるか？|<bw_break>": ""
+    "「他に　売りたい物は　あるか？|<bw_break>": "Anything else you want to sell?|<bw_break>"
   },
   "3298": {
-    "「他に　売りたい物は　あるか？|<bw_break>": ""
+    "「他に　売りたい物は　あるか？|<bw_break>": "Anything else you want to sell?|<bw_break>"
   },
   "3299": {
     "「他に　売っていただけるものは|　ありマスカ？|<bw_break>": ""
@@ -9918,7 +9918,7 @@
     "「他に　売りたい物は　あるかい？|<bw_break>": ""
   },
   "3307": {
-    "「他に　売りたい物は　あるか？|<bw_break>": ""
+    "「他に　売りたい物は　あるか？|<bw_break>": "Anything else you want to sell?|<bw_break>"
   },
   "3308": {
     "「他に　お売りいただける物は|　ありますか？|<bw_break>": ""
@@ -9969,10 +9969,10 @@
     "「他にも　売っていただけるものは|　ありマスカ？|<bw_break>": ""
   },
   "3324": {
-    "「他にも　売りたいものは　あるか？|<bw_break>": ""
+    "「他にも　売りたいものは　あるか？|<bw_break>": "Is there anything else you want to sell?|<bw_break>"
   },
   "3325": {
-    "「他にも　売りたいものは　あるか？|<bw_break>": ""
+    "「他にも　売りたいものは　あるか？|<bw_break>": "Is there anything else you want to sell?|<bw_break>"
   },
   "3326": {
     "「他にも　売りたいものは　あるかな？|<bw_break>": ""
@@ -10287,13 +10287,13 @@
     "「あと　<%nL_NUM2>回　装備品から　取りだせますが|　他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
   },
   "3430": {
-    "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "3431": {
-    "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "3432": {
-    "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "3433": {
     "「使い込み度が　５０以上になるほど使い込まれた|　装備品は　職人仕事に使える　特別な素材を|　取りだせます。それが　汗と涙の結晶です！|<br>|「装備品そのものは　なくなってしまいますが |　旅人たちが戦った証は　この汗と涙の結晶に|　引き継がれて　次の装備品の糧となるのです！|<bw_break>": ""
@@ -10320,16 +10320,16 @@
     "「あっ　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるようですけど|　本当に　売っても　いいんですか？|<yesno 2><break>": ""
   },
   "3441": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "3442": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3443": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3444": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3445": {
     "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": ""
@@ -10341,7 +10341,7 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "3448": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "3449": {
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
@@ -10383,7 +10383,7 @@
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
   },
   "3462": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3463": {
     "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
@@ -10563,7 +10563,7 @@
     "「みゃみゃ……　<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいだみゃ。|<bw_break>": ""
   },
   "3522": {
-    "「他にも　何か買っていくのかみゃ？|<break>": ""
+    "「他にも　何か買っていくのかみゃ？|<break>": "Would you like to buy something else?|<break>"
   },
   "3523": {
     "「まだ　何か買ってくのかみゃ？|<break>": ""
@@ -10572,7 +10572,7 @@
     "「みゃみゃ……　残念だみゃあ。|　他に　ほしい物は　あるのかみゃー？|<break>": ""
   },
   "3525": {
-    "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うおっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないぜ！？|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed|and it can't be taken off?!|<bw_break>"
   },
   "3526": {
     "「みゃみゃ……　それを買うには|　お金が　足りないのみゃ……。|<bw_break>": ""
@@ -10587,10 +10587,10 @@
     "「みゃみゃ……　そうびぶくろには|　何も入ってないみたいだみゃあ。|<bw_break>": ""
   },
   "3530": {
-    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
   },
   "3531": {
-    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oh, there's nothing in the bag...<bw_break>"
+    "「おっと　ふくろには|　何も入ってないぜ。|<bw_break>": "Oops, it looks like your bag is empty.|<bw_break>"
   },
   "3532": {
     "「みゃっ？　売れる物を|　何も　持ってないみたいだみゃあ。|<bw_break>": ""
@@ -10740,16 +10740,16 @@
     "「みゃっ　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるみたいだがね。|　本当に　売っても　いいんだみゃ？|<yesno 2><break>": ""
   },
   "3581": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "3582": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3583": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3584": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3585": {
     "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": ""
@@ -10761,7 +10761,7 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "3588": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "3589": {
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
@@ -10803,7 +10803,7 @@
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
   },
   "3602": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3603": {
     "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
@@ -10863,7 +10863,7 @@
     "「すみませんが　本日はもう|　結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
   },
   "3622": {
-    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": ""
+    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": "Wait a second. That item is pretty valuable.|Are you really sure you want to sell it?|<yesno 2><break>"
   },
   "3623": {
     "clarity_nt_char_3623": "clarity_nt_char_3623"
@@ -10992,7 +10992,7 @@
     "「……残念だモ。|　他に　ほしい物は　あるかモ？|<break>": "That's too bad... is there anything else you'd|like?|<break>"
   },
   "3665": {
-    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and|won't come off!|<bw_break>"
   },
   "3666": {
     "「ごめんだモ。それを買うには|　お金が　足りないみたいだモ……。|<bw_break>": "Sorry, but you don't have enough money|to buy that...|<bw_break>"
@@ -11127,13 +11127,13 @@
     "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他に　結晶を取りだしたい装備品は|　あるかい？|<break>": ""
   },
   "3710": {
-    "「どの説明を　聞くんだい？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どの説明を　聞くんだい？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "3711": {
-    "どの説明を　聞くんだい？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "どの説明を　聞くんだい？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "3712": {
-    "どの説明を　聞くんだい？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "どの説明を　聞くんだい？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "3713": {
     "「使い込み度が　５０以上になるほど使い込まれた|　装備品は　職人仕事に使える　特別な素材を|　取りだせるんだ。それが　汗と涙の結晶だ。|<br>|「装備品そのものは　なくなってしまうが |　旅人たちが戦った証は　この汗と涙の結晶に|　引き継がれて　次の装備品の糧となるんだ。|<bw_break>": ""
@@ -11160,16 +11160,16 @@
     "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるようだけど|　本当に　それを　売るのかい？|<yesno 2><break>": ""
   },
   "3721": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "3722": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3723": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3724": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3725": {
     "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": ""
@@ -11181,7 +11181,7 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "3728": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "3729": {
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
@@ -11223,7 +11223,7 @@
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
   },
   "3742": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "3743": {
     "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
@@ -11331,13 +11331,13 @@
     "「ごめんモ。|　今　それを買い取ることはできないんだモ……。|<bw_break>": ""
   },
   "3778": {
-    "「他に　売りたい物は　あるかモ？|<bw_break>": ""
+    "「他に　売りたい物は　あるかモ？|<bw_break>": "Is there anything else you want to sell?|<bw_break>"
   },
   "3779": {
     "「他にも　何か売ってくれるかモ？|<bw_break>": ""
   },
   "3780": {
-    "「……残念だモ。|　他に売りたい物は　あるかモ？|<bw_break>": ""
+    "「……残念だモ。|　他に売りたい物は　あるかモ？|<bw_break>": "That's too bad... is there anything else you|want to sell?|<bw_break>"
   },
   "3781": {
     "「おっと。|　無料券を持っていないようだね。|<bw_break>": ""
@@ -12153,7 +12153,7 @@
     "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだよ。|　レプリカになっているけど　これを　買うかい？|<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|It's a replica, but will you buy it?|<yesno 2><break>"
   },
   "4052": {
-    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|Will you buy this?|<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> Gold.|Will you buy it?|<yesno 2><break>"
   },
   "4053": {
     "「<%sL_KAITAI_ITEM>ですねっ。|　<%nL_BUY_PRICE>ゴールドになりますが|　よろしいですか？|<yesno 2><break>": ""
@@ -12177,10 +12177,10 @@
     "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになります。|　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|Is that okay?|<yesno 2><break>"
   },
   "4060": {
-    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|Will you buy this?|<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> Gold.|Will you buy it?|<yesno 2><break>"
   },
   "4061": {
-    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　コイツが　ほしいのか？|<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|You want it?|<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　コイツが　ほしいのか？|<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> Gold.|You want it?|<yesno 2><break>"
   },
   "4062": {
     "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドね。|　これが　ほしいの？|<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|You want it?|<yesno 2><break>"
@@ -12942,7 +12942,7 @@
     "「あら？　<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいよ？|<bw_break>": ""
   },
   "4315": {
-    "「他にも　何か買っていく？|<break>": ""
+    "「他にも　何か買っていく？|<break>": "Is there anything else you want to buy?|<break>"
   },
   "4316": {
     "「他にも　ほしい商品はあるかしら？|<break>": ""
@@ -13014,7 +13014,7 @@
     "「ありがとう。|　また何か　ほしい物があったら　言ってね。|<turn_end>": ""
   },
   "4339": {
-    "「こちらは　装備されれば|　戦いのときに　どうぐとして|　お使いいただいても　効果が　ございます。|<bw_break>": "If you equip it, you can use it as a weapon|in battle...<bw_break>"
+    "「こちらは　装備されれば|　戦いのときに　どうぐとして|　お使いいただいても　効果が　ございます。|<bw_break>": "Even if it's equipped, this can be used as an|item in battle to use its special effect.|<bw_break>"
   },
   "4340": {
     "「どちらの手に　装備なさいますか？|<break>": "Equip in which hand?|<break>"
@@ -13086,13 +13086,13 @@
     "「あと　<%nL_NUM2>回　装備品から　取りだせますが|　他に　結晶を取りだしたい装備品は|　ございますか？|<break>": ""
   },
   "4363": {
-    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "4364": {
-    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "4365": {
-    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+    "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "What do you want me to explain?|<select_se_off 3>|About Sweat & Tears Gems|About Usage Rate|About Extraction|<select_end><break>"
   },
   "4366": {
     "「使い込み度が　５０以上になるほど使い込まれた|　装備品は　職人仕事に使える　特別な素材を|　取りだせます。それが　汗と涙の結晶です。|<br>|「装備品そのものは　なくなってしまいますが |　旅人たちが戦った証は　この汗と涙の結晶に|　引き継がれて　次の装備品の糧となるのです。|<bw_break>": ""
@@ -13104,7 +13104,7 @@
     "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせます。|　５０と１００では　倍近くの差がありますよ。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<br>|「なお　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせていただきます。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されますが|　持ち越しは　最大で　２５０回までとなります。|<br>|「お客さまには　ご不便をおかけしますが|　ご協力をお願いします。|<bw_break>": ""
   },
   "4369": {
-    "「あら？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": ""
+    "「あら？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "Hmm? I'm afraid you don't have any equipment|that can have gems extracted.|<bw_break>"
   },
   "4370": {
     "「では　少々お待ちください。|　ここを　こうしてと……。|　はい。結晶を　取りだせました。|<end>": ""
@@ -13122,34 +13122,34 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるようですが|　本当に　売っても　よろしいのでしょうか？|<yesno 2><break>": ""
   },
   "4375": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "4376": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4377": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4378": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4379": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|As your Team completes Team Quests and levels|up, more items will become available for|purchase!|<br>|For more information about Team Quests,|please speak with a Team Ambassador.|Now then, how may I help you today?|<break>"
   },
   "4380": {
     "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": ""
   },
   "4381": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|...what's this? It seems that you don't belong|to a Team just yet.|<br>|You can join another person's Team, or even|create your own. If you want to create one,|speak with a Team Ambassador.|<end>"
   },
   "4382": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "4383": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|How may I help you today?|<break>"
   },
   "4384": {
-    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": ""
+    "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Vendor! Here, Team members|can purchase unique items not found anywhere|else.|<br>|Please make sure to take a look at the new|items we have for sale!|<br>|How may I help you today?|<break>"
   },
   "4385": {
     "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno 2><break>": ""
@@ -13161,7 +13161,7 @@
     "「ごめんなさいね。ロックされている装備品を|　買い取ることは　できないの。|<bw_break>": ""
   },
   "4388": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno 2><break>"
   },
   "4389": {
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものだけど|　本当に　売ってもいいのかしら？|<yesno 2><break>": ""
@@ -13185,7 +13185,7 @@
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
   },
   "4396": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4397": {
     "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
@@ -13686,13 +13686,13 @@
     "「うーん　申し訳ないですが|　お客さんは　すでに商品を購入されているので|　朝６時まで　お譲りできないですね。|<bw_break>": ""
   },
   "4563": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4564": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4565": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4566": {
     "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": ""
@@ -13722,7 +13722,7 @@
     "「ありゃりゃ。ロックされている装備品は|　こちらでは　買い取れませんよ。|<bw_break>": ""
   },
   "4575": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　それでも買われますか？|<yesno 2><break>": "Looks like you've already read that. Do you|still want to buy it?|<yesno 2><break>"
   },
   "4576": {
     "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを売っちゃいますか？|<yesno 2><break>": ""
@@ -13746,7 +13746,7 @@
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
   },
   "4583": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4584": {
     "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
@@ -14337,19 +14337,19 @@
     "「みゃっ　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるみたいだがね。|　本当に　売っても　いいんだみゃ？|<yesno 2><break>": ""
   },
   "4780": {
-    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": ""
+    "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "Our rule is that each person can only buy|one per day, so that's all for today.|<bw_break>"
   },
   "4781": {
     "clarity_nt_char_4781": "clarity_nt_char_4781"
   },
   "4782": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4783": {
-    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4784": {
-    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4785": {
     "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": ""
@@ -14361,7 +14361,7 @@
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
   },
   "4788": {
-    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": ""
+    "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you buy an item, that's it. You won't be|able to buy anything else. This is what you|want to buy?|<yesno><break>"
   },
   "4789": {
     "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": ""
@@ -14379,7 +14379,7 @@
     "<pipipi_mid>「す…すみません。|　ロックされてる装備品は　買い取れないんです。|<bw_break>": ""
   },
   "4794": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　それでも買われますか？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　それでも買われますか？|<yesno 2><break>": "Looks like you've already read that. Do you|still want to buy it?|<yesno 2><break>"
   },
   "4795": {
     "「ん？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものですが|　本当に　それを売っちゃいますか？|<yesno 2><break>": ""
@@ -14403,7 +14403,7 @@
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": ""
   },
   "4802": {
-    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+    "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
   },
   "4803": {
     "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
@@ -14463,7 +14463,7 @@
     "「すみませんが　本日はもう|　結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
   },
   "4822": {
-    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": ""
+    "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": "Wait a second. That item is pretty valuable.|Are you really sure you want to sell it?|<yesno 2><break>"
   },
   "4823": {
     "「おっと。それには|　輝晶効果　が　付いているが|　本当に　売っちまっていいのかい？|<yesno 2><break>": ""
