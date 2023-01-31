@@ -153,7 +153,7 @@
     "「おっと　<%sL_STORAGE>が　いっぱいで|　持ちきれないよ。|<bw_break>": "Oops, there's too many <%sL_STORAGE>s to|hold...<bw_break>"
   },
   "52": {
-    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and|won't come off!|<bw_break>"
   },
   "53": {
     "「あれっ？　お客さん|　出品できる物を　なんにも|　持ってない　みたいだね。|<bw_break>": "What? It looks like the customer doesn't have|anything to show.<bw_break>"
@@ -660,7 +660,7 @@
     "「では　単価の安い物から|　１００品単位で　リストをご覧ください。|<bw_break>": "<speed=0>Please look at this list in units of 100,|starting from the lowest price.|<bw_break>"
   },
   "221": {
-    "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno><break>": "Whoa, this is my first time outfitting... If|so, there's one important thing to|remember... A piece of equipment is only as|<br>|good as the first person to use it. And it's|considered a piece of equipment... So once a|piece of equipment has been assigned to a|<br>|user, it can't be given to anyone else. Would|you still want to wear it here?<yesno><break>"
+    "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno><break>": "Oh, looks like this is your first time|equipping something. In that case, there's one|important thing you should remember.|<br>|The first person to equip something will be|its exclusive owner. In other words, it can't|be given to or used by anyone else.|<br>|Do you still want to equip it here?|<yesno><break>"
   },
   "222": {
     "「おや？　はじめて　装備をするみたいだね。|　だったら　大事な注意があるよ。|<br>|「装備品は　最初に装備した人が|　その使用者に　決められるんだ。|　専用の物と　認められる感じかな。|<br>|「だから　一度　使用者が決まった装備品は|　もう　他の人に　渡せなくなるんだ。|　それでも　ここで装備していいかい？|<yesno><break>": "Hmm? This is your first time outfitting... If|this is the case, there's an important thing|to remember... A piece of equipment is|<br>|assigned to its user by the first person to|equip it... That's how it works. So once a|piece of equipment has been assigned to a|<br>|user, it can't be given to anyone else. Can I|still wear it here?<yesno><break>"
@@ -816,10 +816,10 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですか。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいのですか？|<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>? Those|are pretty valuable and not easy to find. Are|you really sure?|<yesno><break>"
   },
   "273": {
-    "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>. Is that okay?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno><break>": "You've already learned this recipe. Is that|all right?|<yesno><break>"
   },
   "274": {
-    "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>.|Is that okay?|<yesno><break>"
+    "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM>? This recipe requires|you to be <%sL_SYOKUNIN> to learn it.|Is that all right?|<yesno><break>"
   },
   "275": {
     "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えているようだけど　いいのかい？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>. Is that okay?|<yesno><break>"
@@ -936,7 +936,7 @@
     "「……あら？　<pc>さまの　知り合いを|　一部しか　探せなかったようです。|<break>": "... What?<pc> I've only been able to track down a few of|your acquaintances...<break>"
   },
   "313": {
-    "「まいどありぃ！|　ここで　レシピを覚えていくかね？|<yesno 2><break>": "Hey, there! Do you want to learn the recipe|here?<yesno 2><break>"
+    "「まいどありぃ！|　ここで　レシピを覚えていくかね？|<yesno 2><break>": "Many thanks! Would you like to learn the|recipe right now?|<yesno 2><break>"
   },
   "314": {
     "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えてるようだが　いいのかね？|<yesno><break>": "I see you've already memorized the|<%sL_KAITAI_ITEM> gesture. Is that okay?<yesno><break>"
@@ -1986,7 +1986,7 @@
     "「あっ。その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さんが　ロックされた物ですね。|　装備品は　ロックされてると出品できませんっ！|<br>|「他に　出品したい物は　ありますか？|<break>": "Oh. That <%sL_URITAI_ITEM><%sL_PLUSNUM> was|locked by a customer... You can't sell|equipment if it's locked! Do you have any|<br>|other items you want to sell?<break>"
   },
   "663": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "I see you've already read <%sL_KAITAI_ITEM>,|if that's all right.<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno><break>"
   },
   "664": {
     "「あっ。その　<%sL_URITAI_ITEM>は|　すでに使われたことが　ありますね。|　料理は　新品でなければ　出品できませんっ！|<br>|「他に　出品したい物は　ありますか？|<break>": "Oh. That <%sL_URITAI_ITEM> has already been|used... The dish must be brand new to be|displayed! Do you have any other items you'd|<br>|like to display?<break>"
