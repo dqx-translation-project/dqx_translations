@@ -1170,7 +1170,7 @@
     "<%sL_FURNITURE>は　|マイタウンの　オーナーしか|かたづけられません。": "<%sL_FURNITURE> can only be associated with|the owner of My Town..."
   },
   "391": {
-    "<%sL_FURNITURE>が　置いてある。|<br>|メインコマンドウィンドウの|「タウン内の移動」から|この場所に　飛んでこれるようだ。|<end>": "<%sL_FURNITURE> has been placed... You can|jump to this location from the main command|window, under \"Move in Town\"...<end>"
+    "<%sL_FURNITURE>が　置いてある。|<br>|メインコマンドウィンドウの|「室内の移動」から|この場所に　飛んでこれるようだ。|<end>": ""
   },
   "392": {
     "<%sL_FURNITURE>が　置いてある。|<br>|メインコマンドウィンドウの|「タウン内の移動」から|この場所に　飛んでこれるようだ。|<end>": "<%sL_FURNITURE> has been placed... You can|jump to this location from the main command|window, under \"Move in Town\"...<end>"
@@ -1494,7 +1494,7 @@
     "レプリカ庭具の　<%sL_FURNITURE>がある。|<break>": "It's a replica <%sL_FURNITURE>.<break>"
   },
   "499": {
-    "レプリカ庭具の　<%sL_FURNITURE>が|置いてある。|<br>|メインコマンドウィンドウの|「タウン内の移動」から|この場所に　飛んでこれるようだ。|<end>": "Replica garden tools with <%sL_FURNITURE>...|You can jump to this location from the main|command window, under \"Move in Town\"...<end>"
+    "レプリカ庭具の　<%sL_FURNITURE>が|置いてある。|<br>|メインコマンドウィンドウの|「室内の移動」から|この場所に　飛んでこれるようだ。|<end>": ""
   },
   "500": {
     "レプリカ庭具の　<%sL_FURNITURE>が|置いてある。|<br>|メインコマンドウィンドウの|「タウン内の移動」から|この場所に　飛んでこれるようだ。|<end>": "Replica garden tools with <%sL_FURNITURE>...|You can jump to this location from the main|command window, under \"Move in Town\"...<end>"
@@ -3186,7 +3186,7 @@
     "<%sL_FURNITURE>は　|マイタウンの　オーナーしか|かたづけられません。": "<%sL_FURNITURE> can only be associated with|the owner of My Town..."
   },
   "1063": {
-    "<%sL_FURNITURE>が　置いてある。|<br>|メインコマンドウィンドウの|「タウン内の移動」から|この場所に　飛んでこれるようだ。|<end>": "<%sL_FURNITURE> has been placed... You can|jump to this location from the main command|window, under \"Move in Town\"...<end>"
+    "<%sL_FURNITURE>が　置いてある。|<br>|メインコマンドウィンドウの|「室内の移動」から|この場所に　飛んでこれるようだ。|<end>": ""
   },
   "1064": {
     "<%sL_FURNITURE>が　置いてある。|<br>|メインコマンドウィンドウの|「タウン内の移動」から|この場所に　飛んでこれるようだ。|<end>": "<%sL_FURNITURE> has been placed... You can|jump to this location from the main command|window, under \"Move in Town\"...<end>"
@@ -3516,7 +3516,7 @@
     "レプリカ庭具の　<%sL_FURNITURE>がある。|<break>": "It's a replica <%sL_FURNITURE>.<break>"
   },
   "1173": {
-    "レプリカ庭具の　<%sL_FURNITURE>が|置いてある。|<br>|メインコマンドウィンドウの|「タウン内の移動」から|この場所に　飛んでこれるようだ。|<end>": "Replica garden tools with <%sL_FURNITURE>...|You can jump to this location from the main|command window, under \"Move in Town\"...<end>"
+    "レプリカ庭具の　<%sL_FURNITURE>が|置いてある。|<br>|メインコマンドウィンドウの|「室内の移動」から|この場所に　飛んでこれるようだ。|<end>": ""
   },
   "1174": {
     "レプリカ庭具の　<%sL_FURNITURE>が|置いてある。|<br>|メインコマンドウィンドウの|「タウン内の移動」から|この場所に　飛んでこれるようだ。|<end>": "Replica garden tools with <%sL_FURNITURE>...|You can jump to this location from the main|command window, under \"Move in Town\"...<end>"
@@ -4198,5 +4198,41 @@
   },
   "1400": {
     "すでに　同じ種類の庭具を|選択しています。": ""
+  },
+  "1401": {
+    "<speed=0>|家の扉前や　選んだワープ家具が|置いてある場所に　移動できます。|どこに　移動しますか？|<break>": ""
+  },
+  "1402": {
+    "<speed=0>|マイタウンの入口や　選んだワープ庭具が|置いてある場所に　移動できます。|どこに　移動しますか？|<break>": ""
+  },
+  "1403": {
+    "<speed=0>|家の扉前や　選んだワープ家具が|置いてある場所に　移動できます。|どこに　移動しますか？|<break>": ""
+  },
+  "1404": {
+    "<speed=0>|マイタウンの入口や　選んだワープ庭具が|置いてある場所に　移動できます。|どこに　移動しますか？|<break>": ""
+  },
+  "1405": {
+    "<speed=0>|この場所に　ワープしますか？|<yesno><break>": ""
+  },
+  "1406": {
+    "<speed=0>|この場所に　ワープしますか？|<yesno><break>": ""
+  },
+  "1407": {
+    "<speed=0>|この場所に　ワープしますか？|<yesno><break>": ""
+  },
+  "1408": {
+    "<speed=0>|この場所に　ワープしますか？|<yesno><break>": ""
+  },
+  "1409": {
+    "実行できませんでした。|<end>": ""
+  },
+  "1410": {
+    "実行できませんでした。|<end>": ""
+  },
+  "1411": {
+    "実行できませんでした。|<end>": ""
+  },
+  "1412": {
+    "実行できませんでした。|<end>": ""
   }
 }
