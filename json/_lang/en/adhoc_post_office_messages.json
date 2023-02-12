@@ -84,7 +84,7 @@
     "<select_se_off>|うけとる|売り上げうけとり|おくる|おもいで私書箱を見る|説明を聞く|<select_end><break>": "<select_se_off>|receive|receipt of sales|send (a thing)|View the POBOX|Listen to the explanation|<select_end><break>"
   },
   "29": {
-    "「お客様の　郵便箱には|　何も　届いていないようですね。|<bw_break>": "Nothing seems to have arrived in your|mailbox...<bw_break>"
+    "「お客様の　郵便箱には|　何も　届いていないようですね。|<bw_break>": "There's no mail waiting for you at this time.<bw_break>"
   },
   "30": {
     "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|　お送りすることは　できないんです。|<bw_break>": "Sorry, but we can't send you <%sL_ITEM_NAMEFI|LLERSTRING><%sL_PLUS><%nL_KOUKA_N|UM>...|<br><bw_break>"
@@ -726,7 +726,7 @@
     "「おおっ！|　これほどの大金は　一度に　お渡しできません。|　『うけとる』で　１つずつお受け取りください。|<bw_break>": "Oh! This is a lot of money. We can't give it|to you all at once. You can pick them up one|at a time...|<br><bw_break>"
   },
   "243": {
-    "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "I don't think the money from the Traveler's|Bazaar was sent to you...<bw_break>"
+    "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "You haven't been sent any money from the|Traveler's Bazaar.<bw_break>"
   },
   "244": {
     "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができます！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけます。|<bw_break>": "By using the \"Get Bazaar Sales\" function, you|can receive all of your proceeds from the|Traveler's Bazaar at once!|<br>|However, this is for proceeds only. To|receive items from expired sales, please|use \"Receive\".|<bw_break>"
@@ -777,10 +777,10 @@
     "「……どうやら　ご覧いただける|　お手紙は　まだ　ないようですね。|<bw_break>": "... Apparently, we don't have a letter for|you to read yet.<bw_break>"
   },
   "260": {
-    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　『おもいで私書箱を見る』で|　いつでも　見ることができますよ。|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? You can view|this letter at any time by clicking on \"View|<br>|Post Office Box\"...<yesno 2><break>"
+    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　『おもいで私書箱を見る』で|　いつでも　見ることができますよ。|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? You can view this letter|at any time by using \"Stored Mail\".|<yesno 2><break>"
   },
   "261": {
-    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となります。|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね。|<bw_break>": "This is a special P.O. Box that holds some of|the letters that were sent to adventurers.|The letters you can view include information|<br>|on seasonal events, limited-time events,|storylines, quests,... When you discard your|letters, we'll let you know in the message if|<br>|you can view them in the P.O. Box...<bw_break>"
+    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となります。|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね。|<bw_break>": "This is a special Mailbox that stores special|letters that are sent to all adventurers.|<br>|These letters include ones from seasonal|events, story quests, side quests... et|cetera.|<br>|When you're about to throw a letter away, we|will let you know whether or not you can|view it in your Mailbox.|<bw_break>"
   },
   "262": {
     "確認できる手紙が　ありません。|<bw_break>": "We have a letter confirming...<bw_break>"
@@ -789,7 +789,7 @@
     "<%sL_SENDER_NAME>さんから届いた手紙を　捨てますか？|このお手紙は　『おもいで私書箱を見る』で|いつでも　見ることができます。|<yesno 2><break>": "Do you want to throw away the letter you|received from <%sL_SENDER_NAME>?|You can view this letter at any time by|<br>|clicking on \"View Post Office Box\"...<yesno 2><break>"
   },
   "264": {
-    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となります。|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね。|<bw_break>": "This is a special P.O. Box that holds some of|the letters that were sent to adventurers.|The letters you can view include information|<br>|on seasonal events, limited-time events,|storylines, quests,... When you discard your|letters, we'll let you know in the message if|<br>|you can view them in the P.O. Box...<bw_break>"
+    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となります。|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね。|<bw_break>": "This is a special Mailbox that stores special|letters that are sent to all adventurers.|<br>|These letters include ones from seasonal|events, story quests, side quests... et|cetera.|<br>|When you're about to throw a letter away, we|will let you know whether or not you can|view it in your Mailbox.|<bw_break>"
   },
   "265": {
     "「そのアイテムは　すてられないでしゅ！|　かならず　うけとって　ほしいでしゅ！|<end>": "You can't throw that item away! I want to|make sure you get it!<end>"
@@ -957,10 +957,10 @@
     "「手紙の送料は　無料となっています。|　では　このお手紙を　皆さんに|　お送りして　よろしいでしょうか？|<yesno><break>": "There won't be charge for postage. You'd like|me to send this to all of the recipients|you've chosen, then?|<yesno><break>"
   },
   "320": {
-    "「お客様の　郵便箱には|　何も　届いていないようですね。|<bw_break>": "Nothing seems to have arrived in your|mailbox...<bw_break>"
+    "「お客様の　郵便箱には|　何も　届いていないようですね。|<bw_break>": "There's no mail waiting for you at this time.<bw_break>"
   },
   "321": {
-    "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "I don't think the money from the Traveler's|Bazaar was sent to you...<bw_break>"
+    "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "You haven't been sent any money from the|Traveler's Bazaar.<bw_break>"
   },
   "322": {
     "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　おもいで私書箱で見られないので|　ご注意くださいね。|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? Please note|that this letter cannot be seen at the P.O.|<br>|Box...<yesno 2><break>"
@@ -1146,10 +1146,10 @@
     "「申し訳ありませんが　届いた　お金は|　お受け取りしていただきますよう|　お願いします。|<end>": "I'm sorry, sir, but I'm going to have to ask|you to pick up the money...<end>"
   },
   "383": {
-    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となります。|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね。|<bw_break>": "This is a special P.O. Box that holds some of|the letters that were sent to adventurers.|The letters you can view include information|<br>|on seasonal events, limited-time events,|storylines, quests,... When you discard your|letters, we'll let you know in the message if|<br>|you can view them in the P.O. Box...<bw_break>"
+    "「『おもいで私書箱を見る』とは|　冒険者の皆さま宛てに送られた　一部のお手紙を|　まとめて保管した　専用の私書箱となります。|<br>|「閲覧できる　お手紙は　季節イベントや|　期間限定イベントなどの　各種イベントのご案内|　ストーリーやクエストのお手紙などです。|<br>|「お手持ちの　お手紙を捨てるときに|　おもいで私書箱で　閲覧できるかは|　メッセージにて　ご案内させていただきますね。|<bw_break>": "This is a special Mailbox that stores special|letters that are sent to all adventurers.|<br>|These letters include ones from seasonal|events, story quests, side quests... et|cetera.|<br>|When you're about to throw a letter away, we|will let you know whether or not you can|view it in your Mailbox.|<bw_break>"
   },
   "384": {
-    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　『おもいで私書箱を見る』で|　いつでも　見ることができますよ。|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? You can view|this letter at any time by clicking on \"View|<br>|Post Office Box\"...<yesno 2><break>"
+    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　『おもいで私書箱を見る』で|　いつでも　見ることができますよ。|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? You can view this letter|at any time by using \"Stored Mail\".|<yesno 2><break>"
   },
   "385": {
     "「……どうやら　ご覧いただける|　お手紙は　まだ　ないようですね。|<bw_break>": "... Apparently, we don't have a letter for|you to read yet.<bw_break>"
@@ -1323,19 +1323,19 @@
     "「お前の　郵便箱には　何も　届いてねえぞ。|<bw_break>": "There's nothing in your mailbox...<bw_break>"
   },
   "442": {
-    "「お客様の　郵便箱には|　何も　届いていないようですね。|<bw_break>": "Nothing seems to have arrived in your|mailbox...<bw_break>"
+    "「お客様の　郵便箱には|　何も　届いていないようですね。|<bw_break>": "There's no mail waiting for you at this time.<bw_break>"
   },
   "443": {
-    "「旅人バザーから　売上金は|　届いていないようだ。|<bw_break>": "I haven't received any proceeds from the|Traveler's Bazaar...<bw_break>"
+    "「旅人バザーから　売上金は|　届いていないようだ。|<bw_break>": "You haven't received any earnings from|the Traveler's Bazaar.<bw_break>"
   },
   "444": {
-    "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "I don't think the money from the Traveler's|Bazaar was sent to you...<bw_break>"
+    "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "You haven't been sent any money from the|Traveler's Bazaar.<bw_break>"
   },
   "445": {
-    "「<%sL_SENDER_NAME>からの手紙を　捨てるのか？|　この手紙は　おもいで私書箱で見られないから|　注意するんだな。|<yesno 2><break>": "You're throwing away a letter from|<%sL_SENDER_NAME>? This letter|can't be seen at the P.O. Box, so be|<br>|careful...<yesno 2><break>"
+    "「<%sL_SENDER_NAME>からの手紙を　捨てるのか？|　この手紙は　おもいで私書箱で見られないから|　注意するんだな。|<yesno 2><break>": "You want to throw away the letter from|<%sL_SENDER_NAME>? Please be aware that|you cannot view this in your Mailbox.|<yesno 2><break>"
   },
   "446": {
-    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　おもいで私書箱で見られないので|　ご注意くださいね！|<yesno 2><break>": "Do you want to throw away the letter from|<%sL_SENDER_NAME>? Please note|that this letter can't be seen at the P.O.|<br>|Box in Omoide!<yesno 2><break>"
+    "「<%sL_SENDER_NAME>さんからの手紙を　捨てますか？|　このお手紙は　おもいで私書箱で見られないので|　ご注意くださいね！|<yesno 2><break>": "You want to throw away the letter from|<%sL_SENDER_NAME>? Please be aware that|you cannot view this in your Mailbox!|<yesno 2><break>"
   },
   "447": {
     "「<%sL_SENDER_NAME>から届いた|　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を|　捨ててしまっても　いいのか？|<yesno 2><break>": ""
