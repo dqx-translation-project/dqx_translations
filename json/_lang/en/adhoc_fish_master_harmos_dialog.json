@@ -51,10 +51,10 @@
     "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!|<se_nots System 7><end>"
   },
   "18": {
-    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> received <%dL_NUM> <%sL_HOUSYUU>!|<se_nots System 7><end>"
   },
   "19": {
-    "「……うむ　良い魚だ。|　依頼の品　確かに受けとった。|　報酬を　くれてやろう。|<end>": "... Mm, good. I got what you asked for.|You're paying me...<end>"
+    "「……うむ　良い魚だ。|　依頼の品　確かに受けとった。|　報酬を　くれてやろう。|<end>": "Mhm, a great fish. It's exactly what I asked|for. Please take this reward.<end>"
   },
   "20": {
     "「ちゃんと仕事用に釣って|　持ってくるのだぞ。|　他に　納品できそうな依頼は　あるか？|<break>": "I'll be sure to bring you some fish for work.|Is there anything else you think you can|deliver?<break>"
@@ -69,7 +69,7 @@
     "「めずらしく　<%sL_ITEM>の|　注文が来ている。とても　難しい依頼だ。|　もし　釣り上げられれば　報酬は弾むぞ。|<break>": "I got a rare order for <%sL_ITEM>... It's|very difficult... If we can catch it, the|reward will be...<break>"
   },
   "24": {
-    "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> will acquire <%dL_EXP> P's fishing|experience!|<se_nots System 7><bw_break>"
+    "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> received <%dL_EXP> Fishing EXP!|<se_nots System 7><bw_break>"
   },
   "25": {
     "「おお　これは驚いた！|　こんなに大きな　<%sL_ITEM>は|　なかなか　釣り上げられるものではない！|<br>|「報酬にも　色をつけておこう。|　この調子で　頑張るのだぞ。|<end>": "Oh, this is amazing! It's not every day you|get a <%sL_ITEM> this big! I'll add some|color to the reward... I'll keep working at|<br>|this rate...<end>"
@@ -84,10 +84,10 @@
     "「ごきげんよう　若者よ|　釣りがしたければ　そこの道具屋で|　釣りざおとルアーを　買うのだ。|<br>|「釣りざおとルアーを　両方装備して|　水辺の近くで　<convenience>を押せば|　お前にも　釣りができるだろう。|<br>|「釣り糸を垂らして　じっと待ち……|　さかなの気配を感じたら　すかさず|　<convenience>を　押すべし!|<br>|「すぐに押さなくても　さかなは逃げんが|　ぼーっと待っていても　得なことはないぞ。|<br>|「釣りざおとルアーは　使える回数が|　それぞれ決まっている。壊れてしまったら|　そこの道具屋で　また買うのだ。よいな？|<end>": "Good day, young man, if you want to fish, go|to your local tackle shop and buy a fishing|rod and lure. You'll need both a fishing rod|<br>|and a lure, and you'll need to be near the|water.<convenience>If you press the \"+\" button, you can start|fishing... Just drop your line and wait...|And when you see the fish...<convenience>You have to push! Even if you don't press it|right away, the fish won't run away, but|there's nothing to be gained by waiting|<br>|idly... Each fishing lure can be used a|certain number of times... If it's broken,|you can buy another one at the tool store...|<br>|Good, huh?<end>"
   },
   "29": {
-    "「おお　<%sL_FISH_RANK>サイズの魚を　<%nL_FISH_NUM>種類|　釣り上げたようだな。|<br>|「よくやった。|　さかなぶくろを|　大きい物に　替えてやろう。|<end>": "Oh, I caught <%sL_FISH_RANK>sized fish in|<%nL_FISH_NUM>types... Well... I'm gonna get|a bigger fish bag...<end>"
+    "「おお　<%sL_FISH_RANK>サイズの魚を　<%nL_FISH_NUM>種類|　釣り上げたようだな。|<br>|「よくやった。|　さかなぶくろを|　大きい物に　替えてやろう。|<end>": "Oh, you've caught <%dL_FISH_NUM> <%sL_FISH_RANK> size fish.|<br>|You've done well. I will give you a bigger|bag to hold your fish in.|<end>"
   },
   "30": {
-    "<speed=0><pipipi_off>|さかなぶくろが　大きくなった！|<se_nots System 7><pipipi_on><end>": "<speed=0><pipipi_off>My fish bag is getting bigger!|<se_nots System 7><pipipi_on><end>"
+    "<speed=0><pipipi_off>|さかなぶくろが　大きくなった！|<se_nots System 7><pipipi_on><end>": "<speed=0><pipipi_off>Your fish bag increased in size!|<se_nots System 7><pipipi_on><end>"
   },
   "31": {
     "「おお！　キングサイズの魚を　釣り上げたのか！|　これは　褒美をやらんわけには　いかないな。|<end>": "Oh! You caught a king-sized fish! I'm going|to have to reward you for this...<end>"
@@ -108,7 +108,7 @@
     "「おお　釣り上げた　<%sL_FISH_RANK>サイズの　魚の数が|　<%nL_KEIHIN_NUM>種類に　到達したな。|　<%sL_KEIHIN_ITEM>を　<%nL_KEIHIN_NUM2>個やろう。|<end>": "Oh, the number of <%sL_FISH_RANK> sized fish|you've caught has reached <%nL_KEIHIN_NUM>|species... <%sL_KEIHIN_ITEM> to|<br>|<%nL_KEIHIN_NUM2> pieces...<end>"
   },
   "37": {
-    "<pipipi_off>|<pc>は|<%sL_KEIHIN_ITEM>を　<%nL_KEIHIN_NUM2>個　手に入れた！|<se_nots System 7><end>": "<pipipi_off>|<pc> got <%sL_KEIHIN_ITEM> for <%nL_KEIHIN_NUM2>!|<se_nots System 7><end>"
+    "<pipipi_off>|<pc>は|<%sL_KEIHIN_ITEM>を　<%nL_KEIHIN_NUM2>個　手に入れた！|<se_nots System 7><end>": "<pipipi_off>|<pc> received <%dL_KEIHIN_NUM2 ><%sL_KEIHIN_ITEM>!|<se_nots System 7><end>"
   },
   "38": {
     "「どの説明を　聞きたいんだ。|<select_se_off>|依頼をみる|褒美をみる|さかなぶくろについて|<select_end>|<break>": "I'd like to hear what you have to say.|<select_se_off>|View Requests|look at the rewards|About the fish bag|<select_end>|<break>"
