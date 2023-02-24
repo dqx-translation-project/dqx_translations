@@ -9,7 +9,7 @@
     "「おお　<pc>！|　おぬしのことを　待っておったんじゃ。": "Oh, <pc>! I've been waiting for you."
   },
   "4": {
-    "「マレイカどの。この　<pc>は|　これまで　何度も　ワシを救ってくれた|　たいへん　有能な冒険者なんじゃ！": "Maleika, this is <pc>. There are|quite the capable adventurer, even saving|my life many times already!"
+    "「マレイカどの。この　<pc>は|　これまで　何度も　ワシを救ってくれた|　たいへん　有能な冒険者なんじゃ！": "Maleika, this is <pc>. <if_woman>she<else>he<endif> is|quite the capable adventurer, even saving|my life many times already!"
   },
   "5": {
     "<if_woman>「彼女に　かかれば　またたく間に|　この問題も　解決するじゃろう！<else>「彼に　かかれば　またたく間に|　この問題も　解決するじゃろう！<endif>": "If <if_woman>she's<else>he's<endif> willing to help, then we'll have this|problem solved in no time at all!<endif>"
@@ -108,10 +108,10 @@
     "「しかも　そっちの世界には|　魔物に変えられた　呪いを解く|　クドゥスの泉なんてものがあるんだ……。": "And in your world, there's a Kudus Spring that|breaks the curse that turns people into|monsters..."
   },
   "37": {
-    "「じゃあ　<pc>さんと　一緒に戻って|　カレヴァンさんが　その泉に　つかれば|　人間の姿に　戻れるってことだよね……。": "So if you and Kalevan go to that fountain,|he'll be able to change back into a human..."
+    "「じゃあ　<pc>さんと　一緒に戻って|　カレヴァンさんが　その泉に　つかれば|　人間の姿に　戻れるってことだよね……。": "So if you and Kalevan go to that spring,|he'll be able to change back into a human..."
   },
   "38": {
-    "「……ねぇ　カレヴァンさん。|　家族に　会いたいよね？|　一緒に　元いた世界に　帰ろっ！": "Hey, Kalevan... you miss your family, right?|Let's go back to our original world together!"
+    "「……ねぇ　カレヴァンさん。|　家族に　会いたいよね？|　一緒に　元いた世界に　帰ろっ！": "Hey, Kalevan... you miss your family, right?|Let's go back home, together!"
   },
   "39": {
     "「……ガルッ！": "Grrr!!"
@@ -132,7 +132,7 @@
     "「私たち　ようやく|　元の世界に　戻れるんだね……。": "We can finally return to our world..."
   },
   "45": {
-    "「じゃあ　さっそくだけど|　<pc>さんに　くっついてくから|　いつものように　やってみせて！": "Well then, I'll let you do your thing, and|I'll be right behind you!"
+    "「じゃあ　さっそくだけど|　<pc>さんに　くっついてくから|　いつものように　やってみせて！": "Well then, I'll let you do your thing, and|we'll be right behind you!"
   },
   "46": {
     "「ガルッ！": "Grr!!"
@@ -270,7 +270,7 @@
     "<cs_pchero>は　セラフィから|銀のカメオ（だいじなもの）を　受け取った。<me 60>": "<cs_pchero> received|the Silver Cameo (Key Item) from Seraphi.<me 60>"
   },
   "91": {
-    "「でも　早いうちに　こっちの世界から|　元の世界に戻れる方法を　探さなきゃ……だね。": "But... we really gotta find a way to get back|to world as soon as possible..."
+    "「でも　早いうちに　こっちの世界から|　元の世界に戻れる方法を　探さなきゃ……だね。": "But... we really gotta find a way to get back|to our world as soon as possible..."
   },
   "92": {
     "「私たちも　心当たりを調べてみる。|　元の世界に戻れる方法が　わかったら|　また　会いましょ！": "We'll see what we can find. Once we can figure|it out, let's meet up again!"
