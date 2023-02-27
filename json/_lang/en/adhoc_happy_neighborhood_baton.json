@@ -1,6 +1,6 @@
 {
   "1": {
-    "<attr><feel_sad_lv1><end_attr>「あ……もしかして～|　幸せのご近所バトン　パスしちゃうの～？|<yesno 2><case 1><close>|<case 2><break>|<case_cancel><break>": "<attr><feel_sad_lv1><end_attr>Oh... I see...|Are you going to pass on the baton, or not?|<yesno 2><case 1><close>|<case 2><break>|<case_cancel><break>"
+    "<attr><feel_sad_lv1><end_attr>「あ……もしかして～|　幸せのご近所バトン　パスしちゃうの～？|<yesno 2><case 1><close>|<case 2><break>|<case_cancel><break>": "<attr><feel_sad_lv1><end_attr>Oh... I see...|You won't pass the baton, then...?|<yesno 2><case 1><close>|<case 2><break>|<case_cancel><break>"
   },
   "2": {
     "「お題に答えて　幸せのご近所バトンを|　<%nL_MONTH>月<%nL_DAY>日<%nL_HOUR>時までに|　ご近所の人まで　まわしてほしいの～。|<br>|「<pc>たま　まわしてくれる～？|<yesno><case 1><break><case 2><break><case_cancel><break>": "I'd like you to answer the question by|<%dL_MONTH>/<%02dL_DAY> at <%02dL_HOUR>:00 JST and then pass it on, if|you can! What do you think, <pc>?|<yesno><case 1><break><case 2><break><case_cancel><break>"
@@ -15,7 +15,7 @@
     "「わかったの～。あたちは　<%nL_MONTH>月<%nL_DAY>日<%nL_HOUR>時まで|　ここにいるから　気が向いたら|　話しかけてほしいの～。": "I see. Well, I will be here until <%dL_MONTH>/<%02dL_DAY>|<%02dL_HOUR>:00 JST, so please talk to me again|if you change your mind!"
   },
   "6": {
-    "<attr><feel_sad_lv3><end_attr>「残念なの～。また来るね～。|　その時　気が向いたら　まわしてねなの～。": "<attr><feel_sad_lv3><end_attr>I'm sorry. I'll be back. If you're feeling up|to it, please pass it around."
+    "<attr><feel_sad_lv3><end_attr>「残念なの～。また来るね～。|　その時　気が向いたら　まわしてねなの～。": "<attr><feel_sad_lv3><end_attr>That's too bad... then I'll see you again.|If you're feeling up to it then, please pass|it on next time!"
   },
   "7": {
     "「今回の　幸せのご近所バトンの　お題はこちら！|<color_yellow>|　『<%sL_QUESTION>』|<color_white>|　だよ～！　お好きに　答えてほしいの～。|<bw_break>": "The subject of this time's Happiness|Neighborhood Baton is this!|<color_yellow>|\"<%sL_QUESTION>\"|<color_white>|Answer it however you like!|<bw_break>"
