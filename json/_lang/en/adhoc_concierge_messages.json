@@ -3,7 +3,7 @@
     "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<if_woman>Ms.<else>Mr.<endif> <pc>,|thank you for using our service.<bw_break>"
   },
   "2": {
-    "「お待たせいたしました！|　<%nL_WEEK>週間分の　サポートゴールドを|　お渡しいたします！|<br>|「<pc>さまの　現在の名声レベルですと|　<%nL_SUPPORT_GOLD>ゴールドに　なります。|　どうぞ　冒険にお役立てください！<bw_break>": "Sorry for the wait! We've got <%nL_WEEK>|weeks of support gold for you!<pc> Your current prestige level is|<%nL_SUPPORT_GOLD> gold... Please use it for|your adventures!<bw_break>"
+    "「お待たせいたしました！|　<%nL_WEEK>週間分の　サポートゴールドを|　お渡しいたします！|<br>|「<pc>さまの　現在の名声レベルですと|　<%nL_SUPPORT_GOLD>ゴールドに　なります。|　どうぞ　冒険にお役立てください！<bw_break>": "Thanks for your patience! We have <%dL_WEEK> week(s)|worth of Support Gold for you!|<br>|With your current fame level, you'll|receive <%dL_SUPPORT_GOLD> Gold. We hope it will help|you on your adventures to come!<bw_break>"
   },
   "3": {
     "「ご利用　ありがとうございました。|　充実した冒険ライフを　お過ごしください。|<end>": "Thank you for using our service. We hope you|have a wonderful adventure.|<end>"
@@ -33,10 +33,10 @@
     "「そうですか……。|　登録は　いつでもできますので|　気が変わったら　また　お越しください。": "Okay, well... You can register at any time,|so if you change your mind, please come|back..."
   },
   "12": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "13": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "14": {
     "「こちらは　旅のコンシェルジュです。|　冒険者の皆さまに様々なサービスを提供するため|　世界宿屋協会より　派遣されております。|<br>|「私どもが　提供しているサービスについて|　ご紹介させていただきます。|<br>|「まずは　支給サービス！　当コンシェルジュに|　登録するだけで　毎週金曜日に　ゴールドや|　チケットが　支給されるサービスです。|<br>|「続いて　元気チャージ交換サービス！|　遊んでいない時間を　経験値がたくさん稼げる|　便利なアイテムと　交換できるサービスです。": "This is the Travel Concierge... We have been|dispatched by the World Association of|Innkeepers to provide a variety of services|<br>|to adventurers... Let me introduce you to|some of the services we offer... First of|all, we provide the service! Just by|<br>|registering with our concierge, you can|receive gold and tickets every Friday...|Next, we offer an energy recharge exchange|<br>|service! This is a service that allows you to|exchange your unused time for useful items|that allow you to gain more experience..."
@@ -75,7 +75,7 @@
     "「元気玉　小元気玉　超元気玉について|　ご説明させていただきます。|<br>|「いずれも　使うと一定時間　元気タイムになり|　獲得経験値やゴールドが　２倍になるという|　不思議なアイテムです。|<br>|「元気玉は　あなたが冒険を中断していた時間の|　『元気チャージ』と交換します。元気チャージは|　最大４４０時間まで　貯まります！|<br>|「元気チャージは　すべての冒険の書で共通です。|　異なる冒険の書であっても　冒険をしている間は|　元気チャージされませんので　ご注意ください。|<br>|「元気玉を使うと　元気タイムが始まりますが|　冒険を中断している間は　残り時間は|　減りませんので　うまくご活用くださいませ。|<end>": "Let me explain about the Genki Dama, Small|Genki Dama, and Super Genki Dama... When you|use any of these items, you'll enter a|<br>|certain amount of \"Genki Time\", and your|experience and gold will be doubled. The|Genki Balls can be exchanged for Genki|<br>|Charges for the time you've been out of the|game. You can accumulate up to 440 hours of|Recharge! Genki Charges can be used in all|<br>|Adventure Books... Please note that even if|you use different Adventure Books, you won't|be able to recharge while you're adventuring.|<br>|When you use a Genki-dama, your Genki Time|will start, but the remaining time will not|decrease while you're not adventuring.<end>"
   },
   "26": {
-    "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　お渡しします。|　よろしいですか？|<yesno><break>": "Energize <%nL_UTIME> your <%sL_ITEM> with|<%nL_GENKINUM><%sM_TANI> time... May I?<yesno><break>"
+    "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　お渡しします。|　よろしいですか？|<yesno><break>": "You want to exchange <%dL_UTIME> Charge Hours for|<%dL_GENKINUM> <%sM_TANI>?|<yesno><break>"
   },
   "27": {
     "<pipipi_high>「おかえりなさいませ！|　世界宿屋協会提供　旅のコンシェルジュの|　サービスカウンターは　こちらです。<bw_break>": "<pipipi_high>Welcome back! Courtesy of the World|Association of Innkeepers, this is the Travel|Concierge service counter.<bw_break>"
@@ -135,7 +135,7 @@
     "「ダブルすれちがいとは　ニンテンドー３ＤＳの|　『冒険者のおでかけ便利ツール』を使って|　外の世界で　すれちがい通信をしていただき……|<br>|「外の世界で　すれちがった方と|　この世界にて　再び　すれちがうと|　ダブルすれちがいを　達成したことになります！|<br>|「ダブルすれちがい達成で　ポイントが貯まり|　私ども　旅のコンシェルジュにて|　ポイントに応じた　記念の品を差し上げます。|<br>|「…ですが　ニンテンドー３ＤＳの|　『冒険者のおでかけ便利ツール』は|　サービスを　終了しております。|<br>|「新規に　すれちがい達成は　できませんが|　たまっているポイントに応じた　記念品は|　差し上げておりますので　ご安心ください。|<end>": "Double StreetPass is a game where you use the|Nintendo 3DS \"Adventurer's Outing Tool\" to|communicate with other players in the outside|<br>|world. If you meet someone in the outside|world and they meet you again in this world,|you've achieved a Double StreetPass! You will|<br>|earn points for each double crossing, and we,|the Travel Concierge, will give you a|commemorative gift according to your|<br>|points... ... But the \"Adventurer's Outing|Tool\" for Nintendo 3DS is no longer in|service... We're sorry, but you won't be able|<br>|to complete any new encounters, but you will|still receive a commemorative gift based on|your accumulated points.<end>"
   },
   "46": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc> received <%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "47": {
     "「<pc>さまへの|　次回の　サポートゴールド給付は|　およそ　<%nL_DAY>日後になります。|<bw_break>": "Your next support gold reward will become|available in about <%dL_DAY> day(s).|<bw_break>"
@@ -453,7 +453,7 @@
     "「現在の元気チャージは　<%nL_CTIME>時間です。|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要です。|<bw_break>": "Current energy charge is <%nL_CTIME>... In|order to exchange <%sL_ITEM>, you need to|have at least <%nL_RATE> hours of energy|<br>|charge...<bw_break>"
   },
   "152": {
-    "<pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%sL_ITEM> for <%dL_GENKINUM><%sM_TANI>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pc> received <%dL_GENKINUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "153": {
     "「残りの元気チャージは　<%nL_CTIME>時間です。|　メタル迷宮招待券で　すごいメタル体験が|　できることを　祈っております。|<end>": "You now have <%dL_CTIME> hours of Energy Charge left.|I hope you'll have a wonderful \"experience\"|with your Metal Maze Ticket.|<end>"
@@ -534,10 +534,10 @@
     "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM>!<se_nots System 7>|<end>"
   },
   "179": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "180": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "181": {
     "「ところで　私から　新たにカジノコインを|　<%sM_OWNER><%sM_SAMA>に　お渡しできるように|　なったので　ご報告させていただきます。|<br>|「毎週金曜日に　カジノで　ご利用いただける|　コインチケットが　旅のコンシェルジュから|　支給されますので　この場でお渡しできます。|<br>|「支給チケットは　カジノコイン　１００枚分！|　大当たりを夢見て　ゴージャスなカジノゲームを|　こころゆくまで　お楽しみください！|<bw_break>": "By the way, I'm happy to announce that I'm|now able to give casino coins to|<%sM_OWNER><%sM_SAMA>... Every Friday, you'll|<br>|receive a coin ticket from our travel|concierge that can be used at the casino. The|ticket is worth 100 casino coins! Enjoy our|<br>|gorgeous casino games to your heart's content|and dream of winning the jackpot!<bw_break>"
@@ -663,7 +663,7 @@
     "「ふくびきの新しいサービス……|　スペシャルふくびきについて　ご説明します。|<br>|「通常のふくびきで　３等以上を獲得されますと|　幸運のダブルチャンスとして|　スペシャルふくびき券　２枚を進呈いたします。|<br>|「スペシャルふくびき券は　１枚で１回|　特別な報酬が　めじろおしの|　スペシャルふくびきに　挑戦できるチケット。|<br>|「さらに　スペシャルふくびき券　獲得の際には|　最近　一緒に冒険した　最大１２名のフレンドに|　幸運のおすそ分けが　起こるのです！|<br>|「なんと　フレンドの方たちにも|　スペシャルふくびき券を　１枚ずつ|　郵送させていただくという　出血大サービス！|<br>|「もちろん　このサービスにより|　<%sM_OWNER><%sM_SAMA>の　スペシャルふくびき券が|　減ることはありませんので　ご安心ください。|<br>|「なお　スペシャルふくびき券の　おすそわけは|　サポート仲間にした　フレンドも|　対象となります。|<br>|「通常のふくびきで　３等以上を獲得されましたら|　フレンドの皆様とともに　スペシャルふくびきで|　さらなる福を　引き当ててください。|<end>": "New Lucky Draw Service... Explanation of the|Special Luck Draw... If you win the third|prize or more in the regular Lucky Draw, you|<br>|will receive two Special Lucky Draw tickets|as a lucky double chance... Each Special Luck|Ticket is good for one try at the Special|<br>|Luck... What's more, when you earn a Special|Luck Ticket, you'll be able to share your|good fortune with up to 12 of your friends|<br>|who've been adventuring with you recently!|What's more, we'll even mail one Special|Discount Coupon to each of your friends... a|<br>|bloody great service! Of course, this service|won't reduce the number of Special Discount|Tickets for <%sM_OWNER><%sM_SAMA>, so don't|<br>|worry... And don't forget, you can also give|away special coupons to friends you've made|into support buddies... If you win third|<br>|prize or more in the regular lottery, you and|your friends can win even more in the special|lottery...<end>"
   },
   "222": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc> received <%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "223": {
     "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>枚　手に入れた！<se_nots System 7>|<end>": "<pc> received <%dL_ITEMNUM> <%sL_ITEM>!<se_nots System 7>|<end>"
@@ -672,7 +672,7 @@
     "「<%sL_ITEM>ですね。こちらは　使うと１０分間|　特訓元気タイムになり　獲得特訓スタンプが|　２倍になります。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "<%sL_ITEM>... When you use this, you'll get|10 minutes of training energy time, and|you'll get double the training stamps... You|<br>|have <%nL_CTIME> hours to recharge... I can|give you <%sL_ITEM> up to <%nL_MAXNUM>, how|many would you like?<break>"
   },
   "225": {
-    "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　お渡しします。|　よろしいですか？|<yesno><break>": "Energize <%nL_UTIME> your <%sL_ITEM> with|<%nL_GENKINUM><%sM_TANI> time... May I?<yesno><break>"
+    "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　お渡しします。|　よろしいですか？|<yesno><break>": "You want to exchange <%dL_UTIME> Charge Hours for|<%dL_GENKINUM> <%sM_TANI>?|<yesno><break>"
   },
   "226": {
     "「……あっ。ですが　お金がいっぱいですね。|　持ちきれないゴールドは　なくなりますが|　受け取りますか？|<yesno><close>": "..... But I have so much money... The gold|you can't keep is gone. Do you want to take|it?<yesno><close>"
@@ -693,7 +693,7 @@
     "「ところで　<%sM_OWNER><%sM_SAMA>。|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　ビンゴ券プレゼントサービス！|　毎週金曜日に　カジノにあるビンゴコーナーで|　ご利用いただける券を　支給いたします！|<br>|「支給券は　３枚！|　１枚で１回　ビンゴをお楽しみいただけます。|　どうぞ　お楽しみください！|<br>|": "By the way, <%sM_OWNER><%sM_SA... I'd like to|introduce you to a new service we've|started... It's called Bingo Ticket Giveaway!|<br>|Every Friday, we'll be giving away tickets|that can be used at the bingo corner in the|casino! You'll get 3 tickets! Each ticket|<br>|will allow you to play bingo once... Please|enjoy!"
   },
   "232": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|bingo tickets! That's a total of <%nL_CASINO>|<br>|bingo tickets... I hope you enjoy your bingo!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Bingo Tickets for you!|<br>|That's a total of <%dL_CASINO> Bingo Ticket(s). We|hope you have fun playing Bingo!|<bw_break>"
   },
   "233": {
     "「……と思いましたが|　どうやら　<%sM_OWNER><%sM_SAMA>は|　どうぐかばんが　いっぱいのようですね。|<br>|「こちらで　お預かりしておきますので|　また　受け取りに　いらしてください。|<bw_break>": "... But it seems that <%sM_OWNER><%sM_SAMA>|has no more bags... I'll leave it here for|you, and you can come back and pick it up...<bw_break>"
@@ -708,7 +708,7 @@
     "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　ビンゴ券プレゼントサービス！|　毎週金曜日に　カジノにあるビンゴコーナーで|　ご利用いただける券を　支給いたします！|<br>|「支給券は　３枚！|　１枚で１回　ビンゴをお楽しみいただけます。|<br>|「さらに　もうひとつ|　新たなサービスを　始めます。|　その名も　おくりもの受け取りサービス！|<br>|「サポートゴールドや　各種チケットなどの|　支給サービスと　ストーリー報酬を|　お好きなタイミングで　受け取れます。|<br>|「なお　これらの支給サービスについては|　今後は　この　おくりもの受け取りサービスを|　ご利用いただかないと　取得できません。|<br>|「あらかじめ　ご了承くださいませ。　|<end>": "By the way, we at Travel Concierge have|started a new service, which I'd like to|introduce to you. It's called Bingo Ticket|<br>|Giveaway Service! Every Friday, we'll give|you a ticket to use at the bingo corner in|the casino! You'll get 3 tickets! Each ticket|<br>|will allow you to play bingo once... We've|also added a new service... It's called|\"Delivery Service\"! You'll be able to receive|<br>|support gold, tickets, and story rewards at|any time... You'll need to use this service|to receive these services from now on. Thank|<br>|you for your understanding...<end>"
   },
   "237": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|bingo tickets! That's a total of <%nL_CASINO>|<br>|bingo tickets... I hope you enjoy your bingo!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Bingo Tickets for you!|<br>|That's a total of <%dL_CASINO> Bingo Ticket(s). We|hope you have fun playing Bingo!|<bw_break>"
   },
   "238": {
     "「……と思いましたが|　どうやら　<pc>さまは|　どうぐかばんが　いっぱいのようですね。|<br>|「こちらで　お預かりしておきますので|　また　受け取りに　いらしてください。|<bw_break>": " I thought| it appears that<pc> It looks like your bag is full... I'll leave|it here for you, and you can come back and|pick it up...<bw_break>"
@@ -3966,7 +3966,7 @@
     "「他にも　同じ賞品がございますので|　<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　まとめて　お渡しいたします。よろしいですか？|<yesno><break>": "We have other prizes of the same nature, so|we'd like to give you <%dL_ITEMNUM> for|<%sL_PRIZENAME>... Are you sure?<yesno><break>"
   },
   "1323": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM> in one place!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc> collectively received|<%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "1324": {
     "「他にも　同じ賞品がございますので|　<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　まとめて　お渡しいたします。よろしいですか？|<yesno><break>": "We have other prizes of the same nature, so|we'd like to give you <%dL_ITEMNUM> for|<%sL_PRIZENAME>... Are you sure?<yesno><break>"
@@ -3990,7 +3990,7 @@
     "「他にも　同じ賞品がございますので|　<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　まとめて　お渡しいたします。よろしいですか？|<yesno><break>": "We have other prizes of the same nature, so|we'd like to give you <%dL_ITEMNUM> for|<%sL_PRIZENAME>... Are you sure?<yesno><break>"
   },
   "1331": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM> in one place!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc> collectively received|<%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "1332": {
     "「他にも　同じ賞品がございますので|　<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　まとめて　お渡しいたします。よろしいですか？|<yesno><break>": "We have other prizes of the same nature, so|we'd like to give you <%dL_ITEMNUM> for|<%sL_PRIZENAME>... Are you sure?<yesno><break>"
@@ -4101,7 +4101,7 @@
     "「カジノプレイチケットの給付は|　毎週金曜日だよー。|　次の金曜日になるまで　待っててねー。|<bw_break>": "The casino play tickets benefit every|Friday... Wait until the next Friday...<bw_break>"
   },
   "1368": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|casino play tickets! That's a total of|<br>|<%nL_CASINO> casino tickets... You can use|them to play bingo and backgammon!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Casino Play Tickets for you!|<br>|That's a total of <%dL_CASINO> Casino Play Ticket(s).|We hope you have fun playing Bingo and|Sugoroku!|<bw_break>"
   },
   "1369": {
     "「カジノプレイチケット給付は|　毎週金曜日に　行っております。|　次回金曜日になるまで　お待ちください。|<bw_break>": "The casino play ticket benefit is offered|every Friday... Please wait until the next|Friday...<bw_break>"
@@ -4125,7 +4125,7 @@
     "「カジノプレイチケットは|　金曜日にならないと　渡せないわ。|　次の金曜日が来るまで　待ってくれるかしら。|<bw_break>": "I can't give you a ticket to the casino until|Friday... They'll wait until next Friday...<bw_break>"
   },
   "1376": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|casino play tickets! That's a total of|<br>|<%nL_CASINO> casino tickets... You can use|them to play bingo and backgammon!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Casino Play Tickets for you!|<br>|That's a total of <%dL_CASINO> Casino Play Ticket(s).|We hope you have fun playing Bingo and|Sugoroku!|<bw_break>"
   },
   "1377": {
     "「カジノプレイチケット給付は|　毎週金曜日に　行っております。|　次回金曜日になるまで　お待ちください。|<bw_break>": "The casino play ticket benefit is offered|every Friday... Please wait until the next|Friday...<bw_break>"
@@ -5277,16 +5277,16 @@
     "「お待たせいたしましたっ！|　<%nL_WEEK>週間分の　サポートゴールドを|　お渡しいたします！|<br>|「<pc>さまの　現在の名声レベルですと|　<%nL_SUPPORT_GOLD>ゴールドに　なりますね。|　どうぞ　冒険にお役立てください！<bw_break>": "We've been waiting for you! You'll receive|<%nL_WEEK> weeks worth of support gold!<pc> Your current prestige level is|<%nL_SUPPORT_GOLD> gold... Please use it for|your adventures!<bw_break>"
   },
   "1760": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "1761": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "1762": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "1763": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "1764": {
     "「おいおい　お金がいっぱいだな。|　持ちきれないゴールドは　なくなってしまうが|　受け取るかい？|<yesno><close>": "Hey, hey, hey, hey, hey. There's so much|money... The gold you can't keep is gone. Do|you want it?<yesno><close>"
@@ -5301,16 +5301,16 @@
     "「……あっ　ですが　お金がいっぱいですね。|　持ちきれないゴールドは　なくなって|　しまいますが　受け取りますか？|<yesno><close>": "... Oh, but I have so much money... The gold|you can't keep is gone, but will you take it?<yesno><close>"
   },
   "1768": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "1769": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "1770": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "1771": {
-    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> got <%dL_SUPPORT_GOLD> gold!|<se_nots System 7><end>"
+    "<pipipi_off><pc>は|<%dL_SUPPORT_GOLD>ゴールドを　手に入れた！|<se_nots System 7><end>": "<pipipi_off><pc> received <%dL_SUPPORT_GOLD> Gold!|<se_nots System 7><end>"
   },
   "1772": {
     "「じゃあ　コンシェルジュで|　あずかっておくから|　また　受け取りに　きてくれよな。<bw_break>": "Then I'll leave it at the concierge, and you|can come back and pick it up.<bw_break>"
@@ -5757,16 +5757,16 @@
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりましたっ！|<break>": "Congratulations! You've won a Rank <%dL_TOU> prize!|<break>"
   },
   "1920": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc> received <%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "1921": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc> received <%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "1922": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc> received <%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "1923": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM>!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個　手に入れた！<se_nots System 7>|<end>": "<pc> received <%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "1924": {
     "<pc>は|<%sL_ITEM>を　手に入れた！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM>!<se_nots System 7>|<end>"
@@ -6540,13 +6540,13 @@
     "「待たせたな！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "You've been waiting! It's Friday and I'm|giving away <%nL_CASINO_WEEK> weeks worth of|bingo tickets! That's a total of <%nL_CASINO>|<br>|bingo tickets... I hope you enjoy your bingo!<bw_break>"
   },
   "2181": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|bingo tickets! That's a total of <%nL_CASINO>|<br>|bingo tickets... I hope you enjoy your bingo!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Bingo Tickets for you!|<br>|That's a total of <%dL_CASINO> Bingo Ticket(s). We|hope you have fun playing Bingo!|<bw_break>"
   },
   "2182": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|bingo tickets! That's a total of <%nL_CASINO>|<br>|bingo tickets... I hope you enjoy your bingo!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Bingo Tickets for you!|<br>|That's a total of <%dL_CASINO> Bingo Ticket(s). We|hope you have fun playing Bingo!|<bw_break>"
   },
   "2183": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|bingo tickets! That's a total of <%nL_CASINO>|<br>|bingo tickets... I hope you enjoy your bingo!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　ビンゴ券を|　お渡しいたします！|<br>|「合計で　ビンゴ券　<%nL_CASINO>枚になります。|　ビンゴを楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Bingo Tickets for you!|<br>|That's a total of <%dL_CASINO> Bingo Ticket(s). We|hope you have fun playing Bingo!|<bw_break>"
   },
   "2184": {
     "「……と思いましたが|　どうやら　<pc>さまは|　どうぐかばんが　いっぱいのようですね。|<br>|「こちらで　お預かりしておきますので|　また　受け取りに　いらしてください。|<bw_break>": " I thought| it appears that<pc> It looks like your bag is full... I'll leave|it here for you, and you can come back and|pick it up...<bw_break>"
@@ -6885,16 +6885,16 @@
     "「他にも　同じ賞品がございますので|　<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　まとめて　お渡しいたします。よろしいですか？|<yesno><break>": "We have other prizes of the same nature, so|we'd like to give you <%dL_ITEMNUM> for|<%sL_PRIZENAME>... Are you sure?<yesno><break>"
   },
   "2296": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM> in one place!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc> collectively received|<%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "2297": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM> in one place!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc> collectively received|<%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "2298": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM> in one place!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc> collectively received|<%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "2299": {
-    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%dL_ITEMNUM> of <%sL_ITEM> in one place!|<se_nots System 7>|<end>"
+    "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>個|まとめて　手に入れた！<se_nots System 7>|<end>": "<pc> collectively received|<%dL_ITEMNUM> <%sL_ITEM>!|<se_nots System 7>|<end>"
   },
   "2300": {
     "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　カジノプレイチケット支給サービス！|　毎週金曜日に　カジノの　ビンゴとすごろくで|　ご利用いただけるチケットを　支給いたします！|<br>|「支給されるチケットは　３枚！　このチケットは|　１枚で１回　ビンゴを　３枚で１回　すごろくを|　それぞれ　お楽しみいただけます。|<br>|「ビンゴを　お楽しみいただくか|　すごろくを　お楽しみいただくかは|　どうぞ　ご自由に　お選びください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called \"Casino Play Ticket|<br>|Service\"! Every Friday, we'll give you|tickets to play bingo and backgammon at the|casino! You'll receive 3 tickets! One ticket|<br>|is good for one round of bingo, and three|tickets are good for one round of backgammon.|You can choose whether you want to play bingo|<br>|or sugoroku...<end>"
@@ -6936,13 +6936,13 @@
     "「待たせたな！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "You've been waiting! It's Friday and I'm|giving you <%nL_CASINO_WEEK> weeks worth of|casino play tickets! That's a total of|<br>|<%nL_CASINO> casino tickets... You can use|them to play bingo and backgammon!<bw_break>"
   },
   "2313": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|casino play tickets! That's a total of|<br>|<%nL_CASINO> casino tickets... You can use|them to play bingo and backgammon!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Casino Play Tickets for you!|<br>|That's a total of <%dL_CASINO> Casino Play Ticket(s).|We hope you have fun playing Bingo and|Sugoroku!|<bw_break>"
   },
   "2314": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|casino play tickets! That's a total of|<br>|<%nL_CASINO> casino tickets... You can use|them to play bingo and backgammon!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Casino Play Tickets for you!|<br>|That's a total of <%dL_CASINO> Casino Play Ticket(s).|We hope you have fun playing Bingo and|Sugoroku!|<bw_break>"
   },
   "2315": {
-    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Sorry for the wait! It's Friday and we're|giving away <%nL_CASINO_WEEK> weeks worth of|casino play tickets! That's a total of|<br>|<%nL_CASINO> casino tickets... You can use|them to play bingo and backgammon!<bw_break>"
+    "「お待たせいたしました！　金曜日を迎えたので|　<%nL_CASINO_WEEK>週間分の　カジノプレイチケットを|　お渡しいたします！|<br>|「合計で　カジノプレイチケット|　<%nL_CASINO>枚になります。ビンゴと　すごろくを|　楽しむのに　お役立てください！|<bw_break>": "Thank you for your patience! Friday has|arrived, and we have <%dL_CASINO_WEEK> week(s) worth|of Casino Play Tickets for you!|<br>|That's a total of <%dL_CASINO> Casino Play Ticket(s).|We hope you have fun playing Bingo and|Sugoroku!|<bw_break>"
   },
   "2316": {
     "「カジノプレイチケット給付は|　毎週金曜日に　行っております。|　次回金曜日になるまで　お待ちください。|<bw_break>": "The casino play ticket benefit is offered|every Friday... Please wait until the next|Friday...<bw_break>"
