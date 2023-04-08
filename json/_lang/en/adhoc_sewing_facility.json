@@ -12,7 +12,7 @@
     "さいほう設備がある。|さいほう針があれば|ここで　さいほうが　できそうだ。": "Sewing equipment... If you have a sewing|needle, you can do it here..."
   },
   "5": {
-    "<%sL_RECIPE>の素材を　失った……。<bw_break>": "We've lost the <%sL_RECIPE> material...<bw_break>"
+    "<%sL_RECIPE>の素材を　失った……。<bw_break>": "The crafting materials were lost...<bw_break>"
   },
   "6": {
     "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
@@ -87,7 +87,7 @@
     "精神統一をすると　その時のぬいパワーを|３ターンの間　持続させることができます。": "When you unify your mind, your Nui power|lasts for three turns..."
   },
   "30": {
-    "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><close>": "<speed=0><%sL_RECIPE> to finish... Are you sure?<yesno><close>"
+    "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><close>": "<speed=0>Finish working on the|<%sL_RECIPE>?|<yesno><break>"
   },
   "31": {
     "<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "Create <%sL_RECIPE>... Are you sure?<yesno><close>"
@@ -96,19 +96,19 @@
     "さいほうの遊び方の説明です！|<br>|カットされた布を　ぬいあわせて|成功ラインに合うように　形を整えてください。|<br>|すべてのマス目が　成功ラインに合ったら|『しあげる』コマンドで　完成です！|<br>|ぬう強さは　１回ぬうごとに変わっていきます。|ぬいパワーの変化と　残りの集中力に|注意しながら　完成を目指しましょう！|<end>": "Here's how to play it again! Wipe the cut|pieces of cloth together and shape them to|fit the success line... When all the squares|<br>|meet the success line, use the \"finish\"|command to complete the game. The strength of|the cloth changes each time it's sewn. The|<br>|strength of your wipe changes with each wipe,|so watch out for changes in your wiping power|and how much concentration you have left!<end>"
   },
   "33": {
-    "会心0.1％アップは|覚えているだけで　常に会心率が|0.1％分　上がるようになります。": "Just remember that 0.1% increase in|Perception will always increase your|Perception rate by 0.1%..."
+    "会心0.1％アップは|覚えているだけで　常に会心率が|0.1％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.1% permanently!"
   },
   "34": {
-    "会心0.2％アップは|覚えているだけで　常に会心率が|0.2％分　上がるようになります。": "Just remember that 0.2% increase in|Perception will always increase your|Perception rate by 0.2%..."
+    "会心0.2％アップは|覚えているだけで　常に会心率が|0.2％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.2% permanently!"
   },
   "35": {
-    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Just remember that 0.3% increase in|Perception will always increase your|Perception rate by 0.3%..."
+    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.3% permanently!"
   },
   "36": {
-    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Just remember that 0.3% increase in|Perception will always increase your|Perception rate by 0.3%..."
+    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.3% permanently!"
   },
   "37": {
-    "会心0.5％アップは|覚えているだけで　常に会心率が|0.5％分　上がるようになります。": "Just remember that 0.5% increase in|Perception will always increase your|Perception rate by 0.5%..."
+    "会心0.5％アップは|覚えているだけで　常に会心率が|0.5％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.5% permanently!"
   },
   "38": {
     "ねらいぬいを使うと|とぎすました　会心率の高い|ひとぬいをします！": "When you use the Aiming Stitch, he'll make a|clean, precise stitch with a high accuracy|rate!"
@@ -135,7 +135,7 @@
     "使うさいほう針を　選んでください。|<break>": "I'm going to need you to pick out a broom|needle...<break>"
   },
   "46": {
-    "レシピを　覚えていないため|<%sL_SEISAN_MENU>を作ることが　できません。|<bw_break>": "I don't remember the recipe, so I can't make|<%sL_SEISAN_MENU>...<bw_break>"
+    "レシピを　覚えていないため|<%sL_SEISAN_MENU>を作ることが　できません。|<bw_break>": "You don't know any recipes to make this type|of item.|<bw_break>"
   },
   "47": {
     "ぬいパワーシフトをすると　ぬいパワーを|ランダムで変化させることができます。|ぬいパワーを変えたいときに　使いましょう！": "When you shift your Nui Power, you can change|your Nui Power at random... Use this when you|want to change your Nuno Power!"
@@ -183,7 +183,7 @@
     "<%sL_SYOKUNIN_TOOL>は|ロック中ですが　本当に使いますか？|<yesno 2><break>": "<%sL_SYOKUNIN_TOOL> is locked, are you sure|you want to use it?<yesno 2><break>"
   },
   "62": {
-    "必殺率　小アップは|覚えているだけで　常に必殺技の出る確率が|少しだけ　上がるようになります。": "Just by remembering it, you'll always have a|slight chance of getting a special move."
+    "必殺率　小アップは|覚えているだけで　常に必殺技の出る確率が|少しだけ　上がるようになります。": "Your chance of triggering a Special move has|increased slightly!"
   },
   "63": {
     "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<select>|ふつうに作る|いっぱつしあげ|<select_end><break>": "This will make <%sL_RECIPE>|using materials from both your storage|and house storage. Are you sure?|<select>|Craft Normally|Quick Craft|<select_end><break>"
@@ -219,7 +219,7 @@
     "さいほうを　続けますか？|（今週は　あと<%nL_PLAYABLE>回　さいほうができます。）|<break>": "Do you want to keep playing? （This week,|you'll be replayed <%nL_PLAYABLE> one more|time...)<break>"
   },
   "74": {
-    "まれに集中力回復は|覚えているだけで　集中力が残り少なくなった時に|低確率で　集中力が３０回復します。": ""
+    "まれに集中力回復は|覚えているだけで　集中力が残り少なくなった時に|低確率で　集中力が３０回復します。": "You now have a slight chance of restoring|30 Focus whenever your current Focus is|running low!"
   },
   "75": {
     "ここでは　いっぱつしあげは　できません。|<end>": "You can't quick craft here.<end>"
