@@ -66,7 +66,7 @@
     "「……そうですか。あなたの名前は|　<pc>さんと　いうのですね。|　では　何があったのかは　覚えていますか？<yesno><close>": "I see. So your name is <pc>...|Do you remember what happened?<yesno><close>"
   },
   "23": {
-    "「あなたは　ひどい　やけどを負って|　この近くで　倒れていたんですよ。|　だから　私が　この村まで連れてきたんです。": "I found you unconcious nearby, covered in|severe burns. I brought you to this village|so you could recover."
+    "「あなたは　ひどい　やけどを負って|　この近くで　倒れていたんですよ。|　だから　私が　この村まで連れてきたんです。": "I found you unconscious nearby, covered in|severe burns. I brought you to this village|so you could recover."
   },
   "24": {
     "「……炎に包まれた鳥に　やられたのですね。|　ひどい　やけどを負っていましたが|　治療をほどこしたので　心配は　いりません。": "A giant flaming bird attacked you... that's|why you were burned so badly. No need to|worry, as I've taken care of your wounds."
@@ -147,46 +147,46 @@
     "<center>このまま　<pc>が　進むというなら……|オレは　絶対に……": "If you continue on this path <pc>...|I won't be able to..."
   },
   "50": {
-    "<center>このまま　<pc>が　進むというなら……|あたしは　絶対に……": "If you insist on going on like this|<pc>... I would never..."
+    "<center>このまま　<pc>が　進むというなら……|あたしは　絶対に……": "If you continue on this path <pc>...|I won't be able to..."
   },
   "51": {
-    "<if_woman><center>このまま　お姉ちゃんが　進むというなら……|私は　絶対に……<else><center>このまま　お兄ちゃんが　進むというなら……|私は　絶対に……<endif>": "<if_woman>If you continue on this path sis...|I won't be able to...<else>If you continue on this path brother...|I won't be able to...<endif>"
+    "<if_woman><center>このまま　お姉ちゃんが　進むというなら……|私は　絶対に……<else><center>このまま　お兄ちゃんが　進むというなら……|私は　絶対に……<endif>": "If you continue on this path, my <if_woman>sister<else>brother<endif>,|I won't be able to..."
   },
   "52": {
     "「祈りは　無事に　捧げられたようですね。|　<pc>さん。": "I see your prayers were successfully|offered <pc>."
   },
   "53": {
-    "「あなたのことが　心配になって|　私も　来てしまいました。": "I came here because I was worried about you."
+    "「あなたのことが　心配になって|　私も　来てしまいました。": "I returned because I was worried about you."
   },
   "54": {
     "「やけどのほうは　もう平気なようですね。|　キズの治りが早くて　おどろかされます。": "It looks like the burns are no longer ailing|you. I'm surprised at how quickly|your wounds healed."
   },
   "55": {
-    "「見えますか？|　遠くに見える　あの竜の形をした岩が……。": "Do you see it? That dragon-shaped rock in the|distance..."
+    "「見えますか？|　遠くに見える　あの竜の形をした岩が……。": "Can you see it? The dragon-shaped rock in the|distance..."
   },
   "56": {
-    "「あれは　神代の昔から|　この世界を守っていたといわれる|　竜族の神ナドラガさまの頭部と言われています。": "It is said to be the head of Nadraga, the|dragon god who is said to have protected this|world since the time of the gods."
+    "「あれは　神代の昔から|　この世界を守っていたといわれる|　竜族の神ナドラガさまの頭部と言われています。": "It is said to be the head of Nadraga, the|dragon god who has protected this|world since ancient times."
   },
   "57": {
-    "「ナドラガ神のご加護が　あるから|　私たち竜族は　このような過酷な環境でも|　生きていくことが　できるんですよ。": "It is because of the blessings of the god|Nadraga that we, the dragon tribe, are able to|survive in such a harsh environment."
+    "「ナドラガ神のご加護が　あるから|　私たち竜族は　このような過酷な環境でも|　生きていくことが　できるんですよ。": "Thanks to Nadraga's blessings, we are able to|survive in this harsh environment."
   },
   "58": {
-    "「ですが　今は|　その　ご加護のチカラをもってしても……。": "But now, even with the power of the|blessings..."
+    "「ですが　今は|　その　ご加護のチカラをもってしても……。": "However, even with the aid of his blessings..."
   },
   "59": {
-    "「……村長の言う　しきたりには　従いましたし|　これで　あなたも　受け入れてもらえるはず。|　アペカの村に　戻りましょう。": "I have followed the chief's custom, and now|you will be accepted. Let's go back to Apeka|Village."
+    "「……村長の言う　しきたりには　従いましたし|　これで　あなたも　受け入れてもらえるはず。|　アペカの村に　戻りましょう。": "You have followed the chief's custom, and will|now be accepted. Let's return to Apeka|Village."
   },
   "60": {
     "「あれは……？": "Is that...?"
   },
   "61": {
-    "「ひどいケガ……。|　魔炎鳥に　やられたのでしょうか。|　だとしたら　この方は　アペカの村の……。": "Was he badly injured... by Darkflame? If so,|this man must be from Apeka Village."
+    "「ひどいケガ……。|　魔炎鳥に　やられたのでしょうか。|　だとしたら　この方は　アペカの村の……。": "Was he badly injured... by the Darkflame?|If so, this man must be from Apeka Village."
   },
   "62": {
-    "「私が　この方を　村へ連れていきましょう。|　これも　神官たる者の務めです。": "I will take him to the village. This is also|the duty of a Priest."
+    "「私が　この方を　村へ連れていきましょう。|　これも　神官たる者の務めです。": "I will bring him to the village. This is|another duty of a priestess."
   },
   "63": {
-    "「キズが治ったばかりの　<pc>さんに|　頼むわけにも　いきませんから。|　あなたは　先に　村へ戻っていてください。": "I can't ask <pc>, whose wound has|just healed, to do this. You should go back to|the village first."
+    "「キズが治ったばかりの　<pc>さんに|　頼むわけにも　いきませんから。|　あなたは　先に　村へ戻っていてください。": "I can't ask <pc>, who's only recently|recovered. Please go back to the|village first."
   },
   "64": {
     "「ねぇねぇ。|　あれって　ギダ兄ちゃんじゃない？": "Hey, hey. Isn't that my brother Gida?"
