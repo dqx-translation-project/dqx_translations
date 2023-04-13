@@ -54,7 +54,7 @@
     "「他に　納品できそうな依頼は　あるかしら？|<break>": ""
   },
   "19": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><close>"
   },
   "20": {
     "「……おや　<%sL_STORAGE>が　いっぱいで|　その仕事をしても　報酬を持ちきれないぞ。|　また改めて　頼むぜ。|<bw_break>": "... Oh, there's so much <%sL_STORAGE> in|there, I can't even hold the reward for that|job. And again...<bw_break>"
@@ -84,7 +84,7 @@
     "「ついに　評判が　<%sL_HYOUBAN>まで|　上がったようだな！|　よし　これは　オレからのお祝いだ！|<end>": "Looks like your reputation has finally|reached <%sL_HYOUBAN>! Well, this is my way|of congratulating you!<end>"
   },
   "29": {
-    "「<%sL_ITEM>を　よろしく頼むぜ。|　どれを　渡してもらえるんだ？|<break>": "<%sL_ITEM>, please... Which one do you think|they'll give me?<break>"
+    "「<%sL_ITEM>を　よろしく頼むぜ。|　どれを　渡してもらえるんだ？|<break>": "Oh, the <%sL_ITEM>. Which|of them will you give me?|<break>"
   },
   "30": {
     "「<%sL_ITEM>を　頼みたいが……|　今は　持ってないようだな。|　他に　納品できそうな依頼は　あるかい？|<break>": "I'd ask for <%sL_ITEM>, but... I don't have|it at the moment, so... Do you have any other|requests that you think you can deliver on?<break>"
@@ -111,7 +111,7 @@
     "「他に　すぐ納品できそうな依頼は　あるかい？|<break>": ""
   },
   "38": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><close>"
   },
   "39": {
     "「……おや　<%sL_STORAGE>が　いっぱいで|　その仕事をしても　報酬を持ちきれないね。|　また　次の機会に　挑戦するといい……。|<bw_break>": "... Well, I'm afraid the <%sL_STORAGE> is too|full to hold the reward for that work. You|can try again next time...<bw_break>"
@@ -123,7 +123,7 @@
     "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!|<se_nots System 7><end>"
   },
   "42": {
-    "「……ふむ。確かに　依頼の品だね。|　受け取っておこう。|　では　これが　仕事の報酬だよ……。|<end>": "..... Sure, I'll take your request... I|received... Okay, here's what you get for|your work...<end>"
+    "「……ふむ。確かに　依頼の品だね。|　受け取っておこう。|　では　これが　仕事の報酬だよ……。|<end>": "Good. I'll take that, then... thank you.|Here is your reward.|<end>"
   },
   "43": {
     "「……満足いく物が　ないのか。|　他に　納品できそうな依頼は　あるかい……？|<break>": "I can't... I'm not satisfied. Do you have any|other requests that you think you can deliver|on?<break>"
@@ -141,7 +141,7 @@
     "「ふむ　評判が　<%sL_HYOUBAN>まで|　上がったようだね……。|　これは　ボクからの　ささやかな　お祝いだ……。|<end>": "Well, it looks like your reputation has grown|to <%sL_HYOUBAN>... This is my small way of|congratulating you...<end>"
   },
   "48": {
-    "「<%sL_ITEM>を　お願いするよ……。|　どれを　渡してもらえるんだい？|<break>": "<%sL_ITEM>, please... Which one do you have|for me?<break>"
+    "「<%sL_ITEM>を　お願いするよ……。|　どれを　渡してもらえるんだい？|<break>": "<%sL_ITEM>, if you please...|Which one will you give me?|<break>"
   },
   "49": {
     "「<%sL_ITEM>を　お願いしたいが……|　今は　持っていないようだね……。|　他に　納品できそうな仕事は　あるかい……？|<break>": "I'd ask for <%sL_ITEM>, but... But you don't|seem to have any at the moment. Do you have|any other work that you can deliver?<break>"
@@ -168,7 +168,7 @@
     "「他に　納品できそうな依頼は　あるかい……？|<break>": "Do you have any other requests that you think|you can deliver?<break>"
   },
   "57": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><close>"
   },
   "58": {
     "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
@@ -225,7 +225,7 @@
     "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
   },
   "76": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "77": {
     "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
@@ -282,7 +282,7 @@
     "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
   },
   "95": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "96": {
     "「……あっ　<%sL_STORAGE>が　いっぱいで|　その仕事をしても　報酬を持ちきれませんよ。|　また改めて　お願いしますねっ。|<bw_break>": "... Oh, <%sL_STORAGE> is full and I can't|hold the reward for that job... I'll ask you|again...<bw_break>"
@@ -312,7 +312,7 @@
     "「評判が　<%sL_HYOUBAN>まで|　上がったんですね！　おめでとうございます！|　では　こちら　私からのお祝いですっ。|<end>": "So your reputation is up to <%sL_HYOUBAN>!|Congratulations! Here's my congratulations...<end>"
   },
   "105": {
-    "「<%sL_ITEM>を　お願いしますね。|　どれを　渡していただけますか？|<break>": "<%sL_ITEM>, please... Which one do you have|for me?<break>"
+    "「<%sL_ITEM>を　お願いしますね。|　どれを　渡していただけますか？|<break>": "One <%sL_ITEM>, if you will.|Which one will you give to me?|<break>"
   },
   "106": {
     "「<%sL_ITEM>を　お願いしたいのですが|　……今は　お持ちでないようですね。|　他に　納品できそうな依頼は　ありますか？|<break>": "I'd like to request <%sL_ITEM>, but... You|don't seem to have it at the moment. Do you|have any other requests that you could|<br>|deliver?<break>"
@@ -339,7 +339,7 @@
     "「他に　納品できそうな依頼は　ありますか？|<break>": "Do you have any other requests that you can|deliver?<break>"
   },
   "114": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><close>"
   },
   "115": {
     "「……っと　ちょい待ち。<pc>ちゃんてば|　<%sL_STORAGE>が　いっぱいじゃ～ん。|　持ち物を整理して　もっかい　来てちょ。|<bw_break>": "... A little...<pc> You're full of <%sL_STORAGE>... Let's go|through our stuff and come back...<bw_break>"
@@ -396,7 +396,7 @@
     "「他に　すぐ納品できそうな依頼　あったりする？|<break>": "Do you have any other requests that you can|deliver right away?<break>"
   },
   "133": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><close>"
   },
   "134": {
     "「……おや？　<%sL_STORAGE>が　いっぱいで|　その仕事をしても　報酬を持ちきれないよ。|<bw_break>": "... Hmm? <%sL_STORAGE> is full, and I can't|hold onto my reward for doing that job...<bw_break>"
@@ -453,7 +453,7 @@
     "「他に　納品できそうな依頼は　あるかい？|<break>": "Do you have any other requests you think you|can deliver on?<break>"
   },
   "152": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><close>"
   },
   "153": {
     "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
@@ -510,7 +510,7 @@
     "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
   },
   "171": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "172": {
     "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
@@ -567,7 +567,7 @@
     "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
   },
   "190": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "191": {
     "「……あら？　<%sL_STORAGE>が　いっぱいで|　報酬を　受け取れないじゃない。|　持ち物を整理したら　またお願いね。|<bw_break>": "... What? My <%sL_STORAGE> is full and I|can't get my reward. I'll get back to you|after I sort through my stuff.<bw_break>"
@@ -624,7 +624,7 @@
     "「他に　すぐ納品できそうな依頼は　ある？|<break>": ""
   },
   "209": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><close>"
   },
   "210": {
     "「……わわっ　<pc>さんの|　<%sL_STORAGE>が　満腹みたい！|　荷物を　整理してきてねっ！|<bw_break>": " Wow!<pc> Looks like Mr. <%sL_STORAGE> is full! Go get|your stuff together!<bw_break>"
@@ -681,7 +681,7 @@
     "「他に　納品できそうな依頼は　あるかなーっ？|<break>": "Do you have any other requests that you think|you can deliver?<break>"
   },
   "228": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><close>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><close>"
   },
   "229": {
     "「おや　報酬を受け取れないようだな。|　持ちものを整理してから　また仕事に来てくれよ。|<bw_break>　": "Oh, I'm not getting paid... I'll get my|things in order and come back to work...<bw_break>"
@@ -738,7 +738,7 @@
     "「ほかに　達成できた仕事は|　あるかい？|<bw_break>": "Is there any other work you've accomplished?<bw_break>"
   },
   "247": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "248": {
     "「それは　それとして……|<bw_break>": "Well, that's the thing|<bw_break>"
@@ -783,7 +783,7 @@
     "「あなたの評判については　言うことなしよ。|　それ以上　上がらないところまで　来ているわ。|　すばらしいわね　<pc>。|<end>": "As for your reputation, I'd say... I've|reached the point where I can't get any|higher... That's wonderful.<pc> I'm not sure.<end>"
   },
   "262": {
-    "「あんたの評判は　もう　言うことなしだ。|　それ以上　上がりようもないとはな。|　まったく　大したもんだ。|<end>": "I'm sorry, but your reputation... It can't|get any better than that. Oh, my God,|that's...<end>"
+    "「あんたの評判は　もう　言うことなしだ。|　それ以上　上がりようもないとはな。|　まったく　大したもんだ。|<end>": "Your reputation speaks for itself. It can't|get any higher! You've really outdone|yourself.|<end>"
   },
   "263": {
     "「キミの評判は　もう　言うことなしだ。|　それ以上　上がることは　ないだろう。|　恐れいったよ……。　|<end>": "I'm sorry to say that your reputation... It's|not going to get any better. I'm afraid so.<end>"
@@ -879,7 +879,7 @@
     "「おおっ　<pc>じゃないか！|　神の手を持つと言われる　あんたが|　来てくれるなんて　光栄だよ！|<bw_break>": "Whoa!<pc> Oh, my God! I'm honored that you, who are|said to have the hands of God, are here!<bw_break>"
   },
   "294": {
-    "「鍛冶には　慣れたかい　<pc>……？|　まだまだ　道具鍛冶職人としては　無名だけど|　評判は　これから　上がっていくだろう……。|<bw_break>": "Are you familiar with blacksmithing?<pc> ...? I'm still not known as a tool smith, but|I'm sure my reputation will grow in the|future...<bw_break>"
+    "「鍛冶には　慣れたかい　<pc>……？|　まだまだ　道具鍛冶職人としては　無名だけど|　評判は　これから　上がっていくだろう……。|<bw_break>": "Are you getting the hang of smithing? You're|still not well-known as a toolsmith, but I'm|sure that will change soon...|<bw_break>"
   },
   "295": {
     "「おお　<pc>……。|　まさに　伝説と呼ぶにふさわしい活躍だね。|　キミの名前は　後世にまで残す価値がある……。|<bw_break>": "oh!<pc> ... You're a legend in the making. Your name|is worthy of being preserved for posterity.<bw_break>"
@@ -969,7 +969,7 @@
     "「おおっ　<pc>師匠じゃないか！|　神の手を持つと言われる　あなたに|　お目にかかれるなんて　光栄だぜ！|<bw_break>": "Whoa!<pc> You're the master! It's an honor to meet you,|the man with the divine hands!<bw_break>"
   },
   "324": {
-    "「<pc>さん　木工には慣れました？|　まだまだ　職人としては無名ですけど……|　評判なんて　すぐ上がるので　お気になさらず！|<bw_break>": "<pc> Are you familiar with woodworking? I'm still|a bit of a nobody, but... Don't worry, your|reputation will grow quickly.<bw_break>"
+    "「<pc>さん　木工には慣れました？|　まだまだ　職人としては無名ですけど……|　評判なんて　すぐ上がるので　お気になさらず！|<bw_break>": "Have you gotten used to woodworking yet? You|haven't really made an impression, but... I'm|sure your renown will rise quickly!|<bw_break>"
   },
   "325": {
     "「まあっ　<pc>さん！　伝説の職人と|　お呼びするにふさわしい　ご活躍っぷりです。|　あなたのお名前　必ず歴史に残ると思いますよ！|<bw_break>": "oh dear!<pc> I'm sorry. You're worthy of being called a|legendary craftsman. I'm sure your name will|go down in history!<bw_break>"
@@ -999,7 +999,7 @@
     "「まぁ　<pc>さん……！|　神の手を持つと言われる　あなたに|　来ていただけるなんて　光栄ですっ！|<bw_break>": "oh dear!<pc> You...! It's an honor to have you, who is|said to have the hands of God, here!<bw_break>"
   },
   "334": {
-    "「<pc>ちゃん！　錬金には慣れた～？|　まだまだ　ラン錬職人的には　無名だけど|　評判なんて　すぐ上がるし　ノープロブレムよ！|<bw_break>": "<pc> Hey! Are you familiar with alchemy? I know|I'm not a household name yet, but I'm sure my|reputation will grow quickly.<bw_break>"
+    "「<pc>ちゃん！　錬金には慣れた～？|　まだまだ　ラン錬職人的には　無名だけど|　評判なんて　すぐ上がるし　ノープロブレムよ！|<bw_break>": "<pc>! How's the alchemy coming?|You're still a budding lamp alchemist, but I|know your reputation will grow no problem!|<bw_break>"
   },
   "335": {
     "「ちょ……　<pc>ちゃん！|　伝説の職人になっちゃうとか　マジありえねぇ！|　ギルドマスターの　オレの立場　考えてよ！|<bw_break>": "A little<pc> You! I can't believe you're going to become a|legendary craftsman! Think about my position|as guild master!<bw_break>"
@@ -1119,7 +1119,7 @@
     "「おおっ　<pc>師匠じゃないか！|　神の手を持つと言われる　あなたに|　お目にかかれるなんて　光栄だぜ！|<bw_break>": "Whoa!<pc> You're the master! It's an honor to meet you,|the man with the divine hands!<bw_break>"
   },
   "374": {
-    "「<pc>。錬金には　慣れた？|　まだまだ　ツボ錬金職人としては　無名だけど|　評判なんて　これから　上がっていくからね！|<bw_break>": "<pc> I'm sorry. Are you familiar with alchemy? I'm|still not known as a urn smith, but my|reputation will grow!<bw_break>"
+    "「<pc>。錬金には　慣れた？|　まだまだ　ツボ錬金職人としては　無名だけど|　評判なんて　これから　上がっていくからね！|<bw_break>": "How is the alchemy coming along? You're still|not very well known as a pot alchemist, but|I'm sure you'll do wonders!|<bw_break>"
   },
   "375": {
     "「ああっ……<pc>っ！|　まさに　伝説と呼ぶにふさわしい活躍……！|　あなたの名前は　きっと　歴史に残るわね！！|<bw_break>": "Oh<pc> No! You're a legend, you know that? Your name|will go down in history!<bw_break>"
@@ -1215,7 +1215,7 @@
     "「……おおっ！　こいつは　思っていたよりも|　すばらしいデキだぞ！　やるじゃないか！|　よし　報酬も　少しイロを付けておくぜっ！|<end>": "... Oh! This is even better than I thought it|would be! You're good! I'll give you a little|extra for your work!<end>"
   },
   "406": {
-    "「……ほほう。これは……思っていたより|　すばらしいデキ。確かな品質……。|　では　報酬も　少し上乗せしておこう……。|<end>": "...... This is... It's better than I|expected... It's of a certain quality. I'll|add a little extra to my fee...<end>"
+    "「……ほほう。これは……思っていたより|　すばらしいデキ。確かな品質……。|　では　報酬も　少し上乗せしておこう……。|<end>": "Hmm... this craftsmanship... it's better than|what I was expecting. The quality is|undeniable... Here, let me add a little extra.|<end>"
   },
   "407": {
     "「ありがとうよ！|　確かに　受け取ったぜ！|　じゃあ　これは報酬だ！|<bw_break>": "Thank you! I definitely got it! Then this is|your reward!<bw_break>"
@@ -1257,10 +1257,10 @@
     "「おや？　それは……一度　装備された物だね。|　装備された職人道具は　もう　その人のものだ。|　新品でなければ　話にならない……。|<bw_break>": "Hmm? That's... Once equipped... Once|equipped, a craftsman's tools are no longer|his... If it's not new, it's not worth|<br>|talking about...<bw_break>"
   },
   "420": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "421": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "422": {
     "「あっ　それは……　もしかして　一度|　装備された物では　ありませんか？|　ごめんなさい。新品の物を　お願いします。|<bw_break>": "Oh, that's... Isn't it something that was|installed once? Sorry... I need a new one...<bw_break>"
@@ -1272,10 +1272,10 @@
     "「おや？　その仕立て物は……|　一度　装備された物だね？|　悪いけど　新品の物を　頼むよ。|<bw_break>": "Hmm? That tailoring... It's been outfitted|once, hasn't it? I'm sorry, but you'll need a|new one.<bw_break>"
   },
   "425": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "426": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "427": {
     "「あれ？　それ　一度　装備された物よね？|　ダメダメ。装備された物じゃ　受け取れないの。|　新品の装備品で　お願いするわ。|<bw_break>": "What? That's the one that was rigged once,|right? It's... I can't take it if it's|already been equipped. New equipment,|<br>|please...<bw_break>"
@@ -1284,7 +1284,7 @@
     "「わわっ……かじったあとがあるよ！|　これ　食べたことがある　お料理でしょ～！|　できたてじゃなきゃ　ダメダメーッ！|<bw_break>": "Whoa... There are bite marks! This must be|something you've eaten before! You can't have|it unless it's fresh!<bw_break>"
   },
   "429": {
-    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "To the guild master|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>I'll deliver the... May I?<yesno><break>"
+    "ギルドマスターに|<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。|よろしいですか？|<yesno><break>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>|to the Guild Master?|<yesno><break>"
   },
   "430": {
     "「今日の依頼は　翌朝には|　すべて別の依頼に　入れ替えておくわね。|<bw_break>": "All of today's requests will be replaced by|another one the next morning.<bw_break>"
@@ -1371,7 +1371,7 @@
     "「他にも　用はあるかしら？|<break>": "Is there anything else I can do for you?<break>"
   },
   "458": {
-    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": ""
+    "<select_se_off>|依頼をみる|いっぱつ納品の報酬受け取り|職人練習場に行く|説明を聞く|<select_end>|<break>": "<select_se_off>|View Requests|Receive Delivery Reward|Go to Craft Training|Explanation|<select_end>|<break>"
   },
   "459": {
     "「どの説明を　聞きたいの？|<select_se_off>|職人レベルについて|職人の仕事について|いっぱつ納品について|評判について|職人練習場について|<select_end>|<break>": ""
@@ -1407,7 +1407,7 @@
     "「武器鍛冶職人に　なったなら|　まずは　コツコツと　レシピを集めながら|　いろんな武器を　作っていくといいだろう。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売ってるぜ。他にも　町の本棚で|　眠っていたりするものも　あるらしい。|<br>|「仕事がほしけりゃ　オレのとこに顔を出せば|　お前に　ちょうどいい依頼を　紹介してやる。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　オレに納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　おいしい依頼は黄色にしとくから　見逃すなよ？|<br>|「さらに　職人レベルが　３０以上になっていれば|　時々　特別な依頼をさせてもらうぜ。|　オレンジ色の依頼だ。報酬は期待していいぜ。|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくが　頼まれる仕事の数は|　とりあえず　１日３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　職人レベルが上がったら|　依頼の数も　増やしていくからな。|<br>|「さらに　一人前の職人になっていれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておこう。|<br>|「そのうち　デキのいい武器が作れたら|　旅人バザーにでも　出してみるといい。|　もしかしたら　高く売れるかもしれないぜ？|<end>": "If you've become a weapon smith, you'll need|to collect recipes to make a variety of|weapons. The basic recipes are sold at the|<br>|recipe shop in this guild. There are also|some that are just sitting on the bookshelves|in town. If you want a job, come see me, and|<br>|I'll hook you up with just the job you need.|Go to \"View Requests\" and check it out. If|you deliver the requested item to me, you get|<br>|paid on the spot and the job is yours. I'll|keep the good ones in yellow so you don't|miss them. And if you're at least 30,|<br>|sometimes I'll make you a special request...|Orange... Expect to be paid... I'll replace|the requests with new ones the next morning,|<br>|but for now, you'll only be asked to do three|jobs a day. In the beginning, you won't get|three, but as your skill level rises, we'll|<br>|increase the number of requests. And when|you've become a full-fledged craftsman, when|you arrive the next morning with more than|<br>|three jobs left to do, you'll receive one|more request per day. Eventually, if I can|make a good weapon, I'll sell it at the|<br>|Traveler's Bazaar. You might be able to get a|good price for it.<end>"
   },
   "470": {
-    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+    "「さて　今日の用件を聞こうか……。|<break>": "So, what will it be today?|<break>"
   },
   "471": {
     "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
@@ -1428,7 +1428,7 @@
     "「道具鍛冶職人に　なったなら|　まずは　コツコツと　レシピを集めながら|　いろんな職人道具を　作っていくといいだろう。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売っている。他にも　町の本棚で|　眠っていたり……するものも　あるらしい。|<br>|「仕事がほしいなら　ボクの所に来れば|　キミに　ちょうどいい依頼を　紹介しよう……。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　ボクに納品してくれれば|　その場で報酬を受け取って　仕事は完了。|　割のいい依頼は　黄色にしておくからね……。|<br>|「さらに　職人レベルが　３０以上になっていれば|　時々　特別な依頼をさせてもらうよ……。|　オレンジ色の依頼さ。報酬は期待していい……。|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくけど　１日に頼まれる仕事は|　とりあえず　３件まで……。|<br>|「最初のうちは　３件もないだろうね。|　だが　キミの　職人レベルが上がったら|　依頼の数も　増やしていくよ……。|<br>|「さらに　一人前の職人になっていれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておこう……。|<br>|「いつしか　デキのいい道具が作れたときは|　旅人バザーに出品してみるといい……。|　もしかしたら　高く売れるかもしれないよ。|<end>": "If you've become a tool smith, you'll want to|start by collecting recipes and making all|sorts of artisan tools. The basic recipes are|<br>|sold at the recipe shop in this guild. There|are also a few other things that can be|found... Some of them are. If you're looking|<br>|for work, come to me and I'll find just the|job for you. Go to \"View Requests\" and check|it out. If you deliver what I'm asking for,|<br>|you'll get paid on the spot, and you'll get|to work. I'll keep the good ones in yellow.|And if your craftsmanship level is above 30,|<br>|I'll occasionally make you a special request.|Orange... You can expect to be paid... I'll|replace the requests with new ones the next|<br>|morning, but for now, you can only take on|three jobs a day. In the beginning, you won't|get three jobs. But as your level of|<br>|craftsmanship increases, I'll increase the|number of requests. And when you're a full-|fledged craftsman, you'll have more than|<br>|three jobs left to do the next morning, and|I'll increase the number of requests by one|per day. At some point, when you've made a|<br>|good tool, you can sell it at the Traveler's|Bazaar... Maybe you can sell them for a good|price...<end>"
   },
   "477": {
-    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+    "「さて　今日の用件を聞こうか……。|<break>": "So, what will it be today?|<break>"
   },
   "478": {
     "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
@@ -1449,7 +1449,7 @@
     "「武器鍛冶職人になったなら|　まずは　コツコツと　レシピを集めながら|　いろんな武器を　作っていくといいだろう。|<br>|「仕事がほしけりゃ　オレのとこに顔を出せば|　お前に　ちょうどいい依頼を　紹介してやる。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　オレに納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　おいしい依頼は黄色にしとくから　見逃すなよ？|<br>|「達成した依頼は　毎日　新しいものに|　入れ替えておくが　１日に受けられる仕事は|　最大でも　３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　職人レベルが上がったら|　依頼の数も　増やしていくからな。|<br>|「そのうち　できのいい武器が作れたら|　旅人バザーにでも　出してみるといい。|　もしかしたら　高く売れるかもしれないぜ？|<end>": "If you're a weaponsmith, you should start by|collecting recipes and making all kinds of|weapons... If you want a job, just show up at|<br>|my place, and I'll introduce you to a job|that's just right for you. Go to \"View|Requests\" and check it out. If you deliver|<br>|the requested item to me, you'll get paid on|the spot and the job will be yours. I'll mark|the good ones in yellow so you don't miss|<br>|them. I'll replace the completed requests|with new ones every day, but I can only take|on a maximum of three jobs a day. You won't|<br>|get three at first, but as your skill level|rises, I'll increase the number of requests.|Eventually, if you make a good weapon, you|<br>|can sell it at the Traveler's Bazaar. You|might be able to get a good price for it.<end>"
   },
   "484": {
-    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+    "「さて　今日の用件を聞こうか……。|<break>": "So, what will it be today?|<break>"
   },
   "485": {
     "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
@@ -1533,7 +1533,7 @@
     "「さいほう職人になったなら|　まずは　コツコツと　レシピを集めながら|　いろんな仕立て品を　作ってみよう。|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売っているよ。他にも　町の本棚で|　眠っていたりするものも　あるらしいね。|<br>|「仕事がほしいなら　ボクのとこに来てくれれば|　キミに　ちょうどいい依頼を　紹介するよ。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　ボクに納品してくれれば|　その場で報酬を受け取って　仕事は完了さ。|　おトクな依頼は　黄色にしておくからね。|<br>|「さらに　職人レベルが３０以上になっていれば|　時々　特別な依頼をさせてもらうよ。|　オレンジ色の依頼だ。報酬は期待していてくれ。|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくけど　１日に頼まれる仕事は|　とりあえず　３件までだよ。|<br>|「最初のうちは　３件も　ないだろうけど|　キミの　職人レベルが上がったら|　依頼の数も　増やしていくからね。|<br>|「さらに　一人前の職人になっていれば|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておくよ。|<br>|「そのうち　デキのいい仕立て品が作れたら|　旅人バザーに　出してみるといい。|　もしかしたら　高く売れるかもしれないよ？|<end>": "If you've become a master craftsman, you'll|need to collect recipes and make a variety of|tailor-made items. The basic recipes are sold|<br>|at the recipe shop in this guild. There are|also some that are just sitting on the|bookshelves in town. If you're looking for a|<br>|job, come to me and I'll find you one. Go to|\"View Requests\" and check it out. If you|deliver the requested item to me, you'll get|<br>|paid on the spot, and the job will be yours.|The best requests are marked in yellow. Plus,|if you're at least 30, sometimes I'll let you|<br>|do special requests. Orange... I don't expect|to be paid... I'll replace the requests with|new ones the next morning, but for now, I'll|<br>|only take on three jobs a day. You won't get|three in the beginning, but as your skill|level rises, you'll be asked to do more. And|<br>|when you're a full-fledged craftsman, you'll|have more than three jobs left, and when the|next morning comes, you'll get one more|<br>|request per day. Eventually, when you've made|a good piece of tailoring, you can sell it at|the Traveler's Bazaar. Maybe you can get a|<br>|good price for it?<end>"
   },
   "512": {
-    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+    "「さて　今日の用件を聞こうか……。|<break>": "So, what will it be today?|<break>"
   },
   "513": {
     "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
@@ -1554,7 +1554,7 @@
     "「武器鍛冶職人になったなら|　まずは　コツコツと　レシピを集めながら|　いろんな武器を　作っていくといいだろう。|<br>|「仕事がほしけりゃ　オレのとこに顔を出せば|　お前に　ちょうどいい依頼を　紹介してやる。|　『依頼をみる』から　確認してくれ。|<br>|「依頼の品を　オレに納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　おいしい依頼は黄色にしとくから　見逃すなよ？|<br>|「達成した依頼は　毎日　新しいものに|　入れ替えておくが　１日に受けられる仕事は|　最大でも　３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　職人レベルが上がったら|　依頼の数も　増やしていくからな。|<br>|「そのうち　できのいい武器が作れたら|　旅人バザーにでも　出してみるといい。|　もしかしたら　高く売れるかもしれないぜ？|<end>": "If you're a weaponsmith, you should start by|collecting recipes and making all kinds of|weapons... If you want a job, just show up at|<br>|my place, and I'll introduce you to a job|that's just right for you. Go to \"View|Requests\" and check it out. If you deliver|<br>|the requested item to me, you'll get paid on|the spot and the job will be yours. I'll mark|the good ones in yellow so you don't miss|<br>|them. I'll replace the completed requests|with new ones every day, but I can only take|on a maximum of three jobs a day. You won't|<br>|get three at first, but as your skill level|rises, I'll increase the number of requests.|Eventually, if you make a good weapon, you|<br>|can sell it at the Traveler's Bazaar. You|might be able to get a good price for it.<end>"
   },
   "519": {
-    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+    "「さて　今日の用件を聞こうか……。|<break>": "So, what will it be today?|<break>"
   },
   "520": {
     "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
@@ -1617,7 +1617,7 @@
     "「調理職人の　お仕事は　お料理だよーっ！|　まずは　コツコツと　レシピを集めて|　いろんな　お料理を　作ってみてねっ！|<br>|「基本的なレシピは　このギルド内のレシピ屋で|　売ってるよっ。他にも　町の本棚で|　眠っていたりすることも　あるかもっ？|<br>|「仕事がほしかったら　このあたしが|　キミに　ぴったりな依頼を　ご紹介するよ～！|　『依頼をみる』から　確認してねっ！|<br>|「依頼の品を　あたしに納品してくれたら|　お仕事は完了だよ！　お礼を渡すからねっ。|　おトクな依頼は　黄色にしておいちゃう！|<br>|「さらにさらにっ　職人レベルが３０以上だったら|　時々　特別な依頼を　お願いするよっ！|　オレンジ色の依頼ね。報酬は　すごいぞっ！|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくねっ。１日に頼める仕事は|　とりあえず　３件までなんだっ！|<br>|「最初のうちは　３件も　ないけど|　キミの　職人レベルが上がるのに合わせて|　依頼の数も　増やしちゃうよ～！|<br>|「さらにさらにっ　一人前の職人になってたら！|　仕事を３件以上残して　翌朝を迎えた時|　依頼を　１日につき　１件増やしておくねっ！|<br>|「そのうち　おいしそうな　お料理が作れたら|　旅人バザーへ　出品してみるといいんだよっ！|　もしかしたら　高く売れちゃうかも～？|<end>": "The job of a chef is to cook! The first thing|you need to do is collect recipes and try to|make various dishes! The basic recipes are|<br>|sold at the recipe shop in this guild... You|can also find them on the bookshelves in|town. If you want a job, I'll introduce you|<br>|to the perfect job for you! Just go to \"View|Requests\" and check it out! If you deliver|the requested item to me, your job is done!|<br>|I'll give you a thank you or... I'll keep the|special requests in yellow! And even more, if|your craftsman level is over 30, sometimes|<br>|I'll ask you for a special request! Orange...|The rewards are great! I'll replace the|request with a new one the next morning. I|<br>|can only take on three jobs a day. There|won't be three at first, but as your|craftsmanship level rises, so will the number|<br>|of requests! And furthermore, if you become a|full-fledged craftsman! I'll increase the|number of requests by one per day when you|<br>|arrive the next morning with more than three|jobs left to do! Eventually, if you make a|delicious-looking dish, you can sell it at|<br>|the Traveler's Bazaar! Maybe you can sell it|for a good price?<end>"
   },
   "540": {
-    "「さて　今日の用件を聞こうか……。|<break>": "Now, let's hear what we have to do today...<break>"
+    "「さて　今日の用件を聞こうか……。|<break>": "So, what will it be today?|<break>"
   },
   "541": {
     "「他にも　用件はあるかい？|<break>": "Is there anything else you need from me?<break>"
@@ -1755,13 +1755,13 @@
     "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
   },
   "586": {
-    "「じつは　<%sL_ITEM>の在庫が|　切れてしまったの。今　持ってきてくれたら|　特別に　報酬を割り増ししてあげる<heart><break>": "We're actually out of stock of <%sL_ITEM>...|If you bring it to me now, I'll give you a|special discount.<heart><break>"
+    "「じつは　<%sL_ITEM>の在庫が|　切れてしまったの。今　持ってきてくれたら|　特別に　報酬を割り増ししてあげる<heart><break>": "We're actually out of <%sL_ITEM>.|If you bring me one, I'll give you a|special bonus reward! <heart><break>"
   },
   "587": {
     "「ちょうど　<%sL_ITEM>の在庫を|　切らしちまってな。今　持ってきてくれれば|　報酬は　割り増ししとくぜ。<break>": "We've just run out of <%sL_ITEM>. If you|bring it to me now, I'll give you a|premium...<break>"
   },
   "588": {
-    "「じつは　<%sL_ITEM>の在庫を|　切らしてしまってね。今　持ってきてくれるなら|　報酬の割り増しを　約束させてもらうよ……。<break>": "We're actually out of stock of <%sL_ITEM>. If|you bring it to me now, I can promise you a|premium...<break>"
+    "「じつは　<%sL_ITEM>の在庫を|　切らしてしまってね。今　持ってきてくれるなら|　報酬の割り増しを　約束させてもらうよ……。<break>": "We've actually run out of <%sL_ITEM>.|If you bring me one, I'll make it worth your|while..."
   },
   "589": {
     "<break>": ""
@@ -1773,7 +1773,7 @@
     "「今　<%sL_ITEM>の在庫を|　切らしてしまってるので　納品していただけたら|　報酬は　割り増しさせていただきますっ！|<break>": "We're currently out of stock of <%sL_ITEM>,|so if you can deliver it to us, we'll give|you a premium!<break>"
   },
   "592": {
-    "「じつは　<%sL_KOUKA1_NPCMES>を付けた装備品|　在庫がなくてさぁ。今　持ってきてくれたら|　報酬は　割り増ししちゃうけど　どうよ？<break>": "We're actually out of stock of equipment with|<%sL_KOUKA1_NPCMES>. How about if you bring|it to me now, I'll give you an extra reward?<break>"
+    "「じつは　<%sL_KOUKA1_NPCMES>を付けた装備品|　在庫がなくてさぁ。今　持ってきてくれたら|　報酬は　割り増ししちゃうけど　どうよ？<break>": "We've run out of equipment attached with|<%sL_KOUKA1_NPCMES>. If you bring me one,|I'll give you an extra reward. Deal?<break>"
   },
   "593": {
     "「じつは　<%sL_ITEM>が　在庫切れでね。|　今　持ってきてくれたら　特別に|　報酬を　割り増しさせてもらうよ。<break>": "We're actually out of stock of <%sL_ITEM>. If|you bring it to me now, I'll give you a|special discount...<break>"
