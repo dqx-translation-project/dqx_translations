@@ -9,7 +9,7 @@
     "<speed=0>たたきすぎて　地金が|ぼろぼろに　なってしまった…。<end>": "<speed=0>The bullion was so beat up, it started|falling apart...<end>"
   },
   "4": {
-    "そのカテゴリのレシピは|まだ　覚えていません。<end>": "You don't know any recipes of this category yet.<end>"
+    "そのカテゴリのレシピは|まだ　覚えていません。<end>": "You don't know any recipes of this category|yet.<end>"
   },
   "5": {
     "鍛冶設備がある。|武器鍛冶　防具鍛冶　道具鍛冶　いずれかの|職人であれば　ここで　アイテムが作れそうだ。": "It's blacksmithing equipment. If you're a|weaponsmith, armorsmith, or toolsmith, you|can make items here."
@@ -72,10 +72,10 @@
     "ばくれつ打ちを使うと|一気に　６回　たたくことができますが|どこに当たるかは　わかりません！": "With the Bakuretsu-uchi, you can hit him six|times in one go, but you never know where|you'll hit him!"
   },
   "25": {
-    "冷やし込みを使うと|地金の温度を　３００度下げることができます。|すごく弱く　たたきたい時に　使いましょう。": "With the chill-in, you can lower the|temperature of the bullion by 300 degrees...|I use it when I want to hit something really|<br>|hard..."
+    "冷やし込みを使うと|地金の温度を　３００度下げることができます。|すごく弱く　たたきたい時に　使いましょう。": "By using C-C-Cold Blow, you can lower the|temperature by 300 degrees. Perfect for very|precise strikes!"
   },
   "26": {
-    "てかげん打ちを使うと|半分のチカラで　たたくことができます。|細かい調整をしたい時に　便利です。": "If you use the Tekagen-uchi, you can hit it|with half the force... When you want to make|a fine adjustment..."
+    "てかげん打ちを使うと|半分のチカラで　たたくことができます。|細かい調整をしたい時に　便利です。": "By using Lightening Bash, you can strike with|half power. Useful if you only need to make|very slight adjustments."
   },
   "27": {
     "会心0.1％アップは|覚えているだけで　常に会心率が|0.1％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.1% permanently!"
@@ -96,19 +96,19 @@
     "みだれ打ちを使うと|一気に　４回　たたくことができますが|どこに当たるかは　わかりません！": "If you use Multibash, you can hit four times|in succession, but the hits are random!"
   },
   "33": {
-    "ねらい打ちを使うと|とぎすました　会心率の高い一発を放ちます。": "When you use the Aiming Strike, you'll hit a|target with a high rate of accuracy..."
+    "ねらい打ちを使うと|とぎすました　会心率の高い一発を放ちます。": "By using Crackshot Bash, you can strike with|a high critical hit chance."
   },
   "34": {
-    "上下打ちを使うと|上下の２マス分を同時に|やや強めのチカラで　鍛えられます。": ""
+    "上下打ちを使うと|上下の２マス分を同時に|やや強めのチカラで　鍛えられます。": "By using Double Bash, you can make a strong|vertical strike over two squares."
   },
   "35": {
-    "３倍打ちを使うと|ひとつのマスを　３倍のチカラで|大きく鍛えられます。": "If you use the triple strike, you can triple|the size of a single square..."
+    "３倍打ちを使うと|ひとつのマスを　３倍のチカラで|大きく鍛えられます。": "By using Triple Wham, you can strike a single|square with three times the power."
   },
   "36": {
-    "火力上げを使うと|地金の温度を　３００度上げることができます。|カタくて鍛えにくい時に　使いましょう。": "With the power up, you can raise the|temperature of the metal 300 degrees... It's|used when the metal is too hard to forge..."
+    "火力上げを使うと|地金の温度を　３００度上げることができます。|カタくて鍛えにくい時に　使いましょう。": "By using Sizzly Puff, you can raise the|temperature 300 degrees. Useful when forging|more difficult items."
   },
   "37": {
-    "４連打ちは|やや強めのチカラで　２×２の４マス分を|広く鍛える　豪快な技です！": "The quadruple strike is a powerful technique|that uses a slightly stronger force to train|four squares of 2 x 2."
+    "４連打ちは|やや強めのチカラで　２×２の４マス分を|広く鍛える　豪快な技です！": "Quadrabash is a powerful skill that hits|in a 2x2 area with stronger power!"
   },
   "38": {
     "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><break>": "<speed=0>Finish working on the|<%sL_RECIPE>?|<yesno><break>"
@@ -123,7 +123,7 @@
     "超４連打ちは|２倍のチカラで　２×２の４マス分を|広く鍛える　とても豪快な技です！": "The Super Four-Strike is a very powerful|technique that uses twice the power to train|four squares of 2×2."
   },
   "42": {
-    "一度　コツをつかんだレシピは|『いっぱつしあげ』が　できるようになります。|<br>|『いっぱつしあげ』を使えば|すぐにアイテムを　完成させられますが|できのよさ<color_yellow>★★★<color_white>には　ならないので　ご注意を。|<br>|また　『ふつうに作る』時も|かいしんのてごたえの　出る確率が|少しアップします！": "Once you've got the hang of it, you'll be|able to use \"Ippatsu Shiage\"... You'll be|able to finish the item in no time at all.<color_yellow>★★★<color_white>So please be careful... Also, when you're|making a normal game, the chance of getting a|new challenge goes up a bit!"
+    "一度　コツをつかんだレシピは|『いっぱつしあげ』が　できるようになります。|<br>|『いっぱつしあげ』を使えば|すぐにアイテムを　完成させられますが|できのよさ<color_yellow>★★★<color_white>には　ならないので　ご注意を。|<br>|また　『ふつうに作る』時も|かいしんのてごたえの　出る確率が|少しアップします！": "Once you have a knack for a recipe, the|\"Quick Craft\" command becomes available.|<br>|Quick Craft allows you to finish the item in|no time flat! However, items created this way|can never be <color_yellow>★★★<color_white> quality.|<br>|In addition, the chance of getting a critical|hit while using \"Craft Normally\" has increased|slightly!"
   },
   "43": {
     "<%sL_RECIPE>は|『いっぱつしあげ』が　できます。|<select 2>|ふつうに作る|いっぱつしあげ|<select_end><break>": "<%sL_RECIPE> can be quick crafted.|<select 2>|Craft Normally|Quick Craft|<select_end><break>"
