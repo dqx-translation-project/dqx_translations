@@ -108,7 +108,7 @@
     "clarity_nt_char_36": "clarity_nt_char_36"
   },
   "37": {
-    "与ダメージ値％変更": "Dealt Damage Change %"
+    "与ダメージ値％変更": "Dealt Damage % Change"
   },
   "38": {
     "与ダメージ固定値変更": "Fixed Dealt Damage Change"
@@ -126,7 +126,7 @@
     "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "43": {
-    "被ダメージ値％変更*被ダメージ値％変更": "Taken Damage Value Change * Taken Damage Value Change"
+    "被ダメージ値％変更*被ダメージ値％変更": "Taken Damage % Change * Taken Damage % Change"
   },
   "44": {
     "テンション効果値1": "Tension Effect Value 1"
@@ -312,7 +312,7 @@
     "clarity_nt_char_104": "clarity_nt_char_104"
   },
   "105": {
-    "会心被ダメージ％変更": ""
+    "会心被ダメージ％変更": "Critical Taken Damage % Change"
   },
   "106": {
     "clarity_nt_char_106": "clarity_nt_char_106"
@@ -1722,7 +1722,7 @@
     "すばやさ +4": "Agility +4"
   },
   "575": {
-    "攻撃時 5%で幻惑": ""
+    "攻撃時 5%で幻惑": "Blind Attack 5%"
   },
   "576": {
     "おしゃれさ +4": "Style +4"
@@ -1746,7 +1746,7 @@
     "土耐性 +6%": ""
   },
   "583": {
-    "攻撃時 6%で幻惑": "Enthrall Attack 6%"
+    "攻撃時 6%で幻惑": "Blind Attack 6%"
   },
   "584": {
     "ＭＰ吸収ガード +20%": "MP Absorb Guard +20%"
@@ -1755,7 +1755,7 @@
     "clarity_nt_char_585": "clarity_nt_char_585"
   },
   "586": {
-    "攻撃時 4%でマヒ": ""
+    "攻撃時 4%でマヒ": "Paralyze Attack 4%"
   },
   "587": {
     "勝利時MP回復PT全体": ""
@@ -1767,7 +1767,7 @@
     "clarity_nt_char_589": "clarity_nt_char_589"
   },
   "590": {
-    "攻撃時 3%でマヒ": ""
+    "攻撃時 3%でマヒ": "Paralyze Attack 3%"
   },
   "591": {
     "メイクアップを習得する": "Learn Extreme Makeover"
@@ -1899,10 +1899,10 @@
     "clarity_nt_char_633": "clarity_nt_char_633"
   },
   "634": {
-    "攻撃時 3%で幻惑": "Enthrall Attack 3%"
+    "攻撃時 3%で幻惑": "Blind Attack 3%"
   },
   "635": {
-    "攻撃時 4%で幻惑": ""
+    "攻撃時 4%で幻惑": "Blind Attack 4%"
   },
   "636": {
     "さいだいＨＰ +4": "Max HP +4"
@@ -1932,7 +1932,7 @@
     "clarity_nt_char_644": "clarity_nt_char_644"
   },
   "645": {
-    "攻撃時 2%で幻惑": "Enthrall Attack 2%"
+    "攻撃時 2%で幻惑": "Blind Attack 2%"
   },
   "646": {
     "釣りでビッグサイズがかかりやすくなる": ""
@@ -2052,7 +2052,7 @@
     "clarity_nt_char_684": "clarity_nt_char_684"
   },
   "685": {
-    "攻撃時 2%でマホトーン": ""
+    "攻撃時 2%でマホトーン": "Fizzle Attack 2%"
   },
   "686": {
     "clarity_nt_char_686": "clarity_nt_char_686"
@@ -2382,7 +2382,7 @@
     "clarity_nt_char_794": "clarity_nt_char_794"
   },
   "795": {
-    "攻撃時 3%でマホトーン": ""
+    "攻撃時 3%でマホトーン": "Fizzle Attack 3%"
   },
   "796": {
     "clarity_nt_char_796": "clarity_nt_char_796"
@@ -2550,10 +2550,10 @@
     "clarity_nt_char_850": "clarity_nt_char_850"
   },
   "851": {
-    "攻撃時 20%でリホ系解除": ""
+    "攻撃時 20%でリホ系解除": "Re-type Dispel Attack 20%"
   },
   "852": {
-    "攻撃時 30%でリホ系解除": ""
+    "攻撃時 30%でリホ系解除": "Re-type Dispel Attack 30%"
   },
   "853": {
     "幻惑ガード +30%": "Blind Guard +30%"
@@ -2754,7 +2754,7 @@
     "不意をつく確率 +1%": "Surprise Enemy Rate +1%"
   },
   "919": {
-    "攻撃時 6%で魅了": ""
+    "攻撃時 6%で魅了": "Charm Attack 6%"
   },
   "920": {
     "片手剣Bランク3を習得する": "Learn Sword B Rank 3"
@@ -2934,7 +2934,7 @@
     "こうげき魔力 +3": "Magical Might +3"
   },
   "979": {
-    "攻撃時 ○%でどく": ""
+    "攻撃時 ○%でどく": "Poison Attack ○%"
   },
   "980": {
     "ムドー": "Murdaw"
@@ -2949,10 +2949,10 @@
     "clarity_nt_char_983": "clarity_nt_char_983"
   },
   "984": {
-    "攻撃時 ○%で眠り": ""
+    "攻撃時 ○%で眠り": "Sleep Attack ○%"
   },
   "985": {
-    "攻撃時 ○%でマヒ": ""
+    "攻撃時 ○%でマヒ": "Paralyze Attack ○%"
   },
   "986": {
     "受ける氷ダメージを減らす": "Ice damage taken decreased."
@@ -2964,16 +2964,16 @@
     "攻撃時 ○%で混乱": "Confuse Attack ○%"
   },
   "989": {
-    "攻撃時 ○%で幻惑": ""
+    "攻撃時 ○%で幻惑": "Blind Attack ○%"
   },
   "990": {
-    "攻撃時 ○%で魅了": ""
+    "攻撃時 ○%で魅了": "Charm Attack ○%"
   },
   "991": {
     "風耐性 +2%": ""
   },
   "992": {
-    "攻撃時 ○%でマホトーン": ""
+    "攻撃時 ○%でマホトーン": "Fizzle Attack ○%"
   },
   "993": {
     "clarity_nt_char_993": "clarity_nt_char_993"
@@ -3408,16 +3408,16 @@
     "水系ダメージ+○%": ""
   },
   "1137": {
-    "ドラゴン系攻撃時○%魅了": ""
+    "ドラゴン系攻撃時○%魅了": "Dragon Charm Attack ○%"
   },
   "1138": {
     "clarity_nt_char_1138": "clarity_nt_char_1138"
   },
   "1139": {
-    "虫系攻撃時○%魅了": ""
+    "虫系攻撃時○%魅了": "Insect Charm Attack ○%"
   },
   "1140": {
-    "獣系攻撃時○%魅了": ""
+    "獣系攻撃時○%魅了": "Beast Charm Attack ○%"
   },
   "1141": {
     "炎の攻撃ダメージ +○%": ""
@@ -3426,7 +3426,7 @@
     "clarity_nt_char_1142": "clarity_nt_char_1142"
   },
   "1143": {
-    "ゾンビ系攻撃時○%魅了": ""
+    "ゾンビ系攻撃時○%魅了": "Zombie Charm Attack ○%"
   },
   "1144": {
     "氷耐性 +18%": ""
@@ -3459,7 +3459,7 @@
     "clarity_nt_char_1153": "clarity_nt_char_1153"
   },
   "1154": {
-    "植物系攻撃時○%魅了": ""
+    "植物系攻撃時○%魅了": "Plant Charm Attack ○%"
   },
   "1155": {
     "clarity_nt_char_1155": "clarity_nt_char_1155"
@@ -4053,13 +4053,13 @@
     "clarity_nt_char_1351": "clarity_nt_char_1351"
   },
   "1352": {
-    "悪魔系攻撃時○%魅了": ""
+    "悪魔系攻撃時○%魅了": "Demon Charm Attack ○%"
   },
   "1353": {
     "clarity_nt_char_1353": "clarity_nt_char_1353"
   },
   "1354": {
-    "水系攻撃時○%魅了": ""
+    "水系攻撃時○%魅了": "Water Charm Attack ○%"
   },
   "1355": {
     "きずな発動時バイシオン": "Oomph On Bond"
@@ -4140,7 +4140,7 @@
     "戦鬼の乱れ舞を習得する": "Learn Demon's Duet"
   },
   "1381": {
-    "エレ系攻撃時○%魅了": ""
+    "エレ系攻撃時○%魅了": "Element Charm Attack ○%"
   },
   "1382": {
     "clarity_nt_char_1382": "clarity_nt_char_1382"
@@ -4257,7 +4257,7 @@
     "両手杖Eランク２を習得する": "Learn Staff E Rank 2"
   },
   "1420": {
-    "攻撃時○%で猛毒": ""
+    "攻撃時○%で猛毒": "Envenom Attack ○%"
   },
   "1421": {
     "clarity_nt_char_1421": "clarity_nt_char_1421"
@@ -4272,7 +4272,7 @@
     "clarity_nt_char_1424": "clarity_nt_char_1424"
   },
   "1425": {
-    "鳥系攻撃時○%魅了": ""
+    "鳥系攻撃時○%魅了": "Bird Charm Attack ○%"
   },
   "1426": {
     "炎特技の攻撃ダメージ +○%": ""
@@ -4299,7 +4299,7 @@
     "clarity_nt_char_1433": "clarity_nt_char_1433"
   },
   "1434": {
-    "マシン系攻撃時○%魅了": ""
+    "マシン系攻撃時○%魅了": "Machine Charm Attack ○%"
   },
   "1435": {
     "両手剣Eランク4を習得する": "Learn Claymore E Rank 4"
@@ -4362,7 +4362,7 @@
     "テンション時　魔物に追加ダメージ +○": ""
   },
   "1455": {
-    "物質系攻撃時○%魅了": ""
+    "物質系攻撃時○%魅了": "Material Charm Attack ○%"
   },
   "1456": {
     "clarity_nt_char_1456": "clarity_nt_char_1456"
@@ -4656,7 +4656,7 @@
     "攻撃時○%でぶきみなひかり": ""
   },
   "1553": {
-    "攻撃時○%で魔導の書": ""
+    "攻撃時○%で魔導の書": "Magical Book Attack ○%"
   },
   "1554": {
     "clarity_nt_char_1554": "clarity_nt_char_1554"
