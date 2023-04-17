@@ -297,7 +297,7 @@
     "死亡時に解除されない率": ""
   },
   "100": {
-    "被ダメージをHPに変換": "Convert Damage to HP"
+    "被ダメージをHPに変換": "Damage Taken As HP"
   },
   "101": {
     "被状態異常成功率": ""
@@ -411,7 +411,7 @@
     "clarity_nt_char_137": "clarity_nt_char_137"
   },
   "138": {
-    "倒すとテンションアップ発動率": ""
+    "倒すとテンションアップ発動率": "Tension On Enemy Defeat Rate"
   },
   "139": {
     "clarity_nt_char_139": "clarity_nt_char_139"
@@ -522,7 +522,7 @@
     "限界突破率": ""
   },
   "175": {
-    "会心": ""
+    "会心": "Crit."
   },
   "176": {
     "clarity_nt_char_176": "clarity_nt_char_176"
@@ -534,16 +534,16 @@
     "clarity_nt_char_178": "clarity_nt_char_178"
   },
   "179": {
-    "盾ガード": ""
+    "盾ガード": "Block"
   },
   "180": {
     "clarity_nt_char_180": "clarity_nt_char_180"
   },
   "181": {
-    "武器ガード": ""
+    "武器ガード": "Parry"
   },
   "182": {
-    "ビリビリガード": ""
+    "ビリビリガード": "Shocking Guard"
   },
   "183": {
     "みとれる": "Enthrall"
@@ -552,22 +552,22 @@
     "clarity_nt_char_184": "clarity_nt_char_184"
   },
   "185": {
-    "混乱": ""
+    "混乱": "Confu."
   },
   "186": {
     "clarity_nt_char_186": "clarity_nt_char_186"
   },
   "187": {
-    "幻惑ミス": ""
+    "幻惑ミス": "Blind Miss"
   },
   "188": {
     "clarity_nt_char_188": "clarity_nt_char_188"
   },
   "189": {
-    "無効化": ""
+    "無効化": "Nullify"
   },
   "190": {
-    "反射": ""
+    "反射": "Refl."
   },
   "191": {
     "clarity_nt_char_191": "clarity_nt_char_191"
@@ -579,7 +579,7 @@
     "clarity_nt_char_193": "clarity_nt_char_193"
   },
   "194": {
-    "身代わり": ""
+    "身代わり": "Substitution"
   },
   "195": {
     "clarity_nt_char_195": "clarity_nt_char_195"
@@ -597,25 +597,25 @@
     "clarity_nt_char_199": "clarity_nt_char_199"
   },
   "200": {
-    "MP吸収攻撃": ""
+    "MP吸収攻撃": "MP Absorb Atk."
   },
   "201": {
     "clarity_nt_char_201": "clarity_nt_char_201"
   },
   "202": {
-    "HP吸収攻撃": ""
+    "HP吸収攻撃": "HP Absorb Atk."
   },
   "203": {
     "clarity_nt_char_203": "clarity_nt_char_203"
   },
   "204": {
-    "先制攻撃": ""
+    "先制攻撃": "First Strike"
   },
   "205": {
     "clarity_nt_char_205": "clarity_nt_char_205"
   },
   "206": {
-    "移動速度倍率変更": ""
+    "移動速度倍率変更": "Move Speed Change"
   },
   "207": {
     "clarity_nt_char_207": "clarity_nt_char_207"
@@ -657,7 +657,7 @@
     "蘇生成功率": ""
   },
   "220": {
-    "ぬすむ発動率": ""
+    "ぬすむ発動率": "Half-Inch Rate"
   },
   "221": {
     "clarity_nt_char_221": "clarity_nt_char_221"
@@ -687,7 +687,7 @@
     "カウンター": "Counter"
   },
   "230": {
-    "盾ガード無効": ""
+    "盾ガード無効": "Block Null"
   },
   "231": {
     "clarity_nt_char_231": "clarity_nt_char_231"
@@ -717,28 +717,28 @@
     "clarity_nt_char_239": "clarity_nt_char_239"
   },
   "240": {
-    "MP吸収ガード率": ""
+    "MP吸収ガード率": "MP Absorb Block Rate"
   },
   "241": {
     "clarity_nt_char_241": "clarity_nt_char_241"
   },
   "242": {
-    "杖系MP吸収発動率": ""
+    "杖系MP吸収発動率": "Staff MP Absorb Rate"
   },
   "243": {
-    "追加ダメージ発動率": ""
+    "追加ダメージ発動率": "Additional Damage Rate"
   },
   "244": {
-    "オートぬすむ発動率": ""
+    "オートぬすむ発動率": "Auto Half-Inch Rate"
   },
   "245": {
-    "アクション2回発動率": ""
+    "アクション2回発動率": "Double Action Rate"
   },
   "246": {
     "clarity_nt_char_246": "clarity_nt_char_246"
   },
   "247": {
-    "被ダメージをMPに変換発動率": ""
+    "被ダメージをMPに変換発動率": "Damage Taken As MP Rate"
   },
   "248": {
     "clarity_nt_char_248": "clarity_nt_char_248"
@@ -750,10 +750,10 @@
     "clarity_nt_char_250": "clarity_nt_char_250"
   },
   "251": {
-    "即死攻撃発動率": ""
+    "即死攻撃発動率": "Death Attack Rate"
   },
   "252": {
-    "即死攻撃発動率(錬金": ""
+    "即死攻撃発動率(錬金": "Death Attack Rate (Alchemy"
   },
   "253": {
     "clarity_nt_char_253": "clarity_nt_char_253"
@@ -768,7 +768,7 @@
     "clarity_nt_char_256": "clarity_nt_char_256"
   },
   "257": {
-    "消費MP軽減発動率": ""
+    "消費MP軽減発動率": "MP Consume Reduce Rate"
   },
   "258": {
     "みやぶる": "See Through"
@@ -828,7 +828,7 @@
     "clarity_nt_char_276": "clarity_nt_char_276"
   },
   "277": {
-    "被ダメージをHPに変換発動率": ""
+    "被ダメージをHPに変換発動率": "Damage Taken As HP Rate"
   },
   "278": {
     "clarity_nt_char_278": "clarity_nt_char_278"
@@ -873,16 +873,16 @@
     "clarity_nt_char_291": "clarity_nt_char_291"
   },
   "292": {
-    "反射(呪文)": ""
+    "反射(呪文)": "Reflect(Spell)"
   },
   "293": {
     "clarity_nt_char_293": "clarity_nt_char_293"
   },
   "294": {
-    "反射(ブレス)": ""
+    "反射(ブレス)": "Reflect (Breath)"
   },
   "295": {
-    "MP吸収攻撃発動率": ""
+    "MP吸収攻撃発動率": "MP Absorb Attack Rate"
   },
   "296": {
     "恐怖": ""
@@ -933,7 +933,7 @@
     "clarity_nt_char_311": "clarity_nt_char_311"
   },
   "312": {
-    "やまびこ発動率": "Echo Trigger Rate"
+    "やまびこ発動率": "Echo Rate"
   },
   "313": {
     "やいばのぼうぎょ": "Pincushion"
@@ -954,7 +954,7 @@
     "clarity_nt_char_318": "clarity_nt_char_318"
   },
   "319": {
-    "即死攻撃発動率(錬金用": ""
+    "即死攻撃発動率(錬金用": "Death Attack Rate (For Alchemy"
   },
   "320": {
     "やいば効果（錬金用": ""
@@ -2913,7 +2913,7 @@
     "clarity_nt_char_971": "clarity_nt_char_971"
   },
   "972": {
-    "追加ダメージ確率": ""
+    "追加ダメージ確率": "Additional Damage Chance"
   },
   "973": {
     "clarity_nt_char_973": "clarity_nt_char_973"
@@ -3720,7 +3720,7 @@
     "clarity_nt_char_1240": "clarity_nt_char_1240"
   },
   "1241": {
-    "盾ガード時○%で眠らせ": ""
+    "盾ガード時○%で眠らせ": "Put To Sleep On Block ○%"
   },
   "1242": {
     "○%の確率で 受けたダメージの10%反射": ""
@@ -4677,7 +4677,7 @@
     "開戦時 ○%でキラポン": "Starting Snap Poof o%"
   },
   "1560": {
-    "絆の発動率 +○%": ""
+    "絆の発動率 +○%": "Bond Rate +○%"
   },
   "1561": {
     "両手杖Dランク３を習得する": "Learn Staff D Rank 3"
