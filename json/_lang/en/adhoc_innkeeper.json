@@ -1,21 +1,21 @@
 {
   "1": {
-    "「旅人の宿屋へ　ようこそ。|　<%nL_YADOYA_GOLD>ゴールドに　なりますが|　お休みになりますか？|<yesno><break>": "Welcome to the traveler's lodging.|It's going to be <%dL_YADOYA_GOLD> gold to stay|the night.|<yesno><break>"
+    "「旅人の宿屋へ　ようこそ。|　<%nL_YADOYA_GOLD>ゴールドに　なりますが|　お休みになりますか？|<yesno><break>": "Welcome to the traveler's inn. One stay costs|<%dL_YADOYA_GOLD> Gold. Will you be staying?|<yesno><break>"
   },
   "2": {
-    "「残念ですが|　お金が　足りないようです。<bw_break>": "I'm sorry, but I don't have enough money|to...<bw_break>"
+    "「残念ですが|　お金が　足りないようです。<bw_break>": "I'm sorry, but you don't have enough money.<bw_break>"
   },
   "3": {
-    "「おはようございます。|　よく　お休みでしたね。|　では　いってらっしゃいませ。<turn_end>": "Good morning... Good night... See you|later...<turn_end>"
+    "「おはようございます。|　よく　お休みでしたね。|　では　いってらっしゃいませ。<turn_end>": "Good morning. I hope you had a good rest.|Good luck on your journey.<turn_end>"
   },
   "4": {
-    "「お客さまのために|　ふかふかの布団を　ご用意いたしました。|　どうぞ　ごゆっくり　お休みください。": "We've prepared a soft futon for you.|Have a good night's sleep."
+    "「お客さまのために|　ふかふかの布団を　ご用意いたしました。|　どうぞ　ごゆっくり　お休みください。": "We've prepared a soft bed for you. Please have|a good night's sleep."
   },
   "5": {
-    "「皆さまのために|　ふかふかの布団を　ご用意いたしました。|　どうぞ　ごゆっくり　お休みください。": "We've prepared a soft futon for you... Please|take a good night's sleep..."
+    "「皆さまのために|　ふかふかの布団を　ご用意いたしました。|　どうぞ　ごゆっくり　お休みください。": "We've prepared soft beds for you all. Please|have a good night's sleep."
   },
   "6": {
-    "「さようなら　旅の人。|　また　お立ち寄りください。<turn_end>": "Goodbye... Please stop by again...<turn_end>"
+    "「さようなら　旅の人。|　また　お立ち寄りください。<turn_end>": "Goodbye. Please visit us again.<turn_end>"
   },
   "7": {
     "「今休むと　借金をしてしまいますが　|　よろしいですか？|<yesno><break>": ""
@@ -177,7 +177,7 @@
     "「いらっしゃい。ここは旅人の宿よ。|　酒場で紹介された仲間の分も　合わせて|　<%nL_YADOYA_GOLD>ゴールドになるけど　休んでく？|<yesno><break>": "Welcome to... This is a traveler... I'm going|to get <%nL_YADOYA_GOLD>gold for|all the people you introduced me to at the|<br>|tavern, so why don't you take a break?<yesno><break>"
   },
   "60": {
-    "「いらっしゃい。ここは　旅人の宿よ。|　あら　今日はずいぶん　お仲間がいるようね。|<br>|「でも　ごめんね。一緒に　泊まれるのは|　あなたが　酒場で紹介してもらった仲間だけよ。|　<%nL_YADOYA_GOLD>ゴールドになるけど　休んでく？|<yesno><break>": "Welcome to... This is a traveler... Well,|you've got a lot of company today... But...|You'll be staying with the people you were|<br>|introduced to at the tavern... <It's going to|be gold. Do you want to rest?<yesno><break>"
+    "「いらっしゃい。ここは　旅人の宿よ。|　あら　今日はずいぶん　お仲間がいるようね。|<br>|「でも　ごめんね。一緒に　泊まれるのは|　あなたが　酒場で紹介してもらった仲間だけよ。|　<%nL_YADOYA_GOLD>ゴールドになるけど　休んでく？|<yesno><break>": "Welcome. This is a traveler's inn. Wow, you've|come with quite a few companions today.|<br>|Sorry, but you can only stay with the people|you met at the tavern. If you want to stay,|it'll be <%dL_YADOYA_GOLD> Gold.|<yesno><break>"
   },
   "61": {
     "「こんにちは。|　旅人の宿屋へ　ようこそ。|<br>|「お泊まりですか？|　それとも　夜まで休まれますか？|　どちらも　<%nL_YADOYA_GOLD>ゴールドに　なります。|<select>|泊まる|休む|<select_end><break>": "Hello and welcome to our inn.|<br>|Would you like to stay overnight or rest until|night? It'll be <%dL_YADOYA_GOLD> Gold.|<select>|Stay Overnight|Rest Until Night|<select_end><break>"
@@ -279,7 +279,7 @@
     "<pc>の　旅人バザーに出品できる数が|<%nL_SYUPPIN_OLD>個から　<%nL_SYUPPIN>個になった！<se_nots System 7>|<end>": ""
   },
   "94": {
-    "<pc>の　名声レベルが|<%nL_MEISEI_LEVEL1>から　<%nL_MEISEI_LEVEL>にあがった！|<me_57><end>": ""
+    "<pc>の　名声レベルが|<%nL_MEISEI_LEVEL1>から　<%nL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc>'s Fame Level increased from|<%dL_MEISEI_LEVEL1> to <%dL_MEISEI_LEVEL>!|<me_57><end>"
   },
   "95": {
     "<pc>の　旅人バザーに出品できる数が|<%nL_SYUPPIN_OLD>個から　<%nL_SYUPPIN>個になった！<se_nots System 7>|<end>": ""
