@@ -138,7 +138,7 @@
     "「<%sL_MEDAL_ITEM>は　２ｎｄディスクの|　レジストレーションコードが入力されていないと|　使うことができず　捨てられないどうぐですぞ。|<br>|「<%sL_MEDAL_ITEM>と　交換するには|　ちいさなメダルが　<%nL_MEDAL_NUM>枚　必要ですが|　本当に　交換して　よろしいですかな？|<yesno 2><break>": "<%sL_MEDAL_ITEM> can only be used if the|registration code for the second disc is|entered, and it's not a discardable item... I|<br>|need <%nL_MEDAL_NUM> small medallion to|exchange for <%sL_MEDAL_ITEM>, are you sure|you want to do that?<yesno 2><break>"
   },
   "47": {
-    "「<%sL_MEDAL_ITEM>　<%nL_NUM>個と　交換するには|　ちいさなメダルが　<%nL_MEDAL_NUM>枚　必要ですが|　よろしいですな？|<yesno><break>": "I'll need <%sL_MEDAL_ITEM> <%nL_NUM> small|medals to trade for <%sL_MEDAL_ITEM>|<%nL_NUM> pieces, is that correct?<yesno><break>"
+    "「<%sL_MEDAL_ITEM>　<%nL_NUM>個と　交換するには|　ちいさなメダルが　<%nL_MEDAL_NUM>枚　必要ですが|　よろしいですな？|<yesno><break>": "For <%dL_NUM> <%sL_MEDAL_ITEM>, I will|require <%dL_MEDAL_NUM> Mini Medal(s).|What do you say?|<yesno><break>"
   },
   "48": {
     "<pipipi_off><pc>は|<%sL_MEDAL_ITEM>を　<%nL_NUM>個　手に入れた！|<me 60>|<end>": "<pipipi_off><pc>  got <%sL_MEDAL_ITEM> for <%nL_NUM>!<me 60>|<end>"
