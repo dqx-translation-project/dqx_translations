@@ -171,7 +171,7 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "58": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "59": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -180,7 +180,7 @@
     "「どのアイテムを　交換しますか？|　ただし　青い文字の品物は|　一度しか交換できませんので　ご注意ください。|<break>": "Which item would you like to trade? Please|note that items marked in blue can only be|exchanged once...<break>"
   },
   "61": {
-    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM> for|an item you already own?<yesno><break>"
+    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to exchange your items for the|<%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "62": {
     "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -231,7 +231,7 @@
     "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "78": {
-    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM> for|an item you already own?<yesno><break>"
+    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to exchange your items for the|<%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "79": {
     "「<%sL_GOODS_ITEM>が　できたぞ！|　さあ　持っていきたまえ。|<end>": "<%sL_GOODS_ITEM> is ready! Let's take it to|the...<end>"
@@ -240,7 +240,7 @@
     "「では　こちらの破片をどうぞ。|<end>": "Okay, please take these shards.|<end>"
   },
   "81": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "82": {
     "「……オマエ　どうぐかばん　いっぱいダ。|　受け取れるように　セイリして来イ。|<bw_break>": "... You're the one with the bag. I'll get it.|I'll get it.<bw_break>"
@@ -1053,10 +1053,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "352": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "353": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "354": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -1065,7 +1065,7 @@
     "「どのアイテムを　交換しますか？|　ただし　青い文字の品物は|　一度しか交換できませんので　ご注意ください。|<break>": "Which item would you like to trade? Please|note that items marked in blue can only be|exchanged once...<break>"
   },
   "356": {
-    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM> for|an item you already own?<yesno><break>"
+    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to exchange your items for the|<%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "357": {
     "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -1074,7 +1074,7 @@
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
   },
   "359": {
-    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM> for|an item you already own?<yesno><break>"
+    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to exchange your items for the|<%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "360": {
     "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM>|<%nL_GET_NUM> for one of your items?<yesno><break>"
@@ -1257,10 +1257,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "420": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りくださいませ。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りくださいませ。|<end>": "Here, please take your <%sL_GOODS_ITEM>.|<end>"
   },
   "421": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りくださいませ。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りくださいませ。|<end>": "Here, please take your <%sL_GOODS_ITEM>.|<end>"
   },
   "422": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -2175,10 +2175,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "726": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "727": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "728": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -2664,7 +2664,7 @@
     "「はい　<%sL_GOODS_ITEM>を　どうぞ。|　気に入ってもらえると　うれしいな！|<end>": "Yes, <%sL_GOODS_ITEM>... I'm glad you like|it!<end>"
   },
   "889": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "890": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -2769,7 +2769,7 @@
     "「はい　<%sL_GOODS_ITEM>を　どうぞ。|　気に入ってもらえると　うれしいな！|<end>": "Yes, <%sL_GOODS_ITEM>... I'm glad you like|it!<end>"
   },
   "924": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "925": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -3816,10 +3816,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1273": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1274": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1275": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -3927,10 +3927,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1310": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1311": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1312": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -4038,10 +4038,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1347": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1348": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1349": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -4050,7 +4050,7 @@
     "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
   },
   "1351": {
-    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM> for|an item you already own?<yesno><break>"
+    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to exchange your items for the|<%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "1352": {
     "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -4059,7 +4059,7 @@
     "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
   },
   "1354": {
-    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM> for|an item you already own?<yesno><break>"
+    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to exchange your items for the|<%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "1355": {
     "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM>|<%nL_GET_NUM> for one of your items?<yesno><break>"
@@ -4260,10 +4260,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1421": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1422": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Now, please pick up your <%sL_GOODS_ITEM>...<end>|"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take your <%sL_GOODS_ITEM>.<end>|"
   },
   "1423": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -4374,10 +4374,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1459": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1460": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Now, please pick up your <%sL_GOODS_ITEM>...<end>|"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take your <%sL_GOODS_ITEM>.<end>|"
   },
   "1461": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -4719,10 +4719,10 @@
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "1574": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1575": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Now, please pick up your <%sL_GOODS_ITEM>...<end>|"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take your <%sL_GOODS_ITEM>.<end>|"
   },
   "1576": {
     "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -4953,10 +4953,10 @@
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "1652": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1653": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Now, please pick up your <%sL_GOODS_ITEM>...<end>|"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take your <%sL_GOODS_ITEM>.<end>|"
   },
   "1654": {
     "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -5070,10 +5070,10 @@
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "1691": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1692": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1693": {
     "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -5694,7 +5694,7 @@
     "「<%sL_GOODS_ITEM>が　ほしいのね。|　これは　一度きりしか|　交換することが　できない品物よ。|<br>|「<%sL_GOODS_ITEM>と　交換する？|<yesno 2><break>": "I need <%sL_GOODS_ITEM>... This can only be|exchanged once... You want to trade it for|<%sL_GOODS_ITEM>?<yesno 2><break>"
   },
   "1899": {
-    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM> for|an item you already own?<yesno><break>"
+    "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to exchange your items for the|<%sL_GOODS_ITEM>?|<yesno><break>"
   },
   "1900": {
     "「<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": ""
@@ -5709,10 +5709,10 @@
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "1904": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1905": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "1906": {
     "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
