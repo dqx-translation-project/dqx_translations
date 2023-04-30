@@ -240,7 +240,7 @@
     "「では　こちらの破片をどうぞ。|<end>": "Okay, please take these shards.|<end>"
   },
   "81": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "82": {
     "「……オマエ　どうぐかばん　いっぱいダ。|　受け取れるように　セイリして来イ。|<bw_break>": "... You're the one with the bag. I'll get it.|I'll get it.<bw_break>"
@@ -1053,10 +1053,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "352": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "353": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "354": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -2175,10 +2175,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "726": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "727": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "728": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -2469,7 +2469,7 @@
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
   },
   "824": {
-    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
   },
   "825": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
@@ -2502,7 +2502,7 @@
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
   },
   "835": {
-    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
   },
   "836": {
     "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
@@ -2649,7 +2649,7 @@
     "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "884": {
-    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
   },
   "885": {
     "「ぷるぷるっ！　ボクの記念品交換は|　期間限定だから　忘れないように気をつけてね。|　詳細は　こちらを見てね！|<bw_hide>|<wait=200>|<unhide>|<pipipi_off>|プレイヤー専用サイト|ドラゴンクエストＸ　目覚めし冒険者の広場|https://hiroba.dqx.jp|<turn_end>": "Purr-fect! My Souvenir Exchange is only|available for a limited time, so be careful|not to forget... Check out the details here!<bw_hide>|<wait=200>|<unhide>|<pipipi_off>|Player Site|Dragon Quest X: The Awakening Adventurer's Square|https://hirobadqxjp|<turn_end>"
@@ -2664,7 +2664,7 @@
     "「はい　<%sL_GOODS_ITEM>を　どうぞ。|　気に入ってもらえると　うれしいな！|<end>": "Yes, <%sL_GOODS_ITEM>... I'm glad you like|it!<end>"
   },
   "889": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "890": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -2754,7 +2754,7 @@
     "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "You can't equip that in your current vocation.|Is that all right?|<yesno><break>"
   },
   "919": {
-    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
   },
   "920": {
     "「ぷるぷるっ！　ボクの記念品交換は|　期間限定だから　忘れないように気をつけてね。|　詳細は　こちらを見てね！|<bw_hide>|<wait=200>|<unhide>|<pipipi_off>|プレイヤー専用サイト|ドラゴンクエストＸ　目覚めし冒険者の広場|https://hiroba.dqx.jp|<turn_end>": "Purr-fect! My Souvenir Exchange is only|available for a limited time, so be careful|not to forget... Check out the details here!<bw_hide>|<wait=200>|<unhide>|<pipipi_off>|Player Site|Dragon Quest X: The Awakening Adventurer's Square|https://hirobadqxjp|<turn_end>"
@@ -2769,7 +2769,7 @@
     "「はい　<%sL_GOODS_ITEM>を　どうぞ。|　気に入ってもらえると　うれしいな！|<end>": "Yes, <%sL_GOODS_ITEM>... I'm glad you like|it!<end>"
   },
   "924": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "925": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -3816,10 +3816,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1273": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1274": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1275": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -3927,10 +3927,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1310": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1311": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1312": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -4038,10 +4038,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1347": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1348": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1349": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -4260,10 +4260,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1421": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1422": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take your <%sL_GOODS_ITEM>.<end>|"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take this|<%sL_GOODS_ITEM>.|<end>|"
   },
   "1423": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -4374,10 +4374,10 @@
     "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
   },
   "1459": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.|<end>"
   },
   "1460": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take your <%sL_GOODS_ITEM>.<end>|"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take your <%sL_GOODS_ITEM>.|<end>|"
   },
   "1461": {
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -4476,7 +4476,7 @@
     "「今の職業だと装備できませんが|　よろしいですか？|<yesno><break>": "Your current vocation can't equip that.|You still want it?|<yesno><break>"
   },
   "1493": {
-    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
   },
   "1494": {
     "「また　いつでも　来てちょうだいね。|<turn_end>": "You're welcome to come back anytime...<turn_end>"
@@ -4719,10 +4719,10 @@
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "1574": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1575": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take your <%sL_GOODS_ITEM>.<end>|"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take this|<%sL_GOODS_ITEM>.|<end>|"
   },
   "1576": {
     "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -4953,10 +4953,10 @@
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "1652": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1653": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take your <%sL_GOODS_ITEM>.<end>|"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>|": "Here, please take this|<%sL_GOODS_ITEM>.|<end>|"
   },
   "1654": {
     "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -5070,10 +5070,10 @@
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "1691": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1692": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1693": {
     "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -5106,7 +5106,7 @@
     "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "You don't have the necessary items to exchange|for that <%sL_GOODS_ITEM>.|<bw_break>"
   },
   "1703": {
-    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
   },
   "1704": {
     "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
@@ -5223,7 +5223,7 @@
     "「<%sL_GOODS_ITEM>を　交換するには|　必要な真珠が　足りないようだ。|<bw_break>": "We need more pearls to replace the|<%sL_GOODS_ITEM>...<bw_break>"
   },
   "1742": {
-    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
   },
   "1743": {
     "「……交換に必要な　真珠を|　持っていないようだな。|<turn_end>": "I... I don't have the pearls I need to|trade...<turn_end>"
@@ -5709,10 +5709,10 @@
     "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "1904": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1905": {
-    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
+    "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Here, please take this|<%sL_GOODS_ITEM>.|<end>"
   },
   "1906": {
     "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -5745,7 +5745,7 @@
     "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "You don't have the necessary items to exchange|for that <%sL_GOODS_ITEM>.|<bw_break>"
   },
   "1916": {
-    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+    "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
   },
   "1917": {
     "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "You don't have the necessary items to exchange|for that <%sL_GOODS_ITEM>.|<bw_break>"
