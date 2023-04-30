@@ -288,7 +288,7 @@
     "「確かに　買い取らせていただきました。|<bw_break>": "Pleasure doing business with you.|<bw_break>"
   },
   "97": {
-    "「おやっ　<%sL_BAG_TYPE>がいっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいですね。|<bw_break>": "Oh, it looks like <%sL_BAG_TYPE> is too full|to hold <%sL_KAITAI_ITEM>...<bw_break>"
+    "「おやっ　<%sL_BAG_TYPE>がいっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいですね。|<bw_break>": "Oh, looks like your <%sL_BAG_TYPE> is|too full to hold that <%sL_KAITAI_ITEM>.|<bw_break>"
   },
   "98": {
     "「うわわっ！　<%sL_NOROI_ITEM>は|　呪われているので　はずれませんよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and will not|come off!<bw_break>"
@@ -6486,7 +6486,7 @@
     "「おや？　はじめて　装備をするようですね。|　でしたら　ひとつ大事な注意があります。|<br>|「装備品は　最初に装備した人が|　その使用者に　決まるのです。|　あなた専用の装備と　認められる感じですね。|<br>|「なので　一度　使用者が決まった装備品は|　他の人に　渡すことができなくなります。|　それでも　ここで装備していきますか？|<yesno 2><break>": ""
   },
   "2163": {
-    "「おやっ　<%sL_BAG_TYPE>がいっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいですね。|<bw_break>": "Oh, it looks like <%sL_BAG_TYPE> is too full|to hold <%sL_KAITAI_ITEM>...<bw_break>"
+    "「おやっ　<%sL_BAG_TYPE>がいっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいですね。|<bw_break>": "Oh, looks like your <%sL_BAG_TYPE> is|too full to hold that <%sL_KAITAI_ITEM>.|<bw_break>"
   },
   "2164": {
     "「申し訳ありませんが　本日はもう|　汗と涙の結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
@@ -7884,7 +7884,7 @@
     "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えているようだけど　いいのかい？|<yesno 2><break>": ""
   },
   "2629": {
-    "「他にも　ほしいものあるかな？|<break>": ""
+    "「他にも　ほしいものあるかな？|<break>": "Anything else you need?|<break>"
   },
   "2630": {
     "clarity_nt_char_2630": "clarity_nt_char_2630"
@@ -7962,7 +7962,7 @@
     "「ありゃ？　それは　手に入りづらい|　貴重な物だけど|　本当に　売っても　大丈夫？|<yesno 2><break>": ""
   },
   "2655": {
-    "「<%sL_URITAI_ITEM>を　ひとつだね！|　<%nL_SELL_PRICE>ゴールドで　買い取るけど|　いいかな？|<yesno><break>": ""
+    "「<%sL_URITAI_ITEM>を　ひとつだね！|　<%nL_SELL_PRICE>ゴールドで　買い取るけど|　いいかな？|<yesno><break>": "One <%sL_URITAI_ITEM>!|I can buy it for <%dL_SELL_PRICE> Gold.|How about it?|<yesno><break>"
   },
   "2656": {
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るけど　いいかな？|<yesno><break>": ""
@@ -7989,7 +7989,7 @@
     "「おや？　はじめて　装備をするみたいだね。|　だったら　大事な注意があるよ。|<br>|「装備品は　最初に装備した人が|　その使用者に　決められるんだ。|　専用の物と　認められる感じかな。|<br>|「だから　一度　使用者が決まった装備品は|　もう　他の人に　渡せなくなるんだ。|　それでも　ここで装備していいかい？|<yesno 2><break>": ""
   },
   "2664": {
-    "「あちゃ～。<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいだよ。|<bw_break>": ""
+    "「あちゃ～。<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいだよ。|<bw_break>": "Oh... your <%sL_BAG_TYPE> is full,|so you can't carry that.|<bw_break>"
   },
   "2665": {
     "「すみませんが　本日はもう|　結晶を取りだせません。|　翌日　朝６時以降に　もう一度お越しください。|<bw_break>": ""
@@ -8040,7 +8040,7 @@
     "「ここで　受け取れる対象のものは|　『プレゼントを受け取る』の項目に|　『特典屋』の記載があるから　チェックしてね！|<br>|「それじゃ|　また　いつでも　来てね！|<turn_end>": ""
   },
   "2681": {
-    "「いらっしゃいませ！　ここは　<%sL_SHOP_KIND>だよ。| 『プレゼントを受け取る』で　受け取り済みの|　一部の特典を　無料で　差し上げちゃうよ！|<break>": ""
+    "「いらっしゃいませ！　ここは　<%sL_SHOP_KIND>だよ。| 『プレゼントを受け取る』で　受け取り済みの|　一部の特典を　無料で　差し上げちゃうよ！|<break>": "Welcome! This is the <%sL_SHOP_KIND> Shop.|You can redeem rewards you've already|received once with \"Receive Present\"!|<break>"
   },
   "2682": {
     "「このたび　素材屋では|　使い込み度が５０以上であれば　汗と涙の結晶を|　取りだせるように　なりました。|<br>|「ただし　取りだせる数は　１００の時よりも|　少なくなるので　ご注意ください。|　さて……。|<bw_break>": ""
@@ -8049,10 +8049,10 @@
     "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えているみたいだけど|　さらに　もらってく？|<yesno 2><break>": "You already know that emote. Are you sure?|<yesno 2><break>"
   },
   "2684": {
-    "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えてるみたいだから|　もう　あげられないよ。|<break>": ""
+    "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えてるみたいだから|　もう　あげられないよ。|<break>": "I can't give you any more of that emote since|you already know it.|<break>"
   },
   "2685": {
-    "「<%sL_KAITAI_ITEM>の　立ちかたは|　もう　覚えてるみたいだけど|　さらに　もらってく？|<yesno 2><break>": ""
+    "「<%sL_KAITAI_ITEM>の　立ちかたは|　もう　覚えてるみたいだけど|　さらに　もらってく？|<yesno 2><break>": "You already know that pose. Do you still want|it anyways?|<yesno 2><break>"
   },
   "2686": {
     "「<%sL_KAITAI_ITEM>の　立ちかたは|　すでに　覚えているようなので|　お渡しすることが　できません。|<break>": ""
@@ -8064,7 +8064,7 @@
     "「<%sL_KAITAI_ITEM>の　スカウトの書は|　すでに　読んだことがあるようなので|　お渡しすることが　できません。|<break>": ""
   },
   "2689": {
-    "<select_se_off>|受け取りにきた|売りにきた|<select_end><break>": ""
+    "<select_se_off>|受け取りにきた|売りにきた|<select_end><break>": "<select_se_off>|Receive|Sell|<select_end><break>"
   },
   "2690": {
     "<select_se_off 2>|受け取りにきた|売りにきた|<select_end><break>": ""
@@ -8088,10 +8088,10 @@
     "「どうも　ありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you, thank you! I'll go ahead and put|this in your equipment bag.|<bw_break>"
   },
   "2697": {
-    "「なんと　残念！|　他に　ほしいものはあるかな？|<break>": ""
+    "「なんと　残念！|　他に　ほしいものはあるかな？|<break>": "Oh, too bad! Is there anything else you'd|like?|<break>"
   },
   "2698": {
-    "「そっか！　残念。|　他に売りたい物は　あるかな？|<break>": ""
+    "「そっか！　残念。|　他に売りたい物は　あるかな？|<break>": "I see! That's too bad. Is there anything else|you'd like to sell?|<break>"
   },
   "2699": {
     "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
@@ -8124,7 +8124,7 @@
     "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "TEMPORARY TEXT"
   },
   "2709": {
-    "「それじゃ　気が済むまで|　見ていってね！|<break>": ""
+    "「それじゃ　気が済むまで|　見ていってね！|<break>": "Please look around as you like!|<break>"
   },
   "2710": {
     "「どれを　売ってくれるのかな？|<break>": "Which would you like to sell?|<break>"
