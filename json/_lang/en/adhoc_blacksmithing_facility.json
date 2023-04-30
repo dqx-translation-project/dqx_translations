@@ -177,7 +177,7 @@
     "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<%sL_MENU_NO_6>|<select_end><break>": "<select_se_off>|<%sL_MENU_NO_1>|<%sL_MENU_NO_2>|<%sL_MENU_NO_3>|<%sL_MENU_NO_4>|<%sL_MENU_NO_5>|<%sL_MENU_NO_6>|<select_end><break>"
   },
   "60": {
-    "鍛冶設備がある。|ここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。|<break>": "It's a Blacksmithing facility. You can craft|<%sL_MENU_NO_1_><%sL_YA2><%sL_MENU_NO_2_><%sL_YA3><%sL_MENU_NO_3_> here.<break>"
+    "鍛冶設備がある。|ここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。|<break>": "It's a Blacksmithing facility.|<break>"
   },
   "61": {
     "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|<break>": "Continue <%sL_CATEGORY_NAME> smithing?|<break>"
@@ -222,7 +222,7 @@
     "今週の職人回数が　上限に達したので|これ以上　<%sL_CATEGORY_NAME>鍛冶はできません。|<br>|日曜日の　朝６時以降になると|ふたたび　<%sL_CATEGORY_NAME>鍛冶が　できるようになります。|<end>": "I've reached my limit for this week, so I|can't <%sL_CATEGORY_NAME>forge any more... On|Sunday mornings, after 6am, I can|<br>|<%sL_CATEGORY_NAME>forge again...<end>"
   },
   "75": {
-    "鍛冶設備がある。|ここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。|（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）|<break>": "It's a Blacksmithing facility. You can craft|<%sL_MENU_NO_1_><%sL_YA2><%sL_MENU_NO_2_><%sL_YA3><%sL_MENU_NO_3_> here.|(You can <%sL_CATEGORY_NAME> <%dL_PLAYABLE> more time(s) this week.)<break>"
+    "鍛冶設備がある。|ここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。|（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）|<break>": "It's a Blacksmithing facility.|(You can <%sL_CATEGORY_NAME> <%dL_PLAYABLE> more time(s) this week.)<break>"
   },
   "76": {
     "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）|<break>": "Would you like to continue|<%sL_CATEGORY_NAME>forging? （I have|<%nL_PLAYABLE>more <%sL_CATEGORY_NAME>forges|<br>|to do this week...)<break>"
