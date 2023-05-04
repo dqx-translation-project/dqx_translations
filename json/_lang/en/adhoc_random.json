@@ -447,7 +447,7 @@
     "ちいさなメダル": "Mini Medal"
   },
   "150": {
-    "職業レベル": "Job Level"
+    "職業レベル": "Vocations"
   },
   "151": {
     "ID：": "ID:"
@@ -603,7 +603,7 @@
     "経験値：": "Experience:"
   },
   "202": {
-    "職人経験値：": "Craftsman EXP:"
+    "職人経験値：": "Crafting EXP:"
   },
   "203": {
     "９９９９９": ""
@@ -633,7 +633,7 @@
     "<%sM_race>": "<%sM_race>"
   },
   "212": {
-    "<%sM_self>": ""
+    "<%sM_self>": "<%sM_self>"
   },
   "213": {
     "<%sM_sex>": "<%sM_sex>"
@@ -927,7 +927,7 @@
     "手紙と荷物を送る": ""
   },
   "310": {
-    "郵便箱をみる": "View Mailbox"
+    "郵便箱をみる": "Stored Mail"
   },
   "311": {
     "手紙を送る": ""
@@ -948,7 +948,7 @@
     "住所": "Addr."
   },
   "317": {
-    "土地のおおきさ": "Size of the land"
+    "土地のおおきさ": "Land Size"
   },
   "318": {
     "みる": "Watch"
@@ -1398,7 +1398,7 @@
     "パーツをはずす": "Remove Parts"
   },
   "467": {
-    "スキル効果": "Passives"
+    "スキル効果": "Traits"
   },
   "468": {
     "いきもの": "Being"
@@ -1407,7 +1407,7 @@
     "ルーラストーン": "Zoomstone"
   },
   "470": {
-    "つかうもの": "Items"
+    "つかうもの": "Item Bag"
   },
   "471": {
     "助けを待つ": "Wait For Help"
@@ -2166,7 +2166,7 @@
     "<%dM_03>": "<%dM_03>"
   },
   "723": {
-    "落とすモンスター": "Monsters"
+    "落とすモンスター": "Dropped By"
   },
   "724": {
     "店で買う時の価格": ""
@@ -2190,7 +2190,7 @@
     ")": ")"
   },
   "731": {
-    "<%sM_racesoubi>": ""
+    "<%sM_racesoubi>": "<%sM_racesoubi>"
   },
   "732": {
     "レア度": " Rarity"
@@ -2598,7 +2598,7 @@
     "装備レベル": "Equipment Lv."
   },
   "867": {
-    "錬金レシピ": ""
+    "錬金レシピ": "Alchemy Recipe"
   },
   "868": {
     "つけられる装備品": ""
@@ -2967,7 +2967,7 @@
     "作った人の名前": "Crafter's Name"
   },
   "990": {
-    "<%sM_soubilv>": ""
+    "<%sM_soubilv>": "<%sM_soubilv>"
   },
   "991": {
     "<%sM_dekinoyosa>": "<%sM_dekinoyosa>"
@@ -3219,7 +3219,7 @@
     "状態順": "Status"
   },
   "1074": {
-    "盾カバー": "Cover"
+    "盾カバー": "Shield Cover"
   },
   "1075": {
     "討伐モンスターリスト": "Defeated Monsters"
@@ -3384,7 +3384,7 @@
     "手に入れた　<%sM_category>の種類": "Type of <%sM_category> Owned"
   },
   "1129": {
-    "倒したモンスターの種類": "Types of Defeated Monsters"
+    "倒したモンスターの種類": "Unique Monsters Defeated"
   },
   "1130": {
     "手に入れたアイテムの種類": "Types of Items Received"
@@ -3660,7 +3660,7 @@
     "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は|すでに　リクエストを送っているか|フレンド登録済みのようです。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) already sent a request or is|already a friend."
   },
   "1221": {
-    "<speed=0>リクエストを送って　相手がＯＫしたら|お互いのフレンドリストに　登録されます。|よろしいですか？<yesno><close>": "<speed=0>By sending a request, you will be added to|each other's friends list if the other player|accepts. Is this okay?<yesno><close>"
+    "<speed=0>リクエストを送って　相手がＯＫしたら|お互いのフレンドリストに　登録されます。|よろしいですか？<yesno><close>": "<speed=0>By sending a request, you will be added to|each other's friends list if the other player|accepts. Proceed?<yesno><close>"
   },
   "1222": {
     "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）に|フレンドのリクエストを　送った！|<%sL_PC_NICK>からの　返事を待とう。": ""
@@ -3765,7 +3765,7 @@
     "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストから　はずしました。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) was removed from the blacklist."
   },
   "1256": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えますか？<yesno><close>": "<speed=0>Add <%sL_PC_NICK> (<%sUNIQUE_ID>) to the blacklist?"
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を|ブラックリストに　加えますか？<yesno><close>": "<speed=0>Add <%sL_PC_NICK> (<%sUNIQUE_ID>)|to your blacklist?<yesno><close>"
   },
   "1257": {
     "<speed=0>自分を　ブラックリストに|加えることは　できません！": "<speed=0>You can't add yourself to the blacklist!"
@@ -3906,7 +3906,7 @@
     "レア度：": "Rarity :"
   },
   "1303": {
-    "必要な職人 Lv<%dM_SyokuninLevel>": "Need Craft Lv<%dM_SyokuninLevel>"
+    "必要な職人 Lv<%dM_SyokuninLevel>": "Requires Lv<%dM_SyokuninLevel>"
   },
   "1304": {
     "おうえん": "Egg On"
@@ -5382,7 +5382,7 @@
     "そうびできる": ""
   },
   "1795": {
-    "覚えるレシピを見る": "See Recipes to Learn"
+    "覚えるレシピを見る": "Recipes Learned"
   },
   "1796": {
     "<speed=0>ブラックリストには　誰も登録されていません。": "<speed=0>No one is registered on the blacklist."
@@ -5493,9 +5493,9 @@
     "<%sM_rurastone><%dM_tyoume>丁目の石": "<%sM_rurastone> Block <%dM_tyoume>"
   },
   "1832": {
-    "職人経験値": "Craftsman EXP"
+    "職人経験値": "Crafting EXP"
   },
   "1833": {
-    "元気タイム残り<%2nM_mm>分": ""
+    "元気タイム残り<%2nM_mm>分": "Time Left <%2dM_mm> min."
   }
 }

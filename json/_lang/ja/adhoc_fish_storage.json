@@ -1,6 +1,6 @@
 {
   "1": {
-    "どのさかなを　<%sL_FURNITURE>に|いれますか？|<break>": "どのさかなを　<%sL_FURNITURE>に|いれますか？|<break>"
+    "どの　さかなを　<%sL_FURNITURE>に|入れますか？|<break>": "どの　さかなを　<%sL_FURNITURE>に|入れますか？|<break>"
   },
   "2": {
     "しかし　今は　できなかった！|<end>": "しかし　今は　できなかった！|<end>"
@@ -12,7 +12,7 @@
     "権限がないため　その処理はできません。|<end>": "権限がないため　その処理はできません。|<end>"
   },
   "5": {
-    "<%sL_BAG_FISH>を|<%sL_FURNITURE>　にいれました！|『さかなをだす』から　だすことができます。|<end>": "<%sL_BAG_FISH>を|<%sL_FURNITURE>　にいれました！|『さかなをだす』から　だすことができます。|<end>"
+    "<%sL_BAG_FISH>を|<%sL_FURNITURE>　に入れました！|『さかなをだす』から　出すことができます。|<end>": "<%sL_BAG_FISH>を|<%sL_FURNITURE>　に入れました！|『さかなをだす』から　出すことができます。|<end>"
   },
   "6": {
     "まだ　釣ったさかなが　いません。|<end>": "まだ　釣ったさかなが　いません。|<end>"
@@ -21,48 +21,99 @@
     "さかなぶくろが　いっぱいのため　|さかなを　取り出せません。|<end>": "さかなぶくろが　いっぱいのため　|さかなを　取り出せません。|<end>"
   },
   "8": {
-    "<%sL_BAG_FISH>を　いれますか？|<%sL_FURNITURE>に　いれられるさかなは|１匹だけです。|<yesno><break>": "<%sL_BAG_FISH>を　いれますか？|<%sL_FURNITURE>に　いれられるさかなは|１匹だけです。|<yesno><break>"
+    "<%sL_BAG_FISH>を　入れますか？|<%sL_FURNITURE>に　入れられる　さかなは|１匹だけです。|<yesno><break>": "<%sL_BAG_FISH>を　入れますか？|<%sL_FURNITURE>に　入れられる　さかなは|１匹だけです。|<yesno><break>"
   },
   "9": {
     "現在　<%sL_FURNITURE>には|<%sL_SUISOU_FISH>が　入っています。|<br>|<%sL_BAG_FISH>を　いれて|<%sL_SUISOU_FISH>を　さかなぶくろに|もどしますか？|<yesno><break>": "現在　<%sL_FURNITURE>には|<%sL_SUISOU_FISH>が　入っています。|<br>|<%sL_BAG_FISH>を　いれて|<%sL_SUISOU_FISH>を　さかなぶくろに|もどしますか？|<yesno><break>"
   },
   "10": {
-    "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|さかなぶくろに　もどしますか？|<yesno><break>": "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|さかなぶくろに　もどしますか？|<yesno><break>"
+    "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|さかなぶくろに　戻しますか？|<yesno><break>": "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|さかなぶくろに　戻しますか？|<yesno><break>"
   },
   "11": {
-    "水そう床を　取りつけていないため|さかなを　いれることができません。|<br>|とびらメニューの　『内装を変える』より|水そう床を　取りつけてから|さかなを　いれてください。": "水そう床を　取りつけていないため|さかなを　いれることができません。|<br>|とびらメニューの　『内装を変える』より|水そう床を　取りつけてから|さかなを　いれてください。"
+    "水そう床を　取りつけていないため|さかなを　入れることができません。|<br>|とびらメニューの　『内装を変える』より|水そう床を　取りつけてから|さかなを　入れてください。": "水そう床を　取りつけていないため|さかなを　入れることができません。|<br>|とびらメニューの　『内装を変える』より|水そう床を　取りつけてから|さかなを　入れてください。"
   },
   "12": {
-    "<%sL_BAG_FISH>を　いれますか？|<%sL_FURNITURE>に　いれられるさかなは|あと　<%nL_NUM>匹です。|<yesno><break>": "<%sL_BAG_FISH>を　いれますか？|<%sL_FURNITURE>に　いれられるさかなは|あと　<%nL_NUM>匹です。|<yesno><break>"
+    "<%sL_BAG_FISH>を　入れますか？|<%sL_FURNITURE>に　入れられる　さかなは|あと　<%nL_NUM>匹です。|<yesno><break>": "<%sL_BAG_FISH>を　入れますか？|<%sL_FURNITURE>に　入れられる　さかなは|あと　<%nL_NUM>匹です。|<yesno><break>"
   },
   "13": {
     "どのさかなを|<%sL_FURNITURE>の中の　さかなと|交換しますか？|<break>": "どのさかなを|<%sL_FURNITURE>の中の　さかなと|交換しますか？|<break>"
   },
   "14": {
-    "<%sL_SUISOU_FISH>を|<%sL_BAG_FISH>と　交換して|さかなぶくろに戻しました！|<end>": "<%sL_SUISOU_FISH>を|<%sL_BAG_FISH>と　交換して|さかなぶくろに戻しました！|<end>"
+    "<%sL_BAG_FISH>を　<%sL_FURNITURE>に|入れました！　<%sL_SUISOU_FISH>を|さかなぶくろに戻しました！|<end>": "<%sL_BAG_FISH>を　<%sL_FURNITURE>に|入れました！　<%sL_SUISOU_FISH>を|さかなぶくろに戻しました！|<end>"
   },
   "15": {
-    "<%sL_BAG_FISH>と　交換して|さかなぶくろにもどす　さかなを|選択してください。|<break>": "<%sL_BAG_FISH>と　交換して|さかなぶくろにもどす　さかなを|選択してください。|<break>"
+    "<%sL_BAG_FISH>と　交換して|さかなぶくろに戻す　さかなを|選択してください。|<break>": "<%sL_BAG_FISH>と　交換して|さかなぶくろに戻す　さかなを|選択してください。|<break>"
   },
   "16": {
-    "<%sL_BAG_FISH>と|<%sL_SUISOU_FISH>を　交換して|よろしいですか？|<yesno><break>": "<%sL_BAG_FISH>と|<%sL_SUISOU_FISH>を　交換して|よろしいですか？|<yesno><break>"
+    "水そうの　<%sL_SUISOU_FISH>と|<%sL_BAG_FISH>を　交換しても|よろしいですか？|<yesno><break>": "水そうの　<%sL_SUISOU_FISH>と|<%sL_BAG_FISH>を　交換しても|よろしいですか？|<yesno><break>"
   },
   "17": {
-    "すでに　<%sL_FURNITURE>には|<%nL_NUM_IN>匹　さかなが入っています。|これ以上　さかなを　いれることはできません。|<br>|水そう床の中のさかなと|交換して　<%sL_BAG_FISH>を　いれますか？|<yesno><break>": "すでに　<%sL_FURNITURE>には|<%nL_NUM_IN>匹　さかなが入っています。|これ以上　さかなを　いれることはできません。|<br>|水そう床の中のさかなと|交換して　<%sL_BAG_FISH>を　いれますか？|<yesno><break>"
+    "すでに　<%sL_FURNITURE>には|<%nL_NUM_IN>匹　さかなが入っています。|これ以上　さかなを　入れることはできません。|<br>|水そう床の中のさかなと|交換して　<%sL_BAG_FISH>を　入れますか？|<yesno><break>": "すでに　<%sL_FURNITURE>には|<%nL_NUM_IN>匹　さかなが入っています。|これ以上　さかなを　入れることはできません。|<br>|水そう床の中のさかなと|交換して　<%sL_BAG_FISH>を　入れますか？|<yesno><break>"
   },
   "18": {
-    "どのさかなを　<%sL_FURNITURE>から|さかなぶくろに　もどしますか？|<break>": "どのさかなを　<%sL_FURNITURE>から|さかなぶくろに　もどしますか？|<break>"
+    "どの　さかなを　<%sL_FURNITURE>から|取り出しますか？|<break>": "どの　さかなを　<%sL_FURNITURE>から|取り出しますか？|<break>"
   },
   "19": {
-    "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|さかなぶくろに　もどしました！|<end>": "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|さかなぶくろに　もどしました！|<end>"
+    "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|さかなぶくろに　戻しました！|<end>": "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|さかなぶくろに　戻しました！|<end>"
   },
   "20": {
-    "サイズが　合わないため|この水そうには　いれられません。|<end>": "サイズが　合わないため|この水そうには　いれられません。|<end>"
+    "サイズが　合わないため|この水そうには　入れられません。|<end>": "サイズが　合わないため|この水そうには　入れられません。|<end>"
   },
   "21": {
-    "この水そうに　いれられる|さかなを　持っていません。|<end>": "この水そうに　いれられる|さかなを　持っていません。|<end>"
+    "この水そうに　入れられる|さかなを　持っていません。|<end>": "この水そうに　入れられる|さかなを　持っていません。|<end>"
   },
   "22": {
     "このさかなは　ロックされているため|水そうに　入れることはできません。|<end>": "このさかなは　ロックされているため|水そうに　入れることはできません。|<end>"
+  },
+  "23": {
+    "どちらの方法で|さかなを入れますか？|<select_se_off>|さかなぶくろ|収集おさかなリスト|<select_end><break>": "どちらの方法で|さかなを入れますか？|<select_se_off>|さかなぶくろ|収集おさかなリスト|<select_end><break>"
+  },
+  "24": {
+    "<select_se_off>|<%sL_COMMAND1>|<%sL_COMMAND2>|<select_end><break>": "<select_se_off>|<%sL_COMMAND1>|<%sL_COMMAND2>|<select_end><break>"
+  },
+  "25": {
+    "収集おさかなリストから<%sL_BAG_FISH>を|入れますか？　<%sL_FURNITURE>に|入れられる　さかなは　１匹だけです。|<yesno><break>": "収集おさかなリストから<%sL_BAG_FISH>を|入れますか？　<%sL_FURNITURE>に|入れられる　さかなは　１匹だけです。|<yesno><break>"
+  },
+  "26": {
+    "収集おさかなリストから<%sL_BAG_FISH>を|入れますか？　<%sL_FURNITURE>に|入れられる　さかなは　あと　<%nL_NUM>匹です。|<yesno><break>": "収集おさかなリストから<%sL_BAG_FISH>を|入れますか？　<%sL_FURNITURE>に|入れられる　さかなは　あと　<%nL_NUM>匹です。|<yesno><break>"
+  },
+  "27": {
+    "どの　さかなを　<%sL_FURNITURE>から|取り出しますか？|<break>": "どの　さかなを　<%sL_FURNITURE>から|取り出しますか？|<break>"
+  },
+  "28": {
+    "<%sL_SUISOU_FISH>は　おさかな収集リストから|入れた　さかなのため　水そうから出すと|さかなぶくろには戻らず　消えます。": "<%sL_SUISOU_FISH>は　おさかな収集リストから|入れた　さかなのため　水そうから出すと|さかなぶくろには戻らず　消えます。"
+  },
+  "29": {
+    "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|出しても　よろしいですか？|<yesno><break>": "<%sL_SUISOU_FISH>を　<%sL_FURNITURE>から|出しても　よろしいですか？|<yesno><break>"
+  },
+  "30": {
+    "<%sL_FURNITURE>の|収集おさかなリストから入れた|<%sL_SUISOU_FISH>は　消えました！|<end>": "<%sL_FURNITURE>の|収集おさかなリストから入れた|<%sL_SUISOU_FISH>は　消えました！|<end>"
+  },
+  "31": {
+    "現在　<%sL_FURNITURE>には|<%sL_SUISOU_FISH>が　入っています。|<bw_break>": "現在　<%sL_FURNITURE>には|<%sL_SUISOU_FISH>が　入っています。|<bw_break>"
+  },
+  "32": {
+    "さかなぶくろから　<%sL_BAG_FISH>を|入れて　<%sL_SUISOU_FISH>を|さかなぶくろに　戻しますか？|<yesno><break>": "さかなぶくろから　<%sL_BAG_FISH>を|入れて　<%sL_SUISOU_FISH>を|さかなぶくろに　戻しますか？|<yesno><break>"
+  },
+  "33": {
+    "収集おさかなリストから　<%sL_BAG_FISH>を|入れて　<%sL_SUISOU_FISH>を|さかなぶくろに　戻しますか？|<yesno><break>": "収集おさかなリストから　<%sL_BAG_FISH>を|入れて　<%sL_SUISOU_FISH>を|さかなぶくろに　戻しますか？|<yesno><break>"
+  },
+  "34": {
+    "現在　<%sL_FURNITURE>には|収集おさかなリストから入れた|<%sL_SUISOU_FISH>が　入っています。|<br>|収集おさかなリストから入れた　さかなは|水そうから出すと　さかなぶくろには|戻らず　消えます。|<bw_break>": "現在　<%sL_FURNITURE>には|収集おさかなリストから入れた|<%sL_SUISOU_FISH>が　入っています。|<br>|収集おさかなリストから入れた　さかなは|水そうから出すと　さかなぶくろには|戻らず　消えます。|<bw_break>"
+  },
+  "35": {
+    "さかなぶくろから　<%sL_BAG_FISH>を|入れて　<%sL_SUISOU_FISH>を|水そうから出しても　よろしいですか？|<yesno><break>": "さかなぶくろから　<%sL_BAG_FISH>を|入れて　<%sL_SUISOU_FISH>を|水そうから出しても　よろしいですか？|<yesno><break>"
+  },
+  "36": {
+    "収集おさかなリストから　<%sL_BAG_FISH>を|入れて　<%sL_SUISOU_FISH>を|水そうから出しても　よろしいですか？|<yesno><break>": "収集おさかなリストから　<%sL_BAG_FISH>を|入れて　<%sL_SUISOU_FISH>を|水そうから出しても　よろしいですか？|<yesno><break>"
+  },
+  "37": {
+    "<%sL_FURNITURE>に　<%sL_BAG_FISH>を|入れました！　収集おさかなリストから入れた|<%sL_SUISOU_FISH>は　消えました！|<end>": "<%sL_FURNITURE>に　<%sL_BAG_FISH>を|入れました！　収集おさかなリストから入れた|<%sL_SUISOU_FISH>は　消えました！|<end>"
+  },
+  "38": {
+    "水そうに入れられる|さかなが　ありません。": "水そうに入れられる|さかなが　ありません。"
+  },
+  "39": {
+    "さかなぶくろが　いっぱいのため|水そうの　さかなを　収集おさかなリストの|さかなと　交換することが　できません。": "さかなぶくろが　いっぱいのため|水そうの　さかなを　収集おさかなリストの|さかなと　交換することが　できません。"
   }
 }

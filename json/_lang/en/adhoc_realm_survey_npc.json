@@ -66,7 +66,7 @@
     "「何について　説明しましょうか？|<break>": "What would you like me to explain?<break>"
   },
   "23": {
-    "<pipipi_off>|受注していた　調査依頼は　完了している。|聖都エジャルナにいる|領界調査員モフテカに　報告しにいこう。|<end>": "<pipipi_off>I've completed my investigation. I've gone to|the Holy City of Ejalna to report to Agent|Mofteka...<end>"
+    "<pipipi_off>|受注していた　調査依頼は　完了している。|聖都エジャルナにいる|領界調査員モフテカに　報告しにいこう。|<end>": "<pipipi_off>Your investigation has been completed.|Go and speak with Mofteka in Ejarna to report|your findings.|<end>"
   },
   "24": {
     "<pipipi_off>|領界調査バインダーに　調査依頼を受けている|<%sM_ryoukai>　<%sM_stage>の|魔物討伐状況が　記されている。|<end>": "<pipipi_off>The status of <%sM_ryoukai> <%sM_stage>'s|demon defeat will be listed in the territory|research binder.<end>"
@@ -75,16 +75,16 @@
     "「調査対象となる領界ですが|　本部の都合で　対象を|　増やさせていただくことがあります。|<br>|「おそらく……新しい領界が　つながって|　全域の安全確認が取れた後だと　思うのですが|　くわしいことは　わからなくて……すみません。|<br>|「なのでっ！　そういう時は　<pc>さん|　自身の冒険を　進めていただくのが|　よいんじゃないかと思いますっ！|<br>|「こちらの都合で　申し訳ありませんが|　調査できる領界が　増える場合は　私のところに|　来てくださったときに　お知らせしますね。|<bw_break>": "This is the territory we're investigating,|but we may have to increase the number of|targets for reasons beyond our control.|<br>|Perhaps... I think it'll be after the new|territory has been connected and we've|confirmed the safety of the entire area, but|<br>|I'm not sure... I'm sorry... So! In that|case...<pc> I think it would be best for you to proceed|with your own adventure, sir! I apologize for|the inconvenience, but if there are more|<br>|territories to investigate, I'll let you know|when you come to me...<bw_break>"
   },
   "26": {
-    "<select_se_off>|調査依頼を受ける|説明を聞く|<select_end>|<break>": ""
+    "<select_se_off>|調査依頼を受ける|説明を聞く|<select_end>|<break>": "<select_se_off>|Accept Survey Request|Explanation|<select_end>|<break>"
   },
   "27": {
-    "<select_se_off 2>|調査依頼を受ける|説明を聞く|<select_end>|<break>": ""
+    "<select_se_off 2>|調査依頼を受ける|説明を聞く|<select_end>|<break>": "<select_se_off 2>|Accept Survey Request|Explanation|<select_end>|<break>"
   },
   "28": {
-    "<select_se_off>|調査内容を変更する|説明を聞く|<select_end>|<break>": ""
+    "<select_se_off>|調査内容を変更する|説明を聞く|<select_end>|<break>": "<select_se_off>|Change Survey Content|Explanation|<select_end>|<break>"
   },
   "29": {
-    "<select_se_off 2>|調査内容を変更する|説明を聞く|<select_end>|<break>": ""
+    "<select_se_off 2>|調査内容を変更する|説明を聞く|<select_end>|<break>": "<select_se_off 2>|Change Survey Content|Explanation|<select_end>|<break>"
   },
   "30": {
     "<select_se_off>|調査依頼について|地域について|対象の領界について|調査内容の変更について|報告と報酬について|<select_end>|<break>": "<select_se_off>|About the survey request|About the region|About the subject territory|Changes to the survey|Reporting and Compensation|<select_end>|<break>"
@@ -129,7 +129,7 @@
     "「ふむふむ……今回の魔物調査は|　<%sM_ryoukai>の　<%sM_stage>ですね。|　それでは　調査を開始して　よろしいですか？|<yesno><close>": "Mm-hmm... This demon survey is for|<%sM_ryoukai>'s <%sM_stage>... Then may we|begin the investigation?<yesno><close>"
   },
   "44": {
-    "<pipipi_off>|<pc>は|領界調査バインダーを　開いてみた。|<br>|……今は　依頼を受けていないようだ。|聖都エジャルナの　領界調査員モフテカに会って|魔物の調査依頼を受けよう！|<end>": "<pipipi_off>|<pc> ...opens the territorial search binder... ...|I'm not accepting any requests right now.|Let's go to the holy city of Ejalna, and meet|<br>|with Agent Mofteka to investigate the demons.<end>"
+    "<pipipi_off>|<pc>は|領界調査バインダーを　開いてみた。|<br>|……今は　依頼を受けていないようだ。|聖都エジャルナの　領界調査員モフテカに会って|魔物の調査依頼を受けよう！|<end>": "<pipipi_off>|<pc> opened the Realm|Survey Binder.|<br>|But you don't have any requests accepted right|now. Go speak with Mofteka in Ejarna to|accept some monster requests!|<end>"
   },
   "45": {
     "「それでは　調査を行う領界を|　選んでください。|<break>": "Now, please select a territory to|investigate.<break>"
@@ -168,7 +168,7 @@
     "<pipipi_off>|調律バインダーに　調律依頼を受けている|<%sM_ryoukai>　<%sM_stage>の|魔物討伐状況が　記されている。|<end>": "<pipipi_off>In the tuning binder, you'll find a list of|<%sM_ryoukai> <%sM_stage>'s demon defeats.<end>"
   },
   "57": {
-    "<pipipi_off>|<pc>は|調律バインダーを　開いてみた。|<br>|……今は　依頼を受けていないようだ。|新エテーネの村の　観測者モルフェスに会って|調律依頼を受けよう！|<end>": "<pipipi_off>|<pc> ...opens the tuning binder... ... I don't|have a commission... I'll go to Morpheus, the|observer in the new village of Etaine, and|<br>|ask him to tune it for me!<end>"
+    "<pipipi_off>|<pc>は|調律バインダーを　開いてみた。|<br>|……今は　依頼を受けていないようだ。|新エテーネの村の　観測者モルフェスに会って|調律依頼を受けよう！|<end>": "<pipipi_off>|<pc> opened the Tuning Binder.|<br>|But you don't have any requests accepted|right now. Go speak to Morpheus in New Ethene|Village to accept a tuning request!|<end>"
   },
   "58": {
     "<pipipi_on>|「依頼中の　世界の調律状況は|　だいじなものにある　調律バインダーから|　いつでも　確認できる。|<br>|「選んだ地域の　調律が完了したら|　ささやかながら　報酬を用意しているから|　私のところに　報告に来るといい。|<br>|「それでは　よろしく頼む。|<end>": "<pipipi_on>The tuning status of the world you're working|on is in your binder, which you can access at|any time... When you've completed the tuning|<br>|of your chosen region, you'll receive a small|reward, and you'll report back to me... I'll|see you...<end>"

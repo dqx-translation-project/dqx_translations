@@ -12,7 +12,7 @@
     "<color_yellow>|土地を売ると　この土地へのルーラストーン設定が|消えます。作成した家パーツや　お花の妖精が|来ていた時は　再度土地を買えば　復活します。|<br><color_white>|また　この家が　チーム集会所に|設定されていた時は　土地を売ると|自動で　集会所設定が　解除されます。|<br>|さらに　以下に記載するものが　|リセットされます。|<br><color_yellow>|ハウジングの権限設定|スライムチャイムのメッセージ|バトンちゃんが訪ねてきた記録|<br><color_white>|本当に　この土地を|売ってしまって　よろしいですか？<yesno 2><close>": "<color_yellow>When you sell a piece of land, the Zoomstone|for this piece of land disappears. If|you have any house parts or flower fairies|<br>|that have been here, you can buy the land|again to restore them...<color_white>Also, if this house was set up as a team|meeting place, selling the land will|automatically unset the meeting place... In|<br>|addition, the following will be reset...<color_yellow>|Setting Housing Permissions|Message from Slime Chimes|A record of Baton-chan's visit|<color_white>Are you sure you don't want to sell this|land?<yesno 2><close>"
   },
   "5": {
-    "すでに家が建っているため　建てられません。": "Because the house has already been built. It|was built..."
+    "すでに家が建っているため　建てられません。": "There is already a house built here."
   },
   "6": {
     "この土地は　<%nL_LAND_PRICE>ゴールドで|売りに出されているようだ。|<bw_break>": "This land is being offered for sale at|<%nL_LAND_PRICE> Gold...<bw_break>"
@@ -36,7 +36,7 @@
     "お金を持ちきれないため|この土地を　売ることが　できませんでした。": "I can't sell this land because I don't have|enough money to..."
   },
   "13": {
-    "家が建っている土地は　売ることができません。": "The land on which the house stands can be|sold for..."
+    "家が建っている土地は　売ることができません。": "Land with a house built cannot be sold."
   },
   "14": {
     "<%sL_LAND_SIZE>の土地に|建てられる家を　持っていなかった。": "I don't have a house to build on a lot with|<%sL_LAND_SIZE>..."
@@ -75,7 +75,7 @@
     "「それでは　ハウジングの楽しみ方について|　簡単に　ご案内いたします！|<br>|「まずは　ここに　あなたの家を建てましょう！|　家は　住宅村の　建物屋で売っていますので|　そちらで　お好きなものを　お選びください。|<br>|「家を　購入されましたら|　立て札を調べることで　建てることができます。|<br>|「建てた家は　見た目を変えられます。|　専任の　大工がおりますので|　気分を変えたい時は　お申しつけください。|<br>|「家の中には　家具を自由に|　置くことができます。あなたなりの|　アレンジを　ぜひ　お試しください。|<br>|「それから　建てた家は　お友達と|　共有することも　できるんですよ。|<br>|「家への出入りや　家具や家パーツをさわる権限を|　フレンドや　チームリストから|　設定していただくことが　できるのです。|<br>|「説明は　以上です。家を建てられると|　家の権限設定や　家の名前の変更|　あいさつ文の変更なども　私の仕事になります。|<br>|「そういった　ご用がございましたら|　建てた家の扉メニューから　いつでも|　お呼びくださいませ。お待ちしております。|<bw_break>": "Let's take a quick look at some of the ways|you can enjoy your housing! First, let's|build your house here! Houses are sold at the|<br>|Building Shop in the Housing Village, so you|can choose the one you want... Once you've|purchased a house, you can build it by|<br>|checking the sign... Once the house is built,|you can change its appearance... We have a|full-time carpenter, so if you want to change|<br>|the look of the house, just let us know...|You're free to put your own furniture in the|house... We'd love to see you try out your|<br>|own ideas... And once you've built your|house, you can share it with your friends.|You can set up access to your house, and|<br>|access to your furniture and house parts from|your friends and team list... For more|information... Once you've built a house,|<br>|it's my job to set the permissions, rename|the house, change the greeting... If you need|any of those things, you can always call me|<br>|from the door menu of your house... I'll be|waiting...<bw_break>"
   },
   "26": {
-    "<%sL_PC_NICK>は　この土地専用の|ルーラストーンを　手に入れた！|<me 60><end>": "<%sL_PC_NICK> now has a Zoomstone|exclusively for this plot!|<me 60><end>"
+    "<%sL_PC_NICK>は　この土地専用の|ルーラストーンを　手に入れた！|<me 60><end>": "<%sL_PC_NICK> received a Zoomstone|registered to this plot!|<me 60><end>"
   },
   "27": {
     "「<%sL_PC_NICK>さま！|　土地のご購入　おめでとうございます！|<br>|「私　この住宅村の管理を　まかされている|　管理人の　<%sL_MAID_NAME>と申します。|　今後　どうぞ　よろしくお願いいたします。|<br>|「では　<%sL_PC_NICK>さまが　晴れて|　地主になられた証として　この場所への|　ルーラストーンを　進呈させていただきます。|<br>|「このルーラストーンは　他の物とは違って|　記憶場所を　書きかえることが　できません。|　ご帰宅専用の　特別品になります。|<end>": "<if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>! Congratulations|on your land purchase.|<br>|My name is <%sL_MAID_NAME>, and I'm|in charge of this residential district.|It's very nice to meet you.|<br>|As a commemoration of becoming a new land|owner, I want to give you this Zoomstone|registered to your land.|<br>|However, this Zoomstone is different in that|it cannot be rewritten. It is meant|specifically to return to your home.|<end>"
@@ -135,22 +135,22 @@
     "ここは　<%sL_OWNER>の家だ。": "This is <%sL_OWNER>..."
   },
   "46": {
-    "ルーラストーンの記憶場所を|<%sM_item1><%sM_rurastone1><%sM_dot1><%sM_sub1>から|<%sL_OwnerName>の家に　変更しますか？|<yesno><break>": ""
+    "ルーラストーンの記憶場所を|<%sM_item1><%sM_rurastone1><%sM_dot1><%sM_sub1>から|<%sL_OwnerName>の家に　変更しますか？|<yesno><break>": "Change this Zoomstone's location from|<%sM_item1><%sM_rurastone1><%sM_dot1><%sM_sub1>|to <%sL_OwnerName>'s home?|<yesno><break>"
   },
   "47": {
     "どの　ルーラストーンに|この場所を　記憶させますか？|<break>": "Register this location in which Zoomstone?<break>"
   },
   "48": {
-    "ルーラストーンの記憶する場所が|<%sL_OwnerName>の家になりました。": "Zoomstones will now remember the home of|<%sL_OwnerName>..."
+    "ルーラストーンの記憶する場所が|<%sL_OwnerName>の家になりました。": "|<%sL_OwnerName>'s home was registered|to the Zoomstone."
   },
   "49": {
     "それは　記憶された場所を|変えることが　できません。|別の石を　選んでください。|<break>": "This stone's location cannot be changed.|Please choose a different one.<break>"
   },
   "50": {
-    "すでに　この場所を記憶させた|ルーラストーンを　持っています。": "I already have a Zoomstone that remembers|this place..."
+    "すでに　この場所を記憶させた|ルーラストーンを　持っています。": "You already have a Zoomstone registered to|this location."
   },
   "51": {
-    "<%sL_PC_NICK>は|ルーラストーンに　念じた……。|<break>": "<%sL_PC_NICK> thought of a Zoomstone...<break>"
+    "<%sL_PC_NICK>は|ルーラストーンに　念じた……。|<break>": "<%sL_PC_NICK> envisioned|their Zoomstone...|<break>"
   },
   "52": {
     "お招きのつばさは　ひとつ　<%nL_GOLD>ゴールドで|１０回　使えます。購入しますか？|<yesno><break>": "An Invitation Wing costs <%dL_GOLD> Gold|and can be used 10 times. Would you like|to purchase one?|<yesno><break>"
@@ -186,16 +186,16 @@
     "この土地は　<%nL_LAND_PRICE>ゴールドで|売りに出されているようだ。|この土地に引っ越して　よろしいですか？|<yesno 2><break>": "This land is being offered for sale at|<%nL_LAND_PRICE> gold... Are you sure you|want to move to this land?<yesno 2><break>"
   },
   "63": {
-    "この家を　チーム集会所に設定しますか？|<yesno 2><break>": ""
+    "この家を　チーム集会所に設定しますか？|<yesno 2><break>": "Set this house as your Team House?|<yesno 2><break>"
   },
   "64": {
-    "この家を　チーム集会所ではなくしますか？|<yesno 2><break>": "Do you want to make this house less of a team|meeting place?<yesno 2><break>"
+    "この家を　チーム集会所ではなくしますか？|<yesno 2><break>": "Do you want to remove this house as the|Team House?|<yesno 2><break>"
   },
   "65": {
-    "チーム集会所に設定しました！|<end>": "We're set for the team meeting place!<end>"
+    "チーム集会所に設定しました！|<end>": "Team House has been set!|<end>"
   },
   "66": {
-    "チーム集会所ではなくしました。|<end>": "Not in the team meeting place...<end>"
+    "チーム集会所ではなくしました。|<end>": "No longer the Team House.|<end>"
   },
   "67": {
     "さかなが　床下水そうにいるときは|引っ越しできません。|<br><color_yellow>|また　畑を栽培中だったり|仲間モンスターが　お庭にいたり　おさんぽ中や|おくりものがある時も　引っ越しできません。|<color_white>": "You can't move when the fish are in the|subfloor...<color_yellow>You can also move when you're growing a|field, or when your monsters are in the|garden, or when you're out for a walk, or|<br>|when you have a gift to give away...<color_white>"
@@ -213,16 +213,16 @@
     "プライベートコンシェルジュが　いるため|土地の売却が　できません。": "We have a private concierge who can help you|sell your land..."
   },
   "72": {
-    "<pc>が　持っている|幸せのご近所バトンが　輝きだした！|<br>|この家の住人　<%sL_OWNER>さんに|幸せのご近所バトンを　届けますか？|<yesno><break>": ""
+    "<pc>が　持っている|幸せのご近所バトンが　輝きだした！|<br>|この家の住人　<%sL_OWNER>さんに|幸せのご近所バトンを　届けますか？|<yesno><break>": "<pc>'s Happy Neighborhood Baton|began to shine!|<br>|Pass on the baton to this house's owner,|<%sL_OWNER>?|<yesno><break>"
   },
   "73": {
-    "<pc>が　持っている|幸せのご近所バトンが　輝きだした！|<br>|幸せのご近所バトンを|この土地に　届けますか？|<yesno><break>": "<pc> The Neighborhood Baton of Happiness is|shining! Would you like to bring the|neighborhood baton of happiness to this land?<yesno><break>"
+    "<pc>が　持っている|幸せのご近所バトンが　輝きだした！|<br>|幸せのご近所バトンを|この土地に　届けますか？|<yesno><break>": "<pc>'s Happy Neighborhood Baton|began to shine!|<br>|Pass on the baton to this plot?|<yesno><break>"
   },
   "74": {
-    "<pc>は　幸せのご近所バトンを|この家の住人　<%sL_OWNER>さんに　まわした！|戻って　<%sM_NpcName>に　報告しよう！|<me 60><end>": ""
+    "<pc>は　幸せのご近所バトンを|この家の住人　<%sL_OWNER>さんに　まわした！|戻って　<%sM_NpcName>に　報告しよう！|<me 60><end>": "<pc> passed on the baton to|<%sL_OWNER>! Go back and speak|with <%sM_NpcName>!|<me 60><end>"
   },
   "75": {
-    "<pc>は　想いを込めて|幸せのご近所バトンを　この土地に置いた！|戻って　<%sM_NpcName>に　報告しよう！|<me 60><end>": ""
+    "<pc>は　想いを込めて|幸せのご近所バトンを　この土地に置いた！|戻って　<%sM_NpcName>に　報告しよう！|<me 60><end>": "<pc> passed on the baton to this plot!|Go back and speak with <%sM_NpcName>!|<me 60><end>"
   },
   "76": {
     "まだ　幸せのご近所バトンは|まわされている　途中のようだ。|もうしばらく　待ってみよう！": "The neighborhood baton of happiness is still|being passed around, and it's on its way.|Let's wait a little longer!"
@@ -237,7 +237,7 @@
     "「はじめまして　<%sL_PC_NICK>さま。|　土地のご購入　おめでとうございます！|<br>|「今後　私どもが　<%sL_PC_NICK>さまの生活を|　心をこめて　お手伝いさせていただきますので|　きっと　ご満足いただけると思います。|<br>|「私は　この住宅村の管理を　まかされている|　管理人の　<%sL_MAID_NAME>と申します。|　今後　どうぞ　よろしくお願いいたします。|<br>|「では　<%sL_PC_NICK>さまが　晴れて|　地主になられた証として　この場所への|　ルーラストーンを　進呈させていただきます。|<br>|「このルーラストーンは　他の物とは違って|　記憶場所を　書きかえることが　できません。|　ご帰宅専用の　特別品になります。|<br>|「さあ　これから　<%sL_PC_NICK>さまは|　晴れて　レンダーヒルズの住人です。|　ここでの生活を　どうぞお楽しみください！|<end>": "Nice to meet you <%sL_PC_NICK...|Congratulations on your land purchase! I'm|sure you'll be very happy with the way we're|<br>|going to help you live your life... My name|is <%sL_MAID_NAME>, and I am the manager of|this residential village... I look forward to|<br>|working with you... As proof that you,|<%sL_PC_NICK>, are now a landowner, I would|like to present you with a rune stone to this|<br>|location. This rune stone is unlike any|other... in that it can be rewritten to|remember... It's a special gift for your|<br>|return... Now, you will be living in|Renderhills... I hope you enjoy your stay|here!<end>"
   },
   "80": {
-    "<%sL_PC_NICK>は　この土地専用の|ルーラストーンを　手に入れた！|<me 72><end>": "<%sL_PC_NICK> now has a Zoomstone|specifically for this plot!<me 72><end>"
+    "<%sL_PC_NICK>は　この土地専用の|ルーラストーンを　手に入れた！|<me 72><end>": "<%sL_PC_NICK> received a Zoomstone|registered to this plot!<me 72><end>"
   },
   "81": {
     "このアイテムは　使用できません。": "This item can be used..."
@@ -246,16 +246,16 @@
     "まだ　幸せのご近所バトンは|まわされている　途中のようだ。|もうしばらく　待ってみよう！": "The neighborhood baton of happiness is still|being passed around, and it's on its way.|Let's wait a little longer!"
   },
   "83": {
-    "幸せのご近所バトンを　|届けることが　できませんでした。|すこし時間をおいて　お試しください。": "I can't deliver the baton of happiness to my|neighbors... Please give it some time."
+    "幸せのご近所バトンを　|届けることが　できませんでした。|すこし時間をおいて　お試しください。": "Couldn't pass on the baton. Please try again|later."
   },
   "84": {
-    "この家が　すぐに引っ越しできる状態か|引っ越しチェックで　確認しますか？|<yesno><break>": "Would you like a move-in check to make sure|this house is ready to move into?<yesno><break>"
+    "この家が　すぐに引っ越しできる状態か|引っ越しチェックで　確認しますか？|<yesno><break>": "Do a move in check to see if this house is|ready to be moved into?|<yesno><break>"
   },
   "85": {
-    "以上が　引っ越しチェックとなります。|満たしていない項目があると|引っ越しできませんので　ご注意ください。": "These are the moving checks... Please note|that if you do not meet any of these|requirements, you will not be able to move..."
+    "以上が　引っ越しチェックとなります。|満たしていない項目があると|引っ越しできませんので　ご注意ください。": "Moving check has finished. If you do not meet|any of these requirements, you will not be|able to move out."
   },
   "86": {
-    "畑に　作物が植えられています。|収穫するか　『やりなおす』にて|畑に何も植えられてない状態に　してください。|<bw_break>": "If a field is planted with crops... You can|either harvest it, or you can \"start over\"|and leave the field empty...<bw_break>"
+    "畑に　作物が植えられています。|収穫するか　『やりなおす』にて|畑に何も植えられてない状態に　してください。|<bw_break>": "Your field is currently planted with seeds.|Either harvest the plants or use \"Replant\"|to clear the field out.|<bw_break>"
   },
   "87": {
     "すべての条件を　満たしています。|いつでも　引っ越しできる状態です。": "If you meet all the requirements... I'm ready|to move out at any time..."
@@ -267,7 +267,7 @@
     "引っ越しチェックを使えば　いつでも|この家が　引っ越しできる状態か|確認することができます。|<br>|引っ越しできないのは　畑に作物がある時や|床下水そうに　さかながいる時|また　家の中に人がいる時|<br>|さらに　モンスターのおうちに|仲間モンスターがいる時も　引っ越しできません。|<br>|引っ越しをしたい時は　事前にこの|引っ越しチェックを行って　すべての条件を|満たしているか　ご確認ください。": "With the moving check, you can check to see|if your house is ready to move at any time...|You can't move if there are crops in the|<br>|field, fish in the water, people in the|house, or monsters in the house... If you|want to move, please do this moving check|<br>|before you move to make sure you meet all the|conditions..."
   },
   "90": {
-    "床下水そうに　さかながいます。|床下水そうから　すべてのさかなを出して|からにしてください。|<bw_break>": "There's fish in the sewers... Please take all|the fish out of the underfloor tank and clean|them...<bw_break>"
+    "床下水そうに　さかながいます。|床下水そうから　すべてのさかなを出して|からにしてください。|<bw_break>": "There are fish currently in your floor tank.|Please remove all of the fish.|<bw_break>"
   },
   "91": {
     "現在　家の中か　庭に人がいるようです。|誰かがいると　引っ越しできませんので|家の中と庭に　誰もいないようにしてください。|<bw_break>": "Now, there are people in the house and in the|yard... I can't move in if there's someone in|the house, so please make sure there's no one|<br>|in the house or in the yard...<bw_break>"
@@ -420,7 +420,7 @@
     "本宅と　その中に配置されていた家具を|そのまま引っ越ししますか？|<select_se_off>|本宅をそのまま引っ越し|更地に引っ越し|やめる|<select_end><break>": "Would you like to move out of the main house|and all the furniture that was in it?|<select_se_off>|Move out of the main house as it is|Moving to a vacant lot|stop|<select_end><break>"
   },
   "141": {
-    "そのまま引っ越すことが　できるのは|本宅　とその中に設置された家具のみです。|<br>|別宅として建っていた家は　家キットに戻り|「つかうもの」に　入ります。|<br>|別宅の中に　配置されていた家具と|マイタウン内に　配置されていた庭具は|すべて　一時預かりぶくろに　収納されます。|<br>|※別宅の中に　配置されていたレプリカ家具と|マイタウン内に　配置されていたレプリカ庭具は|一時預かりぶくろに　収納されず　なくなります。|<br>|レプリカになっている家具および　庭具は　|引き継がれますので　前と同じように　|配置することができます。|<br>|家具の場合　扉メニュー『レプリカ家具』および　|どうぐメニュー『ハウジング』の|『レプリカ家具を配置』から　配置してください。|<br>|庭具の場合　扉メニュー『レプリカ庭具』および　|どうぐメニュー『ハウジング』の|『レプリカ庭具を配置』から　配置してください。|<br>|また　フェンスや地面などの　一部の外装は|土地のサイズごとに　専用なので|サイズの異なる土地では　つかえなくなります。": "You can only move in with the main house and|the furniture installed in it... A house that|was built as an annex can be returned to the|<br>|house kit and entered into the \"Things to|Keep\"... All furniture placed in the annex|and garden tools in My Town are now stored in|<br>|the storage room. All of the replica|furniture located in my other home and all of|the replica garden tools located in my town|<br>|are no longer in my storage closet.|Replicated furniture and garden tools will be|taken over and can be placed in the same way|<br>|as before. For furniture, use the \"Replica|Furniture\" menu in the Door menu and \"Place|Replica Furniture\" in the Housing menu. For|<br>|garden tools, use \"Replica Garden Tools\" in|the Door menu and \"Place Replica Garden|Tools\" in the Housing menu. Also, some|<br>|exterior items such as fences and grounds are|specific to each lot size, so they will not|work on different sized lots..."
+    "そのまま引っ越すことが　できるのは|本宅と　その中に設置された家具のみです。|<br>|別宅として建っていた家は　家キットに戻り|「つかうもの」に　入ります。|<br>|別宅の中に　配置されていた家具と|マイタウン内に　配置されていた庭具は|すべて　一時預かりぶくろに　収納されます。|<br>|※別宅の中に　配置されていたレプリカ家具と|マイタウン内に　配置されていたレプリカ庭具は|一時預かりぶくろに　収納されず　なくなります。|<br>|レプリカになっている家具および　庭具は　|引き継がれますので　前と同じように　|配置することができます。|<br>|家具の場合　扉メニュー『レプリカ家具』および　|どうぐメニュー『ハウジング』の|『レプリカ家具を配置』から　配置してください。|<br>|庭具の場合　扉メニュー『レプリカ庭具』および　|どうぐメニュー『ハウジング』の|『レプリカ庭具を配置』から　配置してください。|<br>|また　フェンスや地面などの　一部の外装は|土地のサイズごとに　専用なので|サイズの異なる土地では　つかえなくなります。": ""
   },
   "142": {
     "『更地に引っ越し』の場合　建っていた家は|本宅　別宅ともに　家キットに戻ります。|<br>|引っ越し前の本宅の中に　配置されていた家具は|特殊な退避状態となり　新しい家を建てると|扉メニューの『配置中の家具』から配置できます。|<br>|別宅の中に　配置されていた家具|および　マイタウン内に配置されていた庭具は|すべて　一時預かりぶくろに　収納されます。|<br>|※別宅の中に　配置されていたレプリカ家具と|マイタウン内に　配置されていたレプリカ庭具は|一時預かりぶくろに　収納されず　なくなります。|<br>|レプリカになっている家具および　庭具は　|引き継がれますので　前と同じように　|配置することができます。|<br>|家具の場合　扉メニュー『レプリカ家具』および　|どうぐメニュー『ハウジング』の|『レプリカ家具を配置』から　配置してください。|<br>|庭具の場合　扉メニュー『レプリカ庭具』および　|どうぐメニュー『ハウジング』の|『レプリカ庭具を配置』から　配置してください。|<br>|また　フェンスや地面などの　一部の外装は|土地のサイズごとに　専用なので|サイズの異なる土地では　つかえなくなります。": "If you're moving to a new house, the existing|house will be returned to the house kit...|The furniture that was placed in the main|<br>|house before the move is in a special state|of evacuation, and when I build a new house,|I can place it in the \"Furniture in progress\"|<br>|menu in the door menu... All furniture placed|in another house and garden equipment placed|in My Town will be stored in the storage|<br>|room. The replica furniture that was placed|in my other house and the replica garden|tools that were placed in my town are no|<br>|longer stored in the storage room. Replicated|furniture and garden tools will be taken over|and can be placed in the same way as before.|<br>|For furniture, use the \"Replica Furniture\"|menu in the Door menu and the \"Place Replica|Furniture\" menu in the Housing menu. For|<br>|garden tools, use \"Replica Garden Tools\" in|the Door menu and \"Place Replica Garden|Tools\" in the Housing menu. Also, some|<br>|exterior items such as fences and grounds are|specific to each lot size, so they will not|work on different sized lots..."

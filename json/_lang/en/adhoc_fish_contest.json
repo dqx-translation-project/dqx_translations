@@ -1,6 +1,6 @@
 {
   "1": {
-    "「ありがとうございました。|　また　お越しください。|<turn end>": "Thank you... Please come again...<turn end>"
+    "「ありがとうございました。|　また　お越しください。|<turn end>": "Thank you. Please come again.|<turn end>"
   },
   "2": {
     "「青い文字の品物の交換は　一度だけになります。|　交換したい物を　選んでください。|<break>": "The blue-lettered items can only be exchanged|once... Please select the item you wish to|trade...<break>"
@@ -15,7 +15,7 @@
     "「お持ちのさかなを　全部まとめて|　おさかなコイン　<%nM_Num>枚で|　引き取りますが　よろしいですか？|<yesno><break>": "I'll take all of those fish off your hands for|<%dM_Num> Fish Coins. What do you say?|<yesno><break>"
   },
   "6": {
-    "「<%sM_item>を|　おさかなコイン　<%nM_Num>枚で|　引き取りますが　よろしいですか？|<yesno><break>": "I'll trade you <%sM_item> for|<%dM_Num> Fish Coins. Is that all right?|<yesno><break>"
+    "「<%sM_item>を|　おさかなコイン　<%nM_Num>枚で|　引き取りますが　よろしいですか？|<yesno><break>": "I'll give you <%dM_Num> Fish Coins|for your <%sM_item>. How about it?|<yesno><break>"
   },
   "7": {
     "「私ども　おさかな交換員は|　お客さまが釣り上げた　さかなを|　おさかなコインと　交換いたします。|<br>|「おさかなコインは　ここでだけ使える|　専用の通貨です。コインをお持ちいただければ|　枚数に見合った景品と　交換いたしましょう。|<br>|「ただし　さかなを　ロックしている場合は|　交換をすることは　できません。|　ロックを解除してから　交換してください。|<bw_break>": "We, the fish exchangers, exchange the fish|you catch for fish coins... The Osakana Coin|is a special pass that can only be used|<br>|here... If you bring us your coins, we'll|exchange them for prizes that match the|number of coins... However, if you've locked|<br>|up your fish, you can't exchange them...|You'll have to unlock it before you can|exchange it...<bw_break>"
@@ -36,7 +36,7 @@
     "「ああっと　すみません。|　うまく　交換できなかったようです。|　時間をおいて　もう一度お試し下さい。|<end>": "Oh, no, no, no. I couldn't get the exchange|to work... Give it some time and try again...<end>"
   },
   "13": {
-    "「<%sM_item>は|　これ以上　交換できません。|<bw_break>": "<%sM_item> can't be replaced any more...<bw_break>"
+    "「<%sM_item>は|　これ以上　交換できません。|<bw_break>": "I can't exchange for any more of the|<%sM_item>.|<bw_break>"
   },
   "14": {
     "「他に　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
@@ -45,7 +45,7 @@
     "「他に　交換したい物は　ありますか？|<break>": "Is there anything else you'd like to trade?<break>"
   },
   "16": {
-    "<speed=0>|<pc>は|<%sM_item>を　手に入れた！|<se_nots System 7>|<end>": "<speed=0>|<pc>  got <%sM_item>!|<se_nots System 7>|<end>"
+    "<speed=0>|<pc>は|<%sM_item>を　手に入れた！|<se_nots System 7>|<end>": "<speed=0>|<pc> received <%sM_item>!|<se_nots System 7>|<end>"
   },
   "17": {
     "「<%sM_item>の　しぐさは|　すでに　覚えているようですが|　よろしいですか？|<yesno 2><break>": "I see you've already memorized the <%sM_item>|gesture, if that's all right.<yesno 2><break>"
@@ -54,16 +54,16 @@
     "「どのさかなを　渡していただけますか？|<break>": "Which fish would you like to give me?<break>"
   },
   "19": {
-    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><bw_break>": "<speed=0>|<pc> gave <%sM_item> and got <%dM_Num> of fish|coins!|<se_nots System 7><bw_break>"
+    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><bw_break>": "<speed=0>|<pc> handed over the|<%sM_item> and received|<%dM_Num> Fish Coins!|<se_nots System 7><bw_break>"
   },
   "20": {
-    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave <%sM_item> and got <%dM_Num> of fish|coins!|<se_nots System 7><end>"
+    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave the <%sM_item> and|received <%dM_Num> Fish Coins!|<se_nots System 7><end>"
   },
   "21": {
     "「ごめんなさい　紹介の無い方は|　おさかな交換の施設を　利用できないんです。|<br>|「港町レンドア南に　釣り老師ハルモス様が|　いらしていると　お聞きしたので|　訪ねてみると　良いかもしれません。|<turn end>": "Sorry, no one can use the fish exchange|facilities without a referral... I've heard|that Master Halmos, the old fisherman, is in|<br>|the harbor town of Lendah South, so you might|want to pay him a visit...<turn end>"
   },
   "22": {
-    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave <%sM_item> and got <%dM_Num> of fish|coins!|<se_nots System 7><end>"
+    "<speed=0>|<pc>は　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave the <%sM_item> and|received <%dM_Num> Fish Coins!|<se_nots System 7><end>"
   },
   "23": {
     "<speed=0>|<pc>は|ビッグサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><bw_break>": "<speed=0>|<pc> gave him a big <%sM_item> and got <%dM_Num>|of fish coins!|<se_nots System 7><bw_break>"
@@ -72,10 +72,10 @@
     "<speed=0>|<pc>は|ビッグサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave him a big <%sM_item> and got <%dM_Num>|of fish coins!|<se_nots System 7><end>"
   },
   "25": {
-    "<speed=0>|<pc>は|キングサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><bw_break>": "<speed=0>|<pc> gave him a king-sized <%sM_item> and got|<%dM_Num> of fish coins!|<se_nots System 7><bw_break>"
+    "<speed=0>|<pc>は|キングサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><bw_break>": "<speed=0>|<pc> gave the King Size <%sM_item> and|received <%dM_Num> Fish Coins!|<se_nots System 7><bw_break>"
   },
   "26": {
-    "<speed=0>|<pc>は|キングサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave him a king-sized <%sM_item> and got|<%dM_Num> of fish coins!|<se_nots System 7><end>"
+    "<speed=0>|<pc>は|キングサイズの　<%sM_item>を渡して|おさかなコインを　<%dM_Num>枚　手に入れた！|<se_nots System 7><end>": "<speed=0>|<pc> gave the King Size <%sM_item>|and received <%dM_Num> Fish Coins!|<se_nots System 7><end>"
   },
   "27": {
     "「<%sM_item>　<%nL_KAUKAZU>個を|　おさかなコイン　<%nM_Num>枚と|　交換しますが　よろしいですか？|<yesno><break>": "I'll trade you <%sM_item> <%nL_KAUKAZU> for|<%nM_Num> fish coins, if that's okay.<yesno><break>"
@@ -93,7 +93,7 @@
     "「<%sM_item>ですね。|　これは　<%sL_SYOKUNIN>でないと　|　作れないレシピですが　よろしいですか？|<yesno 2><break>": "<%sM_item>... This is a recipe that can only|be made with <%sL_SYOKUNIN>, is that correct?<yesno 2><break>"
   },
   "32": {
-    "<speed=0>|<pc>は|<%sM_item>を　<%dL_KAUKAZU>個　手に入れた！|<se_nots System 7>|<end>": "<speed=0>|<pc>  now has <%dL_KAUKAZU> of <%sM_item>!|<se_nots System 7>|<end>"
+    "<speed=0>|<pc>は|<%sM_item>を　<%dL_KAUKAZU>個　手に入れた！|<se_nots System 7>|<end>": "<speed=0>|<pc> received <%dL_KAUKAZU> <%sM_item>!|<se_nots System 7>|<end>"
   },
   "33": {
     "「釣り老師の石は|　これ以上　交換できません。|<bw_break>": "The Master Fisherman's Stone can no longer be|exchanged for...<bw_break>"

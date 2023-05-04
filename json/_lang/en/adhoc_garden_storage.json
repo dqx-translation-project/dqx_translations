@@ -36,7 +36,7 @@
     "<%sL_ITEM>は　|庭具倉庫にしまうことは　できません。": "You can't put <%sL_ITEM> in the garden tool|shed..."
   },
   "13": {
-    "庭具倉庫に　これ以上しまえません。": "I can't put any more in the garden tool|shed..."
+    "庭具倉庫に　これ以上しまえません。": "The garden storage is full."
   },
   "14": {
     "本宅を　設定していないため|家具・庭具リストを　開けません。|<br>|マイタウン内にある　どれかの家の|立て札から　本宅を　設定すると|家具・庭具リストを　開けるようになります。": "If you haven't set up your main residence,|you can't open the furniture and garden tools|list. If you go to any of the houses in my|<br>|town and set up your main house, you can open|the furniture and garden tools list..."
@@ -121,5 +121,20 @@
   },
   "41": {
     "同じ機能をもつ庭具の数が　マイタウン内の敷地と|庭具倉庫内を合わせて　上限まで入っているので|レプリカの<%sL_ITEM>を戻せません。": "The number of garden tools that have the same|function in my town and in the garden tools|warehouse has reached the limit, so I can|<br>|return the replica <%sL_ITEM>..."
+  },
+  "42": {
+    "『家具＆庭具おきば』に　かたづける家具・庭具を|選択してください": ""
+  },
+  "43": {
+    "レプリカ家具・庭具は|『家具＆庭具おきば』に　かたづけられません。|そのまま処分しますか？|<yesno><break>": ""
+  },
+  "44": {
+    "レプリカの　<%sL_ITEM>を|かたづけ処分した。": ""
+  },
+  "45": {
+    "<%sL_ITEM>は|『家具＆庭具おきば』に　かたづけられません。": ""
+  },
+  "46": {
+    "『家具＆庭具おきば』には　これ以上|<%sL_ITEM>　をしまえません。": ""
   }
 }

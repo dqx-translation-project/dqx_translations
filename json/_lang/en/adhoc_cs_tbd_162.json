@@ -1,6 +1,6 @@
 {
   "1": {
-    "<if_woman>「さっすが　<pc>！|　話の　わかる女だぜ！<else>「さっすが　<pc>！|　話の　わかる男だぜ！<endif>": ""
+    "<if_woman>「さっすが　<pc>！|　話の　わかる女だぜ！<else>「さっすが　<pc>！|　話の　わかる男だぜ！<endif>": "Way to go! You're a <if_woman>girl<else>guy<endif>|who knows what they're talking about!"
   },
   "2": {
     "<if_woman>「ロマンの　わかる女だぜ！<else>「ロマンの　わかる男だぜ！<endif>": "<if_woman>I'm a woman who understands romance!|<else>I'm a man who understands romance!|<endif>"
@@ -48,7 +48,7 @@
     "「……なるほど　状況は　わかった。|　君たち探検隊の　ヒントになるような助言が|　私に　できるかは　わからないが……。": "Well, I see where you're going. I don't know|if I can offer any advice that might help you|explorers, but..."
   },
   "17": {
-    "「この書物に　ほどこされていた|　封印の術式と　劣化具合から言って　およそ|　３００年前の物と見て　まちがいないだろう。": ""
+    "「この書物に　ほどこされていた|　封印の術式と　劣化具合から言って　およそ|　３００年前の物と見て　まちがいないだろう。": "The sealing technique used to seal this book|and the degree of deterioration suggest that|it is approximately 300 years old."
   },
   "18": {
     "「……３００年前といえば　このツスクルの村に|　学びの庭が　つくられた時代のはず。|　じつに興味深い一致だと　思わないかね？": "...300 years ago must have been the time when|the Garden of Learning was built in this|Tsusukul Village. Interesting coincidence,|<br>|don't you think?"
@@ -57,7 +57,7 @@
     "「つまり……学びの庭が　つくられたころには|　まだ　神代の間が　使われていたってことに|　なるんでしょうか……。": "Does this mean that the God's Hall was still|in use when the Garden of Learning was built?"
   },
   "20": {
-    "「それにしても　すごいじゃないか。|　<pc>君といったか……|　よく　こんな本を見つけたね。": "Still, it's amazing. <I don't know how you|found such a book."
+    "「それにしても　すごいじゃないか。|　<pc>君といったか……|　よく　こんな本を見つけたね。": "Still, it's amazing. I don't know how you|found such a book, <pc>."
   },
   "21": {
     "「はんっ！　こっちだって　負けてないぜ！ |　先生　見てくれよ！　これ　コノタが見つけた|　超年代物の　ナイスな　ラブレターなんだぜ！": "Ha-ha! We're not losing! Hey, Doc, check this|out! This is a very old, very nice love letter|Konota found!"
@@ -72,7 +72,7 @@
     "「授業で習ったことなんですが……|　３００年前の　学びの庭の建設には|　ある建築家の一族が　たずさわっているんです。": "I learned in class that a family of architects|was involved in the construction of the Garden|of Learning 300 years ago."
   },
   "25": {
-    "「一族の名は　ドン家。 |　ドワチャッカ大陸の　ドルワーム王国に|　今も続く　名門建築家の　一族です。": ""
+    "「一族の名は　ドン家。 |　ドワチャッカ大陸の　ドルワーム王国に|　今も続く　名門建築家の　一族です。": "The name of the family is the Don family. They|are a family of famous architects who continue|to this day in Kingdom of Dolworm."
   },
   "26": {
     "「その　ドン家を訪ねれば　当時の|　村の記録が　残っているかもしれません。|　神代の間についても　なにか　わかるかも！": "If you visit the Don family, you may be able|to find some records of the village at that|time. Maybe we can find out something about|<br>|God's Hall!"
@@ -102,7 +102,7 @@
     "「ほ……　ほんとですか！？！": "Really?"
   },
   "35": {
-    "「昔　ツスクルの村の地下には|　迷宮が　広がっていたらしいね。|　その奥に　神代の間はあったっぽいよ。": ""
+    "「昔　ツスクルの村の地下には|　迷宮が　広がっていたらしいね。|　その奥に　神代の間はあったっぽいよ。": "I heard that a long time ago, there was a|maze spread out beneath this village. Looks|like there was a divine room behind it."
   },
   "36": {
     "「学びの庭は　その迷宮の真上に建てられた。|　そして　迷宮の入り口は|　職員宿舎の中に　残されたようだけども。": "The Garden of Learning was built right above|the labyrinth. And the entrance to the|labyrinth seems to have remained in the staff|<br>|quarters."
@@ -147,7 +147,7 @@
     "「そうか　そうか。でかしたぞ　隊員たち！|　職員宿舎にある　桜の間が　神代の間へ続く|　地下迷宮の入り口に　なってるってワケか。": "Oh, yeah, yeah. Well done, troops! So the|cherry blossom room in the staff dormitory is|the entrance to the underground labyrinth that|<br>|leads to the God's Hall."
   },
   "50": {
-    "「ダ……ダメだよ。やめよう　あんちゃん！|　あの部屋には　女の幽霊が　出るんだって！|　オイラは　ほんとに見たんだ！！ ": "No, no, no, no, no, no, no, no, no, no, no,|no, no, no, no. Let's stop it, anchan! They|say there's a female ghost in that room! I|<br>|really saw it!"
+    "「ダ……ダメだよ。やめよう　あんちゃん！|　あの部屋には　女の幽霊が　出るんだって！|　オイラは　ほんとに見たんだ！！ ": "N-no. Let's stop it, bro! They say there's|a female ghost in that room! I really saw it!"
   },
   "51": {
     "「ハイハイ　お前のことだから|　どうせ　なにかと　見まちがえたんだろ。": "Since it's you, you probably mistook it for|something, didn't you?"
@@ -162,7 +162,7 @@
     "「はっはっは。おどろいたか。|　ちゃーんと報酬を　用意しておいたのだ。|　これも　隊長のつとめだからな！": "Ha-ha-ha. Surprised? I have prepared a reward|for you. It's part of being a captain!"
   },
   "55": {
-    "「さて。まずは　長旅の疲れを　いやすがよい。|　充分に休んだら　また探検に出発しよう！|　それでは　解散ッ！": ""
+    "「さて。まずは　長旅の疲れを　いやすがよい。|　充分に休んだら　また探検に出発しよう！|　それでは　解散ッ！": "First of all, you should recover from the|the fatigue of your long journey. After you've|had enough rest, let's go exploring again!|<br>|Dismissed!"
   },
   "56": {
     "「ちがうんだ……　ちがうんだよ。|　オイラ　本当に　幽霊を見たんだ……。": "No, no, no, no. I really did see a ghost..."

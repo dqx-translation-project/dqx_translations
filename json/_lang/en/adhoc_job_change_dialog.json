@@ -6,7 +6,7 @@
     "「どの職業に　なりたいのかね？|<break>": "What vocation would you like to pursue?|<break>"
   },
   "3": {
-    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって祈るのだ。おお　ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Oh <%sM_self>. Let us pray in the spirit of <%sM_new_syokugyou>.|Oh God of Dharma. Give <%sM_self> a new life!"
+    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって祈るのだ。おお　ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Oh <%sM_self>. Let us pray in the spirit of|<%sM_new_syokugyou>. Oh Allmighty Alltrades. Give|<%sM_self> a new life!|<end>"
   },
   "4": {
     "「……む？　お前は　すでに|　<%sM_syokugyou>の職に　ついているぞ。|　どの職業に　なりたいのかね？|<break>": "... No? You're already in|<%sM_syokugyou>... Which one do|you want to be?|<br><break>"
@@ -30,7 +30,7 @@
     "「どの職業を　望まれるか？|<break>": "What profession do you want?<break>"
   },
   "11": {
-    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈るのじゃ。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "So, <%sM_self>...|<%sM_new_syokugyou> Feel and|pray... God of Dharma! Give|<br>|<%sM_self> a new lease on life!<end>"
+    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈るのじゃ。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Oh <%sM_self>. Let us pray in the spirit of|<%sM_new_syokugyou>. Oh Allmighty Alltrades. Give|<%sM_self> a new life!|<end>"
   },
   "12": {
     "「冗談を申すでない。お前は　すでに|　<%sM_syokugyou>の職に　ついておる！|　どの職業を　望まれるのか？|<break>": "I'm joking... You're already in|<%sM_syokugyou>! Which position|do you wish to take?|<br><break>"
@@ -54,7 +54,7 @@
     "「どの職業になることを　望みますか？|<break>": "Which vocation would you like to become?|<break>"
   },
   "19": {
-    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "So, <%sM_self>...|<%sM_new_syokugyou> and pray...|God of Dharma! Give <%sM_self> a|<br>|new lease on life!<end>"
+    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "Oh <%sM_self>. Let us pray in the spirit of|<%sM_new_syokugyou>. Oh Allmighty Alltrades. Give|<%sM_self> a new life!|<end>"
   },
   "20": {
     "「あら？　あなたは　すでに|　<%sM_syokugyou>の職に　ついていますよ。|　どの職業になることを　望みますか？|<break>": "Hm? You are already <%sM_syokugyou>.|Which vocation would you like to become?|<br><break>"
@@ -144,10 +144,10 @@
     "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。あなたは　今|　特訓モードのようです。さあ　お行きなさい。": "Now, from now on, you will live as|<%sM_new_syokugyou>... You are|now in training mode... Now go...|<br>"
   },
   "49": {
-    "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。まず　最初に|　新たな能力に　目覚めることだろう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「その特技は　モンスターを仲間にする際に|　欠かせないもの。仲間にしたいモンスターには|　その　スカウトアタックを使うのだ。|<br>|「スカウトアタックを使った後　その戦闘に勝てば|　相手が起き上がり　仲間になることがある。|　律儀に　その技で　とどめをさす必要はないぞ。|<bw_break>": "Good. From now on, you will live as|<%sM_new_syokugyou>. First,|you'll be awakened to a new ability...|<br>|<%sM_self> has learned the Scout|Attack feat!|<se_nots System 17>This is a skill that's essential when you're|trying to recruit monsters... You use your|scout attack on a monster you wish to join.|<br>|If you win the battle after using the scout|attack, the monster will wake up and join|you. You don't have to finish him off with|<br>|that move.<bw_break>"
+    "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。まず　最初に|　新たな能力に　目覚めることだろう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「その特技は　モンスターを仲間にする際に|　欠かせないもの。仲間にしたいモンスターには|　その　スカウトアタックを使うのだ。|<br>|「スカウトアタックを使った後　その戦闘に勝てば|　相手が起き上がり　仲間になることがある。|　律儀に　その技で　とどめをさす必要はないぞ。|<bw_break>": "Good. From here on, you will go forth as a|<%sM_new_syokugyou>. First, you will learn this|new ability.|<br>|<%sM_self> learned Scout Attack!|<se_nots System 17>|<br>|This is an essential skill that you will need|when trying to scout monsters. Make sure to|use it on a monster you want to join you.|<br>|If you win the battle after using it, the|monster may wish to join you. Scout Attack|also doesn't need to deal the finishing blow.|<bw_break>"
   },
   "50": {
-    "「ただし　スカウトアタックを使うためには|　仲間にしたいモンスターの名前が付いた|　『スカウトの書』を　読む必要がある。|<br>|「必ず　スカウトの書を読んでから|　そのモンスターを　仲間にしにいくのだぞ。|　スカウトの書は　酒場の地下でも買えるからな。|<bw_break>": "However, in order to use the Scout Attack,|you need to read the Book of Scouting, which|has the name of the monster you want to|<br>|recruit. You must read the Book of Scouting|before you can try to recruit that monster.|Scout Books can be bought in the basement of|<br>|any tavern...<bw_break>"
+    "「ただし　スカウトアタックを使うためには|　仲間にしたいモンスターの名前が付いた|　『スカウトの書』を　読む必要がある。|<br>|「必ず　スカウトの書を読んでから|　そのモンスターを　仲間にしにいくのだぞ。|　スカウトの書は　酒場の地下でも買えるからな。|<bw_break>": "However, before you can use Scout Attack, you|must first read a scouting book, which has|the name of the monster you desire.|<br>|After reading it, you will be able to use|Scout Attack against it.|<br>|Scouting books can be bought in the|basement of any tavern.|<bw_break>"
   },
   "51": {
     "「もっと　くわしい話は　酒場の地下にある|　モンスター酒場で聞けるぞ。|　何か困ったら　そちらをたずねてみてくれ。|<br>|「では　くれぐれも　スカウトの書を読むことを|　忘れるなよ。それから　装備の見直しも|　おこたらぬようにな。さあ　行くがよい。": "For more information, there's a monster bar|in the basement of the tavern... If you need|any help, just ask. And remember to read the|<br>|Scout's Book. And don't forget to check your|equipment. Come on, let's go."
@@ -159,10 +159,10 @@
     "「私からの説明は　以上だが|　もう一度　聞くかね？|<yesno><close>": "That's all I have to say about that. Do you|want to hear it again?<yesno><close>"
   },
   "54": {
-    "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。まず　最初に|　新たな能力に　目覚めることだろう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「その特技は　モンスターを仲間にする際に|　欠かせないもの。仲間にしたいモンスターには|　その　スカウトアタックを使うのだ。|<br>|「スカウトアタックを使った後　その戦闘に勝てば|　相手が起き上がり　仲間になることがある。|　律儀に　その技で　とどめをさす必要はないぞ。|<bw_break>": "Good. From now on, you will live as|<%sM_new_syokugyou>. First,|you'll be awakened to a new ability...|<br>|<%sM_self> has learned the Scout|Attack feat!|<se_nots System 17>This is a skill that's essential when you're|trying to recruit monsters... You use your|scout attack on a monster you wish to join.|<br>|If you win the battle after using the scout|attack, the monster will wake up and join|you. You don't have to finish him off with|<br>|that move.<bw_break>"
+    "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。まず　最初に|　新たな能力に　目覚めることだろう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「その特技は　モンスターを仲間にする際に|　欠かせないもの。仲間にしたいモンスターには|　その　スカウトアタックを使うのだ。|<br>|「スカウトアタックを使った後　その戦闘に勝てば|　相手が起き上がり　仲間になることがある。|　律儀に　その技で　とどめをさす必要はないぞ。|<bw_break>": "Good. From here on, you will go forth as a|<%sM_new_syokugyou>. First, you will learn this|new ability.|<br>|<%sM_self> learned Scout Attack!|<se_nots System 17>|<br>|This is an essential skill that you will need|when trying to scout monsters. Make sure to|use it on a monster you want to join you.|<br>|If you win the battle after using it, the|monster may wish to join you. Scout Attack|also doesn't need to deal the finishing blow.|<bw_break>"
   },
   "55": {
-    "「ただし　スカウトアタックを使うためには|　仲間にしたいモンスターの名前が付いた|　『スカウトの書』を　読む必要がある。|<br>|「必ず　スカウトの書を読んでから|　そのモンスターを　仲間にしにいくのだぞ。|　スカウトの書は　酒場の地下でも買えるからな。|<bw_break>": "However, in order to use the Scout Attack,|you need to read the Book of Scouting, which|has the name of the monster you want to|<br>|recruit. You must read the Book of Scouting|before you can try to recruit that monster.|Scout Books can be bought in the basement of|<br>|any tavern...<bw_break>"
+    "「ただし　スカウトアタックを使うためには|　仲間にしたいモンスターの名前が付いた|　『スカウトの書』を　読む必要がある。|<br>|「必ず　スカウトの書を読んでから|　そのモンスターを　仲間にしにいくのだぞ。|　スカウトの書は　酒場の地下でも買えるからな。|<bw_break>": "However, before you can use Scout Attack, you|must first read a scouting book, which has|the name of the monster you desire.|<br>|After reading it, you will be able to use|Scout Attack against it.|<br>|Scouting books can be bought in the|basement of any tavern.|<bw_break>"
   },
   "56": {
     "「もっと　くわしい話は　酒場の地下にある|　モンスター酒場で聞けるぞ。|　何か困ったら　そちらをたずねてみてくれ。|<br>|「では　くれぐれも　スカウトの書を読むことを|　忘れるなよ。それから　装備の見直しも|　おこたらぬようにな。さあ　行くがよい。": "For more information, there's a monster bar|in the basement of the tavern... If you need|any help, just ask. And remember to read the|<br>|Scout's Book. And don't forget to check your|equipment. Come on, let's go."
@@ -225,7 +225,7 @@
     "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。まず　最初に|　新たな能力に　目覚めることでしょう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「スカウトアタックは　まもの使い　どうぐ使いで|　同様の特技ですが　対象となるモンスターは|　それぞれ異なります。|<br>|「職業に合った　スカウトの書を読んでから|　仲間にしにいってください。|　スカウトの書は　酒場の地下でも買えますよ。|<br>|「新たな職業ですので　装備の見直しも|　おこたらないように。さあ　お行きなさい。 |<end>": "Now, from now on, you will live as|<%sM_new_syokugyou>... The first|thing you need to do is wake up to a new|<br>|ability... <%sM_self> has learned|the Scout Attack feat!|<se_nots System 17>Scout Attack is a similar skill for mages and|pawns, but it targets different monsters...|You'll need to read the appropriate Scout|<br>|book before you can recruit a monster. You|can buy them in the basement of the tavern.|And since this is a new profession, we'll|<br>|need to revise your equipment... Here we|go...<end>"
   },
   "76": {
-    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the place of Dharma... People who|want to change professions come here... What|can I do for you?|<br><break>"
+    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
   },
   "77": {
     "「何を　お望みですか？|<break>": "What can I do for you?|<break>"
@@ -273,7 +273,7 @@
     "「では　どの職業になることを　望みますか？|<break>": "So, which vocation to you want to be?|<break>"
   },
   "92": {
-    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "So, <%sM_self>...|<%sM_new_syokugyou> and pray...|God of Dharma! Give <%sM_self> a|<br>|new lease on life!<end>"
+    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "Oh <%sM_self>. Let us pray in the spirit of|<%sM_new_syokugyou>. Oh Allmighty Alltrades. Give|<%sM_self> a new life!|<end>"
   },
   "93": {
     "「あら？　あなたは　すでに|　<%sM_syokugyou>の職に　ついていますよ。|　どの職業になることを　望みますか？|<break>": "Hm? You are already <%sM_syokugyou>.|Which vocation would you like to become?|<br><break>"
@@ -312,13 +312,13 @@
     "「何を　お望みですか？|<break>": "What can I do for you?|<break>"
   },
   "105": {
-    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the place of Dharma... People who|want to change professions come here... What|can I do for you?|<br><break>"
+    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
   },
   "106": {
     "「ここは　転職をつかさどる　ダーマの神殿|　出張所。職業を変えたい者が　来る所だ。|　何を　希望されるか？|<break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
   },
   "107": {
-    "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所じゃ。|<bw_break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
+    "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所じゃ。|<bw_break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<bw_break>"
   },
   "108": {
     "「ここは　転職をつかさどる　ダーマの神殿|　出張所。職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
@@ -468,7 +468,7 @@
     "「<%sM_job>の特訓は　もう充分のようですね。|　グレン城の　訓練場へ行き|　スキルポイントを　得るとよいでしょう。|<bw_break>": "It seems you've had enough|<%sM_job> training... I suggest|you go to the training grounds at Castle|<br>|Glenn and get some skill points...<bw_break>"
   },
   "157": {
-    "「まぁ！　特訓スタンプが貯まっていますね。|　確認いたしましょう。|<bw_break>": "Oh, my God! My training stamps have been|saved... I'll check...<bw_break>"
+    "「まぁ！　特訓スタンプが貯まっていますね。|　確認いたしましょう。|<bw_break>": "Oh, my! You've accumulated quite a few|training stamps. I will check them now.|<bw_break>"
   },
   "158": {
     "「すべての職業の特訓を　こなしたようですね。|　あなたにできる特訓は　今は何もありません。|　よくがんばりましたね。|<bw_break>": "You've trained for every profession. There's|nothing you can do now... You've done well...<bw_break>"
@@ -477,10 +477,10 @@
     "特訓スタンプが　<%dM_stamp>個　貯まっていたので|<pc>は|スキルポイントを　<%dM_point> P　手に入れた！|<me 57><bw_break>": "You've accumulated <%dM_stamp> Training Stamps,|and received <%dM_point> skill point(s)!|<me 57><bw_break>"
   },
   "160": {
-    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けましょう。|　さて…|<bw_break>": "Next time you accumulate|<%dM_stamp> special training|stamps, I'll give you skill points... Now...|<br><bw_break>"
+    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けましょう。|　さて…|<bw_break>": "When you accumulate <%dM_stamp> stamps,|you shall receive another skill point.|Now then...|<bw_break>"
   },
   "161": {
-    "「おぉ！　特訓スタンプが貯まっているようだな。|　確認しよう。|<bw_break>": "Oh! You've got a special training stamp saved|up... Check...<bw_break>"
+    "「おぉ！　特訓スタンプが貯まっているようだな。|　確認しよう。|<bw_break>": "Oh! It seems you've accumulated quite a number|of training stamps. I will check.|<bw_break>"
   },
   "162": {
     "「すべての職業の特訓を　こなしたようだな。|　お前にできる特訓は　今は何もない。|　よくがんばったな。|<bw_break>": "I've trained in every profession... What can|you do for me now? You've done well...<bw_break>"
@@ -489,10 +489,10 @@
     "特訓スタンプが　<%dM_stamp>個　貯まっていたので|<pc>は|スキルポイントを　<%dM_point> P　手に入れた！|<me 57><bw_break>": "You've accumulated <%dM_stamp> Training Stamps,|and received <%dM_point> skill point(s)!|<me 57><bw_break>"
   },
   "164": {
-    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けよう。|　さて…|<bw_break>": "Next, when you've accumulated|<%dM_stamp> special training|stamps, you'll receive a skill point...|<br>|Now...<bw_break>"
+    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けよう。|　さて…|<bw_break>": "You'll receive another skill point once you|reach the next goal of <%dM_stamp> training stamps.|Now then...|<bw_break>"
   },
   "165": {
-    "「おぉ！　特訓スタンプが貯まっているようだな。|　確認しよう。|<bw_break>": "Oh! You've got a special training stamp saved|up... Check...<bw_break>"
+    "「おぉ！　特訓スタンプが貯まっているようだな。|　確認しよう。|<bw_break>": "Oh! It seems you've accumulated quite a number|of training stamps. I will check.|<bw_break>"
   },
   "166": {
     "「すべての職業の特訓を　こなしたようだな。|　お前にできる特訓は　今は何もない。|　よくがんばったな。|<bw_break>": "I've trained in every profession... What can|you do for me now? You've done well...<bw_break>"
@@ -501,10 +501,10 @@
     "特訓スタンプが　<%dM_stamp>個　貯まっていたので|<pc>は|スキルポイントを　<%dM_point> P　手に入れた！|<me 57><bw_break>": "You've accumulated <%dM_stamp> Training Stamps,|and received <%dM_point> skill point(s)!|<me 57><bw_break>"
   },
   "168": {
-    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けよう。|　さて…|<bw_break>": "Next, when you've accumulated|<%dM_stamp> special training|stamps, you'll receive a skill point...|<br>|Now...<bw_break>"
+    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けよう。|　さて…|<bw_break>": "You'll receive another skill point once you|reach the next goal of <%dM_stamp> training stamps.|Now then...|<bw_break>"
   },
   "169": {
-    "「まぁ！　特訓スタンプが貯まっていますね。|　確認いたしましょう。|<bw_break>": "Oh, my God! My training stamps have been|saved... I'll check...<bw_break>"
+    "「まぁ！　特訓スタンプが貯まっていますね。|　確認いたしましょう。|<bw_break>": "Oh, my! You've accumulated quite a few|training stamps. I will check them now.|<bw_break>"
   },
   "170": {
     "「すべての職業の特訓を　こなしたようですね。|　あなたにできる特訓は　今は何もありません。|　よくがんばりましたね。|<bw_break>": "You've trained for every profession. There's|nothing you can do now... You've done well...<bw_break>"
@@ -513,19 +513,19 @@
     "特訓スタンプが　<%dM_stamp>個　貯まっていたので|<pc>は|スキルポイントを　<%dM_point> P　手に入れた！|<me 57><bw_break>": "You've accumulated <%dM_stamp> Training Stamps,|and received <%dM_point> skill point(s)!|<me 57><bw_break>"
   },
   "172": {
-    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けましょう。|　さて…|<bw_break>": "Next time you accumulate|<%dM_stamp> special training|stamps, I'll give you skill points... Now...|<br><bw_break>"
+    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けましょう。|　さて…|<bw_break>": "When you accumulate <%dM_stamp> stamps,|you shall receive another skill point.|Now then...|<bw_break>"
   },
   "173": {
-    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|<bw_break>": "This is the place of Dharma... People who|want to change professions come here...<bw_break>"
+    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|<bw_break>": "This is the Alltrades Abbey, the place where|people come to change vocations.|<bw_break>"
   },
   "174": {
-    "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所だ。|<bw_break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
+    "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所だ。|<bw_break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<bw_break>"
   },
   "175": {
-    "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所じゃ。|<bw_break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
+    "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所じゃ。|<bw_break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<bw_break>"
   },
   "176": {
-    "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所です。|<bw_break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
+    "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所です。|<bw_break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<bw_break>"
   },
   "177": {
     "「そういえば　モンスター牧場に|　空きがあるらしいので　連れていた|　<%sM_monster>は　そちらに送りますか？|<yesno><break>": "Speaking of which, I heard there's an opening|at the monster farm, so should I send you the|<%sM_monster> I had with me?|<br><yesno><break>"
@@ -576,13 +576,13 @@
     "「……あら？　ちょっと待ってください。|　モンスター牧場で　受け取れる経験値が|　あるようです。|<br>|「モンスター牧場に送るには|　先に　経験値を受け取っておく必要があります。|<br>|「お連れの　<%sM_monster>は　モンスター酒場で|　お預かりしますので　経験値を獲得してから|　もう一度　手続きを　お願いします。|<end>": "... What? Wait a minute... There's some|experience you can take to the monster|farm... Before we can send you to the monster|<br>|farm, we need to receive your experience...|We'll take your <%sM_monster>|back to the monster tavern, and you'll need|<br>|to go through the process again after you've|earned the experience...<end>"
   },
   "193": {
-    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所だ。|　何を　希望されるか？|<break>": "This is the place where Dharma, the job|changer... There are those who wish to change|their profession... What do you want?|<br><break>"
+    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所だ。|　何を　希望されるか？|<break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
   },
   "194": {
-    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所だ。|<bw_break>": "This is the place where Dharma, the job|changer... If anyone wishes to change|professions...|<br><bw_break>"
+    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所だ。|<bw_break>": "This is the Alltrades Abbey, the place where|people come to change vocations.|<bw_break>"
   },
   "195": {
-    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所だ。|　何を　希望されるか？|<break>": "This is the place where Dharma, the job|changer... There are those who wish to change|their profession... What do you want?|<br><break>"
+    "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所だ。|　何を　希望されるか？|<break>": "This is the Alltrades Abbey, the place to|change vocations. What can we do for you?|<break>"
   },
   "196": {
     "「そういえば　モンスター牧場に|　空きがあるようだが　連れていた|　<%sM_monster>は　そちらに送っておくか？|<yesno><break>": "Speaking of which, I see there's a vacancy at|the monster farm, should I send the|<%sM_monster> you had with you?|<br><yesno><break>"
@@ -603,10 +603,10 @@
     "「何を　希望されるか？|<break>": "Do you need anything else?<break>"
   },
   "202": {
-    "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。まず　最初に|　新たな能力に　目覚めることだろう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「その特技は　モンスターを仲間にする際に|　欠かせないもの。仲間にしたいモンスターには|　その　スカウトアタックを使うのだ。|<br>|「スカウトアタックを使った後　その戦闘に勝てば|　相手が起き上がり　仲間になることがある。|　律儀に　その技で　とどめをさす必要はないぞ。|<bw_break>": "Good. From now on, you will live as|<%sM_new_syokugyou>. First,|you'll be awakened to a new ability...|<br>|<%sM_self> has learned the Scout|Attack feat!|<se_nots System 17>This is a skill that's essential when you're|trying to recruit monsters... You use your|scout attack on a monster you wish to join.|<br>|If you win the battle after using the scout|attack, the monster will wake up and join|you. You don't have to finish him off with|<br>|that move.<bw_break>"
+    "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。まず　最初に|　新たな能力に　目覚めることだろう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「その特技は　モンスターを仲間にする際に|　欠かせないもの。仲間にしたいモンスターには|　その　スカウトアタックを使うのだ。|<br>|「スカウトアタックを使った後　その戦闘に勝てば|　相手が起き上がり　仲間になることがある。|　律儀に　その技で　とどめをさす必要はないぞ。|<bw_break>": "Good. From here on, you will go forth as a|<%sM_new_syokugyou>. First, you will learn this|new ability.|<br>|<%sM_self> learned Scout Attack!|<se_nots System 17>|<br>|This is an essential skill that you will need|when trying to scout monsters. Make sure to|use it on a monster you want to join you.|<br>|If you win the battle after using it, the|monster may wish to join you. Scout Attack|also doesn't need to deal the finishing blow.|<bw_break>"
   },
   "203": {
-    "「ただし　スカウトアタックを使うためには|　仲間にしたいモンスターの名前が付いた|　『スカウトの書』を　読む必要がある。|<br>|「必ず　スカウトの書を読んでから|　そのモンスターを　仲間にしにいくのだぞ。|　スカウトの書は　酒場の地下でも買えるからな。|<bw_break>": "However, in order to use the Scout Attack,|you need to read the Book of Scouting, which|has the name of the monster you want to|<br>|recruit. You must read the Book of Scouting|before you can try to recruit that monster.|Scout Books can be bought in the basement of|<br>|any tavern...<bw_break>"
+    "「ただし　スカウトアタックを使うためには|　仲間にしたいモンスターの名前が付いた|　『スカウトの書』を　読む必要がある。|<br>|「必ず　スカウトの書を読んでから|　そのモンスターを　仲間にしにいくのだぞ。|　スカウトの書は　酒場の地下でも買えるからな。|<bw_break>": "However, before you can use Scout Attack, you|must first read a scouting book, which has|the name of the monster you desire.|<br>|After reading it, you will be able to use|Scout Attack against it.|<br>|Scouting books can be bought in the|basement of any tavern.|<bw_break>"
   },
   "204": {
     "「もっと　くわしい話は　酒場の地下にある|　モンスター酒場で聞けるぞ。|　何か困ったら　そちらをたずねてみてくれ。|<br>|「では　くれぐれも　スカウトの書を読むことを|　忘れるなよ。それから　装備の見直しも|　おこたらぬようにな。さあ　行くがよい。": "For more information, there's a monster bar|in the basement of the tavern... If you need|any help, just ask. And remember to read the|<br>|Scout's Book. And don't forget to check your|equipment. Come on, let's go."
@@ -651,7 +651,7 @@
     "「ならば　どの職業に　なりたいのだ？|<break>": "Then what vocation would you like to pursue?|<break>"
   },
   "218": {
-    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって祈るのだ。おお　ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Oh <%sM_self>. Let us pray in the spirit of <%sM_new_syokugyou>.|Oh God of Dharma. Give <%sM_self> a new life!"
+    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって祈るのだ。おお　ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Oh <%sM_self>. Let us pray in the spirit of|<%sM_new_syokugyou>. Oh Allmighty Alltrades. Give|<%sM_self> a new life!|<end>"
   },
   "219": {
     "「……む？　お前は　すでに|　<%sM_syokugyou>の職に　ついているぞ。|　どの職業に　なりたいのかね？|<break>": "... No? You're already in|<%sM_syokugyou>... Which one do|you want to be?|<br><break>"
@@ -678,7 +678,7 @@
     "「おや？　お前は|　いまわしい呪いに　おかされているな。<br>|「転職は教会で　呪いのけがれを|　はらってからが　よかろう。": "Hmm? You're under a terrible curse. You'd|better go to the church to get rid of the|curse before you change jobs...|<br>"
   },
   "227": {
-    "「おぉ！　特訓スタンプが貯まっているようだな。|　確認しよう。|<bw_break>": "Oh! You've got a special training stamp saved|up... Check...<bw_break>"
+    "「おぉ！　特訓スタンプが貯まっているようだな。|　確認しよう。|<bw_break>": "Oh! It seems you've accumulated quite a number|of training stamps. I will check.|<bw_break>"
   },
   "228": {
     "「<%sM_job>の特訓は　もう充分のようだな。|　これ以上の特訓を望むのなら　特訓の余地がある|　別の職業になるがよい。　|<bw_break>": "I've had enough of training in|<%sM_job>... If you want more|training, there's always room for more|<br>|training...<bw_break>"
@@ -717,7 +717,7 @@
     "「変更しないのだな。それも　よいだろう。|<bw_break>": "No change... That's good...<bw_break>"
   },
   "240": {
-    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けよう。|　さて…|<bw_break>": "Next, when you've accumulated|<%dM_stamp> special training|stamps, you'll receive a skill point...|<br>|Now...<bw_break>"
+    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けよう。|　さて…|<bw_break>": "You'll receive another skill point once you|reach the next goal of <%dM_stamp> training stamps.|Now then...|<bw_break>"
   },
   "241": {
     "「一度で　すべての職業を|　『経験値モード』か『特訓モード』に|　きりかえられます。　どちらにしますか？|<select_se_off>|経験値モード|特訓モード|<select_end>|<break>": "Once you've switched all your professions to|either \"experience mode\" or \"training|mode\"... Which would you prefer?|<br>|<select_se_off>|expiry mode|special training mode|<select_end>|<break>"
@@ -1014,7 +1014,7 @@
     "「すべての職業の特訓を　こなしているようだな。|　レベルが上限に達していない　職業があるが|　それでも　特訓モードにきりかえるのか？|<yesno><break>": "I'm trying to train for every profession...|There are some professions whose levels|aren't up to par, but you still want to|<br>|switch to training mode?<yesno><break>"
   },
   "339": {
-    "「おぉ！　特訓スタンプが貯まっているようだな。|　確認しよう。|<bw_break>": "Oh! You've got a special training stamp saved|up... Check...<bw_break>"
+    "「おぉ！　特訓スタンプが貯まっているようだな。|　確認しよう。|<bw_break>": "Oh! It seems you've accumulated quite a number|of training stamps. I will check.|<bw_break>"
   },
   "340": {
     "「<%sM_job>の特訓は　もう充分のようだな。|　これ以上の特訓を望むのなら　特訓の余地がある|　別の職業になるがよい。　|<bw_break>": "I've had enough of training in|<%sM_job>... If you want more|training, there's always room for more|<br>|training...<bw_break>"
@@ -1077,7 +1077,7 @@
     "「……む？　お前は　今　特訓モードだが|　<%sM_job>の特訓は　もう充分のようだな。|<br>|「経験値を得れば|　さらなる成長が　見込めるようだ。|　特訓モードを　解除するかね？|<yesno><break>": "... No? You're in training mode, but you've|done enough training on|<%sM_job>. The experience you've|<br>|gained will allow you to grow even more.|Would you like to be released from training|mode?|<br><yesno><break>"
   },
   "360": {
-    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けよう。|　さて…|<bw_break>": "Next, when you've accumulated|<%dM_stamp> special training|stamps, you'll receive a skill point...|<br>|Now...<bw_break>"
+    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けよう。|　さて…|<bw_break>": "You'll receive another skill point once you|reach the next goal of <%dM_stamp> training stamps.|Now then...|<bw_break>"
   },
   "361": {
     "「私は　剣姫さまの弟子　魔封士のひとりにして|　転職をつかさどる　ダーマの神官。|<br>|「職業を変えたいのなら　お手伝いしましょう。|　何を　お望みですか？|<break>": "I'm one of the Mages, an apprentice of the|Princess Swordsman, and I'm in charge of|changing professions, Dharma... If you want|<br>|to change professions, I can help you... What|do you want?<break>"
@@ -1164,7 +1164,7 @@
     "「では　どの職業になることを　望みますか？|<break>": "So, which vocation to you want to be?|<break>"
   },
   "389": {
-    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "So, <%sM_self>...|<%sM_new_syokugyou> and pray...|God of Dharma! Give <%sM_self> a|<br>|new lease on life!<end>"
+    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "Oh <%sM_self>. Let us pray in the spirit of|<%sM_new_syokugyou>. Oh Allmighty Alltrades. Give|<%sM_self> a new life!|<end>"
   },
   "390": {
     "「あら？　あなたは　すでに|　<%sM_syokugyou>の職に　ついていますよ。|　どの職業になることを　望みますか？|<break>": "Hm? You are already <%sM_syokugyou>.|Which vocation would you like to become?|<br><break>"
@@ -1194,7 +1194,7 @@
     "「すべての職業の特訓を　こなしているようです。|　レベルが上限に達していない　職業がありますが|　それでも　特訓モードにしますか？|<yesno><break>": "I'm trying to train for every profession...|There are some professions whose levels|aren't up to par, but you still want to go|<br>|into training mode?<yesno><break>"
   },
   "399": {
-    "「まぁ！　特訓スタンプが貯まっていますね。|　確認いたしましょう。|<bw_break>": "Oh, my God! My training stamps have been|saved... I'll check...<bw_break>"
+    "「まぁ！　特訓スタンプが貯まっていますね。|　確認いたしましょう。|<bw_break>": "Oh, my! You've accumulated quite a few|training stamps. I will check them now.|<bw_break>"
   },
   "400": {
     "「<%sM_job>の特訓は　もう充分のようですね。|　これ以上の特訓を望むのなら　特訓の余地がある|　別の職業になるとよいでしょう。|<bw_break>": "<%sM_job> seems to have had|enough training... If you wish to train|further, you may wish to find another|<br>|profession where there is room for|training...<bw_break>"
@@ -1257,7 +1257,7 @@
     "「あら？　あなたは　今　特訓モードですが|　<%sM_job>の特訓は　もう充分のようですね。|<br>|「経験値を得れば|　さらなる成長が　見込めるようです。|　特訓モードを　解除しますか？|<yesno><break>": "Oh? You're in training mode right now, but it|looks like you've had enough of|<%sM_job>. You've gained some|<br>|experience, and you're ready to grow. Would|you like to deactivate your training mode?<yesno><break>"
   },
   "420": {
-    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けましょう。|　さて…|<bw_break>": "Next time you accumulate|<%dM_stamp> special training|stamps, I'll give you skill points... Now...|<br><bw_break>"
+    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けましょう。|　さて…|<bw_break>": "When you accumulate <%dM_stamp> stamps,|you shall receive another skill point.|Now then...|<bw_break>"
   },
   "421": {
     "clarity_nt_char_421": "clarity_nt_char_421"
@@ -1269,7 +1269,7 @@
     "clarity_nt_char_423": "clarity_nt_char_423"
   },
   "424": {
-    "「マスタースキルポイントとは|　職業ごとに配分され　ポイントの振り直しも|　自由におこなえる　特別なスキルポイントです。|<br>|「割り振りと　振り直しは|　各地にいる神官か　ここダーマ神殿でのみ|　おこなうことができます。|<br>|「また　マスタースキルポイントは|　各職業が持つスキルごとに|　記憶されるものと　なっています。|<br>|「同名のスキルでも　異なる職業では|　ポイント振り分けが　異なるものになるので|　転職の際には　ご注意ください。|<br>|「スキルブックで　マスタースキルポイントを|　増やした後は　今の職業だけでなく　各職業にも|　そのポイントを　割り振りましょう。|<end>": "Master Skill Points are special skill points|that are allocated to each profession and can|be reallocated at will. Master Skill Points|<br>|can only be reallocated and reassigned by the|local priests or here at the Temple of|Dharma. Master skill points are stored for|<br>|each skill in each profession. The same skill|will be assigned differently to different|professions, so be careful when changing|<br>|professions... Once you've increased your|mastery points in your skill book, you can|then allocate those points not only to your|<br>|current profession, but also to other|professions...<end>"
+    "「マスタースキルポイントとは|　職業ごとに配分され　ポイントの振り直しも|　自由におこなえる　特別なスキルポイントです。|<br>|「割り振りと　振り直しは|　各地にいる神官か　ここダーマ神殿でのみ|　おこなうことができます。|<br>|「また　マスタースキルポイントは|　各職業が持つスキルごとに|　記憶されるものと　なっています。|<br>|「同名のスキルでも　異なる職業では|　ポイント振り分けが　異なるものになるので|　転職の際には　ご注意ください。|<br>|「スキルブックで　マスタースキルポイントを|　増やした後は　今の職業だけでなく　各職業にも|　そのポイントを　割り振りましょう。|<end>": "Master Skill Points are special skill points|that are allocated to each profession and can|be reallocated at will. Master Skill Points|<br>|can only be reallocated and reassigned by the|local priests or here at the Alltrades Abbey|Master skill points are stored for each skill|<br>|in each profession. The same skill will be|assigned differently to different professions,|so be careful when changing professions...|<br>|Once you've increased your mastery points in|your skill book, you can then allocate those|points not only to your current profession,|<br>|but also to other professions.<end>"
   },
   "425": {
     "「何について　ご説明しましょうか？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|マスタースキルポイントについて|<select_end>|<break>": "What would you like me to tell you about?|<select_se_off>|About changing jobs|About Skill Points|Transfer of Spells and Specialties|About Master Skill Points|<select_end>|<break>"
@@ -1284,7 +1284,7 @@
     "clarity_nt_char_428": "clarity_nt_char_428"
   },
   "429": {
-    "「ここは　転職をつかさどる|　ダーマの神殿。|　あなたに　伝えておくことがあります。|<br>|「じつは　ダーマ神の　ご加護により|　私たち神官も　マスタースキルポイントの|　割り振りが　可能となりました。|<br>|「今後は　ダーマ神殿まで来ずとも|　ポイントの割り振りが　できるのです。|　というわけで……|<bw_break>": "This is Dharma, the place to go for a career|change... I have something to tell you... By|the grace of the goddess Dharma, we priests|<br>|are now able to allocate Master Skill|Points... From now on, you don't even have to|come to the Dharma temple to get your points.|<br>|And so...<bw_break>"
+    "「ここは　転職をつかさどる|　ダーマの神殿。|　あなたに　伝えておくことがあります。|<br>|「じつは　ダーマ神の　ご加護により|　私たち神官も　マスタースキルポイントの|　割り振りが　可能となりました。|<br>|「今後は　ダーマ神殿まで来ずとも|　ポイントの割り振りが　できるのです。|　というわけで……|<bw_break>": "This is Alltrades Abbey, the place where you|can change vocations. I have something to tell|you. By the grace of Allmighty Alltrades, we|<br>|priests are now able to allocate Master Skill|Points. From now on, you don't even have to|come to Alltrades Abbey to get your points.|<br>|And so...|<bw_break>"
   },
   "430": {
     "clarity_nt_char_430": "clarity_nt_char_430"
@@ -1296,7 +1296,7 @@
     "clarity_nt_char_432": "clarity_nt_char_432"
   },
   "433": {
-    "「マスタースキルポイントとは|　職業ごとに配分され　ポイントの振り直しも|　自由におこなえる　特別なスキルポイントだ。|<br>|「割り振りと　振り直しは|　各地にいる神官か　ここダーマ神殿でのみ|　おこなうことができる。|<br>|「また　マスタースキルポイントは|　各職業が持つスキルごとに|　記憶されるものと　なっている。|<br>|「同名のスキルでも　異なる職業では|　ポイント振り分けが　異なるものになるから|　転職の際には　気を付けるんだぞ。|<br>|「スキルブックで　マスタースキルポイントを|　増やした後は　今の職業だけでなく　各職業にも|　そのポイントを　割り振るようにな。|<end>": "Master Skill Points are special skill points|that are allocated to each profession and can|be reallocated at will. Master Skill Points|<br>|can only be reallocated and reassigned by|local priests or here at the Temple of|Dharma. Master skill points are stored for|<br>|each skill you possess. The same skill will|be assigned differently to different|professions, so be careful when changing|<br>|professions... Once you've built up your|Mastery Points in the Skill Book, you'll be|able to assign them to different professions,|<br>|not just your current one.<end>"
+    "「マスタースキルポイントとは|　職業ごとに配分され　ポイントの振り直しも|　自由におこなえる　特別なスキルポイントだ。|<br>|「割り振りと　振り直しは|　各地にいる神官か　ここダーマ神殿でのみ|　おこなうことができる。|<br>|「また　マスタースキルポイントは|　各職業が持つスキルごとに|　記憶されるものと　なっている。|<br>|「同名のスキルでも　異なる職業では|　ポイント振り分けが　異なるものになるから|　転職の際には　気を付けるんだぞ。|<br>|「スキルブックで　マスタースキルポイントを|　増やした後は　今の職業だけでなく　各職業にも|　そのポイントを　割り振るようにな。|<end>": "Master Skill Points are special skill points|that are allocated to each vocation and can be|reallocated at will. Master Skill Points can|<br>|only be reallocated and reassigned by local|priests or here at Alltrades Abbey. Master|skill points are stored for each skill you|<br>|possess. The same skill will be assigned|differently to different vocations, so be|careful when changing vocations. Once you've|<br>|built up your Mastery Points in the Skill|Book, you'll be able to assign them to|different vocations, not just your current|<br>|one.|<end>"
   },
   "434": {
     "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|マスタースキルポイントについて|<select_end>|<break>": "What do you want to know about?|<select_se_off>|About changing jobs|About Skill Points|Transfer of Spells and Specialties|About Master Skill Points|<select_end>|<break>"
@@ -1647,7 +1647,7 @@
     "「では　どの職業になることを　望みますか？|<break>": "So, which vocation to you want to be?|<break>"
   },
   "550": {
-    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "So, <%sM_self>...|<%sM_new_syokugyou> and pray...|God of Dharma! Give <%sM_self> a|<br>|new lease on life!<end>"
+    "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "Oh <%sM_self>. Let us pray in the spirit of|<%sM_new_syokugyou>. Oh Allmighty Alltrades. Give|<%sM_self> a new life!|<end>"
   },
   "551": {
     "「<%sM_new_syokugyou>に転職すると|　まだ　なついていない　<%sM_monster>は　|　モンスター酒場に送られますがよろしいですか？|<yesno><close>": "If you change vocations to <%sM_new_syokugyou>,|<%sM_monster> will be sent to the Monster|<br>|Tavern if their happiness isn't high enough.|Is that all right?<yesno><close>"
@@ -1737,13 +1737,13 @@
     "「<%sM_job>の特訓は　もう充分のようですね。|　グレン城の　訓練場へ行き|　スキルポイントを　得るとよいでしょう。|<bw_break>": "It seems you've had enough|<%sM_job> training... I suggest|you go to the training grounds at Castle|<br>|Glenn and get some skill points...<bw_break>"
   },
   "580": {
-    "「まぁ！　特訓スタンプが貯まっていますね。|　確認いたしましょう。|<bw_break>": "Oh, my God! My training stamps have been|saved... I'll check...<bw_break>"
+    "「まぁ！　特訓スタンプが貯まっていますね。|　確認いたしましょう。|<bw_break>": "Oh, my! You've accumulated quite a few|training stamps. I will check them now.|<bw_break>"
   },
   "581": {
     "特訓スタンプが　<%dM_stamp>個　貯まっていたので|<pc>は|スキルポイントを　<%dM_point> P　手に入れた！|<me 57><bw_break>": "You've accumulated <%dM_stamp> Training Stamps,|and received <%dM_point> skill point(s)!|<me 57><bw_break>"
   },
   "582": {
-    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けましょう。|　さて…|<bw_break>": "Next time you accumulate|<%dM_stamp> special training|stamps, I'll give you skill points... Now...|<br><bw_break>"
+    "「次は　<%dM_stamp>個　特訓スタンプを|　貯めてきた時　スキルポイントを授けましょう。|　さて…|<bw_break>": "When you accumulate <%dM_stamp> stamps,|you shall receive another skill point.|Now then...|<bw_break>"
   },
   "583": {
     "「すべての職業の特訓を　こなしたようですね。|　あなたにできる特訓は　今は何もありません。|　よくがんばりましたね。|<bw_break>": "You've trained for every profession. There's|nothing you can do now... You've done well...<bw_break>"
@@ -1846,5 +1846,77 @@
   },
   "616": {
     "（未使用）": "(not used)"
+  },
+  "617": {
+    "「なるほど……確かに　あなたの中に|　別の種族の姿が　眠っているのを感じます。|<br>|「もうひとつの自分の姿を目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えますか？|<yesno><break>": ""
+  },
+  "618": {
+    "「むむっ……見えるぞ。|　お前の中に眠る　もうひとつの姿が。|<br>|「異なる姿を　目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えたいと申されるか？|<yesno><break>": "Hmmm... I see it. The other race sleeping|within you.|<br>|Do you wish to awaken into your other form|and change from <%sL_RACE_NOW> into|<%sL_RACE_AFTER>?|<yesno><break>"
+  },
+  "619": {
+    "「むむっ……見えるぞ。|　お前の中に眠る　もうひとつの姿が。|<br>|「異なる姿を　目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えたいと申されるか？|<yesno><break>": "Hmmm... I see it. The other race sleeping|within you.|<br>|Do you wish to awaken into your other form|and change from <%sL_RACE_NOW> into|<%sL_RACE_AFTER>?|<yesno><break>"
+  },
+  "620": {
+    "「なるほど……確かに　あなたの中に|　別の種族の姿が　眠っているのを感じます。|<br>|「もうひとつの自分の姿を目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えますか？|<yesno><break>": ""
+  },
+  "621": {
+    "「むむっ……見えるぞ。|　お前の中に眠る　もうひとつの姿が。|<br>|「異なる姿を　目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えたいと申されるか？|<yesno><break>": "Hmmm... I see it. The other race sleeping|within you.|<br>|Do you wish to awaken into your other form|and change from <%sL_RACE_NOW> into|<%sL_RACE_AFTER>?|<yesno><break>"
+  },
+  "622": {
+    "「あ～ら　あなたの中に|　別の種族の姿が　眠ってるのを感じるわ。|<br>|「もうひとつの自分の姿を目覚めさせて|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えちゃうのかしら？|<yesno><break>": ""
+  },
+  "623": {
+    "「なるほど……確かに　あなたの中に|　別の種族の姿が　眠っているのを感じます。|<br>|「もうひとつの自分の姿を目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えますか？|<yesno><break>": ""
+  },
+  "624": {
+    "「なるほど……確かに　あなたの中に|　別の種族の姿が　眠っているのを感じます。|<br>|「もうひとつの自分の姿を目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えますか？|<yesno><break>": ""
+  },
+  "625": {
+    "「ああ　我らが神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, Almighty One! Please awaken the|<%sL_RACE_AFTER> that sleeps within|<pc>!<bw_break>"
+  },
+  "626": {
+    "「おお　全知全能の神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, Almighty One! Awaken the <%sL_RACE_AFTER>|that lies dormant within <pc>!<bw_break>"
+  },
+  "627": {
+    "「おお　全知全能の神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, Almighty One! Awaken the <%sL_RACE_AFTER>|that lies dormant within <pc>!<bw_break>"
+  },
+  "628": {
+    "「ああ　我らが神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, Almighty One! Please awaken the|<%sL_RACE_AFTER> that sleeps within|<pc>!<bw_break>"
+  },
+  "629": {
+    "「おお　全知全能の神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, Almighty One! Please awaken the|<%sL_RACE_AFTER> that sleeps within|<pc>!<bw_break>"
+  },
+  "630": {
+    "「ああ～　神さま！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせてちょ～だい！<bw_break>": ""
+  },
+  "631": {
+    "「ああ　我らが神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, Almighty One! Please awaken the|<%sL_RACE_AFTER> that sleeps within|<pc>!<bw_break>"
+  },
+  "632": {
+    "「ああ　我らが神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, Almighty One! Please awaken the|<%sL_RACE_AFTER> that sleeps within|<pc>!<bw_break>"
+  },
+  "633": {
+    "「種族が変わって　装備できなくなった|　武器や防具は　はずしておきました。|　さあ　お行きなさい。<bw_break>": ""
+  },
+  "634": {
+    "「種族が変わったことで　装備できなくなった|　武器や防具は　はずしておいたからな。|　さあ　行くがよい。<bw_break>": "Any weapons and armor that cannot be equipped|on your new race have been removed.|Now go, my child.<bw_break>"
+  },
+  "635": {
+    "「種族が変わったことで　装備できなくなった|　武器や防具は　はずしておいたぞ。|　さあ　行くがよい。<bw_break>": "Any weapons and armor that cannot be equipped|on your new race have been removed.|Now go, my child.<bw_break>"
+  },
+  "636": {
+    "「種族が変わって　装備できなくなった|　武器や防具は　はずしておきました。|　さあ　お行きなさい。<bw_break>": ""
+  },
+  "637": {
+    "「種族が変わったことで　装備できなくなった|　武器や防具は　はずしておいたからな。|　さあ　行くがよい。<bw_break>": "Any weapons and armor that cannot be equipped|on your new race have been removed.|Now go, my child.<bw_break>"
+  },
+  "638": {
+    "「種族が変わったから　装備できなくなった|　武器や防具は　はずしておいたわよん。|　ンフッ。また会いましょ！<bw_break>": ""
+  },
+  "639": {
+    "「種族が変わって　装備できなくなった|　武器や防具は　はずしておきました。|　さあ　お行きなさい。<bw_break>": ""
+  },
+  "640": {
+    "「種族が変わって　装備できなくなった|　武器や防具は　はずしておきました。|　さあ　お行きなさい。<bw_break>": ""
   }
 }

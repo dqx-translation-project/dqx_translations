@@ -84,7 +84,7 @@
     "「承りました。それでは以前いただいた|　きらめきのインクで　サインをお願いします。|<break>": "I'll take that... Now, I'd like you to sign|this with the sparkling ink that you gave|me...<break>"
   },
   "29": {
-    "「さて　本日は　どちらをご利用ですか？|<break>": "So, where would you like to go today, sir?<break>"
+    "「さて　本日は　どちらをご利用ですか？|<break>": "So, how can I help you today?<break>"
   },
   "30": {
     "「預かり所へ　ようこそ。|　このたび　アイテム倉庫が|　大幅に　リニューアルいたしました！|<br>|「また　お使いの倉庫に|　名前をつけることも　できるようになりました！|　『倉庫名を変える』から　お試しください。|<bw_break>": "To the storeroom, please... We're pleased to|announce that the Item Warehouse has|undergone a major overhaul! And now you can|<br>|name your warehouse! Go to \"Rename Warehouse\"|and try it out...<bw_break>"
@@ -291,7 +291,7 @@
     "「他にも　ご用はありますか？|<break>": "Is there anything else I can do for you?<break>"
   },
   "98": {
-    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is currently restricted in your|current play environment. Upgrade to the|full game version to use it.|<end>"
   },
   "99": {
     "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
@@ -363,7 +363,7 @@
     "「<PC>さまは　倉庫拡張の|　追加倉庫＋４を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　４個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 4|warehouses... You may now use up to 4|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
   },
   "122": {
-    "「<PC>さまは　倉庫拡張の|　追加倉庫＋１を　ご利用ですね。|<br>|「アイテムを　５０種類収納できる|　追加倉庫を　１個まで　ご利用いただけます！|<bw_break>": "You have access to Extra Storage +1. You may|use this storage to store up to 50 more items!|<bw_break>"
+    "「<PC>さまは　倉庫拡張の|　追加倉庫＋１を　ご利用ですね。|<br>|「アイテムを　５０種類収納できる|　追加倉庫を　１個まで　ご利用いただけます！|<bw_break>": "You are using the storage expansion and have|access to Extra Storage +1. You may use this|storage to store up to 50 more items!|<bw_break>"
   },
   "123": {
     "「<PC>さまは　倉庫拡張の|　追加倉庫＋３を　ご利用ですね。|<br>|「アイテムを　各５０種類収納できる|　追加倉庫を　３個まで　ご利用いただけます！|<bw_break>": "<PC>You have access to an additional 3|warehouses... You can now use up to 3|additional warehouses, each holding up to 50|<br>|different items!<bw_break>"
@@ -483,7 +483,7 @@
     "「承りました。それでは以前いただいた|　きらめきのインクで　サインをお願いします。|<break>": "I'll take that... Now, I'd like you to sign|this with the sparkling ink that you gave|me...<break>"
   },
   "162": {
-    "「さて　本日は　どちらをご利用ですか？|<break>": "So, where would you like to go today, sir?<break>"
+    "「さて　本日は　どちらをご利用ですか？|<break>": "So, how can I help you today?<break>"
   },
   "163": {
     "「預かり所へ　ようこそ。|　このたび　アイテム倉庫が|　大幅に　リニューアルいたしました！|<br>|「また　お使いの倉庫に|　名前をつけることも　できるようになりました！|　『倉庫名を変える』から　お試しください。|<bw_break>": "To the storeroom, please... We're pleased to|announce that the Item Warehouse has|undergone a major overhaul! And now you can|<br>|name your warehouse! Go to \"Rename Warehouse\"|and try it out...<bw_break>"
@@ -540,7 +540,7 @@
     "「倉庫がいっぱいなので|　代わりに<%sL_STORAGE>に|　しまっていいですか？|<break>": "My warehouse is full, can I put it in|<%sL_STORAGE> instead?<break>"
   },
   "181": {
-    "「<%sL_AZU_SOUKO_NAME>は　いっぱいです。|　別の倉庫に　切り替えますか？|<yesno><break>": "<%sL_AZU_SOUKO_NAME> is full... Do you want|to switch to a different warehouse?<yesno><break>"
+    "「<%sL_AZU_SOUKO_NAME>は　いっぱいです。|　別の倉庫に　切り替えますか？|<yesno><break>": "<%sL_AZU_SOUKO_NAME> is full. Do you want|to use a different storage?|<yesno><break>"
   },
   "182": {
     "「では　大切に　お預かりします。|　他の物も　預けますか？|<break>": "Well, I'll take good care of it. Do you want|me to take anything else?<break>"
@@ -756,7 +756,7 @@
     "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋２に　ご登録いただければ|　追加倉庫を　２個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up for additional|storage plus two, you'll be able to use up to|<br>|two additional storage units...<bw_break>"
   },
   "253": {
-    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is currently restricted in your|current play environment. Upgrade to the|full game version to use it.|<end>"
   },
   "254": {
     "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
@@ -1326,7 +1326,7 @@
     "「倉庫がいっぱいなので|　代わりに<%sL_STORAGE>に|　しまっていいですか？|<break>": "My warehouse is full, can I put it in|<%sL_STORAGE> instead?<break>"
   },
   "443": {
-    "「<%sL_AZU_SOUKO_NAME>は　いっぱいです。|　別の倉庫に　切り替えますか？|<yesno><break>": "<%sL_AZU_SOUKO_NAME> is full... Do you want|to switch to a different warehouse?<yesno><break>"
+    "「<%sL_AZU_SOUKO_NAME>は　いっぱいです。|　別の倉庫に　切り替えますか？|<yesno><break>": "<%sL_AZU_SOUKO_NAME> is full. Do you want|to use a different storage?|<yesno><break>"
   },
   "444": {
     "「では　大切に　お預かりします。|　他の物も　預けますか？|<break>": "Well, I'll take good care of it. Do you want|me to take anything else?<break>"
@@ -1542,7 +1542,7 @@
     "「倉庫拡張サービスの　登録状況が|　変更されたため　ご利用いただけなくなった|　追加倉庫がございます。|<br>|「お預かりした物は　保管していますので|　再度　追加倉庫＋２に　ご登録いただければ|　追加倉庫を　２個まで　また利用いただけます。|<bw_break>": "Due to a change in the registration status of|our warehouse expansion service, there are|some additional warehouses that are no longer|<br>|available. We're still storing your items, so|if you'd like to sign up for additional|storage plus two, you'll be able to use up to|<br>|two additional storage units...<bw_break>"
   },
   "515": {
-    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is currently restricted in your|current play environment. Upgrade to the|full game version to use it.|<end>"
   },
   "516": {
     "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
@@ -1650,7 +1650,7 @@
     "<speed=0>|このアイテムを預けることは　できません！|<end>": "<speed=0>You can't deposit this item!<end>"
   },
   "551": {
-    "<speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>It's solid, stable... If you look closely,|you'll see the symbol for the Depository|engraved on it. Somehow, through this urn, we|<br>|can access the item storage and the gold|bank...<break>"
+    "<speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>|It's a solid, sturdy pot. Looking closely, you|see a Depository symbol engraved on the|front...|<br>|Somehow, through this pot, you can access|your item storage and gold bank.|<break>"
   },
   "552": {
     "<speed=0>|預けるときは　預けたい持ち物の種類と|預け先となる倉庫を　選んでください。|<br>|取り出すときは　複数の倉庫をお持ちなら|取り出したい倉庫を　選んでください。|<br>|その後　移動させたいアイテムを選ぶと|預けたり　取り出すことができます。|<end>": "<speed=0>To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
@@ -1734,7 +1734,7 @@
     "「倉庫がいっぱいなので|　代わりに<%sL_STORAGE>に|　しまっていいですか？|<break>": "My warehouse is full, can I put it in|<%sL_STORAGE> instead?<break>"
   },
   "579": {
-    "<speed=0>|<%sL_AZU_SOUKO_NAME>は　いっぱいです。|別の倉庫に　切り替えますか？|<yesno><break>": "<speed=0><%sL_AZU_SOUKO_NAME> is full... Do you want|to switch to a different warehouse?<yesno><break>"
+    "<speed=0>|<%sL_AZU_SOUKO_NAME>は　いっぱいです。|別の倉庫に　切り替えますか？|<yesno><break>": "<speed=0><%sL_AZU_SOUKO_NAME> is full. Do you want|to use a different storage?<yesno><break>"
   },
   "580": {
     "「では　大切に　お預かりします。|　他の物も　預けますか？|<break>": "Well, I'll take good care of it. Do you want|me to take anything else?<break>"
@@ -1950,7 +1950,7 @@
     "<speed=0>|倉庫拡張サービスの　登録状況が|変更されたため　使えなくなった|追加倉庫があります。|<br>|預けていた物は　保管されているため|再度　追加倉庫＋２に　登録すれば|追加倉庫を　２個まで　使うことができます。|<bw_break>": ""
   },
   "651": {
-    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is currently restricted in your|current play environment. Upgrade to the|full game version to use it.|<end>"
   },
   "652": {
     "<speed=0>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>Somehow, through these pressure points, you|can access your possessions in the item vault|and the gold bank...<break>"
@@ -1980,49 +1980,49 @@
     "<pipipi_off><speed=0>|持ち物をしまう場合は　しまうを|持ち物を取りだす場合は　とりだすを|選択してください。|<break>": "<pipipi_off><speed=0>Select \"Put away\" to put your belongings away|or \"Take out\" to take them out...<break>"
   },
   "661": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... No way.|I'm pretty sure it's... The key to the belt|<br>|warehouse... It's quite a rare find... The|belt vault is a special vault that can only|hold special belts... such as the pyroxene|<br>|belt and the war god belt. With this key, you|can store up to 10 belts in the Belt|Warehouse... When we get a new key, we'll add|<br>|10 more belts to the belt vault, so don't|forget to take them to your nearest vault.|The Belt Warehouse uses a mysterious power to|<br>|store belts and their special effects|separately... When you retrieve your belt,|the special effects will be combined with the|<br>|belt in storage and returned to you. Because|of this, if you leave a belt in the belt|vault, the item's history will be deleted. If|<br>|you don't want to delete your item's history,|please use the regular warehouse. Now, if|you'd like to use the key to unlock the belt|<br>|vault...<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "Welcome to the Depository. Hmm? What's that|you're holding? Can it be...?|<br>|It is, by the looks of it. That's a Belt|Storage Key, right? Those are pretty hard|to come by.|<br>|A Belt Storage is a special belt-only storage|where you can keep your Augite Belts and|War God Belts.|<br>|With this key, you can store up to 10 belts.|If you find any additional keys, your storage|will expand by 10 for each new key.|<br>|Belt Storage uses a mysterious power to|store the belts themselves and their effects|separate from one another.|<br>|That means, when you remove a belt from Belt|Storage, its effects will be reapplied.|<br>|However, because of this, any item history the|belt had upon depositing it will be lost.|<br>|If you do not wish to lose this item history,|please consider using our normal storage|methods.|<br>|Now then, please give me your key and I will|open your new Belt Storage.|<end>"
   },
   "662": {
     "「私は　剣姫さまの弟子　魔封士のひとりにして|　預かり所の役割を　背負う者。|<br>|「……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'm Ken-hime's apprentice, one of the mages,|and I'm responsible for the guardianship...|... Hmm? That thing in your hand... No way. I|<br>|knew it... The key to the belt warehouse...|It's quite a rare find... The belt vault is a|special vault that can only hold special|<br>|belts... such as the pyroxene belt and the|war god belt. With this key, you can store up|to 10 belts in the Belt Warehouse... When we|<br>|get a new key, we'll add 10 more belts to the|belt vault, so don't forget to take them to|your nearest vault. The Belt Warehouse uses a|<br>|mysterious power to store belts and their|special effects separately... When you|retrieve your belt, the special effects will|<br>|be combined with the belt in storage and|returned to you. Because of this, if you|leave a belt in the belt vault, the item's|<br>|history will be deleted. If you don't want to|delete your item's history, please use the|regular warehouse. Now, if you'd like to use|<br>|the key to unlock the belt vault...<end>"
   },
   "663": {
-    "<pipipi_off><speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|ツボは　突然まばゆい光をはなち|<pc>が持っていたベルト倉庫のカギを|<%nL_ITEM_NUM>個　吸い込んでいった！|<br>|どうやら　預かり所に|ベルト倉庫というものが　追加されたようだ。|<br>|<color_yellow>ベルト倉庫とは　ベルト装備の中でも特殊な|輝石のベルトと　戦神のベルトだけ　|入れることができる　特別な倉庫です。|<br>|このカギ１つで　ベルト倉庫の中に|１０個まで　輝石のベルトと　戦神のベルトを|預けることが　できます。|<br>|新たにベルト倉庫のカギを　入手した場合は|さらに１０個預けられるように　増設されるので|忘れずに　最寄りの預かり所へ持っていきましょう。|<br>|注意事項として　ベルト倉庫は不思議なチカラで|ベルトと　ベルトに付与されている特殊効果を|別々に保管する　仕組みになっています。|<br>|ベルトを取り出す際は|保管されているベルトと　特殊効果を|結びつけて　返却されます。|<br>|そのため　ベルト倉庫に|ベルトを預けると　アイテムの歴史が　|削除されてしまいます。|<br>|アイテムの歴史を　消したくない場合には|通常倉庫を　利用するように|注意しましょう。|<color_white><bw_break>": "<pipipi_off><speed=0>It's solid, stable... If you look closely,|you can see the mark of the depositary|engraved on it... The urn is suddenly bathed|<br>|in a dazzling light.<pc>  He took <%nL_ITEM_NUM> of the keys to the|belt depository that <%nL_ITEM_NUM> was|holding! Apparently, they've added something|<br>|called the Belt Depository to the|Depository...<color_yellow>The belt vault is a special vault that can|only hold belts of brilliance and warrior|gods. With this key, you can store up to 10|<br>|belts in the Belt Warehouse... If you get a|new key for the Belt Vault, you'll be able to|deposit 10 more belts, so don't forget to|<br>|take them to your nearest Vault. Note that|the Belt Warehouse is a magical place where|belts and their special effects are stored|<br>|separately... To retrieve a belt, you must|combine it with its special effect and return|it. So if you put a belt in the belt vault,|<br>|the item's history will be deleted. If you|don't want to erase the history of an item,|use the normal storage...<color_white><bw_break>"
+    "<pipipi_off><speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|ツボは　突然まばゆい光をはなち|<pc>が持っていたベルト倉庫のカギを|<%nL_ITEM_NUM>個　吸い込んでいった！|<br>|どうやら　預かり所に|ベルト倉庫というものが　追加されたようだ。|<br>|<color_yellow>ベルト倉庫とは　ベルト装備の中でも特殊な|輝石のベルトと　戦神のベルトだけ　|入れることができる　特別な倉庫です。|<br>|このカギ１つで　ベルト倉庫の中に|１０個まで　輝石のベルトと　戦神のベルトを|預けることが　できます。|<br>|新たにベルト倉庫のカギを　入手した場合は|さらに１０個預けられるように　増設されるので|忘れずに　最寄りの預かり所へ持っていきましょう。|<br>|注意事項として　ベルト倉庫は不思議なチカラで|ベルトと　ベルトに付与されている特殊効果を|別々に保管する　仕組みになっています。|<br>|ベルトを取り出す際は|保管されているベルトと　特殊効果を|結びつけて　返却されます。|<br>|そのため　ベルト倉庫に|ベルトを預けると　アイテムの歴史が　|削除されてしまいます。|<br>|アイテムの歴史を　消したくない場合には|通常倉庫を　利用するように|注意しましょう。|<color_white><bw_break>": "<pipipi_off><speed=0>It's a pretty solid and stable pot. Upon|closer inspection, you see a Depository mark|engraved on the front of it...|<br>|Suddenly, the pot began to glow and sucked in|the <%dL_ITEM_NUM> Belt Storage Key(s) you were|carrying!|<br>|A new storage option has appeared at the|Depository, known as the Belt Storage.|<br>|<color_yellow>With this key, you can store up to 10 belts.|If you find any additional keys, your storage|will expand by 10 for each new key.|<br>|Belt Storage uses a mysterious power to|store the belts themselves and their effects|separate from one another.|<br>|That means, when you remove a belt from Belt|Storage, its effects will be reapplied.|<br>|However, because of this, any item history the|belt had upon depositing it will be lost.|<br>|If you do not wish to lose this item history,|please consider using our normal storage|methods.|<color_white><bw_break>"
   },
   "664": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... No way.|I'm pretty sure it's... The key to the belt|<br>|warehouse... It's quite a rare find... The|belt vault is a special vault that can only|hold special belts... such as the pyroxene|<br>|belt and the war god belt. With this key, you|can store up to 10 belts in the Belt|Warehouse... When we get a new key, we'll add|<br>|10 more belts to the belt vault, so don't|forget to take them to your nearest vault.|The Belt Warehouse uses a mysterious power to|<br>|store belts and their special effects|separately... When you retrieve your belt,|the special effects will be combined with the|<br>|belt in storage and returned to you. Because|of this, if you leave a belt in the belt|vault, the item's history will be deleted. If|<br>|you don't want to delete your item's history,|please use the regular warehouse. Now, if|you'd like to use the key to unlock the belt|<br>|vault...<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "Welcome to the Depository. Hmm? What's that|you're holding? Can it be...?|<br>|It is, by the looks of it. That's a Belt|Storage Key, right? Those are pretty hard|to come by.|<br>|A Belt Storage is a special belt-only storage|where you can keep your Augite Belts and|War God Belts.|<br>|With this key, you can store up to 10 belts.|If you find any additional keys, your storage|will expand by 10 for each new key.|<br>|Belt Storage uses a mysterious power to|store the belts themselves and their effects|separate from one another.|<br>|That means, when you remove a belt from Belt|Storage, its effects will be reapplied.|<br>|However, because of this, any item history the|belt had upon depositing it will be lost.|<br>|If you do not wish to lose this item history,|please consider using our normal storage|methods.|<br>|Now then, please give me your key and I will|open your new Belt Storage.|<end>"
   },
   "665": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... No way.|I'm pretty sure it's... The key to the belt|<br>|warehouse... It's quite a rare find... The|belt vault is a special vault that can only|hold special belts... such as the pyroxene|<br>|belt and the war god belt. With this key, you|can store up to 10 belts in the Belt|Warehouse... When we get a new key, we'll add|<br>|10 more belts to the belt vault, so don't|forget to take them to your nearest vault.|The Belt Warehouse uses a mysterious power to|<br>|store belts and their special effects|separately... When you retrieve your belt,|the special effects will be combined with the|<br>|belt in storage and returned to you. Because|of this, if you leave a belt in the belt|vault, the item's history will be deleted. If|<br>|you don't want to delete your item's history,|please use the regular warehouse. Now, if|you'd like to use the key to unlock the belt|<br>|vault...<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……　まさか？|<br>|「やはり　間違いありません。|　ベルト倉庫のカギ……|　なかなか　珍しいものを手に入れられましたね。|<br>|「ベルト倉庫とは　ベルト装備の中でも特殊な|　輝石のベルトと　戦神のベルトだけ　|　入れることができる　特別な倉庫となります。|<br>|「このカギ１つで　ベルト倉庫の中に|　１０個まで　輝石のベルトと　戦神のベルトを|　預けることが　できます。|<br>|「新たにベルト倉庫のカギを　入手した場合は|　さらに１０個預けられるように　増設しますので|　忘れずに　最寄りの預かり所へお持ちください。|<br>|「なおベルト倉庫は　不思議なチカラで|　ベルトと　ベルトに付与されている特殊効果を|　別々に保管する　仕組みになっています。|<br>|「ベルトを取り出す際は|　保管されているベルトと　特殊効果を|　結びつけて　お返しいたします。|<br>|「この仕組みのため　ベルト倉庫へ|　ベルトを預けると　アイテムの歴史が|　削除されてしまいます。|<br>|「アイテムの歴史を　消したくない場合は|　お手数ですが　通常の倉庫をご利用いただくよう|　お願い申し上げます。|<br>|「それでは　ベルト倉庫のカギを使って|　ベルト倉庫を　解放させていただきます。|<end>": "Welcome to the Depository. Hmm? What's that|you're holding? Can it be...?|<br>|It is, by the looks of it. That's a Belt|Storage Key, right? Those are pretty hard|to come by.|<br>|A Belt Storage is a special belt-only storage|where you can keep your Augite Belts and|War God Belts.|<br>|With this key, you can store up to 10 belts.|If you find any additional keys, your storage|will expand by 10 for each new key.|<br>|Belt Storage uses a mysterious power to|store the belts themselves and their effects|separate from one another.|<br>|That means, when you remove a belt from Belt|Storage, its effects will be reapplied.|<br>|However, because of this, any item history the|belt had upon depositing it will be lost.|<br>|If you do not wish to lose this item history,|please consider using our normal storage|methods.|<br>|Now then, please give me your key and I will|open your new Belt Storage.|<end>"
   },
   "666": {
-    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc>  You can now store up to <%nL_BLTSTR_NUM>|belts in the Belt Warehouse. You can now|store up to <%nL_BLTSTR_NUM> belts of|<br>|brilliance and war gods in the new belt|vault!<me_60>|<end>"
+    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc> handed over <%dL_ITEM_NUM>|Belt Storage Key(s).|<br>|You can now store up to <%dL_BLTSTR_NUM>|Augite Belts and War God Belts in your Belt|Storage!<me_60>|<end>"
   },
   "667": {
-    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc>  You can now store up to <%nL_BLTSTR_NUM>|belts in the Belt Warehouse. You can now|store up to <%nL_BLTSTR_NUM> belts of|<br>|brilliance and war gods in the new belt|vault!<me_60>|<end>"
+    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc> handed over <%dL_ITEM_NUM>|Belt Storage Key(s).|<br>|You can now store up to <%dL_BLTSTR_NUM>|Augite Belts and War God Belts in your Belt|Storage!<me_60>|<end>"
   },
   "668": {
     "<pipipi_off><speed=0>ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><speed=0>The belt vault has been liberated and now|holds a total of <%nL_BLTSTR_NUM> belts of|brilliance and belts of war!<me_60>|<end>"
   },
   "669": {
-    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc>  You can now store up to <%nL_BLTSTR_NUM>|belts in the Belt Warehouse. You can now|store up to <%nL_BLTSTR_NUM> belts of|<br>|brilliance and war gods in the new belt|vault!<me_60>|<end>"
+    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc> handed over <%dL_ITEM_NUM>|Belt Storage Key(s).|<br>|You can now store up to <%dL_BLTSTR_NUM>|Augite Belts and War God Belts in your Belt|Storage!<me_60>|<end>"
   },
   "670": {
-    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc>  You can now store up to <%nL_BLTSTR_NUM>|belts in the Belt Warehouse. You can now|store up to <%nL_BLTSTR_NUM> belts of|<br>|brilliance and war gods in the new belt|vault!<me_60>|<end>"
+    "<pipipi_off><pc>は　ベルト倉庫のカギを|<%nL_ITEM_NUM>個　渡した。|<br>|ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><pc> handed over <%dL_ITEM_NUM>|Belt Storage Key(s).|<br>|You can now store up to <%dL_BLTSTR_NUM>|Augite Belts and War God Belts in your Belt|Storage!<me_60>|<end>"
   },
   "671": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've obtained another key to the belt|<br>|depot. Now we can add another belt depot...|Let's see if we can use the belt storage key|to expand the warehouse.<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "Welcome to the Depository. Hmm...? What's|that you're holding there?|<br>|It looks like you've managed to acquire|another Belt Storage Key. With it, you can|expand your number of Belt Storages.|<br>|Here, give me that key and I'll get it all|set up for you.|<end>"
   },
   "672": {
     "「私は　剣姫さまの弟子　魔封士のひとりにして|　預かり所の役割を　背負う者。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'm Ken-hime's apprentice, one of the mages,|and I'm responsible for the guardianship...|... Hmm? What you're holding in your hand...|<br>|I see you've obtained the key to the belt|storehouse again. Now we can add more belt|storage... Let's see if we can use the belt|<br>|storage key to expand the warehouse.<end>"
   },
   "673": {
-    "<pipipi_off><speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|ツボは　突然まばゆい光をはなち|<pc>が　持っていた|ベルト倉庫のカギを<%nL_ITEM_NUM>個　吸い込んでいった！|<bw_break>": "<pipipi_off><speed=0>It's solid, stable... If you look closely,|you can see the mark of the depositary|engraved on it... The urn is suddenly bathed|<br>|in a dazzling light.<pc> He took <%nL_ITEM_NUM> of the keys to the|belt warehouse that<bw_break>"
+    "<pipipi_off><speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|ツボは　突然まばゆい光をはなち|<pc>が　持っていた|ベルト倉庫のカギを<%nL_ITEM_NUM>個　吸い込んでいった！|<bw_break>": "<pipipi_off><speed=0>It's a solid, sturdy pot. Looking closely, you|see a Depository symbol engraved on the|front...|<br>|The pot is suddenly enveloped in a dazzling|light! The <%dL_ITEM_NUM> Belt Storage Keys you were|holding were sucked into the pot!"
   },
   "674": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've obtained another key to the belt|<br>|depot. Now we can add another belt depot...|Let's see if we can use the belt storage key|to expand the warehouse.<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "Welcome to the Depository. Hmm...? What's|that you're holding there?|<br>|It looks like you've managed to acquire|another Belt Storage Key. With it, you can|expand your number of Belt Storages.|<br>|Here, give me that key and I'll get it all|set up for you.|<end>"
   },
   "675": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've obtained another key to the belt|<br>|depot. Now we can add another belt depot...|Let's see if we can use the belt storage key|to expand the warehouse.<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "Welcome to the Depository. Hmm...? What's|that you're holding there?|<br>|It looks like you've managed to acquire|another Belt Storage Key. With it, you can|expand your number of Belt Storages.|<br>|Here, give me that key and I'll get it all|set up for you.|<end>"
   },
   "676": {
     "<pipipi_off><speed=0>|ベルトを　選んでください。|ただし　ベルト倉庫に　ベルトを入れると|アイテムの歴史が消えるので　ご注意ください。|<break>": "<pipipi_off><speed=0>Select a belt... But be warned, if you put|the belt in the belt vault, the item's|history will be lost.<break>"
@@ -2115,19 +2115,19 @@
     "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　これでベルト倉庫を　増設することができます。|<br>|「それでは　さっそく|　ベルト倉庫のカギを使って|　倉庫を　増設させていただきます。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained another|key to the belt depot. Now we can add to our|belt storage... Let's see if we can use the|<br>|belt storage key to expand the warehouse.<end>"
   },
   "706": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've managed to get your hands on the keys|<br>|to the belt depot again. I see.<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "Welcome to the Depository. Hmm...? What's|that you're holding there?|<br>|It looks like you've managed to acquire|another Belt Storage Key. I see...|<br>|Sorry, but it looks like we don't have any|extra Belt Storage available at the moment.|<br>|We'll let you know when more becomes|available, so hang onto that key for now.<end>"
   },
   "707": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've managed to get your hands on the keys|<br>|to the belt depot again. I see.<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "Welcome to the Depository. Hmm...? What's|that you're holding there?|<br>|It looks like you've managed to acquire|another Belt Storage Key. I see...|<br>|Sorry, but it looks like we don't have any|extra Belt Storage available at the moment.|<br>|We'll let you know when more becomes|available, so hang onto that key for now.<end>"
   },
   "708": {
-    "<pipipi_off><speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|ツボは　突然まばゆい光をはなち|<pc>が　持っていた|ベルト倉庫のカギを　吸い込んでいった！|<br>|しかし　ベルト倉庫のカギは|ツボから　はじき出された！|<br>|どうやら　今は|ベルト倉庫を　増設できないようだ。|<br>|増設できるようになるまで|ベルト倉庫のカギは　取っておこう。|<end>": "<pipipi_off><speed=0>It's solid, stable... If you look closely,|you can see the mark of the depositary|engraved on it... The urn is suddenly bathed|<br>|in a dazzling light.<pc> The key to the belt depot, which was in the|possession of the two men, was sucked into|the urn! But the key to the belt vault has|<br>|been ejected from the urn! Apparently, we|can't build more belt storage right now...|We'll keep the key until we can...<end>"
+    "<pipipi_off><speed=0>|ずっしりとした　安定感のあるツボだ。|よく見ると　預かり所のマークが|刻まれている……。|<br>|ツボは　突然まばゆい光をはなち|<pc>が　持っていた|ベルト倉庫のカギを　吸い込んでいった！|<br>|しかし　ベルト倉庫のカギは|ツボから　はじき出された！|<br>|どうやら　今は|ベルト倉庫を　増設できないようだ。|<br>|増設できるようになるまで|ベルト倉庫のカギは　取っておこう。|<end>": "<pipipi_off><speed=0>It's a solid, sturdy pot. Looking closely, you|see a Depository symbol engraved on the|front...|<br>|The pot is suddenly enveloped in a dazzling|light! The Belt Storage Key(s) you were|holding were sucked into the pot!|<br>|However, the pot immediately ejected your|key(s)!|<br>|It seems that more Belt Storage cannot be|created now.|<br>|Hold onto the key(s) until you have the|chance to build more.|<end>"
   },
   "709": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've managed to get your hands on the keys|<br>|to the belt depot again. I see.<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "Welcome to the Depository. Hmm...? What's|that you're holding there?|<br>|It looks like you've managed to acquire|another Belt Storage Key. I see...|<br>|Sorry, but it looks like we don't have any|extra Belt Storage available at the moment.|<br>|We'll let you know when more becomes|available, so hang onto that key for now.<end>"
   },
   "710": {
-    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'm gonna go check in. I'm gonna... ... Hmm?|What you're holding in your hand... I see|you've managed to get your hands on the keys|<br>|to the belt depot again. I see.<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
+    "「預かり所へ　ようこそ。|　……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "Welcome to the Depository. Hmm...? What's|that you're holding there?|<br>|It looks like you've managed to acquire|another Belt Storage Key. I see...|<br>|Sorry, but it looks like we don't have any|extra Belt Storage available at the moment.|<br>|We'll let you know when more becomes|available, so hang onto that key for now.<end>"
   },
   "711": {
     "「私は　テリーさんと　行動を共にする|　さすらいの　預かり所モンスターです。|　モンスターと言えど　きっちりやります。|<br>|「……おや？|　その手に持っているのは……|<br>|「どうやら　ベルト倉庫のカギを|　また　手に入れられたのですね？|　なるほど……。|<br>|「<pc>さん　たいへん申し訳ないのですが|　現状ご利用いただける　ベルト倉庫の|　空きが　ない状態なのです。|<br>|「ベルト倉庫に　空きができましたら|　その際に　お知らせいたしますので|　そちらのカギは　そのまま　お持ちください。|<end>": "I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm not a... I... Hmm? What you're holding in|<br>|your hand... I see you've obtained the key to|the belt depot again. I see...<pc> I'm sorry, sir, but we don't currently have|any belt storage space available. We'll let|you know when there's an opening in the belt|<br>|room, and you can keep the key...<end>"
@@ -2448,10 +2448,10 @@
     "<speed=0>|預けるときは　預けたい持ち物の種類と|預け先となる倉庫を　選んでください。|<br>|取り出すときは　複数の倉庫をお持ちなら|取り出したい倉庫を　選んでください。|<br>|その後　移動させたいアイテムを選ぶと|預けたり　取り出すことができます。|<end>": "<speed=0>To drop off your items, select the type of|items you want to drop off and the warehouse|you want to drop them off at... If you have|<br>|more than one warehouse, select the one you|want to retrieve... After that, select the|items you want to move and you will be able|<br>|to deposit and retrieve them...<end>"
   },
   "817": {
-    "<speed=0>|<%sL_AZU_SOUKO_NAME>は　いっぱいです。|別の倉庫に　切り替えますか？|<yesno><break>": "<speed=0><%sL_AZU_SOUKO_NAME> is full... Do you want|to switch to a different warehouse?<yesno><break>"
+    "<speed=0>|<%sL_AZU_SOUKO_NAME>は　いっぱいです。|別の倉庫に　切り替えますか？|<yesno><break>": "<speed=0><%sL_AZU_SOUKO_NAME> is full. Do you want|to use a different storage?<yesno><break>"
   },
   "818": {
-    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially...<end>"
+    "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。|<end>": "This feature is currently restricted in your|current play environment. Upgrade to the|full game version to use it.|<end>"
   },
   "819": {
     "<speed=0>|アイテム倉庫が　リニューアルされました！|<br>|また　お使いの倉庫に|名前をつけることも　できるようになりました！|『倉庫名を変える』から　お試しください。|<bw_break>": "<speed=0>The Item Warehouse has been redesigned! You|can also now name your warehouse! Go to|\"Rename Warehouse\" to try it out...<bw_break>"
@@ -2541,7 +2541,7 @@
     "<speed=0>|私は　テリーさんと　行動を共にする|さすらいの　預かり所モンスターです。|モンスターと言えど　きっちりやります。|<br>|アイテム倉庫と　ゴールド銀行|どちらも無料で　ご利用いただけますが|本日は　どちらをご利用ですか？|<break>": "<speed=0>I'll be working with Mr. Terry, the wandering|custodial monster... I may be a monster, but|I'm still a... The Item Depository and the|<br>|Gold Bank are both free to use, but which one|would you like to use today?<break>"
   },
   "848": {
-    "<pipipi_off><speed=0>|花のようなツボが　光をたたえている……。|どういうわけか　このツボを通じて|預かり所を　利用できるらしい。|<br>|ツボは　突然まばゆい光をはなち|<pc>が持っていたベルト倉庫のカギを|<%nL_ITEM_NUM>個　吸い込んでいった！|<br>|どうやら　預かり所に|ベルト倉庫というものが　追加されたようだ。|<br>|<color_yellow>ベルト倉庫とは　ベルト装備の中でも特殊な|輝石のベルトと　戦神のベルトだけ　|入れることができる　特別な倉庫です。|<br>|このカギ１つで　ベルト倉庫の中に|１０個まで　輝石のベルトと　戦神のベルトを|預けることが　できます。|<br>|新たにベルト倉庫のカギを　入手した場合は|さらに１０個預けられるように　増設されるので|忘れずに　最寄りの預かり所へ持っていきましょう。|<br>|注意事項として　ベルト倉庫は不思議なチカラで|ベルトと　ベルトに付与されている特殊効果を|別々に保管する　仕組みになっています。|<br>|ベルトを取り出す際は|保管されているベルトと　特殊効果を|結びつけて　返却されます。|<br>|そのため　ベルト倉庫に|ベルトを預けると　アイテムの歴史が　|削除されてしまいます。|<br>|アイテムの歴史を　消したくない場合には|通常倉庫を　利用するように|注意しましょう。|<color_white><bw_break>": "<pipipi_off><speed=0>There's an acupuncture point that looks like|a flower, but it's holding a light. Somehow,|through this urn, you can access the safe|<br>|deposit box... The acupuncture point suddenly|glows with a bright light.<pc>  He took <%nL_ITEM_NUM> of the keys to the|belt depository that <%nL_ITEM_NUM> was|holding! Apparently, they've added something|<br>|called the Belt Depository to the|Depository...<color_yellow>The belt vault is a special vault that can|only hold belts of brilliance and warrior|gods. With this key, you can store up to 10|<br>|belts in the Belt Warehouse... If you get a|new key for the Belt Vault, you'll be able to|deposit 10 more belts, so don't forget to|<br>|take them to your nearest Vault. Note that|the Belt Warehouse is a magical place where|belts and their special effects are stored|<br>|separately... To retrieve a belt, you must|combine it with its special effect and return|it. So if you put a belt in the belt vault,|<br>|the item's history will be deleted. If you|don't want to erase the history of an item,|use the normal storage...<color_white><bw_break>"
+    "<pipipi_off><speed=0>|花のようなツボが　光をたたえている……。|どういうわけか　このツボを通じて|預かり所を　利用できるらしい。|<br>|ツボは　突然まばゆい光をはなち|<pc>が持っていたベルト倉庫のカギを|<%nL_ITEM_NUM>個　吸い込んでいった！|<br>|どうやら　預かり所に|ベルト倉庫というものが　追加されたようだ。|<br>|<color_yellow>ベルト倉庫とは　ベルト装備の中でも特殊な|輝石のベルトと　戦神のベルトだけ　|入れることができる　特別な倉庫です。|<br>|このカギ１つで　ベルト倉庫の中に|１０個まで　輝石のベルトと　戦神のベルトを|預けることが　できます。|<br>|新たにベルト倉庫のカギを　入手した場合は|さらに１０個預けられるように　増設されるので|忘れずに　最寄りの預かり所へ持っていきましょう。|<br>|注意事項として　ベルト倉庫は不思議なチカラで|ベルトと　ベルトに付与されている特殊効果を|別々に保管する　仕組みになっています。|<br>|ベルトを取り出す際は|保管されているベルトと　特殊効果を|結びつけて　返却されます。|<br>|そのため　ベルト倉庫に|ベルトを預けると　アイテムの歴史が　|削除されてしまいます。|<br>|アイテムの歴史を　消したくない場合には|通常倉庫を　利用するように|注意しましょう。|<color_white><bw_break>": "<pipipi_off><speed=0>It's a flower plot beaming with light...|For some reason, it can be used as a|Depository.|<br>|Suddenly, the pot shone even brighter and|sucked in the <%dL_ITEM_NUM> Belt Storage Key(s) you were|carrying!|<br>|A new storage option has appeared at the|Depository, known as the Belt Storage.|<br>|<color_yellow>With this key, you can store up to 10 belts.|If you find any additional keys, your storage|will expand by 10 for each new key.|<br>|Belt Storage uses a mysterious power to|store the belts themselves and their effects|separate from one another.|<br>|That means, when you remove a belt from Belt|Storage, its effects will be reapplied.|<br>|However, because of this, any item history the|belt had upon depositing it will be lost.|<br>|If you do not wish to lose this item history,|please consider using our normal storage|methods.|<color_white><bw_break>"
   },
   "849": {
     "<pipipi_off><speed=0>ベルト倉庫が　新たに解放され|合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと|戦神のベルトを　預けられるようになった！<me_60>|<end>": "<pipipi_off><speed=0>The belt vault has been liberated and now|holds a total of <%nL_BLTSTR_NUM> belts of|brilliance and belts of war!<me_60>|<end>"
@@ -2572,5 +2572,77 @@
   },
   "858": {
     "<pipipi_off><speed=0>|<pc>が　持っていた|<%sL_ITEM_NAME>が　ツボの中に吸い込まれた！|<br>|しかし　<%sL_ITEM_NAME>は|ツボから　はじき出された！|<br>|どうやら　いまは|ベルト倉庫を　拡張できないようだ。|<end>": "<pipipi_off><speed=0>|<pc> The <%sL_ITEM_NAME> that <%sL_ITEM_NAME> was|holding was sucked into the urn! But|<%sL_ITEM_NAME> has been ejected from the|<br>|urn! Apparently, we can't expand the belt|vault at the moment...<end>"
+  },
+  "859": {
+    "「申し訳ありません。|　その条件に　当てはまるアイテムは|　お預かりしていないようです。": ""
+  },
+  "860": {
+    "「申し訳ありません。|　その条件に　当てはまるアイテムは|　お預かりしていないようです。": ""
+  },
+  "861": {
+    "<pipipi_off><speed=0>|その条件に　当てはまるアイテムが|見つかりませんでした。": ""
+  },
+  "862": {
+    "<pipipi_off><speed=0>|その条件に　当てはまるアイテムが|見つかりませんでした。": ""
+  },
+  "863": {
+    "「申し訳ありません。|　その条件に　当てはまるアイテムは|　お預かりしていないようです。": ""
+  },
+  "864": {
+    "「申し訳ありません。|　その条件に　当てはまるアイテムは|　お預かりしていないようです。": ""
+  },
+  "865": {
+    "「条件に当てはまるアイテムが|　<%sL_MAXNUM>個を　超えているため|　一部のみ表示します。": ""
+  },
+  "866": {
+    "「条件に当てはまるアイテムが|　<%sL_MAXNUM>個を　超えているため|　一部のみ表示します。": ""
+  },
+  "867": {
+    "条件に当てはまるアイテムが|<%sL_MAXNUM>個を　超えているため|一部のみ表示します。": ""
+  },
+  "868": {
+    "条件に当てはまるアイテムが|<%sL_MAXNUM>個を　超えているため|一部のみ表示します。": ""
+  },
+  "869": {
+    "「条件に当てはまるアイテムが|　<%sL_MAXNUM>個を　超えているため|　一部のみ表示します。": ""
+  },
+  "870": {
+    "「条件に当てはまるアイテムが|　<%sL_MAXNUM>個を　超えているため|　一部のみ表示します。": ""
+  },
+  "871": {
+    "「……おや？|　既にその倉庫で　お預かりしているようです。|　他の倉庫を　選んでください。": ""
+  },
+  "872": {
+    "「……おや？|　既にその倉庫で　お預かりしているようです。|　他の倉庫を　選んでください。": ""
+  },
+  "873": {
+    "同じ倉庫には　移動できません。|他の倉庫を　選択してください。": ""
+  },
+  "874": {
+    "同じ倉庫には　移動できません。|他の倉庫を　選択してください。": ""
+  },
+  "875": {
+    "「……おや？|　既にその倉庫で　お預かりしているようです。|　他の倉庫を　選んでください。": ""
+  },
+  "876": {
+    "「……おや？|　既にその倉庫で　お預かりしているようです。|　他の倉庫を　選んでください。": ""
+  },
+  "877": {
+    "「申し訳ありませんが　その倉庫には|　これ以上　お預かりできません。|　他の倉庫を　選んでください。": ""
+  },
+  "878": {
+    "「申し訳ありませんが　その倉庫には|　これ以上　お預かりできません。|　他の倉庫を　選んでください。": ""
+  },
+  "879": {
+    "その倉庫には　これ以上　預けられません。|他の倉庫を　選んでください。": ""
+  },
+  "880": {
+    "その倉庫には　これ以上　預けられません。|他の倉庫を　選んでください。": ""
+  },
+  "881": {
+    "「申し訳ありませんが　その倉庫には|　これ以上　お預かりできません。|　他の倉庫を　選んでください。": ""
+  },
+  "882": {
+    "「申し訳ありませんが　その倉庫には|　これ以上　お預かりできません。|　他の倉庫を　選んでください。": ""
   }
 }

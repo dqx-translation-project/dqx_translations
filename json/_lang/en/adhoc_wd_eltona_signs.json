@@ -6,10 +6,10 @@
     "<left>この先　危険地帯！|<left>進む道を見失わぬよう　気をつけられよ。": "<left>Dangerous area ahead!|<left>Be careful not to lose sight of the path."
   },
   "3": {
-    "<left>←ツスクル平野|<right>世界樹の丘→": "← Tsusukul Plains|→ World Tree Hill"
+    "<left>←ツスクル平野|<right>世界樹の丘→": "← Tsusukul Plains|→ Yggdrahill"
   },
   "4": {
-    "<left>←世界樹の丘|<right>ツスクル平野→": "← World Tree Hill|→ Tsusukul Plains"
+    "<left>←世界樹の丘|<right>ツスクル平野→": "← Yggdrahill|→ Tsusukul Plains"
   },
   "5": {
     "<left>この先の一帯は　屈強な魔物の生息地なり。|<left>決して　油断することなかれ。": "<left>Area ahead is a habitat for powerful monsters.|<left>Never let your guard down."
@@ -132,16 +132,16 @@
     "<left>この先　虹鏡の湖|<left>凶悪な魔物がいるので　注意すること。": "<left>Rainbow Mirror Lake ahead.|<left>Be careful, there are vicious monsters."
   },
   "45": {
-    "<left>←呪われた大地|<center>カミハルムイ領北↓": "← Cursed Land|↓ Kamiharmui Territory North"
+    "<left>←呪われた大地|<center>カミハルムイ領北↓": "← Cursed Land|↓ Kamiharmui North"
   },
   "46": {
     "<center>現在封鎖中": "Currently Blocked"
   },
   "47": {
-    "<center>↑カミハルムイ領北|<right>呪われた大地→": "↑ Kamiharmui Territory North|→ Cursed Land"
+    "<center>↑カミハルムイ領北|<right>呪われた大地→": "↑ Kamiharmui North|→ Cursed Land"
   },
   "48": {
-    "<center>↑道なり　アズラン地方|<left>←山間の関所　カミハルムイ領南|<center>スイゼン湿原↓": "↑ Road to Azlan Region|← Mountain Pass, Kamiharmui Territory South|↓ Suizen Marsh"
+    "<center>↑道なり　アズラン地方|<left>←山間の関所　カミハルムイ領南|<center>スイゼン湿原↓": "↑ Road to Azlan Region|← Mountain Pass, Kamiharmui South|↓ Suizen Marsh"
   },
   "49": {
     "<left>西に向かうと山間の関所。|<left>南にいる魔物は　凶暴につき　注意！": "<left>To the west is the Mountain Pass.|<left>The monsters in the south are vicious, beware!"
@@ -150,16 +150,16 @@
     "<left>西に向かうと山間の関所。|<left>南にいる魔物は　凶暴につき　注意！": "<left>To the west is the Mountain Pass.|<left>The monsters in the south are vicious, beware!"
   },
   "51": {
-    "<left>この先　まわり道。|<left>カミハルムイ領南へ　向かうなら|<left>道なりに進むのが　安全です。": "Detour ahead.|If you are heading to Kamiharmui Territory|South, it's safer to follow the road."
+    "<left>この先　まわり道。|<left>カミハルムイ領南へ　向かうなら|<left>道なりに進むのが　安全です。": "Detour ahead.|If you are heading to Kamiharmui South, it's|safer to follow the road."
   },
   "52": {
-    "<center>↑カミハルムイ領南": "↑ Kamiharmui Territory South"
+    "<center>↑カミハルムイ領南": "↑ Kamiharmui South"
   },
   "53": {
     "<left>この辺りの岩には　魔除けの効果を持つ|<left>破魔のヒスイが　ふくまれています。": "The rocks around here are supposed to ward off|evil. They are filled with Devil's Jade."
   },
   "54": {
-    "<center>↑スイゼン湿原|<right>山間の関所　カミハルムイ領南→|<center>道なり　アズラン地方↓": "↑ Suizen Marsh|→ Mountain Pass, Kamiharmui Territory South|↓ Road to Azlan Region"
+    "<center>↑スイゼン湿原|<right>山間の関所　カミハルムイ領南→|<center>道なり　アズラン地方↓": "↑ Suizen Marsh|→ Mountain Pass, Kamiharmui South|↓ Road to Azlan Region"
   },
   "55": {
     "<left>北に向かうとスイゼン湿原。|<left>南にいる魔物は　凶暴につき　注意！": "<left>To the north is Suizen Marsh.|<left>The monsters in the south are vicious, beware!"
@@ -231,7 +231,7 @@
     "<center>↑この奥　ナギリ洞": "↑ Nagiri Cave ahead"
   },
   "78": {
-    "<left>←イナミノ街道|<right>道なり　カミハルムイ領北→": "← Inamino Highway|→ Road to Kamiharmui Territory North"
+    "<left>←イナミノ街道|<right>道なり　カミハルムイ領北→": "← Inamino Highway|→ Road to Kamiharmui North"
   },
   "79": {
     "<left>この先　強き魔物多し。|<left>ウデに自信のないものは|<left>この橋　渡るべからず。": "There are many strong monsters ahead.|Do not cross this bridge if you are not|confident in your skill."
@@ -258,7 +258,7 @@
     "<left>←王都カミハルムイ　北門|<right>夢幻の森→": "← Royal City Kamiharmui north gate|→ Dream Forest"
   },
   "87": {
-    "<center>↑カミハルムイ領南": "↑ Kamiharmui Territory South"
+    "<center>↑カミハルムイ領南": "↑ Kamiharmui South"
   },
   "88": {
     "<center>↑落陽の草原": "↑ Sunset Meadow"
@@ -276,7 +276,7 @@
     "<left>この先　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Dangerous area ahead!|<left>Make sure you are prepared."
   },
   "93": {
-    "<center>↑カミハルムイ領南|<left>←王都カミハルムイ　北門|<right>落陽の草原→": "↑ Kamiharmui Territory South|← Royal City Kamiharmui north gate|→ Sunset Meadow"
+    "<center>↑カミハルムイ領南|<left>←王都カミハルムイ　北門|<right>落陽の草原→": "↑ Kamiharmui South|← Royal City Kamiharmui north gate|→ Sunset Meadow"
   },
   "94": {
     "<left>←夢幻の森|<right>王都カミハルムイ　北門→|<center>落陽の草原↓": "← Dream Forest|→ Royal City Kamiharmui north gate|↓ Sunset Meadow"

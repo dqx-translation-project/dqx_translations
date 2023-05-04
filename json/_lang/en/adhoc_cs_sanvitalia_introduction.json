@@ -1,92 +1,92 @@
 {
-    "1": {
-        "<pc>は|突然　めまいに襲われた。": "<pc> suddenly felt dizzy."
-    },
-    "2": {
-        "「……だし　しばらく……も　してないなぁ。|　うーん　よしっ。次は　港のある町に　決めた！": "...Seems like I'm a little out of practice.|Hmm, alright.|Next, I'll try a town with a harbor!"
-    },
-    "3": {
-        "「って　なんだ　えっ！？": "What the?!"
-    },
-    "4": {
-        "<shake_big>「あいたっ！！": "<shake_big>Yeouch!!"
-    },
-    "5": {
-        "「あたたた……。すまない。 |　考え事をしながら　飛んではいけないね。|　君は　大丈夫かい？": "Owwww... Sorry.|Guess I shouldn't be flying when my head's in|the clouds, huh? Are you alright?"
-    },
-    "6": {
-        "「それはよかった。私は　サンビタリア。 |　見ての通りの　妖精さ。|　しかーも！　熟練の冒険者でもあるんだぜ！": "Glad you're okay. I'm Sanvitalia.|I'm a fairy, as you can plainly see.|But I'm also...a seasoned adventurer!"
-    },
-    "7": {
-        "「へ？　妖精が　なんでこんなところにって？ |　というか　君こそ　ここがどこだか|　わかって言っているのかい？": "Huh?|\"What's a fairy doing in a place like this?\"|Don't you even know where you are?"
-    },
-    "8": {
-        "「ここは　夢と現実の境界さ。|　元来　ここに　意識ある<pc_race>が|　いることの方が　おかしいんだよ。": "This is the boundary between dreams and|reality. Naturally, it's quite strange for a|conscious <pc_race> to be here."
-    },
-    "9": {
-        "「私は　たまに　思考を巡らせるために|　この空間を利用するんだ。今日は何をしようか|　ランチは　何を食べようか　とかね！": "Sometimes I use this space to think.|What'll I do today, what should I have for|lunch, that sort of thing!"
-    },
-    "10": {
-        "「……ふむ。どうやら　冒険者のようだが…… |　なかなか　興味深いね。|　君　名前は　なんて言うんだい？": "...Hmm.|Seems you're an adventurer as well.|That's interesting. What's your name?"
-    },
-    "11": {
-        "<if_woman>「なるほど……|　<pc>ちゃんというのか。 <else>「なるほど……|　<pc>くんというのか。 <endif>": "<if_woman>I see...Ms. <pc>, is it?<else>I see...Mr. <pc>, is it?<endif>"
-    },
-    "12": {
-        "<if_woman>「よし！　<pc>ちゃん |　ここで会ったのも　妖精の女王さまの　お導き！|　ともに　私の使命を果たしてほしいんだ！<else>「よし！　<pc>くん |　ここで会ったのも　妖精の女王さまの　お導き！|　ともに　私の使命を果たしてほしいんだ！<endif>": "<if_woman>Right then! Ms. <pc>, the Fairy|Queen guided us here together for a reason!|Please help me fulfill my mission!<else>Right then! Mr. <pc>, the Fairy|Queen guided us here together for a reason!|Please help me fulfill my mission!<endif>"
-    },
-    "13": {
-        "「私は　みんなをハッピーにするべく |　各地を冒険して　そこに住まう人たちや|　冒険者に　つながりを生むことを促してきた。": "I'm traveling the world to make everyone happy|by inspiring adventurers and the locals to get|to know each other."
-    },
-    "14": {
-        "「人と人とのふれあいこそが　ハッピー！ |　会話をして　笑ったり　助け合ったり|　つながりを生むことが　ハッピーを生むんだ！": "The connections between people are what make|us happy! Having conversations, laughing|together, helping one another, and forming|<br>|bonds are the sources of everyone's happiness!"
-    },
-    "15": {
-        "「……つまりだ。君には|　私が選んだ　アストルティアにいる住人たちを|　見つけだして　話しかけてほしいのさ！": "...In short, I want you to find and talk to|the inhabitants of Astoltia that I've chosen!"
-    },
-    "16": {
-        "「そのためには　準備が必要だね……。": "And for that, you need to be prepared,|right...?"
-    },
-    "17": {
-        "「ふっふーん。えーい！": "Heheheh. Sha-BAM!"
-    },
-    "18": {
-        "<if_woman>「君には　黄色い魔法……出会いの魔法をかけた。 |　これで　<pc>ちゃんには|　私が選んだ人の名前が　黄色に見えるはずさ！<else>「君には　黄色い魔法……出会いの魔法をかけた。 |　これで　<pc>くんには|　私が選んだ人の名前が　黄色に見えるはずさ！<endif>": "I cast a Spell of Yellow Meetings on you.|Now you'll see the names of people I've chosen|in yellow!"
-    },
-    "19": {
-        "「これで　あとは　黄色い名前の人を|　見つけて　話しかけるだけ！|　どうだい　簡単だろう？": "Now all you have to do is find people with|yellow names and talk to them!|How easy is that?"
-    },
-    "20": {
-        "「手伝ってもらうんだ。何かお礼をしないとな。|　……そうだね。ひとりに　話しかけるたびに|　ちいさなメダルを　１枚あげよう。": "Since you're helping me, I should give you|something in return.|...Right then, how about this?|<br>|I'll give you a Mini Medal every time you|speak with someone I've chosen."
-    },
-    "21": {
-        "「さらに　話した人数に応じて|　追加でご褒美だって　あげちゃうぞ！|　どうだい　うれしいかい？<yesno><close>": "Plus, I'll even throw in extra prizes based on|the total number of people you've talked to!|Doesn't that sound great?<yesno><close>"
-    },
-    "22": {
-        "「君は　じつに　素直でいいね。|　ますます　気に入ったよ。|　そうだ　これも渡しておこうかな。": "You're a really agreeable person, aren't you?|I'm liking you more by the second. Oh yeah, I|should give you this, too."
-    },
-    "23": {
-        "「まぁまぁ　そう言わずに。楽しくいこうぜ。|　そうだ　これも渡しておかないとな。": "Come on now, don't say that. It'll be fun.|Oh yeah, I should give you this, too."
-    },
-    "24": {
-        "<pc>は|イエローダイアリー（だいじなもの）を|手に入れた！<me 60>": "<pc>|received the Yellow Diary (Key Item)!<me 60>"
-    },
-    "25": {
-        "「かわいいだろう。私のと　おそろいだぞ！|　しかも　この２冊は　書いたものが|　リンクされちゃう　ふしぎ機能付きなのさ！": "Cute, yeah? And it even matches mine!|<br>|What's more, these two books have an amazing|feature that links what's written in them with|each other!"
-    },
-    "26": {
-        "<if_woman>「私がこっちに　アストルティアの住人を|　書くと　<pc>ちゃんに|　渡した方にも　記載されるんだ。　<else>「私がこっちに　アストルティアの住人を|　書くと　<pc>くんに|　渡した方にも　記載されるんだ。　<endif>": "If I write the names of the people of Astoltia|in here, they'll also be listed in the one I|gave you."
-    },
-    "27": {
-        "「私が選んだ　住人の名前を記入しておくので|　どうぐの　だいじなものから|　確認してみてくれ。": "I'll fill in the names of the people I've|chosen, so you can check them out anytime|from your Key Items."
-    },
-    "28": {
-        "「私は　当面　港町レンドアの船着き場にいる。|　気が向いたら　会いにくるといい。|　それじゃあ　またね。": "I'll be at the dock in the port town of Lendor|for the time being, so come see me if you feel|like it. Be seeing ya!"
-    },
-    "29": {
-        "「私は　当面　この町の船着き場にいる。|　気が向いたら　会いにくるといい。|　それじゃあ　またね。": "I'll be at the dock here in town for the time|being, so come see me if you feel like it.|Be seeing ya!"
-    },
-    "30": {
-        "<color_yellow>サンビタリアが　かけた魔法で|特定の人たちの名前が　黄色になりました。|彼らを見つけ出して　話しかけてみましょう。": "<color_yellow>Sanvitalia has cast a spell on you that makes|certain people's names yellow. Try to find|them and talk to them."
-    }
+  "1": {
+    "<pc>は|突然　めまいに襲われた。": "<pc> suddenly felt dizzy."
+  },
+  "2": {
+    "「……だし　しばらく……も　してないなぁ。|　うーん　よしっ。次は　港のある町に　決めた！": "...Seems like I'm a little out of practice.|Hmm, alright.|Next, I'll try a town with a harbor!"
+  },
+  "3": {
+    "「って　なんだ　えっ！？": "What the?!"
+  },
+  "4": {
+    "<shake_big>「あいたっ！！": "<shake_big>Yeouch!!"
+  },
+  "5": {
+    "「あたたた……。すまない。 |　考え事をしながら　飛んではいけないね。|　君は　大丈夫かい？": "Owwww... Sorry.|Guess I shouldn't be flying when my head's in|the clouds, huh? Are you alright?"
+  },
+  "6": {
+    "「それはよかった。私は　サンビタリア。 |　見ての通りの　妖精さ。|　しかーも！　熟練の冒険者でもあるんだぜ！": "Glad you're okay. I'm Sanvitalia.|I'm a fairy, as you can plainly see.|But I'm also...a seasoned adventurer!"
+  },
+  "7": {
+    "「へ？　妖精が　なんでこんなところにって？ |　というか　君こそ　ここがどこだか|　わかって言っているのかい？": "Huh?|\"What's a fairy doing in a place like this?\"|Don't you even know where you are?"
+  },
+  "8": {
+    "「ここは　夢と現実の境界さ。|　元来　ここに　意識ある<pc_race>が|　いることの方が　おかしいんだよ。": "This is the boundary between dreams and|reality. Naturally, it's quite strange for a|conscious <pc_race> to be here."
+  },
+  "9": {
+    "「私は　たまに　思考を巡らせるために|　この空間を利用するんだ。今日は何をしようか|　ランチは　何を食べようか　とかね！": "Sometimes I use this space to think.|What'll I do today, what should I have for|lunch, that sort of thing!"
+  },
+  "10": {
+    "「……ふむ。どうやら　冒険者のようだが…… |　なかなか　興味深いね。|　君　名前は　なんて言うんだい？": "...Hmm.|Seems you're an adventurer as well.|That's interesting. What's your name?"
+  },
+  "11": {
+    "<if_woman>「なるほど……|　<pc>ちゃんというのか。 <else>「なるほど……|　<pc>くんというのか。 <endif>": "<if_woman>I see...Ms. <pc>, is it?<else>I see...Mr. <pc>, is it?<endif>"
+  },
+  "12": {
+    "<if_woman>「よし！　<pc>ちゃん |　ここで会ったのも　妖精の女王さまの　お導き！|　ともに　私の使命を果たしてほしいんだ！<else>「よし！　<pc>くん |　ここで会ったのも　妖精の女王さまの　お導き！|　ともに　私の使命を果たしてほしいんだ！<endif>": "<if_woman>Right then! Ms. <pc>, the Fairy|Queen guided us here together for a reason!|Please help me fulfill my mission!<else>Right then! Mr. <pc>, the Fairy|Queen guided us here together for a reason!|Please help me fulfill my mission!<endif>"
+  },
+  "13": {
+    "「私は　みんなをハッピーにするべく |　各地を冒険して　そこに住まう人たちや|　冒険者に　つながりを生むことを促してきた。": "I'm traveling the world to make everyone happy|by inspiring adventurers and the locals to get|to know each other."
+  },
+  "14": {
+    "「人と人とのふれあいこそが　ハッピー！ |　会話をして　笑ったり　助け合ったり|　つながりを生むことが　ハッピーを生むんだ！": "The connections between people are what make|us happy! Having conversations, laughing|together, helping one another, and forming|<br>|bonds are the sources of everyone's happiness!"
+  },
+  "15": {
+    "「……つまりだ。君には|　私が選んだ　アストルティアにいる住人たちを|　見つけだして　話しかけてほしいのさ！": "...In short, I want you to find and talk to|the inhabitants of Astoltia that I've chosen!"
+  },
+  "16": {
+    "「そのためには　準備が必要だね……。": "And for that, you need to be prepared,|right...?"
+  },
+  "17": {
+    "「ふっふーん。えーい！": "Heheheh. Sha-BAM!"
+  },
+  "18": {
+    "<if_woman>「君には　黄色い魔法……出会いの魔法をかけた。 |　これで　<pc>ちゃんには|　私が選んだ人の名前が　黄色に見えるはずさ！<else>「君には　黄色い魔法……出会いの魔法をかけた。 |　これで　<pc>くんには|　私が選んだ人の名前が　黄色に見えるはずさ！<endif>": "I cast a Spell of Yellow Meetings on you.|Now you'll see the names of people I've chosen|in yellow!"
+  },
+  "19": {
+    "「これで　あとは　黄色い名前の人を|　見つけて　話しかけるだけ！|　どうだい　簡単だろう？": "Now all you have to do is find people with|yellow names and talk to them!|How easy is that?"
+  },
+  "20": {
+    "「手伝ってもらうんだ。何かお礼をしないとな。|　……そうだね。ひとりに　話しかけるたびに|　ちいさなメダルを　１枚あげよう。": "Since you're helping me, I should give you|something in return.|...Right then, how about this?|<br>|I'll give you a Mini Medal every time you|speak with someone I've chosen."
+  },
+  "21": {
+    "「さらに　話した人数に応じて|　追加でご褒美だって　あげちゃうぞ！|　どうだい　うれしいかい？<yesno><close>": "Plus, I'll even throw in extra prizes based on|the total number of people you've talked to!|Doesn't that sound great?<yesno><close>"
+  },
+  "22": {
+    "「君は　じつに　素直でいいね。|　ますます　気に入ったよ。|　そうだ　これも渡しておこうかな。": "You're a really agreeable person, aren't you?|I'm liking you more by the second. Oh yeah, I|should give you this, too."
+  },
+  "23": {
+    "「まぁまぁ　そう言わずに。楽しくいこうぜ。|　そうだ　これも渡しておかないとな。": "Come on now, don't say that. It'll be fun.|Oh yeah, I should give you this, too."
+  },
+  "24": {
+    "<pc>は|イエローダイアリー（だいじなもの）を|手に入れた！<me 60>": "<pc> received|the Yellow Diary (Key Item)!<me 60>"
+  },
+  "25": {
+    "「かわいいだろう。私のと　おそろいだぞ！|　しかも　この２冊は　書いたものが|　リンクされちゃう　ふしぎ機能付きなのさ！": "Cute, yeah? And it even matches mine!|<br>|What's more, these two books have an amazing|feature that links what's written in them with|each other!"
+  },
+  "26": {
+    "<if_woman>「私がこっちに　アストルティアの住人を|　書くと　<pc>ちゃんに|　渡した方にも　記載されるんだ。　<else>「私がこっちに　アストルティアの住人を|　書くと　<pc>くんに|　渡した方にも　記載されるんだ。　<endif>": "If I write the names of the people of Astoltia|in here, they'll also be listed in the one I|gave you."
+  },
+  "27": {
+    "「私が選んだ　住人の名前を記入しておくので|　どうぐの　だいじなものから|　確認してみてくれ。": "I'll fill in the names of the people I've|chosen, so you can check them out anytime|from your Key Items."
+  },
+  "28": {
+    "「私は　当面　港町レンドアの船着き場にいる。|　気が向いたら　会いにくるといい。|　それじゃあ　またね。": "I'll be at the dock in the port town of Lendor|for the time being, so come see me if you feel|like it. Be seeing ya!"
+  },
+  "29": {
+    "「私は　当面　この町の船着き場にいる。|　気が向いたら　会いにくるといい。|　それじゃあ　またね。": "I'll be at the dock here in town for the time|being, so come see me if you feel like it.|Be seeing ya!"
+  },
+  "30": {
+    "<color_yellow>サンビタリアが　かけた魔法で|特定の人たちの名前が　黄色になりました。|彼らを見つけ出して　話しかけてみましょう。": "<color_yellow>Sanvitalia has cast a spell on you that makes|certain people's names yellow. Try to find|them and talk to them."
+  }
 }

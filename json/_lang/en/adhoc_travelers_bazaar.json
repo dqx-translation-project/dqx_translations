@@ -153,7 +153,7 @@
     "「おっと　<%sL_STORAGE>が　いっぱいで|　持ちきれないよ。|<bw_break>": "Oops, there's too many <%sL_STORAGE>s to|hold...<bw_break>"
   },
   "52": {
-    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and won't|come off!<bw_break>"
+    "「うわっ！　<%sL_NOROI_ITEM>は|　呪われていて　はずれないよ！|<bw_break>": "Whoa! <%sL_NOROI_ITEM> is cursed and|won't come off!|<bw_break>"
   },
   "53": {
     "「あれっ？　お客さん|　出品できる物を　なんにも|　持ってない　みたいだね。|<bw_break>": "What? It looks like the customer doesn't have|anything to show.<bw_break>"
@@ -177,7 +177,7 @@
     "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
   },
   "60": {
-    "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
+    "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "I'll put this into your equipment bag.<bw_break>"
   },
   "61": {
     "「やめるんだね。|　他に　ほしい物は　あるかい？|<bw_break>": "I don't want... Is there anything else you|want?<bw_break>"
@@ -264,7 +264,7 @@
     "「おや？　<%sL_STORAGE>は|　空っぽのようですね。|<bw_break>": "Hmm? <%sL_STORAGE> seems to be empty...<bw_break>"
   },
   "89": {
-    "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you very much! |Please come again!|<turn_end>"
+    "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you very much!|Please come again!|<turn_end>"
   },
   "90": {
     "「いらっしゃいませ。|　こちらは　旅人バザーです。|　今日は　どうしますか？|<break>": "Welcome.|This is the Traveler's Bazaar.|What would you like to do today?|<break>"
@@ -273,13 +273,13 @@
     "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
   },
   "92": {
-    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll just put it in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "93": {
     "「やめるのですね。|　他に　ほしい物は　ありますか？|<bw_break>": "You don't want it? Is there anything else|you'd like?<bw_break>"
   },
   "94": {
-    "「やめるのですね。|　では　他の物を出品しますか？|<break>": "You want to stop?|Then, is there anything else you want to sell?|<break>"
+    "「やめるのですね。|　では　他の物を出品しますか？|<break>": "Changed your mind, then?|Is there anything else you want to sell?|<break>"
   },
   "95": {
     "「<pc>さんは　あと<%nL_SYUPPIN>品|　出品できます。|　何を　出品しますか？|<break>": "You can list <%dL_SYUPPIN> more items for|sale. What do you want to list?|<break>"
@@ -300,7 +300,7 @@
     "「こちらは　<%sL_URINUSI>さまが　出品された|　<%sL_KAITAI_ITEM>　おひとつですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is one of the <%sL_KAITAI_ITEM> sold by|<%sL_URINUSI>... <%'dL_BUY_PRICE> Would you|like to buy it for gold?<yesno><break>"
   },
   "101": {
-    "「こちらは　<%sL_URINUSI>さまが　出品された|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "<speed=0>This is <%sL_URINUSI>'s <%dL_KAUKAZU> <%sL_KAITAI_ITEM>|listing. Would you like to purchase it for|<%'dL_BUY_PRICE> gold?|<yesno><break>"
+    "「こちらは　<%sL_URINUSI>さまが　出品された|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is <%sL_URINUSI>'s <%dL_KAUKAZU> <%sL_KAITAI_ITEM>|listing. Would you like to purchase it for|<%'dL_BUY_PRICE> Gold?|<yesno><break>"
   },
   "102": {
     "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね。|　こちらは　<%sL_GENDER>性でなければ|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>... This item|must be of <%sL_GENDER> nature to be|equipped, is that correct?<yesno><break>"
@@ -348,7 +348,7 @@
     "「なっ　なんということでしょうか！|　<%sL_NOROI_ITEM>は　呪いのせいで|　はずれないじゃありませんか！|<bw_break>": "W-what's this now? <%sL_NOROI_ITEM>|can't be removed because it's cursed!|<bw_break>"
   },
   "117": {
-    "「お客さま　申し訳ありませんが|　出品いただけそうな物を|　何も　お持ちでないようですね。|<bw_break>": "I'm sorry <if_woman>ma'am<else>sir<endif>, but it seems like you don't|have anything that I can put up for sale.<bw_break>"
+    "「お客さま　申し訳ありませんが|　出品いただけそうな物を|　何も　お持ちでないようですね。|<bw_break>": "I'm sorry <if_woman>ma'am<else>sir<endif>, but it seems that you don't|have anything that I can put up for sale.<bw_break>"
   },
   "118": {
     "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
@@ -504,19 +504,19 @@
     "「おや　そちらの種類の商品は|　出品が　ないようですね。|　他の種類を　お選びください。|<break>": "Oh, I'm afraid we don't have any of that type|of product on display. Please select another|type...<break>"
   },
   "169": {
-    "「今　お客さんが出品している物は|　こちらになります。|　取りやめたい物は　ありますか？|<break>": "The item you're selling is right here... Do|you have anything you'd like to withdraw?<break>"
+    "「今　お客さんが出品している物は|　こちらになります。|　取りやめたい物は　ありますか？|<break>": "Here are the items you are currently listing.|Is there anything you wish to withdraw?|<break>"
   },
   "170": {
-    "「では　引き続き|　旅人バザーに　並べておきますね。|<br>|「他に　出品を取りやめたい物は|　ありますか？|<break>": "I'll continue to display them in the|traveller's bazaar. Is there anything else|you would like to withdraw from the sale?<break>"
+    "「では　引き続き|　旅人バザーに　並べておきますね。|<br>|「他に　出品を取りやめたい物は|　ありますか？|<break>": "In that case, I'll keep it listed for you.|Is there anything else you'd like to withdraw?|<break>"
   },
   "171": {
-    "「<%sL_TORIYAME_ITEM><%sL_PLUSNUM>の出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "I'm canceling my listing for|<%sL_TORIYAME_ITEM><%sL_PLUSNUM>... I'm|afraid I can't refund you the listing fee, is|<br>|that okay?<yesno><break>"
+    "「<%sL_TORIYAME_ITEM><%sL_PLUSNUM>の出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "You'd like to cancel your listing for the|<%sL_TORIYAME_ITEM><%sL_PLUSNUM>? I can't refund|the listing fee. Is that all right?|<yesno><break>"
   },
   "172": {
-    "「<%sL_TORIYAME_ITEM>　ひとつの出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "<%sL_TORIYAME_ITEM> I'm canceling one of my|items... I'm afraid I can't give you your|money back, can I?<yesno><break>"
+    "「<%sL_TORIYAME_ITEM>　ひとつの出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "You'd like to cancel your listing for the|<%sL_TORIYAME_ITEM>? I can't refund the|listing fee. Is that all right?|<yesno><break>"
   },
   "173": {
-    "「<%sL_TORIYAME_ITEM>　<%nL_URUKAZU>個の出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "I would like to cancel the listing of|<%sL_TORIYAME_ITEM> <%dL_URUKAZU>... I'm|afraid I can't refund you the listing fee.<yesno><break>"
+    "「<%sL_TORIYAME_ITEM>　<%nL_URUKAZU>個の出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "You'd like to cancel your listing for the|<%dL_URUKAZU> <%sL_TORIYAME_ITEM>? I can't refund|the listing fee. Is that all right?|<yesno><break>"
   },
   "174": {
     "「では　<%sL_URITAI_ITEM><%sL_PLUSNUM>を|　いくらで　出品しますか？|<break>": "So how much do you want to sell|<%sL_URITAI_ITEM><%sL_PLUSNUM> for?<break>"
@@ -549,7 +549,7 @@
     "「……おっと。どうやら|　うまく　出品できなかったようです。|<br>|「申し訳ありませんが　少し時間を置いてから|　また　試してもらえますか。|<bw_break>": "...... Apparently, the listing didn't go|through... I'm sorry, but if you could just|give it some time and try again...<bw_break>"
   },
   "184": {
-    "「おや　すみません。お客さんが|　出品できるのは　<%nL_SYUPPIN_MAX>品まで。|　売れた後に　また出品をお願いします。|<bw_break>": "Oh, sorry... You can only sell one item at a|time... After the sale, you'll be asked to|list it again...<bw_break>"
+    "「おや　すみません。お客さんが|　出品できるのは　<%nL_SYUPPIN_MAX>品まで。|　売れた後に　また出品をお願いします。|<bw_break>": "Ah, sorry, but you can only list up to <%dL_SYUPPIN_MAX> items|at once. Please try again after your current|listings sell.|<bw_break>"
   },
   "185": {
     "「あっ　そういえば　お客さんの郵便箱に|　旅人バザーから送った物が|　いっぱい　たまってるって　聞いてますよ。|<br>|「出品するなら　旅人バザーから|　郵便箱に送った物を　いくつか|　受け取ってから　お願いします。|<bw_break>": "Oh, by the way, I heard that your mailbox is|full of items that you sent from the|Traveler's Bazaar. If you're going to|<br>|exhibit, you'll need to receive some of the|items from the Traveler's Bazaar in your|mailbox.<bw_break>"
@@ -660,7 +660,7 @@
     "「では　単価の安い物から|　１００品単位で　リストをご覧ください。|<bw_break>": "<speed=0>Please look at this list in units of 100,|starting from the lowest price.|<bw_break>"
   },
   "221": {
-    "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno><break>": "Whoa, this is my first time outfitting... If|so, there's one important thing to|remember... A piece of equipment is only as|<br>|good as the first person to use it. And it's|considered a piece of equipment... So once a|piece of equipment has been assigned to a|<br>|user, it can't be given to anyone else. Would|you still want to wear it here?<yesno><break>"
+    "「おっと　はじめて　装備をするようだな。|　だとしたら　ひとつ大事な注意があるぜ。|<br>|「装備品ってのは　最初に装備した人が|　その使用者に　決まるんだ。|　専用の装備品と　認められる感じだな。|<br>|「だから　一度　使用者が決まった装備品は|　以後ずっと　他の人に　渡せなくなるぜ。|　それでも　ここで装備していくかい？|<yesno><break>": "Oh, looks like this is your first time|equipping something. In that case, there's one|important thing you should remember.|<br>|The first person to equip something will be|its exclusive owner. In other words, it can't|be given to or used by anyone else.|<br>|Do you still want to equip it here?|<yesno><break>"
   },
   "222": {
     "「おや？　はじめて　装備をするみたいだね。|　だったら　大事な注意があるよ。|<br>|「装備品は　最初に装備した人が|　その使用者に　決められるんだ。|　専用の物と　認められる感じかな。|<br>|「だから　一度　使用者が決まった装備品は|　もう　他の人に　渡せなくなるんだ。|　それでも　ここで装備していいかい？|<yesno><break>": "Hmm? This is your first time outfitting... If|this is the case, there's an important thing|to remember... A piece of equipment is|<br>|assigned to its user by the first person to|equip it... That's how it works. So once a|piece of equipment has been assigned to a|<br>|user, it can't be given to anyone else. Can I|still wear it here?<yesno><break>"
@@ -744,7 +744,7 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それと同じ物が|　いくらで出品されているか　見るかね？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM... Do you want|to see how much that same item is listed for?<yesno><break>"
   },
   "249": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それは　手に入りづらい　貴重な物だが|　本当にいいんだな？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM... That's a|hard-to-find, valuable item, but you're sure|it's the right one?<yesno><break>"
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それは　手に入りづらい　貴重な物だが|　本当にいいんだな？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>? That item is|pretty valuable. You sure you want to sell it?|<yesno><break>"
   },
   "250": {
     "「<%sL_URITAI_ITEM>を　ひとつだな。|　それは　もう　手に入らないかもしれないが　|　本当にいいんだな？|<yesno><break>": "<%sL_URITAI_ITEM>... That may not be|available anymore, but you're sure about|that?<yesno><break>"
@@ -765,7 +765,7 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だね。|　それと同じ物が|　いくらで出品されているか　見るかい？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM... Do you want|to see how much that same item is listed for?<yesno><break>"
   },
   "256": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だね。|　それは　手に入りづらい　貴重な物だけど|　本当にいいのかい？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM... That's a|hard-to-find, valuable item, but are you sure|about that?<yesno><break>"
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だね。|　それは　手に入りづらい　貴重な物だけど|　本当にいいのかい？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>? That item is|pretty rare and not easy to get. Are you sure?<yesno><break>"
   },
   "257": {
     "「<%sL_URITAI_ITEM>を　ひとつだね。|　それは　もう　手に入らないかもしれないけど　|　本当にいいのかい？|<yesno><break>": "<%sL_URITAI_ITEM> a person... I may not be|able to get that anymore, but are you sure|you want to?<yesno><break>"
@@ -786,7 +786,7 @@
     "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それと同じ物が　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... Would you|like to see how much that same item is listed|for?<yesno><break>"
   },
   "263": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいですか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... That's a|hard-to-find, valuable item. Are you sure you|want to do this?<yesno><break>"
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいですか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>, right? That item|is pretty valuable. Are you really sure?|<yesno><break>"
   },
   "264": {
     "「<%sL_URITAI_ITEM>を　ひとつですね。|　それはもう　手に入らないかもしれませんが　|　本当に　よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM>... I'm afraid that's no|longer available. Are you sure?<yesno><break>"
@@ -816,10 +816,10 @@
     "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですか。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいのですか？|<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>? Those|are pretty valuable and not easy to find. Are|you really sure?|<yesno><break>"
   },
   "273": {
-    "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>. Is that okay?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno><break>": "You've already learned this recipe. Is that|all right?|<yesno><break>"
   },
   "274": {
-    "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>.|Is that okay?|<yesno><break>"
+    "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM>? This recipe requires|you to be <%sL_SYOKUNIN> to learn it.|Is that all right?|<yesno><break>"
   },
   "275": {
     "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えているようだけど　いいのかい？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>. Is that okay?|<yesno><break>"
@@ -906,7 +906,7 @@
     "「どうもありがとう！|　じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Thank you very much. Now, let's put him in|the sash bag...<bw_break>"
   },
   "303": {
-    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you very much. I'll put it in your sash|bag...<bw_break>"
+    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Thank you very much!|I'll put it in your equipment bag.|<bw_break>"
   },
   "304": {
     "「お買い上げ　ありがとうございます。|　それでは　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Thank you for your purchase... Now, let's put|it in the bag...<bw_break>"
@@ -936,16 +936,16 @@
     "「……あら？　<pc>さまの　知り合いを|　一部しか　探せなかったようです。|<break>": "... What?<pc> I've only been able to track down a few of|your acquaintances...<break>"
   },
   "313": {
-    "「まいどありぃ！|　ここで　レシピを覚えていくかね？|<yesno 2><break>": "Hey, there! Do you want to learn the recipe|here?<yesno 2><break>"
+    "「まいどありぃ！|　ここで　レシピを覚えていくかね？|<yesno 2><break>": "Many thanks! Would you like to learn the|recipe right now?|<yesno 2><break>"
   },
   "314": {
-    "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えてるようだが　いいのかね？|<yesno><break>": "I see you've already memorized the|<%sL_KAITAI_ITEM> gesture. Is that okay?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えてるようだが　いいのかね？|<yesno><break>": "You already know that emote. Are you sure?|<yesno><break>"
   },
   "315": {
     "「どうもありがとう！|　すぐに　レシピを覚えていくかい？|<yesno 2><break>": "Thank you so much! Do you want to learn the|recipe right away?<yesno 2><break>"
   },
   "316": {
-    "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えているようだけど　いいのかい？|<yesno><break>": "You've already memorized the|<%sL_KAITAI_ITEM> gesture, is that okay?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えているようだけど　いいのかい？|<yesno><break>": "You already know that emote. Are you sure?|<yesno><break>"
   },
   "317": {
     "「ありがとうございます！|　ここで　レシピを覚えていきますか？|<yesno 2><break>": "Thank you! Do you want to learn the recipe|here?<yesno 2><break>"
@@ -1068,16 +1068,16 @@
     "「あら　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さまが　ロックされた物のようですね。|　ロックを外してから　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, it seems your <%sL_URITAI_ITEM><%sL_PLUSNUM>|is currently locked. Please unlock it before|trying to put it up for sale.|<br>|Is there anything else you'd like to sell?|<break>"
   },
   "357": {
-    "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno><break>": "I see you've already read <%sL_KAITAI_ITEM>,|is that okay?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno><break>"
   },
   "358": {
-    "「<%sL_KAITAI_ITEM>は|　もう読んだことがあるようだけど　いいのかい？|<yesno><break>": "I see you've already read <%sL_KAITAI_ITEM>,|is that ok?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　もう読んだことがあるようだけど　いいのかい？|<yesno><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno><break>"
   },
   "359": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "I see you've already read <%sL_KAITAI_ITEM>,|if that's all right.<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno><break>"
   },
   "360": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "I see you've already read <%sL_KAITAI_ITEM>,|if that's all right.<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno><break>"
   },
   "361": {
     "「おや　その　<%sL_URITAI_ITEM>は|　すでに使われたことが　あるじゃないか。|　料理は　新品じゃないと出品できないぜ。|<br>|「他に　出品したい物は　あるかね？|<break>": "Well, that <%sL_URITAI_ITEM> has already been|used... You can't sell food unless it's new.|Do you have any other items you'd like to|<br>|sell?<break>"
@@ -1245,7 +1245,7 @@
     "こちらは　<%sL_URINUSI>さまが　出品された|<%sL_KAITAI_ITEM>　おひとつですね。|<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is one of the <%sL_KAITAI_ITEM> sold by|<%sL_URINUSI>... <%'dL_BUY_PRICE> Would you|like to buy it for gold?<yesno><break>"
   },
   "416": {
-    "こちらは　<%sL_URINUSI>さまが　出品された|<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "<speed=0>This is <%sL_URINUSI>'s <%dL_KAUKAZU> <%sL_KAITAI_ITEM>|listing. Would you like to purchase it for|<%'dL_BUY_PRICE> gold?|<yesno><break>"
+    "こちらは　<%sL_URINUSI>さまが　出品された|<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is <%sL_URINUSI>'s <%dL_KAUKAZU> <%sL_KAITAI_ITEM>|listing. Would you like to purchase it for|<%'dL_BUY_PRICE> Gold?|<yesno><break>"
   },
   "417": {
     "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね。|　こちらは　<%sL_GENDER>性でなければ|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>... This item|must be of <%sL_GENDER> nature to be|equipped, is that correct?<yesno><break>"
@@ -1422,7 +1422,7 @@
     "……その商品は　タッチの差で|他の人に　売れてしまったようです。|こういうこともございます。申し訳ありません。|<bw_break>": "... That item was sold to someone else by the|skin of its teeth. It happens. I'm sorry...<bw_break>"
   },
   "475": {
-    "「お客さま　申し訳ありませんが|　出品いただけそうな物を|　何も　お持ちでないようですね。|<bw_break>": "I'm sorry <if_woman>ma'am<else>sir<endif>, but it seems like you don't|have anything that I can put up for sale.<bw_break>"
+    "「お客さま　申し訳ありませんが|　出品いただけそうな物を|　何も　お持ちでないようですね。|<bw_break>": "I'm sorry <if_woman>ma'am<else>sir<endif>, but it seems that you don't|have anything that I can put up for sale.<bw_break>"
   },
   "476": {
     "その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.<bw_break>"
@@ -1491,7 +1491,7 @@
     "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": "You seem to have already memorized the|<%sL_KAITAI_ITEM> gesture, is that correct?<yesno><break>"
   },
   "498": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "I see you've already read <%sL_KAITAI_ITEM>,|if that's all right.<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno><break>"
   },
   "499": {
     "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
@@ -1533,28 +1533,28 @@
     "「他に　出品を取りやめたい物は|　あるか？|<break>": "Is there anything else you'd like to pull|from the show?<break>"
   },
   "512": {
-    "「他に　出品を取りやめたい物は|　ございますか？|<break>": "Are there any other items you'd like to|withdraw from the show?<break>"
+    "「他に　出品を取りやめたい物は|　ございますか？|<break>": "Are there any other items you'd like to|withdraw?<break>"
   },
   "513": {
-    "「他に　出品を取りやめたい物は|　あるかい？|<break>": "Is there anything else you'd like to pull|from the show?<break>"
+    "「他に　出品を取りやめたい物は|　あるかい？|<break>": "Is there anything else you'd like to pull|from your listings?<break>"
   },
   "514": {
-    "「他に　出品を取りやめたい物は|　ありますか？|<break>": "Is there anything else you'd like to withdraw|from the show?<break>"
+    "「他に　出品を取りやめたい物は|　ありますか？|<break>": "Is there anything else you'd like to withdraw?|<break>"
   },
   "515": {
-    "「他に　出品を取りやめたい物は|　ございますか？|<break>": "Are there any other items you'd like to|withdraw from the show?<break>"
+    "「他に　出品を取りやめたい物は|　ございますか？|<break>": "Are there any other items you'd like to|withdraw?<break>"
   },
   "516": {
-    "「おっと！　このアイテムは　購入できない|　みたいだな。|<bw_break>": "Whoa! I'm afraid this item is unavailable for|purchase.<bw_break>"
+    "「おっと！　このアイテムは　購入できない|　みたいだな。|<bw_break>": "Oops! I'm afraid you can't buy this item.|<bw_break>"
   },
   "517": {
-    "「おっと！　おしゃレシピに装備品が|　記録されていないみたいだな。|<bw_break>": "Oops! I don't think there's any equipment|recorded in the fancy recipes...<bw_break>"
+    "「おっと！　おしゃレシピに装備品が|　記録されていないみたいだな。|<bw_break>": "Oops! Doesn't look like you have any equipment|registered in a saved outfit.|<bw_break>"
   },
   "518": {
-    "「あら？　このアイテムは購入できない|　ようですね。|<bw_break>": "What? I'm afraid this item is unavailable for|purchase.<bw_break>"
+    "「あら？　このアイテムは購入できない|　ようですね。|<bw_break>": "Huh? I'm afraid this item is unavailable for|purchase at the moment.<bw_break>"
   },
   "519": {
-    "「あら？　おしゃレシピに装備品が|　記録されていないようですね。|<bw_break>": "What? I don't think there's any equipment|recorded in the recipe...<bw_break>"
+    "「あら？　おしゃレシピに装備品が|　記録されていないようですね。|<bw_break>": "Huh? It looks like you don't have any|equipment registered as a saved outfit.|<bw_break>"
   },
   "520": {
     "「おや？　このアイテムは　購入できない|　みたいだね。|<bw_break>": "Hmm? I'm afraid this item is unavailable for|purchase.<bw_break>"
@@ -1572,7 +1572,7 @@
     "「あら？　このアイテムは　購入できない|　ようですね。|<bw_break>": "What? I'm afraid this item is unavailable for|purchase.<bw_break>"
   },
   "525": {
-    "「あら？　おしゃレシピに装備品が|　記録されていないようですね。|<bw_break>": "What? I don't think there's any equipment|recorded in the recipe...<bw_break>"
+    "「あら？　おしゃレシピに装備品が|　記録されていないようですね。|<bw_break>": "Huh? It looks like you don't have any|equipment registered as a saved outfit.|<bw_break>"
   },
   "526": {
     "「おっと！　このアイテムは　旅人バザーでは|　取り扱ってないみたいだな。|<bw_break>": "Oops! This item is not sold in the Traveler's|Bazaar...<bw_break>"
@@ -1794,7 +1794,7 @@
     "「お買い上げ　ありがとうございますっ！|<bw_break>": "Thank you for your purchase!<bw_break>"
   },
   "599": {
-    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll just put it in my sash bag...<bw_break>"
+    "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll put it in your equipment bag.|<bw_break>"
   },
   "600": {
     "「あちゃ～。<%sL_STORAGE>が　いっぱいで|　持ちきれないみたいですね。|<bw_break>": "Oh... <%sL_STORAGE> is so full, it's like|they can't hold it...<bw_break>"
@@ -1836,7 +1836,7 @@
     "「あっ。その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　すでに　装備された物ですね。|　装備品は　新品でなければ出品できませんよっ。|<br>|「他に　出品したい物は　ありますか？|<break>": "Ah. That <%sL_URITAI_ITEM><%sL_PLUSNUM> has|already been equipped... Equipment must be|new to be listed... Do you have any other|<br>|items you'd like to sell?<break>"
   },
   "613": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいですか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... That's a|hard-to-find, valuable item. Are you sure you|want to do this?<yesno><break>"
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいですか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>, right? That item|is pretty valuable. Are you really sure?|<yesno><break>"
   },
   "614": {
     "「<%sL_URITAI_ITEM>を　ひとつですね。|　それはもう　手に入らないかもしれませんが　|　本当に　よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM>... I'm afraid that's no|longer available. Are you sure?<yesno><break>"
@@ -1881,31 +1881,31 @@
     "「あと<%nL_SYUPPIN>品　出品できますが|　他の物も　出品しますか？|<break>": "You can list <%dL_SYUPPIN> more items. Is there|anything else you want to list?|<break>"
   },
   "628": {
-    "「やめるのですね。|　では　他の物を出品しますか？|<break>": "You want to stop?|Then, is there anything else you want to sell?|<break>"
+    "「やめるのですね。|　では　他の物を出品しますか？|<break>": "Changed your mind, then?|Is there anything else you want to sell?|<break>"
   },
   "629": {
-    "「あれ？　お客さんは|　何も　出品してないようですね。|<bw_break>": "What? I don't see any customers displaying|anything...<bw_break>"
+    "「あれ？　お客さんは|　何も　出品してないようですね。|<bw_break>": "Huh? It doesn't seem like there is anyone|listing right now.|<bw_break>"
   },
   "630": {
-    "「今　お客さんが出品している物は|　こちらになります。|　取りやめたい物は　ありますか？|<break>": "The item you're selling is right here... Do|you have anything you'd like to withdraw?<break>"
+    "「今　お客さんが出品している物は|　こちらになります。|　取りやめたい物は　ありますか？|<break>": "Here are the items you are currently listing.|Is there anything you wish to withdraw?|<break>"
   },
   "631": {
-    "「<%sL_TORIYAME_ITEM><%sL_PLUSNUM>の出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "I'm canceling my listing for|<%sL_TORIYAME_ITEM><%sL_PLUSNUM>... I'm|afraid I can't refund you the listing fee, is|<br>|that okay?<yesno><break>"
+    "「<%sL_TORIYAME_ITEM><%sL_PLUSNUM>の出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "You'd like to cancel your listing for the|<%sL_TORIYAME_ITEM><%sL_PLUSNUM>? I can't refund|the listing fee. Is that all right?|<yesno><break>"
   },
   "632": {
-    "「<%sL_TORIYAME_ITEM>　ひとつの出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "<%sL_TORIYAME_ITEM> I'm canceling one of my|items... I'm afraid I can't give you your|money back, can I?<yesno><break>"
+    "「<%sL_TORIYAME_ITEM>　ひとつの出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "You'd like to cancel your listing for the|<%sL_TORIYAME_ITEM>? I can't refund the|listing fee. Is that all right?|<yesno><break>"
   },
   "633": {
-    "「<%sL_TORIYAME_ITEM>　<%nL_URUKAZU>個の出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "I would like to cancel the listing of|<%sL_TORIYAME_ITEM> <%dL_URUKAZU>... I'm|afraid I can't refund you the listing fee.<yesno><break>"
+    "「<%sL_TORIYAME_ITEM>　<%nL_URUKAZU>個の出品を|　取りやめるのですね。|　出品料は　お返しできませんが　いいですか？|<yesno><break>": "You'd like to cancel your listing for the|<%dL_URUKAZU> <%sL_TORIYAME_ITEM>? I can't refund|the listing fee. Is that all right?|<yesno><break>"
   },
   "634": {
-    "「では　引き続き|　旅人バザーに　並べておきますね！|<br>|「他に　出品を取りやめたい物は|　ありますか？|<break>": "I'll continue to display them in the|Traveler's Bazaar. Is there anything else|you'd like to withdraw from the sale?<break>"
+    "「では　引き続き|　旅人バザーに　並べておきますね！|<br>|「他に　出品を取りやめたい物は|　ありますか？|<break>": "I'll keep them listed in the bazaar, then.|Is there anything else you'd like to withdraw|from being listed?<break>"
   },
   "635": {
-    "「あれ？　お客さん　お客さん！|　<%sL_STORAGE>が　いっぱいなので|　出品を取りやめられませんよ。|<br>|「持ち物を　整理してから|　また　引き取りに来てください。|<bw_break>": "Huh? Sir, sir, sir! I'm afraid we're going to|have to cancel the sale because <%sL_STORAGE>|is full. You can come back and pick up your|<br>|items after you've sorted through them.<bw_break>"
+    "「あれ？　お客さん　お客さん！|　<%sL_STORAGE>が　いっぱいなので|　出品を取りやめられませんよ。|<br>|「持ち物を　整理してから|　また　引き取りに来てください。|<bw_break>": "Huh? Excuse me, but I have to cancel this sale|because your <%sL_STORAGE> is full.|<br>|Please organize your things and then|come back to me.|<bw_break>"
   },
   "636": {
-    "「他に　出品を取りやめたい物は|　ありますか？|<break>": "Is there anything else you'd like to withdraw|from the show?<break>"
+    "「他に　出品を取りやめたい物は|　ありますか？|<break>": "Is there anything else you'd like to withdraw?|<break>"
   },
   "637": {
     "「では　確かに　お返しいたしました。|<bw_break>": "Here, I'll return your money.<bw_break>"
@@ -1944,7 +1944,7 @@
     "「では　<%sL_URITAI_ITEM>　<%nL_URUKAZU>個を|　いくらで　出品しますか？|<break>": "Then, how much do you want to list|<%dL_URUKAZU> <%sL_URITAI_ITEM> for ?<break>"
   },
   "649": {
-    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Thank you very much! I'll put it into your|equipment bag.|<bw_break>"
+    "「ありがとうございます！|　では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Thank you very much!|I'll put it in your equipment bag.|<bw_break>"
   },
   "650": {
     "「……あれ？　<pc>さんの　知り合いを|　うまく　探せなかったようです。|<br>|　他の　くわしい条件を　教えてください。　|<break>": "... Huh?<pc> I haven't been able to find anyone who knows|Mr... Can you tell me what else I need to|know...<break>"
@@ -1986,7 +1986,7 @@
     "「あっ。その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さんが　ロックされた物ですね。|　装備品は　ロックされてると出品できませんっ！|<br>|「他に　出品したい物は　ありますか？|<break>": "Oh. That <%sL_URITAI_ITEM><%sL_PLUSNUM> was|locked by a customer... You can't sell|equipment if it's locked! Do you have any|<br>|other items you want to sell?<break>"
   },
   "663": {
-    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "I see you've already read <%sL_KAITAI_ITEM>,|if that's all right.<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "You've already read the|<%sL_KAITAI_ITEM>.|Is that all right?|<yesno><break>"
   },
   "664": {
     "「あっ。その　<%sL_URITAI_ITEM>は|　すでに使われたことが　ありますね。|　料理は　新品でなければ　出品できませんっ！|<br>|「他に　出品したい物は　ありますか？|<break>": "Oh. That <%sL_URITAI_ITEM> has already been|used... The dish must be brand new to be|displayed! Do you have any other items you'd|<br>|like to display?<break>"

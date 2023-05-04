@@ -15,7 +15,7 @@
     "「あらっ　残念ですわ。|　気が変わったら　いつでも　お越しくださいね！|<end>": "Oh, that's too bad... If you change your|mind, you're always welcome to come back!<end>"
   },
   "6": {
-    "「ようこそ　モンスターバトルロードへ！|　何を　なさいますか？|<break>": "Welcome to Monster Battle Road! What can I do|for you, sir?<break>"
+    "「ようこそ　モンスターバトルロードへ！|　何を　なさいますか？|<break>": "Welcome to Monster Battle Road! What can I do|for you?<break>"
   },
   "7": {
     "「かしこまりました！　では　ええと……|　<pc>様は　はじめてのご出場ですので|　Ｇランクからの　スタートになりますわ。|<br>|「バトルロードでは　出場者の強さに応じた|　ランク制度を設けています。ランクが上がれば|　対戦相手は強くなり　景品が豪華になるんです！|<br>|「ランクを上げるには　試合に勝てばもらえる|　バトルロードポイントを　ためてください。|　ランクアップ試験の挑戦権が　与えられますの！|<br>|「現在は　Ｓランクまで　解放されてますわ。|　とにかく　どんどん試合に勝って|　ランクアップを目指してくださいませ！|<br>|「ただ　出場には　回数制限がありますの。|　最初に　３０回分のバトル参加権が与えられ|　以降は　１日に１回分がチャージされますわ。|<br>|「それでは　改めまして……|<end>": "Yes, sir! So, um...<pc> It's your first time competing, so you'll be|starting at G rank. In Battle Road, we have a|rank system based on the strength of the|<br>|contestant... The higher your rank, the|stronger your opponents, and the better the|prizes! To move up in rank, you need to|<br>|accumulate Battle Road Points, which you can|earn by winning matches... You'll be given|the right to challenge the rank-up test.|<br>|Currently, we're up to S rank. Anyway, win as|many matches as you can to move up the ranks!|But there is a limit to the number of times|<br>|you can participate... The first time you|enter a battle, you'll be given 30 entries,|and after that, you'll be charged once a day.|<br>|So, without further ado...<end>"
@@ -93,7 +93,7 @@
     "「削除": "deletion"
   },
   "32": {
-    "「<pc>様の　<%sL_MONSTER>様が|　サポートモンスターとして活躍しました！|　報酬の　バトルロードコインをお渡しします！": "<pc> <%sL_MONSTER> of <%sL_MONSTER> has taken an|active role as a support monster! We'll give|you his reward, Battle Road Coins!"
+    "「<pc>様の　<%sL_MONSTER>様が|　サポートモンスターとして活躍しました！|　報酬の　バトルロードコインをお渡しします！": "Your <%sL_MONSTER> has been very|helpful as a support monster! Please take|these Battle Road Coins as a reward!"
   },
   "33": {
     "「それでは　これまで　<%sL_MONSTER>様が|　サポートモンスターとして　活躍された分の|　報酬を　お渡しいたします！": "We will now reward <%sL_MONSTER> for all of|his support monster work!"
@@ -144,7 +144,7 @@
     "「あらっ？　サポートモンスターとして登録する|　モンスターを　選択していないようです。|　モンスターの選択を　お願いいたしますわ。|<bw_break>": "What? You haven't selected a monster to add|as a support monster... Please select a|monster...<bw_break>"
   },
   "49": {
-    "<pc>は|バトルロードコインを　<%dC_coin>枚　手に入れた！|<se_nots System 7>": "<pc> has gotten <%dC_coin> Battle Road Coins!|<se_nots System 7>"
+    "<pc>は|バトルロードコインを　<%dC_coin>枚　手に入れた！|<se_nots System 7>": "<pc> received <%dC_coin> Battle Road Coins!|<se_nots System 7>"
   },
   "50": {
     "<%sL_MONSTER>が　装備していた|バッジが　はずれました。": "The badge that <%sL_MONSTER> was wearing has|been removed."
@@ -192,7 +192,7 @@
     "「バトルロードに　エントリーするには|　まず最初に　パーティの作成が必要ですわ。|　『パーティの準備』を　お選びくださいませ。|<end>": "To enter the Battle Roads, you must first|create a party... Please select \"Prepare|Party\"...<end>"
   },
   "65": {
-    "「バトルロードポイントが　条件をみたしたので|　ランクアップ試験に　ご挑戦いただけます！|　チャンプ教官に　声をおかけください。さて……|<bw_break>": "Now that you've earned enough Battle Road|points, you're ready to take the Rank Up|test! Call out to the champ instructor...|<br>|Now...<bw_break>"
+    "「バトルロードポイントが　条件をみたしたので|　ランクアップ試験に　ご挑戦いただけます！|　チャンプ教官に　声をおかけください。さて……|<bw_break>": "You've earned enough Battle Road Points to|take the rank up test! Go and speak with|Instructor Champ to get started.|<bw_break>"
   },
   "66": {
     "「サポートモンスターとは|　他の出場者の　助っ人として試合に参加する|　仲間モンスターのことですの。|<br>|「<pc>様も　Ｆランク以上に昇格すれば|　サポートモンスターの登録が　できますので|　ぜひ　ランクアップを目指してくださいね。|<bw_break>": "A support monster is a fellow monster who|joins a match as a helper to another|contestant...<pc> If you're a fan of the game, you'll love this|game.<bw_break>"
@@ -315,7 +315,7 @@
     "「あらっ？　<pc>様は　ただ今|　登録されている装備品が　ないようですね。|<br>|「『そうび』を　ご利用いただくには|　先に　『そうびひん登録』にて|　装備品の　ご登録をお願いいたしますわ。|<bw_break>": "What?<pc> It appears that you do not have any equipment|registered with us at this time. In order to|use Sobi, you must first register your|<br>|equipment in the Sobi Product Registration|section.<bw_break>"
   },
   "106": {
-    "「ようこそ　モンスターバトルロードへ！|<br>|「このたび　モンスターバトルロードでは|　Ａランクまで　ランクアップ試験を|　解放いたしましたの！|<br>|「Ａランクは　一流の　まもの使いの中でも|　さらに　選ばれし者たちのステージですの！|　お客様の挑戦を　楽しみにしておりますわ！|<br>|「それでは　改めまして……|<end>": "Welcome to Monster Battle Road! We've opened|up the rank-up test to A-rank on Monster|Battle Road! A-rank is a stage for even the|<br>|most selective of magic users! I'm looking|forward to your challenges! And now, without|further ado...<end>"
+    "「ようこそ　モンスターバトルロードへ！|<br>|「このたび　モンスターバトルロードでは|　Ａランクまで　ランクアップ試験を|　解放いたしましたの！|<br>|「Ａランクは　一流の　まもの使いの中でも|　さらに　選ばれし者たちのステージですの！|　お客様の挑戦を　楽しみにしておりますわ！|<br>|「それでは　改めまして……|<end>": "Welcome to Monster Battle Road! We've opened|up the rank-up test to A-rank on Monster|Battle Road! A-rank is a stage for even the|<br>|most selective of Monster Masters! I'm looking|forward to your challenges! And now, without|further ado...<end>"
   },
   "107": {
     "「……申し訳ありません。<%sL_MONSTER>様は|　ただ今　ご都合が　悪いようですわ。|　他のモンスターを　お選びくださいませ。|<bw_break>": "... I'm sorry... Mr. <%sL_MONSTER> is not|available at the moment. Please choose|another monster...<bw_break>"
@@ -327,7 +327,7 @@
     "「あらっ？　すでに　<%sL_MONSTER>様を|　お選びのようですわ。|<end>": "What? It seems you've already chosen|<%sL_MONSTER>...<end>"
   },
   "110": {
-    "「ようこそ　モンスターバトルロードへ！|<br>|「まあ！　<pc>さんは|　バトルロードチケットを　お持ちのようですね。|<br>|「今　お手元にある　バトルロードチケットで|　参加権を<%nL_SANKAKEN>回　増やすことができますが|　交換されますか？|<yesno><break>": "Welcome to Monster Battle Road! Well!<pc> You have Battle Road tickets... Would you|like to trade your Battle Road tickets for an|extra <%nL_SANKAKEN> entry?<yesno><break>"
+    "「ようこそ　モンスターバトルロードへ！|<br>|「まあ！　<pc>さんは|　バトルロードチケットを　お持ちのようですね。|<br>|「今　お手元にある　バトルロードチケットで|　参加権を<%nL_SANKAKEN>回　増やすことができますが|　交換されますか？|<yesno><break>": "Welcome to Monster Battle Road!|<br>|Oh! It looks like you're carrying some|Battle Road Tickets.|<br>|Would you like to exchange them for|<%dL_SANKAKEN> extra battle tries?|<yesno><break>"
   },
   "111": {
     "「……あらっ？　バトルロード参加権が|　上限を超えてしまうようですね。|　このままでは　交換できませんわね。|<br>|「バトルに　参加して　バトルロード参加権を|　減らした状態なら　交換できますわ！|<br>|「それでは　改めて……。|<bw_break>": "... What? It looks like you've reached your|Battle Lord limit. I can't exchange them at|this rate. You can trade it in if you join|<br>|the battle and reduce your Battle Lord|credits. Let's try again...<bw_break>"

@@ -1,18 +1,18 @@
 {
   "1": {
-    "会心0.1％アップは|覚えているだけで　常に会心率が|0.1％分　上がるようになります。": "Just remember that 0.1% increase in|Perception will always increase your|Perception rate by 0.1%..."
+    "会心0.1％アップは|覚えているだけで　常に会心率が|0.1％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.1% permanently!"
   },
   "2": {
-    "会心0.2％アップは|覚えているだけで　常に会心率が|0.2％分　上がるようになります。": "Just remember that 0.2% increase in|Perception will always increase your|Perception rate by 0.2%..."
+    "会心0.2％アップは|覚えているだけで　常に会心率が|0.2％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.2% permanently!"
   },
   "3": {
-    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Just remember that 0.3% increase in|Perception will always increase your|Perception rate by 0.3%..."
+    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.3% permanently!"
   },
   "4": {
-    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Just remember that 0.3% increase in|Perception will always increase your|Perception rate by 0.3%..."
+    "会心0.3％アップは|覚えているだけで　常に会心率が|0.3％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.3% permanently!"
   },
   "5": {
-    "会心0.5％アップは|覚えているだけで　常に会心率が|0.5％分　上がるようになります。": "Just remember that 0.5% increase in|Perception will always increase your|Perception rate by 0.5%..."
+    "会心0.5％アップは|覚えているだけで　常に会心率が|0.5％分　上がるようになります。": "Your chance of scoring a critical hit has|increased by 0.5% permanently!"
   },
   "6": {
     "作る物の種類を　選んでください。|<break>": ""
@@ -24,7 +24,7 @@
     "<%sL_STORAGE_NAME>が　いっぱいなので|調理が　できません。<end>": "<%sL_STORAGE_NAME> is full, so I can't|cook...<end>"
   },
   "9": {
-    "一度　コツをつかんだレシピは|『いっぱつしあげ』が　できるようになります。|<br>|『いっぱつしあげ』を使えば|すぐにアイテムを　完成させられますが|できのよさ<color_yellow>★★★<color_white>には　ならないので　ご注意を。|<br>|また　『ふつうに作る』時も|かいしんのてごたえの　出る確率が|少しアップします！": "Once you've got the hang of it, you'll be|able to use \"Ippatsu Shiage\"... You'll be|able to finish the item in no time at all.<color_yellow>★★★<color_white>So please be careful... Also, when you're|making a normal game, the chance of getting a|new challenge goes up a bit!"
+    "一度　コツをつかんだレシピは|『いっぱつしあげ』が　できるようになります。|<br>|『いっぱつしあげ』を使えば|すぐにアイテムを　完成させられますが|できのよさ<color_yellow>★★★<color_white>には　ならないので　ご注意を。|<br>|また　『ふつうに作る』時も|かいしんのてごたえの　出る確率が|少しアップします！": "Once you have a knack for a recipe, the|\"Quick Craft\" command becomes available.|<br>|Quick Craft allows you to finish the item in|no time flat! However, items created this way|can never be <color_yellow>★★★<color_white> quality.|<br>|In addition, the chance of getting a critical|hit while using \"Craft Normally\" has increased|slightly!"
   },
   "10": {
     "<%sL_RECIPE>のレシピは|まだ　覚えていません。<end>": "I still don't remember the recipe for|<%sL_RECIPE>...<end>"
@@ -33,7 +33,7 @@
     "調理設備がある。|調理のレシピを　覚えれば|ここで　調理が　できそうだ。": "Cooking facilities... If you know the recipe,|you can cook it right here..."
   },
   "12": {
-    "そのカテゴリのレシピは|まだ　覚えていません。<end>": "I still don't remember the recipe for that|category...<end>"
+    "そのカテゴリのレシピは|まだ　覚えていません。<end>": "You don't know any recipes of this category|yet.<end>"
   },
   "13": {
     "<%sL_RECIPE>を　作るには|<pc>の　調理職人レベルが|<%nL_HITUYOU_LV>以上　必要です。<end>": "To create a <%sL_RECIPE>, use the|<pc> The cook level of <%nL_HITUYOU_LV> or higher|is required...<end>"
@@ -63,16 +63,16 @@
     "<%sL_RECIPE>は|この職人どうぐでは　作れません。|<%sL_SEASON_TOOL>を　使いましょう。|<bw_break>": "<%sL_RECIPE> can be made with this artisan|tool... <%sL_SEASON_TOOL> can be used...<bw_break>"
   },
   "22": {
-    "<%sL_RECIPE>の素材を　失った……。<bw_break>": "We've lost the <%sL_RECIPE> material...<bw_break>"
+    "<%sL_RECIPE>の素材を　失った……。<bw_break>": "The ingredients were lost...<bw_break>"
   },
   "23": {
-    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>I got it!<bw_break>"
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
   },
   "24": {
-    "使うフライパンを　選んでください。|<break>": "I'll let you choose which pan to use...<break>"
+    "使うフライパンを　選んでください。|<break>": "Choose a frying pan to use.|<break>"
   },
   "25": {
-    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate!"
+    "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
   },
   "26": {
     "<speed=0>同じ種類の　具材同士でしか|まぜあわせは　できません。": "<speed=0>You can only mix ingredients of the same|type..."
@@ -87,13 +87,13 @@
     "調理設備がある。|ここで　料理が作れそうだ。|<break>": "Cooking facilities... You can cook here...<break>"
   },
   "30": {
-    "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><break>": "<speed=0><%sL_RECIPE> to finish... Are you sure?<yesno><break>"
+    "<speed=0><%sL_RECIPE>を　仕上げます。|よろしいですか？|<yesno><break>": "<speed=0>Finish working on the|<%sL_RECIPE>?|<yesno><break>"
   },
   "31": {
     "<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "Create <%sL_RECIPE>... Are you sure?<yesno><close>"
   },
   "32": {
-    "できのよさ<color_yellow>★★★<color_white>の物は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "Do you want to craft this item you have a|knack for in one shot? The item will not have|a quality of <color_yellow>★★★<color_white>.|<yesno><close>"
+    "できのよさ<color_yellow>★★★<color_white>の物は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "Do you want to quick craft this item you have|a knack for? The item will not have a quality|of <color_yellow>★★★<color_white>.<yesno><close>"
   },
   "33": {
     "ダブルたて返しを使うと　|縦横２マスにある　上下の具材を|入れ替えることができます。": "With the double flap, you can swap the top|and bottom ingredients in the two squares..."
@@ -135,10 +135,10 @@
     "その依頼は　既に達成済みです。|<end>": "That request has already been fulfilled...<end>"
   },
   "46": {
-    "<%sL_RECIPE>は|『いっぱつしあげ』が　できます。|<select>|ふつうに作る|いっぱつしあげ|<select_end><break>": "<%sL_RECIPE> has a \"one shot raise\"...|<select>|cook conventionally|make-or-break job|<select_end><break>"
+    "<%sL_RECIPE>は|『いっぱつしあげ』が　できます。|<select>|ふつうに作る|いっぱつしあげ|<select_end><break>": "<%sL_RECIPE> can be quick crafted.|<select>|Craft Normally|Quick Craft|<select_end><break>"
   },
   "47": {
-    "<%sL_RECIPE>は|『いっぱつしあげ』が　できます。|<select 2>|ふつうに作る|いっぱつしあげ|<select_end><break>": "<%sL_RECIPE> has a \"one shot raise\"...<select 2>|cook conventionally|make-or-break job|<select_end><break>"
+    "<%sL_RECIPE>は|『いっぱつしあげ』が　できます。|<select 2>|ふつうに作る|いっぱつしあげ|<select_end><break>": "<%sL_RECIPE> can be quick crafted.|<select 2>|Craft Normally|Quick Craft|<select_end><break>"
   },
   "48": {
     "<speed=0>移動先のマスには　既に具材があるため|その方向に　この具材を動かすことはできません。": "<speed=0>The square you're moving to already has an|ingredient in it, so you can't move this|ingredient in that direction..."
@@ -147,7 +147,7 @@
     "<%sL_SYOKUNIN_TOOL>は|ロック中ですが　本当に使いますか？|<yesno 2><break>": "<%sL_SYOKUNIN_TOOL> is locked, are you sure|you want to use it?<yesno 2><break>"
   },
   "50": {
-    "今日できる　ギルドの依頼は無いようです。|<end>": "I can do it today. There's no guild|request...<end>"
+    "今日できる　ギルドの依頼は無いようです。|<end>": "There are no guild requests today.<end>"
   },
   "51": {
     "<speed=0>この具材は　まぜあわせの対象に選べません。": "<speed=0>These ingredients can be mixed and matched..."
@@ -171,13 +171,13 @@
     "必殺率　小アップは|覚えているだけで　常に必殺技の出る確率が|少しだけ　上がるようになります。": "Just by remembering it, you'll always have a|slight chance of getting a special move."
   },
   "58": {
-    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<select>|ふつうに作る|いっぱつしあげ|<select_end><break>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?|<select>|cook conventionally|make-or-break job|<select_end><break>"
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<select>|ふつうに作る|いっぱつしあげ|<select_end><break>": "This will make <%sL_RECIPE>|using materials from both your storage|and house storage. Are you sure?|<select>|Craft Normally|Quick Craft|<select_end><break>"
   },
   "59": {
-    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<select 2>|ふつうに作る|いっぱつしあげ|<select_end><break>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<select 2>|cook conventionally|make-or-break job|<select_end><break>"
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<select 2>|ふつうに作る|いっぱつしあげ|<select_end><break>": "This will make <%sL_RECIPE>|using materials from both your storage|and house storage. Are you sure?|<select 2>|Craft Normally|Quick Craft|<select_end><break>"
   },
   "60": {
-    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "This will make <%sL_RECIPE>|using materials from both your storage|and house storage. Are you sure?|<yesno><close>"
   },
   "61": {
     "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|調理が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now cook with ingredients found not|only in the Animal Bag, but also in the|Storage Area and Under the Roof! When you|<br>|select a recipe that doesn't have all the|ingredients you need, you can use the|ingredients in the Storage Area and Under the|<br>|Roof...<color_white>|<end>"
@@ -204,10 +204,10 @@
     "調理設備がある。|ここで　料理が作れそうだ。|（今週は　あと<%nL_PLAYABLE>回　調理ができます。）|<break>": "Cooking facilities... You can cook here...|（This week, you'll be able to cook...)<break>"
   },
   "69": {
-    "まれに集中力回復は|覚えているだけで　集中力が残り少なくなった時に|低確率で　集中力が３０回復します。": ""
+    "まれに集中力回復は|覚えているだけで　集中力が残り少なくなった時に|低確率で　集中力が３０回復します。": "You now have a slight chance of restoring|30 Focus whenever your current Focus is|running low!"
   },
   "70": {
-    "ここでは　いっぱつしあげは　できません。|<end>": "I can't do a single raise here...<end>"
+    "ここでは　いっぱつしあげは　できません。|<end>": "You can't quick craft here.<end>"
   },
   "71": {
     "<%nL_TURN>ターン目": "Turn <%dL_TURN>"

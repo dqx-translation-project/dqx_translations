@@ -1,6 +1,6 @@
 {
   "1": {
-    "鍋の温度が<%nL_ONDO>度下がった": "The pot's temp fell <%nL_ONDO> degrees."
+    "鍋の温度が<%nL_ONDO>度下がった": "The pot's temp. fell <%dL_ONDO> degrees."
   },
   "2": {
     "<%sL_NAMAE>はようすを見た": "<%sL_NAMAE> saw what happened."
@@ -54,7 +54,7 @@
     "<pc>は　花摘みで使える|とくぎを覚えていない。": "<pc> hasn't learned a skill that|can be used for flower picking."
   },
   "19": {
-    "集中力が　たりない！": "I can't concentrate!"
+    "集中力が　たりない！": "Not enough Focus!"
   },
   "20": {
     "つるはしを持っていないので|採掘ができません。": "You do not have a pickaxe and cannot mine."
@@ -108,7 +108,7 @@
     "<%sL_GET_ITEM>を　掘り出した！": "Dug up <%sL_GET_ITEM>!"
   },
   "37": {
-    "かいしんの　てごたえ！": ""
+    "かいしんの　てごたえ！": "Critical response!"
   },
   "38": {
     "採掘をやめる": "Quit mining."
@@ -231,7 +231,7 @@
     "木工品をしあげる": "Finish Work"
   },
   "78": {
-    "かいしんの　てごたえ！": ""
+    "かいしんの　てごたえ！": "Critical response!"
   },
   "79": {
     "武器鍛冶職人": "Weaponsmith"
@@ -276,7 +276,7 @@
     "clarity_nt_char_92": "clarity_nt_char_92"
   },
   "93": {
-    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>."
+    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>|equipped."
   },
   "94": {
     "鍛冶ハンマー": "Smith Hammer"
@@ -354,7 +354,7 @@
     "レイピア": "Rapier"
   },
   "119": {
-    "<%sL_KOUKA>|の錬金が大成功した！": "<%sL_KOUKA> was|alchemized to perfection!"
+    "<%sL_KOUKA>|の錬金が大成功した！": "<%sL_KOUKA>!|Alchemy perfection!"
   },
   "120": {
     "<%sL_KIND_GROUP>の途中で　キャンセルはできません！": "You can't cancel in the middle of|<%sL_KIND_GROUP>!"
@@ -369,7 +369,7 @@
     "武器鍛冶": "Weaponsmith"
   },
   "124": {
-    "<%sL_RECIPE>を作る　コツをつかんだ！<bw_break>": "You got the hang of making the|<%sL_RECIPE>!<bw_break>"
+    "<%sL_RECIPE>を作る　コツをつかんだ！<bw_break>": "You now have a knack for making|<%sL_RECIPE>!<bw_break>"
   },
   "125": {
     "消費集中力１.５倍！　会心率アップ！": ""
@@ -378,10 +378,10 @@
     "消費集中力半減！": ""
   },
   "127": {
-    "次のターン　効果半減！": "Next turn, effect halved!"
+    "次のターン　効果半減！": "Effect halved next turn!"
   },
   "128": {
-    "次のターン　効果２倍！": "Next turn, double the effect!"
+    "次のターン　効果２倍！": "Effect doubled next turn!"
   },
   "129": {
     "温度が２００低下！": "Temperature's dropping 200!"
@@ -411,7 +411,7 @@
     "鍛冶ＨＰ情報　　現在ＨＰ　／　理想値": "Blacksmith HP Information Current HP / Ideal Value"
   },
   "138": {
-    "かいしんの　てごたえ！": ""
+    "かいしんの　てごたえ！": "Critical response!"
   },
   "139": {
     "<pc>は|<%nL_EXP><color_yellow>（＋<%nL_EXP_GENKI>）<color_white>ポイントの|職人経験値を　かくとく！|<bw_break>": "<pc>   は|<%nL_EXP><color_yellow>(+<%nL_EXP_GENKI>)<color_white>You'll get points of experience.<bw_break>"
@@ -483,7 +483,7 @@
     "錬金効果は付けられない": "Cannot add alchemy effect."
   },
   "162": {
-    "（錬金効果をつけよう）": "(No Alchemy Effect)"
+    "（錬金効果をつけよう）": "(Can Add Alchemy Effect)"
   },
   "163": {
     "短剣・オノ・ツメ・ムチ": "Dagger, axe, claw, whip"

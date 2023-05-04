@@ -6,7 +6,7 @@
     "どちらを　おこないますか？|<break>": "Which do you want to do?<break>"
   },
   "3": {
-    "王家の迷宮への扉だ。|<break>": "To the royal labyrinth...<break>"
+    "王家の迷宮への扉だ。|<break>": "It's the Royal Maze's door.|<break>"
   },
   "4": {
     "アンルシアの　すべてのスキルに振っている|スキルポイントが　リセットされますが|よろしいですか？|<yesno 2><break>": "Reset all of Anlucia's skill points?|<yesno 2><break>"
@@ -18,7 +18,7 @@
     "<%sL_KISEKI>を　<%nL_KISEKI_NUM>個使って|王家の迷宮に入りますか？|<yesno>|<close>": "Use <%dL_KISEKI_NUM> <%sL_KISEKI> to enter|the Royal Maze?|<yesno>|<close>"
   },
   "7": {
-    "<%sL_ITEM><%sL_PLUSNUM>を　光の扉に捧げると|<%sL_KISEKI>が<%nL_NUM>個　手に入ります。|捧げたアイテムは失われますが　よろしいですか？|<yesno 2><break>": "If you offer <%sL_ITEM><%sL_PLUSNUM> to the|Door of Light, you will get <%sL_KISEKI> for|<%nL_NUM>... The item will be lost, is that|<br>|okay?<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を　光の扉に捧げると|<%sL_KISEKI>が<%nL_NUM>個　手に入ります。|捧げたアイテムは失われますが　よろしいですか？|<yesno 2><break>": "By offering the <%sL_ITEM><%sL_PLUSNUM> to the|Door of Light, you will receive <%dL_NUM> <%sL_KISEKI>.|The item will be consumed. Proceed?|<yesno 2><break>"
   },
   "8": {
     "どのアイテムを|光の扉に　捧げますか？|<break>": "Offer which item?|<break>"
@@ -45,58 +45,58 @@
     "しかし　<%sL_KISEKI>が足りなかった。|<end>": "Not enough <%sL_KISEKI>.|<end>"
   },
   "16": {
-    "<%sL_ITEM><%sL_PLUSNUM>は|今　装備しているものですが|本当に　捧げてよろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is currently|equipped. Is okay to offer it?|<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>は|今　装備しているものですが|本当に　捧げてよろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is currently|equipped. Offer it anyway?|<yesno 2><break>"
   },
   "17": {
     "<%sL_ITEM><%sL_PLUSNUM>は|ロックされているため|捧げることは　できません。|<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> is locked and cannot|be offered.<bw_break>"
   },
   "18": {
-    "どのアイテムを|光の扉に　捧げますか？|<select_se_off>|つかうもの|そうびひん|<select_end><break>": ""
+    "どのアイテムを|光の扉に　捧げますか？|<select_se_off>|つかうもの|そうびひん|<select_end><break>": "Which type of item will you offer?|<select_se_off>|Item|Equipment|<select_end><break>"
   },
   "19": {
-    "<%sL_ITEM><%sL_PLUSNUM>を<%nL_ITEM_NUM>個　光の扉に捧げると|<%sL_KISEKI>が<%nL_NUM>個　手に入ります。|捧げたアイテムは失われますが　よろしいですか？|<yesno 2><break>": "If you dedicate <%sL_ITEM><%sL_PLUSNUM>|<%nL_ITEM_NUM> to the Door of Light, you will|get <%nL_NUM> <%sL_KISEKI>... The item will|<br>|be lost, is that okay?<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を<%nL_ITEM_NUM>個　光の扉に捧げると|<%sL_KISEKI>が<%nL_NUM>個　手に入ります。|捧げたアイテムは失われますが　よろしいですか？|<yesno 2><break>": "By offering <%dL_ITEM_NUM> <%sL_ITEM><%sL_PLUSNUM> to the|Door of Light, you will receive <%dL_NUM> <%sL_KISEKI>.|The items will be consumed. Proceed?|<yesno 2><break>"
   },
   "20": {
-    "<%sL_ITEM><%sL_PLUSNUM>が足りないので|捧げることができません。|<end>": "I'm missing <%sL_ITEM><%sL_PLUSNUM> so I can|dedicate...<end>"
+    "<%sL_ITEM><%sL_PLUSNUM>が足りないので|捧げることができません。|<end>": "Cannot offer since you do not have|<%sL_ITEM><%sL_PLUSNUM>.|<end>"
   },
   "21": {
     "<%sL_KYOUKA_ITEM>を捧げて　<%sL_BELT_ITEM>の効果を|ふやします。どのベルトを強化しますか？|現在　<%sL_KYOUKA_ITEM>を　<%nL_KYOUKA_NUM>個持っています。|<break>": "Dedicate <%sL_KYOUKA_ITEM> to increase the|effect of <%sL_BELT_ITEM>... Which belt do|you want to strengthen? I currently have|<br>|<%nL_KYOUKA_NUM> of <%sL_KYOUKA_ITEM>...<break>"
   },
   "22": {
-    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と|<%sL_KYOUKA_ITEM>を　光の扉に捧げた！|<bw_break>": ""
+    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と|<%sL_KYOUKA_ITEM>を　光の扉に捧げた！|<bw_break>": "<pc> offered the <%sL_ITEM><%sL_PLUSNUM>|and the <%sL_KYOUKA_ITEM>!|<bw_break>"
   },
   "23": {
-    "おや……？　なんと　<%sL_BELT_ITEM>が|強い光を放ちはじめた……！|<bw_break>": "Oh...? Oh my god, <%sL_BELT_ITEM> is starting|to glow strongly...!<bw_break>"
+    "おや……？　なんと　<%sL_BELT_ITEM>が|強い光を放ちはじめた……！|<bw_break>": "Oh...? <%sL_BELT_ITEM> began to give|off a powerful glow...!|<bw_break>"
   },
   "24": {
-    "さらに　<%sL_KOUKA>が|<%sL_CHANGE_KOUKA>に　変わった！<se_nots System 7>|<bw_break>": "And <%sL_KOUKA> has changed to|<%sL_CHANGE_KOUKA>!|<se_nots System 7>|<bw_break>"
+    "さらに　<%sL_KOUKA>が|<%sL_CHANGE_KOUKA>に　変わった！<se_nots System 7>|<bw_break>": "<%sL_KOUKA> has changed into|<%sL_CHANGE_KOUKA>!|<se_nots System 7>|<bw_break>"
   },
   "25": {
-    "<%sL_ITEM><%sL_PLUSNUM>に　新たな効果|<%sL_ADD_KOUKA>が　めざめた！|<%sL_ITEM><%sL_PLUSNUM>は　<%sL_ITEM><%sL_RESLT_PLUSNUM>になった！<se_nots System 7><bw_break>": "<%sL_ITEM><%sL_PLUSNUM> has a new effect|<%sL_ADD_KOUKA>! <%sL_ITEM><%sL_PLUSNUM> is|now <%sL_ITEM><%sL_RESLT_PLUSNUM>!|<se_nots System 7><bw_break>"
+    "<%sL_ITEM><%sL_PLUSNUM>に　新たな効果|<%sL_ADD_KOUKA>が　めざめた！|<%sL_ITEM><%sL_PLUSNUM>は　<%sL_ITEM><%sL_RESLT_PLUSNUM>になった！<se_nots System 7><bw_break>": "<%sL_ITEM><%sL_PLUSNUM> has a new effect of|<%sL_ADD_KOUKA>! <%sL_ITEM><%sL_PLUSNUM> is|now <%sL_ITEM><%sL_RESLT_PLUSNUM>!|<se_nots System 7><bw_break>"
   },
   "26": {
-    "<%sL_ITEM><%sL_PLUSNUM>と|<%sL_KYOUKA_ITEM>を　光の扉に捧げますか？|<yesno><break>": ""
+    "<%sL_ITEM><%sL_PLUSNUM>と|<%sL_KYOUKA_ITEM>を　光の扉に捧げますか？|<yesno><break>": "Offer the <%sL_ITEM><%sL_PLUSNUM> and|the <%sL_KYOUKA_ITEM> ?|<yesno><break>"
   },
   "27": {
-    "めざめの秘石を　持っていません。|<br>|めざめの秘石は　王家の迷宮に出現する|スペシャルモンスター　ゆめみの化身が落とす|ゆめみの闇箱から　入手できます。|<end>": "I have the secret stone of awakening... The|Secret Stone of Awakening can be obtained|from Yumemi's Dark Box, which is dropped by|<br>|the special monster Yumemi Incarnate that|appears in the Royal Labyrinth...<end>"
+    "めざめの秘石を　持っていません。|<br>|めざめの秘石は　王家の迷宮に出現する|スペシャルモンスター　ゆめみの化身が落とす|ゆめみの闇箱から　入手できます。|<end>": "You don't have any Secret Stones.|<br>|Secret Stones can be obtained from Dream|Dark Boxes, which are dropped by a special|monster called Dream Avatar in the Royal Maze.|<end>"
   },
   "28": {
-    "強化できる　<%sL_BELT_ITEM>を|持っていません。|<end>": "We have a <%sL_BELT_ITEM> that can be|enhanced...<end>"
+    "強化できる　<%sL_BELT_ITEM>を|持っていません。|<end>": "You don't have any <%sL_BELT_ITEM>|that can be enhanced.|<end>"
   },
   "29": {
-    "めざめの秘石と　強化できる|<%sL_BELT_ITEM>を　持っていません。|<br>|めざめの秘石は　王家の迷宮に出現する|スペシャルモンスター　ゆめみの化身が落とす|ゆめみの闇箱から　入手できます。|<end>": "I have a <%sL_BELT_ITEM> that can be enhanced|with a secret stone of awakening... The|Secret Stone of Awakening can be obtained|<br>|from Yumemi's Dark Box, which is dropped by|the special monster Yumemi Incarnate that|appears in the Royal Labyrinth...<end>"
+    "めざめの秘石と　強化できる|<%sL_BELT_ITEM>を　持っていません。|<br>|めざめの秘石は　王家の迷宮に出現する|スペシャルモンスター　ゆめみの化身が落とす|ゆめみの闇箱から　入手できます。|<end>": "You don't have any <%sL_BELT_ITEM> that|can be enhanced with Secret Stones.|<br>|Secret Stones can be obtained from Dream|Dark Boxes, which are dropped by a special|monster called Dream Avatar in the Royal Maze.|<end>"
   },
   "30": {
-    "他に　どの<%sL_BELT_ITEM>を　強化しますか？|現在　<%sL_KYOUKA_ITEM>を　<%nL_KYOUKA_NUM>個持っています。|<break>": "What other <%sL_BELT_ITEM> would you like to|enhance? I currently have <%nL_KYOUKA_NUM> of|<%sL_KYOUKA_ITEM>...<break>"
+    "他に　どの<%sL_BELT_ITEM>を　強化しますか？|現在　<%sL_KYOUKA_ITEM>を　<%nL_KYOUKA_NUM>個持っています。|<break>": "Which other <%sL_BELT_ITEM> would you|like to enhance? You currently have|<%dL_KYOUKA_NUM> <%sL_KYOUKA_ITEM>.|<break>"
   },
   "31": {
-    "<%sL_ITEM><%sL_PLUSNUM>は|これ以上　強化することはできません。|<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> cannot be enhanced|any further...<bw_break>"
+    "<%sL_ITEM><%sL_PLUSNUM>は|これ以上　強化することはできません。|<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> cannot be enhanced|any further.<bw_break>"
   },
   "32": {
-    "<%sL_ITEM><%sL_PLUSNUM>は　ロックされています。|強化してよろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is locked... Are you|sure you want to reinforce it?<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>は　ロックされています。|強化してよろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is locked. Are you|sure you want to enhance it?<yesno 2><break>"
   },
   "33": {
-    "ベルトの強化に　失敗しました……。|はじめから　もう一度　お試しください。|<bw_break>": "I've failed to strengthen the belt. Please|try again from the beginning...<bw_break>"
+    "ベルトの強化に　失敗しました……。|はじめから　もう一度　お試しください。|<bw_break>": "Belt enhancement failed... Please try again.|<bw_break>"
   },
   "34": {
     "王家の迷宮は　アンルシアと|仲間モンスターを連れていくことができる|ソロプレイダンジョンです。|<br>|王家の迷宮に挑戦するためには|勇気の輝石が　<%nL_KISEKI_NUM>個必要です。|勇気の輝石は　１週間に<%nL_WEEK_NUM>個　手に入ります。|<br>|『輝石を増やす』で　王家の迷宮で手に入る|輝石のベルトを　捧げることで|勇気の輝石を　増やすこともできます。|<br>|迷宮の中では　画面左上に表示されている|勇気の輝きが　少しずつ減っていき|０になれば　外に　追い出されてしまいます。|<br>|モンスターを倒して　光の霊玉を集めながら|勇気の輝きが　なくなる前に|次の部屋へ進みましょう。|<br>|集めた光の霊玉は　次の部屋で勇気の輝きに変わり|代わりに　それまでに残っていた勇気の輝きは|消えてなくなります。|<br>|迷宮の中には　さまざまな|勇気の輝きの使い道が　用意されています。|使いすぎに　気をつけて　有効活用しましょう。": "The Royal Labyrinth is a solo-player dungeon|where you can take Anglesea and her fellow|monsters... To challenge the Royal Labyrinth,|<br>|you need <%nL_KISEKI_NUM> bravery stones...|You can get <%nL_WEEK_NUM> of courage stones|per week... You can also increase the number|<br>|of bravery stones by dedicating the bravery|belts found in the Royal Labyrinth... In the|labyrinth, the glow of courage in the upper|<br>|left corner of the screen will gradually|decrease, and when it reaches zero, you'll be|kicked out... You must defeat monsters and|<br>|collect balls of light to advance to the next|room before the glow of courage runs out...|In the next room, the balls of light you've|<br>|collected will be replaced by a spark of|courage, and the remaining spark of courage|will disappear. There are many ways to use|<br>|the courage glow in the labyrinth. Be careful|not to use it too much..."
@@ -114,22 +114,22 @@
     "封印の砂は　『封印の砂を増やす』を選んで|輝石のベルトを　光の扉に捧げることで|手に入ります。|<br>|封印の砂を使うと　輝石のベルトにつく|さまざまな効果のうち　選んだものを|最大<%nL_SEAL_MAX>個まで　封印することができます。|<br>|封印した効果は　それ以降に手に入れた|輝石のベルトには　つきません。|<br>|一度　封印した効果を　元に戻したい時は|『封印した効果をリセットする』で|それまでの設定を　リセットできます。|<br>|リセットには　封印の砂が５０個　必要ですが|代わりに　それまでの封印に使った|封印の砂が　戻ってきます。": "The sealing sand can be obtained by selecting|\"More sealing sand\" and offering your|pyroxene belt to the Door of Light. With the|<br>|sealing sand, you can seal up to|<%nL_SEAL_MAX> of the various effects on your|belt of brilliance. The sealed effects will|<br>|not be applied to any other belt you acquire|after that. If you want to undo a sealed|effect, you can use the \"Reset Sealed Effect\"|<br>|option to reset all previous settings... To|do this, you'll need 50 sealing sands, but|you'll get back the sands you used to seal|<br>|it."
   },
   "39": {
-    "輝石のベルトの効果の　封印状態を|リセットします。|<br>|リセットには　封印の砂を　<%nL_POINT_NUM>個　使いますが|これまでの封印に使った　<%nL_GET_NUM>個は|戻ってきます。リセットして　よろしいですか？|<yesno 2><break>": "Resetting the sealing effect of the pyroxene|belt... To reset it, you'll need|<%nL_POINT_NUM> of sealing sand, but the|<br>|<%nL_GET_NUM> you've used to seal it so far|will be returned... Are you sure you want to|reset it?<yesno 2><break>"
+    "輝石のベルトの効果の　封印状態を|リセットします。|<br>|リセットには　封印の砂を　<%nL_POINT_NUM>個　使いますが|これまでの封印に使った　<%nL_GET_NUM>個は|戻ってきます。リセットして　よろしいですか？|<yesno 2><break>": "To reset your sealed effects, you'll need to|use <%dL_POINT_NUM> Sealing Sand, however the <%dL_GET_NUM> Sealed|Sand you've used to seal will be returned.|<br>|Reset your sealed effects?|<yesno 2><break>"
   },
   "40": {
-    "輝石のベルトの効果を　封印していません。|<end>": "I've sealed the effects of the pyroxene|belt...<end>"
+    "輝石のベルトの効果を　封印していません。|<end>": "You haven't sealed any Augite Belt effects.|<end>"
   },
   "41": {
-    "封印の砂を　<%nL_POINT_NUM>個使って|輝石のベルトの効果の　封印状態をリセットした！|<br>|これまで封印に使った|封印の砂　<%nL_GET_NUM>個が　戻ってきた！<se_nots System 7>|<end>": "You've used <%nL_POINT_NUM> of Sealing Sand|to reset the sealed state of the pyroxene|belt's effect! The <%nL_GET_NUM> pieces of|<br>|sealing sand you used to seal the belt have|been returned!|<se_nots System 7>|<end>"
+    "封印の砂を　<%nL_POINT_NUM>個使って|輝石のベルトの効果の　封印状態をリセットした！|<br>|これまで封印に使った|封印の砂　<%nL_GET_NUM>個が　戻ってきた！<se_nots System 7>|<end>": "Used <%dL_POINT_NUM> Sealed Sand to reset your effects,|and the <%dL_GET_NUM> Sealed Sand you've already used|has been returned to you!<se_nots System 7>|<end>"
   },
   "42": {
-    "封印の砂を　<%nL_POINT_NUM>個使って|<%sL_SEAL_KOUKA>を|封印してよろしいですか？|<yesno 1><break>": "May I use <%nL_POINT_NUM> of sealing sand to|seal <%sL_SEAL_KOUKA>?<yesno 1><break>"
+    "封印の砂を　<%nL_POINT_NUM>個使って|<%sL_SEAL_KOUKA>を|封印してよろしいですか？|<yesno 1><break>": "Use <%dL_POINT_NUM> Sealed Sand to seal|<%sL_SEAL_KOUKA>?|<yesno 1><break>"
   },
   "43": {
-    "封印の砂を　<%nL_POINT_NUM>個使って|輝石のベルトにつく効果を封印します。|封印する効果を　選んでください。|<break>": "Use <%nL_POINT_NUM> of sealing sand to seal|the effect on the pyroxene belt... Choose an|effect to seal...<break>"
+    "封印の砂を　<%nL_POINT_NUM>個使って|輝石のベルトにつく効果を封印します。|封印する効果を　選んでください。|<break>": "Sealing an effect will cost <%dL_POINT_NUM> Sealed Sand.|Please choose an effect to seal.|<break>"
   },
   "44": {
-    "これ以上　輝石のベルトにつく効果を|封印することは　できません！|<bw_break>": "I can't seal the effects on the pyroxene belt|any longer!<bw_break>"
+    "これ以上　輝石のベルトにつく効果を|封印することは　できません！|<bw_break>": "You cannot seal any more effects!|<bw_break>"
   },
   "45": {
     "封印の砂が　足りません！|<bw_break>": "Not enough Sealed Sand!|<bw_break>"
@@ -162,22 +162,22 @@
     "輝石のベルトにつく効果を|最大まで　封印しています。|<break>": "The Augite Belt has the maximum amount of|effects sealed."
   },
   "55": {
-    "<%sL_ITEM><%sL_PLUSNUM>を　光の扉に捧げると|封印の砂が<%nL_POINT_NUM>個　手に入ります。|捧げたアイテムは失われますが　よろしいですか？|<yesno 2><break>": "If you offer <%sL_ITEM><%sL_PLUSNUM> to the|Door of Light, you will receive|<%nL_POINT_NUM> of sealing sand... The item|<br>|will be lost, is that okay?<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を　光の扉に捧げると|封印の砂が<%nL_POINT_NUM>個　手に入ります。|捧げたアイテムは失われますが　よろしいですか？|<yesno 2><break>": "By offering the <%sL_ITEM><%sL_PLUSNUM> to the Door|of Light, you will receive <%dL_POINT_NUM> Sealed Sand.|The item will be consumed. Proceed?|<yesno 2><break>"
   },
   "56": {
-    "<%sL_ITEM><%sL_PLUSNUM>は|今　装備しているものですが|本当に　捧げてよろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is what you have now,|are you sure you want to dedicate it?<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>は|今　装備しているものですが|本当に　捧げてよろしいですか？|<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is currently|equipped. Offer it anyway?|<yesno 2><break>"
   },
   "57": {
-    "輝石のベルトを　光の扉に捧げて|封印の砂を　増やします。|どの輝石のベルトを　捧げますか？|<break>": ""
+    "輝石のベルトを　光の扉に捧げて|封印の砂を　増やします。|どの輝石のベルトを　捧げますか？|<break>": "You can offer Augite Belts to the Door of|Light to obtain more Sealed Sand. Which belt|will you offer?|<break>"
   },
   "58": {
-    "封印の砂は　<%nL_MAX_NUM>個までしか持てません。|今　<%sL_ITEM><%sL_PLUSNUM>を　捧げると|<%nL_GET_NUM>個分しか増えませんが　よろしいですか？|<yesno 2><break>": "I can only hold <%nL_MAX_NUM> of the sealing|sand... If I give <%sL_ITEM><%sL_PLUSNUM>|now, it will only increase by <%nL_GET_NUM>,|<br>|is that correct?<yesno 2><break>"
+    "封印の砂は　<%nL_MAX_NUM>個までしか持てません。|今　<%sL_ITEM><%sL_PLUSNUM>を　捧げると|<%nL_GET_NUM>個分しか増えませんが　よろしいですか？|<yesno 2><break>": "You can only hold a maximum of <%dL_MAX_NUM> Sealed Sand.|By offering the <%sL_ITEM><%sL_PLUSNUM>, you will|only receive <%dL_GET_NUM2>. Proceed?|<yesno 2><break>"
   },
   "59": {
-    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>を|光の扉に捧げた。|<bw_break>": "<pc> is <%sL_ITEM><%sL_PLUSNUM> to the door of|light...<bw_break>"
+    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>を|光の扉に捧げた。|<bw_break>": "<pc> offered the <%sL_ITEM><%sL_PLUSNUM>.|<bw_break>"
   },
   "60": {
-    "<%sL_ITEM><%sL_PLUSNUM>は|ロックされているため|捧げることは　できません。|<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> is locked and cannot|be converted.<bw_break>"
+    "<%sL_ITEM><%sL_PLUSNUM>は|ロックされているため|捧げることは　できません。|<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> is locked and cannot|be offered.<bw_break>"
   },
   "61": {
     "封印の砂に　変えられるアイテムを|持っていません。|<end>": "You have no items that can be converted into|Sealed Sand.|<end>"
@@ -192,10 +192,10 @@
     "この効果は　すでに封印しています。|<bw_break>": "This effect has already been sealed.<bw_break>"
   },
   "65": {
-    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と|<%sL_KYOUKA_ITEM>を　光の扉に捧げた！|封印の砂の効果が　発動した！|<bw_break>": ""
+    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と|<%sL_KYOUKA_ITEM>を　光の扉に捧げた！|封印の砂の効果が　発動した！|<bw_break>": "<pc> offered the <%sL_ITEM><%sL_PLUSNUM>|and <%sL_KYOUKA_ITEM> to the Door of Light!|The Sealed Sand effects have activated!|<bw_break>"
   },
   "66": {
-    "輝石のベルトの効果の　封印状態を|リセットします。|<br>|リセットには　封印の砂を　<%nL_POINT_NUM>個　使いますが|これまでの封印に使った　<%nL_GET_NUM>個は|戻ってきます。|<br>|封印の砂は　<%nL_MAX_NUM>個までしか持てません。|今　リセットを行うと|<%nL_GET_NUM2>個分しか増えませんが　よろしいですか？|<yesno 2><break>": "Resetting the sealing effect of the pyroxene|belt... It takes <%nL_POINT_NUM> of sealing|sand to reset, but the <%nL_GET_NUM> you've|<br>|used for sealing so far will be returned...|You can only have <%nL_MAX_NUM> of sealing|sand... If I reset it now, it will only hold|<br>|<%nL_GET_NUM2> more sand, is that okay?<yesno 2><break>"
+    "輝石のベルトの効果の　封印状態を|リセットします。|<br>|リセットには　封印の砂を　<%nL_POINT_NUM>個　使いますが|これまでの封印に使った　<%nL_GET_NUM>個は|戻ってきます。|<br>|封印の砂は　<%nL_MAX_NUM>個までしか持てません。|今　リセットを行うと|<%nL_GET_NUM2>個分しか増えませんが　よろしいですか？|<yesno 2><break>": "To reset your sealed effects, you'll need to|use <%dL_POINT_NUM> Sealing Sand, and the <%dL_GET_NUM> Sealed|Sand you've used to seal will be returned.|<br>|However, you can only hold a maximum of|<%dL_MAX_NUM> Sealed Sand, so only <%dL_GET_NUM2> will be returned|to you. Reset your effects?|<yesno 2><break>"
   },
   "67": {
     "王家の迷宮には　仲間モンスターを|１匹　連れていくことができます。 |<br>|現在　仲間モンスターを連れていませんが|このまま　<%sL_KISEKI>を　<%nL_KISEKI_NUM>個使って|王家の迷宮に入って　よろしいですか？|<yesno2>|<close>": "I can bring one companion monster to the|Royal Labyrinth... I don't have any companion|monsters with me, but can I still use|<br>|<%sL_KISEKI> with <%nL_KISEKI_NUM> to enter|the Royal Labyrinth?<yesno2>|<close>"
@@ -222,7 +222,7 @@
     "封印の砂を　<%nL_GET_NUM>個　手に入れた！<se_nots System 7>|<end>": "You received <%dL_GET_NUM> Sealed Sand!|<se_nots System 7>|<end>"
   },
   "75": {
-    "<color_yellow>|１０周年記念　王家＆心層の迷宮フィーバー中！|期間中１日１回　勇気の輝石消費なしで|探索することができます。|<br>|さらに　１日１回　獲得経験値＋１００％になり|迷宮クリア時に　<%sL_ITEM_10TH>を|プレゼント！|<br>|１０周年記念　王家＆心層の迷宮フィーバーは|<ty%nPERIOD_START>年<tm%nPERIOD_START>月<td%nPERIOD_START>日<th%nPERIOD_START>時<ti%nPERIOD_START>分から|<ty%nPERIOD_END>年<tm%nPERIOD_END>月<td%nPERIOD_END>日<th%nPERIOD_END>時<ti%nPERIOD_END>分までです。|<end>": "<color_yellow>|It's the 10th Anniversary Royal & Mind Maze|Fever! Once per day, you can go inside the|Maze without using Courage Augite.|<br>|In addition, once per day, you'll get doubled|EXP and <%sL_ITEM_10TH> when|you clear the Maze!|<br>|Royal & Mind Maze Fever goes from| <tm%dPERIOD_START>/<td%dPERIOD_START>/<ty%dPERIOD_START> <th%dPERIOD_START>:<ti%02dPERIOD_START> until|<tm%dPERIOD_END>/<td%dPERIOD_END>/<ty%dPERIOD_END> <th%dPERIOD_END>:<ti%02dPERIOD_END>.|<end>"
+    "<color_yellow>|１０周年記念　王家＆心層の迷宮フィーバー中！|期間中１日１回　勇気の輝石消費なしで|探索することができます。|<br>|さらに　１日１回　獲得経験値＋１００％になり|迷宮クリア時に　<%sL_ITEM_10TH>を|プレゼント！|<br>|１０周年記念　王家＆心層の迷宮フィーバーは|<ty%nPERIOD_START>年<tm%nPERIOD_START>月<td%nPERIOD_START>日<th%nPERIOD_START>時<ti%nPERIOD_START>分から|<ty%nPERIOD_END>年<tm%nPERIOD_END>月<td%nPERIOD_END>日<th%nPERIOD_END>時<ti%nPERIOD_END>分までです。|<end>": "<color_yellow>|It's the 10th Anniversary Royal & Mind Maze|Fever! Once per day, you can go inside the|Maze without using Courage Augite.|<br>|In addition, once per day, you'll get doubled|EXP and <%sL_ITEM_10TH> when|you clear the Maze!|<br>|Royal & Mind Maze Fever goes from|<tm%dPERIOD_START>/<td%dPERIOD_START>/<ty%dPERIOD_START> <th%dPERIOD_START>:<ti%02dPERIOD_START> JST until|<tm%dPERIOD_END>/<td%dPERIOD_END>/<ty%dPERIOD_END> <th%dPERIOD_END>:<ti%02dPERIOD_END> JST.|<end>"
   },
   "76": {
     "<color_yellow>|１０周年記念　王家＆心層の迷宮フィーバー！|１日１回　勇気の輝石消費なしで入場できます。|さらに　獲得経験値＋１００％！|<end>": "<color_yellow>|It's the 10th Anniversary Royal & Mind Maze|Fever! Once per day, you can go inside without|using Courage Augite and get double EXP!|<end>"

@@ -3,22 +3,22 @@
     "「こんにちは！　アタシは　記録係マータ。|　不思議の魔塔について　研究するために|　魔闘士たちの探索情報を　記録しているの。|<br>|「塔をのぼった階や　魔闘士のつよさ　とか|　研究のために　知りたい内容を『実績』として　|　項目にまとめて　記録しているわ。|<br>|「キミ　なんだか　冒険になれてそうね。|　名前は……<pc>って　いうのね。|　<pc>　実績の研究に協力してくれない？|<br>|「もし　<pc>が　実績を達成して|　この部屋に　入ってきたら　教えるから|　実績にかかわる　話を聞かせてほしいの。|<br>|「達成した実績によっては　特別な報酬|　『虹のフェザーチップ』を　あげちゃうわ。|　ここでしか　手に入らない　レアものよ。|<br>|「実績の内容は　アタシに　話しかけてくれたら|　いつでも　教えてあげるから　よろしくね。|　……それじゃあ　さっそく。|<br>|「おつかれさま　<pc>。|　探索の実績について　確認できるわよ。|<break>": "Hello! I'm the archivist. I'm a record|keeper... I'm recording information about the|search for mages in order to research the|<br>|Mysterious Tower. I'll be recording the|floors climbed, the strength of the mages,|and anything else I need to know for my|<br>|research. You're kind of adventurous, aren't|you? My name is...<pc>    I mean...<pc>   Would you be willing to help me study the|results? If.<pc>  I'll let you know when you've completed your|achievements and come into this room, and you|can tell me about them. Depending on the|<br>|achievement, I'll give you a special reward,|the Rainbow Feather Chip... A rare item that|can only be obtained here... I'll tell you|<br>|the details of the achievements whenever you|talk to me. I'll tell you... Okay, bye. Good|night.<pc> I'm sorry. About the search results, I can|confirm...<break>"
   },
   "2": {
-    "「おつかれさま　<pc>。|　探索の実績について　確認できるわよ。|<break>": "that's enough for today<pc> I'm sorry. About the search results, I can|confirm...<break>"
+    "「おつかれさま　<pc>。|　探索の実績について　確認できるわよ。|<break>": "Good work, <pc>.|I can show you the achievements that you've|earned so far.|<break>"
   },
   "3": {
-    "<select_se_off>|実績を見る|特別報酬を受け取る|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|View Results|Receive special rewards|Listen to the explanation|stop|<select_end>|<break>"
+    "<select_se_off>|実績を見る|特別報酬を受け取る|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|View Achievements|Receive Rewards|Explanation|Cancel|<select_end>|<break>"
   },
   "4": {
-    "「それじゃあ　引き続き　探索がんばってね！|<end>": "Well, good luck with your search!<end>"
+    "「それじゃあ　引き続き　探索がんばってね！|<end>": "Good luck with your exploration!|<end>"
   },
   "5": {
-    "「他にも　確認したいことは　あるかしら？|<break>": "Is there anything else you'd like to confirm?<break>"
+    "「他にも　確認したいことは　あるかしら？|<break>": "Anything else that you need?<break>"
   },
   "6": {
-    "<select_se_off>|実績について|特別報酬について|マータについて|レプリカード発行証について|<select_end>|<break>": ""
+    "<select_se_off>|実績について|特別報酬について|マータについて|レプリカード発行証について|<select_end>|<break>": "<select_se_off>|About Achievements|About Rewards|About Marta|About Replicard Proof|<select_end>|<break>"
   },
   "7": {
-    "「何について　聞きたいのかしら？|<break>": "What do you want to talk about?<break>"
+    "「何について　聞きたいのかしら？|<break>": "What would you like to know?|<break>"
   },
   "8": {
     "「『実績』は　塔の研究のため　調べたい内容で|　探索して　<pc>に達成してほしいの。|　実績は　研究内容の裏付けになるわ。　|<br>|「まだ　塔の研究は　初期段階だけど|　もっと　上の階まで　登れるようになれば|　実績の内容は　増えていくかも　しれないわ。|<br>|「実績の内容は　『実績を見る』で見られるから|　気になったら　いつでも　確認してね。|<bw_break>": "\"Results\" is what I want to look up for my research on the tower| Explore<pc> I want you to achieve... The achievements are|a testament to your research. We're still in|the early stages of researching the tower,|<br>|but as we get higher and higher, the|achievements may increase. You can check out|the achievements by going to \"View|<br>|Achievements\"...<bw_break>"
@@ -30,42 +30,42 @@
     "「この不思議の魔塔の　仕組みを解き明かして|　立派な考古学者になるのが　アタシと弟|　ふたりの夢なの。|<br>|「学会では　はるか古代の塔を研究して|　壮大な論文を発表した人が　いたんだけど|　とっても　格好よくて　憧れているのよね。|<br>|「アタシと弟も　そんな　壮大な発表を目指して|　この魔塔を　研究しているのだけど|　<pc>の助けがあれば　できる気がする。|<br>|「ちなみに　弟も　魔塔に来るはずなんだけど|　まだ　来てないの。すごい　方向オンチだから|　たぶん　道に迷っているのかも。|<bw_break>": "My brother and I are trying to figure out how|this magical tower works and become great|archaeologists. At the academic conference,|<br>|there was a man who researched a far ancient|tower and presented a grand paper on it, and|he was very cool and I admired him... My|<br>|brother and I are also studying this magical|tower with the aim of making such a grand|presentation.<pc> I think I can do it with the help of... By|the way, my brother is supposed to come to|the tower too, but he hasn't arrived yet...|<br>|He's not very good with directions, so he's|probably lost...<bw_break>"
   },
   "11": {
-    "「これが　今　調べている実績よ。|<end>": "This is what we're looking for...<end>"
+    "「これが　今　調べている実績よ。|<end>": "These are your current achievements.|<end>"
   },
   "12": {
-    "「どの報酬を　受け取りたいのかしら？|<break>": "Which reward would you like to receive?<break>"
+    "「どの報酬を　受け取りたいのかしら？|　受け取り済みの　虹のフェザーチップは|　<%dM_bunbo>個のうち　<%dM_bunsi>個よ。|<break>": ""
   },
   "13": {
-    "「……あれ？　どうやら　<pc>に|　渡せる特別報酬は　まだ　ないみたい。|　実績を達成したら　また来てね。|<break>": "... Huh? It seems.<pc> I don't have a special reward to give to you|yet. I'll get back to you when I've completed|the achievement.<break>"
+    "「……あれ？　どうやら　<pc>に|　渡せる特別報酬は　まだ　ないみたい。|　実績を達成したら　また来てね。|<break>": "Hm? I don't have any rewards for you at the|moment. Come back when you've completed more|achievements.|<break>"
   },
   "14": {
-    "「……あれ？　どうぐかばんが　いっぱいだね。|　荷物を　整理してから　また来てね。|<bw_break>": "... What? My bag is full... I'll sort through|my stuff, and then I'll...<bw_break>"
+    "「……あれ？　どうぐかばんが　いっぱいだね。|　荷物を　整理してから　また来てね。|<bw_break>": "Looks like your bag's too full. Make some room|and then come back.<bw_break>"
   },
   "15": {
-    "「まだ　特別報酬を　受け取ることは|　できないわ。|<bw_break>": "I still can't accept the special reward...<bw_break>"
+    "「まだ　特別報酬を　受け取ることは|　できないわ。|<bw_break>": "You're still not eligible for that reward.<bw_break>"
   },
   "16": {
-    "「この報酬で　いいかしら？|<yesno><close>": "Do you think this is worth it?<yesno><close>"
+    "「この報酬で　いいかしら？|<yesno><close>": "This reward is fine?|<yesno><close>"
   },
   "17": {
-    "<pipipi_off>|<pc>は|<%sM_ITEM_NAME>を　<%dM_NUM>個　手に入れた！|<se_nots System 7><end>": ""
+    "<pipipi_off>|<pc>は|<%sM_ITEM_NAME>を　<%dM_NUM>個　手に入れた！|<se_nots System 7><end>": "<pipipi_off>|<pc> received <%dM_NUM> <%sM_ITEM_NAME>!|<se_nots System 7><end>"
   },
   "18": {
-    "「おつかれさま。|　<pc>のおかげで　塔のヒミツが|　また　解明されたわ。ありがとう！|<bw_break>": "Excuse me...<pc> Thanks to you, we've learned the secret of|the tower once again. Thank you!<bw_break>"
+    "「おつかれさま。|　<pc>のおかげで　塔のヒミツが|　また　解明されたわ。ありがとう！|<bw_break>": "I appreciate your hard work. Thanks to you,|I've discovered the tower's secret once more.|Thank you so much!|<bw_break>"
   },
   "19": {
-    "「他の特別報酬も　受け取るのかしら？|<break>": ""
+    "「他の特別報酬も　受け取るのかしら？|<break>": "Is there anything else you want?|<break>"
   },
   "20": {
-    "「……っと　それは　もう受け取り済みの報酬よ。|　特別報酬は　一度だけなの。ゴメンね。　|<bw_break>": "... I've already received that... One special|reward... G...<bw_break>"
+    "「……っと　それは　もう受け取り済みの報酬よ。|　特別報酬は　一度だけなの。ゴメンね。　|<bw_break>": "...but I've already given that to you. I can|only give that to you once. Sorry about that.|<bw_break>"
   },
   "21": {
-    "<pipipi_off>|<pc>は|<%sL_MEDAL_ITEM>を　手に入れた！|<me 60><end>": ""
+    "<pipipi_off>|<pc>は|<%sL_MEDAL_ITEM>を　手に入れた！|<me 60><end>": "<pipipi_off>|<pc> received <%sL_MEDAL_ITEM>!|<me 60><end>"
   },
   "22": {
-    "「<pc>　おつかれさま！|　４０階を突破したら　新しい　特別報酬として|　『レプリカード発行証』を　進呈するわ。|<br>|「レプリカード発行証を　持っていれば|　札強化屋ラベローが　レプリカードっていう|　札アクセサリーを　つくってくれるわよ！|<br>|「レプリカードは　<pc>が　持っている|　不思議のカードの合成効果を　まるっと|　コピーできちゃう　便利なカードらしいわ。|<br>|「詳細は　札強化屋ラベローが　知っているから|　レプリカード発行証を　手に入れたら|　ぜひ　聞きにいってね！　……さてと|<br>|「おつかれさま　<pc>|　探索の実績について　確認できるわよ。|<break>": ""
+    "「<pc>　おつかれさま！|　４０階を突破したら　新しい　特別報酬として|　『レプリカード発行証』を　進呈するわ。|<br>|「レプリカード発行証を　持っていれば|　札強化屋ラベローが　レプリカードっていう|　札アクセサリーを　つくってくれるわよ！|<br>|「レプリカードは　<pc>が　持っている|　不思議のカードの合成効果を　まるっと|　コピーできちゃう　便利なカードらしいわ。|<br>|「詳細は　札強化屋ラベローが　知っているから|　レプリカード発行証を　手に入れたら|　ぜひ　聞きにいってね！　……さてと|<br>|「おつかれさま　<pc>|　探索の実績について　確認できるわよ。|<break>": "Good work, <pc>! If you can|reach the 40th floor, you'll get a new reward:|the \"Replicard Proof\".|<br>|If you show that to Card Enhancer Rabero|downstairs, he'll make a Replicard for you!|It's a special Card accessory!|<br>|A Replicard can copy the current effects of|any Ace of Wonders cards you have. It's quite|convenient!|<br>|Rabero knows all the finer details, so make|sure to talk to him once you get that|Replicard Proof!|<br>|Anyways, great work as always. I can show you|the achievements you've earned so far.|<break>"
   },
   "23": {
-    "「４０階を突破したら　特別報酬として|　『レプリカード発行証』を　進呈するわ。|<br>|「レプリカード発行証を　持っていれば|　札強化屋ラベローが　レプリカードっていう|　札アクセサリーを　つくってくれるわよ！|<br>|「レプリカードは　<pc>が　持っている|　不思議のカードの合成効果を　まるっと|　コピーできちゃう　便利なカードらしいわ。|<br>|「詳細は　札強化屋ラベローが　知っているから|　レプリカード発行証を　手に入れたら|　ぜひ　聞きにいってね！|<bw_break>": ""
+    "「４０階を突破したら　特別報酬として|　『レプリカード発行証』を　進呈するわ。|<br>|「レプリカード発行証を　持っていれば|　札強化屋ラベローが　レプリカードっていう|　札アクセサリーを　つくってくれるわよ！|<br>|「レプリカードは　<pc>が　持っている|　不思議のカードの合成効果を　まるっと|　コピーできちゃう　便利なカードらしいわ。|<br>|「詳細は　札強化屋ラベローが　知っているから|　レプリカード発行証を　手に入れたら|　ぜひ　聞きにいってね！|<bw_break>": "If you can reach the 40th floor, you'll get a|special reward: the \"Replicard Proof\".|<br>|If you show that to Card Enhancer Rabero|downstairs, he'll make a Replicard for you!|It's a special Card accessory!|<br>|A Replicard can copy the current effects of|any Ace of Wonders cards you have. It's quite|convenient!|<br>|Rabero knows all the finer details, so make|sure to talk to him once you get that|Replicard Proof!|<bw_break>"
   }
 }

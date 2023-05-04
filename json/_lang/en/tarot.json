@@ -147,13 +147,13 @@
     "clarity_nt_char_49": "clarity_nt_char_49"
   },
   "50": {
-    "仲間ひとりの テンションを|１段階上げる|自分に使うことは できない": "Increase tension for 1 ally|by 1 level. Can't use on self."
+    "仲間ひとりの テンションを|１段階上げる|自分に使うことは できない": "Increase tension for 1 ally|by 1 level. Cannot use on self."
   },
   "51": {
     "clarity_nt_char_51": "clarity_nt_char_51"
   },
   "52": {
-    "仲間ひとりを|ＨＰ１で 生き返らせるが|失敗する時もある": "Revive one ally with 1 HP,|but it might fail."
+    "仲間ひとりを|ＨＰ１で 生き返らせるが|失敗する時もある": "Revive one ally with 1 HP with|a chance to fail."
   },
   "53": {
     "clarity_nt_char_53": "clarity_nt_char_53"
@@ -189,7 +189,7 @@
     "周りの仲間のＨＰを|２５～回復する": "Restore 25 HP to all nearby|allies."
   },
   "64": {
-    "周りの仲間を|ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with|1 HP, but it might fail."
+    "周りの仲間を|ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with|1 HP with a chance to fail."
   },
   "65": {
     "clarity_nt_char_65": "clarity_nt_char_65"
@@ -207,7 +207,7 @@
     "clarity_nt_char_69": "clarity_nt_char_69"
   },
   "70": {
-    "敵を幻惑させる|魔法陣が 少しの間出現": "Create a magic circle to|dazzle the enemy."
+    "敵を幻惑させる|魔法陣が 少しの間出現": "Create a magic circle to|dazzle enemies inside."
   },
   "71": {
     "敵１体の テンションが|上がった時に 自分も たまに|テンションが上がる効果": "When an enemy's tension|rises, yours may as well."
@@ -249,7 +249,7 @@
     "clarity_nt_char_83": "clarity_nt_char_83"
   },
   "84": {
-    "仲間ひとりの テンションを|２段階上げる|自分に使うことは できない": "Increase tension for 1 ally|by 2 levels. Can't use on self."
+    "仲間ひとりの テンションを|２段階上げる|自分に使うことは できない": "Increase tension for 1 ally|by 2 levels. Cannot use on self."
   },
   "85": {
     "clarity_nt_char_85": "clarity_nt_char_85"
@@ -261,7 +261,7 @@
     "周りの仲間のＭＰを|最大５０ 少しずつ回復": "Restore up to 50 MP to|nearby allies over time."
   },
   "88": {
-    "敵を眠りに誘う|魔法陣が出現": "Create a circle that|may inflict sleep."
+    "敵を眠りに誘う|魔法陣が出現": "Create a circle|that can|inflict sleep."
   },
   "89": {
     "clarity_nt_char_89": "clarity_nt_char_89"
@@ -270,7 +270,7 @@
     "周りの仲間に|呪文を 一度無効にする|スペルガード効果をかける": "Cast Spell Guard on nearby|allies, negating one spell."
   },
   "91": {
-    "大いなる闇が 敵１体を襲う|相手に 悪い効果が|ついているほど 威力が上がる": "Great Darkness strikes one|enemy, dealing more damage|if the target is debuffed."
+    "大いなる闇が 敵１体を襲う|相手に 悪い効果が|ついているほど 威力が上がる": "A strong darkness attack|that deals more damage if|the enemy has bad effects."
   },
   "92": {
     "clarity_nt_char_92": "clarity_nt_char_92"
@@ -291,7 +291,7 @@
     "周りの仲間のＨＰを|８０～回復する": "Restore up to 80 HP to all|nearby allies."
   },
   "98": {
-    "周りの仲間を|生き返らせるが|失敗する時もある": "Revive all nearby allies,|but it might fail."
+    "周りの仲間を|生き返らせるが|失敗する時もある": "Revive all nearby allies|with a chance to fail."
   },
   "99": {
     "乗っている敵に|ダメージが入りやすくなる|魔法陣が出現": "Create a magic circle that|increases damage dealt to|enemies within it."
@@ -336,10 +336,10 @@
     "仲間ひとりの テンションが上がった時に|自分も テンションが上がる効果": "Has a chance of increasing your tension|when an ally's tension rises."
   },
   "113": {
-    "仲間ひとりの テンションを１段階上げる|自分に使うことは できない": "Increase tension for 1 ally|by 1 level. Can't use on self."
+    "仲間ひとりの テンションを１段階上げる|自分に使うことは できない": "Increase tension for 1 ally|by 1 level. Cannot use on self."
   },
   "114": {
-    "仲間ひとりを ＨＰ１で 生き返らせるが|失敗する時もある": "Revive one ally with 1 HP,|but it might fail."
+    "仲間ひとりを ＨＰ１で 生き返らせるが|失敗する時もある": "Revive one ally with 1 HP with|a chance to fail."
   },
   "115": {
     "clarity_nt_char_115": "clarity_nt_char_115"
@@ -348,7 +348,7 @@
     "自分に 呪文を一度無効にする|スペルガード効果をかける": "Cast Spell Guard on yourself,|nullifying one spell."
   },
   "117": {
-    "相手に 属性耐性ダウン以外の 悪い効果が|ついているほど 威力が上がる闇の攻撃|": "A dark attack that deals more damage if|the target has any non-resistance debuffs."
+    "相手に 属性耐性ダウン以外の 悪い効果が|ついているほど 威力が上がる闇の攻撃|": "A dark attack that deals more damage if|the target has any non-resistance ailments."
   },
   "118": {
     "clarity_nt_char_118": "clarity_nt_char_118"
@@ -360,13 +360,13 @@
     "周りの仲間のＨＰを 最大３００|少しずつ回復し 守備力も上げる": "Restore up to 300 HP to all nearby allies,|and raise their defense."
   },
   "121": {
-    "仲間ひとりのＨＰを ２５～回復し|悪い効果を 打ち消す": "Restore 25 HP to all nearby allies|and negate any negative statuses."
+    "仲間ひとりのＨＰを ２５～回復し|悪い効果を 打ち消す": "Restore 25 HP to all nearby allies|and removes all ailments."
   },
   "122": {
     "周りの仲間のＨＰを ２５～回復する": "Restore 25 HP to all nearby|allies."
   },
   "123": {
-    "周りの仲間を ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with|1 HP, but it might fail."
+    "周りの仲間を ＨＰ１で 生き返らせるが|失敗する時もある": "Revive all nearby allies with 1 HP|with a chance to fail."
   },
   "124": {
     "clarity_nt_char_124": "clarity_nt_char_124"
@@ -378,7 +378,7 @@
     "clarity_nt_char_126": "clarity_nt_char_126"
   },
   "127": {
-    "近くにいる 範囲の敵を魅了する|みりょくが高いと確率アップ": "Create a magic circle to|charm nearby enemies."
+    "近くにいる 範囲の敵を魅了する|みりょくが高いと確率アップ": "Create a magic circle to|charm enemies inside."
   },
   "128": {
     "敵１体の テンションが上がった時に|自分も テンションが上がる効果": "When an enemy's tension|rises, yours will as well."
@@ -573,7 +573,7 @@
     "ドラキーマ": "Drackyma"
   },
   "192": {
-    "ツンドラキー": "Arctic Dracky"
+    "ツンドラキー": "Tundracky"
   },
   "193": {
     "clarity_nt_char_193": "clarity_nt_char_193"
@@ -696,7 +696,7 @@
     "おどるほうせき": "Goodybag"
   },
   "233": {
-    "スウィートバッグ": "Bag O' Sweets"
+    "スウィートバッグ": "Bag o' Sweets"
   },
   "234": {
     "clarity_nt_char_234": "clarity_nt_char_234"
@@ -765,7 +765,7 @@
     "clarity_nt_char_255": "clarity_nt_char_255"
   },
   "256": {
-    "わたぼう": "Watabou"
+    "わたぼう": "Fluffy"
   },
   "257": {
     "clarity_nt_char_257": "clarity_nt_char_257"
@@ -894,43 +894,43 @@
     "clarity_nt_char_298": "clarity_nt_char_298"
   },
   "299": {
-    "このタロットを|使うか ひき直した時に|ＨＰが １０回復する": "Using or redrawing this|Tarot recovers 10 HP."
+    "このタロットを|消費するか ひき直した時に|ＨＰが １０回復する": "Using or redrawing this Tarot|restores 10 HP."
   },
   "300": {
     "clarity_nt_char_300": "clarity_nt_char_300"
   },
   "301": {
-    "このタロットを|使うか ひき直した時に|ＨＰが １５回復する": "Using or redrawing this|Tarot recovers 15 HP."
+    "このタロットを|消費するか ひき直した時に|ＨＰが １５回復する": "Using or redrawing this Tarot|restores 15 HP."
   },
   "302": {
     "clarity_nt_char_302": "clarity_nt_char_302"
   },
   "303": {
-    "このタロットを|使うか ひき直した時に|ＨＰが ２０回復する": "Using or redrawing this|Tarot recovers 20 HP."
+    "このタロットを|消費するか ひき直した時に|ＨＰが ２０回復する": "Using or redrawing this Tarot|restores 20 HP."
   },
   "304": {
     "clarity_nt_char_304": "clarity_nt_char_304"
   },
   "305": {
-    "このタロットを|使うか ひき直した時に|ＨＰが ２５回復する": "Using or redrawing this|Tarot recovers 25 HP."
+    "このタロットを|消費するか ひき直した時に|ＨＰが ２５回復する": "Using or redrawing this Tarot|restores 25 HP."
   },
   "306": {
     "clarity_nt_char_306": "clarity_nt_char_306"
   },
   "307": {
-    "このタロットを|使うか ひき直した時に|ＭＰが ５回復する": "Using or redrawing this|Tarot recovers 5 MP."
+    "このタロットを|消費するか ひき直した時に|ＭＰが ５回復する": "Using or redrawing this Tarot|restores 5 MP."
   },
   "308": {
-    "このタロットを|使うか ひき直した時に|ＭＰが ８回復する": "Using or redrawing this|Tarot recovers 8 MP."
+    "このタロットを|消費するか ひき直した時に|ＭＰが ８回復する": "Using or redrawing this Tarot|restores 8 MP."
   },
   "309": {
-    "このタロットを|使うか ひき直した時に|ＭＰが １０回復する": "Using or redrawing this|Tarot recovers 10 MP."
+    "このタロットを|消費するか ひき直した時に|ＭＰが １０回復する": "Using or redrawing this Tarot|restores 10 MP."
   },
   "310": {
     "clarity_nt_char_310": "clarity_nt_char_310"
   },
   "311": {
-    "このタロットを|使うか ひき直した時に|ＭＰが １２回復する": "Using or redrawing this|Tarot recovers 12 MP."
+    "このタロットを|消費するか ひき直した時に|ＭＰが １２回復する": "Using or redrawing this Tarot|restores 12 MP."
   },
   "312": {
     "clarity_nt_char_312": "clarity_nt_char_312"
@@ -987,13 +987,13 @@
     "デッキに入れると １枚につき|すべてのタロットの|射程距離が ２ｍ長くなる": "Each copy in your deck|increases range of all Tarots|by 2m."
   },
   "330": {
-    "このタロットを|使うか ひき直した時に|自分のＨＰが ３％回復": "Using or redrawing this Tarot|recovers 3% of your HP."
+    "このタロットを|消費するか ひき直した時に|自分のＨＰが ３％回復": "Using or redrawing this Tarot|restores 3% of your HP."
   },
   "331": {
-    "このタロットを|使うか ひき直した時に|自分のＨＰが ５％回復": "Using or redrawing this Tarot|recovers 5% of your HP."
+    "このタロットを|消費するか ひき直した時に|自分のＨＰが ５％回復": "Using or redrawing this Tarot|restores 5% of your HP."
   },
   "332": {
-    "このタロットを|使うか ひき直した時に|自分のＨＰが １２％回復": "Using or redrawing this Tarot|recovers 12% of your HP."
+    "このタロットを|消費するか ひき直した時に|自分のＨＰが １２％回復": "Using or redrawing this Tarot|restores 12% of your HP."
   },
   "333": {
     "clarity_nt_char_333": "clarity_nt_char_333"
@@ -1017,16 +1017,16 @@
     "このタロットが 手札に入った時|１５％の確率で|テンションが上がる": "When this Tarot is put into|your hand, 15% chance to|gain tension."
   },
   "340": {
-    "このタロットを|使うか ひき直した時に|自分のＭＰが ３０回復": "Using or redrawing this|Tarot recovers your MP|by 30."
+    "このタロットを|消費するか ひき直した時に|自分のＭＰが ３０回復": "Using or redrawing this Tarot|restores 30 MP."
   },
   "341": {
-    "このタロットを|使うか ひき直した時に|自分のＭＰが ５０回復": "Using or redrawing this|Tarot recovers your MP|by 50."
+    "このタロットを|消費するか ひき直した時に|自分のＭＰが ５０回復": "Using or redrawing this Tarot|restores 50 MP."
   },
   "342": {
-    "このタロットを|使うか ひき直した時に|パーティのＨＰが ５％回復": "Using or redrawing this|Tarot recovers the party's|HP by 5%."
+    "このタロットを|消費するか ひき直した時に|パーティのＨＰが ５％回復": "Using or redrawing this Tarot|restores 5% of the party's HP."
   },
   "343": {
-    "このタロットを|使うか ひき直した時に|パーティのＨＰが １２％回復": "Using or redrawing this|Tarot recovers the party's|HP by 12%."
+    "このタロットを|消費するか ひき直した時に|パーティのＨＰが １２％回復": "Using or redrawing this Tarot|restores 12% of the party's HP."
   },
   "344": {
     "clarity_nt_char_344": "clarity_nt_char_344"
@@ -1176,13 +1176,13 @@
     "clarity_nt_char_392": "clarity_nt_char_392"
   },
   "393": {
-    "手札に 同じモンスターが|３枚そろうと オーラが発動": "Aura will activate if your hand|has 3 of the same monster."
+    "手札に 同じモンスターが|３枚そろうと オーラが発動": "Aura will activate if your hand|has 3 of this same monster."
   },
   "394": {
     "clarity_nt_char_394": "clarity_nt_char_394"
   },
   "395": {
-    "手札に 同じモンスターが|２枚そろうと オーラが発動": "Aura will activate if your hand|has 2 of the same monster."
+    "手札に 同じモンスターが|２枚そろうと オーラが発動": "Aura will activate if your hand|has 2 of this same monster."
   },
   "396": {
     "clarity_nt_char_396": "clarity_nt_char_396"
@@ -1206,166 +1206,166 @@
     "このモンスターは|特殊効果を|持っていない": "This monster has|no special|effects."
   },
   "403": {
-    "デッキに入れると|身かわし率が|０．１％上がる": "Dodge rate increased|by 0.1% when|put into your deck."
+    "デッキに入れると|身かわし率が|０．１％上がる": "Dodge rate increased|by 0.1% for|each copy in the deck."
   },
   "404": {
-    "デッキに入れると|身かわし率が|０．２％上がる": "Dodge rate increased|by 0.2% when|put into your deck."
+    "デッキに入れると|身かわし率が|０．２％上がる": "Dodge rate increased|by 0.2% for|each copy in the deck."
   },
   "405": {
-    "デッキに入れると|身かわし率が|０．３％上がる": "Dodge rate increased|by 0.3% when|put into your deck."
+    "デッキに入れると|身かわし率が|０．３％上がる": "Dodge rate increased|by 0.3% for|each copy in the deck."
   },
   "406": {
-    "デッキに入れると|すばやさが|４アップ": "Agility increased|by 4 when put|into your deck."
+    "デッキに入れると|すばやさが|４アップ": "Agility increased|by 4 for each|copy in the deck."
   },
   "407": {
-    "デッキに入れると|すばやさが|６上がる": "Agility increased|by 6 when put|into your deck."
+    "デッキに入れると|すばやさが|６上がる": "Agility increased|by 6 for each|copy in the deck."
   },
   "408": {
-    "デッキに入れると|すばやさが|７上がる": "Agility increased|by 7 when put|into your deck."
+    "デッキに入れると|すばやさが|７上がる": "Agility increased|by 7 for each|copy in the deck."
   },
   "409": {
-    "デッキに入れると|すばやさが|８上がる": "Agility increased|by 8 when put|into your deck."
+    "デッキに入れると|すばやさが|８上がる": "Agility increased|by 8 for each|copy in the deck."
   },
   "410": {
-    "デッキに入れると|みのまもりが|１上がる": "Resilience increased|by 1 when put|into your deck."
+    "デッキに入れると|みのまもりが|１上がる": "Resilience increased|by 1 for each|copy in the deck."
   },
   "411": {
     "clarity_nt_char_411": "clarity_nt_char_411"
   },
   "412": {
-    "デッキに入れると|みのまもりが|２上がる": "Resilience increased|by 2 when put|into your deck."
+    "デッキに入れると|みのまもりが|２上がる": "Resilience increased|by 2 for each|copy in the deck."
   },
   "413": {
     "clarity_nt_char_413": "clarity_nt_char_413"
   },
   "414": {
-    "デッキに入れると|みのまもりが|３上がる": "Resilience increased|by 3 when put|into your deck."
+    "デッキに入れると|みのまもりが|３上がる": "Resilience increased|by 3 for each|copy in the deck."
   },
   "415": {
     "clarity_nt_char_415": "clarity_nt_char_415"
   },
   "416": {
-    "デッキに入れると|みのまもりが|４上がる": "Resilience increased|by 4 when put|into your deck."
+    "デッキに入れると|みのまもりが|４上がる": "Resilience increased|by 4 for each|copy in the deck."
   },
   "417": {
     "clarity_nt_char_417": "clarity_nt_char_417"
   },
   "418": {
-    "使うかひき直しで|自分のＨＰが|１０回復する": "Using or redrawing|recovers your HP|by 10."
+    "消費かひき直しで|自分のＨＰが|１０回復する": "Using or redrawing|restores 10 HP."
   },
   "419": {
     "clarity_nt_char_419": "clarity_nt_char_419"
   },
   "420": {
-    "使うかひき直しで|自分のＨＰが|１５回復する": "Using or redrawing|recovers your HP|by 15."
+    "消費かひき直しで|自分のＨＰが|１５回復する": "Using or redrawing|restores 15 HP."
   },
   "421": {
     "clarity_nt_char_421": "clarity_nt_char_421"
   },
   "422": {
-    "使うかひき直しで|自分のＨＰが|２０回復する": "Using or redrawing|recovers your HP|by 20."
+    "消費かひき直しで|自分のＨＰが|２０回復する": "Using or redrawing|restores 20 HP."
   },
   "423": {
     "clarity_nt_char_423": "clarity_nt_char_423"
   },
   "424": {
-    "使うかひき直しで|自分のＨＰが|２５回復する": "Using or redrawing|recovers your HP|by 25."
+    "消費かひき直しで|自分のＨＰが|２５回復する": "Using or redrawing|restores 25 HP."
   },
   "425": {
     "clarity_nt_char_425": "clarity_nt_char_425"
   },
   "426": {
-    "使うかひき直しで|自分のＭＰが|５回復する": "Using or redrawing|recovers your MP|by 5."
+    "消費かひき直しで|自分のＭＰが|５回復する": "Using or redrawing|restores 5 MP."
   },
   "427": {
-    "使うかひき直しで|自分のＭＰが|８回復する": "Using or redrawing|recovers your MP|by 8."
+    "消費かひき直しで|自分のＭＰが|８回復する": "Using or redrawing|restores 8 MP."
   },
   "428": {
-    "使うかひき直しで|自分のＭＰが|１０回復する": "Using or redrawing|recovers your MP|by 10."
+    "消費かひき直しで|自分のＭＰが|１０回復する": "Using or redrawing|restores 10 MP."
   },
   "429": {
     "clarity_nt_char_429": "clarity_nt_char_429"
   },
   "430": {
-    "使うかひき直しで|自分のＭＰが|１２回復する": "Using or redrawing|recovers your MP|by 12."
+    "消費かひき直しで|自分のＭＰが|１２回復する": "Using or redrawing|restores 12 MP."
   },
   "431": {
     "clarity_nt_char_431": "clarity_nt_char_431"
   },
   "432": {
-    "デッキに入れると|かいふく魔力が|３上がる": "Magical Mending|increased by 3 when|put into your deck."
+    "デッキに入れると|かいふく魔力が|３上がる": "Magical Mending|increased by 3 for|each copy in the deck."
   },
   "433": {
-    "デッキに入れると|かいふく魔力が|４上がる": "Magical Mending|increased by 4 when|put into your deck."
+    "デッキに入れると|かいふく魔力が|４上がる": "Magical Mending|increased by 4 for|each copy in the deck."
   },
   "434": {
-    "デッキに入れると|かいふく魔力が|５上がる": "Magical Mending|increased by 5 when|put into your deck."
+    "デッキに入れると|かいふく魔力が|５上がる": "Magical Mending|increased by 5 for|each copy in the deck."
   },
   "435": {
-    "デッキに入れると|かいふく魔力が|８上がる": "Magical Mending|increased by 8 when|put into your deck."
+    "デッキに入れると|かいふく魔力が|８上がる": "Magical Mending|increased by 8 for|each copy in the deck."
   },
   "436": {
-    "デッキに入れると|こうげき魔力が|３上がる": "Magical Might|increased by 3 when|put into your deck."
+    "デッキに入れると|こうげき魔力が|３上がる": "Magical Might|increased by 3 for|each copy in the deck."
   },
   "437": {
-    "デッキに入れると|こうげき魔力が|４上がる": "Magical Might|increased by 4 when|put into your deck."
+    "デッキに入れると|こうげき魔力が|４上がる": "Magical Might|increased by 4 for|each copy in the deck."
   },
   "438": {
-    "デッキに入れると|こうげき魔力が|５上がる": "Magical Might|increased by 5 when|put into your deck."
+    "デッキに入れると|こうげき魔力が|５上がる": "Magical Might|increased by 5 for|each copy in the deck."
   },
   "439": {
-    "デッキに入れると|こうげき魔力が|８上がる": "Magical Might|increased by 8 when|put into your deck."
+    "デッキに入れると|こうげき魔力が|８上がる": "Magical Might|increased by 8 for|each copy in the deck."
   },
   "440": {
-    "デッキに入れると|タロット効果範囲|０．１ｍ延長": "Tarot effect range|increased by 0.1m when|put into your deck."
+    "デッキに入れると|タロット効果範囲|０．１ｍ延長": "Tarot effect range|increased by 0.1m for|each copy in the deck."
   },
   "441": {
     "clarity_nt_char_441": "clarity_nt_char_441"
   },
   "442": {
-    "デッキに入れると|タロット効果範囲|０．３ｍ延長": "Tarot effect range|increased by 0.3m when|put into your deck."
+    "デッキに入れると|タロット効果範囲|０．３ｍ延長": "Tarot effect range|increased by 0.3m for|each copy in the deck."
   },
   "443": {
     "clarity_nt_char_443": "clarity_nt_char_443"
   },
   "444": {
-    "デッキに入れると|タロット効果範囲|１ｍ延長": "Tarot effect range|increased by 1m when|put into your deck."
+    "デッキに入れると|タロット効果範囲|１ｍ延長": "Tarot effect range|increased by 1m for|each copy in the deck."
   },
   "445": {
     "clarity_nt_char_445": "clarity_nt_char_445"
   },
   "446": {
-    "デッキに入れると|タロット射程距離|０．２ｍ延長": "Tarot effect range|increased by 0.2m when|put into your deck."
+    "デッキに入れると|タロット射程距離|０．２ｍ延長": "Tarot effect range|increased by 0.2m for|each copy in the deck."
   },
   "447": {
     "clarity_nt_char_447": "clarity_nt_char_447"
   },
   "448": {
-    "デッキに入れると|タロット射程距離|０．５ｍ延長": "Tarot effect range|increased by 0.5m when|put into your deck."
+    "デッキに入れると|タロット射程距離|０．５ｍ延長": "Tarot effect range|increased by 0.5m for|each copy in the deck."
   },
   "449": {
     "clarity_nt_char_449": "clarity_nt_char_449"
   },
   "450": {
-    "デッキに入れると|タロット射程距離|２ｍ延長": "Tarot effect range|increased by 2m when|put into your deck."
+    "デッキに入れると|タロット射程距離|２ｍ延長": "Tarot effect range|increased by 2m for|each copy in the deck."
   },
   "451": {
     "clarity_nt_char_451": "clarity_nt_char_451"
   },
   "452": {
-    "使うかひき直しで|自分のＨＰが|３％回復する": "Using or redrawing|recovers your HP|by 3%."
+    "消費かひき直しで|自分のＨＰが|３％回復する": "Using or redrawing|restores 3% HP."
   },
   "453": {
     "clarity_nt_char_453": "clarity_nt_char_453"
   },
   "454": {
-    "使うかひき直しで|自分のＨＰが|５％回復する": "Using or redrawing|recovers your HP|by 5%."
+    "消費かひき直しで|自分のＨＰが|５％回復する": "Using or redrawing|restores 5% HP."
   },
   "455": {
     "clarity_nt_char_455": "clarity_nt_char_455"
   },
   "456": {
-    "使うかひき直しで|自分のＨＰが|１２％回復する": "Using or redrawing|recovers your HP|by 12%."
+    "消費かひき直しで|自分のＨＰが|１２％回復する": "Using or redrawing|restores 12% HP."
   },
   "457": {
     "手札に来た時|３％の確率で|テンションアップ": "3% chance to gain|tension when put|into your hand."
@@ -1386,25 +1386,25 @@
     "手札に来た時|１５％の確率で|テンションアップ": "15% chance to gain|tension when put|into your hand."
   },
   "463": {
-    "使うかひき直しで|自分のＭＰが|３０回復する": "Using or redrawing|recovers your MP|by 30."
+    "消費かひき直しで|自分のＭＰが|３０回復する": "Using or redrawing|restores 30 MP."
   },
   "464": {
     "clarity_nt_char_464": "clarity_nt_char_464"
   },
   "465": {
-    "使うかひき直しで|自分のＭＰが|５０回復する": "Using or redrawing|recovers your MP|by 50."
+    "消費かひき直しで|自分のＭＰが|５０回復する": "Using or redrawing|restores 50 MP."
   },
   "466": {
     "clarity_nt_char_466": "clarity_nt_char_466"
   },
   "467": {
-    "使うかひき直しで|ＰＴ全員のＨＰが|５％回復する": "Using or redrawing|recovers party HP|by 5%."
+    "消費かひき直しで|ＰＴ全員のＨＰが|５％回復する": "Using or redrawing|restores party|HP by 5%."
   },
   "468": {
     "clarity_nt_char_468": "clarity_nt_char_468"
   },
   "469": {
-    "使うかひき直しで|ＰＴ全員のＨＰが|１２％回復する": "Using or redrawing|recovers party HP|by 12%."
+    "消費かひき直しで|ＰＴ全員のＨＰが|１２％回復する": "Using or redrawing|restores party|HP by 12%."
   },
   "470": {
     "使っても|１０％の確率で|消費しない": "10% chance to not|consume after using."
@@ -1419,28 +1419,28 @@
     "clarity_nt_char_473": "clarity_nt_char_473"
   },
   "474": {
-    "デッキに入れると|最大ＭＰが|５上がる": "Max MP|increased by 5 when|put into your deck."
+    "デッキに入れると|最大ＭＰが|５上がる": "Max MP|increased by 5 for|each copy in the deck."
   },
   "475": {
-    "デッキに入れると|最大ＭＰが|１５上がる": "Max MP|increased by 15 when|put into your deck."
+    "デッキに入れると|最大ＭＰが|１５上がる": "Max MP|increased by 15 for|each copy in the deck."
   },
   "476": {
     "clarity_nt_char_476": "clarity_nt_char_476"
   },
   "477": {
-    "デッキに入れると|ちからが３上がる": "Strength|increased by 3 when|put into your deck."
+    "デッキに入れると|ちからが３上がる": "Strength|increased by 3 for|each copy in deck."
   },
   "478": {
-    "デッキに入れると|ちからが４上がる": "Strength|increased by 4 when|put into your deck."
+    "デッキに入れると|ちからが４上がる": "Strength|increased by 4 for|each copy in deck."
   },
   "479": {
-    "デッキに入れると|最大ＨＰが|１上がる": "Max HP|increased by 1 when|put into your deck."
+    "デッキに入れると|最大ＨＰが|１上がる": "Max HP|increased by 1 for|each copy in the deck."
   },
   "480": {
-    "デッキに入れると|最大ＨＰが|２上がる": "Max HP|increased by 2 when|put into your deck."
+    "デッキに入れると|最大ＨＰが|２上がる": "Max HP|increased by 2 for|each copy in the deck."
   },
   "481": {
-    "デッキに入れると|最大ＨＰが|３上がる": "Max HP|increased by 3 when|put into your deck."
+    "デッキに入れると|最大ＨＰが|３上がる": "Max HP|increased by 3 for|each copy in the deck."
   },
   "482": {
     "５％の確率で|使用時テンション|消費なし": "5% chance to not|consume tension|after using."
@@ -1470,28 +1470,28 @@
     "clarity_nt_char_490": "clarity_nt_char_490"
   },
   "491": {
-    "デッキに入れると|最大ＨＰが|８上がる": "Max HP|increased by 8 when|put into your deck."
+    "デッキに入れると|最大ＨＰが|８上がる": "Max HP|increased by 8 for|each copy in the deck."
   },
   "492": {
-    "デッキに入れると|ちからが|８上がる": "Strength|increased by 8 when|put into your deck."
+    "デッキに入れると|ちからが|８上がる": "Strength|increased by 8 for|each copy in the deck."
   },
   "493": {
     "clarity_nt_char_493": "clarity_nt_char_493"
   },
   "494": {
-    "デッキに入れると|こうげき魔力が|２４上がる": "Magical Might|increased by 24 when|put into your deck."
+    "デッキに入れると|こうげき魔力が|２４上がる": "Magical Might|increased by 24 for|each copy in the deck."
   },
   "495": {
     "clarity_nt_char_495": "clarity_nt_char_495"
   },
   "496": {
-    "デッキに入れると|受けるダメージが|５減る": "Damage taken|reduced by 5 when|put into your deck."
+    "デッキに入れると|受けるダメージが|５減る": "Damage taken|reduced by 5 for|each copy in the deck."
   },
   "497": {
     "手札に来た時|２０％の確率で|テンションアップ": "20% chance to gain|tension when put|into your hand."
   },
   "498": {
-    "デッキに入れると|かいふく魔力が|２５上がる": "Magical Mending|increased by 25 when|put into your deck."
+    "デッキに入れると|かいふく魔力が|２５上がる": "Magical Mending|increased by 25 for|each copy in the deck."
   },
   "499": {
     "clarity_nt_char_499": "clarity_nt_char_499"
@@ -1533,16 +1533,16 @@
     "手札に来た時|ＨＰとＭＰが|１０％回復": "Recover 10% of|your HP/MP when put|into your hand."
   },
   "512": {
-    "ワルぼう": "Warubou"
+    "ワルぼう": "Scruffy"
   },
   "513": {
     "clarity_nt_char_513": "clarity_nt_char_513"
   },
   "514": {
-    "このタロットが 手札に入った時|ほかのタロットのオーラ条件の|かわりになることができる": ""
+    "このタロットが 手札に入った時|ほかのタロットのオーラ条件の|かわりになることができる": "When this Tarot enters your hand,|it counts as a wildcard for|activating Aura."
   },
   "515": {
-    "手札に来た時|条件がそろうと|オーラ発動": ""
+    "手札に来た時|条件がそろうと|オーラ発動": "Activates Aura in your|hand if conditions are|met."
   },
   "516": {
     "clarity_nt_char_516": "clarity_nt_char_516"
@@ -1566,48 +1566,48 @@
     "メイデンドール": "Iron Maiden"
   },
   "523": {
-    "デッキに入れると １枚につき|すべてのタロットの 射程と|範囲が ０．５ｍ長くなる": ""
+    "デッキに入れると １枚につき|すべてのタロットの 射程と|範囲が ０．５ｍ長くなる": "Each copy in your deck|increases range of all Tarots|by 0.5m."
   },
   "524": {
-    "デッキに入れると １枚につき|最大ＨＰが １５ずつ上がる": ""
+    "デッキに入れると １枚につき|最大ＨＰが １５ずつ上がる": "Each copy in your deck|increases Max HP by 15."
   },
   "525": {
     "clarity_nt_char_525": "clarity_nt_char_525"
   },
   "526": {
-    "デッキに入れると １枚につき|ちからが １２ずつ上がる": ""
+    "デッキに入れると １枚につき|ちからが １２ずつ上がる": "Each copy in your deck|increases Strength by 12."
   },
   "527": {
-    "デッキに入れると １枚につき|こうげき魔力が ３０ずつ上がる": ""
+    "デッキに入れると １枚につき|こうげき魔力が ３０ずつ上がる": "Each copy in your deck|increases Magical Might by 30."
   },
   "528": {
     "clarity_nt_char_528": "clarity_nt_char_528"
   },
   "529": {
-    "デッキに入れると １枚につき|かいふく魔力が ３０ずつ上がる": ""
+    "デッキに入れると １枚につき|かいふく魔力が ３０ずつ上がる": "Each copy in your deck|increases Magical Mending by 30."
   },
   "530": {
     "clarity_nt_char_530": "clarity_nt_char_530"
   },
   "531": {
-    "デッキに入れると|タロット射程と|範囲０．５ｍ延長": ""
+    "デッキに入れると|タロット射程と|範囲０．５ｍ延長": "Tarot effect range|increased by 0.5m for|each copy in the deck."
   },
   "532": {
-    "デッキに入れると|最大ＨＰが|１５上がる": ""
+    "デッキに入れると|最大ＨＰが|１５上がる": "Max HP|increased by 15 for|each copy in the deck."
   },
   "533": {
     "clarity_nt_char_533": "clarity_nt_char_533"
   },
   "534": {
-    "デッキに入れると|ちからが|１２上がる": ""
+    "デッキに入れると|ちからが|１２上がる": "Strength|increased by 12 for|each copy in the deck."
   },
   "535": {
-    "デッキに入れると|こうげき魔力が|３０上がる": ""
+    "デッキに入れると|こうげき魔力が|３０上がる": "Magical Might|increased by 30 for|each copy in the deck."
   },
   "536": {
     "clarity_nt_char_536": "clarity_nt_char_536"
   },
   "537": {
-    "デッキに入れると|かいふく魔力が|３０上がる": ""
+    "デッキに入れると|かいふく魔力が|３０上がる": "Magical Mending|increased by 30 for|each copy in the deck."
   }
 }

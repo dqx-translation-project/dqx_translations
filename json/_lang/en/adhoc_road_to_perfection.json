@@ -30,7 +30,7 @@
     "<pipipi_mid>|「他に　何か　用はあるか？|<break>": "<pipipi_mid>Is there anything else I can do for you?<break>"
   },
   "11": {
-    "<pipipi_off><pc>は　<%sM_item>を|受け取った！|<se_nots System 7><pipipi_on><end>": "<pipipi_off><pc> has received <%sM_item>!|<se_nots System 7><pipipi_on><end>"
+    "<pipipi_off><pc>は　<%sM_item>を|<%nM_item_num>個　受け取った！|<se_nots System 7><pipipi_on><end>": "<pipipi_off><pc> received|<%dM_item_num> <%sM_item>!|<se_nots System 7><pipipi_on><end>"
   },
   "12": {
     "<pipipi_mid>|「おお　すげぇな！|　この目標　クリアしちまったのか。|　じゃあ　この報酬を……　|<br>|「なんだ　持ち物が　いっぱいじゃねぇか。|　荷物を整理してから　もう１回　来てくれ。|<end>": "<pipipi_mid>Oh, my God! I'm gonna clear this target.|Okay, here's your reward. Oh, my God. You|have so much stuff. I'm gonna go get my stuff|<br>|together, and then we'll come back...<end>"
@@ -180,7 +180,7 @@
     "clarity_nt_char_60": "clarity_nt_char_60"
   },
   "61": {
-    "<pipipi_off><pc>は|<%sL_DAIJI_ITEM>（だいじなもの）を手に入れた。|<me 60>|<end>": "<pipipi_off><pc>  is getting <%sL_DAIJI_ITEM> (something|important)...<me 60>|<end>"
+    "<pipipi_off><pc>は|<%sL_DAIJI_ITEM>（だいじなもの）を手に入れた。|<me 60>|<end>": "<pipipi_off><pc> received|<%sL_DAIJI_ITEM> (Key Item).|<me 60>|<end>"
   },
   "62": {
     "clarity_nt_char_62": "clarity_nt_char_62"
@@ -240,7 +240,7 @@
     "clarity_nt_char_80": "clarity_nt_char_80"
   },
   "81": {
-    "<pipipi_mid>|「おお！|　この目標は　クリアしたんだな！|　さすが　<pc>！　やるじゃねえか！！|<br>|「報酬は　直接渡したいから|　ダーマの俺のとこ　来てくれよ。|<end>": "<pipipi_mid>Oh! I see you've cleared this target! That's|what I'm talking about.<pc> You're good! You're good! I want to give you|your reward in person, so come to my place in|Dharma...<end>"
+    "<pipipi_mid>|「おお！|　この目標は　クリアしたんだな！|　さすが　<pc>！　やるじゃねえか！！|<br>|「報酬は　直接渡したいから|　ダーマの俺のとこ　来てくれよ。|<end>": "<pipipi_mid>Oh! I see you've cleared this target! That's|what I'm talking about.<pc> You're|good!! I want to give you your reward in|<br>|person, so come see me in Alltrades.|<end>"
   },
   "82": {
     "clarity_nt_char_82": "clarity_nt_char_82"
@@ -252,7 +252,7 @@
     "clarity_nt_char_84": "clarity_nt_char_84"
   },
   "85": {
-    "<pipipi_off>|真のダーマ神殿にいる|ディエゴのところへ　行ってみよう。|<end>": "<pipipi_off>Go to Diego in the true Dharma temple...<end>"
+    "<pipipi_off>|真のダーマ神殿にいる|ディエゴのところへ　行ってみよう。|<end>": "<pipipi_off>Go to Diego in the true Alltrades Abbey...<end>"
   },
   "86": {
     "clarity_nt_char_86": "clarity_nt_char_86"

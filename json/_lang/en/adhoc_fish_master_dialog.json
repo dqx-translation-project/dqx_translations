@@ -57,7 +57,7 @@
     "「フフフ……私が作った|　フィッシングコンテスト用の　|　釣り道具が　ほしいのですね！|<br>|「わかりました！|　それでは　こちらを受け取りください！|<end>": "Hmm... You want the fishing gear I made for|the fishing contest! I understand! Then|please accept this!<end>"
   },
   "20": {
-    "<pipipi_off>|<pc>は|<%sL_FISH_ROD>と　<%sL_FISH_RURE>を手に入れた！|<me 60><end>": "<pipipi_off>|<pc> got <%sL_FISH_ROD> and <%sL_FISH_RURE>!<me 60><end>"
+    "<pipipi_off>|<pc>は|<%sL_FISH_ROD>と　<%sL_FISH_RURE>を手に入れた！|<me 60><end>": "<pipipi_off>|<pc> received <%sL_FISH_ROD>|and <%sL_FISH_RURE>!<me 60><end>"
   },
   "21": {
     "「他に　何か|　ご用は　ありますか？|<break>": "Is there anything else I can do for you?<break>"
@@ -141,10 +141,10 @@
     "「こ……　これは……|　なんてことなの！？|<br>|「…<pc>さん！|　あなたの順位はっ…………|<br>|「<%dL_RANKING>位っ！|　優勝ですよっ！|<me_73><br>|「おめでとうございますっ！|　すごいっ！　ホントにすごいですっ！|<br>|「これは　<%dL_RANKING>位の報酬です！|　どうぞ受け取ってください！|<end>": "This is... This is... Oh, my God! ...<pc>  Three! What's your rank... <%dL_RANKING>! You|are the winner!<me_73>Congratulations! That's amazing! It's really|amazing! This is the reward for|<%dL_RANKING>th place! Please accept it!<end>"
   },
   "48": {
-    "「こんにちは！|　前回のフィッシングコンテスト|　とても　盛り上がりましたね！|<br>|「……そして　<pc>さん|　じつは　あなたの釣った魚が|　見事に　上位入賞したんですっ！|<br>|「でも　どうやら|　お金を持ちすぎてますね。|　いったん預けてから　また来てください！|<end>": "Hello! The last fishing contest was a lot of|fun! ... And...<pc> Mr. President, the fish you caught won the|top prize! But apparently I have too much|money... You'll have to leave it with us and|<br>|come back.<end>"
+    "「こんにちは！|　前回のフィッシングコンテスト|　とても　盛り上がりましたね！|<br>|「……そして　<pc>さん|　じつは　あなたの釣った魚が|　見事に　上位入賞したんですっ！|<br>|「でも　どうやら|　お金を持ちすぎてますね。|　いったん預けてから　また来てください！|<end>": "Hello! The last fishing was a lot of fun,|wasn't it?|<br>|Actually, it looks like your fish won a top|prize!|<br>|But you're carrying too much money. You'll|have to put some away and then come back!|<end>"
   },
   "49": {
-    "「こんにちは！|　前回のフィッシングコンテスト|　とても　盛り上がりましたね！|<br>|「……そして　<pc>さん|　じつは　あなたの釣った魚が|　見事に　上位入賞したんです！|<br>|「でも　どうやら持ち物が　いっぱいですね。|　いったん預けたり　売ったりしてから|　また来てください！|<end>": "Hello! The last fishing contest was a lot of|fun! ... And...<pc> The fish you caught won the top prize! But it|looks like you have a lot of stuff... You'll|have to drop them off, sell them, and then|<br>|come back.<end>"
+    "「こんにちは！|　前回のフィッシングコンテスト|　とても　盛り上がりましたね！|<br>|「……そして　<pc>さん|　じつは　あなたの釣った魚が|　見事に　上位入賞したんです！|<br>|「でも　どうやら持ち物が　いっぱいですね。|　いったん預けたり　売ったりしてから|　また来てください！|<end>": "Hello! The last fishing was a lot of fun,|wasn't it?|<br>|Actually, it looks like your fish won a top|prize!|<br>|But you're carrying too many things. You'll|have to sell or put away some of them and then|come back!|<end>"
   },
   "50": {
     "「…<pc>さん！|　あなたの順位は…………|<br>|「<%dL_RANKING>位！|　準優勝です！|<me_72><br>|「もう一歩で　優勝でした……。|　くぅぅぅ！|　すごく　惜しかったです！|<br>|「でも　これは　すごい記録なんですよ！|　誇ってください！|　本当に　おめでとうございます！|<br>|「これは　<%dL_RANKING>位の報酬です！|　どうぞ受け取ってください！|<end>": "<pc>  Three! Your rank is... <%dL_RANKING>th place!|Second place!<me_72>We were so close to winning... Aah! It was so|close! But this is a great record! You should|be proud! Really, congratulations! This is|<br>|the reward for <%dL_RANKING>th place! Please|accept it!<end>"
@@ -189,10 +189,10 @@
     "「こんにちは！|　今は　旬のさかなの時期ではないため|　フィッシングコンテストは　開催してません。|<br>|「みなさんに　釣ってほしい|　旬のさかなが　現れるまで|　しばらくの間　お待ちください。|<br_break>": "Hello! As the fish are not in season right|now, we will not be holding a fishing|contest... We'll have to wait a little while|<br>|for the fish of the season to appear...<br_break>"
   },
   "64": {
-    "「あ　<pc>さん　こんにちは！|　前回の　フィッシングコンテストは|　おかげさまで　とても盛り上がりましたよ！|<br>|「そして　<pc>さん……|　じつは　あなたの釣った魚が|　見事　上位入賞していたようなんですっ！|<br>|「というわけで　気になる順位を|　発表させて　いただきますねっ！|<br>|「えーと……。|<end>": "that (something mentioned before which is distant psychologically or in terms of time)<pc>  Hello! Thanks to you, our last fishing|contest was a lot of fun! And...<pc> Mr.... Actually, it seems that the fish you|caught won the top prize! So I'm going to|announce the rankings for you! Let's see...<end>"
+    "「あ　<pc>さん　こんにちは！|　前回の　フィッシングコンテストは|　おかげさまで　とても盛り上がりましたよ！|<br>|「そして　<pc>さん……|　じつは　あなたの釣った魚が|　見事　上位入賞していたようなんですっ！|<br>|「というわけで　気になる順位を|　発表させて　いただきますねっ！|<br>|「えーと……。|<end>": "Oh, <pc>, hello! Thanks to you,|the last contest was a lot of fun!|<br>|And, actually... it looks like the fish you|caught won the top prize!!|<br>|So, without further ado, let me announce|the rankings you have been so eagerly|waiting for!|<br>|Let's see...|<end>"
   },
   "65": {
-    "「あ　<pc>さん　こんにちは！|　前回の　フィッシングコンテストは|　おかげさまで　とても盛り上がりましたよ！|<br>|「ちなみに　<pc>さんは……|　残念ながら　惜しくも|　上位への　入賞なりませんでした……。|<br>|「これに　くじけず|　次回入賞を　目指して|　また　精進していきましょうね！|<end>": "that (something mentioned before which is distant psychologically or in terms of time)<pc>  Hello! Thanks to you, our last fishing|contest was a lot of fun! By the way.<pc> I'm sorry, but... Unfortunately, she didn't|make it to the top... Let's not be|discouraged by this, let's work hard to win|<br>|the next prize!<end>"
+    "「あ　<pc>さん　こんにちは！|　前回の　フィッシングコンテストは|　おかげさまで　とても盛り上がりましたよ！|<br>|「ちなみに　<pc>さんは……|　残念ながら　惜しくも|　上位への　入賞なりませんでした……。|<br>|「これに　くじけず|　次回入賞を　目指して|　また　精進していきましょうね！|<end>": "Oh, <pc>, hello! Thanks to you,|the last contest was a lot of fun!|<br>|Sorry to say, but you didn't make it into|the top rankings this time...|<br>|But don't let this get you down! Try your best|next time so you can win!|<end>"
   },
   "66": {
     "「……よし。|　これで前回までに　渡せていなかった|　サイズ別報酬は　すべて　お渡ししました。|<br>|「この調子で　大きな魚を|　たくさん　釣ってきてくださいね！|<end>": "..... Now we've given you all the rewards by|size that we didn't give you before... I hope|you catch a lot of big fish at this rate!<end>"
@@ -426,7 +426,7 @@
     "「そして！|　今回はさらに　もうひとつ　釣り魂に|　火がつくような　情報があるのです！|<br>|「これまでの　調査によって|　旬のさかなの特性は　巨大になるだけではない|　ということが　わかりました。|<br>|「今までは　ただのハズレ扱いされてきた|　小さな　旬のさかなたちも|　実は旬のさかなの　大きな特性だったのです！|<br>|「そこで今回は　<%sL_SPFISH_ITEM>と|　<%sL_SUBFISH_ITEM>の　最小サイズでも|　コンテストを　開催します！|<br>|「釣ってきた　旬のさかなを　見せていただければ|　最大サイズと　最小サイズを|　それぞれの　ランキングに登録します。|<br>|「登録されたサイズが　小さかった|　上位２００名の方にも|　素敵な　ランクイン報酬を差し上げます！|<br>|「大きな　<%sL_SPFISH_ITEM>だけでなく|　小さな　<%sL_SPFISH_ITEM>についても|　忘れずに　私に見せに来てくださいね！|<end>": "And! This time, I have one more piece of|information that will ignite your fishing|spirit! Through the research we've done so|<br>|far, we've learned that the characteristics|of fish in season go beyond just being|huge... These small in-season fish, which|<br>|have been treated as mere disappointments|until now, are actually a major|characteristic of in-season fish! So this|<br>|time, we're holding a contest for the|smallest size of <%sL_SPFISH_ITEM> and|<%sL_SUBFISH_ITEM>! All you have to do is|<br>|show us your catch of the season, and we'll|register the largest and smallest sizes in|the respective rankings... The top 200|<br>|fishermen who register the smallest size will|also receive a nice ranking reward! Don't|forget to come and show me your big|<br>|<%sL_SPFISH_ITEM> as well as your small|<%sL_SPFISH_ITEM>!<end>"
   },
   "143": {
-    "「あ　<pc>さん　こんにちは！|　前回の　フィッシングコンテストは|　おかげさまで　とても盛り上がりましたよ！|<br>|「そして　<pc>さん……|　じつは　あなたの釣った魚が|　最小ランキングで　上位入賞しているんですっ！|<br>|「というわけで　気になる順位を|　発表させて　いただきますねっ！|<br>|「えーと……。|<end>": "that (something mentioned before which is distant psychologically or in terms of time)<pc>  Hello! Thanks to you, our last fishing|contest was a lot of fun! And...<pc> Mr.... In fact, the fish you caught has won a|top prize in the minimum ranking! So I'm|going to announce the rankings for you! Let's|<br>|see...<end>"
+    "「あ　<pc>さん　こんにちは！|　前回の　フィッシングコンテストは|　おかげさまで　とても盛り上がりましたよ！|<br>|「そして　<pc>さん……|　じつは　あなたの釣った魚が|　最小ランキングで　上位入賞しているんですっ！|<br>|「というわけで　気になる順位を|　発表させて　いただきますねっ！|<br>|「えーと……。|<end>": "Oh, <pc>, hello! Thanks to you,|the last contest was a lot of fun!|<br>|And, actually... it looks like the fish you|caught won a prize in the Smallest size|rankings!|<br>|So, without further ado, let me announce|the rankings you have been so eagerly|waiting for!|<br>|Let's see...|<end>"
   },
   "144": {
     "「そして　<pc>さんが釣ってきた|　<%sL_SPFISH_ITEM>の　最大サイズが|　更新されたので　サイズ別報酬をお渡しします！　|<bw_break>": "and<pc> We've updated the maximum size of|<%sL_SPFISH_ITEM> you've caught, so we're|giving you a size-based reward!<bw_break>"

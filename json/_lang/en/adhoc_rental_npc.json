@@ -9,7 +9,7 @@
     "「レンタル衣装を　借りたいんだな？|　じゃあ　どの衣装を借りるか　選んでくれ。": "So, you want to rent a costume? Well, you can|choose which costume you'd like to rent..."
   },
   "4": {
-    "「<%sM_item>を　レンタルすると|　こんな感じになるぜ？|　この衣装を　レンタルするか？|<yesno><close>": "This is what it looks like when you rent|<%sM_item>, okay? Would you like to rent this|outfit?<yesno><close>"
+    "「<%sM_item>を　レンタルすると|　こんな感じになるぜ？|　この衣装を　レンタルするか？|<yesno><close>": "This is what the <%sM_item>|looks like. You want to rent it?|<yesno><close>"
   },
   "5": {
     "「お　<%sM_item2>を　持っているのか。|　それがあれば　１日の間　無料で|　この衣装を貸せるが　今使うか？|<yesno><close>": "Oh, I have a <%sM_item2>... If you have it, I|can lend you this costume for free for a day,|but do you need it now?<yesno><close>"
@@ -30,13 +30,13 @@
     "「それじゃあ　またな　旅人よ。心だけは|　いつも　クールに　はばたかせてくれ！": "I'll see you later... Just keep your mind|cool and fluttery."
   },
   "11": {
-    "<select_se_off>|レンタルする|説明を聞く|<select_end><close>": "<select_se_off>|Rent it|Listen to the explanation|<select_end><close>"
+    "<select_se_off>|レンタルする|説明を聞く|<select_end><close>": "<select_se_off>|Rental|Explanation|<select_end><close>"
   },
   "12": {
-    "<select_se_off 2>|レンタルする|説明を聞く|<select_end><close>": "<select_se_off 2>|Rent it|Listen to the explanation|<select_end><close>"
+    "<select_se_off 2>|レンタルする|説明を聞く|<select_end><close>": "<select_se_off 2>|Rental|Explanation|<select_end><close>"
   },
   "13": {
-    "「オレは　さすらいのレンタル衣装屋　パルノ。|　迷える旅人よ。今日は　なんの用だ？|<break>": "I'm a wandering costume rental... Lost...|What can I do for you today?<break>"
+    "「オレは　さすらいのレンタル衣装屋　パルノ。|　迷える旅人よ。今日は　なんの用だ？|<break>": "I'm Parno, and this is my wandering Rental|Shop. What can I do for you today, my lost|traveler?|<break>"
   },
   "14": {
     "<select_se_off>|はい|いいえ|<select_end><close>": ""
@@ -69,10 +69,10 @@
     "「<%sM_item>は　チケット制の衣装だ。|　ハロウィン衣装券があれば　何度でも|　借りられるぜ。レンタル期間は　９日間だ。|<br>|「ただし　ハロウィンイベント期間中は|　特別に　レンタル期間を　継続させてやるぜ！|　この<%sM_item>を　借りるか？|<yesno><close>": "<%sM_item> is a ticketed... If you have a|Halloween costume ticket, you can rent it as|many times as you want... The rental period|<br>|is 9... However, during the Halloween event,|we'll be extending the rental period. Would|you like to rent this <%sM_item>?<yesno><close>"
   },
   "24": {
-    "「<%sM_item>は　チケット制の衣装だ。|　<%sM_item2>で　何度も借りられるぜ。|　レンタル期間は　９日間だ。|<br>|「ただし　イベント期間中は|　特別に　レンタル期間を　継続させてやるぜ！|　この<%sM_item>を　借りるか？|<yesno><close>": "<%sM_item> is a ticket system... <%sM_item2>|can be rented again and again... The rental|period is 9... But for the duration of the|<br>|event, we're extending the rental period.|Would you like to rent this <%sM_item>?<yesno><close>"
+    "「<%sM_item>は　チケット制の衣装だ。|　<%sM_item2>で　何度も借りられるぜ。|　レンタル期間は　９日間だ。|<br>|「ただし　イベント期間中は|　特別に　レンタル期間を　継続させてやるぜ！|　この<%sM_item>を　借りるか？|<yesno><close>": "<%sM_item> is a ticket outfit.|<%sM_item2> can be rented as many times|as you want. The rental period is 9 days.|<br>|However, since there's an event now, this|rental will last the entire time! So, do you|want to to rent the <%sM_item>?|<yesno><close>"
   },
   "25": {
-    "「<%sM_item>は　チケット制の衣装だ。|　<%sM_item2>で　何度も借りられるぜ。|　レンタル期間は　９日間だ。|<br>|「この<%sM_item>を　借りるか？|<yesno><close>": "<%sM_item> is a ticket system... <%sM_item2>|can be rented again and again... The rental|period is 9... Would you like to rent this|<br>|<%sM_item>?<yesno><close>"
+    "「<%sM_item>は　チケット制の衣装だ。|　<%sM_item2>で　何度も借りられるぜ。|　レンタル期間は　９日間だ。|<br>|「この<%sM_item>を　借りるか？|<yesno><close>": "<%sM_item> is a ticket outfit.|<%sM_item2> can be rented as many times|as you want. The rental period is 9 days.|<br>|So, do you want to to rent the|<%sM_item>?|<yesno><close>"
   },
   "26": {
     "「メッセージ予備枠": "message waiting room"

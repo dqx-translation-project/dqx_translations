@@ -363,7 +363,7 @@
     "<speed=0><%sM_pc>を|ストーリーリーダーにしますか？<yesno><close>": "<speed=0>Do you want <%sM_pc> to be your story reader?<yesno><close>"
   },
   "122": {
-    "<speed=0><%sM_pc>が　ストーリーリーダーになった！": "<speed=0><%sM_pc> is now the story reader!"
+    "<speed=0><%sM_pc>が　ストーリーリーダーになった！": "<speed=0><%sM_pc> is now the story leader!"
   },
   "123": {
     "<speed=0>クエストがありません。": "<speed=0>There are quests..."
@@ -600,19 +600,19 @@
     "ふつうの状態です": "Normal condition"
   },
   "201": {
-    "<%sM_syokugyou>で　よろしいですか？": "Are you sure you want <%sM_syokugyou>?"
+    "<%sM_syokugyou>で　よろしいですか？": "Select the <%sM_syokugyou> vocation?"
   },
   "202": {
-    "あなたのキャラの姿は　これで　よろしいですか？": "Are you sure this is what your character will|look like?"
+    "あなたのキャラの姿は　これで　よろしいですか？": "Finalize your character's appearance?"
   },
   "203": {
-    "この　ふたりのキャラで　冒険の書を作ります。|よろしいですか？": "I'd like to create an adventure book with|these two characters. May I?"
+    "この　ふたりのキャラで　冒険の書を作ります。|よろしいですか？": "Create an Adventure Log using these two|characters?"
   },
   "204": {
-    "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あね|いもうと|<select_end>|<close>": ""
+    "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あね|いもうと|<select_end>|<close>": "<speed=0>What is your sibling to you?|<select_se_off>|Older Sister|Younger Sister|<select_end>|<close>"
   },
   "205": {
-    "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あに|おとうと|<select_end>|<close>": ""
+    "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あに|おとうと|<select_end>|<close>": "<speed=0>What is your sibling to you?|<select_se_off>|Older Brother|Younger Brother|<select_end>|<close>"
   },
   "206": {
     "<speed=0>手紙の作成に　失敗しました。|もう一度　やり直してください。": "<speed=0>I failed to compose the letter... Can you try|again?"
@@ -993,7 +993,7 @@
     "どちらのキャラを　作りなおしますか？": "Which character would you like to recreate?"
   },
   "332": {
-    "しかし なにも みつからなかった。": "But I can't find anything..."
+    "しかし なにも みつからなかった。": "But you couldn't find anything."
   },
   "333": {
     "<speed=0>|なかまにさそうの　説明です！|<br>|他のプレイヤーのキャラを仲間にさそって|相手からも　ＯＫしてもらえると　そのキャラと|仲間になります。パーティを組むとも言います。|<br>|仲間になると　一緒にバトルをしたり|ストーリーを進めたり　仲間だけに聞こえる|専用のチャットも　使えるようになります。|<br>|ストーリーは　ストーリーリーダーのものが|進行します。ストーリーリーダーと|同じ進み具合の人は　一緒に　お話が進行します。|<br>|仲間から抜けたいときは|さくせんコマンドの　なかまから|『なかまをぬける』で　抜けられます。": "<speed=0>Here's an explanation of companionship. If|you invite another player's character to join|you, and they accept, you become friends with|<br>|that character. It's also called \"forming a|party. If you're a member of a party, you can|fight battles together, advance in the story,|<br>|and use a special chat that only your friends|can hear... The story progresses according to|the story leader's progress... If you're on|<br>|the same level as the story leader, you'll|progress through the story together... If you|want to leave your friends, you can do so by|<br>|choosing \"leave friends\" from \"friends\" in|the Operation command..."

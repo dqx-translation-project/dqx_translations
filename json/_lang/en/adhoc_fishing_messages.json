@@ -6,7 +6,7 @@
     "<speed=0>釣ったさかなを　あきらめますか？|<%sL_FISH>　<%sL_SIZE>ｃｍ|<yesno 2><break>": "<speed=0>Give up the fish you caught?|<%sL_FISH> <%sL_SIZE>cm<yesno 2><break>"
   },
   "3": {
-    "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> gained <%dL_EXP> Fishing EXP!|<se_nots System 7><bw_break>"
+    "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> received <%dL_EXP> Fishing EXP!|<se_nots System 7><bw_break>"
   },
   "4": {
     "<speed=0>ここには　さかながいないようだ。|<end>": "<speed=0>There are no fish here.<end>"
@@ -42,7 +42,7 @@
     "<speed=0>釣りざおを　しまいますか？|<yesno><close>": "<speed=0>Put away your fishing rod?|<yesno><close>"
   },
   "15": {
-    "<%sL_LURE>の効果で　深く食らいついた！|くいつき度が　<%dL_BITE_BONUS>　上がった！": "<%sL_LURE>'s effect!|Your bite rate has increased by <%dL_BITE_BONUS>!"
+    "<%sL_LURE>の効果で　深く食らいついた！|くいつき度が　<%dL_BITE_BONUS>　上がった！": "<%sL_LURE>'s effect!|Your Line HP has increased by <%dL_BITE_BONUS>!"
   },
   "16": {
     "何かが　かかった！": "Hooked something!"
@@ -78,13 +78,13 @@
     "<%.1fL_DISTANCE>メートル離れた！": "Swam <%.1fL_DISTANCE> meters away!"
   },
   "27": {
-    "くいつき度が　<%dL_KUITUKIDO>減った！": "Bite level decreased by <%dL_KUITUKIDO>!"
+    "くいつき度が　<%dL_KUITUKIDO>減った！": "Line HP decreased by <%dL_KUITUKIDO>!"
   },
   "28": {
-    "くいつき度が　<%dL_KUITUKIDO>増えた！": "Bite level increased by <%sL_KUITUKIDO>!"
+    "くいつき度が　<%dL_KUITUKIDO>増えた！": "Line HP increased by <%dL_KUITUKIDO>!"
   },
   "29": {
-    "<speed=0><color_yellow>釣りバトルの遊び方の説明です！|<br>|ルアーの　くいつき度が　ゼロになる前に|さおを引いて　さかなを岸まで引き寄せましょう！|<br>|さおをゆるめる　全力で引く　などの釣りとくぎは|１度の釣りバトルで使える回数が限られています。|<br>|釣りとくぎを使う　タイミングを見きわめ|みごと　さかなを　釣り上げるのです！|<end>": "<speed=0><color_yellow>This is an explanation of how to play Fishing|Battle! Pull the hook before the lure's bite|level drops to zero to pull the fish to|<br>|shore! You can only use a limited number of|fishing tricks in one fishing battle, such as|loosening the hook and pulling as hard as you|<br>|can. Find the right time to use them and|catch the fish!<end>"
+    "<speed=0><color_yellow>釣りバトルの遊び方の説明です！|<br>|ルアーの　くいつき度が　ゼロになる前に|さおを引いて　さかなを岸まで引き寄せましょう！|<br>|さおをゆるめる　全力で引く　などの釣りとくぎは|１度の釣りバトルで使える回数が限られています。|<br>|釣りとくぎを使う　タイミングを見きわめ|みごと　さかなを　釣り上げるのです！|<end>": "<speed=0><color_yellow>This is will explain Fishing Battles!|<br>|Reel in your fishing rod before your Line HP|to pull the fish ashore!|<br>|You can only use fishing skills a certain|number of times per battle, such as|loosening your rod or reeling in hard.|<br>|Use this skills at the opportune moments|to successfully catch the fish!|<end>"
   },
   "30": {
     "さかなが　かかった！　これは　大物だ！": "Hooked a fish! It's a big one!"
@@ -105,7 +105,7 @@
     "<%sL_ACTION_MSG>|<%sL_ACTION_MSG2>|<%sL_ACTION_MSG3>": "<%sL_ACTION_MSG>|<%sL_ACTION_MSG2>|<%sL_ACTION_MSG3>"
   },
   "36": {
-    "しかし　くいつき度は　増えなかった。": "But the bite rate didn't increase."
+    "しかし　くいつき度は　増えなかった。": "But your Line HP didn't increase."
   },
   "37": {
     "<speed=0>この釣り場のさかなは　手強そうだ。|ここで　釣りを始めますか？|<yesno><break>": "<speed=0>The fish in this area are tough. Would you|like to start fishing here?<yesno><break>"
@@ -114,7 +114,7 @@
     "<speed=0>この釣り場のさかなは　かなり　手強そうだ。|ここで　釣りを始めますか？|<yesno><break>": "<speed=0>The fish in this area are pretty tough.|Would you like to start fishing here?<yesno><break>"
   },
   "39": {
-    "しかし　さおをゆるめていたので|くいつき度は　減らなかった！": "I loosened my fishing rod, so I|didn't lose any bite rate!"
+    "しかし　さおをゆるめていたので|くいつき度は　減らなかった！": "However, loosening the line caused your|Line HP to not decrease!"
   },
   "40": {
     "<speed=0>釣ったさかなを　あきらめますか？|<color_yellow><%sL_FISH>　<%sL_SIZE>ｃｍ　<%sL_RANK_TEXT><color_white>|<yesno 2><break>": "<speed=0>Discard the fish you caught?|<color_yellow><%sL_FISH> <%sL_SIZE> cm <%sL_RANK_TEXT><color_white>|<yesno 2><break>"

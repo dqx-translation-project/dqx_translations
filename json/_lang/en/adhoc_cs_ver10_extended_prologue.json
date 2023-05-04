@@ -78,7 +78,7 @@
     "「テキスト削除": "text deletion"
   },
   "27": {
-    "「さあ　オレの錬金釜で|　上やくそうを　錬金してみろ！|　本当に　やれるもんなら　やってみやがれ！": ""
+    "「さあ　オレの錬金釜で|　上やくそうを　錬金してみろ！|　本当に　やれるもんなら　やってみやがれ！": "Go ahead, try to alchemize some Strong|Medicine in my Alchemy Pot! If you can do it,|then do it!"
   },
   "28": {
     "「できた……！？|　そんな　まさか……。": "You did it...?!|There's no way..."
@@ -102,7 +102,7 @@
     "「おい　ウマのホネ！|　お前に　頼みがある！": "Hey, nobody!|I need you to do something for me!"
   },
   "35": {
-    "「メラゾ熱にかかって　死にかけてる　オレの娘|　……リリオルを　治すクスリを|　お前に　錬金してもらいてえんだ！": "My daughter, Lyriol, is dying of Mellazo|Fever. I need you to alchemize a cure for her!"
+    "「メラゾ熱にかかって　死にかけてる　オレの娘|　……リリオルを　治すクスリを|　お前に　錬金してもらいてえんだ！": "My daughter, Lyriol, is dying of Kafrizz|Fever. I need you to alchemize a cure for her!"
   },
   "36": {
     "「さあっ　こいつを　受け取ってくれ！": "Now, take this!"
@@ -111,10 +111,10 @@
     "「テキスト削除": "text deletion"
   },
   "38": {
-    "<kyodai>は|メラゾ熱のクスリの本を　手に入れた！<me 60>": "<kyodai> received the Mellazo Fever Cure|Recipe!<me 60>"
+    "<kyodai>は|メラゾ熱のクスリの本を　手に入れた！<me 60>": "<kyodai> received the Kafrizz Fever|Medicine Recipe!<me 60>"
   },
   "39": {
-    "「メラゾ熱ってのは　大昔の　恐ろしい病気だ。|　オレが　素材集めなんか手伝わせたばっかりに|　リリオルを　こんな目に　あわせちまった……。": "Mellazo Fever is a horrible disease from long|ago. I got Lyriol into this mess because I|asked her to gather materials for me..."
+    "「メラゾ熱ってのは　大昔の　恐ろしい病気だ。|　オレが　素材集めなんか手伝わせたばっかりに|　リリオルを　こんな目に　あわせちまった……。": "Kafrizz Fever is a horrible disease from long|ago. I got Lyriol into this mess because I|asked her to gather materials for me..."
   },
   "40": {
     "「頼む！　オレに代わってクスリを錬金してくれ！|　材料の　めざめの花と　レッドベリーは|　どっちも　その辺で　簡単に手に入る素材だ！": "Please! Alchemize the cure in my place! The|ingredients, Wakerobin and Buzzberries, are|both easy to find nearby!"
@@ -132,7 +132,7 @@
     "「テキスト削除<yesno><close>": "text deletion<yesno><close>"
   },
   "45": {
-    "<kyodai>は　イッショウに|メラゾ熱のクスリを　渡した！": "<kyodai> gave Issho the Mellazo Fever|Cure!"
+    "<kyodai>は　イッショウに|メラゾ熱のクスリを　渡した！": "<kyodai> gave Issho the Kafrizz Fever|Medicine!"
   },
   "46": {
     "「ありがてえ……。恩に着るぜ！": "Thanks... I owe you one!"
@@ -180,7 +180,7 @@
     "<center>そして　夜が明けた！": "Then morning came!"
   },
   "61": {
-    "「おい　宿ナシ！　起きてくれ！|　メラゾ熱のクスリが効いて|　リリオルが　元気になったんだ！": "Hey, hobo! Wake up!|Lyriol's feeling better now that the Mellazo|Fever medication has kicked in!"
+    "「おい　宿ナシ！　起きてくれ！|　メラゾ熱のクスリが効いて|　リリオルが　元気になったんだ！": "Hey, hobo! Wake up!|Lyriol's feeling better now that the Kafrizz|Fever Medicine has kicked in!"
   },
   "62": {
     "「お前のおかげだ。|　なんと　礼を言っていいか……。": "This is all thanks to you.|I don't know how I can ever repay you..."
@@ -234,7 +234,7 @@
     "「……はあ？|　てめえ　勝手に決めてんじゃねえ！|　この家の主は　オレだ！": "...Huh?|Don't just decide that on your own!|I'm the owner of this house!"
   },
   "79": {
-    "「お父さんは　もう錬金できないんでしょ？|　なら　<kyodai>が代わりに　錬金釜を|　使ってくれたほうが　みんなのためになるわ！": "But you can't use alchemy anymore, can you?|So it'd be better for everyone if <kyodai>|used the Alchemy Pot instead!"
+    "「お父さんは　もう錬金できないんでしょ？|　なら　<kyodai>が代わりに　錬金釜を|　使ってくれたほうが　みんなのためになるわ！": "But you can't use alchemy anymore, can you?|So it'd be better for everyone if|<kyodai> used the Alchemy Pot instead!"
   },
   "80": {
     "「て……　てめえっ　リリオル！|　元気になったとたん　言いたい放題だな。|　このヤロウ！": "B...blast it, Lyriol! Now that you're better,|you think you can say whatever you want! You|brat!"
@@ -405,13 +405,13 @@
     "「ああ……。|　そうじゃった　そうじゃった。": "Ohh...|That's right, that's right."
   },
   "136": {
-    "「皆に　紹介しよう！|　この　ハツラツ豆を作ってくれたのが|　ここにいる　<kyodai>じゃ。": "Allow me to introduce you all!|This is <kyodai>, the person who made that|bean."
+    "「皆に　紹介しよう！|　この　ハツラツ豆を作ってくれたのが|　ここにいる　<kyodai>じゃ。": "Allow me to introduce you all!|This is <kyodai>, the person who made|that bean."
   },
   "137": {
     "「カメさまの　お告げの通り|　わしが　新たなる巫女となるために|　チカラを尽くしてくれた！": "As the Galapogod instructed me, I did|everything in my power to become the new|priestess!"
   },
   "138": {
-    "「わしは　村の救世主　<kyodai>に敬意を表し|　エテーネの民のひとりとして　迎えると決めた。|　皆の者も　仲良くしてやってくれい！": "I've decided to honor the savior of the|village, <kyodai>, and welcome them as one|of our own. Treat them kindly, everyone!"
+    "「わしは　村の救世主　<kyodai>に敬意を表し|　エテーネの民のひとりとして　迎えると決めた。|　皆の者も　仲良くしてやってくれい！": "I've decided to honor the savior of the|village, <kyodai>, and welcome them as|one of our own. Treat them kindly, everyone!"
   },
   "139": {
     "「以上！　解散っ！！": "That is all! Dismissed!"
@@ -504,10 +504,10 @@
     "「テキスト削除": "text deletion"
   },
   "169": {
-    "「メラゾ熱のクスリを　作って|　どうか　リリオルの命を救ってやってくれ！！": ""
+    "「メラゾ熱のクスリを　作って|　どうか　リリオルの命を救ってやってくれ！！": "Please make Kafrizz Fever Medicine and save|Lyriol's life!!!!!!!!!!!!!!!!!!!!!!!!!!"
   },
   "170": {
-    "イッショウは　リリオルに|メラゾ熱のクスリを　飲ませた！": "Issho gave Lyriol the Mellazo Fever cure!"
+    "イッショウは　リリオルに|メラゾ熱のクスリを　飲ませた！": "Issho gave Lyriol the Kafrizz Fever Medicine!"
   },
   "171": {
     "「<kyodai>。わしには　わかっておるぞ。|　お前は　時渡りの術により|　この時代に　来たのじゃろう？": "<kyodai>, I know. You came to this time|through the art of time travel, didn't you?"

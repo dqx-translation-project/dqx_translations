@@ -33,7 +33,7 @@
     "<%sPC>": "<%sPC>"
   },
   "12": {
-    "<%n_YYYY>年<%n_MM>月<%n_DD>日まで": "Until <%02d_MM>/<%d_DD>/<%d_YYYY>"
+    "<%n_YYYY>年<%n_MM>月<%n_DD>日まで": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY>"
   },
   "13": {
     "（※削除予定）": "(※For Deletion)"
@@ -96,7 +96,7 @@
     "冒険の書の消去を　取りやめます。": "Cancelled Adventure Log deletion."
   },
   "33": {
-    "冒険の書<%nNO>のデータを　消しました。<end>": "Data of Adventure Log <%dNO> was deleted.<end>"
+    "冒険の書<%nNO>のデータを　消しました。<end>": "Data of Adventure Log <%nNO> was deleted.<end>"
   },
   "34": {
     "冒険の書<%nNO>に保存されている|<%sPCNAME>と　<%sPCNAME2>の|すべての冒険の記録を消します。<br>|冒険の記録を消すと|<%sPCNAME>で　冒険ができなくなりますが|冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": "You are about to delete Adventure Log <%dNO>|of <%sPCNAME> and <%sPCNAME2>.<br>|If you do this, this data will be|unrecoverable. Are you sure?<yesno 2><break>"
@@ -117,7 +117,7 @@
     "（※削除予定）<bw_break>": "(※For Deletion)<bw_break>"
   },
   "40": {
-    "冒険の書を削除できる回数が　残り０回のため|削除できません。<br>|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You cannot delete this Adventure Log as|there are 0 attempts remaining.<br>|This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
+    "冒険の書を削除できる回数が　残り０回のため|削除できません。<br>|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You cannot delete any Adventure Logs as|there are 0 deletions remaining.<br>|This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
   },
   "41": {
     "冒険の書を削除できる回数は　残り<%nCHAR_DEL_NUM>回です。|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You have <%dCHAR_DEL_NUM> Adventure Log(s) left to delete. |This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
@@ -168,10 +168,10 @@
     "では　オフラインモードで　冒険の続きを|遊びますか？<yesno_nc><break>": "continue your adventure in offline mode?<yesno_nc><break>"
   },
   "57": {
-    "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": "In this online world, people will be able|to see the name of your character and|your sibling.<br>|<color_yellow>*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable.<color_white><br>|It seems there are <%dNUM> other players also|using the name \"<%sPCNAME>\" in Dragon Quest X.<br>|Would you like to start your adventure|with the name \"<%sPCNAME>\"?<yesno><break>"
+    "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": "In this online world, people will be able|to see the name of your character and|your sibling.<br>|<color_yellow>Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable.<color_white><br>|It seems there are <%dNUM> other players also|using the name \"<%sPCNAME>\" in Dragon Quest X.<br>|Would you like to start your adventure|with the name \"<%sPCNAME>\"?<yesno><break>"
   },
   "58": {
-    "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": "In this online world, people will be able|to see the name of your character and|your sibling.<br>|<color_yellow>*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable.<color_white><br>|It seems there aren't any other players|using the name \"<%sPCNAME>\" in Dragon Quest X.<br>|Would you like to start your adventure|with the name \"<%sPCNAME>\"?<yesno><break>"
+    "オンラインの世界では　多くの人が|あなたのキャラや　兄弟（姉妹）キャラの名前を|目にすることになります。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　変更を　お願いします。<color_white><br>|ドラゴンクエストⅩの　オンラインの世界に|『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。<br>|『<%sPCNAME>』という名前で|冒険を　始めますか？<yesno><break>": "In this online world, people will be able|to see the name of your character and|your sibling.<br>|<color_yellow>Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable.<color_white><br>|It seems there aren't any other players|using the name \"<%sPCNAME>\" in Dragon Quest X.<br>|Would you like to start your adventure|with the name \"<%sPCNAME>\"?<yesno><break>"
   },
   "59": {
     "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|この名前で始めて　よろしいですか？<yesno><break>": "There seems to be <%dNUM> other players|with the name \"<%sPCNAME>\".|Are you sure you want to start with this name?<yesno><break>"
@@ -192,7 +192,7 @@
     "あなたが付けた　キャラの名前は|オンラインの世界では　使うことができません。|別の名前に変えてください。<bw_break>": "The character name you chose cannot|be used online. Please choose a different|name.<bw_break>"
   },
   "65": {
-    "ご使用のアカウントには|オンラインで遊べるキャラクターが　いないため|ゲストモードで　プレイできません。<br>|最初に遊んでいた環境から　キャラを作るか|この<%sConsole>で　プレイヤー登録をしてください。|ログアウトして　起動ランチャーに戻ります。<end>": "You cannot play in Guest Mode because there are|no characters registered to this account.<br>|Create a character on the platform you are currently|playing on first, or register your account on the launcher with the|\"Add New Player\" button, and then log in."
+    "ご使用のアカウントには|オンラインで遊べるキャラクターが　いないため|ゲストモードで　プレイできません。<br>|最初に遊んでいた環境から　キャラを作るか|この<%sConsole>で　プレイヤー登録をしてください。|ログアウトして　起動ランチャーに戻ります。<end>": "You cannot play in Guest Mode because there|are no characters registered to this account.<br>|Create a character on this platform first, or|add your account to the launcher with the|\"Add New Player\" button, and then log in."
   },
   "66": {
     "<%sID>様への重要なお知らせ！": "Important notice to <%sID>!"
@@ -222,7 +222,7 @@
     "ログアウトします。|よろしいですか？<yesno><break>": "<speed=0>Are you sure you want to log out?<yesno><break>"
   },
   "75": {
-    "ログアウトしたあと　ゲームを終了して|起動ランチャーに戻りますか？<yesno><break>": "<speed=0>After logging out, do you want|to exit the game and go back|to the launcher?<yesno><break>"
+    "ログアウトしたあと　ゲームを終了して|起動ランチャーに戻りますか？<yesno><break>": "<speed=0>Would you like the launcher to open again|after exiting the game?<yesno><break>"
   },
   "76": {
     "ログアウトしています……。<break>": "Logging out...<break>"
@@ -264,13 +264,13 @@
     "Crysta": "Crysta"
   },
   "89": {
-    "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "Until <%02d_MM>/<%d_DD>/<%d_YYYY>"
+    "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY>"
   },
   "90": {
-    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%02d_MM>/<%2d_DD>/<%d_YYYY>"
+    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY>"
   },
   "91": {
-    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%02d_MM>/<%2d_DD>/<%d_YYYY> (<%3d_DAY> days left)"
+    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY> (<%3d_DAY> days left)"
   },
   "92": {
     "（キッズタイム中）": "(Kids Time Active)"
@@ -315,7 +315,7 @@
     "名前を変更しました。<end>": "Character was renamed.<end>"
   },
   "106": {
-    "あなたの持つ　家の名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of your house is no longer|available. Please choose a new name.<br>|*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
+    "あなたの持つ　家の名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of your house is no longer|available. Please choose a new name.<br>|Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
   },
   "107": {
     "新しい　家の名前は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": "Give your house the new name of|\"<%sNEWNAME>\"?<yesno><break>"
@@ -324,10 +324,10 @@
     "その名前は使えません。|ちがう名前を　入れてください。<end>": "You cannot use that name. Please enter|a different name.<end>"
   },
   "109": {
-    "ご使用中の　キャラクターの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of this character can no longer|be used. Please choose a new name. <br>|*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
+    "ご使用中の　キャラクターの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of this character can no longer|be used. Please choose a new name. <br>|Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
   },
   "110": {
-    "あなたの持つ　チームの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "Your Team name is no longer available.|Please choose a new name.<br>|<color_yellow>*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
+    "あなたの持つ　チームの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "Your Team name is no longer available.|Please choose a new name.<br>|<color_yellow>Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
   },
   "111": {
     "新しい　チーム名は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": "Use the new Team name \"<%sNEWNAME>\"?<yesno><break>"
@@ -465,10 +465,10 @@
     "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be about <%dNUM> players|with the name \"<%sPCNAME>\".|Use this name for Adventure Log <%dNO>?<yesno><break>"
   },
   "156": {
-    "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be no other players|with the name \"<%sPCNAME>\".|Use this name for Adventure Log <%dNO>?<yesno><break>"
+    "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be no other players|with the name \"<%sPCNAME>\".|Use this name for Adventure Log <%nNO>?<yesno><break>"
   },
   "157": {
-    "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "Use the name \"<%sPCNAME>\" for Adventure|Log <%dNO>?<yesno><break>"
+    "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "Use the name \"<%sPCNAME>\" for Adventure|Log <%nNO>?<yesno><break>"
   },
   "158": {
     "冒険の書<%nNO>に　保存されている|『<%sPCNAME>』のデータを|オンライン世界に　反映させます。<end>": "The data of \"<%sPCNAME>\" in Adventure|Log <%dNO> will be copied to the online|world.<end>"
@@ -543,12 +543,12 @@
     "Yahoo! JAPAN IDのパスワード変更は|ここでは行えません。|「Yahoo! JAPAN」のページで手続きしてください。<end>": "You cannot change your Yahoo! JAPAN ID|password here. Go to the \"Yahoo! JAPAN\" page|to complete the procedure.<end>"
   },
   "182": {
-    "ドラゴンクエストⅩ　オフラインからの|引き継ぎ情報を　確認できませんでした。|<br>|ドラゴンクエストⅩ　オフラインの|Windows版　引き継ぎ専用ページにて|手続きが完了しているか　ご確認ください。<end>": "We could not confirm the transfer information|for Dragon Quest X offline.|<br>|Confirm that the transfer procedure has been|completed on the transfer page for Dragon|Quest X Windows version.<end>"
+    "ドラゴンクエストⅩ　オフラインからの|引き継ぎ情報を　確認できませんでした。|<br>|ドラゴンクエストⅩ　オフラインの|Windows版　引き継ぎ専用ページにて|手続きが完了しているか　ご確認ください。<end>": "Could not confirm the transfer information|for Dragon Quest X Offline.|<br>|Please check that the transfer procedure has|successfully completed on the transfer page|for Dragon Quest X (Windows).<end>"
   },
   "183": {
     "続いて　お手持ちの|『ドラゴンクエストⅩ　オンライン|引ぎ継ぎコード』を　入力します。|<br>|Windows版の場合　専用ページで|引き継ぎの手続きが必要となります。|http://<end>": "Enter your \"Dragon Quest X online transfer|code\".|<br>|You need to go to the dedicated page to|transfer the software for the Windows version.|http://<end>"
   },
   "184": {
-    "「ふっかつのじゅもん」では|ドラゴンクエストⅩ　オフラインから|一部データを引き継いで　始めることができます。|<br>|引き継いで　始めるには|ドラゴンクエストⅩ　オフライン内で|入手できる「ふっかつのじゅもん」に加えて|<br>|「目覚めし冒険者の広場」にある|引き継ぎ専用ページにて　手続きが必要となるため|事前の準備を　お願いします。<end>": "With the \"Restoration Code\" you can carry|over some of your data from Dragon Quest X|offline and start over.|<br>|In addition to the \"Restoration Code\"|available in Dragon Quest X offline, you will|need to complete the transfer procedure on the|<br>|dedicated transfer page in the \"Adventurer's|Square\" to start the game.<end>"
+    "「ふっかつのじゅもん」では|ドラゴンクエストⅩ　オフラインから|一部データを引き継いで　始めることができます。|<br>|引き継いで　始めるには|ドラゴンクエストⅩ　オフライン内で|入手できる「ふっかつのじゅもん」に加えて|<br>|「目覚めし冒険者の広場」にある|引き継ぎ専用ページにて　手続きが必要となるため|事前の準備を　お願いします。<end>": "With the \"Spell of Restoration\", you can|carry over some data from Dragon Quest X|Offline and start from there.|<br>|In addition to the Spell of Restoration,|you will need to complete the transfer process|on the associated Adventurer's Square page."
   }
 }

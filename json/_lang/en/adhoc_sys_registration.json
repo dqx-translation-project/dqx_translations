@@ -87,7 +87,7 @@
     "<%sPC>": "<%sPC>"
   },
   "30": {
-    "<%n_YYYY>年<%n_MM>月<%n_DD>日まで": "Until <%02d_MM>/<%d_DD>/<%d_YYYY>"
+    "<%n_YYYY>年<%n_MM>月<%n_DD>日まで": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY>"
   },
   "31": {
     "（※削除予定）": "(※For Deletion)"
@@ -249,7 +249,7 @@
     "（※削除予定）<bw_break>": "(※For Deletion)<bw_break>"
   },
   "84": {
-    "冒険の書を削除できる回数が　残り０回のため|削除できません。<br>|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You cannot delete this Adventure Log as|there are 0 attempts remaining.<br>|This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
+    "冒険の書を削除できる回数が　残り０回のため|削除できません。<br>|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You cannot delete any Adventure Logs as|there are 0 deletions remaining.<br>|This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
   },
   "85": {
     "冒険の書を削除できる回数は　残り<%nCHAR_DEL_NUM>回です。|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You have <%dCHAR_DEL_NUM> Adventure Log(s) left to delete. |This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
@@ -351,7 +351,7 @@
     "（※削除予定）": "(※For Deletion)"
   },
   "118": {
-    "<%sPCNAME>の郵便箱に|『<%sCODENAME>』の|アイテムを送りました！<me_60><end>": "You have sent an item of <%sCODENAME> to the|mailbox of <%sPCNAME>!<me_60><end>"
+    "<%sPCNAME>の郵便箱に|『<%sCODENAME>』の|アイテムを送りました！<me_60><end>": "\"<%sCODENAME>\"|was sent to <%sPCNAME>'s|mailbox!<me_60><end>"
   },
   "119": {
     "特別アイテムを購入します": "Purchase special items"
@@ -906,13 +906,13 @@
     "クレジットカードの登録": "Register your credit card"
   },
   "303": {
-    "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "Until <%02d_MM>/<%d_DD>/<%d_YYYY>"
+    "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY>"
   },
   "304": {
-    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%02d_MM>/<%2d_DD>/<%d_YYYY>"
+    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY>"
   },
   "305": {
-    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%02d_MM>/<%2d_DD>/<%d_YYYY> (<%3d_DAY> days left)"
+    "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY> (<%3d_DAY> days left)"
   },
   "306": {
     "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-abcdefghijklmnopqrstuvwxyzABCDEFG@abcdefghijklmnopqrstuvwxyz.co.jp": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-abcdefghijklmnopqrstuvwxyzABCDEFG@abcdefghijklmnopqrstuvwxyzcojp"
@@ -1116,7 +1116,7 @@
     "名前を変更しました。<end>": "Character was renamed.<end>"
   },
   "373": {
-    "あなたの持つ　家の名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of your house is no longer|available. Please choose a new name.<br>|*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
+    "あなたの持つ　家の名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of your house is no longer|available. Please choose a new name.<br>|Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
   },
   "374": {
     "新しい　家の名前は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": "Give your house the new name of|\"<%sNEWNAME>\"?<yesno><break>"
@@ -1125,10 +1125,10 @@
     "その名前は使えません。|ちがう名前を　入れてください。<end>": "You cannot use that name. Please enter|a different name.<end>"
   },
   "376": {
-    "ご使用中の　キャラクターの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of this character can no longer|be used. Please choose a new name. <br>|*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
+    "ご使用中の　キャラクターの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "The name of this character can no longer|be used. Please choose a new name. <br>|Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
   },
   "377": {
-    "あなたの持つ　チームの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "Your Team name is no longer available.|Please choose a new name.<br>|<color_yellow>*Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
+    "あなたの持つ　チームの名前は|使えなくなりました。|新しい名前に　変更をお願いします。<br>|<color_yellow>※他人の権利を侵害する名前　または自分や他人の|　プライベートな情報や　他人に不快な思いを|　させるような名前は　つけないでください！<color_white><end>": "Your Team name is no longer available.|Please choose a new name.<br>|<color_yellow>Please don't use any names that infringe|any copyrights, reveal private information,|or make others feel uncomfortable!<color_white><end>"
   },
   "378": {
     "新しい　チーム名は|『<%sNEWNAME>』で|よろしいですか？<yesno><break>": "Use the new Team name \"<%sNEWNAME>\"?<yesno><break>"
@@ -1404,10 +1404,10 @@
     "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be about <%dNUM> players|with the name \"<%sPCNAME>\".|Use this name for Adventure Log <%dNO>?<yesno><break>"
   },
   "469": {
-    "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "I don't think there's a single character|named <%sPCNAME> so far... Is this the|correct character name for the <%nNO>|<br>|adventure book?<yesno><break>"
+    "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be no other players|with the name \"<%sPCNAME>\".|Use this name for Adventure Log <%nNO>?<yesno><break>"
   },
   "470": {
-    "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "Use the name \"<%sPCNAME>\" for Adventure|Log <%dNO>?<yesno><break>"
+    "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "Use the name \"<%sPCNAME>\" for Adventure|Log <%nNO>?<yesno><break>"
   },
   "471": {
     "冒険の書<%nNO>に　保存されている|『<%sPCNAME>』のデータを|オンライン世界に　反映させます。<end>": "The data of \"<%sPCNAME>\" in Adventure|Log <%dNO> will be copied to the online|world.<end>"

@@ -33,7 +33,7 @@
     "<%sL_MONSTERNAME>は　近所をおさんぽ中です。|モンスターのおうちに　戻しますか？|<yesno><break>": "<%sL_MONSTERNAME> is currently wandering|around. Would you like it to return to this|monster house?|<yesno><break>"
   },
   "12": {
-    "<%sL_MONSTERNAME>のすごしかたを|『おさんぽさせる』に変更しました！|<end>": "Changed <%sL_MONSTERNAME>'s|behaviour to 'make you walk'!<end>"
+    "<%sL_MONSTERNAME>のすごしかたを|『おさんぽさせる』に変更しました！|<end>": "Changed <%sL_MONSTERNAME>'s|behavior to wander around!<end>"
   },
   "13": {
     "<%sL_MONSTERNAME>は|お庭でのんびり　しています。|近所をおさんぽ　させますか？|<yesno><break>": ""
@@ -45,7 +45,7 @@
     "<%sL_MONSTERNAME>からの　おくりもの|<%sL_ITEM>を　受け取りました！|<se System 7><end>": "You have received <%sL_ITEM>, a|gift from <%sL_MONSTERNAME>!<se System 7><end>"
   },
   "16": {
-    "なんと　<%sL_MONSTERNAME>が|あなたへのおくりものを　置いてくれたようです！|おくりものを　受け取りますか？|<yesno><break>": "Oh my god, it looks like|<%sL_MONSTERNAME> has left you a|gift! Would you like to receive the gift?|<br><yesno><break>"
+    "なんと　<%sL_MONSTERNAME>が|あなたへのおくりものを　置いてくれたようです！|おくりものを　受け取りますか？|<yesno><break>": "It appears that <%sL_MONSTERNAME> has|left a gift for you! Receive the gift now?|<yesno><break>"
   },
   "17": {
     "<%sL_MONSTERNAME>を|どのように　すごさせますか？|<select_se_off>|お庭でのんびり|おさんぽさせる|<select_end><break>": "How you like <%sL_MONSTERNAME> to spend|their time?|<select_se_off>|Relax Here|Wander Around|<select_end><break>"
@@ -60,7 +60,7 @@
     "<%sL_MONSTERNAME>を　ひっこめました！|<end>": "<%sL_MONSTERNAME> has been|pulled!<end>"
   },
   "21": {
-    "<%sL_MONSTERNAME>からの　おくりもの|<%sL_ITEM>　<%nL_NUM>こ　を受け取りました！|<se System 7><end>": "<%sL_MONSTERNAME> has sent you|<%sL_ITEM> <%nL_NUM>!<se System 7><end>"
+    "<%sL_MONSTERNAME>からの　おくりもの|<%sL_ITEM>　<%nL_NUM>こ　を受け取りました！|<se System 7><end>": "Received <%sL_MONSTERNAME>'s gift of|<%dL_NUM> <%sL_ITEM>!|<se System 7><end>"
   },
   "22": {
     "さらに　箱の底に　キラリとかがやく|宝石のようなものがある……！|<se System 18>|<br>|<%sL_PC>は|<%sL_ITEM>を　手に入れた！|<se System 7><end>": "In addition, there was a sparkling jewel at|the bottom of the box...!|<se System 18>|<br>|<%sL_PC> received <%sL_ITEM>!|<se System 7><end>"

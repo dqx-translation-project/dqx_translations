@@ -1,6 +1,6 @@
 {
   "1": {
-    "鍋の温度が<%nL_ONDO>度下がった": "The pot's temp fell <%nL_ONDO> degrees."
+    "鍋の温度が<%nL_ONDO>度下がった": "The pot's temp. fell <%dL_ONDO> degrees."
   },
   "2": {
     "clarity_nt_char_2": "clarity_nt_char_2"
@@ -147,7 +147,7 @@
     "clarity_nt_char_49": "clarity_nt_char_49"
   },
   "50": {
-    "採掘をやめる": "Quit mining."
+    "採掘をやめる": "Stop Mining"
   },
   "51": {
     "clarity_nt_char_51": "clarity_nt_char_51"
@@ -285,7 +285,7 @@
     "花摘み": "Flwr Pick"
   },
   "96": {
-    "花摘みをやめる": "Quit picking flowers."
+    "花摘みをやめる": "Stop Flower Picking"
   },
   "97": {
     "かばんにしまっていないアイテムは|すべてなくなりますが　よろしいですか？|<ask>": "Items that are not stored in your bag|will be lost. Are you sure?|<ask>"
@@ -402,7 +402,7 @@
     "clarity_nt_char_134": "clarity_nt_char_134"
   },
   "135": {
-    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>."
+    "<%sL_SYOKUNIN_TOOL>を装備していないので|<%sL_SKILL_NAME>ができません。": "You can't use <%sL_SKILL_NAME> because|you don't have a <%sL_SYOKUNIN_TOOL>|equipped."
   },
   "136": {
     "鍛冶ハンマー": "Smith Hammer"
@@ -525,7 +525,7 @@
     "clarity_nt_char_175": "clarity_nt_char_175"
   },
   "176": {
-    "<%sL_KOUKA>|の錬金が大成功した！": "<%sL_KOUKA> was|alchemized to perfection!"
+    "<%sL_KOUKA>|の錬金が大成功した！": "<%sL_KOUKA>!|Alchemy perfection!"
   },
   "177": {
     "clarity_nt_char_177": "clarity_nt_char_177"
@@ -552,7 +552,7 @@
     "clarity_nt_char_184": "clarity_nt_char_184"
   },
   "185": {
-    "<%sL_RECIPE>を作る　コツをつかんだ！<bw_break>": "You got the hang of making the|<%sL_RECIPE>!<bw_break>"
+    "<%sL_RECIPE>を作る　コツをつかんだ！<bw_break>": "You now have a knack for making|<%sL_RECIPE>!<bw_break>"
   },
   "186": {
     "clarity_nt_char_186": "clarity_nt_char_186"
@@ -585,7 +585,7 @@
     "clarity_nt_char_195": "clarity_nt_char_195"
   },
   "196": {
-    "木材が やわらかくなり １.５倍削れた！": "The wood became soft and can be shaved 1.5x!"
+    "木材が やわらかくなり １.５倍削れた！": "The wood became soft and can be cut 1.5x!"
   },
   "197": {
     "clarity_nt_char_197": "clarity_nt_char_197"
@@ -615,7 +615,7 @@
     "錬金効果は付けられない": "Cannot add alchemy effect."
   },
   "206": {
-    "（錬金効果をつけよう）": "(No Alchemy Effect)"
+    "（錬金効果をつけよう）": "(Can Add Alchemy Effect)"
   },
   "207": {
     "なんと 地金の鍛え度が すこし戻った！": "The metal regained a bit of forgeability!"
@@ -816,7 +816,7 @@
     "clarity_nt_char_272": "clarity_nt_char_272"
   },
   "273": {
-    "１つのマスの 火力と会心率がアップ！": "Power and critical rate of 1 square went up!"
+    "１つのマスの 火力と会心率がアップ！": "Power/critical rate of 1 square up!"
   },
   "274": {
     "clarity_nt_char_274": "clarity_nt_char_274"
@@ -825,10 +825,10 @@
     "ギルドの依頼品": "Guild Requests"
   },
   "276": {
-    "や": " & "
+    "や": "/"
   },
   "277": {
-    "この装備品は　ロックしているため|渡すことができません。<bw_break>": "This equipment is locked and|cannot be passed on."
+    "この装備品は　ロックしているため|渡すことができません。<bw_break>": "This equipment is locked and cannot be given.<bw_break>"
   },
   "278": {
     "clarity_nt_char_278": "clarity_nt_char_278"
@@ -846,7 +846,7 @@
     "clarity_nt_char_282": "clarity_nt_char_282"
   },
   "283": {
-    "家具をつくる": "Make Furniture"
+    "家具をつくる": "Make Decor"
   },
   "284": {
     "clarity_nt_char_284": "clarity_nt_char_284"
@@ -966,19 +966,19 @@
     "clarity_nt_char_322": "clarity_nt_char_322"
   },
   "323": {
-    "<%sL_KOUKA>|の錬金が超大成功！": "Alchemy of <%sL_KOUKA>|was perfection"
+    "<%sL_KOUKA>|の錬金が超大成功！": "<%sL_KOUKA>|alchemy was perfect!"
   },
   "324": {
     "いま作っている|アイテムの状況を|確認する": "Check your item's|current status."
   },
   "325": {
-    "消費集中力が 半分になった！": "Focus consumption halved!"
+    "消費集中力が 半分になった！": "Focus cost halved!"
   },
   "326": {
     "clarity_nt_char_326": "clarity_nt_char_326"
   },
   "327": {
-    "消費集中力が1.5倍で 会心率アップ！": "Focus consumption halved, crit rate up 1.5x!"
+    "消費集中力が1.5倍で 会心率アップ！": "Focus cost 1.5x, critical rate up!"
   },
   "328": {
     "１つのマスの 威力と会心率がアップ！": "Power and crit rate up for 1 square!"
@@ -987,7 +987,7 @@
     "clarity_nt_char_329": "clarity_nt_char_329"
   },
   "330": {
-    "光の効果で ひっさつチャージ！！": "Light effect deadly charge!!"
+    "光の効果で ひっさつチャージ！！": "Light effect Special Charge!"
   },
   "331": {
     "clarity_nt_char_331": "clarity_nt_char_331"
@@ -1005,25 +1005,25 @@
     "clarity_nt_char_335": "clarity_nt_char_335"
   },
   "336": {
-    "<pc>は|<%sL_RECIPE>を作る　コツをつかんだので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>| has a knack for making <%sL_RECIPE>|and gained <%dL_EXP> Craftsman EXP!|<bw_break>"
+    "<pc>は|<%sL_RECIPE>を作る　コツをつかんだので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc> now has|knack for crafting the <%sL_RECIPE>|and received <%dL_EXP> Craftsman EXP!|<bw_break>"
   },
   "337": {
-    "<pc>は|<%sL_RECIPE>を　はじめて作ったので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|made <%sL_RECIPE> for the first time|and gained <%dL_EXP> Craftsman EXP!|<bw_break>"
+    "<pc>は|<%sL_RECIPE>を　はじめて作ったので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|made <%sL_RECIPE> for the first time|and received <%dL_EXP> Craftsman EXP!|<bw_break>"
   },
   "338": {
-    "<pc>は|<%sL_KOUKA>を　はじめて付けたので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|added <%sL_KOUKA> for the first time|and gained <%dL_EXP> Craftsman EXP!|<bw_break>"
+    "<pc>は|<%sL_KOUKA>を　はじめて付けたので|さらに　<%dL_EXP> Pの職人経験値を　かくとく！|<bw_break>": "<pc>|added <%sL_KOUKA> for the first time|and received <%dL_EXP> Craftsman EXP!|<bw_break>"
   },
   "339": {
     "clarity_nt_char_339": "clarity_nt_char_339"
   },
   "340": {
-    "このさかなは　ロックをしているため|渡すことは　できません。": "This fish is locked and cannot be passed on."
+    "このさかなは　ロックをしているため|渡すことは　できません。": "This fish is locked and cannot be given."
   },
   "341": {
     "clarity_nt_char_341": "clarity_nt_char_341"
   },
   "342": {
-    "なんと 集中力が 回復した！": "Oh my, focus was regained!"
+    "なんと 集中力が 回復した！": "Focus was recovered!"
   },
   "343": {
     "clarity_nt_char_343": "clarity_nt_char_343"
@@ -1032,7 +1032,7 @@
     "かいしんの てごたえ！": "Critical response!"
   },
   "345": {
-    "ふしぎなチカラが　集まってくる……！": "Mysterious power gathers...!"
+    "ふしぎなチカラが　集まってくる……！": "A mysterious power gathers...!"
   },
   "346": {
     "clarity_nt_char_346": "clarity_nt_char_346"
@@ -1059,7 +1059,7 @@
     "Ｆ": "F"
   },
   "354": {
-    "Ｇ": "G"
+    "Ｇ": "Ｇ"
   },
   "355": {
     "Ｈ": "H"

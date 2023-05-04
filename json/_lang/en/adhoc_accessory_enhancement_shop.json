@@ -9,7 +9,7 @@
     "「効果を付けたい断罪のゆびわは　どれですか？|<break>": "Which ring do you want to add effects to?<break>"
   },
   "4": {
-    "「何を付けるか　選んでください。|<break>": "Choose what you want to put on it.<break>"
+    "「何を付けるか　選んでください。|<break>": "Choose the type of effect that you want.|<break>"
   },
   "5": {
     "「この中から　付けたい効果を|　選んでください。|<break>": "Select the effect you wish to apply from the|list.<break>"
@@ -27,60 +27,90 @@
     "「……あっ　ひとつのゆびわに　同じ効果を|　ふたつ以上　付けることはできないの。|　別の効果を　選んでください。|<bw_break>": "...Oh, you can't have more than one of the|same effect on this ring. Please choose|another effect.<bw_break>"
   },
   "10": {
-    "「<%sL_ADD_KOUKA>ですね。|　必要な素材を　消費して|　効果を付けるけど　いいですか？|<yesno_2><break>": "<%sL_ADD_KOUKA>. I'll consume the necessary|materials to add the effect, is that ok?<yesno_2><break>"
+    "「<%sL_ADD_KOUKA>ですね。|　必要な素材を　消費して|　効果を付けるけど　いいですか？|<yesno_2><break>": "Do you want me to use the necessary|materials and add the|<%sL_ADD_KOUKA> effect?|<yesno_2><break>"
   },
   "11": {
-    "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に|<%sL_ADD_KOUKA>の　効果を付けた！|<end>": "<pipipi_off><%sL_WATASITA_ITEM><%sM_plusnum> with|<%sL_ADD_KOUKA> effect!<end>"
+    "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に|<%sL_ADD_KOUKA>の　効果を付けた！|<end>": "<pipipi_off><%sL_WATASITA_ITEM><%sM_plusnum> had the effect of|<%sL_ADD_KOUKA> added!<end>"
   },
   "12": {
-    "「この断罪のゆびわには　まだ|　ひとつも　効果が付いてないです……。|　別のゆびわを　選んでください。|<bw_break>": "This decisive ring does not have any effect|yet.... Please choose another ring.<bw_break>"
+    "「効果を強化したい|　断罪のゆびわは　どれですか？|<break>": "Which Judgment Ring would you like to enhance?|<break>"
   },
   "13": {
-    "「効果を付け直したい|　断罪のゆびわは　どれですか？|　３つの効果が　付いているものから選んでね。|<break>": "Which is the finger of absolution that you|would like to reapply the effect to? Choose|one with three effects.<break>"
+    "「強化したい効果を　選んでください。|<break>": "Please choose the effect that you want to|boost.|<break>"
   },
   "14": {
-    "「付け直したい効果を　選んでください。|<break>": "Select the effect you want to reapply.<break>"
+    "「この断罪のゆびわには　まだ|　ひとつも　効果が付いてないです……。|　別のゆびわを　選んでください。|<bw_break>": "That ring doesn't have any effects|on it yet... Please choose another one.|<bw_break>"
   },
   "15": {
-    "「この中から　どの効果に付け直すか|　選んでください。|<break>": "Please choose which of these effects you|would like to reattach.<break>"
+    "「この断罪のゆびわは　ロックされてます。|　……本当に　効果を強化しても　いいの？|<yesno_2><break>": "That Judgment Ring is locked. Are you sure|it's okay to boost its effects?|<yesno_2><break>"
   },
   "16": {
-    "「この断罪のゆびわは　ロックされてます。|　……別のゆびわを選んでください。|<bw_break>": "The ring of absolution is locked. ...Please|select another ring.<bw_break>"
+    "「<%sL_GROW_KOUKA>ですね。|　必要な素材を　消費して|　効果を　強化するけど　いいですか？|<yesno_2><break>": "<%sL_GROW_KOUKA> is what you'd like?|I'll use the necessary materials to boost|this effect.|<yesno_2><break>"
   },
   "17": {
-    "「<%sL_ADD_KOUKA>ですね。|　必要な素材を　消費して|　効果を　付け直すけど　いいですか？|<yesno_2><break>": "<%sL_ADD_KOUKA>. I'll consume the necessary|materials and reapply the effect, is that|ok?<yesno_2><break>"
+    "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に　付いている|<%sL_GROW_KOUKA>を|<%sL_GROW_KOUKA2>に　強化した！|<end>": "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>'s <%sL_GROW_KOUKA>|effect was boosted to|<%sL_GROW_KOUKA2>!|<end>"
   },
   "18": {
-    "「今　付いている効果を　付けるために|　使った素材は　戻ってこないけど|　……本当に　付け直していいの？|<yesno_2><break>": "I know I won't get back the materials I used|to add the effect that's on now, but... can|I really reapply it?<yesno_2><break>"
+    "「効果を付け直したい|　断罪のゆびわは　どれですか？|　３つの効果が　付いているものから選んでね。|<break>": "Which Judgment Ring would you like to change?|Please choose one of its three effects.|<break>"
   },
   "19": {
-    "<pipipi_off>|<%sL_ERASE_KOUKA>を|<%sL_ADD_KOUKA>に|効果を付け直した！|<end>": "<pipipi_off><%sL_ERASE_KOUKA> re-effects|<%sL_ADD_KOUKA>!<end>"
+    "「付け直したい効果を　選んでください。|<break>": "Select the effect you want to reapply.<break>"
   },
   "20": {
-    "「ここでは　断罪のゆびわに|　キミの望む　効果を付けられるの。|　ゆびわ自体は　ミレリーさんからもらえます。|<br>|「断罪のゆびわに　効果を付けるには|　対価として　必要な素材を　いただきます。|　ゴールドはいらないから　安心してね。|<br>|「全部で３つの効果を　付けられるけど|　同じ効果を　ふたつ以上|　付けることはできないの。|<br>|「一度付けた効果を　付け直すこともできます。|　でも　その効果に使った素材は　すべて|　無くなっちゃうから　気をつけてね……。|<bw_break>": "Here, you can add the effect you want to the|decisive ring. You can get the ring itself|from Mr. Millery. To add an effect to the|<br>|ring of absolution, you will need to pay for|the necessary materials. Don't worry, you|don't need gold. You can add three effects|<br>|in total, but you cannot add more than two|of the same effect. You can also reapply an|effect that you have already applied. But be|<br>|careful, you will lose all the materials you|used for the effect.<bw_break>"
+    "「この中から　どの効果に付け直すか|　選んでください。|<break>": "Please choose which of these effects you|would like to reattach.<break>"
   },
   "21": {
-    "「私でよかったら　いつでも　お手伝いします。|　用がある時は　声をかけてくださいね。|<end>": "I'm always happy to help if you'd like me|to. Please give me a call if you need me.<end>"
+    "「この断罪のゆびわは　ロックされてます。|　……別のゆびわを選んでください。|<bw_break>": "That Judgment Ring is locked. Please choose|another one.|<bw_break>"
   },
   "22": {
-    "「こんにちは。ここは特別なアクセサリーに|　キミの望む効果を 付ける事ができる場所です。|　では……|<bw_break>": "Hello. This is where you can put the effects|you want on your special accessories. Well,|then...<bw_break>"
+    "「<%sL_ADD_KOUKA>ですね。|　必要な素材を　消費して|　効果を　付け直すけど　いいですか？|<yesno_2><break>": "<%sL_ADD_KOUKA>? I'll consume the necessary|materials and reapply the effect. Okay?|<yesno_2><break>"
   },
   "23": {
-    "予備テキスト": "Preliminary Text"
+    "「今　付いている効果を　付けるために|　使った素材は　戻ってこないけど|　……本当に　付け直していいの？|<yesno_2><break>": "You won't get back the materials used to apply|the original effect. Are you sure you want to|reapply it?|<yesno_2><break>"
   },
   "24": {
-    "予備テキスト": "Preliminary Text"
+    "<pipipi_off>|<%sL_ERASE_KOUKA>を|<%sL_ADD_KOUKA>に|効果を付け直した！|<end>": "<pipipi_off><%sL_ERASE_KOUKA> was reapplied|with the <%sL_ADD_KOUKA> effect!<end>"
   },
   "25": {
-    "予備テキスト": "Preliminary Text"
+    "「ここでは　断罪のゆびわに|　キミの望む　効果を付けられるの。|　ゆびわ自体は　ミレリーさんからもらえます。|<br>|「断罪のゆびわに　効果を付けるには|　対価として　必要な素材を　いただきます。|　ゴールドはいらないから　安心してね。|<br>|「全部で３つの効果を　付けられるけど|　同じ効果を　ふたつ以上|　付けることはできないの。|<br>|「一度付けた効果を　付け直すこともできます。|　でも　その効果に使った素材は　すべて|　無くなっちゃうから　気をつけてね……。|<bw_break>": "Here, you can add the effect you want to the|decisive ring. You can get the ring itself|from Mr. Millery. To add an effect to the|<br>|ring of absolution, you will need to pay for|the necessary materials. Don't worry, you|don't need gold. You can add three effects|<br>|in total, but you cannot add more than two|of the same effect. You can also reapply an|effect that you have already applied. But be|<br>|careful, you will lose all the materials you|used for the effect.<bw_break>"
   },
   "26": {
-    "「うーん　対象の断罪のゆびわを|　持っていないみたいです。|<end>": "Hmmm... it seems that you don't have a|Judgment Ring.|<end>"
+    "「私でよかったら　いつでも　お手伝いします。|　用がある時は　声をかけてくださいね。|<end>": "I'm always happy to help if you'd like me|to. Please give me a call if you need me.<end>"
   },
   "27": {
-    "「うーん　それは今ついているものと|　同じ効果みたいです。|<bw_break>": "Hmmm...that seems to have the same effect as|the one that's on now.<bw_break>"
+    "「……えっと　その効果は|　これ以上　強化させられないの。|　別の効果を　選んでください。|<bw_break>": "Um, sorry... but that effect can't be boosted|any further. Please choose another effect.|<bw_break>"
   },
   "28": {
-    "「うーん　３つの効果が付いている|　断罪のゆびわから　選んでください。|<bw_break>": "Hmmm... three effects attached to the finger|of absolution to choose from.<bw_break>"
+    "「こんにちは。ここは特別なアクセサリーに|　キミの望む効果を 付ける事ができる場所です。|　では……|<bw_break>": "Hello! Here you can add the effects that you|desire to special accessories. Now then...|<bw_break>"
+  },
+  "29": {
+    "予備テキスト": "Preliminary Text"
+  },
+  "30": {
+    "予備テキスト": "Preliminary Text"
+  },
+  "31": {
+    "予備テキスト": "Preliminary Text"
+  },
+  "32": {
+    "「うーん　対象の断罪のゆびわを|　持っていないみたいです。|<end>": "Hmmm... it seems that you don't have a|Judgment Ring.|<end>"
+  },
+  "33": {
+    "「うーん　それは今ついているものと|　同じ効果みたいです。|<bw_break>": "Hmmm...that seems to have the same effect as|the one that's on now.<bw_break>"
+  },
+  "34": {
+    "「うーん　３つの効果が付いている|　断罪のゆびわから　選んでください。|<bw_break>": "Hmmm... please choose a Judgment Ring with|three effects.|<bw_break>"
+  },
+  "35": {
+    "「ここでは　断罪のゆびわに|　キミの望む　効果を付けられるの。|　ゆびわ自体は　ミレリーさんからもらえます。|<br>|「断罪のゆびわに　効果を付けるには|　対価として　必要な素材を　いただきます。|　ゴールドはいらないから　安心してね。|<br>|「全部で３つの効果を　付けられるけど|　同じ効果を　ふたつ以上|　付けることはできないの。|<br>|「また　付けた効果を　強化する事もできるよ。|　こっちも　必要な素材は　いただきます。|　でも同じく　ゴールドはいらないよ。|<br>|「一度付けた効果を　付け直すこともできます。|　でも　その効果に使った素材は　すべて|　無くなっちゃうから　気をつけてね……。|<bw_break>": ""
+  },
+  "36": {
+    "「ここは　アクセサリー強化屋です。|　今日は　どんなご用ですか？|<select_se_off>|効果を付ける|効果を強化する|効果を付け直す|説明を聞く|<select_end><break>": "This is the Accessory Enhancement shop. How|can I help you today?|<select_se_off>|Add Effects|Boost Effects|Reapply Effects|Explanation|<select_end><break>"
+  },
+  "37": {
+    "「他に　用はありますか？|<select_se_off>|効果を付ける|効果を強化する|効果を付け直す|説明を聞く|<select_end><break>": "Anything else I can do for you?|<select_se_off>|Add Effects|Boost Effects|Reapply Effects|Explanation|<select_end><break>"
+  },
+  "38": {
+    "「……あっ　キミが来るのを　待っていました。|　私　断罪のゆびわに　付いている効果を|　強化できるように　なったんです！|<br>|「ゆびわの強化には　専用の素材が必要だけど|　もし　手に入ったら　教えてくださいね。|　では……": "Ah, I'm glad you came. I can now boost any|existing effects on your Judgment Ring!|<br>|It requires a new type of material, but if you|find any, please bring it here. Now then..."
   }
 }

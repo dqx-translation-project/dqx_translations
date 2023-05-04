@@ -1,12 +1,12 @@
 {
   "1": {
-    "「まあ　それはそれとして……。|<bw_break>": "Well, for what it's worth...<bw_break>"
+    "「まあ　それはそれとして……。|<bw_break>": "Be that as it may...|<bw_break>"
   },
   "2": {
-    "「では　<%sL_ITEM>を　頼むとしよう。|　どれを渡すか　決めてくれ。|<break>": "Now, if I ask you for <%sL_ITEM>... I have to|decide which one to give...<break>"
+    "「では　<%sL_ITEM>を　頼むとしよう。|　どれを渡すか　決めてくれ。|<break>": "So, you'll give me the <%sL_ITEM>.|Please choose which one.|<break>"
   },
   "3": {
-    "「<%sL_ITEM>を　頼みたいが……|　今は　持ってないようだな。|　他に　納品できそうな依頼は　あるか？|<break>": "I'd ask for <%sL_ITEM>, but... I don't have|it right now. Do you have any other requests|that you think you can deliver?<break>"
+    "「<%sL_ITEM>を　頼みたいが……|　今は　持ってないようだな。|　他に　納品できそうな依頼は　あるか？|<break>": "I'd like a <%sL_ITEM>, but it|seems you don't have one. Is there anything|else you can deliver to me?|<break>"
   },
   "4": {
     "「今日は　何の用だ？|<break>": "What can I do for you today?<break>"
@@ -15,22 +15,22 @@
     "「今日の依頼は　翌朝には　すべて別の依頼に|　入れ替えておこう。|　明日も　また来るといい。|<end>": "All of today's requests will be replaced by|another one the next morning. I'll be back|tomorrow...<end>"
   },
   "6": {
-    "「まだ　用はあるか？|<break>": "Do you still need me?<break>"
+    "「まだ　用はあるか？|<break>": "Anything else you need?|<break>"
   },
   "7": {
-    "「その依頼は　もう済んでいるぞ。|<bw_break>": "That request has already been made...<bw_break>"
+    "「その依頼は　もう済んでいるぞ。|<bw_break>": "You've already fulfilled that request.|<bw_break>"
   },
   "8": {
-    "<select_se_off>|依頼をみる|褒美をみる|説明を聞く|<select_end>|<break>": "<select_se_off>See Request|See Reward|Explanation|<select_end>|<break>"
+    "<select_se_off>|依頼をみる|褒美をみる|説明を聞く|<select_end>|<break>": "<select_se_off>|View Requests|View Rewards|Explanation|<select_end>|<break>"
   },
   "9": {
     "「仕事がほしければ　私のところへ来い。|　お前に　ちょうどいい依頼を　紹介してやろう。|　『依頼をみる』から　確認するのだ。|<br>|「依頼の品を　私に納品してくれれば|　その場で報酬を受け取って　仕事は完了だ。|　割のいい依頼は　黄色にしておいてやる。|<br>|「さらに　釣りレベルが　１６以上になっていれば|　時々　特別な依頼をさせてもらうこともある。|　オレンジ色の依頼だ。報酬は期待してよいぞ。|<br>|「依頼の内容は　翌朝　新しいものに|　入れ替えておくが　頼まれる仕事の数は|　ひとまず　１日３件までだ。|<br>|「最初のうちは　３件も　ないだろうが|　お前の　釣りレベルが上がったら|　依頼の数も　増やしてやろう。|<br>|「さらに　仕事を３件以上残して|　翌朝を迎えた時は|　依頼を　１日につき　１件増やしておこう。|<end>": "You want a job, you come to me. I've got just|the job for you. You go to \"View Requests\"|and you see... If you deliver what I ask for,|<br>|you get paid on the spot, and the job is|yours. I've yellowed the most lucrative|requests. And if your fishing level is 16 or|<br>|above, sometimes I'll let you do special|requests... Orange... Expect to be paid...|I'll replace the request with a new one the|<br>|next morning, but for now, I'll take three|requests a day. You won't get three jobs the|first time, but as your fishing skills|<br>|improve, you'll be asked to do more. And if|you come in the next morning with more than|three jobs left to do, we'll increase the|<br>|number of requests by one per day...<end>"
   },
   "10": {
-    "「今　頼める依頼は　こんなところだ。|　この中に　すぐに納品できそうなものは|　あるか？|<break>": "Here's what I can do for you right now. Is|there anything in this list that you think|you can deliver right away?<break>"
+    "「今　頼める依頼は　こんなところだ。|　この中に　すぐに納品できそうなものは|　あるか？|<break>": "Here's what I need right now. Is there|anything on this list that you can deliver|to me?|<break>"
   },
   "11": {
-    "「他に　すぐ納品できそうな依頼は　あるか？|<break>": "Do you have any other requests that you can|deliver immediately?<break>"
+    "「他に　すぐ納品できそうな依頼は　あるか？|<break>": "Are there any other requests that you can|fulfill?|<break>"
   },
   "12": {
     "「釣りの依頼だが|　すまない。今日はもう　間に合っている。|　また　明日になったら　来てくれ。|<bw_break>": "I've got a fishing request, but... I can't|make it today. I'll come back tomorrow...<bw_break>"
@@ -42,7 +42,7 @@
     "<%sL_ITEM>を　納品しますか？|釣り経験値：<%dL_EXP>P|おさかなコイン：<%dL_COIN>枚|<yesno><close>": "Deliver the <%sL_ITEM>?|You'll receive <%dL_EXP> Fishing EXP and|<%dL_COIN> Fish Coins.|<yesno><close>"
   },
   "15": {
-    "「どうやら　報酬を受け取れないようだな。|　おさかなコインを減らしてから　また来るのだ。|<bw_break>": "Apparently, I'm not getting my reward... I'll|come back after I've depleted my fish|coins...<bw_break>"
+    "「どうやら　報酬を受け取れないようだな。|　おさかなコインを減らしてから　また来るのだ。|<bw_break>": "I can't give you your reward until you spend|some of your Fish Coins first.|<bw_break>"
   },
   "16": {
     "<pc>は|おさかなコインを　<%dL_COIN>枚　手に入れた！|<se_nots System 7><bw_break>": "<pc> received <%dL_COIN> Fish Coins!|<se_nots System 7><bw_break>"
@@ -51,10 +51,10 @@
     "<pc>は|<%sL_HOUSYUU>を　手に入れた！|<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!|<se_nots System 7><end>"
   },
   "18": {
-    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!|<se_nots System 7><end>"
+    "<pc>は|<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！|<se_nots System 7><end>": "<pc> received <%dL_NUM> <%sL_HOUSYUU>!|<se_nots System 7><end>"
   },
   "19": {
-    "「……うむ　良い魚だ。|　依頼の品　確かに受けとった。|　報酬を　くれてやろう。|<end>": "... Mm, good. I got what you asked for.|You're paying me...<end>"
+    "「……うむ　良い魚だ。|　依頼の品　確かに受けとった。|　報酬を　くれてやろう。|<end>": "Mhm, a great fish. It's exactly what I asked|for. Please take this reward.<end>"
   },
   "20": {
     "「ちゃんと仕事用に釣って|　持ってくるのだぞ。|　他に　納品できそうな依頼は　あるか？|<break>": "I'll be sure to bring you some fish for work.|Is there anything else you think you can|deliver?<break>"
@@ -66,78 +66,78 @@
     "「ちょうど　<%sL_ITEM>が|　不足していてな。今　持ってきてくれれば|　報酬は　割り増ししておこう。|<break>": "We just ran out of <%sL_ITEM>. If you bring|it to me now, I'll give you an extra...<break>"
   },
   "23": {
-    "「めずらしく　<%sL_ITEM>の|　注文が来ている。とても　難しい依頼だ。|　もし　釣り上げられれば　報酬は弾むぞ。|<break>": "I got a rare order for <%sL_ITEM>... It's|very difficult... If we can catch it, the|reward will be...<break>"
+    "「めずらしく　<%sL_ITEM>の|　注文が来ている。とても　難しい依頼だ。|　もし　釣り上げられれば　報酬は弾むぞ。|<break>": "I have a rare request for one|<%sL_ITEM>. It's quite difficult. If you|can catch one, you'll be handsomely rewarded.|<break>"
   },
   "24": {
-    "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> will acquire <%dL_EXP> P's fishing|experience!|<se_nots System 7><bw_break>"
+    "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> received <%dL_EXP> Fishing EXP!|<se_nots System 7><bw_break>"
   },
   "25": {
-    "「おお　これは驚いた！|　こんなに大きな　<%sL_ITEM>は|　なかなか　釣り上げられるものではない！|<br>|「報酬にも　色をつけておこう。|　この調子で　頑張るのだぞ。|<end>": "Oh, this is amazing! It's not every day you|get a <%sL_ITEM> this big! I'll add some|color to the reward... I'll keep working at|<br>|this rate...<end>"
+    "「おお　これは驚いた！|　こんなに大きな　<%sL_ITEM>は|　なかなか　釣り上げられるものではない！|<br>|「報酬にも　色をつけておこう。|　この調子で　頑張るのだぞ。|<end>": "Wow, amazing! It's not every day that you|catch a <%sL_ITEM> this big!|<br>|I'll mark your rewards down. Keep up the|great work.|<end>"
   },
   "26": {
     "「……うむ　良い魚だ。|　しかも　かなりの大物と見える。|　少し多めに　報酬をやろう。|<end>": "... Mm, good. And it's a pretty big one. I'll|give you a little extra.<end>"
   },
   "27": {
-    "「その魚は　自分で釣った物では　ないだろう。|　私を失望させないでくれ。|<bw_break>": "You didn't catch that fish yourself. You will|not disappoint me...<bw_break>"
+    "「その魚は　自分で釣った物では　ないだろう。|　私を失望させないでくれ。|<bw_break>": "You didn't catch that fish yourself.|Please don't disappoint me.<bw_break>"
   },
   "28": {
     "「ごきげんよう　若者よ|　釣りがしたければ　そこの道具屋で|　釣りざおとルアーを　買うのだ。|<br>|「釣りざおとルアーを　両方装備して|　水辺の近くで　<convenience>を押せば|　お前にも　釣りができるだろう。|<br>|「釣り糸を垂らして　じっと待ち……|　さかなの気配を感じたら　すかさず|　<convenience>を　押すべし!|<br>|「すぐに押さなくても　さかなは逃げんが|　ぼーっと待っていても　得なことはないぞ。|<br>|「釣りざおとルアーは　使える回数が|　それぞれ決まっている。壊れてしまったら|　そこの道具屋で　また買うのだ。よいな？|<end>": "Good day, young man, if you want to fish, go|to your local tackle shop and buy a fishing|rod and lure. You'll need both a fishing rod|<br>|and a lure, and you'll need to be near the|water.<convenience>If you press the \"+\" button, you can start|fishing... Just drop your line and wait...|And when you see the fish...<convenience>You have to push! Even if you don't press it|right away, the fish won't run away, but|there's nothing to be gained by waiting|<br>|idly... Each fishing lure can be used a|certain number of times... If it's broken,|you can buy another one at the tool store...|<br>|Good, huh?<end>"
   },
   "29": {
-    "「おお　<%sL_FISH_RANK>サイズの魚を　<%nL_FISH_NUM>種類|　釣り上げたようだな。|<br>|「よくやった。|　さかなぶくろを|　大きい物に　替えてやろう。|<end>": "Oh, I caught <%sL_FISH_RANK>sized fish in|<%nL_FISH_NUM>types... Well... I'm gonna get|a bigger fish bag...<end>"
+    "「おお　<%sL_FISH_RANK>サイズの魚を　<%nL_FISH_NUM>種類|　釣り上げたようだな。|<br>|「よくやった。|　さかなぶくろを|　大きい物に　替えてやろう。|<end>": "Oh, you've caught <%dL_FISH_NUM> <%sL_FISH_RANK> size fish.|<br>|You've done well. I will give you a bigger|bag to hold your fish in.|<end>"
   },
   "30": {
-    "<speed=0><pipipi_off>|さかなぶくろが　大きくなった！|<se_nots System 7><pipipi_on><end>": "<speed=0><pipipi_off>My fish bag is getting bigger!|<se_nots System 7><pipipi_on><end>"
+    "<speed=0><pipipi_off>|さかなぶくろが　大きくなった！|<se_nots System 7><pipipi_on><end>": "<speed=0><pipipi_off>You now have a bigger fish bag!|<se_nots System 7><pipipi_on><end>"
   },
   "31": {
-    "「おお！　キングサイズの魚を　釣り上げたのか！|　これは　褒美をやらんわけには　いかないな。|<end>": "Oh! You caught a king-sized fish! I'm going|to have to reward you for this...<end>"
+    "「おお！　キングサイズの魚を　釣り上げたのか！|　これは　褒美をやらんわけには　いかないな。|<end>": "Oh! You've caught a King Size fish!|I'll have to reward you.<end>"
   },
   "32": {
-    "<speed=0><pipipi_off>|キングサイズの<%sL_FISH_NAME>の|釣り上げを　達成！|<bw_break>": "<speed=0><pipipi_off>You just caught a king-sized fish!<bw_break>"
+    "<speed=0><pipipi_off>|キングサイズの<%sL_FISH_NAME>の|釣り上げを　達成！|<bw_break>": "<speed=0><pipipi_off>Achieved catching a King Size|<%sL_FISH_NAME>!|<bw_break>"
   },
   "33": {
-    "<pipipi_on>|「新しく　<%nL_MEDAL_NUM>種類　釣ったんだな。|　では　<%nL_MEDAL_NUM>枚のちいさなメダルを　やろう。|<end>": "<pipipi_on>New <%nL_MEDAL_NUM> type, caught... Now,|let's get <%nL_MEDAL_NUM> a little medal...<end>"
+    "<pipipi_on>|「新しく　<%nL_MEDAL_NUM>種類　釣ったんだな。|　では　<%nL_MEDAL_NUM>枚のちいさなメダルを　やろう。|<end>": "<pipipi_on>You've caught <%dL_MEDAL_NUM> unique types of fish.|Here, take these <%dL_MEDAL_NUM> Mini Medals.|<end>"
   },
   "34": {
-    "さかなを　<%dL_BAG_SIZE>匹まで　持てるようになった！": "I can now hold up to <%dL_BAG_SIZE> fish!"
+    "さかなを　<%dL_BAG_SIZE>匹まで　持てるようになった！": "Your fish bag can now carry up to <%dL_BAG_SIZE> fish!"
   },
   "35": {
-    "<speed=0><pipipi_off>|<pc>は|ちいさなメダルを　<%nL_MEDAL_NUM>枚　手に入れた！|<se_nots System 7><end>": "<speed=0><pipipi_off>|<pc> I've got <%nL_MEDAL_NUM> of these little|medals!|<se_nots System 7><end>"
+    "<speed=0><pipipi_off>|<pc>は|ちいさなメダルを　<%nL_MEDAL_NUM>枚　手に入れた！|<se_nots System 7><end>": "<speed=0><pipipi_off>|<pc> received <%dL_MEDAL_NUM> Mini Medals!|<se_nots System 7><end>"
   },
   "36": {
-    "「おお　釣り上げた　<%sL_FISH_RANK>サイズの　魚の数が|　<%nL_KEIHIN_NUM>種類に　到達したな。|　<%sL_KEIHIN_ITEM>を　<%nL_KEIHIN_NUM2>個やろう。|<end>": "Oh, the number of <%sL_FISH_RANK> sized fish|you've caught has reached <%nL_KEIHIN_NUM>|species... <%sL_KEIHIN_ITEM> to|<br>|<%nL_KEIHIN_NUM2> pieces...<end>"
+    "「おお　釣り上げた　<%sL_FISH_RANK>サイズの　魚の数が|　<%nL_KEIHIN_NUM>種類に　到達したな。|　<%sL_KEIHIN_ITEM>を　<%nL_KEIHIN_NUM2>個やろう。|<end>": "Oh! I see that you've caught <%dL_KEIHIN_NUM> unique types|of <%sL_FISH_RANK> Size fish. Please take|these <%dL_KEIHIN_NUM2> <%sL_KEIHIN_ITEM>."
   },
   "37": {
-    "<pipipi_off>|<pc>は|<%sL_KEIHIN_ITEM>を　<%nL_KEIHIN_NUM2>個　手に入れた！|<se_nots System 7><end>": "<pipipi_off>|<pc> got <%sL_KEIHIN_ITEM> for <%nL_KEIHIN_NUM2>!|<se_nots System 7><end>"
+    "<pipipi_off>|<pc>は|<%sL_KEIHIN_ITEM>を　<%nL_KEIHIN_NUM2>個　手に入れた！|<se_nots System 7><end>": "<pipipi_off>|<pc> received <%dL_KEIHIN_NUM2> <%sL_KEIHIN_ITEM>!|<se_nots System 7><end>"
   },
   "38": {
-    "「どの説明を　聞きたいんだ。|<select_se_off>|依頼をみる|褒美をみる|さかなぶくろについて|<select_end>|<break>": "I'd like to hear what you have to say.|<select_se_off>|View Requests|look at the rewards|About the fish bag|<select_end>|<break>"
+    "「どの説明を　聞きたいんだ。|<select_se_off>|依頼をみる|褒美をみる|さかなぶくろについて|<select_end>|<break>": "What do you want to know?|<select_se_off>|View Requests|lView Rewards|About the Fish Bag|<select_end>|<break>"
   },
   "39": {
-    "「釣った　魚の種類数に応じて|　私から新たに　褒美を渡すことにした。|　釣り道を極めるために　より精を出してほしい。|<br>|「褒美は　『ノーマル』『ビッグ』『キング』の|　釣り上げた種類数によって　それぞれ|　異なるものを　用意した。|<br>|「ただし　『ビッグ』は　釣りレベル１９|　『キング』は　釣りレベル２４で　与える試練を|　クリアしないと　受け取ることは　できないぞ。|<br>|「この褒美の　内容を見たければ|　『褒美をみる』から　確認できるぞ。|　もし　気になるのであれば　確認してみてくれ。|<end>": "Depending on the number of species you catch,|I will give you a new reward... I will give|you a new reward based on the number of fish|<br>|you catch. I'll give you a different reward|for each type of fish you catch, Normal, Big,|and King. But for the Big, you need to be at|<br>|Fishing Level 19, and for the King, you need|to be at Fishing Level 24 to complete the|ordeal. If you want to see what these rewards|<br>|are, go to \"View Rewards\"... If you're|curious, you can check it out...<end>"
+    "「釣った　魚の種類数に応じて|　私から新たに　褒美を渡すことにした。|　釣り道を極めるために　より精を出してほしい。|<br>|「褒美は　『ノーマル』『ビッグ』『キング』の|　釣り上げた種類数によって　それぞれ|　異なるものを　用意した。|<br>|「ただし　『ビッグ』は　釣りレベル１９|　『キング』は　釣りレベル２４で　与える試練を|　クリアしないと　受け取ることは　できないぞ。|<br>|「この褒美の　内容を見たければ|　『褒美をみる』から　確認できるぞ。|　もし　気になるのであれば　確認してみてくれ。|<end>": "Depending on the number of unique types of|fish you catch, I will reward you.|<br>|I'll give you different rewards based on the|different fish sizes: \"Normal\", \"Big\", and|\"King\".|<br>|However to receive the Big Size rewards, you|will need to be Fishing Level 19, and for|King Size you will need Fishing Level 24.|<br>|If you are interested in seeing the rewards,|please choose \"Rewards\".|<end>"
   },
   "40": {
-    "「お前に　新しく伝えておくことがある。|<br>|「釣り上げた　キングサイズの種類数に応じて|　私から新たに　褒美を渡すことにした。|　釣り道を極めるために　より精を出してほしい。|<br>|「ただし　釣りレベルが　２４になった時に|　与える試練を　クリアしていなければ|　この褒美は渡せないので　気をつけるように。|<br>|「キングサイズの褒美の　内容を見たければ|　『褒美をみる』から　確認できるぞ。|　もし気になるのであれば　確認してみてくれ。|<bw_break>": "I have something new to tell you... For every|king-sized fish you catch, I will give you a|new prize. You'll have to work harder to|<br>|master the art of fishing... But be careful,|because I can't give you this reward if you|haven't completed the trials I give you when|<br>|you reach fishing level 24. If you want to|see what the king size reward is, you can|check it by going to \"View Reward\"... If|<br>|you're curious, you can check it out...<bw_break>"
+    "「お前に　新しく伝えておくことがある。|<br>|「釣り上げた　キングサイズの種類数に応じて|　私から新たに　褒美を渡すことにした。|　釣り道を極めるために　より精を出してほしい。|<br>|「ただし　釣りレベルが　２４になった時に|　与える試練を　クリアしていなければ|　この褒美は渡せないので　気をつけるように。|<br>|「キングサイズの褒美の　内容を見たければ|　『褒美をみる』から　確認できるぞ。|　もし気になるのであれば　確認してみてくれ。|<bw_break>": "I have some news for you. For each King Size|fish you catch, I will reward you. I hope|you'll continue to hone your skills.|<br>|However, you will not be able to receive these|rewards until you complete my trial after|reaching Fishing Level 24.|<br>|You can view these rewards by choosing|\"Rewards\".|<bw_break>"
   },
   "41": {
-    "「むむっ　<%sL_BAG_TYPE>が　いっぱいのようだな。|　空きがないと　褒美を渡すことができないぞ。|　最低でもひとつ以上　空けてきてくれ。|<end>": "<%sL_BAG_TYPE> is full... I can't give you|your reward if there's no room. I need at|least one empty bag...<end>"
+    "「むむっ　<%sL_BAG_TYPE>が　いっぱいのようだな。|　空きがないと　褒美を渡すことができないぞ。|　最低でもひとつ以上　空けてきてくれ。|<end>": "Hmm.. your <%sL_BAG_TYPE> is full.|You'll need to free up at least one empty|slot if you want your reward.|<end>"
   },
   "42": {
-    "褒美として <%sM_turi>を <%dM_turi_num>個 もらった！": "I got <%dM_turi_num> of <%sM_turi> as a|reward!"
+    "褒美として <%sM_turi>を <%dM_turi_num>個 もらった！": "Received <%dM_turi_num> <%sM_turi>|as a reward!"
   },
   "43": {
-    "「これが　褒美の一覧だ。|<break>": "Here's your reward...<break>"
+    "「これが　褒美の一覧だ。|<break>": "Here's the list of rewards.<break>"
   },
   "44": {
-    "「褒美の一覧だ。『ビッグ』は　釣りレベル１９|　『キング』は　釣りレベル２４で　与える試練を|　クリアしないと　受け取ることは　できないぞ。|<break>": "The reward... \"Big\" has to be at fishing|level 19, \"King\" has to be at fishing level|24 to complete the ordeal that will give|<br>|him...<break>"
+    "「褒美の一覧だ。『ビッグ』は　釣りレベル１９|　『キング』は　釣りレベル２４で　与える試練を|　クリアしないと　受け取ることは　できないぞ。|<break>": "Here's the list of rewards. You'll need|Fishing Level 19 for \"Big\" rewards and Fishing|Level 24 for \"King\" rewards.|<break>"
   },
   "45": {
     "「ノーマルサイズと　ビッグサイズの|　釣った魚の種類に応じて|　さかなぶくろを　大きいものに替えてやろう。|<br>|「ノーマルサイズは３０種と　５０種|　ビッグサイズは１０種と　３０種に|　達したときだ。|<br>|「ただし　ビッグサイズについては　先に|　ノーマルサイズを５０種　釣ることが条件だ。|　ものには　順序というものが　あるからな。|<end>": "Depending on the type of fish I caught,|normal size or big size, I'd switch out the|fish bag for a bigger one... We've reached 30|<br>|species and 50 varieties for the normal size,|and 10 species and 30 varieties for the big|size. ... But for the big ones, I had to|<br>|catch 50 normal-sized ones first... There's a|certain order to things...<end>"
   },
   "46": {
-    "「これが　褒美の一覧だ。|　『キングサイズの褒美』は　釣りレベル２４で|　与える試練を　クリアすることが　条件だぞ。|<break>": "This is the reward... The King's Reward is an|ordeal that must be completed at fishing|level 24.<break>"
+    "「これが　褒美の一覧だ。|　『キングサイズの褒美』は　釣りレベル２４で|　与える試練を　クリアすることが　条件だぞ。|<break>": "This is the list of rewards. The King Size|rewards can be earned once your Fishing Level|reaches 24 and you complete my trial.|<break>"
   },
   "47": {
-    "「むむっ　<%sM_item>は|　ロック中なので　納品することはできないぞ。|<bw_break>": "Mmm, <%sM_item> is locked, so I can't deliver|it...<bw_break>"
+    "「むむっ　<%sM_item>は|　ロック中なので　納品することはできないぞ。|<bw_break>": "Hmm... Your <%sM_item> is locked,|so you can't deliver it.|<bw_break>"
   }
 }

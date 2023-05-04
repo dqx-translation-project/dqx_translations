@@ -3,7 +3,7 @@
     "「この家を　家キットに　戻しますか？|<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
   },
   "2": {
-    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": ""
+    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
   },
   "3": {
     "「修正した内容を取り消して　元に戻しますか？|<yesno 2><break>": "Do you want to undo and revert the changes|you made?<yesno 2><break>"
@@ -33,7 +33,7 @@
     "「それを実行することは　できませんでした。|<break>": "You can't do that...<break>"
   },
   "12": {
-    "「はい。家を　家キットに　戻しました。|<bw_break>": ""
+    "「はい。家を　家キットに　戻しました。|<bw_break>": "Understood. Your house has returned to a house|kit.|<bw_break>"
   },
   "13": {
     "「あいさつ文を　変更しました。|<bw_break>": "I'll change the greeting...<bw_break>"
@@ -75,7 +75,7 @@
     "「申し訳ありませんが|　もう一度　ご指示ください。|<bw_break>": "I'm sorry, sir. I'm going to have to ask you|one more time to...<bw_break>"
   },
   "26": {
-    "家具を　持っていません。": "I have furniture..."
+    "家具を　持っていません。": "You don't have any furniture."
   },
   "27": {
     "家具の配置権限がないため|家具を置くことは　できません。": "I don't have the authority to place furniture|in this room, so I can't..."
@@ -90,7 +90,7 @@
     "「あら？　|　それはサイズの大きい　家キットのようですね。 |<br>|「建て替えは　同じサイズか　土地サイズ以下の|　家キットを　選択してください。|<bw_break>": "Oh? That looks like a larger house kit... If|you're rebuilding, you'll need to select a|house kit that's the same size or smaller|<br>|than the lot size...<bw_break>"
   },
   "31": {
-    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": ""
+    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": "You have to be outside in order to do that.|<bw_break>"
   },
   "32": {
     "「まあ　<pc>さま？|　名前が　入力されていないようですよ？|<bw_break>": "oh!<pc> Sir? I don't think you've entered your name.<bw_break>"
@@ -156,7 +156,7 @@
     "置きたい家具を　選んでください。|<break>": "You pick the furniture you want...<break>"
   },
   "53": {
-    "「<pc>さま。ご用がございましたら|　なんなりと　お申しつけください。|<break>": "<pc> sir. If there's anything I can do for you,|please don't hesitate to ask...<break>"
+    "「<pc>さま。ご用がございましたら|　なんなりと　お申しつけください。|<break>": "If there's anything that I can do for you,|<pc>, please don't hesitate|to ask me.|<break>"
   },
   "54": {
     "「どの家に　建て替えますか？|<break>": "Which house would you like to rebuild?<break>"
@@ -174,7 +174,7 @@
     "「この家を　家キットに　戻しますか？|<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
   },
   "59": {
-    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": ""
+    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
   },
   "60": {
     "「修正した内容を取り消して　元に戻しますか？|<yesno 2><break>": "Do you want to undo and revert the changes|you made?<yesno 2><break>"
@@ -204,7 +204,7 @@
     "「それを実行することは　できませんでした。|<break>": "You can't do that...<break>"
   },
   "69": {
-    "「はい。家を　家キットに　戻しました。|<bw_break>": ""
+    "「はい。家を　家キットに　戻しました。|<bw_break>": "Understood. Your house has returned to a house|kit.|<bw_break>"
   },
   "70": {
     "「あいさつ文を　変更しました。|<bw_break>": "I'll change the greeting...<bw_break>"
@@ -249,7 +249,7 @@
     "庭具を　持っていません。": "I have garden tools..."
   },
   "84": {
-    "庭具の配置権限がないため|庭具を置くことは　できません。": "I don't have the authority to place garden|tools, so I can't place garden tools..."
+    "庭具の配置権限がないため|庭具を置くことは　できません。": "You don't have placement permissions."
   },
   "85": {
     "「あら？　|　畑で　花を栽培中のようですね。|　畑をきれいにしてから　お試しください。|<bw_break>": "Oh? Looks like they're growing flowers in the|field... I'll have to clean up the field|before we can try...<bw_break>"
@@ -261,7 +261,7 @@
     "「あら？　|　それはサイズの大きい　家キットのようですね。 |<br>|「建て替えは　同じサイズか　土地サイズ以下の|　家キットを　選択してください。|<bw_break>": "Oh? That looks like a larger house kit... If|you're rebuilding, you'll need to select a|house kit that's the same size or smaller|<br>|than the lot size...<bw_break>"
   },
   "88": {
-    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": ""
+    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": "You have to be outside in order to do that.|<bw_break>"
   },
   "89": {
     "「まあ　<pc>さま？|　名前が　入力されていないようですよ？|<bw_break>": "oh!<pc> Sir? I don't think you've entered your name.<bw_break>"
@@ -327,7 +327,7 @@
     "置きたい庭具を　選んでください。|<break>": "You choose the garden tools you want...<break>"
   },
   "110": {
-    "「<pc>さま。ご用がございましたら|　なんなりと　お申しつけください。|<break>": "<pc> sir. If there's anything I can do for you,|please don't hesitate to ask...<break>"
+    "「<pc>さま。ご用がございましたら|　なんなりと　お申しつけください。|<break>": "If there's anything that I can do for you,|<pc>, please don't hesitate|to ask me.|<break>"
   },
   "111": {
     "「どの家に　建て替えますか？|<break>": "Which house would you like to rebuild?<break>"
@@ -420,7 +420,7 @@
     "部屋の照明を　暗く　しますか？|<yesno><break>": "Would you like to dim the lights in your|room?<yesno><break>"
   },
   "141": {
-    "部屋の照明を　けしますか？|<yesno><break>": ""
+    "部屋の照明を　けしますか？|<yesno><break>": "Dim this room's lights?|<yesno><break>"
   },
   "142": {
     "部屋の照明を　明るく　しますか？|<yesno><break>": "Would you like to turn up the light in your|room?<yesno><break>"
@@ -429,7 +429,7 @@
     "部屋の照明を　暗く　しますか？|<yesno><break>": "Would you like to dim the lights in your|room?<yesno><break>"
   },
   "144": {
-    "部屋の照明を　けしますか？|<yesno><break>": ""
+    "部屋の照明を　けしますか？|<yesno><break>": "Dim this room's lights?|<yesno><break>"
   },
   "145": {
     "現在　部屋の照明は　明るくなっています。|部屋の明るさを　変更しますか？|<break>": "The lights in my room are currently turned|up... Would you like to change the brightness|in your room?<break>"
@@ -456,7 +456,7 @@
     "部屋の照明を　暗く　しました。": "I'm gonna dim the lights in the room."
   },
   "153": {
-    "部屋の照明を　けしました。": ""
+    "部屋の照明を　けしました。": "Lights have been dimmed."
   },
   "154": {
     "部屋の照明を　明るく　しました。": "I'm gonna turn up the lights in the room."
@@ -465,7 +465,7 @@
     "部屋の照明を　暗く　しました。": "I'm gonna dim the lights in the room."
   },
   "156": {
-    "部屋の照明を　けしました。": ""
+    "部屋の照明を　けしました。": "Lights have been dimmed."
   },
   "157": {
     "「この家は　チーム集会所に設定されています。|　チーム集会所設定を　解除しますか？|<yesno><break>": "This house has been set up as a team meeting|place... Would you like to remove the team|meeting place setting?<yesno><break>"
@@ -540,7 +540,7 @@
     "「プライベートコンシェルジュは|　一旦戻って　待機しています。|　再度呼びますので　どこに立ってもらいますか？": "Your private concierge will return and wait|for... I'll call you back. Where would you|like me to stand?"
   },
   "181": {
-    "機能のない　家具・庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": ""
+    "機能のない　家具・庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": "Lock non-functional decor from being|interactable with <convenience>?|<yesno><break>"
   },
   "182": {
     "機能のない　家具・庭具が|<convenience>に　反応するように|ロックを　解除しますか？|<yesno><break>": "Furniture and garden tools that don't work|<convenience>Do you want to unlock it so that it responds|to<yesno><break>"
@@ -552,7 +552,7 @@
     "家具・庭具のロックを　解除しました。": "Unlock furniture, garden tools..."
   },
   "185": {
-    "機能のない　家具・庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": ""
+    "機能のない　家具・庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": "Lock non-functional decor from being|interactable with <convenience>?|<yesno><break>"
   },
   "186": {
     "機能のない　家具・庭具が|<convenience>に　反応するように|ロックを　解除しますか？|<yesno><break>": "Furniture and garden tools that don't work|<convenience>Do you want to unlock it so that it responds|to<yesno><break>"
@@ -564,13 +564,13 @@
     "家具・庭具のロックを　解除しました。": "Unlock furniture, garden tools..."
   },
   "189": {
-    "現在　家具・庭具は　ロック中です。|設定を変更しますか？|<break>": ""
+    "現在　家具・庭具は　ロック中です。|設定を変更しますか？|<break>": "Decor is currently locked. Do you want to|change this setting?|<break>"
   },
   "190": {
     "現在　家具・庭具は　ロックされていません。|設定を変更しますか？|<break>": "Furniture and garden tools are currently|locked... Would you like to change your|settings?<break>"
   },
   "191": {
-    "現在　家具・庭具は　ロック中です。|設定を変更しますか？|<break>": ""
+    "現在　家具・庭具は　ロック中です。|設定を変更しますか？|<break>": "Decor is currently locked. Do you want to|change this setting?|<break>"
   },
   "192": {
     "現在　家具・庭具は　ロックされていません。|設定を変更しますか？|<break>": "Furniture and garden tools are currently|locked... Would you like to change your|settings?<break>"
@@ -630,10 +630,10 @@
     "「あら？　番地の　敷地内に|　プライベートコンシェルジュが|　いるみたいですね。|<br>|「プライベートコンシェルジュを|　番地の　敷地の外に　移動させるか|　お別れをしてから　お試しくださいね。|<bw_break>": "Oh? It looks like there's a private concierge|on the grounds of lot number... You can|either move the private concierge off the lot|<br>|or say your goodbyes and try...<bw_break>"
   },
   "211": {
-    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "What? It appears that the garden tools have|been placed on the numbered property... I|suggest you move the garden tools off the lot|<br>|or put them away and try...<bw_break>"
+    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "Hm? It seems that this plot has placed garden|decor on it.|<br>|You'll have to either move them out of the|plot or put them into storage.|<bw_break>"
   },
   "212": {
-    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "What? It appears that the garden tools have|been placed on the numbered property... I|suggest you move the garden tools off the lot|<br>|or put them away and try...<bw_break>"
+    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "Hm? It seems that this plot has placed garden|decor on it.|<br>|You'll have to either move them out of the|plot or put them into storage.|<bw_break>"
   },
   "213": {
     "「マイタウンの名前を　変更いたします。|<break>": "I've changed the name of my town...<break>"
@@ -687,7 +687,7 @@
     "「この家を　家キットに　戻しますか？|<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
   },
   "230": {
-    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": ""
+    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
   },
   "231": {
     "「お招きのつばさは　１０回使えて|　ひとつ　<%nL_GOLD>ゴールドです。|　購入しますか？|<yesno><break>": "The Wings of Invitation can be used 10 times,|one <%nL_GOLD> goal... Do you want to buy it?<yesno><break>"
@@ -756,7 +756,7 @@
     "部屋の照明を　暗く　しますか？|<yesno><break>": "Would you like to dim the lights in your|room?<yesno><break>"
   },
   "253": {
-    "部屋の照明を　けしますか？|<yesno><break>": ""
+    "部屋の照明を　けしますか？|<yesno><break>": "Dim this room's lights?|<yesno><break>"
   },
   "254": {
     "機能のない　庭具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": ""
@@ -768,7 +768,7 @@
     "「それを実行することは　できませんでした。|<break>": "You can't do that...<break>"
   },
   "257": {
-    "「はい。家を　家キットに　戻しました。|<bw_break>": ""
+    "「はい。家を　家キットに　戻しました。|<bw_break>": "Understood. Your house has returned to a house|kit.|<bw_break>"
   },
   "258": {
     "「はい。では　こちらを　どうぞ。|<bw_break>": "Yes, sir. Okay, this is...<bw_break>"
@@ -834,7 +834,7 @@
     "「あら？　|　畑で　花を栽培中のようですね。|　畑をきれいにしてから　お試しください。|<bw_break>": "Oh? Looks like they're growing flowers in the|field... I'll have to clean up the field|before we can try...<bw_break>"
   },
   "279": {
-    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "What? It appears that the garden tools have|been placed on the numbered property... I|suggest you move the garden tools off the lot|<br>|or put them away and try...<bw_break>"
+    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "Hm? It seems that this plot has placed garden|decor on it.|<br>|You'll have to either move them out of the|plot or put them into storage.|<bw_break>"
   },
   "280": {
     "「あら？　番地の　敷地内に|　施設の人が　いるみたいですね。|<br>|「施設の人を　番地の　敷地の外に|　移動させてから　お試しくださいね。|<bw_break>": "What? It looks like there's an orphan on the|property at number one. Let's move them off|the property and try again...<bw_break>"
@@ -867,7 +867,7 @@
     "庭具を　持っていません。": "I have garden tools..."
   },
   "290": {
-    "庭具の配置権限がないため|庭具を置くことは　できません。": "I don't have the authority to place garden|tools, so I can't place garden tools..."
+    "庭具の配置権限がないため|庭具を置くことは　できません。": "You don't have placement permissions."
   },
   "291": {
     "「あら？　|　畑で　花を栽培中のようですね。|　畑をきれいにしてから　お試しください。|<bw_break>": "Oh? Looks like they're growing flowers in the|field... I'll have to clean up the field|before we can try...<bw_break>"
@@ -879,7 +879,7 @@
     "「あら？　|　それはサイズの大きい　家キットのようですね。 |<br>|「建て替えは　同じサイズか　土地サイズ以下の|　家キットを　選択してください。|<bw_break>": "Oh? That looks like a larger house kit... If|you're rebuilding, you'll need to select a|house kit that's the same size or smaller|<br>|than the lot size...<bw_break>"
   },
   "294": {
-    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": ""
+    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": "You have to be outside in order to do that.|<bw_break>"
   },
   "295": {
     "ここでは　選べません！": "You don't get to choose here!"
@@ -978,7 +978,7 @@
     "うごかしたい庭具を　選んでください。|<break>": "Just pick out the garden tools you want to|move...<break>"
   },
   "327": {
-    "「<pc>さま。ご用がございましたら|　なんなりと　お申しつけください。|<break>": "<pc> sir. If there's anything I can do for you,|please don't hesitate to ask...<break>"
+    "「<pc>さま。ご用がございましたら|　なんなりと　お申しつけください。|<break>": "If there's anything that I can do for you,|<pc>, please don't hesitate|to ask me.|<break>"
   },
   "328": {
     "『家具のロック』は　２種類の|ロック方法があります。|<br>|『まるごとロック』では　|すべての　家具と庭具を　<convenience>から|反応しないように　変更できます。|<br><color_yellow>|※ただし　きせかえドールは|　『まるごとロック』の対象外になります。|<br><color_yellow>|『ロックする』では　ラグや像などの|機能のない家具と庭具を　<convenience>から|反応しないように　変更できます。|<br><color_yellow>|ロックしていても　『しらべる』からは|今まで通り　『うごかす』『かたづける』を|行うことができます。|<br><color_white>|家具・庭具のロックを解除したい場合は|このメニューから　『ロックしない』を選べば|いつでも　解除することができます。|<bw_break>": "There are two ways to lock your furniture...|With the full lock, all furniture and garden|tools are locked.<convenience>You can change it so it doesn't react to|the...<color_yellow>However, Kisekae dolls are not eligible for|the Marugoto Lock...<color_yellow>|\"Rocking\" is a game about rugs and statues|Non-functional furniture and garden tools<convenience>You can change it so it doesn't react to|the...<color_yellow>Even if it's locked, you can still use \"Move\"|and \"Clear\" from \"Report\"...<color_white>If you want to unlock a piece of furniture or|garden furniture, you can do so at any time|by selecting \"Unlock\" from this menu.<bw_break>"
@@ -1005,7 +1005,7 @@
     "部屋の照明を　暗く　しました。": "I'm gonna dim the lights in the room."
   },
   "336": {
-    "部屋の照明を　けしました。": ""
+    "部屋の照明を　けしました。": "Lights have been dimmed."
   },
   "337": {
     "庭具を　ロックしました。|『しらべる』からは　今まで通り使用できます。": "I've locked up the garden tools... You can|still use the garden tools..."
@@ -1029,7 +1029,7 @@
     "「この家を　家キットに　戻しますか？|<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
   },
   "344": {
-    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": ""
+    "「この土地に　<%sL_HOUSE_NAME>を|　建てます。|　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
   },
   "345": {
     "「お招きのつばさは　１０回使えて|　ひとつ　<%nL_GOLD>ゴールドです。|　購入しますか？|<yesno><break>": "The Wings of Invitation can be used 10 times,|one <%nL_GOLD> goal... Do you want to buy it?<yesno><break>"
@@ -1098,7 +1098,7 @@
     "部屋の照明を　暗く　しますか？|<yesno><break>": "Would you like to dim the lights in your|room?<yesno><break>"
   },
   "367": {
-    "部屋の照明を　けしますか？|<yesno><break>": ""
+    "部屋の照明を　けしますか？|<yesno><break>": "Dim this room's lights?|<yesno><break>"
   },
   "368": {
     "この家の　機能のない　家具を|<convenience>から　反応しないように|ロックしますか？|<yesno><break>": "The furniture in this house has no function|<convenience>Do you want to lock it so it doesn't respond|to the<yesno><break>"
@@ -1110,7 +1110,7 @@
     "「それを実行することは　できませんでした。|<break>": "You can't do that...<break>"
   },
   "371": {
-    "「はい。家を　家キットに　戻しました。|<bw_break>": ""
+    "「はい。家を　家キットに　戻しました。|<bw_break>": "Understood. Your house has returned to a house|kit.|<bw_break>"
   },
   "372": {
     "「はい。では　こちらを　どうぞ。|<bw_break>": "Yes, sir. Okay, this is...<bw_break>"
@@ -1176,7 +1176,7 @@
     "「あら？　|　畑で　花を栽培中のようですね。|　畑をきれいにしてから　お試しください。|<bw_break>": "Oh? Looks like they're growing flowers in the|field... I'll have to clean up the field|before we can try...<bw_break>"
   },
   "393": {
-    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "What? It appears that the garden tools have|been placed on the numbered property... I|suggest you move the garden tools off the lot|<br>|or put them away and try...<bw_break>"
+    "「あら？　番地の　敷地内に|　庭具が　置かれているようですね。|<br>|「庭具を　番地の　敷地の外に　移動させるか|　かたづけてから　お試しくださいね。|<bw_break>": "Hm? It seems that this plot has placed garden|decor on it.|<br>|You'll have to either move them out of the|plot or put them into storage.|<bw_break>"
   },
   "394": {
     "「あら？　番地の　敷地内に|　施設の人が　いるみたいですね。|<br>|「施設の人を　番地の　敷地の外に|　移動させてから　お試しくださいね。|<bw_break>": "What? It looks like there's an orphan on the|property at number one. Let's move them off|the property and try again...<bw_break>"
@@ -1206,7 +1206,7 @@
     "「申し訳ありませんが|　もう一度　ご指示ください。|<bw_break>": "I'm sorry, sir. I'm going to have to ask you|one more time to...<bw_break>"
   },
   "403": {
-    "家具を　持っていません。": "I have furniture..."
+    "家具を　持っていません。": "You don't have any furniture."
   },
   "404": {
     "家具の配置権限がないため|家具を置くことは　できません。": "I don't have the authority to place furniture|in this room, so I can't..."
@@ -1221,7 +1221,7 @@
     "「あら？　|　それはサイズの大きい　家キットのようですね。 |<br>|「建て替えは　同じサイズか　土地サイズ以下の|　家キットを選択してください。|<bw_break>": "Oh? That looks like a large house kit... If|you're rebuilding, you'll need to select a|house kit that's the same size or smaller|<br>|than the lot size...<bw_break>"
   },
   "408": {
-    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": ""
+    "「家の建て替えは　家の外で　ご指示ください。|<bw_break>": "You have to be outside in order to do that.|<bw_break>"
   },
   "409": {
     "ここでは　選べません！": "You don't get to choose here!"
@@ -1320,7 +1320,7 @@
     "置きたい家具を　選んでください。|<break>": "You pick the furniture you want...<break>"
   },
   "441": {
-    "「<pc>さま。ご用がございましたら|　なんなりと　お申しつけください。|<break>": "<pc> sir. If there's anything I can do for you,|please don't hesitate to ask...<break>"
+    "「<pc>さま。ご用がございましたら|　なんなりと　お申しつけください。|<break>": "If there's anything that I can do for you,|<pc>, please don't hesitate|to ask me.|<break>"
   },
   "442": {
     "『家具のロック』は　２種類の|ロック方法があります。|<br>|『まるごとロック』では　|すべての　家具と庭具を　<convenience>から|反応しないように　変更できます。|<br><color_yellow>|※ただし　きせかえドールは|　『まるごとロック』の対象外になります。|<br><color_yellow>|『ロックする』では　ラグや像などの|機能のない家具と庭具を　<convenience>から|反応しないように　変更できます。|<br><color_yellow>|ロックしていても　『しらべる』からは|今まで通り　『うごかす』『かたづける』を|行うことができます。|<br><color_white>|家具・庭具のロックを解除したい場合は|このメニューから　『ロックしない』を選べば|いつでも　解除することができます。|<bw_break>": "There are two ways to lock your furniture...|With the full lock, all furniture and garden|tools are locked.<convenience>You can change it so it doesn't react to|the...<color_yellow>However, Kisekae dolls are not eligible for|the Marugoto Lock...<color_yellow>|\"Rocking\" is a game about rugs and statues|Non-functional furniture and garden tools<convenience>You can change it so it doesn't react to|the...<color_yellow>Even if it's locked, you can still use \"Move\"|and \"Clear\" from \"Report\"...<color_white>If you want to unlock a piece of furniture or|garden furniture, you can do so at any time|by selecting \"Unlock\" from this menu.<bw_break>"
@@ -1347,7 +1347,7 @@
     "部屋の照明を　暗く　しました。": "I'm gonna dim the lights in the room."
   },
   "450": {
-    "部屋の照明を　けしました。": ""
+    "部屋の照明を　けしました。": "Lights have been dimmed."
   },
   "451": {
     "この家の　家具を　ロックしました。|『しらべる』からは　今まで通り使用できます。": "I've locked all the furniture in this|house... From here, you can continue to use|it as before..."
@@ -1452,16 +1452,16 @@
     "「あら？　モーモンバザーや|　きせかえドールなど　本宅にしか置けない家具が|　置かれているみたいですね。|<br>|「家具を片づけてから　お試しくださいね。|<bw_break>": "What? It looks like the Mormon Bazaar, the|dress-up dolls, and other furniture that can|only be found in the main house... You'll|<br>|have to clear out the furniture before you|can try...<bw_break>"
   },
   "485": {
-    "家具を１個　加工することで　その家具を|配置上限数以内なら　好きなだけ配置できる|『レプリカ家具』の機能が　入りました！|<br>|レプリカ家具にするには　『レプリカ加工ロボ』が|必要になります。|こちらは　家具屋や住宅商で販売中です。|<br>|レプリカ家具にすると　どうぐメニューの|『つかうもの』から　なくなります。|<br>|どうぐメニューの『ハウジング』にある|『レプリカ家具を配置』または　扉メニューの|『レプリカ家具』から　配置してください。|<br>|また　レプリカ家具を　かたづけた場合は|どうぐメニューの　『つかうもの』には　|戻りません。|<br>|『家具＆庭具おきば』や　収納などに　|しまうことも　できません。|<br>|レプリカ家具は　他の人の家に|配置することは　できません。　|取り引きや　売買もできません。|<br>|なお　レプリカにできない家具も　あります。|『くわしくみる』で　タンスアイコンが　|ついていないものは　レプリカ家具にできません。|<br>|※黒のタンスアイコンは　レプリカに|　できる家具です。白のタンスアイコンは|　レプリカになっている家具に　なります。|<br>|レプリカ家具は　『配置中の家具』で|白のタンスマークが　つきます。": "We've added a new feature called \"Replica|Furniture\" that allows you to place as many|pieces of furniture as you want within the|<br>|limit of the number of furniture you can|place. To make replica furniture, you'll need|a \"Replica Processing Robot\"... You'll need a|<br>|Replica Processing Robot to make replica|furniture. If you make replica furniture, it|will disappear from the \"Items to Use\"|<br>|menu... You can place replica furniture by|clicking \"Place Replica Furniture\" in the|\"Housing\" menu, or by clicking \"Replica|<br>|Furniture\" in the \"Door\" menu... If you|replace the replica furniture, it will be|returned to the \"Things to Use\" menu... You|<br>|can also store it in the Furniture & Garden|Storage or in a storage space... Replica|furniture can't be placed in someone else's|<br>|home... They can be traded, sold... However,|there are some pieces of furniture that|cannot be replicated... If a piece of|<br>|furniture does not have a chest of drawers|icon on it, it cannot be made into a replica.|Black chests of drawers can be made into|<br>|replicas. White wardrobe icons are for|furniture that is a replica. A white wardrobe|icon is a piece of furniture..."
+    "家具を１個　加工することで　その家具を|配置上限数以内なら　好きなだけ配置できる|『レプリカ家具』の機能が　入りました！|<br>|加工先は『つかうもの』『アイテム倉庫』|『家具＆庭具おきば』『配置中の家具』から|選択できます。|<br>|『加工する』から　加工先を選択して|レプリカにしたい家具の|チェックボックスに　チェックを入れてください。|<br>|レプリカ家具にすると　『つかうもの』|『アイテム倉庫』『家具＆庭具おきば』から|なくなります。|<br>|『配置中の家具』の場合は|選んだ家具は　なくなり　同じ位置に|レプリカ家具が　置き直されます。|<br>|※引っ越しや　建て替え時の『配置中の家具』の|　『退避された家具』からは　レプリカ加工は|　できません。|<br>|どうぐメニューの『ハウジング』にある|『レプリカ家具を配置』　または　扉メニューの|『レプリカ家具』から　配置してください。|<br>|また　レプリカ家具を　かたづけた場合は|『つかうもの』には戻らず『家具＆庭具おきば』や|収納などに　しまうことも　できません。|<br>|レプリカ家具は　他の人の家に　配置することは|できません。　|取り引きや　売買もできません。|<br>|なお　レプリカにできない家具も　あります。|『くわしくみる』で　タンスアイコンが　|ついていないものは　レプリカ家具にできません。|<br>|※黒のタンスアイコンは　レプリカに|　できる家具です。白のタンスアイコンは|　レプリカになっている家具に　なります。|<br>|レプリカ家具は　『配置中の家具』で|白のタンスマークが　つきます。|<br>|家具屋や住宅商で販売中の|『レプリカ加工ロボ』が　必要になります。": ""
   },
   "486": {
-    "庭具を１個　加工することで　その庭具を|配置上限数以内なら　好きなだけ配置できる|『レプリカ庭具』の機能が　入りました！|<br>|レプリカ庭具にするには　|『レプリカ加工ロボ・庭』が　必要になります。|こちらは　庭具屋や住宅商で販売中です。|<br>|レプリカ庭具にすると　どうぐメニューの|『つかうもの』から　なくなります。|<br>|どうぐメニューの『ハウジング』にある|『レプリカ庭具を配置』または　扉メニューの|『レプリカ庭具』から　配置してください。|<br>|また　レプリカ庭具を　かたづけた場合は|どうぐメニューの　『つかうもの』には|戻りません。|<br>|『家具＆庭具おきば』や　収納などに　|しまうことも　できません。|<br>|レプリカ庭具は　他の人の家に|配置することは　できません。　|取り引きや　売買もできません。|<br>|なお　レプリカにできない庭具も　あります。|『くわしくみる』で　タンスアイコンが　|ついていないものは　レプリカ庭具にできません。|<br>|※黒のタンスアイコンは　レプリカに|　できる庭具です。白のタンスアイコンは|　レプリカになっている庭具に　なります。|<br>|レプリカ庭具は　『配置中の庭具』および|『マイタウンの庭具』で|白のタンスマークが　つきます。": "We've added a new feature called \"Replica|Garden Tools\" that allows you to place as|many garden tools as you want within the|<br>|maximum number of garden tools you can place|by processing one of them. To make a replica|garden tool, you'll need a \"Replica|<br>|Processing Robot Garden\". You can get it at|any gardener or home dealer... If you make a|replica garden tool, it will disappear from|<br>|the \"Things to Use\" menu... You can place a|replica garden tool by clicking on \"Place|Replica Tool\" in the \"Housing\" menu, or by|<br>|clicking on \"Replica Garden Tool\" in the|\"Door\" menu... If you replace a replica|garden tool, it will be returned to the|<br>|\"Items to Use\" menu... You can also store|them in the Furniture & Garden Storage or in|storage... Replica garden tools cannot be|<br>|placed in someone else's home... They can be|traded, sold... However, there are some|garden tools that cannot be replicated... If|<br>|you can't find a chest of drawers icon in the|Show Me More section, you can't make a|replica. Black chests of drawers can be made|<br>|into replicas. White chests of drawers are|replicas of garden tools... Replica garden|furniture can only be made from items that|<br>|have a white wardrobe icon..."
+    "庭具を１個　加工することで　その庭具を|配置上限数以内なら　好きなだけ配置できる|『レプリカ庭具』の機能が　入りました！|<br>|加工先は『つかうもの』『アイテム倉庫』|『家具＆庭具おきば』『配置中の庭具』から|選択できます。|<br>|『加工する』から　加工先を選択して|レプリカにしたい庭具の|チェックボックスに　チェックを入れてください。|<br>|レプリカ庭具にすると　『つかうもの』|『アイテム倉庫』『家具＆庭具おきば』から|なくなります。|<br>|『配置中の庭具』の場合は|選んだ庭具は　なくなり　同じ位置に|レプリカ庭具が　置き直されます。|<br>|※引っ越しや　建て替え時の『配置中の庭具』の|　『退避された庭具』からは　レプリカ加工は|　できません。|<br>|どうぐメニューの『ハウジング』にある|『レプリカ庭具を配置』　または　扉メニューの|『レプリカ庭具』から　配置してください。|<br>|また　レプリカ庭具を　かたづけた場合は|『つかうもの』には戻らず『家具＆庭具おきば』や|収納などに　しまうことも　できません。|<br>|レプリカ庭具は　他の人の家に　配置することは|できません。　|取り引きや　売買もできません。|<br>|なお　レプリカにできない庭具も　あります。|『くわしくみる』で　タンスアイコンが　|ついていないものは　レプリカ庭具にできません。|<br>|※黒のタンスアイコンは　レプリカに|　できる庭具です。白のタンスアイコンは|　レプリカになっている庭具に　なります。|<br>|レプリカ庭具は　『配置中の庭具』で|白のタンスマークが　つきます。|<br>|庭具屋や住宅商で販売中の|『レプリカ加工ロボ・庭』が　必要になります。": ""
   },
   "487": {
-    "家具を１個　加工することで　その家具を|配置上限数以内なら　好きなだけ配置できる|『レプリカ家具』の機能が　入りました！|<br>|レプリカ家具にするには　『レプリカ加工ロボ』が|必要になります。|こちらは　家具屋や住宅商で販売中です。|<br>|レプリカ家具にすると　どうぐメニューの|『つかうもの』から　なくなります。|<br>|どうぐメニューの『ハウジング』にある|『レプリカ家具を配置』または　扉メニューの|『レプリカ家具』から　配置してください。|<br>|また　レプリカ家具を　かたづけた場合は|どうぐメニューの　『つかうもの』には　|戻りません。|<br>|『家具＆庭具おきば』や　収納などに　|しまうことも　できません。|<br>|レプリカ家具は　他の人の家に|配置することは　できません。　|取り引きや　売買もできません。|<br>|なお　レプリカにできない家具も　あります。|『くわしくみる』で　タンスアイコンが　|ついていないものは　レプリカ家具にできません。|<br>|※黒のタンスアイコンは　レプリカに|　できる家具です。白のタンスアイコンは|　レプリカになっている家具に　なります。|<br>|レプリカ家具は　『配置中の家具』で|白のタンスマークが　つきます。": "We've added a new feature called \"Replica|Furniture\" that allows you to place as many|pieces of furniture as you want within the|<br>|limit of the number of furniture you can|place. To make replica furniture, you'll need|a \"Replica Processing Robot\"... You'll need a|<br>|Replica Processing Robot to make replica|furniture. If you make replica furniture, it|will disappear from the \"Items to Use\"|<br>|menu... You can place replica furniture by|clicking \"Place Replica Furniture\" in the|\"Housing\" menu, or by clicking \"Replica|<br>|Furniture\" in the \"Door\" menu... If you|replace the replica furniture, it will be|returned to the \"Things to Use\" menu... You|<br>|can also store it in the Furniture & Garden|Storage or in a storage space... Replica|furniture can't be placed in someone else's|<br>|home... They can be traded, sold... However,|there are some pieces of furniture that|cannot be replicated... If a piece of|<br>|furniture does not have a chest of drawers|icon on it, it cannot be made into a replica.|Black chests of drawers can be made into|<br>|replicas. White wardrobe icons are for|furniture that is a replica. A white wardrobe|icon is a piece of furniture..."
+    "家具を１個　加工することで　その家具を|配置上限数以内なら　好きなだけ配置できる|『レプリカ家具』の機能が　入りました！|<br>|加工先は『つかうもの』『アイテム倉庫』|『家具＆庭具おきば』『配置中の家具』から|選択できます。|<br>|『加工する』から　加工先を選択して|レプリカにしたい家具の|チェックボックスに　チェックを入れてください。|<br>|レプリカ家具にすると　『つかうもの』|『アイテム倉庫』『家具＆庭具おきば』から|なくなります。|<br>|『配置中の家具』の場合は|選んだ家具は　なくなり　同じ位置に|レプリカ家具が　置き直されます。|<br>|※引っ越しや　建て替え時の『配置中の家具』の|　『退避された家具』からは　レプリカ加工は|　できません。|<br>|どうぐメニューの『ハウジング』にある|『レプリカ家具を配置』　または　扉メニューの|『レプリカ家具』から　配置してください。|<br>|また　レプリカ家具を　かたづけた場合は|『つかうもの』には戻らず『家具＆庭具おきば』や|収納などに　しまうことも　できません。|<br>|レプリカ家具は　他の人の家に　配置することは|できません。　|取り引きや　売買もできません。|<br>|なお　レプリカにできない家具も　あります。|『くわしくみる』で　タンスアイコンが　|ついていないものは　レプリカ家具にできません。|<br>|※黒のタンスアイコンは　レプリカに|　できる家具です。白のタンスアイコンは|　レプリカになっている家具に　なります。|<br>|レプリカ家具は　『配置中の家具』で|白のタンスマークが　つきます。|<br>|家具屋や住宅商で販売中の|『レプリカ加工ロボ』が　必要になります。|": ""
   },
   "488": {
-    "庭具を１個　加工することで　その庭具を|配置上限数以内なら　好きなだけ配置できる|『レプリカ庭具』の機能が　入りました！|<br>|レプリカ庭具にするには　|『レプリカ加工ロボ・庭』が　必要になります。|こちらは　庭具屋や住宅商で販売中です。|<br>|レプリカ庭具にすると　どうぐメニューの|『つかうもの』から　なくなります。|<br>|どうぐメニューの『ハウジング』にある|『レプリカ庭具を配置』または　扉メニューの|『レプリカ庭具』から　配置してください。|<br>|また　レプリカ庭具を　かたづけた場合は|どうぐメニューの　『つかうもの』には|戻りません。|<br>|『家具＆庭具おきば』や　収納などに　|しまうことも　できません。|<br>|レプリカ庭具は　他の人の家に|配置することは　できません。　|取り引きや　売買もできません。|<br>|なお　レプリカにできない庭具も　あります。|『くわしくみる』で　タンスアイコンが　|ついていないものは　レプリカ庭具にできません。|<br>|※黒のタンスアイコンは　レプリカに|　できる庭具です。白のタンスアイコンは|　レプリカになっている庭具に　なります。|<br>|レプリカ庭具は　『配置中の庭具』および|『マイタウンの庭具』で|白のタンスマークが　つきます。": "We've added a new feature called \"Replica|Garden Tools\" that allows you to place as|many garden tools as you want within the|<br>|maximum number of garden tools you can place|by processing one of them. To make a replica|garden tool, you'll need a \"Replica|<br>|Processing Robot Garden\". You can get it at|any gardener or home dealer... If you make a|replica garden tool, it will disappear from|<br>|the \"Things to Use\" menu... You can place a|replica garden tool by clicking on \"Place|Replica Tool\" in the \"Housing\" menu, or by|<br>|clicking on \"Replica Garden Tool\" in the|\"Door\" menu... If you replace a replica|garden tool, it will be returned to the|<br>|\"Items to Use\" menu... You can also store|them in the Furniture & Garden Storage or in|storage... Replica garden tools cannot be|<br>|placed in someone else's home... They can be|traded, sold... However, there are some|garden tools that cannot be replicated... If|<br>|you can't find a chest of drawers icon in the|Show Me More section, you can't make a|replica. Black chests of drawers can be made|<br>|into replicas. White chests of drawers are|replicas of garden tools... Replica garden|furniture can only be made from items that|<br>|have a white wardrobe icon..."
+    "庭具を１個　加工することで　その庭具を|配置上限数以内なら　好きなだけ配置できる|『レプリカ庭具』の機能が　入りました！|<br>|加工先は『つかうもの』『アイテム倉庫』|『庭具倉庫』『家具＆庭具おきば』|『マイタウンの庭具』から選択できます。|<br>|『加工する』から　加工先を選択して|レプリカにしたい庭具に　|チェックを入れてください。|<br>|レプリカ庭具にすると　『つかうもの』|『アイテム倉庫』『家具＆庭具おきば』から|なくなります。|<br>|『庭具倉庫』『マイタウンの庭具』の場合は|選んだ庭具は　なくなり　同じ位置に|レプリカ庭具が　置き直されます。|<br>|※引っ越しや　建て替え時の『配置中の庭具』の|　『退避された庭具』からは　レプリカ加工は|　できません。|<br>|どうぐメニューの『ハウジング』にある|『レプリカ庭具を配置』　または　扉メニューの|『レプリカ庭具』から　配置してください。|<br>|また　レプリカ庭具を　かたづけた場合は|『つかうもの』には戻らず『家具＆庭具おきば』や|収納などに　しまえません。|<br>|レプリカ庭具は　他の人の家に　配置することは|できず　取り引きや　売買もできません。|<br>|なお　レプリカにできない庭具も　あり|『くわしくみる』で　タンスアイコンが　|ついていないものは　レプリカ庭具にできません。|<br>|※黒タンスアイコンは　レプリカに|　できる庭具です。白タンスアイコンは|　レプリカになっている庭具に　なります。|<br>|レプリカ庭具は　『配置中の庭具』および|『マイタウンの庭具』で|白タンスマークが　つきます。|<br>|庭具屋や住宅商で販売中の|『レプリカ加工ロボ・庭』が　必要になります。|": ""
   },
   "489": {
     "「このたび　『住宅村にいる人の優先表示』の|　機能が　入りました！|<br>|「自分の住宅村で　優先的に表示する人を|　設定します。みんなに見てほしい人を選択して|　イベントなどで　便利に使ってください。|<br>|「『自分だけ』は　住宅村が混雑していても|　あなただけは　優先的に|　他の人に表示されています。|<br>|「『自分と限られた人』は　あなたと|　２０人まで選択した　フレンドやチームの人が|　優先的に　他の人に表示されます。|<br>|「混雑時に　優先して表示される設定であり　|　必ず　表示されるわけでは　ありません。|　状況により　表示されない場合も　あります。|<br>|「また　配信中設定で　まわりの冒険者が|　『表示しない』に　設定されている場合は|　『住宅村にいる人の優先表示』は設定不可です。|<br>|「変更する場合は　いまどんな？設定の中にある|　配信中で　配信中設定を選択して|　まわりの冒険者を『表示する』にしてください。|<bw_break>": "We're pleased to announce that we've added a|new feature called \"Priority Display of|People in Your Housing Village\"! You can|<br>|choose who you want to see in your village...|You can choose who you want to see in your|village, and use it for events... You and a|<br>|limited number of others can choose who you|want to see in your village. You and a select|group of friends or team members will be|<br>|shown to others with priority... It's a|setting that gives you priority when the game|is busy, but it doesn't mean you'll always|<br>|see them. Depending on the situation, it may|not be displayed... Also, if you have set the|adventurers around you to \"Hide\" in the|<br>|Delivery Settings, the \"Priority display for|people in residential villages\" setting will|not work... To change this setting, go to|<br>|What Now? Settings, select \"During|distribution\" and set the adventurers around|you to \"Show\"...<bw_break>"
@@ -1728,16 +1728,16 @@
     "ウェルカム中の　チームメンバーの|マイタウンへ　訪問します。|訪問先を　選んでください。|<break>": ""
   },
   "577": {
-    "このマイタウンへ　移動しますか？|<yesno><break>": ""
+    "このマイタウンへ　移動しますか？|<yesno><break>": "Go to this My Town?|<yesno><break>"
   },
   "578": {
-    "このマイタウンへ　移動しますか？|<yesno><break>": ""
+    "このマイタウンへ　移動しますか？|<yesno><break>": "Go to this My Town?|<yesno><break>"
   },
   "579": {
-    "このマイタウンへ　移動しますか？|<yesno><break>": ""
+    "このマイタウンへ　移動しますか？|<yesno><break>": "Go to this My Town?|<yesno><break>"
   },
   "580": {
-    "このマイタウンへ　移動しますか？|<yesno><break>": ""
+    "このマイタウンへ　移動しますか？|<yesno><break>": "Go to this My Town?|<yesno><break>"
   },
   "581": {
     "このたび　『家具カタログ』『庭具カタログ』から|『さわる』が　できるようになりました！|<br>|さわった時の状態も　表示できますので|ぜひ　お試しください！": ""
@@ -1930,5 +1930,29 @@
   },
   "644": {
     "<%sL_CATEGORY>の家は|<%nL_WELCOME_NUM>軒あります。|移動しますか？|<yesno><break>": ""
+  },
+  "645": {
+    "テキスト": ""
+  },
+  "646": {
+    "テキスト": ""
+  },
+  "647": {
+    "テキスト": ""
+  },
+  "648": {
+    "テキスト": ""
+  },
+  "649": {
+    "テキスト": ""
+  },
+  "650": {
+    "テキスト": ""
+  },
+  "651": {
+    "テキスト": ""
+  },
+  "652": {
+    "テキスト": ""
   }
 }

@@ -1,6 +1,6 @@
 {
   "1": {
-    "「どの子と　お別れする？|<end>": ""
+    "「どの子と　お別れする？|<end>": "Which will you say goodbye to?|<end>"
   },
   "2": {
     "「<%sL_CAT_NAME>と　お別れするの？|<yesno 2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "Are you saying goodbye to <%sL_CAT_NAME>?<yesno 2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
@@ -30,7 +30,7 @@
     "「何について　聞きたいの？|<break>": "What do you want to talk about?<break>"
   },
   "11": {
-    "「こんにちは　<pc>|　今日は　どんなご用かしら？|<break>": "Hello<pc> What can I do for you today?<break>"
+    "「こんにちは　<pc>|　今日は　どんなご用かしら？|<break>": "Hi, <pc>!|What can I do for you today?|<break>"
   },
   "12": {
     "「他にも　何かあるかしら？|<break>": "Do you have anything else for me?<break>"
@@ -60,10 +60,10 @@
     "「ごめんなさい。|　もう　お部屋がいっぱいなの……。|<br>|「<pc>　悪いけど|　お別れするネコちゃんを　決めてくれる？|　私には　選べないわ……。|<end>": "Sorry... There's no more room...<pc> I'm sorry, but can you decide which cat to|say goodbye to? I don't have a choice...<end>"
   },
   "21": {
-    "「あら？　やめるのね。|<bw_break>": "What? Don't...<bw_break>"
+    "「あら？　やめるのね。|<bw_break>": "Huh? You want to stop?|<bw_break>"
   },
   "22": {
-    "「ところで　<pc>|　今日は　どんなご用かしら？|<break>": "by the way<pc> What can I do for you today?<break>"
+    "「ところで　<pc>|　今日は　どんなご用かしら？|<break>": "By the way, <pc>.|What can I do for you today?<break>"
   },
   "23": {
     "「どのネコ缶が　ほしいの？|<break>": "Which cat food do you want?<break>"
@@ -75,7 +75,7 @@
     "<pc>は　<%sL_CAT_SIZE>サイズの|<%sL_CAT_TYPE_NAME>（<%sL_CAT_COLOR>）を|メレアーデに　渡した。 |<end>": "<pc> is a <%sL_CAT_TYPE_NAME> (<%sL_CAT_COLOR>) of|size <%sL_CAT_SIZE> to Mereade ...<end>"
   },
   "26": {
-    "「あら？　違うの？|<bw_break>": "Oh, no. No?<bw_break>"
+    "「あら？　違うの？|<bw_break>": "Hm? Not that one?|<bw_break>"
   },
   "27": {
     "「あら？　やめるの？|<bw_break>": "Oh, no. Are you quitting?<bw_break>"
@@ -150,7 +150,7 @@
     "「今　お別れの準備を　しているところよ……。|　また　ネコちゃんを　連れてきてちょうだいね。|<bw_break>": "I'm just getting ready to say goodbye...|Please bring me another cat...<bw_break>"
   },
   "51": {
-    "<%sEV_CAT_NAME>から　<%sEV_ITEM_LOG>をもらった！|<end>": "<%sEV_CAT_NAME> gave me <%sEV_ITEM_LOG>!<end>"
+    "<%sEV_CAT_NAME>から　<%sEV_ITEM_LOG>をもらった！|<end>": "<%sEV_CAT_NAME> gave you <%sEV_ITEM_LOG>!<end>"
   },
   "52": {
     "「あら　今は　お招きできる|　パーティメンバーが　いないみたいよ。|<end>": "Oh, I don't think there's anyone else at the|party I can invite right now.<end>"
@@ -201,7 +201,7 @@
     "「お招き中に　ネコちゃんは　受け取れないわ。|<end>": "While I was beckoning, the cat received...<end>"
   },
   "68": {
-    "「この思い出を　ふり返るのね？|<yesno>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>": ""
+    "「この思い出を　ふり返るのね？|<yesno>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>": "You'd like to look back on this memory?|<yesno>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>"
   },
   "69": {
     "「あら　やっぱり　やめるのね。": "Oh, I knew I shouldn't..."

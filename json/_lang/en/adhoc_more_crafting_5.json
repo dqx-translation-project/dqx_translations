@@ -6,7 +6,7 @@
     "何を作りますか？<break>": ""
   },
   "3": {
-    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "This will make <%sL_RECIPE>|using materials from both your storage|and house storage. Are you sure?|<yesno><close>"
   },
   "4": {
     "clarity_nt_char_4": "clarity_nt_char_4"
@@ -78,7 +78,7 @@
     "clarity_nt_char_26": "clarity_nt_char_26"
   },
   "27": {
-    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>It's done!<bw_break>"
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
   },
   "28": {
     "<%sL_RECIPE>が　<%dL_CREATE_NUM>個できた！|<bw_break>": "<%sL_RECIPE> now has <%dL_CREATE_NUM>!<bw_break>"
@@ -93,7 +93,7 @@
     "clarity_nt_char_31": "clarity_nt_char_31"
   },
   "32": {
-    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+    "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
   },
   "33": {
     "clarity_nt_char_33": "clarity_nt_char_33"
@@ -162,7 +162,7 @@
     "何を作りますか？<break>": ""
   },
   "55": {
-    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "This will make <%sL_RECIPE>|using materials from both your storage|and house storage. Are you sure?|<yesno><close>"
   },
   "56": {
     "clarity_nt_char_56": "clarity_nt_char_56"
@@ -234,13 +234,13 @@
     "clarity_nt_char_78": "clarity_nt_char_78"
   },
   "79": {
-    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>It's done!<bw_break>"
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
   },
   "80": {
     "clarity_nt_char_80": "clarity_nt_char_80"
   },
   "81": {
-    "木工を　続けますか？|<break>": ""
+    "木工を　続けますか？|<break>": "Continue woodworking?|<break>"
   },
   "82": {
     "clarity_nt_char_82": "clarity_nt_char_82"
@@ -249,7 +249,7 @@
     "clarity_nt_char_83": "clarity_nt_char_83"
   },
   "84": {
-    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+    "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
   },
   "85": {
     "clarity_nt_char_85": "clarity_nt_char_85"
@@ -267,7 +267,7 @@
     "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|木工が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now do woodworking using materials|found not only in the Animal Bag, but also in|the Storage Area and Under the Roof! When you|<br>|select a recipe for which you don't have the|necessary materials, you can use the|materials items in the Storage Area and Roof|<br>|Storage...<color_white>|<end>"
   },
   "90": {
-    "木工を　続けますか？|<break>": ""
+    "木工を　続けますか？|<break>": "Continue woodworking?|<break>"
   },
   "91": {
     "clarity_nt_char_91": "clarity_nt_char_91"
@@ -279,7 +279,7 @@
     "<%sL_TICKET_NAME>を　使って|<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "How do I use <%sL_TICKET_NAME> to create|<%sL_RECIPE>? Are you sure?<yesno><close>"
   },
   "94": {
-    "けずっていない　木材がありますが|木工をやめますか？|<yesno><close>": "I have some wood that hasn't been scraped. Do|you want to stop woodworking?<yesno><close>"
+    "けずっていない　木材がありますが|木工をやめますか？|<yesno><close>": "There is still wood that hasn't been|carved. Stop woodworking anyway?|<yesno><close>"
   },
   "95": {
     "clarity_nt_char_95": "clarity_nt_char_95"
@@ -396,7 +396,7 @@
     "clarity_nt_char_132": "clarity_nt_char_132"
   },
   "133": {
-    "錬金を　続けますか？|<break>": ""
+    "錬金を　続けますか？|<break>": "Continue alchemy?|<break>"
   },
   "134": {
     "使う<%sL_TOOL_BASE_NAME>を　選んでください。|<break>": "Select the <%sL_TOOL_BASE_NAME> you want to|use...<break>"
@@ -405,7 +405,7 @@
     "どの装備品に　錬金効果を付けますか？<break>": ""
   },
   "136": {
-    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+    "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
   },
   "137": {
     "clarity_nt_char_137": "clarity_nt_char_137"
@@ -474,7 +474,7 @@
     "何を作りますか？<break>": ""
   },
   "159": {
-    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "This will make <%sL_RECIPE>|using materials from both your storage|and house storage. Are you sure?|<yesno><close>"
   },
   "160": {
     "clarity_nt_char_160": "clarity_nt_char_160"
@@ -546,13 +546,13 @@
     "clarity_nt_char_182": "clarity_nt_char_182"
   },
   "183": {
-    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>It's done!<bw_break>"
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
   },
   "184": {
     "clarity_nt_char_184": "clarity_nt_char_184"
   },
   "185": {
-    "さいほうを　続けますか？|<break>": ""
+    "さいほうを　続けますか？|<break>": "Continue sewing?|<break>"
   },
   "186": {
     "clarity_nt_char_186": "clarity_nt_char_186"
@@ -561,7 +561,7 @@
     "clarity_nt_char_187": "clarity_nt_char_187"
   },
   "188": {
-    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+    "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
   },
   "189": {
     "clarity_nt_char_189": "clarity_nt_char_189"
@@ -579,7 +579,7 @@
     "<color_yellow>|「どうぐかばん」だけでなく　「預かり所」と|「屋根ウラ収納」に入っている　素材を　使って|裁縫が　できるようになりました！|<br>|必要な素材が足りていない　レシピを選択すると|「預かり所」と　「屋根ウラ収納」に　入っている|素材アイテムを　使うことができます。|<color_white>|<end>": "<color_yellow>You can now sew using materials found not|only in the Animal Bag, but also in the|Storage Area and Under the Roof! When you|<br>|select a recipe for which you don't have all|the materials you need, you can use the|materials items in the Storage Area and Under|<br>|the Roof...<color_white>|<end>"
   },
   "194": {
-    "さいほうを　続けますか？|<break>": ""
+    "さいほうを　続けますか？|<break>": "Continue sewing?|<break>"
   },
   "195": {
     "clarity_nt_char_195": "clarity_nt_char_195"
@@ -630,7 +630,7 @@
     "何を作りますか？<break>": ""
   },
   "211": {
-    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "I want to make a <%sL_RECIPE> using the|materials in the storage area and the roof|storage... Are you sure?<yesno><close>"
+    "「預かり所」と　「屋根ウラ収納」に入っている|素材を使って　<%sL_RECIPE>を作ります。|よろしいですか？|<yesno><close>": "This will make <%sL_RECIPE>|using materials from both your storage|and house storage. Are you sure?|<yesno><close>"
   },
   "212": {
     "clarity_nt_char_212": "clarity_nt_char_212"
@@ -702,7 +702,7 @@
     "clarity_nt_char_234": "clarity_nt_char_234"
   },
   "235": {
-    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>It's done!<bw_break>"
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
   },
   "236": {
     "clarity_nt_char_236": "clarity_nt_char_236"
@@ -717,7 +717,7 @@
     "clarity_nt_char_239": "clarity_nt_char_239"
   },
   "240": {
-    "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate enough!"
+    "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
   },
   "241": {
     "<speed=0>移動先のマスには　既に具材があるため|その方向に　この具材を動かすことはできません。": "<speed=0>The square you're moving to already has an|ingredient in it, so you can't move this|ingredient in that direction."
@@ -771,7 +771,7 @@
     "武器鍛冶部　防具鍛冶部　道具鍛冶部　いずれかの|部が活動を再開するまでは|この設備を使うことは　できません。": "Until one of the weapon smithing, armor|smithing, or tool smithing divisions is|activated again, you will not be able to use|<br>|this facility."
   },
   "258": {
-    "木工を　続けますか？|<yesno><break>": ""
+    "木工を　続けますか？|<yesno><break>": "Continue woodworking?|<yesno><break>"
   },
   "259": {
     "clarity_nt_char_259": "clarity_nt_char_259"
@@ -807,7 +807,7 @@
     "<%sL_SKILL_NAME>部が　活動を再開するまでは|この設備を使うことは　できません。": "<%sL_SKILL_NAME> Until the department resumes|operations, this equipment is not to be|used..."
   },
   "270": {
-    "さいほうを　続けますか？|<yesno><break>": ""
+    "さいほうを　続けますか？|<yesno><break>": "Continue sewing?|<yesno><break>"
   },
   "271": {
     "clarity_nt_char_271": "clarity_nt_char_271"
@@ -1098,7 +1098,7 @@
     "clarity_nt_char_366": "clarity_nt_char_366"
   },
   "367": {
-    "<%nL_TURN>ターン目": "<%nL_TURN>turn 1"
+    "<%nL_TURN>ターン目": "Turn <%dL_TURN>"
   },
   "368": {
     "clarity_nt_char_368": "clarity_nt_char_368"

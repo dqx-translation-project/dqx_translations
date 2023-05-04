@@ -15,10 +15,10 @@
     "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
   },
   "6": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "7": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "8": {
     "「<%sL_KOUKAN_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "I'm afraid I don't have enough items to|replace <%sL_KOUKAN_ITEM>...<bw_break>"
@@ -36,7 +36,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "13": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "14": {
     "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
@@ -87,7 +87,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "30": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "31": {
     "「ハローハロー　皆さまハッピー　こんバーニン！|　夜空にキラめく　ボンバガァールッ！　こと|　花火交換屋のワタシに　今日の用事をセイユー！|<break>": "Hello, hello, everyone. Happy New Year! Bon|voyage, sparkling in the night sky! I'm the|fireworks man, and I'm here to take care of|<br>|you today!<break>"
@@ -126,10 +126,10 @@
     "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
   },
   "43": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "44": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "45": {
     "「あら　このカードは　期限切れですね。|　すみませんが　期限切れのカードは|　交換できないんです。|<bw_break>": "Oh, this card is expired... I'm sorry, we|can't replace expired cards.<bw_break>"
@@ -150,7 +150,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "51": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "52": {
     "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
@@ -177,7 +177,7 @@
     "「有効期限が　あと<%nL_KOUKAN_TIME>時間の|　<%sL_KOUKAN_ITEM_2>をいただきますが|　本当に　交換して　よろしいですか？|<yesno 2><break>": "I'll take <%sL_KOUKAN_ITEM_2>|with <%nL_KOUKAN_TIME>hours left|to expire.|<br><yesno 2><break>"
   },
   "60": {
-    "「<%sL_KOUKAN_ITEM>を|　持ってるアイテムと　交換していいですかー？|<yesno><break>": "Would you be willing to trade|<%sL_KOUKAN_ITEM> for an item you|already own?|<br><yesno><break>"
+    "「<%sL_KOUKAN_ITEM>を|　持ってるアイテムと　交換していいですかー？|<yesno><break>": "Would you like to trade your items for the|<%sL_KOUKAN_ITEM>?|<yesno><break>"
   },
   "61": {
     "「<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|　持ってるアイテムと　交換していいですかー？|<yesno><break>": "Would you be willing to trade|<%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> for an item you|<br>|have?<yesno><break>"
@@ -210,7 +210,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "71": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "72": {
     "「はいはーい　アイテム交換屋へ　ようこそ！|　今日は　どんなご用事ですかー？|<break>": "Welcome to the Item Exchange! What can I do|for you today?<break>"
@@ -243,10 +243,10 @@
     "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
   },
   "82": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "83": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "84": {
     "「あら　このカードは　期限切れですね。|　期限切れのカードは　交換できないので|　別のカードを　選んでください。|<bw_break>": "Oh, my God. This card is expired. We can't|replace an expired card, so you'll have to|pick another one.|<br><bw_break>"
@@ -267,7 +267,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "90": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "91": {
     "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
@@ -465,16 +465,16 @@
     "「ヒヤカシは　感心しないゾ　ニンゲン。|　今度　来る時は　黄金のブローチ　忘れるナ。|<turn_end>": "I don't appreciate the scarecrow. Next time I|come back, I'll remember the golden brooch...<turn_end>"
   },
   "156": {
-    "「助かったゾ　ニンゲン。また　いつでも来イ。|<turn_end>": "Thank you for saving my life. I'll see you|when...<turn_end>"
+    "「助かったゾ　ニンゲン。また　いつでも来イ。|<turn_end>": "Thank you, human. See you again.|<turn_end>"
   },
   "157": {
-    "「……受け取レ。|<end>": "...受...<end>"
+    "「……受け取レ。|<end>": "Please take...|<end>"
   },
   "158": {
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "159": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "160": {
     "「オレの名は　ジョーンズ。|　ニンゲン……　黄金のブローチ　持ってるカ？|　オレ　交換してやるゾ……。|<break>": "My name is Jones. Human, do you have|any golden brooches? I will trade for them...|<break>"
@@ -567,10 +567,10 @@
     "「<%sL_KOUKAN_ITEM>は|　取り引き不可の　しぐさ書ですが|　交換しても　よろしいですか？|<yesno 2><break>": "<%sL_KOUKAN_ITEM> is a non-|tradable gesture, may I exchange it?<yesno 2><break>"
   },
   "190": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "191": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "192": {
     "「あら　このカードは　期限切れですね。|　期限切れのカードは　交換できないので|　別のカードを　選んでください。|<bw_break>": "Oh, my God. This card is expired. We can't|replace an expired card, so you'll have to|pick another one.|<br><bw_break>"
@@ -597,7 +597,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "200": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "201": {
     "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
@@ -657,10 +657,10 @@
     "「<%sL_KOUKAN_ITEM>は|　取り引き不可の　しぐさ書ですが|　交換しても　よろしいですか？|<yesno 2><break>": "<%sL_KOUKAN_ITEM> is a non-|tradable gesture, may I exchange it?<yesno 2><break>"
   },
   "220": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "221": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "222": {
     "「あら　このカードは　期限切れですね。|　期限切れのカードは　交換できないので|　別のカードを　選んでください。|<bw_break>": "Oh, my God. This card is expired. We can't|replace an expired card, so you'll have to|pick another one.|<br><bw_break>"
@@ -687,7 +687,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "230": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "231": {
     "「こちらは　協力チャレンジバトル専用の|　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange for the Cooperative|Challenge Battle... What would you like to do|today?|<br><break>"
@@ -735,10 +735,10 @@
     "「有効期限が　あと<%nL_KOUKAN_TIME>時間の|　<%sL_KOUKAN_ITEM_2>をいただきますが|　本当に　交換して　よろしいですか？|<yesno 2><break>": "I'll take <%sL_KOUKAN_ITEM_2>|with <%nL_KOUKAN_TIME>hours left|to expire.|<br><yesno 2><break>"
   },
   "246": {
-    "「<%sL_KOUKAN_ITEM>か。|　オマエの素材と交換するが　イイんだな？|<yesno><break>": "<%sL_KOUKAN_ITEMFILLERSTRIN... I'll trade you|your material, is that okay?<yesno><break>"
+    "「<%sL_KOUKAN_ITEM>か。|　オマエの素材と交換するが　イイんだな？|<yesno><break>": "<%sL_KOUKAN_ITEM>? I'll exchange|for your materials. Okay?|<yesno><break>"
   },
   "247": {
-    "「<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個か。|　オマエの素材と交換するが　イイんだな？|<yesno><break>": "<%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM... I'll trade you|your material, is that okay?|<br><yesno><break>"
+    "「<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個か。|　オマエの素材と交換するが　イイんだな？|<yesno><break>": "<%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>? I'll exchange|for your materials. Okay?|<yesno><break>"
   },
   "248": {
     "「他に　用件は　あるか？|<break>": "Is there anything else I can do?|<break>"
@@ -777,7 +777,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "260": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "261": {
     "「用件を　言ってみな。|<break>": "Tell me what you want...<break>"
@@ -837,10 +837,10 @@
     "「<%sL_KOUKAN_ITEM>は|　取り引き不可の　しぐさ書ですが|　交換しても　よろしいですか？|<yesno 2><break>": "<%sL_KOUKAN_ITEM> is a non-|tradable gesture, may I exchange it?<yesno 2><break>"
   },
   "280": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "281": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "282": {
     "「あら　このカードは　期限切れですね。|　すみませんが　期限切れのカードは|　交換できないんです。|<bw_break>": "Oh, this card is expired... I'm sorry, we|can't replace expired cards.<bw_break>"
@@ -867,7 +867,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "290": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "291": {
     "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
@@ -957,7 +957,7 @@
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "320": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "321": {
     "「こちらで　アイテムの交換ができます。|　どうしますか？|<break>": "You can exchange items here. What do you|want to do?<break>"
@@ -993,7 +993,7 @@
     "「先に　受付を済ませてきてね。|<bw_break>": "We'll go through the reception first...<bw_break>"
   },
   "332": {
-    "「おやおや！|　先に　わたぼうに話してほしいな！|<turn_end>": "Well, well, well! I wish you'd tell Watabo|first!<turn_end>"
+    "「おやおや！|　先に　わたぼうに話してほしいな！|<turn_end>": "Well, well, well! I wish you'd tell Fluffy|first!<turn_end>"
   },
   "333": {
     "「先に　受付を済ませてきてね。|<bw_break>": "We'll go through the reception first...<bw_break>"
@@ -1059,7 +1059,7 @@
     "「では　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Now, please pick up your|<%sL_KOUKAN_ITEM>...<end>"
   },
   "354": {
-    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+    "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
   },
   "355": {
     "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
@@ -1068,10 +1068,10 @@
     "「<%sL_KOUKAN_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "I'm afraid I don't have enough items to|replace <%sL_KOUKAN_ITEM>...<bw_break>"
   },
   "357": {
-    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't seem to get it. My kitty's full.<bw_break>"
+    "「どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "I can't give this to you because your item|bag is full.|<bw_break>"
   },
   "358": {
-    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
+    "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "Your equipment bag is full, so I can't give|this to you.|<bw_break>"
   },
   "359": {
     "「あら　このカードは　期限切れですね。|　期限切れのカードは　交換できないので|　別のカードを　選んでください。|<bw_break>": "Oh, my God. This card is expired. We can't|replace an expired card, so you'll have to|pick another one.|<br><bw_break>"
