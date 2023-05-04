@@ -1,71 +1,71 @@
 {
-  "1": {
-    "<speed=0>|『施設の人々の管理』の説明です。|<br>|マイタウン内の　施設の人々の|やくわりや　見た目などを　変更したり|新しく　施設の人を　登録することができます。|<br>|やくわりを　切り替えると|口調は　施設ごとに設定された|初期のものに　リセットされます。|<br>|見た目の変更には　マイタウン施設美容院券が|必要です。|<br>|登録した　施設の人の　種族と　性別は|後から変更することができないので|ご注意ください。": "<speed=0>Explanation of \"Manage Facility People\"...|You can change the roles, appearance, etc. of|the people in the facilities in My Town, and|<br>|register new facilities... When you switch|roles, the tone of voice is reset to the|initial one set for each facility... To|<br>|change the appearance, you'll need a My Town|Facility Beauty Parlor Ticket... Note that|you can't change the race and gender of the|<br>|people in the facility you've registered..."
+  "263353": {
+    "<speed=0>\n『施設の人々の管理』の説明です。\n<br>\nマイタウン内の　施設の人々の\nやくわりや　見た目などを　変更したり\n新しく　施設の人を　登録することができます。\n<br>\nやくわりを　切り替えると\n口調は　施設ごとに設定された\n初期のものに　リセットされます。\n<br>\n見た目の変更には　マイタウン施設美容院券が\n必要です。\n<br>\n登録した　施設の人の　種族と　性別は\n後から変更することができないので\nご注意ください。": "<speed=0>Explanation of \"Manage Facility People\"...\nYou can change the roles, appearance, etc. of\nthe people in the facilities in My Town, and\n<br>\nregister new facilities... When you switch\nroles, the tone of voice is reset to the\ninitial one set for each facility... To\n<br>\nchange the appearance, you'll need a My Town\nFacility Beauty Parlor Ticket... Note that\nyou can't change the race and gender of the\n<br>\npeople in the facility you've registered..."
   },
-  "2": {
-    "<speed=0>|マイタウンにいる　施設の人々の|やくわりや　見た目などを　変更したり|新しく　施設の人を　登録することができます。|<break>": "<speed=0>You can change the roles, appearance, etc. of|the people in the facility in My Town, and|register new people in the facility.<break>"
+  "263354": {
+    "<speed=0>\nマイタウンにいる　施設の人々の\nやくわりや　見た目などを　変更したり\n新しく　施設の人を　登録することができます。\n<break>": "<speed=0>You can change the roles, appearance, etc. of\nthe people in the facility in My Town, and\nregister new people in the facility.<break>"
   },
-  "3": {
-    "<%sM_npcname>さんと　お別れします。|よろしいですか？|<yesno2>|<close>": ""
+  "263355": {
+    "<%sM_npcname>さんと　お別れします。\nよろしいですか？\n<yesno2>\n<close>": ""
   },
-  "4": {
-    "お別れした場合　元に戻すことはできませんが|本当に　<%sM_npcname>さんと　お別れしても|よろしいですか？|<yesno2>|<close>": "If we part ways, we can't undo it, but are|you sure you want to part ways with|<%sM_npcname>?<yesno2>|<close>"
+  "263356": {
+    "お別れした場合　元に戻すことはできませんが\n本当に　<%sM_npcname>さんと　お別れしても\nよろしいですか？\n<yesno2>\n<close>": "If we part ways, we can't undo it, but are\nyou sure you want to part ways with\n<%sM_npcname>?<yesno2>\n<close>"
   },
-  "5": {
-    "マイタウン施設美容院券を　持っていません。|施設の人の見た目を　変更するには|マイタウン施設美容院券が　必要です。": "I have a My Town Facility Beauty Parlor|ticket... If you want to change the look of|someone at the facility, you'll need a Mytown|<br>|Facility Hair Salon ticket..."
+  "263357": {
+    "マイタウン施設美容院券を　持っていません。\n施設の人の見た目を　変更するには\nマイタウン施設美容院券が　必要です。": "I have a My Town Facility Beauty Parlor\nticket... If you want to change the look of\nsomeone at the facility, you'll need a Mytown\n<br>\nFacility Hair Salon ticket..."
   },
-  "6": {
-    "<%sM_npcname>さんを　登録してよろしいですか？|<yesno>|<break>": "Are you sure you want to register|<%sM_npcname>?<yesno>|<break>"
+  "263358": {
+    "<%sM_npcname>さんを　登録してよろしいですか？\n<yesno>\n<break>": "Are you sure you want to register\n<%sM_npcname>?<yesno>\n<break>"
   },
-  "7": {
-    "登録には　素材の消費が必要です。|素材を消費して　登録を完了します。|よろしいですか？": "To register, you must consume materials. To|complete the registration, you must|consume... Are you sure you want to do this?"
+  "263359": {
+    "登録には　素材の消費が必要です。\n素材を消費して　登録を完了します。\nよろしいですか？": "To register, you must consume materials. To\ncomplete the registration, you must\nconsume... Are you sure you want to do this?"
   },
-  "8": {
+  "263360": {
     "登録に　必要な素材が　足りません。": "We need more material for registration."
   },
-  "9": {
+  "263361": {
     "どの場所に　立ってもらいますか？": "Where would you like me to stand?"
   },
-  "10": {
-    "<%sM_npctype>の|<%sM_npcname>さんが　やってきました！|<br>|マイタウンの中にいる　他の人は　マイタウンに|入りなおしてもらうことで　反映されます。": "<%sM_npcname> of <%sM_npctype> is here! If|you're in MyTown, you'll need to reenter|MyTown to see the changes..."
+  "263362": {
+    "<%sM_npctype>の\n<%sM_npcname>さんが　やってきました！\n<br>\nマイタウンの中にいる　他の人は　マイタウンに\n入りなおしてもらうことで　反映されます。": "<%sM_npcname> of <%sM_npctype> is here! If\nyou're in MyTown, you'll need to reenter\nMyTown to see the changes..."
   },
-  "11": {
-    "<%sL_costume>を　着用します。|よろしいですか？|<yesno>|<close>": "Wearing <%sL_costume>... May I?<yesno>|<close>"
+  "264939": {
+    "<%sL_costume>を　着用します。\nよろしいですか？\n<yesno>\n<close>": "Wearing <%sL_costume>... May I?<yesno>\n<close>"
   },
-  "12": {
-    "性別が合わない装備品が　含まれているので|この衣装を着ることが　できません。": "I can't wear this outfit because it contains|gender-inappropriate equipment..."
+  "264940": {
+    "性別が合わない装備品が　含まれているので\nこの衣装を着ることが　できません。": "I can't wear this outfit because it contains\ngender-inappropriate equipment..."
   },
-  "13": {
-    "<%sM_npcname>さんの　見た目を変えますか？|<yesno>|<close>": ""
+  "265194": {
+    "<%sM_npcname>さんの　見た目を変えますか？\n<yesno>\n<close>": ""
   },
-  "14": {
-    "<%sM_npcname>さんの　設定を　変更しました！|マイタウンの中にいる　他の人は　マイタウンに|入りなおしてもらうことで　設定が反映されます。": "I've changed <%sM_npcname>'s settings! If|you're in My Town, you'll need to re-enter My|Town to see the changes..."
+  "265404": {
+    "<%sM_npcname>さんの　設定を　変更しました！\nマイタウンの中にいる　他の人は　マイタウンに\n入りなおしてもらうことで　設定が反映されます。": "I've changed <%sM_npcname>'s settings! If\nyou're in My Town, you'll need to re-enter My\nTown to see the changes..."
   },
-  "15": {
-    "<%sM_npcname>さんと　お別れしました。|マイタウンの中にいる　他の人は　マイタウンに|入りなおしてもらうことで　反映されます。": "I have to say goodbye to <%sM_npcname>... If|you're in My Town, you'll need to re-enter My|Town to see the other people in My Town..."
+  "265405": {
+    "<%sM_npcname>さんと　お別れしました。\nマイタウンの中にいる　他の人は　マイタウンに\n入りなおしてもらうことで　反映されます。": "I have to say goodbye to <%sM_npcname>... If\nyou're in My Town, you'll need to re-enter My\nTown to see the other people in My Town..."
   },
-  "16": {
-    "その場所には　配置できません。|他の場所を　指定してください。": "I can't place it in that location. Please|specify another location..."
+  "265508": {
+    "その場所には　配置できません。\n他の場所を　指定してください。": "I can't place it in that location. Please\nspecify another location..."
   },
-  "17": {
-    "その名前では　登録できません。|他の名前を　設定してください。": "You can't register under that name. Please|set another name..."
+  "265509": {
+    "その名前では　登録できません。\n他の名前を　設定してください。": "You can't register under that name. Please\nset another name..."
   },
-  "18": {
-    "登録に失敗しました。|時間をおいて　もう一度　お試しください。": "Registration failed. Please give it some time|and try again..."
+  "265510": {
+    "登録に失敗しました。\n時間をおいて　もう一度　お試しください。": "Registration failed. Please give it some time\nand try again..."
   },
-  "19": {
-    "お別れすることが　できませんでした。|時間をおいて　もう一度　お試しください。": "I can't say goodbye... Please give it some|time and try again..."
+  "265511": {
+    "お別れすることが　できませんでした。\n時間をおいて　もう一度　お試しください。": "I can't say goodbye... Please give it some\ntime and try again..."
   },
-  "20": {
-    "<%sM_npcname>さんの　衣装を　変更しました！|マイタウンの中にいる　他の人は　マイタウンに|入りなおしてもらうことで　設定が反映されます。": "I've changed <%sM_npcname>'s costume! If|you're in My Town, you'll need to re-enter My|Town to see the changes..."
+  "271738": {
+    "<%sM_npcname>さんの　衣装を　変更しました！\nマイタウンの中にいる　他の人は　マイタウンに\n入りなおしてもらうことで　設定が反映されます。": "I've changed <%sM_npcname>'s costume! If\nyou're in My Town, you'll need to re-enter My\nTown to see the changes..."
   },
-  "21": {
-    "衣装を変更することが　できませんでした。|時間をおいて　もう一度　お試しください。": "I can't change my costume... Please give it|some time and try again..."
+  "271990": {
+    "衣装を変更することが　できませんでした。\n時間をおいて　もう一度　お試しください。": "I can't change my costume... Please give it\nsome time and try again..."
   },
-  "22": {
-    "名前が　長すぎます。|他の名前を　設定してください。": "The name is too long... Please set another|name..."
+  "275397": {
+    "名前が　長すぎます。\n他の名前を　設定してください。": "The name is too long... Please set another\nname..."
   },
-  "23": {
-    "やくわりが　変更されたため|肩書きと「なまえ」を合わせた文字数が|<%nM_namelength>文字を　越えました。|<br>|「なまえ」は　肩書きと合わせて|<%nM_namelength>文字以内となるように　設定してください。": ""
+  "291504": {
+    "やくわりが　変更されたため\n肩書きと「なまえ」を合わせた文字数が\n<%nM_namelength>文字を　越えました。\n<br>\n「なまえ」は　肩書きと合わせて\n<%nM_namelength>文字以内となるように　設定してください。": ""
   }
 }

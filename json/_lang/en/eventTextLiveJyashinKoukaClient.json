@@ -1,0 +1,110 @@
+{
+  "134407": {
+    "「この宮殿の中でのみ　使うことができる\n　封印の聖灰を取り扱っています。\n　どうされますか？\n<break>": "My task is to handle the Sealing Ash, which\ncan only be used inside this palace.\nWhat is it I can do for you?\n<break>"
+  },
+  "134421": {
+    "「封印の聖灰を　<%nL_POINT_NUM>個使って\n　<%sL_SEAL_KOUKA>を\n　封印しても　よろしいですか？\n<yesno 1><break>": "You wish to use <%dL_POINT_NUM> Sealing Ash to seal the\n<%sL_SEAL_KOUKA> effect?<yesno 1><break>"
+  },
+  "134422": {
+    "「封印の聖灰を　<%nL_POINT_NUM>個使って\n　戦神のベルトにつく効果を封印します。\n　封印する効果を　選んでください。\n<break>": "It will cost <%dL_POINT_NUM> Sealing Ash to seal another\npossible belt effect. Please choose the effect\nyou wish to seal.\n<break>"
+  },
+  "134423": {
+    "「すでに　戦神のベルトにつく効果を\n　最大まで　封印しています。\n<break>": "You've already sealed the maximum amount\nof effects possible.\n<break>"
+  },
+  "134424": {
+    "「この効果は　すでに封印されています。\n<bw_break>": "This effect has already been sealed.\n<bw_break>"
+  },
+  "134425": {
+    "「これ以上　戦神のベルトにつく効果を\n　封印することは　できません。\n<bw_break>": "I can't seal off the effects of the War God's\nbelt any longer...<bw_break>"
+  },
+  "134426": {
+    "「封印の聖灰が　足りません。\n<bw_break>": "You don't have enough Sealing Ash.\n<bw_break>"
+  },
+  "134427": {
+    "<%sL_SEAL_KOUKA>を\n封印した！\n<se_nots System 7>\n<bw_break>": "<%sL_SEAL_KOUKA>\nhas been sealed!\n<se_nots System 7>\n<bw_break>"
+  },
+  "134429": {
+    "「それでは　戦神のベルトの効果の\n　封印状態をリセットします。\n<br>\n「封印の聖灰を　<%nL_POINT_NUM>個　使いますが\n　これまでの封印に使った　<%nL_GET_NUM>個は\n　戻ってきます。リセットして　よろしいですか？\n<yesno 2><break>": "To reset all of your sealed effects, I will\nrequire <%dL_POINT_NUM> Sealing Ash.\n<br>\nIn addition, the <%dL_GET_NUM> Sealing Ash you've\nused so far will be returned do you. Do you\nwant to reset them?\n<yesno 2><break>"
+  },
+  "134430": {
+    "「それでは　戦神のベルトの効果の\n　封印状態を　リセットします。\n<br>\n「封印の聖灰を　<%nL_POINT_NUM>個　使いますが\n　これまでの封印に使った　<%nL_GET_NUM>個は\n　戻ってきます。\n<br>\n「封印の聖灰は　<%nL_MAX_NUM>個までしか持てません。\n　今　リセットを　おこなうと\n　<%nL_GET_NUM2>個分しか増えませんが　よろしいですか？\n<yesno 2><break>": "Let's reset the seal on the effects of the\nWar God's Belt. I'll use <%nL_POINT_NUM> of\nholy ashes for sealing, but the <%nL_GET_NUM>\n<br>\nI've used for sealing so far will be\nreturned... You can only have <%nL_MAX_NUM>\nashes for sealing... If I reset it now, it\n<br>\nwill only hold <%nL_GET_NUM2> more ashes, is\nthat okay?<yesno 2><break>"
+  },
+  "134431": {
+    "「戦神のベルトの効果を　封印していません。\n<bw_break>": "I've sealed the effects of the War God's\nbelt...<bw_break>"
+  },
+  "134432": {
+    "「封印の聖灰を　<%nL_POINT_NUM>個　使って\n　戦神のベルトの効果の　封印状態を\n　リセットしました。\n<br>\n「これまで封印に使った\n　封印の聖灰　<%nL_GET_NUM>個が\n　戻りました。\n<se_nots System 7>\n<bw_break>": "I'll use <%nL_POINT_NUM> of the Holy Ashes of\nthe Seal to reset the sealed state of the War\nGod's Belt's effect... The <%nL_GET_NUM> of\n<br>\nholy ashes you've used so far will be\nreturned.\n<se_nots System 7>\n<bw_break>"
+  },
+  "134848": {
+    "「<%sL_ITEM><%sL_PLUSNUM>を　捧げると\n　封印の聖灰が<%nL_POINT_NUM>個　手に入ります。\n　捧げたアイテムは失われます。よろしいですか？\n<yesno 2><break>": "If you offer that <%sL_ITEM><%sL_PLUSNUM>, you\nwill get <%dL_POINT_NUM> Sealing Ash. The offered item will\nbe lost. Are you certain?\n<yesno 2><break>"
+  },
+  "134849": {
+    "「<%sL_ITEM><%sL_PLUSNUM>は\n　今　装備しているものですが\n　本当に　捧げてもよろしいですか？\n<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is currently\nequipped. Are you sure you want to offer it?\n<yesno 2><break>"
+  },
+  "134850": {
+    "「今持っている封印の聖灰は　<%nL_TOTAL_NUM>個です。\n　封印の聖灰を　増やします。\n　どのアイテムを　捧げますか？\n<break>": "You currently have <%dL_TOTAL_NUM> Sealing Ash.\nI can give you more, but only if you offer an\nitem to me. Which one will you offer?\n<break>"
+  },
+  "134851": {
+    "「封印の聖灰は　<%nL_MAX_NUM>個までしか持てません。\n　今　<%sL_ITEM><%sL_PLUSNUM>を　捧げると\n　<%nL_GET_NUM>個分しか増えませんが　よろしいですか？\n<yesno 2><break>": "You can only hold <%nL_MAX_NUM> of the Holy\nAshes of the Seal... If I give\n<%sL_ITEM><%sL_PLUSNUM> now, it will only\n<br>\nincrease by <%nL_GET_NUM>, is that correct?<yesno 2><break>"
+  },
+  "134852": {
+    "<pc>は\n<%sL_ITEM><%sL_PLUSNUM>を　捧げた。\n<bw_break>": "<pc> offered their\n<%sL_ITEM><%sL_PLUSNUM>.\n<bw_break>"
+  },
+  "134853": {
+    "「<%sL_ITEM><%sL_PLUSNUM>は\n　ロックされていますので\n　捧げることは　できません。\n<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> is locked, so you\ncannot offer it.\n<bw_break>"
+  },
+  "134854": {
+    "「残念ですが　封印の聖灰に変えられる\n　アイテムをお持ちではないようです。\n<bw_break>": "I'm afraid I don't have any items that can be\nturned into holy ashes for sealing.<bw_break>"
+  },
+  "134855": {
+    "「これ以上　封印の聖灰を\n　増やすことは　できません。\n<bw_break>": "I can't have any more of those sealed\nashes...<bw_break>"
+  },
+  "134856": {
+    "封印の聖灰を　<%nL_GET_NUM>個　手に入れた！\n<se_nots System 7>\n<bw_break>": "Received <%dL_GET_NUM> Sealing Ash!\n<se_nots System 7>\n<bw_break>"
+  },
+  "139206": {
+    "「封印の聖灰は　『封印の聖灰を増やす』を\n　選んで　特定のアクセサリーを捧げることで\n　手に入ります。\n<br>\n「封印の聖灰を使うと　戦神のベルトにつく\n　さまざまな効果のうち　最大５０個までを\n　選んで　封印することができます。\n<br>\n「封印した効果は　それ以降に手に入れる\n　戦神のベルトには　つきません。\n<br>\n「一度　封印した効果を　元に戻したい時は\n　『封印した効果をリセットする』で\n　これまでの設定を　リセットできます。\n<br>\n「リセットには　封印の聖灰が５０個　必要です。\n　代わりに　これまでの封印に使った\n　封印の聖灰は　戻ってきます。": "The Holy Ashes of the Seal can be obtained by\nselecting \"Increase Holy Ashes of the Seal\"\nand offering a specific accessory. With the\n<br>\nHoly Ashes of the Seal, you can choose up to\n50 of the various effects on the War God's\nBelt to seal. The sealed effects will not\n<br>\nappear on any subsequent War God Belts you\nacquire. If you want to undo a sealed effect,\nyou can use the \"Reset Sealed Effects\" option\n<br>\nto reset all previous settings. You'll need\n50 sealed ashes to reset. In exchange, you'll\nget back the ashes you've used to seal it."
+  },
+  "158873": {
+    "「<%sL_KYOUKA_ITEM>を捧げて　<%sL_ITEM>の効果を\n　ふやします。どのベルトを強化しますか？\n　現在　<%sL_KYOUKA_ITEM>を　<%nL_KYOUKA_NUM>個持っています。\n<break>": "You can offer a <%sL_KYOUKA_ITEM> to strengthen\nthe effects of your <%sL_ITEM>. You\ncurrently have <%dL_KYOUKA_NUM> <%sL_KYOUKA_ITEM>.\n<break>"
+  },
+  "158875": {
+    "「他に　どの<%sL_ITEM>を　強化しますか？\n　現在　<%sL_KYOUKA_ITEM>を　<%nL_KYOUKA_NUM>個持っています。\n<break>": "Are there any other <%sL_ITEM> that\nyou wish to enhance?\nYou currently have <%dL_KYOUKA_NUM> <%sL_KYOUKA_ITEM>.\n<break>"
+  },
+  "158877": {
+    "「<%sL_ITEM><%sL_PLUSNUM>は　ロックされています。\n　強化してよろしいですか？\n<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is locked. Are you\nsure you want to strengthen it?<yesno 2><break>"
+  },
+  "158879": {
+    "「ベルトの強化に　失敗しました……。\n　はじめから　もう一度　お試しください。\n<bw_break>": "I've failed to strengthen the belt. Please\ntry again from the beginning...<bw_break>"
+  },
+  "158881": {
+    "「<%sL_KYOUKA_ITEM>を　持っていません。\n　<%sL_KYOUKA_ITEM>は　邪神の宮殿の\n　報酬の宝箱から入手できます。\n<bw_break>": "I have a <%sL_KYOUKA_ITEM>... You can get\n<%sL_KYOUKA_ITEM> from the reward chests in\nthe Palace of the Evil Gods...<bw_break>"
+  },
+  "158883": {
+    "「<%sL_KYOUKA_ITEM>と　強化できる\n　<%sL_ITEM>を　持っていません。\n<br>\n「<%sL_KYOUKA_ITEM>は　邪神の宮殿の\n　報酬の宝箱から入手できます。\n<bw_break>": "I have <%sL_KYOUKA_ITEM> and <%sL_ITEM> that\ncan be enhanced... <%sL_KYOUKA_ITEM> can be\nobtained from the treasure chest in the\n<br>\nPalace of the Evil Gods...<bw_break>"
+  },
+  "158885": {
+    "「強化できる　<%sL_ITEM>を\n　持っていません。\n<bw_break>": "We have a <%sL_ITEM> that can be enhanced...<bw_break>"
+  },
+  "158887": {
+    "「<%sL_ITEM><%sL_PLUSNUM>は\n　これ以上　強化することはできません。\n<bw_break>": "That <%sL_ITEM><%sL_PLUSNUM> cannot be enhanced\nany further.<bw_break>"
+  },
+  "158888": {
+    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と\n<%sL_KYOUKA_ITEM>を　捧げた！\n<bw_break>": "<pc> offered <%sL_ITEM><%sL_PLUSNUM> and\n<%sL_KYOUKA_ITEM>!<bw_break>"
+  },
+  "158889": {
+    "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と\n<%sL_KYOUKA_ITEM>を　捧げた！\n封印の聖灰の効果が　発動した！\n<bw_break>": "<pc> offered the <%sL_ITEM><%sL_PLUSNUM> and\n<%sL_KYOUKA_ITEM>!\nSealing Ash effect has been triggered!\n<bw_break>"
+  },
+  "158890": {
+    "おや……？　なんと　<%sL_ITEM>が\n強い光を放ちはじめた……！\n<bw_break>": "Oh...? Oh my god, <%sL_ITEM> is starting to\nglow strongly...!<bw_break>"
+  },
+  "158891": {
+    "さらに<%sL_KOUKA>\nが<%sL_CHANGE_KOUKA>\nに変わった！<se_nots System 7>\n<bw_break>": "And <%sL_KOUKA> changed to\n<%sL_CHANGE_KOUKA>!\n<se_nots System 7>\n<bw_break>"
+  },
+  "158892": {
+    "<%sL_ITEM><%sL_PLUSNUM>に　新たな効果がめざめ\n<%sL_ADD_KOUKA>が\n付いた！\n<br>\n<%sL_ITEM><%sL_PLUSNUM>は\n<%sL_ITEM><%sL_RESLT_PLUSNUM>になった！<se_nots System 7><bw_break>": "<%sL_ITEM><%sL_PLUSNUM> has awakened a new effect:\n<%sL_ADD_KOUKA>!\n<br>\n<%sL_ITEM><%sL_PLUSNUM> is now\n<%sL_ITEM><%sL_RESLT_PLUSNUM>!\n<se_nots System 7><bw_break>"
+  },
+  "158893": {
+    "「<%sL_ITEM><%sL_PLUSNUM>と\n　<%sL_KYOUKA_ITEM>を　捧げますか？\n<yesno><break>": "Do you want to offer the\n<%sL_ITEM><%sL_PLUSNUM> and\n<%sL_KYOUKA_ITEM>?<yesno><break>"
+  }
+}
