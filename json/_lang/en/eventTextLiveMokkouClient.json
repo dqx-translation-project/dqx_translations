@@ -1,0 +1,245 @@
+{
+  "14293": {
+    "<%sL_STORAGE_NAME>が　いっぱいなので\n木工が　できません。<end>": "<%sL_STORAGE_NAME> is full, so I can't do any\nwoodworking...<end>"
+  },
+  "14294": {
+    "<speed=0>けずりすぎて　木材が折れてしまった！<end>": "<speed=0>I scraped so hard I broke a piece of wood!<end>"
+  },
+  "14296": {
+    "そのカテゴリのレシピは\nまだ　覚えていません。<end>": "You don't know any recipes of this category\nyet.<end>"
+  },
+  "14297": {
+    "木工設備がある。\n木工職人であれば\nここで　アイテムが作れそうだ。": "It's a Woodworking facility. If you're a\nwoodworker, you can craft items here."
+  },
+  "14299": {
+    "木工設備がある。\n木工刀があれば\nここで　木工が　できそうだ。": ""
+  },
+  "14300": {
+    "<%sL_RECIPE>の素材を　失った……。<bw_break>": "The crafting materials were lost...<bw_break>"
+  },
+  "14301": {
+    "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
+  },
+  "14302": {
+    "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
+  },
+  "14303": {
+    "<pc>が使っていた\n<%sL_SYOKUNIN_TOOL>は　限界がきて\nこわれてしまった……。<end>": "The <%sL_SYOKUNIN_TOOL> that\n<pc> was using has reached its\nlimit and is now broken.<end>"
+  },
+  "14307": {
+    "できのよさ<color_yellow>★★★<color_white>の物は　できませんが\nいっぱつしあげをして　よろしいですか？\n<yesno><close>": "Do you want to quick craft this item you have\na knack for? The item will not have a quality\nof <color_yellow>★★★<color_white>.<yesno><close>"
+  },
+  "14308": {
+    "けずっていない　木材がありますが\n木工をやめますか？\n<yesno><close>": "There is still wood that hasn't been\ncarved. Stop woodworking anyway?\n<yesno><close>"
+  },
+  "14337": {
+    "<%sL_RECIPE>は\n『いっぱつしあげ』が　できます。\n<select>\nふつうに作る\nいっぱつしあげ\n<select_end><break>": "<%sL_RECIPE> can be quick crafted.\n<select>\nCraft Normally\nQuick Craft\n<select_end><break>"
+  },
+  "14338": {
+    "<%sL_RECIPE>を　作ります。\nよろしいですか？\n<yesno><close>": "Create <%sL_RECIPE>... Are you sure?<yesno><close>"
+  },
+  "22665": {
+    "<speed=0><pc>は　木工のとくぎを\nおぼえていない！": "<speed=0>You don't know any Woodworking skills!"
+  },
+  "23903": {
+    "<%sL_RECIPE>を作るには\n素材が　足りません。<end>": "You don't have enough materials to make\nthe <%sL_RECIPE>.<end>"
+  },
+  "24607": {
+    "<%sL_RECIPE>を　作るには\n<pc>の　木工職人レベルが\n<%nL_HITUYOU_LV>以上　必要です。<end>": "To create the <%sL_RECIPE>,\nyour Woodworking level must be <%dL_HITUYOU_LV> or higher.<end>"
+  },
+  "24609": {
+    "木工設備がある。\n木工のレシピを　覚えれば\nここで　木工が　できそうだ。": "It's a Woodworking facility. If you know any\nrecipes, you can craft them here."
+  },
+  "24671": {
+    "<%sL_RECIPE>のレシピは\nまだ　覚えていません。<end>": "You still don't know the\n<%sL_RECIPE>.<end>"
+  },
+  "25857": {
+    "作る物の種類を　選んでください。\n<break>": "Please choose what you'd like to craft.\n<break>"
+  },
+  "25858": {
+    "現在　木工職人レベル<%dL_SYOKUNIN_LV>です。\n何を作りますか？<break>": "Your current Woodworking level is <%dL_SYOKUNIN_LV>.\nWhat do you want to craft?<break>"
+  },
+  "30134": {
+    "木工とは　素材となる木材を彫って\n目的のアイテムを　作ることです。\n<br>\n木材を彫ると　少しずつ削られていきますので\n成功ラインに沿うように　形を整えましょう。\n完成品のできのよさは　この精度で決まります。\n<br>\n木工コマンドを実行するには　集中力が必要です。\n集中力がなくなると　実行できなくなるので\nペース配分を考えて　コマンドを選びましょう。\n<br>\n彫る時は　マス目の下から上に向かって彫ります。\n木目に沿っていないと　少ししか　削れませんので\n作業台を回転させて　向きを調整してください。\n<br>\nなお　木工をしている途中に\n通信エラーなどでゲームが中断した場合\n素材は　すべて失われますので　ご注意ください。\n<end>": "Woodworking is the process of carving a piece\nof wood to create a desired item. As the wood\nis carved, it is gradually shaved, so it is\n<br>\nshaped to follow the success line... The\nquality of the finished product depends on\nthe accuracy of the... To execute a\n<br>\nwoodworking command, you need to be able to\nconcentrate. If you lose your concentration,\nyou won't be able to do it, so pace yourself\n<br>\nand choose your commands... When you're\ncarving, you're carving from the bottom of\nthe grid to the top. If you're not following\n<br>\nthe grain of the wood, you'll only be able to\ncarve a little, so rotate your workbench to\nadjust the direction... Please note that if\n<br>\nthe game is interrupted due to a\ncommunication error while you are working on\na piece of wood, all the materials will be\n<br>\nlost.<end>"
+  },
+  "31427": {
+    "大カンナがけを使うと\nタテ２列を　うすく削ることができます。\n細かい仕上げに　使いましょう。": "With the large planer, you can cut two\nvertical rows very thin... For fine\nfinishing..."
+  },
+  "31428": {
+    "カンナがけを使うと\nタテ１列を　うすく削ることができます。\n細かい仕上げに　使いましょう。": "It's used to cut a single vertical row of\nwood into a very thin... For fine\nfinishing..."
+  },
+  "31429": {
+    "表面固めを使ったマスは　しばらくの間\n何をしても　削られなくなります。": "The trout that have been resurfaced won't be\ncut by anything for a while."
+  },
+  "31430": {
+    "昇竜彫りを使うと　上下２マスを\n下から突きあげるように彫ります。\n下側のマスが　特に強く削られます！": "When you use \"Ascending Dragon Carving\", you\ncarve the upper and lower two squares... The\nlower squares are carved especially hard."
+  },
+  "31431": {
+    "２倍彫りを使うと\nひとつのマスを　２倍のチカラで\n大きく削ることができます。　": "With double carving, you can carve a single\nsquare with twice the power..."
+  },
+  "31432": {
+    "流星彫りを使うと　左下から右上に向かって\nナナメ２マスを　流れるように彫ります。\n下側のマスが　特に強く削られます！": "Using meteor engraving, you can carve two\nsquares from the bottom left to the top\nright... The bottom squares are especially\n<br>\nhard to carve."
+  },
+  "31433": {
+    "３倍彫りを使うと\nひとつのマスを　３倍のチカラで\n大きく削ることができます。": "With triple carving, you can carve a single\nsquare with three times the power..."
+  },
+  "31434": {
+    "大昇竜彫りを使うと　タテ１列を\n下から突き上げるように彫ります。\n下のマスほど　強く削られます！": "If you use \"Daishoryu-bori\", you can carve a\nvertical line from the bottom up... The lower\nthe square, the stronger the carving!"
+  },
+  "31435": {
+    "うでまくりをすると　次に彫る時に\nチカラが１.５倍になり　会心率も上がります。\n他の特技と　組み合わせて使うと　効果的！": ""
+  },
+  "31436": {
+    "大河彫りは　左右２マスを\n左から連続で彫っていく　派手な技です。\n左側のマスが　特に強く削られます！": "Okawa-bori is a fancy way of carving two\nsquares in succession, starting from the\nleft. The square on the left is carved\n<br>\nespecially hard."
+  },
+  "31437": {
+    "超大河彫りは　ヨコ１列を\n左から連続で彫っていく　高度な技です。\n左のマスほど　強く削られます！": ""
+  },
+  "32869": {
+    "ねらい彫りを使うと　とぎすました\n会心率の高い　ひと彫りをします！": "When you use Aiming Engraving, you'll get a\nsharper, more accurate engraving!"
+  },
+  "37180": {
+    "<speed=0><%sL_RECIPE>を　仕上げます。\nよろしいですか？\n<yesno><break>": "<speed=0>Finish working on the\n<%sL_RECIPE>?\n<yesno><break>"
+  },
+  "37943": {
+    "木工の遊び方の説明です！\n<br>\n木材を彫って　成功ラインに沿うように\n形を整えていってください。\n<br>\nすべてのマス目が　成功ラインに合ったら\n『しあげる』コマンドで　完成です！\n<br>\n木目の方向と　彫る向きが合っていると\nたくさん削れます。\n<br>\n木目の方向と　彫る向きが合っていないと\n少しだけ削れます。\n<br>\n作業台を回転させて　木目の向きを変え\nうまく調整をして　完成を目指しましょう！\n<end>": "Here's how to play with wood! Carve a piece\nof wood and shape it according to the success\nline... When all the squares meet the success\n<br>\nline, use the \"Finish\" command. If you carve\nin the right direction, you'll get a lot\nof... If the direction of the grain and the\n<br>\ndirection of the carving aren't aligned,\nyou'll have to carve a little. Rotate the\nworkbench to change the direction of the wood\n<br>\ngrain, and make adjustments to complete the\npiece!<end>"
+  },
+  "38844": {
+    "会心0.1％アップは\n覚えているだけで　常に会心率が\n0.1％分　上がるようになります。": "Your chance of scoring a critical hit has\nincreased by 0.1% permanently!"
+  },
+  "38845": {
+    "会心0.2％アップは\n覚えているだけで　常に会心率が\n0.2％分　上がるようになります。": "Your chance of scoring a critical hit has\nincreased by 0.2% permanently!"
+  },
+  "38846": {
+    "会心0.3％アップは\n覚えているだけで　常に会心率が\n0.3％分　上がるようになります。": "Your chance of scoring a critical hit has\nincreased by 0.3% permanently!"
+  },
+  "38847": {
+    "会心0.3％アップは\n覚えているだけで　常に会心率が\n0.3％分　上がるようになります。": "Your chance of scoring a critical hit has\nincreased by 0.3% permanently!"
+  },
+  "38848": {
+    "会心0.5％アップは\n覚えているだけで　常に会心率が\n0.5％分　上がるようになります。": "Your chance of scoring a critical hit has\nincreased by 0.5% permanently!"
+  },
+  "44220": {
+    "一度　コツをつかんだレシピは\n『いっぱつしあげ』が　できるようになります。\n<br>\n『いっぱつしあげ』を使えば\nすぐにアイテムを　完成させられますが\nできのよさ<color_yellow>★★★<color_white>には　ならないので　ご注意を。\n<br>\nまた　『ふつうに作る』時も\nかいしんのてごたえの　出る確率が\n少しアップします！": "Once you have a knack for a recipe, the\n\"Quick Craft\" command becomes available.\n<br>\nQuick Craft allows you to finish the item in\nno time flat! However, items created this way\ncan never be <color_yellow>★★★<color_white> quality.\n<br>\nIn addition, the chance of getting a critical\nhit while using \"Craft Normally\" has increased\nslightly!"
+  },
+  "45132": {
+    "<%sL_RECIPE>は\n『いっぱつしあげ』が　できます。\n<select 2>\nふつうに作る\nいっぱつしあげ\n<select_end><break>": "<%sL_RECIPE> can be quick crafted.\n<select 2>\nCraft Normally\nQuick Craft\n<select_end><break>"
+  },
+  "45441": {
+    "逆流星彫りを使うと　右下から左上に向かって\nナナメ２マスを　流れるように彫ります。\n下側のマスが　特に強く削られます！": "Using reverse meteor engraving, you can carve\ntwo squares from the bottom right to the top\nleft... The bottom squares are especially\n<br>\nhard to carve."
+  },
+  "53850": {
+    "双竜彫りを使うと　２ｘ２マスを\n下から突き上げるように彫ります。\n下側のマスが　特に強く削れます！": "With SsangYu carving, you can carve a 2x2\nsquare from the bottom up. The lower squares\nare particularly strong."
+  },
+  "55903": {
+    "大成功品は　できませんが\nいっぱつしあげをして　よろしいですか？\n<yesno><close>": "I can't give you the big prize, but may I\ngive you a one-time raise?<yesno><close>"
+  },
+  "66880": {
+    "使う木工刀を　選んでください。\n<break>": ""
+  },
+  "67333": {
+    "レシピを　覚えていないため\n<%sL_SEISAN_MENU>を作ることが　できません。\n<bw_break>": "You don't know any recipes to make this type\nof item.\n<bw_break>"
+  },
+  "69758": {
+    "<%sL_RECIPE>は\nこの職人どうぐでは　作れません。\n<bw_break>": "<%sL_RECIPE> can't be made with these artisan\ntools...<bw_break>"
+  },
+  "69759": {
+    "<%sL_RECIPE>は\nこの職人どうぐでは　作れません。\n<%sL_SEASON_TOOL>を　使いましょう。\n<bw_break>": "<%sL_RECIPE> can be made with this artisan\ntool... <%sL_SEASON_TOOL> can be used...<bw_break>"
+  },
+  "78845": {
+    "今日の依頼は　全て達成済みです。\n<end>": "All of today's requests have been\nfulfilled...<end>"
+  },
+  "78853": {
+    "その依頼は　既に達成済みです。\n<end>": "That request has already been fulfilled...<end>"
+  },
+  "79248": {
+    "<yesno><close>": "<yesno><close>"
+  },
+  "79249": {
+    "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<select_end><break>": "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<select_end><break>"
+  },
+  "79250": {
+    "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<select_end><break>": "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<select_end><break>"
+  },
+  "79251": {
+    "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<select_end><break>": "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<select_end><break>"
+  },
+  "79252": {
+    "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<%sL_MENU_NO_5>\n<select_end><break>": "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<%sL_MENU_NO_5>\n<select_end><break>"
+  },
+  "79253": {
+    "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<%sL_MENU_NO_5>\n<%sL_MENU_NO_6>\n<select_end><break>": "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<%sL_MENU_NO_5>\n<%sL_MENU_NO_6>\n<select_end><break>"
+  },
+  "79254": {
+    "木工設備がある。\nここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。\n<break>": "It's a Woodworking facility.\n<break>"
+  },
+  "79255": {
+    "木工を　続けますか？\n<break>": "Continue woodworking?\n<break>"
+  },
+  "79288": {
+    "今日できる　ギルドの依頼は無いようです。\n<end>": "There are no guild requests today.<end>"
+  },
+  "79656": {
+    "<%sL_SYOKUNIN_TOOL>は\nロック中ですが　本当に使いますか？\n<yesno 2><break>": "<%sL_SYOKUNIN_TOOL> is locked, are you sure\nyou want to use it?<yesno 2><break>"
+  },
+  "90438": {
+    "必殺率　小アップは\n覚えているだけで　常に必殺技の出る確率が\n少しだけ　上がるようになります。": "Your chance of triggering a Special move has\nincreased slightly!"
+  },
+  "103176": {
+    "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<select>\nふつうに作る\nいっぱつしあげ\n<select_end><break>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<select>\nCraft Normally\nQuick Craft\n<select_end><break>"
+  },
+  "103177": {
+    "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<select 2>\nふつうに作る\nいっぱつしあげ\n<select_end><break>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<select 2>\nCraft Normally\nQuick Craft\n<select_end><break>"
+  },
+  "103178": {
+    "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<yesno><close>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<yesno><close>"
+  },
+  "103179": {
+    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\n木工が　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now use the materials in the Storage\nArea and Roof Storage to do woodworking, not\njust in the Animal Bag! When you select a\n<br>\nrecipe that doesn't have the materials you\nneed, you can use the materials items in the\nStorage Area and Under the Roof...<color_white>\n<end>"
+  },
+  "108385": {
+    "予期せぬエラーにより\n実行することが　できませんでした。\n<end>": "Due to an unforeseen error, we are unable to\nexecute...<end>"
+  },
+  "113261": {
+    "くさび打ちを使ったマスは　次に彫る時に\n大きく削れるようになり　会心率も上がります。\n他のとくぎと　組み合わせて使うと　効果的です！": "The more squares you wedge, the more you'll\nbe able to carve, and the better your\naccuracy will be. It works best when used in\n<br>\ncombination with other spells."
+  },
+  "119115": {
+    "<speed=0>\n<pc>は　いま作っている\n<%sL_RECIPE>を　じっくりと眺めた。": "<speed=0>\n<pc> examined carefully the\n<%sL_RECIPE> they were working on."
+  },
+  "143091": {
+    "ねらい昇竜彫りは\n木目に沿っているマスを\n高い会心率で彫る　昇竜彫りです。": "Aimed Asryu carving is a technique that\ncarves squares along the grain of the wood\nwith a high rate of..."
+  },
+  "178597": {
+    "今週の職人回数が　上限に達したので\nこれ以上　木工はできません。\n<br>\n日曜日の　朝６時以降になると\nふたたび　木工が　できるようになります。\n<end>": "I've reached my limit for the week, so I\ncan't do any more woodworking... On Sunday\nmornings, after 6:00 a.m., I'll be able to do\n<br>\nwoodworking again...<end>"
+  },
+  "178598": {
+    "木工設備がある。\nここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。\n（今週は　あと<%nL_PLAYABLE>回　木工ができます。）\n<break>": "It's a Woodworking facility.\n(You can craft <%dL_PLAYABLE> more time(s) this week.)<break>"
+  },
+  "178599": {
+    "木工を　続けますか？\n（今週は　あと<%nL_PLAYABLE>回　木工ができます。）\n<break>": "Do you want to continue woodworking? （I have\n<%nL_PLAYABLE> more woodworking to do this\nweek...)<break>"
+  },
+  "179582": {
+    "まれに集中力回復は\n覚えているだけで　集中力が残り少なくなった時に\n低確率で　集中力が３０回復します。": "You now have a slight chance of restoring\n30 Focus whenever your current Focus is\nrunning low!"
+  },
+  "253610": {
+    "ここでは　いっぱつしあげは　できません。\n<end>": "You can't quick craft here.<end>"
+  },
+  "284717": {
+    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン": "Mass <%sL_MASU_1> surface hardening And <%nL_MASU_TURN_1> turn"
+  },
+  "284718": {
+    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　表面固め　あと<%nL_MASU_TURN_2>ターン": "Mass <%sL_MASU_1> surface hardening And <%nL_MASU_TURN_1> turn\nMass <%sL_MASU_2> surface hardening And <%nL_MASU_TURN_2> turn"
+  },
+  "284719": {
+    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　表面固め　あと<%nL_MASU_TURN_2>ターン\nマス<%sL_MASU_3>　表面固め　あと<%nL_MASU_TURN_3>ターン": "Mass <%sL_MASU_1> surface hardening And <%nL_MASU_TURN_1> turn\nMass <%sL_MASU_2> surface hardening And <%nL_MASU_TURN_2> turn\nMass <%sL_MASU_3> surface hardening And <%nL_MASU_TURN_3> turn"
+  },
+  "284734": {
+    "<%nL_TURN>ターン目": "Turn <%dL_TURN>"
+  },
+  "284735": {
+    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": "Turn <%dL_TURN>\n<%dL_TOKUSEI_TURN> turn(s) until material quality activation."
+  },
+  "291548": {
+    "ねらい大河彫りは\n木目に沿っているマスを\n高い会心率で彫る　大河彫りです。": ""
+  }
+}

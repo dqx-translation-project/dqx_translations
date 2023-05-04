@@ -1,0 +1,488 @@
+{
+  "39278": {
+    "この土地に　<%sL_HOUSE_NAME>を建てます。\nよろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this land... May I?<yesno><break>"
+  },
+  "39279": {
+    "この土地を　購入して　引っ越しますか？\n<yesno 2><break>": "Would you like to buy this land and move in?<yesno 2><break>"
+  },
+  "39280": {
+    "この土地は　<%nL_SELL_PRICE>ゴールドで\n売ることができます。\nこの土地を　売りますか？<yesno 2><break>": "This land can be sold for <%nL_SELL_PRICE>\ngold... Do you want to sell this land?<yesno 2><break>"
+  },
+  "39281": {
+    "<color_yellow>\n土地を売ると　この土地へのルーラストーン設定が\n消えます。作成した家パーツや　お花の妖精が\n来ていた時は　再度土地を買えば　復活します。\n<br><color_white>\nまた　この家が　チーム集会所に\n設定されていた時は　土地を売ると\n自動で　集会所設定が　解除されます。\n<br>\nさらに　以下に記載するものが　\nリセットされます。\n<br><color_yellow>\nハウジングの権限設定\nスライムチャイムのメッセージ\nバトンちゃんが訪ねてきた記録\n<br><color_white>\n本当に　この土地を\n売ってしまって　よろしいですか？<yesno 2><close>": "<color_yellow>When you sell a piece of land, the Zoomstone\nfor this piece of land disappears. If\nyou have any house parts or flower fairies\n<br>\nthat have been here, you can buy the land\nagain to restore them...<color_white>Also, if this house was set up as a team\nmeeting place, selling the land will\nautomatically unset the meeting place... In\n<br>\naddition, the following will be reset...<color_yellow>\nSetting Housing Permissions\nMessage from Slime Chimes\nA record of Baton-chan's visit\n<color_white>Are you sure you don't want to sell this\nland?<yesno 2><close>"
+  },
+  "39282": {
+    "すでに家が建っているため　建てられません。": "There is already a house built here."
+  },
+  "39283": {
+    "この土地は　<%nL_LAND_PRICE>ゴールドで\n売りに出されているようだ。\n<bw_break>": "This land is being offered for sale at\n<%nL_LAND_PRICE> Gold...<bw_break>"
+  },
+  "39284": {
+    "この土地に建てる家を　お選びください。\n<break>": "I'd like you to choose a house to build on\nthis lot...<break>"
+  },
+  "39285": {
+    "<%sL_PC_NICK>は\n<%sL_HOUSE_NAME>を建てた！\n<br>\n扉をしらべることで　出入りだけでなく\n家の外装や内装を変えてみたり\n様々な設定を　変更することができます。\n<br>\n家の中では　家具を配置したり\n屋根ウラ収納を　利用することもできます。\n<br>\n家で　できることについて　くわしく知りたい時は\n扉メニューの　『管理人を呼ぶ』コマンドで\n管理人から　説明を聞くことができます。": "<%sL_PC_NICK> has built <%sL_HOUSE_NAME>! By\nstudying the doors, you can not only enter\nand exit the house, but you can also change\n<br>\nthe exterior and interior of the house, and\nchange various settings... You can rearrange\nthe furniture in your home and even use the\n<br>\nroof storage... If you want to know more\nabout what you can do in your house, you can\nuse the \"Call Manager\" command in the door\n<br>\nmenu to get an explanation from the manager."
+  },
+  "39286": {
+    "<color_yellow>\nレンダーヒルズ地区では\n新たに　土地の売却と　引っ越しが\nできるようになりました。\n<br>\nまた　レンダーヒルズ地区に　土地をもっている\nキャラクターの　冒険の書を消すことも\n可能になりました。\n<br>\n※マイタウンへ　引っ越した場合に限り\n　所有していたレンダーヒルズ地区の　土地は\n　５０００万ゴールドで売却されます。\n<br>\n※その他の地区に　引っ越した場合は\n　１０００万ゴールドで売却されます。\n<br><color_white>\nこの土地を購入して　よろしいですか？\n<yesno 2><break>": "<color_yellow>In the Renderhills District, you will now be\nable to sell your land and move... Also,\ncharacters who own land in the Renderhills\n<br>\nregion can now remove their adventure books.\nIf you move to My Town, your land in the\nRenderhills District will be sold for 50\n<br>\nmillion gold. If you move to any other\ndistrict, it will be sold for 10 million\ngold...<color_white>Are you sure you want to buy this land?<yesno 2><break>"
+  },
+  "39287": {
+    "<%sL_PC_NICK>は　<%sL_REGION>住宅村\n<%nL_AREA>丁目　<%sL_DIVISION>　<%nL_TOTI_BANGOU>番地の\n土地を　手放した。": "<%sL_PC_NICK> owns land in\n<%sL_REGION>Housing Village <%nL_AREA>Street\n<%sL_DIVISION> <%nL_TOTI_BANGOU>..."
+  },
+  "39288": {
+    "この土地は　ほかの誰かの所有地のようだ。": "This land belongs to someone else..."
+  },
+  "39289": {
+    "お金を持ちきれないため\nこの土地を　売ることが　できませんでした。": "I can't sell this land because I don't have\nenough money to..."
+  },
+  "39290": {
+    "家が建っている土地は　売ることができません。": "Land with a house built cannot be sold."
+  },
+  "39291": {
+    "<%sL_LAND_SIZE>の土地に\n建てられる家を　持っていなかった。": "I don't have a house to build on a lot with\n<%sL_LAND_SIZE>..."
+  },
+  "39292": {
+    "この土地には　建てられません！\n<bw_break>": "You can't build on this land!<bw_break>"
+  },
+  "39293": {
+    "しかし　お金が足りなかった。": "But we don't have enough money..."
+  },
+  "39294": {
+    "現在　この土地は\n売りに出されていないようだ。": "Now, this land is not for sale..."
+  },
+  "39295": {
+    "<%sM_houseComment>": "<%sM_houseComment>"
+  },
+  "39296": {
+    "ここは　<%sL_OWNER>の土地だ。": "This is <%sL_OWNER>'s plot."
+  },
+  "39297": {
+    "レンダーヒルズ地区に　土地を持っているため\nこの土地への　引っ越しは　できません。": "You already own land in Lender Hills, so you\ncannot purchase land here."
+  },
+  "43976": {
+    "現在のバージョンでは\n土地の販売は　おこなっていません。": "Cannot sell land in the current version."
+  },
+  "44117": {
+    "ここは　<%sL_OWNER>の家だ。\n<break>": "This is <%sL_OWNER>'s house.\n<break>"
+  },
+  "44248": {
+    "土地は　ひとりにつき\n１か所しか　所有できません。\n<bw_break>": "You can only own one plot of land at a time.\n<bw_break>"
+  },
+  "46739": {
+    "「それでは　ステキなハウジングライフを\n　お過ごしください！": "I hope you have a wonderful housing life!"
+  },
+  "46740": {
+    "「それでは　ハウジングの楽しみ方について\n　簡単に　ご案内いたします！\n<br>\n「まずは　ここに　あなたの家を建てましょう！\n　家は　住宅村の　建物屋で売っていますので\n　そちらで　お好きなものを　お選びください。\n<br>\n「家を　購入されましたら\n　立て札を調べることで　建てることができます。\n<br>\n「建てた家は　見た目を変えられます。\n　専任の　大工がおりますので\n　気分を変えたい時は　お申しつけください。\n<br>\n「家の中には　家具を自由に\n　置くことができます。あなたなりの\n　アレンジを　ぜひ　お試しください。\n<br>\n「それから　建てた家は　お友達と\n　共有することも　できるんですよ。\n<br>\n「家への出入りや　家具や家パーツをさわる権限を\n　フレンドや　チームリストから\n　設定していただくことが　できるのです。\n<br>\n「説明は　以上です。家を建てられると\n　家の権限設定や　家の名前の変更\n　あいさつ文の変更なども　私の仕事になります。\n<br>\n「そういった　ご用がございましたら\n　建てた家の扉メニューから　いつでも\n　お呼びくださいませ。お待ちしております。\n<bw_break>": "Let's take a quick look at some of the ways\nyou can enjoy your housing! First, let's\nbuild your house here! Houses are sold at the\n<br>\nBuilding Shop in the Housing Village, so you\ncan choose the one you want... Once you've\npurchased a house, you can build it by\n<br>\nchecking the sign... Once the house is built,\nyou can change its appearance... We have a\nfull-time carpenter, so if you want to change\n<br>\nthe look of the house, just let us know...\nYou're free to put your own furniture in the\nhouse... We'd love to see you try out your\n<br>\nown ideas... And once you've built your\nhouse, you can share it with your friends.\nYou can set up access to your house, and\n<br>\naccess to your furniture and house parts from\nyour friends and team list... For more\ninformation... Once you've built a house,\n<br>\nit's my job to set the permissions, rename\nthe house, change the greeting... If you need\nany of those things, you can always call me\n<br>\nfrom the door menu of your house... I'll be\nwaiting...<bw_break>"
+  },
+  "46741": {
+    "<%sL_PC_NICK>は　この土地専用の\nルーラストーンを　手に入れた！\n<me 60><end>": "<%sL_PC_NICK> received a Zoomstone\nregistered to this plot!\n<me 60><end>"
+  },
+  "46742": {
+    "「<%sL_PC_NICK>さま！\n　土地のご購入　おめでとうございます！\n<br>\n「私　この住宅村の管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後　どうぞ　よろしくお願いいたします。\n<br>\n「では　<%sL_PC_NICK>さまが　晴れて\n　地主になられた証として　この場所への\n　ルーラストーンを　進呈させていただきます。\n<br>\n「このルーラストーンは　他の物とは違って\n　記憶場所を　書きかえることが　できません。\n　ご帰宅専用の　特別品になります。\n<end>": "<if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>! Congratulations\non your land purchase.\n<br>\nMy name is <%sL_MAID_NAME>, and I'm\nin charge of this residential district.\nIt's very nice to meet you.\n<br>\nAs a commemoration of becoming a new land\nowner, I want to give you this Zoomstone\nregistered to your land.\n<br>\nHowever, this Zoomstone is different in that\nit cannot be rewritten. It is meant\nspecifically to return to your home.\n<end>"
+  },
+  "50219": {
+    "この土地に引っ越して　本当によろしいですか？\n<yesno 2><break>": "Are you sure you want to move to this plot of\nland?\n<yesno 2><break>"
+  },
+  "50220": {
+    "今　所有している家を\nこの土地に　移動しますか？\n<yesno><break>": "Would you like to move the house you\ncurrently own to this plot?\n<yesno><break>"
+  },
+  "50221": {
+    "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。前の土地に\n建っていた家は　家キットに戻りました。\n<br><color_yellow>\n引っ越し前の家の中に　配置されていた家具は\n特殊な退避状態となり　新しい家を建てると\n扉メニューの『配置中の家具』から配置できます。\n<br>\nプライベートコンシェルジュを　雇っていた場合\n引っ越し後に　『コンシェルジュ設定』から\n再度　立ち位置をご指示ください。\n<bw_break><color_white>": "<%sL_PC_NICK> has purchased a new plot of\nland and has moved to this location! The\nZoomstone for his house is automatically\n<br>\nrewritten to this location... The house that\nstood on the previous plot of land has\nreverted back to House Kit.<color_yellow>If you have furniture that was in your old\nhouse before you moved, it will be in a\nspecial state of evacuation, and when you\n<br>\nbuild your new house, you will be able to\nplace it under \"Furniture in Place\" in the\ndoor menu... If I've hired a private\n<br>\nconcierge, will I be able to go to \"Concierge\nSettings\" after I've moved to a new home and\ntell them where to...<bw_break><color_white>"
+  },
+  "50222": {
+    "家の中の家具は　一度　すべて\n片づけられますが　『配置中の家具』から\nふたたび　配置することができます。\n<br>\nまた　フェンスや地面などの　一部の外装は\n土地のサイズごとに　専用なので\nサイズの異なる土地では　つかえなくなります。": "You can put all the furniture in your house\naway once, but you can put it back in again\nfrom the \"furniture in place\"... Also, some\n<br>\nexterior features, like fences and grounds,\nare specific to each lot size, so they won't\nwork on different sized lots..."
+  },
+  "50223": {
+    "引っ越し先の家に　家具が入りきりません！\n家具を片づけてから　引っ越ししてください。\n<bw_break>": "I can't fit all my furniture in the house I'm\nmoving into! You'll have to pack up your\nfurniture before you can move in...<bw_break>"
+  },
+  "51864": {
+    "新しい土地を買うと　引っ越しができます。\n前に所有していた土地は　その土地に準じた値段で\n売却されます。\n<br><color_yellow>\n※異なるサイズの土地に　引っ越す場合は\n　その土地サイズに　収まる大きさの\n　家キットが　必要になります！\n<br><color_white>\n『更地に引っ越し』の場合　建っていた家は\n家キットに戻ります。\n<br>\n引っ越し前の家の中に　配置されていた家具は\n特殊な退避状態となり　新しい家を建てると\n扉メニューの『配置中の家具』から配置できます。\n<br>\nプライベートコンシェルジュを　雇っていた場合\n引っ越し後に　『コンシェルジュ設定』から\n再度　立ち位置をご指示ください。\n<br>\nなお　前の土地に　建っている家のサイズが\n新しい土地のサイズ以下のときは\n『そのまま引っ越し』を　することができます。\n<br>\n家キットや　配置している家具庭具は\nそのままの状態を　引き継ぐことができます。\n<br>\nまた　引っ越し前の家が　チーム集会所に\n設定されていた時は　引っ越しすると\n自動で　集会所設定が　解除されます。\n<br>\nルーラストーンの飛び先は\n自動的に　新しい土地に変わります。\n<bw_break>": "If you buy a new place, you'll have to\nmove... Previously owned land is sold for the\nsame price as the land...<color_yellow>If you're moving to a different size lot,\nyou'll need a house kit big enough to fit on\nthat lot!<color_white>When you move to a new house, the house will\nbe returned to the house kit... The furniture\nthat was placed in the house before the move\n<br>\nis in a special state of evacuation, and when\nthe new house is built, it can be placed in\nthe \"Furniture in Place\" menu in the door\n<br>\nmenu... If I've hired a private concierge,\nwill I need to go to \"Concierge Settings\" and\ntell them where to go again after I move? If\n<br>\nthe size of the house on the previous lot is\nless than the size of the new lot, you can\nmove in... You can keep your house kit and\n<br>\nyour garden furniture. If your house was set\nup as a Team Gathering Place before you moved\nin, it will automatically be unset up as a\n<br>\nGathering Place when you move out. Zoomstone\njumps will automatically change to the new\nlocation...<bw_break>"
+  },
+  "51891": {
+    "この住宅村には　現在　全部で<%nL_WELCOME_NUM>軒の\nウェルカムハウスがあります。\n<br>\nこの住宅村の　ウェルカムハウスに\n遊びに行きますか？\n<yesno><break>": "There are currently a total of\n<%nL_WELCOME_NUM> welcome houses in this\nresidential village... Would you like to\n<br>\nvisit the welcome house in this residential\nvillage?<yesno><break>"
+  },
+  "52072": {
+    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されます。\nこの土地に引っ越して　よろしいですか？\n<yesno 2><break>": "My previous property was sold for\n<%nL_SELL_PRICE> gold... Are you sure you\nwant to move to this land?<yesno 2><break>"
+  },
+  "52073": {
+    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されました。": "My previous property was sold for\n<%nL_SELL_PRICE> gold..."
+  },
+  "52099": {
+    "『他の人の家へ』を使えば　この大陸の住宅村で\nウェルカムハウス設定にしている誰かの家の前に\nひとっとびで　行くことができます！\n<br>\nただし　どの家に行くかは　わかりません。\n行く場所は　毎回　変わるので　何度も試して\nいろいろな家に　遊びにいってみてください。\n<bw_break>": "With \"Visit Other People's Homes,\" you can\njump in front of anyone's house that's set up\nas a welcome home in any residential village\n<br>\non this continent! However, you'll never know\nwhich house you're going to... The location\nyou go to will change every time, so try it\n<br>\nagain and again to visit different houses...<bw_break>"
+  },
+  "52113": {
+    "『配置中の家具』か　屋根ウラ収納か\n家具＆庭具おきば　にアイテムが\nあるため土地を売却できません。": ""
+  },
+  "52155": {
+    "持ちものが　いっぱいのため\n引っ越し　できませんでした。\n<br>\n引っ越しは　どうぐかばんに　家キットのための\n空きがないと　できません。\n再度　空きを作ってから　お試しください。": "I can't move because I have too many\nthings... We can't move unless there's room\nin the inventory for a house kit. Please try\n<br>\nagain when you have more space..."
+  },
+  "52718": {
+    "現在　引っ越しをすることが　できません。\n時間を置いて　もう一度　お試しください。": "We're moving now, so... Please give it some\ntime and try again..."
+  },
+  "56355": {
+    "家の中か　お庭に　人がいるため\n引っ越すことが　できません。\n人がいない時に　もう一度お試しください。": "I can't move out because there are people in\nmy house or in my yard... Please try again\nwhen there's no one around..."
+  },
+  "62360": {
+    "この土地には　建てられません！\n正しいサイズの家キットを　選択してください。\n<bw_break>": "You can't build on this lot! You must select\nthe correct size house kit...<bw_break>"
+  },
+  "65196": {
+    "畑で栽培中は　引っ越しできません！\n<br><color_yellow>\nまた　床下水そうに　さかながいる　または\n仲間モンスターが　お庭にいるか　おさんぽ中や\nおくりものがある時も　引っ越しできません。\n<color_white>": "You can't move while it's growing in the\nfield!<color_yellow>You can also move if there's a fish in the\nsewers, or if there's a fellow monster in the\ngarden, or if you're on a walkabout, or if\n<br>\nyou have a gift to give away...<color_white>"
+  },
+  "68354": {
+    "<%sM_houseComment>": "<%sM_houseComment>"
+  },
+  "68355": {
+    "ここは　<%sL_OWNER>の家だ。": "This is <%sL_OWNER>..."
+  },
+  "68360": {
+    "ルーラストーンの記憶場所を\n<%sM_item1><%sM_rurastone1><%sM_dot1><%sM_sub1>から\n<%sL_OwnerName>の家に　変更しますか？\n<yesno><break>": "Change this Zoomstone's location from\n<%sM_item1><%sM_rurastone1><%sM_dot1><%sM_sub1>\nto <%sL_OwnerName>'s home?\n<yesno><break>"
+  },
+  "68361": {
+    "どの　ルーラストーンに\nこの場所を　記憶させますか？\n<break>": "Register this location in which Zoomstone?<break>"
+  },
+  "68362": {
+    "ルーラストーンの記憶する場所が\n<%sL_OwnerName>の家になりました。": "\n<%sL_OwnerName>'s home was registered\nto the Zoomstone."
+  },
+  "68363": {
+    "それは　記憶された場所を\n変えることが　できません。\n別の石を　選んでください。\n<break>": "This stone's location cannot be changed.\nPlease choose a different one.<break>"
+  },
+  "68412": {
+    "すでに　この場所を記憶させた\nルーラストーンを　持っています。": "You already have a Zoomstone registered to\nthis location."
+  },
+  "69774": {
+    "<%sL_PC_NICK>は\nルーラストーンに　念じた……。\n<break>": "<%sL_PC_NICK> envisioned\ntheir Zoomstone...\n<break>"
+  },
+  "76093": {
+    "お招きのつばさは　ひとつ　<%nL_GOLD>ゴールドで\n１０回　使えます。購入しますか？\n<yesno><break>": "An Invitation Wing costs <%dL_GOLD> Gold\nand can be used 10 times. Would you like\nto purchase one?\n<yesno><break>"
+  },
+  "76094": {
+    "お招きのつばさを　購入しました！\n　<se System 7><end>": "You bought an Invitation Wing!<se System 7><end>"
+  },
+  "76095": {
+    "つかうものが　いっぱいで\n購入できませんでした。\n<end>": "I'm afraid I have too many things to buy.<end>"
+  },
+  "78772": {
+    "お招きのつばさは　ルーラストーンのように\n<%sL_OWNER>の家まで　移動できる道具です。\n<br>\n自宅の管理人か　家の立て札から\nひとつ　５００ゴールドで　購入できます。\nひとつで　１０回　使えます。\n<br>\n人には渡せますが　バザーには出せません。\nお招きのつばさを購入した後に　引っ越した場合は\n購入後の家に　移動します。\n<bw_break>": "The Wings of Invitation, like the Zoomstones,\nallow you to travel to the home of\n<%sL_OWNER>... You can purchase one from the\n<br>\ncaretaker of the house or from a sign in the\nhouse for 500 gold. You can use it 10\ntimes... You can give them to others, but you\n<br>\ncan't give them to the bazaar. If you move\nafter you've purchased the Wings of\nInvitation, you'll need to move to your new\n<br>\nhome...<bw_break>"
+  },
+  "79173": {
+    "不明なエラーにより\n処理を終了できませんでした。": "The process cannot be terminated due to an\nunknown error..."
+  },
+  "81414": {
+    "仲間モンスターが　お庭にいるか\nおさんぽ中なので　引っ越しできません。\n<br><color_yellow>\n仲間モンスターからの　おくりものがあったり\n畑を栽培中や　床下水そうにさかながいるときは\nお引っ越しできません。\n<color_white>": "I'm not sure if my monsters are in the garden\nor if they're just out for a walk, so I can't\nmove them...<color_yellow>When you get a gift from a fellow monster, or\nwhen you're growing a field, or when there's\na fish in the water under the floor, you can\n<br>\nmove...<color_white>"
+  },
+  "81415": {
+    "仲間モンスターからの　おくりものが\nお庭にあるときは　引っ越しや\n土地の売却は　できません。\n<br><color_yellow>\nまた　仲間モンスターが　お庭にいたり\nおさんぽ中や　床下水そうに　さかながいたり\n畑を栽培中は　引っ越しできません。\n<color_white>": "When the gifts from your fellow monsters are\nin your garden, you can't move or sell your\nland...<color_yellow>There are also monsters in your garden, or\nyou're out for a walk, or there's a fish in\nthe water, or you're growing a field and you\n<br>\ncan't move...<color_white>"
+  },
+  "82691": {
+    "<%sL_ITEM>を　持っているため\n使用すると　タダで土地を手に入れられます。\n<%sL_ITEM>を　つかいますか？\n<yesno 2><break>": "You have <%sL_ITEM>, which means you can use\nit to get free land... Do you use <%sL_ITEM>?<yesno 2><break>"
+  },
+  "82692": {
+    "<%sL_PC_NICK>は\n<%sL_ITEM>を　つかった！": "<%sL_PC_NICK> used <%sL_ITEM>!"
+  },
+  "82699": {
+    "この土地は　<%nL_LAND_PRICE>ゴールドで\n売りに出されているようだ。\nこの土地を　購入しますか？\n<yesno 2><break>": "This land is listed for sale at\n<%nL_LAND_PRICE> Gold... Would you like to\npurchase this land?<yesno 2><break>"
+  },
+  "82700": {
+    "この土地は　<%nL_LAND_PRICE>ゴールドで\n売りに出されているようだ。\nこの土地に引っ越して　よろしいですか？\n<yesno 2><break>": "This land is being offered for sale at\n<%nL_LAND_PRICE> gold... Are you sure you\nwant to move to this land?<yesno 2><break>"
+  },
+  "86552": {
+    "この家を　チーム集会所に設定しますか？\n<yesno 2><break>": "Set this house as your Team House?\n<yesno 2><break>"
+  },
+  "86553": {
+    "この家を　チーム集会所ではなくしますか？\n<yesno 2><break>": "Do you want to remove this house as the\nTeam House?\n<yesno 2><break>"
+  },
+  "86555": {
+    "チーム集会所に設定しました！\n<end>": "Team House has been set!\n<end>"
+  },
+  "86556": {
+    "チーム集会所ではなくしました。\n<end>": "No longer the Team House.\n<end>"
+  },
+  "89602": {
+    "さかなが　床下水そうにいるときは\n引っ越しできません。\n<br><color_yellow>\nまた　畑を栽培中だったり\n仲間モンスターが　お庭にいたり　おさんぽ中や\nおくりものがある時も　引っ越しできません。\n<color_white>": "You can't move when the fish are in the\nsubfloor...<color_yellow>You can also move when you're growing a\nfield, or when your monsters are in the\ngarden, or when you're out for a walk, or\n<br>\nwhen you have a gift to give away...<color_white>"
+  },
+  "112817": {
+    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されます。\n<br>\n現在　所持金が　いっぱいのため\n持ちきれないゴールドは　なくなってしまいますが\nよろしいですか？\n<yesno 2><break>": "My previous land holdings were sold for\n<%nL_SELL_PRICE> gold... I'm currently maxed\nout, so any gold I can't keep will be lost,\n<br>\nis that okay with you?<yesno 2><break>"
+  },
+  "113266": {
+    "しかし　この土地は空き地だった…。": "But this land was vacant..."
+  },
+  "117405": {
+    "ただいま　引っ越しの作業中です。\n完了するまで　お待ちください。": "We're in the process of moving... Please wait\nuntil it's done..."
+  },
+  "122514": {
+    "プライベートコンシェルジュが　いるため\n土地の売却が　できません。": "We have a private concierge who can help you\nsell your land..."
+  },
+  "127314": {
+    "<pc>が　持っている\n幸せのご近所バトンが　輝きだした！\n<br>\nこの家の住人　<%sL_OWNER>さんに\n幸せのご近所バトンを　届けますか？\n<yesno><break>": "<pc>'s Happy Neighborhood Baton\nbegan to shine!\n<br>\nPass on the baton to this house's owner,\n<%sL_OWNER>?\n<yesno><break>"
+  },
+  "127315": {
+    "<pc>が　持っている\n幸せのご近所バトンが　輝きだした！\n<br>\n幸せのご近所バトンを\nこの土地に　届けますか？\n<yesno><break>": "<pc>'s Happy Neighborhood Baton\nbegan to shine!\n<br>\nPass on the baton to this plot?\n<yesno><break>"
+  },
+  "127316": {
+    "<pc>は　幸せのご近所バトンを\nこの家の住人　<%sL_OWNER>さんに　まわした！\n戻って　<%sM_NpcName>に　報告しよう！\n<me 60><end>": "<pc> passed on the baton to\n<%sL_OWNER>! Go back and speak\nwith <%sM_NpcName>!\n<me 60><end>"
+  },
+  "127317": {
+    "<pc>は　想いを込めて\n幸せのご近所バトンを　この土地に置いた！\n戻って　<%sM_NpcName>に　報告しよう！\n<me 60><end>": "<pc> passed on the baton to this plot!\nGo back and speak with <%sM_NpcName>!\n<me 60><end>"
+  },
+  "129139": {
+    "まだ　幸せのご近所バトンは\nまわされている　途中のようだ。\nもうしばらく　待ってみよう！": "The neighborhood baton of happiness is still\nbeing passed around, and it's on its way.\nLet's wait a little longer!"
+  },
+  "131761": {
+    "現在　新しい土地へ　引っ越し中です。\nすこし　時間がかかることもありますが\nそのまま　しばらく　お待ちください。\n<break>": "We're moving to a new place... It may take\nsome time, but please wait a while...<break>"
+  },
+  "131763": {
+    "「こんにちは　<%sL_PC_NICK>さま。\n　レンダーヒルズに　ようこそいらっしゃいました。\n　お引っ越しが　完了いたしました。\n<br>\n「私は　この住宅村の管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後　どうぞ　よろしくお願いいたします。\n<br>\n「今後　私どもが　<%sL_PC_NICK>さまの生活を\n　心をこめて　お手伝いさせていただきますので\n　きっと　ご満足いただけると思います。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。前の土地に\n　建っていた家は　家キットに戻りました。\n<br><color_yellow>\n「引っ越し前の家の中に　配置されていた家具は\n　特殊な退避状態となり　新しい家を建てると\n　扉メニューの『配置中の家具』から配置できます。\n<br>\n「プライベートコンシェルジュを　雇っていた場合\n　引っ越し後に　『コンシェルジュ設定』から\n　再度　立ち位置をご指示ください。\n<br><color_white>\n「さあ　これから　<%sL_PC_NICK>さまは\n　晴れて　レンダーヒルズの住人です。\n　ここでの生活を　どうぞお楽しみください！": "Hello, <%sL_PC_NICK... Welcome to Render\nHills... Your move is complete... My name is\n<%sL_MAID_NAME> and I am the administrator of\n<br>\nthis residential village... I look forward to\nworking with you... We will do our best to\nmake your stay with us as comfortable as\n<br>\npossible. <The Zoomstones for your house\nhave been rewritten to this location... The\nhouse that stood on the previous lot has been\n<br>\nreturned to the house kit...<color_yellow>If you have furniture that was in your old\nhouse before you moved, it will be in a\nspecial state of evacuation, and when you\n<br>\nbuild your new house, you will be able to\nplace it under \"Furniture in Place\" in the\ndoor menu... If I've hired a private\n<br>\nconcierge, will I be able to go to \"Concierge\nSettings\" after I've moved to a new home and\ntell them where to...<color_white>Now, you, <%sL_PC_NICK>, will be living in\nRenderhills... I hope you enjoy your time\nhere!"
+  },
+  "132254": {
+    "「はじめまして　<%sL_PC_NICK>さま。\n　土地のご購入　おめでとうございます！\n<br>\n「今後　私どもが　<%sL_PC_NICK>さまの生活を\n　心をこめて　お手伝いさせていただきますので\n　きっと　ご満足いただけると思います。\n<br>\n「私は　この住宅村の管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後　どうぞ　よろしくお願いいたします。\n<br>\n「では　<%sL_PC_NICK>さまが　晴れて\n　地主になられた証として　この場所への\n　ルーラストーンを　進呈させていただきます。\n<br>\n「このルーラストーンは　他の物とは違って\n　記憶場所を　書きかえることが　できません。\n　ご帰宅専用の　特別品になります。\n<br>\n「さあ　これから　<%sL_PC_NICK>さまは\n　晴れて　レンダーヒルズの住人です。\n　ここでの生活を　どうぞお楽しみください！\n<end>": "Nice to meet you <%sL_PC_NICK...\nCongratulations on your land purchase! I'm\nsure you'll be very happy with the way we're\n<br>\ngoing to help you live your life... My name\nis <%sL_MAID_NAME>, and I am the manager of\nthis residential village... I look forward to\n<br>\nworking with you... As proof that you,\n<%sL_PC_NICK>, are now a landowner, I would\nlike to present you with a rune stone to this\n<br>\nlocation. This rune stone is unlike any\nother... in that it can be rewritten to\nremember... It's a special gift for your\n<br>\nreturn... Now, you will be living in\nRenderhills... I hope you enjoy your stay\nhere!<end>"
+  },
+  "132306": {
+    "<%sL_PC_NICK>は　この土地専用の\nルーラストーンを　手に入れた！\n<me 72><end>": "<%sL_PC_NICK> received a Zoomstone\nregistered to this plot!<me 72><end>"
+  },
+  "132429": {
+    "このアイテムは　使用できません。": "This item can be used..."
+  },
+  "133411": {
+    "まだ　幸せのご近所バトンは\nまわされている　途中のようだ。\nもうしばらく　待ってみよう！": "The neighborhood baton of happiness is still\nbeing passed around, and it's on its way.\nLet's wait a little longer!"
+  },
+  "135678": {
+    "幸せのご近所バトンを　\n届けることが　できませんでした。\nすこし時間をおいて　お試しください。": "Couldn't pass on the baton. Please try again\nlater."
+  },
+  "145587": {
+    "この家が　すぐに引っ越しできる状態か\n引っ越しチェックで　確認しますか？\n<yesno><break>": "Do a move in check to see if this house is\nready to be moved into?\n<yesno><break>"
+  },
+  "145588": {
+    "以上が　引っ越しチェックとなります。\n満たしていない項目があると\n引っ越しできませんので　ご注意ください。": "Moving check has finished. If you do not meet\nany of these requirements, you will not be\nable to move out."
+  },
+  "145589": {
+    "畑に　作物が植えられています。\n収穫するか　『やりなおす』にて\n畑に何も植えられてない状態に　してください。\n<bw_break>": "Your field is currently planted with seeds.\nEither harvest the plants or use \"Replant\"\nto clear the field out.\n<bw_break>"
+  },
+  "145590": {
+    "すべての条件を　満たしています。\nいつでも　引っ越しできる状態です。": "If you meet all the requirements... I'm ready\nto move out at any time..."
+  },
+  "145591": {
+    "モンスターのおうちに　仲間モンスターがいます。\n仲間モンスターを　おうちから\n引っ込めてください。\n<bw_break>": "There is a fellow monster in your monster\nhouse. Please withdraw the fellow monster\nfrom the house.\n<bw_break>"
+  },
+  "145592": {
+    "引っ越しチェックを使えば　いつでも\nこの家が　引っ越しできる状態か\n確認することができます。\n<br>\n引っ越しできないのは　畑に作物がある時や\n床下水そうに　さかながいる時\nまた　家の中に人がいる時\n<br>\nさらに　モンスターのおうちに\n仲間モンスターがいる時も　引っ越しできません。\n<br>\n引っ越しをしたい時は　事前にこの\n引っ越しチェックを行って　すべての条件を\n満たしているか　ご確認ください。": "With the moving check, you can check to see\nif your house is ready to move at any time...\nYou can't move if there are crops in the\n<br>\nfield, fish in the water, people in the\nhouse, or monsters in the house... If you\nwant to move, please do this moving check\n<br>\nbefore you move to make sure you meet all the\nconditions..."
+  },
+  "145593": {
+    "床下水そうに　さかながいます。\n床下水そうから　すべてのさかなを出して\nからにしてください。\n<bw_break>": "There are fish currently in your floor tank.\nPlease remove all of the fish.\n<bw_break>"
+  },
+  "146565": {
+    "現在　家の中か　庭に人がいるようです。\n誰かがいると　引っ越しできませんので\n家の中と庭に　誰もいないようにしてください。\n<bw_break>": "Now, there are people in the house and in the\nyard... I can't move in if there's someone in\nthe house, so please make sure there's no one\n<br>\nin the house or in the yard...<bw_break>"
+  },
+  "148088": {
+    "レンダーヒルズ地区では\n土地の売却と　マイタウン以外への\n引っ越しはできません。": "In the Renderhills area, you can't sell your\nland and move outside of My Town..."
+  },
+  "160912": {
+    "この土地は　現在　購入禁止時間が\n設けられているため　購入することができません。\n時間を置いてから　再度　お試しください。": "This land is currently under a no-purchase\npolicy, so you cannot purchase it... Please\nwait a moment and try again..."
+  },
+  "170343": {
+    "どなたかが　この土地で作業中のため\n土地を購入することが　できませんでした。": "We are unable to purchase the land because\nsomeone is working on this property..."
+  },
+  "170344": {
+    "どなたかが　この土地で作業中のため\n引っ越しすることが　できませんでした。": "We can't move in because someone's working on\nthe property..."
+  },
+  "170345": {
+    "どなたかが　この土地で作業中のため\n土地を売却することが　できませんでした。": "We can't sell the land because someone's\nworking on it..."
+  },
+  "170346": {
+    "土地を購入することが　できませんでした。\n時間を置いて　もう一度　お試しください。": "I am unable to purchase the land... Please\ngive it some time and try again..."
+  },
+  "170347": {
+    "引っ越しすることが　できませんでした。\n時間を置いて　もう一度　お試しください。": "I can't get it to move... Please give it some\ntime and try again..."
+  },
+  "170348": {
+    "土地を売却することが　できませんでした。\n時間を置いて　もう一度　お試しください。": "I can't sell the land... Please give it some\ntime and try again..."
+  },
+  "173650": {
+    "かばんに　空きがありません。\n空きをつくってから　引っ越ししてください。\n<bw_break>": ""
+  },
+  "189107": {
+    "<pc>が　持っている\nサンタのふくろが　輝きだした！\n<br>\nこの家の住人　<%sL_OWNER>さんに\nクリスマスプレゼントを　届けますか？\n<yesno><break>": "<pc> The Santa's sack that <%sL_OWNER> has started\nto glow! Would you like to deliver a\nChristmas present to the inhabitant of this\n<br>\nhouse, <%sL_OWNER>?<yesno><break>"
+  },
+  "189108": {
+    "<pc>が　持っている\nサンタのふくろが　輝きだした！\n<br>\nクリスマスプレゼントを\nこの土地に　届けますか？\n<yesno><break>": "<pc> The Santa Claus' sack just started to glow!\nWould you like to bring a Christmas present\nto this land?<yesno><break>"
+  },
+  "189109": {
+    "<pc>は　クリスマスプレゼントを\nこの家の住人　<%sL_OWNER>さんに　届けた！\n戻って　<%sM_NpcName>に　報告しよう！\n<me 60><end>": "<pc> <%sM_NpcName> has delivered a Christmas\npresent to the occupant of this house,\n<%sL_OWNER>! Let's go back and report to\n<br>\n<%sM_NpcName>!<me 60><end>"
+  },
+  "189110": {
+    "<pc>は　想いを込めて\nクリスマスプレゼントを　この土地に置いた！\n戻って　<%sM_NpcName>に　報告しよう！\n<me 60><end>": "<pc> has placed a thoughtful Christmas gift on\nthis land! Let's go back and report to\n<%sM_NpcName>!<me 60><end>"
+  },
+  "230840": {
+    "元の土地に　家が建っている場合\n家キットや　配置している家具庭具も　そのままで　\n引っ越ししますか？\n<select_se_off>\nそのまま引っ越し\n更地に引っ越し\nやめる\n<select_end><break>": "If there's a house on the original lot, do\nyou want to move in with the house kit and\nall the furniture and garden equipment in\n<br>\nplace?\n<select_se_off>\nMove in as is\nMoving to a vacant lot\nstop\n<select_end><break>"
+  },
+  "230842": {
+    "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。\n<bw_break>": "<%sL_PC_NICK> has purchased a new plot of\nland and has moved to this location! The\nZoomstones for his house are automatically\n<br>\nrewritten to this location...<bw_break>"
+  },
+  "230844": {
+    "引っ越し先の土地のサイズが\n家キットより小さいので\nそのまま　引っ越すことが　できません。": "The size of the lot we're moving into is\nsmaller than the house kit, so we can move\nright into..."
+  },
+  "233002": {
+    "土地を　購入できませんでした。\n現在のプレイ環境では　最安値になっている\nＳサイズの土地のみ　購入することができます。": "I'm unable to purchase land... You can only\npurchase S-size lands, which are the lowest\npriced in the current playing environment..."
+  },
+  "238661": {
+    "「こんにちは　<%sL_PC_NICK>さま。\n　レンダーヒルズに　ようこそいらっしゃいました。\n　お引っ越しが　完了いたしました。\n<br>\n「私は　この住宅村の管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後　どうぞ　よろしくお願いいたします。\n<br>\n「今後　私どもが　<%sL_PC_NICK>さまの生活を\n　心をこめて　お手伝いさせていただきますので\n　きっと　ご満足いただけると思います。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。\n<br><color_yellow>\n「プライベートコンシェルジュを　雇っていた場合\n　引っ越し後に　『コンシェルジュ設定』から\n　再度　立ち位置をご指示ください。\n<br><color_white>\n「さあ　これから　<%sL_PC_NICK>さまは\n　晴れて　レンダーヒルズの住人です。\n　ここでの生活を　どうぞお楽しみください！": "Hello, <%sL_PC_NICK... Welcome to Render\nHills... Your move is complete... My name is\n<%sL_MAID_NAME> and I am the administrator of\n<br>\nthis residential village... I look forward to\nworking with you... We will do our best to\nmake your stay with us as comfortable as\n<br>\npossible. <The Zoomstones in your home have\nbeen rewritten to this location...<color_yellow>If you've hired a private concierge, after\nyou move in, you'll need to go to your\nconcierge settings and re-direct them...<color_white>Now, you, <%sL_PC_NICK>, will be living in\nRenderhills... I hope you enjoy your time\nhere!"
+  },
+  "246752": {
+    "更地に　庭具があるため\n家を　建てられません。\n庭具を撤去して　家を建ててください。": "You can't build a house on a vacant lot with\ngarden tools... I'd like to remove the garden\ntools and build a house..."
+  },
+  "246755": {
+    "この土地を　本宅に設定しました。\n<br>\n元の本宅は　別宅になりましたので\n専用のルーラストーンは　本宅になった\nこの土地に　記録されました。": "This property is now the main residence...\nNow that the original home has been turned\ninto an annexe, the Ruler's Stone will be\n<br>\nrecorded on the property that became the main\nresidence."
+  },
+  "246756": {
+    "この土地を　『本宅』に　設定しますか？\n<color_yellow>ウェルカム設定を　モーモンバザーにしている場合\nウェルカム設定が　解除されます。<color_white>\n<select_se_off>\nはい\nいいえ\n<select_end>\n<break>": "Would you like to make this property your\n\"main residence\"?<color_yellow>If your welcome setting is set to\nMormonBazaar, your welcome setting will be\nremoved...<color_white>\n\n<select_se_off>\ncounter for ships, octopuses and squid\nno\n<select_end>\n<break>"
+  },
+  "246757": {
+    "マイタウンの中で　拠点の住まいとなる\n『本宅』を　設定することで　施設のひとびとの\n移動や　庭具の配置ができるようになります。": "In My Town, you'll be able to set up your\nmain residence, which will be your base, and\nyou'll be able to move the people in the\n<br>\nfacility around and place garden tools..."
+  },
+  "246758": {
+    "『本宅』を　設定することで　施設のひとびとの\n移動や　庭具の配置が　できるようになります。\nいずれかの土地を　『本宅』に設定してください。": "By setting up a main house, you'll be able to\nmove the people in the facility around and\nplace garden tools... Set up one of the lots\n<br>\nas your main residence..."
+  },
+  "246759": {
+    "この土地を　『本宅』に　設定しました。": "I'm going to set up this property as my main\nresidence..."
+  },
+  "246760": {
+    "住所を移して　ここを本宅にしますか？\n<yesno 2>\n<break>": ""
+  },
+  "246761": {
+    "本当に　住宅村の家から　マイタウンの\nこの家に　住所を移して　引っ越ししますか？\n<yesno 2>\n<break>": "Are you sure you want to move from a house in\na residential village to this house in My\nTown, moving your address?<yesno 2>\n<break>"
+  },
+  "246769": {
+    "「<%sL_PC_NICK>さま！\n　マイタウンのご購入　おめでとうございます！\n<br>\n「私　このマイタウンの管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後とも　どうぞ　よろしくお願いいたします。\n<br>\n「では　<%sL_PC_NICK>さまが　晴れて\n　地主になられた証として　この場所への\n　ルーラストーンを　進呈させていただきます。\n<br>\n「このルーラストーンは　他の物とは違って\n　記憶場所を　書きかえることが　できません。\n　ご帰宅専用の　特別品になります。\n<end>": "<%sL_PC_NICK> Sir! Congratulations on your\npurchase of My Town! My name is\n<%sL_MAID_NAME> and I'm the manager of this\n<br>\nMytown... I'd like to thank you for your\ncontinued support... As proof that you,\n<%sL_PC_NICK>, are now a landowner, I would\n<br>\nlike to present you with a rune stone to this\nlocation... This rune stone is unlike any\nother... in that it can be rewritten to\n<br>\nremember... It's a special edition for your\nreturn...<end>"
+  },
+  "246850": {
+    "今は　他の家を\n本宅に　設定できません。\n時間を置いてから　再度　お試しください。": "Right now, I can't set the other house as the\nmain residence. Please give it some time and\ntry again."
+  },
+  "246851": {
+    "なんらかの　問題が起きたため\n設定が　できません。\n時間を置いてから　再度　お試しください。": "I'm afraid there's been some sort of problem\nwith the settings. Please give it some time\nand try again..."
+  },
+  "246852": {
+    "今　本宅にしている家に　モーモンバザーや\nきせかえドールなど　本宅にしか置けない家具が\n置かれているため　ここを本宅に設定できません。": ""
+  },
+  "247540": {
+    "マイタウンでは\n土地の売却と　他の土地への\n引っ越しはできません。": "In My Town, you can sell your land and move\nto another property..."
+  },
+  "247541": {
+    "マイタウンを　ご購入の際も\n『土地管理人リステア』から\nご案内が　ありましたとおり……\n<br><color_yellow>\nマイタウンへ　引っ越しをすると\n住宅村への　引っ越しが\nできなくなりますので　ご注意ください。\n<br><color_white>\n住宅村に　引っ越しできなくなりますが\n本当に　ここを本宅にしますか？\n<yesno 2>\n<break>": "And when you buy My Town\nFrom \"Listeria, the Land Manager\"\nAs you were informed\n<color_yellow>Please note that once you've moved to My\nTown, you can no longer move to the Housing\nVillage...<color_white>You can't move to a residential village, but\ndo you really want to make this your home?<yesno 2>\n<break>"
+  },
+  "247542": {
+    "「それでは　ステキなマイタウンライフを\n　お過ごしください！": "Then, have a wonderful life in My Town!"
+  },
+  "247543": {
+    "「それでは　マイタウンの楽しみ方について\n　簡単に　ご案内いたします！\n<br>\n「まずは　ここに　あなたの家を建てましょう！\n　家は　ハウジングショップなどで\n　売っていますので　そちらで　お選びください。\n<br>\n「家を購入されましたら　立て札を調べることで\n　ここに　家を建てることができます。\n<br>\n「建てた家は　見た目を変えられます。\n　専任の　大工がおりますので\n　気分を変えたい時は　お申しつけください。\n<br>\n「マイタウン内では　家の中に家具を\n　配置できるほか　庭具を　家の外の\n　あらゆる敷地に　配置することができます。\n<br>\n「家具や庭具の　配置やかたづけは\n　権限を設定することで　お友達と\n　共有することも　できるんですよ。\n<br>\n「マイタウンへの出入りや　さわる権限を\n　フレンドや　チームリストから\n　設定していただくことが　できるのです。\n<br>\n「権限を分け合って　あなたとお友達とで\n　マイタウン全体の　アレンジを\n　ぜひ　お楽しみください。\n<br>\n「説明は　以上です。家を建てられると\n　家やマイタウンの権限設定や　名前の変更\n　あいさつ文の変更なども　私の仕事になります。\n<br>\n「そういった　ご用がございましたら\n　建てた家の扉メニューから　いつでも\n　お呼びくださいませ。お待ちしております。\n<bw_break>": "Let's take a quick look at how you can enjoy\nMy Town! First, let's build your house here!\nHouses are sold at housing stores, so you can\n<br>\nchoose one there... Once you've purchased\nyour house, you can build it here by checking\nthe sign... Once you've built your home, you\n<br>\ncan change its appearance... We have a full-\ntime carpenter on staff, so if you'd like to\nchange your mind, just ask... In My Town, you\n<br>\ncan place furniture inside your home and\ngarden tools on any lot outside your home...\nYou can even share the placement and cleanup\n<br>\nof furniture and garden tools with your\nfriends by setting permissions... You can set\npermissions to enter, leave, and interact\n<br>\nwith your town from your friends or team\nlist... You and your friends can share\npermissions to arrange your entire MyTown...\n<br>\nFor more information... Once you've built\nyour home, it's my job to set up your home\nand My Town permissions, change your name,\n<br>\nchange your greetings... If you need any of\nthese things, please feel free to call me\nfrom the door menu of your house... I'll be\n<br>\nwaiting...<bw_break>"
+  },
+  "247555": {
+    "番地の敷地に　庭具があるため\n新しく家を建てたり　家の建て替えができません。\n庭具を　撤去してから　お試しください。": "There's a garden tool on the third lot, so we\ncan't build a new house or rebuild the\nhouse... I'd like you to remove the garden\n<br>\ntools before you try..."
+  },
+  "247693": {
+    "レンダーヒルズ地区では\n新たに　土地の売却と　引っ越しが\nできるようになりました。\n<br><color_yellow>\n※マイタウンへ　引っ越した場合に限り\n　所有していたレンダーヒルズ地区の　土地は\n　５０００万ゴールドで売却されます。\n<br><color_yellow>\n※その他の地区に　引っ越した場合は\n　１０００万ゴールドで売却されます。\n<br><color_white>\nこの家が　すぐに引っ越しできる状態か\n引っ越しチェックで　確認しますか？\n<yesno><break>": "In the Render Hills area, you can now sell\nyour land and move...<color_yellow>If you move to My Town, your land in the\nRenderhills district will be sold for 50\nmillion gold...<color_yellow>If you move to another district, it will be\nsold for 10 million gold...<color_white>Would you like a move-in check to make sure\nthis house is ready to move into?<yesno><break>"
+  },
+  "247694": {
+    "すべての条件を　満たしています。\nいつでも　引っ越しできる状態です。": "If you meet all the requirements... I'm ready\nto move out at any time..."
+  },
+  "247717": {
+    "「こんにちは　<%sL_PC_NICK>さま。\n　マイタウンのご購入　おめでとうございます。\n　お引っ越しが　完了いたしました。\n<br>\n「私　このマイタウンの管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後とも　どうぞ　よろしくお願いいたします。\n<br>\n「今後　私どもが　<%sL_PC_NICK>さまの生活を\n　心をこめて　お手伝いさせていただきますので\n　きっと　ご満足いただけると思います。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。前の土地に\n　建っていた家は　家キットに戻りました。\n<br><color_yellow>\n「引っ越し前の家の中に　配置されていた家具は\n　特殊な退避状態となり　本宅の扉メニューの\n　『配置中の家具』から　配置できます。\n<br>\n「プライベートコンシェルジュを　雇っていた場合\n　引っ越し後に　『コンシェルジュ設定』から\n　再度　立ち位置をご指示ください。\n<br><color_white>\n「さあ　これから　<%sL_PC_NICK>さまは\n　晴れて　マイタウンのオーナーです。\n　ここでの生活を　どうぞお楽しみください！": "Hello <%sL_PC_NICK... Congratulations on your\npurchase of My Town... Your move is now\ncomplete... My name is <%sL_MAID_NAME> and\n<br>\nI'm the administrator of Mytown... I would\nlike to thank you for your continued\nsupport... From now on, we will help you live\n<br>\nyour life to the fullest, and I'm sure you'll\nbe very satisfied... <The Zoomstones for\nyour house have been rewritten to this\n<br>\nlocation... The house that stood on the\nprevious lot has been returned to the house\nkit...<color_yellow>Any furniture that was placed in your home\nbefore you moved will be placed in a special\nevacuation state and can be repositioned from\n<br>\nthe \"Furniture in Place\" menu on your home's\ndoor... If I have a private concierge, will I\nbe able to go to the \"Concierge Settings\"\n<br>\nsection of my home's door menu and instruct\nthem where to...<color_white>Now, you, <%sL_PC_NICK>, are the proud owner\nof My Town... I hope you enjoy your life\nhere!"
+  },
+  "247718": {
+    "マイタウンの土地への　引っ越しを確認します\n前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されます。\n<br>\nまた　引っ越し前の家が　チーム集会所に\n設定されていた時は　引っ越しすると\n自動で　集会所設定が　解除されます。\n<br><color_yellow>\nウェルカムハウス設定をしていた場合は\n設定が解除されますので　再度\nウェルカムハウス設定を　行ってください。\n<br>\nマイタウンへは　バトンちゃんが来ません。\nプレゼントを　受け取っていないのであれば\n受け取ってから　引っ越しをしてください。\n<br><color_white>\nルーラストーンの飛び先は　自動的に\nマイタウンの　土地の番地に　変わって\n引っ越し先の土地は　『本宅』になります。\n<br>\nまた　フェンスや地面などの　一部の外装は\n土地のサイズごとに　専用なので\nサイズの異なる土地では　つかえなくなります。\n<bw_break>": "We'll confirm that you're moving to a\nproperty in My Town, and that your previous\nproperty will be sold for <%nL_SELL_PRICE>\n<br>\ngold... Also, if your house was set up as a\nTeam Gathering Place before you moved in, it\nwill automatically be unset up as a Gathering\n<br>\nPlace when you move out...<color_yellow>If you've set up a welcome house, you'll have\nto reset it... Baton-chan is coming to My\nTown... If you haven't received a gift yet,\n<br>\nplease do so before you move...<color_white>The destination of your Zoomstone will\nautomatically change to the number of your\nland in My Town, and the land you move to\n<br>\nwill become your home. Also, some of the\nexterior features, like fences and grounds,\nare unique to each land size, so you can't\n<br>\nuse them on different sized land...<bw_break>"
+  },
+  "247725": {
+    "番地の　敷地内に　庭具があるため\n新しく家を建てたり　家の建て替えができません。\n<br>\n庭具を　番地の　敷地の外に\n移動するか　かたづけてから\nお試しください。": "Because the garden tools are on the numbered\nlot, it is not possible to build a new home\nor rebuild a home... Please move the garden\n<br>\ntools off the lot or put them away before you\ntry..."
+  },
+  "247726": {
+    "番地の　敷地内に\nプライベートコンシェルジュがいるため\n新しく家を建てたり　家の建て替えができません。\n<br>\nプライベートコンシェルジュを\n番地の　敷地の外に　移動させるか\nお別れしてから　お試しください。": "The presence of a private concierge on the\ngrounds of the numbered lot allows for the\nconstruction of a new home or the rebuilding\n<br>\nof a home... You can either move the private\nconcierge off the lot, or you can say goodbye\nand try..."
+  },
+  "247885": {
+    "レンダーヒルズ地区に　土地を持っているため\n土地を売却できません。": "I have land in the Render Hills area that I\ncould sell for..."
+  },
+  "247989": {
+    "マイタウンに　土地を持っているため\nこの土地への　引っ越しは　できません。": "I own land in My Town, so I can't move to\nthis property..."
+  },
+  "248112": {
+    "番地の　敷地内に　施設の人がいるため\n新しく家を建てたり　家の建て替えができません。\n<br>\n施設の人を　番地の　敷地の外に\n移動させてから　お試しください。": "We can't build a new house or rebuild a house\nbecause there's an institutionalized person\non the numbered property... We'll have to\n<br>\nmove them off the property before we can\ntry..."
+  },
+  "248278": {
+    "番地の敷地内に　人がいるため\n新しく家を建てたり　家の建て替えができません。\n<br>\n番地の　敷地内にいる人に　呼びかけて\n敷地の外に出ていただいてから　お試しください。": "We can't build a new house or rebuild a house\nbecause there are people on the property at\nnumber... We'll call out to the people on the\n<br>\nproperty at number two, ask them to come\noutside the property, and then we'll try..."
+  },
+  "251551": {
+    "今　本宅の　ウェルカム設定が\n『モーモンバザー』になっているので\nここを　本宅に設定できません。\n": "Now, the welcome setting at the main house is\nset to \"Mormon Bazaar,\" so if we could set\nthis as the main house..."
+  },
+  "253435": {
+    "ウェルカム設定の　モーモンバザーが\n解除されました。": "The Mormon bazaar in the welcome setting has\nbeen deactivated..."
+  },
+  "255237": {
+    "マイタウンから　引っ越しても\nマイタウン権利証は　なくなりません。\n<br>\nただし　住民のいなくなったマイタウンには\n自分以外の人は　入れなくなります。\n<br>\n家とマイタウン全体で　別々に権限設定していた\n『さわる』『スライムチャイムに書く』\n『ベッドの使用』『コンシェルジュの日常』\n<br>\n以上の項目は　家の設定が　適用されます。\n管理人メニューの　権限の設定から\n確認してください。\n<br>\nまた　マイタウンの土地から　引っ越した場合\n３日間　マイタウンの土地へは\n戻ることが　できなくなります。": "If you move out of My Town, you no longer\nhave a My Town Bill of Rights... However, you\nwill no longer be able to enter My Town...\n<br>\nI've set up separate permissions for my house\nand MyTown... for touching, writing on the\nslime chime, using the bed, and the\n<br>\nconcierge's daily routine. You'll need to go\nto the administrator menu and set your\npermissions... Also, if you move out of My\n<br>\nTown, you won't be able to return to My Town\nfor three days..."
+  },
+  "255238": {
+    "本宅と　その中に配置されていた家具を\nそのまま引っ越ししますか？\n<select_se_off>\n本宅をそのまま引っ越し\n更地に引っ越し\nやめる\n<select_end><break>": "Would you like to move out of the main house\nand all the furniture that was in it?\n<select_se_off>\nMove out of the main house as it is\nMoving to a vacant lot\nstop\n<select_end><break>"
+  },
+  "255239": {
+    "そのまま引っ越すことが　できるのは\n本宅と　その中に設置された家具のみです。\n<br>\n別宅として建っていた家は　家キットに戻り\n「つかうもの」に　入ります。\n<br>\n別宅の中に　配置されていた家具と\nマイタウン内に　配置されていた庭具は\nすべて　一時預かりぶくろに　収納されます。\n<br>\n※別宅の中に　配置されていたレプリカ家具と\nマイタウン内に　配置されていたレプリカ庭具は\n一時預かりぶくろに　収納されず　なくなります。\n<br>\nレプリカになっている家具および　庭具は　\n引き継がれますので　前と同じように　\n配置することができます。\n<br>\n家具の場合　扉メニュー『レプリカ家具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ家具を配置』から　配置してください。\n<br>\n庭具の場合　扉メニュー『レプリカ庭具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ庭具を配置』から　配置してください。\n<br>\nまた　フェンスや地面などの　一部の外装は\n土地のサイズごとに　専用なので\nサイズの異なる土地では　つかえなくなります。": ""
+  },
+  "255240": {
+    "『更地に引っ越し』の場合　建っていた家は\n本宅　別宅ともに　家キットに戻ります。\n<br>\n引っ越し前の本宅の中に　配置されていた家具は\n特殊な退避状態となり　新しい家を建てると\n扉メニューの『配置中の家具』から配置できます。\n<br>\n別宅の中に　配置されていた家具\nおよび　マイタウン内に配置されていた庭具は\nすべて　一時預かりぶくろに　収納されます。\n<br>\n※別宅の中に　配置されていたレプリカ家具と\nマイタウン内に　配置されていたレプリカ庭具は\n一時預かりぶくろに　収納されず　なくなります。\n<br>\nレプリカになっている家具および　庭具は　\n引き継がれますので　前と同じように　\n配置することができます。\n<br>\n家具の場合　扉メニュー『レプリカ家具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ家具を配置』から　配置してください。\n<br>\n庭具の場合　扉メニュー『レプリカ庭具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ庭具を配置』から　配置してください。\n<br>\nまた　フェンスや地面などの　一部の外装は\n土地のサイズごとに　専用なので\nサイズの異なる土地では　つかえなくなります。": "If you're moving to a new house, the existing\nhouse will be returned to the house kit...\nThe furniture that was placed in the main\n<br>\nhouse before the move is in a special state\nof evacuation, and when I build a new house,\nI can place it in the \"Furniture in progress\"\n<br>\nmenu in the door menu... All furniture placed\nin another house and garden equipment placed\nin My Town will be stored in the storage\n<br>\nroom. The replica furniture that was placed\nin my other house and the replica garden\ntools that were placed in my town are no\n<br>\nlonger stored in the storage room. Replicated\nfurniture and garden tools will be taken over\nand can be placed in the same way as before.\n<br>\nFor furniture, use the \"Replica Furniture\"\nmenu in the Door menu and the \"Place Replica\nFurniture\" menu in the Housing menu. For\n<br>\ngarden tools, use \"Replica Garden Tools\" in\nthe Door menu and \"Place Replica Garden\nTools\" in the Housing menu. Also, some\n<br>\nexterior items such as fences and grounds are\nspecific to each lot size, so they will not\nwork on different sized lots..."
+  },
+  "255241": {
+    "本当に　マイタウンの家から　この土地に\n引っ越ししますか？\n<yesno 2><break>": "Are you sure you want to move from your home\nin My Town to this lot?<yesno 2><break>"
+  },
+  "255242": {
+    "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。別宅として\n建っていた家は　家キットに戻りました。\n<br><color_yellow>\n別宅の中に　配置されていた家具\nおよび　マイタウン内に配置されていた庭具は\nすべて　一時預かりぶくろに　収納されました。\n<br>\n※別宅の中に　配置されていたレプリカ家具と\nマイタウン内に　配置されていたレプリカ庭具は\n一時預かりぶくろに収納されず　なくなりました。\n<br>\nレプリカになっている家具および　庭具は　\n引き継がれますので　前と同じように　\n配置することができます。\n<br>\n家具の場合　扉メニュー『レプリカ家具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ家具を配置』から　配置してください。\n<br>\n庭具の場合　扉メニュー『レプリカ庭具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ庭具を配置』から　配置してください。\n<br>\nプライベートコンシェルジュを　雇っていた場合\n引っ越し後に　『コンシェルジュ設定』から\n再度　立ち位置をご指示ください。\n<color_white>": "<%sL_PC_NICK> has purchased a new plot of\nland and has moved to this location! The\nZoomstone for his house was automatically\n<br>\nrewritten to this location... The house that\nhad been his annex is now back in the house\nkit.<color_yellow>All furniture located in the annexe and all\ngarden equipment located in My Town have been\nplaced in temporary storage. The replica\n<br>\nfurniture located in my other house and the\nreplica garden tools located in my town are\nno longer stored in the storage room.\n<br>\nReplicated furniture and garden tools will be\nretained and can be placed in the same way as\nbefore... For furniture, use the \"Replica\n<br>\nFurniture\" menu in the Door menu and the\n\"Place Replica Furniture\" menu in the Housing\nmenu. For garden tools: Place replica garden\n<br>\ntools in the door menu \"Replica Garden Tools\"\nand in the tool menu \"Place Replica Garden\nTools\"... If you've hired a private\n<br>\nconcierge, you'll need to go to \"Concierge\nSettings\" after you've moved to your new home\nand tell them where you want them to be...<color_white>"
+  },
+  "255243": {
+    "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。前の土地に\n建っていた家は　家キットに戻りました。\n<br><color_yellow>\n引っ越し前の家の中に　配置されていた家具は\n特殊な退避状態となり　新しい家を建てると\n扉メニューの『配置中の家具』から配置できます。\n<br>\n別宅の中に　配置されていた家具\nおよび　マイタウン内に配置されていた庭具は\nすべて　一時預かりぶくろに　収納されました。\n<br>\n※別宅の中に　配置されていたレプリカ家具と\nマイタウン内に　配置されていたレプリカ庭具は\n一時預かりぶくろに収納されず　なくなりました。\n<br>\nレプリカになっている家具および　庭具は　\n引き継がれますので　前と同じように　\n配置することができます。\n<br>\n家具の場合　扉メニュー『レプリカ家具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ家具を配置』から　配置してください。\n<br>\n庭具の場合　扉メニュー『レプリカ庭具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ庭具を配置』から　配置してください。\n<br>\nプライベートコンシェルジュを　雇っていた場合\n引っ越し後に　『コンシェルジュ設定』から\n再度　立ち位置をご指示ください。\n<bw_break><color_white>": "<%sL_PC_NICK> has purchased a new plot of\nland and has moved to this location! The\nZoomstone for his house is automatically\n<br>\nrewritten to this location... The house that\nstood on the previous plot of land has\nreverted back to House Kit.<color_yellow>Furniture that was placed in your old house\nis now in a special state of evacuation, and\nwhen you build a new house, you can place it\n<br>\nin the \"Furniture in storage\" menu in the\ndoor menu... Furniture placed in another\nhouse and garden tools in My Town will be\n<br>\nstored in the storage room. The replica\nfurniture that was placed in my other house\nand the replica garden tools that were placed\n<br>\nin My Town are no longer stored in the\nstorage room. Replicated furniture and garden\ntools will be retained and can be placed in\n<br>\nthe same way as before... For furniture, use\nthe \"Replica Furniture\" menu in the Door menu\nand the \"Place Replica Furniture\" menu in the\n<br>\nHousing menu. For garden tools: Place replica\ngarden tools in the door menu \"Replica Garden\nTools\" and in the tool menu \"Place Replica\n<br>\nGarden Tools\"... If you've hired a private\nconcierge, you'll need to go to \"Concierge\nSettings\" after you've moved to your new home\n<br>\nand tell them where you want them to be...<bw_break><color_white>"
+  },
+  "256918": {
+    "引っ越し後の　権限設定は\nマイタウン専用に設定した　庭の権限も含めて\nマイタウン本宅の権限が　そのまま適用されます。\n<br>\n引っ越しする前に　本宅の権限設定が今のままで\n問題ないか　ご確認をお勧めしています。\n本宅の設定は　ご確認済ですか？\n<yesno 2><break>": "If you're moving, your MyTown permissions\nwill still apply to your home, including the\ngarden permissions you set up for MyTown...\n<br>\nBefore you move, I'd like to make sure that\nyou're still using the same permissions...\nHave you checked your home settings?<yesno 2><break>"
+  },
+  "257546": {
+    "現在　引っ越し制限期間中のため\nマイタウンの土地へ　引っ越すことが\nできません。\n<br>\n<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>：<%02dM_mm>　まで\nお待ちください。": "I'm currently under a move restriction\nperiod, which means I can't move to a\nproperty in my town... Please wait until\n<br>\n<%2dM_cal_MM> month <%2dM_cal_DD> day\n<%2dM_hh>: <%02dM_mm>..."
+  },
+  "257786": {
+    "さかなが　床下水そうか\n別宅の水そうに　いるときは\n引っ越しできません。\n<br><color_yellow>\nまた　畑を栽培中だったり\n仲間モンスターが　お庭にいたり　おさんぽ中や\nおくりものがある時も　引っ越しできません。\n<color_white>": "When the fish are in the subfloor or in the\nwater in the other house, you can't move...<color_yellow>You can also move when you're growing a\nfield, or when your monsters are in the\ngarden, or when you're out for a walk, or\n<br>\nwhen you have a gift to give away...<color_white>"
+  },
+  "257832": {
+    "床下水そうか　別宅の水そうに　さかながいます。\n水そうから　すべてのさかなを出して\nからにしてください。\n<bw_break>": "There's fish in the subfloor, or in the water\nof the other house... I'm gonna need you to\ntake all the fish out of the pond and clean\n<br>\nthem.<bw_break>"
+  },
+  "258618": {
+    "土地のサイズが　引っ越し前より　小さい場合\n庭具や外装を　そのまま引っ越すことが\nできません。\n<br>\n小さいサイズの土地に　引っ越す場合\n配置されていた庭具は　一度　すべて\n片づけられます。\n<br>\nまた　フェンスや地面などの　一部の外装は\n土地のサイズごとに　専用なので\nサイズの異なる土地では　つかえなくなります。": "If your lot is smaller than it was before you\nmoved in, you can't just move in your garden\ntools and exterior... If you're moving to a\n<br>\nsmaller lot, you'll need to clear out all of\nyour garden equipment. Also, some of the\nexterior features, like the fence and the\n<br>\nground, are specific to the size of the lot,\nso they won't fit on a different lot."
+  },
+  "258619": {
+    "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。\n<br><color_yellow>\n引っ越し前に　配置されていた庭具は\n扉メニューの『配置中の庭具』から配置できます。\n<br>\nプライベートコンシェルジュを　雇っていた場合\n引っ越し後に　『コンシェルジュ設定』から\n再度　立ち位置をご指示ください。\n<color_white>": "<%sL_PC_NICK> has purchased a new plot of\nland and has moved to this location! The\nZoomstones for his house are automatically\n<br>\nrewritten to this location...<color_yellow>If you have a private concierge, you will\nneed to re-position them after your move. If\nI have a private concierge, will I be able to\n<br>\ngo to \"Concierge Settings\" after I move and\ntell them where I want...<color_white>"
+  },
+  "258620": {
+    "『更地に引っ越し』の場合　建っていた家は\n家キットに戻ります。\n<br>\n引っ越し前の家の中に　配置されていた家具は\n特殊な退避状態となり　本宅の扉メニューの\n『配置中の家具』から　配置できます。\n<br>\nプライベートコンシェルジュを雇っていた時は\n引っ越し後に　『コンシェルジュ設定』から\n再度　立ち位置をご指示ください。": "If you are moving to a new house, the house\nwill be returned to the house kit... The\nfurniture that was placed in the house before\n<br>\nthe move is now in a special evacuation state\nand can be placed in the \"Furniture in\nprogress\" menu in the door menu of the main\n<br>\nhouse... If you had a private concierge,\nafter you move, you will need to go into your\nconcierge settings and re-position..."
+  },
+  "258870": {
+    "「こんにちは　<%sL_PC_NICK>さま。\n　マイタウンのご購入　おめでとうございます。\n　お引っ越しが　完了いたしました。\n<br>\n「私　このマイタウンの管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後とも　どうぞ　よろしくお願いいたします。\n<br>\n「今後　私どもが　<%sL_PC_NICK>さまの生活を\n　心をこめて　お手伝いさせていただきますので\n　きっと　ご満足いただけると思います。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。\n<br>\n「さあ　これから　<%sL_PC_NICK>さまは\n　晴れて　マイタウンのオーナーです。\n　ここでの生活を　どうぞお楽しみください！": "Hello <%sL_PC_NICK... Congratulations on your\npurchase of My Town... Your move is now\ncomplete... My name is <%sL_MAID_NAME> and\n<br>\nI'm the administrator of Mytown... I would\nlike to thank you for your continued\nsupport... From now on, we will help you live\n<br>\nyour life to the fullest, and I'm sure you'll\nbe very satisfied... <The Zoomstones in your\nhome have been rewritten to this location...\n<br>\nYou are now the proud owner of your own\ntown... I hope you enjoy your life here!"
+  },
+  "263036": {
+    "フェンスや地面などの　一部の外装は\n土地のサイズごとに　専用なので\nサイズの異なる土地では　つかえなくなります。": "Some exteriors, like the fence and the\nground, are specific to the size of the lot,\nso they won't fit on different sized lots..."
+  },
+  "263154": {
+    "「こんにちは　<%sL_PC_NICK>さま。\n　レンダーヒルズに　ようこそいらっしゃいました。\n　お引っ越しが　完了いたしました。\n<br>\n「私は　この住宅村の管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後　どうぞ　よろしくお願いいたします。\n<br>\n「今後　私どもが　<%sL_PC_NICK>さまの生活を\n　心をこめて　お手伝いさせていただきますので\n　きっと　ご満足いただけると思います。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。前の土地に\n　建っていた家は　家キットに戻りました。\n<br><color_yellow>\n「引っ越し前の家の中に　配置されていた家具は\n　特殊な退避状態となり　新しい家を建てると\n　扉メニューの『配置中の家具』から配置できます。\n<br>\n「別宅の中に　配置されていた家具\n　および　マイタウン内に配置されていた庭具は\n　すべて　一時預かりぶくろに　収納されました。\n<br>\n「ただし　別宅の中に配置していたレプリカ家具と\n　マイタウン内に　配置していたレプリカ庭具は\n　一時預かりぶくろに収納されず　消えました。\n<br>\n「レプリカになっている家具および　庭具は　\n　引き継がれますので　前と同じように　\n　配置することができます。\n<br>\n「プライベートコンシェルジュを　雇っていた場合\n　引っ越し後に　『コンシェルジュ設定』から\n　再度　立ち位置をご指示ください。\n<br><color_white>\n「さあ　これから　<%sL_PC_NICK>さまは\n　晴れて　レンダーヒルズの住人です。\n　ここでの生活を　どうぞお楽しみください！": "Hello, <%sL_PC_NICK... Welcome to Render\nHills... Your move is complete... My name is\n<%sL_MAID_NAME> and I am the administrator of\n<br>\nthis residential village... I look forward to\nworking with you... We will do our best to\nmake your stay with us as comfortable as\n<br>\npossible. <The Zoomstones for your house\nhave been rewritten to this location... The\nhouse that stood on the previous lot has been\n<br>\nreturned to the house kit...<color_yellow>Furniture that was placed in your old house\nis now in a special state of evacuation and\ncan be placed in your new house by clicking\n<br>\non \"Furniture in storage\" in the door menu.\nAll furniture placed in another house and\ngarden equipment placed in My Town will be\n<br>\nstored in the storage room. However, the\nreplica furniture in my other house and the\nreplica garden tools in my town will not be\n<br>\nstored in the storage room and will\ndisappear. The replica furniture and garden\nequipment will be retained and can be placed\n<br>\nin the same locations as before. If you've\nhired a private concierge, after you move,\nwill you need to go to your concierge\n<br>\nsettings and tell them where you want them to\nbe again?<color_white>Now, you, <%sL_PC_NICK>, will be living in\nRenderhills... I hope you enjoy your time\nhere!"
+  },
+  "263155": {
+    "「こんにちは　<%sL_PC_NICK>さま。\n　レンダーヒルズに　ようこそいらっしゃいました。\n　お引っ越しが　完了いたしました。\n<br>\n「私は　この住宅村の管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後　どうぞ　よろしくお願いいたします。\n<br>\n「今後　私どもが　<%sL_PC_NICK>さまの生活を\n　心をこめて　お手伝いさせていただきますので\n　きっと　ご満足いただけると思います。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。\n<br><color_yellow>\n「別宅の中に　配置されていた家具\n　および　マイタウン内に配置されていた庭具は\n　すべて　一時預かりぶくろに　収納されました。\n<br>\n「ただし　別宅の中に配置していたレプリカ家具と\n　マイタウン内に　配置していたレプリカ庭具は\n　一時預かりぶくろに収納されず　消えました。\n<br>\n「レプリカになっている家具および　庭具は　\n　引き継がれますので　前と同じように　\n　配置することができます。\n<br>\n「家具の場合　扉メニュー『レプリカ家具』および\n　どうぐメニュー『ハウジング』の\n　『レプリカ家具を配置』から配置してください。\n<br>\n「庭具の場合　扉メニュー『レプリカ庭具』および　\n　どうぐメニュー『ハウジング』の\n　『レプリカ庭具を配置』から配置してください。\n<br>\n「プライベートコンシェルジュを　雇っていた場合\n　引っ越し後に　『コンシェルジュ設定』から\n　再度　立ち位置をご指示ください。\n<br><color_white>\n「さあ　これから　<%sL_PC_NICK>さまは\n　晴れて　レンダーヒルズの住人です。\n　ここでの生活を　どうぞお楽しみください！": "Hello, <%sL_PC_NICK... Welcome to Render\nHills... Your move is complete... My name is\n<%sL_MAID_NAME> and I am the administrator of\n<br>\nthis residential village... I look forward to\nworking with you... We will do our best to\nmake your stay with us as comfortable as\n<br>\npossible. <The Zoomstones in your home have\nbeen rewritten to this location...<color_yellow>All furniture placed in the villa and all\ngarden tools placed in My Town will be stored\nin the storage closet. However, the replica\n<br>\nfurniture in my other house and the replica\ngarden tools in my town will not be stored in\nthe storage room and will disappear. The\n<br>\nreplica furniture and garden tools will be\ntaken over and you will be able to place them\nas you did before. For furniture, use the\n<br>\n\"Replica Furniture\" menu in the door menu and\n\"Place Replica Furniture\" in the \"Housing\"\nmenu... For garden tools: Place replica\n<br>\ngarden tools in the door menu \"Replica Garden\nTools\" and in the tool menu \"Place Replica\nGarden Tools\"... If you've hired a private\n<br>\nconcierge, you'll need to go to the\n\"Concierge Settings\" menu after you've moved\nto your new home...<color_white>Now, you, <%sL_PC_NICK>, will be living in\nRenderhills... I hope you enjoy your time\nhere!"
+  },
+  "298127": {
+    "マイタウンの土地への　引っ越しを確認します｡\n引っ越しをすると　本宅に設定していた町は\nマイタウンの機能を失います。\n<br>\nマイタウンの機能を失い\n住民のいなくなった町には　\n自分以外の人は　入れなくなります。\n<br>\n引っ越し前の家が　チーム集会所に\n設定されていた時は　引っ越しすると\n自動で　集会所設定が　解除されます。\n<br><color_yellow>\nウェルカムハウス設定をしていた場合は\n設定が解除されますので　再度\nウェルカムハウス設定を　行ってください。\n<br>\nまた　マイタウンＩＤは\n住所を移しても　変わりません。\n<br><color_white>\nルーラストーンの飛び先は　自動的に\n今の町の　土地の番地に　変わって\n引っ越し先の土地が　『本宅』になります。\n<br>\nまた　一部の外装は　土地のサイズごとに\n専用なので　サイズの異なる土地では\nつかえなくなります。\n<bw_break>\n": ""
+  },
+  "298128": {
+    "住所を移して　ここを本宅にしますか？\n<yesno 2>\n<break>": ""
+  },
+  "298129": {
+    "本当に　前の町の家から\nこの土地に　住所を移して　引っ越ししますか？\n<yesno 2><break>": ""
+  },
+  "298130": {
+    "「こんにちは　<%sL_PC_NICK>さま。\n　お引っ越しが　完了いたしました。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。\n<br>\n「別宅の中に　配置されていた家具\n　および　マイタウン内に配置されていた庭具は\n　すべて　一時預かりぶくろに　収納されました。\n<br>\n「ただし　別宅の中に配置していたレプリカ家具と\n　マイタウン内に　配置していたレプリカ庭具は\n　一時預かりぶくろに収納されず　消えました。\n<br>\n「レプリカになっている家具および　庭具は　\n　引き継がれますので　前と同じように　\n　配置することができます。\n<br>\n「家具の場合　扉メニュー『レプリカ家具』および\n　どうぐメニュー『ハウジング』の\n　『レプリカ家具を配置』から配置してください。\n<br>\n「庭具の場合　扉メニュー『レプリカ庭具』および　\n　どうぐメニュー『ハウジング』の\n　『レプリカ庭具を配置』から配置してください。\n<br>\n「プライベートコンシェルジュを　雇っていた場合\n　引っ越し後に　『コンシェルジュ設定』から\n　再度　立ち位置をご指示ください。\n<br>\n「それでは　新しい町での生活を\n　どうぞお楽しみください！": ""
+  },
+  "298131": {
+    "「こんにちは　<%sL_PC_NICK>さま。\n　お引っ越しが　完了いたしました。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。\n　建っていた家は　家キットに戻りました。\n<br>\n「引っ越し前の家の中に　配置されていた家具は\n　特殊な退避状態となり　新しい家を建てると\n　扉メニューの『配置中の家具』から配置できます。\n<br>\n「別宅の中に配置していたレプリカ家具と\n　マイタウン内に　配置していたレプリカ庭具は\n　一時預かりぶくろに収納されず　消えました。\n<br>\n「レプリカになっている家具および　庭具は　\n　引き継がれますので　前と同じように　\n　配置することができます。\n<br>\n「家具の場合　扉メニュー『レプリカ家具』および\n　どうぐメニュー『ハウジング』の\n　『レプリカ家具を配置』から配置してください。\n<br>\n「庭具の場合　扉メニュー『レプリカ庭具』および　\n　どうぐメニュー『ハウジング』の\n　『レプリカ庭具を配置』から配置してください。\n<br>\n「プライベートコンシェルジュを　雇っていた場合\n　引っ越し後に　『コンシェルジュ設定』から\n　再度　立ち位置をご指示ください。\n<br>\n「それでは　新しい町での生活を\n　どうぞお楽しみください！": ""
+  },
+  "300063": {
+    "『そのまま引っ越し』の場合　立っていた家や\n配置している庭具家具も　そのまま\n引っ越しすることができます。\n<br>\nただし　土地のサイズが引っ越し前より小さい場合　\n庭具や　プライベートコンシェルジュを\nそのまま引っ越すことができません。\n<br>\n引っ越し前に　配置されていた庭具は\n片づけられますが　『マイタウンの庭具』から\nふたたび　配置することができます。\n<br>\nプライベートコンシェルジュを雇っていた時は\n引っ越し後に　『コンシェルジュ設定』から\n再度　立ち位置をご指示ください。": ""
+  }
+}
