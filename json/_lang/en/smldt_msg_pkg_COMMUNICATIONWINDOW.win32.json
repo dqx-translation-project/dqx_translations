@@ -1023,10 +1023,10 @@
     "まとめ屋から <%sM_item>を <%dM_item_num>個 もらった！": ""
   },
   "40733": {
-    "アイテム交換屋で <%sM_item><%sM_plusnum>を <%dM_item_num>個 交換した！": ""
+    "アイテム交換屋で <%sM_item><%sM_plusnum>を <%dM_item_num>個 交換した！": "Exchanged for <%dM_item_num> <%sM_item><%sM_plusnum>\nat the Item Exchange Shop!"
   },
   "40734": {
-    "アイテム交換屋で <%sM_item><%sM_plusnum>を 交換した！": ""
+    "アイテム交換屋で <%sM_item><%sM_plusnum>を 交換した！": "Exchanged for <%sM_item><%sM_plusnum>\nat the Item Exchange Shop!"
   },
   "40739": {
     "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成した！": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1> and <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> were fused!"
@@ -1467,7 +1467,7 @@
     "絆が深まり <%sM_SNPC>は <%sM_SKILL>が　増えた！": ""
   },
   "45041": {
-    "<%sM_item><%sM_plusnum>に\n<%sL_KOUKA>が 付いた！": "<%sM_item><%sM_plusnum> gained\n<%sL_KOUKA>!"
+    "<%sM_item><%sM_plusnum>に\n<%sL_KOUKA>が 付いた！": "<%sM_item><%sM_plusnum> gained the\n<%sL_KOUKA> effect!"
   },
   "45066": {
     "美容院で <%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！": ""
@@ -1563,7 +1563,7 @@
     "授業を受けて <%sL_TICKET_NAME>を <%nM_NUM>枚 消費した！": ""
   },
   "46513": {
-    "<%sL_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": "<%sL_ITEM><%sL_PLUSNUM_3> gained <%sL_KOUKA>!"
+    "<%sL_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": "<%sL_ITEM><%sL_PLUSNUM_3> gained the\n<%sL_KOUKA> effect!"
   },
   "46565": {
     "<pc>は　<%sM_ryoukai>　<%sM_stage>の調査依頼を　受けた！": ""
@@ -2589,7 +2589,7 @@
     "スペード": "Spade"
   },
   "55843": {
-    "段位戦ポイントを　<%dL_rank_point>P 獲得した": "Gained <%dL_rank_point> Rank Points"
+    "段位戦ポイントを　<%dL_rank_point>P 獲得した": "Gained <%dL_rank_point> Rank Points."
   },
   "55844": {
     "トランプポイントを　<%dL_rank_point>P 獲得した": "You earned <%dL_rank_point> Card Points!"
