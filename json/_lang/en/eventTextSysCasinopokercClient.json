@@ -3,7 +3,7 @@
     "ポーカーを終了しますか？\n（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno 2><close>": "Do you want to exit poker? (Floor\n<%nW_INSTANCE_NO>\n<%sCAS_room>\n<br>\n<%sCAS_table>)<yesno 2><close>"
   },
   "61889": {
-    "<speed=0><cursor>で　かけきんを決めて\n<convenience>を押すと　カードが配られます。": "<speed=0><cursor>So, you'll have to decide how much you want to spend\n<convenience>to deal the cards..."
+    "<speed=0><cursor>で　かけきんを決めて\n<convenience>を押すと　カードが配られます。": "<speed=0>Use the <cursor> to change your bet.\nPress <convenience> to start the deal."
   },
   "61890": {
     "持てるコインの　限界を超えました。\nこれ以上　持てませんが　続けますか？<yesno_nc 2><close>": "I've reached the limit of my coin capacity...\nI can't hold any more. Do you want to\ncontinue?\n<br><yesno_nc 2><close>"
@@ -15,13 +15,13 @@
     "コインがありませんので\nお買い求めのうえ　またおこしください！": "You don't have any Tokens! Please come back\nafter purchasing some!"
   },
   "61893": {
-    "おめでとうございます！\n<%sCAS_pokerHand>です！<br>\n<%dM_coin>枚のコインが　当たりました。": "Congratulations!\nYou got <%sCAS_pokerHand>! <br>\nReceived <%dM_coin> Tokens."
+    "おめでとうございます！\n<%sCAS_pokerHand>です！<br>\n<%dM_coin>枚のコインが　当たりました。": "Congratulations!\nYou got a <%sCAS_pokerHand>!<br>\nYou received <%dM_coin> tokens."
   },
   "61894": {
     "<speed=0>もういちど　ポーカーを遊びますか？<yesno_nc><close>": "<speed=0>Would you like to play poker again?<yesno_nc><close>"
   },
   "61895": {
-    "成功すると　<%dM_du_coin>枚になります。\n<%dM_du_rnd>回目の　ダブルアップに挑戦しますか？<yesno_nc><close>": "You can try Double or Nothing to try and\nincrease that to <%dM_du_coin> Tokens!\nAre you ready for Round <%dM_du_rnd>?<yesno_nc><close>"
+    "成功すると　<%dM_du_coin>枚になります。\n<%dM_du_rnd>回目の　ダブルアップに挑戦しますか？<yesno_nc><close>": "Double or Nothing for a chance at <%dM_du_coin> tokens!\nAre you ready for Round <%dM_du_rnd>?<yesno_nc><close>"
   },
   "61896": {
     "引き分けです。　もういちど…！": "It was a tie. Try again!"
@@ -72,7 +72,7 @@
     "ツーペア": "Two Pair"
   },
   "61914": {
-    "<%dM_tboxcnt>つのカギがついた　宝箱を　発見しました！<br>\n<%dM_tboxcnt>回　ダブルアップで　勝てば\n宝箱を　開くことができます！": "You found a treasure chest with\n<%dM_tboxcnt> keys!\n<br>\nIf you double up <%dM_tboxcnt>\ntimes, you can open the treasure chest!"
+    "<%dM_tboxcnt>つのカギがついた　宝箱を　発見しました！<br>\n<%dM_tboxcnt>回　ダブルアップで　勝てば\n宝箱を　開くことができます！": "You found a treasure chest with\n<%dM_tboxcnt> keys!<br>\nIf you double up <%dM_tboxcnt> times, you can open\nthe treasure chest!"
   },
   "63675": {
     "同じテーブルにいる　<%sCAS_gambler>さんが\nカジノレイドに　突入しました。\n<br>\nこの　カジノレイドに　参加しますか？\n<yesno_nc><close>": "<%sCAS_gambler> at the same table has\nstarted a Casino Raid.\n<br>\nJoin the Casino Raid?\n<yesno_nc><close>"
@@ -111,7 +111,7 @@
     "<speed=0>オープンしている　カードより\n強いカードを　右の４枚から　選んでください。": "<speed=0>Try to pick a higher card than the one on the\nleft from one of the face down cards."
   },
   "66756": {
-    "おめでとうございます！\n<%sCAS_pokerHand>です！<br>\nテンションアップ　ボーナスで\n<%dM_coin>(+<%dCAS_tup_coin>)枚のコインを　かくとくしました！": "Congratulations! You have\n<%sCAS_pokerHand>! You've just\nacquired <%dM_coin>(+<%dCAS_tup_c\n<br>\noin>) coins in the Tension Up\nbonus!"
+    "おめでとうございます！\n<%sCAS_pokerHand>です！<br>\nテンションアップ　ボーナスで\n<%dM_coin>(+<%dCAS_tup_coin>)枚のコインを　かくとくしました！": "Congratulations! \nYou got a <%sCAS_pokerHand>!<br>\nWith the tension bonus, you acquired\n<%dM_coin> (+<%dCAS_tup_coin>) tokens!"
   },
   "67524": {
     "<%dM_coin>枚の　コインを　かくとくしました！": "You have acquired <%dM_coin>\ncoins!"
