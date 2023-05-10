@@ -270,7 +270,7 @@
     "<%sB_ACTION>をした！": "Used <%sB_ACTION>!"
   },
   "1452": {
-    "話し合いをはじめた！": "Started talking!"
+    "話し合いをはじめた！": "Began negotiating!"
   },
   "1468": {
     "分身！": "Divide!"
@@ -1932,7 +1932,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>をした！": ""
   },
   "14651": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 話し合いをはじめた！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 話し合いをはじめた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e began to negotiate!"
   },
   "14684": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>をつくりだした！": ""
@@ -2349,7 +2349,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 時元の使徒を つくりだした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\ calls forth a Dimensional Apostle!"
   },
   "18934": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 話し合いをはじめた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 話し合いをはじめた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e began to negotiate!"
   },
   "18968": {
     "<%sB_ACTOR>は 何かに苦しんでいるようだ。": ""
@@ -2499,7 +2499,7 @@
     "逃げだせなかった・・・": "Couldn't run away..."
   },
   "20396": {
-    "話が盛り上がった！": ""
+    "話が盛り上がった！": "Negotiations became\nlively!"
   },
   "20410": {
     "ゴン様のサインよ！\n受け取りなさい！": "Miss Gon's signature!\nTake this!"
@@ -2652,7 +2652,7 @@
     "ガンガンいきます！\n近距離": ""
   },
   "21498": {
-    "話が盛り上がった！\n一気にテンション": ""
+    "話が盛り上がった！\n一気にテンション": "Negotiations got\nlively! Max tension!"
   },
   "21525": {
     "いろいろやります！\n遠距離": ""
@@ -3093,7 +3093,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだせなかった・・・": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e couldn't run away..."
   },
   "25723": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 話が盛り上がった！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 話が盛り上がった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's negotiations got lively!"
   },
   "25755": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 分身した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e split up!"
@@ -3468,7 +3468,7 @@
     "しかし　ひらめいたことを\n忘れてしまった！": "But you forgot what\nit was!"
   },
   "29726": {
-    "これ以上デスパワーを\n注げなかった！": ""
+    "これ以上デスパワーを\n注げなかった！": "Couldn't infuse with\nany more Death Power!"
   },
   "29753": {
     "秘めたちからが\n解放された！": "Hidden power was\nreleased!"
@@ -3510,10 +3510,10 @@
     "しかし だれも 生き返らなかった！": "But no one was revived!"
   },
   "30110": {
-    "<%sB_ACTOR>は <%dB_VALUE> 個の願いのかけらを かくとく！": ""
+    "<%sB_ACTOR>は <%dB_VALUE> 個の願いのかけらを かくとく！": "<%sB_ACTOR> received <%dB_VALUE> Wish Shards!"
   },
   "30146": {
-    "魔女の釜は <%sB_EXTRA>を 噴き出した！": ""
+    "魔女の釜は <%sB_EXTRA>を 噴き出した！": "<%sB_EXTRA> emerged from the cauldron!"
   },
   "30171": {
     "すでに アルカナ占いの効果が かかっていた！": "You already have an Arcana Divination effect!"
@@ -8211,7 +8211,7 @@
     "ムーンライトクロス": "Moonlight Cross"
   },
   "50482": {
-    "雪だるまになっちゃえ": ""
+    "雪だるまになっちゃえ": "Become a snowman!"
   },
   "50498": {
     "アイスショック": "Ice Shock"
@@ -9801,7 +9801,7 @@
     "はげしくとびかかる": ""
   },
   "55926": {
-    "雪だるまになれ": ""
+    "雪だるまになれ": "Become a snowman!"
   },
   "55937": {
     "メルトハリケーン": "Melt Hurricane"
@@ -16284,7 +16284,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 大ウケした！": ""
   },
   "97347": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こおりついた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こおりついた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e became frozen!"
   },
   "97377": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは とりはだが たってしまった！": ""
@@ -16611,7 +16611,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 興味をひかれたようだ。": ""
   },
   "101639": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 全属性の耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e had all of their attributes decreased!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 全属性の耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e had all of their attribute\nresistances decreased!"
   },
   "101677": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは よろこんでいる！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is feeling happy!"
@@ -17097,10 +17097,10 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ＭＰがへっていく 呪いにかかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's MP decreased from the curse!"
   },
   "108210": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 雪だるまにかえられた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 雪だるまにかえられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e became a snowman!"
   },
   "108246": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 雪だるまに 守られた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 雪だるまに 守られた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was protected by the snowman!"
   },
   "108281": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは きのこの成分で 興奮している！": ""
@@ -18132,7 +18132,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇のころもに 打ち消された！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's cloth of darkness was removed!"
   },
   "121859": {
-    "ふしぎなチカラで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": ""
+    "ふしぎなチカラで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": "A mysterious power prevented \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's death!"
   },
   "121909": {
     "　": ""
@@ -18789,7 +18789,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星が きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Ailment Curtailment faded."
   },
   "130579": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＭＰ消費0の効果が とけた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＭＰ消費0の効果が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's 0 MP cost effect faded!"
   },
   "130617": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 鉄壁の守りの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Ironclad Guard effect faded!"
@@ -19047,7 +19047,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの バニラを落とすまじない効果が きえた！": ""
   },
   "134028": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ゴールド消費0の効果が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's 0 Gold consumption effect faded!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ゴールド消費0の効果が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's 0 Gold cost effect faded!"
   },
   "134069": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ふっとびガードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Knockback Guard effect faded!"
@@ -22206,7 +22206,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 能力アップの効果時間延長！": ""
   },
   "157932": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＨＰアップの 効果時間延長！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＨＰアップの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Max HP boost effect was renewed!"
   },
   "157974": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 特技をふうじこめられた！": ""
