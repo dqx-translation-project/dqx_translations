@@ -30,10 +30,10 @@
     "「わた　わた。\n　おや？　キミは　誰だっけ？\n<br>\n「……ウソウソ。ちゃんと　覚えているよ。\n　キミの　ちからを試すのに\n　うってつけの相手が　用意できたんだ。\n<br>\n「彼らと戦って　キミの　ちからを\n　見せてほしいな。\n　どうだい？　挑戦してみる？\n<yesno><break>": "I... Hmm? Who are you again? I... Uh... Just\nremember... I've prepared the perfect\nopponents for you to test your strength\n<br>\nagainst. I want you to fight them and show\nthem what you're made of. What do you say?\nWould you like to try?<yesno><break>"
   },
   "127304": {
-    "「おや　どうやら登録されている\n　モンスターのレベルが　足りないみたいだね。\n　レベル<%nL_SANKA_LV>以上でないと　参加できないよ。\n<bw_break>": "Well, it looks like we don't have enough\nlevels for all the monsters registered. You\nneed to be at least level <%nL_SANKA_LV> to\n<br>\njoin...<bw_break>"
+    "「おや　どうやら登録されている\n　モンスターのレベルが　足りないみたいだね。\n　レベル<%nL_SANKA_LV>以上でないと　参加できないよ。\n<bw_break>": "Oh, looks like your registered monster's level\nisn't high enough to participate. It needs to be\nat least level <%dL_SANKA_LV>.\n<bw_break>"
   },
   "127305": {
-    "「おや　どうやら登録されている\n　モンスターの転生回数が　足りないみたいだね。\n　<%nL_SANKA_TENSEI>回以上　転生していないと　参加できないよ。\n<bw_break>": "Well, it looks like you don't have enough\nreincarnations of your monsters registered...\nYou have to have reincarnated at least\n<br>\n<%nL_SANKA_TENSEI> times before you can\njoin...<bw_break>"
+    "「おや　どうやら登録されている\n　モンスターの転生回数が　足りないみたいだね。\n　<%nL_SANKA_TENSEI>回以上　転生していないと　参加できないよ。\n<bw_break>": "Hmm, your registered monster doesn't have\nenough reincarnations to participate. It needs\nat least <%dL_SANKA_TENSEI> to be able to do so.\n<bw_break>"
   },
   "127464": {
     "「他に　何か用は　あるかな？\n<break>": "Anything else I can do for you?<break>"
@@ -111,7 +111,7 @@
     "<select_se_off>\n指定のパーティと\n同盟のなかまを自動で探す\n同盟を組まない\n<select_end><close>": "<select_se_off>\nFixed Party\nSearch for Allies\nDon't Search\n<select_end><close>"
   },
   "161215": {
-    "パーティ同盟に行きたい人を\n自動的に探して　この先へ入ります。\nよろしいですか？<yesno><close>": "I'll search for others to join you in a party\nalliance. That okay?<yesno><close>"
+    "パーティ同盟に行きたい人を\n自動的に探して　この先へ入ります。\nよろしいですか？<yesno><close>": "Automatically search for other players and\nform a party alliance?<yesno><close>"
   },
   "161216": {
     "パーティ同盟を組まずに この先に進むと\nとても厳しい戦いに なりますが\n本当に 進んでも よろしいですか？<yesno><close>": "If you don't search for an alliance, this\nfight will be pretty tough. Are you sure?<yesno><close>"
