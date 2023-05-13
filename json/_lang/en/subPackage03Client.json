@@ -2061,7 +2061,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 爆弾を噴出した！": ""
   },
   "16027": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 凍てつくような ほほえみを 浮かべている。": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 凍てつくような ほほえみを 浮かべている。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has a cold smile on their face."
   },
   "16075": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの チカラがみなぎっている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e is bursting with energy!"
@@ -6102,7 +6102,7 @@
     "超回復": "Big Heal"
   },
   "43502": {
-    "魔力回復": "Magic Heal"
+    "魔力回復": "Magical Recovery"
   },
   "43509": {
     "まかいじゅの葉": ""
@@ -6135,7 +6135,7 @@
     "ジャンプ斬り": "Jump Slash"
   },
   "43609": {
-    "とびかかり": ""
+    "とびかかり": "Nosedive"
   },
   "43617": {
     "笑いながら攻撃": "Laugh Attack"
@@ -6276,7 +6276,7 @@
     "ファイアスパーク": "Fire Spark"
   },
   "44054": {
-    "魔瘴弾": "Miashot"
+    "魔瘴弾": "Miasma Shot"
   },
   "44059": {
     "冥界の門": "Death's Gate"
@@ -6540,7 +6540,7 @@
     "サンドブレス": "Sandy Breath"
   },
   "44901": {
-    "煉獄火炎": "Hellpyre"
+    "煉獄火炎": "Purgatory Pyre"
   },
   "44908": {
     "あまいいき": "Sweet Breath"
@@ -6555,7 +6555,7 @@
     "もうどくのきり": "Venom Mist"
   },
   "44943": {
-    "連撃": "Volley"
+    "連撃": "King's Combo"
   },
   "44947": {
     "はらわたをえぐる": "Gouge Intestines"
@@ -6579,7 +6579,7 @@
     "コミックソング": "Silly Song"
   },
   "45023": {
-    "ナメまわし": ""
+    "ナメまわし": "Licked Clean"
   },
   "45031": {
     "メガザルダンス": "Kerplunk Dance"
@@ -6723,7 +6723,7 @@
     "超ちからため": "Super Strength"
   },
   "45494": {
-    "まくら投げ": ""
+    "まくら投げ": "Pillow Fight"
   },
   "45502": {
     "レッドチリウィップ": "Red Chili Whip"
@@ -6741,7 +6741,7 @@
     "針１４００本": "1400 Needles"
   },
   "45551": {
-    "夢想花": ""
+    "夢想花": "Fantasy Flower"
   },
   "45556": {
     "スクリーム": "Scream"
@@ -6756,13 +6756,13 @@
     "キノコ爆弾": "Mushroom Bomb"
   },
   "45586": {
-    "混乱攻撃": "Confuse Hit"
+    "混乱攻撃": "Confuse Attack"
   },
   "45593": {
     "メダパニエキス": "Fuddle Extract"
   },
   "45604": {
-    "あやしいほうし": ""
+    "あやしいほうし": "Suspicious Spores"
   },
   "45615": {
     "すみ攻撃": "Ink Attack"
@@ -6786,7 +6786,7 @@
     "バーティ爆弾": "Berti Bomb"
   },
   "45688": {
-    "毒攻撃": "Toxic"
+    "毒攻撃": "Poison Attack"
   },
   "45693": {
     "セクシービーム": "Sexy Beam"
@@ -6801,7 +6801,7 @@
     "もうどく攻撃": "Envenom Attack"
   },
   "45731": {
-    "爆走": "Noisy"
+    "爆走": "Recklessness"
   },
   "45735": {
     "テンション下げ攻撃": "Tension Down Attack"
@@ -6963,16 +6963,16 @@
     "ＢＢＱスティンガー": "BBQ Stinger"
   },
   "46317": {
-    "のろいの言霊": ""
+    "のろいの言霊": "Cursed Chant"
   },
   "46327": {
-    "アメをなめる": ""
+    "アメをなめる": "Lick Candy"
   },
   "46337": {
     "大地の鼓動": "Earth Pulse"
   },
   "46345": {
-    "ぶきみなコウモリ": ""
+    "ぶきみなコウモリ": "Spooky Bat"
   },
   "46358": {
     "死の突撃": "Death Charge"
@@ -6993,7 +6993,7 @@
     "ファラオの呪い": "Pharaoh's Curse"
   },
   "46412": {
-    "はげしいいななき": ""
+    "はげしいいななき": "Noisy Neigh"
   },
   "46425": {
     "勇者の眼": "Hero's Eyes"
@@ -7005,7 +7005,7 @@
     "咆哮": "Roar"
   },
   "46440": {
-    "勇者の盾": "Hero Shield"
+    "勇者の盾": "Hero's Shield"
   },
   "46447": {
     "勇者の心": "Hero's Heart"
@@ -7017,7 +7017,7 @@
     "特訓元気玉": "Stamp Orb"
   },
   "46473": {
-    "みかわし草": ""
+    "みかわし草": "Dodgy Grass"
   },
   "46481": {
     "魔力の葉っぱ": "Magical Leaf"
@@ -7101,31 +7101,31 @@
     "やるきのイチゴ": "Motivating Strawberry"
   },
   "46760": {
-    "痺れ糸": "Numb Yarn"
+    "痺れ糸": "Tingling Thread"
   },
   "46765": {
     "闇の炎": "Dark Fire"
   },
   "46770": {
-    "魔女の舞踏会": ""
+    "魔女の舞踏会": "Witch's Ball"
   },
   "46780": {
-    "パンパカパーン": ""
+    "パンパカパーン": "Bready or Not"
   },
   "46791": {
-    "フェザースコール": ""
+    "フェザースコール": "Feather Squall"
   },
   "46804": {
-    "ドーピングタイム": ""
+    "ドーピングタイム": "Doping Time"
   },
   "46817": {
-    "覇道の閃撃": ""
+    "覇道の閃撃": "Militant Flash"
   },
   "46825": {
-    "魔幻の剣召": ""
+    "魔幻の剣召": "Illusionary Blade"
   },
   "46833": {
-    "爆嵐剣": ""
+    "爆嵐剣": "Blasting Winds"
   },
   "46838": {
     "赤の辛域": ""
@@ -7203,7 +7203,7 @@
     "グラビティハンマー": "Gravity Hammer"
   },
   "47127": {
-    "祝福の光": "Bless Light"
+    "祝福の光": "Blessed Light"
   },
   "47134": {
     "クイーンオブハート": "Queen of Hearts"
@@ -7581,10 +7581,10 @@
     "大爆炎": ""
   },
   "48366": {
-    "風禍の陣召喚": ""
+    "風禍の陣召喚": "Summon Windstorm"
   },
   "48376": {
-    "旋風波": ""
+    "旋風波": "Whirlwind Wave"
   },
   "48381": {
     "雷禍の陣召喚": ""
@@ -8553,7 +8553,7 @@
     "マイクロブラスター": "Micro Blaster"
   },
   "51624": {
-    "凍てつくほほえみ": ""
+    "凍てつくほほえみ": "Cold Smile"
   },
   "51637": {
     "魔女の釜爆弾": "Cauldron Bomb"
@@ -9297,7 +9297,7 @@
     "地面揺らし": ""
   },
   "54181": {
-    "百戦錬磨斬り": "Hardened Slash"
+    "百戦錬磨斬り": "Battle-Hardened Slash"
   },
   "54191": {
     "さみだれ斬り": "Multislash"
@@ -10275,7 +10275,7 @@
     "来たれ　竜の眷属よ": "Come, servants of dragons!"
   },
   "57511": {
-    "食欲の秋": ""
+    "食欲の秋": "Age of Appetite"
   },
   "57518": {
     "赤いイチゴ爆弾5": "Red Strawberry Bomb 5"
@@ -10323,7 +10323,7 @@
     "虚空神の福音": "Void God's Gospel"
   },
   "57675": {
-    "竜巻": "Spout"
+    "竜巻": "Tornado"
   },
   "57679": {
     "応援ふぶき": ""
@@ -16296,7 +16296,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは つられて おどってしまった！": ""
   },
   "97493": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 苦しそうにしている！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 苦しそうにしている！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e seems to be in pain!"
   },
   "97527": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは おびえて 守備力が0になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's defense was reduced to 0 from fear!"
@@ -24795,7 +24795,7 @@
     "超高速連打": "Breakneck Blitz"
   },
   "178602": {
-    "四方閃": "Fourflash"
+    "四方閃": "Quadraflash"
   },
   "178607": {
     "天雷の怒り": "Heavenly Shock"
