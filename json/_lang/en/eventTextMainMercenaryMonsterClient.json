@@ -6,7 +6,7 @@
     "<pipipi_off>\n<%sM_otomo>を酒場に預け\n<%sM_monster>が　仲間に加わった！\n<me 61><end>": "<pipipi_off>\n<%sM_otomo> was deposited into the tavern,\nand <%sM_monster> joined your party!\n<me 61><end>"
   },
   "80356": {
-    "「では　<%sM_otomo>をお預かりして\n　<%sM_monster>を　呼んできますね。\n<bw_break>": "Now, let me take <%sM_otomo> and get\n<%sM_monster>...<bw_break>"
+    "「では　<%sM_otomo>をお預かりして\n　<%sM_monster>を　呼んできますね。\n<bw_break>": "Okay, then I will take <%sM_otomo>\nand get <%sM_monster> for you.\n<bw_break>"
   },
   "80357": {
     "<pipipi_off>\n<%sM_otomo>を酒場に預け\n<%sM_monster>が　仲間（待機中）に加わった！\n<me 61><end>": "<pipipi_off><%sM_otomo> was deposited in the tavern,\nand <%sM_monster> joined your party\non standby!<me 61><end>"
@@ -18,7 +18,7 @@
     "「今は　この子を連れていけないようです。\n　追加部屋の　利用券があれば\n　連れていけるように　なりますよ。\n<end>": "I can't take her with me right now... If you\nhave a ticket for an extra room, you can\nbring her...<end>"
   },
   "80360": {
-    "「連れていくのは　この子でいいですか？\n<se_nots System 0><break>": "Are you sure you want to take her?<se_nots System 0><break>"
+    "「連れていくのは　この子でいいですか？\n<se_nots System 0><break>": "This is the monster you'd like to take?<se_nots System 0><break>"
   },
   "80361": {
     "「今　連れている子は　入れ替えで\n　お預かりしますので\n　新しく連れていく子を　選んでください。\n<break>": "We'll be replacing your current child, so\nplease choose a new one to take with you...<break>"
@@ -750,7 +750,7 @@
     "「仲間モンスターは　レベル<%nM_maxlv>に達すると\n　『レベル転生』できるようになります。\n<br>\n「レベル転生することで　レベルは１に戻りますが\n　基礎能力が上がったり　スキルが増えたり\n　より強く　成長させられるようになります。\n<br>\n「また　レベル転生した仲間モンスターは\n　武器や防具を　装備レベルに関係なく\n　扱うことが　できるようになりますよ。\n<end>": "When a fellow monster reaches level\n<%nM_maxlv>, it can be \"level\nreincarnated\"... By Level Reincarnation, your\n<br>\nmonster's level will return to 1, but its\nbasic abilities will increase, and its skills\nwill grow stronger... You'll also be able to\n<br>\nuse weapons and armor regardless of your\nequipment level...<end>"
   },
   "97798": {
-    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And in honor of <%sM_otomo>'s reincarnation,\nwe'd like to invite your fellow monsters to a\nmonster farm party and send a thank-you gift\n<br>\nto the person who took care of you... I'd\nlike to send you a thank-you gift... However,\nI can only send gifts to those who've been\n<br>\nrecorded as invitations at the time of their\nreincarnation... Now, let's take a look at\nthe people who took care of me...<end>"
+    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And to honor <%sM_otomo>'s reincarnation,\nwe'd like to thank those who invited them\nto a party in the Monster Farm...\n<br>\nWe would like to send them a thank you gift.\nHowever, we will only send one to those who\nare still on the invitation list.\n<br>\nLet's have a look at who invited them to\na party, shall we?<end>"
   },
   "97799": {
     "「お品は　この人たちの\n　『冒険者のおでかけ超便利ツール』の\n　『モンスター牧場』に　こちらから送ります。\n<bw_break>": "The special gift will be sent to their Monster\nFarm on the smartphone app.\n<bw_break>"
@@ -1305,7 +1305,7 @@
     "「……あら？　今のボクには\n　これ以上　その子をレベル転生させることが\n　できないみたいです。ごめんなさい……。\n<end>": "... Oh? I don't think I can reincarnate her\nany more than I already have. I'm sorry...<end>"
   },
   "111589": {
-    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And in honor of <%sM_otomo>'s reincarnation,\nwe'd like to invite your fellow monsters to a\nmonster farm party and send a thank-you gift\n<br>\nto the person who took care of you... I'd\nlike to send you a thank-you gift... However,\nI can only send gifts to those who've been\n<br>\nrecorded as invitations at the time of their\nreincarnation... Now, let's take a look at\nthe people who took care of me...<end>"
+    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And to honor <%sM_otomo>'s reincarnation,\nwe'd like to thank those who invited them\nto a party in the Monster Farm...\n<br>\nWe would like to send them a thank you gift.\nHowever, we will only send one to those who\nare still on the invitation list.\n<br>\nLet's have a look at who invited them to\na party, shall we?<end>"
   },
   "111590": {
     "「レベル転生とは　その道を極め　レベル<%nM_maxlv>に\n　到達したモンスターが　さらなる高みを目指して\n　初心に返ることです。\n<br>\n「レベル転生をすると　レベルは１に戻り\n　スキルはリセットされますが　基礎能力と\n　スキルポイントに　ボーナスがつきます。\n<br>\n「また　レベル転生した仲間モンスターは\n　なんと　武器や防具を　装備レベルに関係なく\n　扱うことが　できるようになるんです！\n<br>\n「さらに！　レベル転生をくり返すことで\n　新しいスキルを　最大ふたつ追加できるので\n　より特徴のある子に　育てることができます。\n<br>\n「レベル転生させるほどに　情熱を注いだ子なら\n　きっと　期待に応えてくれると思いますよ。\n<end>": "Level Reincarnation is the process by which a\nmonster who has mastered their craft and\nreached level <%nM_maxlv> returns to their\n<br>\nroots in order to achieve even greater\nheights. When you reincarnate, your level\nwill return to 1 and your skills will be\n<br>\nreset, but you will gain bonuses to your base\nability and skill points... Also, once you've\nreincarnated, you'll be able to use weapons\n<br>\nand armor regardless of your equipment level!\nAnd more! You can add up to two new skills by\nlevel reincarnation, so you can make your\n<br>\nmonsters even more unique... If you're\npassionate about your child, I'm sure they'll\nlive up to your expectations...<end>"
@@ -1761,7 +1761,7 @@
     "「……あら？　今の私には\n　これ以上　その子をレベル転生させることが\n　できないみたいです。ごめんなさい……。\n<end>": "... What? I'm afraid I can't reincarnate him\nany more... I'm sorry...<end>"
   },
   "111758": {
-    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And in honor of <%sM_otomo>'s reincarnation,\nwe'd like to invite your fellow monsters to a\nmonster farm party and send a thank-you gift\n<br>\nto the person who took care of you... I'd\nlike to send you a thank-you gift... However,\nI can only send gifts to those who've been\n<br>\nrecorded as invitations at the time of their\nreincarnation... Now, let's take a look at\nthe people who took care of me...<end>"
+    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And to honor <%sM_otomo>'s reincarnation,\nwe'd like to thank those who invited them\nto a party in the Monster Farm...\n<br>\nWe would like to send them a thank you gift.\nHowever, we will only send one to those who\nare still on the invitation list.\n<br>\nLet's have a look at who invited them to\na party, shall we?<end>"
   },
   "111759": {
     "「レベル転生とは　その道を極め　レベル<%nM_maxlv>に\n　到達したモンスターが　さらなる高みを目指して\n　初心に返ることです。\n<br>\n「レベル転生をすると　レベルは１に戻り\n　スキルはリセットされますが　基礎能力と\n　スキルポイントに　ボーナスがつきます。\n<br>\n「また　レベル転生した仲間モンスターは\n　なんと　武器や防具を　装備レベルに関係なく\n　扱うことが　できるようになるんです！\n<br>\n「さらに！　レベル転生をくり返すことで\n　新しいスキルを　最大ふたつ追加できるので\n　より特徴のある子に　育てることができます。\n<br>\n「レベル転生させるほどに　情熱を注いだ子なら\n　きっと　期待に応えてくれると思いますよ。\n<end>": "Level Reincarnation is the process by which a\nmonster who has mastered their craft and\nreached level <%nM_maxlv> returns to their\n<br>\nroots in order to achieve even greater\nheights. When you reincarnate, your level\nwill return to 1 and your skills will be\n<br>\nreset, but you will gain bonuses to your base\nability and skill points... Also, once you've\nreincarnated, you'll be able to use weapons\n<br>\nand armor regardless of your equipment level!\nAnd more! You can add up to two new skills by\nlevel reincarnation, so you can make your\n<br>\nmonsters even more unique... If you're\npassionate about your child, I'm sure they'll\nlive up to your expectations...<end>"
@@ -2217,7 +2217,7 @@
     "「……あら？　今のボクには\n　これ以上　その子をレベル転生させることが\n　できないみたいです。ごめんなさい……。\n<end>": "... Oh? I don't think I can reincarnate her\nany more than I already have. I'm sorry...<end>"
   },
   "111927": {
-    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And in honor of <%sM_otomo>'s reincarnation,\nwe'd like to invite your fellow monsters to a\nmonster farm party and send a thank-you gift\n<br>\nto the person who took care of you... I'd\nlike to send you a thank-you gift... However,\nI can only send gifts to those who've been\n<br>\nrecorded as invitations at the time of their\nreincarnation... Now, let's take a look at\nthe people who took care of me...<end>"
+    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And to honor <%sM_otomo>'s reincarnation,\nwe'd like to thank those who invited them\nto a party in the Monster Farm...\n<br>\nWe would like to send them a thank you gift.\nHowever, we will only send one to those who\nare still on the invitation list.\n<br>\nLet's have a look at who invited them to\na party, shall we?<end>"
   },
   "111928": {
     "「レベル転生とは　その道を極め　レベル<%nM_maxlv>に\n　到達したモンスターが　さらなる高みを目指して\n　初心に返ることです。\n<br>\n「レベル転生をすると　レベルは１に戻り\n　スキルはリセットされますが　基礎能力と\n　スキルポイントに　ボーナスがつきます。\n<br>\n「また　レベル転生した仲間モンスターは\n　なんと　武器や防具を　装備レベルに関係なく\n　扱うことが　できるようになるんです！\n<br>\n「さらに！　レベル転生をくり返すことで\n　新しいスキルを　最大ふたつ追加できるので\n　より特徴のある子に　育てることができます。\n<br>\n「レベル転生させるほどに　情熱を注いだ子なら\n　きっと　期待に応えてくれると思いますよ。\n<end>": "Level Reincarnation is the process by which a\nmonster who has mastered their craft and\nreached level <%nM_maxlv> returns to their\n<br>\nroots in order to achieve even greater\nheights. When you reincarnate, your level\nwill return to 1 and your skills will be\n<br>\nreset, but you will gain bonuses to your base\nability and skill points... Also, once you've\nreincarnated, you'll be able to use weapons\n<br>\nand armor regardless of your equipment level!\nAnd more! You can add up to two new skills by\nlevel reincarnation, so you can make your\n<br>\nmonsters even more unique... If you're\npassionate about your child, I'm sure they'll\nlive up to your expectations...<end>"
@@ -2673,7 +2673,7 @@
     "「……あら？　今のボクには\n　これ以上　その子をレベル転生させることが\n　できないみたいです。ごめんなさい……。\n<end>": "... Oh? I don't think I can reincarnate her\nany more than I already have. I'm sorry...<end>"
   },
   "112096": {
-    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And in honor of <%sM_otomo>'s reincarnation,\nwe'd like to invite your fellow monsters to a\nmonster farm party and send a thank-you gift\n<br>\nto the person who took care of you... I'd\nlike to send you a thank-you gift... However,\nI can only send gifts to those who've been\n<br>\nrecorded as invitations at the time of their\nreincarnation... Now, let's take a look at\nthe people who took care of me...<end>"
+    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And to honor <%sM_otomo>'s reincarnation,\nwe'd like to thank those who invited them\nto a party in the Monster Farm...\n<br>\nWe would like to send them a thank you gift.\nHowever, we will only send one to those who\nare still on the invitation list.\n<br>\nLet's have a look at who invited them to\na party, shall we?<end>"
   },
   "112097": {
     "「レベル転生とは　その道を極め　レベル<%nM_maxlv>に\n　到達したモンスターが　さらなる高みを目指して\n　初心に返ることです。\n<br>\n「レベル転生をすると　レベルは１に戻り\n　スキルはリセットされますが　基礎能力と\n　スキルポイントに　ボーナスがつきます。\n<br>\n「また　レベル転生した仲間モンスターは\n　なんと　武器や防具を　装備レベルに関係なく\n　扱うことが　できるようになるんです！\n<br>\n「さらに！　レベル転生をくり返すことで\n　新しいスキルを　最大ふたつ追加できるので\n　より特徴のある子に　育てることができます。\n<br>\n「レベル転生させるほどに　情熱を注いだ子なら\n　きっと　期待に応えてくれると思いますよ。\n<end>": "Level Reincarnation is the process by which a\nmonster who has mastered their craft and\nreached level <%nM_maxlv> returns to their\n<br>\nroots in order to achieve even greater\nheights. When you reincarnate, your level\nwill return to 1 and your skills will be\n<br>\nreset, but you will gain bonuses to your base\nability and skill points... Also, once you've\nreincarnated, you'll be able to use weapons\n<br>\nand armor regardless of your equipment level!\nAnd more! You can add up to two new skills by\nlevel reincarnation, so you can make your\n<br>\nmonsters even more unique... If you're\npassionate about your child, I'm sure they'll\nlive up to your expectations...<end>"
@@ -3129,7 +3129,7 @@
     "「……あら？　今のボクには\n　これ以上　その子をレベル転生させることが\n　できないみたいです。ごめんなさい……。\n<end>": "... Oh? I don't think I can reincarnate her\nany more than I already have. I'm sorry...<end>"
   },
   "112265": {
-    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And in honor of <%sM_otomo>'s reincarnation,\nwe'd like to invite your fellow monsters to a\nmonster farm party and send a thank-you gift\n<br>\nto the person who took care of you... I'd\nlike to send you a thank-you gift... However,\nI can only send gifts to those who've been\n<br>\nrecorded as invitations at the time of their\nreincarnation... Now, let's take a look at\nthe people who took care of me...<end>"
+    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And to honor <%sM_otomo>'s reincarnation,\nwe'd like to thank those who invited them\nto a party in the Monster Farm...\n<br>\nWe would like to send them a thank you gift.\nHowever, we will only send one to those who\nare still on the invitation list.\n<br>\nLet's have a look at who invited them to\na party, shall we?<end>"
   },
   "112266": {
     "「レベル転生とは　その道を極め　レベル<%nM_maxlv>に\n　到達したモンスターが　さらなる高みを目指して\n　初心に返ることです。\n<br>\n「レベル転生をすると　レベルは１に戻り\n　スキルはリセットされますが　基礎能力と\n　スキルポイントに　ボーナスがつきます。\n<br>\n「また　レベル転生した仲間モンスターは\n　なんと　武器や防具を　装備レベルに関係なく\n　扱うことが　できるようになるんです！\n<br>\n「さらに！　レベル転生をくり返すことで\n　新しいスキルを　最大ふたつ追加できるので\n　より特徴のある子に　育てることができます。\n<br>\n「レベル転生させるほどに　情熱を注いだ子なら\n　きっと　期待に応えてくれると思いますよ。\n<end>": "Level Reincarnation is the process by which a\nmonster who has mastered their craft and\nreached level <%nM_maxlv> returns to their\n<br>\nroots in order to achieve even greater\nheights. When you reincarnate, your level\nwill return to 1 and your skills will be\n<br>\nreset, but you will gain bonuses to your base\nability and skill points... Also, once you've\nreincarnated, you'll be able to use weapons\n<br>\nand armor regardless of your equipment level!\nAnd more! You can add up to two new skills by\nlevel reincarnation, so you can make your\n<br>\nmonsters even more unique... If you're\npassionate about your child, I'm sure they'll\nlive up to your expectations...<end>"
@@ -3585,7 +3585,7 @@
     "「……あら？　今のボクには\n　これ以上　その子をレベル転生させることが\n　できないみたいです。ごめんなさい……。\n<end>": "... Oh? I don't think I can reincarnate her\nany more than I already have. I'm sorry...<end>"
   },
   "112434": {
-    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And in honor of <%sM_otomo>'s reincarnation,\nwe'd like to invite your fellow monsters to a\nmonster farm party and send a thank-you gift\n<br>\nto the person who took care of you... I'd\nlike to send you a thank-you gift... However,\nI can only send gifts to those who've been\n<br>\nrecorded as invitations at the time of their\nreincarnation... Now, let's take a look at\nthe people who took care of me...<end>"
+    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And to honor <%sM_otomo>'s reincarnation,\nwe'd like to thank those who invited them\nto a party in the Monster Farm...\n<br>\nWe would like to send them a thank you gift.\nHowever, we will only send one to those who\nare still on the invitation list.\n<br>\nLet's have a look at who invited them to\na party, shall we?<end>"
   },
   "112435": {
     "「レベル転生とは　その道を極め　レベル<%nM_maxlv>に\n　到達したモンスターが　さらなる高みを目指して\n　初心に返ることです。\n<br>\n「レベル転生をすると　レベルは１に戻り\n　スキルはリセットされますが　基礎能力と\n　スキルポイントに　ボーナスがつきます。\n<br>\n「また　レベル転生した仲間モンスターは\n　なんと　武器や防具を　装備レベルに関係なく\n　扱うことが　できるようになるんです！\n<br>\n「さらに！　レベル転生をくり返すことで\n　新しいスキルを　最大ふたつ追加できるので\n　より特徴のある子に　育てることができます。\n<br>\n「レベル転生させるほどに　情熱を注いだ子なら\n　きっと　期待に応えてくれると思いますよ。\n<end>": "Level Reincarnation is the process by which a\nmonster who has mastered their craft and\nreached level <%nM_maxlv> returns to their\n<br>\nroots in order to achieve even greater\nheights. When you reincarnate, your level\nwill return to 1 and your skills will be\n<br>\nreset, but you will gain bonuses to your base\nability and skill points... Also, once you've\nreincarnated, you'll be able to use weapons\n<br>\nand armor regardless of your equipment level!\nAnd more! You can add up to two new skills by\nlevel reincarnation, so you can make your\n<br>\nmonsters even more unique... If you're\npassionate about your child, I'm sure they'll\nlive up to your expectations...<end>"
@@ -4149,7 +4149,7 @@
     "「……あら？　今のボクには\n　これ以上　その子をレベル転生させることが\n　できないみたいです。ごめんなさい……。\n<end>": "... Oh? I don't think I can reincarnate her\nany more than I already have. I'm sorry...<end>"
   },
   "112986": {
-    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And in honor of <%sM_otomo>'s reincarnation,\nwe'd like to invite your fellow monsters to a\nmonster farm party and send a thank-you gift\n<br>\nto the person who took care of you... I'd\nlike to send you a thank-you gift... However,\nI can only send gifts to those who've been\n<br>\nrecorded as invitations at the time of their\nreincarnation... Now, let's take a look at\nthe people who took care of me...<end>"
+    "「それと　<%sM_otomo>の　転生を祝して\n　お客様の仲間モンスターを　モンスター牧場の\n　パーティーに招待し　お世話してくれた人へ……\n<br>\n「お礼のお品を　お送りしたいと思います。\n　ただし　お送りできるのは　転生した時点で\n　招待の記録に残っている人だけです。\n<br>\n「それでは　お世話してくれた人を\n　見てみましょう。\n<end>": "And to honor <%sM_otomo>'s reincarnation,\nwe'd like to thank those who invited them\nto a party in the Monster Farm...\n<br>\nWe would like to send them a thank you gift.\nHowever, we will only send one to those who\nare still on the invitation list.\n<br>\nLet's have a look at who invited them to\na party, shall we?<end>"
   },
   "112987": {
     "「レベル転生とは　その道を極め　レベル<%nM_maxlv>に\n　到達したモンスターが　さらなる高みを目指して\n　初心に返ることです。\n<br>\n「レベル転生をすると　レベルは１に戻り\n　スキルはリセットされますが　基礎能力と\n　スキルポイントに　ボーナスがつきます。\n<br>\n「また　レベル転生した仲間モンスターは\n　なんと　武器や防具を　装備レベルに関係なく\n　扱うことが　できるようになるんです！\n<br>\n「さらに！　レベル転生をくり返すことで\n　新しいスキルを　最大ふたつ追加できるので\n　より特徴のある子に　育てることができます。\n<br>\n「レベル転生させるほどに　情熱を注いだ子なら\n　きっと　期待に応えてくれると思いますよ。\n<end>": "Level Reincarnation is the process by which a\nmonster who has mastered their craft and\nreached level <%nM_maxlv> returns to their\n<br>\nroots in order to achieve even greater\nheights. When you reincarnate, your level\nwill return to 1 and your skills will be\n<br>\nreset, but you will gain bonuses to your base\nability and skill points... Also, once you've\nreincarnated, you'll be able to use weapons\n<br>\nand armor regardless of your equipment level!\nAnd more! You can add up to two new skills by\nlevel reincarnation, so you can make your\n<br>\nmonsters even more unique... If you're\npassionate about your child, I'm sure they'll\nlive up to your expectations...<end>"
@@ -5049,7 +5049,7 @@
     "「今は　この子を連れていけないようです。\n　追加部屋の　利用券があれば\n　連れていけるように　なりますよ。\n<end>": "I can't take her with me right now... If you\nhave a ticket for an extra room, you can\nbring her...<end>"
   },
   "137640": {
-    "「連れていくのは　この子でいいですか？\n<se_nots System 0><break>": "Are you sure you want to take her?<se_nots System 0><break>"
+    "「連れていくのは　この子でいいですか？\n<se_nots System 0><break>": "This is the monster you'd like to take?<se_nots System 0><break>"
   },
   "137641": {
     "「今　連れている子は　入れ替えで\n　お預かりしますので\n　新しく連れていく子を　選んでください。\n<break>": "We'll be replacing your current child, so\nplease choose a new one to take with you...<break>"
@@ -6723,7 +6723,7 @@
     "「今　連れている子は　入れ替えで\n　お預かりしますので\n　新しく連れていく子を　選んでください。\n<break>": "We'll be replacing your current child, so\nplease choose a new one to take with you...<break>"
   },
   "287903": {
-    "「連れていくのは　この子でいいですか？\n<se_nots System 0><break>": "Are you sure you want to take her?<se_nots System 0><break>"
+    "「連れていくのは　この子でいいですか？\n<se_nots System 0><break>": "This is the monster you'd like to take?<se_nots System 0><break>"
   },
   "287904": {
     "「今は　この子を連れていけないようです。\n　追加部屋の　利用券があれば\n　連れていけるように　なりますよ。\n<end>": "I can't take her with me right now... If you\nhave a ticket for an extra room, you can\nbring her...<end>"
