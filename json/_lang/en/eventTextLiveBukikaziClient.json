@@ -12,10 +12,10 @@
     "そのカテゴリのレシピは\nまだ　覚えていません。<end>": "You don't know any recipes of this category\nyet.<end>"
   },
   "14267": {
-    "鍛冶設備がある。\n武器鍛冶　防具鍛冶　道具鍛冶　いずれかの\n職人であれば　ここで　アイテムが作れそうだ。": "It's blacksmithing equipment. If you're a\nweaponsmith, armorsmith, or toolsmith, you\ncan make items here."
+    "鍛冶設備がある。\n武器鍛冶　防具鍛冶　道具鍛冶　いずれかの\n職人であれば　ここで　アイテムが作れそうだ。": "It's a smithing facility.\nIf you're a weaponsmith, armorsmith, or\ntoolsmith, you can craft items here."
   },
   "14269": {
-    "鍛冶設備がある。\n鍛冶ハンマーがあれば\nここで　<%sL_CATEGORY_NAME>鍛冶が　できそうだ。": "It's blacksmithing equipment. If you have a\nsmithing hammer, you can do\n<%sL_CATEGORY_NAME> smithing here."
+    "鍛冶設備がある。\n鍛冶ハンマーがあれば\nここで　<%sL_CATEGORY_NAME>鍛冶が　できそうだ。": "It's a smithing facility.\nIf you have a smithing hammer, you can craft\n<%sL_CATEGORY_NAME> here."
   },
   "14270": {
     "<%sL_RECIPE>の素材を　失った……。<bw_break>": "The crafting materials were lost...<bw_break>"
@@ -48,7 +48,7 @@
     "<%sL_RECIPE>を作るには\n素材が　足りません。<end>": "You don't have enough materials to craft\nthe <%sL_RECIPE>.<end>"
   },
   "24548": {
-    "鍛冶設備がある。\n<%sL_CATEGORY_NAME>のレシピを　覚えれば\nここで　<%sL_CATEGORY_NAME>鍛冶が　できそうだ。": "Blacksmithing equipment... If you learn the\nrecipe for <%sL_CATEGORY_NAME>, you can forge\n<%sL_CATEGORY_NAME> here..."
+    "鍛冶設備がある。\n<%sL_CATEGORY_NAME>のレシピを　覚えれば\nここで　<%sL_CATEGORY_NAME>鍛冶が　できそうだ。": "It's a smithing facility.\nIf you know a <%sL_CATEGORY_NAME> recipe, you can\ncraft it here."
   },
   "24606": {
     "<%sL_RECIPE>を　作るには\n<pc>の　<%sL_CATEGORY_NAME>鍛冶職人レベルが\n<%nL_HITUYOU_LV>以上　必要です。<end>": "To craft the <%sL_RECIPE>, your\n<%sL_CATEGORY_NAME> smithing level must be at\nleast level <%dL_HITUYOU_LV>.<end>"
@@ -177,7 +177,7 @@
     "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<%sL_MENU_NO_5>\n<%sL_MENU_NO_6>\n<select_end><break>": "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<%sL_MENU_NO_5>\n<%sL_MENU_NO_6>\n<select_end><break>"
   },
   "79245": {
-    "鍛冶設備がある。\nここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。\n<break>": "It's a Blacksmithing facility.\n<break>"
+    "鍛冶設備がある。\nここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。\n<break>": "It's a smithing facility.\n<break>"
   },
   "79246": {
     "<%sL_CATEGORY_NAME>鍛冶を　続けますか？\n<break>": "Continue <%sL_CATEGORY_NAME> smithing?\n<break>"
@@ -222,7 +222,7 @@
     "今週の職人回数が　上限に達したので\nこれ以上　<%sL_CATEGORY_NAME>鍛冶はできません。\n<br>\n日曜日の　朝６時以降になると\nふたたび　<%sL_CATEGORY_NAME>鍛冶が　できるようになります。\n<end>": "I've reached my limit for this week, so I\ncan't <%sL_CATEGORY_NAME>forge any more... On\nSunday mornings, after 6am, I can\n<br>\n<%sL_CATEGORY_NAME>forge again...<end>"
   },
   "178593": {
-    "鍛冶設備がある。\nここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。\n（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）\n<break>": "It's a Blacksmithing facility.\n(You can <%sL_CATEGORY_NAME> <%dL_PLAYABLE> more time(s) this week.)<break>"
+    "鍛冶設備がある。\nここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。\n（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）\n<break>": "It's a smithing facility.\n(You can <%sL_CATEGORY_NAME> <%dL_PLAYABLE> more time(s) this week.)<break>"
   },
   "178594": {
     "<%sL_CATEGORY_NAME>鍛冶を　続けますか？\n（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）\n<break>": "Would you like to continue\n<%sL_CATEGORY_NAME>forging? （I have\n<%nL_PLAYABLE>more <%sL_CATEGORY_NAME>forges\n<br>\nto do this week...)<break>"
