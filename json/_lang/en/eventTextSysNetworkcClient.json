@@ -33,7 +33,7 @@
     "エラーコード：<%sERRID>\n　\nインターネットに接続できません。\n　\nニンテンドーＷi-Ｆi　ＵＳＢコネクタが\n正しく使用できる状態か　ご確認ください。": ""
   },
   "15348": {
-    "エラーコード：<%sERRID>\n　\nインターネットに接続できません。\n　\nＷiiの電源をオフにして　ＬＡＮアダプタや\nＬＡＮケーブルが　正しく接続されているか\nご確認ください。": ""
+    "エラーコード：<%sERRID>\n　\nインターネットに接続できません。\n　\nＷiiの電源をオフにして　ＬＡＮアダプタや\nＬＡＮケーブルが　正しく接続されているか\nご確認ください。": "wii error, ignore"
   },
   "15349": {
     "エラーコード：<%sERRID>\n　\nインターネットに接続できません。\n　\n無線のアクセスポイントに\n正しく接続できる状態か　ご確認ください。": ""
@@ -51,13 +51,13 @@
     "エラーコード：<%sERRID>\n　\nインターネットから切断されました。\nニンテンドーＷi-Ｆi　ＵＳＢコネクタが\n正しく使用できる状態であるか\nご確認ください。": ""
   },
   "15354": {
-    "エラーコード：<%sERRID>\n　\nインターネットから切断されました。\n　\nＷiiの電源をオフにして　ＬＡＮアダプタや\nＬＡＮケーブルが　正しく接続されているか\nご確認ください。": ""
+    "エラーコード：<%sERRID>\n　\nインターネットから切断されました。\n　\nＷiiの電源をオフにして　ＬＡＮアダプタや\nＬＡＮケーブルが　正しく接続されているか\nご確認ください。": "wii error, ignore"
   },
   "15355": {
     "エラーコード：<%sERRID>\n　\nインターネットから切断されました。\n無線のアクセスポイントに\n正しく接続できる状態であるか\nご確認ください。": ""
   },
   "15356": {
-    "エラーコード：<%sERRID>\n　\nサーバーからの応答がありません。\nインターネット接続を　ご確認ください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": ""
+    "エラーコード：<%sERRID>\n　\nサーバーからの応答がありません。\nインターネット接続を　ご確認ください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": "Error Code: <%sERRID>\n\nThere was no response from the server.\nPlease check your internet connection.\n\nIf the problem persists, please check the\nDragon Quest X Support Center Page.\n\nhttps://sqex.to/eh6"
   },
   "22638": {
     "長時間　コントローラからの入力が\nなかったため　ログアウトします。": ""
@@ -75,10 +75,10 @@
     "エラーコード：<%sERRID>\nサーバーからの応答がなかったため\nタイムアウトしました。\nご使用の接続環境や　プロバイダーの状況を\nご確認の上　少し時間を置いてから\nもう一度　お試しください。\n時間がたっても　問題が解決しない場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": "Error Code: <%sERRID>\nYour connection timed out because there\nwas no response from the server. Please check\nyour connection and provider status and\nthen try again later. If the problem\npersists, please visit the Dragon Quest X\nsupport site page.\nhttps://sqex.to/eh6"
   },
   "41351": {
-    "エラーコード：<%sERRID>\n　\nサーバーへの接続が　できませんでした。\nＷii本体設定の「インターネット設定」を\nご確認の上　もう一度　お試しください。": ""
+    "エラーコード：<%sERRID>\n　\nサーバーへの接続が　できませんでした。\nＷii本体設定の「インターネット設定」を\nご確認の上　もう一度　お試しください。": "wii error, ignore"
   },
   "41352": {
-    "エラーコード：<%sERRID>\nサーバーへの接続が　できませんでした。\nＷii本体設定の「インターネット設定」をご確認の上\n少し時間を置いてから　もう一度　お試しください。\nまた『スクウェア・エニックスからのお知らせ』の\n障害情報も　ご確認ください。\n時間がたっても　問題が解決しない場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": ""
+    "エラーコード：<%sERRID>\nサーバーへの接続が　できませんでした。\nＷii本体設定の「インターネット設定」をご確認の上\n少し時間を置いてから　もう一度　お試しください。\nまた『スクウェア・エニックスからのお知らせ』の\n障害情報も　ご確認ください。\n時間がたっても　問題が解決しない場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": "wii error, ignore"
   },
   "41423": {
     "エラーコード：<%sERRID>\n　\nサービスの利用を制限されているため\nログインできません。\n正しい環境から　ご利用ください。": ""
@@ -93,7 +93,7 @@
     "エラーコード：<%sERRID>\n　\n現在　キャラを作ることができません。\n　\n『スクウェア・エニックスからのお知らせ』を\nご確認ください。\n　\n＜ボタンを押すと　戻ります＞": ""
   },
   "44544": {
-    "エラーコード：<%sERRID>\n　\n現在　サーバー選択は行えません。\n　\n『スクウェア・エニックスからのお知らせ』を\nご確認ください。\n　\n＜ボタンを押すと　戻ります＞": ""
+    "エラーコード：<%sERRID>\n　\n現在　サーバー選択は行えません。\n　\n『スクウェア・エニックスからのお知らせ』を\nご確認ください。\n　\n＜ボタンを押すと　戻ります＞": "Error Code:\n\nServer selection is currently unavailable.\n\nPlease check the \"Square Enix Notices\".\n\n(Press any button to continue.)"
   },
   "44845": {
     "エラーコード：<%sERRID>\n　\nご使用のアカウントが\nサービス提供停止となったため　ログアウトしました。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": ""
@@ -171,10 +171,10 @@
     "エラーコード：<%sERRID>\n　\nシステムエラーが発生しました。\n　\nお手数ですが　下記のエラーコードや\nアカウントの情報を　ご確認の上\n「ドラゴンクエストⅩ」サポートセンターの\nページから　お問い合わせください。\nhttps://sqex.to/eh6": ""
   },
   "66751": {
-    "エラーコード：<%sERRID>\n　\nシステムエラーが発生しました。\n「始めたばかりの人専用」のサーバーに　入れません。\n別のサーバーを　選んでください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": ""
+    "エラーコード：<%sERRID>\n　\nシステムエラーが発生しました。\n「始めたばかりの人専用」のサーバーに　入れません。\n別のサーバーを　選んでください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": "Error Code: <%sERRID>\n\nA system error has occurred. You cannot\nchoose a server designated as \"Newcomers\nOnly\". Please choose a different server.\n\nIf you have any questions, please check\nDragon Quest X Support Center Page.\nhttps://sqex.to/eh6"
   },
   "66752": {
-    "エラーコード：<%sERRID>\nお客様の　冒険の書には\n作成から90日以上経過した　キャラクターがいるため\n「始めたばかりの人専用」のサーバーに　入れません。\n別のサーバーを　選んでください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": ""
+    "エラーコード：<%sERRID>\nお客様の　冒険の書には\n作成から90日以上経過した　キャラクターがいるため\n「始めたばかりの人専用」のサーバーに　入れません。\n別のサーバーを　選んでください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": "Error Code: <%sERRID>\nYour Adventure Logs contain a character that\nis older than 90 days, so you cannot choose a\n\"Newcomers Only\" server. Please choose\nanother server.\n\nFor questions, please visit the Dragon\nQuest X Support Page.\nhttps://sqex.to/eh6"
   },
   "67476": {
     "エラーコード：<%sERRID>\n　\nシステムエラーが発生しました。\n「キャラクター引っ越しサービス」の手続きを\n完了させてから　もう一度　お試しください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": ""
@@ -183,7 +183,7 @@
     "エラーコード：<%sERRID>\nシステムエラーが発生しました。\n「パスワードを忘れた時は」の手続きを\n完了させてください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6\n＜ボタンを押すと　ゲームを終了します＞": ""
   },
   "70004": {
-    "元のサーバーに　戻れませんでした。\n復帰可能な　別のサーバーに移動します。": ""
+    "元のサーバーに　戻れませんでした。\n復帰可能な　別のサーバーに移動します。": "Could not return to the original server.\nMoving to a different server instead."
   },
   "70845": {
     "エラーコード：<%sERRID>\n連続して　この操作を行うことは　できません。\n　\n少し時間を置いてから　もう一度　お試しください。\n　\n　\n　\n　\n　\n＜ボタンを押すと　タイトルに戻ります＞": ""
@@ -213,7 +213,7 @@
     "エラーコード：<%sERRID>\nご使用のアカウントには\n追加パッケージ「眠れる勇者と導きの盟友」の\nレジストレーションコードが 登録されていません。\nこのマップに移動するには 登録してから\nもう一度　お試しください。\n問題が解決しない場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": "Error Code: <%sERRID>\nYour account has no registration code\nregistered for \"Sleeping Hero & Guiding Ally\".\nTo enter this map, register that version and\ntry again."
   },
   "99601": {
-    "エラーコード：<%sERRID>\nお客様の　アカウントは\n前回ログアウトしてから60日未満のため\n「カムバックの人用」のサーバーに　入れません。\n別のサーバーを　選んでください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": ""
+    "エラーコード：<%sERRID>\nお客様の　アカウントは\n前回ログアウトしてから60日未満のため\n「カムバックの人用」のサーバーに　入れません。\n別のサーバーを　選んでください。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": "Error Code: <%sERRID>\nYour account has been inactive for less than\n60 days, so you will not be able to enter a\n\"Comeback Only\" server. Please choose a\ndifferent server.\n\nFor questions, please visit the Dragon\nQuest X Support Page.\nhttps://sqex.to/eh6"
   },
   "101408": {
     "エラーコード：<%sERRID>\n　\nゲームを続けることが　できなくなったため\nゲームを終了いたします。\n　\nご不明な点がある場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttps://sqex.to/eh6": ""
