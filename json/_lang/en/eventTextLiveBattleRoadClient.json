@@ -42,19 +42,19 @@
     "「ようこそ　モンスターバトルロードへ！\n<br>\n「バトルロードとは　仲間モンスターの\n　強さを競い　誇りと誇りをかけて戦う\n　アラハギーロ王国の　伝統ある競技です！\n<br>\n「バトルロードに出場するには\n　仲間モンスター　３匹が必要なのですが……\n　どうやら　お持ちではないようですね。\n<br>\n「仲間モンスターが　３匹以上になったら\n　ぜひとも　また　お越しくださいませ。\n　ご参加　いつでも　お待ちしておりますわ！\n<end>": "Welcome to the Monster Battle Roads! The\nBattle Roads are a traditional competition in\nthe Kingdom of Alajaghiro, where fellow\n<br>\nmonsters compete for strength and pride! In\norder to compete in the Battle Road, you must\nhave three companion monsters. It seems you\n<br>\ndon't have any... When you have more than\nthree monsters, please come back... We're\nalways waiting for you to join us!<end>"
   },
   "100192": {
-    "「仲間モンスターを　３匹　お選びください。\n　１番目に選んだ　リーダーモンスターにのみ\n　試合中　命令をすることができます。\n<break>": "You may choose three companion monsters...\nYou may only give orders to the first leader\nmonster you choose during the game.<break>"
+    "「仲間モンスターを　３匹　お選びください。\n　１番目に選んだ　リーダーモンスターにのみ\n　試合中　命令をすることができます。\n<break>": "Please choose three fellow monsters. Please\nnote that you will only control the leader\nmonster during battles."
   },
   "101207": {
     "「どの　仲間モンスターを\n　パーティに　くわえますか？\n<break>": "Which of these monsters would you like to add\nto your party?<break>"
   },
   "101612": {
-    "「パーティの準備で　ございますね！\n　何を　なさいますか？\n<break>": "It's time to get ready for the party! What\ncan I do for you?<break>"
+    "「パーティの準備で　ございますね！\n　何を　なさいますか？\n<break>": "What can I do for you in regards to preparing\nyour party?\n<break>"
   },
   "101613": {
     "「あらっ？　パーティの作成の途中ですが\n　この状態を　破棄して\n　終了して　よろしいでしょうか？\n<yesno 2><break>": "What? I'm in the middle of creating a party,\nbut would you mind if I abandoned this state\nand terminated it?<yesno 2><break>"
   },
   "101615": {
-    "「それでは　こちらのパーティを\n　バトルロード出場メンバーとして\n　登録して　よろしいでしょうか？\n<yesno><break>": "Then may I register this party as a member of\nthe Battle Road?<yesno><break>"
+    "「それでは　こちらのパーティを\n　バトルロード出場メンバーとして\n　登録して　よろしいでしょうか？\n<yesno><break>": "You'd like me to register this party for\nparticipation in Battle Road?\n<yesno><break>"
   },
   "101616": {
     "「つよさの確認で　ございますね！\n　どのモンスターの　つよさを確認されますか？\n<break>": "I see you're checking strength! Which\nmonster's strength do you want to check?<break>"
@@ -204,7 +204,7 @@
     "「パーティメンバーの　さくせんを\n　設定してくださいませ。リーダーモンスターは\n　命令ができるので　設定できません。\n<break>": "I'd like to be able to set up an operation\nfor my party members... The leader monster\ncan give orders, so you can set...<break>"
   },
   "103428": {
-    "「使用するとくぎを　設定してくださいませ。\n　リーダーモンスターは　命令ができるため\n　使用とくぎ設定は　反映されません。\n<break>": ""
+    "「使用するとくぎを　設定してくださいませ。\n　リーダーモンスターは　命令ができるため\n　使用とくぎ設定は　反映されません。\n<break>": "Please set the skills you'd like to be used.\nPlease note that the leader monster's settings\nwon't be applied since you can control them."
   },
   "103429": {
     "「登録したパーティが　バトルで使用する特技と\n　さくせんを　ご変更いただけます。\n　いかがいたしますか？\n<break>": "I'd like to change the specialties and\nstrategies that my party will use in battle.\nHow may I help you?<break>"
@@ -279,7 +279,7 @@
     "「あら…　すでに　ご登録から消えている\n　装備品があったようですわ。\n　装備からはずれていますので　ご注意ください。\n<bw_break>": "Oh... It appears that some of your equipment\nhas already been removed from your inventory.\nPlease be aware that you are no longer\n<br>\nequipped...<bw_break>"
   },
   "103888": {
-    "「パーティを　登録いたしました！\n<bw_break>": "We've registered the party!<bw_break>"
+    "「パーティを　登録いたしました！\n<bw_break>": "I've registered your party!<bw_break>"
   },
   "103889": {
     "「バッチリ　装備できましたか？\n　バトルに入る準備が終わりましたら　戻って\n　『バトルエントリー』を　お選びくださいませ。\n<break>": "You're all set? When you're ready to enter\nthe battle, go back and select \"Battle\nEntry\"...<break>"
@@ -300,10 +300,10 @@
     "「バトルロードには　仲間モンスター３匹と\n　他の出場者の　サポートモンスター１匹の\n　パーティで　バトルに参加します！\n<br>\n「仲間モンスターのうち　１匹は\n　リーダーモンスターと言って\n　試合中に　命令をすることができますわ。\n<br>\n「試合規定により　バトルに持ち込める装備品は\n　仲間モンスター３匹分の　合計で\n　５０個までと　定められておりますの。\n<br>\n「持ち込んだ装備品は　３匹で　同じ装備を\n　同時に　装備することもできますわ。\n<br>\n「また　登録した装備品に　錬金を行うなどして\n　効果が変わった時は　効果を反映するために\n　再び　登録しなおす必要が　ございますわ。\n<bw_break>": "On the Battle Road, you'll battle a party of\nthree companion monsters and one support\nmonster for each of the other contestants!\n<br>\nOne of your companions is the leader monster,\nand can give orders during the match...\nAccording to the rules of the game, you may\n<br>\nonly bring a total of 50 pieces of equipment\nfor your three companion monsters... All\nthree monsters may have the same equipment at\n<br>\nthe same time. Also, if you smelt or\notherwise change the effect of a piece of\nequipment you've registered, you'll need to\n<br>\nregister it again to reflect the effect...<bw_break>"
   },
   "104057": {
-    "「あらっ？　<%sL_MONSTER>は\n　すでに　リーダーモンスターに\n　なっているみたいですわ。\n<break>": "Huh? Looks like <%sL_MONSTER> has already\nbecome the leader monster...<break>"
+    "「あらっ？　<%sL_MONSTER>は\n　すでに　リーダーモンスターに\n　なっているみたいですわ。\n<break>": "Hm? It looks like <%sL_MONSTER>\nis already designated as the leader.\n<break>"
   },
   "104059": {
-    "「<%sL_MONSTER>様を　リーダーモンスターに\n　変更してよろしいですか？\n<yesno><break>": "May I change your name to <%sL_MONSTER> to\nLeader Monster?<yesno><break>"
+    "「<%sL_MONSTER>様を　リーダーモンスターに\n　変更してよろしいですか？\n<yesno><break>": "You would like <%sL_MONSTER> to\nbe the leader monster instead?\n<yesno><break>"
   },
   "104061": {
     "<%sL_MONSTER>を\nリーダーモンスターにしました。\n<end>": "Make <%sL_MONSTER> the leader monster...<end>"
