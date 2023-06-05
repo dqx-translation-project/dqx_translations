@@ -3,19 +3,19 @@
     "「他にも　ご用はありますか？\n<break>": "Is there anything else I can do for you?<break>"
   },
   "278383": {
-    "「ありがとうございました。\n　またのご利用を　お待ちしています。\n<turn_end>": "Thank you... We look forward to serving you\nagain.<turn_end>"
+    "「ありがとうございました。\n　またのご利用を　お待ちしています。\n<turn_end>": "Thank you very much. We hope that you will\nuse our service again.\n<turn_end>"
   },
   "278384": {
-    "<select_se_off>\nあずける\nひきだす\n<select_end><break>": ""
+    "<select_se_off>\nあずける\nひきだす\n<select_end><break>": "<select_se_off>\nDeposit\nWithdraw\n<select_end><break>"
   },
   "278385": {
-    "<select_se_off 2>\nあずける\nひきだす\n<select_end><break>": ""
+    "<select_se_off 2>\nあずける\nひきだす\n<select_end><break>": "<select_se_off 2>\nDeposit\nWithdraw\n<select_end><break>"
   },
   "278386": {
-    "「おや？　正しい数が\n　入っていないようですよ。\n<bw_break>": "Hmm? I don't think we have the right\nnumber...<bw_break>"
+    "「おや？　正しい数が\n　入っていないようですよ。\n<bw_break>": "Hmmm? I believe you entered an incorrect\nnumber.\n<bw_break>"
   },
   "278387": {
-    "「お客さまからは　ゴールドを\n　お預かりしていないようです。\n<br>\n「他にも　ご用はありますか？\n<break>": "I don't think you have any gold on you. Is\nthere anything else I can do for you?<break>"
+    "「お客さまからは　ゴールドを\n　お預かりしていないようです。\n<br>\n「他にも　ご用はありますか？\n<break>": "It appears that you don't have any Gold on\nyour person.\n<br>\nIs there anything else I can do for you?\n<break>"
   },
   "278388": {
     "「失礼ですが　お客さまは\n　預けられるだけの　ゴールドを\n　お持ちでないようです。\n<br>\n「他にも　ご用はありますか？\n<break>": "I'm sorry, sir, but I don't think you have\nenough gold in your account to make a\ndeposit. Is there anything else I can do for\n<br>\nyou?<break>"
@@ -27,48 +27,48 @@
     "「そんなに　たくさん　お持ちになれませんよ。\n<br>\n「他にも　ご用はありますか？\n<break>": "I'm afraid I don't have that many. Is there\nanything else I can do for you?<break>"
   },
   "278391": {
-    "「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしていますが　どうしますか？\n<break>": "You currently have <%nL_AZU_BALANCE>000 gold\nin your account.<break>"
+    "「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしていますが　どうしますか？\n<break>": "You currently have <%dL_AZU_BALANCE>000 Gold\ndeposited. What do you want to do?<break>"
   },
   "278392": {
-    "「お客さまから　お預かりのゴールドは\n　ありませんが　今日は　どうしますか？\n<break>": "I don't have any gold for you. What can I do\nfor you today?<break>"
+    "「お客さまから　お預かりのゴールドは\n　ありませんが　今日は　どうしますか？\n<break>": "You currently have no Gold deposited.\nWhat can I do for you today?\n<break>"
   },
   "278393": {
-    "「１０００ゴールド単位で　お預かりします。\n　いくら　お預けになりますか？\n<break>": "We accept deposits in increments of 1,000\ngold... How much would you like to deposit?<break>"
+    "「１０００ゴールド単位で　お預かりします。\n　いくら　お預けになりますか？\n<break>": "You can deposit Gold in increments of 1000.\nHow much would you like to deposit?\n<break>"
   },
   "278394": {
-    "「１０００ゴールド単位で　お渡しできます。\n　現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしていますが　いくら引き出しますか？\n<break>": "I'll give it to you in units of 1000 gold...\nYou currently have <%nL_AZU_BALANCE>000 gold.\nHow much would you like to withdraw?<break>"
+    "「１０００ゴールド単位で　お渡しできます。\n　現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしていますが　いくら引き出しますか？\n<break>": "You can withdraw Gold in increments of 1000.\nYou currently have <%dL_AZU_BALANCE>000 Gold deposited.\nHow much would you like to withdraw?\n<break>"
   },
   "278395": {
     "「どちらを　ご利用になりますか？\n<break>": "Which one do you want to use?<break>"
   },
   "278396": {
-    "「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "We currently have <%nL_AZU_BALANCE>000 gold\nin our custody... Is there anything else I\ncan do for you, sir?<break>"
+    "「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "Your current balance is <%dL_AZU_BALANCE>000 Gold.\nWe will keep it safe and sound. Is there\nanything else I can do for you?\n<break>"
   },
   "278397": {
-    "「現在　お預かりしている\n　ゴールドは　ありません。\n　他にも　ご用はありますか？\n<break>": "We have the gold in our possession now. Is\nthere anything else I can do for you?<break>"
+    "「現在　お預かりしている\n　ゴールドは　ありません。\n　他にも　ご用はありますか？\n<break>": "You have no Gold deposited here. Is there\nanything else I can do for you?\n<break>"
   },
   "278398": {
-    "「<%nL_AZU_DEPOS_GLD>０００ゴールド\n　確かに　お預かりしました。\n<br>\n「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, we have it...\nYou have <%L_AZU_BALANCE>000 gold in your\npossession... Is there anything else I can do\n<br>\nfor you, sir?<break>"
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド\n　確かに　お預かりしました。\n<br>\n「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "<%dL_AZU_DEPOS_GLD>000 Gold has been\ndeposited.\n<br>\nYour current balance is <%dL_AZU_BALANCE>000 Gold.\nYour Gold will be safe and sound here. Is\nthere anything else I can do for you?\n<break>"
   },
   "278399": {
-    "「<%nL_WITHDRW_GLD>０００ゴールド\n　確かに　お返ししました。\n<br>\n「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "<%nL_WITHDRW_GLD>000 gold... You have\n<%nL_AZU_BALANCE>000 gold in your\npossession... Is there anything else I can do\n<br>\nfor you, sir?<break>"
+    "「<%nL_WITHDRW_GLD>０００ゴールド\n　確かに　お返ししました。\n<br>\n「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "I've withdrawn <%dL_WITHDRW_GLD>000 of your\nGold.\n<br>\nYour current balance is <%dL_AZU_BALANCE>000 Gold.\nIt will be kept safe and sound here. Is there\nanything else I can do for you?\n<break>"
   },
   "278400": {
-    "「<%nL_WITHDRW_GLD>０００ゴールド\n　お返ししました。現在　お客さまから\n　お預かりのゴールドは　ありません。\n<br>\n「他にも　ご用はありますか？\n<break>": "<%nL_WITHDRW_GLD>000 gold returned... We\ncurrently have no gold on deposit... Is there\nanything else I can do for you?<break>"
+    "「<%nL_WITHDRW_GLD>０００ゴールド\n　お返ししました。現在　お客さまから\n　お預かりのゴールドは　ありません。\n<br>\n「他にも　ご用はありますか？\n<break>": "I've withdrawn <%dL_WITHDRW_GLD>000 of your\nGold. Your balance is now empty.\n<br>\nIs there anything else I can do for you?\n<break>"
   },
   "278401": {
-    "「<%nL_WITHDRW_GLD>０００ゴールド　お返しして\n　現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。他に　ご用はありますか？\n<break>": "<%nL_WITHDRW_GLD>000 gold Returned and\ncurrently <%nL_AZU_BALANCE>000 gold I'll\nleave you... Is there anything else I can do\n<br>\nfor you?<break>"
+    "「<%nL_WITHDRW_GLD>０００ゴールド　お返しして\n　現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。他に　ご用はありますか？\n<break>": "I've withdrawn <%dL_WITHDRW_GLD> of your Gold.\nYour balance is now <%dL_AZU_BALANCE> Gold.\nIs there anything else I can do for you?\n<break>"
   },
   "278402": {
-    "「<%nL_AZU_DEPOS_GLD>０００ゴールド　お預かりして\n　合計で　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。他に　ご用はありますか？\n<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, keep it. Total,\n<%nL_AZU_BALANCE>000 Gold, please keep... Is\nthere anything else I can do for you?<break>"
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド　お預かりして\n　合計で　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。他に　ご用はありますか？\n<break>": "<%dL_AZU_DEPOS_GLD>000 Gold has been deposited.\nYour balance is now <%dL_AZU_BALANCE>000 Gold.\nIs there anything else I can do for you?\n<break>"
   },
   "278403": {
-    "「さて　本日は　どちらをご利用ですか？\n<break>": "So, how can I help you today?<break>"
+    "「さて　本日は　どちらをご利用ですか？\n<break>": "Now then, how can I help you today?<break>"
   },
   "278404": {
     "現在のプレイ環境では　この機能は\n使用制限されています。正式なプレイ環境となれば\nこの機能も　お使いいただけます。\n<end>": "This feature is currently restricted in your\ncurrent play environment. Upgrade to the\nfull game version to use it.\n<end>"
   },
   "286690": {
-    "「わたくし　魔塔銀行員のボクスでございます。\n　お客様が　魔塔で手に入れた　大切なゴールドは\n　責任をもって　お預かりさせて　いただきます。\n<bw_break>": "I'm Vox, the banker from the evil tower...\nI'll take full responsibility for the\nprecious gold you've acquired in the magical\n<br>\ntower...<bw_break>"
+    "「わたくし　魔塔銀行員のボクスでございます。\n　お客様が　魔塔で手に入れた　大切なゴールドは\n　責任をもって　お預かりさせて　いただきます。\n<bw_break>": "My name is Bokks, and I am the banker here\nat the Mysterious Tower. I will make sure that\nyour precious Gold is held safe and sound.\n<bw_break>"
   }
 }
