@@ -84,7 +84,7 @@
     "<select_se_off>\nうけとる\n売り上げうけとり\nおくる\nおもいで私書箱を見る\n説明を聞く\n<select_end><break>": "<select_se_off>\nreceive\nreceipt of sales\nsend (a thing)\nView the POBOX\nListen to the explanation\n<select_end><break>"
   },
   "50506": {
-    "「お客様の　郵便箱には\n　何も　届いていないようですね。\n<bw_break>": "There's no mail waiting for you at this time.<bw_break>"
+    "「その手紙は　お客様の　郵便箱には\n　届いていないようですね。\n<bw_break>": ""
   },
   "50508": {
     "「申し訳ありませんが　<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を\n　お送りすることは　できないんです。\n<bw_break>": "Sorry, but we can't send you <%sL_ITEM_NAMEFI\nLLERSTRING><%sL_PLUS><%nL_KOUKA_N\nUM>...\n<br><bw_break>"
@@ -273,7 +273,7 @@
     "<select_se_off>\nうけとる\nいれる\n説明を聞く\n<select_end><break>": "<select_se_off>\nReceive\nPut In\nExplanation\n<select_end><break>"
   },
   "66396": {
-    "郵便ポストには\n何も　届いていないようだ。\n<bw_break>": "There's nothing in the mailbox.\n<bw_break>"
+    "その手紙は　郵便ポストに\n何も　届いていないようだ。\n<bw_break>": ""
   },
   "66398": {
     "手紙か　荷物を選んでください。<break>": "Please choose a letter or package.<break>"
@@ -285,7 +285,7 @@
     "郵便ポストがある。\n<break>": "It's a Mailbox.\n<break>"
   },
   "66401": {
-    "郵便ポストから　すべて受け取りました。\n<bw_break>": "All mail in the mailbox was received.\n<bw_break>"
+    "すべて受け取りました。\n<bw_break>": ""
   },
   "66402": {
     "荷物の送り先は　おひとりのみになります。\nどなたに　送りますか？\n<break>": "This package can only be sent to one person.\nWho would you like to send it to?<break>"
@@ -456,7 +456,7 @@
     "<select_se_off>\nうけとる\n売り上げうけとり\nおくる\nおもいで私書箱を見る\n説明を聞く\n<select_end><break>": "<select_se_off>\nreceive\nreceipt of sales\nsend (a thing)\nView the POBOX\nListen to the explanation\n<select_end><break>"
   },
   "74805": {
-    "「おきゃくしゃまの　ゆーびんばこには　\n　なにも　はいってないでしゅよ。\n<bw_break>": "There's nothing in the teacup...<bw_break>"
+    "「そのおてまみは　ゆーびんばこに\n　なにも　きてないでしゅよ。\n<bw_break>": ""
   },
   "74807": {
     "「おてまみか　にもつを\n　えらんでくだしゃい！\n<break>": "Please choose one of your favorites!<break>"
@@ -957,7 +957,7 @@
     "「手紙の送料は　無料となっています。\n　では　このお手紙を　皆さんに\n　お送りして　よろしいでしょうか？\n<yesno><break>": "There won't be charge for postage. You'd like\nme to send this to all of the recipients\nyou've chosen, then?\n<yesno><break>"
   },
   "266641": {
-    "「お客様の　郵便箱には\n　何も　届いていないようですね。\n<bw_break>": "There's no mail waiting for you at this time.<bw_break>"
+    "「その手紙は　お客様の　郵便箱には\n　届いていないようですね。\n<bw_break>": ""
   },
   "266642": {
     "「旅人バザーから　お客様宛てに\n　売上金は　届いていないようですね。\n<bw_break>": "You haven't been sent any money from the\nTraveler's Bazaar.<bw_break>"
@@ -1320,10 +1320,10 @@
     "「手紙の送料は　無料となっていますっ！\n　では　このお手紙を　皆さんに\n　お送りして　よろしいでしょうか？\n<yesno><break>": "There's no charge for postage! Then, may I\nsend this letter to you all?<yesno><break>"
   },
   "267750": {
-    "「お前の　郵便箱には　何も　届いてねえぞ。\n<bw_break>": "There's nothing in your mailbox...<bw_break>"
+    "「そんな手紙　お前の　郵便箱には\n　届いてねえぞ。\n<bw_break>": ""
   },
   "267751": {
-    "「お客様の　郵便箱には\n　何も　届いていないようですね。\n<bw_break>": "There's no mail waiting for you at this time.<bw_break>"
+    "「その手紙は　お客様の　郵便箱には\n　届いていないようですね。\n<bw_break>": ""
   },
   "267752": {
     "「旅人バザーから　売上金は\n　届いていないようだ。\n<bw_break>": "You haven't received any earnings from\nthe Traveler's Bazaar.<bw_break>"
@@ -1785,13 +1785,13 @@
     "「最大所持数に　制限のあるアイテムのため\n　これ以上　受け取ることは　できないようです。\n<end>": ""
   },
   "293645": {
-    "": ""
+    "最大所持数に　制限のあるアイテムのため\nこれ以上　受け取れません。\n<end>": ""
   },
   "293646": {
-    "": ""
+    "「もてるかずが　きまってるアイテムだから\n　もう　もてないみたいでしゅよ。」\n<end>": ""
   },
   "293647": {
-    "": ""
+    "「最大所持数に　制限のあるアイテムのため\n　これ以上　受け取ることは　できないようです。\n<end>": ""
   },
   "293648": {
     "「最大所持数に　制限のあるアイテムだから\n　これ以上は　受け取れないぜ。\n<end>": ""

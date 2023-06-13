@@ -2007,7 +2007,7 @@
     "「ありがとうございました。\n　またのご来店を　お待ちしております。\n<turn_end>": "「ありがとうございました。\n　またのご来店を　お待ちしております。\n<turn_end>"
   },
   "71413": {
-    "「いらっしゃいませ！\n　ただいま　笹に飾りつける七夕の短冊と\n　ぞうりの販売を　おこなっております！\n<break>": "「いらっしゃいませ！\n　ただいま　笹に飾りつける七夕の短冊と\n　ぞうりの販売を　おこなっております！\n<break>"
+    "「いらっしゃいませ！\n　ただいま　笹に飾りつける七夕の短冊と\n　履物の販売を　おこなっております！\n<break>": "「いらっしゃいませ！\n　ただいま　笹に飾りつける七夕の短冊と\n　履物の販売を　おこなっております！\n<break>"
   },
   "71414": {
     "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>"
@@ -14847,6 +14847,96 @@
     "「<%sL_KAITAI_ITEM>ですね。\n　これは　家の中に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　家の中に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>"
   },
   "307526": {
+    "「<%sL_KAITAI_ITEM>だみゃ。\n　これは　同時に<%nL_MAX>個までしか\n　置けない品物だけど　買うんだみゃ？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だみゃ。\n　これは　同時に<%nL_MAX>個までしか\n　置けない品物だけど　買うんだみゃ？\n<yesno 2><break>"
+  },
+  "313186": {
+    "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買うのかい？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買うのかい？\n<yesno 2><break>"
+  },
+  "313187": {
+    "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だが　買うのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だが　買うのか？\n<yesno 2><break>"
+  },
+  "313188": {
+    "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　いいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　いいですか？\n<yesno 2><break>"
+  },
+  "313189": {
+    "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>"
+  },
+  "313190": {
+    "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>"
+  },
+  "313191": {
+    "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　いいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　いいですか？\n<yesno 2><break>"
+  },
+  "313192": {
+    "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>"
+  },
+  "313193": {
+    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　オッケーっすか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　オッケーっすか？\n<yesno 2><break>"
+  },
+  "313194": {
+    "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>"
+  },
+  "313195": {
+    "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買いますか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買いますか？\n<yesno 2><break>"
+  },
+  "313196": {
+    "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だが　買うのかい？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だが　買うのかい？\n<yesno 2><break>"
+  },
+  "313197": {
+    "": ""
+  },
+  "313198": {
+    "「<%sL_KAITAI_ITEM>デスネ。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けませんが　それでも買われマスカ？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>デスネ。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けませんが　それでも買われマスカ？\n<yesno 2><break>"
+  },
+  "313199": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "313200": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "313201": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "313202": {
+    "": ""
+  },
+  "313203": {
+    "": ""
+  },
+  "313204": {
+    "「<%sL_KAITAI_ITEM>ね？\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けませんけれど　よろしくて？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ね？\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けませんけれど　よろしくて？\n<yesno 2><break>"
+  },
+  "313205": {
+    "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買うのかい？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買うのかい？\n<yesno 2><break>"
+  },
+  "313206": {
+    "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買うのかい？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買うのかい？\n<yesno 2><break>"
+  },
+  "313207": {
+    "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>"
+  },
+  "313208": {
+    "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>"
+  },
+  "313209": {
+    "「<%sL_KAITAI_ITEM>だね！\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　大丈夫かな？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だね！\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　大丈夫かな？\n<yesno 2><break>"
+  },
+  "313210": {
+    "★不要テキスト６４\n　このテキストが表示される場合\n　バグとして扱ってください。": "★不要テキスト６４\n　このテキストが表示される場合\n　バグとして扱ってください。"
+  },
+  "313211": {
+    "「<%sL_KAITAI_ITEM>だみゃ。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買うんだみゃ？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だみゃ。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物だけど　買うんだみゃ？\n<yesno 2><break>"
+  },
+  "313212": {
+    "「<%sL_KAITAI_ITEM>だね。\n　これは　家の中に<%nL_MAX>個までしか　置けない\n　品物だけど　買うのかい？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だね。\n　これは　家の中に<%nL_MAX>個までしか　置けない\n　品物だけど　買うのかい？\n<yesno 2><break>"
+  },
+  "313213": {
+    "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　同時に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>"
+  },
+  "313214": {
+    "「<%sL_KAITAI_ITEM>ですね。\n　これは　家の中に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>ですね。\n　これは　家の中に<%nL_MAX>個までしか　置けない\n　品物ですが　よろしいですか？\n<yesno 2><break>"
+  },
+  "313215": {
     "「<%sL_KAITAI_ITEM>だみゃ。\n　これは　同時に<%nL_MAX>個までしか\n　置けない品物だけど　買うんだみゃ？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だみゃ。\n　これは　同時に<%nL_MAX>個までしか\n　置けない品物だけど　買うんだみゃ？\n<yesno 2><break>"
   }
 }
