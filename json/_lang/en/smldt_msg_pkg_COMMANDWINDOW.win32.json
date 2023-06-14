@@ -2124,13 +2124,13 @@
     "<speed=0>\nついていく許可設定の　説明です！\n<br>\nついていく許可設定を『許可しない』にすると\n仲間のプレイヤーが　あなたに「ついていく」が\nできなくなります。\n<br>\nただし　すでに「ついていく」をされている時は\n後から設定を　『許可しない』に変えても\n解除はできませんので　ご注意ください。": ""
   },
   "35387": {
-    "仲間からの\n「ついていく」を\n許すか設定します": "Choose to allow\nyour friends to\nfollow you."
+    "仲間からの\n「ついていく」を\n許すか設定します": "Choose to allow\nyour party to\nfollow you."
   },
   "35502": {
     "<speed=0>ここでは　どうぐを　使えない！": "<speed=0>You can't use items here!"
   },
   "35785": {
-    "<speed=0>権限を失った為　処理に失敗しました。": ""
+    "<speed=0>権限を失った為　処理に失敗しました。": "<speed=0>Processing failed due to loss of privileges."
   },
   "35786": {
     "<speed=0>どの　チームのさそいを　取り消しますか？<break>": "<speed=0>Which invitation do you want to cancel?<break>"
@@ -3471,7 +3471,7 @@
     "ドルボードと\n錬金釜の\n各種設定をします": "Change dolboard\nand alchemy pot\nappearance."
   },
   "43058": {
-    "錬金釜の\n設定をします": ""
+    "錬金釜の\n設定をします": "Change your\nalchemy pot's\nappearance."
   },
   "43074": {
     "<speed=0><%sM_item>を使うと\n今　かかっている香りの効果が\n消えてしまいますが　よろしいですか？<yesno2><close>": "<speed=0>By using the <%sM_item>,\nyour current perfume effect will be lost.\nProceed?<yesno2><close>"
@@ -6987,51 +6987,51 @@
     "<speed=0>\nワンタッチきせかえ機能の説明です！\n<br>\nワンタッチきせかえとは　現在の装備を\n事前に登録しておいた　装備リストに従って\n簡単に　きせかえする機能です。\n<br>\n目的に応じて組み合わせた　装備リストを\n複数登録することができます。\n<br>\n「みぎて」「ひだりて」「顔コーデ」は\n装備リストに　登録することができません。\n<br>\nマイコーデ機能と異なり　そうびぶくろに\n入っていない装備品や　現在の職業が装備できない\n装備品は　きせかえできません。\n<br>\nアストルティアでの　快適な冒険のために\nぜひ　ご活用ください！": "<speed=0>\nThis will explain Gear Sets!\n<br>\nGear Sets can be used to swap quickly\nbetween registered sets of equipment.\n<br>\nYou can register different Gear Sets for\ndifferent situations or activities.\n<br>\nThe slots \"Right Hand\", \"Left Hand\", and\n\"Face Glam\" will not be registered into a\nGear Set.\n<br>\nUnlike the Glamour function, equipment must be\nin your equipment bag to change, and your\ncurrent vocation must be able to equip it.\n<br>\nWe hope you'll use this handy function to\nmake swapping equipment even easier!"
   },
   "61193": {
-    "前回選択した\nチャンスとくぎを\n記憶します": ""
+    "前回選択した\nチャンスとくぎを\n記憶します": "Memorizes the\nlast selected\nChance skill."
   },
   "61194": {
-    "前回選択した\nひっさつわざを\n記憶します": ""
+    "前回選択した\nひっさつわざを\n記憶します": "Memorizes the\nlast selected\nSpecial skill."
   },
   "61195": {
-    "前回選択した\nじゅもんの位置を\n記憶します": ""
+    "前回選択した\nじゅもんの位置を\n記憶します": "Memorizes the\nlast selected\nSpell."
   },
   "61196": {
-    "選択初期位置は\n毎ターンごとに\nリセットされます": ""
+    "選択初期位置は\n毎ターンごとに\nリセットされます": "Cursor resets to\ninitial position\non each turn."
   },
   "61197": {
-    "前回選択した\nタロットの位置を\n記憶します": ""
+    "前回選択した\nタロットの位置を\n記憶します": "Memorizes the\nlast selected\nTarot position."
   },
   "61198": {
-    "前回選択した\nとくぎの位置を\n記憶します": ""
+    "前回選択した\nとくぎの位置を\n記憶します": "Memorizes the\nlast selected\nSkill."
   },
   "61200": {
-    "<speed=0>移動先の時空のしるべが　封鎖されているようだ。": ""
+    "<speed=0>移動先の時空のしるべが　封鎖されているようだ。": "<speed=0>The Leap Point you attempting to move to\nis blocked off."
   },
   "61462": {
-    "「ついていく」の\nコマンドを\n表示するか選ぶ": ""
+    "「ついていく」の\nコマンドを\n表示するか選ぶ": "Choose to display\nthe \"Follow\"\ncommand."
   },
   "61463": {
-    "「ついていく」の\n設定をします": ""
+    "「ついていく」の\n設定をします": "Settings for the\n\"Follow\" command."
   },
   "61464": {
-    "<speed=0>\nついていく設定の　説明です！\n<br>\nついていく許可設定を　『許可しない』にすると\n他のプレイヤーは　あなたに\n「ついていく」ことが　できません。\n<br>\nただし　現在実行中の「ついていく」は\n『許可しない』に変更しても\n解除することができません　ご注意ください。\n<br>\nついていくコマンドを　『表示しない』にすると\n他のプレイヤーを　選択したときに\n「ついていく」が　表示されません。\n<br>\nあなたが実行中の　「ついていく」は\n『表示しない』に変更しても\n中断することはありません。": ""
+    "<speed=0>\nついていく設定の　説明です！\n<br>\nついていく許可設定を　『許可しない』にすると\n他のプレイヤーは　あなたに\n「ついていく」ことが　できません。\n<br>\nただし　現在実行中の「ついていく」は\n『許可しない』に変更しても\n解除することができません　ご注意ください。\n<br>\nついていくコマンドを　『表示しない』にすると\n他のプレイヤーを　選択したときに\n「ついていく」が　表示されません。\n<br>\nあなたが実行中の　「ついていく」は\n『表示しない』に変更しても\n中断することはありません。": "<speed=0>\nThis will explain \"Follow Setting\"!\n<br>\nIf you set the Follow Setting to \"Don't\nAllow\", then other players will not be\nable to follow you.\n<br>\nHowever, please note that changing this\nto \"Don't Allow\" while someone is already\nfollowing you will not stop them.\n<br>\nIf the Follow command is set to \"Hide\", you\nwill no longer see the \"Follow\" command\nwhen inspecting other players.\n<br>\nEven if you change Follow to \"Hide\", it will\nnot interrupt anyone that you are\ncurrently following."
   },
   "61569": {
-    "このコンテンツは　開催終了しているため\n履歴を読み込むことが　できません。": ""
+    "このコンテンツは　開催終了しているため\n履歴を読み込むことが　できません。": "You cannot load this content's history because\nit has been closed."
   },
   "61589": {
-    "直前のフキダシが\n斜め右上に\nスライドします": ""
+    "直前のフキダシが\n斜め右上に\nスライドします": "Previous speech\nbubble slides to\nthe upper left."
   },
   "61590": {
-    "アクションが左に\n状態異常が右に\n個別表示されます": ""
+    "アクションが左に\n状態異常が右に\n個別表示されます": "Actions show on\nleft. Ailments\nshow on right."
   },
   "61591": {
-    "フキダシが\n１つだけ\n表示されます": ""
+    "フキダシが\n１つだけ\n表示されます": "Only one speech\nbubble shows\nat a time."
   },
   "61606": {
-    "<speed=0>該当するパーティが　見つかりませんでした。": ""
+    "<speed=0>該当するパーティが　見つかりませんでした。": "<speed=0>No matching party was found."
   },
   "61707": {
-    "「ビンゴ券」と「カジノプレイチケット」": ""
+    "「ビンゴ券」と「カジノプレイチケット」": "Bingo Tickets and Casino Play Tickets"
   }
 }
