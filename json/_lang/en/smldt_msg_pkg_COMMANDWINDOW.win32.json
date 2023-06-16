@@ -1992,7 +1992,7 @@
     "<%sM_monster>が　仲間（待機中）に加わった！\nあと<%dM_bar>匹まで　仲間にできます。<me 61>": ""
   },
   "33426": {
-    "<%sM_pc>は　<%sM_monster_name>を　連れているため\n<%sM_monster>を　連れていけません。": ""
+    "<%sM_pc>は　<%sM_monster_name>を　連れているため\n<%sM_monster>を　連れていけません。": "You cannot take <%sM_monster_name>\nbecause <%sM_monster> is already\nwith you."
   },
   "33427": {
     "どちらのモンスターを\nモンスター酒場に　送りますか？<break>": "Send which monster to the monster tavern?<break>"
@@ -2217,7 +2217,7 @@
     "<%sM_delete>と　別れてしまうと　二度と\nこの　<%sM_delete>は　仲間にできませんが\n本当に　別れてしまって　よろしいですか？<se_nots System 0><break>": ""
   },
   "36429": {
-    "<%sM_monster>に　ここで　名前をつけますか？\n<color_yellow>※モンスター酒場で　いつでも変更できます。<color_white><yesno><close>": ""
+    "<%sM_monster>に　ここで　名前をつけますか？\n<color_yellow>※モンスター酒場で　いつでも変更できます。<color_white><yesno><close>": "Name this monster <%sM_monster>?\n<color_yellow>Names can be changed at any time in any\nMonster Tavern.<color_white><yesno><close>"
   },
   "36430": {
     "<%sM_monster_name>で　よろしいですか？<yesno><break>": "Is <%sM_monster_name> okay? <yesno><break>"
@@ -2268,7 +2268,7 @@
     "<color_yellow>※パーティの　空きがある時に\n『さくせん』コマンドの『サポート仲間』から\nバトルへ　参加させることができます。<color_white>": ""
   },
   "36927": {
-    "<%sM_send>が　モンスター酒場に送られ\n<%sM_monster>が　仲間（待機中）に加わった！\nあと<%dM_bar>匹まで　仲間にできます。<me 61>": ""
+    "<%sM_send>が　モンスター酒場に送られ\n<%sM_monster>が　仲間（待機中）に加わった！\nあと<%dM_bar>匹まで　仲間にできます。<me 61>": "<%sM_send> was sent to the Monster\nTavern and <%sM_monster> joined the party!\n(You can scout <%dM_bar> more monster(s).)<me 61>"
   },
   "36928": {
     "<%sM_delete>と　別れて\n<%sM_monster>が　仲間（待機中）に加わった！<me 61>": ""
@@ -2382,7 +2382,7 @@
     "モン": ""
   },
   "37432": {
-    "<%sM_send>が　モンスター酒場に送られ\n<%sM_monster>が　仲間に加わった！\nあと<%dM_bar>匹まで　仲間にできます。<me 61>": ""
+    "<%sM_send>が　モンスター酒場に送られ\n<%sM_monster>が　仲間に加わった！\nあと<%dM_bar>匹まで　仲間にできます。<me 61>": "<%sM_send> was sent to the Monster\nTavern and <%sM_monster> joined the party!\n(You can scout <%dM_bar> more monster(s).)<me 61>"
   },
   "37552": {
     "<speed=0><%sM_otomo>は　まだ\nじゅもんや　とくぎを　覚えていません。": "<speed=0><%sM_otomo> doesn't know any\nspells or skills yet."
@@ -2433,7 +2433,7 @@
     "<%sM_send>を　モンスター酒場に　送ります。\nよろしいですか？<yesno><close>": "Send <%sM_send> to the\nMonster Tavern?<yesno><close>"
   },
   "37813": {
-    "<color_yellow>※『さくせん』コマンドの『仲間モンスター』で\n装備やスキルを　確認できます。<color_white>": ""
+    "<color_yellow>※『さくせん』コマンドの『仲間モンスター』で\n装備やスキルを　確認できます。<color_white>": "<color_yellow>You can check their equipment and skills\nwith \"Fellow Monster\" under the \"Misc.\"\ncommand.<color_white>"
   },
   "37816": {
     "<speed=0>今すぐに　スタート地点から復活すると\n奪われたポイントは　戻ってきませんが\nよろしいですか？<yesno><close>": ""
@@ -2454,10 +2454,10 @@
     "<%sM_monster>が　仲間に加わった！<me 61>\n<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_monster> joined the party!<me 61>\n<br><color_yellow>※You can't take any more monsters\nwith you!<color_white>"
   },
   "37873": {
-    "<%sM_send>が　モンスター酒場に送られ\n<%sM_monster>が　仲間（待機中）に加わった！<me 61>\n<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern\nand <%sM_monster> joined the party on\nstandby!<me 61>\n<br><color_yellow>※You can't take any more monsters\nwith you!<color_white>"
+    "<%sM_send>が　モンスター酒場に送られ\n<%sM_monster>が　仲間（待機中）に加わった！<me 61>\n<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern\nand <%sM_monster> joined the party on\nstandby!<me 61>\n<br><color_yellow>You cannot scout any more monsters!<color_white>"
   },
   "37874": {
-    "<%sM_send>が　モンスター酒場に送られ\n<%sM_monster>が　仲間に加わった！<me 61>\n<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern\nand <%sM_monster> joined the party!<me 61>\n<br><color_yellow>※You can't take any more monsters\nwith you!<color_white>"
+    "<%sM_send>が　モンスター酒場に送られ\n<%sM_monster>が　仲間に加わった！<me 61>\n<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern\nand <%sM_monster> joined the party!<me 61>\n<br><color_yellow>You cannot scout any more monsters!<color_white>"
   },
   "37881": {
     "<%sM_send>を　仲間にして\nモンスター酒場に 送った！<me 61>\n<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> became a companion\nand was sent to the Monster Tavern!<me 61>\n<br><color_yellow>※You can't take any more monsters\nwith you!<color_white>"
@@ -4122,7 +4122,7 @@
     "装備デッキの変更や\nデッキの編成を\n行います": "Change and\norganize your\ndeck."
   },
   "45750": {
-    "<speed=0>\n妖精の姿見に　クローバーの形をした\n『ドラゴンクエストＸショップ』アイコンが\n表示されるようになりました。\n<br>\nくわしくは　下記のサイトを　ご確認ください。\nドラゴンクエストＸ　目覚めし冒険者の広場\nhttps://hiroba.dqx.jp": ""
+    "<speed=0>\n妖精の姿見に　クローバーの形をした\n『ドラゴンクエストＸショップ』アイコンが\n表示されるようになりました。\n<br>\nくわしくは　下記のサイトを　ご確認ください。\nドラゴンクエストＸ　目覚めし冒険者の広場\nhttps://hiroba.dqx.jp": "<speed=0>\nThe Fairy Mirror now features items with a\nclover icon, indicating they are from the\nDragon Quest X Shop.\n<br>\nFor more information, please visit the\nofficial Dragon Quest X site.\nhttps://hiroba.dqx.jp"
   },
   "45752": {
     "<speed=0>\n装備中のデッキが　有効条件を\n満たしていないため\nタロットを使うことは　できない！": "<speed=0>\nYou can't use Tarots since the deck you have\nequipped is not valid!"
