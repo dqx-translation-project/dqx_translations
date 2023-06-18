@@ -516,7 +516,7 @@
     "<select_se_off>\nみぎて\nひだりて\n<select_end><break>": "<select_se_off>\nRight Hand\nLeft Hand\n<select_end><break>"
   },
   "12176": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　いいかね？\n<yesno><break>": "<%sL_KAITAI_ITEM> will be equipped in both\n<%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2>.\nThat all right?\n<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　いいかね？\n<yesno><break>": "<%sL_KAITAI_ITEM> will require\nboth hands to equip. That okay with you?\n<yesno><break>"
   },
   "12177": {
     "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だけど　構わないかい？\n<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two\nplaces, <%sL_EQUIP_POINT1> and\n<%sL_EQUIP_POINT2>, is that okay?<yesno><break>"
@@ -2172,7 +2172,7 @@
     "「<%sL_KAITAI_ITEM>か。\n　こいつは　<%sL_SYOKUNIN>じゃないと\n　装備できないが　いいんだな？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current crafting\nvocation can't equip it. Do you still want it?\n<yesno 2><break>"
   },
   "71468": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　いいかね？\n<yesno><break>": "<%sL_KAITAI_ITEM> will be equipped in both\n<%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2>.\nThat all right?\n<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　いいかね？\n<yesno><break>": "<%sL_KAITAI_ITEM> will require\nboth hands to equip. That okay with you?\n<yesno><break>"
   },
   "71469": {
     "「まいどありぃ！\n　ここで　装備していくかね？\n<yesno 2><break>": "Many thanks!\nWant to equip it here?\n<yesno 2><break>"
@@ -2844,10 +2844,10 @@
     "「<%sL_KAITAI_ITEM>か。\n　コイツは　<%sL_SYOKUNIN>以外じゃ\n　装備できねえが　いいんだな？\n<yesno 2><break>": ""
   },
   "99720": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　いいか？\n<yesno><break>": ""
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　いいか？\n<yesno><break>": "<%sL_KAITAI_ITEM> will require\nboth hands to equip. That okay with you?\n<yesno><break>"
   },
   "99721": {
-    "「へへっ　まいどあり……。\n　ここで　装備していくか？\n<yesno 2><break>": ""
+    "「へへっ　まいどあり……。\n　ここで　装備していくか？\n<yesno 2><break>": "Heh, heh, thank you...\nYou wanna equip that here?\n<yesno 2><break>"
   },
   "99722": {
     "「どっちの手に　装備するんだ？\n<break>": "Equip in which hand?\n<break>"
@@ -2892,7 +2892,7 @@
     "「一度　商品を選ぶと　今回の　ご縁では\n　他の商品を　お譲りできなくなりますが\n　こちらの　お買い上げでよいですか？\n<yesno><break>": "Once you buy an item, that's it. You won't be\nable to buy anything else. This is what you\nwant to buy?\n<yesno><break>"
   },
   "99736": {
-    "「へへっ　まいどあり……。\n　ここで　レシピを覚えていくか？\n<yesno 2><break>": ""
+    "「へへっ　まいどあり……。\n　ここで　レシピを覚えていくか？\n<yesno 2><break>": "Heh, heh, thank you...\nYou wanna learn that right now?\n<yesno 2><break>"
   },
   "99737": {
     "「うちは　1人1日1個しか買えない決まりだから\n　今日はおしまい。\n<bw_break>": "Our rule is that each person can only buy\none per day, so that's all for today.\n<bw_break>"
@@ -2985,7 +2985,7 @@
     "「そんじゃ　そうびぶくろの中に\n　入れておくぜ。\n<bw_break>": ""
   },
   "99768": {
-    "「へへっ　まいどあり……。\n　そんじゃ　そうびぶくろの中に\n　入れておくぜ。\n<bw_break>": ""
+    "「へへっ　まいどあり……。\n　そんじゃ　そうびぶくろの中に\n　入れておくぜ。\n<bw_break>": "Heh, heh, thank you...\nI'll go ahead and put it in your equipment\nbag.\n<yesno 2><break>"
   },
   "99769": {
     "「へへっ　そりゃあ　残念だ……。\n　他に　ほしい物は　あるか？\n<break>": ""
@@ -3156,7 +3156,7 @@
     "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_SYOKUNIN>でなければ\n　装備できないが　それでもいいのか？\n<yesno 2><break>": ""
   },
   "121000": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　それでもいいか？\n<yesno><break>": ""
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　それでもいいか？\n<yesno><break>": "<%sL_KAITAI_ITEM> will require\nboth hands to equip. Is that all right?\n<yesno><break>"
   },
   "121001": {
     "「ケケケッ　まいどあり！\n　すぐに　装備していくか？\n<yesno 2><break>": ""
@@ -3780,7 +3780,7 @@
     "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_SYOKUNIN>でなければ\n　装備できないが　それでもいいのか？\n<yesno 2><break>": ""
   },
   "122174": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　それでもいいか？\n<yesno><break>": ""
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　それでもいいか？\n<yesno><break>": "<%sL_KAITAI_ITEM> will require\nboth hands to equip. Is that all right?\n<yesno><break>"
   },
   "122175": {
     "「ケケッ　まいどあり！\n　すぐに　装備していくか？\n<yesno 2><break>": ""
@@ -4092,7 +4092,7 @@
     "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_SYOKUNIN>でなければ\n　装備できないが　それでもいいのか？\n<yesno 2><break>": ""
   },
   "122279": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　それでもいいか？\n<yesno><break>": ""
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　それでもいいか？\n<yesno><break>": "<%sL_KAITAI_ITEM> will require\nboth hands to equip. Is that all right?\n<yesno><break>"
   },
   "122280": {
     "「ケケッ　まいどあり！\n　すぐに　装備していくか？\n<yesno 2><break>": ""
@@ -5748,7 +5748,7 @@
     "「<%sL_KAITAI_ITEM>か。\n　こいつは　<%sL_SYOKUNIN>じゃないと\n　装備できないが　いいんだな？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>? Your current crafting\nvocation can't equip it. Do you still want it?\n<yesno 2><break>"
   },
   "139823": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　いいかね？\n<yesno><break>": "<%sL_KAITAI_ITEM> will be equipped in both\n<%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2>.\nThat all right?\n<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　いいかね？\n<yesno><break>": "<%sL_KAITAI_ITEM> will require\nboth hands to equip. That okay with you?\n<yesno><break>"
   },
   "139824": {
     "「まいどありぃ！\n　ここで　装備していくかね？\n<yesno 2><break>": "Many thanks!\nWant to equip it here?\n<yesno 2><break>"
