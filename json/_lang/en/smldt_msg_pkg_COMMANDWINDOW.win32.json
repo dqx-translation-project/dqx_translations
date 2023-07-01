@@ -4167,7 +4167,7 @@
     "<speed=0>他のプレイヤーとの冒険中に　戻ると\n冒険が出来るまで　時間が必要になります。\n<br>\n前にいた場所に　戻りますか？\nゴールドは　失いません。<yesno2><close>": ""
   },
   "45915": {
-    "<pipipi_mid>\n「今の舞台の　台本はこれだ。 \n　ベジセルクの戦詩を紡ぐため \n　キミの雄姿を　ボクに見せておくれ。 \n<br>\n「さあ　<pc>\n　誰と一緒に　舞台を演じるんだい？ \n<select>\n他の強戦士と演じる\n今のパーティで演じる\nやめる\n<select_end>\n<close>": ""
+    "<pipipi_mid>\n「今の舞台の　台本はこれだ。 \n　ベジセルクの戦詩を紡ぐため \n　キミの雄姿を　ボクに見せておくれ。 \n<br>\n「さあ　<pc>\n　誰と一緒に　舞台を演じるんだい？ \n<select>\n他の強戦士と演じる\n今のパーティで演じる\nやめる\n<select_end>\n<close>": "<pipipi_mid>\nHere's the current play's script. Show me your\ngallant figure so that we may weave an epic\nCucumberserk poem!\n<br>\nSo then, <pc>. Who would you like\nto perform with?\n<select>\nPerform with Others\nGo with Current Party\nCancel\n<select_end>\n<close>"
   },
   "45916": {
     "<speed=0>水の中では　傘装備・釣り具が\n非表示・使用不能になります。": "<speed=0>Umbrella and fishing gear will be hidden\nand unusable while swimming."
@@ -4203,7 +4203,7 @@
     "<%sM_npc>の話を聞く": "<%sM_npc>'s Story"
   },
   "46032": {
-    "<speed=0>\n<%sM_item>の書を　投げ捨てた！\n<br>\n<color_yellow>\nすでに　クルクルポシェットへ送った\nスキルノートが　いっぱいで送れないようだ。\n報酬を　受け取りに行こう！\n<end>": ""
+    "<speed=0>\n<%sM_item>の書を　投げ捨てた！\n<br>\n<color_yellow>\nすでに　クルクルポシェットへ送った\nスキルノートが　いっぱいで送れないようだ。\n報酬を　受け取りに行こう！\n<end>": "<speed=0>\n<%sM_item>'s Book was thrown away!\n<br>\n<color_yellow>\nYou've already sent the Bag o' Books plenty\nof Skill Books. Go and receive your reward!\n<end>"
   },
   "46033": {
     "<speed=0>\n<se_nots Joutyu_SE 39>\n<%sM_item>の書は　魔法のチカラで\nクルクルポシェットのもとに　送られた！\n<br>\n<color_yellow>\nこれ以上は　送れないようだ。\nクルクルポシェットのもとへ\n報酬を　受け取りに行こう！\n<end>": ""
@@ -4269,7 +4269,7 @@
     "<speed=0>\n今　装備している　服装です！\n<end>": "<speed=0>\nThat's what you're wearing now!\n<end>"
   },
   "46356": {
-    "<pipipi_mid>\n「今の舞台の　台本はこれだ。 \n　ベジセルクの戦詩を紡ぐため \n　キミの雄姿を　ボクに見せておくれ。 \n<br>\n「さあ　<pc>\n　誰と一緒に　舞台を演じるんだい？ \n<select>\n今のパーティで演じる\nやめる\n<select_end>\n<close>": "<pipipi_mid>\nHere's the current play's script. Show me your\ngallant figure so that we may weave an epic\nCucumberserk poem!\n<br>\nSo then, <pc>. Who would you like\nto perform with?\n<select>\nGo with Current Party\nCancel\n<close>"
+    "<pipipi_mid>\n「今の舞台の　台本はこれだ。 \n　ベジセルクの戦詩を紡ぐため \n　キミの雄姿を　ボクに見せておくれ。 \n<br>\n「さあ　<pc>\n　誰と一緒に　舞台を演じるんだい？ \n<select>\n今のパーティで演じる\nやめる\n<select_end>\n<close>": "<pipipi_mid>\nHere's the current play's script. Show me your\ngallant figure so that we may weave an epic\nCucumberserk poem!\n<br>\nSo then, <pc>. Who would you like\nto perform with?\n<select>\nGo with Current Party\nCancel\n<select_end>\n<close>"
   },
   "46378": {
     "<speed=0>\nそうびぶくろが　いっぱいで\n受け取ることが　できません！\n<end>": ""
