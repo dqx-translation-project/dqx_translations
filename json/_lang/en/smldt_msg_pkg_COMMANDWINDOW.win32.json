@@ -30,7 +30,7 @@
     "<speed=0><%sM_item>を　捨てますか？<yesno2><close>": "<speed=0>Throw away <%sM_item>?<yesno2><close>"
   },
   "4973": {
-    "<speed=0><%sM_item>を　投げ捨てた！": "<speed=0><%sM_item> was thrown away!"
+    "<speed=0><%sM_item>を　投げ捨てた！": "<speed=0>Threw away the <%sM_item>!"
   },
   "4975": {
     "<speed=0>しかし　ここからでは　読めなかった。": "<speed=0>But you couldn't read it from here."
@@ -303,7 +303,7 @@
     "※削除予定!": "For Deletion!"
   },
   "15249": {
-    "<speed=0><%sM_item>を　<%dM_hiki_item_num>個\n投げ捨てた！": "<speed=0><%dM_hiki_item_num> <%sM_item> was thrown away!"
+    "<speed=0><%sM_item>を　<%dM_hiki_item_num>個\n投げ捨てた！": "<speed=0>Threw away the <%dM_hiki_item_num> <%sM_item>!"
   },
   "15250": {
     "<%sM_pc>は　ルーラストーンを使った！": "<%sM_pc> used a Zoomstone!"
@@ -1440,7 +1440,7 @@
     "<speed=0><%sM_item><%sM_plusnum>は　手に入りづらい\n貴重な物ですが　本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> is valuable, are\nyou sure you want to throw it away?<yesno2><close>"
   },
   "28747": {
-    "<speed=0><%sM_item><%sM_plusnum>を　投げ捨てた！": "<speed=0><%sM_item><%sM_plusnum> was thrown away!"
+    "<speed=0><%sM_item><%sM_plusnum>を　投げ捨てた！": "<speed=0>Threw away the <%sM_item><%sM_plusnum>!"
   },
   "28748": {
     "<speed=0>\n<%sM_pc2>は　『いまどんな？設定』が\n『仲間募集中』に　なっていない相手です。\nさそう時は　事前に相手の確認をとりましょう。<br>\n<%sM_pc2>を　仲間に　さそいますか？\n<yesno><close>": "<speed=0>\n<%sM_pc2> doesn't have the\n\"Seeking Party\" status icon set. Make sure\nit's okay with the other person first.<br>\nInvite <%sM_pc2> to a party?<yesno><close>"
@@ -4188,10 +4188,10 @@
     "学園用の衣装\n『○○』が\n手に入る": "You can get\n\"○○\" costumes\nfor the school."
   },
   "45993": {
-    "3500衣装": "3500Outfit"
+    "3500衣装": "3500 Outfit"
   },
   "45994": {
-    "3450衣装": "3450Outfit"
+    "3450衣装": "3450 Outfit"
   },
   "45999": {
     "<%sM_npc>のお願い": "<%sM_npc>'s Request"
@@ -4203,10 +4203,10 @@
     "<%sM_npc>の話を聞く": "<%sM_npc>'s Story"
   },
   "46032": {
-    "<speed=0>\n<%sM_item>の書を　投げ捨てた！\n<br>\n<color_yellow>\nすでに　クルクルポシェットへ送った\nスキルノートが　いっぱいで送れないようだ。\n報酬を　受け取りに行こう！\n<end>": "<speed=0>\n<%sM_item>'s Book was thrown away!\n<br>\n<color_yellow>\nYou've already sent the Bag o' Books plenty\nof Skill Books. Go and receive your reward!\n<end>"
+    "<speed=0>\n<%sM_item>の書を　投げ捨てた！\n<br>\n<color_yellow>\nすでに　クルクルポシェットへ送った\nスキルノートが　いっぱいで送れないようだ。\n報酬を　受け取りに行こう！\n<end>": "<speed=0>\nThrew away the <%sM_item> Book!\n<br>\n<color_yellow>\nYou've already sent the Bag o' Books plenty\nof Skill Books. Go and receive your reward!\n<end>"
   },
   "46033": {
-    "<speed=0>\n<se_nots Joutyu_SE 39>\n<%sM_item>の書は　魔法のチカラで\nクルクルポシェットのもとに　送られた！\n<br>\n<color_yellow>\nこれ以上は　送れないようだ。\nクルクルポシェットのもとへ\n報酬を　受け取りに行こう！\n<end>": ""
+    "<speed=0>\n<se_nots Joutyu_SE 39>\n<%sM_item>の書は　魔法のチカラで\nクルクルポシェットのもとに　送られた！\n<br>\n<color_yellow>\nこれ以上は　送れないようだ。\nクルクルポシェットのもとへ\n報酬を　受け取りに行こう！\n<end>": "<speed=0>\n<se_nots Joutyu_SE 39>\nThe <%sM_item> Book was\nmagically sent to the Bag o' Books!\n<br>\n<color_yellow>\nIt seems that you can't send any more.\nReturn to the Bag o' Books so you can\nreceive your reward!\n<end>"
   },
   "46034": {
     "<speed=0>\n<se_nots Joutyu_SE 39>\n<%sM_item>の書は　魔法のチカラで\nクルクルポシェットのもとに　送られた！\n現在　<%nM_SEND_NUM>冊　渡している。\n<end>": ""
