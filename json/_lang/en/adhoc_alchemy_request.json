@@ -54,7 +54,7 @@
     "<speed=0>\n「錬金の依頼」の　説明です！\n<br>\nツボ錬金職人か　ランプ錬金職人に\n自分の装備品に　錬金効果を付けてもらう\n依頼をすることができます。\n<br>\n依頼したい錬金の内容を設定して　申し込み\n相手にＯＫしてもらえれば　依頼は成立です。\nすでに装備済みの装備品でも　依頼できます。\n<br>\n依頼した錬金に使う物は　必要な素材\n効果を付けたい装備　使用する職人道具など\nすべて　依頼する側が用意する決まりです。\n<br>\nただし　錬金には　失敗が　つきものです。\n弱い効果や　想定外の効果が付くこともあるので\nリスクを覚悟して　申し込んでください。": "<speed=0>This will explain \"Alchemy Requests\"!\n<br>\nYou can request a Pot or Lamp Alchemist to\nadd alchemy effects to your equipment.\n<br>\nThe request will succeed once you choose what\nyou want, and the other player accepts.\nYou can request items you have equipped.\n<br>\nThe requestor must provide all necessary\nmaterials and crafting tools, as well as the\nequipment.\n<br>\nAs always, please remember that alchemy is a\nvery risky procedure. You may end up with\nbad or unwanted effects."
   },
   "66715": {
-    "錬金の依頼を中止したため　錬金が失敗しました。": "The alchemy request was canceled. The alchemy\nfailed..."
+    "錬金の依頼を中止したため　錬金が失敗しました。": "The request was cancelled, so the alchemy\nwas not successful."
   },
   "66716": {
     "<%sL_PC>が <%sL_SYOKUNIN_TYPE>の依頼を 取り消しました。": "<%sL_PC> canceled the request of\n<%sL_SYOKUNIN_TYPE>..."
@@ -87,10 +87,10 @@
     "職人仕事のお礼として　<%sL_PC>に渡す\nゴールドを　設定してください。\n錬金の結果に関わらず　相手に支払うものです。\n<break>": "I'd like to set the amount of gold I can give\nto <%sL_PC> as a reward for his\ncraftsmanship. Pay the other party regardless\n<br>\nof the result of the smelting...<break>"
   },
   "67354": {
-    "どの装備品に　錬金効果を付けますか？<break>": "Which piece of equipment do\nyou want to attach this alchemical\neffect to? <break>"
+    "どの装備品に　錬金効果を付けますか？<break>": "Which item would you like to add alchemy\neffects to?<break>"
   },
   "67355": {
-    "<%sL_PC>は　<%sL_SKILL_NAME>職人レベル<%dL_SYOKUNIN_LV>です。\n<%sL_ITEM><%sL_PLUSNUM>に付けたい\n錬金効果を　選んでください。<break>": "<%sL_PC> is <%sL_SKILL_NAME> craftsman level\n<%dL_SYOKUNIN_LV... Choose the alchemy effect\nyou want to add to <%sL_ITEM><%sL_PLUSNUM>...<break>"
+    "<%sL_PC>は　<%sL_SKILL_NAME>職人レベル<%dL_SYOKUNIN_LV>です。\n<%sL_ITEM><%sL_PLUSNUM>に付けたい\n錬金効果を　選んでください。<break>": "<%sL_PC> is <%sL_SKILL_NAME> Level <%dL_SYOKUNIN_LV>.\nPlease choose the alchemy to add to the\n<%sL_ITEM><%sL_PLUSNUM>.<break>"
   },
   "67522": {
     "錬金効果を付けられる装備品を持っていないので\n<%sL_SYOKUNIN_TYPE>の依頼を　申し込めません。": "I don't have any equipment that can add an\nalchemical effect, so I can request a\n<%sL_SYOKUNIN_TYPE>..."
