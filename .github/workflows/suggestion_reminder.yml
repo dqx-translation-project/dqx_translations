@@ -18,6 +18,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - run: pip install -r .github/workflows/check_suggestions/requirements.txt
-
-      - run: python .github/workflows/check_suggestions/check_suggestions.py
+      - name: Check for suggestions
+        env:
+          WEBLATE_HOST: ${{ secrets.WEBLATE_HOST }}
+          WEBLATE_API_KEY: ${{ secrets.WEBLATE_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          pip install -r .github/workflows/check_suggestions/requirements.txt
+          python .github/workflows/check_suggestions/check_suggestions.py
