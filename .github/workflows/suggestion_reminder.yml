@@ -1,0 +1,23 @@
+---
+name: weblate-suggestion-reminder
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  reminder:
+    name: "Weblate suggestion reminder"
+    runs-on: "ubuntu"
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v3
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - run: pip install -r .github/workflows/check_suggestions/requirements.txt
+
+      - run: python .github/workflows/check_suggestions/check_suggestions.py
