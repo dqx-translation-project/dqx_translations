@@ -8,7 +8,7 @@ on:
 jobs:
   reminder:
     name: "Weblate suggestion reminder"
-    runs-on: "ubuntu"
+    runs-on: "ubuntu-latest"
     steps:
       - name: Checkout this repository
         uses: actions/checkout@v3
