@@ -174,16 +174,16 @@
     "「あ　<pc>さん　こんにちは！\n　おかげさまで　フィッシングコンテストは\n　大盛況のうちに　終了しました。\n<bw_break>": ""
   },
   "159695": {
-    "「測定していた　魚のサイズは　\n　<%dL_SPFISH_SIZE>ｃｍを　超えてるので\n　このサイズ別報酬を　差し上げます！\n<end>": "The size of the fish you were measuring is\ngreater than <%dL_SPFISH_SIZE> centimeters,\nso you will receive this size-based reward!<end>"
+    "「測定していた　魚のサイズは　\n　<%dL_SPFISH_SIZE>ｃｍを　超えてるので\n　このサイズ別報酬を　差し上げます！\n<end>": "The size of this fish measures over\n<%dL_SPFISH_SIZE> cm, so please take this size\nreward!\n<end>"
   },
   "159696": {
-    "「……あれ？　どうやら\n　持ち物が　いっぱいのようですよ？\n<br>\n「持ち物を　整理して\n　また　いらしてくださいね。\n<end>": "... What? You seem to have a lot of stuff.\nPlease organize your belongings and come\nback...<end>"
+    "「……あれ？　どうやら\n　持ち物が　いっぱいのようですよ？\n<br>\n「持ち物を　整理して\n　また　いらしてくださいね。\n<end>": "Hm? Your belongings seem to be full. Please\norganize your stuff first and then come back\nto see me.\n<end>"
   },
   "159697": {
-    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM2>を\n<%nL_NUM>個　受け取った！\n<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc> received <%sL_PRIZE_ITEM2> in <%nL_NUM>\npieces!\n<se_nots System 7><pipipi_on><end>"
+    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM2>を\n<%nL_NUM>個　受け取った！\n<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc> received <%dL_NUM> <%sL_PRIZE_ITEM2>!\n<se_nots System 7><pipipi_on><end>"
   },
   "159698": {
-    "「あ　<pc>さん。\n　この前　お渡しできなかった\n　サイズ別報酬を　お渡ししますね。\n<end>": ""
+    "「あ　<pc>さん。\n　この前　お渡しできなかった\n　サイズ別報酬を　お渡ししますね。\n<end>": "Oh, <pc>! I'll give you the size\nreward I couldn't give you last time!\n<end>"
   },
   "160160": {
     "「こんにちは！\n　今は　旬のさかなの時期ではないため\n　フィッシングコンテストは　開催してません。\n<br>\n「みなさんに　釣ってほしい\n　旬のさかなが　現れるまで\n　しばらくの間　お待ちください。\n<br_break>": "Hello! As the fish are not in season right\nnow, we will not be holding a fishing\ncontest... We'll have to wait a little while\n<br>\nfor the fish of the season to appear...<br_break>"
@@ -297,7 +297,7 @@
     "「<%sL_SUBFISH_ITEM>を\n　釣ってきたんですね！\n　それでは　さかなぶくろを拝見……。\n<end>": "You've caught <%sL_SUBFISH_ITEM>!\nLet me just take a look at your fish bag...\n<end>"
   },
   "175879": {
-    "<pipipi_on>「……<%.1fL_MAXSUB_SIZE>ｃｍ！？\n　すごい！　<%sL_SUBFISH_ITEM>は\n　ここまで　サイズが変化するんだ……。\n<br>\n「あ！　もちろん　<pc>さんが\n　今までに釣った　<%sL_SUBFISH_ITEM>の中で\n　一番の　サイズですよっ！\n<br>\n「さっそく　<%sL_SUBFISH_ITEM>の記録を\n　更新しておきますね！\n<bw_break>": "<pipipi_on>... <%.1fL_MAXSUB_SIZE> cm! That's amazing!\n<%sL_SUBFISH_ITEM> can change its size this\nmuch... Ah! Of course.<pc> It's the biggest fish <%sL_SUBFISH_ITEM> has\never caught! I'll update the\n<%sL_SUBFISH_ITEM> record right away!<bw_break>"
+    "<pipipi_on>「……<%.1fL_MAXSUB_SIZE>ｃｍ！？\n　すごい！　<%sL_SUBFISH_ITEM>は\n　ここまで　サイズが変化するんだ……。\n<br>\n「あ！　もちろん　<pc>さんが\n　今までに釣った　<%sL_SUBFISH_ITEM>の中で\n　一番の　サイズですよっ！\n<br>\n「さっそく　<%sL_SUBFISH_ITEM>の記録を\n　更新しておきますね！\n<bw_break>": "<pipipi_on>...<%.1fL_MAXSUB_SIZE> cm?! That's amazing!\nTo think that its size could really change\nthat much...\n<br>\nAh, of course! This is the biggest\n<%sL_SUBFISH_ITEM> you've caught so far!\n<br>\nI'll go ahead and update that record right\nnow!\n<bw_break>"
   },
   "175880": {
     "<pipipi_off>釣り師範ナツリは\n<pc>の　さかなぶくろにある\n<%sL_SUBFISH_ITEM>を　調べ始めた！\n<end>": "<pipipi_off>Fishing Master Nutri\n<pc> I started looking up <%sL_SUBFISH_ITEM> in\nthe fish bag of<end>"
@@ -336,7 +336,7 @@
     "「測定していた　<%sL_SUBFISH_ITEM>のサイズは　\n　<%dL_SUBFISH_SIZE>ｃｍを超えてますので\n　これを　差し上げます！\n<end>": "The size of the <%sL_SUBFISH_ITEM> you were\nmeasuring is over <%dL_SUBFISH_SIZE> cm, so\nI'll give you this one!<end>"
   },
   "177247": {
-    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM2>を\n<%nL_NUM>個　受け取った！\n<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc> received <%sL_PRIZE_ITEM2> in <%nL_NUM>\npieces!\n<se_nots System 7><pipipi_on><end>"
+    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM2>を\n<%nL_NUM>個　受け取った！\n<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc> received <%dL_NUM> <%sL_PRIZE_ITEM2>!\n<se_nots System 7><pipipi_on><end>"
   },
   "177372": {
     "「あ　<pc>さん。\n<br>\n「この前　お渡しできなかった\n　<%sL_SUBFISH_ITEM>報酬を\n　これから　お渡ししますね。\n<end>": ""
@@ -345,22 +345,22 @@
     "<pipipi_off><color_yellow>\n報酬獲得条件と内容は　『報酬を見る』の\n『<%sL_SUBFISH_ITEM>報酬を見る』から　確認できます。\n<pipipi_on><color_white><end>": "<pipipi_off><color_yellow>To see the conditions and details of the\nreward, go to \"View Reward\" and \"View\n<%sL_SUBFISH_ITEM> Reward\".<pipipi_on><color_white><end>"
   },
   "193674": {
-    "「コンテストは　まだまだ\n　開催中です！\n<br>\n「私に　色々な大きさの\n　<%sL_SPFISH_ITEM>を\n　見せてくださいね！\n<bw_break>": "The contest is still open! Please show me\nyour <%sL_SPFISH_ITEM> in various sizes!<bw_break>"
+    "「コンテストは　まだまだ\n　開催中です！\n<br>\n「私に　色々な大きさの\n　<%sL_SPFISH_ITEM>を\n　見せてくださいね！\n<bw_break>": "The contest is still underway! Please show\nme your <%sL_SPFISH_ITEM>\nin various different sizes!\n<bw_break>"
   },
   "193675": {
-    "<pipipi_on>「……<%.1fL_MAXFISH_SIZE>ｃｍ！？\n　これは……　すごいです！\n<br>\n「<pc>さんが　今までに釣った\n　<%sL_SPFISH_ITEM>の中で\n　一番小さい　サイズです！\n<br>\n「さすが　<pc>さん！\n　さっそく　最小サイズの記録を\n　更新しておきますね！\n<end>": "<pipipi_on>... <%.1fL_MAXFISH_SIZE>cm! This is... It's\namazing!<pc>  That's the smallest size <%sL_SPFISH_ITEM>\nthat <%sL_SPFISH_ITEM> has ever caught!\nThat's great!<pc> I'll get right on it. I'll update the minimum\nsize record right away!<end>"
+    "<pipipi_on>「……<%.1fL_MAXFISH_SIZE>ｃｍ！？\n　これは……　すごいです！\n<br>\n「<pc>さんが　今までに釣った\n　<%sL_SPFISH_ITEM>の中で\n　一番小さい　サイズです！\n<br>\n「さすが　<pc>さん！\n　さっそく　最小サイズの記録を\n　更新しておきますね！\n<end>": "...<%.1fL_MAXFISH_SIZE> cm?!\nThis is...amazing!\n<br>\nThis is the smallest <%sL_SPFISH_ITEM>\nthat you've caught so far!\n<br>\nAmazing job, <pc>! I'll go ahead\nand update the record for your smallest\nsize!\n<end>"
   },
   "193676": {
-    "<select_se_off>\nサイズ別報酬を見る\nランクイン報酬を見る\n<select_end>\n<break>": "<select_se_off>\nSee compensation by size\nView Ranked Rewards\n<select_end>\n<break>"
+    "<select_se_off>\nサイズ別報酬を見る\nランクイン報酬を見る\n<select_end>\n<break>": "<select_se_off>\nView Size Rewards\nView Ranked Rewards\n<select_end>\n<break>"
   },
   "193677": {
-    "<select_se_off>\nサイズ別報酬を見る\nランクイン報酬を見る\nピタリ賞の報酬を見る\n<select_end>\n<break>": "<select_se_off>\nSee compensation by size\nView Ranked Rewards\nSee the rewards for the Pitfall Prize\n<select_end>\n<break>"
+    "<select_se_off>\nサイズ別報酬を見る\nランクイン報酬を見る\nピタリ賞の報酬を見る\n<select_end>\n<break>": "<select_se_off>\nView Size Rewards\nView Ranked Rewards\nView Perfect Size Reward\n<select_end>\n<break>"
   },
   "193678": {
-    "<select_se_off>\nコンテストの基本ルール\n報酬について\n<select_end>\n<break>": "<select_se_off>\nBasic rules of the contest\nAbout Compensation\n<select_end>\n<break>"
+    "<select_se_off>\nコンテストの基本ルール\n報酬について\n<select_end>\n<break>": "<select_se_off>\nBasic Rules\nAbout Rewards\n<select_end>\n<break>"
   },
   "193679": {
-    "<select_se_off>\nコンテストの基本ルール\n報酬について\n<select_end>\n<break>": "<select_se_off>\nBasic rules of the contest\nAbout Compensation\n<select_end>\n<break>"
+    "<select_se_off>\nコンテストの基本ルール\n報酬について\n<select_end>\n<break>": "<select_se_off>\nBasic Rules\nAbout Rewards\n<select_end>\n<break>"
   },
   "193680": {
     "「最小ランキングは　旬のさかなのサイズが\n　大きい順の　ランキングとは別に\n　サイズの小さい順で　ランク付けをします。\n<br>\n「サイズが大きい順の　ランキング同様に\n　旬のさかなを　私に見せてもらえれば\n　最小ランキングへ　サイズを登録します。\n<br>\n「登録されたサイズが　最も小さい\n　上位２００人の方へ\n　豪華な報酬を　お渡しします！\n<br>\n「釣り老師ハルモス一門の中で\n　だれが　最も小さな魚を釣り\n　釣り道の高みに　近づけるのか……\n<br>\n「くぅぅぅ！　ワクワクしてきましたよ！\n　<pc>さん！\n　頂点目指して　がんばってください！\n<end>": "The minimum ranking is a separate ranking of\nseasonal fish in order of size from the\nmaximum ranking... As with the large size\n<br>\nranking, if you show me your seasonal fish,\nI'll register their size in the minimum\nranking... The top 200 fishermen with the\n<br>\nsmallest size will receive a generous reward!\nLet's see who among the old masters of Halmos\ncan catch the smallest fish and reach the\n<br>\nheights of the fishing path... Aah! I'm\ngetting excited!<pc> Good luck! Please do your best to reach the\ntop!<end>"
@@ -378,13 +378,13 @@
     "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM_R1>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%sL_PRIZE_ITEM_R2>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%sL_PRIZE_ITEM_R3>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%dL_GOLD>ゴールドを\n受け取った！<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc>       has received <%sL_PRIZE_ITEM_R1>!\n<se_nots System 7> \n<pc>     has received <%sL_PRIZE_ITEM_R2>!\n<se_nots System 7> \n<pc>   has received <%sL_PRIZE_ITEM_R3>!\n<se_nots System 7> \n<pc> has received <%dL_GOLD> gold!\n<se_nots System 7><pipipi_on><end>"
   },
   "193685": {
-    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM_R1>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%sL_PRIZE_ITEM_R2>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%dL_GOLD>ゴールドを\n受け取った！<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc>     has received <%sL_PRIZE_ITEM_R1>!\n<se_nots System 7> \n<pc>   has received <%sL_PRIZE_ITEM_R2>!\n<se_nots System 7> \n<pc> has received <%dL_GOLD> gold!\n<se_nots System 7><pipipi_on><end>"
+    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM_R1>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%sL_PRIZE_ITEM_R2>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%dL_GOLD>ゴールドを\n受け取った！<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc> received <%sL_PRIZE_ITEM_R1>!\n<se_nots System 7>\n<br>\n<pc> received <%sL_PRIZE_ITEM_R2>!\n<se_nots System 7>\n<br>\n<pc> received <%dL_GOLD> Gold!\n<se_nots System 7><pipipi_on><end>"
   },
   "193686": {
-    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM_R1>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%sL_PRIZE_ITEM_R2>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%dL_GOLD>ゴールドを\n受け取った！<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc>     has received <%sL_PRIZE_ITEM_R1>!\n<se_nots System 7> \n<pc>   has received <%sL_PRIZE_ITEM_R2>!\n<se_nots System 7> \n<pc> has received <%dL_GOLD> gold!\n<se_nots System 7><pipipi_on><end>"
+    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM_R1>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%sL_PRIZE_ITEM_R2>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%dL_GOLD>ゴールドを\n受け取った！<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc> received <%sL_PRIZE_ITEM_R1>!\n<se_nots System 7>\n<br>\n<pc> received <%sL_PRIZE_ITEM_R2>!\n<se_nots System 7>\n<br>\n<pc> received <%dL_GOLD> Gold!\n<se_nots System 7><pipipi_on><end>"
   },
   "193687": {
-    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM_R1>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%dL_GOLD>ゴールドを\n受け取った！<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc>   has received <%sL_PRIZE_ITEM_R1>!\n<se_nots System 7> \n<pc> has received <%dL_GOLD> gold!\n<se_nots System 7><pipipi_on><end>"
+    "<pipipi_off>\n<pc>は\n<%sL_PRIZE_ITEM_R1>を\n受け取った！\n<se_nots System 7><br>\n<pc>は\n<%dL_GOLD>ゴールドを\n受け取った！<se_nots System 7><pipipi_on><end>": "<pipipi_off>\n<pc> received <%sL_PRIZE_ITEM_R1>!\n<se_nots System 7>\n<br>\n<pc> received <%dL_GOLD> Gold!\n<se_nots System 7><pipipi_on><end>"
   },
   "193688": {
     "「……あら？　<pc>さん\n　すでに　<%sL_PRIZE_ITEM_PZ1>を\n　持ってるんですね。\n<br>\n「……え？\n　ということは　<pc>さんは\n　以前にも　ランクインをしている……\n<br>\n「なんてことなのっ！\n　<pc>さんは　まさに伝説級の\n　釣り人だったんですねっ！\n<br>\n「それでは　伝説級の釣り人の\n　<pc>さんに　こちらの\n　ランクイン報酬を　差し上げます！\n<end>": "... What?<pc>    I already have <%sL_PRIZE_ITEM_PZ1>... ...\nWhat? So that means<pc>   You've been ranked before... Oh, my God!<pc>  So you're a legendary fisherman, aren't you?\nLet's take a look at the legendary\nfisherman's<pc> We're giving away this rank-in reward to you,\nsir!<end>"
