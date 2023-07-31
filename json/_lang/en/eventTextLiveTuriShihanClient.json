@@ -123,16 +123,16 @@
     "「ちなみに\n　前回までの　ランキングは\n　こうなってましたよ。\n<end>": "Previously on Prison Break...<end>"
   },
   "159416": {
-    "「現在の　ランキングを\n　見るのですね。\n<br>\n「ランキングは　リアルタイム反映ではないため\n　最近登録したサイズが　反映されてないことも\n　ありますので　ご注意くださいね。\n<end>": "You can see the current ranking... Please\nnote that the rankings are not reflected in\nreal time, so the size you recently\n<br>\nregistered may not be reflected...<end>"
+    "「現在の　ランキングを\n　見るのですね。\n<br>\n「ランキングは　リアルタイム反映ではないため\n　最近登録したサイズが　反映されてないことも\n　ありますので　ご注意くださいね。\n<end>": "So you'd like to see the current rankings\nthen, huh?\n<br>\nJust remember that the rankings don't\nupdate in real time, so the size you just\nregistered may not be reflected just yet.\n<end>"
   },
   "159417": {
     "「どの回の　ランキングが\n　見たいですか？\n<break>": "Which one would you like to see ranked?<break>"
   },
   "159418": {
-    "「ランキングについて\n　何を　したいですか？\n<break>": "What would you like to do about your ranking?<break>"
+    "「ランキングについて\n　何を　したいですか？\n<break>": "What would you like to do?\n<break>"
   },
   "159419": {
-    "<select_se_off>\n現在のランキングを見る\n過去のランキングを見る\n公開設定を変更\n<select_end>\n<break>": "<select_se_off>\nSee the current ranking\nView past rankings\nChange public settings\n<select_end>\n<break>"
+    "<select_se_off>\n現在のランキングを見る\n過去のランキングを見る\n公開設定を変更\n<select_end>\n<break>": "<select_se_off>\nView Current Rankings\nView Past Rankings\nChange Visibility\n<select_end>\n<break>"
   },
   "159420": {
     "<select_se_off>\nランキングを見る\n公開設定を変更\n<select_end>\n<break>": "<select_se_off>\nView Rankings\nChange public settings\n<select_end>\n<break>"
@@ -414,7 +414,7 @@
     "「あっ！　<pc>さん！\n　待ってくださいっ！\n　実は　これで終わりじゃないんですっ！\n<br>\n「驚くべきことに　なんとっ！\n　<pc>さんは　最小サイズでも\n　２００位以内に　ランクインしているんですっ！\n<br>\n「さっそく　こちらのランクイン報酬も\n　お渡ししたい　ところなのですが……\n<br>\n「どうやら　<pc>さんの所持金が\n　いっぱいに　なってしまったようですね。\n<br>\n「いったん預けたり　お金を使ったりしてから\n　また来てください！\n<end>": "Aah!<pc>   Three! Please wait! Actually, this isn't the\nend! Amazingly, what!<pc>  I'm sure you'll be pleased to know that even\nwith the smallest size, you're still in the\ntop 200! I'd like to give you the reward for\n<br>\nranking in this category, but... But it seems<pc> I'm afraid that you've run out of money...\nPlease deposit or spend your money and come\nback!<end>"
   },
   "194705": {
-    "「……あっと　そういえば　<pc>さんは\n　最大サイズの　ランキングにも\n　入賞していらっしゃいましたね。\n<br>\n「ということは　すでに　<%sL_PRIZE_ITEM_PZ1>は\n　持っていらっしゃるので　<pc>さんには\n　こちらの　ランクイン報酬を差し上げます！\n<end>": " Oh, by the way<pc>  You've also won the largest size ranking...\nSo, since you already have\n<%sL_PRIZE_ITEM_PZ1>...<pc> You will be rewarded with this rank-in\nreward!<end>"
+    "「……あっと　そういえば　<pc>さんは\n　最大サイズの　ランキングにも\n　入賞していらっしゃいましたね。\n<br>\n「ということは　すでに　<%sL_PRIZE_ITEM_PZ1>は\n　持っていらっしゃるので　<pc>さんには\n　こちらの　ランクイン報酬を差し上げます！\n<end>": "...Oh, come to think of it...you've already\nranked in the Largest Size rankings, haven't\nyou?\n<br>\nSince you already have the <%sL_PRIZE_ITEM_PZ1>,\nyou can have this as a reward instead!\n<end>"
   },
   "194706": {
     "「ちなみに　<pc>さんの\n　今回の記録は……\n<br>\n「最大サイズ　<%.1fL_MAXFISH_SIZE>ｃｍ\n　最小サイズ　<%.1fL_MAXSUB_SIZE>ｃｍでした。\n<bw_break>": "incidentally<pc> This time, the record is... Maximum size\n<%.1fL_MAXFISH_SIZE>cm Minimum size\n<%.1fL_MAXSUB_SIZE>cm...<bw_break>"
@@ -513,7 +513,7 @@
     "「ピタリ賞の魚を見せてくれたら\n　特別な　傘装備と　抽選でリアルな副賞を\n　差し上げますよ！\n<br>\n「ただ　ピタリ賞の魚を\n　２匹以上釣っても　報酬はないので\n　ご了承ください……。\n<end>": "If you show us your winning fish, we'll give\nyou a special umbrella and raffle off a real\nprize! But please note that there will be no\n<br>\nreward for catching more than one fish...<end>"
   },
   "282264": {
-    "「……あっと　そういえば<pc>さんは\n　ピタリ賞のお魚を\n　釣って　いらっしゃいましたね。\n<br>\n「ということは　すでに　<%sL_PRIZE_ITEM_PZ1>は\n　持っていらっしゃるので　<pc>さんには\n　替わりに　こちらのアイテムを差し上げます！\n<end>": " Oh, by the way<pc>  You've already caught the prize fish... So,\nsince you already have\n<%sL_PRIZE_ITEM_PZ1>...<pc> You will receive this item instead!<end>"
+    "「……あっと　そういえば<pc>さんは\n　ピタリ賞のお魚を\n　釣って　いらっしゃいましたね。\n<br>\n「ということは　すでに　<%sL_PRIZE_ITEM_PZ1>は\n　持っていらっしゃるので　<pc>さんには\n　替わりに　こちらのアイテムを差し上げます！\n<end>": "...Oh, come to think of it...you've already\ncaught a Perfect Size fish, haven't you?\n<br>\nSince you already have the <%sL_PRIZE_ITEM_PZ1>,\nyou can have this as a reward instead!\n<end>"
   },
   "282265": {
     "「……ということで\n　第６回フィッシングコンテスト\n　開催です！\n<br>\n「今回の　お題となる\n　旬のさかなは……\n<br>\n「『<%sL_SPFISH_ITEM>』です！\n<br>\n「そして　『<%sL_SPFISH_ITEM>』が\n　出現している　釣り場は……\n<br>\n「<%sL_SPFISH_CONTI1>　<%sL_SPFISH_MAP1>\n　<%sL_SPFISH_CONTI2>　<%sL_SPFISH_MAP2>\n　<%sL_SPFISH_CONTI3>　<%sL_SPFISH_MAP3>です！\n<br>\n「これら地域の　どこかに\n　『<%sL_SPFISH_ITEM>』が　いるはずです。\n<br>\n「私のところへ持ってきた　旬のさかなのサイズが\n　参加者の中で　上位２００位内に入っていた場合\n　コンテスト終了後に　豪華報酬を授与します！\n<end>": "... That's why we're holding the 6th Annual\nFishing Contest! The theme for this year's\ncontest is the fish of the season...\n<br>\n<%sL_SPFISH_ITEM>! And the fishing grounds\nwhere <%sL_SPFISH_ITEM> appears are...\n<%sL_SPFISH_CONTI1> <%sL_SPFISH_MAP1>\n<br>\n<%sL_SPFISH_CONTI2> <%sL_SPFISH_MAP2>\n<%sL_SPFISH_CONTI3> <%sL_SPFISH_MAP3>! If\nthere's a <%sL_SPFISH_ITEM> in any of these\n<br>\nareas... If the size of the seasonal fish you\nbring to me is in the top 200 of the\nparticipants, you'll receive a huge reward at\n<br>\nthe end of the contest!<end>"
