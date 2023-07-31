@@ -90,7 +90,7 @@
     "<speed=0><%sL_RECIPE>を　仕上げます。\nよろしいですか？\n<yesno><break>": "<speed=0>Finish working on the\n<%sL_RECIPE>?\n<yesno><break>"
   },
   "76961": {
-    "<%sL_RECIPE>を　作ります。\nよろしいですか？\n<yesno><close>": "Create <%sL_RECIPE>... Are you sure?<yesno><close>"
+    "<%sL_RECIPE>を　作ります。\nよろしいですか？\n<yesno><close>": "Craft the <%sL_RECIPE>?<yesno><close>"
   },
   "76962": {
     "できのよさ<color_yellow>★★★<color_white>の物は　できませんが\nいっぱつしあげをして　よろしいですか？\n<yesno><close>": "Do you want to quick craft this item you have\na knack for? The item will not have a quality\nof <color_yellow>★★★<color_white>.<yesno><close>"
@@ -180,7 +180,7 @@
     "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<yesno><close>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<yesno><close>"
   },
   "103198": {
-    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\n調理が　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now cook with ingredients found not\nonly in the Animal Bag, but also in the\nStorage Area and Under the Roof! When you\n<br>\nselect a recipe that doesn't have all the\ningredients you need, you can use the\ningredients in the Storage Area and Under the\n<br>\nRoof...<color_white>\n<end>"
+    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\n調理が　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now use materials from your storage\nand house storage in addition to the items in\nyour item bag for Cooking!\n<br>\nWhen selecting a recipe with materials you\ndon't have on hand, you have the option of\nusing materials from either storage.\n<color_white>\n<end>"
   },
   "108383": {
     "予期せぬエラーにより\n実行することが　できませんでした。\n<end>": "Due to an unforeseen error, we are unable to\nexecute...<end>"
@@ -210,25 +210,25 @@
     "ここでは　いっぱつしあげは　できません。\n<end>": "You can't quick craft here.<end>"
   },
   "284720": {
-    "<%nL_TURN>ターン目": "Turn <%dL_TURN>"
+    "<%nL_TURN>ターン目": "Current turn is <%dL_TURN>."
   },
   "284721": {
-    "<%nL_TURN>ターン目\n<%sL_KARYOKU>　あと<%nL_KARYOKU_TURN>ターン": "<%nL_TURN>turn 1\n<%sL_KARYOKU> and <%nL_KARYOKU_TURN> turn"
+    "<%nL_TURN>ターン目\n<%sL_KARYOKU>　あと<%nL_KARYOKU_TURN>ターン": "Current turn is <%dL_TURN>.\n<%sL_KARYOKU>: <%dL_KARYOKU_TURN> Turn(s) Left"
   },
   "284722": {
-    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": ""
+    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": "Current turn is <%dL_TURN>.\n<%dL_TOKUSEI_TURN> turn(s) until material activates."
   },
   "284723": {
     "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン\n<%sL_KARYOKU>　あと<%nL_KARYOKU_TURN>ターン": ""
   },
   "284724": {
-    "マス<%sL_MASU_1>　<%sL_KOUKA_1>　あと<%nL_MASU_TURN_1>ターン": "Mass <%sL_MASU_1> <%sL_KOUKA_1> and <%nL_MASU_TURN_1> turn"
+    "マス<%sL_MASU_1>　<%sL_KOUKA_1>　あと<%nL_MASU_TURN_1>ターン": "Square <%sL_MASU_1> <%sL_KOUKA_1>: <%dL_MASU_TURN_1> Turn(s) Left"
   },
   "284725": {
-    "マス<%sL_MASU_1>　<%sL_KOUKA_1>　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　<%sL_KOUKA_2>　あと<%nL_MASU_TURN_2>ターン": "Mass <%sL_MASU_1> <%sL_KOUKA_1> and <%nL_MASU_TURN_1> turn\nMass <%sL_MASU_2> <%sL_KOUKA_2> and <%nL_MASU_TURN_2> turn"
+    "マス<%sL_MASU_1>　<%sL_KOUKA_1>　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　<%sL_KOUKA_2>　あと<%nL_MASU_TURN_2>ターン": "Square <%sL_MASU_1> <%sL_KOUKA_1>: <%dL_MASU_TURN_1> Turn(s) Left\nSquare <%sL_MASU_2> <%sL_KOUKA_2>: <%dL_MASU_TURN_2> Turn(s) Left"
   },
   "284726": {
-    "マス<%sL_MASU_1>　<%sL_KOUKA_1>　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　<%sL_KOUKA_2>　あと<%nL_MASU_TURN_2>ターン\nマス<%sL_MASU_3>　<%sL_KOUKA_3>　あと<%nL_MASU_TURN_3>ターン": "Mass <%sL_MASU_1> <%sL_KOUKA_1> and <%nL_MASU_TURN_1> turn\nMass <%sL_MASU_2> <%sL_KOUKA_2> and <%nL_MASU_TURN_2> turn\nMass <%sL_MASU_3> <%sL_KOUKA_3> and <%nL_MASU_TURN_3> turn"
+    "マス<%sL_MASU_1>　<%sL_KOUKA_1>　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　<%sL_KOUKA_2>　あと<%nL_MASU_TURN_2>ターン\nマス<%sL_MASU_3>　<%sL_KOUKA_3>　あと<%nL_MASU_TURN_3>ターン": "Square <%sL_MASU_1> <%sL_KOUKA_1>: <%dL_MASU_TURN_1> Turn(s) Left\nSquare <%sL_MASU_2> <%sL_KOUKA_2>: <%dL_MASU_TURN_2> Turn(s) Left\nSquare <%sL_MASU_3> <%sL_KOUKA_3>: <%dL_MASU_TURN_3> Turn(s) Left"
   },
   "291550": {
     "ねらい縦返しを使うと\n縦２マスにある　上下の具材を入れ替え\nその具材を　通常より高い会心率で　焼きます。": ""
