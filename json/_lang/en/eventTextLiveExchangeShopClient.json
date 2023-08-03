@@ -561,7 +561,7 @@
     "「この　<%sL_BAG_ITEM>を\n　<%sL_GOODS_ITEM>と　交換する？\n<yesno 2><break>": "Replace this <%sL_BAG_ITEM> with\n<%sL_GOODS_ITEM>?<yesno 2><break>"
   },
   "147029": {
-    "<pipipi_on>\n「ほかにも　何か交換する？\n<break>": "<pipipi_on>Do you want to trade anything else?<break>"
+    "<pipipi_on>\n「ほかにも　何か交換する？\n<break>": "<pipipi_on>Anything else you'd like to exchange?<break>"
   },
   "147030": {
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>を\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
@@ -582,7 +582,7 @@
     "「ピキー！　<%sL_BAG_ITEM>は\n　ロックされてるから　受け取れないよ！\n<bw_break>": "Pikey! I can't accept <%sL_BAG_ITEM> because\nit's locked!<bw_break>"
   },
   "147036": {
-    "<pipipi_on>\n「ほかにも　何か交換する？\n<break>": "<pipipi_on>Do you want to trade anything else?<break>"
+    "<pipipi_on>\n「ほかにも　何か交換する？\n<break>": "<pipipi_on>Anything else you'd like to exchange?<break>"
   },
   "147037": {
     "「あれ？　キミは竜王のキバを\n　持っていないみたいだよ。\n<br>\n「キバは　竜王を倒したら　手に入るよ。\n　もし　手に入れられたら\n　ぼくの所へ　持ってきてね！\n<turn_end>": "What? You don't seem to have the Dragon\nKing's Kiva. You'll get it when you defeat\nthe Dragon King... If you can get it, bring\n<br>\nit to me!<turn_end>"
@@ -666,22 +666,22 @@
     "「用意するので　お待ちください。\n<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
   },
   "149795": {
-    "「どれを　交換しますー？　青い文字の交換は\n　一度きりだから注意してね。交換できる期間は\n　『<%sL_END_TIME>』までだよ。\n<break>": "Which one would you like to trade? Note that\nthe blue text can only be exchanged once. You\ncan only exchange them until\n<br>\n<%sL_END_TIME>...<break>"
+    "「どれを　交換しますー？　青い文字の交換は\n　一度きりだから注意してね。交換できる期間は\n　『<%sL_END_TIME>』までだよ。\n<break>": "Which would you like? Please remember that\nitems in blue can only be exchanged once, and\nI'll be here until <%sL_END_TIME>.\n<break>"
   },
   "149796": {
-    "「<%sL_GOODS_ITEM>を\n　おさかなコイン　<%nL_KOUKAN_NUM>枚と\n　交換するけど　いいですかー？\n<yesno><break>": "I'll trade you <%sL_GOODS_ITEM> for\n<%nL_KOUKAN_NUM> fish coins, okay?<yesno><break>"
+    "「<%sL_GOODS_ITEM>を\n　おさかなコイン　<%nL_KOUKAN_NUM>枚と\n　交換するけど　いいですかー？\n<yesno><break>": "I'll exchange the <%sL_GOODS_ITEM> for\n<%dL_KOUKAN_NUM> Fish Coins. Sound good?<yesno><break>"
   },
   "149797": {
-    "<pipipi_on>\n「他にも　何か交換しますー？　青い文字の交換は\n　一度きりだから注意してね。交換できる期間は\n　『<%sL_END_TIME>』までだよ。\n<break>": "<pipipi_on>Do you want to trade anything else? Note that\nthe blue text can only be exchanged once...\nYou can only exchange them until\n<br>\n<%sL_END_TIME>...<break>"
+    "<pipipi_on>\n「他にも　何か交換しますー？　青い文字の交換は\n　一度きりだから注意してね。交換できる期間は\n　『<%sL_END_TIME>』までだよ。\n<break>": "<pipipi_on>\nIs there anything else? Please remember that\nitems in blue can only be exchanged once, and\nI'll be here until <%sL_END_TIME>.\n<break>"
   },
   "149798": {
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>を\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
   },
   "149799": {
-    "「<%sL_GOODS_ITEM>を\n　おさかなコイン　<%nL_KOUKAN_NUM>枚と\n　交換するけど　いいですかー？\n<yesno><break>": "I'll trade you <%sL_GOODS_ITEM> for\n<%nL_KOUKAN_NUM> fish coins, okay?<yesno><break>"
+    "「<%sL_GOODS_ITEM>を\n　おさかなコイン　<%nL_KOUKAN_NUM>枚と\n　交換するけど　いいですかー？\n<yesno><break>": "I'll exchange the <%sL_GOODS_ITEM> for\n<%dL_KOUKAN_NUM> Fish Coins. Sound good?<yesno><break>"
   },
   "149800": {
-    "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を\n　おさかなコイン　<%nL_KOUKAN_NUM>枚と\n　交換するけど　いいですかー？\n<yesno><break>": "I'll trade <%sL_GOODS_ITEM> <%nL_GET_NUM> for\n<%nL_KOUKAN_NUM> fish coins, okay?<yesno><break>"
+    "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を\n　おさかなコイン　<%nL_KOUKAN_NUM>枚と\n　交換するけど　いいですかー？\n<yesno><break>": "I'll exchange <%dL_GET_NUM> <%sL_GOODS_ITEM> for\n<%dL_KOUKAN_NUM> Fish Coins. Sound good?<yesno><break>"
   },
   "149801": {
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
@@ -708,7 +708,7 @@
     "「ここでは　期間限定で　おさかなコインと　\n　めずらしいアイテムを　交換できるよー。\n<br>\n「おさかなコインは　おさかなを釣り上げて\n　横にいる　おさかな交換員に渡したりすると\n　手に入れる事が　できるからねー。\n<br>\n「うちで扱うアイテムには　数に限りがあるの。\n　決められた期間内でしか　交換できないから\n　交換のし忘れには　充分注意してねー。\n<bw_break>": "Here, for a limited time, you can exchange\nfish coins for rare items... You can get fish\ncoins by catching fish and giving them to the\n<br>\nfish changer beside you... We have a limited\nnumber of items... They can only be exchanged\nwithin a set period of time, so be careful\n<br>\nnot to forget to exchange them...<bw_break>"
   },
   "149809": {
-    "「あたいは　限定交換屋ポタンだよ。\n　今日は　どうしますー？\n<break>": "I'm a limited edition swap shop potter...\nWhat do you want to do today?<break>"
+    "「あたいは　限定交換屋ポタンだよ。\n　今日は　どうしますー？\n<break>": "I'm Potan, and this is my Limited Exchange\nShop. What can I do for you today?\n<break>"
   },
   "149810": {
     "「他に　ご用はありますかー？\n<break>": "Is there anything else I can do for you?<break>"
@@ -720,31 +720,31 @@
     "「そのアイテムは　すでに渡しているから\n　これ以上　交換できないよー。\n<bw_break>": "I've already given you the item, so I can't\ntrade you any more...<bw_break>"
   },
   "150311": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "150312": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
   },
   "150314": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "150315": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
   },
   "150317": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "150318": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
   },
   "150320": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "150321": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
   },
   "150323": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "150324": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -762,7 +762,7 @@
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
   },
   "150332": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "150333": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -816,7 +816,7 @@
     "「ごめんなさいー。\n　今回の交換できる期間が　過ぎてますねー。\n　次の交換期間まで　待ってほしいなー。\n<end>": "I'm sorry... This exchange period has\nexpired... You'll have to wait until the next\nexchange period...<end>"
   },
   "153272": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "153273": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -918,7 +918,7 @@
     "「申し訳ありません。ただ今　準備中です。\n　次回　交換を　はじめるのは\n　『<%sL_NEXT_TIME>』からです。\n<bw_break>": "I'm sorry... We're just getting ready... Next\ntime I start an exchange, it'll be at\n<%sL_NEXT_TIME>...<bw_break>"
   },
   "153307": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "153308": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -1020,7 +1020,7 @@
     "「申し訳ありません。ただ今　準備中です。\n　次回　交換を　はじめるのは\n　『<%sL_NEXT_TIME>』からです。\n<bw_break>": "I'm sorry... We're just getting ready... Next\ntime I start an exchange, it'll be at\n<%sL_NEXT_TIME>...<bw_break>"
   },
   "154501": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "154502": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -1224,7 +1224,7 @@
     "「申し訳ありません。ただ今　準備中です。\n　次回　交換を　はじめるのは\n　『<%sL_NEXT_TIME>』からです。\n<bw_break>": "I'm sorry... We're just getting ready... Next\ntime I start an exchange, it'll be at\n<%sL_NEXT_TIME>...<bw_break>"
   },
   "157410": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えておいでのようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えておいでのようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "157411": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -1734,7 +1734,7 @@
     "「申し訳ありません。ただ今　準備中です。\n　次回　交換を　はじめるのは\n　『<%sL_NEXT_TIME>』からです。\n<bw_break>": "I'm sorry... We're just getting ready... Next\ntime I start an exchange, it'll be at\n<%sL_NEXT_TIME>...<bw_break>"
   },
   "160235": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "160236": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -3075,7 +3075,7 @@
     "「ピキー！　<%sL_BAG_ITEM>は\n　ロックされてるから　受け取れないよ！\n<bw_break>": "Pikey! I can't accept <%sL_BAG_ITEM> because\nit's locked!<bw_break>"
   },
   "186192": {
-    "<pipipi_on>\n「ほかにも　何か交換する？\n<break>": "<pipipi_on>Do you want to trade anything else?<break>"
+    "<pipipi_on>\n「ほかにも　何か交換する？\n<break>": "<pipipi_on>Anything else you'd like to exchange?<break>"
   },
   "186193": {
     "": ""
@@ -3444,7 +3444,7 @@
     "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようですが\n　本当に　交換しますか？\n<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>\ngesture, but are you sure you want to trade?<yesno2><break>"
   },
   "194093": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "194094": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようですが\n　本当に　交換しますか？\n<yesno2><break>": "I see you've already installed\n<%sL_GOODS_ITEM>, are you sure you want to\nreplace it?<yesno2><break>"
@@ -3777,7 +3777,7 @@
     "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようですが\n　本当に　交換しますか？\n<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>\ngesture, but are you sure you want to trade?<yesno2><break>"
   },
   "199805": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "199806": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようですが\n　本当に　交換しますか？\n<yesno2><break>": "I see you've already installed\n<%sL_GOODS_ITEM>, are you sure you want to\nreplace it?<yesno2><break>"
@@ -3888,7 +3888,7 @@
     "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようですが\n　本当に　交換しますか？\n<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>\ngesture, but are you sure you want to trade?<yesno2><break>"
   },
   "205012": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "205013": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようですが\n　本当に　交換しますか？\n<yesno2><break>": "I see you've already installed\n<%sL_GOODS_ITEM>, are you sure you want to\nreplace it?<yesno2><break>"
@@ -3999,7 +3999,7 @@
     "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようですが\n　本当に　交換しますか？\n<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>\ngesture, but are you sure you want to trade?<yesno2><break>"
   },
   "208005": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "208006": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようですが\n　本当に　交換しますか？\n<yesno2><break>": "I see you've already installed\n<%sL_GOODS_ITEM>, are you sure you want to\nreplace it?<yesno2><break>"
@@ -4221,7 +4221,7 @@
     "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようですが\n　本当に　交換しますか？\n<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>\ngesture, but are you sure you want to trade?<yesno2><break>"
   },
   "209656": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "209657": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようですが\n　本当に　交換しますか？\n<yesno2><break>": "I see you've already installed\n<%sL_GOODS_ITEM>, are you sure you want to\nreplace it?<yesno2><break>"
@@ -4335,7 +4335,7 @@
     "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようですが\n　本当に　交換しますか？\n<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>\ngesture, but are you sure you want to trade?<yesno2><break>"
   },
   "210667": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "210668": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようですが\n　本当に　交換しますか？\n<yesno2><break>": "I see you've already installed\n<%sL_GOODS_ITEM>, are you sure you want to\nreplace it?<yesno2><break>"
@@ -4449,7 +4449,7 @@
     "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようですが\n　本当に　交換しますか？\n<yesno2><break>": "You've already memorized the <%sL_GOODS_ITEM>\ngesture, but are you sure you want to trade?<yesno2><break>"
   },
   "230011": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "230013": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようですが\n　本当に　交換しますか？\n<yesno2><break>": "I see you've already installed\n<%sL_GOODS_ITEM>, are you sure you want to\nreplace it?<yesno2><break>"
@@ -4767,7 +4767,7 @@
     "「その家具は　すでに交換しているので\n　もう　お渡しすることが　できません。\n<bw_break>": "That furniture has already been replaced, so\nI can't give it to you anymore...<bw_break>"
   },
   "253969": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "253970": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -4884,7 +4884,7 @@
     "「そのアイテムは　すでに交換しているので\n　もう　お渡しすることが　できません。\n<bw_break>": "That item has already been exchanged, so I\ncan't give it to you anymore...<bw_break>"
   },
   "254117": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "254118": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -5001,7 +5001,7 @@
     "「その家具は　すでに交換しているので\n　もう　お渡しすることが　できません。\n<bw_break>": "That furniture has already been replaced, so\nI can't give it to you anymore...<bw_break>"
   },
   "257871": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "257872": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -5118,7 +5118,7 @@
     "「そのアイテムは　すでに交換しているので\n　もう　お渡しすることが　できません。\n<bw_break>": "That item has already been exchanged, so I\ncan't give it to you anymore...<bw_break>"
   },
   "260902": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "260903": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -5235,7 +5235,7 @@
     "「そのアイテムは　すでに交換しているので\n　もう　お渡しすることが　できません。\n<bw_break>": "That item has already been exchanged, so I\ncan't give it to you anymore...<bw_break>"
   },
   "261064": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "261065": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -5757,7 +5757,7 @@
     "「そのアイテムは　すでに交換しているので\n　もう　お渡しすることが　できません。\n<bw_break>": "That item has already been exchanged, so I\ncan't give it to you anymore...<bw_break>"
   },
   "291604": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "291605": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
@@ -5883,7 +5883,7 @@
     "「そのアイテムは　すでに交換しているので\n　もう　お渡しすることが　できません。\n<bw_break>": "That item has already been exchanged, so I\ncan't give it to you anymore...<bw_break>"
   },
   "293525": {
-    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you already seem to remember the\ncontents of <%sL_GOODS_ITEM>, I can give\nyou...<bw_break>"
+    "「<%sL_GOODS_ITEM>の　内容は\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "Since you've already read that\n<%sL_GOODS_ITEM>, I can't exchange\nit to you.\n<bw_break>"
   },
   "293526": {
     "「<%sL_GOODS_ITEM>は\n　すでに取り付けているようなので\n　お渡しする事が　できません。\n<bw_break>": "You've already installed the <%sL_GOODS_ITEM>,\nso I can't give it to you.\n<bw_break>"
