@@ -3,10 +3,10 @@
     "<%sCAS_gambler>の\n復活マスを　更新しました！": "<%sCAS_gambler>\nlanded on a Resurrection Space!"
   },
   "99610": {
-    "<se_nots System 7>\n<pc>たちは　すごろくで\n<%nM_coin>枚の　カジノコインを手に入れた！": "<se_nots System 7>\n<pc> and co. got <%dM_coin> Casino Tokens\nfrom Sugoroku!"
+    "<se_nots System 7>\n<pc>たちは　すごろくで\n<%nM_coin>枚の　カジノコインを手に入れた！": "<se_nots System 7>\n<pc> and co. receive\n<%dM_coin> Casino Tokens!"
   },
   "99611": {
-    "<pc>たちは　すごろくで\n<%sCAS_HAHEN>を　<%nCAS_NUM>こ手に入れた！": "<pc> and co. got <%dCAS_NUM> <%sCAS_HAHEN>\nfrom Sugoroku!"
+    "<pc>たちは　すごろくで\n<%sCAS_HAHEN>を　<%nCAS_NUM>こ手に入れた！": "<pc> and co. receive\n<%dCAS_NUM> <%sCAS_HAHEN>!"
   },
   "99612": {
     "すごろくを中止しますか？\nすごろくを中止しても　入手したカジノコインは\nそのまま　手に入れることができます。\n<yesno 2><close>": "Stop playing Sugoroku? You'll still keep your\nearned Casino Tokens even if you quit.\n<yesno 2><close>"
@@ -51,10 +51,10 @@
     "<se_nots System 7>\n<%sCAS_action>のとくぎを　おぼえた！": "<se_nots System 7>\nLearned <%sCAS_action>!"
   },
   "99867": {
-    "<%sCAS_gambler>は\nレベル<%nCAS_now_level>に　あがった！": "<%sCAS_gambler> has reached Level <%dCAS_now_level>!"
+    "<%sCAS_gambler>は\nレベル<%nCAS_now_level>に　あがった！": "<%sCAS_gambler> has reached level <%dCAS_now_level>!"
   },
   "99869": {
-    "<se_nots System 7>\n<pc>たちは　すごろくで\n<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>\n<pc> and co. received\n<%dCAS_NUM> <%sCAS_item> from Sugoroku!"
+    "<se_nots System 7>\n<pc>たちは　すごろくで\n<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>\n<pc> and co. receive\n<%dCAS_NUM> <%sCAS_item>!"
   },
   "99870": {
     "<%sCAS_gambler>は　すごろくを中止しました。\nパーティから　抜けました。": "<%sCAS_gambler> stopped playing Sugoroku\nand left the party."
@@ -72,13 +72,13 @@
     "死んでいるため\nレベルが　あがらなかった。": "Your level didn't increase because you\nare dead."
   },
   "102446": {
-    "<%sCAS_gambler>は\nレベル<%nCAS_before_level>から　レベル<%nCAS_now_level>にあがった！": "<%sCAS_gambler> went from Level <%dCAS_before_level>\nto Level <%dCAS_now_level>!"
+    "<%sCAS_gambler>は\nレベル<%nCAS_before_level>から　レベル<%nCAS_now_level>にあがった！": "<%sCAS_gambler> went from level <%dCAS_before_level>\nto level <%dCAS_now_level>!"
   },
   "102696": {
     "なにも　かくとくできなかった。": "You couldn't receive anything."
   },
   "102697": {
-    "<%sCAS_gambler>は　しんでしまった。": "<%sCAS_gambler> died."
+    "<%sCAS_gambler>は　しんでしまった。": "<%sCAS_gambler> dies!"
   },
   "114768": {
     "ミス！　<%sCAS_monster>に\nダメージを　あたえられない！": "Miss! No damage to <%sCAS_monster>!"
@@ -123,13 +123,13 @@
     "なかまの　すごろくへのエントリーを　待っています。": "Waiting for party members to enter Sugoroku."
   },
   "117571": {
-    "<%sCAS_gambler>は\nハイテンションになった！\n攻撃や回復の威力が　２倍になった！": "<%sCAS_gambler> gained High Tension!\nYour attack and recovery power will be\ndoubled!"
+    "<%sCAS_gambler>は\nハイテンションになった！\n攻撃や回復の威力が　２倍になった！": "<%sCAS_gambler> entered a state of high\ntension! The potency of their next attack or\nrecovery action will be doubled!"
   },
   "117572": {
-    "<%sCAS_gambler>は\nスーパーハイテンションになった！！\n攻撃や回復の威力が　４倍になった！！": "<%sCAS_gambler> gained Super High Tension!!\nYour attack or recovery power will be\nquadrupled!!"
+    "<%sCAS_gambler>は\nスーパーハイテンションになった！！\n攻撃や回復の威力が　４倍になった！！": "<%sCAS_gambler> entered a state of super\nhigh tension!! The potency of their next\nattack or recovery action will be quadrupled!!"
   },
   "118315": {
-    "<%sCAS_gambler>は　みをまもっている。": "<%sCAS_gambler> is defending."
+    "<%sCAS_gambler>は　みをまもっている。": "<%sCAS_gambler> defends."
   },
   "118316": {
     "いまは　<%sCAS_target>の順番です。\nあと<%nCAS_value>人の　順番が進むと\nあなたの順番に　なります。": "Now it is <%sCAS_target>'s turn. When <%dCAS_value>\nmore turns advance, it'll be your turn."
