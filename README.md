@@ -125,6 +125,20 @@ docker-compose exec --user weblate weblate \
    --configuration '{"indent": 2, "style": "spaces"}'
 ```
 
+## Squashing git commits
+
+By default, each change to a file is a "commit", which can flood the git history very quickly. Install the "Squash Git commits" addon to fix this. We use "by author" to make sure we can still see who's making the change, but their changes are consolidated.
+
+```bash
+docker-compose exec --user weblate weblate \
+   weblate \
+   install_addon \
+   dqx/dummy \
+   --addon weblate.git.squash \
+   --update \
+   --configuration '{"squash": "author"}'
+```
+
 ## How do you add new components?
 
 This is done with an add-on called `Component discovery`, configured on the main `dummy` component. This add-on will automatically create a new component when a new file is detected in the translation directories. For our use case, we only want to pull in English files of `json` type. If a file has been removed from the repository, component discovery will automatically remove the component from Weblate on its next check of the VCS.
