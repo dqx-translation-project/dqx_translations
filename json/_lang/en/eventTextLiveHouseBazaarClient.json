@@ -42,10 +42,10 @@
     "<%sL_ITEM><%sL_PLUSNUM>は　すでに覚えています。\n<%nL_GOUKEI>ゴールドで\n購入しますか？\n<yesno 2><break>": "I already remembered\n<%sL_ITEM><%sL_PLUSNUM>... <%nL_GOUKEI>Would\nyou like to buy in gold?<yesno 2><break>"
   },
   "135859": {
-    "<%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM><%sL_PLUSNUM>は　購入できなかった。\n<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> can't be purchased\nbecause <%sL_BAG_TYPE> is full...<bw_break>"
+    "<%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM><%sL_PLUSNUM>は　購入できなかった。\n<bw_break>": "You can't buy the <%sL_ITEM><%sL_PLUSNUM>\nbecause <%sL_BAG_TYPE> is full.<bw_break>"
   },
   "135860": {
-    "しかし　お金が足りなかった。\n<bw_break>": "But we're short on money...<bw_break>"
+    "しかし　お金が足りなかった。\n<bw_break>": "But you don't have enough money!\n<bw_break>"
   },
   "135861": {
     "このモーモンバザーには\n現在　売り物が　ありません。": "This Mormon bazaar currently has nothing for\nsale..."
@@ -78,22 +78,22 @@
     "このモーモンバザーの　売上金の合計が\n貯めておける上限金額を　超えているため\nこれ以上　商品を　購入できません。": "The total amount of money you've raised from\nthe Mormon Bazaar has exceeded the maximum\namount you can save, so you can't purchase\n<br>\nany more items."
   },
   "135871": {
-    "<select_se_off>\n売らない\n値段をつけ直す\n<select_end><break>": "<select_se_off>\nI'm not selling it\nreprice\n<select_end><break>"
+    "<select_se_off>\n売らない\n値段をつけ直す\n<select_end><break>": "<select_se_off>\nDon't Sell\nChange Price\n<select_end><break>"
   },
   "135872": {
-    "値段を　いくらに変更しますか？\n<break>": ""
+    "値段を　いくらに変更しますか？\n<break>": "Change the price to what?\n<break>"
   },
   "135873": {
-    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM> do you want\nto buy?<break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM>\ndo you want to buy?<break>"
   },
   "135874": {
-    "モーモンバザーで売る物を　設定してください。\n<break>": "I need you to set up the items for sale at\nthe Mormon Bazaar.<break>"
+    "モーモンバザーで売る物を　設定してください。\n<break>": "Please choose an item to list for sale at\nthe Sanguini Bazaar.\n<break>"
   },
   "135875": {
     "どれを　買いますか？\n<break>": "Which one do you want to buy?<break>"
   },
   "135876": {
-    "出品が　取り下げられたため\n買えませんでした。\n<bw_break>": "I can't buy it because the listing has been\nwithdrawn...<bw_break>"
+    "出品が　取り下げられたため\n買えませんでした。\n<bw_break>": "The listing has been withdrawn, so you cannot\nbuy it.\n<bw_break>"
   },
   "135877": {
     "家具機能の利用権限がないため\nモーモンバザーを　\nつかうことは　できません。": "You don't have permission to use the\nfurniture feature, so you can't use the\nMormon Bazaar."
@@ -123,7 +123,7 @@
     "種族の　キャラクターを　作成してから　\n１週間経過しないと　出品できません。\n<br>\nまた　出品している物が　ある場合\n値段を　つけ直すことはできません。": "You have to wait a week after you create a\ncharacter of your race before you can sell\nit. Also, if you have an item on display, you\n<br>\nmay not reprice it..."
   },
   "258626": {
-    "<color_yellow>\n現在　旅人バザーに　出品されている\n同じ商品よりも　値段が　ずいぶん高いようです。\n<bw_break>": "<color_yellow>The price is much higher than the same item\ncurrently on the Traveler's Bazaar.<bw_break>"
+    "<color_yellow>\n現在　旅人バザーに　出品されている\n同じ商品よりも　値段が　ずいぶん高いようです。\n<bw_break>": "<color_yellow>\nCAUTION! The current price of this listing\nis much higher than what is currently\nlisted in the Traveler's Bazaar.\n<bw_break>"
   },
   "283066": {
     "こちらは　すでに　\nレプリカになっていますが\n本当に　購入しますか？\n<yesno 2><break>": "This one's already a replica. Are you sure\nyou want to buy it?<yesno 2><break>"
