@@ -93,7 +93,7 @@
     "髪型などの見た目は　美容院で変えられます。\n美容院でおこなった変更は　今後　同じ種族に\n仮装メイクした場合でも　残っています。\n<br>\n仮装メイク術の　有効期間が過ぎると\n自動的に　元の種族の姿に  \n戻りますので　ご注意ください。\n<end>": "You can change your hairstyle at the\nhairdresser... Any changes you make at the\nsalon will remain with you even if you choose\n<br>\nto masquerade as the same species in the\nfuture. If the disguise makeover expires,\nyou'll automatically revert to your original\n<br>\nrace.<end>"
   },
   "162495": {
-    "<pc>は　仮装メイク術の有効期間を\n延長してもらった！\n有効期間は <%nL_DAY>日<%nL_HOUR>時間<%nL_MIN>分　になりました。": ""
+    "<pc>は　仮装メイク術の有効期間を\n延長してもらった！\n有効期間は <%nL_DAY>日<%nL_HOUR>時間<%nL_MIN>分　になりました。": "<pc>'s Makeup Kit effect duration\nhas been extended! It will now expire in\n<%dL_DAY> day(s), <%dL_HOUR> hour(s), and <%dL_MIN> minutes."
   },
   "162496": {
     "<pc>は　<%sL_KASOU_RACE>の姿に\n仮装メイクしてもらった！\n有効期間は <%nL_DAY>日<%nL_HOUR>時間<%nL_MIN>分　です。": "<pc> is now disguised as a(n)\n<%sL_KASOU_RACE>! The effect will\nlast <%dL_DAY> day(s), <%dL_HOUR> hour(s), and <%dL_MIN> minute(s)."
@@ -105,7 +105,7 @@
     "「有効期間が　最大の９０日を超えてしまうため\n　９０日止まりと　なってしまいますね。\n　それでも　よろしいですか？\n<yesno 2><break>": "It's not valid for more than 90 days. It's\nonly valid for 90 days. Is that OK with you?<yesno 2><break>"
   },
   "162499": {
-    "「<%sL_KASOU_RACE>の姿への　仮装メイク術の有効期間は\n　<%nL_DAY>日<%nL_HOUR>時間<%nL_MIN>分に　延長されます。\n　本当に　よろしいですか？\n<yesno 2><break>": "The period of validity of the masquerade\nmake-up art of <%sL_KASOU_RACE> has been\nextended to <%nL_DAY> days <%nL_HOUR> hours\n<br>\n<%nL_MIN>... Are you sure you want to do\nthis?<yesno 2><break>"
+    "「<%sL_KASOU_RACE>の姿への　仮装メイク術の有効期間は\n　<%nL_DAY>日<%nL_HOUR>時間<%nL_MIN>分に　延長されます。\n　本当に　よろしいですか？\n<yesno 2><break>": "The duration of your <%sL_KASOU_RACE> disguise\nduration will be extended to <%dL_DAY> day(s),\n<%dL_HOUR> hour(s), and <%dL_MIN> minute(s). Is that okay?\n<yesno 2><break>"
   },
   "162500": {
     "「おや……。あなたは　すでに\n　その種族の姿に　仮装メイク中ですよ。\n<br>\n「……ということは　仮装メイクする期間の延長を\n　ご希望なのでしょうか？\n<yesno 2><break>": "Oh... You're already dressed and made up as\none of them. So... So you'd like to extend\nyour masquerade?<yesno 2><break>"
@@ -117,16 +117,16 @@
     "「おっと……。\n　残念ですが　仮装メイク術の有効期間を\n　過ぎてしまったようです。": "Oops... I'm sorry, but we've passed the\nexpiration date for the masquerade makeup\ntechnique..."
   },
   "166867": {
-    "「<%sL_KASOU_RACE>の姿への　仮装メイク術の有効期間は\n　<%nL_DAY>日<%nL_HOUR>時間<%nL_MIN>分に　延長されます。\n　本当に　よろしいですか？\n<yesno 2><break>": "The period of validity of the masquerade\nmake-up art of <%sL_KASOU_RACE> has been\nextended to <%nL_DAY> days <%nL_HOUR> hours\n<br>\n<%nL_MIN>... Are you sure you want to do\nthis?<yesno 2><break>"
+    "「<%sL_KASOU_RACE>の姿への　仮装メイク術の有効期間は\n　<%nL_DAY>日<%nL_HOUR>時間<%nL_MIN>分に　延長されます。\n　本当に　よろしいですか？\n<yesno 2><break>": "The duration of your <%sL_KASOU_RACE> disguise\nduration will be extended to <%dL_DAY> day(s),\n<%dL_HOUR> hour(s), and <%dL_MIN> minute(s). Is that okay?\n<yesno 2><break>"
   },
   "166868": {
-    "「<%sL_KASOU_RACE>の姿への　仮装メイク術の有効期間は\n　<%nL_HOUR>時間<%nL_MIN>分に　延長されます。\n　本当に　よろしいですか？\n<yesno 2><break>": ""
+    "「<%sL_KASOU_RACE>の姿への　仮装メイク術の有効期間は\n　<%nL_HOUR>時間<%nL_MIN>分に　延長されます。\n　本当に　よろしいですか？\n<yesno 2><break>": "The duration of your <%sL_KASOU_RACE> disguise\nduration will be extended to <%dL_HOUR> hour(s)\nand <%dL_MIN> minute(s). Is that okay?\n<yesno 2><break>"
   },
   "166888": {
-    "「<%sL_KASOU_RACE>の姿への　仮装メイク術の有効期間は\n　<%nL_HOUR>時間<%nL_MIN>分に　延長されます。\n　本当に　よろしいですか？\n<yesno 2><break>": ""
+    "「<%sL_KASOU_RACE>の姿への　仮装メイク術の有効期間は\n　<%nL_HOUR>時間<%nL_MIN>分に　延長されます。\n　本当に　よろしいですか？\n<yesno 2><break>": "The duration of your <%sL_KASOU_RACE> disguise\nduration will be extended to <%dL_HOUR> hour(s)\nand <%dL_MIN> minute(s). Is that okay?\n<yesno 2><break>"
   },
   "167019": {
-    "<color_yellow>\n仮装メイク術の　有効期間は  \nゲームをプレイしていない時間も　減少します。\nご注意ください。\n<color_white>": "<color_yellow>The duration of the masquerade will also\ndecrease when you're not playing the game.\nPlease note...<color_white>"
+    "<color_yellow>\n仮装メイク術の　有効期間は  \nゲームをプレイしていない時間も　減少します。\nご注意ください。\n<color_white>": "<color_yellow>\nPlease note that the Makeup Kit's duration\nwill decrease even while logged out of the\ngame.\n<color_white>"
   },
   "167020": {
     "「では　どの仮装メイク道具を\n　お使いになりますか？\n<break>": "So which fancy dress make-up kit will you be\nusing?<break>"
