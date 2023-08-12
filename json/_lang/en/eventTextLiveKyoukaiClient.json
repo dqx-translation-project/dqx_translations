@@ -15,7 +15,7 @@
     "「どの　ルーラストーンに\n　この場所を　記憶させるかね？\n<break>": "Register this location in which\nZoomstone?\n<break>"
   },
   "13207": {
-    "「そのルーラストーンの記憶場所を\n　<%sM_rurastone1><%sM_dot1><%sM_sub1>から\n　<%sM_rurastone><%sM_dot><%sM_sub>に　変更するかね？\n<yesno><break>": "You want to change the location registered in\nthat Zoomstone from <%sM_rurastone1><%sM_dot1><%sM_sub1>\nto <%sM_rurastone><%sM_dot><%sM_sub>?\n<yesno><break>"
+    "「そのルーラストーンの記憶場所を\n　<%sM_rurastone1><%sM_dot1><%sM_sub1>から\n　<%sM_rurastone><%sM_dot><%sM_sub>に　変更するかね？\n<yesno><break>": "You wish to change the Zoomstone's location\nfrom <%sM_rurastone1><%sM_dot1><%sM_sub1>\nto <%sM_rurastone><%sM_dot><%sM_sub>?\n<yesno><break>"
   },
   "13208": {
     "「冒険を中断して　今日は　もう休まれるかな？\n<yesno 2><break>": "Can we take a break from our adventures and\njust rest for the day?<yesno 2><break>"
@@ -45,7 +45,7 @@
     "「よし。これより　そなたが　チカラ尽きた時は\n　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて\n　復活するようになった。\n<bw_break>": "Good. From now on, when you run out of\nenergy, you will be resurrected here in the\nchurch of <%sL_KYOUKAI_NAME>\n<br>\n<%dL_TYOUME_NO1><%sL_TYOUME1>\n<bw_break>"
   },
   "13217": {
-    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to God...\n<break>"
+    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to the Goddess...\n<break>"
   },
   "13218": {
     "「それでは　我が教会に\n　<%nL_DOKU_GOLD>ゴールドの　ご寄付を。\n　よろしいかな？\n<yesno><break>": "To do so, the church requires a small donation\nof <%dL_DOKU_GOLD> Gold. Is this\nacceptable?\n<yesno><break>"
@@ -117,7 +117,7 @@
     "「他に　ご用はありますか？\n<break>": "Is there anything else I can do for you?<break>"
   },
   "13269": {
-    "「なるほど……確かに　あなたの中に\n　別の種族の姿が　眠っているのを感じます。\n<br>\n「もうひとつの自分の姿を目覚めさせ\n　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に\n　種族を　変えますか？\n<yesno><break>": "Well... It's true, I can feel another form of\nyour race sleeping inside you. Would you like\nto awaken your other self and change your\n<br>\nrace from <%sL_RACE_NOW> to <%sL_RACE_AFTER>?<yesno><break>"
+    "「なるほど……確かに　あなたの中に\n　別の種族の姿が　眠っているのを感じます。\n<br>\n「もうひとつの自分の姿を目覚めさせ\n　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に\n　種族を　変えますか？\n<yesno><break>": "I see...I sense that there is a different\nform sleeping within you.\n<br>\nDo you wish to awaken your other self\nand change from <%sL_RACE_NOW> to\n<%sL_RACE_AFTER>?\n<yesno><break>"
   },
   "13270": {
     "「では　これからの　旅の無事を\n　神の前に　お祈りなさい。\n<br>\n「そして　あなたが　チカラ尽きた時の\n　復活場所を　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から\n　この教会に変更しても　よろしいですか？\n<yesno><break>": "Pray before the Goddess to ensure a safe\njourney.\n<br>\nAnd when you find your strength exhausted,\nwould like to revive in this church instead of\n<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>?\n<yesno><break>"
@@ -153,10 +153,10 @@
     "「ああ　我らが神よ！\n　<%sL_DOKU_PCNAME>をむしばむ　悪しき毒を\n　お清めください！<bw_break>": "Oh, my God! Cleanse <%sL_DOKU_PCNAME> of the\nevil poison that gnaws at it!<bw_break>"
   },
   "13282": {
-    "「これより　あなたが　チカラ尽きた時は\n　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて\n　復活するように　なりました。\n<bw_break>": "From now on, when you run out of energy, you\nwill be resurrected here in the church of <%s\nL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>.\n<br>\n..<bw_break>"
+    "「これより　あなたが　チカラ尽きた時は\n　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて\n　復活するように　なりました。\n<bw_break>": "When you fall in battle, you shall now\nresurrect here in this church.\n<bw_break>"
   },
   "13283": {
-    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to God...\n<break>"
+    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to the Goddess...\n<break>"
   },
   "13284": {
     "「それでは　我が教会に\n　<%nL_DOKU_GOLD>ゴールドの　ご寄付を。\n　よろしいですか？\n<yesno><break>": "To do so, the church requires a small donation\nof <%dL_DOKU_GOLD> Gold. Is this\nacceptable?\n<yesno><break>"
@@ -522,7 +522,7 @@
     "「今から　オマエ　チカラ尽きた時\n　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>で\n　復活するように　なった。\n<bw_break>": "From now on, when you run out of energy, you\nwill be resurrected here at <%sL_KYOUKAI_NAME\n><%dL_TYOUME_NO1><%sL_TYOUME1>...<bw_break>"
   },
   "76119": {
-    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to God...\n<break>"
+    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to the Goddess...\n<break>"
   },
   "76120": {
     "「む。オマエ　もう　ここを\n　復活場所に　設定してる。\n<br>\n「でも　祈るの　よいこと。\n　ここで　祈っていくか？\n<yesno><break>": "No. You've already set this place as your\nresurrection site... But we pray... You want\nto pray here?<yesno><break>"
@@ -678,7 +678,7 @@
     "「今から　オマエ　チカラ尽きた時\n　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>で\n　復活するように　なった。\n<bw_break>": "From now on, when you run out of energy, you\nwill be resurrected here at <%sL_KYOUKAI_NAME\n><%dL_TYOUME_NO1><%sL_TYOUME1>...<bw_break>"
   },
   "125367": {
-    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to God...\n<break>"
+    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to the Goddess...\n<break>"
   },
   "125368": {
     "「む。オマエ　もう　ここを\n　復活場所に　設定してる。\n<br>\n「でも　祈るの　よいこと。\n　ここで　祈っていくか？\n<yesno><break>": "No. You've already set this place as your\nresurrection site... But we pray... You want\nto pray here?<yesno><break>"
@@ -789,7 +789,7 @@
     "「他に　ご用はありますか？\n<break>": "Is there anything else I can do for you?<break>"
   },
   "134862": {
-    "「なるほど……確かに　あなたの中に\n　別の種族の姿が　眠っているのを感じます。\n<br>\n「もうひとつの自分の姿を目覚めさせ\n　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に\n　種族を　変えますか？\n<yesno><break>": "Well... It's true, I can feel another form of\nyour race sleeping inside you. Would you like\nto awaken your other self and change your\n<br>\nrace from <%sL_RACE_NOW> to <%sL_RACE_AFTER>?<yesno><break>"
+    "「なるほど……確かに　あなたの中に\n　別の種族の姿が　眠っているのを感じます。\n<br>\n「もうひとつの自分の姿を目覚めさせ\n　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に\n　種族を　変えますか？\n<yesno><break>": "I see...I sense that there is a different\nform sleeping within you.\n<br>\nDo you wish to awaken your other self\nand change from <%sL_RACE_NOW> to\n<%sL_RACE_AFTER>?\n<yesno><break>"
   },
   "134863": {
     "「では　これからの　旅の無事を\n　神の前に　お祈りなさい。\n<br>\n「そして　あなたが　チカラ尽きた時の\n　復活場所を　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から\n　この地に変更しても　よろしいですか？\n<yesno><break>": "Pray before the Goddess to ensure a safe\njourney.\n<br>\nAnd when you find your strength exhausted,\nwould like to revive in this church instead of\n<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>?\n<yesno><break>"
@@ -834,7 +834,7 @@
     "「これより　あなたが　チカラ尽きた時は\n　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>にて\n　復活するように　なりました。\n<bw_break>": "From now on, when you run out of energy, you\nwill be resurrected here at <%sL_KYOUKAI_NAME\n><%dL_TYOUME_NO1><%sL_TYOUME1>...<bw_break>"
   },
   "134878": {
-    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to God...\n<break>"
+    "<pc>は　神に祈りを捧げた……。\n<break>": "<pc> prayed to the Goddess...\n<break>"
   },
   "134879": {
     "「あら。あなたは　もう　この地を\n　復活場所に　設定されているようですわ。\n<br>\n「ですが　お祈りを忘れないのは\n　たいへん　よい心がけです。\n　ここで　お祈りを捧げていきますか？\n<yesno><break>": "Oh. It seems you've already set your sights\non this place of resurrection... But it's\nvery good of you to remember to pray... Would\n<br>\nyou like to say your prayers here?<yesno><break>"
