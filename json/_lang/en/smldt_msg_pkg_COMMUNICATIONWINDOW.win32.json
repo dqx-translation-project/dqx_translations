@@ -255,7 +255,7 @@
     "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_URUKAZU>個 <%dL_SELL_PRICE> Gで売った！": "Sold <%dL_URUKAZU> <%sL_URITAI_ITEM><%sL_PLUSNUM> to the shop for <%dL_SELL_PRICE> G!"
   },
   "28578": {
-    "<%sL_SYOKUNIN_KIND>で 使っていた\n<%sL_SYOKUNIN_TOOL>は 限界がきて こわれてしまった……。": "The <%sL_SYOKUNIN_TOOL> used for <%sL_SYOKUNIN_KIND>\nhas reached its limit and broke..."
+    "<%sL_SYOKUNIN_KIND>で 使っていた\n<%sL_SYOKUNIN_TOOL>は 限界がきて こわれてしまった……。": "The <%sL_SYOKUNIN_TOOL> used for <%sL_SYOKUNIN_KIND>\nhas worn down and broke..."
   },
   "28586": {
     "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_item><%sM_plusnum>を <%dM_item_num>個 送った。": "Sent <%dM_item_num> <%sM_item><%sM_plusnum> to \\s<%sC_PC>\\m<%sC_ID>\\e at <%sL_shisetu>."
@@ -333,7 +333,7 @@
     "<%sL_SYOKUNIN>の仕事をして <%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item> from the <%sL_SYOKUNIN> work order!"
   },
   "28731": {
-    "<%sL_SYOKUNIN>の仕事をして <%sM_item><%sM_plusnum>を 手に入れた！": "Received <%sM_item><%sM_plusnum> from <%sL_SYOKUNIN> work order!"
+    "<%sL_SYOKUNIN>の仕事をして <%sM_item><%sM_plusnum>を 手に入れた！": "Received <%sM_item><%sM_plusnum> from the <%sL_SYOKUNIN> work order!"
   },
   "28732": {
     "<%sL_SYOKUNIN>の仕事をして <%dL_GOLD> Gを 手に入れた！": "Received <%dL_GOLD> G from the <%sL_SYOKUNIN> work order!"
@@ -822,16 +822,16 @@
     "<%sM_item><%sM_plusnum>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item><%sM_plusnum>!"
   },
   "38312": {
-    "釣りの仕事をして <%dL_EXP> Pの釣り経験値を かくとく！": ""
+    "釣りの仕事をして <%dL_EXP> Pの釣り経験値を かくとく！": "Received <%dL_EXP> Fishing EXP from a fishing request!"
   },
   "38313": {
-    "釣りの仕事をして おさかなコインを <%dL_COIN>枚 手に入れた！": "Received <%dL_COIN> Fish Coins from a fishing\nrequest!"
+    "釣りの仕事をして おさかなコインを <%dL_COIN>枚 手に入れた！": "Received <%dL_COIN> Fish Coins from a fishing request!"
   },
   "38314": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは 釣りレベルが <%dL_LEVEL>にアップ！": "\\s<%sC_PC>\\m<%sC_ID>\\e has reached Fishing Level <%dL_LEVEL>!"
   },
   "38315": {
-    "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！": "Caught a <%.1fM_CM>cm <%sM_item>!"
+    "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！": "Caught a(n) <%.1fM_CM> cm <%sM_item>!"
   },
   "38316": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！\n → おうえんボーナス +<%dL_EXP_OUEN> P": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_EXP> Fishing EXP!\n→ Cheer Bonus +<%dL_EXP_OUEN>"
@@ -867,13 +867,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を 受け取った！": "Received <%sM_ITEM> from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "38805": {
-    "<%.1fM_CM>ｃｍの <%sM_item>を 逃した。": ""
+    "<%.1fM_CM>ｃｍの <%sM_item>を 逃した。": "The <%.1fM_CM> cm <%sM_item> escaped."
   },
   "38806": {
-    "<%.1fM_CM>ｃｍの <%sM_item>を 逃した。（<%sM_SIZE>）": ""
+    "<%.1fM_CM>ｃｍの <%sM_item>を 逃した。（<%sM_SIZE>）": "The <%.1fM_CM> cm <%sM_item> escaped. (<%sM_SIZE>)"
   },
   "38807": {
-    "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！ <%sM_SIZE>！": "Caught a <%.1fM_CM>cm <%sM_item>! It's a <%sM_SIZE>!"
+    "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！ <%sM_SIZE>！": "Caught a(n) <%.1fM_CM> cm <%sM_item>! It's <%sM_SIZE>!"
   },
   "38808": {
     "宝箱を 釣り上げた！": "Caught a treasure chest!"
@@ -894,7 +894,7 @@
     "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>を <%sL_FURNITURE>に 入れた。": ""
   },
   "38916": {
-    "使っていた<%sL_TOOL>は 限界がきて こわれてしまった……。": ""
+    "使っていた<%sL_TOOL>は 限界がきて こわれてしまった……。": "The <%sL_TOOL> has worn down and broke..."
   },
   "38989": {
     "おさかなコイン <%dM_POINT>枚と\n<%sM_item>を 交換した！": "Exchanged <%dM_POINT> Fish Coins for <%sM_item>!"
@@ -1131,7 +1131,7 @@
     "フレンドチャット不可": "Friend Chat Forbidden"
   },
   "41836": {
-    "おひねり特典として <%sM_ITEM>を <%d_NUM>こ 手に入れた！": ""
+    "おひねり特典として <%sM_ITEM>を <%d_NUM>こ 手に入れた！": "Received <%d_NUM> <%sM_ITEM> as a tip benefit!"
   },
   "41837": {
     "<%sM_pc>の記事に <%dM_GOLD>ゴールド おひねりした！": "Tipped <%dM_GOLD> Gold on <%sM_pc>'s Post!"
@@ -1254,7 +1254,7 @@
     "鑑定した石版を セットした。": ""
   },
   "42759": {
-    "<pc>は 石版を鑑定して <%dM_NUM> P 手に入れた！": ""
+    "<pc>は 石版を鑑定して <%dM_NUM> P 手に入れた！": "pls no"
   },
   "42760": {
     "預けていた石版を すてた。": ""
@@ -1296,10 +1296,10 @@
     "強化屋で <%sM_item><%sM_plusnum>を\n<%sM_item2><%sM_plusnum2>に 強化した！": ""
   },
   "42853": {
-    "不思議の魔塔の討伐報酬で\n<%sM_item>を <%dM_item_num>個 手に入れた！": ""
+    "不思議の魔塔の討伐報酬で\n<%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item> as a reward\nfrom the Mysterious Tower!"
   },
   "42854": {
-    "不思議の魔塔の討伐報酬で\n<%sM_item>を 手に入れた！": ""
+    "不思議の魔塔の討伐報酬で\n<%sM_item>を 手に入れた！": "Received <%sM_item> as a reward\nfrom the Mysterious Tower!"
   },
   "42855": {
     "錬金屋で <%sM_item><%sM_plusnum>の\n錬金効果を 付け直した！": ""
@@ -1440,10 +1440,10 @@
     "アストルティア★ハッピーくじの当選景品\n<%sL_KEIHINITEM>を　<%dL_NUM>こ　手に入れた！": "Received <%dL_NUM> <%sL_KEIHINITEM> as a prize\nfrom Astoltia Happy Lottery!"
   },
   "44764": {
-    "<%sM_SKILL>の書を 手に入れた！": ""
+    "<%sM_SKILL>の書を 手に入れた！": "Received <%sM_SKILL> Book!"
   },
   "44765": {
-    "<pc>は 友情の光を <%dM_NUM> P 手に入れた！": ""
+    "<pc>は 友情の光を <%dM_NUM> P 手に入れた！": "<pc> received <%dM_NUM> Friend Light!"
   },
   "44766": {
     "<%sM_TRASH_SKILL>の書を 投げ捨てた！": "Threw away <%sM_TRASH_SKILL> Book!"
@@ -1473,10 +1473,10 @@
     "美容院で <%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！": ""
   },
   "45121": {
-    "<%.1fM_CM>ｃｍの <%sL_SUISOU_FISH>（<%sM_SIZE>）を\n<%sL_FURNITURE>から 取り出した。": ""
+    "<%.1fM_CM>ｃｍの <%sL_SUISOU_FISH>（<%sM_SIZE>）を\n<%sL_FURNITURE>から 取り出した。": "The <%.1fM_CM> cm <%sL_SUISOU_FISH> (<%sM_SIZE>)\nwas taken out of the <%sL_FURNITURE>."
   },
   "45122": {
-    "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>（<%sM_SIZE>）を\n<%sL_FURNITURE>に 入れた。": ""
+    "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>（<%sM_SIZE>）を\n<%sL_FURNITURE>に 入れた。": "The <%.1fM_CM> cm <%sL_BAG_FISH> (<%sM_SIZE>)\nwas put in the <%sL_FURNITURE>."
   },
   "45194": {
     "<%sL_MAT_ITEM>　<%dL_NUM>個で　<%sL_ITEM><%sL_PLUSNUM>の\n<%sL_RENKIN_BEFORE>の効果を\n<%sL_RENKIN_AFTER>に強化した！": ""
@@ -1581,10 +1581,10 @@
     "部活強化週間の 課題の条件を みたした！\n部活ポイント <%dL_BONUS_POINT> Pを 課題成功ボーナスとして 手に入れた！": ""
   },
   "46664": {
-    "できのよさボーナスとして 部活ポイント <%dL_ADD_POINT> Pを 手に入れた！": ""
+    "できのよさボーナスとして 部活ポイント <%dL_ADD_POINT> Pを 手に入れた！": "Received <%dL_ADD_POINT> Club Points as a quality bonus!"
   },
   "46665": {
-    "<pc>は 部活ポイント <%dL_BASE_POINT> Pを 手に入れた！": ""
+    "<pc>は 部活ポイント <%dL_BASE_POINT> Pを 手に入れた！": "<pc> received <%dL_BASE_POINT> Club Points!"
   },
   "46667": {
     "<pc>は <%sL_CLUBSTR>部員になった。": ""
@@ -1593,7 +1593,7 @@
     "強化週間チケットと お手伝いチケットの 残りが回収された。": ""
   },
   "46669": {
-    "部の設備利用券を <%dL_TICKET>枚 手に入れた！": ""
+    "部の設備利用券を <%dL_TICKET>枚 手に入れた！": "Received <%dL_TICKET> Club Facility Ticket(s)!"
   },
   "46670": {
     "部活強化週間の報酬として 部室の職人道具がランクアップした！": ""
@@ -1605,10 +1605,10 @@
     "部活強化週間の報酬として 部活ポイント <%dL_POINT> Pを 手に入れた！": ""
   },
   "46673": {
-    "お手伝いチケットを <%dL_HELP_NUM>枚 手に入れた！": ""
+    "お手伝いチケットを <%dL_HELP_NUM>枚 手に入れた！": "Received <%dL_HELP_NUM> Helper Ticket(s)!"
   },
   "46674": {
-    "強化週間チケットを <%dL_KYOKA_NUM>枚 手に入れた！": ""
+    "強化週間チケットを <%dL_KYOKA_NUM>枚 手に入れた！": "Received <%dL_KYOKA_NUM> Boost Week Ticket(s)!"
   },
   "46675": {
     "<pc>は 部活強化週間に参加した！": ""
@@ -1920,7 +1920,7 @@
     "[<%sM_mvp>人]": "[<%sM_mvp>]"
   },
   "50735": {
-    "<%sM_name1> <%sM_name2> <%sM_name3> <%sM_name4> <%sM_name5>": ""
+    "<%sM_name1> <%sM_name2> <%sM_name3> <%sM_name4> <%sM_name5>": "<%sM_name1> <%sM_name2> <%sM_name3> <%sM_name4> <%sM_name5>"
   },
   "51201": {
     "大会ランクが <%sL_PAST_GP_CLASS>から <%sL_NOW_GP_CLASS>になった！": "Tournament rank went from <%sL_PAST_GP_CLASS> to <%sL_NOW_GP_CLASS>!"
@@ -2007,7 +2007,7 @@
     "<speed=0>この場所では　これ以上\nなかまに誘うことは　できません！": "<speed=0>You can't invite any more players in\nthis place!"
   },
   "52009": {
-    "つかまえたネコ\n場所：<%sL_CAT_AREA>\n種類：<%sL_CAT_TYPE> <%sL_CAT_SEX> <%sL_CAT_SIZE>\n色： <%sL_CAT_COLOR> <%sL_EYE_COLOR>\n性格：<%sL_CAT_CHAR>": "Caught Cat Info\nArea: <%sL_CAT_AREA>\nType: <%sL_CAT_TYPE> <%sL_CAT_SEX> <%sL_CAT_SIZE>\nEyes: <%sL_CAT_COLOR> <%sL_EYE_COLOR>\nNature: <%sL_CAT_CHAR>"
+    "つかまえたネコ\n場所：<%sL_CAT_AREA>\n種類：<%sL_CAT_TYPE> <%sL_CAT_SEX> <%sL_CAT_SIZE>\n色： <%sL_CAT_COLOR> <%sL_EYE_COLOR>\n性格：<%sL_CAT_CHAR>": "Caught Cat Info\nArea: <%sL_CAT_AREA>\nType: <%sL_CAT_TYPE> <%sL_CAT_SEX> <%sL_CAT_SIZE>\nColors: <%sL_CAT_COLOR> <%sL_EYE_COLOR>\nNature: <%sL_CAT_CHAR>"
   },
   "52031": {
     "<speed=0>これ以上　なかまに誘うことは　できません！": "<speed=0>You can't invite any more members!"
@@ -2865,10 +2865,10 @@
     "「<%sM_item>」<%dM_ItemNum>個　": "<%dM_ItemNum> \"<%sM_item>\" "
   },
   "59032": {
-    "<%sM_category>お題<%dM_number>をクリア！\n<%sM_item>を <%dM_item_num>個  手に入れた！": ""
+    "<%sM_category>お題<%dM_number>をクリア！\n<%sM_item>を <%dM_item_num>個  手に入れた！": "Cleared <%dM_number> challenge(s) in <%sM_category>!\nReceived <%dM_item_num> <%sM_item>!"
   },
   "59033": {
-    "<%sM_category> <%sM_rank>お題<%dM_number>をクリア！\n<%sM_item>を <%dM_item_num>個  手に入れた！": ""
+    "<%sM_category> <%sM_rank>お題<%dM_number>をクリア！\n<%sM_item>を <%dM_item_num>個  手に入れた！": "Cleared <%dM_number> challenge(s) in <%sM_category> <%sM_rank>!\nReceived <%dM_item_num> <%sM_item>!"
   },
   "59034": {
     "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA2>が 付いた！": ""
@@ -2940,7 +2940,7 @@
     "<%sM_pc>の記事に <%dM_GOLD_10TH>ゴールド １０周年おひねりした！": "10th Anniversary Tipped <%dM_GOLD_10TH> Gold on <%sM_pc>'s Post!"
   },
   "59993": {
-    "１０周年おひねり特典として <%sM_ITEM_10TH>を <%dM_ITEM_10TH_NUM>こ 手に入れた！": ""
+    "１０周年おひねり特典として <%sM_ITEM_10TH>を <%dM_ITEM_10TH_NUM>こ 手に入れた！": "sad it's over :("
   },
   "60047": {
     "呼び出し中の　<%sL_MINION>を　ひっこめた！": ""
