@@ -3879,7 +3879,7 @@
     "なかまの入れ替え": "Swap Members"
   },
   "44645": {
-    "<speed=0>スキルを　ひとつも覚えていません。\n『どうぐ』　『スキルノート』　コマンドで\nスキルノートを　読みましょう！": "<speed=0>You haven't learned any skills. Use the\n\"Skill Book\" command under \"Items\" and try\nreading some Skill Books!"
+    "<speed=0>スキルを　ひとつも覚えていません。\n『どうぐ』　『スキルノート』　コマンドで\nスキルノートを　読みましょう！": "<speed=0>You haven't learned any skills. Use the\n\"Skill Notebook\" command under \"Items\" and try\nreading some Skill Notebooks!"
   },
   "44648": {
     "フウキの仲間の\n装備やスキルを\n設定します": "Set equipment and\nskills of SCC\nmembers."
@@ -3915,7 +3915,7 @@
     "<speed=0>\n<%sM_pc>は\n<%sM_item><%s_plusnum>を　装備した。\n<end>": "<speed=0>\n<%sM_pc> equipped the\n<%sM_item><%s_plusnum>.\n<end>"
   },
   "44761": {
-    "<speed=0>習得済みのスキルノートです。\nすててしまうと　覚えなおすことができませんが\n本当に　すててしまってよろしいですか？<yesno2><close>": "<speed=0>This is a learnable Skill Book. If you throw\nit away, you won't be able to relearn it.\nProceed?<yesno 2><close>"
+    "<speed=0>習得済みのスキルノートです。\nすててしまうと　覚えなおすことができませんが\n本当に　すててしまってよろしいですか？<yesno2><close>": "<speed=0>This is a learnable Skill Notebook. If you\nthrow it away, you won't be able to relearn\nit. Proceed?<yesno 2><close>"
   },
   "44772": {
     "まわりのみんなが\nずっとカメラに\n向きつづけます": "Everyone nearby\nwill always face\nthe camera."
@@ -3975,10 +3975,10 @@
     "<speed=0><color_yellow>※占い師で　ゲームを終了した場合\nサポート仲間として　酒場登録されませんが\nよろしいですか？<yesno><close>": "<speed=0><color_yellow>You cannot register yourself as a\nsupport companion in the tavern as a Fortune\nTeller. Proceed? <yesno><close>"
   },
   "44944": {
-    "<speed=0>習得中の　スキルノートです。": "<speed=0>Skill Notes being learned."
+    "<speed=0>習得中の　スキルノートです。": "<speed=0>This Skill Notebook is already in the\nprocess of being learned."
   },
   "44945": {
-    "<speed=0>おぼえたい　スキルノートを選んでください。\nおなじ　系統のスキルノートは\nひとつまでしか　おぼえる事ができません。\n<break>": "<speed=0>Select the Skill Notes you want to learn.\nYou can only know one Skill Note per family."
+    "<speed=0>おぼえたい　スキルノートを選んでください。\nおなじ　系統のスキルノートは\nひとつまでしか　おぼえる事ができません。\n<break>": "<speed=0>Please select the Skill Notebooks in which you\nwish to learn. You may only learn one Skill\nNotebook per family.\n<break>"
   },
   "45026": {
     "<speed=0>このルーラストーンに設定されていた\n飛び先は　使用できなくなりました。\n教会で　新しい飛び先を設定してください。　": "This Zoomstone's registered location is no\nlonger available. Please set a new\ndestination."
@@ -4203,7 +4203,7 @@
     "<%sM_npc>の話を聞く": "<%sM_npc>'s Story"
   },
   "46032": {
-    "<speed=0>\n<%sM_item>の書を　投げ捨てた！\n<br>\n<color_yellow>\nすでに　クルクルポシェットへ送った\nスキルノートが　いっぱいで送れないようだ。\n報酬を　受け取りに行こう！\n<end>": "<speed=0>\nThrew away the <%sM_item> Book!\n<br>\n<color_yellow>\nYou've already sent the Bag o' Books plenty\nof Skill Books. Go and receive your reward!\n<end>"
+    "<speed=0>\n<%sM_item>の書を　投げ捨てた！\n<br>\n<color_yellow>\nすでに　クルクルポシェットへ送った\nスキルノートが　いっぱいで送れないようだ。\n報酬を　受け取りに行こう！\n<end>": "<speed=0>\nThrew away the <%sM_item> Book!\n<br>\n<color_yellow>\nYou've already sent the Bag o' Books plenty\nof Skill Notebooks. Go and receive your\nreward!\n<end>"
   },
   "46033": {
     "<speed=0>\n<se_nots Joutyu_SE 39>\n<%sM_item>の書は　魔法のチカラで\nクルクルポシェットのもとに　送られた！\n<br>\n<color_yellow>\nこれ以上は　送れないようだ。\nクルクルポシェットのもとへ\n報酬を　受け取りに行こう！\n<end>": "<speed=0>\n<se_nots Joutyu_SE 39>\nThe <%sM_item> Book was\nmagically sent to the Bag o' Books!\n<br>\n<color_yellow>\nIt seems that you can't send any more.\nReturn to the Bag o' Books so you can\nreceive your reward!\n<end>"
@@ -4347,7 +4347,7 @@
     "まだ<%sM_SNPC>の\n部屋へ行く許可は\nもらっていません": "Still can't visit\n<%sM_SNPC>'s\nroom."
   },
   "46921": {
-    "祈望館から出て\n通学路へ戻ります": "Leave Prayer Hall\nand return to\nthe pathways."
+    "祈望館から出て\n通学路へ戻ります": "Leave this place\nand return to\nthe walkways."
   },
   "46954": {
     "<speed=0>復活場所の　<%sM_add><%sM_point>へ\n戻りますか？\n鉄の金庫の効果で　ゴールドは　失いません。<yesno2><close>": "<speed=0>Resurrect at <%sM_add><%sM_point>?\nYour Iron Safe prevents you from losing any\nGold as a penalty.<yesno2><close>"
