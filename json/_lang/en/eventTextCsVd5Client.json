@@ -279,7 +279,7 @@
     "「ですが　もし　魔瘴の根源が消滅すれば\n　世界樹の守り人は　その役割を終え\n　私が　最後の守り人と　なりましょう。": "But if the source of the demon miasma\ndisappears, Yggdrasil will no longer require a\nguardian, and I shall be its last."
   },
   "265774": {
-    "「どうか　必ず……\n　異界滅神ジャゴヌバを　倒してください。\n　それが　巫女ヒメア　最後の願いです。": "Please, you must... defeat the Eldritch God\nJagonuba. That is Maiden Himea's final\nrequest."
+    "「どうか　必ず……\n　異界滅神ジャゴヌバを　倒してください。\n　それが　巫女ヒメア　最後の願いです。": "Please, you must... defeat Jagonuba.\nThat is Maiden Himea's final request."
   },
   "265775": {
     "<pc>は\n世界樹の花（だいじなもの）を　手に入れた！<me 60>": "<pc> received\nthe Yggdrasil Flower (Key Item)!<me 60>"
@@ -1911,7 +1911,7 @@
     "「ゆえに　今一度　貴様に問おう……。 \n　それでも　この者を　弟だと呼べるのか？\n<select_nc>\n弟と呼べる\n弟と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Therefore, I ask you once again, can you still\ncall him your brother?\n<select_nc>\nCall him brother\nDon't call him brother\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
   },
   "266327": {
-    "「ほう……。本当に　この者を\n　弟とは　呼べないのだな……？\n<select_nc>\n弟と呼べる\n弟と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Ho... you really can't call him your\nbrother, can you...?\n<select_nc>\nCall him brother\nDon't call him brother\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
+    "「ほう……。本当に　この者を\n　弟とは　呼べないのだな……？\n<select_nc>\n弟と呼べる\n弟と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Oh, ho... you really can't call him your\nbrother, can you...?\n<select_nc>\nCall him brother\nDon't call him brother\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
   },
   "266328": {
     "「ならば　立ち去れ。そして……\n　己が選択の意味を　かみしめよ！": "Then walk away. And... grasp the meaning of\nyour choice!"
@@ -2214,7 +2214,7 @@
     "「本当に　大魔王にふさわしいのは\n　この俺……魔王ユシュカだ。": "Truly, the one who deserves to be Great Demon\nKing is me... Demon King Yushka."
   },
   "266428": {
-    "「俺を選べ　異界滅神ジャゴヌバ！": "Choose me, Eldritch God Jagonuba!"
+    "「俺を選べ　異界滅神ジャゴヌバ！": "Choose me, Jagonuba!"
   },
   "266429": {
     "「キミの望みを　かなえてあげよう。": "Then I shall give you what you desire."
@@ -2388,13 +2388,13 @@
     "「ゆえに　今一度　貴様に問おう……。 \n　それでも　この者を　妹だと呼べるのか？\n<select_nc>\n妹と呼べる\n妹と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Therefore, I ask you once again, can you still\ncall her your sister?\n<select_nc>\nCall her sister\nDon't call her sister\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
   },
   "272042": {
-    "「ほう……。本当に　この者を\n　兄とは　呼べないのだな……？\n<select_nc>\n兄と呼べる\n兄と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Ho... you really can't call him your\nbrother, can you...?\n<select_nc>\nCall him brother\nDon't call him brother\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
+    "「ほう……。本当に　この者を\n　兄とは　呼べないのだな……？\n<select_nc>\n兄と呼べる\n兄と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Oh, ho... you really can't call him your\nbrother, can you...?\n<select_nc>\nCall him brother\nDon't call him brother\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
   },
   "272043": {
-    "「ほう……。本当に　この者を\n　姉とは　呼べないのだな……？\n<select_nc>\n姉と呼べる\n姉と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Ho... you really can't call her your sister,\ncan you...?\n<select_nc>\nCall her sister\nDon't call her sister\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
+    "「ほう……。本当に　この者を\n　姉とは　呼べないのだな……？\n<select_nc>\n姉と呼べる\n姉と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Oh, ho... you really can't call her your sister,\ncan you...?\n<select_nc>\nCall her sister\nDon't call her sister\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
   },
   "272044": {
-    "「ほう……。本当に　この者を\n　妹とは　呼べないのだな……？\n<select_nc>\n妹と呼べる\n妹と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Ho... you really can't call her your sister,\ncan you...?\n<select_nc>\nCall her sister\nDon't call her sister\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
+    "「ほう……。本当に　この者を\n　妹とは　呼べないのだな……？\n<select_nc>\n妹と呼べる\n妹と呼べない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Oh, ho... you really can't call her your sister,\ncan you...?\n<select_nc>\nCall her sister\nDon't call her sister\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
   },
   "274773": {
     "「これは　ヒメア様たっての　希望でもあります。\n　あなたとは　明日　最後に会えるから\n　宴は　村人や学徒との　時間にしたい……と。": "This was also Lady Himea's wish. Since you are\nthe last people she will ever meet tomorrow,\nshe would like to spend the banquet with the\n<br>\nvillagers and her students."
