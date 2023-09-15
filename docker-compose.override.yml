@@ -10,7 +10,8 @@ services:
     networks:
       weblate:
     volumes:
-      - ./custom_checks/byte_checker:/app/data/python/byte_checker
+      - ./custom_checks/byte_checker/module:/app/data/python/byte_checker
+      - ./custom_checks/line_length/module:/app/data/python/line_length
     environment:
       WEBLATE_SITE_TITLE: DQX Translation Project
       WEBLATE_ADMIN_NAME: ${WEBLATE_ADMIN_NAME}
