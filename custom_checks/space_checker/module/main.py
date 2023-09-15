@@ -35,5 +35,5 @@ class SpaceChecker(TargetCheck):
                 return True
 
             # check for usage of full width spaces
-            if line.contains("　"):
+            if "　" in line:
                 return True
