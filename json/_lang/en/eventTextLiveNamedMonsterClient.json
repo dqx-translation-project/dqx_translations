@@ -15,16 +15,16 @@
     "「さて……。この魔獣調教士ガブラめに\n　本日は　どのような　ご用件でございますか？\n<break>": "Well... What can I do for you today, Gabula\nthe Hexenbiest?<break>"
   },
   "254190": {
-    "「<%sM_MONSTER>を　速成培養するのなら\n　魔因細胞を　<%nM_ITEM_NUM>個　いただきます。\n　勝敗によらず消費されますが　よろしいですか？\n<yesno 2><case 1><break><case 2><close><case_cancel><close><case_end>": "If you're going to cultivate <%sM_MONSTER>,\nyou'll need <%nM_ITEM_NUM> magical cells...\nThey'll be consumed regardless of victory or\n<br>\ndefeat, is that correct?<yesno 2><case 1><break><case 2><close><case_cancel><close><case_end>"
+    "「<%sM_MONSTER>を　速成培養するのなら\n　魔因細胞を　<%nM_ITEM_NUM>個　いただきます。\n　勝敗によらず消費されますが　よろしいですか？\n<yesno 2><case 1><break><case 2><close><case_cancel><close><case_end>": "If you're going to accelerate the cultivation\nof <%sM_MONSTER>, you'll need\n<%dM_ITEM_NUM> Demon Cells.\n<br>\nThe cells will be consumed regardless of\nwhether you win or lose. Is that fine?\n<yesno 2><case 1><break><case 2><close><case_cancel><close><case_end>"
   },
   "254191": {
-    "「……おや？\n　魔因細胞が　足りないようです。\n　お時間のあるときに　集めてみられては？\n<end>": "... Hmm? We're running low on magical\ncells... Why don't you try to collect them\nwhen you have time?<end>"
+    "「……おや？\n　魔因細胞が　足りないようです。\n　お時間のあるときに　集めてみられては？\n<end>": "...What's this? You don't have enough Demon\nCells. Why not try gathering some when you\nget the chance?\n<end>\nEnglish"
   },
   "254192": {
     "「申し訳ありませんが　あなたは\n　パーティのリーダーでは　ございませんね。\n　リーダーとなってから　来ていただけますか。\n<end>": "I'm sorry, sir, but you are not the leader of\nthis party. You've only been here since you\nbecame the leader...<end>"
   },
   "254193": {
-    "「この秘術をかければ　今から　３０分の間\n　魔界の魔物を倒したときに　魔因細胞を\n　まれに　落としていくように　なるのです。\n<br>\n「かけられるのは　１日に　１回限りとなります。\n　他の　まじないなどが　かかっていたら\n　そちらは　消えてしまいますので　ご注意を。\n<br>\n「この秘術は　パーティのお仲間には\n　効果がなく　あなただけに　効くものです。\n　お忘れなきよう　お願いいたします。\n<br>\n「本当に　この特別な秘術をかけても\n　よろしいので　ございますか？\n<yesno><break>": "If you cast this spell, from now on for the\nnext 30 minutes, when you kill a demon in the\ndemon world, it will rarely drop a demon\n<br>\ncell... You can only cast this spell once a\nday... If any other spell is cast, it will be\nerased, so... This spell will not work on\n<br>\nyour party mates, only on you. Please don't\nforget... Are you sure you don't mind if I\ncast this special spell on you?<yesno><break>"
+    "「この秘術をかければ　今から　３０分の間\n　魔界の魔物を倒したときに　魔因細胞を\n　まれに　落としていくように　なるのです。\n<br>\n「かけられるのは　１日に　１回限りとなります。\n　他の　まじないなどが　かかっていたら\n　そちらは　消えてしまいますので　ご注意を。\n<br>\n「この秘術は　パーティのお仲間には\n　効果がなく　あなただけに　効くものです。\n　お忘れなきよう　お願いいたします。\n<br>\n「本当に　この特別な秘術をかけても\n　よろしいので　ございますか？\n<yesno><break>": "By using this technique, monsters in the Demon\nWorld will start rarely dropping Demon Cells\nfor the next 30 minutes.\n<br>\nI can only use this technique once per day.\nIf you gain a different charm effect, it will\noverwrite this one, so be careful.\n<br>\nThis technique won't work on your party\nmembers either; it only works on you.\nBe sure to remember that.\n<br>\nAre you absolutely sure you want me to use\nthis technique, then?\n<yesno><break>"
   },
   "254194": {
     "「では　まいります……。\n　ガ～ブラン　ダ～ブラン　セルルーチョっ！\n<br>\n「……これで　秘術が　かかりました。\n　秘術の効果は　３０分間で切れますので\n　どうか　お急ぎください。\n<bw_break>": "Here we go... Ga-bran, da-bran, serluccio!\n... The spell will now take effect... The\neffects of the spell will wear off in 30\n<br>\nminutes, so please hurry...<bw_break>"
@@ -54,7 +54,7 @@
     "「細胞回収器を　お持ちでないようですね。\n　近くにおります　輝晶術士レビィから\n　お求めください。\n<end>": "I'm afraid you don't have a cell retrieval\nsystem. You'll have to get it from the nearby\npyromancer, Levy.<end>"
   },
   "257783": {
-    "「<%sM_MONSTER>を　速成培養するのなら\n　魔因細胞を　<%nM_ITEM_NUM>個　いただきます。\n　勝敗によらず消費されますが　よろしいですか？\n<break>": "If you're going to cultivate <%sM_MONSTER>,\nyou'll need <%nM_ITEM_NUM> magical cells...\nThey'll be consumed regardless of victory or\n<br>\ndefeat, is that correct?<break>"
+    "「<%sM_MONSTER>を　速成培養するのなら\n　魔因細胞を　<%nM_ITEM_NUM>個　いただきます。\n　勝敗によらず消費されますが　よろしいですか？\n<break>": "If you're going to accelerate the cultivation\nof <%sM_MONSTER>, you'll need\n<%dM_ITEM_NUM> Demon Cells.\n<br>\nThe cells will be consumed regardless of\nwhether you win or lose. Is that fine?\n<break>"
   },
   "257818": {
     "「それを使えば　あなたが　今いる地域に\n　輝晶獣が　出現する可能性があるかどうかが\n　わかるのです。\n<br>\n「また　探す時間はないが　輝晶獣と戦いたいと\n　おっしゃる場合は　私が　速成培養した輝晶獣と\n　戦っていただくことも　可能でございます。\n<br>\n「ただ　これには　特別な秘術をかけた状態で\n　魔界の魔物を倒すと　手に入る　魔因細胞を\n　ご用意していただかなくては　なりません。\n<br>\n「一点！　注意がございます。\n　魔因細胞は　培養には　欠かせないものですので\n　勝敗に関わらず　頂戴いたします。\n<br>\n「もし　敗北の不安が　おありでしたら\n　魔因細胞を　回収し再生できる　細胞回収器も\n　レビィに　用意させておきましょう。\n<br>\n「……少々　脱線もしましたが\n　どうか　私に　チカラを貸していただきたく\n　お願いするしだいでございます。\n<bw_break>": "You can use it to find out if there is a\nchance of a Kaiju appearing in the area you\nare in... And if you don't have time to look\n<br>\nfor one, but you want to fight one, you can\nfight one that I've cultivated for you... But\nto do this, you'll need to prepare some\n<br>\nhexenbiest cells that can be obtained by\ndefeating demons in the demon world with a\nspecial magic... One point! A word of\n<br>\ncaution... I'm sure you've heard of it... If\nyou're worried about losing, I'll have Levy\nprepare a cell retrieval device that can\n<br>\nrecover and regenerate the magical cells...\n... I know this is a bit of a digression, but\nI'm asking you to lend me your help.<bw_break>"
