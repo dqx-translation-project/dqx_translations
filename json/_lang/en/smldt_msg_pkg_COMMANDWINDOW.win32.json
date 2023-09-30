@@ -627,7 +627,7 @@
     "バトル中に\nよく使うセリフを\n設定します": "Set common\nlines used in\nbattle."
   },
   "23487": {
-    "<speed=0>お宝のありかを　新しい情報に\n書き換えて　よいですか？<yesno><close>": "<speed=0>Change the treasure location information?<yesno><close>"
+    "<speed=0>お宝のありかを　新しい情報に\n書き換えて　よいですか？<yesno><close>": "<speed=0>Update the treasure location information\ndisplayed on your map?<yesno><close>"
   },
   "23518": {
     "手に入れた称号を\nかたがきに\n設定します": "Uses obtained\ntitles to make\nyour own."
@@ -900,7 +900,7 @@
     "冒険を中断するのを やめました。": "Log out was cancelled."
   },
   "26181": {
-    "<speed=0>新しい<%sM_action>をつくると　いちばん\n古いものが消えますが　よろしいですか？\n<yesno><close>": "<speed=0>Creating a new <%sM_action> causes the old one to\ndisappear. Is this okay?<yesno><close>"
+    "<speed=0>新しい<%sM_action>をつくると　いちばん\n古いものが消えますが　よろしいですか？\n<yesno><close>": "<speed=0>Creating a new <%sM_action> will cause\nthe old one to disappear. Proceed?<yesno><close>"
   },
   "26193": {
     "ひとりで遊ぶので\n他の人から仲間に\n誘われない状態": "Play alone and\nblock party\ninvites."
@@ -915,7 +915,7 @@
     "チャット遅いけど\nゆるしてほしいと\n言いたい状態": "You don't have\na keyboard, so\nyou can't chat."
   },
   "26197": {
-    "アピールは特に\nなにもない状態": ""
+    "アピールは特に\nなにもない状態": "No specific\nappeal at\nthe moment."
   },
   "26198": {
     "仲間として一緒に\n遊んでくれる人を\n探している状態": "You're looking\nfor others to\nplay with."
@@ -945,7 +945,7 @@
     "<speed=0><%sM_target>は　遠くにいるので\n調べられない！": "<%sM_target> is too far\naway to check!"
   },
   "26522": {
-    "作成者 <%sM_pc>": "Author <%sM_pc>"
+    "作成者 <%sM_pc>": "Author: <%sM_pc>"
   },
   "26575": {
     "どちらのキャラを　作りなおしますか？": "Which character would you like to re-create?"
@@ -1008,7 +1008,7 @@
     "ログイン状況を\n知り合いに表示\nするか設定します": "Set whether you\nwant to show your\nlogin status."
   },
   "27125": {
-    "<speed=0>\nログイン状況表示設定の　説明です！\n<br>\nログイン状況表示設定では\n『ログイン表示する』『ログイン表示しない』\n『常にログアウト表示』の3つの設定が選べます。\n<br>\n『ログイン表示する』の設定では\nあなたのログイン状態が　通常通りに\nフレンドやチームから　見ることができます。\n<br>\n『ログイン表示しない』の設定では\nあなたのログイン状態は　フレンドやチームには\n常に『（非表示）』と　見えます。\n<br>\nこの設定にしていても　フレンドチャットや\nチームチャットは　使用することができます。\n<br>\n『常にログアウト表示』の設定では\nあなたのログイン状態は　フレンドやチームには\n常に『ログアウト中』と　見えます。\n<br>\nこの設定にしていると　フレンドチャットや\nチームチャットは　使用できません。\n<br>\nなお　どの設定でも\nゲームの中で会った時には　キャラは\n普通に表示されますので　ご注意ください。": "<speed=0>\nThis will explain login status!\n<br>\nThere are three types of login statuses:\n\"Show Login\", \"Hide Login\", and\n\"Appear Offline\".\n<br>\n\"Show Login\" will display your status as logged\nin to your friends and teammates.\n<br>\n\"Hide Login\" will show you with a status\nof hidden to your friends and teammates.\n<br>\nYou can still use Friend and Team chat with\nthis login status enabled.\n<br>\n\"Appear Offline\" will show you with a status\nof \"Offline\" to your friends and teammates.\n<br>\nYou cannot use Friend or Team chat with this\nstatus enabled.\n<br>\nPlease note that your character will still\nbe visible to others regardless of your chosen\nlogin status."
+    "<speed=0>\nログイン状況表示設定の　説明です！\n<br>\nログイン状況表示設定では\n『ログイン表示する』『ログイン表示しない』\n『常にログアウト表示』の3つの設定が選べます。\n<br>\n『ログイン表示する』の設定では\nあなたのログイン状態が　通常通りに\nフレンドやチームから　見ることができます。\n<br>\n『ログイン表示しない』の設定では\nあなたのログイン状態は　フレンドやチームには\n常に『（非表示）』と　見えます。\n<br>\nこの設定にしていても　フレンドチャットや\nチームチャットは　使用することができます。\n<br>\n『常にログアウト表示』の設定では\nあなたのログイン状態は　フレンドやチームには\n常に『ログアウト中』と　見えます。\n<br>\nこの設定にしていると　フレンドチャットや\nチームチャットは　使用できません。\n<br>\nなお　どの設定でも\nゲームの中で会った時には　キャラは\n普通に表示されますので　ご注意ください。": "<speed=0>\nThis will explain login status!\n<br>\nThere are three types of login statuses:\n\"Show Login\", \"Hide Login\", and\n\"Appear Offline\".\n<br>\n\"Show Login\" will display your status as\nlogged in to your friends and teammates.\n<br>\n\"Hide Login\" will show you with a status\nof hidden to your friends and teammates.\n<br>\nYou can still use Friend and Team chat with\nthis login status enabled.\n<br>\n\"Appear Offline\" will show you with a status\nof \"Offline\" to your friends and teammates.\n<br>\nYou cannot use Friend or Team chat with this\nstatus enabled.\n<br>\nPlease note that your character will still\nbe visible to others regardless of your chosen\nlogin status."
   },
   "27126": {
     "現在は　ログイン非通知設定が\n『ログインを通知する』になっています。\n『ログインを通知しない』に　変更しますか？\n<yesno><close>": "Current log in notification is set to\n\"Notify\". Change to \"Do Not Notify\"?\n<yesno><close>"
