@@ -33,7 +33,7 @@
     "<%sCAS_monster>は　にげだした！<auto_bw=3000><close>": "<%sCAS_monster> ran away!<auto_bw=3000><close>"
   },
   "63694": {
-    "まわりのプレイヤーと協力して　時間内に\n<%sCAS_monster>を　倒してください！<auto_br=4000>\nカジノレイド中は　コインを使わずに\n１カ所だけに　かけることができます！！<auto_bw=4000><close>": "Cooperate with nearby players to defeat the\n<%sCAS_monster>!<auto_br=4000>During a Casino Raid, you can only bet Tokens\non one spot!<auto_bw=4000><close>"
+    "まわりのプレイヤーと協力して　時間内に\n<%sCAS_monster>を　倒してください！<auto_br=4000>\nカジノレイド中は　コインを使わずに\n３カ所に　かけることができます！！<auto_bw=4000><close>": ""
   },
   "63698": {
     "<%dM_coin>枚のコインを　手に入れました。<auto_bw=3000><close>": "Received <%dM_coin> Tokens!<auto_bw=3000><close>"
@@ -45,7 +45,7 @@
     "<speed=0>ベットしたい場所に\n<convenience>で　チップを置いてください。<auto_br=4000>\nのこり時間が　０になると\nルーレットがまわりはじめます。<auto_bw=4000><close>": "<speed=0>Use <convenience> to place a chip to bet.<auto_bw=4000>\nWhen the timer runs out, the roulette wheel\nwill spin.<auto_bw=4000><close>"
   },
   "66758": {
-    "<cursor>で　かけるエリアを　選び\n<convenience>を押して　ベットしてください。<auto_br=4000>\n選べるエリアは　ひとつだけ！\n当たれば　たくさんのコインが　手に入ります！<auto_bw=4000><close>": "Use <cursor> to select the area to cover\nand use <convenience> to bet.<auto_br=4000>\nYou can only choose one area! If you win,\nyou'll get a lot of Tokens!<auto_bw=4000><close>"
+    "<cursor>で　かけるエリアを　選び\n<convenience>を押して　ベットしてください。<auto_br=4000>\n選べるエリアは　３つまで！\n当たれば　たくさんのコインが　手に入ります！<auto_bw=4000><close>": ""
   },
   "67765": {
     "カジノレイドが　続いています。<auto_bw=3000><close>": "Continuing the Casino Raid.<auto_bw=3000><close>"
@@ -84,7 +84,7 @@
     "カジノレイドは　まもなく終了するため\n参加できませんでした。": "The casino raid is about to end, so you can't\njoin it right now."
   },
   "78750": {
-    "<cursor>で\nベットしたい場所に　チップを置いてください。<auto_bw=4000>\n選べるエリアは　ひとつだけ！\n当たれば　たくさんのコインが　手に入ります！<auto_bw=4000><close>": "Use <cursor> to place chips where you\nwant to bet.<auto_bw=4000>\nYou can only choose one area! If you win,\nyou'll get a lot of Tokens!<auto_bw=4000><close>"
+    "<cursor>で\nベットしたい場所に　チップを置いてください。<auto_bw=4000>\n選べるエリアは　３つまで！\n当たれば　たくさんのコインが　手に入ります！<auto_bw=4000><close>": ""
   },
   "78753": {
     "<speed=0>ベットしたい場所に\n<convenience>で　チップを置いてください。<auto_bw=4000><close>": "<speed=0>Use <convenience> to place a chip to bet.<auto_bw=4000><close>"
@@ -102,9 +102,9 @@
     "<%sCAS_monster>は　ダウンした！\nダウン中は　コイン入手量が２倍になります！": "<%sCAS_monster> is down!\nTokens will be doubled while it's down!"
   },
   "187594": {
-    "<%sCAS_gambler>の　こうげき！<auto_br=2500>\nコイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "<%sCAS_gambler>'s attack!<auto_br=2500>Received <%dM_coin> Tokens (+<%dM_coin_bonus> Bonus)!\n<%sCAS_monster> took <%dCAS_damage> damage!<auto_bw=3000><close>"
+    "<%sCAS_gambler>の　こうげき！<auto_br=2500>\nコイン<%dM_coin>枚（内 ボーナス<%dM_coin_bonus>枚）かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
   },
   "187595": {
-    "<%sCAS_gambler>の　テンションアップこうげき！<auto_br=2500>\nコイン<%dM_coin>枚（内　ボーナス<%dM_coin_bonus>枚）かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "<%sCAS_gambler>'s Tension Boost attack!<auto_br=2500>\nReceived <%dM_coin> Tokens (+<%dM_coin_bonus> Bonus)!\n<%sCAS_monster>took <%dCAS_damage> damage!<auto_bw=3000><close>"
+    "<%sCAS_gambler>の　テンションアップこうげき！<auto_br=2500>\nコイン<%dM_coin>枚（内 ボーナス<%dM_coin_bonus>枚）かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
   }
 }
