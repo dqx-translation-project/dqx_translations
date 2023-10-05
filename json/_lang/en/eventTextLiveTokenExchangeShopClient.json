@@ -273,7 +273,7 @@
     "「<%sL_GOODS_ITEM>の　しぐさは\n　すでに　覚えているようだが\n　本当に　交換するのか？\n<yesno2><break>": "You already know the <%sL_GOODS_ITEM>\nemote. Do you truly want it again?\n<yesno2><break>"
   },
   "211182": {
-    "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようだぞ。\n<bw_break>": "I already remember the <%sL_GOODS_ITEM>\ngesture...<bw_break>"
+    "「<%sL_GOODS_ITEM>は\n　もう　手に入れているようだぞ。\n<bw_break>": ""
   },
   "211183": {
     "「むっ　<%sL_GOODS_ITEM>は\n　すでに取り付けているようだが\n　本当に　交換するのか？\n<yesno2><break>": "You've already installed the <%sL_GOODS_ITEM>.\nAre you sure you want it again?\n<yesno2><break>"
@@ -2241,7 +2241,7 @@
     "「今の職業では　装備できないけど……\n　いいかな？\n<yesno><break>": ""
   },
   "292531": {
-    "「そのアイテムは　すでに交換しているので\n　もう　お渡しすることが　できません。\n<bw_break>": "That item has already been exchanged, so I\ncan't give it to you anymore...<bw_break>"
+    "「……あれ？　そのアイテムは既に入手済みだから\n　もう　渡すことは　できないよ。\n<bw_break>": ""
   },
   "292532": {
     "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<bw_break>": "You already know the <%sL_GOODS_ITEM>\nemote, so I can't give it to you.\n<bw_break>"
@@ -2262,10 +2262,10 @@
     "「申し訳ありません。\n　ただ今　準備中なので\n　もうしばらくお待ちください。\n<bw_break>": "I'm sorry... We're in the process of\npreparing it, so please wait a little\nlonger...<bw_break>"
   },
   "292538": {
-    "「申し訳ありません。\n　そのアイテムは　準備中なので\n　まだ　お渡しする事ができません。\n<bw_break>": "I'm sorry... That item is still being\nprepared, so I can't give it to you yet...<bw_break>"
+    "「……ごめんなさい。\n　そのアイテムは　準備中だから\n　まだ　渡せないんです。\n<bw_break>": ""
   },
   "292539": {
-    "「申し訳ありません。交換アイテムの準備のため\n　交換を終了させて頂きます。\n　またお越しください。\n<end>": "We're sorry... We've had to close the\nexchange to make room for new items... Please\ncome again...<end>"
+    "「……交換アイテムの　準備があるから\n　交換は　もう終わりなんです。\n　ごめんなさい。また　よろしくね。\n<end>": ""
   },
   "292540": {
     "交換出来ませんでした。\n最大所持数に　制限のある　\nアイテムのようです。\n<end>": "Could not exchange for item. This item has\na limited number of exchanges.\n<end>"
@@ -2484,7 +2484,7 @@
     "「そのアイテムは入手済みのため交換できません。\n　港町レンドア南や　メギストリスの都にいる\n　取りよせ商から　購入してください。\n<bw_break>": "You already have this item, so you can't\nexchange for it again. You can purchase it\nfrom a merchant in either Lendor or Megistris.\n<bw_break>"
   },
   "304467": {
-    "「そのアイテムは入手済みのため交換できません。\n　港町レンドア南や　メギストリスの都にいる\n　取りよせ商から　購入してください。\n<bw_break>": "You already have this item, so you can't\nexchange for it again. You can purchase it\nfrom a merchant in either Lendor or Megistris.\n<bw_break>"
+    "「そのアイテムは　すでに　入手済みのようだ。\n　港町レンドア南や　メギストリスの都にいる\n　取りよせ商から　購入するといいぞ。\n<bw_break>": ""
   },
   "304468": {
     "「そいつは入手済みのため交換できないぞ！\n　港町レンドア南や　メギストリスの都にいる\n　取りよせ商から　購入してくれ！\n<bw_break>": ""
