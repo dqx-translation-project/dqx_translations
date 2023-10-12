@@ -27,7 +27,7 @@
     "<speed=0><%sM_pc>は\n<%sM_item>を　道具として\n使ってみた。<br>\nしかし　今は　何もおこらなかった……。": "<speed=0><%sM_pc> tried using <%sM_item>\nas an item.<br>\nBut nothing happened..."
   },
   "22439": {
-    "<speed=0><%sM_pc>は\n<%sM_item>を使った。<br>\nしかし　何も　おこらなかった！": "<speed=0><%sM_pc> used <%sM_item>.<br>\nBut nothing happened!"
+    "<speed=0><%sM_pc>は\n<%sM_item>を使った。<br>\nしかし　何も　おこらなかった！": "<speed=0><%sM_pc> used the <%sM_item>.\n<br>\nBut nothing happened!"
   },
   "26533": {
     "<%sL_PC>が <%sL_PLACE>の\nタンスから手に入れた。": "<%sL_PC> received from a\nwardrobe in <%sL_PLACE>."
@@ -132,7 +132,7 @@
     "<%sM_pc>は\n<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>\n<br>\nきせかえドールのポーズを\n「<%sM_item2>」に　変えられるようになった！\n<br>\n<%sM_item>は\n光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"\n<%sM_action>! <se_nots System 7>\n<br>\nYou can now change your dress-up doll's\npose to \"<%sM_item2>\"!\n<br>\n<%sM_item> disappeared in\na flash of light!"
   },
   "41165": {
-    "<speed=0>すでに　元気タイム中です！\n<%sM_item>を使うと　時間と効果が\n上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You're already in Bonus Time!\nIf you use <%sM_item>, your remaining time\nwill be overwritten. Is this okay?<yesno 2><close>"
+    "<speed=0>すでに　元気タイム中です！\n<%sM_item>を使うと　時間と効果が\n上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You're already in Bonus Time!\nIf you use <%sM_item>, your remaining time\nwill be overwritten. Proceed?<yesno 2><close>"
   },
   "41185": {
     "<%sL_PC>が 景品交換所で\n交換して 手に入れた。": "<%sL_PC> received it at a prize\nexchange."
