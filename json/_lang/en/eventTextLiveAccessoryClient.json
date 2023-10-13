@@ -228,7 +228,7 @@
     "「おー　戻って来れたんだねっ♪\n　合成の途中で　急に　いなくなったから\n　ビックリしちゃったよ～。\n<br>\n「そんじゃ　あらためて……\n　合成チャレンジ　いってみます！\n<end>": "Oh, you're back! I was surprised when you\nsuddenly up and left while I was synthesizing.\n<br>\nAnyways, I'll try synthesizing again!\n<end>"
   },
   "255635": {
-    "<pipipi_off>\n<%sL_ACCE_ITEM><%sL_PLUSNUM_1>に\n<%sL_BONUS>　が付いた！\n<bw_break>": ""
+    "<pipipi_off>\n<%sL_ACCE_ITEM><%sL_PLUSNUM_1>に\n<%sL_BONUS>　が付いた！\n<bw_break>": "<pipipi_off>\n<%sL_ACCE_ITEM><%sL_PLUSNUM_1> now has\n<%sL_BONUS>!<bw_break>"
   },
   "284601": {
     "「<%sL_ACCE_ITEM><%sL_PLUSNUM>には\n　合成効果と２つの伝承効果が　付いてるけど\n　どっちの効果を　消したいの？\n<select_se_off>\n合成効果\n２つの伝承効果\n<select_end>\n<break>": "<%sL_ACCE_ITEM><%sL_PLUSNUM> has a\nboth a synthesis effect and a two lore\neffects. Which do you want to remove?\n<select_se_off>\nSynthesis Effect\n2 Lore Effects\n<select_end>\n<break>"
@@ -267,6 +267,6 @@
     "「あっ！　この<%sL_ACCE_ITEM><%sL_PLUSNUM_1>\n　エナジーが　すっごく　たまってるね！\n　これは　会心合成が起こる予感……。\n<bw_break>": "Wow! This <%sL_ACCE_ITEM><%sL_PLUSNUM_1>\nhas accumulated a lot of energy! I got a\nfeeling a critical synthesis will happen...\n<bw_break>"
   },
   "308585": {
-    "<speed=0>\n合成エナジーの上限値が　変更されました。\nもう一度　やり直してください。\n<end>": ""
+    "<speed=0>\n合成エナジーの上限値が　変更されました。\nもう一度　やり直してください。\n<end>": "<speed=0>\nThe maximum energy has been changed.\nPlease try again.\n<end>"
   }
 }
