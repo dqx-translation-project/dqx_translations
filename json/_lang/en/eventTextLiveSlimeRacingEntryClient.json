@@ -1,30 +1,30 @@
 {
   "146664": {
-    "「ようこそ　スライムレース場へ！\n<bw_break>": "Welcome to the slime racetrack!<bw_break>"
+    "「ようこそ　スライムレース場へ！\n<bw_break>": "Welcome to the Slime Race racetrack!<bw_break>"
   },
   "146666": {
     "「<pc>様！　スライムレースに\n　ご参加いただき　ありがとうございました！\n<br>\n「それでは　獲得勝利ポイント分のゴールドを\n　お渡ししますね！\n<br>\n「……あら？　お手持ちのお金が多すぎて\n　お渡しできません。\n　所持金を減らして　また　お越しください！\n<end>": "<pc> Thank you for participating in the slime\nrace! Thank you for participating in the\nslime race! Now, I'll give you the gold for\n<br>\nyour victory points! ... What? There's too\nmuch money on hand for me to give you...\nPlease come back with less money.<end>"
   },
   "146667": {
-    "<se_nots System 35>\n「……あら？\n　<pc>様　大変です！\n　<%sM_ACTIVE_SLIME>の様子が　おかしいです…！\n<bw_break>": "<se_nots System 35>... What?<pc> Sir, we have a problem! There's something\nwrong with <%sM_ACTIVE_SLIME>...!<bw_break>"
+    "<se_nots System 35>\n「……あら？\n　<pc>様　大変です！\n　<%sM_ACTIVE_SLIME>の様子が　おかしいです…！\n<bw_break>": "<se_nots System 35>\nHuh...? <if_woman>Ms.<else>Mr.<endif> <pc>!\nThis is bad! Something's happening\nto <%sM_ACTIVE_SLIME>!\n<bw_break>"
   },
   "146669": {
-    "「あら？　まだ　<%sM_ACTIVE_SLIME>の\n　とくぎの習得が　終わっていませんでしたね。\n<bw_break>": "What? I haven't finished learning the\n<%sM_ACTIVE_SLIME> trick yet...<bw_break>"
+    "「あら？　まだ　<%sM_ACTIVE_SLIME>の\n　とくぎの習得が　終わっていませんでしたね。\n<bw_break>": "Huh? <%sM_ACTIVE_SLIME> still hasn't\nfinished learning their skills yet.\n<bw_break>"
   },
   "146670": {
-    "「あら？　まだ　<%sM_ACTIVE_SLIME>の\n　エサやりが　終わっていませんでしたね。\n<bw_break>": "What? I haven't finished feeding the\n<%sM_ACTIVE_SLIME> yet...<bw_break>"
+    "「あら？　まだ　<%sM_ACTIVE_SLIME>の\n　エサやりが　終わっていませんでしたね。\n<bw_break>": "Huh? <%sM_ACTIVE_SLIME> still hasn't\nbeen completely fed yet.\n<bw_break>"
   },
   "146673": {
-    "「次回も　<pc>様にお会いできるのを\n　楽しみに　お待ちしております！\n<end>": "Next time<pc> I'm looking forward to meeting you soon!<end>"
+    "「次回も　<pc>様にお会いできるのを\n　楽しみに　お待ちしております！\n<end>": "I look forward to seeing you again next time!\n<end>"
   },
   "146675": {
     "「あら！\n　<pc>様　来ていただけたのですね！\n<br>\n「<pc>様のおかげで\n　<%sM_EX_RACE>は\n　大盛況のもと　終えることができました！\n<bw_break>": "Oh, my!<pc>  I'm so glad you could make it!<pc> Thanks to all of you, <%sM_EX_RACE> has ended\nwith a great success!<bw_break>"
   },
   "146676": {
-    "<se_nots System 7>\n賞金　<%nM_AWARD>ゴールドを受け取った！\n<end>": "<se_nots System 7>Received my prize <%nM_AWARD> gold!<end>"
+    "<se_nots System 7>\n賞金　<%nM_AWARD>ゴールドを受け取った！\n<end>": "<se_nots System 7>\nReceived a prize of\n<%dM_AWARD> Gold!\n<end>"
   },
   "146678": {
-    "「それでは……\n<bw_break>": "So\n<bw_break>"
+    "「それでは……\n<bw_break>": "So, then...\n<bw_break>"
   },
   "146684": {
     "「もう一度　レースに参加されますか？\n<yesno><break>": "Would you like to participate in the race\nagain?<yesno><break>"
@@ -252,7 +252,7 @@
     "「パーティを組んでいるので　一緒に参加します。\n　<%sM_SELECT_SLIME>が　１着を取れるよう\n　上手に　さくせんを　立ててくださいね！\n<end>": "I'm putting together a party, so please join\nme... Please set up a good strategy so that\n<%sM_SELECT_SLIME> can take first place!<end>"
   },
   "189219": {
-    "「参加を　取り消します。\n　よろしいですか？\n<yesno><break>": ""
+    "「参加を　取り消します。\n　よろしいですか？\n<yesno><break>": "Cancel your race participation?\n<yesno><break>"
   },
   "189220": {
     "「お待たせしました！\n　<%sM_ACTIVE_SLIME>が　１着を取れるよう\n　上手に　さくせんを　立ててくださいね！\n<end>": "Thank you for your patience! Please set up a\ngood strategy so that <%sM_ACTIVE_SLIME> can\ntake the first place!<end>"
@@ -384,7 +384,7 @@
     "「つよさと　とくぎについて　確認できますよ。\n<break>": "I can confirm the strength and skill...<break>"
   },
   "210846": {
-    "「ただいま　スライムレースの祭典\n  <%sM_RACE>を\n　期間限定で　開催しております！\n<br>\n「アストルティアカップとは\n　育てたスライムで\n　ビッグな賞金獲得を　目指すレースです！\n<br>\n「さあ　いかがでしょう　お客様！\n　アストルティアカップに　エントリーして\n　一攫千金を　夢見てみませんか？\n<yesno><break>": "We're holding a slime race festival called\n<%sM_RACE> for a limited time only! The\nAstoltia Cup is a race to win big prizes with\n<br>\nthe slime you've grown! How about it,\ncustomers? Why don't you enter the Astoltia\nCup and dream of becoming a millionaire?<yesno><break>"
+    "「ただいま　スライムレースの祭典\n  <%sM_RACE>を\n　期間限定で　開催しております！\n<br>\n「アストルティアカップとは\n　育てたスライムで\n　ビッグな賞金獲得を　目指すレースです！\n<br>\n「さあ　いかがでしょう　お客様！\n　アストルティアカップに　エントリーして\n　一攫千金を　夢見てみませんか？\n<yesno><break>": "We're holding a Slime Race Festival, called\n<%sM_RACE>, for a limited\ntime only!\n<br>\nThe Astoltia Cup has some of the hottest\nSlime Races around, with big prizes for\nthe best Slimes out there!\n<br>\nSo come on and enter the Astoltia Cup\ntoday! Your dreams of becoming a\nmillionaire may just come true!\n<yesno><break>"
   },
   "210847": {
     "「そうですか……。<%sM_RACE>は\n　<%nM_CLOSE_MONTH>月<%nM_CLOSE_DAY>日まで　開催していますので\n　またのお越しを　お待ちしております！\n<end>": "I see... <%sM_RACE> will be open until the\n<%nM_CLOSE_MONTH> of the month\n<%nM_CLOSE_DAY>, so we're looking forward to\n<br>\nseeing you again!<end>"
