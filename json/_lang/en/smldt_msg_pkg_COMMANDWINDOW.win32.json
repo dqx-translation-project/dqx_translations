@@ -5961,7 +5961,7 @@
     "<speed=0>なにも　もっていない！": "<speed=0>The bag is empty!"
   },
   "55116": {
-    "<speed=0>有効期限が　のこっているため　捨てられません！": ""
+    "<speed=0>有効期限が　のこっているため　捨てられません！": "<speed=0>This item has an expiration date, so it\ncannot be thrown away!"
   },
   "55122": {
     "<speed=0>この誘いを受けるには\nモコモコハウスにいる　ロスターに\n話しかけてください。": "<speed=0>To receive this invitation, talk to\nRoster in the Mokomoko House."
@@ -5973,16 +5973,16 @@
     "魔法戦士で\nよろい系の防具が　装備できなくなりました。": "You can no longer equip heavy armor as an\nArmamentalist."
   },
   "55318": {
-    "ペペロくん": ""
+    "ペペロくん": "Pepero"
   },
   "55319": {
-    "大魔王の戴冠式": ""
+    "大魔王の戴冠式": "The Coronation"
   },
   "55320": {
     "ユシュカとナジーン": "Yushka and Nazine"
   },
   "55321": {
-    "アスバルを捜して": ""
+    "アスバルを捜して": "Searching for Asbal"
   },
   "55322": {
     "魔王アスバル": "Demon King Asbal"
@@ -5994,25 +5994,25 @@
     "魔王ヴァレリア": "Demon Queen Valeria"
   },
   "55325": {
-    "魔界の楽園": ""
+    "魔界の楽園": "Demon World's Paradise"
   },
   "55326": {
-    "審判の門": ""
+    "審判の門": "Gate of Judgment"
   },
   "55327": {
-    "赤い海から……": ""
+    "赤い海から……": "From the Red Sea..."
   },
   "55328": {
-    "秘境の花": ""
+    "秘境の花": "Unexplored Flowers"
   },
   "55329": {
-    "奈落へいざなう……？": ""
+    "奈落へいざなう……？": "Beckon to the Abyss...?"
   },
   "55330": {
     "トコトコ草": "Brisk Grass"
   },
   "55331": {
-    "湖のほとりで": ""
+    "湖のほとりで": "At the Lakeside"
   },
   "55342": {
     "<speed=0><%sM_item><%sM_plusnum>は\nドレスアップされていますが\n本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> has a glamour.\nIs it okay to throw it away?<yesno2><close>"
@@ -6021,7 +6021,7 @@
     "<speed=0><%sM_item><%sM_plusnum>は\nカラーリングされていますが\n本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> is dyed.\nAre you sure you want to throw it away?<yesno2><close>"
   },
   "55349": {
-    "<speed=0>\n選択した職業に　現在の　ふりわけを\n上書きして反映しました！\n<color_yellow>※職業専用の宝珠は　反映されません。": "<speed=0>\nSuccessfully copied to other vocation!\n<color_yellow>※Vocation-specific jewels will not be copied."
+    "<speed=0>\n選択した職業に　現在の　ふりわけを\n上書きして反映しました！\n<color_yellow>※職業専用の宝珠は　反映されません。": "<speed=0>\nSuccessfully copied to other vocation!\n<color_yellow>Vocation-specific jewels will not be copied."
   },
   "55350": {
     "<speed=0>\n現在の　宝珠レベルの　ふりわけを\n選択した職業に　上書きして反映します。\nよろしいですか？\n<yesno 2><close>": "<speed=0>\nThe selected vocation will have your current\nJewel Level applied to it. Is this okay?\n<yesno 2><close>"
@@ -6042,7 +6042,7 @@
     "【<%sM_JEWEL_NAME>】の宝珠を 落とすモンスター情報\n【基礎効果：<%sM_PASSIVE>】": "Monster drop information for [<%sM_JEWEL_NAME>]\n[Basic Effect: <%sM_PASSIVE>]"
   },
   "55461": {
-    "<speed=0>\nコミュニケーションウィンドウに\n落とすモンスター情報を　メモしました。": ""
+    "<speed=0>\nコミュニケーションウィンドウに\n落とすモンスター情報を　メモしました。": "<speed=0>\nMonster drop information was copied to\nthe Communication Window."
   },
   "55467": {
     "他の人が選択中です。\n他の人の選択が終わると　すわることができます。\n<bw_break>": "Someone is making a selection. You can sit\ndown when they are finished.\n<bw_break>"
@@ -6057,7 +6057,7 @@
     "「トランプケース」を持っていなかった。\n娯楽島ラッカランにいる　大富豪協会員プゴルに\n「トランプケース」を　もらいに行こう！\n<end>": "You don't have a \"Tycoon Card Case\". Go speak\nwith Tycoon Club Member Pugol in Luckland\nto get one!"
   },
   "55513": {
-    "<%sM_JOB>の<%sM_SKILL_LINE>の\nあふれたスキルポイントが　戻った！": "<%sM_JOB>'s <%sM_SKILL_LINE> overflowed\nskill points have returned!"
+    "<%sM_JOB>の<%sM_SKILL_LINE>の\nあふれたスキルポイントが　戻った！": "<%sM_JOB>'s <%sM_SKILL_LINE> excess\nskill points were refunded!"
   },
   "55558": {
     "<speed=0>\n『タウン内の移動』の　説明です。\n<br>\nタウン内の移動で　選んだ場所に\n一瞬で　移動できるコマンドです。\n<br>\n移動先として　マイタウンの入口や\n置いてある　ワープ庭具の位置を\n選ぶことができます。\n<br>\n広いマイタウンを　快適に移動するのに\nぜひ　ご活用ください！": "<speed=0>\nThis will explain \"Town Movement\".\n<br>\nYou can use this command to warp to the\nMy Town's entrance or to any warp crystals\nyou've placed down instantaneously.\n<br>\nUse it to travel around the My Town quickly!"
@@ -6096,16 +6096,16 @@
     "<%sM_CURRENT_STATE>の状態に　変更しました。\n次回の更新で　ランキングに　反映されます。\n<end>": ""
   },
   "55742": {
-    "通信エラーが　発生しました。\n時間をおいて　再度　お試しください。\n<end>": "A communication error has occurred. Please try again later."
+    "通信エラーが　発生しました。\n時間をおいて　再度　お試しください。\n<end>": "A communication error has occurred.\nPlease try again later.\n<end>"
   },
   "55743": {
     "<speed=0>\n未入手の宝珠は　ありません！": "<speed=0>\nThere aren't any unobtained jewels!"
   },
   "55859": {
-    "<speed=0><color_yellow>\n『達人のオーブ』の　説明です！\n<br>\n達人のオーブでは　開花された\n宝珠の能力をセットし　達人ポイントを\nふりわけて　強化させることができます。\n<br>\n宝珠の能力は　未開花も含め\nすべて表示されますが　ふりわけられるのは\n『レベル０』の　開花された能力のみです。\n<br>\nレベル０から　１にすることで\n宝珠の能力はセットされ　効果を発揮します。\n宝珠は　最大で１２種まで　セットできます。\n<br>\n達人ポイントは　いつでも　ふりなおし可能です。\n職業ごとにも保存されますので　目的に合わせて\n必要な宝珠の能力を　変更してみましょう。": ""
+    "<speed=0><color_yellow>\n『達人のオーブ』の　説明です！\n<br>\n達人のオーブでは　開花された\n宝珠の能力をセットし　達人ポイントを\nふりわけて　強化させることができます。\n<br>\n宝珠の能力は　未開花も含め\nすべて表示されますが　ふりわけられるのは\n『レベル０』の　開花された能力のみです。\n<br>\nレベル０から　１にすることで\n宝珠の能力はセットされ　効果を発揮します。\n宝珠は　最大で１２種まで　セットできます。\n<br>\n達人ポイントは　いつでも　ふりなおし可能です。\n職業ごとにも保存されますので　目的に合わせて\n必要な宝珠の能力を　変更してみましょう。": "<speed=0><color_yellow>\nThis will explain the Master Orb!\n<br>\nWith the Master Orb, you can set the abilities\nyou develop from jewels you appraise, as well\nas strengthen their effects.\n<br>\nAll abilities, including ones you've yet to\ndevelop, will be displayed. However, only\n\"Level 0\" abilities can be set.\n<br>\nChanging an ability from Level 0 to Level\n1 will set it and its effect will activate.\nYou can set up to 12 abilities.\n<br>\nYou can reset Master Points at any time.\nSet jewels are saved per vocation, so feel\nfree to set them to your liking."
   },
   "55983": {
-    "<speed=0>達人のオーブを　使うために\n各地の　町や駅にいる達人に　話を聞いてみよう！": "<speed=0>You can't use the Master Orb until you speak\nto a Master NPC first! They're located in\ntowns and stations."
+    "<speed=0>達人のオーブを　使うために\n各地の　町や駅にいる達人に　話を聞いてみよう！": "<speed=0>You can't use the Master Orb until you speak\nto a Master first! They're usually located in\nminor towns near the train stations."
   },
   "56153": {
     "<speed=0>魔の波動が高まっていないため　使用できない！": ""
