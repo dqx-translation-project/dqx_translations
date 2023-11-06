@@ -36,10 +36,10 @@
     "<color_yellow>\nデッキの編成の　説明です！\n<br>\nモンスタータロットを　２０枚　デッキに入れて\nそのデッキを装備することで\n戦闘中に　タロットが使えるようになります。\n<br>\nセットしたタロットが\n２０枚より　多かったり　少ない場合は\nバトルで　使うことはできません。\n<br>\nタロットには　それぞれに\nセットできる数の上限があり　同じタロットだけで\nデッキを組むことはできません。\n<br>\n入れすぎたタロットには「！」マークがつきます。\n「！」マークが出たら　そのタロットの\n枚数を減らしましょう。\n<end>": "<color_yellow>\nThis will explain Deck Editing!\n<br>\nBy putting 20 Monster Tarots into a deck and\nequipping it, you can use those cards during\nbattle.\n<br>\nIf an equipped deck has less than 20 Monster\nTarots in it, it cannot be used in battle.\n<br>\nThere is a limit to the amount of each Tarot\nthat can be included in a deck, and you\ncannot build one with all the same cards.\n<br>\nIf you've included too many of a particular\nTarot, you will see a \"!\" mark appear. You\ncannot use a deck with this mark.\n<end>"
   },
   "150135": {
-    "<se_nots Joutyu_SE 150>タロットデッキ<%sB_DECK>の編成を　完了しました！": "<se_nots Joutyu_SE 150>The Tarot Deck <%sB_DECK> is now organized!"
+    "<se_nots Joutyu_SE 150>タロットデッキ<%sB_DECK>の編成を　完了しました！": "<se_nots Joutyu_SE 150>Finished editing Deck <%sB_DECK>!"
   },
   "150136": {
-    "デッキが　成立条件を満たしていません。\nこのままでは　戦闘中に使うことができませんが\n編成を終えて　本当に　よろしいですか？\n<select>\n編成を続ける\n編成を終わる\n元の編成に戻す\n<select_end>\n<close>": "Your deck does not meet the requirements... I\ncan't use it in battle at this point, but are\nyou sure you want to finish forming it?\n<select>\nContinue organizing\nFinish the formation\nReturn to the original composition\n<select_end>\n<close>"
+    "デッキが　成立条件を満たしていません。\nこのままでは　戦闘中に使うことができませんが\n編成を終えて　本当に　よろしいですか？\n<select>\n編成を続ける\n編成を終わる\n元の編成に戻す\n<select_end>\n<close>": "This deck does not meet the requirements to\nbe used in battle. Are you sure you want to\nfinish editing it?\n<select>\nContinue Editing\nFinish Editing\nUndo Changes\n<select_end>\n<close>"
   },
   "150137": {
     "タロットデッキ<%sB_DECK>の編成を　キャンセルしました。": "Cancelled deck editing."
@@ -57,28 +57,28 @@
     "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を\n捨てた！\n<yesno 2><close>": "\"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\"\nhas been discarded!<yesno 2><close>"
   },
   "154323": {
-    "タロットデッキ<%sB_DECK>は\nすでに　装備しています！\n<end>": "<%sB_DECK> is already equipped!<end>"
+    "タロットデッキ<%sB_DECK>は\nすでに　装備しています！\n<end>": "Deck <%sB_DECK> is already equipped!<end>"
   },
   "154324": {
     "タロットデッキ<%sB_DECK>は　成立条件を\n満たしていないため　使えません。\nこのデッキを装備して　本当によろしいですか？\n<yesno 2><close>": "The Tarot deck <%sB_DECK> does not meet the\nrequirements for use... Are you sure you want\nto equip this deck?<yesno 2><close>"
   },
   "154325": {
-    "タロットデッキ<%sB_DECK>を　装備しました！\n<end>": "Equipped <%sB_DECK>!<end>"
+    "タロットデッキ<%sB_DECK>を　装備しました！\n<end>": "Equipped Deck <%sB_DECK>!<end>"
   },
   "154326": {
     "<color_yellow>\nタロットデッキを　４つまで\n編成できるようになりました！\n<br>\n戦闘で使うデッキを　変えたいときは\n『デッキの編成』から\n装備デッキを　変更してください。\n<br>\n戦闘中に　装備デッキを\n変更することはできません。\n<end>": "<color_yellow>You can now form up to four Tarot decks! If\nyou want to change the deck you use in\nbattle, go to \"Organize Deck\" and change the\n<br>\nequipment deck... You can't change your\nequipment deck while in battle...<end>"
   },
   "161331": {
-    "タロットデッキ<%sB_DECK>の内容で\nタロットデッキ<%sB_DECK2>を　上書きします。\nよろしいですか？\n<yesno 1><close>": "<%sB_DECK> will be overwritten\nwith the contents of <%sB_DECK2>.\nProceed?\n<yesno 1><close>"
+    "タロットデッキ<%sB_DECK>の内容で\nタロットデッキ<%sB_DECK2>を　上書きします。\nよろしいですか？\n<yesno 1><close>": "Deck <%sB_DECK> will be overwritten\nwith the contents of Deck <%sB_DECK2>.\nProceed?\n<yesno 1><close>"
   },
   "161332": {
-    "<se_nots Joutyu_SE 150>タロットデッキ<%sB_DECK>の内容で\nタロットデッキ<%sB_DECK2>を　上書きしました！": "<se_nots Joutyu_SE 150><%sB_DECK> has been overwritten\nwith the contents of <%sB_DECK2>!"
+    "<se_nots Joutyu_SE 150>タロットデッキ<%sB_DECK>の内容で\nタロットデッキ<%sB_DECK2>を　上書きしました！": "<se_nots Joutyu_SE 150>\nDeck <%sB_DECK> was overwritten\nwith the contents of Deck <%sB_DECK2>!"
   },
   "161333": {
-    "タロットデッキ<%sB_DECK>の内容で\n他のデッキを上書きします。\n上書きするデッキを　選んでください。": "Please select the deck you'd like to copy\nthe contents of <%sB_DECK> into."
+    "タロットデッキ<%sB_DECK>の内容で\n他のデッキを上書きします。\n上書きするデッキを　選んでください。": "Please select the deck you'd like to copy\nthe contents of Deck <%sB_DECK> into."
   },
   "172371": {
-    "タロットデッキの\nコピーを　キャンセルしました。": "Cancelled copying."
+    "タロットデッキの\nコピーを　キャンセルしました。": "Cancelled deck copying."
   },
   "172372": {
     "タロットデッキ<%sB_DECK>は\nすでに　選択済みです。\n他のデッキを選んでください。": "The Tarot deck <%sB_DECK> has already been\nselected... Please select another deck..."
@@ -90,7 +90,7 @@
     "コピー元にする　タロットデッキ<%sB_DECK>は\n成立条件を　満たしていません。\n<br>\n装備中の　タロットデッキ<%sB_DECK2>を\n上書きすると　戦闘中にタロットが\n使えなくなりますが　よろしいですか？\n<yesno 2><close>": "The Tarot deck you're copying from must meet\nthe requirements... If I overwrite a Tarot\ndeck that is equipped with <%sB_DECK2>, the\n<br>\nTarot will no longer be usable in combat, is\nthat correct?<yesno 2><close>"
   },
   "279840": {
-    "タロットデッキ<%sB_DECK>の名前を\n入力してください。": "Please enter the deck name for\n<%sB_DECK>."
+    "タロットデッキ<%sB_DECK>の名前を\n入力してください。": "Please enter a name for Deck <%sB_DECK>."
   },
   "279841": {
     "新たなデッキ名は　<%sB_DECK_NAME>で\nよろしいですか？\n<yesno 2><close>": "Your new deck's name will be <%sB_DECK_NAME>.\nProceed?\n<yesno 2><close>"
