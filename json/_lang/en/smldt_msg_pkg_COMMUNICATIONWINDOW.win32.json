@@ -615,7 +615,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を付けてもらった！": ""
   },
   "33031": {
-    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を付けた！": ""
+    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を付けた！": "<%sL_SYOKUNIN_KIND> attached <%sL_RENKIN_TEXT>\nto \\s<%sC_PC>\\m<%sC_ID>\\e's <%sB_item>!"
   },
   "33032": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>の <%sL_RENKIN_TEXT_1>を\n<%sL_RENKIN_TEXT>に パワーアップした！": ""
@@ -624,10 +624,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sB_item>の <%sL_RENKIN_TEXT_1>を\n<%sL_RENKIN_TEXT>に パワーアップしてくれた！": ""
   },
   "33034": {
-    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を うめつくした！": ""
+    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を うめつくした！": "The <%sL_SYOKUNIN_KIND> completely filled\n\\s<%sC_PC>\\m<%sC_ID>\\e's <%sB_item>\nwith <%sL_RENKIN_TEXT>!"
   },
   "33035": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を うめつくしてくれた！": "\\s<%sC_PC>\\m<%sC_ID>\\ used <%sL_SYOKUNIN_KIND> to attach\n<%sL_RENKIN_TEXT> to the <%sB_item>!"
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を うめつくしてくれた！": "\\s<%sC_PC>\\m<%sC_ID>\\ used <%sL_SYOKUNIN_KIND>\nto completely fill <%sB_item>\nwith <%sL_RENKIN_TEXT>!"
   },
   "33036": {
     "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を付けた……。": "<%sL_RENKIN_TEXT> was attached to <%sC_PC>\\m<%sC_ID>\\e's\n<%sB_item> with <%sL_SYOKUNIN_KIND>!"
