@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   weblate:
-    image: weblate/weblate:4.17-2
+    image: weblate/weblate:5.3.1.1
     tmpfs:
     - /app/cache
     volumes:
@@ -20,7 +20,7 @@ services:
     - postgres-data:/var/lib/postgresql/data
     restart: always
   cache:
-    image: redis:6-alpine
+    image: redis:7-alpine
     restart: always
     command: [redis-server, --save, '60', '1']
     volumes:
