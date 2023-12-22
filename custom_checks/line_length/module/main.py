@@ -83,7 +83,7 @@ class LineLength(TargetCheck):
         text = text.replace("<pipipi_low>", "")
         text = text.replace("<pipipi_mid>", "")
         text = text.replace("<pipipi_high>", "")
-        text = text.replace("<color_yellow>")
+        text = text.replace("<color_yellow>", "")
         text = text.replace("<br>", "")
 
         return text
