@@ -85,6 +85,13 @@ class LineLength(TargetCheck):
         text = text.replace("<pipipi_high>", "")
         text = text.replace("<color_yellow>", "")
         text = text.replace("<br>", "")
+        text = text.replace("<select>", "")
+        text = text.replace("<select_end>", "")
+        text = text.replace("<select 1>", "")
+        text = text.replace("<select 2>", "")
+        text = text.replace("<select 3>", "")
+        text = text.replace("<select 4>", "")
+        text = text.replace("<select 5>", "")
 
         return text
 
