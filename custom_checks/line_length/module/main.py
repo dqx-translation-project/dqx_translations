@@ -73,6 +73,18 @@ class LineLength(TargetCheck):
         text = text.replace("<if_man>", "")
         text = text.replace("<endif>", "")
         text = text.replace("<else>", "")
+        text = text.replace("<speed=0>", "")
+        text = text.replace("<center>", "")
+        text = text.replace("<left>", "")
+        text = text.replace("<right>", "")
+        text = text.replace("<pipipi_default>", "")
+        text = text.replace("<pipipi_on>", "")
+        text = text.replace("<pipipi_off>", "")
+        text = text.replace("<pipipi_low>", "")
+        text = text.replace("<pipipi_mid>", "")
+        text = text.replace("<pipipi_high>", "")
+        text = text.replace("<color_yellow>")
+        text = text.replace("<br>", "")
 
         return text
 
