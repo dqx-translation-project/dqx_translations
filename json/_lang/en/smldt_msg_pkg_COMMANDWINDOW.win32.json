@@ -1533,7 +1533,7 @@
     "<speed=0>\nこのクエストを　チームの目標に設定できます。\n設定しますか？\n※目標は何度でも変更できます。\n<yesno><close>": ""
   },
   "30215": {
-    "<speed=0>他に所属メンバーがいないため\nチームは解散されます。\n本当に　チームを抜けても　よろしいですか？\n<yesno 2><close>": "<speed=0>Since there are no other members,\nthe Team will be disbanded.\nIs this okay?<yesno 2><close>"
+    "<speed=0>他に所属メンバーがいないため\nチームは解散されます。\n本当に　チームを抜けても　よろしいですか？\n<yesno 2><close>": "<speed=0>Since there are no other members,\nthe Team will be disbanded.\nAre you absolutely sure?\n<yesno 2><close>"
   },
   "30216": {
     "<speed=0>自動的に　最近ログインしたメンバーの中から\n次のチームリーダーが選ばれます。\n本当に　チームを抜けても　よろしいですか？\n<yesno 2><close>": "<speed=0>If you leave the Team, a new leader will be\nrandomly chosen from the most recently logged\nin members. Is this okay?"
@@ -1548,10 +1548,10 @@
     "<speed=0>チームユニフォームに　着替えた！": ""
   },
   "30220": {
-    "<speed=0>チームユニフォームを　脱いだ！": ""
+    "<speed=0>チームユニフォームを　脱いだ！": "<speed=0>Team Uniform was removed!"
   },
   "30221": {
-    "<speed=0>チームユニフォームを　脱ぎますか？\n<yesno><close>": ""
+    "<speed=0>チームユニフォームを　脱ぎますか？\n<yesno><close>": "<speed=0>Take off the Team Uniform?\n<yesno><close>"
   },
   "30222": {
     "<speed=0>チームが解散されたため　チームユニフォームの\n機能が使えません。": ""
@@ -3759,7 +3759,7 @@
     "<speed=0>\nこのマイコーデ名では　登録できません。": "<speed=0>\nYou cannot use this name."
   },
   "44065": {
-    "<speed=0>\nチームユニフォームを着ていると　登録が\nできません！　一度　チームユニフォームを\n脱いでから　登録を選択してください。": ""
+    "<speed=0>\nチームユニフォームを着ていると　登録が\nできません！　一度　チームユニフォームを\n脱いでから　登録を選択してください。": "<speed=0>\nYou cannot register a glamour while wearing\na Team Uniform! Please remove the Team\nUniform first before trying again."
   },
   "44066": {
     "<speed=0>\nレンタル衣装を着ていると　登録ができません！\n一度　レンタル衣装を脱いでから\n登録を選択してください。": "<speed=0>\nYou cannot register a glamour while wearing\na rental costume! Please remove it before\ntrying again."
@@ -6477,7 +6477,7 @@
     "<speed=0>\nレンタル衣装を着ていると　編集ができません！\n一度　レンタル衣装を脱いでから\n編集を選択してください。": "<speed=0>\nYou cannot edit a glamour while wearing a\nrental costume! Please remove it before trying\nagain."
   },
   "58221": {
-    "<speed=0>\nチームユニフォームを着ていると　編集が\nできません！　一度　チームユニフォームを\n脱いでから　編集を選択してください。": ""
+    "<speed=0>\nチームユニフォームを着ていると　編集が\nできません！　一度　チームユニフォームを\n脱いでから　編集を選択してください。": "<speed=0>\nYou cannot edit a glamour while wearing\na Team Uniform! Please remove the Team\nUniform first before trying again."
   },
   "58223": {
     "私": "Me"
