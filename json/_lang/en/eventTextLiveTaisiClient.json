@@ -150,10 +150,10 @@
     "「では　<%sL_MEMBER>さんを\n　次のリーダーに　指名いたします。\n　よろしいですか？<yesno><break>": "I nominate <%sL_MEMBER> as our next leader...\nMay I?<yesno><break>"
   },
   "40904": {
-    "「<%sL_COVER_TYPE>ですね。\n　<%nL_GOLD>ゴールドですが\n　よろしいですか？\n<yesno><break>": "<%sL_COVER_TYPE>... <%nL_GOLD>Gold, if you\ndon't mind.<yesno><break>"
+    "「<%sL_COVER_TYPE>ですね。\n　<%nL_GOLD>ゴールドですが\n　よろしいですか？\n<yesno><break>": "So you like to use <%sL_COVER_TYPE>?\nThat will be <%dL_GOLD> Gold.\n<yesno><break>"
   },
   "40905": {
-    "「今　装備している盾に　付けられている\n　盾カバーを　取り外します。\n　よろしいですか？\n<yesno><break>": "I need you to remove the shield cover from\nthe shield you're currently wearing... May I?<yesno><break>"
+    "「今　装備している盾に　付けられている\n　盾カバーを　取り外します。\n　よろしいですか？\n<yesno><break>": "I will have to remove the shield cover\nof the shield you currently have equipped.\nIs that fine?\n<yesno><break>"
   },
   "40906": {
     "「手続きが終わりましたら　登録料として\n　<%nL_TESUURYOU>ゴールド　いただきます。\n　登録料は　チーム解散時には　お返しします。\n<br>\n「チームの登録を　いたしますか？<yesno><break> ": "Once you've completed the registration\nprocess, we'll ask you to pay a registration\nfee of <%nL_TESUURYOU> gold... The\n<br>\nregistration fee will be returned to you when\nthe team disbands... Would you like to\nregister your team?<yesno><break>"
@@ -162,7 +162,7 @@
     "「こちらの内容で　チームを登録します。\n　よろしいですか？<yesno><break>": "I'd like to register a team... Are you sure?<yesno><break>"
   },
   "40908": {
-    "「ああっ……ですが　<pc>さんは\n　すでに　チーム『<%sL_TEAM>』に\n　所属なさっているでは　ありませんか！\n<br>\n「新しく　あなたのチームを結成するならば\n　『<%sL_TEAM>』から　キチンと\n　抜けてから　お申し込みください。　\n<bw_break>": "Ah But<pc> You are already a member of <%sL_TEAM>! If\nyou want to start your own team, you need to\nleave <%sL_TEAM> before you apply...<bw_break>"
+    "「ああっ……ですが　<pc>さんは\n　すでに　チーム『<%sL_TEAM>』に\n　所属なさっているでは　ありませんか！\n<br>\n「新しく　あなたのチームを結成するならば\n　『<%sL_TEAM>』から　キチンと\n　抜けてから　お申し込みください。　\n<bw_break>": "Ah...you are already a member of <%sL_TEAM>.\nIf you want to form your own team, you'll\nneed to leave that one first.\n<bw_break>"
   },
   "41033": {
     "<select_se_off>\nチームクエスト\nチームの手続き\n盾カバーをつける\n説明を聞く\n<select_end><break>": "<select_se_off>\nTeam Quests\nTeam Settings\nUse Shield Cover\nExplanation\n<select_end><break>"
@@ -183,16 +183,16 @@
     "「チームとは　結成した人がリーダーとなって\n　最大２５５人もの仲間と　いつでも\n　専用チャットで通じ合えるシステムです。\n<br>\n「チームには　必ず　国の後援があります。\n　ここで　チームを結成したならば\n　<%sM_timei>公認のチームになります。\n<br>\n「もちろん　<%sM_timei>公認と言っても\n　チームメンバーの種族に　制限などありません！\n<br>\n「チームを結成すると　各国のチーム購買部が\n　利用可能になったり　そのチームの顔となる\n　オリジナルの　エンブレムを作れます。\n<br>\n「さらに　エンブレムの模様の入った　盾カバーを\n　取り付けるサービスも　おこなっています。\n　盾を装備した状態で　ご依頼ください。\n<br>\n「そして最後に　大事な話ですが\n　チームは　ひとり　ひとつしか入れません。\n　掛け持ちはできないので　ご注意ください。\n<end>": "A team is a group of people, led by one\nperson, who can communicate with up to 255\nother people at any time via a dedicated chat\n<br>\nroom. Every team is sponsored by a\ngovernment... If you form a team here, you\nbecome a <%sM_timei>-approved team... Of\n<br>\ncourse, <%sM_timei> official means that there\nare no restrictions on the races of the team\nmembers! Once you've formed a team, you'll\n<br>\nhave access to each country's team purchasing\ndepartment, and you'll be able to create your\nown emblem to represent your team... You can\n<br>\neven get a shield cover with the emblem's\ndesign on it. Please have the shield in\nplace... And lastly, it's important to note\n<br>\nthat you can only have one team... You can't\nhave more than one team.<end>"
   },
   "44398": {
-    "<select_se_off>\n盾カバーをはずす\nリーダー引き継ぎ\n説明を聞く\n<select_end><break>": "<select_se_off>\nRemove the shield cover\nLeader handover\nListen to the explanation\n<select_end><break>"
+    "<select_se_off>\n盾カバーをはずす\nリーダー引き継ぎ\n説明を聞く\n<select_end><break>": "<select_se_off>\nRemove Shield Cover\nReplace Leader\nExplanation\n<select_end><break>"
   },
   "44826": {
-    "「……申し訳ありません。<%sL_MEMBER>さんを\n　次のリーダーに　指名できませんでした。\n<bw_break>": "... I'm sorry... I am unable to nominate\n<%sL_MEMBER> as the next leader...<bw_break>"
+    "「……申し訳ありません。<%sL_MEMBER>さんを\n　次のリーダーに　指名できませんでした。\n<bw_break>": "My apologies, but I was unable to promote\n<%sL_MEMBER> as the new leader.\n<bw_break>"
   },
   "47556": {
     "「チームの解散に　失敗いたしました。\n　お手数ですが　しばらく時間を空けてから\n　もう一度　やり直してください。\n<bw_break>": "The team has failed to disband. I apologize\nfor the inconvenience, but you'll have to\nwait a few moments and try again.<bw_break>"
   },
   "48372": {
-    "「チームエンブレムの変更を　ご希望ですね。\n　手数料として　<%nL_GOLD>ゴールドいただきますが\n　よろしいですか？\n<yesno><break>": "I'd like to change my team emblem... We'll\ncharge you <%nL_GOLD> gold for the change.<yesno><break>"
+    "「チームエンブレムの変更を　ご希望ですね。\n　手数料として　<%nL_GOLD>ゴールドいただきますが\n　よろしいですか？\n<yesno><break>": "You'd like to change your Team Emblem?\nThe fee to change it is <%dL_GOLD> Gold.\nIs that all right?\n<yesno><break>"
   },
   "49725": {
     "目覚めし冒険者の広場には　チーム専用の\n掲示板があります。メンバーと　連絡を取ったり\n語らうことができます。https://hiroba.dqx.jp": "In the Awakened Adventurer's Square, there's\na message board... It's a place where you can\nkeep in touch with your teammates and talk to\n<br>\nthem... .https://hiroba.dqx.jp"
@@ -213,19 +213,19 @@
     "<select_se_off>\n盾カバーをつける\n説明を聞く\n<select_end><break>": "<select_se_off>\nUse Shield Cover\nExplanation\n<select_end><break>"
   },
   "61915": {
-    "「かしこまりました。\n　これは　素晴らしいユニフォームです。\n　メンバーの士気も　上がることでしょう！\n<bw_break>": "Yes, sir... This is a wonderful uniform...\nI'm sure it'll raise the morale of the\nmembers!<bw_break>"
+    "「かしこまりました。\n　これは　素晴らしいユニフォームです。\n　メンバーの士気も　上がることでしょう！\n<bw_break>": "Understood. This is quite the spectacular\nuniform. I'm sure it'll raise the spirits of\nall of your Team's members!\n<bw_break>"
   },
   "61916": {
     "「ユニフォームの変更が　できませんでした。\n　しばらく時間を空けてから\n　もう一度　やり直してください。\n<bw_break>": "I can't change my uniform... Please give it\nsome time and try again.<bw_break>"
   },
   "61917": {
-    "「タイプとカラーを組み合わせて\n　あなたのチームの　ユニフォームを\n　作ってください。\n<bw_break>": "Combine types and colors to create a uniform\nfor your team...<bw_break>"
+    "「タイプとカラーを組み合わせて\n　あなたのチームの　ユニフォームを\n　作ってください。\n<bw_break>": "Please choose the type and colors for your\nTeam's new uniform.\n<bw_break>"
   },
   "61918": {
-    "「チームユニフォームの変更を　ご希望ですね。\n　手数料として　<%nL_GOLD>ゴールドいただきますが\n　よろしいですか？\n<yesno><break>": "I'd like to change my team's uniform... I'd\nlike to charge you <%nL_GOLD> gold as a\ncommission.<yesno><break>"
+    "「チームユニフォームの変更を　ご希望ですね。\n　手数料として　<%nL_GOLD>ゴールドいただきますが\n　よろしいですか？\n<yesno><break>": "So you'd like to change your Team Uniform?\nThe cost to do so is <%dL_GOLD> Gold.\nIs that all right?\n<yesno><break>"
   },
   "61919": {
-    "「これを　『<%sL_TEAM>』の\n　ユニフォームにしますか？<yesno><break>": "Do you want this to be the uniform for\n<%sL_TEAM>?<yesno><break>"
+    "「これを　『<%sL_TEAM>』の\n　ユニフォームにしますか？<yesno><break>": "Is this the uniform you'd like to use?\n<yesno><break>"
   },
   "62262": {
     "「どの説明を　聞きますか？\n<break>": "Listen to which explanation?<break>"
@@ -237,10 +237,10 @@
     "「チームクエストなどを　こなしていくと\n　人と同じように　チームも経験値を得て\n　レベルが　上がっていきます。\n<br>\n「チームレベルが上がると　使える機能が増えたり\n　購買で買える品が　追加されていきます。\n<br>\n「チームレベルが上がることで\n　可能になることについては　各大使に話しかけ\n　『次のレベル特典確認』から　ご覧ください。\n<bw_break>": "As you complete team quests, your team will\ngain experience and level up, just like other\npeople. As your team level increases, you'll\n<br>\nbe able to use more features and purchase\nmore items... To learn more about what's\npossible when you reach a higher team level,\n<br>\ntalk to your ambassador and click on \"Next\nLevel Perks\"...<bw_break>"
   },
   "62279": {
-    "「それでは　依頼内容の\n　達成状況を　確認させていただきます……。\n<bw_break>": "Now then, I will check to see if you've\ncompleted any of our requests...\n<bw_break>"
+    "「それでは　依頼内容の\n　達成状況を　確認させていただきます……。\n<bw_break>": "Allow me to check to see if you've completed\nany of our requests...\n<bw_break>"
   },
   "62280": {
-    "「達成した依頼は　以上となります。\n　翌朝には　新しい依頼に　更新されますので\n　『チームクエスト』からご確認ください。\n<bw_break>": "That's all the requests you've completed.\nThey'll be updated the next morning, so\nplease check your Team Quest...<bw_break>"
+    "「達成した依頼は　以上となります。\n　翌朝には　新しい依頼に　更新されますので\n　『チームクエスト』からご確認ください。\n<bw_break>": "And that's all for the requests you've\ncompleted. They will update the following\nmorning, so be sure to check them.\n<bw_break>"
   },
   "62281": {
     "「……どうやら　今のところ\n　ご報告の必要がある依頼は　なさそうですね。\n　引き続き　ご報告を　お待ちしております。\n<bw_break>": "It seems that you have nothing to report at\nthe moment. We look forward to your future\nreports.\n<bw_break>"
@@ -249,13 +249,13 @@
     "チーム『<%sL_TEAM>』は　\n<%dL_EXP> Pの　チーム経験値を　手に入れた！\n<se_nots System 7><end>": "<%sL_TEAM> received <%dL_EXP> Team EXP!\n<se_nots System 7><end>"
   },
   "62283": {
-    "チーム『<%sL_TEAM>』の\nチームレベルが <%dL_LV>にあがった！\n<me 57><end>": "Team <%sL_TEAM>'s team level has been raised\nto <%dL_LV>!<me 57><end>"
+    "チーム『<%sL_TEAM>』の\nチームレベルが <%dL_LV>にあがった！\n<me 57><end>": "The Team Level of <%sL_TEAM> has\nincreased to <%dL_LV>!\n<me 57><end>"
   },
   "62284": {
-    "「『<%sL_QUEST>』クエスト達成を\n　確認いたしました！\n　ご協力感謝いたします！\n<end>": "We have confirmed that you have completed the\n<%sL_QUEST> quest! Thank you for your\ncooperation!<end>"
+    "「『<%sL_QUEST>』クエスト達成を\n　確認いたしました！\n　ご協力感謝いたします！\n<end>": "I've confirmed your completion of the\n\"<%sL_QUEST>\" quest!\nWe thank you for your cooperation!\n<end>"
   },
   "62285": {
-    "「『<%sL_QUEST>』クエストは\n　すでに　制限時間を過ぎております。\n<bw_break>": "The <%sL_QUEST> quest has already passed its\ntime limit...<bw_break>"
+    "「『<%sL_QUEST>』クエストは\n　すでに　制限時間を過ぎております。\n<bw_break>": "The <%sL_QUEST> quest has already\nexpired.\n<bw_break>"
   },
   "62286": {
     "「他に　ご報告が必要な依頼は　なさそうですね。\n　引き続き　ご報告を　お待ちしております。\n<bw_break>": "I don't think there's anything else we need\nto know. We look forward to hearing from\nyou...<bw_break>"
@@ -270,7 +270,7 @@
     "「チームクエストへの　参加希望ですね。\n　では　いくつか説明いたしましょう。\n<br>\n「チームクエストは　国家要請ですので\n　依頼の内容を　自由に選ぶことはできませんが\n　複数の依頼が　同時に出されます。\n<br>\n「依頼の内容は　さくせんコマンドの\n　『チーム』の　『チームクエスト』から\n　チームメンバー全員で　共有できます。\n<br>\n「見事に　依頼を達成した場合は\n　必ず　チームメンバーの誰かから\n　我々チーム大使に　ご報告を　お願いします。\n<br>\n「それぞれの依頼には　期限があります。\n　期限内に達成できない場合は\n　失敗となりますので　ご注意ください。\n<br>\n「期限が過ぎた依頼は　ご報告をいただくことで　\n　新しい依頼に更新いたします。ご報告がないと　　\n　更新されませんので　ご注意ください。\n<br>\n「依頼をこなしていくと　チームは経験値を得て\n　レベルが上がっていきます。レベルが上がると\n　チーム機能や　購買の品が　増えていきます。\n<br>\n「説明は　以上となります。\n　ご不明な点がありましたら　今後は\n　『説明を聞く』から　ご確認ください。\n<end>": "I'd like to join Team Quest. Let me explain a\nfew things. Team Quest is a national request,\nso you can't choose what you want to do, but\n<br>\nyou can request multiple things at once. The\nrequests can be shared with all team members\nby going to Team Quest in the Team section of\n<br>\nthe Operation Command... If you successfully\ncomplete a request, one of your team members\nmust report it to our team ambassador. Each\n<br>\nrequest has a deadline. If the request is not\ncompleted by the deadline, it will be\nconsidered a failure. If your request is\n<br>\noverdue, please report it to us and we will\nupdate it with a new request... If you don't\nreport it, it won't be renewed, so please be\n<br>\ncareful... As you complete requests, your\nteam will gain experience and level up... As\nyou level up, you'll find more team features,\n<br>\nmore items to purchase... And that's it. If\nyou have any questions, please ask for\nclarification...<end>"
   },
   "62290": {
-    "<pc>は　さくせんコマンドの\n『チームクエスト』が使えるようになった！\n<me 71><end>": "<pc> can now use the Operation Command \"Team\nQuest\"!<me 71><end>"
+    "<pc>は　さくせんコマンドの\n『チームクエスト』が使えるようになった！\n<me 71><end>": "<pc> can now use the \"Team Quest\"\ncommand!\n<me 71><end>"
   },
   "62291": {
     "「<pc>さんは\n　まだ　チームに　所属されていませんね。\n<br>\n「では　いずれ　チームに所属した後に\n　くわしい説明を　させていただきましょう。\n<bw_break>": "<pc> You are not yet a member of a team. Well,\nI'll be happy to explain more once you're on\nthe team.<bw_break>"
@@ -294,13 +294,13 @@
     "<select_se_off>\nチームクエスト\n盾カバーをつける\n説明を聞く\n<select_end><break>": "<select_se_off>\nTeam Quests\nUse Shield Cover\nExplanation\n<select_end><break>"
   },
   "67616": {
-    "<select_se_off>\nチームクエスト\n盾カバーをはずす\n説明を聞く\n<select_end><break>": "<select_se_off>\nTeam Quest\nRemove the shield cover\nListen to the explanation\n<select_end><break>"
+    "<select_se_off>\nチームクエスト\n盾カバーをはずす\n説明を聞く\n<select_end><break>": "<select_se_off>\nTeam Quests\nRemove Shield Cover\nExplanation\n<select_end><break>"
   },
   "69650": {
     "「冒険者よ　よく来てくれました。\n　現在　世界の危機に対抗するため　主要各国は\n　チーム強化の方針を　打ち出しています！\n<br>\n「そこで　我々チーム大使は\n　国家要請を　クエストというかたちで\n　世界中のチームに　依頼することにしました！\n<br>\n「<pc>さんは　すでに　チームクエストの\n　説明を受けているようですね。ご不明な点は\n　『説明を聞く』から　ご確認ください。\n<bw_break>": "Adventurers, welcome to the... In response to\nthe current crisis in the world, many major\nnations have decided to strengthen their\n<br>\nteams. And so our ambassadors have decided to\nissue a national request in the form of a\nquest to teams around the world.<pc> You've already been briefed on Team Quest. If\nyou have any questions, please use the \"Ask a\nQuestion\" link...<bw_break>"
   },
   "69651": {
-    "「達成した依頼は　以上となります。\n　翌朝には　新しい依頼に　更新されますので\n　『チームクエスト』からご確認ください。\n<br>\n「引き続き　ご報告を　お待ちしております。\n<bw_break>": "That's all the requests you've completed.\nThey'll be updated the next morning, so\nplease check your Team Quest... We look\n<br>\nforward to hearing from you...<bw_break>"
+    "「達成した依頼は　以上となります。\n　翌朝には　新しい依頼に　更新されますので\n　『チームクエスト』からご確認ください。\n<br>\n「引き続き　ご報告を　お待ちしております。\n<bw_break>": "That's all for the requests you've completed.\nThey'll be updated the following morning, so\nbe sure to check them.\n<br>\nWe look forward to your continued\ncooperation.\n<bw_break>"
   },
   "69652": {
     "「それでは　さっそく　チームクエストを\n　依頼させていただきました。\n　よい報告を　お待ちしております！\n<end>": "I'll be sending in a team quest right away.\nI'll be waiting to hear from you, sir.<end>"
@@ -312,7 +312,7 @@
     "<select_se_off>\nチームの手続き\n盾カバーをはずす\n説明を聞く\n<select_end><break>": "<select_se_off>\nTeam Settings\nRemove Shield Cover\nExplanation\n<select_end><break>"
   },
   "69655": {
-    "チーム『<%sL_TEAM>』は　新しい\nチームクエストの依頼を受けた！\n<se_nots System 7><end>": "Team '<%sL_TEAM>' has received a request for\na new team quest!\n<se_nots System 7><end>"
+    "チーム『<%sL_TEAM>』は　新しい\nチームクエストの依頼を受けた！\n<se_nots System 7><end>": "<%sL_TEAM> received some\nnew Team Quests to undertake!\n<se_nots System 7><end>"
   },
   "69656": {
     "「チームクエストの　手続きをします。\n　何を　お望みでしょう？\n<break>": "Certainly. Which would you like to do?\n<break>"
