@@ -1530,7 +1530,7 @@
     "ヒストリカは ワラタロー改と 踊り出した！": "Historica danced with Warataro v2!"
   },
   "10667": {
-    "<%sB_ACTOR>は <%sB_ACTION>を おとした！": ""
+    "<%sB_ACTOR>は <%sB_ACTION>を おとした！": "<%sB_ACTOR> drops <%sB_ACTION>!"
   },
   "10691": {
     "<%sB_ACTOR>は 爆弾を 噴出した！": ""
@@ -2049,7 +2049,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを 起こした！": ""
   },
   "15918": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を おとした！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を おとした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e drops <%sB_ACTION>!"
   },
   "15952": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 魔造術発現！": ""
@@ -3042,7 +3042,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを かわいがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e adored \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
   },
   "25089": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージを うけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took <%dB_VALUE> damage!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージを うけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes <%dB_VALUE> damage!"
   },
   "25129": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eのテンションが みるみる高まっていく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's tension is rapidly rising!"
@@ -3417,7 +3417,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 自爆！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's destruct!"
   },
   "29217": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージを うけた！\n<%sB_TARGET>は 死霊兵ガテリアンに 狙われやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took <%dB_VALUE> damage!\nSpirit Soldier Gaterian more likely to target <%sB_TARGET>!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージを うけた！\n<%sB_TARGET>は 死霊兵ガテリアンに 狙われやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes <%dB_VALUE> damage!\nSpirit Soldier Gaterian more likely to target <%sB_TARGET>!"
   },
   "29295": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 神速の空間を作り出した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e created a Godspeed Space!"
@@ -3921,7 +3921,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは うまく チカラを 吸収できなかった！": ""
   },
   "34067": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージをうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took <%dB_VALUE> damage!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージをうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes <%dB_VALUE> damage!"
   },
   "34107": {
     "どのキメラにするか キメラれない！": ""
@@ -9162,7 +9162,7 @@
     "活性の秘奥": ""
   },
   "53815": {
-    "神速連斬": ""
+    "神速連斬": "Godspeed Barrage"
   },
   "53822": {
     "地ばしり斬り": "Groundsplitter"
@@ -13260,7 +13260,7 @@
     "連続魔瘴弾": "Miasma Barrage"
   },
   "68876": {
-    "氷結連斬": ""
+    "氷結連斬": "Freezing Flurry"
   },
   "68883": {
     "氷輪咲き": ""
@@ -16755,7 +16755,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 棍で ガードしやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will parry more easily with a rod!"
   },
   "103198": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージをうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took damage!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージをうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes damage!"
   },
   "103231": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージを 与えられなくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can no longer take damage!"
@@ -17901,7 +17901,7 @@
     "迷宮の主の間に\nゆめみの竜箱が出現？": ""
   },
   "117885": {
-    "赤き月の加護で \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージを受けなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took no damage with the Red Moon's Boon!"
+    "赤き月の加護で \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージを受けなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes no damage with the Red Moon's Boon!"
   },
   "117933": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 物質系モンスターへのダメージアップが きえた。": ""
@@ -18015,7 +18015,7 @@
     "ゆめみの箱\nわりびき！": "Dream Box\ndiscount!"
   },
   "119177": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは シビれて <%dB_VALUE>のダメージをうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was numbed and took <%dB_VALUE> damage!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは シビれて <%dB_VALUE>のダメージをうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was paralyzed and takes <%dB_VALUE> damage!"
   },
   "119223": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは とじこめられて うごけない！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is trapped and can't move!"
@@ -18123,7 +18123,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 衝撃を あたえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e received a shock!"
   },
   "120430": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは しびれて <%dB_VALUE>のダメージをうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was numbed and took <%dB_VALUE> damage!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは しびれて <%dB_VALUE>のダメージをうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was paralyzed and takes <%dB_VALUE> damage!"
   },
   "120476": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 節制のタロットのＭＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Temperance Tarot MP recovery ended!"
@@ -18297,7 +18297,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの おいかぜが 息をはねかえした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Backdraft reflected the breath!"
   },
   "122610": {
-    "やいばのぼうぎょで はんげき！\n\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージをうけた！": "Counterattacked with Pincushion!\n\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took <%dB_VALUE> damage!"
+    "やいばのぼうぎょで はんげき！\n\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージをうけた！": "Counterattacked with Pincushion!\n\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes <%dB_VALUE> damage!"
   },
   "122672": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの バリアが ダメージを軽減した！": ""
@@ -18315,7 +18315,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マホステ効果が 呪文をかきけした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Snub effect stopped the spell!"
   },
   "122888": {
-    "ボディーガードが 身体をはって守った！": "The bodyguard took the hit!"
+    "ボディーガードが 身体をはって守った！": "The bodyguard takes the hit!"
   },
   "122916": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは パラディンバリアに 守られた！": ""
@@ -18381,7 +18381,7 @@
     "審判のカードの効果で \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": ""
   },
   "123778": {
-    "ＨＰリンクで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージをかわりにうけた！": "From HP Link, \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took <%dB_VALUE> damage instead!"
+    "ＨＰリンクで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージをかわりにうけた！": "From HP Link, \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes <%dB_VALUE> damage instead!"
   },
   "123833": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性が かなり あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire and ice resistance increased by a lot!"
@@ -18417,7 +18417,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを いい気持ちにした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is feeling pretty good!"
   },
   "124256": {
-    "青き月の加護で \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージを受けなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took no damage with the Blue Moon's Boon!"
+    "青き月の加護で \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージを受けなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes no damage with the Blue Moon's Boon!"
   },
   "124304": {
     "緑の月の加護で \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージを受けなかった！": ""
@@ -18459,7 +18459,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 不滅のどうぐ最適術の効果がついた！": ""
   },
   "124781": {
-    "やいばのぼうぎょで はんげき！\n\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに <%dB_VALUE>のダメージ！": "Counterattacked with Pincushion!\n\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e took <%dB_VALUE> damage!"
+    "やいばのぼうぎょで はんげき！\n\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに <%dB_VALUE>のダメージ！": "Counterattacked with Pincushion!\n\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes <%dB_VALUE> damage!"
   },
   "124837": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから ＭＰを <%dB_VALUE>すいとった！": "Absorbed <%dB_VALUE> MP from \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
@@ -22095,10 +22095,10 @@
     "電磁バリアがきえた！": ""
   },
   "156677": {
-    "ニューイヤーフィスト": ""
+    "ニューイヤーフィスト": "Fist of the New Year"
   },
   "156693": {
-    "賀正連斬": ""
+    "賀正連斬": "New Year's Greetings"
   },
   "156700": {
     "翼の光がきえた": ""
@@ -22107,13 +22107,13 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風と雷の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind/thunder resistance down effect renewed!"
   },
   "156756": {
-    "謹賀新年の護り": ""
+    "謹賀新年の護り": "New Year's Protection"
   },
   "156767": {
-    "新春一発ギャグ": ""
+    "新春一発ギャグ": "New Year's Gag"
   },
   "156778": {
-    "ゲキアツですわぁ～": ""
+    "ゲキアツですわぁ～": "It's sooo hot!"
   },
   "156792": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージと 与えるダメージが 少なくなった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's taken and dealt damage reduced slightly."
@@ -22149,7 +22149,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが命令した 死霊の守りの効果がおわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's commanded Spirit Defense ended!"
   },
   "157116": {
-    "ダブルジャッジメント": ""
+    "ダブルジャッジメント": "Double Judgment"
   },
   "157132": {
     "ブレイブチャージの\n効果がきえた": "Brave Charge effect\nfaded."
@@ -25659,10 +25659,10 @@
     "黒炎のわざわい": "Darkfire Disaster"
   },
   "183607": {
-    "<%sB_ACTOR>は なんと 冥王の大鎌を とりだした！": "<%sB_ACTOR> took out the Netherscythe!"
+    "<%sB_ACTOR>は なんと 冥王の大鎌を とりだした！": "<%sB_ACTOR> pulls out the Netherscythe!"
   },
   "183639": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは なんと 冥王の大鎌を とりだした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e took out the Netherscythe!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは なんと 冥王の大鎌を とりだした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e pulls out the Netherscythe!"
   },
   "183681": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが お気に入りの傘を とりだした！\n\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 闇の流星がふりそそぐ！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e took out their favorite umbrella!\nDark meteors rain down on \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
@@ -26931,16 +26931,16 @@
     "月輪": "Lunar Ring"
   },
   "192505": {
-    "今回は大盤振る舞いよ！": ""
+    "今回は大盤振る舞いよ！": "This time, it's my\ntreat!"
   },
   "192522": {
-    "<%sB_ACTION>♪": ""
+    "<%sB_ACTION>♪": "<%sB_ACTION>! ♪"
   },
   "192530": {
-    "まかせてください！": ""
+    "まかせてください！": "Just leave it to me!"
   },
   "192544": {
-    "いいですとも！": ""
+    "いいですとも！": "Sure thing!"
   },
   "192555": {
     "爆心剣": "Explosive Blade"
@@ -26982,10 +26982,10 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの やけどが きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is no longer burning!"
   },
   "192695": {
-    "新春一発ギャグ！": ""
+    "新春一発ギャグ！": "New Year's Gag!"
   },
   "192708": {
-    "<%sB_ACTOR>は\n喉の調子を整えている！": ""
+    "<%sB_ACTOR>は\n喉の調子を整えている！": "<%sB_ACTOR> is\nclearing their throat!"
   },
   "192733": {
     "紫煙のたつまき": "Purple Tornado"
@@ -27009,13 +27009,13 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 不屈の精神を 奮い立たせた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was inspired by a fighting spirit!"
   },
   "192858": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 体勢がくずれた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 体勢がくずれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's posture collapses!"
   },
   "192889": {
     "不屈の精神で \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fighting spirit kept them from dying!"
   },
   "192936": {
-    "体勢がくずれた！": ""
+    "体勢がくずれた！": "Posture collapsed!"
   },
   "192949": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 致死ダメージ時 HP1で生存する効果が きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's lethal damage survival effect faded."
@@ -27123,16 +27123,16 @@
     "ベホマラー！": "Multiheal!"
   },
   "193608": {
-    "AC制御_1回目": ""
+    "AC制御_1回目": "nada"
   },
   "193617": {
-    "硬いセリフ": ""
+    "硬いセリフ": "Something"
   },
   "193625": {
     "ピオリム！": "Acceleratle!"
   },
   "193633": {
-    "蘇生しHPを回復": ""
+    "蘇生しHPを回復": "Revive & Recover HP"
   },
   "193644": {
     "獲得経験値1.5倍": "EXP Earned 1.5x"
@@ -27180,7 +27180,7 @@
     "足がすべった！": ""
   },
   "193890": {
-    "<%sB_TARGET_RPL>さんにぃ～\n<%sB_ACTION>♪": ""
+    "<%sB_TARGET_RPL>さんにぃ～\n<%sB_ACTION>♪": "To <%sB_TARGET_RPL>...\n<%sB_ACTION> ♪"
   },
   "193914": {
     "灼熱とうこん討ち": "Scorched Earth"
@@ -27195,10 +27195,10 @@
     "変身": "Change"
   },
   "193948": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは むっつりスケベになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e became lewd!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは むっつりスケベになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e becomes secretly lewd!"
   },
   "193985": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは むっつりスケベが 直った！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is no longer lewd!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは むっつりスケベが 直った！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is no longer secretly lewd!"
   },
   "194023": {
     "暁天の光": "Light of Dawn"
@@ -27243,7 +27243,7 @@
     "ジャンプ1": "Jump 1"
   },
   "194144": {
-    "<%sB_ACTOR>は ノリノリで　おとし玉大連弾を おとした！": ""
+    "<%sB_ACTOR>は ノリノリで　おとし玉大連弾を おとした！": "<%sB_ACTOR> enthusiastically drops some\nNew Year's Gifts!"
   },
   "194181": {
     "ジャンプ2": "Jump 2"
@@ -27567,10 +27567,10 @@
     "念晶爆破": "Telecrystal Explosion"
   },
   "196243": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ノリノリで おとし玉大連弾を おとした！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ノリノリで おとし玉大連弾を おとした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e enthusiastically drops some New Year's Gifts!"
   },
   "196289": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 新春を祝って ボケた！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 新春を祝って ボケた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e celebrates the New Year with a pratfall!"
   },
   "196323": {
     "カーマインウェーブ": "Carmine Wave"
@@ -27705,7 +27705,7 @@
     "ゲノスの力が高まるッ！": "Genos' power increases!"
   },
   "197028": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは もえさかる炎をはいた！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは もえさかる炎をはいた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e belches out a blistering inferno!"
   },
   "197063": {
     "セリフ２ー１": ""
@@ -27783,13 +27783,13 @@
     "あやしいひかりで\n敵１体を\n眠りにさそう": "A strange light\nputs an enemy\nto sleep."
   },
   "197343": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ラー♪ と歌った！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ラー♪ と歌った！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e let out a La! ♪"
   },
   "197374": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの もえさかる炎！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの もえさかる炎！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e uses Blistering Inferno!"
   },
   "197403": {
-    "つうこんの もえさかる炎！": ""
+    "つうこんの もえさかる炎！": "Critical Blistering Inferno!"
   },
   "197422": {
     "いでよ我が不死の軍勢": ""
