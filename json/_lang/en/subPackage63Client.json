@@ -828,7 +828,7 @@
     "かいしんの\n<%sCAS_action>！": "Critical\n<%sCAS_action>!"
   },
   "6974": {
-    "<%sCAS_gambler>の　<%sCAS_action>！": "<%sCAS_gambler>'s <%sCAS_action>!"
+    "<%sCAS_gambler>の　<%sCAS_action>！": "<%sCAS_gambler> uses <%sCAS_action>!"
   },
   "6994": {
     "<%sCAS_gambler>は\n自分に　<%sCAS_action>を　となえた！": "<%sCAS_gambler> casts <%sCAS_action>\non themselves!"
@@ -858,7 +858,7 @@
     "<%sCAS_monster>は　フワフワしている": "<%sCAS_monster> is fluffing around..."
   },
   "7290": {
-    "<%sCAS_monster>は\n<%sCAS_action>を　となえた！": "<%sCAS_monster> cast <%sCAS_action>!"
+    "<%sCAS_monster>は\n<%sCAS_action>を　となえた！": "<%sCAS_monster> casts <%sCAS_action>!"
   },
   "7318": {
     "<%sCAS_monster>は　グラグラしている": "<%sCAS_monster> is wobbling around..."
@@ -888,7 +888,7 @@
     "<%sCAS_monster>は　はげしくきりつけた！": "<%sCAS_monster> slashed violently!"
   },
   "7552": {
-    "<%sCAS_monster>は\n<%sCAS_action>を　となえた！\n<br>\n<%sCAS_action>が　ぼうそう！": "<%sCAS_monster> cast <%sCAS_action>!\n<br>\n<%sCAS_action> goes haywire!"
+    "<%sCAS_monster>は\n<%sCAS_action>を　となえた！\n<br>\n<%sCAS_action>が　ぼうそう！": "<%sCAS_monster> casts <%sCAS_action>!\n<br>\n<%sCAS_action> goes haywire!"
   },
   "7600": {
     "<%sCAS_monster>は\nすべての　まりょくを　ときはなった！": "<%sCAS_monster> unleashed all of\nits magical power!"
@@ -927,13 +927,13 @@
     "<%sCAS_gambler>は\nまだ　たちあがれない！": "<%sCAS_gambler> still can't stand up!"
   },
   "7932": {
-    "<%sCAS_gambler>の　かいしんの　いちげき！": "<%sCAS_gambler>'s critical attack!"
+    "<%sCAS_gambler>の　かいしんの　いちげき！": "<%sCAS_gambler> lands a critical attack!"
   },
   "7960": {
-    "<%sCAS_gambler>の　かいしんの　<%sCAS_action>！": "<%sCAS_gambler>'s critical <%sCAS_action>!"
+    "<%sCAS_gambler>の　かいしんの　<%sCAS_action>！": "<%sCAS_gambler>'s <%sCAS_action> goes critical!"
   },
   "7989": {
-    "<%sCAS_gambler>の　かいしんの<%sCAS_action>！": "<%sCAS_gambler>'s critical <%sCAS_action>!"
+    "<%sCAS_gambler>の　かいしんの<%sCAS_action>！": "<%sCAS_gambler>'s <%sCAS_action> goes critical!"
   },
   "8016": {
     "<%sCAS_gambler>の　<%sCAS_action>が　ぼうそう！": "<%sCAS_gambler>'s <%sCAS_action>\ngoes haywire!"
@@ -954,7 +954,7 @@
     "<%sCAS_gambler>が\n<%sCAS_monster>から　何かをぬすんだ！": "<%sCAS_gambler> stole something from\n<%sCAS_monster>!"
   },
   "8247": {
-    "<%sCAS_gambler>の　こうげき力が上がった！": "<%sCAS_gambler>'s attack increased!"
+    "<%sCAS_gambler>の　こうげき力が上がった！": "<%sCAS_gambler>'s attack increases!"
   },
   "8275": {
     "なんと　<%sCAS_target>は　生き返った！": "<%sCAS_target> returns to life!"
@@ -966,7 +966,7 @@
     "<%sCAS_gambler>は\nハイテンションになった！": "<%sCAS_gambler> is in High Tension!"
   },
   "8356": {
-    "<%sCAS_gambler>の　こうげき力が上がった！\n<%sCAS_gambler>の　しゅび力がさがった！": "<%sCAS_gambler>'s attack increased!\n<%sCAS_gambler>'s defense decreased!"
+    "<%sCAS_gambler>の　こうげき力が上がった！\n<%sCAS_gambler>の　しゅび力がさがった！": "<%sCAS_gambler>'s attack increases!\n<%sCAS_gambler>'s defense decreases!"
   },
   "8410": {
     "天使の守りが\nみたまを呼び戻した": "Goddess' Grace\nrecalled their spirit."
@@ -1263,16 +1263,16 @@
     "<se_nots Joutyu_SE 39>\n<%sCAS_gambler>の　ＭＰが１０回復！": "<se_nots Joutyu_SE 39>\n<%sCAS_gambler> recovered 10 MP!"
   },
   "10671": {
-    "<se_nots Joutyu_SE 38>\n<%sCAS_gambler>の\nＨＰとＭＰが　全回復した！": "<se_nots Joutyu_SE 38>\n<%sCAS_gambler>'s HP and MP fully recovered!"
+    "<se_nots Joutyu_SE 38>\n<%sCAS_gambler>の\nＨＰとＭＰが　全回復した！": "<se_nots Joutyu_SE 38>\n<%sCAS_gambler>'s HP and MP fully recover!"
   },
   "10712": {
-    "<se_nots System 7>\n<%sCAS_gambler>の\n最大ＨＰが　１０あがった！": "<se_nots System 7>\n<%sCAS_gambler>'s max HP increased by 10!"
+    "<se_nots System 7>\n<%sCAS_gambler>の\n最大ＨＰが　１０あがった！": "<se_nots System 7>\n<%sCAS_gambler>'s max HP increases by 10!"
   },
   "10751": {
-    "<se_nots System 7>\n<%sCAS_gambler>の\n最大ＭＰが　１０あがった！": "<se_nots System 7>\n<%sCAS_gambler>'s max MP increased by 10!"
+    "<se_nots System 7>\n<%sCAS_gambler>の\n最大ＭＰが　１０あがった！": "<se_nots System 7>\n<%sCAS_gambler>'s max MP increases by 10!"
   },
   "10790": {
-    "<se_nots System 7>\n<%sCAS_gambler>の\nこうげき力が　５あがった！": "<se_nots System 7>\n<%sCAS_gambler>'s Attack increased by 5!"
+    "<se_nots System 7>\n<%sCAS_gambler>の\nこうげき力が　５あがった！": "<se_nots System 7>\n<%sCAS_gambler>'s attack increases by 5!"
   },
   "10829": {
     "<%sCAS_item>を　手に入れた！": "Received <%sCAS_item>!"
@@ -1287,13 +1287,13 @@
     "<se_nots Joutyu_SE 38>\n<%sCAS_gambler>たち全員の\nＨＰとＭＰが　全回復した！": "<se_nots Joutyu_SE 38>\n<%sCAS_gambler> and co. fully recovered\ntheir HP and MP!"
   },
   "10975": {
-    "<se_nots System 7>\n<%sCAS_gambler>たち全員の\n最大ＨＰが　１０ずつ　あがった！": "<se_nots System 7>\n<%sCAS_gambler> and co.'s max HP increased by 10!"
+    "<se_nots System 7>\n<%sCAS_gambler>たち全員の\n最大ＨＰが　１０ずつ　あがった！": "<se_nots System 7>\n<%sCAS_gambler> and co.'s max HP increase by 10!"
   },
   "11025": {
-    "<se_nots System 7>\n<%sCAS_gambler>たち全員の\n最大ＭＰが　１０ずつ　あがった！": "<se_nots System 7>\n<%sCAS_gambler> and co.'s max MP increased by 10!"
+    "<se_nots System 7>\n<%sCAS_gambler>たち全員の\n最大ＭＰが　１０ずつ　あがった！": "<se_nots System 7>\n<%sCAS_gambler> and co.'s max MP increase by 10!"
   },
   "11075": {
-    "<se_nots System 7>\n<%sCAS_gambler>たち全員の\nこうげき力が　５ずつ　あがった！": "<se_nots System 7>\n<%sCAS_gambler> and co.'s Attack increased by 5!"
+    "<se_nots System 7>\n<%sCAS_gambler>たち全員の\nこうげき力が　５ずつ　あがった！": "<se_nots System 7>\n<%sCAS_gambler> and co.'s attack increase by 5!"
   },
   "11125": {
     "はじまりの大地": "Land of Beginnings"
