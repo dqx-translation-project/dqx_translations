@@ -63,7 +63,7 @@
     "現在　<%sL_CATEGORY_NAME>鍛冶職人レベル<%dL_SYOKUNIN_LV>です。\n何を作りますか？<break>": "Your current <%sL_CATEGORY_NAME>smithing level is <%dL_SYOKUNIN_LV>.\nWhat do you want to craft?<break>"
   },
   "30018": {
-    "<speed=0>これ以上は　冷やせない！": "<speed=0>The temperature can't be lowered any more!"
+    "<speed=0>これ以上は　冷やせない！": "<speed=0>The temperature can't be lowered any further!"
   },
   "30133": {
     "鍛冶とは　素材となる地金をたたいて\n目的のアイテムを　作ることです。\n<br>\n地金をたたくと　鍛え度が上がっていきます。\nゲージの　緑色の成功ゾーンをねらいましょう。\n完成品のできのよさは　この精度で決まります。\n<br>\n鍛冶コマンドを実行するには　集中力が必要です。\n集中力がなくなると　実行できなくなるので\nペース配分を考えて　コマンドを選びましょう。\n<br>\n地金には温度があり　温度が下がると\nたたいても　鍛え度が上がりづらくなります。\n地金が冷え切ってしまうと　その回は終了です。\n<br>\nなお　鍛冶をしている途中に\n通信エラーなどでゲームが中断した場合\n素材は　すべて失われますので　ご注意ください。\n<end>": "Blacksmithing is the art of forging items by\nstriking the metal used to make them. As you\nstrike the metal, your forge level will\n<br>\nincrease... Aim for the green success zone on\nthe gauge... The quality of the finished\nproduct is determined by the accuracy... To\n<br>\nexecute the forge command, you need to\nconcentrate. If you lose concentration, you\nwon't be able to execute them, so pace\n<br>\nyourself and choose your commands... The\nmetal has a temperature, and when the\ntemperature drops, it's hard to increase the\n<br>\nforge... If the metal gets too cold, the\nsession is over... Please note that if the\ngame is interrupted due to a communication\n<br>\nerror while blacksmithing, all materials will\nbe lost...<end>"
@@ -72,7 +72,7 @@
     "ばくれつ打ちを使うと\n一気に　６回　たたくことができますが\nどこに当たるかは　わかりません！": "With the Bakuretsu-uchi, you can hit him six\ntimes in one go, but you never know where\nyou'll hit him!"
   },
   "31398": {
-    "冷やし込みを使うと\n地金の温度を　３００度下げることができます。\nすごく弱く　たたきたい時に　使いましょう。": "By using C-C-Cold Blow, you can lower the\ntemperature by 300 degrees. Perfect for very\nprecise strikes!"
+    "冷やし込みを使うと\n地金の温度を　３００度下げることができます。\nすごく弱く　たたきたい時に　使いましょう。": "By using C-C-Cold Blow, you can lower the\ntemperature by 300 degrees. P-p-perfect for\nvery p-p-precise strikes!"
   },
   "31399": {
     "てかげん打ちを使うと\n半分のチカラで　たたくことができます。\n細かい調整をしたい時に　便利です。": "By using Lightening Bash, you can strike with\nhalf power. Useful if you only need to make\nvery slight adjustments."
@@ -207,7 +207,7 @@
     "予期せぬエラーにより\n実行することが　できませんでした。\n<end>": "Due to an unforeseen error, we are unable to\nexecute...<end>"
   },
   "113260": {
-    "熱風おろしを使うと\nひとつのマスを　強めのチカラで　鍛えると同時に\n地金の温度が　１５０度下がります。": ""
+    "熱風おろしを使うと\nひとつのマスを　強めのチカラで　鍛えると同時に\n地金の温度が　１５０度下がります。": "By using Woosh Bang Wallop, you can strike a\nsingle square with increased power while\nlowering the temperature by 150 degrees."
   },
   "113298": {
     "<speed=0>地金の温度が　足りない！": "<speed=0>The bullion's not hot enough!"
@@ -216,7 +216,7 @@
     "<speed=0>\n<pc>は　いま作っている\n<%sL_RECIPE>を　じっくりと眺めた。": "<speed=0>\n<pc> examined carefully the\n<%sL_RECIPE> they were working on."
   },
   "143089": {
-    "上下ねらい打ちを使うと\n上下の２マス分に　やや強めのチカラで\n会心率の高い　２連打を放ちます。": ""
+    "上下ねらい打ちを使うと\n上下の２マス分に　やや強めのチカラで\n会心率の高い　２連打を放ちます。": "By using Double Crackshot, you can strike two\nvertical squares with slightly increased power\nand a higher chance to critically hit."
   },
   "178592": {
     "今週の職人回数が　上限に達したので\nこれ以上　<%sL_CATEGORY_NAME>鍛冶はできません。\n<br>\n日曜日の　朝６時以降になると\nふたたび　<%sL_CATEGORY_NAME>鍛冶が　できるようになります。\n<end>": "I've reached my limit for this week, so I\ncan't <%sL_CATEGORY_NAME>forge any more... On\nSunday mornings, after 6am, I can\n<br>\n<%sL_CATEGORY_NAME>forge again...<end>"
@@ -234,6 +234,6 @@
     "ここでは　いっぱつしあげは　できません。\n<end>": "You can't quick craft here.<end>"
   },
   "291349": {
-    "弱ねらい打ちは\n半分のチカラでたたく　ねらい打ちです。\n会心率は　ねらい打ちと同じです。": ""
+    "弱ねらい打ちは\n半分のチカラでたたく　ねらい打ちです。\n会心率は　ねらい打ちと同じです。": "By using Low Blow, you can strike a square\nat half the strength and the same critical\nhit chance as a Crackshot Bash."
   }
 }
