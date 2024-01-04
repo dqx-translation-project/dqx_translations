@@ -6342,16 +6342,16 @@
     "<speed=0>\nこのサーバーでは　『配信中』に設定できません。\n『配信OK』のサーバーに　移動してから\n設定してください。": "<speed=0>\nYou cannot set \"Streaming\" on this server.\nPlease move to a server designated as\n\"Streaming OK\" first."
   },
   "57806": {
-    "<speed=0><color_yellow>\nつかうものや　預かり所　屋根ウラ収納にあった\nアイテムは　自動で　『おまとめぶくろ』に\n移されていますので　ご確認ください。\n<br>\nまた　郵便箱や　住宅村の収納家具にあるものは\n自動で　おまとめされず　一度取り出す\n必要がありますので　ご注意ください。": ""
+    "<speed=0><color_yellow>\nつかうものや　預かり所　屋根ウラ収納にあった\nアイテムは　自動で　『おまとめぶくろ』に\n移されていますので　ご確認ください。\n<br>\nまた　郵便箱や　住宅村の収納家具にあるものは\n自動で　おまとめされず　一度取り出す\n必要がありますので　ご注意ください。": "<speed=0><color_yellow>\nItems located in your Item Bag, Depository\nstorage, or House Storage will automatically\nmove to the Currency Bag.\n<br>\nItems that are located in your mailbox or\ninside storage furniture will need to be\nretrieved manually."
   },
   "57807": {
-    "<speed=0><color_yellow>\n『おまとめぶくろ』に\n新しいアイテムが　追加されました。": ""
+    "<speed=0><color_yellow>\n『おまとめぶくろ』に\n新しいアイテムが　追加されました。": "<speed=0><color_yellow>\nNew item(s) have been added to the\nCurrency Bag."
   },
   "57878": {
-    "選択したイベント会場は　いっぱいのため\n移動することが　できません。<break>": ""
+    "選択したイベント会場は　いっぱいのため\n移動することが　できません。<break>": "Those chosen Event Area is full. You cannot\nmove there.<break>"
   },
   "57885": {
-    "他のイベント会場が　すべて混雑しているため\n移動することが　できません。": ""
+    "他のイベント会場が　すべて混雑しているため\n移動することが　できません。": "Unable to move due to all other Event Areas\nbeing full."
   },
   "57890": {
     "げんま召喚・参": "Summon Lv. 3"
@@ -6363,7 +6363,7 @@
     "<speed=0>このさそいを受けるには\n「眠れる勇者と導きの盟友」の　ストーリーを\n特定の進行状態にする必要があります。": "<speed=0>\nTo accept this invitation, you must first\nprogress far enough into the story of\n\"The Sleeping Hero & the Guiding Ally\"."
   },
   "57930": {
-    "<speed=0>このさそいを受けるには\n「グランゼドーラのおはなし」を\nクリアしている必要が　あります。": ""
+    "<speed=0>このさそいを受けるには\n「グランゼドーラのおはなし」を\nクリアしている必要が　あります。": "<speed=0>\nTo accept this invitation, you must first\nclear the \"Gran Zedora\" story."
   },
   "57933": {
     "モンスタータロット\n図鑑を見ることが\nできます": "You can view the\nalbum of the\nMonster Tarots."
@@ -6378,7 +6378,7 @@
     "<speed=0>とくぎコマンドにも　じゅもんが\n表示されるようになります。\nじゅもんを　追加してよろしいですか？\n<yesno2><close>": "<speed=0>Would you like spells to also appear under\nthe \"Skills\" command menu?\n<yesno2><close>"
   },
   "57978": {
-    "<speed=0>とくぎコマンドの　じゅもんの表示をやめます。\nじゅもんが設定されていた位置や　表示設定は\nきえてしまいますが　よろしいですか？\n<yesno2><close>": ""
+    "<speed=0>とくぎコマンドの　じゅもんの表示をやめます。\nじゅもんが設定されていた位置や　表示設定は\nきえてしまいますが　よろしいですか？\n<yesno2><close>": "<speed=0>\nStop displaying spells inside the Skill menu?\nThe display and position settings for spells\nwill disappear.\n<yesno2><close>"
   },
   "57999": {
     "<speed=0>このマッチングに参加するには\n「常闇の聖戦」の　ストーリーを\n特定の進行状態にする必要があります。": "<speed=0>To participate, you must first be progressed\nfar enough in the \"Everdark War\" storyline."
@@ -6417,10 +6417,10 @@
     "追加パッケージが　インストールされていないか\nプレイ権利が　ないため\n選択することが　できません。": ""
   },
   "58118": {
-    "<speed=0>\nここでは　『配信中』設定を　変更できません。": ""
+    "<speed=0>\nここでは　『配信中』設定を　変更できません。": "<speed=0>\nYou cannot change Streaming status here."
   },
   "58130": {
-    "<speed=0>休息の間に戻っても　よろしいですか？<yesno2><close>": ""
+    "<speed=0>休息の間に戻っても　よろしいですか？<yesno2><close>": "<speed=0>Return to the Rest Area?<yesno2><close>"
   },
   "58131": {
     "<speed=0>他のプレイヤーとの冒険中に　戻ると\nプレイヤーが　全員死亡している場合を除き\n冒険が出来るまで　時間が必要になります。\n<br>\n<%dM_gold>Ｇ　失います。\n休息の間へ戻って　よろしいですか？<yesno2><close>": ""
