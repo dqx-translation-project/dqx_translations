@@ -6054,10 +6054,10 @@
     "戦鬼の乱れ舞の発動速度が\n５％アップする（踊り子専用）": "Demon's Duet activation speed increases\nby 5%. (DNC Only)"
   },
   "37986": {
-    "開戦時２％の確率で\n敵１体にルカニがかかる": "Sap triggers at a 2% chance at\nthe start of battle."
+    "開戦時２％の確率で\n敵１体にルカニがかかる": "Sap applies to 1 enemy at a 2%\nchance at the start of battle."
   },
   "38017": {
-    "開戦時２％の確率で\n敵１体にラリホーがかかる": "Snooze triggers at a 2% chance\nthe start of battle."
+    "開戦時２％の確率で\n敵１体にラリホーがかかる": "Snooze applies to 1 enemy at a 2% chance\nat the start of battle."
   },
   "38050": {
     "瀕死時に３％の確率で\n身かわし率が３０％増える": "3% chance to increase dodge rate by\n30% when you die."
@@ -6093,16 +6093,16 @@
     "死亡時３％の確率で\n呪文の回復量アップがきえない": "3% chance when you die to sustain\nyour recovery spell up effects."
   },
   "38439": {
-    "開戦時２％の確率で\n敵１体にボミエがかかる": "Decelerate triggers at a 2% chance\nat the start of battle."
+    "開戦時２％の確率で\n敵１体にボミエがかかる": "Decelerate applies to 1 enemy at a 2%\nchance at the start of battle."
   },
   "38470": {
-    "開戦時２％の確率で\n敵１体にヘナトスがかかる": "Blunt triggers at a 2% chance\nat the start of battle."
+    "開戦時２％の確率で\n敵１体にヘナトスがかかる": "Blunt applies to 1 enemy at a 2% chance\nat the start of battle."
   },
   "38503": {
-    "開戦時２％の確率で\n敵１体にぶきみなひかりがかかる": "Spooky Aura triggers at a 2%\nchance at the start of battle."
+    "開戦時２％の確率で\n敵１体にぶきみなひかりがかかる": "Spooky Aura applies to 1 enemy at a 2%\nchance at the start of battle."
   },
   "38540": {
-    "開戦時２％の確率で\n敵１体に重さダウン": "Weight Down triggers at a 2% chance at\nthe start of battle."
+    "開戦時２％の確率で\n敵１体に重さダウン": "Weight Down applies to 1 enemy at a 2%\nchance at the start of battle."
   },
   "38568": {
     "開戦時１％の確率で\n移動速度がアップする": "Chance for faster speed at battle\nstart increases by 1%."
@@ -6111,7 +6111,7 @@
     "自分が蘇生された時のＨＰ回復量が\n最大ＨＰの１％分増える": "HP recovered when you are revived\nincreases by 1%."
   },
   "38640": {
-    "死亡時３％の確率で\nテンションがきえない": "3% chance when you die to sustain\nyour tension."
+    "死亡時３％の確率で\nテンションがきえない": "3% chance when you die to sustain\nyour current tension level."
   },
   "38670": {
     "ホイミの回復量が２％増える": "Heal recovery increases by 2%."
@@ -6141,7 +6141,7 @@
     "ルカニ系呪文の成功率が５％増える": "Success rate of Sap-type spells\nincreases by 5%."
   },
   "38883": {
-    "ボミエ系呪文の成功率が５％増える": "Success rate of Decel-type spells\nincreases by 5%."
+    "ボミエ系呪文の成功率が５％増える": "Success rate of Decelerate and\nDeceleratle increases by 5%."
   },
   "38908": {
     "ディバインスペルの成功率が５％増える": "Anathematise success rate increases\nby 5%."
@@ -6159,7 +6159,7 @@
     "マヌーサの成功率が５％増える": "Dazzle success rate increases by 5%."
   },
   "39033": {
-    "会心の一撃のダメージと\n呪文暴走のダメージが５増える": "Critical/haywire damage increases\nby 5."
+    "会心の一撃のダメージと\n呪文暴走のダメージが５増える": "Critical and haywire damage increases\nby 5."
   },
   "39072": {
     "受けるダメージを２軽減する": "Reduces damage taken by 2."
@@ -6195,25 +6195,25 @@
     "仲間のテンションアップ時１％の確率で\n自分のテンションもアップする": "When a party member's tension rises, 1%\nchance for yours to rise as well."
   },
   "39456": {
-    "２％の確率で\n会心の一撃と呪文暴走を無効化する": "2% chance to nullify a critical attack\nor a haywire spell."
+    "２％の確率で\n会心の一撃と呪文暴走を無効化する": "2% chance to nullify a critical attack\nor a haywire spell received."
   },
   "39490": {
     "ふっとびガードが２％増える": "Knockback resistance increases by 2%."
   },
   "39510": {
-    "みのまもりを－５してちからを＋１する": "Resilience -5 and Strength +1."
+    "みのまもりを－５してちからを＋１する": "Resilience decreases by 5 and Strength\nincreases by 1."
   },
   "39538": {
-    "最大ＨＰ－２して最大ＭＰ＋２する": "Max HP -2 and Max MP +2."
+    "最大ＨＰ－２して最大ＭＰ＋２する": "Max HP decreases by 2 and Max MP\nincreases by 2."
   },
   "39563": {
-    "移動速度－２％しておもさを＋１する": "Movement speed -2% and Weight +1."
+    "移動速度－２％しておもさを＋１する": "Movement speed decreases by 2% and\nWeight increases by 1."
   },
   "39589": {
-    "最大ＨＰ－３してこうげき魔力を＋１する": "Max HP -3 and Magical Might +1."
+    "最大ＨＰ－３してこうげき魔力を＋１する": "Max HP decreases by 3 and Magical Might\nincreases by 1."
   },
   "39618": {
-    "最大ＭＰ－３してかいふく魔力を＋２する": "Max MP -3 and Magical Mending +2."
+    "最大ＭＰ－３してかいふく魔力を＋２する": "Max MP decreases by 3 and Magical\nMending increases by 2."
   },
   "39647": {
     "ベホイミの詠唱速度が２％アップする": "Midheal spellcasting speed increases by\n2%."
@@ -6234,10 +6234,10 @@
     "ザオリクの詠唱速度が４％アップする": "Kazing spellcasting speed increases by\n4%."
   },
   "39802": {
-    "バイキルト系呪文の\n詠唱速度が３％アップする": "Spellcasting speed of Oomph-type spells\nincreases by 3%."
+    "バイキルト系呪文の\n詠唱速度が３％アップする": "Spellcasting speed of Oomph and Oomphle\nincreases by 3%."
   },
   "39835": {
-    "スカラ系呪文の詠唱速度が３％アップする": "Spellcasting speed of Buff-type spells\nincreases by 3%."
+    "スカラ系呪文の詠唱速度が３％アップする": "Spellcasting speed of Buff and Kabuff\nincreases by 3%."
   },
   "39864": {
     "ピオラ系呪文の詠唱速度が３％アップする": "Spellcasting speed of Accelerate and\nAcceleratle increases by 3%."
@@ -6258,10 +6258,10 @@
     "マホキテの詠唱速度が３％アップする": "Absorb Magic spellcasting speed\nincreases by 3%."
   },
   "40042": {
-    "ヘナトス系呪文の詠唱速度が２％アップする": "Spellcasting speed of Blunt-type spells\nincreases by 2%."
+    "ヘナトス系呪文の詠唱速度が２％アップする": "Spellcasting speed of Blunt and Kablunt\nincreases by 2%."
   },
   "40073": {
-    "ルカニ系呪文の詠唱速度が３％アップする": "Spellcasting speed of Sap-type spells\nincreases by 3%."
+    "ルカニ系呪文の詠唱速度が３％アップする": "Spellcasting speed of Sap and Kasap\nincreases by 3%."
   },
   "40102": {
     "ボミエ系呪文の詠唱速度が３％アップする": "Spellcasting speed of Decelerate and\nDeceleratle increases by 3%."
@@ -6270,10 +6270,10 @@
     "ディバインスペルの\n詠唱速度が３％アップする": "Anathematise spellcasting speed\nincreases by 3%."
   },
   "40164": {
-    "ラリホー系呪文の詠唱速度が３％アップする": "Spellcasting speed of Snooze-type spells\nincreases by 3%."
+    "ラリホー系呪文の詠唱速度が３％アップする": "Spellcasting speed of Snooze and\nKasnooze increases by 3%."
   },
   "40195": {
-    "メダパニ系呪文の詠唱速度が３％アップする": "Spellcasting speed of Fuddle-type spells\nincreases by 3%."
+    "メダパニ系呪文の詠唱速度が３％アップする": "Spellcasting speed of Fuddle and\nKafuddle increases by 3%."
   },
   "40226": {
     "マホトーンの詠唱速度が３％アップする": "Fizzle spellcasting speed increases by\n3%."
