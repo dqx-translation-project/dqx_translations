@@ -1,6 +1,6 @@
 {
   "146664": {
-    "「ようこそ　スライムレース場へ！\n<bw_break>": "Welcome to the Slime Race racetrack!<bw_break>"
+    "「ようこそ　スライムレース場へ！\n<bw_break>": "Welcome to the Slime Races!\n<bw_break>"
   },
   "146666": {
     "「<pc>様！　スライムレースに\n　ご参加いただき　ありがとうございました！\n<br>\n「それでは　獲得勝利ポイント分のゴールドを\n　お渡ししますね！\n<br>\n「……あら？　お手持ちのお金が多すぎて\n　お渡しできません。\n　所持金を減らして　また　お越しください！\n<end>": "<pc> Thank you for participating in the slime\nrace! Thank you for participating in the\nslime race! Now, I'll give you the gold for\n<br>\nyour victory points! ... What? There's too\nmuch money on hand for me to give you...\nPlease come back with less money.<end>"
@@ -144,7 +144,7 @@
     "「かしこまりました！\n　参加費は　マッチング成立後\n　レース開始時に　回収いたします。\n<end>": "Yes, sir! The entry fee will be collected at\nthe start of the race...<end>"
   },
   "151022": {
-    "「かしこまりました！\n　<%sM_ACTIVE_SLIME>が　１着を取れるよう\n　上手に　さくせんを　立ててくださいね！\n<end>": "Yes, sir! Please set up a good strategy so\nthat <%sM_ACTIVE_SLIME> can take first place!<end>"
+    "「かしこまりました！\n　<%sM_ACTIVE_SLIME>が　１着を取れるよう\n　上手に　さくせんを　立ててくださいね！\n<end>": "Understood! Please plan your strategy\ncarefully so that <%sM_ACTIVE_SLIME>\ncan make it to first place!\n<end>"
   },
   "151023": {
     "「申し訳ありませんが　<pc>様は\n　すでに　賞金をお受け取りになられていますので\n　今大会中は　レースに参加できません。\n<bw_break>": "I'm sorry, sir<pc> Since you have already received your prize\nmoney, you will not be able to race during\nthis event...<bw_break>"
@@ -195,7 +195,7 @@
     "「では　<%sM_ACTIVE_SLIME>を　種族を変更せず\n　今と同じつよさで　チャンピオンシップから\n　再挑戦させます。\n<br>\n「再挑戦した場合も\n　きたえなおせる回数は　１回分減ります。\n　本当に　よろしいですか？\n<yesno2><break>": "So, let's retry <%sM_ACTIVE_SLIME> from the\nChampionship with the same strength as\nbefore, but without changing your race. If\n<br>\nyou retry, you'll get one less re-training...\nAre you sure you want to do this?<yesno2><break>"
   },
   "189199": {
-    "「ようこそ　スライムレース場へ！\n　何を　なさいますか？\n<break>": "Welcome to the slime racetrack! What can I do\nfor you, sir?<break>"
+    "「ようこそ　スライムレース場へ！\n　何を　なさいますか？\n<break>": "Welcome to the Slime Races!\nWhat can I do for you?\n<break>"
   },
   "189200": {
     "参加賞　<%sM_AWARD_ITEM>を　<%nM_ITEM_NUM>こ\n受け取った！\n<me 71><end>": "Received <%sM_AWARD_ITEM> in <%nM_ITEM_NUM>\nfor participation!<me 71><end>"
@@ -225,7 +225,7 @@
     "「『仲間とレースをする』では\n　パーティの仲間と　一緒に\n　レースすることができます。\n<br>\n「パーティ人数が　４人に満たない場合は\n　こちらで用意したスライムが　出走しますので\n　お好きな人数で　参加することができます。\n<br>\n「仲間とレースする場合は\n　全員で　話しかける必要が　あります。\n<br>\n「『仲間とレースをする』は\n　アストルティアカップ開催期間外でも\n　受け付けております。では……\n<bw_break>": "In the \"Race with Friends\" section, you can\nrace with your party members... If you have\nless than four people in your party, you can\n<br>\nchoose to race with any number of slimes that\nwe have prepared. If you want to race with\nyour friends, you'll need to talk to them\n<br>\nall. \"Race with friends\" is available outside\nof the Astral Tear Cup... So...<bw_break>"
   },
   "189209": {
-    "「仲間とレースを　ご希望ですね。\n　こちらでは　勝利ポイントは　もらえないので\n　ご注意ください。\n<bw_break>": "If you'd like to race with your friends...\nYou can't earn victory points here, so please\nbe careful.<bw_break>"
+    "「仲間とレースを　ご希望ですね。\n　こちらでは　勝利ポイントは　もらえないので\n　ご注意ください。\n<bw_break>": "So you'd like to race with your party?\nPlease be aware that you cannot earn\nVictory Points this way.\n<bw_break>"
   },
   "189211": {
     "「おみごと！　１着　おめでとうございます！\n<bw_break>": "Well done! First place, congratulations!<bw_break>"
@@ -234,7 +234,7 @@
     "「……４着でした。\n　次こそは　逆転してやりましょう！\n<bw_break>": "... Fourth place... Next time, let's turn\nthis around.<bw_break>"
   },
   "189213": {
-    "「おしい！　２着でした！\n<bw_break>": "Oh, no! I came in second!<bw_break>"
+    "「おしい！　２着でした！\n<bw_break>": "Second place! So close!<bw_break>"
   },
   "189214": {
     "「う～ん　残念。３着でした。\n<bw_break>": "Hmm... Third place...<bw_break>"
@@ -294,16 +294,16 @@
     "「ありがとうございました！\n　仲間とレースは　いつでもできるので\n　また　遊びにきてくださいね！\n<end>": "Thank you very much! I'm always up for a race\nwith my buddies, so please come back and\nvisit!<end>"
   },
   "210813": {
-    "「ありがとうございました！\n　<pc>様が　大会終了後に　受け取れる\n　賞金は　<%nM_AWARD>ゴールドとなります。\n<end>": "Thank you very much!<pc> The prize you will receive after the\ntournament is <%nM_AWARD> gold...<end>"
+    "「ありがとうございました！\n　<pc>様が　大会終了後に　受け取れる\n　賞金は　<%nM_AWARD>ゴールドとなります。\n<end>": "Thank you so much! The prize money that you\nwill receive once the tournament is over is\n<%dM_AWARD> Gold.\n<end>"
   },
   "210814": {
     "「あら？　\n　<pc>様が　大会終了後に　受け取れる\n　賞金は　0ゴールドですよ。\n<bw_break>": "Oh?<pc> The prize money you will receive at the end\nof the tournament is 0 gold...<bw_break>"
   },
   "210815": {
-    "「スライムレース場へ　ようこそ！\n　ここは　スライムレース受付です。\n<br>\n「あら　あなたは……？\n　スライムレースがリニューアルしてから\n　初めて来たようですね。\n<br>\n「こちらでは　育てたスライムを使って\n　他の冒険者のスライムと　競走したり\n　期間限定の大会に　参加することができます。\n<br>\n「それでは……\n<bw_break>": "Welcome to the slime racetrack! This is the\nslime racing hall... And you are...? It seems\nyou're new here since the slime race was\n<br>\nrelaunched. Here, you can use the slime\nyou've grown to race against other\nadventurers' slime and participate in\n<br>\nlimited-time tournaments... So...<bw_break>"
+    "「スライムレース場へ　ようこそ！\n　ここは　スライムレース受付です。\n<br>\n「あら　あなたは……？\n　スライムレースがリニューアルしてから\n　初めて来たようですね。\n<br>\n「こちらでは　育てたスライムを使って\n　他の冒険者のスライムと　競走したり\n　期間限定の大会に　参加することができます。\n<br>\n「それでは……\n<bw_break>": "Welcome to the Slime Races! This is the\nSlime Race Hall.\n<br>\nHm? And you are...? It seems this is your\nfirst time here since the Slime Races\nwere renewed.\n<br>\nYou can use Slimes you've raised to race\nagainst the Slimes of other adventurers, and\neven participate in tournaments!\n<br>\nNow, then...\n<bw_break>"
   },
   "210816": {
-    "「スライムレース場へ　ようこそ！\n　ここは　スライムレース受付です。\n<br>\n「あら？　スライムを　お持ちでないようですね。\n　となりの育成受付係で申し込めば\n　あなたのスライムを　用意できますよ。\n<end>": "Welcome to the slime racetrack! This is the\nslime racing area... Oh, no. You don't seem\nto have any slime. If you sign up at the\n<br>\nnursery next door, we can get you your own\nslime.<end>"
+    "「スライムレース場へ　ようこそ！\n　ここは　スライムレース受付です。\n<br>\n「あら？　スライムを　お持ちでないようですね。\n　となりの育成受付係で申し込めば\n　あなたのスライムを　用意できますよ。\n<end>": "Welcome to the Slime Races! This is the\nSlime Race Hall.\n<br>\nHm? You don't have any Slimes. If you speak to\nthe receptionist next to me, you can start\nraising your own Slime.\n<end>"
   },
   "210817": {
     "<speed=0>\n予期せぬエラーが　発生しました。\n時間をおいて　再度　お試しください。\n<end>": "<speed=0>I'm getting an unexpected error. Please give\nit some time and try again.<end>"
@@ -330,7 +330,7 @@
     "「あら……ごめんなさい。\n　今は<pc>様が　こちらで確認できる\n　ランキングは　ありません。\n<bw_break>": "Oh... I'm sorry... Not now.<pc> There are no rankings that you can see\nhere...<bw_break>"
   },
   "210825": {
-    "「スライムレース場へ　ようこそ！\n　何を　なさいますか？\n<break>": "Welcome to the slime racetrack! What can I do\nfor you, sir?<break>"
+    "「スライムレース場へ　ようこそ！\n　何を　なさいますか？\n<break>": "Welcome to the Slime Races!\nWhat can I do for you?\n<break>"
   },
   "210826": {
     "「他に　ご用は　ありますか？\n<break>": "Is there anything else I can do for you?<break>"
@@ -342,19 +342,19 @@
     "「仮やめるのね。\n<break>": "I'll stop.<break>"
   },
   "210832": {
-    "「かしこまりました！\n　<%sM_ACTIVE_SLIME>が　１着を取れるよう\n　上手に　さくせんを　立ててくださいね！\n<end>": "Yes, sir! Please set up a good strategy so\nthat <%sM_ACTIVE_SLIME> can take first place!<end>"
+    "「かしこまりました！\n　<%sM_ACTIVE_SLIME>が　１着を取れるよう\n　上手に　さくせんを　立ててくださいね！\n<end>": "Understood! Please plan your strategy\ncarefully so that <%sM_ACTIVE_SLIME>\ncan make it to first place!\n<end>"
   },
   "210833": {
-    "「……４着でした。\n　残念ですが\n　勝利ポイントは　獲得できません。\n<bw_break>": "... Fourth place... I'm afraid I can't award\nyou any victory points...<bw_break>"
+    "「……４着でした。\n　残念ですが\n　勝利ポイントは　獲得できません。\n<bw_break>": "...Fourth place, I see. Too bad.\nYou won't earn any Victory Points.\n<bw_break>"
   },
   "210834": {
-    "「かしこまりました。\n<bw_break>": "I'll be right with you.<bw_break>"
+    "「かしこまりました。\n<bw_break>": "Certainly.\n<bw_break>"
   },
   "210835": {
-    "「<pc>様！\n　今大会　<%sM_RACE>に\n　ご参加いただき　ありがとうございます！\n<br>\n「これ以上　参加することはできませんが\n　スライムを育てることは　できますので\n　次回の開催を　楽しみにお待ちくださいね！\n<bw_break>": "<pc> Thank you! Thank you for participating in\nthis <%sM_RACE>! I can't participate any\nmore, but I can still grow slime, so please\n<br>\nlook forward to the next one!<bw_break>"
+    "「<pc>様！\n　今大会　<%sM_RACE>に\n　ご参加いただき　ありがとうございます！\n<br>\n「これ以上　参加することはできませんが\n　スライムを育てることは　できますので\n　次回の開催を　楽しみにお待ちくださいね！\n<bw_break>": "Thank you so much for participating in the\n<%sM_RACE>!\n<br>\nIt's no longer possible to participate, but you\ncan still raise your Slimes. We hope you'll\njoin us in the next event!\n<bw_break>"
   },
   "210836": {
-    "「あら？\n　参加に必要な　勝利ポイントを\n　持っていないため　参加できません。\n<bw_break>": "What? You don't have the victory points\nneeded to participate, so you can't...<bw_break>"
+    "「あら？\n　参加に必要な　勝利ポイントを\n　持っていないため　参加できません。\n<bw_break>": "Hm? You don't have any Victory Points, so\nyou're unable to participate.\n<bw_break>"
   },
   "210837": {
     "「あら！　<pc>様！　すごいですよ！\n　とてつもない額の　勝利ポイントを\n　稼ぎましたね。\n<br>\n「スライムレースが　気に入ってもらえて\n　私たちも　うれしい限りです。\n　チャンピオン！　ありがとうございます！\n<br>\n「<%sM_GRADE>へ　出場しても\n　これ以上　勝利ポイントは増えませんが\n　よろしいですか？\n<yesno2><break>": "Oh, my!<pc> Yes, sir! It's amazing! We've earned a\ntremendous amount of victory points... We're\nso glad you liked the slime race... Champion!\n<br>\nThank you very much! If I enter the\n<%sM_GRADE> race, I won't earn any more\nvictory points, is that okay with you?<yesno2><break>"
@@ -369,34 +369,34 @@
     "「ほかにも何か　ご説明いたしますか？\n<break>": "Is there anything else you'd like to share\nwith us?<break>"
   },
   "210841": {
-    "「レースに参加させるスライムを選んでください。\n<break>": "Choose a slime to participate in the race...<break>"
+    "「レースに参加させるスライムを選んでください。\n<break>": "Choose the Slime you'd like to race.\n<break>"
   },
   "210842": {
-    "「<%sM_ACTIVE_SLIME>で参加します。\n　よろしいですか？\n<yesno><break>": "Join us at <%sM_ACTIVE_SLIME>... Are you\nsure?<yesno><break>"
+    "「<%sM_ACTIVE_SLIME>で参加します。\n　よろしいですか？\n<yesno><break>": "Are you sure you want to use\n<%sM_ACTIVE_SLIME>?\n<yesno><break>"
   },
   "210843": {
-    "「そこは　空き部屋のようですね。\n　スライムがいる部屋を選んでください。\n<bw_break>": "It's like an empty room... Pick the room with\nthe slime...<bw_break>"
+    "「そこは　空き部屋のようですね。\n　スライムがいる部屋を選んでください。\n<bw_break>": "It looks like this room is vacant. Please\nchoose a room with a Slime.\n<bw_break>"
   },
   "210844": {
-    "「様子を見るスライムを　選んでください。\n<break>": "Pick a slime to watch...<break>"
+    "「様子を見るスライムを　選んでください。\n<break>": "Please choose a Slime.<break>"
   },
   "210845": {
-    "「つよさと　とくぎについて　確認できますよ。\n<break>": "I can confirm the strength and skill...<break>"
+    "「つよさと　とくぎについて　確認できますよ。\n<break>": "You can check its stats and skills here.\n<break>"
   },
   "210846": {
     "「ただいま　スライムレースの祭典\n  <%sM_RACE>を\n　期間限定で　開催しております！\n<br>\n「アストルティアカップとは\n　育てたスライムで\n　ビッグな賞金獲得を　目指すレースです！\n<br>\n「さあ　いかがでしょう　お客様！\n　アストルティアカップに　エントリーして\n　一攫千金を　夢見てみませんか？\n<yesno><break>": "We're holding a Slime Race Festival, called\n<%sM_RACE>, for a limited\ntime only!\n<br>\nThe Astoltia Cup has some of the hottest\nSlime Races around, with big prizes for\nthe best Slimes out there!\n<br>\nSo come on and enter the Astoltia Cup\ntoday! Your dreams of becoming a\nmillionaire may just come true!\n<yesno><break>"
   },
   "210847": {
-    "「そうですか……。<%sM_RACE>は\n　<%nM_CLOSE_MONTH>月<%nM_CLOSE_DAY>日まで　開催していますので\n　またのお越しを　お待ちしております！\n<end>": "I see... <%sM_RACE> will be open until the\n<%nM_CLOSE_MONTH> of the month\n<%nM_CLOSE_DAY>, so we're looking forward to\n<br>\nseeing you again!<end>"
+    "「そうですか……。<%sM_RACE>は\n　<%nM_CLOSE_MONTH>月<%nM_CLOSE_DAY>日まで　開催していますので\n　またのお越しを　お待ちしております！\n<end>": "I see... Well, the <%sM_RACE>\nwill be open until <%dM_CLOSE_MONTH>/<%dM_CLOSE_DAY>, so\nwe hope you'll reconsider and join us!\n<end>"
   },
   "210848": {
-    "「かしこまりました！\n　遊び方や注意点を　簡単にご説明いたしますね。\n<br>\n「アストルティアカップとは　大会予選と\n　チャンピオンシップの２段階のレースに出場して\n　勝利ポイントを　稼ぐ遊びです。\n<br>\n「勝利ポイントは　大会終了後に　賞金に換わる\n　だいじなポイントです。１ポイントにつき\n　１ゴールドを　受け取ることができますよ！\n<br>\n「まずは　大会予選に出場して\n　勝利ポイントを　稼いでもらいます。\n　予選参加権の回数分だけ　参加できますよ！\n<br>\n「それと　ルールについて　少し制限があります。\n　アストルティアカップでは\n　競走相手のさくせんを　チェックできません。\n<br>\n「また　さくせんタイムには　制限時間が\n　設けられていますので　ご注意ください。\n<br>\n「以上が　アストルティアカップの説明です。\n　さらにくわしい内容は　『説明を聞く』から\n　知ることができますよ。\n<bw_break>": "Yes, ma'am! Here's a brief explanation of how\nto play and what to look out for... Astoltia\nCup is a game where you compete in two levels\n<br>\nof races, the qualifying round and the\nchampionship, to earn victory points. Victory\npoints are very important because they are\n<br>\nconverted into cash prizes at the end of the\ntournament. For every point you earn, you'll\nreceive 1 gold! First, you need to\n<br>\nparticipate in the qualifying rounds of the\ntournament to earn victory points. You can\nonly qualify as many times as you qualify.\n<br>\nAnd there are a few rules restrictions... In\nthe Astoltia Cup, you can check out your\nopponents' strategies... Also, please note\n<br>\nthat there is a time limit on your strategy\ntime... This is the explanation of the\nAstoltia Cup... For more detailed\n<br>\ninformation, please click \"Listen to the\nexplanation\"...<bw_break>"
+    "「かしこまりました！\n　遊び方や注意点を　簡単にご説明いたしますね。\n<br>\n「アストルティアカップとは　大会予選と\n　チャンピオンシップの２段階のレースに出場して\n　勝利ポイントを　稼ぐ遊びです。\n<br>\n「勝利ポイントは　大会終了後に　賞金に換わる\n　だいじなポイントです。１ポイントにつき\n　１ゴールドを　受け取ることができますよ！\n<br>\n「まずは　大会予選に出場して\n　勝利ポイントを　稼いでもらいます。\n　予選参加権の回数分だけ　参加できますよ！\n<br>\n「それと　ルールについて　少し制限があります。\n　アストルティアカップでは\n　競走相手のさくせんを　チェックできません。\n<br>\n「また　さくせんタイムには　制限時間が\n　設けられていますので　ご注意ください。\n<br>\n「以上が　アストルティアカップの説明です。\n　さらにくわしい内容は　『説明を聞く』から\n　知ることができますよ。\n<bw_break>": "Got it! Here's a brief explanation how to play\nand some things to look out for.\n<br>\nThe Astoltia Cup consists of two stages: the\nqualifiers and the championship, where\nparticipants compete to earn Victory Points.\n<br>\nThese points are crucial as they will be\nconverted into Gold at the end of the event.\n1 point equals 1 Gold!\n<br>\nFirst, you'll want to join the qualifiers and\nearn Victory Points. You'll be able to play\nbased on the number of entries you have.\n<br>\nHowever, there are some rules and limitations.\nYou won't be able to see other players'\ntactics, and there's a time limit for choosing\n<br>\nyour own tactics.\n<br>\nAnd that concludes the explanation of the\nAstoltia Cup! If you'd like to know more,\nfeel free to ask for an explanation!\n<bw_break>"
   },
   "212058": {
     "「アストルティアカップでは\n　２種類のランキングを　用意しています。\n<br>\n「ひとつは　ワールドランキング。\n　すべてのお客様の中から\n　上位１００名が掲載される　ランキングです。\n<br>\n「大会終了後に　ランクインしていると\n　ランキング集計後　勝利ポイントの賞金とは別に\n　豪華景品や特別賞金を　贈呈されます。\n<br>\n「豪華景品と　特別賞金は\n　『ワールドランキング報酬』から\n　確認できます。\n<br>\n「<pc>様から見て　左手に\n　ランキング掲示板が　あります。\n　ワールドランキングは　そちらで確認できます。\n<br>\n「もうひとつは　チーム・フレンドランキング。\n　<pc>様の　所属しているチームや\n　フレンドの皆様による　ランキングです。\n<br>\n「チーム・フレンドランキングは\n　『チーム・フレンドランキング』から\n　確認できます。\n<bw_break>": "At the Astoltia Cup, we have two types of\nrankings... One is the World Rankings... One\nis the World Rankings... where the top 100\n<br>\nplayers are listed from among all players. If\nyou're ranked at the end of the tournament,\nyou'll receive not only victory points, but\n<br>\nalso prizes and special prizes... You can\ncheck the prizes and special prizes from the\n\"World Ranking Rewards\"...<pc>  There's a ranking board on your left. You can\ncheck the world rankings there... The other\none is for Team and Friends...<pc> You can see the rankings of your team and\nfriends. You can check your team and friend\nrankings from \"Team and Friend Rankings\"...<bw_break>"
   },
   "212104": {
-    "「なんと！　<%nM_AWARD>ポイントです！\n　<pc>様の　すばらしい　さくせんと\n　<%sM_BEST_SLIME>の　みごとな走りの結果ですね！\n<br>\n「それでは　賞金として\n　<%nM_AWARD>ゴールドを　お渡しいたします！\n<end>": "What a surprise! That's <%nM_AWARD> points!<pc> It's a result of your amazing performance and\n<%sM_BEST_SLIME>'s amazing run! And now, as a\nprize, you will receive <%nM_AWARD> gold!<end>"
+    "「なんと！　<%nM_AWARD>ポイントです！\n　<pc>様の　すばらしい　さくせんと\n　<%sM_BEST_SLIME>の　みごとな走りの結果ですね！\n<br>\n「それでは　賞金として\n　<%nM_AWARD>ゴールドを　お渡しいたします！\n<end>": "Wow! That's <%dM_AWARD> points!\nYour strategy and <%sM_BEST_SLIME>'s\nperformance was amazing!\n<br>\nAs for your prize, you've won\n<%dM_AWARD> Gold! Congratulations!\n<end>"
   },
   "212105": {
     "「なんと！　<%nM_ACTIVE_POINT>ポイントです！\n　<%nM_ACTIVE_POINT>ポイント！？\n<br>\n「とてつもない額の　勝利ポイントを\n　稼ぎましたね。　おめでとうございます！\n　今後とも　よろしくお願いいたします！\n<br>\n「上限が　<%nM_LIMIT_AWARD>ゴールドですので\n　賞金として\n　<%nM_AWARD>ゴールドを　お渡しいたします！\n<end>": "What a surprise! That's <%nM_ACTIVE_POINT>\npoints! <%nM_ACTIVE_POINT>points! You've\nearned a tremendous amount of victory\n<br>\npoints... Congratulations! I look forward to\nworking with you in the future! The limit is\n<%nM_LIMIT_AWARD> gold, so we'll give you\n<br>\n<%nM_AWARD> gold as prize money!<end>"
@@ -408,7 +408,7 @@
     "「<%nM_ACTIVE_POINT>ポイントですね。\n　<pc>様は　大会予選でがんばって\n　<%nM_AWARD>ポイントを　獲得していましたね！\n<br>\n「なので　賞金は　予選獲得ポイントの\n　<%nM_AWARD>ゴールドを　お渡しいたします！<end>": "<%nM_ACTIVE_POINT>points...<pc> You worked hard in the qualifying round to\nearn <%nM_AWARD> points! Therefore, you will\nreceive <%nM_AWARD> gold for your qualifying\n<br>\npoints!<end>"
   },
   "214188": {
-    "「大会は\n　<%nM_CLOSE_MONTH>月<%nM_CLOSE_DAY>日まで　開催しています。\n　お気を付けください。\n<end>": "The tournament will be held until\n<%nM_CLOSE_MONTH> of the month\n<%nM_CLOSE_DAY>... Please be careful...<end>"
+    "「大会は\n　<%nM_CLOSE_MONTH>月<%nM_CLOSE_DAY>日まで　開催しています。\n　お気を付けください。\n<end>": "The tournament will be held until <%dM_CLOSE_MONTH>/<%dM_CLOSE_DAY>.\nPlease be sure to remember that!\n<end>"
   },
   "215234": {
     "「まだ　チャンピオンシップに　参加することは\n　できません。大会予選を終えることで\n　参加できるようになります。\n<bw_break>": "You can't participate in the championship\nyet... You'll have to complete the qualifying\nrounds before you can participate...<bw_break>"
@@ -417,13 +417,13 @@
     "「あら？\n　<pc>様は　すでに大会予選を\n　走り切ったため　参加できませんよ。\n<bw_break>": "Oh?<pc> You've already run through the qualifying\nround, so you can't participate...<bw_break>"
   },
   "215238": {
-    "「再エントリーは　大会予選を終えると\n　できるようになります。\n<bw_break>": "You'll be able to re-enter once you've\ncompleted the qualifying rounds...<bw_break>"
+    "「再エントリーは　大会予選を終えると\n　できるようになります。\n<bw_break>": "You can re-enter after you've completed all\nof your qualifier games.\n<bw_break>"
   },
   "215240": {
-    "「<%sM_ACTIVE_SLIME>で参加します。\n　参加費として　１０万ポイントを\n　支払うことになりますが　よろしいですか？\n<yesno2><break>": "Joining with <%sM_ACTIVE_SLIME>... You'll be\npaying 100,000 points to participate, is that\nokay?<yesno2><break>"
+    "「<%sM_ACTIVE_SLIME>で参加します。\n　参加費として　１０万ポイントを\n　支払うことになりますが　よろしいですか？\n<yesno2><break>": "You'd like to use <%sM_ACTIVE_SLIME>.\nThe participation fee is 100,000 Victory\nPoints. Is that all right?\n<yesno2><break>"
   },
   "215622": {
-    "「<%sM_ACTIVE_SLIME>で参加します。\n　アストルティアカップでは　スライムのレベルが\n　上がりませんが　よろしいですか？\n<yesno2><break>": "Joining with <%sM_ACTIVE_SLIME>... I can't\nget my slime to level up in the Astral Tear\nCup, is that okay?<yesno2><break>"
+    "「<%sM_ACTIVE_SLIME>で参加します。\n　アストルティアカップでは　スライムのレベルが\n　上がりませんが　よろしいですか？\n<yesno2><break>": "You'd like to use <%sM_ACTIVE_SLIME>? Please note\nthat a Slime's level will not increase during\nthe Astoltia Cup. Is that all right?\n<yesno2><break>"
   },
   "220272": {
     "「大会予選を終えると　再エントリーすることで\n　勝利ポイントを取り消して\n　大会予選から　やり直すことができます。\n<br>\n「現在の勝利ポイントも　予選獲得ポイントも\n　すべて失うので　慎重に　ご判断ください。\n<br>\n「勝利ポイントが　なくなってしまったけど\n　アストルティアカップへの挑戦を　続ける際は\n　再エントリーを　ご利用ください。\n<bw_break>": "Once you've finished qualifying for the\ntournament, you can re-enter the tournament,\nwhich will cancel your victory points and\n<br>\nallow you to start over... You will lose all\nof your current victory points and all of\nyour qualifying points, so please judge\n<br>\ncarefully... If you've lost your victory\npoints, but want to continue your challenge\nfor the Astoltia Cup, you can use the re-\n<br>\nentry...<bw_break>"
