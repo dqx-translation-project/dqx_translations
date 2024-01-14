@@ -834,7 +834,7 @@
     "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！": "Caught a(n) <%.1fM_CM> cm <%sM_item>!"
   },
   "38316": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！\n → おうえんボーナス +<%dL_EXP_OUEN> P": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_EXP> Fishing EXP!\n→ Cheer Bonus +<%dL_EXP_OUEN>"
+    "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！\n → おうえんボーナス +<%dL_EXP_OUEN> P": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_EXP> Fishing EXP!\n → Cheer Bonus +<%dL_EXP_OUEN>"
   },
   "38317": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_EXP> Fishing EXP!"
@@ -1494,7 +1494,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\e <%sM_slime_race>種の <%sM_slime_name>": ""
   },
   "45693": {
-    "<%sM_slime_name>は スライムレース勝利ポイントを <%sM_points>P かくとく！\n<%dM_points2>Pから <%dM_points3>Pになった。": ""
+    "<%sM_slime_name>は スライムレース勝利ポイントを <%sM_points>P かくとく！\n<%dM_points2>Pから <%dM_points3>Pになった。": "<%sM_slime_name> earns <%sM_points> Victory Points!\nPoints went from <%dM_points2> to <%dM_points3>."
   },
   "45694": {
     "スライムレースの賞金 <%dM_gold> Gを 受け取った！": "Received <%dM_gold> G from the Slime Race prize!"
@@ -1779,22 +1779,22 @@
     " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>に <%dM_Damage_1>のダメージ！": " →<%dM_Damage_1> damage to <%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>!"
   },
   "49182": {
-    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は HPが<%dM_Damage_1>回復！": "→<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> recovered <%dM_Damage_1> HP!"
+    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は HPが<%dM_Damage_1>回復！": " →<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> recovers <%dM_Damage_1> HP!"
   },
   "49183": {
-    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は <%sL_ODD_NAME>の効果を受けた！": "　→<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> gained the <%sL_ODD_NAME> effect!"
+    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は <%sL_ODD_NAME>の効果を受けた！": " →<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> gains the <%sL_ODD_NAME> effect!"
   },
   "49184": {
-    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の <%sL_ODD_NAME>の効果が消えた！": " →<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>'s effect of <%sL_ODD_NAME> disappeared!"
+    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の <%sL_ODD_NAME>の効果が消えた！": " →<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>'s effect of <%sL_ODD_NAME> fades!"
   },
   "49185": {
-    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は テンションが上がった！": "→<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>'s tension increased!"
+    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は テンションが上がった！": " →<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>'s tension increases!"
   },
   "49186": {
-    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の テンションが元に戻った！": " →<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>'s tension returned to normal!"
+    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の テンションが元に戻った！": " →<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>'s tension returns to normal!"
   },
   "49187": {
-    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は ちからつきた。": "　→<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> dies!"
+    " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は ちからつきた。": " →<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> dies!"
   },
   "49188": {
     "<%sL_PLAYER_NAME>に バトエンで勝利した！": "<%sL_PLAYER_NAME> won Batoen!"
@@ -1998,7 +1998,7 @@
     "条件「<%sM_JOUKEN>」を達成！": "Condition \"<%sM_JOUKEN>\" achieved!"
   },
   "51795": {
-    "<pc>は スライムレース勝利ポイントを　<%sM_points>P 消費した。\n<%dM_points2>Pから <%dM_points3>Pになった。": ""
+    "<pc>は スライムレース勝利ポイントを　<%sM_points>P 消費した。\n<%dM_points2>Pから <%dM_points3>Pになった。": "<pc> spends <%sM_points> Victory Points.\nPoints went from <%dM_points2> to <%dM_points3>."
   },
   "51923": {
     "<speed=0><speed=0>\n自分のパーティと　相手パーティが\n全員　おなじ場所にいないと　誘えません！": "<speed=0><speed=0>\nYou can't join parties together unless\nyou're in the same place!"
@@ -2058,13 +2058,13 @@
     "<%sL_MY_CLUB>で　引き分け　だった！": ""
   },
   "52264": {
-    "→<%sM_slime_name_2>に　『<%sL_ACTION_1>』が成功！": "→<%sL_ACTION_1> to <%sM_slime_name_2> was successful!"
+    "→<%sM_slime_name_2>に　『<%sL_ACTION_1>』が成功！": "→ <%sL_ACTION_1> to <%sM_slime_name_2> was successful!"
   },
   "52265": {
     "スライムレース　スタート！": "Start the race!!"
   },
   "52266": {
-    "→<%sM_slime_name_1>は　スタミナが<%dM_Damage>回復した！": "→<%sM_slime_name_1> recovers <%dM_Damage> Stamina!"
+    "→<%sM_slime_name_1>は　スタミナが<%dM_Damage>回復した！": "→ <%sM_slime_name_1> recovers <%dM_Damage> Stamina!"
   },
   "52267": {
     "<%sM_slime_name_1>の　『<%sL_ACTION_1>』": "<%sM_slime_name_1> uses <%sL_ACTION_1>!"
@@ -2076,34 +2076,34 @@
     "<%sM_slime_name_1>の　ジャンプ！": "<%sM_slime_name_1> uses Jump!"
   },
   "52270": {
-    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『マホカンタ』で　はねかえした！": "→<%sM_slime_name_2>'s <%sL_ACTION_2> was reflected with Bounce!"
+    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『マホカンタ』で　はねかえした！": "→ <%sM_slime_name_2>'s <%sL_ACTION_2> was reflected with Bounce!"
   },
   "52271": {
-    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『<%sL_ACTION_1>』で防いだ！": "→<%sM_slime_name_2>'s <%sL_ACTION_2> was prevented by <%sL_ACTION_1>!"
+    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『<%sL_ACTION_1>』で防いだ！": "→ <%sM_slime_name_2>'s <%sL_ACTION_2> was prevented by <%sL_ACTION_1>!"
   },
   "52272": {
     "<%sM_slime_name_1>は　ゴールした！": "<%sM_slime_name_1> reaches the goal!"
   },
   "52273": {
-    "→<%sM_slime_name_2>に　『<%sL_ACTION_1>』が失敗！": "→<%sL_ACTION_1> didn't work on <%sM_slime_name_2>!"
+    "→<%sM_slime_name_2>に　『<%sL_ACTION_1>』が失敗！": "→ <%sL_ACTION_1> didn't work on <%sM_slime_name_2>!"
   },
   "52274": {
-    "→<%sM_slime_name_2>の　『マホカンタ』で　『<%sL_ACTION_2>』を　はねかえされた！": "→<%sM_slime_name_2>'s Bounce reflects <%sL_ACTION_2>!"
+    "→<%sM_slime_name_2>の　『マホカンタ』で　『<%sL_ACTION_2>』を　はねかえされた！": "→ <%sM_slime_name_2>'s Bounce reflects <%sL_ACTION_2>!"
   },
   "52275": {
-    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　くらった！": "→Struck by <%sM_slime_name_2>'s <%sL_ACTION_2>!"
+    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　くらった！": "→ Struck by <%sM_slime_name_2>'s <%sL_ACTION_2>!"
   },
   "52276": {
-    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　かわした！": "→Dodged <%sM_slime_name_2>'s <%sL_ACTION_2>!"
+    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　かわした！": "→ Dodged <%sM_slime_name_2>'s <%sL_ACTION_2>!"
   },
   "52277": {
-    "→<%sM_slime_name_1>は　スタミナが切れてしまった！": "→<%sM_slime_name_1> runs out of Stamina!"
+    "→<%sM_slime_name_1>は　スタミナが切れてしまった！": "→ <%sM_slime_name_1> runs out of Stamina!"
   },
   "52365": {
     "美容院で かみの色２を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
   },
   "52384": {
-    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『ふわふわボディ』で　かわした！": "→Floaty Body dodges <%sM_slime_name_2>'s <%sL_ACTION_2>!"
+    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『ふわふわボディ』で　かわした！": "→ Floaty Body dodges <%sM_slime_name_2>'s <%sL_ACTION_2>!"
   },
   "52396": {
     "美容院で <%sM_name>の かみの色２を\n<%sM_old>から <%sM_new>に変えた！": ""
@@ -2169,7 +2169,7 @@
     "<speed=0>入力したメモを取り消して　元に戻しますか？<yesno><close>": "<speed=0>Cancel changes to this friend note?<yesno><close>"
   },
   "53568": {
-    "<%sM_CAPSULE_NAME>を　ヤクウに渡して\nダブリィポイントを　<%dM_CHANGE_POINT>P　もらった！（ <%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P） ": "Handed <%sM_CAPSULE_NAME> to Yakuu and\nreceived <%dM_CHANGE_POINT> Doubly Points! (<%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P)"
+    "<%sM_CAPSULE_NAME>を　ヤクウに渡して\nダブリィポイントを　<%dM_CHANGE_POINT>P　もらった！（ <%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P） ": "Handed <%sM_CAPSULE_NAME> to Yakuu and\nreceived <%dM_CHANGE_POINT> Doubly Points! (<%dM_BEFORE_POINT>P → <%dM_AFTER_POINT>P)"
   },
   "53578": {
     "土地管理人から　マイタウンを　<%dL_HSGTOWN_PRICE> Gで買った！": "Bought a My Town from the Land Manager for\n<%dL_HSGTOWN_PRICE> G!"
@@ -2295,13 +2295,13 @@
     " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は 回復しなかった。": " → <%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> didn't recover."
   },
   "54464": {
-    "→<%sM_slime_name_2>の　『マホターン』で　『<%sL_ACTION_2>』を　はねかえされた！": ""
+    "→<%sM_slime_name_2>の　『マホターン』で　『<%sL_ACTION_2>』を　はねかえされた！": "→<%sM_slime_name_2>'s Bound reflects <%sL_ACTION_2>!"
   },
   "54465": {
-    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『マホターン』で　はねかえした！": ""
+    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『マホターン』で　はねかえした！": "→<%sM_slime_name_2>'s <%sL_ACTION_2> was reflected by Bound!"
   },
   "54466": {
-    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』により　『<%sL_ACTION_1>』で加速した！": ""
+    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』により　『<%sL_ACTION_1>』で加速した！": "→ Accelerated with <%sL_ACTION_1> from <%sM_slime_name_2>'s <%sL_ACTION_2>!"
   },
   "54662": {
     "クラブ順位<br>\n<%sL_CLUB_1> <%dM_CLUB_RANKNG_1>位<br>\n<%sL_CLUB_2> <%dM_CLUB_RANKNG_2>位<br>\n<%sL_CLUB_3> <%dM_CLUB_RANKNG_3>位<br>\n<%dM_YEAR>年<%dM_MONTH>月<%dM_DAY>日<%dM_TIME>時<%dM_MIN>分 現在": "Club Standings<br>\n#<%dM_CLUB_RANKNG_1>: <%sL_CLUB_1><br>\n#<%dM_CLUB_RANKNG_2>: <%sL_CLUB_2><br>\n#<%dM_CLUB_RANKNG_3>: <%sL_CLUB_3><br>\nCurrent as of <%dM_MONTH>/<%dM_DAY>/<%dM_YEAR> <%dM_TIME>:<%02dM_MIN>"
@@ -2469,19 +2469,19 @@
     "\\s<%sL_name>\\m<%sL_id>\\eはパスした": "\\s<%sL_name>\\m<%sL_id>\\e passed."
   },
   "55530": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eは なかまカードをパスした": "　→\\s<%sL_name>\\m<%sL_id>\\e passed a Friend Card."
+    "　→\\s<%sL_name>\\m<%sL_id>\\eは なかまカードをパスした": "　→\\s<%sL_name>\\m<%sL_id>\\e passes a Friend Card."
   },
   "55531": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eは なかまカードと手札のカードを交換した": "　→\\s<%sL_name>\\m<%sL_id>\\e exchanged for a Friend Card."
+    "　→\\s<%sL_name>\\m<%sL_id>\\eは なかまカードと手札のカードを交換した": "　→\\s<%sL_name>\\m<%sL_id>\\e exchanges for a Friend Card."
   },
   "55532": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eの順番がスキップされた": "　→\\s<%sL_name>\\m<%sL_id>\\e's turn was skipped."
+    "　→\\s<%sL_name>\\m<%sL_id>\\eの順番がスキップされた": "　→\\s<%sL_name>\\m<%sL_id>\\e skips their turn."
   },
   "55533": {
-    "　→ <%sL_num>を選択": "　→ Chose <%sL_num>."
+    "　→ <%sL_num>を選択": "　→ Chooses <%sL_num>."
   },
   "55534": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eは\\s<%sL_name2>\\m<%sL_id2>\\eにカードを<%dL_num>枚渡した": "　→\\s<%sL_name>\\m<%sL_id>\\e gave <%dL_num> card(s) to \\s<%sL_name2>\\m<%sL_id2>\\e."
+    "　→\\s<%sL_name>\\m<%sL_id>\\eは\\s<%sL_name2>\\m<%sL_id2>\\eにカードを<%dL_num>枚渡した": "　→ \\s<%sL_name>\\m<%sL_id>\\e gives <%dL_num> card(s) to \\s<%sL_name2>\\m<%sL_id2>\\e."
   },
   "55535": {
     "場が流れた": "Board reset."
@@ -2490,7 +2490,7 @@
     "スライムが <%dL_num>体あらわれて <%dL_num2>体になった": "<%dL_num> Slime(s) appeared for a total of <%dL_num2>."
   },
   "55537": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eは手札のカードを<%dL_num>枚捨てた": "　→\\s<%sL_name>\\m<%sL_id>\\e discarded <%dL_num> card(s)."
+    "　→\\s<%sL_name>\\m<%sL_id>\\eは手札のカードを<%dL_num>枚捨てた": "　→ \\s<%sL_name>\\m<%sL_id>\\e discards <%dL_num> card(s)."
   },
   "55540": {
     "3": "3"
@@ -2574,7 +2574,7 @@
     "<%sL_rank>から <%sL_card>と <%sL_card2>を受け取った": "Received <%sL_card> and <%sL_card2> from <%sL_rank>."
   },
   "55785": {
-    "　→\\s<%sL_name>\\m<%sL_id>\\eから <%sL_card>を受け取った": "　→Received <%sL_card> from \\s<%sL_name>\\m<%sL_id>\\e."
+    "　→\\s<%sL_name>\\m<%sL_id>\\eから <%sL_card>を受け取った": "　→ Received <%sL_card> from \\s<%sL_name>\\m<%sL_id>\\e."
   },
   "55786": {
     "クラブ": "Club"
@@ -2706,13 +2706,13 @@
     "<%sL_rank>では　降段しないため　これ以上\n段位戦ポイントが　減らなかった": "You can't be demoted from <%sL_rank>,\nso you didn't lose any more points."
   },
   "56562": {
-    "　→手札がいっぱいで 受け取れなかったカードが 捨てられた": "　→Discarded card since hand was full."
+    "　→手札がいっぱいで 受け取れなかったカードが 捨てられた": "　→ Discarded received card(s) since hand was full."
   },
   "56563": {
-    "　→手札がいっぱいで 渡せなかったカードが 捨てられた": "　→Discarded card since hand was full."
+    "　→手札がいっぱいで 渡せなかったカードが 捨てられた": "　→ Discarded card(s) since hand was full."
   },
   "56564": {
-    "　→何も選択しなかった": "　→Didn't choose anything."
+    "　→何も選択しなかった": "　→ Didn't choose anything."
   },
   "56581": {
     "代役が　<%dL_npc_num>人　参加した": "<%dL_npc_num> computer player(s)."
@@ -2760,10 +2760,10 @@
     "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】": "<%sM_ChatError>: <%sM_speaker> [<%sM_chat>...]"
   },
   "56925": {
-    "<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>": "<%sM_speaker>[<%sM_chat>...]→<%sM_listener>"
+    "<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>": "<%sM_speaker> [<%sM_chat>...] → <%sM_listener>"
   },
   "56926": {
-    "<%sM_speaker>【<%sM_chat>】＞ <%sM_listener>": "<%sM_speaker>[<%sM_chat>]→<%sM_listener>"
+    "<%sM_speaker>【<%sM_chat>】＞ <%sM_listener>": "<%sM_speaker> [<%sM_chat>] → <%sM_listener>"
   },
   "56929": {
     "\\s<%sC_PC>\\m<%sC_ID>\\e【<%sM_chat>】": "\\s<%sC_PC>\\m<%sC_ID>\\e[<%sM_chat>]"
