@@ -6,7 +6,7 @@
     "処理に失敗しました。\nもう一度　はじめから　お試しください。\n<end>": "Processing failed. Please try again..<end>"
   },
   "131173": {
-    "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』は\nデッキに入っている　タロットです。\n本当に　材料にして　よろしいですか？\n<yesno 2><close>": "\"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" is a Tarot\nin a deck. Are you sure you want to use it?<yesno 2><close>"
+    "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』は\nデッキに入っている　タロットです。\n本当に　材料にして　よろしいですか？\n<yesno 2><close>": "\"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" is a Tarot\nin a deck. Are you sure you want to use it as\nmaterial?\n<yesno 2><close>"
   },
   "131174": {
     "その　タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』は\nすでに　材料として選択されています！\n<end>": "That Tarot is already being used as a\nmaterial!<end>"
@@ -18,13 +18,13 @@
     "材料にするタロットを　２枚　選んでください。\n<end>": "Please choose 2 Tarots to use as\nmaterials.<end>"
   },
   "131191": {
-    "<color_yellow>\nタロット合成の　説明です！\n<br>\nタロットテーブルでは\n２枚の　モンスタータロットを組みあわせ\n新しいタロットを　合成することができます。\n<br>\n新しいタロットには　材料に使った\nタロット２枚の　アルカナと\nモンスターの種族が引き継がれます。\n<br>\n<color_white>\n材料にするタロットを　２枚　選んでください。\n<end>": "<color_yellow>This is an explanation of the Tarot\nSynthesis. At the Tarot Table, two monster\ntarots can be combined to form a new tarot.\n<br>\nThe new Tarot will inherit the Arcana of the\ntwo Tarots used as ingredients and the race\nof the monster...<color_white>I need you to choose two tarots to use as\nmaterials.<end>"
+    "<color_yellow>\nタロット合成の　説明です！\n<br>\nタロットテーブルでは\n２枚の　モンスタータロットを組みあわせ\n新しいタロットを　合成することができます。\n<br>\n新しいタロットには　材料に使った\nタロット２枚の　アルカナと\nモンスターの種族が引き継がれます。\n<br>\n<color_white>\n材料にするタロットを　２枚　選んでください。\n<end>": "<color_yellow>\nThis will explain Tarot Synthesis!\n<br>\nUsing the Tarot Table, you can synthesize\n2 Monster Tarots together in order to\ncreate a new Tarot.\n<br>\nThe new Tarot will inherit the Arcana and\nmonster type of the Tarots used as\nmaterial.\n<br>\n<color_white>\nPlease choose 2 Tarots to use as\nmaterials.\n<end>"
   },
   "131192": {
     "タロット合成を　終了します。\nよろしいですか？\n<yesno 1><close>": "Stop synthesizing?\n<yesno 1><close>"
   },
   "145069": {
-    "タロットテーブルは\n不思議な光を　たたえている……。\n<br>\n<color_yellow>\nこの　タロットテーブルでは\n２枚のモンスタータロットを　合成するか\nお好きな１枚のアルカナを替えることができます。\n<br>\nタロットテーブルを使うには\n占い師のレベルを　４０以上にしてから\nタロット屋バビロに会う必要が　あります。\n<end>": "The tarot table is casting a strange light...<color_yellow>This tarot table allows you to combine two\nmonster tarots or change one of the arcana of\nyour choice. In order to use the Tarot Table,\n<br>\nyou must be a fortune teller of at least\nlevel 40 before you can see Babylon the Tarot\nMaker...<end>"
+    "タロットテーブルは\n不思議な光を　たたえている……。\n<br>\n<color_yellow>\nこの　タロットテーブルでは\n２枚のモンスタータロットを　合成するか\nお好きな１枚のアルカナを替えることができます。\n<br>\nタロットテーブルを使うには\n占い師のレベルを　４０以上にしてから\nタロット屋バビロに会う必要が　あります。\n<end>": "The Tarot Table is casting forth a mysterious\nlight...\n<br>\n<color_yellow>\nThis Tarot Table can be used to synthesize\n2 Tarots together or change a Tarot's Arcana.\n<br>\nBefore you can use it, you must be a Fortune\nTeller of at least level 40 and speak with\nTarot Shop Babilo.\n<end>"
   },
   "145070": {
     "タロットを　２枚以上所持していないため\n合成できません。タロット合成をするには\nタロットを２枚以上所持している必要があります。\n<end>": "You must have have at least 2 Tarots in your\npossession to perform synthesis.<end>"
@@ -33,13 +33,13 @@
     "材料にできる　タロットが\nなくなりました。\n<end>": "You don't have any more Tarots to use.<end>"
   },
   "146754": {
-    "ランクが　ＳＳ以上のタロットです。\n合成の材料に使って\n本当に　よろしいですか？\n<yesno 2><close>": "Are you sure you like to use an SS+ Rank\nTarot as a material for synthesis?<yesno 2><close>"
+    "ランクが　ＳＳ以上のタロットです。\n合成の材料に使って\n本当に　よろしいですか？\n<yesno 2><close>": "Are you sure you'd like to use an SS+ Rank\nTarot as a material for synthesis?<yesno 2><close>"
   },
   "150143": {
     "タロットが　これ以上　少なくなると\nデッキを組むことが　できなくなります。\n<br>\nバトル中に　タロットを使えない状態に\nなってしまいますが　このまま\n合成して　本当に　よろしいですか？\n<yesno 2><close>": "If you use too many Tarots in synthesis, you\nwon't have enough to build a deck to use in\nbattle. Proceed anyways?<yesno 2><close>"
   },
   "279386": {
-    "<color_yellow>\nタロットテーブルで　新たに　アルカナを\n替えることが　できるようになりました。\n<br>\n『アルカナを替える』を選択して\n手持ちのタロットカード１枚の　アルカナを\n任意のアルカナに　替えることができます。\n<br>\nこの機能では　タロットの消費はされないので\nお気軽に　おためしください。\n<end>": "<color_yellow>The Tarot Table now offers a new option to\nchange the Arcana... By selecting \"Change\nArcana\", you can change the Arcana of one\n<br>\nTarot card in your hand to any Arcana... This\nfunction does not consume any Tarot, so feel\nfree to try it out...<end>"
+    "<color_yellow>\nタロットテーブルで　新たに　アルカナを\n替えることが　できるようになりました。\n<br>\n『アルカナを替える』を選択して\n手持ちのタロットカード１枚の　アルカナを\n任意のアルカナに　替えることができます。\n<br>\nこの機能では　タロットの消費はされないので\nお気軽に　おためしください。\n<end>": "<color_yellow>\nThe Tarot Table now offers a new function\nto change the Arcana of your Tarots.\n<br>\nBy using \"Change Arcana\", you can change\nthe Arcana that any of your owned Tarots\nis currently using.\n<br>\nThis process doesn't consume any of your\nTarots, so feel free to give it a try!\n<end>"
   },
   "279387": {
     "タロットテーブルでは　タロット合成と\nアルカナを替えることが　できます。\nどうしますか？\n<break>": "At a Tarot Table, you can perform synthesis\nor change a Tarot's Arcana. What do you want\nto do?<break>"
