@@ -18,7 +18,7 @@
     "<%sL_KISEKI>を　<%nL_KISEKI_NUM>個使って\n王家の迷宮に入りますか？\n<yesno>\n<close>": "Use <%dL_KISEKI_NUM> <%sL_KISEKI> to enter\nthe Royal Maze?\n<yesno>\n<close>"
   },
   "93777": {
-    "<%sL_ITEM><%sL_PLUSNUM>を　光の扉に捧げると\n<%sL_KISEKI>が<%nL_NUM>個　手に入ります。\n捧げたアイテムは失われますが　よろしいですか？\n<yesno 2><break>": "By offering the <%sL_ITEM><%sL_PLUSNUM> to the\nDoor of Light, you will receive <%dL_NUM> <%sL_KISEKI>.\nThe item will be consumed. Proceed?\n<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を　光の扉に捧げると\n<%sL_KISEKI>が<%nL_NUM>個　手に入ります。\n捧げたアイテムは失われますが　よろしいですか？\n<yesno 2><break>": "By offering the <%sL_ITEM><%sL_PLUSNUM> to the Door\nof Light, you will receive <%dL_NUM> <%sL_KISEKI>.\nThe item will be consumed. Proceed?\n<yesno 2><break>"
   },
   "93778": {
     "どのアイテムを\n光の扉に　捧げますか？\n<break>": "Offer which item?\n<break>"
@@ -54,7 +54,7 @@
     "どのアイテムを\n光の扉に　捧げますか？\n<select_se_off>\nつかうもの\nそうびひん\n<select_end><break>": "Which type of item will you offer?\n<select_se_off>\nItem\nEquipment\n<select_end><break>"
   },
   "102173": {
-    "<%sL_ITEM><%sL_PLUSNUM>を<%nL_ITEM_NUM>個　光の扉に捧げると\n<%sL_KISEKI>が<%nL_NUM>個　手に入ります。\n捧げたアイテムは失われますが　よろしいですか？\n<yesno 2><break>": "By offering <%dL_ITEM_NUM> <%sL_ITEM><%sL_PLUSNUM> to the\nDoor of Light, you will receive <%dL_NUM> <%sL_KISEKI>.\nThe items will be consumed. Proceed?\n<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を<%nL_ITEM_NUM>個　光の扉に捧げると\n<%sL_KISEKI>が<%nL_NUM>個　手に入ります。\n捧げたアイテムは失われますが　よろしいですか？\n<yesno 2><break>": "By offering <%dL_ITEM_NUM> <%sL_ITEM><%sL_PLUSNUM> to the Door\nof Light, you will receive <%dL_NUM> <%sL_KISEKI>.\nThe items will be consumed. Proceed?\n<yesno 2><break>"
   },
   "102540": {
     "<%sL_ITEM><%sL_PLUSNUM>が足りないので\n捧げることができません。\n<end>": "Cannot offer since you do not have\n<%sL_ITEM><%sL_PLUSNUM>.\n<end>"
@@ -123,10 +123,10 @@
     "封印の砂を　<%nL_POINT_NUM>個使って\n輝石のベルトの効果の　封印状態をリセットした！\n<br>\nこれまで封印に使った\n封印の砂　<%nL_GET_NUM>個が　戻ってきた！<se_nots System 7>\n<end>": "Used <%dL_POINT_NUM> Sealed Sand to reset your effects,\nand the <%dL_GET_NUM> Sealed Sand you've already used\nhas been returned to you!<se_nots System 7>\n<end>"
   },
   "123494": {
-    "封印の砂を　<%nL_POINT_NUM>個使って\n選んだ効果を　<%nL_SEAL_NUM>種類封印して\nよろしいですか？\n<yesno 1><break>": ""
+    "封印の砂を　<%nL_POINT_NUM>個使って\n選んだ効果を　<%nL_SEAL_NUM>種類封印して\nよろしいですか？\n<yesno 1><break>": "Use <%dL_POINT_NUM> Sealed Sand to seal\nthe <%dL_SEAL_NUM> effect(s) you've chosen?\n<yesno 1><break>"
   },
   "123495": {
-    "封印の砂を使って\n輝石のベルトにつく効果を封印します。\n封印する効果を　選んでください。\n<break>": ""
+    "封印の砂を使って\n輝石のベルトにつく効果を封印します。\n封印する効果を　選んでください。\n<break>": "By using Sealed Sand, you can seal Augite\nBelt effects. Choose the effects you wish\nto seal.\n<break>"
   },
   "123496": {
     "これ以上　輝石のベルトにつく効果を\n封印することは　できません！\n<bw_break>": "You cannot seal any more effects!\n<bw_break>"
@@ -135,7 +135,7 @@
     "封印の砂が　<%nL_LACK_NUM>個足りません！\n<bw_break>": "You need <%dL_LACK_NUM> Sealed Sand!\n<bw_break>"
   },
   "123498": {
-    "選んだ効果を　<%nL_SEAL_NUM>種類　封印した！\n<se_nots System 7>\n<bw_break>": ""
+    "選んだ効果を　<%nL_SEAL_NUM>種類　封印した！\n<se_nots System 7>\n<bw_break>": "The chosen effect(s) were sealed!\n<se_nots System 7>\n<bw_break>"
   },
   "123500": {
     "<color_yellow>\n『封印の砂』の説明です！\n<br>\n『封印の砂を増やす』を選んで\n輝石のベルトを　光の扉に捧げると\n封印の砂が　手に入ります。\n<br>\n封印の砂は　輝石のベルトにつく効果を封印し\n手に入る輝石のベルトに　その効果が\nつかないようにできます。": "<color_yellow>\nThis will explain \"Sealed Sand\"!\n<br>\nBy selecting \"Get Sealed Sand\", you'll be\nable to offer your Augite Belts at the door\nin order to receive some.\n<br>\nThe sand can be used to seal various effects.\nOnce an effect is sealed, it will not appear\non any future Augite Belts you obtain."
