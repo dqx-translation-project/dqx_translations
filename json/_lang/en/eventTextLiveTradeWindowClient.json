@@ -3,7 +3,7 @@
     "<%sL_PC>との取り引きを　やめますか？\n<yesno><close>": "Stop trading with <%sL_PC>?\n<yesno><close>"
   },
   "26938": {
-    "<%sL_ITEM>を　取り下げますか？\n<yesno><break>": "Do you want to remove <%sL_ITEM>?\n<yesno><break>"
+    "<%sL_ITEM>を　取り下げますか？\n<yesno><break>": "Remove the <%sL_ITEM>?\n<yesno><break>"
   },
   "26939": {
     "自分から相手に渡す物を　選択します。\n<color_yellow>\n※相手が選んだ物にも　カーソルが移動できます。\n「くわしくみる」で　しっかり確認しましょう。\n<color_white>\n<break>": "Please choose the items you'd like to trade.\n<color_yellow>\nYou can also move the cursor to the other\nplayer's items and examine them.\n<color_white>\n<break>"
@@ -21,7 +21,7 @@
     "<%sL_PC>との取り引きが　成立しました！\n<end>": "Trade with <%sL_PC> was\nsuccessful!<end>"
   },
   "26944": {
-    "<%sL_STORAGE>には　渡せる物が　ありません。\n<bw_break>": "<%sL_STORAGE> has something to give...<bw_break>"
+    "<%sL_STORAGE>には　渡せる物が　ありません。\n<bw_break>": "<%sL_STORAGE> has no items that\ncan be traded.\n<bw_break>"
   },
   "26945": {
     "<%sL_COIN>を　持っていません。\n<bw_break>": "You don't have <%sL_COIN>.<bw_break>"
@@ -30,19 +30,19 @@
     "<%sL_PC>との取り引きを　やめました。\n<end>": "Stopped trading with\n<%sL_PC>.<end>"
   },
   "27046": {
-    "<%sL_ITEM>を　取り消しました。\n<end>": "Undo <%sL_ITEM>...<end>"
+    "<%sL_ITEM>を　取り消しました。\n<end>": "The <%sL_ITEM> was removed.\n<end>"
   },
   "27236": {
-    "<%sL_PC>の　<%sL_STORAGE>がいっぱいで\n<%sL_ITEM>が入りきらないため\n取り引きが　できませんでした。\n<end>": "The <%sL_STORAGE> of <%sL_PC> is full and\n<%sL_ITEM> cannot be filled, so the\ntransaction cannot be made...<end>"
+    "<%sL_PC>の　<%sL_STORAGE>がいっぱいで\n<%sL_ITEM>が入りきらないため\n取り引きが　できませんでした。\n<end>": "<%sL_PC>'s <%sL_STORAGE> is full,\nso the trade was unsuccessful.\n<end>"
   },
   "27237": {
-    "<%sL_STORAGE>がいっぱいで\n<%sL_ITEM>を受け取れないため\n取り引きが　できませんでした。\n<end>": "The <%sL_STORAGE> is too full to receive\n<%sL_ITEM> and the transaction cannot be\ncompleted...<end>"
+    "<%sL_STORAGE>がいっぱいで\n<%sL_ITEM>を受け取れないため\n取り引きが　できませんでした。\n<end>": "Your <%sL_STORAGE> is full,\nso the trade was unsuccessful.\n<end>"
   },
   "27238": {
-    "取り引きが　キャンセルされました。\n<end>": "The transaction has been canceled...<end>"
+    "取り引きが　キャンセルされました。\n<end>": "The trade was cancelled.<end>"
   },
   "27327": {
-    "<%sL_PC>が決定するのを　待っています。\nしばらく　お待ちください……。\n<break>": "Waiting for <%sL_PC> to decide... Please wait\na moment...<break>"
+    "<%sL_PC>が決定するのを　待っています。\nしばらく　お待ちください……。\n<break>": "Waiting for <%sL_PC>\nto decide. Please wait...\n<break>"
   },
   "27328": {
     "自分から相手に渡す物を　選択します。\n<color_yellow>\n※相手が選んだ物にも　カーソルが移動できます。\n「くわしくみる」で　しっかり確認しましょう。\n<color_white>\n<break>": "Please choose the items you'd like to trade.\n<color_yellow>\nYou can also move the cursor to the other\nplayer's items and examine them.\n<color_white>\n<break>"
@@ -93,36 +93,36 @@
     "取り引きの申し込みを　キャンセルしますか？\n<yesno><break>": "Cancel the trade request?\n<yesno><break>"
   },
   "46735": {
-    "<speed=0>\nとりひきの　説明です！\n<br>\n他のプレイヤーのキャラに　とりひきを申し込み\n相手からも　ＯＫしてもらえると　そのキャラと\nアイテムやゴールドの　交換ができます。\n<br>\nとりひきは　突然　申し込まずに\nチャットなどで　先に　相手に\n確認してからにしましょう。\n<break>": "<speed=0>Here's how it works! If you offer to trade\nfor another player's character, and they\naccept, you can trade that character for\n<br>\nitems or gold... You don't want to make a\ndeal out of the blue, but you do want to\ncheck with the other player first.<break>"
+    "<speed=0>\nとりひきの　説明です！\n<br>\n他のプレイヤーのキャラに　とりひきを申し込み\n相手からも　ＯＫしてもらえると　そのキャラと\nアイテムやゴールドの　交換ができます。\n<br>\nとりひきは　突然　申し込まずに\nチャットなどで　先に　相手に\n確認してからにしましょう。\n<break>": "<speed=0>\nThis will explain trading!\n<br>\nWith trading, players can exchange items and\nGold with each other, safely and securely.\n<br>\nBe sure to ask the other player before\ninitiating a trade, though. Common\ncourtesy goes a long way!\n<break>"
   },
   "48371": {
-    "<%sL_ITEM>は\n現在　<%nL_NUM>個　選択しています。\nいくつに　変更しますか？\n<break>": "<%sL_ITEM> now has <%nL_NUM> selected... How\nmany do you want to change?<break>"
+    "<%sL_ITEM>は\n現在　<%nL_NUM>個　選択しています。\nいくつに　変更しますか？\n<break>": "<%sL_ITEM> currently has\n<%dL_NUM> selected.\nChange to what value?\n<break>"
   },
   "48380": {
-    "<%sL_ITEM>を追加して\n合計で　<%nL_NUM>個　取り出した。\n<end>": "Add <%sL_ITEM> for a total of <%nL_NUM>...<end>"
+    "<%sL_ITEM>を追加して\n合計で　<%nL_NUM>個　取り出した。\n<end>": "Added the <%sL_ITEM>\nfor a total of <%dL_NUM>.\n<end>"
   },
   "51749": {
-    "<%sL_ITEM>は\nすでに　装備されているため\n他のプレイヤーに　渡せません。\n<bw_break>": "<%sL_ITEM> is already equipped, so you can't\ngive it to another player...<bw_break>"
+    "<%sL_ITEM>は\nすでに　装備されているため\n他のプレイヤーに　渡せません。\n<bw_break>": "<%sL_ITEM> has already been\nequipped, so it cannot be traded to other\nplayers.\n<bw_break>"
   },
   "69998": {
-    "エラーのため　トレードがキャンセルされました。\nもう一度　お試しください。\n<end>": "The trade was canceled due to an error...\nPlease try again...<end>"
+    "エラーのため　トレードがキャンセルされました。\nもう一度　お試しください。\n<end>": "Trade was cancelled due to an error.\nPlease try again.\n<end>"
   },
   "71226": {
-    "<%sL_ITEM>は\nロックされているため\n他のプレイヤーに　渡せません。\n<bw_break>": "<%sL_ITEM> is locked and cannot be passed to\nanother player...<bw_break>"
+    "<%sL_ITEM>は\nロックされているため\n他のプレイヤーに　渡せません。\n<bw_break>": "<%sL_ITEM> is locked and\ncannot be traded.\n<bw_break>"
   },
   "72804": {
-    "<%sL_ITEM>は\n男性から女性にしか　渡せません。\n<bw_break>": "<%sL_ITEM> can only be given by a man to a\nwoman...<bw_break>"
+    "<%sL_ITEM>は\n男性から女性にしか　渡せません。\n<bw_break>": "<%sL_ITEM> can only be given\nto a female from a male.\n<bw_break>"
   },
   "72805": {
-    "<%sL_PC>は　もう今日の分の\n<%sL_ITEM>を受け取っているので\n渡せません！\n<bw_break>": "I can't give you <%sL_PC> because you've\nalready received <%sL_ITEM> for today!<bw_break>"
+    "<%sL_PC>は　もう今日の分の\n<%sL_ITEM>を受け取っているので\n渡せません！\n<bw_break>": "<%sL_PC> cannot be given the\n<%sL_ITEM> because they've\nalready received it today!\n<bw_break>"
   },
   "92374": {
-    "とても高額なゴールドの　取り引きです！\n信頼できる相手か　よく確認してください。\n<color_yellow>\n※本メッセージは高額取り引き時に表示されます。\n<color_white>\n<br>\n現実の金品によるゲームデータの売買（ＲＭＴ）は\n禁止されており　処罰の対象となります。\nそのようなことのないよう　ご注意ください。\n<bw_break>": "This is a very expensive gold deal! Please\nmake sure you're dealing with someone you can\ntrust.<color_yellow>This message is displayed when a high value\ndeal is made...<color_white>Buying and selling game data for real money\n(RMT) is prohibited and will be punished...\nPlease be careful not to do this...<bw_break>"
+    "とても高額なゴールドの　取り引きです！\n信頼できる相手か　よく確認してください。\n<color_yellow>\n※本メッセージは高額取り引き時に表示されます。\n<color_white>\n<br>\n現実の金品によるゲームデータの売買（ＲＭＴ）は\n禁止されており　処罰の対象となります。\nそのようなことのないよう　ご注意ください。\n<bw_break>": "This trade contains a very large amount of\nGold! Please be sure to only trade with\nthose that you trust.\n<br>\n<color_yellow>\nThis message will always appear when a trade\ninvolving a large amount of Gold is initiated.\n<br>\nBuying and selling in-game items or services\nfor real money (RMT) is prohibited. Such\ntransactions will be punished.\n<bw_break>"
   },
   "98171": {
     "他のプレイヤーに　渡せないアイテムが\n選択されています。\n<bw_break>": "You've selected an item that can't be given\nto another player.<bw_break>"
   },
   "134386": {
-    "現在　捧げているアイテムのため\n相手に渡すことは　できません。\n<bw_break>": "Now that the item is dedicated, we can't give\nit to the other...<bw_break>"
+    "現在　捧げているアイテムのため\n相手に渡すことは　できません。\n<bw_break>": "That item is currently being offered, so\nit cannot be traded.\n<bw_break>"
   }
 }
