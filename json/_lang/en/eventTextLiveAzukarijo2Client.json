@@ -6,10 +6,10 @@
     "１０００ゴールド単位で　預けられます。\nいくら　預けますか？\n<break>": "I can deposit 1,000 gold pieces... How much\ndo you want to deposit?<break>"
   },
   "78639": {
-    "１０００ゴールド単位で　引き出せます。\n現在　<%nL_AZU_BALANCE>０００ゴールド\n預けていますが　いくら引き出しますか？\n<break>": "Withdrawal in units of 1,000 gold... You have\n<%nL_AZU_BALANCE>000 gold in your account,\nhow much would you like to withdraw?<break>"
+    "１０００ゴールド単位で　引き出せます。\n現在　<%nL_AZU_BALANCE>０００ゴールド\n預けていますが　いくら引き出しますか？\n<break>": "Withdrawal in units of 1,000 gold... You have\n<%dL_AZU_BALANCE>000 gold in your account,\nhow much would you like to withdraw?<break>"
   },
   "78640": {
-    "<%nL_AZU_DEPOS_GLD>０００ゴールド　預けて\n合計で　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "<%nL_AZU_DEPOS_GLD>000 gold deposited, for a\ntotal of <%nL_AZU_BALANCE>000 gold\ndeposited...<end>"
+    "<%nL_AZU_DEPOS_GLD>０００ゴールド　預けて\n合計で　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "<%dL_AZU_DEPOS_GLD>000 gold deposited, for a\ntotal of <%dL_AZU_BALANCE>000 gold\ndeposited...<end>"
   },
   "78641": {
     "これ以上　預けられません。\n<end>": "I can't keep you any longer.<end>"
@@ -18,13 +18,13 @@
     "預けられている\nゴールドが　ありません。\n<end>": "There's gold on deposit...<end>"
   },
   "78643": {
-    "現在　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "Currently <%nL_AZU_BALANCE>000 gold\ndeposited...<end>"
+    "現在　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "Currently <%dL_AZU_BALANCE>000 gold\ndeposited...<end>"
   },
   "78644": {
     "現在　預けている\nゴールドは　ありません。\n<end>": "There's currently no gold on deposit...<end>"
   },
   "78645": {
-    "<%nL_AZU_DEPOS_GLD>０００ゴールド\n預けました。\n<br>\n現在　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "<%nL_AZU_DEPOS_GLD>000 Gold Deposit... Now\n<%nL_AZU_BALANCE>000 gold deposited...<end>"
+    "<%nL_AZU_DEPOS_GLD>０００ゴールド\n預けました。\n<br>\n現在　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "<%dL_AZU_DEPOS_GLD>000 Gold Deposit... Now\n<%dL_AZU_BALANCE>000 gold deposited...<end>"
   },
   "78646": {
     "現在　<%nL_AZU_BALANCE>０００ゴールド\nお預かりしていますが　どうしますか？\n<break>": "You currently have <%dL_AZU_BALANCE>000 Gold\ndeposited. What do you want to do?<break>"
@@ -42,13 +42,13 @@
     "<select_se_off 2>\nあずける\nひきだす\n<select_end><break>": "<select_se_off 2>\nDeposit\nWithdraw\n<select_end><break>"
   },
   "78652": {
-    "<%nL_WITHDRW_GLD>０００ゴールド　引き出して\n現在　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "<%nL_WITHDRW_GLD>000 gold withdrawn, now\n<%nL_AZU_BALANCE>000 gold deposited...<end>"
+    "<%nL_WITHDRW_GLD>０００ゴールド　引き出して\n現在　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "<%dL_WITHDRW_GLD>000 gold withdrawn, now\n<%dL_AZU_BALANCE>000 gold deposited...<end>"
   },
   "78653": {
-    "<%nL_WITHDRW_GLD>０００ゴールド\n引き出しました。\n<br>\n現在　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "<%nL_WITHDRW_GLD>000 Gold Withdrawal... Now\n<%nL_AZU_BALANCE>000 gold...<end>"
+    "<%nL_WITHDRW_GLD>０００ゴールド\n引き出しました。\n<br>\n現在　<%nL_AZU_BALANCE>０００ゴールド\n預けています。\n<end>": "<%dL_WITHDRW_GLD>000 Gold Withdrawal... Now\n<%dL_AZU_BALANCE>000 gold...<end>"
   },
   "78654": {
-    "<%nL_WITHDRW_GLD>０００ゴールド\n引き出しました。\n現在　預けているゴールドは　ありません。\n<end>": "<%nL_WITHDRW_GLD>000 Gold Withdrawal... I\ncurrently have gold in escrow...<end>"
+    "<%nL_WITHDRW_GLD>０００ゴールド\n引き出しました。\n現在　預けているゴールドは　ありません。\n<end>": "<%dL_WITHDRW_GLD>000 Gold Withdrawal... I\ncurrently have gold in escrow...<end>"
   },
   "78655": {
     "預けられるだけの\nゴールドを　持っていません。\n<end>": "I don't have enough gold to make a deposit.<end>"
@@ -66,7 +66,7 @@
     "「<convenience>で　持ち物や倉庫を決めてから\n　反対側の画面に　移動させたいアイテムを選ぶと\n　預けたり　取りだしたりすることができます。\n<end>": "<convenience>In the other side of the screen, select the\nitem you want to move and you can deposit or\nretrieve it.<end>"
   },
   "78661": {
-    "「どの倉庫に　アイテムを預けますか？\n<break>": ""
+    "「どの倉庫に　アイテムを預けますか？\n<break>": "To which warehouse would you like to deposit\nthe item?\n<break>"
   },
   "78662": {
     "「どの倉庫から　アイテムを取りだしますか？\n<break>": "Which warehouse do you want to retrieve the\nitems from?<break>"
@@ -108,13 +108,13 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll get it back to you. Which\nwarehouse do you want to retrieve the item\n<br>\nfrom?<break>"
   },
   "78675": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
   },
   "78676": {
     "「<%sL_AZU_ITEM_NAME>でありますね。\n　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
   },
   "78677": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": ""
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": "<%dL_AZU_ITEM_NUM> <%sL_AZU_ITEM_NAME>?\nI will take good care of them. Can I help you\nwith anything else?\n<break>"
   },
   "78678": {
     "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は\n　装備していますが　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,\nis that correct?<yesno><break>"
@@ -153,13 +153,13 @@
     "「それでは　<%sL_STORAGE>を\n　整理していただけますか\n<break>": "Now let's add <%sL_STORAGE> to the\n Can you sort it out, please?\n<break>"
   },
   "78690": {
-    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%dL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
   },
   "78691": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%dL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
   },
   "78692": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%nL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%dL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
   },
   "78693": {
     "「何を　お預けになりますか？\n<end>": "What would you like to drop off?<end>"
@@ -174,10 +174,10 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll give you... Would you like\nsomething else in return?<break>"
   },
   "78697": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
   },
   "78698": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
   },
   "78699": {
     "「おや　<%sL_STORAGE>がいっぱいのようですね。\n　そんなに　たくさん　お持ちになれませんよ。\n　何を　お返ししますか？\n<end>": "Oh, you have a lot of <%sL_STORAGE>... You\ncan't have that many... What can I get for\nyou?<end>"
@@ -201,16 +201,16 @@
     "「今日は　どういたしますか？\n<bw_break>": "What can I do for you today?<bw_break>"
   },
   "78706": {
-    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "78707": {
-    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "78708": {
-    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "78709": {
-    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "78710": {
     "<select_se_off>\nあずける\nとりだす\n<select_end><break>": "<select_se_off>\nDeposit\nRetrieve\n<select_end><break>"
@@ -237,7 +237,7 @@
     "「どの倉庫の名前を　変えますか？\n<break>": "Which warehouse would you like to rename?<break>"
   },
   "78718": {
-    "「他の倉庫の名前も　変更しますか？\n<break>": ""
+    "「他の倉庫の名前も　変更しますか？\n<break>": "Do you want to rename the other warehouses?\n<break>"
   },
   "78719": {
     "ワンタイムパスワードの倉庫が\n使えない状態です。\n<break>": "The One Time Password Warehouse is not\nworking...<break>"
@@ -261,7 +261,7 @@
     "「どれを移動しますか？\n<break>": "Which one do you want to move?<break>"
   },
   "78726": {
-    "「どの倉庫を　整理しますか？\n<break>": ""
+    "「どの倉庫を　整理しますか？\n<break>": "Which warehouse do you want to organize?\n<break>"
   },
   "78727": {
     "「どの倉庫に　移動させますか？\n<break>": "What warehouse are you moving it to?<break>"
@@ -285,7 +285,7 @@
     "「失礼ですが　<%sL_AZU_STORAGE>には\n　何も入っていないようです。\n　何を　お預けになりますか？\n<break>": "Excuse me, sir, but there's nothing in\n<%sL_AZU_STORAGE>... What can I get for you,\nsir?<break>"
   },
   "78734": {
-    "正しい数を　入れてください。\n<bw_break>": ""
+    "正しい数を　入れてください。\n<bw_break>": "Enter the correct number.\n<bw_break>"
   },
   "78735": {
     "「他にも　ご用はありますか？\n<break>": "Is there anything else I can do for you?<break>"
@@ -465,7 +465,7 @@
     "「預けるときは　預けたい持ち物の種類と\n　預け先となる倉庫を　選んでください。\n<br>\n「取り出すときは　複数の倉庫をお持ちなら\n　取り出したい倉庫を　選んでください。\n<br>\n「その後　移動させたいアイテムを選ぶと\n　預けたり　取り出すことができます。\n<end>": "To drop off your items, select the type of\nitems you want to drop off and the warehouse\nyou want to drop them off at... If you have\n<br>\nmore than one warehouse, select the one you\nwant to retrieve... After that, select the\nitems you want to move and you will be able\n<br>\nto deposit and retrieve them...<end>"
   },
   "127056": {
-    "「どの倉庫に　アイテムを預けますか？\n<break>": ""
+    "「どの倉庫に　アイテムを預けますか？\n<break>": "To which warehouse would you like to deposit\nthe item?\n<break>"
   },
   "127057": {
     "「どの倉庫から　アイテムを取りだしますか？\n<break>": "Which warehouse do you want to retrieve the\nitems from?<break>"
@@ -510,13 +510,13 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll get it back to you. Which\nwarehouse do you want to retrieve the item\n<br>\nfrom?<break>"
   },
   "127071": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
   },
   "127072": {
     "「<%sL_AZU_ITEM_NAME>でありますね。\n　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
   },
   "127073": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": ""
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": "<%dL_AZU_ITEM_NUM> <%sL_AZU_ITEM_NAME>?\nI will take good care of them. Can I help you\nwith anything else?\n<break>"
   },
   "127074": {
     "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は\n　装備していますが　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,\nis that correct?<yesno><break>"
@@ -558,13 +558,13 @@
     "「それでは　<%sL_STORAGE>を\n　整理していただけますか\n<break>": "Now let's add <%sL_STORAGE> to the\n Can you sort it out, please?\n<break>"
   },
   "127087": {
-    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%dL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
   },
   "127088": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%dL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
   },
   "127089": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%nL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%dL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
   },
   "127090": {
     "「何を　お預けになりますか？\n<end>": "What would you like to drop off?<end>"
@@ -579,10 +579,10 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll give you... Would you like\nsomething else in return?<break>"
   },
   "127094": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
   },
   "127095": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
   },
   "127096": {
     "「おや　<%sL_STORAGE>がいっぱいのようですね。\n　そんなに　たくさん　お持ちになれませんよ。\n　何を　お返ししますか？\n<end>": "Oh, you have a lot of <%sL_STORAGE>... You\ncan't have that many... What can I get for\nyou?<end>"
@@ -606,16 +606,16 @@
     "「今日は　どういたしますか？\n<bw_break>": "What can I do for you today?<bw_break>"
   },
   "127103": {
-    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "127104": {
-    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "127105": {
-    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "127106": {
-    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "127107": {
     "<pipipi_off><speed=0>\nアイテム倉庫を　利用します。\n持ち物を　預けたり　取りだせます。\nどうしますか？\n<select_se_off>\nあずける\nとりだす\n<select_end><break>": "<pipipi_off><speed=0>\nYou can deposit or retrieve your stored items.\nWhat would you like to do?\n<select_se_off>\nDeposit\nRetrieve\n<select_end><break>"
@@ -642,7 +642,7 @@
     "「どの倉庫の名前を　変えますか？\n<break>": "Which warehouse would you like to rename?<break>"
   },
   "127115": {
-    "「他の倉庫の名前も　変更しますか？\n<break>": ""
+    "「他の倉庫の名前も　変更しますか？\n<break>": "Do you want to rename the other warehouses?\n<break>"
   },
   "127116": {
     "ワンタイムパスワードの倉庫が\n使えない状態です。\n<break>": "The One Time Password Warehouse is not\nworking...<break>"
@@ -666,7 +666,7 @@
     "「どれを移動しますか？\n<break>": "Which one do you want to move?<break>"
   },
   "127123": {
-    "「どの倉庫を　整理しますか？\n<break>": ""
+    "「どの倉庫を　整理しますか？\n<break>": "Which warehouse do you want to organize?\n<break>"
   },
   "127124": {
     "「どの倉庫に　移動させますか？\n<break>": "What warehouse are you moving it to?<break>"
@@ -708,7 +708,7 @@
     "「<pc>さまの　倉庫拡張サービス\n　追加倉庫＋３の登録を　確認しました。\n<br>\n「今回から　追加倉庫を　３個まで\n　ご利用いただけます。\n<bw_break>": "<pc> We've just received confirmation that you've\nsigned up for our warehouse expansion\nservice, additional warehouse +3. You can now\n<br>\nuse up to three additional warehouses...<bw_break>"
   },
   "127137": {
-    "「<pc>さまの　倉庫拡張サービス\n　追加倉庫＋２の登録を　確認しました。\n<br>\n「今回から　追加倉庫を　２個まで\n　ご利用いただけます。\n<bw_break>": ""
+    "「<pc>さまの　倉庫拡張サービス\n　追加倉庫＋２の登録を　確認しました。\n<br>\n「今回から　追加倉庫を　２個まで\n　ご利用いただけます。\n<bw_break>": "We have confirmed the registration of\n<pc> for additional warehouse+2\nwarehouse extension service. From now on, you\n<br>\ncan use up to 2 additional warehouses.\n<bw_break>"
   },
   "127138": {
     "「申し訳ありませんが　倉庫拡張サービスの\n　追加倉庫＋５が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": "I'm sorry, sir, but I can't confirm that the\nwarehouse expansion service has added an\nadditional +5 warehouse, so this additional\n<br>\nwarehouse is not available...<end>"
@@ -801,7 +801,7 @@
     "「１００１ゴールド単位で　お渡しできます。\n　いくら　お返ししますか？\n<break>": "I can give you 1001 gold pieces... How much\ndo I owe you?<break>"
   },
   "127168": {
-    "「<%nL_AZU_DEPOS_GLD>０００ゴールド\n　確かに　おあずかりしました。\n<br>\n「他にも　ご用はありますか？\n<break>": "<%nL_AZU_DEPOS_GLD>000 gold. Certainly, sir.\nIs there anything else I can do for you, sir?<break>"
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド\n　確かに　おあずかりしました。\n<br>\n「他にも　ご用はありますか？\n<break>": "<%dL_AZU_DEPOS_GLD>000 gold. Certainly, sir.\nIs there anything else I can do for you, sir?<break>"
   },
   "127169": {
     "「申し訳ありませんが\n　これ以上　おあずかりできません。\n<br>\n「他にも　ご用はありますか？\n<break>": "I'm sorry, sir. I can't take any more... Is\nthere anything else I can do for you?<break>"
@@ -810,16 +810,16 @@
     "「おや　お客さまからは　現在\n　ゴールドを　おあずかりしていませんよ。\n<br>\n「他にも　ご用はありますか？\n<break>": "Oh, I'm sorry, sir, but we're currently in\npossession of a gold... Is there anything\nelse I can do for you?<break>"
   },
   "127171": {
-    "「現在　<%nL_AZU_BALANCE>００１ゴールド\n　おあずかりしています。\n　他にも　ご用はありますか？\n<break>": "You are currently in possession of\n<%nL_AZU_BALANCE>001 gold... Is there\nanything else I can do for you?<break>"
+    "「現在　<%nL_AZU_BALANCE>００１ゴールド\n　おあずかりしています。\n　他にも　ご用はありますか？\n<break>": "You are currently in possession of\n<%dL_AZU_BALANCE>001 gold... Is there\nanything else I can do for you?<break>"
   },
   "127172": {
     "「現在　おあずかりしている\n　ゴールドは　ありません。\n　他にも　ご用はありますか？\n<break>": "We have the gold you are currently holding\nfor us. Is there anything else I can do for\nyou?<break>"
   },
   "127173": {
-    "「<%nL_AZU_DEPOS_GLD>０００ゴールド\n　確かに　おあずかりしました。\n<br>\n「現在　<%nL_AZU_BALANCE>００１ゴールド\n　おあずかりしています。\n　他にも　ご用はありますか？\n<break>": "<%nL_AZU_DEPOS_GLD>000 Gold Indeed, we are at\nyour service... Now <%nL_AZU_BALANCE>001\ngold, at your service... Is there anything\n<br>\nelse I can do for you, sir?<break>"
+    "「<%nL_AZU_DEPOS_GLD>０００ゴールド\n　確かに　おあずかりしました。\n<br>\n「現在　<%nL_AZU_BALANCE>００１ゴールド\n　おあずかりしています。\n　他にも　ご用はありますか？\n<break>": "<%dL_AZU_DEPOS_GLD>000 Gold Indeed, we are at\nyour service... Now <%dL_AZU_BALANCE>001\ngold, at your service... Is there anything\n<br>\nelse I can do for you, sir?<break>"
   },
   "127174": {
-    "「ゴールド銀行では　お客さまの大切なお金を\n　無料で　おあずかりいたします。\n<br>\n「現在　<%nL_AZU_BALANCE>００１ゴールド\n　おあずかりしています。\n　今日は　どういたしますか？\n<break>": "At Gold Bank, we're happy to hold your money\nfor free... We're currently at\n<%nL_AZU_BALANCE>001 Gold... How can I help\n<br>\nyou today?<break>"
+    "「ゴールド銀行では　お客さまの大切なお金を\n　無料で　おあずかりいたします。\n<br>\n「現在　<%nL_AZU_BALANCE>００１ゴールド\n　おあずかりしています。\n　今日は　どういたしますか？\n<break>": "At Gold Bank, we're happy to hold your money\nfor free... We're currently at\n<%dL_AZU_BALANCE>001 Gold... How can I help\n<br>\nyou today?<break>"
   },
   "127175": {
     "「ゴールド銀行では　お客さまの大切なお金を\n　無料で　おあずかりいたします。\n<br>\n「現在　お客様からは\n　ゴールドを　おあずかりしていません。\n　今日は　どういたしますか？\n<break>": "At Goldcorp, we're happy to hold your money\nfor free... We're currently accepting gold\nfrom customers... How can we help you today?<break>"
@@ -834,13 +834,13 @@
     "<select_se_off 3>\nあずける\nひきだす\n<select_end><break>": "<select_se_off 3>\nDeposit\nWithdraw\n<select_end><break>"
   },
   "127180": {
-    "「<%nL_WITHDRW_GLD>０００ゴールド\n　確かに　お返ししました。\n<br>\n「他にも　ご用はありますか？\n<break>": "<%nL_WITHDRW_GLD>000 gold. I'll certainly\nreturn the... Is there anything else I can do\nfor you, sir?<break>"
+    "「<%nL_WITHDRW_GLD>０００ゴールド\n　確かに　お返ししました。\n<br>\n「他にも　ご用はありますか？\n<break>": "<%dL_WITHDRW_GLD>000 gold. I'll certainly\nreturn the... Is there anything else I can do\nfor you, sir?<break>"
   },
   "127181": {
-    "「<%nL_WITHDRW_GLD>０００ゴールド\n　確かに　お返ししました。\n<br>\n「現在　<%nL_AZU_BALANCE>００１ゴールド\n　おあずかりしています。\n　他にも　ご用はありますか？\n<break>": "<%nL_WITHDRW_GLD>000 Gold I will certainly\nreturn... <%nL_AZU_BALANCE>001 gold, at your\nservice... Is there anything else I can do\n<br>\nfor you, sir?<break>"
+    "「<%nL_WITHDRW_GLD>０００ゴールド\n　確かに　お返ししました。\n<br>\n「現在　<%nL_AZU_BALANCE>００１ゴールド\n　おあずかりしています。\n　他にも　ご用はありますか？\n<break>": "<%dL_WITHDRW_GLD>000 Gold I will certainly\nreturn... <%dL_AZU_BALANCE>001 gold, at your\nservice... Is there anything else I can do\n<br>\nfor you, sir?<break>"
   },
   "127182": {
-    "「<%nL_WITHDRW_GLD>００１ゴールド\n　確かに　お返ししました。\n<br>\n「現在　お客様からは\n　ゴールドを　おあずかりしていません。\n　今日は　どういたしますか？\n<break>": "<%nL_WITHDRW_GLD>001 Gold, we have your\ngold... We are currently in possession of the\ngold... What can I do for you today?<break>"
+    "「<%nL_WITHDRW_GLD>００１ゴールド\n　確かに　お返ししました。\n<br>\n「現在　お客様からは\n　ゴールドを　おあずかりしていません。\n　今日は　どういたしますか？\n<break>": "<%dL_WITHDRW_GLD>001 Gold, we have your\ngold... We are currently in possession of the\ngold... What can I do for you today?<break>"
   },
   "127183": {
     "「失礼ですが　お客様は\n　あずけられるだけの　お金を\n　お持ちでないようです。\n<br>\n「他にも　ご用はありますか？\n<break>": "I'm sorry, sir, but I don't think you have\nenough money to leave... Is there anything\nelse I can do for you, sir?<break>"
@@ -861,7 +861,7 @@
     "「倉庫拡張券をお持ちですね。\n　それを使って倉庫を拡張しますか？\n<break>": "You have a warehouse expansion ticket...\nWould you like to use it to expand your\nwarehouse?<break>"
   },
   "127190": {
-    "追加倉庫用　実行確認\n<break>": ""
+    "追加倉庫用　実行確認\n<break>": "For additional warehouse Execution check\n<break>"
   },
   "127191": {
     "かしこまりました\n<break>": "Yes, sir\n<break>"
@@ -897,19 +897,19 @@
     "○○は拡張倉庫が使えるようになった\n<break>": "XX can now use the extended warehouse\n<break>"
   },
   "127202": {
-    "追加倉庫用　汎用つなぎメッセージ\n<break>": ""
+    "追加倉庫用　汎用つなぎメッセージ\n<break>": "Generic connection message for additional\nwarehouse\n<break>"
   },
   "127203": {
-    "追加倉庫用　汎用つなぎメッセージ\n<break>": ""
+    "追加倉庫用　汎用つなぎメッセージ\n<break>": "Generic connection message for additional\nwarehouse\n<break>"
   },
   "127204": {
-    "追加倉庫用　汎用つなぎメッセージ\n<break>": ""
+    "追加倉庫用　汎用つなぎメッセージ\n<break>": "Generic connection message for additional\nwarehouse\n<break>"
   },
   "127205": {
     "「<%sL_AZU_ITEM_NAME>でありますね。\n　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
   },
   "127206": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　おあずかりします。\n<bw_break>": "<%sL_AZU_ITEM_NAME> for <%nL_AZU_ITEM_NUM>...\nI'll take good care of it...<bw_break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　おあずかりします。\n<bw_break>": "<%dL_AZU_ITEM_NUM> <%sL_AZU_ITEM_NAME>?\nI will take good care of them.<bw_break>"
   },
   "127207": {
     "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は\n　装備していますが　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,\nis that correct?<yesno><break>"
@@ -951,13 +951,13 @@
     "「それでは　○倉庫名○を\n　整理していただけますか\n<break>": "I'll take the name of the warehouse\n Can you sort it out, please?\n<break>"
   },
   "127220": {
-    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　おあずかりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>I'd\nlike to take this... May I?<yesno><break>"
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　おあずかりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%dL_AZU_ITEM_NUM>I'd\nlike to take this... May I?<yesno><break>"
   },
   "127221": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%dL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
   },
   "127222": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　おあずかりします。\n　他にも　おあずかりしますか？\n<bw_break>": "<%sL_AZU_ITEM_NAME> for <%nL_AZU_ITEM_NUM>...\nNow, if you'll excuse me... Do you have any\nother items you'd like to share?<bw_break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　おあずかりします。\n　他にも　おあずかりしますか？\n<bw_break>": "<%dL_AZU_ITEM_NUM> <%sL_AZU_ITEM_NAME>?\nI will take good care of them. Would you like\nanything else?\n<bw_break>"
   },
   "127223": {
     "「何を　おあずかりしますか？\n<break>": "What can I do for you, sir?<break>"
@@ -972,10 +972,10 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n<br>\n「何を　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... So,\nsure, I'll give you... What would you like to\nreturn?<break>"
   },
   "127227": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n<br>\n「他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n<br>\n「他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
   },
   "127228": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n<br>\n「何を　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... What would you like to give back?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n<br>\n「何を　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... What would you like to give back?<break>"
   },
   "127229": {
     "「そんなに　たくさん　お持ちになれませんよ。\n<br>\n「何を　お返ししますか？\n<break>": "You can't have that many... What can I get\nfor you, sir?<break>"
@@ -999,16 +999,16 @@
     "「本日は　どうされますか？\n　本日は　どうされますか？\n<break>": "How can I help you today? How can I help you\ntoday?<break>"
   },
   "127236": {
-    "<select_se_off>\nあずける\nひきだす\n整理する\n名前をかえる\n<select_end><break>": "<select_se_off>\ngive into custody\npull out\nOrganize\nchange one's name\n<select_end><break>"
+    "<select_se_off>\nあずける\nひきだす\n整理する\n名前をかえる\n<select_end><break>": "<select_se_off>\nDeposit\nWithdraw\nOrganize\nChange Name\n<select_end><break>"
   },
   "127237": {
-    "<select_se_off 3>\nあずける\nひきだす\n整理する\n名前をかえる\n<select_end><break>": "<select_se_off 3>\ngive into custody\npull out\nOrganize\nchange one's name\n<select_end><break>"
+    "<select_se_off 3>\nあずける\nひきだす\n整理する\n名前をかえる\n<select_end><break>": "<select_se_off 3>\nDeposit\nWithdraw\nOrganize\nChange Name\n<select_end><break>"
   },
   "127238": {
-    "<select_se_off 3>\nあずける\nひきだす\n整理する\n名前を変える\n<select_end><break>": "<select_se_off 3>\ngive into custody\npull out\nOrganize\nchange one's name\n<select_end><break>"
+    "<select_se_off 3>\nあずける\nひきだす\n整理する\n名前を変える\n<select_end><break>": "<select_se_off 3>\nDeposit\nWithdraw\nOrganize\nchange one's name\n<select_end><break>"
   },
   "127239": {
-    "<select_se_off 4>\nあずける\nひきだす\n整理する\n名前を変える\n<select_end><break>": "<select_se_off 4>\ngive into custody\npull out\nOrganize\nchange one's name\n<select_end><break>"
+    "<select_se_off 4>\nあずける\nひきだす\n整理する\n名前を変える\n<select_end><break>": "<select_se_off 4>\nDeposit\nWithdraw\nOrganize\nchange one's name\n<select_end><break>"
   },
   "127240": {
     "<select_se_off>\nあずける\nひきだす\n<select_end><break>": "<select_se_off>\nDeposit\nWithdraw\n<select_end><break>"
@@ -1026,10 +1026,10 @@
     "「倉庫の名前を　変更いたしました。\n<br>\n「他にも　名前を変えたい倉庫は\n　ありますか？\n<break>": "I'd like to rename the warehouse... Do you\nhave any other storage units that you would\nlike to rename?<break>"
   },
   "127245": {
-    "「○倉庫名○○を\n　○倉庫名○○に変更してよろしいですか？\n<break>": ""
+    "「○倉庫名○○を\n　○倉庫名○○に変更してよろしいですか？\n<break>": "Are you sure you want to change the\n________warehouse name to ________warehouse\nname?\n<break>"
   },
   "127246": {
-    "○倉庫名○○が　○倉庫名○○に変更された\n<break>": ""
+    "○倉庫名○○が　○倉庫名○○に変更された\n<break>": "The name \"warehouse name XX\" has been changed\nto \"warehouse name XX\".\n<break>"
   },
   "127247": {
     "「どの倉庫の名前を　変えますか？\n<break>": "Which warehouse would you like to rename?<break>"
@@ -1059,7 +1059,7 @@
     "「どれを移動しますか？\n<break>": "Which one do you want to move?<break>"
   },
   "127256": {
-    "「どの倉庫を　整理しますか？\n<break>": ""
+    "「どの倉庫を　整理しますか？\n<break>": "Which warehouse do you want to organize?\n<break>"
   },
   "127257": {
     "「どの倉庫に　移動させますか？\n<break>": "What warehouse are you moving it to?<break>"
@@ -1161,16 +1161,16 @@
     "<select_se_off>\nアイテム倉庫\nゴールド銀行\n<select_end><break>": "<select_se_off>\nItem Storage\nGold Bank\n<select_end><break>"
   },
   "127290": {
-    "<select_se_off 3>\nアイテム倉庫\nゴールド銀行\n<select_end><break>": "<select_se_off 3>\nItem Warehouse\ngold bank\n<select_end><break>"
+    "<select_se_off 3>\nアイテム倉庫\nゴールド銀行\n<select_end><break>": "<select_se_off 3>\nItem Storage\nGold Bank\n<select_end><break>"
   },
   "127291": {
-    "<select_se_off 3>\nアイテム倉庫\nゴールド銀行\n<select_end><break>": "<select_se_off 3>\nItem Warehouse\ngold bank\n<select_end><break>"
+    "<select_se_off 3>\nアイテム倉庫\nゴールド銀行\n<select_end><break>": "<select_se_off 3>\nItem Storage\nGold Bank\n<select_end><break>"
   },
   "127292": {
-    "<select_se_off 3>\nアイテム倉庫\nゴールド銀行\n<select_end><break>": "<select_se_off 3>\nItem Warehouse\ngold bank\n<select_end><break>"
+    "<select_se_off 3>\nアイテム倉庫\nゴールド銀行\n<select_end><break>": "<select_se_off 3>\nItem Storage\nGold Bank\n<select_end><break>"
   },
   "127293": {
-    "<select_se_off 3>\nアイテム倉庫\nゴールド銀行\n<select_end><break>": "<select_se_off 3>\nItem Warehouse\ngold bank\n<select_end><break>"
+    "<select_se_off 3>\nアイテム倉庫\nゴールド銀行\n<select_end><break>": "<select_se_off 3>\nItem Storage\nGold Bank\n<select_end><break>"
   },
   "127294": {
     "「取りだしたい　持ち物が入っている\n　倉庫を選んでください。\n<end>": "Please select the warehouse that contains the\nitem you wish to retrieve...<end>"
@@ -1233,7 +1233,7 @@
     "「<%nL_WITHDRW_GLD>０００ゴールド\n　確かに　お返ししました。\n<br>\n「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "I've withdrawn <%dL_WITHDRW_GLD>000 of your\nGold.\n<br>\nYour current balance is <%dL_AZU_BALANCE>000 Gold.\nIt will be kept safe and sound here. Is there\nanything else I can do for you?\n<break>"
   },
   "134197": {
-    "「<%nL_WITHDRW_GLD>０００ゴールド\n　お返ししました。現在　あなたさまから\n　お預かりのゴールドは　ありません。\n<br>\n「他にも　ご用はありますか？\n<break>": "<%nL_WITHDRW_GLD>000 gold returned to you...\nWe currently have no gold for you... Is there\nanything else I can do for you?<break>"
+    "「<%nL_WITHDRW_GLD>０００ゴールド\n　お返ししました。現在　あなたさまから\n　お預かりのゴールドは　ありません。\n<br>\n「他にも　ご用はありますか？\n<break>": "<%dL_WITHDRW_GLD>000 gold returned to you...\nWe currently have no gold for you... Is there\nanything else I can do for you?<break>"
   },
   "134198": {
     "「失礼ですが　あなたさまは\n　預けられるだけの　ゴールドを\n　お持ちでないようです。\n<br>\n「他にも　ご用はありますか？\n<break>": "I'm sorry, but I don't think you have enough\ngold in your account to make a deposit. Is\nthere anything else I can do for you?<break>"
@@ -1251,7 +1251,7 @@
     "「預けるときは　預けたい持ち物の種類と\n　預け先となる倉庫を　選んでください。\n<br>\n「取り出すときは　複数の倉庫をお持ちなら\n　取り出したい倉庫を　選んでください。\n<br>\n「その後　移動させたいアイテムを選ぶと\n　預けたり　取り出すことができます。\n<end>": "To drop off your items, select the type of\nitems you want to drop off and the warehouse\nyou want to drop them off at... If you have\n<br>\nmore than one warehouse, select the one you\nwant to retrieve... After that, select the\nitems you want to move and you will be able\n<br>\nto deposit and retrieve them...<end>"
   },
   "134204": {
-    "「どの倉庫に　アイテムを預けますか？\n<break>": ""
+    "「どの倉庫に　アイテムを預けますか？\n<break>": "To which warehouse would you like to deposit\nthe item?\n<break>"
   },
   "134205": {
     "「どの倉庫から　アイテムを取りだしますか？\n<break>": "Which warehouse do you want to retrieve the\nitems from?<break>"
@@ -1296,13 +1296,13 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll get it back to you. Which\nwarehouse do you want to retrieve the item\n<br>\nfrom?<break>"
   },
   "134219": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
   },
   "134220": {
     "「<%sL_AZU_ITEM_NAME>でありますね。\n　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
   },
   "134221": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": ""
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": "<%dL_AZU_ITEM_NUM> <%sL_AZU_ITEM_NAME>?\nI will take good care of them. Can I help you\nwith anything else?\n<break>"
   },
   "134222": {
     "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は\n　装備していますが　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,\nis that correct?<yesno><break>"
@@ -1344,13 +1344,13 @@
     "「それでは　<%sL_STORAGE>を\n　整理していただけますか\n<break>": "Now let's add <%sL_STORAGE> to the\n Can you sort it out, please?\n<break>"
   },
   "134235": {
-    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%dL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
   },
   "134236": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%dL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
   },
   "134237": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%nL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%dL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
   },
   "134238": {
     "「何を　お預けになりますか？\n<end>": "What would you like to drop off?<end>"
@@ -1365,10 +1365,10 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll give you... Would you like\nsomething else in return?<break>"
   },
   "134242": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
   },
   "134243": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
   },
   "134244": {
     "「おや　<%sL_STORAGE>がいっぱいのようですね。\n　そんなに　たくさん　お持ちになれませんよ。\n　何を　お返ししますか？\n<end>": "Oh, you have a lot of <%sL_STORAGE>... You\ncan't have that many... What can I get for\nyou?<end>"
@@ -1392,16 +1392,16 @@
     "「今日は　どういたしますか？\n<bw_break>": "What can I do for you today?<bw_break>"
   },
   "134251": {
-    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "134252": {
-    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "134253": {
-    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "134254": {
-    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "134255": {
     "<pipipi_off><speed=0>\nアイテム倉庫を　利用します。\n持ち物を　預けたり　取りだせます。\nどうしますか？\n<select_se_off>\nあずける\nとりだす\n<select_end><break>": "<pipipi_off><speed=0>\nYou can deposit or retrieve your stored items.\nWhat would you like to do?\n<select_se_off>\nDeposit\nRetrieve\n<select_end><break>"
@@ -1428,7 +1428,7 @@
     "「どの倉庫の名前を　変えますか？\n<break>": "Which warehouse would you like to rename?<break>"
   },
   "134263": {
-    "「他の倉庫の名前も　変更しますか？\n<break>": ""
+    "「他の倉庫の名前も　変更しますか？\n<break>": "Do you want to rename the other warehouses?\n<break>"
   },
   "134264": {
     "ワンタイムパスワードの倉庫が\n使えない状態です。\n<break>": "The One Time Password Warehouse is not\nworking...<break>"
@@ -1452,7 +1452,7 @@
     "「どれを移動しますか？\n<break>": "Which one do you want to move?<break>"
   },
   "134271": {
-    "「どの倉庫を　整理しますか？\n<break>": ""
+    "「どの倉庫を　整理しますか？\n<break>": "Which warehouse do you want to organize?\n<break>"
   },
   "134272": {
     "「どの倉庫に　移動させますか？\n<break>": "What warehouse are you moving it to?<break>"
@@ -1494,7 +1494,7 @@
     "「<pc>さまの　倉庫拡張サービス\n　追加倉庫＋３の登録を　確認しました。\n<br>\n「今回から　追加倉庫を　３個まで\n　ご利用いただけます。\n<bw_break>": "<pc> We've just received confirmation that you've\nsigned up for our warehouse expansion\nservice, additional warehouse +3. You can now\n<br>\nuse up to three additional warehouses...<bw_break>"
   },
   "134285": {
-    "「<pc>さまの　倉庫拡張サービス\n　追加倉庫＋２の登録を　確認しました。\n<br>\n「今回から　追加倉庫を　２個まで\n　ご利用いただけます。\n<bw_break>": ""
+    "「<pc>さまの　倉庫拡張サービス\n　追加倉庫＋２の登録を　確認しました。\n<br>\n「今回から　追加倉庫を　２個まで\n　ご利用いただけます。\n<bw_break>": "We have confirmed the registration of\n<pc> for additional warehouse+2\nwarehouse extension service. From now on, you\n<br>\ncan use up to 2 additional warehouses.\n<bw_break>"
   },
   "134286": {
     "「申し訳ありませんが　倉庫拡張サービスの\n　追加倉庫＋５が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": "I'm sorry, sir, but I can't confirm that the\nwarehouse expansion service has added an\nadditional +5 warehouse, so this additional\n<br>\nwarehouse is not available...<end>"
@@ -1596,10 +1596,10 @@
     "<speed=0>\n１０００ゴールド単位で\nゴールドを　預けることができます。\nいくら　預けますか？\n<break>": "<speed=0>You can deposit gold in increments of 1,000\ngold... How much would you like to deposit?<break>"
   },
   "192214": {
-    "<speed=0>\n１０００ゴールド単位で　引き出せます。\n現在　<%nL_AZU_BALANCE>０００ゴールドを\n預けていますが　いくら引き出しますか？\n<break>": "<speed=0>Withdrawals in increments of 1,000 gold...\nYou have <%nL_AZU_BALANCE>000 gold on\ndeposit. How much would you like to withdraw?<break>"
+    "<speed=0>\n１０００ゴールド単位で　引き出せます。\n現在　<%nL_AZU_BALANCE>０００ゴールドを\n預けていますが　いくら引き出しますか？\n<break>": "<speed=0>Withdrawals in increments of 1,000 gold...\nYou have <%dL_AZU_BALANCE>000 gold on\ndeposit. How much would you like to withdraw?<break>"
   },
   "192215": {
-    "<speed=0>\n<pc>は　ツボに\n<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！\n<br>\nゴールド銀行に　預けているゴールドが\n<%nL_AZU_BALANCE>０００ゴールドになった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> has thrown <%nL_AZU_DEPOS_GLD>000 gold into\nthe urn! He now has <%nL_AZU_BALANCE>000 gold\nin his gold bank... Somehow, through this\n<br>\nurn, I can move items in and out of the Item\nWarehouse and the Gold Bank...<break>"
+    "<speed=0>\n<pc>は　ツボに\n<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！\n<br>\nゴールド銀行に　預けているゴールドが\n<%nL_AZU_BALANCE>０００ゴールドになった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> has thrown <%dL_AZU_DEPOS_GLD>000 gold into\nthe urn! He now has <%dL_AZU_BALANCE>000 gold\nin his gold bank... Somehow, through this\n<br>\nurn, I can move items in and out of the Item\nWarehouse and the Gold Bank...<break>"
   },
   "192216": {
     "<speed=0>\nしかし　これ以上\n預けることはできないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I can't deposit any more... Somehow,\nthrough this urn, you can get in and out of\nthe item vault and the gold bank...<break>"
@@ -1608,7 +1608,7 @@
     "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nしかし　ツボには　何も入っていなかった。\nどうやら　ゴールド銀行に\nゴールドを預けていないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! But there was nothing in the urn...\nApparently, he didn't deposit any gold in the\n<br>\nGold Bank... Somehow, through this urn, I can\naccess the item vault and the gold bank...<break>"
   },
   "192218": {
-    "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%nL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
+    "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%dL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
   },
   "192219": {
     "<speed=0>\n現在　ゴールド銀行に\n預けているゴールドは　ありません。\n<break>": "<speed=0>Do you have any gold currently deposited in\nthe Gold Bank...<break>"
@@ -1617,7 +1617,7 @@
     "「<%nL_AZU_DEPOS_GLD>０００ゴールド\n　確かに　お預かりしました。\n<br>\n「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "<%dL_AZU_DEPOS_GLD>000 Gold has been\ndeposited.\n<br>\nYour current balance is <%dL_AZU_BALANCE>000 Gold.\nYour Gold will be safe and sound here. Is\nthere anything else I can do for you?\n<break>"
   },
   "192221": {
-    "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%nL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
+    "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%dL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
   },
   "192222": {
     "<speed=0>\n現在　ゴールド銀行に\n預けているゴールドは　ありません。\n<break>": "<speed=0>Do you have any gold currently deposited in\nthe Gold Bank...<break>"
@@ -1632,13 +1632,13 @@
     "<select_se_off 2>\nあずける\nひきだす\n<select_end><break>": "<select_se_off 2>\nDeposit\nWithdraw\n<select_end><break>"
   },
   "192227": {
-    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nなんと　<%nL_WITHDRW_GLD>０００ゴールドを\n見つけた！\n<br>\n現在　ゴールド銀行には\n<%nL_AZU_BALANCE>０００ゴールドを\n預けているようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! He found <%nL_WITHDRW_GLD>000 gold!\nHe now has <%nL_AZU_BALANCE>000 gold in the\n<br>\nGold Bank...<break>"
+    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nなんと　<%nL_WITHDRW_GLD>０００ゴールドを\n見つけた！\n<br>\n現在　ゴールド銀行には\n<%nL_AZU_BALANCE>０００ゴールドを\n預けているようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! He found <%dL_WITHDRW_GLD>000 gold!\nHe now has <%dL_AZU_BALANCE>000 gold in the\n<br>\nGold Bank...<break>"
   },
   "192228": {
     "「<%nL_WITHDRW_GLD>０００ゴールド\n　確かに　お返ししました。\n<br>\n「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "I've withdrawn <%dL_WITHDRW_GLD>000 of your\nGold.\n<br>\nYour current balance is <%dL_AZU_BALANCE>000 Gold.\nIt will be kept safe and sound here. Is there\nanything else I can do for you?\n<break>"
   },
   "192229": {
-    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nなんと　<%nL_WITHDRW_GLD>０００ゴールドを\n見つけた！\n<br>\n現在　ゴールド銀行に\n預けているゴールドは　ないようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! He found <%nL_WITHDRW_GLD>000 gold!\nThere is currently no gold in the Gold\n<br>\nBank...<break>"
+    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nなんと　<%nL_WITHDRW_GLD>０００ゴールドを\n見つけた！\n<br>\n現在　ゴールド銀行に\n預けているゴールドは　ないようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! He found <%dL_WITHDRW_GLD>000 gold!\nThere is currently no gold in the Gold\n<br>\nBank...<break>"
   },
   "192230": {
     "<speed=0>\nしかし　預けられるだけのゴールドを\n持っていなかった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I don't have enough gold to deposit...\nSomehow, through this urn, I can access my\npossessions in the item vault and the gold\n<br>\nbank...<break>"
@@ -1659,7 +1659,7 @@
     "<speed=0>\n私は　テリーさんと　行動を共にする\nさすらいの　預かり所モンスターです。\nモンスターと言えど　きっちりやります。\n<br>\nアイテム倉庫と　ゴールド銀行\nどちらも無料で　ご利用いただけますが\n本日は　どちらをご利用ですか？\n<break>": "<speed=0>I'll be working with Mr. Terry, the wandering\ncustodial monster... I may be a monster, but\nI'm still a... The Item Depository and the\n<br>\nGold Bank are both free to use, but which one\nwould you like to use today?<break>"
   },
   "192237": {
-    "「どの倉庫に　アイテムを預けますか？\n<break>": ""
+    "「どの倉庫に　アイテムを預けますか？\n<break>": "To which warehouse would you like to deposit\nthe item?\n<break>"
   },
   "192238": {
     "「どの倉庫から　アイテムを取りだしますか？\n<break>": "Which warehouse do you want to retrieve the\nitems from?<break>"
@@ -1704,13 +1704,13 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll get it back to you. Which\nwarehouse do you want to retrieve the item\n<br>\nfrom?<break>"
   },
   "192252": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
   },
   "192253": {
     "「<%sL_AZU_ITEM_NAME>でありますね。\n　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> and... Are you sure?<yesno><break>"
   },
   "192254": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": ""
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": "<%dL_AZU_ITEM_NUM> <%sL_AZU_ITEM_NAME>?\nI will take good care of them. Can I help you\nwith anything else?\n<break>"
   },
   "192255": {
     "<speed=0>\n<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は\n装備していますが　よろしいですか？\n<yesno><break>": "<speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,\nis that correct?<yesno><break>"
@@ -1752,13 +1752,13 @@
     "「それでは　<%sL_STORAGE>を\n　整理していただけますか\n<break>": "Now let's add <%sL_STORAGE> to the\n Can you sort it out, please?\n<break>"
   },
   "192268": {
-    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%dL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
   },
   "192269": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%dL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
   },
   "192270": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%nL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%dL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
   },
   "192271": {
     "「何を　お預けになりますか？\n<end>": "What would you like to drop off?<end>"
@@ -1773,10 +1773,10 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll give you... Would you like\nsomething else in return?<break>"
   },
   "192275": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
   },
   "192276": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
   },
   "192277": {
     "<speed=0>\n<%sL_STORAGE>を\nこれ以上　持つことはできないようだ。\n<end>": "<speed=0>You can't have any more <%sL_STORAGE>...<end>"
@@ -1800,16 +1800,16 @@
     "「今日は　どういたしますか？\n<bw_break>": "What can I do for you today?<bw_break>"
   },
   "192284": {
-    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "192285": {
-    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "192286": {
-    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "192287": {
-    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "192288": {
     "<pipipi_off><speed=0>\nアイテム倉庫に　持ち物を送るか\n預けているものを　取り出すことができます。\nどうしますか？\n<select_se_off>\nあずける\nとりだす\n<select_end><break>": "<pipipi_off><speed=0>\nYou can deposit or retrieve your stored items.\nWhat would you like to do?\n<select_se_off>\nDeposit\nRetrieve\n<select_end><break>"
@@ -1836,7 +1836,7 @@
     "<speed=0>\nどの倉庫の名前を　変えますか？\n<break>": "<speed=0>Which warehouse would you like to rename?<break>"
   },
   "192296": {
-    "<speed=0>\n他の倉庫の名前も　変更しますか？\n<break>": ""
+    "<speed=0>\n他の倉庫の名前も　変更しますか？\n<break>": "<speed=0>\nDo you want to rename the other warehouses?\n<break>"
   },
   "192297": {
     "ワンタイムパスワードの倉庫が\n使えない状態です。\n<break>": "The One Time Password Warehouse is not\nworking...<break>"
@@ -1860,7 +1860,7 @@
     "「どれを移動しますか？\n<break>": "Which one do you want to move?<break>"
   },
   "192304": {
-    "「どの倉庫を　整理しますか？\n<break>": ""
+    "「どの倉庫を　整理しますか？\n<break>": "Which warehouse do you want to organize?\n<break>"
   },
   "192305": {
     "「どの倉庫に　移動させますか？\n<break>": "What warehouse are you moving it to?<break>"
@@ -1902,7 +1902,7 @@
     "<speed=0>\n倉庫拡張サービス　追加倉庫＋３が\n登録されました。追加倉庫を\n３個まで使うことが　できます。\n<bw_break>": "<speed=0>The warehouse expansion service has added an\nadditional three warehouses... You can now\nuse up to three additional warehouses...<bw_break>"
   },
   "192318": {
-    "<speed=0>\n倉庫拡張サービス　追加倉庫＋２が\n登録されました。追加倉庫を\n２個まで使うことが　できます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービス　追加倉庫＋２が\n登録されました。追加倉庫を\n２個まで使うことが　できます。\n<bw_break>": "<speed=0>\nAdditional warehouse+2 has been registered.\nYou can use up to 2 additional warehouses.\n<bw_break>"
   },
   "192319": {
     "<speed=0>\n倉庫拡張サービスの　追加倉庫＋５の登録が\n確認できないため　この追加倉庫を\n使うことはできません。\n<end>": "<speed=0>I can't see any additional warehouses\nregistered with the warehouse expansion\nservice, so you can't use this additional\n<br>\nwarehouse...<end>"
@@ -1938,16 +1938,16 @@
     "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋５に　登録すれば\n追加倉庫を　５個まで　使うことができます。\n<bw_break>": "<speed=0>There are additional warehouses that are no\nlonger available due to a change in the\nregistration status of the warehouse\n<br>\nexpansion service. Since the items you\ndeposited are still in storage, you can re-\nregister for additional storage and use up to\n<br>\nfive additional warehouses...<bw_break>"
   },
   "192330": {
-    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋４に　登録すれば\n追加倉庫を　４個まで　使うことができます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋４に　登録すれば\n追加倉庫を　４個まで　使うことができます。\n<bw_break>": "<speed=0>\nDue to a change in the registration status of\nthe warehouse extension service, some\nadditional warehouses are no longer available.\n<br>\nThe items are still in storage, so you can use\nup to 4 additional warehouses by registering\nagain for the additional warehouse+4 service.\n<bw_break>"
   },
   "192331": {
-    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋１に　登録すれば\n追加倉庫を　１個まで　使うことができます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋１に　登録すれば\n追加倉庫を　１個まで　使うことができます。\n<bw_break>": "<speed=0>\nDue to a change in the registration status of\nthe warehouse extension service, some of the\nadditional warehouses are no longer available.\n<br>\nThe items are still in storage, so you can use\nup to one additional warehouse by registering\nagain for the additional warehouse+1 service.\n<bw_break>"
   },
   "192332": {
-    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋３に　登録すれば\n追加倉庫を　３個まで　使うことができます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋３に　登録すれば\n追加倉庫を　３個まで　使うことができます。\n<bw_break>": "<speed=0>\nDue to a change in the registration status of\nthe warehouse extension service, some\nadditional warehouses are no longer available.\n<br>\nThe items are still in storage and you can use\nup to 3 additional warehouses by registering\nagain for the additional warehouse+3 service.\n<bw_break>"
   },
   "192333": {
-    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋２に　登録すれば\n追加倉庫を　２個まで　使うことができます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋２に　登録すれば\n追加倉庫を　２個まで　使うことができます。\n<bw_break>": "<speed=0>\nDue to a change in the registration status of\nthe warehouse extension service, some of the\nadditional warehouses are no longer available.\n<br>\nThe items are still in storage, so you can use\nup to two additional warehouses by registering\nagain for the additional warehouse+2 service.\n<bw_break>"
   },
   "192334": {
     "現在のプレイ環境では　この機能は\n使用制限されています。正式なプレイ環境となれば\nこの機能も　お使いいただけます。\n<end>": "This feature is currently restricted in your\ncurrent play environment. Upgrade to the\nfull game version to use it.\n<end>"
@@ -2001,7 +2001,7 @@
     "<pipipi_off><pc>は　ベルト倉庫のカギを\n<%nL_ITEM_NUM>個　渡した。\n<br>\nベルト倉庫が　新たに解放され\n合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと\n戦神のベルトを　預けられるようになった！<me_60>\n<end>": "<pipipi_off><pc> handed over <%dL_ITEM_NUM>\nBelt Storage Key(s).\n<br>\nYou can now store up to <%dL_BLTSTR_NUM>\nAugite Belts and War God Belts in your Belt\nStorage!<me_60>\n<end>"
   },
   "255372": {
-    "<pipipi_off><speed=0>ベルト倉庫が　新たに解放され\n合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと\n戦神のベルトを　預けられるようになった！<me_60>\n<end>": "<pipipi_off><speed=0>The belt vault has been liberated and now\nholds a total of <%nL_BLTSTR_NUM> belts of\nbrilliance and belts of war!<me_60>\n<end>"
+    "<pipipi_off><speed=0>ベルト倉庫が　新たに解放され\n合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと\n戦神のベルトを　預けられるようになった！<me_60>\n<end>": "<pipipi_off><speed=0>The belt vault has been liberated and now\nholds a total of <%dL_BLTSTR_NUM> belts of\nbrilliance and belts of war!<me_60>\n<end>"
   },
   "255373": {
     "<pipipi_off><pc>は　ベルト倉庫のカギを\n<%nL_ITEM_NUM>個　渡した。\n<br>\nベルト倉庫が　新たに解放され\n合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと\n戦神のベルトを　預けられるようになった！<me_60>\n<end>": "<pipipi_off><pc> handed over <%dL_ITEM_NUM>\nBelt Storage Key(s).\n<br>\nYou can now store up to <%dL_BLTSTR_NUM>\nAugite Belts and War God Belts in your Belt\nStorage!<me_60>\n<end>"
@@ -2166,16 +2166,16 @@
     "<pipipi_off><speed=0>\nアイテム倉庫に　持ち物を送るか\n預けているものを　取り出すことができます。\nどうしますか？\n<select_se_off 2>\nあずける\nとりだす\n<select_end><break>": "<pipipi_off><speed=0>\nYou can deposit or retrieve your stored items.\nWhat would you like to do?\n<select_se_off 2>\nDeposit\nRetrieve\n<select_end><break>"
   },
   "289513": {
-    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "289514": {
-    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n追加倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\nAdditional warehouse\n<select_end><break>"
   },
   "289515": {
-    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "289516": {
-    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": ""
+    "<select_se_off 2>\n最初の倉庫\n５キャラ倉庫\n<select_end><break>": "<select_se_off 2>\nFirst warehouse\n5 character warehouse\n<select_end><break>"
   },
   "289517": {
     "<select_se_off>\nあずける\nひきだす\n<select_end><break>": "<select_se_off>\nDeposit\nWithdraw\n<select_end><break>"
@@ -2205,7 +2205,7 @@
     "<speed=0>\n<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>は\n装備していますが　よろしいですか？\n<yesno><break>": "<speed=0><%sL_AZU_ITEM_NAME><%sL_PLUSNUM> is equipped,\nis that correct?<yesno><break>"
   },
   "289526": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": ""
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": "<%dL_AZU_ITEM_NUM> <%sL_AZU_ITEM_NAME>?\nI will take good care of them. Can I help you\nwith anything else?\n<break>"
   },
   "289527": {
     "「では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": "I'll take good care of it. Is there anything\nelse I can do for you, sir?<break>"
@@ -2214,7 +2214,7 @@
     "「<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　大切に　お預かりします。\n　他にも　ご用はありますか？\n<break>": "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>... Now, if\nyou'll excuse me... Is there anything else I\ncan do for you, sir?<break>"
   },
   "289529": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%nL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　お預かりします。\n　他の物も　預けますか？\n<break>": "We have <%sL_AZU_ITEM_NAME> for\n<%dL_AZU_ITEM_NUM>... Do you want to keep the\nother items?<break>"
   },
   "289530": {
     "「では　大切に　お預かりします。\n　他の物も　預けますか？\n<break>": "Well, I'll take good care of it. Do you want\nme to take anything else?<break>"
@@ -2229,7 +2229,7 @@
     "「<%sL_AZU_ITEM_NAME>を\n　どの倉庫に　お入れしますか？\n<break>": "In which warehouse would you like to store\n<%sL_AZU_ITEM_NAME>?<break>"
   },
   "289534": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%nL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個ですね。\n　どの倉庫に　お入れしますか？\n<break>": "<%sL_AZU_ITEM_NAME> to <%dL_AZU_ITEM_NUM>\nindividual... In which warehouse would you\nlike it stored?<break>"
   },
   "289535": {
     "<speed=0>\n正しい数が　入っていません！\n<bw_break>": "<speed=0>You're not getting the right number!<bw_break>"
@@ -2244,13 +2244,13 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Well,\nI'll certainly return the favor... Is there\nanything else I can do for you?<break>"
   },
   "289539": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll get\nback to you... Is there anything else I can\n<br>\ndo for you, sir?<break>"
   },
   "289540": {
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll give you... Would you like\nsomething else in return?<break>"
   },
   "289541": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　他にも　お返ししますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nyou... Would you like something else in\n<br>\nreturn?<break>"
   },
   "289542": {
     "<speed=0>\n<%sL_STORAGE>を\nこれ以上　持つことはできないようだ。\n<end>": "<speed=0>You can't have any more <%sL_STORAGE>...<end>"
@@ -2259,7 +2259,7 @@
     "「その倉庫には　何も\n　お預かりしていないようです。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "I don't have anything for you in that\nwarehouse. Which warehouse would you like to\nretrieve the item from?<break>"
   },
   "289544": {
-    "「どの倉庫を　整理しますか？\n<break>": ""
+    "「どの倉庫を　整理しますか？\n<break>": "Which warehouse do you want to organize?\n<break>"
   },
   "289545": {
     "「どれを移動しますか？\n<break>": "Which one do you want to move?<break>"
@@ -2286,7 +2286,7 @@
     "「倉庫の名前を　変更いたしました。\n　他にも　名前を変えたい倉庫は\n　ありますか？\n<break>": "I'd like to rename the warehouse... Do you\nhave any other storage units that you would\nlike to rename?<break>"
   },
   "289553": {
-    "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%nL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
+    "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%dL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
   },
   "289554": {
     "<speed=0>\n現在　ゴールド銀行に\n預けているゴールドは　ありません。\n<break>": "<speed=0>Do you have any gold currently deposited in\nthe Gold Bank...<break>"
@@ -2295,7 +2295,7 @@
     "<speed=0>\n１０００ゴールド単位で\nゴールドを　預けることができます。\nいくら　預けますか？\n<break>": "<speed=0>You can deposit gold in increments of 1,000\ngold... How much would you like to deposit?<break>"
   },
   "289556": {
-    "<speed=0>\n１０００ゴールド単位で　引き出せます。\n現在　<%nL_AZU_BALANCE>０００ゴールドを\n預けていますが　いくら引き出しますか？\n<break>": "<speed=0>Withdrawals in increments of 1,000 gold...\nYou have <%nL_AZU_BALANCE>000 gold on\ndeposit. How much would you like to withdraw?<break>"
+    "<speed=0>\n１０００ゴールド単位で　引き出せます。\n現在　<%nL_AZU_BALANCE>０００ゴールドを\n預けていますが　いくら引き出しますか？\n<break>": "<speed=0>Withdrawals in increments of 1,000 gold...\nYou have <%dL_AZU_BALANCE>000 gold on\ndeposit. How much would you like to withdraw?<break>"
   },
   "289557": {
     "<speed=0>\n他に　預けるものはありますか？\n<end>": "<speed=0>Is there anything else I can give you?<end>"
@@ -2304,7 +2304,7 @@
     "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>Somehow, through these pressure points, you\ncan access your possessions in the item vault\nand the gold bank...<break>"
   },
   "289559": {
-    "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%nL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
+    "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%dL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
   },
   "289560": {
     "<speed=0>\n現在　ゴールド銀行に\n預けているゴールドは　ありません。\n<break>": "<speed=0>Do you have any gold currently deposited in\nthe Gold Bank...<break>"
@@ -2316,7 +2316,7 @@
     "「<%nL_WITHDRW_GLD>０００ゴールド\n　確かに　お返ししました。\n<br>\n「現在　<%nL_AZU_BALANCE>０００ゴールド\n　お預かりしています。\n　他にも　ご用はありますか？\n<break>": "I've withdrawn <%dL_WITHDRW_GLD>000 of your\nGold.\n<br>\nYour current balance is <%dL_AZU_BALANCE>000 Gold.\nIt will be kept safe and sound here. Is there\nanything else I can do for you?\n<break>"
   },
   "289563": {
-    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nなんと　<%nL_WITHDRW_GLD>０００ゴールドを\n見つけた！\n<br>\n現在　ゴールド銀行に\n預けているゴールドは　ないようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! He found <%nL_WITHDRW_GLD>000 gold!\nThere is currently no gold in the Gold\n<br>\nBank...<break>"
+    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nなんと　<%nL_WITHDRW_GLD>０００ゴールドを\n見つけた！\n<br>\n現在　ゴールド銀行に\n預けているゴールドは　ないようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! He found <%dL_WITHDRW_GLD>000 gold!\nThere is currently no gold in the Gold\n<br>\nBank...<break>"
   },
   "289564": {
     "「おやめに　なるのですね？": "So you're quitting?"
@@ -2331,13 +2331,13 @@
     "「申し訳ありませんが　<%sL_HIKI_ITEM_NAME>は\n　それ以上　お持ちになれません。\n<break>": "I'm sorry, but <%sL_HIKI_ITEM_NAME> can't\nhold any more...<break>"
   },
   "289568": {
-    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%nL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
+    "「<%sL_AZU_ITEM_NAME>　<%nL_AZU_ITEM_NUM>こを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> <%dL_AZU_ITEM_NUM>May I\ntake this... May I?<yesno><break>"
   },
   "289569": {
     "「<%sL_AZU_ITEM_NAME>　ひとつを\n　お預かりします。　よろしいですか？\n<yesno><break>": "<%sL_AZU_ITEM_NAME> I'll take one... May I?<yesno><break>"
   },
   "289570": {
-    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nなんと　<%nL_WITHDRW_GLD>０００ゴールドを\n見つけた！\n<br>\n現在　ゴールド銀行には\n<%nL_AZU_BALANCE>０００ゴールドを\n預けているようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! He found <%nL_WITHDRW_GLD>000 gold!\nHe now has <%nL_AZU_BALANCE>000 gold in the\n<br>\nGold Bank...<break>"
+    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nなんと　<%nL_WITHDRW_GLD>０００ゴールドを\n見つけた！\n<br>\n現在　ゴールド銀行には\n<%nL_AZU_BALANCE>０００ゴールドを\n預けているようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! He found <%dL_WITHDRW_GLD>000 gold!\nHe now has <%dL_AZU_BALANCE>000 gold in the\n<br>\nGold Bank...<break>"
   },
   "289571": {
     "「申し訳ありませんが　\n　その倉庫は　いっぱいです。\n<break>": "I'm sorry, but that warehouse is full of...<break>"
@@ -2346,7 +2346,7 @@
     "「お客さまは　現在　アイテムをひとつしか\n　お持ちでないため　\n　整理する必要が　ありません。\n<break>": "The customer only has one item at the moment,\nand it needs to be sorted...<break>"
   },
   "289573": {
-    "<speed=0>\n<pc>は　ツボに\n<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！\n<br>\nゴールド銀行に　預けているゴールドが\n<%nL_AZU_BALANCE>０００ゴールドになった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> has thrown <%nL_AZU_DEPOS_GLD>000 gold into\nthe urn! He now has <%nL_AZU_BALANCE>000 gold\nin his gold bank... Somehow, through this\n<br>\nurn, I can move items in and out of the Item\nWarehouse and the Gold Bank...<break>"
+    "<speed=0>\n<pc>は　ツボに\n<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！\n<br>\nゴールド銀行に　預けているゴールドが\n<%nL_AZU_BALANCE>０００ゴールドになった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> has thrown <%dL_AZU_DEPOS_GLD>000 gold into\nthe urn! He now has <%dL_AZU_BALANCE>000 gold\nin his gold bank... Somehow, through this\n<br>\nurn, I can move items in and out of the Item\nWarehouse and the Gold Bank...<break>"
   },
   "289574": {
     "「ゴールド銀行を　ご利用ですね。\n　本日は　どうされますか？\n<break>": "I'm a Gold Bank customer... How can I help\nyou today?<break>"
@@ -2364,7 +2364,7 @@
     "「それでは　<%sL_STORAGE>を\n　整理していただけますか\n<break>": "Now let's add <%sL_STORAGE> to the\n Can you sort it out, please?\n<break>"
   },
   "289579": {
-    "<speed=0>\n他の倉庫の名前も　変更しますか？\n<break>": ""
+    "<speed=0>\n他の倉庫の名前も　変更しますか？\n<break>": "<speed=0>\nDo you want to rename the other warehouses?\n<break>"
   },
   "289580": {
     "<speed=0>\n新しい倉庫名を入力してください。\n<break>": "<speed=0>Please enter a new warehouse name...<break>"
@@ -2391,7 +2391,7 @@
     "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>Somehow, through these pressure points, you\ncan access your possessions in the item vault\nand the gold bank...<break>"
   },
   "289588": {
-    "「どの倉庫に　アイテムを預けますか？\n<break>": ""
+    "「どの倉庫に　アイテムを預けますか？\n<break>": "To which warehouse would you like to deposit\nthe item?\n<break>"
   },
   "289589": {
     "「どの倉庫から　アイテムを取りだしますか？\n<break>": "Which warehouse do you want to retrieve the\nitems from?<break>"
@@ -2427,7 +2427,7 @@
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Okay,\nsure, I'll get it back to you. Which\nwarehouse do you want to retrieve the item\n<br>\nfrom?<break>"
   },
   "289600": {
-    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%nL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
+    "「<%sL_HIKI_ITEM_NAME>を　<%nL_HIKI_ITEM_NUM>個ですね。\n　では　確かに　お返しします。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "<%sL_HIKI_ITEM_NAME> to\n<%dL_HIKI_ITEM_NUM>... Okay, sure, I'll give\nit back. Which warehouse do you want to\n<br>\nretrieve the item from?<break>"
   },
   "289601": {
     "<speed=0>\nプレイコースの登録状況が　変更されたため\n５キャラ倉庫が　使えなくなりました。\n<br>\n預けていた物は　保管されているため\n再度　５キャラコースに　登録することで\n５キャラ倉庫から　取り出すことができます。\n<bw_break>": "<speed=0>Due to a change in the course of play, the\n5-Character Warehouse is no longer available.\nYour items are still in storage, so you can\n<br>\nretrieve them from the 5-Character Warehouse\nby registering for another 5-Character\nCourse.<bw_break>"
@@ -2493,16 +2493,16 @@
     "<speed=0>\n倉庫拡張サービスの　追加倉庫＋５を\n利用中です。アイテムを　各５０種類収納できる\n追加倉庫を　５個まで　使うことができます。\n<bw_break>": "<speed=0>You can use up to 5 additional warehouses...\nYou can use up to 5 additional warehouses\nthat can hold up to 50 different items\n<br>\neach...<bw_break>"
   },
   "289622": {
-    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋１に　登録すれば\n追加倉庫を　１個まで　使うことができます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋１に　登録すれば\n追加倉庫を　１個まで　使うことができます。\n<bw_break>": "<speed=0>\nDue to a change in the registration status of\nthe warehouse extension service, some of the\nadditional warehouses are no longer available.\n<br>\nThe items are still in storage, so you can use\nup to one additional warehouse by registering\nagain for the additional warehouse+1 service.\n<bw_break>"
   },
   "289623": {
-    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋２に　登録すれば\n追加倉庫を　２個まで　使うことができます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋２に　登録すれば\n追加倉庫を　２個まで　使うことができます。\n<bw_break>": "<speed=0>\nDue to a change in the registration status of\nthe warehouse extension service, some of the\nadditional warehouses are no longer available.\n<br>\nThe items are still in storage, so you can use\nup to two additional warehouses by registering\nagain for the additional warehouse+2 service.\n<bw_break>"
   },
   "289624": {
-    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋３に　登録すれば\n追加倉庫を　３個まで　使うことができます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋３に　登録すれば\n追加倉庫を　３個まで　使うことができます。\n<bw_break>": "<speed=0>\nDue to a change in the registration status of\nthe warehouse extension service, some\nadditional warehouses are no longer available.\n<br>\nThe items are still in storage and you can use\nup to 3 additional warehouses by registering\nagain for the additional warehouse+3 service.\n<bw_break>"
   },
   "289625": {
-    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋４に　登録すれば\n追加倉庫を　４個まで　使うことができます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋４に　登録すれば\n追加倉庫を　４個まで　使うことができます。\n<bw_break>": "<speed=0>\nDue to a change in the registration status of\nthe warehouse extension service, some\nadditional warehouses are no longer available.\n<br>\nThe items are still in storage, so you can use\nup to 4 additional warehouses by registering\nagain for the additional warehouse+4 service.\n<bw_break>"
   },
   "289626": {
     "<speed=0>\n倉庫拡張サービスの　登録状況が\n変更されたため　使えなくなった\n追加倉庫があります。\n<br>\n預けていた物は　保管されているため\n再度　追加倉庫＋５に　登録すれば\n追加倉庫を　５個まで　使うことができます。\n<bw_break>": "<speed=0>There are additional warehouses that are no\nlonger available due to a change in the\nregistration status of the warehouse\n<br>\nexpansion service. Since the items you\ndeposited are still in storage, you can re-\nregister for additional storage and use up to\n<br>\nfive additional warehouses...<bw_break>"
@@ -2511,7 +2511,7 @@
     "<speed=0>\n倉庫拡張サービス　追加倉庫＋１が\n登録されました。追加倉庫を\n１個まで使うことが　できます。\n<bw_break>": "<speed=0>The warehouse expansion service has\nregistered an additional warehouse... You can\nuse up to one additional warehouse...<bw_break>"
   },
   "289628": {
-    "<speed=0>\n倉庫拡張サービス　追加倉庫＋２が\n登録されました。追加倉庫を\n２個まで使うことが　できます。\n<bw_break>": ""
+    "<speed=0>\n倉庫拡張サービス　追加倉庫＋２が\n登録されました。追加倉庫を\n２個まで使うことが　できます。\n<bw_break>": "<speed=0>\nAdditional warehouse+2 has been registered.\nYou can use up to 2 additional warehouses.\n<bw_break>"
   },
   "289629": {
     "<speed=0>\n倉庫拡張サービス　追加倉庫＋３が\n登録されました。追加倉庫を\n３個まで使うことが　できます。\n<bw_break>": "<speed=0>The warehouse expansion service has added an\nadditional three warehouses... You can now\nuse up to three additional warehouses...<bw_break>"
@@ -2544,10 +2544,10 @@
     "<pipipi_off><speed=0>\n花のようなツボが　光をたたえている……。\nどういうわけか　このツボを通じて\n預かり所を　利用できるらしい。\n<br>\nツボは　突然まばゆい光をはなち\n<pc>が持っていたベルト倉庫のカギを\n<%nL_ITEM_NUM>個　吸い込んでいった！\n<br>\nどうやら　預かり所に\nベルト倉庫というものが　追加されたようだ。\n<br>\n<color_yellow>ベルト倉庫とは　ベルト装備の中でも特殊な\n輝石のベルトと　戦神のベルトだけ　\n入れることができる　特別な倉庫です。\n<br>\nこのカギ１つで　ベルト倉庫の中に\n１０個まで　輝石のベルトと　戦神のベルトを\n預けることが　できます。\n<br>\n新たにベルト倉庫のカギを　入手した場合は\nさらに１０個預けられるように　増設されるので\n忘れずに　最寄りの預かり所へ持っていきましょう。\n<br>\n注意事項として　ベルト倉庫は不思議なチカラで\nベルトと　ベルトに付与されている特殊効果を\n別々に保管する　仕組みになっています。\n<br>\nベルトを取り出す際は\n保管されているベルトと　特殊効果を\n結びつけて　返却されます。\n<br>\nそのため　ベルト倉庫に\nベルトを預けると　アイテムの歴史が　\n削除されてしまいます。\n<br>\nアイテムの歴史を　消したくない場合には\n通常倉庫を　利用するように\n注意しましょう。\n<color_white><bw_break>": "<pipipi_off><speed=0>It's a flower plot beaming with light...\nFor some reason, it can be used as a\nDepository.\n<br>\nSuddenly, the pot shone even brighter and\nsucked in the <%dL_ITEM_NUM> Belt Storage Key(s) you were\ncarrying!\n<br>\nA new storage option has appeared at the\nDepository, known as the Belt Storage.\n<br>\n<color_yellow>With this key, you can store up to 10 belts.\nIf you find any additional keys, your storage\nwill expand by 10 for each new key.\n<br>\nBelt Storage uses a mysterious power to\nstore the belts themselves and their effects\nseparate from one another.\n<br>\nThat means, when you remove a belt from Belt\nStorage, its effects will be reapplied.\n<br>\nHowever, because of this, any item history the\nbelt had upon depositing it will be lost.\n<br>\nIf you do not wish to lose this item history,\nplease consider using our normal storage\nmethods.\n<color_white><bw_break>"
   },
   "289639": {
-    "<pipipi_off><speed=0>ベルト倉庫が　新たに解放され\n合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと\n戦神のベルトを　預けられるようになった！<me_60>\n<end>": "<pipipi_off><speed=0>The belt vault has been liberated and now\nholds a total of <%nL_BLTSTR_NUM> belts of\nbrilliance and belts of war!<me_60>\n<end>"
+    "<pipipi_off><speed=0>ベルト倉庫が　新たに解放され\n合計<%nL_BLTSTR_NUM>個まで　輝石のベルトと\n戦神のベルトを　預けられるようになった！<me_60>\n<end>": "<pipipi_off><speed=0>The belt vault has been liberated and now\nholds a total of <%dL_BLTSTR_NUM> belts of\nbrilliance and belts of war!<me_60>\n<end>"
   },
   "289640": {
-    "<pipipi_off><speed=0>\n花のようなツボが　光をたたえている……。\nどういうわけか　このツボを通じて\n預かり所を　利用できるらしい。\n<br>\nツボは　突然まばゆい光をはなち\n<pc>が　持っていた\nベルト倉庫のカギを<%nL_ITEM_NUM>個　吸い込んでいった！\n<bw_break>": "<pipipi_off><speed=0>There's an acupuncture point that looks like\na flower, but it's holding a light. Somehow,\nthrough this urn, you can access the safe\n<br>\ndeposit box... The acupuncture point suddenly\nglows with a bright light.<pc> He took <%nL_ITEM_NUM> of the keys to the\nbelt warehouse that<bw_break>"
+    "<pipipi_off><speed=0>\n花のようなツボが　光をたたえている……。\nどういうわけか　このツボを通じて\n預かり所を　利用できるらしい。\n<br>\nツボは　突然まばゆい光をはなち\n<pc>が　持っていた\nベルト倉庫のカギを<%nL_ITEM_NUM>個　吸い込んでいった！\n<bw_break>": "<pipipi_off><speed=0>There's an acupuncture point that looks like\na flower, but it's holding a light. Somehow,\nthrough this urn, you can access the safe\n<br>\ndeposit box... The acupuncture point suddenly\nglows with a bright light.<pc> He took <%dL_ITEM_NUM> of the keys to the\nbelt warehouse that<bw_break>"
   },
   "289641": {
     "<pipipi_off><speed=0>\nベルトを　選んでください。\nただし　ベルト倉庫に　ベルトを入れると\nアイテムの歴史が消えるので　ご注意ください。\n<break>": "<pipipi_off><speed=0>Select a belt... But be warned, if you put\nthe belt in the belt vault, the item's\nhistory will be lost.<break>"
@@ -2574,76 +2574,76 @@
     "<pipipi_off><speed=0>\n<pc>が　持っていた\n<%sL_ITEM_NAME>が　ツボの中に吸い込まれた！\n<br>\nしかし　<%sL_ITEM_NAME>は\nツボから　はじき出された！\n<br>\nどうやら　いまは\nベルト倉庫を　拡張できないようだ。\n<end>": "<pipipi_off><speed=0>\n<pc> The <%sL_ITEM_NAME> that <%sL_ITEM_NAME> was\nholding was sucked into the urn! But\n<%sL_ITEM_NAME> has been ejected from the\n<br>\nurn! Apparently, we can't expand the belt\nvault at the moment...<end>"
   },
   "304393": {
-    "「申し訳ありません。\n　その条件に　当てはまるアイテムは\n　お預かりしていないようです。": ""
+    "「申し訳ありません。\n　その条件に　当てはまるアイテムは\n　お預かりしていないようです。": "We are sorry. It seems that we do not have any\nItem(s) that fit that criteria."
   },
   "304394": {
-    "「申し訳ありません。\n　その条件に　当てはまるアイテムは\n　お預かりしていないようです。": ""
+    "「申し訳ありません。\n　その条件に　当てはまるアイテムは\n　お預かりしていないようです。": "We are sorry. It seems that we do not have an\nItem that fits that criteria."
   },
   "304395": {
-    "<pipipi_off><speed=0>\nその条件に　当てはまるアイテムが\n見つかりませんでした。": ""
+    "<pipipi_off><speed=0>\nその条件に　当てはまるアイテムが\n見つかりませんでした。": "<pipipi_off><speed=0>\nWe could not find any Items that fit that\ncriteria."
   },
   "304396": {
-    "<pipipi_off><speed=0>\nその条件に　当てはまるアイテムが\n見つかりませんでした。": ""
+    "<pipipi_off><speed=0>\nその条件に　当てはまるアイテムが\n見つかりませんでした。": "<pipipi_off><speed=0>\nWe could not find any Items that fit that\ncriteria."
   },
   "304397": {
-    "「申し訳ありません。\n　その条件に　当てはまるアイテムは\n　お預かりしていないようです。": ""
+    "「申し訳ありません。\n　その条件に　当てはまるアイテムは\n　お預かりしていないようです。": "We are sorry. It seems that we do not have any\nItem(s) that fit that criteria."
   },
   "304398": {
-    "「申し訳ありません。\n　その条件に　当てはまるアイテムは\n　お預かりしていないようです。": ""
+    "「申し訳ありません。\n　その条件に　当てはまるアイテムは\n　お預かりしていないようです。": "We are sorry. It seems that we do not have any\nItem(s) that fit that criteria."
   },
   "304399": {
-    "「申し訳ありません。\n　条件に当てはまるアイテムが　多すぎるので\n　さがす条件を　変更してください。": ""
+    "「申し訳ありません。\n　条件に当てはまるアイテムが　多すぎるので\n　さがす条件を　変更してください。": "We are sorry, but there are too many items\nthat match your search criteria. There are too\nmany items that match your search criteria,\n<br>\nplease change your search criteria."
   },
   "304400": {
-    "「申し訳ありません。\n　条件に当てはまるアイテムが　多すぎるので\n　さがす条件を　変更してください。": ""
+    "「申し訳ありません。\n　条件に当てはまるアイテムが　多すぎるので\n　さがす条件を　変更してください。": "We are sorry, but there are too many items\nthat match your search criteria. There are too\nmany items that match your search criteria,\n<br>\nplease change your search criteria."
   },
   "304401": {
-    "<pipipi_off><speed=0>\n条件に当てはまるアイテムが　多すぎます。\nさがす条件を　変更してください。": ""
+    "<pipipi_off><speed=0>\n条件に当てはまるアイテムが　多すぎます。\nさがす条件を　変更してください。": "<pipipi_off><speed=0>\nThere are too many items that match your\nsearch criteria. Please change the search\nconditions."
   },
   "304402": {
-    "<pipipi_off><speed=0>\n条件に当てはまるアイテムが　多すぎます。\nさがす条件を　変更してください。": ""
+    "<pipipi_off><speed=0>\n条件に当てはまるアイテムが　多すぎます。\nさがす条件を　変更してください。": "<pipipi_off><speed=0>\nThere are too many items that match your\nsearch criteria. Please change the search\nconditions."
   },
   "304403": {
-    "「申し訳ありません。\n　条件に当てはまるアイテムが　多すぎるので\n　さがす条件を　変更してください。": ""
+    "「申し訳ありません。\n　条件に当てはまるアイテムが　多すぎるので\n　さがす条件を　変更してください。": "We are sorry, but there are too many items\nthat match your search criteria. There are too\nmany items that match your search criteria,\n<br>\nplease change your search criteria."
   },
   "304404": {
-    "「申し訳ありません。\n　条件に当てはまるアイテムが　多すぎるので\n　さがす条件を　変更してください。": ""
+    "「申し訳ありません。\n　条件に当てはまるアイテムが　多すぎるので\n　さがす条件を　変更してください。": "We are sorry, but there are too many items\nthat match your search criteria. There are too\nmany items that match your search criteria,\n<br>\nplease change your search criteria."
   },
   "304405": {
-    "「……おや？\n　既に　その倉庫で　お預かりしているようです。\n　他の倉庫を　選んでください。": ""
+    "「……おや？\n　既に　その倉庫で　お預かりしているようです。\n　他の倉庫を　選んでください。": "Oh? It seems that the warehouse is already\nholding your order. Please choose another\nwarehouse."
   },
   "304406": {
-    "「……おや？\n　既に　その倉庫で　お預かりしているようです。\n　他の倉庫を　選んでください。": ""
+    "「……おや？\n　既に　その倉庫で　お預かりしているようです。\n　他の倉庫を　選んでください。": "Oh? It seems that the warehouse is already\nholding your order. Please choose another\nwarehouse."
   },
   "304407": {
-    "同じ倉庫には　移動できません。\n他の倉庫を　選択してください。": ""
+    "同じ倉庫には　移動できません。\n他の倉庫を　選択してください。": "You cannot move to the same warehouse. Please\nselect another warehouse."
   },
   "304408": {
-    "同じ倉庫には　移動できません。\n他の倉庫を　選択してください。": ""
+    "同じ倉庫には　移動できません。\n他の倉庫を　選択してください。": "You cannot move to the same warehouse. Please\nselect another warehouse."
   },
   "304409": {
-    "「……おや？\n　既に　その倉庫で　お預かりしているようです。\n　他の倉庫を　選んでください。": ""
+    "「……おや？\n　既に　その倉庫で　お預かりしているようです。\n　他の倉庫を　選んでください。": "Oh? It seems that the warehouse is already\nholding your order. Please choose another\nwarehouse."
   },
   "304410": {
-    "「……おや？\n　既に　その倉庫で　お預かりしているようです。\n　他の倉庫を　選んでください。": ""
+    "「……おや？\n　既に　その倉庫で　お預かりしているようです。\n　他の倉庫を　選んでください。": "Oh? It seems that the warehouse is already\nholding your order. Please choose another\nwarehouse."
   },
   "304411": {
-    "「申し訳ありませんが　その倉庫には\n　これ以上　お預かりできません。\n　他の倉庫を　選んでください。": ""
+    "「申し訳ありませんが　その倉庫には\n　これ以上　お預かりできません。\n　他の倉庫を　選んでください。": "We are sorry, but we are unable to accept any\nmore shipments to that warehouse. Please\nchoose another warehouse."
   },
   "304412": {
-    "「申し訳ありませんが　その倉庫には\n　これ以上　お預かりできません。\n　他の倉庫を　選んでください。": ""
+    "「申し訳ありませんが　その倉庫には\n　これ以上　お預かりできません。\n　他の倉庫を　選んでください。": "We are sorry, but we are unable to accept any\nmore shipments to that warehouse. Please\nchoose another warehouse."
   },
   "304413": {
-    "その倉庫には　これ以上　預けられません。\n他の倉庫を　選んでください。": ""
+    "その倉庫には　これ以上　預けられません。\n他の倉庫を　選んでください。": "We cannot accept any more deposits at that\nwarehouse. Please choose another warehouse."
   },
   "304414": {
-    "その倉庫には　これ以上　預けられません。\n他の倉庫を　選んでください。": ""
+    "その倉庫には　これ以上　預けられません。\n他の倉庫を　選んでください。": "We cannot accept any more deposits at that\nwarehouse. Please choose another warehouse."
   },
   "304415": {
-    "「申し訳ありませんが　その倉庫には\n　これ以上　お預かりできません。\n　他の倉庫を　選んでください。": ""
+    "「申し訳ありませんが　その倉庫には\n　これ以上　お預かりできません。\n　他の倉庫を　選んでください。": "We are sorry, but we are unable to accept any\nmore shipments to that warehouse. Please\nchoose another warehouse."
   },
   "304416": {
-    "「申し訳ありませんが　その倉庫には\n　これ以上　お預かりできません。\n　他の倉庫を　選んでください。": ""
+    "「申し訳ありませんが　その倉庫には\n　これ以上　お預かりできません。\n　他の倉庫を　選んでください。": "We are sorry, but we are unable to accept any\nmore shipments to that warehouse. Please\nchoose another warehouse."
   },
   "310395": {
     "<pipipi_off><speed=0>\nアイテム倉庫を　利用します。\n持ち物を　預けたり　取りだせます。\nどうしますか？\n<select_se_off>\nあずける\nとりだす\nさがす\n<select_end><break>": "<pipipi_off><speed=0>\nYou can deposit or retrieve your stored items.\nWhat would you like to do?\n<select_se_off>\nDeposit\nRetrieve\nSearch\n<select_end><break>"
@@ -2664,93 +2664,93 @@
     "<select_se_off>\nあずける\nひきだす\n<select_end><break>": "<select_se_off>\nDeposit\nWithdraw\n<select_end><break>"
   },
   "311190": {
-    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": ""
+    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": "<pipipi_off><speed=0>\nPlease select the type of belongings you wish\nto find.\n<break>"
   },
   "311191": {
-    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": ""
+    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": "<pipipi_off><speed=0>\nPlease select the type of belongings you wish\nto find.\n<break>"
   },
   "311192": {
-    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": ""
+    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": "<pipipi_off><speed=0>\nPlease select the type of belongings you wish\nto find.\n<break>"
   },
   "311193": {
-    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": ""
+    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": "<pipipi_off><speed=0>\nPlease select the type of belongings you wish\nto find.\n<break>"
   },
   "311194": {
-    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": ""
+    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": "<pipipi_off><speed=0>\nPlease select the type of belongings you wish\nto find.\n<break>"
   },
   "311195": {
-    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": ""
+    "<pipipi_off><speed=0>\n探したい　持ち物の種類を選んでください。\n<break>": "<pipipi_off><speed=0>\nPlease select the type of belongings you wish\nto find.\n<break>"
   },
   "311782": {
-    "「申し訳ありません。\n　その倉庫には　移動できませんでした。\n　しばらく経ってから　またおこしください。": ""
+    "「申し訳ありません。\n　その倉庫には　移動できませんでした。\n　しばらく経ってから　またおこしください。": "Sorry, we were unable to move to the\nwarehouse. We were unable to move you to the\nwarehouse. Please come back after a while."
   },
   "311783": {
-    "「申し訳ありません。\n　その倉庫には　移動できませんでした。\n　しばらく経ってから　またおこしください。": ""
+    "「申し訳ありません。\n　その倉庫には　移動できませんでした。\n　しばらく経ってから　またおこしください。": "Sorry, we were unable to move to the\nwarehouse. We were unable to move you to the\nwarehouse. Please come back after a while."
   },
   "311784": {
-    "その倉庫には　移動できませんでした。\nしばらく経ってから　またおこしください。": ""
+    "その倉庫には　移動できませんでした。\nしばらく経ってから　またおこしください。": "We were not able to move to the warehouse.\nPlease come back after a while."
   },
   "311785": {
-    "その倉庫には　移動できませんでした。\nしばらく経ってから　またおこしください。": ""
+    "その倉庫には　移動できませんでした。\nしばらく経ってから　またおこしください。": "We were not able to move to the warehouse.\nPlease come back after a while."
   },
   "311786": {
-    "「申し訳ありません。\n　その倉庫には　移動できませんでした。\n　しばらく経ってから　またおこしください。": ""
+    "「申し訳ありません。\n　その倉庫には　移動できませんでした。\n　しばらく経ってから　またおこしください。": "Sorry, we were unable to move to the\nwarehouse. We were unable to move you to the\nwarehouse. Please come back after a while."
   },
   "311787": {
-    "「申し訳ありません。\n　その倉庫には　移動できませんでした。\n　しばらく経ってから　またおこしください。": ""
+    "「申し訳ありません。\n　その倉庫には　移動できませんでした。\n　しばらく経ってから　またおこしください。": "Sorry, we were unable to move to the\nwarehouse. We were unable to move you to the\nwarehouse. Please come back after a while."
   },
   "312385": {
-    "「申し訳ありませんが　倉庫拡張サービスの\n　<%sL_SERVICENAME>が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": ""
+    "「申し訳ありませんが　倉庫拡張サービスの\n　<%sL_SERVICENAME>が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": "We are sorry, but this additional warehouse is\nnot available because we cannot confirm\n<%sL_SERVICENAME> for the warehouse extension\n<br>\nservice.\n<end>"
   },
   "312386": {
-    "「申し訳ありませんが　倉庫拡張サービスの\n　<%sL_SERVICENAME>が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": ""
+    "「申し訳ありませんが　倉庫拡張サービスの\n　<%sL_SERVICENAME>が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": "We are sorry, but this additional warehouse is\nnot available because we cannot confirm\n<%sL_SERVICENAME> for the warehouse extension\n<br>\nservice.\n<end>"
   },
   "312387": {
-    "<speed=0>\n倉庫拡張サービスの　<%sL_SERVICENAME>の登録が\n確認できないため　この追加倉庫を\n使うことはできません。\n<end>": ""
+    "<speed=0>\n倉庫拡張サービスの　<%sL_SERVICENAME>の登録が\n確認できないため　この追加倉庫を\n使うことはできません。\n<end>": "<speed=0>\nThis additional warehouse cannot be used\nbecause the registration of <%sL_SERVICENAME>\nfor the warehouse extension service cannot be\n<br>\nconfirmed.\n<end>"
   },
   "312388": {
-    "<speed=0>\n倉庫拡張サービスの　<%sL_SERVICENAME>の登録が\n確認できないため　この追加倉庫を\n使うことはできません。\n<end>": ""
+    "<speed=0>\n倉庫拡張サービスの　<%sL_SERVICENAME>の登録が\n確認できないため　この追加倉庫を\n使うことはできません。\n<end>": "<speed=0>\nThis additional warehouse cannot be used\nbecause the registration of <%sL_SERVICENAME>\nfor the warehouse extension service cannot be\n<br>\nconfirmed.\n<end>"
   },
   "312389": {
-    "「申し訳ありませんが　倉庫拡張の\n　<%sL_SERVICENAME>が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": ""
+    "「申し訳ありませんが　倉庫拡張の\n　<%sL_SERVICENAME>が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": "Sorry, we cannot confirm the <%sL_SERVICENAME>\nof the warehouse extension, so this additional\nwarehouse is not available.\n<end>"
   },
   "312390": {
-    "「申し訳ありませんが　倉庫拡張の\n　<%sL_SERVICENAME>が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": ""
+    "「申し訳ありませんが　倉庫拡張の\n　<%sL_SERVICENAME>が　確認できないので\n　この追加倉庫は　ご利用いただけません。\n<end>": "Sorry, we cannot confirm the <%sL_SERVICENAME>\nof the warehouse extension, so this additional\nwarehouse is not available.\n<end>"
   },
   "312955": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　<%sL_SERVICENAME>に　移動しました。": ""
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　<%sL_SERVICENAME>に　移動しました。": "Moved <%sL_AZU_ITEM_NAME> to\n<%dL_AZU_ITEM_NUM> individual\n<%sL_SERVICENAME>."
   },
   "312956": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　<%sL_SERVICENAME>に　移動しました。": ""
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　<%sL_SERVICENAME>に　移動しました。": "Moved <%sL_AZU_ITEM_NAME> to\n<%dL_AZU_ITEM_NUM> individual\n<%sL_SERVICENAME>."
   },
   "312957": {
-    "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　<%nL_AZU_ITEM_NUM>個\n<%sL_SERVICENAME>に　移動しました。": ""
+    "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　<%nL_AZU_ITEM_NUM>個\n<%sL_SERVICENAME>に　移動しました。": "Moved <%sL_AZU_ITEM_NAME><%sL_PLUSNUM> to\n<%dL_AZU_ITEM_NUM> individual\n<%sL_SERVICENAME>."
   },
   "312958": {
-    "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　<%nL_AZU_ITEM_NUM>個\n<%sL_SERVICENAME>に　移動しました。": ""
+    "<%sL_AZU_ITEM_NAME><%sL_PLUSNUM>を　<%nL_AZU_ITEM_NUM>個\n<%sL_SERVICENAME>に　移動しました。": "Moved <%sL_AZU_ITEM_NAME><%sL_PLUSNUM> to\n<%dL_AZU_ITEM_NUM> individual\n<%sL_SERVICENAME>."
   },
   "312959": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　<%sL_SERVICENAME>に　移動しました。": ""
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　<%sL_SERVICENAME>に　移動しました。": "Moved <%sL_AZU_ITEM_NAME> to\n<%dL_AZU_ITEM_NUM> individual\n<%sL_SERVICENAME>."
   },
   "312960": {
-    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　<%sL_SERVICENAME>に　移動しました。": ""
+    "「<%sL_AZU_ITEM_NAME>を　<%nL_AZU_ITEM_NUM>個\n　<%sL_SERVICENAME>に　移動しました。": "Moved <%sL_AZU_ITEM_NAME> to\n<%dL_AZU_ITEM_NUM> individual\n<%sL_SERVICENAME>."
   },
   "315128": {
-    "「申し訳ありませんが　お客様の自宅が\n　見つからないので　ご利用いただけません。\n　住宅村の家を　ご確認ください。\n<end>": ""
+    "「申し訳ありませんが　お客様の自宅が\n　見つからないので　ご利用いただけません。\n　住宅村の家を　ご確認ください。\n<end>": "We're sorry, but we can't find your home and\nit's not available. Please check the houses in\nthe residential village.\n<end>"
   },
   "315129": {
-    "「申し訳ありませんが　お客様の自宅が\n　見つからないので　ご利用いただけません。\n　住宅村の家を　ご確認ください。\n<end>": ""
+    "「申し訳ありませんが　お客様の自宅が\n　見つからないので　ご利用いただけません。\n　住宅村の家を　ご確認ください。\n<end>": "We're sorry, but we can't find your home and\nit's not available. Please check the houses in\nthe residential village.\n<end>"
   },
   "315130": {
-    "<speed=0>\n自宅が見つからないため　屋根ウラ収納を\nつかうことはできません。\n住宅村の家を　確認してください。\n<end>": ""
+    "<speed=0>\n自宅が見つからないため　屋根ウラ収納を\nつかうことはできません。\n住宅村の家を　確認してください。\n<end>": "<speed=0>\nCannot use the roof storage because the house\nis not found. Please check the house in the\nresidential village.\n<end>"
   },
   "315131": {
-    "<speed=0>\n自宅が見つからないため　屋根ウラ収納を\nつかうことはできません。\n住宅村の家を　確認してください。\n<end>": ""
+    "<speed=0>\n自宅が見つからないため　屋根ウラ収納を\nつかうことはできません。\n住宅村の家を　確認してください。\n<end>": "<speed=0>\nCannot use the roof storage because the house\nis not found. Please check the house in the\nresidential village.\n<end>"
   },
   "315132": {
-    "「申し訳ありませんが　お客様の自宅が\n　見つからないので　ご利用いただけません。\n　住宅村の家を　ご確認ください。\n<end>": ""
+    "「申し訳ありませんが　お客様の自宅が\n　見つからないので　ご利用いただけません。\n　住宅村の家を　ご確認ください。\n<end>": "We're sorry, but we can't find your home and\nit's not available. Please check the houses in\nthe residential village.\n<end>"
   },
   "315133": {
-    "「申し訳ありませんが　お客様の自宅が\n　見つからないので　ご利用いただけません。\n　住宅村の家を　ご確認ください。\n<end>": ""
+    "「申し訳ありませんが　お客様の自宅が\n　見つからないので　ご利用いただけません。\n　住宅村の家を　ご確認ください。\n<end>": "We're sorry, but we can't find your home and\nit's not available. Please check the houses in\nthe residential village.\n<end>"
   }
 }

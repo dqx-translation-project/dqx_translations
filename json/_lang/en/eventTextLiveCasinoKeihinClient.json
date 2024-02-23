@@ -84,7 +84,7 @@
     "<pipipi_off><pc>は\n<%sL_COIN_PRIZE>（だいじなもの）を\n手に入れた！\n<me 60>\n<end>": "<pipipi_off><pc> received\n<%sL_COIN_PRIZE> (Key Item)!\n<me 60>\n<end>"
   },
   "150561": {
-    "「<%sL_COIN_PRIZE>は　３ｒｄディスクの\n　レジストレーションコードが入力されていないと\n　使うことができないどうぐです。\n<br>\n「<%sL_COIN_PRIZE>と　交換するには\n　カジノコイン<%nL_PRICE>枚が　必要ですが\n　本当に　交換して　よろしいですか？\n<yesno 2><break>": "<%sL_COIN_PRIZE> can only be used if the\nregistration code for the 3rd disc is\nentered... I need <%nL_PRICE> Casino Tokens to\n<br>\nexchange for <%sL_COIN_PRIZE>, are you sure\nyou want to do this?<yesno 2><break>"
+    "「<%sL_COIN_PRIZE>は　３ｒｄディスクの\n　レジストレーションコードが入力されていないと\n　使うことができないどうぐです。\n<br>\n「<%sL_COIN_PRIZE>と　交換するには\n　カジノコイン<%nL_PRICE>枚が　必要ですが\n　本当に　交換して　よろしいですか？\n<yesno 2><break>": "<%sL_COIN_PRIZE> can only be used if the\nregistration code for the 3rd disc is\nentered... I need <%dL_PRICE> Casino Tokens to\n<br>\nexchange for <%sL_COIN_PRIZE>, are you sure\nyou want to do this?<yesno 2><break>"
   },
   "188547": {
     "「ここは　カジノコインとひきかえに\n　景品をおわたしする　交換所です。\n<br>\n「イベント用の　景品の交換は\n　エントランス北側の　カウンターで\n　受け付けておりますので　ご注意ください。\n<bw_break>": "Here you can exchange your Casino Tokens for\nprizes.\n<br>\nPlease note that event prizes must be\nexchanged at the counter near the north-side\nentrance.<bw_break>"
@@ -105,9 +105,9 @@
     "「そのアイテムは　すでに\n　レプリカに　なっているようですが\n　本当に　交換しますか？\n<yesno 2><break>": "It seems you've already made a replica of that\nitem. Are you sure you still want it?\n<yesno 2><break>"
   },
   "304509": {
-    "「申し訳ありません。\n　そちらの景品は　交換期間が\n　過ぎてしまったようです。\n<br>\n　交換リストの更新準備のため\n　交換を終了させて頂きます。\n　またお越しください。\n<end>": ""
+    "「申し訳ありません。\n　そちらの景品は　交換期間が\n　過ぎてしまったようです。\n<br>\n　交換リストの更新準備のため\n　交換を終了させて頂きます。\n　またお越しください。\n<end>": "We apologize for the inconvenience. It appears\nthat the exchange period for your prize has\nexpired. We will close the exchange in\n<br>\npreparation for updating the exchange list.\nPlease come back again.\n<end>"
   },
   "304510": {
-    "「申し訳ありません。交換リストの更新準備のため\n　交換を終了させて頂きます。\n　またお越しください。\n<end>": ""
+    "「申し訳ありません。交換リストの更新準備のため\n　交換を終了させて頂きます。\n　またお越しください。\n<end>": "Our apologies. We will close the exchange in\npreparation for updating the exchange list.\nPlease come back again.\n<end>"
   }
 }

@@ -1,6 +1,6 @@
 {
   "14278": {
-    "<%sL_STORAGE_NAME>が　いっぱいなので\nさいほうが　できません。": "<%sL_STORAGE_NAME> is full, so I can't re..."
+    "<%sL_STORAGE_NAME>が　いっぱいなので\nさいほうが　できません。": "Cannot sew because <%sL_STORAGE_NAME> is full."
   },
   "14281": {
     "そのカテゴリのレシピは\nまだ　覚えていません。<end>": "You don't know any recipes of this category\nyet.<end>"
@@ -27,73 +27,73 @@
     "できのよさ<color_yellow>★★★<color_white>の物は　できませんが\nいっぱつしあげをして　よろしいですか？\n<yesno><close>": "Do you want to quick craft this item you have\na knack for? The item will not have a quality\nof <color_yellow>★★★<color_white>.<yesno><close>"
   },
   "22659": {
-    "<speed=0><pc>は　さいほうの　とくぎを\nおぼえていない！": "<speed=0><pc> I don't know the best way to do it!"
+    "<speed=0><pc>は　さいほうの　とくぎを\nおぼえていない！": "<speed=0><pc> has not learned sewing skills!"
   },
   "22667": {
-    "<%sL_RECIPE>を作るには\n素材が　足りません。<end>": "We don't have enough material to make\n<%sL_RECIPE>...<end>"
+    "<%sL_RECIPE>を作るには\n素材が　足りません。<end>": "There is not enough material to make\n<%sL_RECIPE>.<end>"
   },
   "24608": {
-    "<%sL_RECIPE>を　作るには\n<pc>の　さいほう職人レベルが\n<%nL_HITUYOU_LV>以上　必要です。<end>": "To create a <%sL_RECIPE>, use the\n<pc> The level of the best craftsman in\n<%nL_HITUYOU_LV> is required...<end>"
+    "<%sL_RECIPE>を　作るには\n<pc>の　さいほう職人レベルが\n<%nL_HITUYOU_LV>以上　必要です。<end>": "To create <%sL_RECIPE>, the Sewer level of\n<pc> must be at least\n<%dL_HITUYOU_LV>.<end>"
   },
   "24635": {
     "さいほう設備がある。\nさいほうの　レシピを覚えれば\nここで　さいほうが　できそうだ。": "It's a sewing facility. If you learn some\nsewing recipes, they can be crafted here."
   },
   "24670": {
-    "<%sL_RECIPE>のレシピは\nまだ　覚えていません。<end>": "I still don't remember the recipe for\n<%sL_RECIPE>...<end>"
+    "<%sL_RECIPE>のレシピは\nまだ　覚えていません。<end>": "I don't remember the recipe for <%sL_RECIPE>\nyet.<end>"
   },
   "25859": {
-    "作る物の種類を　選んでください。\n<break>": ""
+    "作る物の種類を　選んでください。\n<break>": "Please select the type of product you would\nlike to make.\n<break>"
   },
   "25860": {
-    "現在　さいほう職人レベル<%dL_SYOKUNIN_LV>です。\n何を作りますか？<break>": "Current Saiho Craftsman Level\n<%dL_SYOKUNIN_LV... What do you want to make?<break>"
+    "現在　さいほう職人レベル<%dL_SYOKUNIN_LV>です。\n何を作りますか？<break>": "Currently at Sewer level <%dL_SYOKUNIN_LV>.\nWhat do you make?<break>"
   },
   "30136": {
-    "さいほうとは　素材となる布を　ぬいあわせて\n目的のアイテムを　作ることです。\n<br>\nカットされた布を　ぬいあわせて\n成功ラインに沿うように　形を整えましょう。\n完成品のできのよさは　この精度で決まります。\n<br>\nコマンドを実行するには　集中力が必要です。\n集中力がなくなると　実行できなくなるので\nペース配分を考えて　コマンドを選びましょう。\n<br>\nぬいパワーが強いほど　大きくぬいあわせますが\n１回ごとに　ぬいパワーは変化していきます。\nパワーの変化を見て　調整していきましょう。\n<br>\nなお　さいほうをしている途中に\n通信エラーなどでゲームが中断した場合\n素材は　すべて失われますので　ご注意ください。\n<end>": "A sewing method is the process of sewing\ntogether fabric to create a desired item...\nThe cut cloth is wove together and shaped to\n<br>\nfollow the success line... The quality of the\nfinished product is determined by the\naccuracy... To execute a command, you must be\n<br>\nable to concentrate... If you lose your\nconcentration, you won't be able to do it, so\npace yourself and choose your commands. The\n<br>\nmore power you have, the more you'll be able\nto pull it off, but each time you pull it\noff, the power changes. The more power you\n<br>\nhave, the more you'll be able to... Please\nnote that if the game is interrupted due to a\ncommunication error during the sewing\n<br>\nprocess, all materials will be lost.<end>"
+    "さいほうとは　素材となる布を　ぬいあわせて\n目的のアイテムを　作ることです。\n<br>\nカットされた布を　ぬいあわせて\n成功ラインに沿うように　形を整えましょう。\n完成品のできのよさは　この精度で決まります。\n<br>\nコマンドを実行するには　集中力が必要です。\n集中力がなくなると　実行できなくなるので\nペース配分を考えて　コマンドを選びましょう。\n<br>\nぬいパワーが強いほど　大きくぬいあわせますが\n１回ごとに　ぬいパワーは変化していきます。\nパワーの変化を見て　調整していきましょう。\n<br>\nなお　さいほうをしている途中に\n通信エラーなどでゲームが中断した場合\n素材は　すべて失われますので　ご注意ください。\n<end>": "The sewing is the process of sewing the fabric\ntogether to make the desired item. The quality\nof the finished product is determined by the\n<br>\naccuracy of this process. Concentration is\nrequired to execute the commands. If you lose\nconcentration, you will not be able to execute\n<br>\nthe commands. The stronger the power of the\nplucking, the greater the plucking accuracy,\nbut the plucking power changes each time.\n<br>\nAdjust the power according to the change in\npower. Please note that if the game is\ninterrupted during sewing due to a\n<br>\ncommunication error, all materials will be\nlost.\n<end>"
   },
   "31438": {
-    "ヨコぬいを使うと\n左右に２マス分　まとめてぬいつけます。": ""
+    "ヨコぬいを使うと\n左右に２マス分　まとめてぬいつけます。": "Using the horizontal stitching method, two\nsquares on each side can be sewn together."
   },
   "31504": {
-    "かげんぬいを使うと\n半分のチカラで　ぬいつけることができます。\n細かい調整をしたい時に　役立てよう！": "If you use the \"limit knitting\" method, you\ncan knit with half the force... It's useful\nwhen you need to make small adjustments."
+    "かげんぬいを使うと\n半分のチカラで　ぬいつけることができます。\n細かい調整をしたい時に　役立てよう！": "Using a \"kanjen-nui\", you can plaster with\nonly half the force. This is useful when you\nwant to make fine adjustments!"
   },
   "31506": {
-    "糸ほぐしを使うと\nぬいすぎた１マスを　ほぐして\nゆるめることができます。": "If you use a yarn loosener, you can loosen\none square that's been over-woven..."
+    "糸ほぐしを使うと\nぬいすぎた１マスを　ほぐして\nゆるめることができます。": "A thread remover can be used to loosen a\nsquare that has been over-stitched."
   },
   "31512": {
-    "水平ぬいを使うと\nヨコ１列を　一気にぬいつけます。": "If you use a horizontal bevel, you can bevel\na whole row at once..."
+    "水平ぬいを使うと\nヨコ１列を　一気にぬいつけます。": "Horizontal stitching allows you to stitch a\nrow or column at a time."
   },
   "31513": {
-    "滝のぼりを使うと\n上下に２マス分　まとめてぬいつけます。": "If you use the waterfall climbers, you'll get\ntwo squares up and down..."
+    "滝のぼりを使うと\n上下に２マス分　まとめてぬいつけます。": "The waterfall can be used to wet two squares\nat a time, up and down."
   },
   "31514": {
-    "玉どめを使ったマスは\nしばらくの間　何をしても\nぬいつけられなくなります。": "For a while, you couldn't wipe out a trout\nwith a ball stopper, no matter what you did."
+    "玉どめを使ったマスは\nしばらくの間　何をしても\nぬいつけられなくなります。": "The squares with the ball stopper will not be\nable to be stained for a while no matter what\nyou do."
   },
   "31515": {
-    "たすきぬいを使うと　左下から右上に向かって\nナナメに２マス分　まとめてぬいつけます。": "If you use a tasuki nori, you can sew two\nsquares in a row from the bottom left to the\ntop right..."
+    "たすきぬいを使うと　左下から右上に向かって\nナナメに２マス分　まとめてぬいつけます。": "Using the tasuki nuki, two squares can be\ntucked together from the lower left corner to\nthe upper right corner."
   },
   "31517": {
-    "直角ぬいを使うと\nＬの字に３マス分　まとめてぬいつけます。": ""
+    "直角ぬいを使うと\nＬの字に３マス分　まとめてぬいつけます。": "Using a right-angle brush, you can stitch\nthree squares in a row in the shape of the\nletter \"L\"."
   },
   "31537": {
-    "２倍ぬいを使うと\nひとつのマスを　２倍の強さで　ぬいつけます。\nぬいパワーと組み合わせて　うまく使いましょう！": "If you use double-striping, you can double\nthe strength of a single square... Combine it\nwith your sewing power and use it to your\n<br>\nadvantage!"
+    "２倍ぬいを使うと\nひとつのマスを　２倍の強さで　ぬいつけます。\nぬいパワーと組み合わせて　うまく使いましょう！": "With Double Nui, you can double the strength\nof a single square. Use it in combination with\nNui Power!"
   },
   "31538": {
-    "うでまくりをすると　次にぬう時に\nチカラが１.５倍になり　会心率も上がります。\n他の特技と　組み合わせて使うと　効果的！": ""
+    "うでまくりをすると　次にぬう時に\nチカラが１.５倍になり　会心率も上がります。\n他の特技と　組み合わせて使うと　効果的！": "When you do the \"Ude-Maki\", your strength will\nbe increased by 1.5 times and your critical\nrate will also increase. It is effective when\n<br>\nused in combination with other skills!"
   },
   "32993": {
-    "大滝のぼりを使うと\nタテ１列を　一気にぬいつけます。": ""
+    "大滝のぼりを使うと\nタテ１列を　一気にぬいつけます。": "The Otaki Nobori can be used to sweep a\nvertical line at a time."
   },
   "32994": {
-    "精神統一をすると　その時のぬいパワーを\n３ターンの間　持続させることができます。": "When you unify your mind, your Nui power\nlasts for three turns..."
+    "精神統一をすると　その時のぬいパワーを\n３ターンの間　持続させることができます。": "When you perform a mental unification, your\nNui Power lasts for 3 turns."
   },
   "37778": {
     "<speed=0><%sL_RECIPE>を　仕上げます。\nよろしいですか？\n<yesno><close>": "<speed=0>Finish working on the\n<%sL_RECIPE>?\n<yesno><break>"
   },
   "37779": {
-    "<%sL_RECIPE>を　作ります。\nよろしいですか？\n<yesno><close>": "Create <%sL_RECIPE>... Are you sure?<yesno><close>"
+    "<%sL_RECIPE>を　作ります。\nよろしいですか？\n<yesno><close>": "Create <%sL_RECIPE>. Is this OK?\n<yesno><close>"
   },
   "38994": {
-    "さいほうの遊び方の説明です！\n<br>\nカットされた布を　ぬいあわせて\n成功ラインに合うように　形を整えてください。\n<br>\nすべてのマス目が　成功ラインに合ったら\n『しあげる』コマンドで　完成です！\n<br>\nぬう強さは　１回ぬうごとに変わっていきます。\nぬいパワーの変化と　残りの集中力に\n注意しながら　完成を目指しましょう！\n<end>": "Here's how to play it again! Wipe the cut\npieces of cloth together and shape them to\nfit the success line... When all the squares\n<br>\nmeet the success line, use the \"finish\"\ncommand to complete the game. The strength of\nthe cloth changes each time it's sewn. The\n<br>\nstrength of your wipe changes with each wipe,\nso watch out for changes in your wiping power\nand how much concentration you have left!<end>"
+    "さいほうの遊び方の説明です！\n<br>\nカットされた布を　ぬいあわせて\n成功ラインに合うように　形を整えてください。\n<br>\nすべてのマス目が　成功ラインに合ったら\n『しあげる』コマンドで　完成です！\n<br>\nぬう強さは　１回ぬうごとに変わっていきます。\nぬいパワーの変化と　残りの集中力に\n注意しながら　完成を目指しましょう！\n<end>": "Here is an explanation of how to play\n\"sewing\". When all the squares are aligned\nwith the success line, press the \"Finish\"\n<br>\ncommand to complete! The strength of each\nstitch changes with each stitch. Be careful of\nthe change of the plucking power and the\n<br>\nremaining concentration power to complete the\npuzzle!\n<end>"
   },
   "41475": {
     "会心0.1％アップは\n覚えているだけで　常に会心率が\n0.1％分　上がるようになります。": "Your chance of scoring a critical hit has\nincreased by 0.1% permanently!"
@@ -123,22 +123,22 @@
     "<%sL_RECIPE>は\n『いっぱつしあげ』が　できます。\n<select 2>\nふつうに作る\nいっぱつしあげ\n<select_end><break>": "<%sL_RECIPE> can be quick crafted.\n<select 2>\nCraft Normally\nQuick Craft\n<select_end><break>"
   },
   "45621": {
-    "逆たすきぬいを使うと　右下から左上に向かって\nナナメに２マス分　まとめてぬいつけます。": "If you use the reverse-slash-slash-slash-\nslash-slash-slash-slash-slash-slash-slash-\nslash-slash-slash-slash-slash-slash"
+    "逆たすきぬいを使うと　右下から左上に向かって\nナナメに２マス分　まとめてぬいつけます。": "Using reverse tsuki-nui, two squares can be\ntucked together from the lower right corner to\nthe upper left corner."
   },
   "53898": {
-    "３倍ぬいを使うと\nひとつのマスを　３倍の強さで　ぬいつけます。\nぬいパワーと組み合わせて　うまく使いましょう！": "If you use the 3x wipe, you can wipe a single\nsquare three times as hard... Use it in\ncombination with your sewing power!"
+    "３倍ぬいを使うと\nひとつのマスを　３倍の強さで　ぬいつけます。\nぬいパワーと組み合わせて　うまく使いましょう！": "With 3x Nudo, you can triple the strength of a\nsingle square. Use it in combination with Nui\nPower!"
   },
   "55904": {
     "大成功品は　できませんが\nいっぱつしあげをして　よろしいですか？\n<yesno><close>": "You can't get a Perfection with a quick\ncraft. Do you still want to do it?\n<yesno><close>"
   },
   "66937": {
-    "使うさいほう針を　選んでください。\n<break>": "Please select a sewing needle.<break>"
+    "使うさいほう針を　選んでください。\n<break>": "Please select a sewing needle.\n<break>"
   },
   "67334": {
     "レシピを　覚えていないため\n<%sL_SEISAN_MENU>を作ることが　できません。\n<bw_break>": "You don't know any recipes to make this type\nof item.\n<bw_break>"
   },
   "67648": {
-    "ぬいパワーシフトをすると　ぬいパワーを\nランダムで変化させることができます。\nぬいパワーを変えたいときに　使いましょう！": "When you shift your Nui Power, you can change\nyour Nui Power at random... Use this when you\nwant to change your Nuno Power!"
+    "ぬいパワーシフトをすると　ぬいパワーを\nランダムで変化させることができます。\nぬいパワーを変えたいときに　使いましょう！": "You can change your Nui Power at random by\nusing \"Nui Power Shift\". Use this function\nwhen you want to change your Nui Power!"
   },
   "69760": {
     "<%sL_RECIPE>は\nこの職人どうぐでは　作れません。\n<bw_break>": "<%sL_RECIPE> cannot be crafted\nwith this crafting tool.<bw_break>"
@@ -150,7 +150,7 @@
     "今日の依頼は　全て達成済みです。\n<end>": "All of today's requests have been\nfulfilled.\n<end>"
   },
   "78954": {
-    "その依頼は　既に達成済みです。\n<end>": "That request has already been fulfilled...<end>"
+    "その依頼は　既に達成済みです。\n<end>": "That request has already been fulfilled.\n<end>"
   },
   "79259": {
     "<yesno><close>": "<yesno><close>"
@@ -171,7 +171,7 @@
     "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<%sL_MENU_NO_5>\n<%sL_MENU_NO_6>\n<select_end><break>": "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<%sL_MENU_NO_4>\n<%sL_MENU_NO_5>\n<%sL_MENU_NO_6>\n<select_end><break>"
   },
   "79265": {
-    "さいほう設備がある。\nここで　防具や家具が作れそうだ。\n<break>": "The smallest equipment... Here, you can make\narmor, furniture...<break>"
+    "さいほう設備がある。\nここで　防具や家具が作れそうだ。\n<break>": "There is a Sewing Facility. It is possible to\nmake armor and furniture here.\n<break>"
   },
   "79266": {
     "さいほうを　続けますか？\n<break>": "Continue sewing?\n<break>"
@@ -195,28 +195,28 @@
     "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<yesno><close>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<yesno><close>"
   },
   "103183": {
-    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\nさいほうが　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now use materials found in the\nStorage Area and Under the Roof to recreate\nrecipes! When you select a recipe that\n<br>\ndoesn't have enough ingredients, you can use\nthe ingredients in the Storage Area and Under\nthe Roof...<color_white>\n<end>"
+    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\nさいほうが　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "You can now sew using not only the\n<color_yellow>item bag, but also the materials\nin the Depository and Roof Storage! If you\n<br>\nselect a recipe that does not have the\nnecessary materials, you can use the material\nitems in the \"Depository\" and \"Roof Storage\".\n<br>\n<color_white>\n<end>"
   },
   "108384": {
-    "予期せぬエラーにより\n実行することが　できませんでした。\n<end>": "Due to an unforeseen error, we are unable to\nexecute...<end>"
+    "予期せぬエラーにより\n実行することが　できませんでした。\n<end>": "Unexpected errors prevented execution.\n<end>"
   },
   "113263": {
-    "しつけがけを使ったマスは\n次にぬう時に　２倍の強さで　ぬいつけられます。\n他のとくぎと　組み合わせて使うと　効果的です！": "The next time you wipe a square with a spell,\nit will be wiped twice as hard. It works best\nwhen used in combination with other spells."
+    "しつけがけを使ったマスは\n次にぬう時に　２倍の強さで　ぬいつけられます。\n他のとくぎと　組み合わせて使うと　効果的です！": "Squares that have been painted with the \"brush\nand paint\" technique will be painted twice as\nhard the next time they are painted. It is\n<br>\neffective when used in combination with other\nskills!"
   },
   "119116": {
     "<speed=0>\n<pc>は　いま作っている\n<%sL_RECIPE>を　じっくりと眺めた。": "<speed=0>\n<pc> examined carefully the\n<%sL_RECIPE> they were working on."
   },
   "143090": {
-    "巻きこみぬいを使うと\nひとつのマスを　強いチカラで　ぬいつけます。\nさらに　隣り合ったマスを弱いチカラでぬいます。": "When you use the Makikomi nuri technique, you\nwipe one square with a strong force... And if\nyou use a weaker force on adjacent squares..."
+    "巻きこみぬいを使うと\nひとつのマスを　強いチカラで　ぬいつけます。\nさらに　隣り合ったマスを弱いチカラでぬいます。": "With the Makikomi Nuri, a single square is\nplunged with strong force. The next square is\nthen plucked with less force."
   },
   "178608": {
-    "今週の職人回数が　上限に達したので\nこれ以上　さいほうはできません。\n<br>\n日曜日の　朝６時以降になると\nふたたび　さいほうが　できるようになります。\n<end>": "I've reached my limit for this week, so I\ncan't do any more resurrections... On Sunday\nmornings, after 6:00 a.m., you'll be able to\n<br>\ndo it again...<end>"
+    "今週の職人回数が　上限に達したので\nこれ以上　さいほうはできません。\n<br>\n日曜日の　朝６時以降になると\nふたたび　さいほうが　できるようになります。\n<end>": "We have reached our sewing limit for the week,\nso no more sewing will be available. Sewing\nwill be available again on Sunday mornings\n<br>\nafter 6:00 a.m.\n<end>"
   },
   "178609": {
-    "さいほう設備がある。\nここで　防具や家具が作れそうだ。\n（今週は　あと<%nL_PLAYABLE>回　さいほうができます。）\n<break>": "The smallest equipment... You can make armor\nand furniture here... （There are only\n<%nL_PLAYABLE> more times this week...)<break>"
+    "さいほう設備がある。\nここで　防具や家具が作れそうだ。\n（今週は　あと<%nL_PLAYABLE>回　さいほうができます。）\n<break>": "There is a Sewing Facility. You can make armor\nand furniture here. (You can sew\n<%dL_PLAYABLE> more times this week.)\n<break>"
   },
   "178610": {
-    "さいほうを　続けますか？\n（今週は　あと<%nL_PLAYABLE>回　さいほうができます。）\n<break>": "Do you want to keep playing? （This week,\nyou'll be replayed <%nL_PLAYABLE> one more\ntime...)<break>"
+    "さいほうを　続けますか？\n（今週は　あと<%nL_PLAYABLE>回　さいほうができます。）\n<break>": "Would you like to continue sewing? (You can\nsew <%dL_PLAYABLE> more times this week.)\n<break>"
   },
   "179584": {
     "まれに集中力回復は\n覚えているだけで　集中力が残り少なくなった時に\n低確率で　集中力が３０回復します。": "You now have a slight chance of restoring\n30 Focus whenever your current Focus is\nrunning low!"
@@ -228,15 +228,15 @@
     "<%nL_TURN>ターン目": "Turn <%dL_TURN>"
   },
   "284961": {
-    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": ""
+    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": "<%dL_TURN>turns to activate material\nproperties <%dL_TOKUSEI_TURN>turns to go"
   },
   "284962": {
-    "<%nL_TURN>ターン目\n精神統一　あと<%nL_TOUITU_TURN>ターン": "<%nL_TURN>turn 1\nMental unification and <%nL_TOUITU_TURN> turns"
+    "<%nL_TURN>ターン目\n精神統一　あと<%nL_TOUITU_TURN>ターン": "<%dL_TURN>turn 1 mental unification and\n<%dL_TOUITU_TURN>turn 2"
   },
   "284963": {
-    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン\n精神統一　あと<%nL_TOUITU_TURN>ターン": ""
+    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン\n精神統一　あと<%nL_TOUITU_TURN>ターン": "<%dL_TURN>turn to activate material properties\n<%dL_TOKUSEI_TURN>turn to unify spirit\n<%dL_TOUITU_TURN>turn"
   },
   "291503": {
-    "半かげんぬいを使うと\n７５％のチカラで　ぬうことができます。\n細かい調整をしたい時に　役立てよう！": ""
+    "半かげんぬいを使うと\n７５％のチカラで　ぬうことができます。\n細かい調整をしたい時に　役立てよう！": "Half-calibration allows you to use 75% of the\nforce to wet. This is useful when you want to\nmake fine adjustments!"
   }
 }

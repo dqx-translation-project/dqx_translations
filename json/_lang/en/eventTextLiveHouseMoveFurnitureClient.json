@@ -6,10 +6,10 @@
     "テスト": "test"
   },
   "123670": {
-    "<%sL_FURNITURE>を敷く高さを\n決めてください。\n<break>": "Decide how high you want the <%sL_FURNITURE>\nto be...<break>"
+    "<%sL_FURNITURE>を敷く高さを\n決めてください。\n<break>": "Decide the height at which <%sL_FURNITURE> is\nto be laid down.\n<break>"
   },
   "123671": {
-    "<%sL_FURNITURE>を\n飾る高さを　決めてください。\n<break>": "Decide how high you want your <%sL_FURNITURE>\nto be...<break>"
+    "<%sL_FURNITURE>を\n飾る高さを　決めてください。\n<break>": "Decide the height at which you want\n<%sL_FURNITURE> to be displayed.\n<break>"
   },
   "123672": {
     "<%sL_FURNITURE>を置く場所を\n決めてください。\nあと<%nL_AVAILABLE_NUM>個の家具を　置くことができます。\n<break>": "Please choose where to place the\n<%sL_FURNITURE>. You can place\n<%dL_AVAILABLE_NUM> more pieces of furniture.\n<break>"
@@ -21,19 +21,19 @@
     "<speed=0><%sL_FURNITURE>は　\n他の人に　わたすことができない物のため\n配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because\nit's unable to be traded to others."
   },
   "123675": {
-    "かたづけられた家具を　すべて置かないと\n新たな家具は　置けません。": "We need to get rid of all the furniture\nthat's been put away so we can put in new\nfurniture..."
+    "かたづけられた家具を　すべて置かないと\n新たな家具は　置けません。": "New furniture cannot be placed until all the\nexisting furniture has been placed."
   },
   "123676": {
     "家具を配置できませんでした。\n<end>": "Could not place furniture.\n<end>"
   },
   "123677": {
-    "家具の配置権限がないため\n<%sL_FURNITURE>を　\nうごかすことは　できません。": "You don't have permission to place furniture,\nso you can't manipulate <%sL_FURNITURE>..."
+    "家具の配置権限がないため\n<%sL_FURNITURE>を　\nうごかすことは　できません。": "You do not have permission to place the\nfurniture and cannot invoke <%sL_FURNITURE>."
   },
   "123678": {
-    "家具の配置権限がないため\n家具を置くことは　できません。": "I don't have the authority to place furniture\nin this room, so I can't..."
+    "家具の配置権限がないため\n家具を置くことは　できません。": "Furniture cannot be placed because you do not\nhave permission to place furniture."
   },
   "123679": {
-    "家を建ててから\n家具や庭具を　配置してください。\n<end>": ""
+    "家を建ててから\n家具や庭具を　配置してください。\n<end>": "Place furniture and garden furniture after the\nhouse is built.\n<end>"
   },
   "123680": {
     "この家具は　庭具なので\n外に置いてください。\n<end>": "This is garden furniture and can only\nbe placed outside.\n<end>"
@@ -42,13 +42,13 @@
     "この家具は　庭具ではないので\n室内に置いてください。\n<end>": "This is not garden furniture and can only\nbe placed indoors.\n<end>"
   },
   "123682": {
-    "<speed=0><%sL_FURNITURE>は　\n家のオーナーしか　配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed by the\nowner of the house..."
+    "<speed=0><%sL_FURNITURE>は　\n家のオーナーしか　配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed\nby the house's owner."
   },
   "123683": {
-    "<%sL_FURNITURE>を敷く高さを\n決めてください。\n<break>": "Decide how high you want the <%sL_FURNITURE>\nto be...<break>"
+    "<%sL_FURNITURE>を敷く高さを\n決めてください。\n<break>": "Decide the height at which <%sL_FURNITURE> is\nto be laid down.\n<break>"
   },
   "123684": {
-    "<%sL_FURNITURE>を\n飾る高さを　決めてください。\n<break>": "Decide how high you want your <%sL_FURNITURE>\nto be...<break>"
+    "<%sL_FURNITURE>を\n飾る高さを　決めてください。\n<break>": "Decide the height at which you want\n<%sL_FURNITURE> to be displayed.\n<break>"
   },
   "123685": {
     "<%sL_FURNITURE>を置く場所を\n決めてください。\nあと<%nL_AVAILABLE_NUM>個の庭具を　置くことができます。\n<break>": "Please decide where to place your\n<%sL_FURNITURE>. You can place\n<%dL_AVAILABLE_NUM> more pieces of garden furniture.\n<break>"
@@ -60,19 +60,19 @@
     "<speed=0><%sL_FURNITURE>は　\n他の人に　わたすことができない物のため\n配置できません。　": "<speed=0><%sL_FURNITURE> can't be placed because\nit's unable to be traded to others."
   },
   "123688": {
-    "かたづけられた庭具を　すべて置かないと\n新たな庭具は　置けません。": "If we don't get rid of all the furniture\nthat's been put away, we can't put in new\nfurniture."
+    "かたづけられた庭具を　すべて置かないと\n新たな庭具は　置けません。": "New garden furniture cannot be placed until\nall the existing garden furniture has been\nplaced."
   },
   "123689": {
-    "庭具を配置できませんでした。\n<end>": "I can't place the garden tools...<end>"
+    "庭具を配置できませんでした。\n<end>": "Could not place garden furniture.\n<end>"
   },
   "123690": {
     "庭具の配置権限がないため\n<%sL_FURNITURE>を　\nうごかすことは　できません。": "You don't have placement permissions, so you\ncan't move the <%sL_FURNITURE>."
   },
   "123691": {
-    "庭具の配置権限がないため\n庭具を置くことは　できません。": "You don't have placement permissions."
+    "庭具の配置権限がないため\n庭具を置くことは　できません。": "You cannot place garden furniture because you\ndo not have permission to place garden\nfurniture."
   },
   "123692": {
-    "家を建ててから\n家具や庭具を　配置してください。\n<end>": ""
+    "家を建ててから\n家具や庭具を　配置してください。\n<end>": "Place furniture and garden furniture after the\nhouse is built.\n<end>"
   },
   "123693": {
     "この家具は　庭具なので\n外に置いてください。\n<end>": "This is garden furniture and can only\nbe placed outside.\n<end>"
@@ -81,31 +81,31 @@
     "この家具は　庭具ではないので\n室内に置いてください。\n<end>": "This is not garden furniture and can only\nbe placed indoors.\n<end>"
   },
   "123695": {
-    "<speed=0><%sL_FURNITURE>は　\n家のオーナーしか　配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed by the\nowner of the house..."
+    "<speed=0><%sL_FURNITURE>は　\n家のオーナーしか　配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed\nby the house's owner."
   },
   "123847": {
-    "予期せぬエラーにより\n処理を実行することが　できませんでした。": "Due to an unexpected error, we are unable to\nperform the operation..."
+    "予期せぬエラーにより\n処理を実行することが　できませんでした。": "Due to an unexpected error, the process could\nnot be executed."
   },
   "123848": {
-    "予期せぬエラーにより\n処理を実行することが　できませんでした。": "Due to an unexpected error, we are unable to\nperform the operation..."
+    "予期せぬエラーにより\n処理を実行することが　できませんでした。": "Due to an unexpected error, the process could\nnot be executed."
   },
   "123849": {
-    "貯金箱を　置いたので\n家からゴールド銀行に　お金を預けたり\n引き出すことが　できるようになりました！\n<br>\n貯金箱を　使用できるのは\n家のオーナーのみ。オーナー以外の人に\nお金を触られることは　ありません。\n<end>": "Now that you've placed the piggy bank, you\ncan deposit and withdraw money from your\nhouse to the Gold Bank! The piggy bank can\n<br>\nonly be used by the owner of the house... No\none but the owner can touch the money...<end>"
+    "貯金箱を　置いたので\n家からゴールド銀行に　お金を預けたり\n引き出すことが　できるようになりました！\n<br>\n貯金箱を　使用できるのは\n家のオーナーのみ。オーナー以外の人に\nお金を触られることは　ありません。\n<end>": "Now that you have placed the Gold Box, you can\ndeposit and withdraw money from your house to\nthe Gold Bank! Only the owner of the house can\n<br>\nuse the Gold Box. Only the owner of the house\ncan use the Gold Box, and no one else can\ntouch the money.\n<end>"
   },
   "123850": {
-    "きせかえドールを置いたので\n自分の装備品を　きせかえドールに着せて\n飾れるようになりました！\n<br>\n『きせかえする』から　きせかえドールに\n自分の装備品を　装備させられます。\n<br>\n『一発チェンジ』を使えば\n自分の今の装備と　きせかえドールの装備を\n一発で　チェンジすることができます。\n<br>\nただし　自分が装備できない装備品が\n含まれていたり　新品の装備がある場合は\n一発チェンジは　できません。": "Now that I've placed the Kisekae dolls, I can\noutfit them with my own equipment! You can\nequip your Kisekae doll with your own\n<br>\nequipment using \"Kisekae\"... You can use\n\"Change\" to change your current equipment and\nyour dress-up doll's equipment in one shot.\n<br>\nHowever, if the doll contains equipment that\nyou can't equip, or if it's brand new, you\nwon't be able to do a one-shot change."
+    "きせかえドールを置いたので\n自分の装備品を　きせかえドールに着せて\n飾れるようになりました！\n<br>\n『きせかえする』から　きせかえドールに\n自分の装備品を　装備させられます。\n<br>\n『一発チェンジ』を使えば\n自分の今の装備と　きせかえドールの装備を\n一発で　チェンジすることができます。\n<br>\nただし　自分が装備できない装備品が\n含まれていたり　新品の装備がある場合は\n一発チェンジは　できません。": "Now that you have a Dress-Up Doll, you can\ndress your own equipment on your Dress-Up Doll\nand display it! You can equip your own\n<br>\nequipment on Dress-Up Doll from the \"Kisekae-\nshiru\" menu. You can equip Dress-Up Doll with\nyour own equipment from the \"Kisekae\" menu,\n<br>\nand you can change your own equipment and\nDress-Up Doll's equipment in one shot by using\nthe \"One shot change\" menu. However, if there\n<br>\nis equipment that you cannot equip, or if\nthere is new equipment, you will not be able\nto perform a one-shot change."
   },
   "123851": {
-    "きせかえドールを置いたので\n自分の装備品を　きせかえドールに着せて\n飾れるようになりました！\n<br>\n『きせかえする』から　きせかえドールに\n自分の装備品を　装備させられます。\n<br>\n『一発チェンジ』を使えば\n自分の今の装備と　きせかえドールの装備を\n一発で　チェンジすることができます。\n<br>\nただし　自分が装備できない装備品が\n含まれている場合は\n一発チェンジは　できません。\n<br>\nなお　この　きせかえドールは\nワンタイムパスワードを\n設定している時だけ　使用できます。\n<br>\nワンタイムパスワードの設定を止めると\n着せている装備品が　外せなくなるので\nご注意ください。": "Now that I've placed the Kisekae dolls, I can\noutfit them with my own equipment! You can\nequip your Kisekae doll with your own\n<br>\nequipment using \"Kisekae\"... You can use\n\"Change\" to change your current equipment and\nyour dress-up doll's equipment in one shot.\n<br>\nHowever, if the doll contains equipment that\nyou can't equip, you won't be able to perform\na one-shot change. You can only use this\n<br>\ndress-up doll if you've set a one-time\npassword... If you stop using the one-time\npassword, you won't be able to remove the\n<br>\nequipment you're wearing."
+    "きせかえドールを置いたので\n自分の装備品を　きせかえドールに着せて\n飾れるようになりました！\n<br>\n『きせかえする』から　きせかえドールに\n自分の装備品を　装備させられます。\n<br>\n『一発チェンジ』を使えば\n自分の今の装備と　きせかえドールの装備を\n一発で　チェンジすることができます。\n<br>\nただし　自分が装備できない装備品が\n含まれている場合は\n一発チェンジは　できません。\n<br>\nなお　この　きせかえドールは\nワンタイムパスワードを\n設定している時だけ　使用できます。\n<br>\nワンタイムパスワードの設定を止めると\n着せている装備品が　外せなくなるので\nご注意ください。": "Now that you have a Dress-Up Doll, you can\ndress your own equipment on your Dress-Up Doll\nand display it! You can equip your own\n<br>\nequipment on the Dress-Up Doll from the\n\"Kisekae-shiru\" menu. You can equip Dress-Up\nDoll with your own equipment from the\n<br>\n\"Kisekae\" menu, and you can change your own\nequipment and Dress-Up Doll's equipment in one\nshot by using the \"One shot change\" menu.\n<br>\nHowever, if there are items that you cannot\nequip, you will not be able to use the one-\nshot change function. This Dress-Up Doll can\n<br>\nbe used only when the One Time Password is\nset. Please note that if you stop setting the\none-time password, you will not be able to\n<br>\nremove the equipment you have put on the doll."
   },
   "123852": {
-    "不明なエラーにより\n処理を終了できませんでした。": "The process cannot be terminated due to an\nunknown error..."
+    "不明なエラーにより\n処理を終了できませんでした。": "The process could not be terminated due to an\nunknown error."
   },
   "123853": {
-    "この家具は　他の人が　つかっています。": "This is being used by someone else right now."
+    "この家具は　他の人が　つかっています。": "This is being used by someone else."
   },
   "123854": {
-    "<%sL_FURNITURE>は\nこれ以上　置けません。\n<end>": "You can't place any more\n<%sL_FURNITURE>.<end>"
+    "<%sL_FURNITURE>は\nこれ以上　置けません。\n<end>": "You can't place any more\n<%sL_FURNITURE>.\n<end>"
   },
   "123855": {
     "ここに　家具は　配置できません。\n家具は　平らなところに　置きましょう。": "You cannot place that here. Try again on a\nflat surface."
@@ -120,100 +120,100 @@
     "床下水そう用ハッチを　置いたので\n釣ったさかなを　水そう床に飾れるように\nなりました！\n<br>\n水そう床は　全部で５種類。\n一番下の床だけに　設置することができ\n５匹まで　さかなを入れられます。\n<br>\n水そうに　さかなを出し入れできるのは\n家のオーナーのみ。水そうに入った\nさかなの情報は　だれでも見ることができます。\n<br>\nそれではさっそく　釣ったさかなを\n水そうに　飾ってみましょう！": "You placed down a Water Hatch! Now you can\ndisplay fish that you've caught in your\naquarium floor!\n<br>\nThere are five different types of aquarium\nfloors to choose from, and you can display\na maximum of five fish at once.\n<br>\nOnly the house's owner can put in or remove\nfish, but anyone can view the aquarium\nfloor's details.\n<br>\nTry showing off your most prized catches in\nyour aquarium floor!"
   },
   "123859": {
-    "モンスターのおうちを　置いたので\nお庭に　仲間モンスターをはなすことが\nできるようになりました！\n<br>\n仲間モンスターを　はなしたら\nモンスターのおうちで　すごさせるか\n近所をおさんぽさせるか　選ぶことができます。　\n<br>\nまた　仲間モンスターは　住宅村でだけ\nなでることができます。\n他の人の仲間モンスターも　なでられます。\n<br>\n仲間モンスターは　なでられた回数によって\nご主人さまに　お礼のおくりものをくれます。\nみんなで　なでなでしましょう！": "Now that you've set up your monster house,\nyou can release your monsters into the\ngarden! When you release a monster, you can\n<br>\nchoose whether to let it live in the monster\nhouse or go for a walk around the\nneighborhood... You can also pet your\n<br>\ncompanion monsters only in the residential\nvillage. You can also pet other people's\nmonsters... Each time a monster is petted,\n<br>\nits master receives a gift as a thank you...\nLet's pet them all!"
+    "モンスターのおうちを　置いたので\nお庭に　仲間モンスターをはなすことが\nできるようになりました！\n<br>\n仲間モンスターを　はなしたら\nモンスターのおうちで　すごさせるか\n近所をおさんぽさせるか　選ぶことができます。　\n<br>\nまた　仲間モンスターは　住宅村でだけ\nなでることができます。\n他の人の仲間モンスターも　なでられます。\n<br>\n仲間モンスターは　なでられた回数によって\nご主人さまに　お礼のおくりものをくれます。\nみんなで　なでなでしましょう！": "Now you can release a companion monster in\nyour garden by placing a monster house in the\ngarden. You can also choose whether to let the\n<br>\ncompanion monster stay at the monster's house\nor go for a walk around the neighborhood. You\ncan also stroke other people's companion\n<br>\nmonsters, and the companion monster will\nreward the master with a gift based on the\nnumber of times it is stroked. Let's stroke\n<br>\nthem together!"
   },
   "123860": {
-    "郵便ポストを　置いたので　\nポストから　手紙や荷物を送ったり\n受け取ったり　できるようになりました！\n<br>\nポストで受け取れる　手紙や荷物は\n郵便局と共通で　郵便箱に届いた物です。\n<br>\nポストには　『うけとる』や『おくる』\n『売り上げうけとり』の項目がありますが\n使用できるのは　家のオーナーのみです。\n<br>\nただし　権限のある人なら　手紙や荷物を\nポストに　直接入れることで\n家のオーナー宛てに　送ることができます。\n<br>\n権限の設定は　扉メニューから　管理人を呼び\n管理人メニューの　権限の設定にある\n『郵便ポストの使用』から　変更できます。\n<br>\n『おもいで私書箱を見る』からは　季節イベントや\n期間限定イベントのご案内など　冒険者の皆様に\n送られた　一部の手紙を閲覧することができます。": "We've put in a post box so you can send and\nreceive letters and packages through the\npost! The letters and packages you can\n<br>\nreceive at the post box are the same as those\ndelivered to the post office... On the\npostbox, there are options such as \"Receive\",\n<br>\n\"Send\" and \"Sales receipt\", but only the\nowner of the house can use them. However, if\nyou have permission, you can send a letter or\n<br>\npackage directly to the owner of the house...\nYou can change the permissions by going to\nthe door menu, calling the manager, and going\n<br>\nto the manager's menu, under permissions, and\nthen going to \"Use Post Office Box.\" In the\n\"View Post Office Box\" section, you can view\n<br>\nsome of the letters that were sent to\nadventurers..."
+    "郵便ポストを　置いたので　\nポストから　手紙や荷物を送ったり\n受け取ったり　できるようになりました！\n<br>\nポストで受け取れる　手紙や荷物は\n郵便局と共通で　郵便箱に届いた物です。\n<br>\nポストには　『うけとる』や『おくる』\n『売り上げうけとり』の項目がありますが\n使用できるのは　家のオーナーのみです。\n<br>\nただし　権限のある人なら　手紙や荷物を\nポストに　直接入れることで\n家のオーナー宛てに　送ることができます。\n<br>\n権限の設定は　扉メニューから　管理人を呼び\n管理人メニューの　権限の設定にある\n『郵便ポストの使用』から　変更できます。\n<br>\n『おもいで私書箱を見る』からは　季節イベントや\n期間限定イベントのご案内など　冒険者の皆様に\n送られた　一部の手紙を閲覧することができます。": "Now that you have installed a Mailbox, you can\nsend and receive letters and packages from\nyour mailbox! The letters and packages that\n<br>\ncan be received at the mailbox are the same as\nthose received at the Post Office. The mailbox\nhas \"Receive\", \"Send\", and \"Receive Sales\"\n<br>\noptions, but only the owner of the house can\nuse the mailbox. However, authorized users can\nsend letters and packages to the owner of the\n<br>\nhouse by putting them directly into the\nmailbox. The permission settings can be\nchanged by calling the administrator from the\n<br>\ndoor menu and selecting \"Use Mailbox\" from the\nadministrator's menu. The \"View P.O. Box\"\nsection allows you to view some of the letters\n<br>\nsent to adventurers, such as seasonal events\nand limited time offerings."
   },
   "123861": {
-    "<%sL_FURNITURE>を置いたので\n家に遊びにきてくれた人が　\nメッセージを　残せるようになりました！\n<br>\nメッセージは　ひとり１日３件まで。\n最大で　３０件まで保存できます。\n<br>\n誰かがメッセージを残してくれると\nスライムが　光っているので\nすぐに　わかります。\n<br>\nメッセージは　遊びにきてくれた人も\n見ることができるので　あなたからの\nメッセージも　書いておくこともできますよ！": "I've put up a <%sL_FURNITURE> so that people\nwho come to my house can leave a message!\nEach person can leave 3 messages a day... You\n<br>\ncan save up to 30 messages per day. When\nsomeone leaves a message, the slime will\nlight up, so you'll know... Messages can also\n<br>\nbe viewed by visitors, so you can write your\nown messages there too!"
+    "<%sL_FURNITURE>を置いたので\n家に遊びにきてくれた人が　\nメッセージを　残せるようになりました！\n<br>\nメッセージは　ひとり１日３件まで。\n最大で　３０件まで保存できます。\n<br>\n誰かがメッセージを残してくれると\nスライムが　光っているので\nすぐに　わかります。\n<br>\nメッセージは　遊びにきてくれた人も\n見ることができるので　あなたからの\nメッセージも　書いておくこともできますよ！": "I have placed <%sL_FURNITURE> so that visitors\nto my house can leave messages! Each person\ncan leave up to 3 messages per day. Up to 3\n<br>\nmessages per person per day, up to a maximum\nof 30 messages can be saved. When someone\nleaves a message, Slime will light up so you\n<br>\nwill know immediately. Messages can also be\nviewed by visitors, so you can write your own\nmessage as well!"
   },
   "123862": {
-    "モーモンバザーを置いたので\n家に遊びにきてくれた人向けの\nお店を開くことが　できるようになりました！\n<br>\nモーモンバザーの　『売り物を設定する』から\n収納家具に入れたアイテムに値段をつけることで\nそのアイテムを　売りにだすことができます。\n<br>\n商品が売れると　モーモンが\nピンクモーモンになります！\n売り物がなくなると　怖い顔になります。\n<br>\n売上金は　家のオーナーだけが受け取れます。\n受け取っていない　売り上げが　９９９件あると\nそれ以上　アイテムを　販売できなくなります。\n<br>\nそれでは　売り物を　設定してみましょう！": "Now that you have the Mormon Bazaar, you can\nopen a shop for people who come to your\nhouse! In the Mormon Bazaar, you can put a\n<br>\nprice on the items you've placed in your\nstorage furniture to sell them. When the item\nsells, Mormon will turn into Pink Mormon!\n<br>\nWhen there's nothing left to sell, he turns\nscary... Only the owner of the house gets the\nmoney. If you have 999 sales that you haven't\n<br>\nreceived, you can't sell any more items. Now,\nlet's set up the items for sale!"
+    "モーモンバザーを置いたので\n家に遊びにきてくれた人向けの\nお店を開くことが　できるようになりました！\n<br>\nモーモンバザーの　『売り物を設定する』から\n収納家具に入れたアイテムに値段をつけることで\nそのアイテムを　売りにだすことができます。\n<br>\n商品が売れると　モーモンが\nピンクモーモンになります！\n売り物がなくなると　怖い顔になります。\n<br>\n売上金は　家のオーナーだけが受け取れます。\n受け取っていない　売り上げが　９９９件あると\nそれ以上　アイテムを　販売できなくなります。\n<br>\nそれでは　売り物を　設定してみましょう！": "Now that you have set up the Sanguini Bazaar,\nyou can open a store for visitors to your\nhome! When an item is sold, the Teeny Sanguini\n<br>\nwill become a Pink Sanguini! When there are no\nmore items for sale, the face will turn scary.\nOnly the owner of the house can receive the\n<br>\nproceeds. If you have 999 unclaimed sales, you\nwill not be able to sell any more Items. Now\nlet's set up the items for sale!"
   },
   "123863": {
     "おもいで映写機を　置きました！\n『映写機をつかう』を選ぶと　これまでに見た\nシナリオ中のイベントを　観られます！": "We've set up a memory projector! If you\nselect the \"Use Projector\" option, you'll be\nable to watch the events of the scenarios\n<br>\nyou've seen so far!"
   },
   "123864": {
-    "収納家具を　設置しました！\n収納家具を設置すると　アイテムを\n<%nL_VAULT_SLOT>種類まで　しまえるようになります。\n<br>\n収納家具の数を増やしても　最大数は\n<%nL_VAULT_SLOT>種類のままなので　ご注意ください。": "Storage furniture has been installed! When\nyou install storage furniture, you can store\nup to <%nL_VAULT_SLOT> types of items...\n<br>\nPlease note that even if you increase the\nnumber of storage furniture, the maximum\nnumber of types will remain\n<br>\n<%nL_VAULT_SLOT>..."
+    "収納家具を　設置しました！\n収納家具を設置すると　アイテムを\n<%nL_VAULT_SLOT>種類まで　しまえるようになります。\n<br>\n収納家具の数を増やしても　最大数は\n<%nL_VAULT_SLOT>種類のままなので　ご注意ください。": "Storage furniture has been installed! When you\ninstall storage furniture, you can store up to\n<%dL_VAULT_SLOT> types of Items. Please note\n<br>\nthat even if you increase the number of\nstorage furniture, the maximum number will\nremain <%dL_VAULT_SLOT> types."
   },
   "123865": {
-    "水そうを　置いたので\n釣ったさかなを　家に飾れるように\nなりました！\n<br>\n水そうは　大きさに関係なく\n１つの家に　最大１０個まで\n置くことができます。\n<br>\n水そうに　さかなを出し入れできるのは\n家のオーナーのみ。水そうに入った\nさかなの情報は　だれでも見ることができます。\n<br>\nそれではさっそく　釣ったさかなを\n水そうに　飾ってみましょう！": ""
+    "水そうを　置いたので\n釣ったさかなを　家に飾れるように\nなりました！\n<br>\n水そうは　大きさに関係なく\n１つの家に　最大１０個まで\n置くことができます。\n<br>\n水そうに　さかなを出し入れできるのは\n家のオーナーのみ。水そうに入った\nさかなの情報は　だれでも見ることができます。\n<br>\nそれではさっそく　釣ったさかなを\n水そうに　飾ってみましょう！": "Now you can display the fish you have caught\nin your house by installing an aquarium. The\naquarium is open to everyone. Now, let's put\n<br>\nthe fish you caught in the aquarium on the\nwall!"
   },
   "123866": {
-    "貯金箱を　置いたので\n家からゴールド銀行に　お金を預けたり\n引き出すことが　できるようになりました！\n<br>\n貯金箱を　使用できるのは\n家のオーナーのみ。オーナー以外の人に\nお金を触られることは　ありません。\n<end>": "Now that you've placed the piggy bank, you\ncan deposit and withdraw money from your\nhouse to the Gold Bank! The piggy bank can\n<br>\nonly be used by the owner of the house... No\none but the owner can touch the money...<end>"
+    "貯金箱を　置いたので\n家からゴールド銀行に　お金を預けたり\n引き出すことが　できるようになりました！\n<br>\n貯金箱を　使用できるのは\n家のオーナーのみ。オーナー以外の人に\nお金を触られることは　ありません。\n<end>": "Now that you have placed a Gold Box, you can\ndeposit and withdraw money from your house to\nthe Gold Bank! Only the owner of the house can\n<br>\nuse the Gold Box. Only the owner of the house\ncan use the Gold Box, and no one else can\ntouch the money.\n<end>"
   },
   "123867": {
-    "きせかえドールを置いたので\n自分の装備品を　きせかえドールに着せて\n飾れるようになりました！\n<br>\n『きせかえする』から　きせかえドールに\n自分の装備品を　装備させられます。\n<br>\n『一発チェンジ』を使えば\n自分の今の装備と　きせかえドールの装備を\n一発で　チェンジすることができます。\n<br>\nただし　自分が装備できない装備品が\n含まれていたり　新品の装備がある場合は\n一発チェンジは　できません。": "Now that I've placed the Kisekae dolls, I can\noutfit them with my own equipment! You can\nequip your Kisekae doll with your own\n<br>\nequipment using \"Kisekae\"... You can use\n\"Change\" to change your current equipment and\nyour dress-up doll's equipment in one shot.\n<br>\nHowever, if the doll contains equipment that\nyou can't equip, or if it's brand new, you\nwon't be able to do a one-shot change."
+    "きせかえドールを置いたので\n自分の装備品を　きせかえドールに着せて\n飾れるようになりました！\n<br>\n『きせかえする』から　きせかえドールに\n自分の装備品を　装備させられます。\n<br>\n『一発チェンジ』を使えば\n自分の今の装備と　きせかえドールの装備を\n一発で　チェンジすることができます。\n<br>\nただし　自分が装備できない装備品が\n含まれていたり　新品の装備がある場合は\n一発チェンジは　できません。": "Now that you have a Dress-Up Doll, you can\ndress your own equipment on your Dress-Up Doll\nand display it! You can equip your own\n<br>\nequipment on Dress-Up Doll from the \"Kisekae-\nshiru\" menu. You can equip Dress-Up Doll with\nyour own equipment from the \"Kisekae\" menu,\n<br>\nand you can change your own equipment and\nDress-Up Doll's equipment in one shot by using\nthe \"One shot change\" menu. However, if there\n<br>\nis equipment that you cannot equip, or if\nthere is new equipment, you will not be able\nto perform a one-shot change."
   },
   "123868": {
-    "きせかえドールを置いたので\n自分の装備品を　きせかえドールに着せて\n飾れるようになりました！\n<br>\n『きせかえする』から　きせかえドールに\n自分の装備品を　装備させられます。\n<br>\n『一発チェンジ』を使えば\n自分の今の装備と　きせかえドールの装備を\n一発で　チェンジすることができます。\n<br>\nただし　自分が装備できない装備品が\n含まれている場合は\n一発チェンジは　できません。\n<br>\nなお　この　きせかえドールは\nワンタイムパスワードを\n設定している時だけ　使用できます。\n<br>\nワンタイムパスワードの設定を止めると\n着せている装備品が　外せなくなるので\nご注意ください。": "Now that I've placed the Kisekae dolls, I can\noutfit them with my own equipment! You can\nequip your Kisekae doll with your own\n<br>\nequipment using \"Kisekae\"... You can use\n\"Change\" to change your current equipment and\nyour dress-up doll's equipment in one shot.\n<br>\nHowever, if the doll contains equipment that\nyou can't equip, you won't be able to perform\na one-shot change. You can only use this\n<br>\ndress-up doll if you've set a one-time\npassword... If you stop using the one-time\npassword, you won't be able to remove the\n<br>\nequipment you're wearing."
+    "きせかえドールを置いたので\n自分の装備品を　きせかえドールに着せて\n飾れるようになりました！\n<br>\n『きせかえする』から　きせかえドールに\n自分の装備品を　装備させられます。\n<br>\n『一発チェンジ』を使えば\n自分の今の装備と　きせかえドールの装備を\n一発で　チェンジすることができます。\n<br>\nただし　自分が装備できない装備品が\n含まれている場合は\n一発チェンジは　できません。\n<br>\nなお　この　きせかえドールは\nワンタイムパスワードを\n設定している時だけ　使用できます。\n<br>\nワンタイムパスワードの設定を止めると\n着せている装備品が　外せなくなるので\nご注意ください。": "Now that you have a Dress-Up Doll, you can\ndress your own equipment on your Dress-Up Doll\nand display it! You can equip your own\n<br>\nequipment on the Dress-Up Doll from the\n\"Kisekae-shiru\" menu. You can equip Dress-Up\nDoll with your own equipment from the\n<br>\n\"Kisekae\" menu, and you can change your own\nequipment and Dress-Up Doll's equipment in one\nshot by using the \"One shot change\" menu.\n<br>\nHowever, if there are items that you cannot\nequip, you will not be able to use the one-\nshot change function. This Dress-Up Doll can\n<br>\nbe used only when the One Time Password is\nset. Please note that if you stop setting the\none-time password, you will not be able to\n<br>\nremove the equipment you are wearing."
   },
   "123869": {
-    "不明なエラーにより\n処理を終了できませんでした。": "The process cannot be terminated due to an\nunknown error..."
+    "不明なエラーにより\n処理を終了できませんでした。": "The process could not be terminated due to an\nunknown error."
   },
   "123870": {
-    "この庭具は　他の人が　つかっています。": "This is being used by someone else right now."
+    "この庭具は　他の人が　つかっています。": "This is being used by someone else."
   },
   "123871": {
-    "<%sL_FURNITURE>は\nこれ以上　置けません。\n<end>": "You can't place any more\n<%sL_FURNITURE>.<end>"
+    "<%sL_FURNITURE>は\nこれ以上　置けません。\n<end>": "You can't place any more\n<%sL_FURNITURE>.\n<end>"
   },
   "123872": {
-    "ここに　庭具は　配置できません。\n庭具は　平らなところに　置きましょう。": "The garden tools can be placed here... The\ngarden tools can be placed on a flat\nsurface..."
+    "ここに　庭具は　配置できません。\n庭具は　平らなところに　置きましょう。": "You cannot place that here. Try again on a\nflat surface."
   },
   "123873": {
-    "ここに　庭具は　配置できません。\n庭具は　庭に　置きましょう。": "You can put your garden tools here... The\ngarden tools can be placed in the garden..."
+    "ここに　庭具は　配置できません。\n庭具は　庭に　置きましょう。": "You cannot place that here. Try again in the\ngarden."
   },
   "123874": {
-    "近くに　たくさんの庭具があるので\nここには　置けません。": "There's a lot of garden tools nearby, so we\ncan't put them here..."
+    "近くに　たくさんの庭具があるので\nここには　置けません。": "There are so many garden furniture nearby that\nI can't put it here."
   },
   "123875": {
     "床下水そう用ハッチを　置いたので\n釣ったさかなを　水そう床に飾れるように\nなりました！\n<br>\n水そう床は　全部で５種類。\n一番下の床だけに　設置することができ\n５匹まで　さかなを入れられます。\n<br>\n水そうに　さかなを出し入れできるのは\n家のオーナーのみ。水そうに入った\nさかなの情報は　だれでも見ることができます。\n<br>\nそれではさっそく　釣ったさかなを\n水そうに　飾ってみましょう！": "You placed down a Water Hatch! Now you can\ndisplay fish that you've caught in your\naquarium floor!\n<br>\nThere are five different types of aquarium\nfloors to choose from, and you can display\na maximum of five fish at once.\n<br>\nOnly the house's owner can put in or remove\nfish, but anyone can view the aquarium\nfloor's details.\n<br>\nTry showing off your most prized catches in\nyour aquarium floor!"
   },
   "123876": {
-    "モンスターのおうちを　置いたので\nお庭に　仲間モンスターをはなすことが\nできるようになりました！\n<br>\n仲間モンスターを　はなしたら\nモンスターのおうちで　すごさせるか\n近所をおさんぽさせるか　選ぶことができます。　\n<br>\nまた　仲間モンスターは　住宅村でだけ\nなでることができます。\n他の人の仲間モンスターも　なでられます。\n<br>\n仲間モンスターは　なでられた回数によって\nご主人さまに　お礼のおくりものをくれます。\nみんなで　なでなでしましょう！": "Now that you've set up your monster house,\nyou can release your monsters into the\ngarden! When you release a monster, you can\n<br>\nchoose whether to let it live in the monster\nhouse or go for a walk around the\nneighborhood... You can also pet your\n<br>\ncompanion monsters only in the residential\nvillage. You can also pet other people's\nmonsters... Each time a monster is petted,\n<br>\nits master receives a gift as a thank you...\nLet's pet them all!"
+    "モンスターのおうちを　置いたので\nお庭に　仲間モンスターをはなすことが\nできるようになりました！\n<br>\n仲間モンスターを　はなしたら\nモンスターのおうちで　すごさせるか\n近所をおさんぽさせるか　選ぶことができます。　\n<br>\nまた　仲間モンスターは　住宅村でだけ\nなでることができます。\n他の人の仲間モンスターも　なでられます。\n<br>\n仲間モンスターは　なでられた回数によって\nご主人さまに　お礼のおくりものをくれます。\nみんなで　なでなでしましょう！": "Now you can release a companion monster in\nyour garden by placing a monster house in the\ngarden. You can choose whether to let the\n<br>\ncompanion monster stay in the monster's house\nor go for a walk around the neighborhood. You\ncan also stroke other people's companion\n<br>\nmonsters, and the companion monster will\nreward the master with a gift based on the\nnumber of times it is stroked. Let's stroke\n<br>\nthem together!"
   },
   "123877": {
-    "郵便ポストを　置いたので　\nポストから　手紙や荷物を送ったり\n受け取ったり　できるようになりました！\n<br>\nポストで受け取れる　手紙や荷物は\n郵便局と共通で　郵便箱に届いた物です。\n<br>\nポストには　『うけとる』や『おくる』\n『売り上げうけとり』の項目がありますが\n使用できるのは　家のオーナーのみです。\n<br>\nただし　権限のある人なら　手紙や荷物を\nポストに　直接入れることで\n家のオーナー宛てに　送ることができます。\n<br>\n権限の設定は　扉メニューから　管理人を呼び\n管理人メニューの　権限の設定にある\n『郵便ポストの使用』から　変更できます。\n<br>\n『おもいで私書箱を見る』からは　季節イベントや\n期間限定イベントのご案内など　冒険者の皆様に\n送られた　一部の手紙を閲覧することができます。": "We've put in a post box so you can send and\nreceive letters and packages through the\npost! The letters and packages you can\n<br>\nreceive at the post box are the same as those\ndelivered to the post office... On the\npostbox, there are options such as \"Receive\",\n<br>\n\"Send\" and \"Sales receipt\", but only the\nowner of the house can use them. However, if\nyou have permission, you can send a letter or\n<br>\npackage directly to the owner of the house...\nYou can change the permissions by going to\nthe door menu, calling the manager, and going\n<br>\nto the manager's menu, under permissions, and\nthen going to \"Use Post Office Box.\" In the\n\"View Post Office Box\" section, you can view\n<br>\nsome of the letters that were sent to\nadventurers..."
+    "郵便ポストを　置いたので　\nポストから　手紙や荷物を送ったり\n受け取ったり　できるようになりました！\n<br>\nポストで受け取れる　手紙や荷物は\n郵便局と共通で　郵便箱に届いた物です。\n<br>\nポストには　『うけとる』や『おくる』\n『売り上げうけとり』の項目がありますが\n使用できるのは　家のオーナーのみです。\n<br>\nただし　権限のある人なら　手紙や荷物を\nポストに　直接入れることで\n家のオーナー宛てに　送ることができます。\n<br>\n権限の設定は　扉メニューから　管理人を呼び\n管理人メニューの　権限の設定にある\n『郵便ポストの使用』から　変更できます。\n<br>\n『おもいで私書箱を見る』からは　季節イベントや\n期間限定イベントのご案内など　冒険者の皆様に\n送られた　一部の手紙を閲覧することができます。": "Now that you have installed a Mailbox, you can\nsend and receive letters and packages from\nyour mailbox! The letters and packages that\n<br>\ncan be received at the mailbox are the same as\nthose received at the Post Office. The mailbox\nhas \"Receive\", \"Send\", and \"Receive Sales\"\n<br>\noptions, but only the owner of the house can\nuse the mailbox. However, authorized users can\nsend letters and packages to the owner of the\n<br>\nhouse by putting them directly into the\nmailbox. The permission settings can be\nchanged by calling the administrator from the\n<br>\ndoor menu and selecting \"Use Mailbox\" from the\nadministrator's menu. The \"View P.O. Box\"\nsection allows you to view some of the letters\n<br>\nsent to adventurers, such as seasonal events\nand limited time offerings."
   },
   "123878": {
-    "<%sL_FURNITURE>を置いたので\n家に遊びにきてくれた人が　\nメッセージを　残せるようになりました！\n<br>\nメッセージは　ひとり１日３件まで。\n最大で　３０件まで保存できます。\n<br>\n誰かがメッセージを残してくれると\nスライムが　光っているので\nすぐに　わかります。\n<br>\nメッセージは　遊びにきてくれた人も\n見ることができるので　あなたからの\nメッセージも　書いておくこともできますよ！": "I've put up a <%sL_FURNITURE> so that people\nwho come to my house can leave a message!\nEach person can leave 3 messages a day... You\n<br>\ncan save up to 30 messages per day. When\nsomeone leaves a message, the slime will\nlight up, so you'll know... Messages can also\n<br>\nbe viewed by visitors, so you can write your\nown messages there too!"
+    "<%sL_FURNITURE>を置いたので\n家に遊びにきてくれた人が　\nメッセージを　残せるようになりました！\n<br>\nメッセージは　ひとり１日３件まで。\n最大で　３０件まで保存できます。\n<br>\n誰かがメッセージを残してくれると\nスライムが　光っているので\nすぐに　わかります。\n<br>\nメッセージは　遊びにきてくれた人も\n見ることができるので　あなたからの\nメッセージも　書いておくこともできますよ！": "I have placed <%sL_FURNITURE> so that visitors\nto my house can leave messages! Each person\ncan leave up to 3 messages per day. Up to 3\n<br>\nmessages per person per day, up to a maximum\nof 30 messages can be saved. When someone\nleaves a message, Slime will light up so you\n<br>\nwill know immediately. Messages can also be\nviewed by visitors, so you can write your own\nmessage as well!"
   },
   "123879": {
-    "モーモンバザーを置いたので\n家に遊びにきてくれた人向けの\nお店を開くことが　できるようになりました！\n<br>\nモーモンバザーの　『売り物を設定する』から\n収納家具に入れたアイテムに値段をつけることで\nそのアイテムを　売りにだすことができます。\n<br>\n商品が売れると　モーモンが\nピンクモーモンになります！\n売り物がなくなると　怖い顔になります。\n<br>\n売上金は　家のオーナーだけが受け取れます。\n受け取っていない　売り上げが　９９９件あると\nそれ以上　アイテムを　販売できなくなります。\n<br>\nそれでは　売り物を　設定してみましょう！": "Now that you have the Mormon Bazaar, you can\nopen a shop for people who come to your\nhouse! In the Mormon Bazaar, you can put a\n<br>\nprice on the items you've placed in your\nstorage furniture to sell them. When the item\nsells, Mormon will turn into Pink Mormon!\n<br>\nWhen there's nothing left to sell, he turns\nscary... Only the owner of the house gets the\nmoney. If you have 999 sales that you haven't\n<br>\nreceived, you can't sell any more items. Now,\nlet's set up the items for sale!"
+    "モーモンバザーを置いたので\n家に遊びにきてくれた人向けの\nお店を開くことが　できるようになりました！\n<br>\nモーモンバザーの　『売り物を設定する』から\n収納家具に入れたアイテムに値段をつけることで\nそのアイテムを　売りにだすことができます。\n<br>\n商品が売れると　モーモンが\nピンクモーモンになります！\n売り物がなくなると　怖い顔になります。\n<br>\n売上金は　家のオーナーだけが受け取れます。\n受け取っていない　売り上げが　９９９件あると\nそれ以上　アイテムを　販売できなくなります。\n<br>\nそれでは　売り物を　設定してみましょう！": "Now that you have set up the Sanguini Bazaar,\nyou can open a store for visitors to your\nhome! When an item is sold, the Teeny Sanguini\n<br>\nwill become a Pink Sanguini! When there are no\nmore items for sale, the face will turn scary.\nOnly the owner of the house can receive the\n<br>\nproceeds. If you have 999 unclaimed sales, you\nwill not be able to sell any more Items. Now\nlet's set up the items for sale!"
   },
   "123880": {
     "おもいで映写機を　置きました！\n『映写機をつかう』を選ぶと　これまでに見た\nシナリオ中のイベントを　観られます！": "We've set up a memory projector! If you\nselect the \"Use Projector\" option, you'll be\nable to watch the events of the scenarios\n<br>\nyou've seen so far!"
   },
   "123881": {
-    "収納家具を　設置しました！\n収納家具を設置すると　アイテムを\n<%nL_VAULT_SLOT>種類まで　しまえるようになります。\n<br>\n収納家具の数を増やしても　最大数は\n<%nL_VAULT_SLOT>種類のままなので　ご注意ください。": "Storage furniture has been installed! When\nyou install storage furniture, you can store\nup to <%nL_VAULT_SLOT> types of items...\n<br>\nPlease note that even if you increase the\nnumber of storage furniture, the maximum\nnumber of types will remain\n<br>\n<%nL_VAULT_SLOT>..."
+    "収納家具を　設置しました！\n収納家具を設置すると　アイテムを\n<%nL_VAULT_SLOT>種類まで　しまえるようになります。\n<br>\n収納家具の数を増やしても　最大数は\n<%nL_VAULT_SLOT>種類のままなので　ご注意ください。": "Storage furniture has been installed! When you\ninstall storage furniture, you can store up to\n<%dL_VAULT_SLOT> types of Items. Please note\n<br>\nthat even if you increase the number of\nstorage furniture, the maximum number will\nremain <%dL_VAULT_SLOT> types."
   },
   "123882": {
-    "水そうを　置いたので\n釣ったさかなを　家に飾れるように\nなりました！\n<br>\n水そうは　大きさに関係なく\n１つの家に　最大１０個まで\n置くことができます。\n<br>\n水そうに　さかなを出し入れできるのは\n家のオーナーのみ。水そうに入った\nさかなの情報は　だれでも見ることができます。\n<br>\nそれではさっそく　釣ったさかなを\n水そうに　飾ってみましょう！": ""
+    "水そうを　置いたので\n釣ったさかなを　家に飾れるように\nなりました！\n<br>\n水そうは　大きさに関係なく\n１つの家に　最大１０個まで\n置くことができます。\n<br>\n水そうに　さかなを出し入れできるのは\n家のオーナーのみ。水そうに入った\nさかなの情報は　だれでも見ることができます。\n<br>\nそれではさっそく　釣ったさかなを\n水そうに　飾ってみましょう！": "Now you can display the fish you have caught\nin your house by installing an aquarium. The\naquarium is open to everyone. Now, let's put\n<br>\nthe fish you caught in the aquarium on the\nwall!"
   },
   "123883": {
-    "花を栽培中のため　動かせません。\nかかしのコマンドの　『やりなおす』をすれば\n動かせるようになります。": "I'm growing flowers. I can't move it. If we\nredo the scarecrow's commands, we can make it\nmove..."
+    "花を栽培中のため　動かせません。\nかかしのコマンドの　『やりなおす』をすれば\n動かせるようになります。": "The scarecrow cannot be moved because it is\ngrowing flowers. You can move it by \"Redo\" of\nthe scarecrow's command."
   },
   "123884": {
-    "モンスターがいるため　動かせません。\n『モンスターをひっこめる』から\nモンスターを　戻せば動かせます。": "There's a monster in there. I can't move it.\nIf we can get the monsters back from the\nmonsters..."
+    "モンスターがいるため　動かせません。\n『モンスターをひっこめる』から\nモンスターを　戻せば動かせます。": "The monster is still there and cannot be\nmoved. You can move the monster by putting it\nback in the \"Remove Monster\" menu."
   },
   "123885": {
-    "そのアイテムを　置くことはできません。": "You can't put that item..."
+    "そのアイテムを　置くことはできません。": "You cannot place that Item."
   },
   "123886": {
-    "花を栽培中のため　動かせません。\nかかしのコマンドの　『やりなおす』をすれば\n動かせるようになります。": "I'm growing flowers. I can't move it. If we\nredo the scarecrow's commands, we can make it\nmove..."
+    "花を栽培中のため　動かせません。\nかかしのコマンドの　『やりなおす』をすれば\n動かせるようになります。": "The scarecrow cannot be moved because it is\ngrowing flowers. You can move it by \"Redo\" of\nthe scarecrow's command."
   },
   "123887": {
-    "モンスターがいるため　動かせません。\n『モンスターをひっこめる』から\nモンスターを　戻せば動かせます。": "There's a monster in there. I can't move it.\nIf we can get the monsters back from the\nmonsters..."
+    "モンスターがいるため　動かせません。\n『モンスターをひっこめる』から\nモンスターを　戻せば動かせます。": "The monster is still there and cannot be\nmoved. You can move the monster by putting it\nback in the \"Remove Monster\" menu."
   },
   "123888": {
-    "そのアイテムを　置くことはできません。": "You can't put that item..."
+    "そのアイテムを　置くことはできません。": "You cannot place that Item."
   },
   "124134": {
-    "<%sL_FURNITURE>の　奥行きを\n決めてください。\n<break>": "Choose the depth of the\n<%sL_FURNITURE>.<break>"
+    "<%sL_FURNITURE>の　奥行きを\n決めてください。\n<break>": "Choose the depth of the\n<%sL_FURNITURE>.\n<break>"
   },
   "124135": {
-    "<%sL_FURNITURE>の　奥行きを\n決めてください。\n<break>": "Choose the depth of the\n<%sL_FURNITURE>.<break>"
+    "<%sL_FURNITURE>の　奥行きを\n決めてください。\n<break>": "Choose the depth of the\n<%sL_FURNITURE>.\n<break>"
   },
   "124221": {
     "<%sL_FURNITURE>を　置く場所を\n決めてください。\nあと<%nL_AVAILABLE_NUM>個の家具を　置くことができます。\n<break>": "Please choose where to place the\n<%sL_FURNITURE>. You can place\n<%dL_AVAILABLE_NUM> more pieces of furniture.\n<break>"
@@ -222,16 +222,16 @@
     "<%sL_FURNITURE>を　置く場所を\n決めてください。\nあと<%nL_AVAILABLE_NUM>個の庭具を　置くことができます。\n<break>": "Please choose where to place the\n<%sL_FURNITURE>. You can place\n<%dL_AVAILABLE_NUM> more pieces of furniture outside.\n<break>"
   },
   "125429": {
-    "壁かけ家具は　配置する時に\n位置と奥行きを　決めることができます。\n配置後に　奥行きだけ調整も　可能です。\n<br>\n壁かけ家具を　配置できない場所は\n家具自体が　半透明になります。\n配置中　自分の姿は見えなくなります。": "Wall-mounted furniture is designed to be\nplaced in a specific position and depth...\nThe depth can be adjusted after placement...\n<br>\nWhere wall-mounted furniture cannot be\nplaced, the furniture itself becomes\ntranslucent... You can't see yourself while\n<br>\nit's in place..."
+    "壁かけ家具は　配置する時に\n位置と奥行きを　決めることができます。\n配置後に　奥行きだけ調整も　可能です。\n<br>\n壁かけ家具を　配置できない場所は\n家具自体が　半透明になります。\n配置中　自分の姿は見えなくなります。": "The position and depth of the wall-mounted\nfurniture can be determined at the time of\nplacement. Only the depth can be adjusted\n<br>\nafter placement. In places where wall-hanging\nfurniture cannot be placed, the furniture\nitself becomes translucent. During placement,\n<br>\nyou will not be able to see yourself."
   },
   "125430": {
-    "壁かけ家具は　配置する時に\n位置と奥行きを　決めることができます。\n配置後に　奥行きだけ調整も　可能です。\n<br>\n壁かけ家具を　配置できない場所は\n家具自体が　半透明になります。\n配置中　自分の姿は見えなくなります。": "Wall-mounted furniture is designed to be\nplaced in a specific position and depth...\nThe depth can be adjusted after placement...\n<br>\nWhere wall-mounted furniture cannot be\nplaced, the furniture itself becomes\ntranslucent... You can't see yourself while\n<br>\nit's in place..."
+    "壁かけ家具は　配置する時に\n位置と奥行きを　決めることができます。\n配置後に　奥行きだけ調整も　可能です。\n<br>\n壁かけ家具を　配置できない場所は\n家具自体が　半透明になります。\n配置中　自分の姿は見えなくなります。": "The position and depth of the wall-mounted\nfurniture can be determined at the time of\nplacement. Only the depth can be adjusted\n<br>\nafter placement. In places where wall-hanging\nfurniture cannot be placed, the furniture\nitself becomes translucent. During placement,\n<br>\nyou will not be able to see yourself."
   },
   "125522": {
-    "家具を　配置できませんでした。\n壁かけ家具は　壁に配置しましょう。": "I can't place the furniture... Wall-mounted\nfurniture should be placed on the wall..."
+    "家具を　配置できませんでした。\n壁かけ家具は　壁に配置しましょう。": "Furniture could not be placed. Wall-mounted\nfurniture should be placed on the wall."
   },
   "125523": {
-    "家具を　配置できませんでした。\n壁かけ家具は　壁に配置しましょう。": "I can't place the furniture... Wall-mounted\nfurniture should be placed on the wall..."
+    "家具を　配置できませんでした。\n壁かけ家具は　壁に配置しましょう。": "Furniture could not be placed. Wall-mounted\nfurniture should be placed on the wall."
   },
   "139347": {
     "<%sL_FURNITURE>を置いたので\n絵葉書を　家具に設定して\nかざれるようになりました！\n<br>\n『絵葉書をかざる』から　手持ちの絵葉書を\n選んで　<%sL_FURNITURE>に\nかざりつけることができます。\n<br>\nかざれる絵葉書は　『書いた手紙』に\n入っている絵葉書のみとなります。\nすでに　送った絵葉書などは　かざれません。\n<br>\nかざった絵葉書は　誰でも見ることができます。\nただし　絵葉書のかざりつけができるのは\n家のオーナーだけとなります。\n<br>\nまた　かざれる絵葉書は　ドラキー写真立ての\n種類ごとに１枚だけです。同じ種類の写真立てでは\nかざれる絵葉書は同じなので　ご注意ください。": "Now that you've placed a <%sL_FURNITURE>,\nyou can hang your own personal postcards\nas furniture!\n<br>\nYou can select a postcard you are carrying and\ndisplay it on the <%sL_FURNITURE>\nby selecting \"Set Postcard\".\n<br>\nOnly postcards stored under \"Written Mail\" can\nbe displayed. Postcards that you have already\nsent cannot be displayed.\n<br>\nThe displayed postcard can be viewed by\nanyone, but only the house's owner is\nallowed to change it.\n<br>\nAlso, only one type of photo can be displayed\nfor each different type of frame. The same\ntypes of frame will display the same postcard."
@@ -240,34 +240,34 @@
     "<%sL_FURNITURE>を置いたので\n絵葉書を　家具に設定して\nかざれるようになりました！\n<br>\n『絵葉書をかざる』から　手持ちの絵葉書を\n選んで　<%sL_FURNITURE>に\nかざりつけることができます。\n<br>\nかざれる絵葉書は　『書いた手紙』に\n入っている絵葉書のみとなります。\nすでに　送った絵葉書などは　かざれません。\n<br>\nかざった絵葉書は　誰でも見ることができます。\nただし　絵葉書のかざりつけができるのは\n家のオーナーだけとなります。\n<br>\nまた　かざれる絵葉書は　ドラキー写真立ての\n種類ごとに１枚だけです。同じ種類の写真立てでは\nかざれる絵葉書は同じなので　ご注意ください。": "Now that you've placed a <%sL_FURNITURE>,\nyou can hang your own personal postcards\nas furniture!\n<br>\nYou can select a postcard you are carrying and\ndisplay it on the <%sL_FURNITURE>\nby selecting \"Set Postcard\".\n<br>\nOnly postcards stored under \"Written Mail\" can\nbe displayed. Postcards that you have already\nsent cannot be displayed.\n<br>\nThe displayed postcard can be viewed by\nanyone, but only the house's owner is\nallowed to change it.\n<br>\nAlso, only one type of photo can be displayed\nfor each different type of frame. The same\ntypes of frame will display the same postcard."
   },
   "143981": {
-    "ドルステーションを置いたので\nお庭にドルボードを　飾ることが\nできるようになりました！\n<br>\nドルステーションに　飾れるドルボードは\nドルボードカスタム屋で　プリズムを\n取り付けたドルボードのみです。\n<br>\nまた　ドルステーションは　お庭に\n５台までしか　置けません。\n<br>\nドルステーションにかざっている\nドルボードのカラーを　最新版にしたい時は\nもう一度かざると　反映されます。": ""
+    "ドルステーションを置いたので\nお庭にドルボードを　飾ることが\nできるようになりました！\n<br>\nドルステーションに　飾れるドルボードは\nドルボードカスタム屋で　プリズムを\n取り付けたドルボードのみです。\n<br>\nまた　ドルステーションは　お庭に\n５台までしか　置けません。\n<br>\nドルステーションにかざっている\nドルボードのカラーを　最新版にしたい時は\nもう一度かざると　反映されます。": "Now that you have a Dol Station, you can\ndisplay your Dolboards in your yard! If you\nwant to change the color of the Dolboard on\n<br>\nthe Dol Station to the latest version, you can\ndo so by putting the Dolboard on the Dol\nStation again."
   },
   "143982": {
-    "ドルステーションを置いたので\nお庭にドルボードを　飾ることが\nできるようになりました！\n<br>\nドルステーションに　飾れるドルボードは\nドルボードカスタム屋で　プリズムを\n取り付けたドルボードのみです。\n<br>\nまた　ドルステーションは　お庭に\n５台までしか　置けません。\n<br>\nドルステーションにかざっている\nドルボードのカラーを　最新版にしたい時は\nもう一度かざると　反映されます。": ""
+    "ドルステーションを置いたので\nお庭にドルボードを　飾ることが\nできるようになりました！\n<br>\nドルステーションに　飾れるドルボードは\nドルボードカスタム屋で　プリズムを\n取り付けたドルボードのみです。\n<br>\nまた　ドルステーションは　お庭に\n５台までしか　置けません。\n<br>\nドルステーションにかざっている\nドルボードのカラーを　最新版にしたい時は\nもう一度かざると　反映されます。": "Now that you have a Dol Station, you can\ndisplay your Dolboards in your yard! If you\nwant to change the color of the Dolboard on\n<br>\nthe Dol Station to the latest version, you can\ndo so by putting the Dolboard on the Dol\nStation again."
   },
   "144113": {
-    "この場所では　壁かけ家具は配置できません。\n床に立って　配置してください。": "You can't put wall-mounted furniture in this\nspot... You'll have to stand on the floor and\nplace the..."
+    "この場所では　壁かけ家具は配置できません。\n床に立って　配置してください。": "Wall-mounted furniture cannot be placed in\nthis location. Please place it standing on the\nfloor."
   },
   "144114": {
-    "この場所では　壁かけ家具は配置できません。\n床に立って　配置してください。": "You can't put wall-mounted furniture in this\nspot... You'll have to stand on the floor and\nplace the..."
+    "この場所では　壁かけ家具は配置できません。\n床に立って　配置してください。": "Wall-mounted furniture cannot be placed in\nthis location. Please place it standing on the\nfloor."
   },
   "153903": {
-    "この家具は\n重ね置きすることが　できません。": "This furniture can be stacked..."
+    "この家具は\n重ね置きすることが　できません。": "This furniture cannot be stacked."
   },
   "153904": {
-    "この家具の上には\n家具を　置くことはできません。": "You can't put any furniture on top of this\nfurniture..."
+    "この家具の上には\n家具を　置くことはできません。": "No furniture can be placed on top of this\nfurniture."
   },
   "153905": {
-    "この家具の上には\nこれ以上　重ね置きできません。": "I can't stack any more of this furniture on\ntop of this..."
+    "この家具の上には\nこれ以上　重ね置きできません。": "No more can be stacked on top of this\nfurniture."
   },
   "153906": {
-    "この庭具は\n重ね置きすることが　できません。": "These garden tools can be stacked on top of\neach other..."
+    "この庭具は\n重ね置きすることが　できません。": "This garden furniture cannot be stacked."
   },
   "153907": {
-    "この庭具の上には\n庭具を　置くことはできません。": "You can't put garden tools on top of this\ngarden tool..."
+    "この庭具の上には\n庭具を　置くことはできません。": "No garden furniture can be placed on top of\nthis garden furniture."
   },
   "153908": {
-    "この庭具の上には\nこれ以上　重ね置きできません。": "I can't stack any more of these garden tools\non top of each other..."
+    "この庭具の上には\nこれ以上　重ね置きできません。": "It cannot be stacked on top of this garden\nfurniture any more."
   },
   "159535": {
     "ここに　この家具は　配置できません。": "Indoor furniture cannot be placed here."
@@ -276,94 +276,94 @@
     "ここに　この庭具は　配置できません。": "Garden furniture cannot be placed here."
   },
   "192206": {
-    "視点の範囲外に　配置された家具なので\n移動できません。": "It's a piece of furniture that's placed out\nof view, so it can't be moved..."
+    "視点の範囲外に　配置された家具なので\n移動できません。": "The furniture cannot be moved because it is\nplaced outside the range of the viewpoint."
   },
   "192207": {
-    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n<br>\n扉メニューの　『配置中の家具』で\n壁かけ家具を　配置しなおしてください。": "You can't place wall-mounted furniture in the\nfurniture and garden list... In the door\nmenu, under \"Furniture in progress\", you can\n<br>\nplace the wall-mounted furniture again..."
+    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n<br>\n扉メニューの　『配置中の家具』で\n壁かけ家具を　配置しなおしてください。": "Wall-hanging furniture cannot be placed from\nthe furniture/garden furniture list. Please\nrearrange the wall-hanging furniture in the\n<br>\n\"furniture in place\" menu of the door menu."
   },
   "192208": {
-    "視点の範囲外に　配置された家具なので\n移動できません。": "It's a piece of furniture that's placed out\nof view, so it can't be moved..."
+    "視点の範囲外に　配置された家具なので\n移動できません。": "The furniture cannot be moved because it is\nplaced outside the range of the viewpoint."
   },
   "192209": {
-    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n<br>\n扉メニューの　『配置中の家具』で\n壁かけ家具を　配置しなおしてください。": "You can't place wall-mounted furniture in the\nfurniture and garden list... In the door\nmenu, under \"Furniture in progress\", you can\n<br>\nplace the wall-mounted furniture again..."
+    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n<br>\n扉メニューの　『配置中の家具』で\n壁かけ家具を　配置しなおしてください。": "Wall-hanging furniture cannot be placed from\nthe furniture/garden furniture list. Please\nrearrange the wall-hanging furniture in the\n<br>\n\"furniture in place\" menu of the door menu."
   },
   "193798": {
-    "データにない使用してないテキストです": "Unused text that is not in the data"
+    "データにない使用してないテキストです": "Unused text not in data."
   },
   "193799": {
-    "データにない使用してないテキストです": "Unused text that is not in the data"
+    "データにない使用してないテキストです": "Unused text not in data."
   },
   "193800": {
-    "家具配置の開始位置が　視点の外にあるため\n足元を　視点に入れる　必要があります。\n視点固定モードを　解除しますか？\n<yesno><close>": "The start of the furniture placement is out\nof view, so we need to bring the feet into\nview... Do you want to deactivate Fixed\n<br>\nViewpoint Mode?<yesno><close>"
+    "家具配置の開始位置が　視点の外にあるため\n足元を　視点に入れる　必要があります。\n視点固定モードを　解除しますか？\n<yesno><close>": "The start of the furniture placement is\noutside the viewpoint and the feet need to be\nplaced in the viewpoint. Do you want to\n<br>\ndisable fixed viewpoint mode?\n<yesno><close>"
   },
   "193801": {
-    "家具配置の開始位置が　視点の外にあるため\n足元を　視点に入れる　必要があります。\n視点固定モードを　解除しますか？\n<yesno><close>": "The start of the furniture placement is out\nof view, so we need to bring the feet into\nview... Do you want to deactivate Fixed\n<br>\nViewpoint Mode?<yesno><close>"
+    "家具配置の開始位置が　視点の外にあるため\n足元を　視点に入れる　必要があります。\n視点固定モードを　解除しますか？\n<yesno><close>": "The start of the furniture placement is\noutside the viewpoint and the feet need to be\nplaced in the viewpoint. Do you want to\n<br>\ndisable fixed viewpoint mode?\n<yesno><close>"
   },
   "199183": {
-    "<%sL_FURNITURE>は\nこれ以上　置けません。\n<end>": "You can't place any more\n<%sL_FURNITURE>.<end>"
+    "<%sL_FURNITURE>は\nこれ以上　置けません。\n<end>": "You can't place any more\n<%sL_FURNITURE>.\n<end>"
   },
   "199184": {
-    "<%sL_FURNITURE>は\nこれ以上　置けません。\n<end>": "You can't place any more\n<%sL_FURNITURE>.<end>"
+    "<%sL_FURNITURE>は\nこれ以上　置けません。\n<end>": "You can't place any more\n<%sL_FURNITURE>.\n<end>"
   },
   "200032": {
-    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n<br>\n扉メニューの　『配置中の家具』にある\n『退避された家具』で　壁かけ家具を\n配置しなおしてください。": "You can't place wall-mounted furniture in the\nfurniture and garden list... In the door\nmenu, under \"Furniture in progress\", click on\n<br>\n\"Evacuated furniture\" to reposition the wall-\nmounted furniture..."
+    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n<br>\n扉メニューの　『配置中の家具』にある\n『退避された家具』で　壁かけ家具を\n配置しなおしてください。": "Wall-hanging furniture cannot be placed from\nthe furniture/garden furniture list. Please\nplace the wall-hanging furniture again using\n<br>\n\"Saved furniture\" in the \"Placed furniture\"\nmenu of the door menu."
   },
   "200033": {
-    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n<br>\n扉メニューの　『配置中の家具』にある\n『退避された家具』で　壁かけ家具を\n配置しなおしてください。": "You can't place wall-mounted furniture in the\nfurniture and garden list... In the door\nmenu, under \"Furniture in progress\", click on\n<br>\n\"Evacuated furniture\" to reposition the wall-\nmounted furniture..."
+    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n<br>\n扉メニューの　『配置中の家具』にある\n『退避された家具』で　壁かけ家具を\n配置しなおしてください。": "Wall-hanging furniture cannot be placed from\nthe furniture/garden furniture list. Please\nplace the wall-hanging furniture again using\n<br>\n\"Saved furniture\" in the \"Placed furniture\"\nmenu of the door menu."
   },
   "243140": {
-    "<%sL_FURNITURE>は\n他の人が　動かしている\n最中なので　さわれません。\n<end>": "<%sL_FURNITURE> is in the middle of being run\nby someone else, so you can touch it...<end>"
+    "<%sL_FURNITURE>は\n他の人が　動かしている\n最中なので　さわれません。\n<end>": "I can't touch <%sL_FURNITURE> because someone\nelse is working on it.\n<end>"
   },
   "243142": {
-    "本宅を　設定していないため\n庭具を　配置できません。\n<br>\nマイタウン内にある　どれかの家の\n立て札から　本宅を　設定すると\n庭具を　置けるようになります。": "If you haven't set up your home, you can't\nplace garden tools... If you set up a home in\none of the houses in my town, you'll be able\n<br>\nto place garden tools..."
+    "本宅を　設定していないため\n庭具を　配置できません。\n<br>\nマイタウン内にある　どれかの家の\n立て札から　本宅を　設定すると\n庭具を　置けるようになります。": "You can place the garden furniture by setting\nup the main house from the sign of any of the\nhouses in My Town."
   },
   "243144": {
-    "<%sL_FURNITURE>は\n他の人が　動かしている\n最中なので　さわれません。\n<end>": "<%sL_FURNITURE> is in the middle of being run\nby someone else, so you can touch it...<end>"
+    "<%sL_FURNITURE>は\n他の人が　動かしている\n最中なので　さわれません。\n<end>": "I can't touch <%sL_FURNITURE> because someone\nelse is working on it.\n<end>"
   },
   "243146": {
-    "本宅を　設定していないため\n庭具を　配置できません。\n<br>\nマイタウン内にある　どれかの家の\n立て札から　本宅を　設定すると\n庭具を　置けるようになります。": "If you haven't set up your home, you can't\nplace garden tools... If you set up a home in\none of the houses in my town, you'll be able\n<br>\nto place garden tools..."
+    "本宅を　設定していないため\n庭具を　配置できません。\n<br>\nマイタウン内にある　どれかの家の\n立て札から　本宅を　設定すると\n庭具を　置けるようになります。": "You can place the garden furniture by setting\nup the main house from the sign of any of the\nhouses in My Town."
   },
   "243612": {
-    "<%sL_FURNITURE>を置く場所を\n決めてください。\nあと<%nL_NIWAGU_NUM>個の庭具を　置くことができます。\n<break>": "I need a place to put <%sL_FURNITURE>... You\ncan also place <%nL_NIWAGU_NUM> garden\ntools...<break>"
+    "<%sL_FURNITURE>を置く場所を\n決めてください。\nあと<%nL_NIWAGU_NUM>個の庭具を　置くことができます。\n<break>": "Decide where you want to put <%sL_FURNITURE>.\nYou can place <%dL_NIWAGU_NUM> more garden\nfurniture.\n<break>"
   },
   "243614": {
-    "<%sL_FURNITURE>を置く場所を\n決めてください。\nあと<%nL_NIWAGU_NUM>個の庭具を　置くことができます。\n<break>": "I need a place to put <%sL_FURNITURE>... You\ncan also place <%nL_NIWAGU_NUM> garden\ntools...<break>"
+    "<%sL_FURNITURE>を置く場所を\n決めてください。\nあと<%nL_NIWAGU_NUM>個の庭具を　置くことができます。\n<break>": "Decide where you want to put <%sL_FURNITURE>.\nYou can place <%dL_NIWAGU_NUM> more garden\nfurniture.\n<break>"
   },
   "247330": {
-    "ここに　庭具は　配置できません。": "We can put the garden tools here..."
+    "ここに　庭具は　配置できません。": "Garden furniture cannot be placed here."
   },
   "247331": {
-    "ここに　庭具は　配置できません。": "We can put the garden tools here..."
+    "ここに　庭具は　配置できません。": "Garden furniture cannot be placed here."
   },
   "247528": {
-    "<%sL_FURNITURE>は\n本宅にしか　置けません。": "<%sL_FURNITURE> can only be placed in the\nmain house..."
+    "<%sL_FURNITURE>は\n本宅にしか　置けません。": "<%sL_FURNITURE> can only be placed in the main\nhouse."
   },
   "247529": {
-    "<%sL_FURNITURE>は\n本宅にしか　置けません。": "<%sL_FURNITURE> can only be placed in the\nmain house..."
+    "<%sL_FURNITURE>は\n本宅にしか　置けません。": "<%sL_FURNITURE> can only be placed in the main\nhouse."
   },
   "247536": {
-    "別宅では　<%sL_FURNITURE>に\nアイテムを　しまえません。\n本宅で　お試しください。\n<break>": "At my other house, I put the items in\n<%sL_FURNITURE>... You can try it at home...<break>"
+    "別宅では　<%sL_FURNITURE>に\nアイテムを　しまえません。\n本宅で　お試しください。\n<break>": "I can't store an Item in <%sL_FURNITURE> at my\nother house. Please try at your home.\n<break>"
   },
   "247537": {
-    "別宅では　<%sL_FURNITURE>から\nアイテムを　取り出せません。\n本宅で　お試しください。\n<break>": "At the other house, I can retrieve the item\nfrom <%sL_FURNITURE>... You can try it at\nhome...<break>"
+    "別宅では　<%sL_FURNITURE>から\nアイテムを　取り出せません。\n本宅で　お試しください。\n<break>": "I cannot retrieve an item from <%sL_FURNITURE>\nat my other residence. Please try at your\nhome.\n<break>"
   },
   "247538": {
-    "別宅では　<%sL_FURNITURE>に\nアイテムを　しまえません。\n本宅で　お試しください。\n<break>": "At my other house, I put the items in\n<%sL_FURNITURE>... You can try it at home...<break>"
+    "別宅では　<%sL_FURNITURE>に\nアイテムを　しまえません。\n本宅で　お試しください。\n<break>": "I can't store an Item in <%sL_FURNITURE> at my\nother house. Please try at your home.\n<break>"
   },
   "247539": {
-    "別宅では　<%sL_FURNITURE>から\nアイテムを　取り出せません。\n本宅で　お試しください。\n<break>": "At the other house, I can retrieve the item\nfrom <%sL_FURNITURE>... You can try it at\nhome...<break>"
+    "別宅では　<%sL_FURNITURE>から\nアイテムを　取り出せません。\n本宅で　お試しください。\n<break>": "I cannot retrieve an item from <%sL_FURNITURE>\nat my other residence. Please try at your\nhome.\n<break>"
   },
   "247561": {
-    "同じ機能をもつ庭具の数が　マイタウン内の敷地と\n庭具倉庫内を合わせて　上限まで入っているので\n<%sL_FURNITURE>を　配置できません。": "Since the number of garden tools with the\nsame function is limited to the number of\nsites in my town and in the garden tools\n<br>\nwarehouse, I can place <%sL_FURNITURE>..."
+    "同じ機能をもつ庭具の数が　マイタウン内の敷地と\n庭具倉庫内を合わせて　上限まで入っているので\n<%sL_FURNITURE>を　配置できません。": "The number of garden furniture with the same\nfunction cannot be placed <%sL_FURNITURE>\nbecause the number of sites in My Town and\n<br>\ngarden storage together have reached the upper\nlimit."
   },
   "247562": {
-    "同じ機能をもつ庭具の数が　マイタウン内の敷地と\n庭具倉庫内を合わせて　上限まで入っているので\n<%sL_FURNITURE>を　配置できません。": "Since the number of garden tools with the\nsame function is limited to the number of\nsites in my town and in the garden tools\n<br>\nwarehouse, I can place <%sL_FURNITURE>..."
+    "同じ機能をもつ庭具の数が　マイタウン内の敷地と\n庭具倉庫内を合わせて　上限まで入っているので\n<%sL_FURNITURE>を　配置できません。": "The number of garden furniture with the same\nfunction cannot be placed <%sL_FURNITURE>\nbecause the number of sites in My Town and\n<br>\ngarden storage together have reached the upper\nlimit."
   },
   "247729": {
-    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n『つかうもの』から　配置してください。": ""
+    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n『つかうもの』から　配置してください。": "Wall-hanging furniture cannot be placed from\nthe furniture/garden furniture list. Please\nplace them from \"items\"."
   },
   "247730": {
-    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n『つかうもの』から　配置してください。": ""
+    "家具・庭具リストからは\n壁かけ家具を　配置できません。\n『つかうもの』から　配置してください。": "Wall-hanging furniture cannot be placed from\nthe furniture/garden furniture list. Please\nplace them from \"items\"."
   },
   "251004": {
     "庭具を置く場所を決めてください。マイタウン内に\n置ける庭具は　庭具倉庫と合わせて２００個です。\nあと<%nL_AVAILABLE_NUM>個の庭具を　置くことができます。\n<break>": "Choose where to place this garden furniture. A\nMy Town can have a maximum of 200 placed,\nincluding storage. You can place <%dL_AVAILABLE_NUM> more.\n<break>"
@@ -372,10 +372,10 @@
     "庭具を置く場所を決めてください。マイタウン内に\n置ける庭具は　庭具倉庫と合わせて２００個です。\nあと<%nL_AVAILABLE_NUM>個の庭具を　置くことができます。\n<break>": "Choose where to place this garden furniture. A\nMy Town can have a maximum of 200 placed,\nincluding storage. You can place <%dL_AVAILABLE_NUM> more.\n<break>"
   },
   "251585": {
-    "<speed=0><%sL_FURNITURE>は\nマイタウンの　オーナーしか\n配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed by the\nMy Town's owner."
+    "<speed=0><%sL_FURNITURE>は\nマイタウンの　オーナーしか\n配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed\nby the My Town's owner."
   },
   "251586": {
-    "<speed=0><%sL_FURNITURE>は\nマイタウンの　オーナーしか\n配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed by the\nMy Town's owner."
+    "<speed=0><%sL_FURNITURE>は\nマイタウンの　オーナーしか\n配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed\nby the My Town's owner."
   },
   "251587": {
     "<speed=0><%sL_FURNITURE>は　\nマイタウンの　オーナーしか\nかたづけられません。": "<speed=0><%sL_FURNITURE> can only be removed\nby the My Town's owner."
@@ -384,7 +384,7 @@
     "<speed=0><%sL_FURNITURE>は　\nマイタウンの　オーナーしか\nかたづけられません。": "<speed=0><%sL_FURNITURE> can only be removed\nby the My Town's owner."
   },
   "255424": {
-    "<%sL_FURNITURE>は\n家の中に　ひとつしか　置けません。\n<end>": ""
+    "<%sL_FURNITURE>は\n家の中に　ひとつしか　置けません。\n<end>": "There can only be one <%sL_FURNITURE>\nplaced in a house.\n<end>"
   },
   "255425": {
     "<%sL_FURNITURE>は\nマイタウンに　ひとつしか　置けません。\n<end>": "There can only be one <%sL_FURNITURE>\nplaced in a My Town.\n<end>"
@@ -396,16 +396,16 @@
     "<%sL_FURNITURE>は\nマイタウン以外の庭には　置けません。\n<end>": "You can't place <%sL_FURNITURE>\nin a non-My Town garden.\n<end>"
   },
   "257120": {
-    "一時預かりぶくろに入っている　中身を\n全て　取り出さないと　新たに　家具・庭具を\n配置することができません。": "We need to remove all the contents from the\nstorage closet before we can place any new\nfurniture or garden equipment..."
+    "一時預かりぶくろに入っている　中身を\n全て　取り出さないと　新たに　家具・庭具を\n配置することができません。": "You will not be able to place new furniture or\ngarden furniture until you remove all the\ncontents from the temporary storage bag."
   },
   "257121": {
-    "一時預かりぶくろに入っている　中身を\n全て　取り出さないと　新たに　家具・庭具を\n配置することができません。": "We need to remove all the contents from the\nstorage closet before we can place any new\nfurniture or garden equipment..."
+    "一時預かりぶくろに入っている　中身を\n全て　取り出さないと　新たに　家具・庭具を\n配置することができません。": "You will not be able to place new furniture or\ngarden furniture until you remove all the\ncontents from the temporary storage bag."
   },
   "257203": {
-    "この家の　一時預かりぶくろに入っている\n中身が　全て　取り出されないと\n庭具を置くことは　できません。": "I can't put any garden tools in this house\nuntil all the contents in the storage closet\nhave been removed..."
+    "この家の　一時預かりぶくろに入っている\n中身が　全て　取り出されないと\n庭具を置くことは　できません。": "The contents of the temporary storage bag in\nthe house must be removed before the garden\nfurniture can be placed."
   },
   "257204": {
-    "この家の　一時預かりぶくろに入っている\n中身が　全て　取り出されないと\n庭具を置くことは　できません。": "I can't put any garden tools in this house\nuntil all the contents in the storage closet\nhave been removed..."
+    "この家の　一時預かりぶくろに入っている\n中身が　全て　取り出されないと\n庭具を置くことは　できません。": "The contents of the temporary storage bag in\nthe house must be removed before the garden\nfurniture can be placed."
   },
   "286386": {
     "<%sL_FURNITURE>を　置いたので\nアストルティア放送局の　放送を\n家でも　見られるようになりました。\n<br>\nこの家具の操作を　することができるのは\n家のオーナーのみです。\n家に招待された方は　操作することができません。\n<br>\n放送を　見るためには　\n『さくせん』『いろいろ設定』『環境設定』の\n『アストルティア放送局の設定』で\n<br>\n『視聴する』の項目を『する』に\n変更してください。\n<br>\nもし　わからないことがあった場合は\n岳都ガタラ-展望台にいる\n「放送局員ドラビー」に聞いてみましょう。\n<br>\n番組の予定などについては\n冒険者の広場を　ご覧ください。\n<br>\n<color_yellow>\nプレイヤー専用サイト\nドラゴンクエストＸ　目覚めし冒険者の広場\nhttps://hiroba.dqx.jp\n<br>\n<color_white>\nマナーを守って　楽しく　放送を見ましょう！": "This <%sL_FURNITURE> will allow\nyou to watch the Astoltia Broadcast from\nthe comfort of your own home.\n<br>\nOnly the house's owner is allowed to operate\nthis.\n<br>\nIn order to view broadcasts, please set\n\"Watch\" to \"On\" under \"Misc.\", \"Settings\",\n\"Preferences\", \"Astoltia Broadcast Station\".\n<br>\nIf you have any questions, please speak to\nBroadcaster DV located at the Observatory\nin Mount Gatara.\n<br>\nPlease watch the broadcast with good manners\nand enjoy the show!"
