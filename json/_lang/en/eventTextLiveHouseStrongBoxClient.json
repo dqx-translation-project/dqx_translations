@@ -1,132 +1,132 @@
 {
   "18908": {
-    "<speed=0><select 2>\n<%sL_ITEM_NAME><%sL_PLUSNUM>は\n今　装備している物ですが\n<%sL_VAULT_TYPE>に　しまいますか？\n<yesno><break>": "<speed=0><select 2><%sL_ITEM_NAME><%sL_PLUSNUM> is what you have\nnow, but do you want to change it to\n<%sL_VAULT_TYPE>?<yesno><break>"
+    "<speed=0><select 2>\n<%sL_ITEM_NAME><%sL_PLUSNUM>は\n今　装備している物ですが\n<%sL_VAULT_TYPE>に　しまいますか？\n<yesno><break>": "<speed=0><select 2>\n<%sL_ITEM_NAME><%sL_PLUSNUM> is currently\nequipped, but do you want to store it in\n<%sL_VAULT_TYPE>?\n<yesno><break>"
   },
   "18914": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を\n<%sL_VAULT_TYPE>に　しまった！\n<bw_break>": "<speed=0>You've changed <%sL_ITEM_NAME><%sL_PLUSNUM>\nto <%sL_VAULT_TYPE>!<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を\n<%sL_VAULT_TYPE>に　しまった！\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> was stored in\n<%sL_VAULT_TYPE>!\n<bw_break>"
   },
   "18915": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個\n<%sL_VAULT_TYPE>に　しまった！\n<bw_break>": "<speed=0>I've changed <%sL_ITEM_NAME><%sL_PLUSNUM> to\n<%nL_QUANTITY> and <%sL_VAULT_TYPE>!<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個\n<%sL_VAULT_TYPE>に　しまった！\n<bw_break>": "<speed=0><%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> was stored in\n<%sL_VAULT_TYPE>!\n<bw_break>"
   },
   "18916": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ\n<%sL_VAULT_TYPE>に　しまった！\n<bw_break>": "<speed=0>I've changed one <%sL_ITEM_NAME><%sL_PLUSNUM>\nto <%sL_VAULT_TYPE>!<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ\n<%sL_VAULT_TYPE>に　しまった！\n<bw_break>": "<speed=0>1 <%sL_ITEM_NAME><%sL_PLUSNUM> was stored in\n<%sL_VAULT_TYPE>!\n<bw_break>"
   },
   "18917": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだした。\n<bw_break>": "<speed=0>Take <%sL_ITEM_NAME><%sL_PLUSNUM>...<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだした。\n<bw_break>": "<speed=0>Took out <%sL_ITEM_NAME><%sL_PLUSNUM>.\n<bw_break>"
   },
   "18918": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個　取りだした。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> to\n<%nL_QUANTITY>...<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個　取りだした。\n<bw_break>": "<speed=0>Took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM>.\n<bw_break>"
   },
   "18919": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ　取りだした。\n<bw_break>": "<speed=0>Take one <%sL_ITEM_NAME><%sL_PLUSNUM>...<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ　取りだした。\n<bw_break>": "<speed=0>Took out 1 <%sL_ITEM_NAME><%sL_PLUSNUM>.\n<bw_break>"
   },
   "18920": {
-    "<speed=0>左手に装備してる\n<%sL_EQUIP_LEFT>を　はずして\nそうびぶくろの中に入れた。\n<bw_break>": "<speed=0>I've removed the <%sL_EQUIP_LEFT> from my\nleft hand and placed it in my sash...<bw_break>"
+    "<speed=0>左手に装備してる\n<%sL_EQUIP_LEFT>を　はずして\nそうびぶくろの中に入れた。\n<bw_break>": "<speed=0>Removed the <%sL_EQUIP_LEFT> from your\nleft hand and put it in the equipment bag.\n<bw_break>"
   },
   "18921": {
-    "<speed=0><%sL_BAG_TYPE>には　何も入っていません。\n<bw_break>": "<speed=0><%sL_BAG_TYPE> has nothing in it...<bw_break>"
+    "<speed=0><%sL_BAG_TYPE>には　何も入っていません。\n<bw_break>": "<speed=0><%sL_BAG_TYPE> contains nothing.\n<bw_break>"
   },
   "18922": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　呪われているので\nはずせません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is cursed and\nmust be removed...<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　呪われているので\nはずせません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is cursed and\ncannot be removed.\n<bw_break>"
   },
   "18923": {
-    "<speed=0><%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM_NAME><%sL_PLUSNUM>は　取りだせなかった。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be\nretrieved because <%sL_BAG_TYPE> is full...<bw_break>"
+    "<speed=0><%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM_NAME><%sL_PLUSNUM>は　取りだせなかった。\n<bw_break>": "<speed=0>Could not retrieve <%sL_ITEM_NAME><%sL_PLUSNUM>\nbecause <%sL_BAG_TYPE> is full.\n<bw_break>"
   },
   "18924": {
-    "<speed=0><%sL_VAULT_TYPE>には　これ以上\n<%sL_ITEM_NAME><%sL_PLUSNUM>を　しまえません。\n<bw_break>": "<speed=0><%sL_VAULT_TYPE> contains no more\n<%sL_ITEM_NAME><%sL_PLUSNUM>...<bw_break>"
+    "<speed=0><%sL_VAULT_TYPE>には　これ以上\n<%sL_ITEM_NAME><%sL_PLUSNUM>を　しまえません。\n<bw_break>": "<speed=0><%sL_VAULT_TYPE> cannot hold any more\n<%sL_ITEM_NAME><%sL_PLUSNUM>.\n<bw_break>"
   },
   "18925": {
-    "<speed=0><%sL_VAULT_TYPE>には　これ以上\nアイテムをしまうことが　できません。\n<bw_break>": "<speed=0><%sL_VAULT_TYPE> can't hold any more items.<bw_break>"
+    "<speed=0><%sL_VAULT_TYPE>には　これ以上\nアイテムをしまうことが　できません。\n<bw_break>": "<speed=0>No more items can be stored in\n<%sL_VAULT_TYPE>.\n<bw_break>"
   },
   "18926": {
-    "<speed=0>収納家具の利用権限がないため\n収納家具は　使えません。": ""
+    "<speed=0>収納家具の利用権限がないため\n収納家具は　使えません。": "<speed=0>Storage furniture is not available because you\ndo not have permission to use storage\nfurniture."
   },
   "18927": {
-    "<speed=0>この家のオーナーではないため\n屋根ウラ収納は　使えません。": "<speed=0>You are not the house owner and cannot\naccess the house storage."
+    "<speed=0>この家のオーナーではないため\n屋根ウラ収納は　使えません。": "<speed=0>You are not the owner of this house, so you\ncan't use the roof storage."
   },
   "18928": {
-    "<speed=0><%sL_VAULT_TYPE>には　何もありません。\n<bw_break>": "<speed=0>There's nothing in the <%sL_VAULT_TYPE>.<bw_break>"
+    "<speed=0><%sL_VAULT_TYPE>には　何もありません。\n<bw_break>": "<speed=0>Nothing in <%sL_VAULT_TYPE>.\n<bw_break>"
   },
   "23909": {
-    "<speed=0><%sL_PC_NICK>は\n<%sL_FURNITURE>を　開いた。\n<break>": "<speed=0><%sL_PC_NICK> opened the <%sL_FURNITURE>.<break>"
+    "<speed=0><%sL_PC_NICK>は\n<%sL_FURNITURE>を　開いた。\n<break>": "<speed=0><%sL_PC_NICK> opened the\n<%sL_FURNITURE>.<break>"
   },
   "24264": {
-    "<speed=0><%sL_PC_NICK>は\n<%sL_FURNITURE>を　のぞきこんだ。\n<break>": "<speed=0><%sL_PC_NICK> looked through the <%sL_FURNITURE>.<break>"
+    "<speed=0><%sL_PC_NICK>は\n<%sL_FURNITURE>を　のぞきこんだ。\n<break>": "<speed=0><%sL_PC_NICK> looked in the\n<%sL_FURNITURE>.\n<break>"
   },
   "32278": {
-    "<speed=0>\n持ち物を　しまったり　取りだせます。\nどうしますか？\n<select_se_off>\nしまう\n取りだす\n<select_end><break>": "<speed=0>You can deposit or retrieve your stored items.\nWhat do you want to do?\n<select_se_off>\nDeposit\nRetrieve\n<select_end><break>"
+    "<speed=0>\n持ち物を　しまったり　取りだせます。\nどうしますか？\n<select_se_off>\nしまう\n取りだす\n<select_end><break>": "<speed=0>\nYou can store or retrieve your belongings.\nWhat do you want to do?\n<select_se_off>\nStore\nRetrieve\n<select_end><break>"
   },
   "32279": {
-    "<speed=0>\n持ち物を　しまったり　取りだせます。\nどうしますか？\n<select_se_off 2>\nしまう\n取りだす\n<select_end><break>": "<speed=0>You can deposit or retrieve your stored items.\nWhat do you want to do?\n<select_se_off>\nDeposit\nRetrieve\n<select_end><break>"
+    "<speed=0>\n持ち物を　しまったり　取りだせます。\nどうしますか？\n<select_se_off 2>\nしまう\n取りだす\n<select_end><break>": "<speed=0>\nYou can store or retrieve your belongings.\nWhat do you want to do?\n<select_se_off 2>\nStore\nRetrieve\n<select_end><break>"
   },
   "39130": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n他の人に　わたすことができないアイテムのため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is an item that\ncan't be given away to others, so it can't be\nstored in someone else's storage furniture...<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n他の人に　わたすことができないアイテムのため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is an item that\ncannot be given to others and therefore cannot\nbe stored in someone else's home storage\n<br>\nfurniture.\n<bw_break>"
   },
   "39131": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなた専用の装備品のため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is your personal\nequipment, so it can't be stored in someone\nelse's storage furniture...<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなた専用の装備品のため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is for your\nexclusive use only and cannot be stored in\nsomeone else's home storage furniture.\n<bw_break>"
   },
   "39136": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n屋根ウラ収納や　収納家具に\n入れることは　できません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be placed\nin roof storage or storage furniture..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n屋根ウラ収納や　収納家具に\n入れることは　できません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be placed\nin the roof storage or storage furniture."
   },
   "41493": {
-    "<speed=0>予期せぬエラーにより\n動作を完了することが　できませんでした。": "<speed=0>Unable to complete the operation due to an\nunexpected error."
+    "<speed=0>予期せぬエラーにより\n動作を完了することが　できませんでした。": "<speed=0>The operation could not be completed due to an\nunexpected error."
   },
   "41658": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　しまうことが\nできませんでした。": "<speed=0>I can't put <%sL_ITEM_NAME><%sL_PLUSNUM>\naway..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　しまうことが\nできませんでした。": "<speed=0>Could not store <%sL_ITEM_NAME><%sL_PLUSNUM>."
   },
   "41659": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだすことが\nできませんでした。": "<speed=0>Unable to retrieve\n<%sL_ITEM_NAME><%sL_PLUSNUM>..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだすことが\nできませんでした。": "<speed=0>Could not retrieve <%sL_ITEM_NAME><%sL_PLUSNUM>."
   },
   "44121": {
-    "しまうときは　持ち物の種類を選択し\nしまいたいアイテムを選ぶと　収納できます。\n<br>\n取り出すときは　収納に入っている\n取り出したいアイテムを選ぶと　取り出せます。\n<end>": "When you want to put something away, select\nthe type of item you want to put away, and it\nwill be stored. When you want to take out an\n<br>\nitem, select the item you want to take out in\nthe storage...<end>"
+    "しまうときは　持ち物の種類を選択し\nしまいたいアイテムを選ぶと　収納できます。\n<br>\n取り出すときは　収納に入っている\n取り出したいアイテムを選ぶと　取り出せます。\n<end>": "To store an item, select the type of item and\nchoose the item you want to store. To retrieve\nan item, select the item you want to retrieve\n<br>\nfrom storage.\n<end>"
   },
   "44822": {
-    "<%sL_PC_NICK>は\n<%sL_FURNITURE>を　開いた。\n<br>\nしまうときは　持ち物の種類を選択し\nしまいたいアイテムを選ぶと　収納できます。\n<br>\n取り出すときは　収納に入っている\n取り出したいアイテムを選ぶと　取り出せます。\n<end>": "<%sL_PC_NICK> can be used to store\n<%sL_FURNITURE>... To put away an item,\nselect the type of item you want to put away,\n<br>\nand the item will be stored. To remove an\nitem, select the item you want to remove from\nthe storage...<end>"
+    "<%sL_PC_NICK>は\n<%sL_FURNITURE>を　開いた。\n<br>\nしまうときは　持ち物の種類を選択し\nしまいたいアイテムを選ぶと　収納できます。\n<br>\n取り出すときは　収納に入っている\n取り出したいアイテムを選ぶと　取り出せます。\n<end>": "<%sL_PC_NICK> opened the\n<%sL_FURNITURE>. To store an item,\nselect the type of item and choose the item\n<br>\nyou want to store. To retrieve an item, select\nthe item you want to retrieve from storage.\n<end>"
   },
   "44830": {
-    "<speed=0>家具が　かたづけられたので\nつかうことが　できませんでした。": "<speed=0>The furniture has been moved, so I can't grab\nit..."
+    "<speed=0>家具が　かたづけられたので\nつかうことが　できませんでした。": "<speed=0>You can't use it because the furniture has\nbeen put away."
   },
   "45604": {
-    "<speed=0><%sL_VAULT_TYPE>が　カラになりました。\n<bw_break>": "<speed=0><%sL_VAULT_TYPE> is now empty...<bw_break>"
+    "<speed=0><%sL_VAULT_TYPE>が　カラになりました。\n<bw_break>": "<speed=0><%sL_VAULT_TYPE> is now empty.\n<bw_break>"
   },
   "46603": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなたの装備品ではないため\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is not your\nequipment, so you cannot retrieve it..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなたの装備品ではないため\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be retrieved\nbecause it is not your equipment."
   },
   "46604": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなたの　持ち物ではないため\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is not your\nproperty and cannot be retrieved..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなたの　持ち物ではないため\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be retrieved\nbecause it is not your belongings."
   },
   "46605": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n収納家具にしまうことは　できません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> can't be put\naway in storage furniture...<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n収納家具にしまうことは　できません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be stored\nin the storage furniture.\n<bw_break>"
   },
   "46643": {
-    "<speed=0>収納家具にしまう権限がないため\nアイテムをしまうことは　できません。": ""
+    "<speed=0>収納家具にしまう権限がないため\nアイテムをしまうことは　できません。": "<speed=0>The item cannot be stored in the storage\nfurniture because you do not have permission."
   },
   "46644": {
-    "<speed=0>収納家具から取りだす権限がないため\nアイテムを取りだすことは　できません。": "<speed=0>I don't have the authority to remove items\nfrom storage furniture, so I can't..."
+    "<speed=0>収納家具から取りだす権限がないため\nアイテムを取りだすことは　できません。": "<speed=0>The item cannot be retrieved from the storage\nfurniture because you do not have permission."
   },
   "47746": {
-    "収納家具から取りだす権限がないため\n収納家具に　しまってしまうと\n取りだせなくなりますが　よろしいですか？\n<yesno 2><break>": "I don't have the authority to remove it from\nthe storage furniture, so if it gets stuck in\nthe storage furniture, I won't be able to get\n<br>\nit out.<yesno 2><break>"
+    "収納家具から取りだす権限がないため\n収納家具に　しまってしまうと\n取りだせなくなりますが　よろしいですか？\n<yesno 2><break>": "If you store it in the storage furniture, you\nwon't be able to retrieve it because you don't\nhave permission. Is that okay?\n<yesno 2><break>"
   },
   "52144": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個　取りだした。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> to\n<%nL_QUANTITY>..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個　取りだした。": "<speed=0>Took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM>."
   },
   "52145": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ　取りだした。": "<speed=0>Take one <%sL_ITEM_NAME><%sL_PLUSNUM>..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　ひとつ　取りだした。": "Took out 1 <%sL_ITEM_NAME><%sL_PLUSNUM>."
   },
   "52146": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだした。": "<speed=0>Take <%sL_ITEM_NAME><%sL_PLUSNUM>..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　取りだした。": "<speed=0>Took out <%sL_ITEM_NAME><%sL_PLUSNUM>."
   },
   "53650": {
-    "<speed=0>\n何を　しまいますか？\nしまいたい　持ち物の種類を　選んでください。\n<break>": "<speed=0>What do you want to put away? Please select\nthe type of belongings you would like to put\naway.<break>"
+    "<speed=0>\n何を　しまいますか？\nしまいたい　持ち物の種類を　選んでください。\n<break>": "<speed=0>\nWhat do you want to store? Please choose\nthe type of belongings you would like to put\naway.\n<break>"
   },
   "53651": {
-    "<speed=0>\n何を　取りだしますか？\n<break>": "<speed=0>What do you want me to take out?<break>"
+    "<speed=0>\n何を　取りだしますか？\n<break>": "<speed=0>\nWhat do you want to retrieve?\n<break>"
   },
   "55381": {
-    "<%sL_ITEM_NAME><%sL_PLUSNUM>は　\n売り物に　設定されているため\n新たに収納家具に入れることは　できません。\n<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM> is set to \"for\nsale\" and cannot be added to your storage\nfurniture...<bw_break>"
+    "<%sL_ITEM_NAME><%sL_PLUSNUM>は　\n売り物に　設定されているため\n新たに収納家具に入れることは　できません。\n<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM> is set as a sale\nitem and cannot be newly added to the storage\nfurniture.\n<bw_break>"
   },
   "55382": {
-    "<%sL_ITEM_NAME><%sL_PLUSNUM>は\n売り物に　設定されているため\n収納家具から取りだすことが　できません。\n<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM> is set for sale,\nso it can't be removed from the storage\nfurniture...<bw_break>"
+    "<%sL_ITEM_NAME><%sL_PLUSNUM>は\n売り物に　設定されているため\n収納家具から取りだすことが　できません。\n<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM> is set for sale\nand cannot be removed from the storage\nfurniture.\n<bw_break>"
   },
   "56014": {
     "<select_se_off>\n<%sL_COMMAND1>\n<select_end><break>": "<select_se_off>\n<%sL_COMMAND1>\n<select_end><break>"
@@ -135,45 +135,45 @@
     "<select_se_off>\n<%sL_COMMAND1>\n<%sL_COMMAND2>\n<select_end><break>": "<select_se_off>\n<%sL_COMMAND1>\n<%sL_COMMAND2>\n<select_end><break>"
   },
   "78086": {
-    "しまうときは　持ち物の種類を選択し\nしまいたいアイテムを選ぶと　収納できます。\n<br>\n取り出すときは　収納に入っている\n取り出したいアイテムを選ぶと　取り出せます。\n<end>": "When you want to put something away, select\nthe type of item you want to put away, and it\nwill be stored. When you want to take out an\n<br>\nitem, select the item you want to take out in\nthe storage...<end>"
+    "しまうときは　持ち物の種類を選択し\nしまいたいアイテムを選ぶと　収納できます。\n<br>\n取り出すときは　収納に入っている\n取り出したいアイテムを選ぶと　取り出せます。\n<end>": "To store an item, select the type of item and\nchoose the item you want to store. To retrieve\nan item, select the item you want to retrieve\n<br>\nfrom storage.\n<end>"
   },
   "78170": {
     "<speed=0><%sL_PC_NICK>は\n<%sL_FURNITURE>を　開いた。\n<end>": "<speed=0><%sL_PC_NICK> opened the\n<%sL_FURNITURE>.\n<end>"
   },
   "78171": {
-    "<%sL_PC_NICK>は\n<%sL_FURNITURE>を　開いた。\n<br>\nしまうときは　持ち物の種類を選択し\nしまいたいアイテムを選ぶと　収納できます。\n<br>\n取り出すときは　収納に入っている\n取り出したいアイテムを選ぶと　取り出せます。\n<end>": "<%sL_PC_NICK> can be used to store\n<%sL_FURNITURE>... To put away an item,\nselect the type of item you want to put away,\n<br>\nand the item will be stored. To remove an\nitem, select the item you want to remove from\nthe storage...<end>"
+    "<%sL_PC_NICK>は\n<%sL_FURNITURE>を　開いた。\n<br>\nしまうときは　持ち物の種類を選択し\nしまいたいアイテムを選ぶと　収納できます。\n<br>\n取り出すときは　収納に入っている\n取り出したいアイテムを選ぶと　取り出せます。\n<end>": "<%sL_PC_NICK> opened the\n<%sL_FURNITURE>. To store an item,\nselect the type of item and choose the item\n<br>\nyou want to store. To retrieve an item, select\nthe item you want to retrieve from storage.\n<end>"
   },
   "79688": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nロックされている装備品なので\n他人の家の収納家具には　しまえません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is a locked\npiece of equipment that can't be stored in\nsomeone else's storage furniture..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nロックされている装備品なので\n他人の家の収納家具には　しまえません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is locked\nequipment and cannot be stored in someone\nelse's storage furniture."
   },
   "79689": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\n他の人が　ロックしている装備品なので\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is a piece of\nequipment that someone else has locked, so\nyou can't get it..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\n他の人が　ロックしている装備品なので\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be retrieved\nbecause it is locked by someone else."
   },
   "83805": {
-    "<speed=0><select 2>\n<%sL_ITEM_NAME><%sL_PLUSNUM>は\n仲間モンスターが　装備している物ですが\n<%sL_VAULT_TYPE>に　しまいますか？\n<yesno><break>": "<speed=0><select 2><%sL_ITEM_NAME><%sL_PLUSNUM> is what your\nfellow monsters are equipped with, but you\nwant to put it in <%sL_VAULT_TYPE>?<yesno><break>"
+    "<speed=0><select 2>\n<%sL_ITEM_NAME><%sL_PLUSNUM>は\n仲間モンスターが　装備している物ですが\n<%sL_VAULT_TYPE>に　しまいますか？\n<yesno><break>": "<speed=0><select 2>\n<%sL_ITEM_NAME><%sL_PLUSNUM> is currently\nequipped by a companion monster, but do you\nwant to store it in <%sL_VAULT_TYPE>?\n<yesno><break>"
   },
   "85394": {
-    "<speed=0>\n預けたい持ち物の種類を　選んでください。\n<break>": "<speed=0>Please select the type of belongings you wish\nto check in.<break>"
+    "<speed=0>\n預けたい持ち物の種類を　選んでください。\n<break>": "<speed=0>\nPlease select the type of belongings you wish\nto deposit.\n<break>"
   },
   "90133": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなたの料理ではないため\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is not your\ndish, so you can't retrieve it..."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなたの料理ではないため\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be retrieved\nbecause it is not your food."
   },
   "90134": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなた専用の料理のため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is your own\npersonal dish, so it can't be stored in\nsomeone else's storage furniture...<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなた専用の料理のため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is for your\nexclusive use and cannot be stored in someone\nelse's home storage furniture.\n<bw_break>"
   },
   "90572": {
-    "<speed=0>\n取りだす権限がない　<%sL_FURNITURE>です。\nしまうことのみ　できます。\n<select_se_off 2>\nしまう\n<select_end><break>": "<speed=0>Not authorized to retrieve <%sL_FURNITURE...\nOnly to put away...\n<select_se_off 2>\nput an end to\n<select_end><break>"
+    "<speed=0>\n取りだす権限がない　<%sL_FURNITURE>です。\nしまうことのみ　できます。\n<select_se_off 2>\nしまう\n<select_end><break>": "<speed=0>\nYou do not have permission to retrieve\n<%sL_FURNITURE>. You can only store\nit.\n<select_se_off 2>\nStore\n<select_end><break>"
   },
   "90573": {
-    "<speed=0>\nしまう権限がない　<%sL_FURNITURE>です。\n取りだすことのみ　できます。\n<select_se_off 2>\n取りだす\n<select_end><break>": "<speed=0>I don't have permission to put it away\n<%sL_FURNITURE... Only to retrieve...\n<select_se_off 2>\ntake out\n<select_end><break>"
+    "<speed=0>\nしまう権限がない　<%sL_FURNITURE>です。\n取りだすことのみ　できます。\n<select_se_off 2>\n取りだす\n<select_end><break>": "<speed=0>\nYou do not have permission to store\n<%sL_FURNITURE>. You can only retrieve\nit.\n<select_se_off 2>\nRetrieve\n<select_end><break>"
   },
   "92015": {
-    "<speed=0><%sL_ITEM_NAME>を\n収納家具にしまうと　残り期限が\nドラキーメッセージで　告知されなくなります。\n<br>\n<%sL_ITEM_NAME>を　しまいますか？\n<yesno 2><break>": "<speed=0>When I put <%sL_ITEM_NAME> away in a piece of\nstorage furniture, the remaining expiration\ndate is not announced by a drakey message...\n<br>\nDo you want to put <%sL_ITEM_NAME> away?<yesno 2><break>"
+    "<speed=0><%sL_ITEM_NAME>を\n収納家具にしまうと　残り期限が\nドラキーメッセージで　告知されなくなります。\n<br>\n<%sL_ITEM_NAME>を　しまいますか？\n<yesno 2><break>": "<speed=0>If you put <%sL_ITEM_NAME> in the\nstorage furniture, the remaining expiration\ndate won't be announced in the Dracky message.\n<br>\nDo you want to store <%sL_ITEM_NAME>?\n<yesno 2><break>"
   },
   "93993": {
-    "収納家具を　さわっている人がいるので\n同時に　使用することはできません。": "We can't use it at the same time because\nsomeone's working on the storage furniture..."
+    "収納家具を　さわっている人がいるので\n同時に　使用することはできません。": "The storage furniture cannot be used because\nsomeone else is using it."
   },
   "144217": {
-    "便利ツールで　モーモンバザーが\n使用されているため　現在利用できません。": "The Mormon Bazaar is being used as a\nconvenience tool and is currently\nunavailable."
+    "便利ツールで　モーモンバザーが\n使用されているため　現在利用できません。": "The Sanguini Bazaar is being used as a\nconvenience tool and is currently unavailable."
   }
 }

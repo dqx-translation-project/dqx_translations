@@ -6,7 +6,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39404": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "39406": {
     "「ありがとう。注文通りの　いいデキね。\n　さあ　これが　その報酬よ。\n<end>": "Yes... Just what I ordered. I don't know,\nthis is...<end>"
@@ -51,7 +51,7 @@
     "「今　あなたに手伝ってもらいたい\n　依頼は　こんなところよ。\n　すぐに納品できそうなものは　あるかしら？\n<break>": "Here's what I need your help with right now.\nIs there anything that you think you can\ndeliver quickly?<break>"
   },
   "39433": {
-    "「他に　納品できそうな依頼は　あるかしら？\n<break>": ""
+    "「他に　納品できそうな依頼は　あるかしら？\n<break>": "Do you have any other requests that you think\nwe could deliver on?\n<break>"
   },
   "39438": {
     "ギルドマスターに\n<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。\nよろしいですか？\n<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>\nto the Guild Master?\n<yesno><close>"
@@ -63,7 +63,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39461": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "39463": {
     "「おう　ありがとよ！\n　……うむ　いいデキだ。さすがだな！\n　それじゃあ　これは報酬だ。\n<end>": "Oh, thank you! ... Mmm, good... That's what\nI'm talking about! Okay, this is...<end>"
@@ -108,7 +108,7 @@
     "「今　頼める依頼は　こんなところだな。\n　この中に　すぐに納品できそうなものは\n　あるかい？\n<break>": "Here's what I can do for you right now. Is\nthere anything on this list that you think\nyou can deliver right away?<break>"
   },
   "39490": {
-    "「他に　すぐ納品できそうな依頼は　あるかい？\n<break>": ""
+    "「他に　すぐ納品できそうな依頼は　あるかい？\n<break>": "Do you have any other requests that you can\ndeliver on right away?\n<break>"
   },
   "39495": {
     "ギルドマスターに\n<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。\nよろしいですか？\n<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>\nto the Guild Master?\n<yesno><close>"
@@ -120,7 +120,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39518": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "39520": {
     "「……ふむ。確かに　依頼の品だね。\n　受け取っておこう。\n　では　これが　仕事の報酬だよ……。\n<end>": "Good. I'll take that, then... thank you.\nHere is your reward.\n<end>"
@@ -177,7 +177,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39575": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received <%sL_HOUSYUU>!\n<end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received\n<%sL_HOUSYUU>!\n<end>"
   },
   "39577": {
     "「ありがとうよ！\n　確かに　受け取ったぜ！\n　じゃあ　これは報酬だ！\n<bw_break>": "Thank you! I definitely got it! Then this is\nyour reward!<bw_break>"
@@ -216,7 +216,7 @@
     "「用は済んだか？\n　それじゃ　よろしく頼むぜ。\n<end>": "You're done here? All right, well...<end>"
   },
   "39597": {
-    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": ""
+    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": "I can't give it to you because it's full of\nITEMS. Come back when you've sorted it out.\n<bw_break>"
   },
   "39603": {
     "「今　あんたに手伝ってほしい\n　仕事は　こんなところだな。\n　達成したものは　あるかい？\n<bw_break>": "Here's the job I need your help with right\nnow. Is there anything you've accomplished?<bw_break>"
@@ -234,7 +234,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39632": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received <%sL_HOUSYUU>!\n<end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received\n<%sL_HOUSYUU>!\n<end>"
   },
   "39634": {
     "「ありがとうよ！\n　確かに　受け取ったぜ！\n　じゃあ　これは報酬だ！\n<bw_break>": "Thank you! I definitely got it! Then this is\nyour reward!<bw_break>"
@@ -273,7 +273,7 @@
     "「用は済んだか？\n　それじゃ　よろしく頼むぜ。\n<end>": "You're done here? All right, well...<end>"
   },
   "39654": {
-    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": ""
+    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": "I can't give it to you because it's full of\nITEMS. Come back when you've sorted it out.\n<bw_break>"
   },
   "39660": {
     "「今　あんたに手伝ってほしい\n　仕事は　こんなところだな。\n　達成したものは　あるかい？\n<bw_break>": "Here's the job I need your help with right\nnow. Is there anything you've accomplished?<bw_break>"
@@ -291,7 +291,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39689": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "39691": {
     "「ありがとうございます！\n　……はい　確かに依頼の品ですねっ。\n　では　こちらが報酬になります。\n<end>": "Thank you! ... Yes, it's exactly what you\nasked for. Then this is your reward...<end>"
@@ -348,7 +348,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39746": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "39748": {
     "「サンキュー　<pc>ちゃん！\n　うんうん。いい感じじゃん　この錬金効果！\n　じゃあ　コレ　今回の報酬ね。\n<end>": "thank you<pc> Hey! Ugh... That's nice! This alchemy effect!\nThen this is the one...<end>"
@@ -405,7 +405,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39803": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "39805": {
     "「ふふっ。ありがとう。\n　……うん　確かに　依頼した品だね。\n　さあ　報酬を受け取ってくれ。\n<end>": "... There is... Yeah. Yeah, that's what I\nasked. Now, I'm gonna get my fee...<end>"
@@ -438,7 +438,7 @@
     "「評判を　次のランクに上げるには\n　もうしばらく　かかりそうだね……。\n　でも　キミなら　きっとできるよ。\n<end>": "It's gonna take me a while to get my\nreputation up to the next level, but... But I\nknow you can do it.<end>"
   },
   "39823": {
-    "「ふふっ。キミの評判が\n　もうすぐ　次のランクに　上がりそうだよ。\n　ここが　がんばりどころだね。\n<end>": ""
+    "「ふふっ。キミの評判が\n　もうすぐ　次のランクに　上がりそうだよ。\n　ここが　がんばりどころだね。\n<end>": "It looks like you're about to move up to the\nnext level in reputation. This is where you\nshould do your best.\n<end>"
   },
   "39824": {
     "「評判も　じわじわ　上がってきてるね。\n　この調子で　続けていけば\n　キミの情熱は　きっと報われるはずだよ。\n<end>": "Your reputation is growing. If you keep going\nat this rate, your passion will pay off.<end>"
@@ -462,7 +462,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39860": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received <%sL_HOUSYUU>!\n<end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received\n<%sL_HOUSYUU>!\n<end>"
   },
   "39862": {
     "「ありがとうよ！\n　確かに　受け取ったぜ！\n　じゃあ　これは報酬だ！\n<bw_break>": "Thank you! I definitely got it! Then this is\nyour reward!<bw_break>"
@@ -501,7 +501,7 @@
     "「用は済んだか？\n　それじゃ　よろしく頼むぜ。\n<end>": "You're done here? All right, well...<end>"
   },
   "39882": {
-    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": ""
+    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": "I can't give it to you because it's full of\nITEMS. Come back when you've sorted it out.\n<bw_break>"
   },
   "39888": {
     "「今　あんたに手伝ってほしい\n　仕事は　こんなところだな。\n　達成したものは　あるかい？\n<bw_break>": "Here's the job I need your help with right\nnow. Is there anything you've accomplished?<bw_break>"
@@ -519,7 +519,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39917": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received <%sL_HOUSYUU>!\n<end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received\n<%sL_HOUSYUU>!\n<end>"
   },
   "39919": {
     "「ありがとうよ！\n　確かに　受け取ったぜ！\n　じゃあ　これは報酬だ！\n<bw_break>": "Thank you! I definitely got it! Then this is\nyour reward!<bw_break>"
@@ -558,7 +558,7 @@
     "「用は済んだか？\n　それじゃ　よろしく頼むぜ。\n<end>": "You're done here? All right, well...<end>"
   },
   "39939": {
-    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": ""
+    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": "I can't give it to you because it's full of\nITEMS. Come back when you've sorted it out.\n<bw_break>"
   },
   "39945": {
     "「今　あんたに手伝ってほしい\n　仕事は　こんなところだな。\n　達成したものは　あるかい？\n<bw_break>": "Here's the job I need your help with right\nnow. Is there anything you've accomplished?<bw_break>"
@@ -576,7 +576,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "39974": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "39976": {
     "「ありがとう！\n　……うん　バッチリ！　さっすが～！\n　じゃ　これが　依頼の報酬よ。\n<end>": "Thank you! ... Yeah, it's perfect! That's\nwhat I'm talking about! So this is what you\nasked for...<end>"
@@ -621,7 +621,7 @@
     "「今　手伝ってほしい依頼は　こんなところよ。\n　すぐに納品できそうなものは　あるかな？\n　くわしい情報は『レシピをみる』で確認してね。\n<break>": "Here's what I need your help with right now.\nIs there anything that you think you can\ndeliver right away? For more information,\n<br>\nplease see the recipe...<break>"
   },
   "40003": {
-    "「他に　すぐ納品できそうな依頼は　ある？\n<break>": ""
+    "「他に　すぐ納品できそうな依頼は　ある？\n<break>": "Do you have any other requests that you can\ndeliver on right away?\n<break>"
   },
   "40008": {
     "ギルドマスターに\n<%sL_ITEM><%sL_PLUS><%nL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>を　納品します。\nよろしいですか？\n<yesno><close>": "Deliver the <%sL_ITEM><%sL_PLUS><%dL_KOUKA_NUM><color_yellow><%sL_QUALITY><color_white>\nto the Guild Master?\n<yesno><close>"
@@ -633,7 +633,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "40031": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received <%sL_HOUSYUU>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "40033": {
     "「えへへ　ありがとうだよ！\n　バッチリ　おいしそうな出来だねっ！\n　はいっ　報酬どうぞ～！\n<end>": "Thanks a lot! It's perfect! It looks\ndelicious! Here's your reward!<end>"
@@ -690,7 +690,7 @@
     "<pc>は\n<%dL_GOLD> Gを　手に入れた！\n<se_nots System 7><end>": "<pc> received <%dL_GOLD> G!\n<se_nots System 7><end>"
   },
   "40088": {
-    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received <%sL_HOUSYUU>!\n<end>"
+    "<pc>は\n<%sL_HOUSYUU>を　手に入れた！\n<end>": "<pc> received\n<%sL_HOUSYUU>!\n<end>"
   },
   "40090": {
     "「ありがとうよ！\n　確かに　受け取ったぜ！\n　じゃあ　これは報酬だ！\n<bw_break>": "Thank you! I definitely got it! Then this is\nyour reward!<bw_break>"
@@ -729,7 +729,7 @@
     "「用は済んだか？\n　それじゃ　よろしく頼むぜ。\n<end>": "You're done here? All right, well...<end>"
   },
   "40110": {
-    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": ""
+    "「どうぐが一杯で渡せないぜ。\n　整理したらまた来てくれよ。\n<bw_break>": "I can't give it to you because it's full of\nITEMS. Come back when you've sorted it out.\n<bw_break>"
   },
   "40116": {
     "「今　あんたに手伝ってほしい\n　仕事は　こんなところだな。\n　達成したものは　あるかい？\n<bw_break>": "Here's the job I need your help with right\nnow. Is there anything you've accomplished?<bw_break>"
@@ -1305,16 +1305,16 @@
     "「ボクからの依頼だけど\n　じつは　今日はもう　間に合っているんだ。\n　また明日　来るといいだろう……。\n<bw_break>": "I know I asked you to do this, but I'm\nactually not available today. You can come\nback tomorrow.<bw_break>"
   },
   "46543": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "46544": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "46545": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "46546": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "46547": {
     "「今日の依頼は　翌朝には　すべて別の依頼に\n　入れ替えておきますので　またお願いしますね。\n<bw_break>": "All of today's requests will be replaced by\nanother one the next morning.<bw_break>"
@@ -1335,16 +1335,16 @@
     "「今日の依頼だけど……\n　すまないが　もう　間に合ってるんだ。\n　また明日　来ておくれよ。\n<bw_break>": "About today's request... I'm sorry, I can't\nmake it. You can come back tomorrow...<bw_break>"
   },
   "46561": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "46562": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "46563": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "46564": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "46565": {
     "「今日の依頼は　翌朝には　全部　別の依頼に\n　入れ替えておくから　またチェックしてね。\n<bw_break>": "I'll replace all of today's requests with\nanother one in the morning, so check back...<bw_break>"
@@ -1359,10 +1359,10 @@
     "「あのねあのねっ　お料理の依頼だけど\n　今日の分は　間に合っちゃったんだ～。\n　明日以降　また　よろしくねーっ！\n<bw_break>": "You know... about the cooking request... it's\nnot too late for today... I'll see you\ntomorrow.<bw_break>"
   },
   "46569": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "46570": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "47414": {
     "「さて　今日は　どんな用かしら？\n<break>": "So, what can I do for you today?<break>"
@@ -1374,7 +1374,7 @@
     "<select_se_off>\n依頼をみる\nいっぱつ納品の報酬受け取り\n職人練習場に行く\n説明を聞く\n<select_end>\n<break>": "<select_se_off>\nView Requests\nReceive Delivery Reward\nGo to Craft Training\nExplanation\n<select_end>\n<break>"
   },
   "47417": {
-    "「どの説明を　聞きたいの？\n<select_se_off>\n職人レベルについて\n職人の仕事について\nいっぱつ納品について\n評判について\n職人練習場について\n<select_end>\n<break>": ""
+    "「どの説明を　聞きたいの？\n<select_se_off>\n職人レベルについて\n職人の仕事について\nいっぱつ納品について\n評判について\n職人練習場について\n<select_end>\n<break>": "Which explanation do you want to hear?\n<select_se_off>\nAbout Craftsmanship Levels\nAbout the Craftsman's Work\nAbout first delivery\nAbout Reputation\nAbout Craft Training\n<select_end>\n<break>"
   },
   "47418": {
     "「『評判』っていうのは　職人として　人から\n　どれくらい評価されてるかを　示すものよ。\n　今の評判は　『つよさ』から確認できるわ。\n<br>\n「例えば　自分の作った防具を　誰かが装備すると\n　評判は上がるわ。レベルや　できのよさが\n　高い防具ほど　評判も　上がりやすいの。\n<br>\n「とは言っても　いくら大勢に装備されたからって\n　１日で　一気に評判が上がることは　ないわ。\n　大切なのは　日々の積み重ね。そうでしょう？\n<br>\n「それに　評判は　しょせん評判でしかないわ。\n　あなたのウデを上げるには　あなた自身が\n　努力するしかないんだから。\n<end>": "Reputation is a measure of how well you're\nregarded by others as a craftsman. You can\ncheck your current reputation by looking at\n<br>\nyour Strength... For example, if someone\nequips a piece of armor you made, your\nreputation goes up... The higher the level\n<br>\nand the better the armor, the higher the\nreputation... But no matter how many people\nequip your armor, your reputation won't rise\n<br>\nin a single day... What's important is the\ndaily accumulation... Isn't that right?\nBesides, reputation is just that, a\n<br>\nreputation. To improve your skills, you have\nto work hard.<end>"
@@ -1686,10 +1686,10 @@
     "「今日の依頼は　すべて済んだようだね……。\n　おつかれさま……と　言っておくよ。\n<bw_break>": "I see you've done all your work for the day.\n\"Thank you... I'll say...<bw_break>"
   },
   "48536": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "48537": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "48538": {
     "「今日の依頼は　全部　お済みのようです。\n　おつかれさまでした！\n<bw_break>": "I see you've completed all your requests for\ntoday. Thank you for your time!<bw_break>"
@@ -1701,10 +1701,10 @@
     "「今日の依頼は　全部済んだようだね。\n　ふふっ。おつかれさま　<pc>。\n<bw_break>": "I've done everything you asked of me today.\n... Good night.<pc> I'm not sure.<bw_break>"
   },
   "48541": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "48542": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "48543": {
     "「今日の依頼は　全部済んだみたいね。\n　<pc>が来てくれて\n　ホント助かっちゃう～。\n<bw_break>": "I think we're all done here for the day.<pc> I'm really glad you're here.<bw_break>"
@@ -1713,46 +1713,46 @@
     "「今日の依頼は　全部　終わったねっ！\n　<pc>さんっ　今日も\n　がんばってくれて　ありがと～っ！\n<bw_break>": "You've done everything I asked you to do\ntoday!<pc> Thank you for working so hard today, you two!<bw_break>"
   },
   "48545": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "48935": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48936": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48937": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48938": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48939": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48940": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48941": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48942": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48943": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48944": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48945": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48946": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個　手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "48947": {
-    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> got <%sL_HOUSYUU> for <%nL_NUM>!\n<se_nots System 7><end>"
+    "<pc>は\n<%sL_HOUSYUU>を　<%nL_NUM>個手に入れた！\n<se_nots System 7><end>": "<pc> received\n<%dL_NUM> <%sL_HOUSYUU>!\n<se_nots System 7><end>"
   },
   "51733": {
     "「じつは　<%sL_ITEM>の在庫が\n　切れてしまったの。今　持ってきてくれたら\n　特別に　報酬を割り増ししてあげる<heart><break>": "We're actually out of <%sL_ITEM>.\nIf you bring me one, I'll give you a\nspecial bonus reward! <heart><break>"
@@ -1764,10 +1764,10 @@
     "「じつは　<%sL_ITEM>の在庫を\n　切らしてしまってね。今　持ってきてくれるなら\n　報酬の割り増しを　約束させてもらうよ……。<break>": "We've actually run out of <%sL_ITEM>.\nIf you bring me one, I'll make it worth your\nwhile..."
   },
   "51736": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "51737": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "51738": {
     "「今　<%sL_ITEM>の在庫を\n　切らしてしまってるので　納品していただけたら\n　報酬は　割り増しさせていただきますっ！\n<break>": "We're currently out of stock of <%sL_ITEM>,\nso if you can deliver it to us, we'll give\nyou a premium!<break>"
@@ -1779,10 +1779,10 @@
     "「じつは　<%sL_ITEM>が　在庫切れでね。\n　今　持ってきてくれたら　特別に\n　報酬を　割り増しさせてもらうよ。<break>": "We're actually out of stock of <%sL_ITEM>. If\nyou bring it to me now, I'll give you a\nspecial discount...<break>"
   },
   "51741": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "51742": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "51743": {
     "「<%sL_KOUKA1_NPCMES>を強化した　装備品の在庫が\n　ちょうど　切れちゃってるところなの。\n　今　持ってきてくれたら　報酬アップするわよ！<break>": "We're just about out of stock of equipment\nthat enhances <%sL_KOUKA1_NPCMES>... If you\nbring it to me now, I'll increase the reward!<break>"
@@ -1791,7 +1791,7 @@
     "「じつは　<%sL_ITEM>の在庫を\n　切らしちゃって　たいへんなんだ～！\n　持ってきてくれたら　いっぱい報酬あげちゃう！\n<break>": "We're actually out of stock of <%sL_ITEM>, so\nwe're in trouble! If you bring it to me, I'll\nreward you handsomely!<break>"
   },
   "51745": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "72249": {
     "「あら？　それは　ロック中の物ね？\n　ロック中の物は　受け取れないわ。\n　納品したいのなら　ロックを外してきて。\n<bw_break>": "Oh? That's the one that's locked, isn't it? I\ncan't take anything that's locked... If you\nwant to deliver something, you need to unlock\n<br>\nit...<bw_break>"
@@ -2037,10 +2037,10 @@
     "「……ふむ　<pc>。\n　依頼の品なら　受け取っているよ。\n　では　これが　仕事の報酬だよ……。\n<end>": " Hmm<pc> I'm sorry. If it's something you asked for,\ntake it. Well, here's what you get for your\nwork.<end>"
   },
   "93023": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "93024": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "93025": {
     "「お疲れさまです　<pc>さん！\n　頼んでいた品は　受け取りましたよ。\n　こちらが報酬になりますっ！\n<end>": "Thank you for your time<pc> Oh, my God. I've received the items you\nrequested. This is your reward!<end>"
@@ -2052,10 +2052,10 @@
     "「やあ　<pc>。\n　頼んでいた品は　受け取っているよ。\n　さあ 報酬を受け取ってくれ。\n<end>": "Hi<pc> I'm sorry. I got what I asked for... Now, to\nreceive your reward...<end>"
   },
   "93028": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "93029": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "93030": {
     "「ご苦労さま　<pc>！\n　頼んでいた品は　ちゃんと届いてるわよ。\n　それじゃ　報酬を受け取ってくれるかな。\n<end>": "thank you very much for your<pc> I'm sorry. The items you requested have\narrived. Now, please accept your reward.<end>"
@@ -2064,7 +2064,7 @@
     "「<pc>さん　ありがと～～！\n　依頼してた　お料理は　受け取ったよっ。\n　はいっ　報酬どうぞ～！\n<end>": "<pc> Thank you~! I got the food you requested...\nHere's your reward~!<end>"
   },
   "93032": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "143281": {
     "": ""
@@ -2115,10 +2115,10 @@
     "<color_yellow>\n『冒険者のおでかけ超便利ツール』にて　獲得した\n職人経験値とゴールドを　受け取りますか？\n<color_white>\n<yesno 2><close>": "<color_yellow>Do you want to receive the experience and\ngold you gained from the \"Adventurer's\nGuide\"?<color_white>\n<yesno 2><close>"
   },
   "184243": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "184244": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "184245": {
     "<color_yellow>\n『冒険者のおでかけ超便利ツール』にて　獲得した\n職人経験値とゴールドを　受け取りますか？\n<color_white>\n<yesno 2><close>": "<color_yellow>Do you want to receive the experience and\ngold you gained from the \"Adventurer's\nGuide\"?<color_white>\n<yesno 2><close>"
@@ -2130,10 +2130,10 @@
     "<color_yellow>\n『冒険者のおでかけ超便利ツール』にて　獲得した\n職人経験値とゴールドを　受け取りますか？\n<color_white>\n<yesno 2><close>": "<color_yellow>Do you want to receive the experience and\ngold you gained from the \"Adventurer's\nGuide\"?<color_white>\n<yesno 2><close>"
   },
   "184248": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "184249": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "184250": {
     "<color_yellow>\n『冒険者のおでかけ超便利ツール』にて　獲得した\n職人経験値とゴールドを　受け取りますか？\n<color_white>\n<yesno 2><close>": "<color_yellow>Do you want to receive the experience and\ngold you gained from the \"Adventurer's\nGuide\"?<color_white>\n<yesno 2><close>"
@@ -2142,7 +2142,7 @@
     "<color_yellow>\n『冒険者のおでかけ超便利ツール』にて　獲得した\n職人経験値とゴールドを　受け取りますか？\n<color_white>\n<yesno 2><close>": "<color_yellow>Do you want to receive the experience and\ngold you gained from the \"Adventurer's\nGuide\"?<color_white>\n<yesno 2><close>"
   },
   "184252": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185185": {
     "「お疲れ様　<pc>。\n　依頼した品は　ちゃんと　受け取ったわ。\n　……で　報酬は受け取るの？\n<yesno><close>": "thank you<pc> I'm sorry. I'm sure you'll get what you asked\nfor. ... And you'll get paid?<yesno><close>"
@@ -2181,28 +2181,28 @@
     "「『冒険者のおでかけ超便利ツール』から\n　職人ギルドの依頼を\n　いっぱつ納品することが　できる……。\n<br>\n「いっぱつ納品の　報酬を受け取りたいときは\n　道具鍛冶ギルドにいる　ボクに話しかけて\n　『いっぱつ納品の報酬受け取り』をしてくれ。\n<end>": "You can deliver a batch of requests from the\ncraftsmen's guild from the \"Adventurer's\nOuting Tool\"... If you want to receive a\n<br>\nreward for a single delivery, talk to me at\nthe Toolsmithing Guild and ask for a \"single\ndelivery reward\"...<end>"
   },
   "185197": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185198": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185199": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185200": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185201": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185202": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185203": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185204": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185205": {
     "「お疲れさまです　<pc>さん！\n　頼んでいた品は　受け取りましたよ。\n　さっそく　報酬を受け取りますか？\n<yesno><close>": "Thank you for your time<pc> Oh, my God. I have received the items you\nrequested... Would you like to receive your\nreward?<yesno><close>"
@@ -2241,28 +2241,28 @@
     "「『冒険者のおでかけ超便利ツール』から\n　職人ギルドの依頼を\n　いっぱつ納品することが　できるのさ。\n<br>\n「いっぱつ納品の　報酬を受け取りたいときは\n　さいほうギルドにいる　ボクに話しかけて\n　『いっぱつ納品の報酬受け取り』をしておくれ。\n<end>": "You can use the Adventurer's Outing Tool to\ndeliver a single request from the Craftsman's\nGuild. If you want to receive a reward for a\n<br>\nsingle delivery, talk to me at the most\nadvanced guild and ask for the...<end>"
   },
   "185217": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185218": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185219": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185220": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185221": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185222": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185223": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185224": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185225": {
     "「ご苦労さま　<pc>！\n　頼んでいた品は　ちゃんと届いてるわよ。\n　それじゃ　報酬を受け取ってくれる？\n<yesno><close>": "thank you very much for your<pc> I'm sorry. The items you requested have\narrived. Now, will you accept my reward?<yesno><close>"
@@ -2289,94 +2289,94 @@
     "「『冒険者のおでかけ超便利ツール』から\n　職人ギルドの依頼を\n　いっぱつ納品することが　できるんだ～。\n<br>\n「いっぱつ納品の　報酬を受け取りたいときは\n　調理ギルドにいる　あたしに話しかけて\n　『いっぱつ納品の報酬受け取り』をしてね！\n<end>": "You can use the \"Adventurer's Outing Tool\" to\ndeliver a full set of requests from the\nArtisan's Guild... If you want to receive the\n<br>\nreward for a single delivery, talk to me in\nthe cooking guild and ask for the \"Reward for\na Single Delivery\"!<end>"
   },
   "185233": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185234": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185235": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "185236": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253532": {
-    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるんだ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできない。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するぞ。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してくれ。\n<end>": ""
+    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるんだ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできない。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するぞ。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してくれ。\n<end>": "At Craft Training, you can practice your\ncraftsmanship with practice materials and\ntools. However, what you make cannot be taken\n<br>\noutside, and you are not allowed to bring in\nitems. You are not allowed to make a single\nitem because it is not good practice. The\n<br>\nexception to this rule is the Angel Slime Cap,\nwhich increases the craftsman's experience and\nis automatically equipped if already obtained.\n<end>"
   },
   "253533": {
-    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるのよ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできないわ。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止よ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するわ。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してね。\n<end>": ""
+    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるのよ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできないわ。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止よ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するわ。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してね。\n<end>": "At Craft Training, you can practice your\ncraftsmanship with practice materials and\ntools. However, you can't take what you have\n<br>\nmade outside and you can't bring in your own\nitems. You are not allowed to make a single\npiece of work, as it is not good practice. The\n<br>\nexception to this rule is the Angel Slime Cap,\nwhich increases your craftsman experience and\nis automatically equipped if you have already\n<br>\nobtained it.\n<end>"
   },
   "253534": {
-    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できる……。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできない……。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だ……。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備する……。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してくれ……。\n<end>": ""
+    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できる……。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできない……。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だ……。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備する……。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してくれ……。\n<end>": "In Craft Training, you can practice\ncraftsmanship using materials and tools for\npractice... However, you cannot take what you\n<br>\nhave made outside and you cannot bring in\nitems... It is forbidden to make a single\npiece of work because it is not good for\n<br>\npractice... Exception: Angel Slime Cap\nincreases craftsmanship experience, so if you\nhave already obtained it, it will be equipped\n<br>\nautomatically... Master Class cannot equip\nAngel Slime Cap. The Angel Slime Cap increases\nthe craftsman's experience, so if you have\n<br>\nalready obtained it, it will be equipped\nautomatically... Master Class cannot equip the\nAngel Slime Cap, so please be careful when you\n<br>\ncome to Craft Training. ...\n<end>"
   },
   "253535": {
-    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるのさ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできない。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だよ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備する。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してくれよ。\n<end>": ""
+    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるのさ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできない。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だよ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備する。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してくれよ。\n<end>": "At Craft Training, you can practice your\ncraftsmanship with practice materials and\ntools. However, what you make cannot be taken\n<br>\noutside, and you are not allowed to bring in\nitems. You are not allowed to make a single\npiece of craftsmanship because it is not good\n<br>\npractice. The exception to this is the Angel\nSlime Cap, which increases the craftsman's\nexperience and is automatically equipped if\n<br>\nalready obtained.\n<end>"
   },
   "253536": {
-    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるんですっ！\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みも　できません。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止ですよっ！\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備します！\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意ですよっ！\n<end>": ""
+    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるんですっ！\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みも　できません。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止ですよっ！\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備します！\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意ですよっ！\n<end>": "At Craft Training, you can practice your\ncraftsmanship with practice materials and\ntools! However, you can't take what you made\n<br>\noutside and you can't bring in your own items.\nYou are not allowed to bring in your own\nitems! The exception to this rule is the Angel\n<br>\nSlime Cap, which increases your craftsman\nexperience and is automatically equipped if\nyou have already obtained it!\n<end>"
   },
   "253537": {
-    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるんよ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできないよ。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だよ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するよ。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してよ。\n<end>": ""
+    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるんよ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできないよ。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だよ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するよ。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してよ。\n<end>": "At Craft Training, you can practice your\ncraftsmanship with practice materials and\ntools. However, what you make cannot be taken\n<br>\noutside, and you are not allowed to bring in\nitems. You are not allowed to make a single\npiece of work, as it is not good practice. The\n<br>\nexception to this is the Angel Slime Cap,\nwhich increases your craftsman experience and\nis automatically equipped if you have already\n<br>\nobtained it.\n<end>"
   },
   "253538": {
-    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるのよ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできないわ。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止よ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するわ。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してね。\n<end>": ""
+    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるのよ。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできないわ。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止よ。\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するわ。\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意してね。\n<end>": "At Craft Training, you can practice your\ncraftsmanship with practice materials and\ntools. However, you can't take what you have\n<br>\nmade outside and you can't bring in your own\nitems. You are not allowed to make a single\npiece of work, as it is not good practice. The\n<br>\nexception to this rule is the Angel Slime Cap,\nwhich increases your craftsman experience and\nis automatically equipped if you have already\n<br>\nobtained it.\n<end>"
   },
   "253539": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253540": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253541": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253542": {
-    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるんだ～。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできないよっ。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だぞっ！\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するぞ！\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意するのだ！\n<end>": ""
+    "「職人練習場では　練習用の素材と道具を使って\n　職人の練習が　できるんだ～。\n<br>\n「ただし　作ったものは　外に持ち出せないし\n　アイテムの　持ち込みもできないよっ。\n<br>\n「練習にならないから\n　いっぱつしあげは　禁止だぞっ！\n<br>\n「例外として　エンゼルスライム帽は\n　職人経験値を　増加してくれるから\n　入手済みであれば　自動で装備するぞ！\n<br>\n「マスタークラスは　エンゼルスライム帽を\n　装備できないから\n　職人練習場に来る時は　注意するのだ！\n<end>": "At Craft Training, you can practice your\ncraftsmanship with practice materials and\ntools. However, you are not allowed to take\n<br>\nyour work outside and you are not allowed to\nbring in your own items. It is forbidden to\nmake a single item, because it is not good for\n<br>\npractice! The exception to this rule is the\nAngel Slime Cap, which increases the\ncraftsman's experience, so if you have already\n<br>\nobtained it, it will be equipped\nautomatically!\n<end>"
   },
   "253543": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253544": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253545": {
-    "「職人練習場に　行くか？\n<yesno><close>": ""
+    "「職人練習場に　行くか？\n<yesno><close>": "You want to go to Craft Training?\n<yesno><close>"
   },
   "253546": {
-    "「職人練習場に　行く？\n<yesno><close>": ""
+    "「職人練習場に　行く？\n<yesno><close>": "Do you want to go to Craft Training?\n<yesno><close>"
   },
   "253547": {
     "「職人練習場に　行くのかい……？\n<yesno><close>": "Are you going to the artisans' training\ngrounds?<yesno><close>"
   },
   "253548": {
-    "「職人練習場に　行くのかい？\n<yesno><close>": ""
+    "「職人練習場に　行くのかい？\n<yesno><close>": "Are you going to Craft Training?\n<yesno><close>"
   },
   "253549": {
-    "「職人練習場に　行きますか？\n<yesno><close>": ""
+    "「職人練習場に　行きますか？\n<yesno><close>": "Are you going to Craft Training?\n<yesno><close>"
   },
   "253550": {
-    "「職人練習場に　行っちゃう？\n<yesno><close>": ""
+    "「職人練習場に　行っちゃう？\n<yesno><close>": "Would you go to Craft Training?\n<yesno><close>"
   },
   "253551": {
-    "「職人練習場に　行く？\n<yesno><close>": ""
+    "「職人練習場に　行く？\n<yesno><close>": "Do you want to go to Craft Training?\n<yesno><close>"
   },
   "253552": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253553": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253554": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253555": {
-    "「職人練習場に　行っちゃう？\n<yesno><close>": ""
+    "「職人練習場に　行っちゃう？\n<yesno><close>": "Would you go to Craft Training?\n<yesno><close>"
   },
   "253556": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "253557": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "276184": {
     "<color_yellow>\n現在のプレイ環境で　受け取ると\n職人レベル上限を超えるため　受け取れない\n職人経験値がありますが　よろしいですか？\n<yesno 2><close>": "<color_yellow>Due to your current play environment, some of\nthis experience will be lost as you would\nexceed the crafting level limit. Proceed?\n<yesno 2><close>"
@@ -2400,21 +2400,21 @@
     "<color_yellow>\n現在のプレイ環境で　受け取ると\n職人レベル上限を超えるため　受け取れない\n職人経験値がありますが　よろしいですか？\n<yesno 2><close>": "<color_yellow>Due to your current play environment, some of\nthis experience will be lost as you would\nexceed the crafting level limit. Proceed?\n<yesno 2><close>"
   },
   "276191": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "276192": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "276193": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "276194": {
     "<color_yellow>\n現在のプレイ環境で　受け取ると\n職人レベル上限を超えるため　受け取れない\n職人経験値がありますが　よろしいですか？\n<yesno 2><close>": "<color_yellow>Due to your current play environment, some of\nthis experience will be lost as you would\nexceed the crafting level limit. Proceed?\n<yesno 2><close>"
   },
   "276195": {
-    "<break>": ""
+    "<break>": "<break>"
   },
   "276196": {
-    "<break>": ""
+    "<break>": "<break>"
   }
 }

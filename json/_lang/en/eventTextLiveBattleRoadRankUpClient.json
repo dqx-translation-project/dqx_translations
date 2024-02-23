@@ -1,12 +1,12 @@
 {
   "101014": {
-    "「……ンッ？　<%sL_MONSTER>は\n　どうやら　今　仲間に入れないようだ。\n　すまないが　他のモンスターを　選んでクレ。\n<bw_break>": "... Hmm? Apparently, <%sL_MONSTER> can't join\nus right now. I'm sorry, but you'll have to\nchoose another monster...<bw_break>"
+    "「……ンッ？　<%sL_MONSTER>は\n　どうやら　今　仲間に入れないようだ。\n　すまないが　他のモンスターを　選んでクレ。\n<bw_break>": "...hmm? It seems that <%sL_MONSTER>\ncannot join you right now. Sorry, but you'll\nhave to pick another monster.\n<bw_break>"
   },
   "101765": {
     "「それじゃ　バトルに参加してもらう\n　モンスターを選んでクレ。\n<break>": "Okay, choose the monster you wanna bring with\ngoo.\n<break>"
   },
   "101766": {
-    "削除": ""
+    "削除": "deletion"
   },
   "101767": {
     "「よし！　バトルをスタートして いいカ？\n<yesno><break>": "All right! Ready to goo?\n<yesno><break>"
@@ -15,7 +15,7 @@
     "<select_se_off>\n挑戦する\n説明を聞く\n<select_end><break>": "<select_se_off>\nChallenge\nExplanation\n<select_end><break>"
   },
   "101790": {
-    "削除": ""
+    "削除": "deletion"
   },
   "101791": {
     "サーバーテキストに差し替え予定": "To be replaced with server text"
@@ -27,25 +27,25 @@
     "サーバーテキストに差し替え予定": "To be replaced with server text"
   },
   "101794": {
-    "削除": ""
+    "削除": "deletion"
   },
   "101795": {
-    "削除": ""
+    "削除": "deletion"
   },
   "101796": {
-    "削除": ""
+    "削除": "deletion"
   },
   "101797": {
     "「不要": "Don't"
   },
   "101798": {
-    "「……っと　あんたが　<pc>だナ？\n　よくやったナ！　<%sL_RANK>ランクへの\n　ランクアップ試験に　挑戦できるゼ。\n<br>\n「ランクアップ試験は\n　３回戦の　勝ち抜きバトルだ！\n　すべてのバトルに勝てば　晴れて合格サ。\n<br>\n「試験は　いつものバトルロードと違って\n　バトル参加権は使わないから\n　とにかく　まずは　チャレンジしてみることダ。\n<br>\n「さっそく　ランクアップ試験に挑戦するカ？\n<break>": " You<pc> Yeah? You did well! <You are now ready to\ntake the test for advancement to the next\nrank... The rank-up test consists of three\n<br>\nrounds of winner-take-all battles. If you win\nall of your battles, you'll be eligible\nfor... Unlike the usual Battle Roads, this\n<br>\ntest doesn't require battle entry rights, so\nwe'll just have to give it a shot... Are you\nready to take on the rank-up test?<break>"
+    "「……っと　あんたが　<pc>だナ？\n　よくやったナ！　<%sL_RANK>ランクへの\n　ランクアップ試験に　挑戦できるゼ。\n<br>\n「ランクアップ試験は\n　３回戦の　勝ち抜きバトルだ！\n　すべてのバトルに勝てば　晴れて合格サ。\n<br>\n「試験は　いつものバトルロードと違って\n　バトル参加権は使わないから\n　とにかく　まずは　チャレンジしてみることダ。\n<br>\n「さっそく　ランクアップ試験に挑戦するカ？\n<break>": "Hey, you're <pc>, aren't you? You\ndid well! You can challenge the rank-up exam\nto <%sL_RANK> rank. The rank-up test is a\n<br>\n3-round battle! If you win all the battles,\nyou will pass. Unlike the usual Battle Road,\nthe test does not use battle entry rights, so\n<br>\njust give it a try first. Do you want to\nchallenge the rank-up test right away?\n<break>"
   },
   "101799": {
     "「ところで　ついに　<%sL_RANK>ランクへの\n　ランクアップ試験に　チャレンジできるようダ！\n　さっそく　ランクアップ試験に　挑戦するカ？\n<break>": "Anyways, it looks like you're ready to try to\ntackle the rank up test to rank <%sL_RANK>!\nAre you gonna do it?\n<break>"
   },
   "101800": {
-    "「オレの名は　チャンプってんダ。\n　さすらいの　野良スライムをやってたが\n　この格闘場に　落ち着くことにしたのサ。": "My name is Champ. I've been a wandering\nslime, but I've decided to settle down here\nin the fighting pits..."
+    "「オレの名は　チャンプってんダ。\n　さすらいの　野良スライムをやってたが\n　この格闘場に　落ち着くことにしたのサ。": "My name is Champ. I was a wandering stray\nSlime and decided to settle down here in the\nArena."
   },
   "101801": {
     "「よう　<pc>！\n　一流の風格ってのが　染みついてきたナ！\n　あんたが　どこまで上りつめるか　見届けるゼ！\n<end>": "Hey, <pc>! Your winner's attitude\nis starting to rub off on me! Let's see how\nfar you can go this time!\n<end>"
@@ -54,10 +54,10 @@
     "「よう　<pc>！\n　最高にホットな試合を　見せてくれテ\n　いつも　マジ　サンキューな！\n<end>": "Hey, <pc>! Show me your best game!\nAnd thank you, as always! For real!\n<end>"
   },
   "101803": {
-    "「よう　期待の超新星　<pc>！\n　最近　あんたが出てくる試合は\n　人気フットーで　なかなか見れないらしいゼ！\n<end>": "Yo, supernova!<pc> Hey! Lately, the games you're in are so\npopular that they're hard to watch!<end>"
+    "「よう　期待の超新星　<pc>！\n　最近　あんたが出てくる試合は\n　人気フットーで　なかなか見れないらしいゼ！\n<end>": "Hey there, the hotly anticipated supernova\n<pc>! I heard that it's hard to see\nthe matches featuring you these days due to\n<br>\nyour popularity!\n<end>"
   },
   "101804": {
-    "「よう　元気そうだナ　<pc>！\n　みんな　あんたのバトルの　とりこサ。\n　あんたの人気　グイグイ来ちゃってるゼ。\n<end>": "Hey, you look good<pc> Oh, my God. Everyone's talking about your\nbattles. You're getting really popular.<end>"
+    "「よう　元気そうだナ　<pc>！\n　みんな　あんたのバトルの　とりこサ。\n　あんたの人気　グイグイ来ちゃってるゼ。\n<end>": "Hey, you look good <pc>! Everyone\nloves your battle. Your popularity is growing\nrapidly.\n<end>"
   },
   "101805": {
     "「よう　<pc>！\n　あんた　なかなかの好調ぶりだナッ！\n　今後の活躍　マジで期待しちゃってるゼ！\n<end>": "Yo, <pc>! You're doing\npretty good! I'm really looking forward to\nyour future activities!<end>"
@@ -72,25 +72,25 @@
     "「よう　<pc>！\n　最強の　まもの使い様の　お出ましだナ！\n<br>\n「だが　浮かれてばっかりじゃ　いけねぇゼ？\n　あんたの　ゴールは　ココじゃねぇ。\n　オレの勘が　そう言ってるんダ。\n<br>\n「誰も到達できなかった　テッペンに辿り着く。\n　あんたからは　そんな可能性を\n　ビンビンに　感じるんだゼ！\n<end>": "Hey, <pc>!\nThe ultimate Monster Master is here!\n<br>\nBut don't let it get it to your head, got it?\nGoo don't want to stop here. That's what\nmy instincts are telling me.\n<br>\nReach the top of Monster Masterdom like no\none else has before! If anyone can do it,\ngoo can!\n<end>"
   },
   "101809": {
-    "削除": ""
+    "削除": "deletion"
   },
   "103286": {
     "「おっと。すでに　同じモンスターが\n　パーティにいるから\n　そいつを借りることは　できないゼ。\n<bw_break>": "Oh, you already have that same monster in\nyour party already, so you can't borrow\nthem.<bw_break>"
   },
   "103368": {
-    "削除": ""
+    "削除": "deletion"
   },
   "103746": {
-    "「それじゃ　さくせんなどを確認して\n　準備が　オッケーなら\n　『バトルスタート』を選択するんダ！\n<break>": "Change your tactics now, if you'd like.\nWhen you're ready to start, choose\n\"Start Battle\"!\n<break>"
+    "「それじゃ　さくせんなどを確認して\n　準備が　オッケーなら\n　『バトルスタート』を選択するんダ！\n<break>": "Then check the Misc. and if everything is\nready, select \"battle start\"!\n<break>"
   },
   "103747": {
-    "「まだ　やめておくのカ？\n　そんじゃ　準備が　できたら\n　また　ここに来るんだナ！\n<end>": "You're not going to stop yet? Then come back\nhere when you're ready!<end>"
+    "「まだ　やめておくのカ？\n　そんじゃ　準備が　できたら\n　また　ここに来るんだナ！\n<end>": "You're not going to stop yet? Then come back\nhere when you're ready!\n<end>"
   },
   "103748": {
-    "「モンスターの　さくせんを設定するンダ！\n　リーダーモンスターは　命令ができるから\n　設定は　できないゼ！\n<break>": ""
+    "「モンスターの　さくせんを設定するンダ！\n　リーダーモンスターは　命令ができるから\n　設定は　できないゼ！\n<break>": "Set the Misc. of the monster! The leader\nmonster can give orders, so you can't set it!\n<break>"
   },
   "103749": {
-    "「使用するとくぎを　設定するんダ！\n　リーダーモンスターは　命令ができるから\n　使用とくぎ設定は　反映されないゼ！\n<break>": ""
+    "「使用するとくぎを　設定するんダ！\n　リーダーモンスターは　命令ができるから\n　使用とくぎ設定は　反映されないゼ！\n<break>": "Set the skill you want to use! The leader\nmonster can give commands, so the skill\nsetting will not be reflected!\n<break>"
   },
   "103755": {
     "サーバーテキストに差し替え予定": "To be replaced with server text"
@@ -147,16 +147,16 @@
     "「ランクアップ試験に　挑戦するカ？\n<break>": "Do you want to take the Rank Up exam?<break>"
   },
   "105447": {
-    "「……おやっ？　どうやら\n　パーティを　組んでいるみたいだナ。\n<br>\n「パーティを組んだ状態で　ランクアップ試験に\n　挑戦することはできないゼ！\n　悪いが　パーティから抜けて　また来てクレ。\n<end>": "... What? Looks like we're having a party...\nYou can't challenge the rank-up test while in\na party! I'm sorry, but you'll have to leave\n<br>\nthe party and come back...<end>"
+    "「……おやっ？　どうやら\n　パーティを　組んでいるみたいだナ。\n<br>\n「パーティを組んだ状態で　ランクアップ試験に\n　挑戦することはできないゼ！\n　悪いが　パーティから抜けて　また来てクレ。\n<end>": "Oh? It looks like you are having a party. You\ncan't challenge the rank-up test while in a\nparty! I'm sorry, but you'll have to leave the\n<br>\nparty and come back again.\n<end>"
   },
   "118688": {
-    "「おっと。すでに　<%sL_MONSTER>を\n　選んでいるようだゼ。\n<end>": "... You've already chosen <%sL_MONSTER>...<end>"
+    "「おっと。すでに　<%sL_MONSTER>を\n　選んでいるようだゼ。\n<end>": "Oops. Looks like you already picked\n<%sL_MONSTER>.\n<end>"
   },
   "271368": {
     "「サポートモンスターの　種族は\n　どうするンダ？": "Which kind of support monster goo you want?"
   },
   "271371": {
-    "「おっと。そのモンスターは\n　登録されてないみたいだナ。\n　他の種族を　選んでクレ。": "... I don't think that monster's registered.\nI'm going to choose another species..."
+    "「おっと。そのモンスターは\n　登録されてないみたいだナ。\n　他の種族を　選んでクレ。": "Oops. It looks like the monster is not\nregistered. Choose another race."
   },
   "279068": {
     "「スキルポイントが　ふりわけられていない\n　仲間モンスターが　パーティにいるガ\n　このまま　エントリーするカ？\n<yesno2><break>": "There's a fellow monster in your party that\nhasn't been assigned any skill points. Are\nyou sure you want to enter?<yesno2><break>"
