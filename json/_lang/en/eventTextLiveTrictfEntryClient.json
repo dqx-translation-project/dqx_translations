@@ -147,7 +147,7 @@
     "「あれれ～？　何か　問題が起きてるみたい。\n　すこし　時間をおいてから　来てね！\n<end>": "Huh? There's something wrong... Wait a little\nwhile and then come back!<end>"
   },
   "208329": {
-    "「さあ！　どうしよっか？\n<break>": "Come on! What do we do now?<break>"
+    "「さあ！　どうしよっか？\n<break>": "So! What'll it be, then?\n<break>"
   },
   "208330": {
     "<select_se_off>\n練習試合をする\n対抗戦をする\n職業を確認する\n実績を確認する\n勲章をセットする\n特別報酬を受け取る\n景品と交換する\n<select_end>\n<break>": "<select_se_off>\nPractice Match\nCompetitive Match\nCheck Vocations\nView Achievements\nSet Badge\nReceive Rewards\nRedeem Points\n<select_end>\n<break>"
@@ -168,7 +168,7 @@
     "「これが　<pc>さんの実績だよお！\n<end>": "These are your achievements!<end>"
   },
   "208336": {
-    "「さあ！　どうしよっか？\n<break>": "Come on! What do we do now?<break>"
+    "「さあ！　どうしよっか？\n<break>": "So! What'll it be, then?\n<break>"
   },
   "208337": {
     "<select_se_off>\n練習試合をする\n対抗戦をする\n職業を確認する\n実績を確認する\n勲章をセットする\n特別報酬を受け取る\n景品と交換する\n<select_end>\n<break>": "<select_se_off>\nPractice Match\nCompetitive Match\nCheck Vocations\nView Achievements\nSet Badge\nReceive Rewards\nRedeem Points\n<select_end>\n<break>"
@@ -255,7 +255,7 @@
     "「コフーーー……対抗戦へ　参加するのか。\n　対抗戦に参加する手続きには　大会ごとに\n　<%nL_GOLD>ゴールド　支払ってもらう……。\n<br>\n「なぜなら　対抗戦で優勝したクラブは\n　参加閃手から　集めたゴールドの総額を\n　賞金として　手に入れられるからなのだ。\n<br>\n「貴様にとっても　悪い話では　なかろう……。\n　賞金の詳細は　老師トトに　聞くがいい。\n　では　<%nL_GOLD>ゴールドを　払うか……？\n<yesno_2><close>": "Koffoo... To participate in a tournament...\nTo participate in the tournament, you need to\npay <%dL_GOLD> gold for each tournament...\n<br>\nBecause the winning club in the tournament\nwill get the total amount of gold collected\nfrom the participating players as prize\n<br>\nmoney. And that's not a bad deal for you.\nI'll ask Maester Toto for the details of the\nprize. So you'll pay me <%dL_GOLD> gold?<yesno_2><close>"
   },
   "208654": {
-    "「ちなみに　対抗戦では　練習試合と異なり\n　『ひとりで参加』と『自由に参加』の２種類から\n　好きなほうを選び　参加することができる……。\n<br>\n「『ひとりで参加』は　パーティを組んでいると\n　参加できない　孤高の戦いだ。\n　無論　相手も　同じ条件となる。\n<br>\n「『自由に参加』は　パーティを組んだ状態でも\n　参加できるし　ひとりで参加もできる。\n<br>\n「どの参加方法でも　試合で手に入る\n　勝ち点や　貢献度は変わらん。\n　貴様の　戦いやすい方法で挑め。\n<br>\n「コフーーー……。\n　さて　貴様は　どちらで対抗戦に挑むのだ？\n<break>": "By the way, unlike in practice matches, in a\nversus match, you can choose to participate\nin either a \"solo\" match or a \"free\" match.\n<br>\nYou can't participate in \"Solo\" if you're in\na party... Of course, your opponent must have\nthe same conditions... Free to join, you can\n<br>\njoin with a party, or you can join alone.\nRegardless of how you choose to participate,\nyou will receive the same number of points\n<br>\nand the same level of contribution to the\ngame. The way you prefer to fight... Kung\nFu... So, which way will you fight the war?<break>"
+    "「ちなみに　対抗戦では　練習試合と異なり\n　『ひとりで参加』と『自由に参加』の２種類から\n　好きなほうを選び　参加することができる……。\n<br>\n「『ひとりで参加』は　パーティを組んでいると\n　参加できない　孤高の戦いだ。\n　無論　相手も　同じ条件となる。\n<br>\n「『自由に参加』は　パーティを組んだ状態でも\n　参加できるし　ひとりで参加もできる。\n<br>\n「どの参加方法でも　試合で手に入る\n　勝ち点や　貢献度は変わらん。\n　貴様の　戦いやすい方法で挑め。\n<br>\n「コフーーー……。\n　さて　貴様は　どちらで対抗戦に挑むのだ？\n<break>": "By the way...unlike practice matches, you can\nchoose to participate in either \"solo\" or\n\"free\" matches...\n<br>\nFor solo matches, you'll have to enter alone\nwithout a party. Of course, your opponents\nwill be subject to the same conditions.\n<br>\nFree matches allow you to go in solo or with\na party.\n<br>\nYou'll earn the same points and club\ncontribution in either type of match, so\nyou're free to choose as you like.\n<br>\nAhem...\nSo, how would you like to participate?\n<break>"
   },
   "208655": {
     "「コフーーー……\n　所持金が　足りていないようだ……。\n　貴様……私を　愚弄しているのか……？\n<bw_break>": "Kofoo... It looks like you don't have enough\nmoney in your possession... You... Are you\ntaunting me...?<bw_break>"
@@ -276,7 +276,7 @@
     "「おおおっ　対抗戦　参加するですか！\n　対抗戦へ参加するには　大会ごとに\n　<%nL_GOLD>ゴールド　払う必要　あるですネ！\n<br>\n「というのも……　対抗戦で優勝したクラブは\n　参加閃手から　集めたゴールドの総額を\n　賞金として　ゲットできるですネ！\n<br>\n「なんだか　夢が広がるですネ！\n　くわしくは　トトじっちゃんに　聞くです！\n　それで　<%nL_GOLD>ゴールド　払うです……？\n<yesno_2><close>": "Oh, you're joining the tournament? To enter\nthe tournament, you'll need to pay <%dL_GOLD>\ngold per tournament! That's because... The\n<br>\nclub that wins the tournament will get the\ntotal amount of gold collected from the\nparticipating players as the prize money!\n<br>\nIt's a dream come true! I'll let Uncle Toto\ntell you more! And you'll pay <%dL_GOLD>\ngold...?<yesno_2><close>"
   },
   "208663": {
-    "「ちなみに　対抗戦では　練習試合と異なって\n　『ひとりで参加』と『自由に参加』の２種類から\n　好きなほうを選んで　参加できるです！\n<br>\n「『ひとりで参加』は　パーティを組んでいると\n　参加できないですネ。己の身ひとつで挑むです！\n　もちろん　相手も　同じ条件ですネ！\n<br>\n「『自由に参加』は　パーティを組んだ状態でも\n　おひとりさまでも　参加できるですヨ！\n<br>\n「どの参加方法でも　試合で手に入る\n　勝ち点や　貢献度は変わらないですネ！\n　<pc>さんが　戦いやすい方を選ぶです！\n<br>\n「それじゃあ　さっそく　対抗戦の開始です！\n　どっちで　参加するですか？\n<break>": "By the way, unlike in practice matches, you\ncan choose to participate in either \"Solo\" or\n\"Free\" matches! You can't join alone if\n<br>\nyou're in a party... You'll be on your own!\nOf course, your opponent must have the same\nconditions! Free to join means you can join\n<br>\nwith a party or on your own! Regardless of\nhow you join, you'll still get the same\namount of points and contributions from the\n<br>\nmatch!<pc> I'll take the one that's easier for you to\nfight! Well, then, let's get this match-up\nunderway! Which one are you going to play?<break>"
+    "「ちなみに　対抗戦では　練習試合と異なって\n　『ひとりで参加』と『自由に参加』の２種類から\n　好きなほうを選んで　参加できるです！\n<br>\n「『ひとりで参加』は　パーティを組んでいると\n　参加できないですネ。己の身ひとつで挑むです！\n　もちろん　相手も　同じ条件ですネ！\n<br>\n「『自由に参加』は　パーティを組んだ状態でも\n　おひとりさまでも　参加できるですヨ！\n<br>\n「どの参加方法でも　試合で手に入る\n　勝ち点や　貢献度は変わらないですネ！\n　<pc>さんが　戦いやすい方を選ぶです！\n<br>\n「それじゃあ　さっそく　対抗戦の開始です！\n　どっちで　参加するですか？\n<break>": "By the way! Unlike practice matches, you can\nchoose to participate in either \"solo\" or\n\"free\" matches!\n<br>\nFor solo matches, you'll have to enter alone\nwithout a party. Of course, your opponents\nwill be going in solo as well!\n<br>\nFree matches allow you to go in solo or with\na party. It's up to you!\n<br>\nYou'll earn the same points and club\ncontribution in either type of match, so\nchoose the one that suits you best!\n<br>\nNow then, let's get these matches started!\nHow would you like to participate?\n<break>"
   },
   "208664": {
     "「おおおおおっ！！\n　お金が　足りないですヨ！\n　対抗戦に　参加できないです！\n<bw_break>": "Whoa, whoa, whoa! I don't have enough money!\nI can't play in the tournament!<bw_break>"
@@ -297,13 +297,13 @@
     "「ハッハッハ！　対抗戦へ　参加したいのだな！\n　対抗戦に参加する手続きには　大会ごとに\n　<%nL_GOLD>ゴールド　もらうことになっている。\n<br>\n「……というのも　対抗戦で優勝したクラブは\n　参加閃手から　集めたゴールドの総額を\n　賞金として　手に入れられるからなのだ！\n<br>\n「ワハハ！　どうだ　ロマンがあるだろう！\n　賞金の詳細は　トトじいさまに　聞いてくれ！\n　さて　<%nL_GOLD>ゴールド　もらってよいかな？\n<yesno_2><close>": "Ha-ha-ha! You want to join the war! To enter\nthe tournament, you'll need to get <%dL_GOLD>\ngold for each tournament... ... Because the\n<br>\nwinning club in the tournament will get the\ntotal amount of gold collected from the\nparticipating players as their prize money!\n<br>\nHahaha! Isn't that romantic! You'll have to\nask Grandpa Toto about the prize money! Now,\nmay I have my <%dL_GOLD> gold?<yesno_2><close>"
   },
   "208672": {
-    "「ちなみに　対抗戦では　練習試合と異なり\n　『ひとりで参加』と『自由に参加』の２種類から\n　好きなほうを選び　参加ができるんだ。\n<br>\n「『ひとりで参加』は　パーティを組んでいると\n　参加することが　できないんだ。\n　無論　相手も　同じ条件だから安心してくれ！\n<br>\n「『自由に参加』は　パーティを組んで\n　参加できるし　単身で挑むこともできるぞ！\n<br>\n「どの参加方法でも　試合で手に入る\n　勝ち点や　貢献度は変わらない。\n　キミの　戦いやすい方を　選んでくれ！\n<br>\n「では　さっそく　対抗戦の開始だ！\n　キミは　どちらで　参加するんだい？\n<break>": "By the way, unlike in practice matches, you\ncan choose to participate in either \"Solo\" or\n\"Free\" matches... You can't participate in\n<br>\n\"Solo\" if you're in a party... You can't join\nalone if you're in a party... and don't\nworry, your partner has the same conditions.\n<br>\nYou can choose to join as a party, or you can\njoin alone! Regardless of which way you\nchoose to participate, you'll still get the\n<br>\nsame amount of victory points and\ncontribution points. Choose the one that's\neasiest for you! Let's begin the battle!\n<br>\nWhich one are you going to play?<break>"
+    "「ちなみに　対抗戦では　練習試合と異なり\n　『ひとりで参加』と『自由に参加』の２種類から\n　好きなほうを選び　参加ができるんだ。\n<br>\n「『ひとりで参加』は　パーティを組んでいると\n　参加することが　できないんだ。\n　無論　相手も　同じ条件だから安心してくれ！\n<br>\n「『自由に参加』は　パーティを組んで\n　参加できるし　単身で挑むこともできるぞ！\n<br>\n「どの参加方法でも　試合で手に入る\n　勝ち点や　貢献度は変わらない。\n　キミの　戦いやすい方を　選んでくれ！\n<br>\n「では　さっそく　対抗戦の開始だ！\n　キミは　どちらで　参加するんだい？\n<break>": "By the way, unlike practice matches, you can\nchoose to participate in either \"solo\" or\n\"free\" matches.\n<br>\nFor solo matches, you'll have to enter alone\nwithout a party. Of course, your opponents\nwill be going in alone as well!\n<br>\nFree matches allow you to go in solo or with\na party!\n<br>\nYou'll earn the same points and club\ncontribution in either type of match, so\nchoose the one that suits you best!\n<br>\nNow then, let's get these matches started!\nSo how would you like to participate?\n<break>"
   },
   "208673": {
     "「ハッハッハ！　<pc>よ！\n　お金が　足りていないようだ！\n　それでは　対抗戦に　参加できんぞ！\n<bw_break>": "Ha-ha-ha!<pc> Yo! It looks like you don't have enough\nmoney! Then you can't join the war!<bw_break>"
   },
   "208676": {
-    "「さあ！　どうしよっか？\n<break>": "Come on! What do we do now?<break>"
+    "「さあ！　どうしよっか？\n<break>": "So! What'll it be, then?\n<break>"
   },
   "208677": {
     "<select_se_off>\n練習試合をする\n対抗戦をする\n職業を確認する\n実績を確認する\n勲章をセットする\n特別報酬を受け取る\n<select_end>\n<break>": "<select_se_off>\nPractice Match\nCompetitive Match\nCheck Vocations\nView Achievements\nSet Badge\nReceive Rewards\n<select_end>\n<break>"
@@ -315,10 +315,10 @@
     "「そっか～　残念だなあ。\n　他に　用はあるかな～？\n<break>": "Well, that's too bad. Is there anything else\nI can do for you?<break>"
   },
   "208680": {
-    "「対抗戦へ　参加したいんだね！\n　参加する手続きには　大会ごとに\n　<%nL_GOLD>ゴールド　必要なんだ～。\n<br>\n「それはね……対抗戦で優勝したクラブは\n　参加閃手から　集めたゴールドの総額を\n　賞金で　総取りできるんだ！　すごいよね！\n<br>\n「賞金の詳細は　トトおじいちゃんに　聞いて！\n　じゃあ　<%nL_GOLD>ゴールド　払ってくれる？\n<yesno_2><close>": "So you want to join the tournament? To enter,\nyou need to have <%dL_GOLD> gold for each\ntournament... You see... The club that wins\n<br>\nthe tournament gets to keep all the gold that\nthey collect from the participating players!\nThat's awesome! Ask Grandpa Toto about the\n<br>\nprize money! So, will you pay me the\n<%dL_GOLD> gold?<yesno_2><close>"
+    "「対抗戦へ　参加したいんだね！\n　参加する手続きには　大会ごとに\n　<%nL_GOLD>ゴールド　必要なんだ～。\n<br>\n「それはね……対抗戦で優勝したクラブは\n　参加閃手から　集めたゴールドの総額を\n　賞金で　総取りできるんだ！　すごいよね！\n<br>\n「賞金の詳細は　トトおじいちゃんに　聞いて！\n　じゃあ　<%nL_GOLD>ゴールド　払ってくれる？\n<yesno_2><close>": "So you want to join the tournament! To enter,\nyou'll need to pay an entry fee of\n<%dL_GOLD> Gold.\n<br>\nThat's right... The club that wins gets to\ntake home all the Gold that was collected from\nparticipating players! Pretty nice, huh?!\n<br>\nIf you've got any questions about that, go and\nask Mr. Toto over there!\nSo, will you pay the <%dL_GOLD> Gold fee?\n<yesno_2><close>"
   },
   "208681": {
-    "「ちなみにね～　対抗戦では　練習試合とちがって\n　『ひとりで参加』と『自由に参加』の２種類から\n　好きなほうを選んで　参加できるんだ。\n<br>\n「『ひとりで参加』は　パーティを組んでると\n　参加できない　おひとりさま用なんだ。\n　もちろん　相手も　同じ条件だよ。\n<br>\n「『自由に参加』は　パーティを組んでいても\n　参加できるし　ひとりでも挑めるよ。\n<br>\n「どの参加方法でも　試合で手に入る\n　勝ち点や　貢献度は変わらないから\n　まあ　戦いやすい方を　選んでよ。\n<br>\n「それじゃ　さっそく　対抗戦を始めるよ！\n　<pc>さんは　どっちで　参加するの？\n<break>": "And by the way... unlike practice matches,\nyou can choose to participate in either\n\"solo\" or \"free\" matches... \"Participate\n<br>\nAlone\" is for single players who can't\nparticipate if they're in a party... Of\ncourse, the other person has to do the same.\n<br>\n\"Free to Join\" allows you to join in if\nyou're in a party, or you can try it alone...\nYou'll still get the same amount of victory\n<br>\npoints and contribution regardless of which\nway you join, so just pick the one that's\neasiest for you... Okay, let's get this\n<br>\nmatchup started!<pc> Which one are you going to join?<break>"
+    "「ちなみにね～　対抗戦では　練習試合とちがって\n　『ひとりで参加』と『自由に参加』の２種類から\n　好きなほうを選んで　参加できるんだ。\n<br>\n「『ひとりで参加』は　パーティを組んでると\n　参加できない　おひとりさま用なんだ。\n　もちろん　相手も　同じ条件だよ。\n<br>\n「『自由に参加』は　パーティを組んでいても\n　参加できるし　ひとりでも挑めるよ。\n<br>\n「どの参加方法でも　試合で手に入る\n　勝ち点や　貢献度は変わらないから\n　まあ　戦いやすい方を　選んでよ。\n<br>\n「それじゃ　さっそく　対抗戦を始めるよ！\n　<pc>さんは　どっちで　参加するの？\n<break>": "By the way...unlike practice matches, you can\nchoose to participate in either \"solo\" or\n\"free\" matches.\n<br>\nFor solo matches, you'll have to enter alone\nwithout a party. Of course, your opponents\nwill be subject to the same conditions.\n<br>\nFree matches allow you to go in solo or with\na party.\n<br>\nYou'll earn the same points and club\ncontribution in either type of match, so\nchoose the one that suits you best.\n<br>\nNow then, let's get these matches started!\nSo how would you like to participate?\n<break>"
   },
   "208682": {
     "「あれれ～？　お金が　足りてないみたい。\n　それじゃ　対抗戦に　参加できないよ！\n　その程度のお金も　ないなんて　恥ずかしー！\n<bw_break>": "Huh? I don't have enough money... Then we\ncan't participate in the tournament! It's a\nshame you don't have that kind of money!<bw_break>"
@@ -336,7 +336,7 @@
     "「あら　そうなの。\n　他に　用はあるかしら？\n<break>": "Oh, well... Is there anything else I can do\nfor you?<break>"
   },
   "208689": {
-    "「ふふっ　対抗戦に　参加したいのね？\n　でも　対抗戦に参加するには　大会ごとに\n　<%nL_GOLD>ゴールド　必要なのよね～。\n<br>\n「……というのも　対抗戦で優勝したクラブは\n　参加閃手から　集めたゴールドの総額を\n　賞金として　ゲットできるからなのよ～！\n<br>\n「ね……？　なんだか　ワクワクするでしょ？\n　賞金の詳細は　おじいちゃんに聞いてね！\n　じゃ　<%nL_GOLD>ゴールド　もらってもいい？\n<yesno_2><close>": "So, you want to join the tournament? But to\nenter the tournament, you need <%dL_GOLD>\ngold for each tournament... ... Because the\n<br>\nclub that wins the tournament will get the\ntotal amount of gold collected from the\nparticipating players as the prize money~!\n<br>\nIsn't that...? Isn't that exciting? You'll\nhave to ask Grandpa about the prize money!\nSo, can I have the <%dL_GOLD> gold?<yesno_2><close>"
+    "「ふふっ　対抗戦に　参加したいのね？\n　でも　対抗戦に参加するには　大会ごとに\n　<%nL_GOLD>ゴールド　必要なのよね～。\n<br>\n「……というのも　対抗戦で優勝したクラブは\n　参加閃手から　集めたゴールドの総額を\n　賞金として　ゲットできるからなのよ～！\n<br>\n「ね……？　なんだか　ワクワクするでしょ？\n　賞金の詳細は　おじいちゃんに聞いてね！\n　じゃ　<%nL_GOLD>ゴールド　もらってもいい？\n<yesno_2><close>": "Hmm hmm... So you want to join the tournament,\ndo you? To do that, you'll need to pay an\nentry fee of <%dL_GOLD> Gold.\n<br>\n...you see, the club that wins can actually\nclaim the total amount of Gold collected from\nparticipating players as a prize!\n<br>\nWell...? Doesn't that make you feel all giddy?\nIf you've got any questions, go ask Mr. Toto!\nWell? Will you give me <%dL_GOLD> Gold?\n<yesno_2><close>"
   },
   "208690": {
     "「あ　それと　対抗戦は　練習試合とちがって\n　『ひとりで参加』と『自由に参加』の２種類から\n　好きな方を選んで　参加できるのよ～。\n<br>\n「『ひとりで参加』は　パーティを組んでいると\n　参加できない　ひとりで挑みたい人向けよ～。\n　相手も　同じ条件だから　安心してね。\n<br>\n「『自由に参加』は　パーティを組んでいても\n　参加できるし　ひとりでも挑めるわよ～。\n<br>\n「ちなみに　どっちの参加方法でも　手に入る\n　勝ち点や貢献度は　変わらないわ～。\n　あなたの　戦いやすい方を　選んでね。\n<br>\n「それじゃあ　さっそく　対抗戦の開始よ～！\n　あなたは　どっちで参加する？\n<break>": "Oh, and unlike practice matches, you can\nchoose to participate in either \"solo\" or\n\"free\" matches. \"Solo\" is for those who want\n<br>\nto take on the challenge alone, but can't\nparticipate if they're in a party. The other\nparty has the same conditions as you, so you\n<br>\ndon't have to worry. Free to join is for\nthose who wish to join in a party, but wish\nto challenge alone... And by the way, either\n<br>\nway, you'll still get the same amount of\nVictory Points and Contribution Points... You\ncan choose whichever way you're comfortable\n<br>\nwith... Well then, let's get this war\nstarted! Which way do you want to\nparticipate?<break>"
@@ -501,7 +501,7 @@
     "「コフーーー……。\n　では　<%nL_GOLD>ゴールド　いただこう。\n<end>": "Cohooooo... Now, <%dL_GOLD> Gold, here we\ngo...<end>"
   },
   "211035": {
-    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of <%dL_GOLD> gold to\nenter the tournament as a flashpoint for\n<%sM_team>!<me_71><end>"
+    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of\n<%dL_GOLD> Gold to enter the tournament\nas a player for <%sM_team>!\n<me_71><end>"
   },
   "211036": {
     "「……コフーーー。これにて　手続きは完了した。\n　以後　今大会であれば　何度でも参加できる。\n　我らがクラブの優勝のため　戦うがよい。\n<bw_break>": "... Coff... This is the end of the\nprocedure... From now on, you may participate\nin this tournament as often as you like... I\n<br>\nwill fight for our club's victory...<bw_break>"
@@ -513,7 +513,7 @@
     "「オッス！　イイお返事！\n　では　<%nL_GOLD>ゴールド　いただくですネ！\n<end>": "Oss! Good answer. I'll take that <%dL_GOLD>\ngold!<end>"
   },
   "211039": {
-    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of <%dL_GOLD> gold to\nenter the tournament as a flashpoint for\n<%sM_team>!<me_71><end>"
+    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of\n<%dL_GOLD> Gold to enter the tournament\nas a player for <%sM_team>!\n<me_71><end>"
   },
   "211040": {
     "「…………ホイ！　手続き完了です！\n　この大会は　ずっと　対抗戦し放題です！\n　たくさん　遊んで　遊びまくるですヨ！\n<bw_break>": "... Hoi! It's a done deal! This tournament is\nopen to all players! We're gonna play and\nplay and play!<bw_break>"
@@ -525,7 +525,7 @@
     "「ハッハッハ！　そうこなくてはな！\n　では　<%nL_GOLD>ゴールド　いただくぞ！\n<end>": "Ha-ha-ha! That's what I'm talking about!\nLet's have some of that <%dL_GOLD> gold!<end>"
   },
   "211043": {
-    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of <%dL_GOLD> gold to\nenter the tournament as a flashpoint for\n<%sM_team>!<me_71><end>"
+    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of\n<%dL_GOLD> Gold to enter the tournament\nas a player for <%sM_team>!\n<me_71><end>"
   },
   "211044": {
     "「…………よし！　これで　手続きは完了だ！\n　以後　開催中であれば　今大会は参加し放題だ！\n　どんどん　遊んでくれたまえ！\n<bw_break>": "... Okay! The process is complete! From now\non, as long as the tournament is in session,\nyou're free to enter! Go ahead, play!<bw_break>"
@@ -534,10 +534,10 @@
     "「ええー　ケチだなあ！\n　そういう人を　守銭奴って言うんだよ！\n　もし　気が変わったら　また来てね！\n<bw_break>": "What a cheapskate! People like that are\ncalled misers! If you change your mind, come\nback!<bw_break>"
   },
   "211046": {
-    "「わーい！　ありがと！\n　<%nL_GOLD>ゴールド　もらっちゃうね！\n<end>": "Yay! Thank you! <%dL_GOLD> I'll take the\ngold!<end>"
+    "「わーい！　ありがと！\n　<%nL_GOLD>ゴールド　もらっちゃうね！\n<end>": "Yay! Thanks so much!\nI'll take your <%dL_GOLD> Gold!\n<end>"
   },
   "211047": {
-    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of <%dL_GOLD> gold to\nenter the tournament as a flashpoint for\n<%sM_team>!<me_71><end>"
+    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of\n<%dL_GOLD> Gold to enter the tournament\nas a player for <%sM_team>!\n<me_71><end>"
   },
   "211048": {
     "「…………はい！　手続きは　おしまい！\n　以後　この大会中なら　対抗戦に参加し放題！\n　優勝目指して　がんばろうね！\n<bw_break>": "... Yes! The process is over! From now on,\nyou're free to participate in all the\nrivalries during this tournament! Let's go\n<br>\nfor the win!<bw_break>"
@@ -549,7 +549,7 @@
     "「ふふっ　そうこなくっちゃ！\n　それじゃ　<%nL_GOLD>ゴールド　いただくわ～。\n<end>": "That's what I'm talking about! Okay,\n<%dL_GOLD> Gold, please...<end>"
   },
   "211051": {
-    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of <%dL_GOLD> gold to\nenter the tournament as a flashpoint for\n<%sM_team>!<me_71><end>"
+    "<pc>は　参加費用<%nL_GOLD>ゴールドを\n支払い　<%sM_team>の閃手として\n対抗戦に　エントリーした！\n<me_71><end>": "<pc> has paid the entry fee of\n<%dL_GOLD> Gold to enter the tournament\nas a player for <%sM_team>!\n<me_71><end>"
   },
   "211052": {
     "「……はい！　これで　手続きは完了よ～。\n　この後は　開催中なら　対抗戦に参加し放題よ。\n　たくさん　遊んでいってね～！\n<bw_break>": "... Yes! And that's the end of the process.\nAfter this, if it's still on, you can join\nthe tournament... I hope you have lots of\n<br>\nfun!<bw_break>"
@@ -690,25 +690,25 @@
     "<select_se_off>\nひとりで参加する\n自由に参加する\n<select_end>\n<break>": "<select_se_off>\nPlay Solo\nPlay Freely\n<select_end>\n<break>"
   },
   "226415": {
-    "「フン……。\n　参加したくなったら　また来い。\n<end>": "Hmm... If you ever feel like joining us...<end>"
+    "「フン……。\n　参加したくなったら　また来い。\n<end>": "Hmph...\nCome back if you ever feel like joining.\n<end>"
   },
   "226417": {
-    "「むむむむむ！　残念ですネ！\n　参加したくなったら　また　来るですヨ！\n<end>": "Mmm-mmm! I'm sorry! I'll come back when I\nfeel like joining in!<end>"
+    "「むむむむむ！　残念ですネ！\n　参加したくなったら　また　来るですヨ！\n<end>": "Grrrrr! That's too bad! If you feel like you\nwant to join, then come back!\n<end>"
   },
   "226419": {
-    "「そうか……。\n　では　参加したくなったら　また来るがよい！\n<end>": "Okay, well... Well, if you want to join us,\ncome back!<end>"
+    "「そうか……。\n　では　参加したくなったら　また来るがよい！\n<end>": "I see...\nWell, if you change your mind, please come\nback!\n<end>"
   },
   "226421": {
-    "「ええー　やらないの～？\n　もし　気が変わったら　また来てね！\n<end>": "What? You're not doing it? If you change your\nmind, please come back!<end>"
+    "「ええー　やらないの～？\n　もし　気が変わったら　また来てね！\n<end>": "Huh? You don't want to? Well, be sure to\ncome back if you change your mind!\n<end>"
   },
   "226423": {
-    "「あらそう～。\n　参加したくなったら　また来てね！\n<end>": "Oh, my... Come back if you want to join us!<end>"
+    "「あらそう～。\n　参加したくなったら　また来てね！\n<end>": "Is that so...\nPlease come back if you decide you want\nto join in!\n<end>"
   },
   "226426": {
-    "「……貴様は　パーティを組んでいるな。\n　ひとりで参加するなら　パーティを抜けてから\n　ふたたび来るがよい……。コフーーー……。\n<bw_break>": "... You're in a party. If you want to join\nalone, leave the party and come back...\nKofoo...<bw_break>"
+    "「……貴様は　パーティを組んでいるな。\n　ひとりで参加するなら　パーティを抜けてから\n　ふたたび来るがよい……。コフーーー……。\n<bw_break>": "...hey. You're in a party. If you want to play\nsolo, you'll have to leave your party...\nAhem...\n<bw_break>"
   },
   "226428": {
-    "「……むむむっ！　パーティ　組んでるですネ？\n　ひとりで参加したいなら　パーティを抜けて\n　また　来るです！\n<bw_break>": "... Mmm-hmm! You're in a party, aren't you?\nIf you'd like to join us on your own, leave\nthe party and come back!<bw_break>"
+    "「……むむむっ！　パーティ　組んでるですネ？\n　ひとりで参加したいなら　パーティを抜けて\n　また　来るです！\n<bw_break>": "H..hey! Aren't you in a party? If you want\nto go in solo, come back after you leave\nyour party!\n<bw_break>"
   },
   "226430": {
     "「キミは今　パーティを組んでいるようだな。\n　ひとりで参加したいなら　パーティを抜けてから\n　また　来てくれ！\n<bw_break>": "You're in a party now... If you want to go it\nalone, leave the party and come back!<bw_break>"
@@ -879,7 +879,7 @@
     "「さあ　どうするんだ？\n<break>": "What do we do now?<break>"
   },
   "263279": {
-    "「さあ！　どうしよっか？\n<break>": "Come on! What do we do now?<break>"
+    "「さあ！　どうしよっか？\n<break>": "So! What'll it be, then?\n<break>"
   },
   "263280": {
     "「ねえ……　どうする？\n<break>": "Hey... What do we do now?<break>"
