@@ -2898,13 +2898,13 @@
     "<speed=0>ここでは　そうびを　変えられない！": "<speed=0>You can't change equipment here!"
   },
   "40766": {
-    "<speed=0>通信エラーのため　情報が取得できませんでした。\nエラーコード：<%sERRID>": "<speed=0>Information unavailable due to connection error. Error Code: <%sERRID>"
+    "<speed=0>通信エラーのため　情報が取得できませんでした。\nエラーコード：<%sERRID>": "<speed=0>Information unavailable due to connection\nerror.\nError Code: <%sERRID>"
   },
   "40767": {
     "<speed=0>通信エラーのため　情報が取得できませんでした。": ""
   },
   "40781": {
-    "<speed=0>あなたは今　仲間がいます。\n今の仲間と一緒に　<%sM_monster>との\n戦いに行きますが　よろしいですか？<yesno><close>": "<speed=0>You're currently in a party.\nDo you want to go to battle with\n<%sM_monster> with your current party?<yesno><close>"
+    "<speed=0>あなたは今　仲間がいます。\n今の仲間と一緒に　<%sM_monster>との\n戦いに行きますが　よろしいですか？<yesno><close>": "<speed=0>You're currently in a party.\nGo to battle with <%sM_monster>\nalong with your current party?<yesno><close>"
   },
   "40814": {
     "ヒマなので\n誘ってほしいと\n言いたい状態": "You are free\nand willing to\nplay with others."
@@ -2913,7 +2913,7 @@
     "<speed=0>『いまヒマです』にチェックすると\n『ひとりプレイ中』のチェックが\nはずれますが　よろしいですか？<yesno><close>": "<speed=0>If you check \"Available\", \"Playing Alone\"\nwill be unchecked. Is this okay?<yesno><close>"
   },
   "40840": {
-    "<speed=0>パーティリーダーから\n試練の門の戦いのさそいを　受けましたが\n条件を　満たしていませんでした。<br>\n条件を満たすには　レンダーシア大陸に\n上陸している必要があります。": "<speed=0>You received a Trial Gate invitation from your\nparty leader, but didn't meet the conditions.\n<br>\nIn order to accept, you must be on the\ncontinent of Lendersia."
+    "<speed=0>パーティリーダーから\n試練の門の戦いのさそいを　受けましたが\n条件を　満たしていませんでした。<br>\n条件を満たすには　レンダーシア大陸に\n上陸している必要があります。": "<speed=0>You received a Trial Gate invitation from your\nparty leader, but do not meet the conditions\nto accept.\n<br>\nIn order to accept, you must be within\nLendersia."
   },
   "40841": {
     "<speed=0><%sM_PTMember>が　見つかりませんでした。\nもう一度　<%sM_PTMember>を探しますか？\n<select>\nもう一度探す\nこのまま行く\n行くのをやめる\n<select_end>\n<close>": "<speed=0>Couldn't find <%sM_PTMember>.\nSearch for <%sM_PTMember> again?\n<select>\nSearch Again\nGo As Is\nStop Searching\n<select_end>\n<close>"
@@ -2925,7 +2925,7 @@
     "<speed=0>この写真は　現在操作できません。\nアルバムを拡張すれば\n操作できるようになります。": "<speed=0>This photo cannot be selected. It can be\nselected once again if the album is\nexpanded."
   },
   "40889": {
-    "<%sM_action>は　飛竜では　使えない！": "Can't use <%sM_action> on your dragon!"
+    "<%sM_action>は　飛竜では　使えない！": "Can't use <%sM_action> while\nriding on your dragon!"
   },
   "40911": {
     "登録された\nパーティで\nバトルへ参加": "Go to battle with\na registered\nparty."
@@ -2970,7 +2970,7 @@
     "<speed=0>既に装備しているバッジは　複数装備できません！": "<speed=0>Cannot equip more than one of the same badge!"
   },
   "41175": {
-    "<speed=0>いまは　サポート仲間の\nさくせんを　変更できません！": "<speed=0>Can't change your monsters' Tactics right now!"
+    "<speed=0>いまは　サポート仲間の\nさくせんを　変更できません！": "<speed=0>Can't change your monsters' tactics right now!"
   },
   "41176": {
     "<speed=0>ここでは　さくせんを　変えられない！": "<speed=0>You can't change tactics here!"
