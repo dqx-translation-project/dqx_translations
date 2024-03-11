@@ -66,7 +66,7 @@
     "「<%sM_pc>と　別れるんだな。\n　本当に　いいのか？\n<yesno><break>": "You'll part ways with <%sM_pc>.\nAre you sure?\n<yesno><break>"
   },
   "11767": {
-    "<pipipi_off><%sM_pc>が　仲間から　はずれた。<end>": "<pipipi_off><%sM_pc> has been removed from\nthe group...<end>"
+    "<pipipi_off><%sM_pc>が　仲間から　はずれた。<end>": "<pipipi_off><%sM_pc> has been removed from the group.<end>"
   },
   "11768": {
     "「ここは　冒険者の酒場。\n　旅人たちが　仲間をもとめて集まる\n　出会いと別れの酒場だ。\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "This is the Adventurer's Tavern, the place\nwhere travelers come to meet and recruit\nnew friends. What can I do for you?\n<select_se_off>\nParty Search\nRegister Self\nProposed Teams\nExplanation\n<select_end>\n<break>"
@@ -78,7 +78,7 @@
     "「ほい。ありがとよ。\n　また　さびしくなったら\n　いつでも来なよ。待ってるぜ。": "Here you go. There is... Whenever you get\nlonely again... Wait..."
   },
   "11771": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "Anything else I can do?\n<select_se_off>\nParty Search\nRegister Self\nRecommended Teams\nExplanation\n<select_end>\n<break>"
+    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nRegister Self\nRecommended Teams\nExplanation\n<select_end>\n<break>"
   },
   "11773": {
     "「おっと。悪いけど　カネが足りないみたいだな。\n<bw_break>": "I'm sorry. I'm sorry, but I don't think we\nhave enough money...<bw_break>"
@@ -147,7 +147,7 @@
     "「ありがとうございました。\n　新しい出会いが　ほしいときは\n　また　いつでも来てね。": "Thank you very much. If you're ever looking to\nmeet someone new, you can always come back\nhere."
   },
   "11800": {
-    "「他に　ご用はあるかしら？\n<break>": "Anything else I can do?\n<break>"
+    "「他に　ご用はあるかしら？\n<break>": "Is there anything else I can help you with?\n<break>"
   },
   "11802": {
     "「あら　残念だけど\n　お金が　足りないみたいね。\n<bw_break>": "Oh, I'm sorry, but I don't have enough money\nto...<bw_break>"
@@ -177,25 +177,25 @@
     "「わかったわ。\n　冒険を中断して　サポート仲間に登録するのね。\n<br>\n「サポート仲間になって\n　誰かの仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるわよ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対ないわ。\n　つまり　登録して損なことは　ゼロってわけ。\n<br>\n「サポート仲間に登録したら\n　冒険を中断してもらうことになるけど\n　登録をしても　いいかしら？\n<yesno><break>": "I don't know. You can stop your adventure and\nsign up to be a support companion... And if\nyou become a support companion, and someone\n<br>\njoins you, you can earn experience and gold\nwhile you're off... Of course, you can't let\nanyone use your belongings or steal your\n<br>\nequipment. In other words, there's nothing to\nlose by signing up. If I sign up as a support\ncompanion, I'll have to ask you to take a\n<br>\nbreak from the adventure, but can I still\nsign up?<yesno><break>"
   },
   "11812": {
-    "「やめとくのね。わかったわ。\n<bw_break>": "Don't... I don't know...<bw_break>"
+    "「やめとくのね。わかったわ。\n<bw_break>": "Okay, I understand.\n<bw_break>"
   },
   "11814": {
-    "「はい　オッケー。\n　<%sM_pc>の登録を　受け付けたわよ。\n<br>\n「それじゃ　今日はもう　おやすみなさい。\n　<%sM_pc>が　ステキな夢を見られるよう\n　天使に　祈っておくわ。<end>": "Yes, O... <%sM_pc> has been\naccepted for registration... And that's it\nfor today. Good night... Pray to the angels\n<br>\nfor <%sM_pc> to have a wonderful\ndream...<end>"
+    "「はい　オッケー。\n　<%sM_pc>の登録を　受け付けたわよ。\n<br>\n「それじゃ　今日はもう　おやすみなさい。\n　<%sM_pc>が　ステキな夢を見られるよう\n　天使に　祈っておくわ。<end>": "Okay, <%sM_pc>'s registration has been\ncompleted. I will pray to the angels that\nyou have wonderful dreams. Good night.<end>"
   },
   "11817": {
     "<pipipi_off><%sM_pc>が　仲間に加わった！\n<me 61><end>": "<pipipi_off><%sM_pc> has joined the party!<me 61><end>"
   },
   "11818": {
-    "「はい。これで　オッケーよ。\n　<%sM_pc>さんには　町の外に出た所で\n　合流するよう　伝えておいたわ。\n<end>": "Alright, that's good. I'll tell <%sM_pc>\nto meet you outside of town.\n<end>"
+    "「はい。これで　オッケーよ。\n　<%sM_pc>さんには　町の外に出た所で\n　合流するよう　伝えておいたわ。\n<end>": "All right. I'll tell <%sM_pc> to\nmeet you outside of town.\n<end>"
   },
   "11820": {
     "「誰と　お別れするの？<break>": "Who are you parting ways with?<break>"
   },
   "11821": {
-    "「やめておくの？\n　そうね。それが　いいかもしれないわね。<bw_break>": "You're just gonna stop? I... It might be a\ngood idea...<bw_break>"
+    "「やめておくの？\n　そうね。それが　いいかもしれないわね。<bw_break>": "You want to stop? That might be a good idea.<bw_break>"
   },
   "11822": {
-    "「わかったわ。\n　それじゃあ　<%sM_pc>さんには\n　私から　伝えておくわね。<end>": "I don't know... Well then, I'll let\n<%sM_pc> know...<end>"
+    "「わかったわ。\n　それじゃあ　<%sM_pc>さんには\n　私から　伝えておくわね。<end>": "Okay, I'll let <%sM_pc> know then.<end>"
   },
   "11823": {
     "「まあ！　そんな姿のまま\n　<%sM_pc>さんと　別れるつもり？\n　それは　あんまりじゃないかしら。\n<br>\n「ちゃんと　教会に行って\n　生き返してあげた方が　いいと思うわ。\n　<%sM_pc>さんが　かわいそうよ。\n<bw_break>": "Oh, my God! You're going to leave\n<%sM_pc> looking like that?\nThat's not a good idea... I think you should\n<br>\ngo to church and bring him back to life.\n<Poor Mr...<bw_break>"
@@ -216,13 +216,13 @@
     "「ここは　冒険者の酒場。\n　旅人たちが　仲間をもとめて集まる\n　出会いと別れの酒場だ。\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nなかまと別れる\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "This is the Adventurer's Tavern, the place\nwhere travelers come to meet and recruit\nnew friends and part with old ones.\n<br>\nWhat can I do for you today?\n<select_se_off>\nParty Search\nRegister Self\nRemove Member\nProposed Teams\nExplanation\n<select_end>\n<break>"
   },
   "19673": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nなかまと別れる\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "Anything else I can do?\n<select_se_off>\nParty Search\nRegister Self\nRecommended Teams\nRemove Members\nExplanation\n<select_end>\n<break>"
+    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nなかまと別れる\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nRegister Self\nRecommended Teams\nRemove Members\nExplanation\n<select_end>\n<break>"
   },
   "19675": {
     "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場よ。\n　何を　おのぞみかしら？\n<break>": "This is the Adventurer's Tavern. The place\nwhere travelers come to meet and recruit\nnew friends. What can I do for you?\n<break>"
   },
   "19677": {
-    "「他に　ご用はあるかしら？\n<break>": "Anything else I can do?\n<break>"
+    "「他に　ご用はあるかしら？\n<break>": "Is there anything else I can help you with?\n<break>"
   },
   "24418": {
     "「んー。悪いが　あんたの条件に合うやつは\n　今日は　いないみたいだなあ。\n　条件を変えてみてくれよ。\n<break>": "Hmm. I'm sorry, but I don't think we have\nanyone that fits your criteria today. Try\nchanging it up.<break>"
@@ -267,7 +267,7 @@
     "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場だ。\n　今日は　どんな用だい？\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "This is a place for adventurers... It's a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you today? What can I do for you\ntoday?\n<select_se_off>\nfind a friend\nListen to the explanation\n<select_end>\n<break>"
   },
   "38808": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "Anything else I can do?\n<select_se_off>\nParty Search\nRemove Members\nExplanation\n<select_end>\n<break>"
+    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nRemove Members\nExplanation\n<select_end>\n<break>"
   },
   "38809": {
     "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "Is there anything else you need?\n<select_se_off>\nfind a friend\nListen to the explanation\n<select_end>\n<break>"
@@ -279,7 +279,7 @@
     "「ここは　冒険者の酒場。\n　旅人たちが　仲間をもとめて集まる\n　出会いと別れの酒場だ。\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "This is a place for adventurers... It's a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you today?\n<select_se_off>\nfind a friend\nListen to the explanation\n<select_end>\n<break>"
   },
   "38812": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "Anything else I can do?\n<select_se_off>\nParty Search\nRemove Members\nExplanation\n<select_end>\n<break>"
+    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nRemove Members\nExplanation\n<select_end>\n<break>"
   },
   "38813": {
     "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "Is there anything else you need?\n<select_se_off>\nfind a friend\nListen to the explanation\n<select_end>\n<break>"
@@ -294,7 +294,7 @@
     "「他に　ご用はあるかしら？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "Anything else I can do?\n<select_se_off>\nParty Search\nRemove Members\nExplanation\n<select_end>\n<break>"
   },
   "38817": {
-    "「他に　ご用はあるかしら？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "Anything else I can do?\n<select_se_off>\nParty Search\nExplanation\n<select_end>\n<break>"
+    "「他に　ご用はあるかしら？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nExplanation\n<select_end>\n<break>"
   },
   "38818": {
     "「おっと　悪いな。\n　今は　紹介できるやつが　いないんだよ。\n<br>\n「紹介できるやつを　増やしたいんなら\n　この町にいる　名前が紫色のやつらの頼みを\n　聞いてやるといいぜ。\n<bw_break>": "Whoa... I don't have anyone to introduce you\nto right now... If you want to introduce more\npeople, you'll have to do a favor for the\n<br>\npurple ones in this town...<bw_break>"
@@ -342,7 +342,7 @@
     "「このコメントで　登録していいんだな？\n<yesno><break>": "So I can register with this comment?<yesno><break>"
   },
   "41578": {
-    "「じゃあ　仲間を探してるやつに向けたコメントと\n　どんな人にだったら　あんたを紹介していいのか\n　ここで　設定していってくれ。\n<break>": "So, if you want to make a comment to someone\nwho's looking for a friend, and you want to\ntell them who they can introduce you to, you\n<br>\ncan do that right here...<break>"
+    "「じゃあ　仲間を探してるやつに向けたコメントと\n　どんな人にだったら　あんたを紹介していいのか\n　ここで　設定していってくれ。\n<break>": "Please leave a comment for others looking\nto recruit you, as well as the type of\nsearches you'd like to show up in.\n<break>"
   },
   "41579": {
     "「<%sM_pc>を　仲間にするなら\n　誰かと　入れ替えなくちゃならないぜ。\n　それでも　いいか？\n<yesno><break>": "If you're gonna bring <%sM_pc>\ninto the fold, you're gonna have to replace\nhim with someone... Is that okay with you?<yesno><break>"
@@ -411,7 +411,7 @@
     "「コメントは　このままで　いいのね？\n　それじゃ　これで登録しておくわ。\n<bw_break>": "You're not gonna leave a comment, are you?\nOkay, well, I'll just sign up for the...<bw_break>"
   },
   "41601": {
-    "「このコメントで　登録するのね。\n　本当に　いいかしら？\n<yesno><break>": "I'm going to register this comment... Are you\nsure you want to do this?<yesno><break>"
+    "「このコメントで　登録するのね。\n　本当に　いいかしら？\n<yesno><break>": "You're registering yourself with this\ncomment. Are you sure?\n<yesno><break>"
   },
   "41602": {
     "「じゃあ　仲間を探している人に向けたコメントと\n　どんな人にだったら　あなたを紹介していいのか\n　ここで　設定していってね。\n<break>": "So, if you want to make a comment to someone\nwho's looking for companionship, and you want\nto tell them who they can refer to you, you\n<br>\ncan do that right here...<break>"
@@ -564,7 +564,7 @@
     "": ""
   },
   "44821": {
-    "「登録をやめても　いいかしら？\n<yesno><break>": "Do you mind if I cancel my registration?<yesno><break>"
+    "「登録をやめても　いいかしら？\n<yesno><break>": "Do you want to cancel registration?\n<yesno><break>"
   },
   "46112": {
     "「<%sM_pc>は　フレンドなんだな。\n　だったら　無料で紹介できるから\n　仲間にしたい時間を　選んでくれるかい？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "Looks like <%sM_pc>'s your friend.\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
@@ -609,7 +609,7 @@
     "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "Is there anything else you need?\n<select_se_off>\nParty Search\nRemove Member\nProposed Teams\nExplanation\n<select_end>\n<break>"
   },
   "49770": {
-    "「他に　ご用はあるかしら？\n<break>": "Anything else I can do?\n<break>"
+    "「他に　ご用はあるかしら？\n<break>": "Is there anything else I can help you with?\n<break>"
   },
   "49796": {
     "「じゃあ　<%sM_pc_old>には　伝えておくよ。\n　入れ替わりで　<%sM_pc>を\n　呼んでくるから　ちょっと待っててくれよ……。<break>": "Okay, then I'll let <%sM_pc_old> know.\nI'll go and get <%sM_pc>, so please\nwait just a moment...<break>"
@@ -867,7 +867,7 @@
     "「おすすめのチームを　知りたいのかい？\n　それなら　メンバー募集しているチームを\n　いくつか　紹介するぜ。\n<end>": "You want some team recommendations? Well,\nhere are some teams that are looking for\nmembers...<end>"
   },
   "127963": {
-    "「気になるチームは　なかったようだな。\n　まだまだ　いろんなチームが　あるから\n　まちかど掲示板で　チェックしてみるといいぞ。\n<bw_break>": "I didn't see any teams that I liked...\nThere's still a lot of teams out there, so\nyou might want to check the message board...<bw_break>"
+    "「気になるチームは　なかったようだな。\n　まだまだ　いろんなチームが　あるから\n　まちかど掲示板で　チェックしてみるといいぞ。\n<bw_break>": "Didn't see any teams that you liked? You can\ncheck out many others who are recruiting at\nthe town bulletin board.\n<bw_break>"
   },
   "127964": {
     "「おお？　今　紹介できるチームはないみたいだ。\n　時間をおいて　また来てくれよな。\n　まちかど掲示板から　探してみるのもいいぜ。\n<bw_break>": "Oh? I don't think I have a team to introduce\nyou to right now... We'll come back in a\nlittle while and... We can try to find them\n<br>\non the bulletin board...<bw_break>"
