@@ -36,7 +36,7 @@
     "環境設定": "Environment"
   },
   "79812": {
-    "おすすめの設定を判定中です……。\nしばらくお待ちください。": "Determining recommended settings...\nPlease wait awhile."
+    "おすすめの設定を判定中です……。\nしばらくお待ちください。": "Determining recommended settings...\nPlease wait a while."
   },
   "79813": {
     "おすすめ設定が完了しました。\n・画面解像度　　　　　%s\n・グラフィックス設定　%s\n・フレームレート　　　%s": "Recommended settings complete.\n- Screen resolution: %s\n- Graphics settings: %s\n- Frame rate: %s"
@@ -903,7 +903,7 @@
     "カスタム設定": "Custom settings"
   },
   "80111": {
-    "確認": "Accept"
+    "確認": "Confirm"
   },
   "80112": {
     "1": "1"
@@ -975,7 +975,7 @@
     "コンフィグ設定する": "Configure settings."
   },
   "80163": {
-    "前回のコンフィグ設定から、ゲームパッドが変更されました。\nコンフィグの「ゲームパッドの設定」で、\n意図した設定になっているか、必ず確認してください。": "The gamepad has been changed since the last config setting. \nMake sure to check the \"Gamepad Settings\" in the configuration to make sure that the settings are set as intended."
+    "前回のコンフィグ設定から、ゲームパッドが変更されました。\nコンフィグの「ゲームパッドの設定」で、\n意図した設定になっているか、必ず確認してください。": "The gamepad has been changed since the last config setting.\nCheck the \"Gamepad Settings\" in the configuration to\nmake sure that the settings are as intended."
   },
   "81466": {
     "操作タイプの設定": "Set Operation Type"
@@ -1005,7 +1005,7 @@
     "「%s」と「%s」のボタンが変更されました。": "The \"%s\" and \"%s\" buttons have been changed."
   },
   "83734": {
-    "バージョンアップ中のため、起動できません。\nバージョンアップが完了してから、もう一度、お試しください。": "Unable to start because the version is being upgraded. \nPlease try again after the upgrade is complete."
+    "バージョンアップ中のため、起動できません。\nバージョンアップが完了してから、もう一度、お試しください。": "Unable to start because the version is being upgraded.\nPlease try again after the upgrade is complete."
   },
   "84042": {
     "コンフィグは、すでに起動しています。": "The configuration is already up and running."
@@ -1158,7 +1158,7 @@
     "眠れる勇者と導きの盟友　オープニングムービー": "The Sleeping Hero & the Guiding Ally Opening Movie"
   },
   "97074": {
-    "目覚めし五つの種族　タイトルムービー": "The Awakening of the Five Tribes Title Movie"
+    "目覚めし五つの種族　タイトルムービー": "Awakening of the 5 Tribes Title Movie"
   },
   "97319": {
     "ダイレクトチャットの設定": "Direct Chat Settings"
@@ -1284,7 +1284,7 @@
     "どのプレイヤーに反映しますか？\n（環境設定のすべての情報が反映されます。）": "Which players will be reflected? \n (All information in the preferences will be reflected.)"
   },
   "99444": {
-    "下記の項目が変更になります。\n本当によろしいですか？": "The following items will be changed. \nAre you sure you want to do this?"
+    "下記の項目が変更になります。\n本当によろしいですか？": "The following items will be changed.\nAre you sure you want to do this?"
   },
   "99445": {
     "--- %s【%s】 ---": "--- %s【%s】 ---"
@@ -1530,13 +1530,13 @@
     "選択しているプレイヤー情報を\n正常に読み取ることができませんでした。\nコンフィグツールを再起動して\nプレイヤー選択をやり直して下さい。": "The selected player information could not be read.\nRestart the config and try selecting the player again."
   },
   "152824": {
-    "奥行きに応じた色の表現を設定します。\n　- チェックあり\n　　　奥行きのある色の表現となりますが、処理負荷があがります。\n　- チェックなし\n　　　奥行きのある色の表現が無効となりますが、処理負荷が軽減されます。\n　　　※一部のイベントシーンなどで色の表現が少なく表示されることがあります。\n　　　・被写界深度と光があふれだす表現を有効にする\n　　　・ぼんやりした光の表現を有効にする\n　　　二つの設定を無効にした際、この機能を無効にすることができます。\n　　　またどちらかを有効にした場合、自動的にこの機能も有効になります。\n　　　※この設定を無効にすると「特定のイベントでキャラクターの輪郭表現を向上させる」も無効になります。": ""
+    "奥行きに応じた色の表現を設定します。\n　- チェックあり\n　　　奥行きのある色の表現となりますが、処理負荷があがります。\n　- チェックなし\n　　　奥行きのある色の表現が無効となりますが、処理負荷が軽減されます。\n　　　※一部のイベントシーンなどで色の表現が少なく表示されることがあります。\n　　　・被写界深度と光があふれだす表現を有効にする\n　　　・ぼんやりした光の表現を有効にする\n　　　二つの設定を無効にした際、この機能を無効にすることができます。\n　　　またどちらかを有効にした場合、自動的にこの機能も有効になります。\n　　　※この設定を無効にすると「特定のイベントでキャラクターの輪郭表現を向上させる」も無効になります。": "Set color depth representation.\n - Checked\n   Color depth representation enabled, processing load is increased.\n - Unchecked\n   Color depth representation disabled, processing load is reduced.\n   ※Color representation may be reduced in some event scenes.\n   ・Enable depth of field and bloom\n   ・Enable soft light\n   This function can be disabled by disabling these two settings.\n   If either is enabled, this feature is also automatically enabled.\n   Disabling this setting also disables the \"Improve character outlines in certain events\" setting."
   },
   "152825": {
     "　奥行きに応じた色の表現を有効にする": "  Enable depth color expression."
   },
   "153966": {
-    "インポート中です……。\nしばらくお待ちください。": "Importing... please wait."
+    "インポート中です……。\nしばらくお待ちください。": "Importing...\nPlease wait a while."
   },
   "186164": {
     "同時に表示するオブジェクトの最大数が「少ない」を設定している場合でも\nイベント中では最大数を「普通」設定に変更します。\n　- チェックあり\n　　　最大数が「少ない」設定でもイベント中は「普通」に固定され、安定してイベントを見ることができます。\n　- チェックなし\n　　　最大数の設定に準拠した表示数になります。「少ない」設定の場合\n　　　イベント中に本来表示されるキャラクターが表示されない場合があります。": "Even if maximum objects is set to \"small\", object number will be set to \"normal\" during some events.\n -Checked\nSets object number to normal regardless of setting during events.\n- Unchecked\nUses the currently set object number setting during events."
@@ -1773,7 +1773,7 @@
     "　特定のイベントでキャラクターの輪郭表現を向上させる": "  Improve character outline during certain events"
   },
   "252362": {
-    "特定のイベントにおけるキャラクターの輪郭の表現を設定します。\n　- チェックあり\n　　　輪郭の品質が上がりますが、処理負荷も上がります。\n　- チェックなし\n　　　輪郭が品質が下がりますが、処理負荷を軽減できます。\n　　　※「奥行きに応じた色の表現を有効にする」を無効にすると、この設定も合わせて無効になります。": ""
+    "特定のイベントにおけるキャラクターの輪郭の表現を設定します。\n　- チェックあり\n　　　輪郭の品質が上がりますが、処理負荷も上がります。\n　- チェックなし\n　　　輪郭が品質が下がりますが、処理負荷を軽減できます。\n　　　※「奥行きに応じた色の表現を有効にする」を無効にすると、この設定も合わせて無効になります。": "Sets the representation of the character's outline in certain events.\n - Checked\n   Increases the quality of the outlines, processing load is increased.\n - Unchecked: Reduces the quality of the outlines, processing load is reduced.\n   When \"Color Depth Representation\" is disabled, this setting will also be disabled."
   },
   "252690": {
     "天星の英雄たち　オープニングムービー": "Heavenly Heroes of the Sky"
@@ -1794,7 +1794,7 @@
     "Windowsの文字入力システムを、旧来のシステム(IMM32)から現行のシステム(TSF)に切り替えます。\n　主にWindows10で文字変換ウィンドウがゲーム画面内に表示されない不具合等を解決します。\n　※本機能はWindows8以降のOSバージョンで推奨される機能です\n　- チェックあり\n　　　TSFを有効化します。\n　- チェックなし\n　　　TSFを無効化しIMM32を使用します。": "Switches the Windows text system from the old system (IMM32) to the current system (TSF).\n This mainly solves the problem when text conversion doesn't appear in the game.\n This function is recommended for Windows 8 and later\n - Checked\n Enable TSF.\n  - Unchecked\n  Disable TSF and use IMM32."
   },
   "286119": {
-    "・「奥行きに応じた色の表現を有効にする」を無効にした場合\n 「特定のイベントでキャラクターの輪郭表現を向上させる」も無効となるようにしました。\n　※「奥行きに応じた色の表現を有効にする」の設定が無効だったため\n　　「特定のイベントでキャラクターの輪郭表現を向上させる」も無効に変更しています。": ""
+    "・「奥行きに応じた色の表現を有効にする」を無効にした場合\n 「特定のイベントでキャラクターの輪郭表現を向上させる」も無効となるようにしました。\n　※「奥行きに応じた色の表現を有効にする」の設定が無効だったため\n　　「特定のイベントでキャラクターの輪郭表現を向上させる」も無効に変更しています。": "・When \"Color Depth Representation\" is disabled,\n \"Improve character outlines in certain events\" is also disabled.\n  Because \"Color Depth Representation\" setting is disabled,\n  \"Improve character outlines in certain events\" is also disabled."
   },
   "286120": {
     "・画面解像度『640 X 480 (4:3)』の廃止に伴い\n　『800 X 600 (4:3)』に設定を変更しました。": "Screen resolution changed to \"800 X 600 (4:3)\"\ndue to the discontinuation of \"640 X 480 (4:3)\"."
