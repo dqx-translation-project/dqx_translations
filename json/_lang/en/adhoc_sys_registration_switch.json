@@ -21,25 +21,25 @@
     "契約情報を更新するため\nログアウトします。<end>": "Logging out to update contract information...<end>"
   },
   "181363": {
-    "利用券を購入するために\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open the \"Astoltia\nImmigration Office\" to purchase a ticket?<yesno 2><break>"
+    "利用券を購入するために\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open the \"Astoltia\nImmigration Bureau\" to purchase a ticket?<yesno 2><break>"
   },
   "181364": {
-    "利用券の購入をやめます。\nよろしいですか？<yesno><break>": "I don't want to buy a ticket... May I?<yesno><break>"
+    "利用券の購入をやめます。\nよろしいですか？<yesno><break>": "Stop purchasing tickets. Is that okay?<yesno><break>"
   },
   "181365": {
-    "クレジットカードの登録をやめますか？<yesno><close>": "Do you want to stop registering your credit\ncard?<yesno><close>"
+    "クレジットカードの登録をやめますか？<yesno><close>": "Stop registering your credit card?<yesno><close>"
   },
   "181366": {
-    "クレジットカードの登録を　解除すると\n次回より　自動継続が　行われなくなります。\n（購入済みの利用券の払い戻しは　できません）<br>\nクレジットカードの情報は　消去されますので\n自動継続の再開には　再登録が必要になります。\n登録を解除しても　よろしいですか？<yesno><break>": "If you cancel your credit card registration,\nauto-renewal will be disabled for the next\ntime... (Purchased tickets are non-\n<br>\nrefundable.) Your credit card information\nwill be deleted and you will need to re-\nregister to resume auto-renewal... Can I\n<br>\ncancel my registration?<yesno><break>"
+    "クレジットカードの登録を　解除すると\n次回より　自動継続が　行われなくなります。\n（購入済みの利用券の払い戻しは　できません）<br>\nクレジットカードの情報は　消去されますので\n自動継続の再開には　再登録が必要になります。\n登録を解除しても　よろしいですか？<yesno><break>": "If you cancel your credit card registration,\nauto-renewal will not occur next time.\n(Purchased tickets are non-refundable.)<br>\nYour credit card information will be deleted\nand you will need to re-register to resume\nauto-renewal.<br>\nAre you sure you want to cancel your\nregistration?<yesno><break>"
   },
   "181367": {
-    "クレジットカード情報を消去しました！\n利用期間の自動継続が　解除されました。<end>": "Your credit card information has been\ndeleted! Auto-renewal of subscription has\nbeen canceled...<end>"
+    "クレジットカード情報を消去しました！\n利用期間の自動継続が　解除されました。<end>": "Credit card information has been deleted!\nAuto-renewal of the subscription has been\ncanceled.<end>"
   },
   "181368": {
-    "利用期間が切れたまま　長期間ログインしないと\nキャラクターデータが　消える可能性があります。\n本当に　解除してもよろしいですか？<yesno 2><close>": "If you don't log in for an extended period of\ntime after your subscription expires, your\ncharacter data may be lost... Are you sure\n<br>\nyou want to cancel this?<yesno 2><close>"
+    "利用期間が切れたまま　長期間ログインしないと\nキャラクターデータが　消える可能性があります。\n本当に　解除してもよろしいですか？<yesno 2><close>": "If you do not log in for a long time after\nyour subscription expires, your character data\nmay be lost. Are you sure you want to cancel?<yesno 2><close>"
   },
   "181369": {
-    "登録しているクレジットカードを\n別のクレジットカードに　変更します。\n次回の自動継続から　有効になります。<end>": "I want to change my credit card to another\ncredit card... It will be effective from the\nnext auto-renewal...<end>"
+    "登録しているクレジットカードを\n別のクレジットカードに　変更します。\n次回の自動継続から　有効になります。<end>": "Change the registered credit card to another\ncredit card. It will take effect from the next\nauto-renewal.<end>"
   },
   "181370": {
     "自動継続で購入する利用券を　選んでください。\n（自動継続を解除したい時は　メインメニューの\n　『利用券メニュー』から　行うことができます）\n<select_se_off>\n30日間利用券\n60日間利用券\n90日間利用券\nやっぱりやめる\n<select_end><close>": "Select a subscription ticket for automatic\nrenewal... (If you want to cancel the auto-\nrenewal, you can do so from the \"Ticket Menu\"\n<br>\nin the main menu.)\n<select_se_off>\n30-day pass\n60-day pass\n90-day pass\nI'm quitting\n<select_end><close>"
@@ -51,34 +51,34 @@
     "次回より　自動継続で購入する利用券が\n<%dDAY>日間利用券になりました！<me_60><end>": "Starting next time, the auto-renewal ticket\nwill be a <%dDAY> day use ticket!<me_60><end>"
   },
   "181373": {
-    "クレジットカードの登録をすると\n利用券の有効期間が　切れることなく\n自動で継続購入されるようになります。<br>\n現在　有効期間が切れている状態であれば\n登録時に設定する日数の利用券が　すぐに購入され\nその後から　自動継続になります。<end>": "I've been trying to find a way to use the\nsite for a while. If the expiration date has\nalready expired, the ticket will be purchased\n<br>\nimmediately for the number of days you set\nwhen you register, and then it will be\nautomatically continued...<end>"
+    "クレジットカードの登録をすると\n利用券の有効期間が　切れることなく\n自動で継続購入されるようになります。<br>\n現在　有効期間が切れている状態であれば\n登録時に設定する日数の利用券が　すぐに購入され\nその後から　自動継続になります。<end>": "Once you have registered your credit card, you\ncan continue purchasing tickets automatically\nwithout expiration of the validity period.<br>\nIf the validity period is currently expired, a\nticket for the number of days set at the time\nof registration will be purchased immediately<br>\nand will be automatically renewed from then\non.<end>"
   },
   "181374": {
-    "クレジットカードを登録しました！<me_60><end>": "I've registered my credit card!<me_60><end>"
+    "クレジットカードを登録しました！<me_60><end>": "Registered credit card!<me_60><end>"
   },
   "181375": {
-    "決済中のため　処理を行えません。\n完了するまで　数日かかる可能性があります。\n日を置いてから　もう一度　お試しください。<end>": "We're in the process of processing the\npayment... It may take a few days to\ncomplete... Please wait a few days and try\n<br>\nagain...<end>"
+    "決済中のため　処理を行えません。\n完了するまで　数日かかる可能性があります。\n日を置いてから　もう一度　お試しください。<end>": "Cannot process because payment is in progress.\nIt may take several days to complete.\nPlease wait a few days and try again.<end>"
   },
   "181376": {
-    "クレジットカードの設定を行うため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open \"Astoltia\nImmigration\" to set up your credit card?<yesno 2><break>"
+    "クレジットカードの設定を行うため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open \"Astoltia\nImmigration Bureau\" to set up your credit card?<yesno 2><break>"
   },
   "181377": {
-    "クレジットカードを　登録しました！\nさらに　利用券の有効期間が　切れていたので\n<%dDAY>日間利用券が　購入されました！<me_60><end>": "Your credit card has been registered! In\naddition, since the validity of the ticket\nhad expired, a <%dDAY> day pass has been\n<br>\npurchased!<me_60><end>"
+    "クレジットカードを　登録しました！\nさらに　利用券の有効期間が　切れていたので\n<%dDAY>日間利用券が　購入されました！<me_60><end>": "Your credit card has been registered! In\naddition, since the validity of the ticket had\nexpired, a <%dDAY> day pass has been purchased!<me_60><end>"
   },
   "181378": {
-    "クレジットカード情報の他に\n住所と　氏名も　登録していただく\n必要がありますが　よろしいですか？<yesno><close>": "In addition to your credit card information,\nyou'll also need to register your name and\naddress, if that's okay.<yesno><close>"
+    "クレジットカード情報の他に\n住所と　氏名も　登録していただく\n必要がありますが　よろしいですか？<yesno><close>": "In addition to your credit card information,\nyou will also need to register your address\nand name, okay?<yesno><close>"
   },
   "181379": {
-    "クレジットカード情報の他に　連絡用の\nメールアドレスと　住所　氏名も\n登録いただく必要がありますが　よろしいですか？<yesno><break>": "In addition to your credit card information,\nyou'll also need to provide us with your\ne-mail address and name and address for us to\n<br>\ncontact you.<yesno><break>"
+    "クレジットカード情報の他に　連絡用の\nメールアドレスと　住所　氏名も\n登録いただく必要がありますが　よろしいですか？<yesno><break>": "In addition to your credit card information,\nwe will need your email address, mailing\naddress, and full name to contact you, okay?.<yesno><break>"
   },
   "181380": {
-    "Crystaの登録を　解除すると\n次回より　自動継続が　行われなくなります。\n（購入済みの利用券の払い戻しは　できません）<br>\nCrystaの自動継続を再登録するには\nアストルティア入国管理局での手続きが必要です。\n登録を解除しても　よろしいですか？<yesno><break>": "If you cancel your Crysta subscription, you\nwill not be able to continue using it...\n(Purchased tickets are non-refundable.) To\n<br>\nre-register for Crysta auto-renewal, you must\ngo to the Astoltia Immigration Office... Can\nI cancel my registration?<yesno><break>"
+    "Crystaの登録を　解除すると\n次回より　自動継続が　行われなくなります。\n（購入済みの利用券の払い戻しは　できません）<br>\nCrystaの自動継続を再登録するには\nアストルティア入国管理局での手続きが必要です。\n登録を解除しても　よろしいですか？<yesno><break>": "If you cancel your Crysta registration, your\nsubscription will not be auto-renewed next\ntime. (Purchased tickets are non-refundable.)<br>\nTo re-register for Crysta auto-renewal, you\nmust go to the Astoltia Immigration Bureau.\nAre you sure you want to cancel registration?<yesno><break>"
   },
   "181381": {
-    "Crystaの自動継続が　解除されました。<end>": "Crysta's auto-renewal has been canceled...<end>"
+    "Crystaの自動継続が　解除されました。<end>": "Crysta auto-renewal has been canceled.<end>"
   },
   "181382": {
-    "利用期間が切れたまま　長期間ログインしないと\nキャラクターデータが　消える可能性があります。\n本当に　解除してもよろしいですか？<yesno 2><close>": "If you don't log in for an extended period of\ntime after your subscription expires, your\ncharacter data may be lost... Are you sure\n<br>\nyou want to cancel this?<yesno 2><close>"
+    "利用期間が切れたまま　長期間ログインしないと\nキャラクターデータが　消える可能性があります。\n本当に　解除してもよろしいですか？<yesno 2><close>": "If you do not log in for a long time after\nyour subscription expires, your character data\nmay be lost. Are you sure you want to cancel?<yesno 2><close>"
   },
   "181383": {
     "どのキャラが　アイテムを　受け取りますか？<break>": "Which character will receive the item?<break>"
@@ -87,7 +87,7 @@
     "『<%sCODENAME>』を\n<%sPCNAME>の郵便箱に　送ります。\nよろしいですか？<yesno><close>": "Send <%sCODENAME> to the mailbox of\n<%sPCNAME>... Are you sure?<yesno><close>"
   },
   "181385": {
-    "無料期間が　<%dDay>日間　延長されました！<me_60><br>\n<%sPCNAME>の郵便箱に\n『<%sCODENAME>』の\nセットアイテムを送りました！<end>": "Your free period has been extended by <%dDay>\ndays!<me_60>I've sent the set item \"<%sCODENAME>\" to the\nmailbox of <%sPCNAME>!<end>"
+    "無料期間が　<%dDay>日間　延長されました！<me_60><br>\n<%sPCNAME>の郵便箱に\n『<%sCODENAME>』の\nセットアイテムを送りました！<end>": "Free period has been extended for <%dDay> days!<me_60><br>\nA set item of \"<%sCODENAME>\" has been sent to the mailbox of <%sPCNAME>!<end>"
   },
   "181386": {
     "無料期間を　<%dDay>日間　延長します。<br>\n『<%sCODENAME>』を\n<%sPCNAME>の郵便箱に　送ります。\nよろしいですか？<yesno><close>": "Extend free period by <%dDay> days... Send\n<%sCODENAME> to the mailbox of <%sPCNAME>...\nAre you sure you want to do this?<yesno><close>"
@@ -99,10 +99,10 @@
     "そのアイテムコードは　使えません。\n間違って入力されているか　使用済みか\nすでに登録したことのあるアイテムです。<end>": "Is the item code usable... It may have been\nentered incorrectly, or it may have been\nused, or it may be an item you've already\n<br>\nregistered...<end>"
   },
   "181389": {
-    "無料期間が　終了しているため\n入力された　アイテムコードは\nご利用できません。<end>": "The free period has expired, so the item code\nyou entered cannot be used...<end>"
+    "無料期間が　終了しているため\n入力された　アイテムコードは\nご利用できません。<end>": "The entered item code cannot be used because\nthe free period has expired.<end>"
   },
   "181390": {
-    "入力された　アイテムコードは\n無効になっています。\n有効期限を　ご確認ください。<end>": "The item code you entered has been\ninvalidated. Please check the expiration\ndate...<end>"
+    "入力された　アイテムコードは\n無効になっています。\n有効期限を　ご確認ください。<end>": "The item code you entered is invalid.\nPlease check the expiration date.<end>"
   },
   "181391": {
     "（※削除予定）": "(※For Deletion)"
@@ -111,19 +111,19 @@
     "<%sPCNAME>の郵便箱に\n『<%sCODENAME>』の\nアイテムを送りました！<me_60><end>": "\"<%sCODENAME>\"\nwas sent to <%sPCNAME>'s\nmailbox!<me_60><end>"
   },
   "181393": {
-    "アストルティア入国管理局で\n登録したCrystaを\n使用しています": "At the Astoltia Immigration Office\nRegistered Crysta\nI'm using it"
+    "アストルティア入国管理局で\n登録したCrystaを\n使用しています": "Using Crysta registered at the Astoltia\nImmigration Bureau."
   },
   "181394": {
-    "アストルティア入国管理局で\n登録したクレジットカードを\n使用しています": "At the Astoltia Immigration Office\nThe credit card you registered with\nI'm using it"
+    "アストルティア入国管理局で\n登録したクレジットカードを\n使用しています": "Using a credit card registered at the Astoltia\nImmigration Bureau."
   },
   "181395": {
     "Nintendo Switchで\n登録したクレジットカードを\n使用しています": "Nintendo Switchで\nThe credit card you registered with\nI'm using it"
   },
   "181396": {
-    "自動継続の情報": ""
+    "自動継続の情報": "Auto-renewal Info"
   },
   "181397": {
-    "現在の自動継続を\n解除します": ""
+    "現在の自動継続を\n解除します": "Cancel current auto-renewal"
   },
   "181398": {
     "ポイントを使って\n特別アイテムを購入します": "Use your points\nPurchase special items"
@@ -132,19 +132,19 @@
     "利用券を購入します": "Purchase a ticket"
   },
   "181400": {
-    "ベータテストの利用期間を\n追加します（無料です）": "The beta test usage period is\nI'll add it (it's free)"
+    "ベータテストの利用期間を\n追加します（無料です）": "Add a beta test availability\nperiod. (Free)"
   },
   "181401": {
-    "次回の自動継続から　他の\nクレジットカードに変えます": "From next auto-renewal\nI'll convert it to a credit card"
+    "次回の自動継続から　他の\nクレジットカードに変えます": "Switch to another credit card\nafter the next auto-renewal."
   },
   "181402": {
-    "冒険の書の数を　変更します": "Change the number of adventure books"
+    "冒険の書の数を　変更します": "Change Number of Adventure Logs"
   },
   "181403": {
-    "クレジットカード登録を消し\n自動継続を解除します": "Cancel credit card registration\nCancel auto-renewal"
+    "クレジットカード登録を消し\n自動継続を解除します": "Delete credit card registration\nand cancel auto-renewal."
   },
   "181404": {
-    "クレジットカードを登録して\n利用券の自動継続をします": "Register your credit card\nAutomatic renewal of the ticket"
+    "クレジットカードを登録して\n利用券の自動継続をします": "Register your credit card\nfor ticket auto-renewal."
   },
   "181405": {
     "アイテムコードの入力": "Enter Item Code"
@@ -162,28 +162,28 @@
     "条件を満たしていないため\nこのプレゼントは　受け取れません。": "You haven't met the criteria to receive this\npresent."
   },
   "181410": {
-    "自動継続で購入される\n利用券の日数を変更します": ""
+    "自動継続で購入される\n利用券の日数を変更します": "Change the number of days for tickets\npurchased with auto-renewal."
   },
   "181411": {
-    "これまでに購入した\n利用券を確認します": "Purchased so far\nCheck the ticket"
+    "これまでに購入した\n利用券を確認します": "Check the tickets you\nhave purchased so far."
   },
   "181412": {
-    "利用券を購入すると　フリープレイは終了し\n利用券の期限が　有効になりますので\nご注意ください。<end>": "When you purchase a ticket, your free play\nwill end and the ticket will expire.<end>"
+    "利用券を購入すると　フリープレイは終了し\n利用券の期限が　有効になりますので\nご注意ください。<end>": "Please note that once you purchase a ticket,\nfree play will end and the ticket will expire.<end>"
   },
   "181413": {
     "オプションプランは　自動継続の登録のみ\nご利用いただけるサービスとなります。。\nクレジットカードか　Crystaの登録が必要です。": "The optional plan is only available for auto-\nrenewal registration... You must register\nwith a credit card or Crysta..."
   },
   "181414": {
-    "オプションプランを登録するため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open the \"Astoltia\nImmigration Office\" to register for the\noptional plan?<yesno 2><break>"
+    "オプションプランを登録するため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open the \"Astoltia\nImmigration Bureau\" to register for the\noptional plan?<yesno 2><break>"
   },
   "181415": {
     "Nintendo Switch本体の\nペアレンタルコントロール設定により\n残高の使用が制限されています。<break>": "The Nintendo Switch's parental control\nsettings restrict the use of the balance...<break>"
   },
   "181416": {
-    "利用券の有効期間が　<%dMAXDAY>日を超えるため\nその利用券は　購入できません。<end>": "The validity of the ticket exceeds <%dMAXDAY>\ndays, so the ticket cannot be purchased...<end>"
+    "利用券の有効期間が　<%dMAXDAY>日を超えるため\nその利用券は　購入できません。<end>": "The ticket cannot be purchased because its\nvalidity period exceeds <%dMAXDAY> days.<end>"
   },
   "181417": {
-    "利用券を購入しないと\nオンラインモードは　遊べません。\nスタートメニューに戻りますか？<yesno 2><break>": "If you don't buy a ticket, you can't play\nonline mode. Do you want to go back to the\nstart menu?<yesno 2><break>"
+    "利用券を購入しないと\nオンラインモードは　遊べません。\nスタートメニューに戻りますか？<yesno 2><break>": "You cannot play online mode without purchasing\na ticket. Would you like to return to the\nStart Menu?<yesno 2><break>"
   },
   "181418": {
     "どのキャラが　プレゼントを　受け取りますか？<break>": "Which of your characters would like to\nreceive the gift?<break>"
@@ -192,16 +192,16 @@
     "プレゼントのじゅもんが　ちがいます。\n間違って入力されているか\nすでに受け取ったことのある　プレゼントです。<end>": "There's something wrong with the gift...\nEither it's been entered incorrectly, or\nyou've already received it.<end>"
   },
   "181420": {
-    "入力された　プレゼントのじゅもんは\n無効になっています。\n有効期限を　ご確認ください。<end>": "The gift you entered is no longer valid.\nPlease check the expiration date...<end>"
+    "入力された　プレゼントのじゅもんは\n無効になっています。\n有効期限を　ご確認ください。<end>": "The Present Code you entered is invalid.\nPlease check the expiration date.<end>"
   },
   "181421": {
-    "利用券の購入履歴を確認するため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open the \"Astoltia\nImmigration Office\" to check your purchase\nhistory?<yesno 2><break>"
+    "利用券の購入履歴を確認するため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open the \"Astoltia\nImmigration Bureau\" to check your purchase\nhistory?<yesno 2><break>"
   },
   "181422": {
-    "利用券の購入履歴がありません。<end>": "I have a history of purchasing tickets...<end>"
+    "利用券の購入履歴がありません。<end>": "There is no ticket purchase history.<end>"
   },
   "181423": {
-    "利用券の購入履歴": ""
+    "利用券の購入履歴": "Ticket Purchase History"
   },
   "181424": {
     "この利用券はスクウェア・エニックスから\n委託を受けて任天堂が販売しています。<bw_break>": "This ticket is sold by Nintendo on\nconsignment from Square Enix...<bw_break>"
@@ -213,13 +213,13 @@
     "<%sPCNAME>に\nどのアイテムチケットを　買いますか？<break>": "Which item ticket would you like to buy for\n<%sPCNAME>?<break>"
   },
   "181427": {
-    "<%dWIIP><%sCurrency>を使って\n<%sPCNAME>に　<%sTICKETITEM>を\n購入します。よろしいですか？<yesno><break>": "Purchase <%sTICKETITEM> for <%sPCNAME> using\n<%dWIIP><%sCurrency>... Are you sure?<yesno><break>"
+    "<%dWIIP><%sCurrency>を使って\n<%sPCNAME>に　<%sTICKETITEM>を\n購入します。よろしいですか？<yesno><break>": "Purchase <%sTICKETITEM> for\n<%sPCNAME> using <%dWIIP> <%sCurrency>?<yesno><break>"
   },
   "181428": {
-    "どの利用券を　買いますか？\n有効期間の合計が　<%dMAXDAY>日を越える利用券は\n購入できません。<break>": "Which ticket should I buy? It is not possible\nto purchase a ticket whose total validity\nexceeds <%dMAXDAY> days...<break>"
+    "どの利用券を　買いますか？\n有効期間の合計が　<%dMAXDAY>日を越える利用券は\n購入できません。<break>": "Which ticket would you like to buy? Tickets\nwith a total validity period exceeding <%dMAXDAY>\ndays cannot be purchased.<break>"
   },
   "181429": {
-    "アイテムチケットを買い足す\n冒険の書を　選んでください。<break>": ""
+    "アイテムチケットを買い足す\n冒険の書を　選んでください。<break>": "Select the Adventure Log for which you want to\npurchase more item tickets."
   },
   "181430": {
     "<%sTICKETITEM>を\n<%dWIIP><%sCurrency>で　購入します。\n次の画面の注意事項を　ご確認ください。<end>": "Buy <%sTICKETITEM> with\n<%dWIIP><%sCurrency>... Please read the notes\non the next screen...<end>"
@@ -267,34 +267,34 @@
     "エラーが発生しました｡": "An error has occurred."
   },
   "181446": {
-    "<%sConsole>本体に保存されていた\nセーブファイルが　壊れてしまいました。\n<color_yellow>（オンラインのキャラデータは失われません）<color_white><end>": "The save file stored in the <%sConsole>\nitself is corrupted...<color_yellow>(Online character data will not be lost)<color_white><end>"
+    "<%sConsole>本体に保存されていた\nセーブファイルが　壊れてしまいました。\n<color_yellow>（オンラインのキャラデータは失われません）<color_white><end>": "System files stored in the <%sConsole>\nhave been corrupted.\n<color_yellow>(No online character data will be lost.)<color_white><end>"
   },
   "181447": {
-    "お気の毒ですが　<%sConsole>本体に保存されていた\nセーブファイルが壊れてしまいました。<br>\nキャラクターのデータは\nサーバー上に保存されていますので\n消えることは　ありません。<end>": "I'm sorry to inform you that the save file\nstored in <%sConsole> itself has been\ncorrupted. Your character data is stored on\n<br>\nthe server, so it won't be lost...<end>"
+    "お気の毒ですが　<%sConsole>本体に保存されていた\nセーブファイルが壊れてしまいました。<br>\nキャラクターのデータは\nサーバー上に保存されていますので\n消えることは　ありません。<end>": "We are sorry to inform you that the save file\nsaved on <%sConsole> has become corrupted.<br>\nCharacter data is stored on the server and\nwill not be lost.<end>"
   },
   "181448": {
-    "本体に　セーブファイルを作成します。\n電源ボタンに　さわらないでください……。<break>": "Create a save file on the unit... Do not\ntouch the power button...<break>"
+    "本体に　セーブファイルを作成します。\n電源ボタンに　さわらないでください……。<break>": "Create a save file on the main unit. Do not\ntouch the power button...<break>"
   },
   "181449": {
     "ドラゴンクエストⅩの\nセーブファイルを　作成しました！<end>": "Dragon Quest X save file created!<end>"
   },
   "181450": {
-    "セーブしています。\n電源ボタンに　さわらないでください……。<break>": "Save... Do not touch the power button...<break>"
+    "セーブしています。\n電源ボタンに　さわらないでください……。<break>": "Saving. Do not touch the power button...<break>"
   },
   "181451": {
-    "<speed=0>アカウント情報を保存しています。\n電源ボタンに　さわらないでください……。<break>": "<speed=0>Save your account information... Do not touch\nthe power button...<break>"
+    "<speed=0>アカウント情報を保存しています。\n電源ボタンに　さわらないでください……。<break>": "<speed=0>Saving account information. Do not touch the\npower button....<break>"
   },
   "181452": {
     "プレイヤー<%nPLAYER_NO>に\n<%sID>を　登録しました！<end>": "<%sID> has been registered for\nPlayer <%dPLAYER_NO>!<end>"
   },
   "181453": {
-    "冒険の書に記録しています。\n電源ボタンに　さわらないでください……。<break>": "Record it in your adventure book... Do not\ntouch the power button...<break>"
+    "冒険の書に記録しています。\n電源ボタンに　さわらないでください……。<break>": "Recording in the Adventure Log. Do not touch\nthe power button...<break>"
   },
   "181454": {
     "冒険の書に記録しました！<end>": "Adventure Log recorded!<end>"
   },
   "181455": {
-    "システムデータを保存しています。\n電源ボタンに　さわらないでください……。<break>": "Save system data... Do not touch the power\nbutton...<break>"
+    "システムデータを保存しています。\n電源ボタンに　さわらないでください……。<break>": "Saving system data. Do not touch the power\nbutton...<break>"
   },
   "181456": {
     "システムデータを保存しました！<end>": "System data saved!<end>"
@@ -309,10 +309,10 @@
     "Nintendo Switchに　コントローラーを\n接続してください。\nまた　本体とコントローラーが\n接続されているか　確認してください。": "Connect the controller to the Nintendo\nSwitch... Also, make sure that the controller\nis connected to the console."
   },
   "181476": {
-    "無料プレイ期間が　付与されました！\nこのアカウントで　<%d_YYYY>年<%d_MM>月<%d_DD>日まで\n遊ぶことができます。": "You have been granted a free play period!\nWith this account, you can play until\n<%d_YYYY> year <%d_MM> month <%d_DD> day..."
+    "無料プレイ期間が　付与されました！\nこのアカウントで　<%d_YYYY>年<%d_MM>月<%d_DD>日まで\n遊ぶことができます。": "A free play period has been granted!\nYou can play on this account until <%d_YYYY>/<%d_MM>/<%d_DD>."
   },
   "181477": {
-    "レジストレーションコードの登録をしないと\nオンラインモードを　遊ぶことができません。\nいったん登録をやめて　タイトルに戻りますか？<yesno><break>": "If you don't register your registration code,\nyou won't be able to play online mode...\nWould you like to stop registering and go\n<br>\nback to the title?<yesno><break>"
+    "レジストレーションコードの登録をしないと\nオンラインモードを　遊ぶことができません。\nいったん登録をやめて　タイトルに戻りますか？<yesno><break>": "You will not be able to play online mode\nwithout registering your registration code.\nCancel registration and return to the title?<yesno><break>"
   },
   "181478": {
     "「ドラゴンクエストⅩ Nintendo Switch版」\nパッケージ封入の『冒険者登録証』に書かれた　20文字の\nレジストレーションコードを入力してください。<break>": "Enter the 20-character registration code\nwritten on the \"Adventurer Registration Card\"\nincluded in the Dragon Quest X Nintendo\n<br>\nSwitch Edition package.<break>"
@@ -324,7 +324,7 @@
     "『Nintendo Switch版』\nベータテスト 登録証』に書かれた　20文字の\nレジストレーションコードを　入れてください。<break>": "You'll need to enter the 20-character\nregistration code found on the \"Nintendo\nSwitch Beta Test Registration Card\"...<break>"
   },
   "181481": {
-    "レジストレーションコード入力": "Enter registration code"
+    "レジストレーションコード入力": "Enter Registration Code"
   },
   "181482": {
     "ご使用のアカウントには 追加パッケージ\n「<%sAPPEND>」の\nレジストレーションコードが 登録されていません。\n　\nこのままプレイする場合は\n一部のコンテンツを お楽しみいただけませんので\nご注意ください。\n　\n＜ボタンを押すと ゲームを続けます＞": "Your account has a registration code for the\n\"add-on package <%sAPPEND>\"... Please note\nthat if you continue to play the game, you\n<br>\nwill not be able to enjoy some of the\ncontent... ＜Press the button to continue the\ngame."
@@ -333,7 +333,7 @@
     "追加パッケージ「<%sAPPEND>」の\n『冒険者登録証』に書かれた　20文字の\nレジストレーションコードを入力してください。<break>": "Enter the 20-character registration code\nfound on the adventurer's registration card\nfor the <%sAPPEND> add-on package...<break>"
   },
   "181484": {
-    "ご使用のアカウントに　追加パッケージ\n「<%sAPPEND>」の\nレジストレーションコードを登録しました！<end>": "You have registered a registration code for\nthe \"add-on package <%sAPPEND>\" to your\naccount!<end>"
+    "ご使用のアカウントに　追加パッケージ\n「<%sAPPEND>」の\nレジストレーションコードを登録しました！<end>": "Code registered for the additional package\"<%sAPPEND>\"\nto your account!<end>"
   },
   "181485": {
     "「プレゼントを受け取る」メニューから\n特典が　受け取れるようになりました。<end>": "You can now receive your rewards from the\n\"Receive Gifts\" menu...<end>"
@@ -345,49 +345,49 @@
     "<color_yellow>※このまま登録せずに　遊べますが\n　追加パッケージ専用の　コンテンツを\n　お楽しみいただけませんので　ご注意ください。<color_white><br>\nレジストレーションコードを登録せずに\nゲームを始めますか？<yesno><break>": "<color_yellow>※You can still play without registering, but\nyou will not be able to enjoy the content\nexclusive to the additional package.<color_white><br>\nStart the game without registering your\nregistration code?<yesno><break>"
   },
   "181488": {
-    "レジストレーションコードを登録せずに\nゲームを始めます。<br>\n次にログインするときに　もう一度\nレジストレーションコード登録の確認をしますか？<yesno_nc><break>": "If you start a game without registering your\nregistration code... The next time you log\nin, will you be asked to confirm your\n<br>\nregistration code again?<yesno_nc><break>"
+    "レジストレーションコードを登録せずに\nゲームを始めます。<br>\n次にログインするときに　もう一度\nレジストレーションコード登録の確認をしますか？<yesno_nc><break>": "Starting the game without registering your\nregistration code.<br>\nConfirm your registration code again the next\ntime you log in?<yesno_nc><break>"
   },
   "181489": {
-    "次からは　レジストレーションコード登録の\n確認をしないように　設定しました。<br>\n<color_yellow>※レジストレーションコードの登録は\n　メインメニューの「契約情報を確認する」から\n　行ってください。<color_white><end>": "Next time, I'll disable the registration code\nconfirmation.<color_yellow>To register your registration code, go to the\nmain menu and click on \"Check Contract\nInformation...<color_white><end>"
+    "次からは　レジストレーションコード登録の\n確認をしないように　設定しました。<br>\n<color_yellow>※レジストレーションコードの登録は\n　メインメニューの「契約情報を確認する」から\n　行ってください。<color_white><end>": "Confirmation of code registration will not be\nrequired from now on.<br>\n<color_yellow>*To register your code, please go to\n\"Subscription Status\" in the main menu.<color_white><end>"
   },
   "181490": {
-    "次にログインするときに　もう一度\nレジストレーションコード登録の確認をするよう\n設定しました。<end>": "I've set it up so that the next time I log\nin, I'm asked to confirm my registration code\nregistration again.<end>"
+    "次にログインするときに　もう一度\nレジストレーションコード登録の確認をするよう\n設定しました。<end>": "The next time you log in, you will be asked to\nconfirm your registration again.<end>"
   },
   "181491": {
     "ご使用の環境には 追加パッケージ\n「<%sAPPEND>」が\nインストールされていません。\n　\nこのままプレイする場合は\n一部のコンテンツを お楽しみいただけませんので\nご注意ください。\n　\n＜ボタンを押すと ゲームを続けます＞": "If you have the additional package\n\"<%sAPPEND>\" installed in your environment...\nPlease note that if you continue to play the\n<br>\ngame, you will not be able to enjoy some of\nthe content... ＜Press the button to continue\nthe game."
   },
   "181492": {
-    "レジストレーションコードが　間違っています。<end>": "The registration code is wrong.<end>"
+    "レジストレーションコードが　間違っています。<end>": "The registration code is incorrect.<end>"
   },
   "181493": {
-    "入力された　レジストレーションコードは\n今は登録できません。「目覚めし五つの種族」の\nコードを先に登録してください。<end>": "The registration code you entered is now\navailable for registration... Please register\nthe code for \"The Awakening of the Five\n<br>\nTribes\" first...<end>"
+    "入力された　レジストレーションコードは\n今は登録できません。「目覚めし五つの種族」の\nコードを先に登録してください。<end>": "The registration code entered cannot be\nregistered at this time. Please register the\ncode for \"Awakening of the 5 Tribes\" first.<end>"
   },
   "181494": {
-    "入力された　レジストレーションコードは\n今は登録できません。「目覚めし五つの種族」の\nコードを先に登録してください。<end>": "The registration code you entered is now\navailable for registration... Please register\nthe code for \"The Awakening of the Five\n<br>\nTribes\" first...<end>"
+    "入力された　レジストレーションコードは\n今は登録できません。「目覚めし五つの種族」の\nコードを先に登録してください。<end>": "The registration code entered cannot be\nregistered at this time. Please register the\ncode for \"Awakening of the 5 Tribes\" first.<end>"
   },
   "181495": {
     "入力された　レジストレーションコードは\n今は登録できません。<br>\n「眠れる勇者と導きの盟友」の\nコードを先に登録してください。<end>": "The registration code you entered is not\ncurrently available for registration...\nPlease register the code for \"Sleeping Beauty\n<br>\nand the Guiding Alliance\" first...<end>"
   },
   "181496": {
-    "入力された　レジストレーションコードは\n無効になっています。\n有効期限を　ご確認ください。<end>": "The registration code you entered has been\ninvalidated. Please check the expiration\ndate...<end>"
+    "入力された　レジストレーションコードは\n無効になっています。\n有効期限を　ご確認ください。<end>": "The registration code you entered is invalid.\nPlease check the expiration date.<end>"
   },
   "181497": {
-    "そのレジストレーションコードは　使えません。\n正しい　レジストレーションコードを\nご確認ください。<end>": "That registration code is not valid. Please\nmake sure you have the correct registration\ncode...<end>"
+    "そのレジストレーションコードは　使えません。\n正しい　レジストレーションコードを\nご確認ください。<end>": "That registration code cannot be used. Make\nsure you have the correct registration code.<end>"
   },
   "181498": {
     "「ドラゴンクエストⅩ <%sPlatform>版」の\nレジストレーションコードが　登録されていません。\nアカウントを　ご確認ください。<end>": "The registration code for Dragon Quest X\n<%sPlatform> has been registered... Please\ncheck your account...<end>"
   },
   "181499": {
-    "レジストレーションコードを　登録しました！\nあなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><br>\nレジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<br>\nこれで　ＳＴＥＰ３は　完了です！\n　<me_58><end>": "You have registered your registration code!\nYour account is free to play for 20 days from\ntoday!<me_60>The registration code will be used to verify\nyour identity in the future, so please keep\nit in a safe place... Step 3 is now complete!<me_58><end>"
+    "レジストレーションコードを　登録しました！\nあなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><br>\nレジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<br>\nこれで　ＳＴＥＰ３は　完了です！\n　<me_58><end>": "Registration code has been registered!\nYour account will be free to play for 20 days\nstarting today!<me_60><br>\nPlease keep your registration code in a safe\nplace as it will be used to verify your\nidentity in the future.<br>\nSTEP 3 is now complete!<me_58><end>"
   },
   "181500": {
-    "あなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><br>\nレジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<end>": "Your account is free to play for 20 days\nstarting today!<me_60>The registration code will be used to verify\nyour identity in the future, so please keep\nit safe...<end>"
+    "あなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><br>\nレジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<end>": "Your account will be free to play for 20 days\nstarting today!<me_60><br>\nPlease keep your registration code in a safe\nplace as it will be used to verify your\nidentity in the future.<end>"
   },
   "181501": {
-    "「プレゼントを受け取る」メニューから\nレジストレーションコード追加登録の特典が\n受け取れるようになりました。<end>": "You can now receive additional registration\ncodes from the \"Receive Gifts\" menu...<end>"
+    "「プレゼントを受け取る」メニューから\nレジストレーションコード追加登録の特典が\n受け取れるようになりました。<end>": "You can now receive the benefits of\nregistering additional registration codes from\nthe \"Receive Present\" menu.<end>"
   },
   "181502": {
-    "「プレゼントを受け取る」メニューから\nレジストレーションコード追加登録の特典が\n受け取れるようになりました。<end>": "You can now receive additional registration\ncodes from the \"Receive Gifts\" menu...<end>"
+    "「プレゼントを受け取る」メニューから\nレジストレーションコード追加登録の特典が\n受け取れるようになりました。<end>": "You can now receive the benefits of\nregistering additional registration codes from\nthe \"Receive Present\" menu.<end>"
   },
   "181503": {
     "ご使用のアカウントに　Nintendo Switch版の\nレジストレーションコードを　登録しました！\nこれで　Nintendo Switchで遊べるようになります。<end>": "We've added the registration code for the\nNintendo Switch version to your account! You\ncan now play it on your Nintendo Switch...<end>"
@@ -414,10 +414,10 @@
     "利用券を購入するため\nログアウトして「アストルティア入国管理局」を\n開きますか？　http://sqex.to/aio<yesno 2><close>": "Log out and visit the \"Astoltia Immigration\nBureau\" to purchase a voucher?\nhttp://sqex.to/aio<yesno 2><close>"
   },
   "184535": {
-    "オプションプランは　自動継続の場合のみ\nご利用することができます。\n<br>\nクレジットカードの設定を行うため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Optional plans are only available on an auto-\nrenewal basis... Do you want to log out and\nopen \"Astoltia Immigration\" to set up your\n<br>\ncredit card?<yesno 2><break>"
+    "オプションプランは　自動継続の場合のみ\nご利用することができます。\n<br>\nクレジットカードの設定を行うため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Optional plans are only available on an auto-\nrenewal basis... Do you want to log out and\nopen \"Astoltia Immigration Bureau\" to set up your\n<br>\ncredit card?<yesno 2><break>"
   },
   "187256": {
-    "・購入した時点から 利用券は有効となり\n　ご利用中のアカウントにのみ 反映されます。\n　\n・利用券の日数は 購入した日からの起算となり\n　終了日の24時までが 有効期間となります。\n　\n・ただし 利用券の有効期間（無料期間を含む）が\n　残っている時に 追加で利用券を購入した場合は\n　購入分の期間が 有効期間に追加されます。\n　\n・有効期間が 最長<%nMAXDAY>日を超える\n　利用券は 購入できません。": "If you have any questions, please contact us.\nThe number of days the coupon is valid is\ncounted from the day it is purchased, and it\n<br>\nis valid until 24:00 on the day it ends. The\nnumber of days of a coupon is counted from\nthe date of purchase, and the coupon is valid\n<br>\nuntil 24:00 on the day it ends. If you\npurchase additional tickets when the validity\nperiod (including the free period) remains,\n<br>\nthe purchased period will be added to the\nvalidity period."
+    "・購入した時点から 利用券は有効となり\n　ご利用中のアカウントにのみ 反映されます。\n　\n・利用券の日数は 購入した日からの起算となり\n　終了日の24時までが 有効期間となります。\n　\n・ただし 利用券の有効期間（無料期間を含む）が\n　残っている時に 追加で利用券を購入した場合は\n　購入分の期間が 有効期間に追加されます。\n　\n・有効期間が 最長<%nMAXDAY>日を超える\n　利用券は 購入できません。": "・The ticket is valid from the time of\n  purchase and will only be applied to your\n  current account.\n　\n・The number of days of the ticket is\n  calculated from the purchase date and valid\n  until 24:00 on the day the ticket expires.\n　\n・However, if you purchase an additional usage\n  ticket while the validity period is still\n  remaining, the period of the purchased\n  ticket will be added to the validity period.\n　\n・Tickets whose validity period exceeds <%dMAXDAY>\n  days cannot be purchased."
   },
   "187257": {
     "・利用券を ニンテンドーeショップの 残高で\n　購入する場合は 有効期間を 自動継続できません。\n　期限切れになりましたら 再度 ご購入ください。\n　\n・この利用券は ドラゴンクエストⅩの\n　オンラインモードでのみ ご利用いただけます。\n　他のソフトでは ご利用いただけませんので\n　ご注意ください。\n　\n・この利用券については ドラゴンクエストⅩの\n　電子説明書 および 利用規約の条件が 適用されます。": "If you purchase a coupon with your Nintendo\neShop balance, it will automatically continue\nto be valid... If you purchase a ticket with\n<br>\nyour Nintendo eShop balance, it will\nautomatically continue to be valid... This\ncoupon can only be used in Dragon Quest X\n<br>\nOnline Mode... This ticket can only be used\nin Dragon Quest X online mode. This coupon is\nsubject to the terms and conditions of the\n<br>\nDragon Quest X User's Manual and Terms of\nUse..."
@@ -429,7 +429,7 @@
     "特定商取引法に基づく表示\n　\n事業者の名称\n任天堂株式会社\n　\n代表者\n代表取締役社長　古川　俊太郎\n　　\n所在地\n京都市南区上鳥羽鉾立町11番地1\n　　　\n電話番号等\nお客様ご相談窓口\n0570-011-120 (ナビダイヤル)\n・IP電話または、携帯電話の通話定額プランをご利用の場合：075-662-9611\n・受付時間：10:00～18:00（土・日・祝日・会社設定休日を除く）\n　\n各ソフトウェア・データ類の提供価格\n各ソフトウェア・データ類の商品ページに表示しております。\n　\n各ソフトウェア・データ類の提供価格以外に必要となる金銭\n各ソフトウェア・データ類の利用にあたって必要となるインターネット接続料金、通信料金等はお客様の負担となります。\nその他の費用が必要な場合は、各ソフトウェア・データ類の商品ページに表示しております。\n　\n対価の支払時期・方法\nあらかじめニンテンドーeショップまたは当社ウェブサイトで残高を追加（登録）した上で、未使用残高の中から対価相当額を使用（前払い）してお支払いいただきます（なお、残高の追加（登録）は、特定のソフトウェアからも行うことが可能です）。\nただし、購入手続において明示されている場合は、クレジットカードによる直接のお支払いとなります。\n　\nソフトウェア・データ類の提供の行われる時期\nソフトウェア・データ類の対価をお支払いいただいた後、すぐにソフトウェア・データ類が対応機器で取得可能になります。ただし、購入手続において特定の提供時期が明示されている場合は、その時点からの提供となります。\n　\n当社が提供したソフトウェア・データ類の動作環境\n追加コンテンツや利用券など、特定のソフトウェア向けに追加的に提供されるデータ類を動作させるためには、当該ソフトウェアもあらかじめご用意いただく必要があります。\nニンテンドーアカウントは複数のNintendo Switchと連携可能ですが、ご購入いただいたNintendo Switch向けソフトウェア・データ類は、原則として「ダウンロードできる本体」に登録しているNintendo Switchでのみ動作します。\nその他の動作環境等は各ソフトウェア・データ類の商品ページに表示しております。\n　\n販売の条件\n当社ウェブサイトからニンテンドー3DSまたはWii U向けのソフトウェア・データ類をご購入いただく際は、当該ソフトウェア・データ類を動作させることができる機器に登録されたニンテンドーネットワークIDをニンテンドーアカウントと連携させ、残高をまとめる手続きを行っている必要があります。\nニンテンドー3DSまたはWii U向けのソフトウェア・データ類のご購入に際して、当該機器上の「保護者による使用制限」の設定により、購入機能等が制限されている場合は、ご購入いただくことができません。Nintendo Switchまたは当社ウェブサイトからのご購入に際して、ニンテンドーアカウントの「保護者による使用制限」の設定により購入機能等が制限されている場合は、ご購入いただくことができません。\n　\nなお、Nintendo Switch及び当社ウェブサイトからのご購入に際してはニンテンドーアカウント利用規約が適用されます。Wii Uからのご購入に際しては、ニンテンドーネットワーク利用規約が適用されます。ただし、ニンテンドーネットワークIDをニンテンドーアカウントと連携させ、残高をまとめている場合はニンテンドーアカウント利用規約が適用されます。\n　\nキャンセル・返品\n購入後のお客様都合によるキャンセルや返品はお受けできません。\n　\n各ソフトウェア・データ類に瑕疵があった場合\n当社は責任を負いません。\n但し、当社に帰責事由がある場合は、当社は損害賠償責任を負いますが、当社に故意または重大な過失がある場合を除き、当社がお客様に対して負担する損害賠償責任の範囲は、お客様に通常発生すると考えられる損害に限定し（逸失利益、機会損失等は損害賠償の範囲外です）、特別損害は含みません。なお、当社が損害賠償責任を負う場合、損害が発生した月にお客様が当社に対して支払った額または1万円のいずれか低い額を上限とします（ただし、当社に故意または重過失がある場合は、この限りではありません。）。": "Indication based on the Act on Specified\nCommercial Transactions Name of the business:\nNintendo Company, Limited Representative:\n<br>\nShuntaro Furukawa, President Location: 11-1\nKamitoba Hokotachi-cho, Minami-ku, Kyoto,\nJapan Telephone number: 0570-011-120 (Navi\n<br>\nDial) The price of each software/data is\ndisplayed on the product page of each\nsoftware/data... The customer shall be\n<br>\nresponsible for all Internet connection and\ncommunication fees required for the use of\neach software and data.... If other fees are\n<br>\nrequired, they will be indicated on the\nproduct page of each software or data... Time\nand method of payment You may add (register)\n<br>\nyour balance in advance at the Nintendo eShop\nor our website, and then use (pay in advance)\nthe amount equivalent to the consideration\n<br>\nfrom the unused balance (You may also add\n(register) your balance from certain\nsoftware... (Note that the balance can also\n<br>\nbe added (registered) from the specific\nsoftware. When will the software/data be made\navailable? The software/data will be made\n<br>\navailable on compatible devices immediately\nafter payment for the software/data is\nmade... However, if a specific time of\n<br>\nprovision is specified in the purchase\nprocedure, the provision will start at that\ntime... Operating Environment for Software\n<br>\nand Data Provided by the Company In order to\nrun additional data provided for specific\nsoftware, such as additional content and\nusage tickets, you must also prepare the\nrelevant software in advance... Although\nNintendo Accounts can be linked to multiple\nNintendo Switch systems, purchased software\nand data for Nintendo Switch will, in\nprinciple, only run on the Nintendo Switch\nsystem registered as a downloadable system...\nOther system requirements are indicated on\nthe product page of each software and data...\nTerms and Conditions of Sale When purchasing\nsoftware and data for Nintendo 3DS or Wii U\nfrom the Company's website, you must link the\nNintendo Network ID registered on the device\nthat can run the software and data to your\nNintendo Account and consolidate the balance.\nYou must have completed this procedure... If\nthe purchase of software or data for Nintendo\n3DS or Wii U is restricted by the \"Parental\nControls\" setting on the relevant device, you\nwill not be able to purchase such software or\ndata. In the case of purchases from the\nNintendo Switch or the Company's website, if\npurchase functions are restricted due to the\n\"Parental Controls\" setting on the Nintendo\nAccount, you will not be able to purchase...\nPlease note that the Nintendo Account Terms\nof Use will apply to purchases made from the\nNintendo Switch and our website. The Nintendo\nNetwork Terms of Service will apply to\npurchases made from the Wii U. However, if\nyou link your Nintendo Network ID to your\nNintendo Account and consolidate your\nbalance, the Nintendo Account Terms of\nService will apply.... Cancellation/Return\nCancellation or return for the convenience of\nthe customer after purchase will not be\naccepted... The Company shall not be liable\nfor any defect in the software or data...\nHowever, except in the case of intentional or\ngross negligence on the part of the Company,\nthe scope of the Company's liability to the\ncustomer for damages shall be limited to\ndamages that would normally occur to the\ncustomer (lost profits, lost opportunities,\netc. are outside the scope of damages) and\nshall not include special damages. Special\ndamages are not included. In the event that\nthe Company is liable for damages, the\nCompany's maximum liability shall be the\namount paid by the customer to the Company in\nthe month in which the damage occurred or\n10,000 yen, whichever is lower (provided,\nhowever, that this shall not apply in the\nevent that the Company is intentionally or\ngrossly negligent...). ."
   },
   "187485": {
-    "プレイコース変更の料金（税込）": ""
+    "プレイコース変更の料金（税込）": "Change Play Course Fee (With Tax)"
   },
   "191155": {
     "エラーが発生しました。\n時間を置いてから　もう一度お試しください。\n<br>\n問題が解決しない場合は\n「ドラゴンクエストⅩ」サポートセンターを\nご確認ください。　https://sqex.to/eh6": "I'm getting an error. Please give it some\ntime and try again... If the problem\npersists, please check the Dragon Quest X\n<br>\nSupport Center... https://sqex.to/eh6"
@@ -438,6 +438,6 @@
     "購入をキャンセルしました。": "Cancel the purchase..."
   },
   "291630": {
-    "引き継ぎコードは　ここでは入力できません。\n「ふっかつのじゅもん」から\n入力してください。": ""
+    "引き継ぎコードは　ここでは入力できません。\n「ふっかつのじゅもん」から\n入力してください。": "The transfer code cannot be entered here.\nPlease enter it from \"Spell of Restoration\"."
   }
 }

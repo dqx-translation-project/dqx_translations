@@ -63,19 +63,19 @@
     "MP": "MP"
   },
   "188": {
-    "与ダメージ値％変更": "Dealt Damage % Change"
+    "与ダメージ値％変更": "Damage Dealt % Change"
   },
   "202": {
-    "与ダメージ固定値変更": "Fixed Dealt Damage Change"
+    "与ダメージ固定値変更": "Fixed Damage Dealt Change"
   },
   "218": {
-    "被ダメージ値％変更": "Taken Damage % Change"
+    "被ダメージ値％変更": "Damage Taken % Change"
   },
   "232": {
-    "被ダメージ固定値変更": "Fixed Taken Damage Change"
+    "被ダメージ固定値変更": "Fixed Damage Taken Change"
   },
   "248": {
-    "被ダメージ値％変更*被ダメージ値％変更": "Taken Damage % Change * Taken Damage % Change"
+    "被ダメージ値％変更*被ダメージ値％変更": "Damage Taken % Change * Damage Taken % Change"
   },
   "276": {
     "テンション効果値1": "Tension Effect Value 1"
@@ -135,7 +135,7 @@
     "獲得ゴールドアップ倍率": "Earned Gold Up"
   },
   "500": {
-    "ダメージ時に解除される率": ""
+    "ダメージ時に解除される率": "Removed On Damage Rate"
   },
   "519": {
     "ムチの2発目以降のダメージ計算": "Subsequent Whip Damage"
@@ -156,16 +156,16 @@
     "射程距離プラス": "Range Plus"
   },
   "601": {
-    "勝利時MP回復": "Recover MP on Win"
+    "勝利時MP回復": "Recover MP After Battle"
   },
   "610": {
-    "勝利時HP回復": "Recover HP on Win"
+    "勝利時HP回復": "Recover HP After Battle"
   },
   "619": {
-    "与状態異常成功率": ""
+    "与状態異常成功率": "Ailment Success Rate"
   },
   "632": {
-    "被状態異常成功率(まもりのたて": ""
+    "被状態異常成功率(まもりのたて": "Ailment Taken Success Rate (Holy Impregnable)"
   },
   "654": {
     "経験値アップ倍率": "EXP Rate Up"
@@ -198,31 +198,31 @@
     "効果時間変化": "Effect Time Change"
   },
   "802": {
-    "死亡時に解除されない率": ""
+    "死亡時に解除されない率": "Not Removed On Death Rate"
   },
   "819": {
     "被ダメージをHPに変換": "Damage Taken As HP"
   },
   "834": {
-    "被状態異常成功率": ""
+    "被状態異常成功率": "Ailment Taken Success Rate"
   },
   "847": {
-    "会心与ダメージ固定値加算": ""
+    "会心与ダメージ固定値加算": "Fixed Critical Damage Added"
   },
   "866": {
-    "会心被ダメージ％変更": "Critical Taken Damage % Change"
+    "会心被ダメージ％変更": "Critical Damage Taken % Change"
   },
   "882": {
     "タロットメダルドロップ率": "Tarot Medal Drop Rate"
   },
   "901": {
-    "徐々に回復系の効果量アップ": ""
+    "徐々に回復系の効果量アップ": "Gradual Recovery Effect Boost"
   },
   "921": {
     "ふっとび距離％変更": "Knockback Distance % Change"
   },
   "935": {
-    "与ダメージ値％変更*与ダメージ値％変更": ""
+    "与ダメージ値％変更*与ダメージ値％変更": "Damage Dealt % Change * Damage Dealt % Change"
   },
   "963": {
     "きまぐれ": "Whimsical"
@@ -231,13 +231,13 @@
     "まねまね（被ダメージ反射": "Follow Suit (Damage Refelct"
   },
   "989": {
-    "テンション時与ダメージ固定値加算": ""
+    "テンション時与ダメージ固定値加算": "Fixed Damage Added During Tension"
   },
   "1014": {
-    "ガード時HP固定値回復": ""
+    "ガード時HP固定値回復": "Fixed HP Recovery On Guard"
   },
   "1029": {
-    "攻撃魔力によるダメ加算": ""
+    "攻撃魔力によるダメ加算": "Magical Might Damage Added"
   },
   "1046": {
     "テンションを消費しない": "Don't Consume Tension"
@@ -258,7 +258,7 @@
     "ミス攻撃": "Attacks Miss"
   },
   "1122": {
-    "魔剣士用ゲージアップバフ": ""
+    "魔剣士用ゲージアップバフ": "Gauge Up Buff For Demon Swordsman"
   },
   "1141": {
     "ドロップ率変化(タロットメダルのみ)": "Drop Rate Change (Tarot Medal)"
@@ -267,19 +267,19 @@
     "ドロップ率変化(宝珠のみ)": "Drop Rate Change (Jewel)"
   },
   "1185": {
-    "敵を倒すとMP回復（回復量": "MP Recovery On Enemy Kill (Amount"
+    "敵を倒すとMP回復（回復量": "MP Recovery On Enemy Kill (Amount)"
   },
   "1203": {
-    "予ダメ割合ダメージ": ""
+    "予ダメ割合ダメージ": "Pre-Damage Percent Damage"
   },
   "1217": {
     "蘇生時HP割合変更": "HP % Change on Revival"
   },
   "1229": {
-    "会心時　被ダメージ値％変更": ""
+    "会心時　被ダメージ値％変更": "Damage Taken % Change On Critical"
   },
   "1249": {
-    "会心時　与ダメージ固定値加算": ""
+    "会心時　与ダメージ固定値加算": "Fixed Damage Added On Critical"
   },
   "1271": {
     "倒すとテンションアップ発動率": "Tension On Enemy Defeat Rate"
@@ -288,7 +288,7 @@
     "なつき度上昇確率": "Happiness Rate"
   },
   "1306": {
-    "テンション効果値1　ダメージ倍率　": ""
+    "テンション効果値1　ダメージ倍率　": "Tension Effect Value 1 Damage Up"
   },
   "1331": {
     "盗む成功率率変化": "Steal Success Change"
@@ -336,13 +336,13 @@
     "命中率上昇・ムチ/ブーメラン": "Whip/Boomerang Hit Rate Up"
   },
   "1636": {
-    "テンション時　与ダメージ固定値加算": ""
+    "テンション時　与ダメージ固定値加算": "Fixed Damage Added During Tension"
   },
   "1662": {
-    "攻撃時HP回復　まわりも回復": ""
+    "攻撃時HP回復　まわりも回復": "Recover HP to Nearby on Attack"
   },
   "1682": {
-    "デスパワーを消費しない発生確率": ""
+    "デスパワーを消費しない発生確率": "Chance to Not Consume Death Power"
   },
   "1705": {
     "テンションリンク": "Tension Link"
@@ -351,7 +351,7 @@
     "限界突破率": "Limit Break Up"
   },
   "1726": {
-    "会心": "Crit."
+    "会心": "Critical"
   },
   "1730": {
     "身かわし": "Dodge"
@@ -393,7 +393,7 @@
     "におうだち": "Forbearance"
   },
   "1814": {
-    "蹴り追加攻撃": ""
+    "蹴り追加攻撃": "Added Kick Attack"
   },
   "1824": {
     "MP吸収攻撃": "MP Absorb Attack"
@@ -411,16 +411,16 @@
     "テンションアップ0-1": "Tension Up 0-1"
   },
   "1874": {
-    "テンションアップ1-2": "Tension Up 1-2"
+    "テンションアップ1-2": "Tension Boost 1-2"
   },
   "1888": {
-    "テンションアップ2-3": "Tension Up 2-3"
+    "テンションアップ2-3": "Tension Boost 2-3"
   },
   "1902": {
-    "テンションアップ3-SH": "Tension Up 3-SH"
+    "テンションアップ3-SH": "Tension Boost 3-SH"
   },
   "1917": {
-    "テンションアップ全体": ""
+    "テンションアップ全体": "Tension Boost"
   },
   "1933": {
     "DoT発生時に検知する用": "Damage Over Time Detection"
@@ -471,7 +471,7 @@
     "指定のHP以下にならない": "Not Below Specified HP"
   },
   "2109": {
-    "呪い": ""
+    "呪い": "Curse"
   },
   "2113": {
     "MP吸収ガード率": "MP Absorb Block Rate"
@@ -492,7 +492,7 @@
     "被ダメージをMPに変換発動率": "Damage Taken As MP Rate"
   },
   "2199": {
-    "反撃": ""
+    "反撃": "Counterattack"
   },
   "2203": {
     "即死攻撃発動率": "Death Attack Rate"
@@ -504,7 +504,7 @@
     "固定1ダメージ": "Fixed 1 Damage"
   },
   "2239": {
-    "状態異常を無効にする": ""
+    "状態異常を無効にする": "Nullify Ailments"
   },
   "2255": {
     "消費MP軽減発動率": "MP Consume Reduce Rate"
@@ -516,31 +516,31 @@
     "マホキテ": "Absorb Magic"
   },
   "2281": {
-    "パラディンバリア": ""
+    "パラディンバリア": "Paladin Barrier"
   },
   "2294": {
     "テンションバーン": "Feel the Burn"
   },
   "2307": {
-    "にがさない": ""
+    "にがさない": "Can't Escape"
   },
   "2315": {
-    "ダメージ計算実施率": ""
+    "ダメージ計算実施率": "Damage Calculation Rate"
   },
   "2329": {
-    "追加テンションアップ": ""
+    "追加テンションアップ": "Extra Tension Boost"
   },
   "2345": {
-    "確率でミス攻撃に": ""
+    "確率でミス攻撃に": "Chance of Miss Attacks"
   },
   "2358": {
     "スカウトアタック": "Scout Strike"
   },
   "2371": {
-    "きずな発動する": ""
+    "きずな発動する": "Activate Bond"
   },
   "2382": {
-    "きずな発動される": ""
+    "きずな発動される": "Bond Activated"
   },
   "2395": {
     "被ダメージをHPに変換発動率": "Damage Taken As HP Rate"
@@ -552,10 +552,10 @@
     "スケープガード": "Scape Guard"
   },
   "2437": {
-    "必殺２が使用可能になる": ""
+    "必殺２が使用可能になる": "Special 2 Available"
   },
   "2454": {
-    "必殺２が使用可能にされる": ""
+    "必殺２が使用可能にされる": "Special 2 Available"
   },
   "2473": {
     "かばう弱オート": "Auto Cover Weakened"
@@ -564,7 +564,7 @@
     "会心率": "Critical Rate"
   },
   "2489": {
-    "移動速度変化倍率チェンジ": ""
+    "移動速度変化倍率チェンジ": "Move Speed Change Up"
   },
   "2508": {
     "身かわし率": "Dodge Rate"
@@ -591,10 +591,10 @@
     "スカウトアタック成功率": "Scout Strike Success Rate"
   },
   "2584": {
-    "チャンス使用可能になる": ""
+    "チャンス使用可能になる": "Chance Available"
   },
   "2601": {
-    "チャンス使用可能にされる": ""
+    "チャンス使用可能にされる": "Chance Available"
   },
   "2620": {
     "Hp1生き残り(HP2以上で発動)": "Survive at 1 HP (Active at 2+ HP)"
@@ -606,7 +606,7 @@
     "指定のHP以下にならない(％指定)": "Not Below Specified HP (%)"
   },
   "2680": {
-    "無効：状態異常(キラキラポーン": ""
+    "無効：状態異常(キラキラポーン": "Null: Ailment (Snap Crackle Poof)"
   },
   "2702": {
     "DoT発生時を検知する用": "Damage Over Time Detection"
@@ -630,76 +630,76 @@
     "まねまね": "Follow Suit"
   },
   "2776": {
-    "即死攻撃発動率(錬金用": "Death Attack Rate (For Alchemy"
+    "即死攻撃発動率(錬金用": "Death Attack Rate (For Alchemy)"
   },
   "2792": {
-    "やいば効果（錬金用": ""
+    "やいば効果（錬金用": "Attack Attacker Effect (For Alchemy)"
   },
   "2806": {
-    "HP反射ダメージMSG表示（もろば斬り）": ""
+    "HP反射ダメージMSG表示（もろば斬り）": "HP Reflected Damage MSG Display (Double-Edged Slash)"
   },
   "2832": {
-    "必殺２使用可能になる": ""
+    "必殺２使用可能になる": "Special 2 Available"
   },
   "2848": {
-    "必殺２使用可能にされる": ""
+    "必殺２使用可能にされる": "Special 2 Available"
   },
   "2865": {
-    "アナログ無属性": ""
+    "アナログ無属性": "Analog Non-Attribute"
   },
   "2876": {
-    "炎耐性": "Fire Resist"
+    "炎耐性": "Fire Resistance"
   },
   "2881": {
-    "氷耐性": "Ice Resist"
+    "氷耐性": "Ice Resistance"
   },
   "2886": {
-    "風耐性": "Wind Resist"
+    "風耐性": "Wind Resistance"
   },
   "2891": {
-    "雷耐性": "Thunder Resist"
+    "雷耐性": "Thunder Resistance"
   },
   "2896": {
-    "土耐性": "Earth Resist"
+    "土耐性": "Earth Resistance"
   },
   "2901": {
-    "闇耐性": "Dark Resist"
+    "闇耐性": "Dark Resistance"
   },
   "2906": {
-    "光耐性": "Light Resist"
+    "光耐性": "Light Resistance"
   },
   "2911": {
-    "デジタル無属性": ""
+    "デジタル無属性": "Digital Non-Attribute"
   },
   "2922": {
-    "眠り耐性": "Sleep Resist"
+    "眠り耐性": "Sleep Resistance"
   },
   "2929": {
-    "混乱耐性": "Confuse Res."
+    "混乱耐性": "Confuse Resistance"
   },
   "2936": {
-    "麻痺耐性": "Paralysis R."
+    "麻痺耐性": "Paralysis Resistance"
   },
   "2943": {
-    "即死耐性": "Death Resist"
+    "即死耐性": "Death Resistance"
   },
   "2950": {
-    "封印耐性": "Seal Resist"
+    "封印耐性": "Seal Resistance"
   },
   "2957": {
-    "幻惑耐性": "Blind Resist"
+    "幻惑耐性": "Blind Resistance"
   },
   "2964": {
-    "休み(おびえ)耐性": "Stun (Surprise) Resist"
+    "休み(おびえ)耐性": "Stun (Surprise) Resistance"
   },
   "2976": {
-    "毒耐性": "Poison R."
+    "毒耐性": "Poison Resistance"
   },
   "2981": {
-    "吸収耐性": "Absorb Res."
+    "吸収耐性": "Absorb Resistance"
   },
   "2988": {
-    "魅了耐性": "Charm Resist"
+    "魅了耐性": "Charm Resistance"
   },
   "2995": {
     "ノックバック耐性": "Knockback Resistance"
@@ -717,28 +717,28 @@
     "スカウト耐性": "Scout Resistance"
   },
   "3058": {
-    "耐性ダウン耐性": "Resistance Down Resist"
+    "耐性ダウン耐性": "Resistance Down Resistance"
   },
   "3069": {
-    "重さダウン耐性": "Weight Down Resist"
+    "重さダウン耐性": "Weight Down Resistance"
   },
   "3080": {
-    "呪い耐性": "Curse Resist"
+    "呪い耐性": "Curse Resistance"
   },
   "3087": {
-    "休み(転び)耐性": "Stun (Fall) Resist"
+    "休み(転び)耐性": "Stun (Fall) Resistance"
   },
   "3098": {
-    "休み(しばり)耐性": "Stun (Bind) Resist"
+    "休み(しばり)耐性": "Stun (Bind) Resistance"
   },
   "3110": {
-    "休み(笑い)耐性": "Stun (Laugh) Resist"
+    "休み(笑い)耐性": "Stun (Laugh) Resistance"
   },
   "3121": {
-    "休み(踊り)耐性": "Stun (Sleep) Resist"
+    "休み(踊り)耐性": "Stun (Sleep) Resistance"
   },
   "3132": {
-    "モンスター呼び耐性": ""
+    "モンスター呼び耐性": "Monster Call Resistance"
   },
   "3146": {
     "はどう耐性": "Wave Resistance"
@@ -759,7 +759,7 @@
     "耐性ダウン（属性）耐性": "Resistance Down (Attribute) Resist"
   },
   "3227": {
-    "真やいばくだき耐性": "True Attack Attacker Resist"
+    "真やいばくだき耐性": "True Attack Attacker Resistance"
   },
   "3241": {
     "ＨＰが少しずつ回復する": "HP recovering over time."
@@ -768,10 +768,10 @@
     "ふっとばなくなる": "Can't be knocked back."
   },
   "3271": {
-    "開戦時たまにテンションアップ": "Sometimes gain tension at start of battle."
+    "開戦時たまにテンションアップ": "Starting Tension Boost"
   },
   "3293": {
-    "開戦時たまにバイシオンがかかる": "Rarely applies Oomph at battle start."
+    "開戦時たまにバイシオンがかかる": "Rarely Applies Starting Oomph"
   },
   "3316": {
     "獲得経験値アップ": "Earned EXP is increased."
@@ -819,22 +819,22 @@
     "攻撃時 6%で魅了": "Charm Attack 6%"
   },
   "3623": {
-    "左手こうげき力割合": ""
+    "左手こうげき力割合": "L. Hand Attack Percent"
   },
   "3637": {
-    "身かわし率アップ": "Dodge rate increased."
+    "身かわし率アップ": "Dodge Rate Boost"
   },
   "3650": {
-    "かばう魔剣士": ""
+    "かばう魔剣士": "Whipping Boy Demon Swordman"
   },
   "3660": {
-    "かばう戦士盾": ""
+    "かばう戦士盾": "Whipping Boy Warrior Shield"
   },
   "3670": {
     "魔因細胞を落とす": "Demon Cells will drop from monsters."
   },
   "3683": {
-    "天下無双の型を習得する": ""
+    "天下無双の型を習得する": "Learn A Cut Above Mold"
   },
   "3700": {
     "攻撃時 2%でマホトーン": "Fizzle Attack 2%"
@@ -861,7 +861,7 @@
     "さいだいＭＰ +15": "Max MP +15"
   },
   "3835": {
-    "スコアアタック ボーナスタイムバフ": ""
+    "スコアアタック ボーナスタイムバフ": "Score Attack Bonus Time Buff"
   },
   "3860": {
     "即死ガード +80%": "Death Guard +80%"
@@ -894,7 +894,7 @@
     "呪文ぼうそう率 +2.0%": "Haywire Rate +2%"
   },
   "3971": {
-    "冷雷の型４を習得する": ""
+    "冷雷の型４を習得する": "Learn Ice/Thunder Mold 4"
   },
   "3987": {
     "おびえガード +30%": "Surprise Guard +30%"
@@ -942,7 +942,7 @@
     "おびえガード +90%": "Surprise Guard +90%"
   },
   "4209": {
-    "魔法剣の型２を習得する": ""
+    "魔法剣の型２を習得する": "Learn MGK Mold 2"
   },
   "4226": {
     "攻撃時 3%で魅了": "Charm Attack 3%"
@@ -1020,7 +1020,7 @@
     "コトブキーノと戦闘時に陽の試練壱・陽炎が出現": "Yang Trial I will appear in battles with Kotobukino."
   },
   "4573": {
-    "こうげき力アップ": "Attack increased."
+    "こうげき力アップ": "Attack Boost"
   },
   "4586": {
     "封印ガード +100%": "Seal Guard +100%"
@@ -1038,7 +1038,7 @@
     "強モードボスからオーブが必ず手に入る": "Guaranteed orb drop from Hard Mode Boss."
   },
   "4655": {
-    "しゅび力アップ": "Defense increased."
+    "しゅび力アップ": "Defense Boost"
   },
   "4666": {
     "眠りガード +20%": "Sleep Guard +20%"
@@ -1053,7 +1053,7 @@
     "攻撃時 3%でどく": "Poison Attack 3%"
   },
   "4711": {
-    "死亡時バイシが消えない": "Won't lose Oomph upon death."
+    "死亡時バイシが消えない": "Keep Oomph On Death"
   },
   "4728": {
     "宝珠のドロップ率アップ": "Jewel drop rate increased."
@@ -1155,7 +1155,7 @@
     "不意をつく確率 +3%": "Surprise Enemy Rate +3%"
   },
   "5149": {
-    "勝利時MP回復PT全体": ""
+    "勝利時MP回復PT全体": "Party Recovers MP After Battle"
   },
   "5162": {
     "混乱ガード +40%": "Confuse Guard +40%"
@@ -1221,7 +1221,7 @@
     "踊らされガード +60%": "Dance Guard +60%"
   },
   "5420": {
-    "受けるダメージを 20軽減": ""
+    "受けるダメージを 20軽減": "Damage Taken -20"
   },
   "5437": {
     "イオマータⅡを習得する": "Learn Kablam Ⅱ"
@@ -1251,10 +1251,10 @@
     "盾ガード率 +1.2%": "Block Rate +1.2%"
   },
   "5575": {
-    "見とれるガード +20%": "Surprise Guard +20%"
+    "見とれるガード +20%": "Enthrall Guard +20%"
   },
   "5589": {
-    "見とれるガード +40%": "Surprise Guard +40%"
+    "見とれるガード +40%": "Enthrall Guard +40%"
   },
   "5603": {
     "こうげき力 +5": "Attack +5"
@@ -1269,7 +1269,7 @@
     "身かわし率 +2.0%": "Dodge Rate +2%"
   },
   "5649": {
-    "釣りでビッグサイズがかかりやすくなる": ""
+    "釣りでビッグサイズがかかりやすくなる": "Easier to catch big size fish."
   },
   "5677": {
     "幻惑ガード +40%": "Dazzle Guard +40%"
@@ -1281,7 +1281,7 @@
     "しばりガード +90%": "Bind Guard +90%"
   },
   "5708": {
-    "打成一片の型・弐を習得する": ""
+    "打成一片の型・弐を習得する": "Learn Become One Mold II"
   },
   "5728": {
     "封印ガード +60%": "Seal Guard +60%"
@@ -1305,7 +1305,7 @@
     "封印ガード +80%": "Seal Guard +80%"
   },
   "5803": {
-    "左手ちから割合": "L. Hand Power Ratio"
+    "左手ちから割合": "L. Hand Strength Percent"
   },
   "5814": {
     "マヒャドを習得する": "Learn Kacrack"
@@ -1323,7 +1323,7 @@
     "こうげき魔力 +10": "Magical Might +10"
   },
   "5882": {
-    "獣の型２を習得する": ""
+    "獣の型２を習得する": "Learn Beast Mold 2"
   },
   "5896": {
     "ベヒードスが竜牙石を落とす": "Drakulurches will drop Dragonites."
@@ -1335,16 +1335,16 @@
     "呪文発動速度 +6%": "Spellcasting Speed +6%"
   },
   "5936": {
-    "獣の型３を習得する": ""
+    "獣の型３を習得する": "Learn Beast Mold 3"
   },
   "5950": {
     "おもさ +2": "Weight +2"
   },
   "5957": {
-    "ビッグバンの型を習得する": ""
+    "ビッグバンの型を習得する": "Learn Big Banga Mold"
   },
   "5976": {
-    "魔法剣の型３を習得する": ""
+    "魔法剣の型３を習得する": "Learn MGK Mold 3"
   },
   "5993": {
     "しゅび力 +2": "Defense +2"
@@ -1365,19 +1365,19 @@
     "開戦時 6%で会心率上昇": "Starting Critical Rate Up 6%"
   },
   "6062": {
-    "超魔力かくせいⅡを習得する": ""
+    "超魔力かくせいⅡを習得する": "Learn Channel Rage Ⅱ"
   },
   "6082": {
     "ＭＰ吸収ガード +60%": "MP Absorb Guard +60%"
   },
   "6096": {
-    "見とれるガード +60%": "Surprise Guard +60%"
+    "見とれるガード +60%": "Enthrall Guard +60%"
   },
   "6110": {
     "かいしん率 +1.2%": "Critical Rate +1.2%"
   },
   "6121": {
-    "不思議の魔塔：扉リンク発動": ""
+    "不思議の魔塔：扉リンク発動": "Mysterious Tower:Door Link Activation"
   },
   "6141": {
     "かいしん率 +1.4%": "Critical Rate +1.4%"
@@ -1389,10 +1389,10 @@
     "きようさ +20": "Deftness +20"
   },
   "6171": {
-    "見とれるガード +80%": "Surprise Guard +80%"
+    "見とれるガード +80%": "Enthrall Guard +80%"
   },
   "6185": {
-    "見とれるガード +100%": "Surprise Guard +100%"
+    "見とれるガード +100%": "Enthrall Guard +100%"
   },
   "6199": {
     "炎耐性 +6%": "Fire Resistance +6%"
@@ -1413,7 +1413,7 @@
     "通常ドロップ率 +1.2倍": "Normal Drop Rate +1.2x"
   },
   "6274": {
-    "魔法剣の型４を習得する": ""
+    "魔法剣の型４を習得する": "Learn MGK Mold 4"
   },
   "6291": {
     "きようさ +25": "Deftness +25"
@@ -1596,7 +1596,7 @@
     "眠りガード +100%": "Sleep Guard +100%"
   },
   "7262": {
-    "ぶんまわしの型を習得する": ""
+    "ぶんまわしの型を習得する": "Learn Helichopter Mold"
   },
   "7281": {
     "笑いガード +75%": "Laugh Guard +75%"
@@ -1605,7 +1605,7 @@
     "踊らされガード +75%": "Dance Guard +75%"
   },
   "7306": {
-    "まふうじの杖の型を習得する": ""
+    "まふうじの杖の型を習得する": "Learn Staff of Antimagic Mold"
   },
   "7326": {
     "さいだいＭＰアップ": "Max MP Boost"
@@ -1686,7 +1686,7 @@
     "すばやさ +1": "Agility +1"
   },
   "7614": {
-    "渾身斬りの型を習得する": ""
+    "渾身斬りの型を習得する": "Learn Cutting Edge Mold"
   },
   "7631": {
     "攻撃時 4%でどく": "Poison Attack 4%"
@@ -1707,10 +1707,10 @@
     "氷耐性 +6%": "Ice Resistance +6%"
   },
   "7690": {
-    "暗黒の型３を習得する": ""
+    "暗黒の型３を習得する": "Learn Dark Mold 3"
   },
   "7706": {
-    "暗黒の型４を習得する": ""
+    "暗黒の型４を習得する": "Learn Dark Mold 4"
   },
   "7722": {
     "開戦時 6%でピオラ": "Starting Accelerate 6%"
@@ -1722,7 +1722,7 @@
     "アルテマソードⅡを習得する": "Learn Ultimate Blade Ⅱ"
   },
   "7771": {
-    "もろば斬りの型を習得する": ""
+    "もろば斬りの型を習得する": "Learn Double-Edged Slash Mold"
   },
   "7790": {
     "開戦時 10%でピオラ": "Starting Accelerate 10%"
@@ -1734,7 +1734,7 @@
     "氷耐性 +10%": "Ice Resistance +10%"
   },
   "7822": {
-    "聖騎士の堅陣の型を習得する": ""
+    "聖騎士の堅陣の型を習得する": "Learn Paladin's Palisade Mold"
   },
   "7842": {
     "氷耐性 +14%": "Ice Resistance +14%"
@@ -1776,7 +1776,7 @@
     "眠りガード +60%": "Sleep Guard +60%"
   },
   "7995": {
-    "風耐性 +14%": "Wind Res. +14%"
+    "風耐性 +14%": "Wind Resistance +14%"
   },
   "8003": {
     "風耐性 +18%": "Wind Resistance +18%"
@@ -1803,13 +1803,13 @@
     "すばやさ +2": "Agility +2"
   },
   "8082": {
-    "ちからの盾の型を習得する": ""
+    "ちからの盾の型を習得する": "Learn Power Shield Mold"
   },
   "8101": {
     "雷耐性 +10%": "Thunder Resistance +10%"
   },
   "8109": {
-    "女神の祝福の型を習得する": ""
+    "女神の祝福の型を習得する": "Learn Divine Intervention Mold"
   },
   "8128": {
     "ブーメラン装備時　闇の攻撃ダメージ +○%": "Boomerang Dark Damage +○%"
@@ -1962,10 +1962,10 @@
     "封印ガード +5%": "Seal Guard +5%"
   },
   "8839": {
-    "バギムーチョの型を習得する": ""
+    "バギムーチョの型を習得する": "Learn Kaswooshle Mold"
   },
   "8859": {
-    "メラガイアーの型・壱を習得する": ""
+    "メラガイアーの型・壱を習得する": "Learn Kafrizzle Mold I"
   },
   "8882": {
     "攻撃時 6%で混乱": "Confuse Attack 6%"
@@ -1992,7 +1992,7 @@
     "ラリホーを習得する": "Learn Snooze"
   },
   "9030": {
-    "ケイオスブレードの型を習得する": ""
+    "ケイオスブレードの型を習得する": "Learn Berserker's Blade Mold"
   },
   "9053": {
     "幻惑ガード +5%": "Dazzle Guard +5%"
@@ -2016,7 +2016,7 @@
     "さいだいＨＰ +1": "Max HP +1"
   },
   "9158": {
-    "福音の杖の型を習得する": ""
+    "福音の杖の型を習得する": "Learn Staff of Salvation Mold"
   },
   "9175": {
     "聖王のつるぎの型を習得する": "Learn Dryspell Sword Mold"
@@ -2031,13 +2031,13 @@
     "きずな発動時ＨＰ回復": "HP Recovery On Bond"
   },
   "9246": {
-    "獣の型４を習得する": ""
+    "獣の型４を習得する": "Learn Beast Mold 4"
   },
   "9260": {
     "晴天率 +50%": "Sun Rate +50%"
   },
   "9268": {
-    "カンフーキャップの型を習得する": ""
+    "カンフーキャップの型を習得する": "Learn Kung Fu Cap Mold"
   },
   "9291": {
     "みかわしの服上の型を習得する": "Learn Evasion Cloak Top Mold"
@@ -2064,7 +2064,7 @@
     "攻撃時 3%で幻惑": "Blind Attack 3%"
   },
   "9384": {
-    "アイギスの守りの型を習得する": ""
+    "アイギスの守りの型を習得する": "Learn Aegis Defense Mold"
   },
   "9406": {
     "攻撃時 50%でマホ系解除": "Bounce Dispel Attack 50%"
@@ -2121,16 +2121,16 @@
     "呪いガード +5%": "Curse Guard +5%"
   },
   "9622": {
-    "とうこん討ちを習得する": ""
+    "とうこん討ちを習得する": "Learn Clap Trap"
   },
   "9639": {
-    "回復のララバイを習得する": ""
+    "回復のララバイを習得する": "Learn Healing Lullaby"
   },
   "9658": {
     "光特技の攻撃ダメージ +○%": "Light Skill Damage +○%"
   },
   "9677": {
-    "神速シャンソンⅢを習得する": ""
+    "神速シャンソンⅢを習得する": "Learn Godspeed Chanson Ⅲ"
   },
   "9697": {
     "たいあたりを習得する": "Learn Body Slam"
@@ -2247,13 +2247,13 @@
     "ズッシードを習得する": "Learn Thunk"
   },
   "10294": {
-    "獲得ゴールドUP(魔塔)": ""
+    "獲得ゴールドUP(魔塔)": "Earned Gold Up (Mysterious Tower)"
   },
   "10309": {
     "氷耐性 +2%": "Ice Resistance +2%"
   },
   "10316": {
-    "風耐性 +2%": "Wind Res. +2%"
+    "風耐性 +2%": "Wind Resistance +2%"
   },
   "10323": {
     "雷耐性 +2%": "Thunder Resistance +2%"
@@ -2265,10 +2265,10 @@
     "土耐性 +2%": "Earth Resistance +2%"
   },
   "10353": {
-    "行動時間短縮（魔塔開始時）": ""
+    "行動時間短縮（魔塔開始時）": "Reduce Action Time (Mysterious Tower)"
   },
   "10373": {
-    "早詠みの杖（魔塔開始時）": ""
+    "早詠みの杖（魔塔開始時）": "Faster Caster (Mysterious Tower)"
   },
   "10392": {
     "クロックチャージⅢを習得する": "Learn Clock Charge Ⅲ"
@@ -2280,7 +2280,7 @@
     "いやしの雨を習得する": "Learn Right as Rain"
   },
   "10437": {
-    "スカラを習得する": ""
+    "スカラを習得する": "Learn Buff"
   },
   "10450": {
     "ためる参を習得する": "Learn Psyche Up 3"
@@ -2325,7 +2325,7 @@
     "みのがすを習得する": "Learn Mercy"
   },
   "10622": {
-    "バギマの型を習得する": ""
+    "バギマの型を習得する": "Learn Swoosh Mold"
   },
   "10638": {
     "封印ガード +30%": "Seal Guard +30%"
@@ -2361,16 +2361,16 @@
     "呪いガード +30%": "Curse Guard +30%"
   },
   "10797": {
-    "ほのおのつるぎの型を習得する": ""
+    "ほのおのつるぎの型を習得する": "Learn Fire Blade Mold"
   },
   "10819": {
     "即死ガード +30%": "Death Guard +30%"
   },
   "10830": {
-    "ジバリーナの型を習得する": ""
+    "ジバリーナの型を習得する": "Learn Mountainmover Mold"
   },
   "10849": {
-    "氷の型３を習得する": ""
+    "氷の型３を習得する": "Learn Ice Mold 3"
   },
   "10863": {
     "マヒガード +10%": "Paralyze Guard +10%"
@@ -2415,7 +2415,7 @@
     "ＭＰ吸収ガード +5%": "MP Absorb Guard +5%"
   },
   "11021": {
-    "バイシの効果時間延長": ""
+    "バイシの効果時間延長": "Oomph Effect Renewed"
   },
   "11037": {
     "どくガード +60%": "Poison Guard +60%"
@@ -2487,7 +2487,7 @@
     "短剣装備時　光の攻撃ダメージ +○%": "Dagger Light Damage +○%"
   },
   "11346": {
-    "フォースブレイクの型を習得する": ""
+    "フォースブレイクの型を習得する": "Learn Fource Break Mold"
   },
   "11369": {
     "呪文ぼうそう率 +1.0%": "Haywire Rate +1%"
@@ -2529,7 +2529,7 @@
     "水系攻撃時○%魅了": "Water Charm Attack ○%"
   },
   "11612": {
-    "メラガイアーの型・弐を習得する": ""
+    "メラガイアーの型・弐を習得する": "Learn Kafrizzle Mold II"
   },
   "11635": {
     "オノ装備時　炎の攻撃ダメージ +○%": "Axe Fire Damage +○%"
@@ -2538,7 +2538,7 @@
     "○%の確率で 受けたダメージの10%反射": "○% Chance to Reflect 10% Damage"
   },
   "11686": {
-    "攻撃時○%でぶきみなひかり": ""
+    "攻撃時○%でぶきみなひかり": "Spooky Aura Attack ○%"
   },
   "11705": {
     "オノ装備時　氷の攻撃ダメージ +○%": "Axe Ice Damage +○%"
@@ -2589,7 +2589,7 @@
     "かいふく魔力 +15": "Magical Mending +15"
   },
   "11999": {
-    "風耐性 +3%": "Wind Res. +3%"
+    "風耐性 +3%": "Wind Resistance +3%"
   },
   "12006": {
     "ハンマー装備時　雷の攻撃ダメージ +○%": "Hammer Thunder Damage +○%"
@@ -2676,7 +2676,7 @@
     "攻撃時 ○%で混乱": "Confuse Attack ○%"
   },
   "12393": {
-    "必殺時チャージ時 ○%で早詠み": ""
+    "必殺時チャージ時 ○%で早詠み": "Faster Caster On Special Charge ○%"
   },
   "12414": {
     "盾装備で開戦時 ○%で聖女の守り": "Starting Shield Alma Mater o%"
@@ -2691,7 +2691,7 @@
     "攻撃時 ○%でマホトーン": "Fizzle Attack ○%"
   },
   "12478": {
-    "炎雷の型４を習得する": ""
+    "炎雷の型４を習得する": "Learn Fire/Thunder Mold 4"
   },
   "12494": {
     "夜 開戦時 1%でためる": "Eve Starting Tension 1%"
@@ -2724,7 +2724,7 @@
     "敵を倒すと 3%でテンションアップ": "Tension Up On Enemy Defeat 3%"
   },
   "12668": {
-    "戦闘開始時○%で覚醒と祈り": ""
+    "戦闘開始時○%で覚醒と祈り": "Starting Awakening and Prayer ○%"
   },
   "12687": {
     "キュルルといく世界で記念ふくびきの切れはしをドロップ": "Commemorative Lotto Pieces dropping in a Journey through Time."
@@ -2805,7 +2805,7 @@
     "呪闇の魔柱": "Demonic Pillar"
   },
   "12962": {
-    "コマンド間隔 -1秒": ""
+    "コマンド間隔 -1秒": "Command Interval -1s"
   },
   "12975": {
     "転生モンスター出現率 1.1倍": "Rarefied Enemy Rate 1.1x"
@@ -2862,13 +2862,13 @@
     "バイキルトを習得する": "Learn Oomphle"
   },
   "13271": {
-    "無双の型３を習得する": ""
+    "無双の型３を習得する": "Learn Peerless Mold 3"
   },
   "13287": {
     "必殺時チャージ時 ○%でホップスティック": "Hop Stick On Special Charge ○%"
   },
   "13316": {
-    "死亡時魔力覚醒が消えない": "Won't lose Channel Anger upon death."
+    "死亡時魔力覚醒が消えない": "Keep Channel Anger On Death"
   },
   "13335": {
     "盾装備で開戦時 ○%でピオラ": "Starting Shield Accelerate o%"
@@ -2925,10 +2925,10 @@
     "ＨＰときようさ +○": "HP & Deftness +○"
   },
   "13688": {
-    "必殺時チャージ時 ○%で弓ポン": ""
+    "必殺時チャージ時 ○%で弓ポン": "Ailment Curt. on Special Charge ○%"
   },
   "13709": {
-    "死亡時早詠みが消えない": ""
+    "死亡時早詠みが消えない": "Keep Faster Caster On Death"
   },
   "13726": {
     "レアドロップ率 1.1倍": "Rare Drop Rate 1.1x"
@@ -2955,7 +2955,7 @@
     "メタルモンスター出現率 1.1倍": "Metal Monster Appearance 1.1x"
   },
   "13897": {
-    "イオグランデを習得する": ""
+    "イオグランデを習得する": "Learn Kaboomle"
   },
   "13914": {
     "両手杖装備時　風の攻撃ダメージ +○%": "Staff Wind Damage +○%"
@@ -2967,7 +2967,7 @@
     "両手杖装備時　土の攻撃ダメージ +○%": "Staff Earth Damage +○%"
   },
   "13992": {
-    "かいしんの型４を習得する": ""
+    "かいしんの型４を習得する": "Learn Critical Mold 4"
   },
   "14011": {
     "両手杖装備時　闇の攻撃ダメージ +○%": "Staff Dark Damage +○%"
@@ -2994,10 +2994,10 @@
     "エレ系ダメージ+○%": "Element-type Damage +○%"
   },
   "14176": {
-    "テンション時　魔物に追加ダメージ +○": ""
+    "テンション時　魔物に追加ダメージ +○": "Damage to Monsters During Tension +○"
   },
   "14203": {
-    "戦闘開始時○%で早詠み": ""
+    "戦闘開始時○%で早詠み": "Starting Faster Caster ○%"
   },
   "14219": {
     "きずな発動時ＭＰ回復": "MP Recovery On Bond"
@@ -3024,10 +3024,10 @@
     "盾装備時　土の攻撃ダメージ +○%": "Shield Earth Damage +○%"
   },
   "14370": {
-    "必殺時チャージ時 ○%で堅陣": ""
+    "必殺時チャージ時 ○%で堅陣": "Paladin's Palisade On Special Charge ○%"
   },
   "14390": {
-    "戦闘開始時○%でバイシオン": ""
+    "戦闘開始時○%でバイシオン": "Starting Oomph ○%"
   },
   "14409": {
     "盾装備時　雷の攻撃ダメージ +○%": "Shield Thunder Damage +○%"
@@ -3063,7 +3063,7 @@
     "怪人系攻撃時○%魅了": "Humanoid Charm Attack ○%"
   },
   "14652": {
-    "無双の型４を習得する": ""
+    "無双の型４を習得する": "Learn Peerless Mold 4"
   },
   "14668": {
     "おしゃれさときようさ +○": "Style & Deftness +o"
@@ -3105,7 +3105,7 @@
     "マヒャデドスを習得する": "Learn Kacrackle"
   },
   "14907": {
-    "クロックチャージの型を習得する": ""
+    "クロックチャージの型を習得する": "Learn Clock Charge Mold"
   },
   "14930": {
     "状態異常成功率+○%": "Ailment Success Rate +○%"
@@ -3114,7 +3114,7 @@
     "片手剣装備時　光の攻撃ダメージ +○%": "Sword Light Damage +○%"
   },
   "14970": {
-    "岩石おとしを習得する": ""
+    "岩石おとしを習得する": "Learn Boulder Toss"
   },
   "14986": {
     "オノ装備時　光の攻撃ダメージ +○%": "Axe Light Damage +○%"
@@ -3135,7 +3135,7 @@
     "アルテマソードの型を習得する": "Learn Ultimate Blade Mold"
   },
   "15115": {
-    "斬夜の太刀の型を習得する": ""
+    "斬夜の太刀の型を習得する": "Learn Nightcleaver Mold"
   },
   "15134": {
     "獣系ダメージ+○%": "Beast-type Damage +○%"
@@ -3156,16 +3156,16 @@
     "スラ系ダメージ+○%": "Slime-type Damage +○%"
   },
   "15234": {
-    "致死ダメージ 10％で生存": ""
+    "致死ダメージ 10％で生存": "Survive Lethal Damage 10%"
   },
   "15251": {
-    "獲得経験値・獲得特訓スタンプがアップ": "Increased EXP/training stamps."
+    "獲得経験値・獲得特訓スタンプがアップ": "EXP/training stamps is increased."
   },
   "15279": {
-    "デバッグ用\n;移動速度アップ": ""
+    "デバッグ用\n;移動速度アップ": "For Debugging\n;Movement Speed Boost"
   },
   "15299": {
-    "つるぎの舞の型を習得する": ""
+    "つるぎの舞の型を習得する": "Learn Sword Dance Mold"
   },
   "15318": {
     "きずな発動時 聖なる祈り": "Care Prayer On Bond"
@@ -3177,7 +3177,7 @@
     "きずな発動時 バイキルト": "Oomphle On Bond"
   },
   "15372": {
-    "冷雷の型３を習得する": ""
+    "冷雷の型３を習得する": "Learn Ice/Thunder Mold 3"
   },
   "15388": {
     "キラージャグリングを習得する": "Learn Have a Ball"
@@ -3210,7 +3210,7 @@
     "期間中たまに新春依頼書がドロップ": "New Year's Request Forms may drop."
   },
   "15609": {
-    "期間中たまに七夕依頼書がドロップ": ""
+    "期間中たまに七夕依頼書がドロップ": "Star Festival Request Forms may drop."
   },
   "15634": {
     "炎の攻撃ダメージ +○%": "Fire Damage +○%"
@@ -3225,7 +3225,7 @@
     "必殺時チャージ時 ○%で聖なる祈り": "Care Prayer On Special Charge ○%"
   },
   "15738": {
-    "ギラグレイドの型を習得する": ""
+    "ギラグレイドの型を習得する": "Learn Kasizzle Mold"
   },
   "15758": {
     "さとりと時の型３を習得する": "Learn Wisdom/Time Mold 3"
@@ -3234,19 +3234,19 @@
     "ハート兵隊服着用時ドワチャッカ大陸でカカオをドロップ": "Cacao drops in Dwachakka while wearing a Heart Soldier Outfit."
   },
   "15818": {
-    "五大陸どこでも戦闘時にジングルモーモンが出現": ""
+    "五大陸どこでも戦闘時にジングルモーモンが出現": "Jingle Sanguini appears during battle in the 5 Continents."
   },
   "15852": {
-    "開戦時 ○%でピオラを習得する": ""
+    "開戦時 ○%でピオラを習得する": "Learn Starting Accelerate o%"
   },
   "15873": {
-    "しゅうれん用バンドの型を習得する": ""
+    "しゅうれん用バンドの型を習得する": "Learn Training Hairband Mold"
   },
   "15898": {
-    "きせきのつるぎの型を習得する": ""
+    "きせきのつるぎの型を習得する": "Learn Miracle Sword Mold"
   },
   "15920": {
-    "打成一片の型・壱を習得する": ""
+    "打成一片の型・壱を習得する": "Learn Become One Mold I"
   },
   "15940": {
     "さとりと時の型４を習得する": "Learn Wisdom/Time Mold 4"
@@ -3294,16 +3294,16 @@
     "イオマータの型を習得する": "Learn Kablam Mold"
   },
   "16198": {
-    "ケルベロスロンドの型・弐を習得する": "Learn Cerberus Rondo Mold 2"
+    "ケルベロスロンドの型・弐を習得する": "Learn Cerberus Rondo Mold II"
   },
   "16224": {
     "メラゾーマを習得する": "Learn Kafrizz"
   },
   "16240": {
-    "奮起の型４を習得する": ""
+    "奮起の型４を習得する": "Learn Inspire Mold 4"
   },
   "16256": {
-    "風と光の型４を習得する": ""
+    "風と光の型４を習得する": "Learn Wind/Light Mold 4"
   },
   "16273": {
     "ギガスラッシュを習得する": "Learn Gigaslash"
@@ -3321,13 +3321,13 @@
     "両手剣装備時　氷の攻撃ダメージ +○%": "Greatsword Ice Damage +○%"
   },
   "16378": {
-    "魔力覚醒の効果時間延長": ""
+    "魔力覚醒の効果時間延長": "Channel Anger Effect Renewed"
   },
   "16395": {
     "絆の発動率 +○%": "Bond Rate +○%"
   },
   "16406": {
-    "氷の型４を習得する": ""
+    "氷の型４を習得する": "Learn Ice Mold 4"
   },
   "16420": {
     "盾装備時　光の攻撃ダメージ +○%": "Shield Light Damage +○%"
@@ -3348,7 +3348,7 @@
     "氷呪文の攻撃ダメージ +○%": "Ice Spell Damage +○%"
   },
   "16540": {
-    "対人ダメージ+○%": ""
+    "対人ダメージ+○%": "Personal Damage +○%"
   },
   "16552": {
     "攻撃時○%テンション下げ": "Tension Down Attack ○%"
@@ -3378,7 +3378,7 @@
     "物質系攻撃時○%魅了": "Material Charm Attack ○%"
   },
   "16711": {
-    "スラ系攻撃時○%魅了": ""
+    "スラ系攻撃時○%魅了": "Slime Charm Attack ○%"
   },
   "16726": {
     "攻撃時○%で猛毒": "Envenom Attack ○%"
@@ -3390,7 +3390,7 @@
     "両手剣装備時　光の攻撃ダメージ +○%": "Greatsword Light Damage +○%"
   },
   "16779": {
-    "開戦時 ○%でキラポン": "Starting Snap Poof o%"
+    "開戦時 ○%でキラポン": "Starting Snap Crackle Poof o%"
   },
   "16794": {
     "マシン系ダメージ+○%": "Machine-type Damage +○%"
@@ -3465,19 +3465,19 @@
     "テストとくぎⅠを習得する": "Learn Test Skill I"
   },
   "17258": {
-    "はやぶさ斬りの型を習得する": ""
+    "はやぶさ斬りの型を習得する": "Learn Falcon Slash Mold"
   },
   "17278": {
-    "ベギラマの型を習得する": ""
+    "ベギラマの型を習得する": "Learn Sizzle Mold"
   },
   "17295": {
-    "かいしんの型３を習得する": ""
+    "かいしんの型３を習得する": "Learn Critical Mold 3"
   },
   "17314": {
-    "不死鳥天舞の型を習得する": ""
+    "不死鳥天舞の型を習得する": "Learn Phoenix Dance Mold"
   },
   "17333": {
-    "ギガスラッシュの型を習得する": ""
+    "ギガスラッシュの型を習得する": "Learn Gigaslash Mold"
   },
   "17355": {
     "短剣装備時　闇の攻撃ダメージ +○%": "Dagger Dark Damage +○%"
@@ -3492,10 +3492,10 @@
     "守護と回復の型４を習得する": "Learn Def./Recovery Mold 4"
   },
   "17455": {
-    "フリーズブレードの型を習得する": ""
+    "フリーズブレードの型を習得する": "Learn Frost Fangs Mold"
   },
   "17478": {
-    "無心こうげきの型を習得する": ""
+    "無心こうげきの型を習得する": "Learn Blind Man's Biff Mold"
   },
   "17498": {
     "弱体と浄化の型１を習得する": "Learn Weak/Purify Mold 1"
@@ -3528,10 +3528,10 @@
     "活性と加護の型１を習得する": "Learn Active/Bless Mold 1"
   },
   "17728": {
-    "火の型４を習得する": ""
+    "火の型４を習得する": "Learn Fire Mold 4"
   },
   "17742": {
-    "イオグランデの型を習得する": ""
+    "イオグランデの型を習得する": "Learn Kaboomle Mold"
   },
   "17762": {
     "オノ装備時　風の攻撃ダメージ +○%": "Axe Wind Damage +○%"
@@ -3597,19 +3597,19 @@
     "ツメ装備時　氷の攻撃ダメージ +○%": "Claw Ice Damage +○%"
   },
   "18257": {
-    "ケルベロスロンドの型・壱を習得する": "Learn Cerberus Rondo Mold 1"
+    "ケルベロスロンドの型・壱を習得する": "Learn Cerberus Rondo Mold I"
   },
   "18283": {
-    "闇と烈火の型４を習得する": ""
+    "闇と烈火の型４を習得する": "Learn Dark/Fire Mold 4"
   },
   "18302": {
     "メイルストロムの型を習得する": "Learn Maelstrom Mold"
   },
   "18324": {
-    "風と光の型２を習得する": ""
+    "風と光の型２を習得する": "Learn Wind/Light Mold 2"
   },
   "18341": {
-    "風と光の型３を習得する": ""
+    "風と光の型３を習得する": "Learn Wind/Light Mold 3"
   },
   "18358": {
     "守護と回復の型１を習得する": "Learn Def./Recovery Mold 1"
@@ -3705,7 +3705,7 @@
     "弓装備時　光の攻撃ダメージ +○%": "Bow Light Damage +○%"
   },
   "19119": {
-    "まもりのたての型を習得する": ""
+    "まもりのたての型を習得する": "Learn Holy Impregnable Mold"
   },
   "19139": {
     "ファランクスの型を習得する": "Learn Phalanx Mold"

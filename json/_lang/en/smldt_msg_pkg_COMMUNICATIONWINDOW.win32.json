@@ -42,7 +42,7 @@
     "チームに 入っていません": "Not part of a team."
   },
   "23171": {
-    "通信エラーが発生しました。": "A communication error occurred."
+    "通信エラーが発生しました。": "A communication error has occurred."
   },
   "24899": {
     "------------------------------------------- 現在のリアル時間 <%2nM_CW_hour>：<%02nM_CW_minute>": "-----------------------------------------Current Real Time <%2dM_CW_hour>:<%02dM_CW_minute> JST"
@@ -129,7 +129,7 @@
     "<speed=0><%sM_pc>を　サブリーダーに\nできませんでした。\nリーダー権限か　チーム所属を　ご確認ください。": "<speed=0><%sM_pc> could not be subleader.\nPlease confirm your leadership or team\naffiliation."
   },
   "27960": {
-    "<speed=0><%sM_pc>を　サブリーダーから\nはずせませんでした。\nリーダー権限か　チーム所属を　ご確認ください。": "<%sM_pc> couldn't be removed as subleader.\nPlease confirm your leadership or team\naffiliation."
+    "<speed=0><%sM_pc>を　サブリーダーから\nはずせませんでした。\nリーダー権限か　チーム所属を　ご確認ください。": "<speed=0><%sM_pc> couldn't be removed as subleader.\nPlease confirm your leadership or team\naffiliation."
   },
   "28471": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストに追加した。": "\\s<%sC_PC>\\m<%sC_ID>\\e was added to the blacklist."
@@ -144,10 +144,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eとの取り引きが　成立した！": "Trade with \\s<%sC_PC>\\m<%sC_ID>\\e was completed!"
   },
   "28526": {
-    "<%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を付けた！": "<%sL_SYOKUNIN_KIND> added <%sL_RENKIN_TEXT>\nto <%sB_item>!"
+    "<%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を付けた！": "Added <%sL_RENKIN_TEXT> to\n<%sB_item> with <%sL_SYOKUNIN_KIND>!"
   },
   "28527": {
-    "<%sL_SYOKUNIN_KIND>で <%sM_item><%sL_QUALITY>を作った！": "Created <%sM_item> <%sL_QUALITY> with <%sL_SYOKUNIN_KIND> !"
+    "<%sL_SYOKUNIN_KIND>で <%sM_item><%sL_QUALITY>を作った！": "Created <%sM_item> <%sL_QUALITY> with <%sL_SYOKUNIN_KIND>!"
   },
   "28528": {
     "旅人バザーに出品していた <%sM_item><%sM_plusnum>を 取りやめた。": "Cancelled putting the <%sM_item><%sM_plusnum> up for sale."
@@ -162,10 +162,10 @@
     "<%sM_recipe>のレシピを おぼえた！": "<%sM_recipe> recipe was learned!"
   },
   "28532": {
-    "預かり所から <%sM_item><%sM_plusnum>を 取り出した。": "You took out <%sM_item><%sM_plusnum> from storage."
+    "預かり所から <%sM_item><%sM_plusnum>を 取り出した。": "Took out <%sM_item><%sM_plusnum> from storage."
   },
   "28533": {
-    "預かり所に <%sM_item><%sM_plusnum>を 預けた。": "You deposited <%sM_item><%sM_plusnum> in storage."
+    "預かり所に <%sM_item><%sM_plusnum>を 預けた。": "Deposited <%sM_item><%sM_plusnum> in storage."
   },
   "28538": {
     "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_SELL_PRICE> Gで売った！": "Sold <%sL_URITAI_ITEM><%sL_PLUSNUM> at the shop for <%dL_SELL_PRICE> Gold!"
@@ -180,7 +180,7 @@
     "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> Gで買った！": "Bought <%sL_KAITAI_ITEM><%sL_PLUSNUM> from the shop for <%dL_BUY_PRICE> G!"
   },
   "28548": {
-    "ちいさなメダル <%dL_medal>枚と <%sM_item>を 交換した！": "You traded <%dL_medal> Mini Medals for <%sM_item>!"
+    "ちいさなメダル <%dL_medal>枚と <%sM_item>を 交換した！": "Exchanged <%dL_medal> Mini Medals for <%sM_item>!"
   },
   "28549": {
     "<%sL_shisetu>で <%sC_PC>たちに 手紙を送った。": "Sent a letter to <%sC_PC> and others at <%sL_shisetu>."
@@ -219,7 +219,7 @@
     "旅のコンシェルジュで <%sM_item><%sM_plusnum>を 受け取った！": "Received <%sM_item><%sM_plusnum> from the concierge!"
   },
   "28562": {
-    "預かり所に <%dM_gold> Gを 預けた。": "Deposited <%dM_gold> Gold in storage."
+    "預かり所に <%dM_gold> Gを 預けた。": "Deposited <%dM_gold> G in storage."
   },
   "28567": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eを 仲間にさそいました。": "Sent party invite to \\s<%sC_PC>\\m<%sC_ID>\\e."
@@ -372,7 +372,7 @@
     "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を <%sL_PARTS_NAME>に変えた！": "<%sL_OWNER>'s house's <%sL_CATEGORY_NAME> changed to <%sL_PARTS_NAME>!"
   },
   "29165": {
-    "美容院で かみの色１を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Spent <%dM_gold> G to change hair color from <%sM_old> to <%sM_new>!"
+    "美容院で かみの色１を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your hair color 1 from <%sM_old> to\n<%sM_new> with <%dM_gold> G at the Salon!"
   },
   "29346": {
     "ふくびきで 特等が当たって <%sM_item>を <%dM_item_num>個 手に入れた！": "Received the special prize of <%dM_item_num> <%sM_item>!"
@@ -399,7 +399,7 @@
     "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "<%sL_OWNER> took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from storage."
   },
   "29546": {
-    "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Deposited <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into house storage."
+    "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into house storage."
   },
   "29547": {
     "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into <%sL_OWNER>'s\nfurniture storage."
@@ -447,7 +447,7 @@
     "送信エラー！非通知：<%sM_speaker>「<%sM_chat>…」": "Send Error! Withheld: <%sM_speaker> \"<%sM_chat>...\""
   },
   "30755": {
-    "美容院で かみがたを\n<%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed the razor from <%sM_old> to\n<%sM_new> with <%dM_gold> Gold at the Salon."
+    "美容院で かみがたを\n<%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your hairstyle from <%sM_old> to\n<%sM_new> with <%dM_gold> G at the Salon!"
   },
   "30756": {
     "美容院で <%sM_item>を使った！": "Used <%sM_item> at the Salon!"
@@ -459,7 +459,7 @@
     "<%sL_OWNER>の畑に <%sL_ITEM>を 使った！": "Used <%sL_ITEM> on <%sL_OWNER>'s field!"
   },
   "31150": {
-    "<%sL_OWNER>の畑に <%sL_ITEM>を まいた！": "<%sL_ITEM> planted in <%sL_OWNER>'s garden!"
+    "<%sL_OWNER>の畑に <%sL_ITEM>を まいた！": "<%sL_ITEM> planted in <%sL_OWNER>'s field!"
   },
   "31151": {
     "<%sL_OWNER>の畑から <%sL_ITEM>を 摘んだ！\n所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": "Picked <%sL_ITEM> from <%sL_OWNER>'s field!\nNumber owned: <%dL_BEFORE_NUM> → <%dL_AFTER_NUM>"
@@ -537,16 +537,16 @@
     "<speed=0>ルーム参加人数が　いっぱいか\n参加人数を　超える招待に　なるため\nこれ以上は　このルームに招待できません。": "<speed=0>The room is full or has more participants than\nyou can invite, so you cannot invite any more\npeople to the room."
   },
   "31879": {
-    "<speed=0>相手が　フレンドから　はずれているため\n招待できませんでした。": ""
+    "<speed=0>相手が　フレンドから　はずれているため\n招待できませんでした。": "<speed=0>The invitation could not be sent because the\nperson has been removed from your friend list."
   },
   "31880": {
-    "<speed=0>チャットルームに　招待できませんでした。": ""
+    "<speed=0>チャットルームに　招待できませんでした。": "<speed=0>The invitation to the chat room could not be\nsent."
   },
   "31881": {
     "<speed=0>どのチャットルームに　招待しますか？\n<select>\n<%sM_room><select_end><close>": "<speed=0>Invite to which room?\n<select>\n<%sM_room><select_end><close>"
   },
   "31882": {
-    "<speed=0><%sM_pc>は　すでに　そのルームに\n参加しています。": ""
+    "<speed=0><%sM_pc>は　すでに　そのルームに\n参加しています。": "<speed=0><%sM_pc> has already joined the room."
   },
   "31883": {
     "<speed=0>画面右上に　チャット表示をするかの設定です。\n現在　<%sM_room>は『チャットを表示しない』です。\n『チャットを表示する』に　変更しますか？\n<yesno 1><close>": "<speed=0>This setting will toggle notifications for\n<%sM_room>. The current setting is \"Hide Chat\".\nSwitch to \"Show Chat\"?\n<yesno 1><close>"
@@ -558,19 +558,19 @@
     "<speed=0>チャット表示の変更に　失敗しました。": "<speed=0>Failed to change chat setting."
   },
   "32014": {
-    "美容院で めの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で めの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your eye color from <%sM_old> to\n<%sM_new> with <%dM_gold> G at the Salon!"
   },
   "32056": {
-    "<speed=0><%sM_room>への　招待を取り消しました。": ""
+    "<speed=0><%sM_room>への　招待を取り消しました。": "<speed=0>Cancelled the invitation to <%sM_room>."
   },
   "32057": {
-    "<speed=0>すでに　無効な招待に　なっているため\n取り消しに　失敗しました。": ""
+    "<speed=0>すでに　無効な招待に　なっているため\n取り消しに　失敗しました。": "<speed=0>Cancellation failed because the invitation is\nalready invalid."
   },
   "32058": {
     "<speed=0>\n取り消しに　失敗しました。": "<speed=0>\nCancellation failed."
   },
   "32059": {
-    "<speed=0><%sM_room>への招待を　取り消しますか？\n<yesno 1><close>": ""
+    "<speed=0><%sM_room>への招待を　取り消しますか？\n<yesno 1><close>": "<speed=0>Cancel the invitation to <%sM_room>?\n<yesno 1><close>"
   },
   "32060": {
     "<speed=0><%sM_pc>は　すでに　そのルームから\n招待を受けています。": "<speed=0><%sM_pc> has already received an invitation\nto join the room."
@@ -612,34 +612,34 @@
     "<speed=0>どの　チャットルームへの　招待を\n取り消しますか？\n<select>\n<%sM_room><select_end><close>": "<speed=0>Remove invitation to which chat room?\n<select>\n<%sM_room><select_end><close>"
   },
   "33030": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を付けてもらった！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を付けてもらった！": "\\s<%sC_PC>\\m<%sC_ID>\\e added <%sL_RENKIN_TEXT>\nto the <%sB_item> using\n<%sL_SYOKUNIN_KIND>!"
   },
   "33031": {
-    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を付けた！": "<%sL_SYOKUNIN_KIND> attached <%sL_RENKIN_TEXT>\nto \\s<%sC_PC>\\m<%sC_ID>\\e's <%sB_item>!"
+    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を付けた！": "Added <%sL_RENKIN_TEXT> to \\s<%sC_PC>\\m<%sC_ID>\\e's\n<%sB_item> using <%sL_SYOKUNIN_KIND>!"
   },
   "33032": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>の <%sL_RENKIN_TEXT_1>を\n<%sL_RENKIN_TEXT>に パワーアップした！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>の <%sL_RENKIN_TEXT_1>を\n<%sL_RENKIN_TEXT>に パワーアップした！": "Boosted \\s<%sC_PC>\\m<%sC_ID>\\e's\n<%sB_item>'s <%sL_RENKIN_TEXT_1>\nto <%sL_RENKIN_TEXT>!"
   },
   "33033": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sB_item>の <%sL_RENKIN_TEXT_1>を\n<%sL_RENKIN_TEXT>に パワーアップしてくれた！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sB_item>の <%sL_RENKIN_TEXT_1>を\n<%sL_RENKIN_TEXT>に パワーアップしてくれた！": "\\s<%sC_PC>\\m<%sC_ID>\\e boosted\nthe <%sB_item>'s <%sL_RENKIN_TEXT_1>\nto <%sL_RENKIN_TEXT>!"
   },
   "33034": {
-    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を うめつくした！": "The <%sL_SYOKUNIN_KIND> completely filled\n\\s<%sC_PC>\\m<%sC_ID>\\e's <%sB_item>\nwith <%sL_RENKIN_TEXT>!"
+    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を うめつくした！": "Completely filled \\s<%sC_PC>\\m<%sC_ID>\\e's\n<%sB_item> with <%sL_RENKIN_TEXT>\nusing <%sL_SYOKUNIN_KIND>!"
   },
   "33035": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を うめつくしてくれた！": "\\s<%sC_PC>\\m<%sC_ID>\\ used <%sL_SYOKUNIN_KIND>\nto completely fill <%sB_item>\nwith <%sL_RENKIN_TEXT>!"
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を うめつくしてくれた！": "\\s<%sC_PC>\\m<%sC_ID>\\ completely filled the\n<%sB_item> with <%sL_RENKIN_TEXT>\nusing <%sL_SYOKUNIN_KIND>!"
   },
   "33036": {
-    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を付けた……。": "<%sL_RENKIN_TEXT> was attached to <%sC_PC>\\m<%sC_ID>\\e's\n<%sB_item> with <%sL_SYOKUNIN_KIND>!"
+    "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に\n<%sL_RENKIN_TEXT>を付けた……。": "Added <%sL_RENKIN_TEXT> to \\s<%sC_PC>\\m<%sC_ID>\\e's\n<%sB_item> using <%sL_SYOKUNIN_KIND>..."
   },
   "33037": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を付けてもらった……。": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sL_SYOKUNIN_KIND>で <%sB_item>に\n<%sL_RENKIN_TEXT>を付けてもらった……。": "\\s<%sC_PC>\\m<%sC_ID>\\e added <%sL_RENKIN_TEXT>\nto the <%sB_item> using\n<%sL_SYOKUNIN_KIND>..."
   },
   "33038": {
-    "職人仕事のお礼として \\s<%sC_PC>\\m<%sC_ID>\\eから <%dL_GOLD> Gもらった！": ""
+    "職人仕事のお礼として \\s<%sC_PC>\\m<%sC_ID>\\eから <%dL_GOLD> Gもらった！": "Received <%dL_GOLD> G from \\s<%sC_PC>\\m<%sC_ID>\\e as a thank you for your crafting work!"
   },
   "33039": {
-    "職人仕事のお礼として \\s<%sC_PC>\\m<%sC_ID>\\eに <%dL_GOLD> Gを払った！": ""
+    "職人仕事のお礼として \\s<%sC_PC>\\m<%sC_ID>\\eに <%dL_GOLD> Gを払った！": "Paid \\s<%sC_PC>\\m<%sC_ID>\\e <%dL_GOLD> G as a thank you for their crafting work!"
   },
   "33107": {
     "まだ 参加者が いません": "No participants yet."
@@ -651,13 +651,13 @@
     "<%sM_item>を使って 絵葉書を書いた！": "Used <%sM_item> to write a postcard!"
   },
   "33320": {
-    "<speed=0>同時に招待できる数の　上限に達しています。\n相手の返答を待つか　『招待を取り消す』から\n送信済みの招待を　取り消してください。": ""
+    "<speed=0>同時に招待できる数の　上限に達しています。\n相手の返答を待つか　『招待を取り消す』から\n送信済みの招待を　取り消してください。": "<speed=0>The maximum number of simultaneous invitations\nhas been sent. Wait for a response or cancel\nan invitation by clicking \"Cancel Invitation\"."
   },
   "33547": {
-    "美容院で はだの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your hair color from <%sM_old> to <%sM_new> for <%dM_gold> G!"
+    "美容院で はだの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your skin color from <%sM_old> to\n<%sM_new> for <%dM_gold> G at the Salon!"
   },
   "34060": {
-    "<speed=0>ログイン状況表示設定が　『常にログアウト表示』\nのため　チャットルームに　招待できません。\nログイン状況表示設定を　変更してください。": ""
+    "<speed=0>ログイン状況表示設定が　『常にログアウト表示』\nのため　チャットルームに　招待できません。\nログイン状況表示設定を　変更してください。": "<speed=0>Cannot be invited to the Chat Room becuase\nyour login status is set to \"Appear Offline\".\nPlease change the login status setting."
   },
   "34202": {
     "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>\""
@@ -678,22 +678,22 @@
     "ドルセリンチャージ！": "Dolsoline Charge!"
   },
   "34903": {
-    "預かり所で 倉庫の名前を <%sL_STORAGE>から <%sL_STORAGE2>に 変えた！": ""
+    "預かり所で 倉庫の名前を <%sL_STORAGE>から <%sL_STORAGE2>に 変えた！": "Changed storage name from <%sL_STORAGE> to <%sL_STORAGE2>!"
   },
   "35147": {
     "<%sL_ACCE_ITEM><%sL_PLUSNUM>の <%sL_KOUKA>を 消した。": "<%sL_ACCE_ITEM><%sL_PLUSNUM>'s <%sL_KOUKA> was removed."
   },
   "35721": {
-    "カジノコイン <%dL_casinocoin>枚と <%sM_item>を 交換した！": ""
+    "カジノコイン <%dL_casinocoin>枚と <%sM_item>を 交換した！": "Exchanged <%dL_casinocoin> Casino Tokens for <%sM_item>!"
   },
   "35722": {
     "カジノコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！": "Bought <%dL_casinocoin> Casino Tokens for <%dL_BUY_PRICE> G!"
   },
   "35723": {
-    "コインチケットと カジノコイン <%dL_casinocoin>枚を 交換した！": ""
+    "コインチケットと カジノコイン <%dL_casinocoin>枚を 交換した！": "Exchanged Casino Ticket for <%dL_casinocoin> Casino Tokens!"
   },
   "35810": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_MEISEI> Pの名声値を かくとく！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_MEISEI> Pの名声値を かくとく！": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_MEISEI> Fame Points!"
   },
   "35811": {
     "<%sL_HOUSYUU>を 手に入れた！": "Received <%sL_HOUSYUU>!"
@@ -732,7 +732,7 @@
     "きせかえドールから <%sM_item><%sM_plusnum> を はずした！": "Removed <%sM_item><%sM_plusnum> from dress-up doll!"
   },
   "36149": {
-    "預かり所から <%dM_gold> Gを 引き出した。": "Withdrew <%dM_gold> G from the bank."
+    "預かり所から <%dM_gold> Gを 引き出した。": "Withdrew <%dM_gold> G from storage."
   },
   "36393": {
     "収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "Took out <%sL_ITEM_NAME><%sL_PLUSNUM> from storage."
@@ -759,13 +759,13 @@
     "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "Took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from house storage."
   },
   "36423": {
-    "美容院で かおを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で かおを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your face from <%sM_old> to\n<%sM_new> for <%dM_gold> G at the Salon!"
   },
   "36797": {
-    "貯金箱から <%dM_gold> Gを 引き出した。": "Removed <%dM_gold> gold from piggy bank."
+    "貯金箱から <%dM_gold> Gを 引き出した。": "Withdrew <%dM_gold> G from piggy bank."
   },
   "36798": {
-    "貯金箱に <%dM_gold> Gを 預けた。": "Deposited <%dM_gold> gold in piggy bank."
+    "貯金箱に <%dM_gold> Gを 預けた。": "Deposited <%dM_gold> G in piggy bank."
   },
   "37570": {
     "カジノコインを 手に入れた！": "You found a Casino Token!"
@@ -792,22 +792,22 @@
     "<%sM_monster>を 仲間に加えた！": "<%sM_monster> joined your party!"
   },
   "37838": {
-    "<%sM_otomo>を モンスター酒場に 預けた！": "<%sM_otomo> was deposited in the Monster Tavern!"
+    "<%sM_otomo>を モンスター酒場に 預けた！": "Deposited <%sM_otomo> in the Monster Tavern!"
   },
   "37839": {
     "<%sM_monster>が 仲間になった！": "<%sM_monster> joined the party!"
   },
   "37840": {
-    "<%sM_monster>の名前を <%sM_monster_name>に 変更した！": ""
+    "<%sM_monster>の名前を <%sM_monster_name>に 変更した！": "Changed <%sM_monster>'s name to <%sM_monster_name>!"
   },
   "37841": {
     "<%sM_monster>を レベル転生した！": "<%sM_monster> was reincarnated!"
   },
   "37842": {
-    "<%sM_item>を <%nM_item_num>個消費し <%sM_otomo>のスキルを リセットした！": ""
+    "<%sM_item>を <%nM_item_num>個消費し <%sM_otomo>のスキルを リセットした！": "Consumed <%dM_item_num> <%sM_item> and reset <%sM_otomo>'s skills!"
   },
   "37843": {
-    "<%sM_monster>と 別れた。": ""
+    "<%sM_monster>と 別れた。": "Said goodbye to <%sM_monster>."
   },
   "37853": {
     "<%sM_omekashi>を 作成した！": "Created <%sM_omekashi>!"
@@ -879,19 +879,19 @@
     "宝箱を 釣り上げた！": "Caught a treasure chest!"
   },
   "38824": {
-    "<%sM_item>を <%nM_item_num>個消費し <%sM_otomo>のスキルを 選びなおした！": ""
+    "<%sM_item>を <%nM_item_num>個消費し <%sM_otomo>のスキルを 選びなおした！": "Consumed <%dM_item_num> <%sM_item> and reselected <%sM_otomo>'s skills!"
   },
   "38825": {
-    "自宅を チーム集会所に設定した。": ""
+    "自宅を チーム集会所に設定した。": "Your house was set as the Team Home."
   },
   "38826": {
-    "自宅を チーム集会所から解除した。": ""
+    "自宅を チーム集会所から解除した。": "Your house is no longer the Team Home."
   },
   "38889": {
-    "<%.1fM_CM>ｃｍの <%sL_SUISOU_FISH>を <%sL_FURNITURE>から 取り出した。": ""
+    "<%.1fM_CM>ｃｍの <%sL_SUISOU_FISH>を <%sL_FURNITURE>から 取り出した。": "The <%.1fM_CM> cm <%sL_SUISOU_FISH>\nwas taken out of the <%sL_FURNITURE>."
   },
   "38890": {
-    "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>を <%sL_FURNITURE>に 入れた。": ""
+    "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>を <%sL_FURNITURE>に 入れた。": "The <%.1fM_CM> cm <%sL_BAG_FISH>\nwas placed into the <%sL_FURNITURE>."
   },
   "38916": {
     "使っていた<%sL_TOOL>は 限界がきて こわれてしまった……。": "The <%sL_TOOL> has worn down and broke..."
@@ -906,7 +906,7 @@
     "<%.1fM_CM>ｃｍの <%sM_item>と\nおさかなコイン <%dL_COIN>枚を 交換した！": "Exchanged <%.1fM_CM> cm <%sM_item> for <%dL_COIN> Fish Coins!"
   },
   "39189": {
-    "ちいさなメダル <%dL_medal>枚と <%sM_item> <%dL_NUM>個を 交換した！": "You traded <%dL_medal> Mini Medals for <%dL_NUM> <%sM_item>!"
+    "ちいさなメダル <%dL_medal>枚と <%sM_item> <%dL_NUM>個を 交換した！": "Exchanged <%dL_medal> Mini Medals for <%dL_NUM> <%sM_item>!"
   },
   "39190": {
     "おさかなコイン <%dM_POINT>枚と\n<%sM_item> <%dM_GET_NUM>個を 交換した！": "Exchanged <%dM_POINT> Fish Coins for <%dM_GET_NUM> <%sM_item>!"
@@ -927,25 +927,25 @@
     "<%sL_ITEM><%sL_PLUSNUM>を <%sL_KISEKI><%nL_GET_NUM>個に 変えた。": "Offered <%sL_ITEM><%sL_PLUSNUM> for <%dL_GET_NUM> <%sL_KISEKI>."
   },
   "39585": {
-    "<%sL_PRISM>の <%sL_SLOT>を\n<%sL_C_COLOR>に カラーリングした！": ""
+    "<%sL_PRISM>の <%sL_SLOT>を\n<%sL_C_COLOR>に カラーリングした！": "<%sL_PRISM>'s <%sL_SLOT> was\ncolored <%sL_C_COLOR>!"
   },
   "39586": {
-    "<%sL_PRISM>の <%sL_SLOT>を 元の色に戻した！": ""
+    "<%sL_PRISM>の <%sL_SLOT>を 元の色に戻した！": "Returned <%sL_PRISM>'s <%sL_SLOT> to original color!"
   },
   "39587": {
-    "ドルボードのフォルムを <%sL_PRISM>に 変更した！": ""
+    "ドルボードのフォルムを <%sL_PRISM>に 変更した！": "Changed Dolboard's form to <%sL_PRISM>!"
   },
   "39588": {
-    "ドルボードのフォルムを 元に戻した！": ""
+    "ドルボードのフォルムを 元に戻した！": "Returned Dolboard to its original form!"
   },
   "39589": {
-    "ドルボードに <%sL_PRISM>を 取り付けた！": ""
+    "ドルボードに <%sL_PRISM>を 取り付けた！": "Attached <%sL_PRISM> to the Dolboard!"
   },
   "39601": {
-    "<%sM_monster2>を モンスター牧場に 送った！": "<%sM_monster2> was sent to the Monster Farm!"
+    "<%sM_monster2>を モンスター牧場に 送った！": "Sent <%sM_monster2> to the Monster Farm!"
   },
   "39602": {
-    "<%sM_monster2>を モンスター牧場から 呼び戻した！": ""
+    "<%sM_monster2>を モンスター牧場から 呼び戻した！": "Called back <%sM_monster2> from the Monster Farm!"
   },
   "39603": {
     "<%sM_monster>は レベル<%dL_LEVEL_OLD>から <%dL_LEVEL_NOW>に あがった！": "<%sM_monster>'s level increased from <%dL_LEVEL_OLD> to <%dL_LEVEL_NOW>!"
@@ -954,16 +954,16 @@
     "<%dL_SKILL_POINT> Pのスキルポイントを かくとく！": "Received <%dL_SKILL_POINT> skill points!"
   },
   "39703": {
-    "お知らせ広場に　掲載している絵葉書を削除した！": ""
+    "お知らせ広場に　掲載している絵葉書を削除した！": "Deleted published postcard in Notification Square!"
   },
   "39704": {
-    "お知らせ広場に　応募した絵葉書をキャンセルした！": ""
+    "お知らせ広場に　応募した絵葉書をキャンセルした！": "Canceled submitted postcard in Notification Square!"
   },
   "39705": {
-    "お知らせ広場に　<%dL_GOLD_OUBO> Gで　絵葉書を応募した！": ""
+    "お知らせ広場に　<%dL_GOLD_OUBO> Gで　絵葉書を応募した！": "Submitted a postcard using <%dL_GOLD_OUBO> G in Notification Square!"
   },
   "39706": {
-    "お知らせ広場に　お知らせ優待券を使って　絵葉書を応募した！": ""
+    "お知らせ広場に　お知らせ優待券を使って　絵葉書を応募した！": "Submitted a postcard using a Notification Coupon in Notification Square!"
   },
   "39845": {
     "特訓モードになった！": "Training mode enabled!"
@@ -978,25 +978,25 @@
     "<%sM_monster>の なつき度が あがって <%dL_NATUKI>になった！": "<%sM_monster>'s happiness level is now <%dL_NATUKI>!"
   },
   "40024": {
-    "美容院で りんかくを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で りんかくを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your contour from <%sM_old> to\n<%sM_new> for <%dM_gold> G at the Salon!"
   },
   "40027": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_POINT> Pの釣りポイントを かくとく！\n自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P": "\\s<%sC_PC>\\m<%sC_ID>\\e received <%dL_POINT> Fishing Points!\nMy Points: <%dL_MYPOINT> 　Total: <%dL_ALLPOINT>"
   },
   "40091": {
-    "プライベートコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": "Received <%dM_gold> Support Gold from your Private Concierge!"
+    "プライベートコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": "Received <%dM_gold> Support Gold from your\nPrivate Concierge!"
   },
   "40092": {
-    "プライベートコンシェルジュで <%sL_ITEM>を <%dM_number>個 交換した！": ""
+    "プライベートコンシェルジュで <%sL_ITEM>を <%dM_number>個 交換した！": "Exchanged <%dM_number> <%sL_ITEM> with your\nPrivate Concierge!"
   },
   "40093": {
-    "プライベートコンシェルジュで <%sL_ITEM>を <%dL_ITEMNUM>枚 手に入れた！": "Received <%dL_ITEMNUM> <%sL_ITEM> from\nyour Private Concierge!"
+    "プライベートコンシェルジュで <%sL_ITEM>を <%dL_ITEMNUM>枚 手に入れた！": "Received <%dL_ITEMNUM> <%sL_ITEM> from your\nPrivate Concierge!"
   },
   "40151": {
-    "<%sL_HIRYU>の <%sL_SLOT>を\n<%sL_C_COLOR>に カラーリングした！": ""
+    "<%sL_HIRYU>の <%sL_SLOT>を\n<%sL_C_COLOR>に カラーリングした！": "<%sL_HIRYU>'s <%sL_SLOT> was\ncolored <%sL_C_COLOR>!"
   },
   "40152": {
-    "<%sL_HIRYU>の <%sL_SLOT>を 元の色に戻した！": ""
+    "<%sL_HIRYU>の <%sL_SLOT>を 元の色に戻した！": "Returned <%sL_HIRYU>'s <%sL_SLOT> to\nits original color!"
   },
   "40153": {
     "<%sL_OMEKASHI>を 作成した！": "Created <%sL_OMEKASHI>!"
@@ -1005,22 +1005,22 @@
     "<%sL_TICKET>を使い <%sL_OMEKASHI>を 作成した！": "Used <%sL_TICKET> and created <%sL_OMEKASHI>!"
   },
   "40155": {
-    "<%sL_HIRYU>の名前を <%sL_HIRYU_NAME>に 変更した。": ""
+    "<%sL_HIRYU>の名前を <%sL_HIRYU_NAME>に 変更した。": "Changed <%sL_HIRYU>'s name to <%sL_HIRYU_NAME>."
   },
   "40282": {
-    "思い出アルバムへの保存に 失敗しました。": ""
+    "思い出アルバムへの保存に 失敗しました。": "Failed to save to Photo Album."
   },
   "40283": {
     "思い出アルバムに 写真を保存しました。": "The photo has been saved in your memory album."
   },
   "40674": {
-    "<%sM_item_ticket>を使って　<%sM_item_doll>にした！": ""
+    "<%sM_item_ticket>を使って　<%sM_item_doll>にした！": "Made <%sM_item_doll> using <%sM_item_ticket>."
   },
   "40675": {
-    "まとめ屋から <%sM_item><%sM_plusnum>を もらった！": ""
+    "まとめ屋から <%sM_item><%sM_plusnum>を もらった！": "Received <%sM_item><%sM_plusnum> from the Summary Shop!"
   },
   "40676": {
-    "まとめ屋から <%sM_item>を <%dM_item_num>個 もらった！": ""
+    "まとめ屋から <%sM_item>を <%dM_item_num>個 もらった！": "Received <%dM_item_num> <%sM_item> from the Summary Shop!"
   },
   "40733": {
     "アイテム交換屋で <%sM_item><%sM_plusnum>を <%dM_item_num>個 交換した！": "Exchanged for <%dM_item_num> <%sM_item><%sM_plusnum>\nat the Item Exchange Shop!"
@@ -1029,7 +1029,7 @@
     "アイテム交換屋で <%sM_item><%sM_plusnum>を 交換した！": "Exchanged for <%sM_item><%sM_plusnum>\nat the Item Exchange Shop!"
   },
   "40739": {
-    "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成した！": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1> and <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2> were fused!"
+    "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成した！": "Synthesized <%sL_ACCE_ITEM><%sL_PLUSNUM_1> and <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>!"
   },
   "40871": {
     "自宅の家具・庭具を ロックした。": "Furniture and garden decor locked."
@@ -1077,10 +1077,10 @@
     "バトルロードコイン <%dM_Num>枚と <%sM_item>を <%dL_KAUKAZU>こ 交換した！": "Exchanged <%dM_Num> Battle Road Coins for <%dL_KAUKAZU> <%sM_item>!"
   },
   "41381": {
-    "<%sM_Badge>を <%dM_BadgeNum>こ 交換した！": ""
+    "<%sM_Badge>を <%dM_BadgeNum>こ 交換した！": "Exchanged <%dM_BadgeNum> <%sM_Badge>!"
   },
   "41382": {
-    "バトルロードに登録している　そうびひんの　<%sM_item>を　更新した": ""
+    "バトルロードに登録している　そうびひんの　<%sM_item>を　更新した": "Updated <%sM_item> in registered equipment."
   },
   "41383": {
     "バトルロードポイントを <%dM_num>P かくとく！": "Received <%dM_num> Battle Road Points!"
@@ -1089,7 +1089,7 @@
     "<%sM_Badge2>を <%dM_BadgeNum>こ わたした！": "Handed over <%dM_BadgeNum> <%sM_Badge2>!"
   },
   "41430": {
-    "<pc>の 週替わり討伐クエストの選択肢が <%dL_TOUBATU>つになった！": ""
+    "<pc>の 週替わり討伐クエストの選択肢が <%dL_TOUBATU>つになった！": "<pc>'s Weekly Subjugation Quest options became <%dL_TOUBATU>!"
   },
   "41546": {
     "<%sL_KYOUKA_ITEM>をつかった！\n<%sL_ITEM><%sL_PLUSNUM>は　<%sL_ITEM><%sL_RESLT_PLUSNUM>になった！": "Used <%sL_KYOUKA_ITEM>!\n<%sL_ITEM><%sL_PLUSNUM> is now <%sL_ITEM><%sL_RESLT_PLUSNUM>!"
@@ -1146,7 +1146,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 遊びにきました。": "\\s<%sC_PC>\\m<%sC_ID>\\e came to visit."
   },
   "41938": {
-    "<%-9sM_point><%-18sM_item>[<%-20sM_flower1>][<%-20sM_flower2>]": ""
+    "<%-9sM_point><%-18sM_item>[<%-20sM_flower1>][<%-20sM_flower2>]": "<%-9sM_point><%-18sM_item>[<%-20sM_flower1>][<%-20sM_flower2>]"
   },
   "41939": {
     "からだ上": "Chest"
@@ -1218,16 +1218,16 @@
     "<%sM_item>を 錬金釜に入れた！": "Put <%sM_item> into the Alchemy Pot!"
   },
   "42395": {
-    "錬金釜で 錬金を中断した": ""
+    "錬金釜で 錬金を中断した": "Interrupted Alchemy with the Alchemy Pot"
   },
   "42396": {
-    "錬金釜で 錬金を開始した": ""
+    "錬金釜で 錬金を開始した": "Started Alchemy with the Alchemy Pot"
   },
   "42398": {
     "<%sM_item>を 錬金釜で作成した！": "Alchemized <%sM_item>!"
   },
   "42399": {
-    "錬金釜で 錬金が完了した": ""
+    "錬金釜で 錬金が完了した": "Completed Alchemy with the Alchemy Pot"
   },
   "42545": {
     "<%sM_ITEM>を 鑑定した。": "<%sM_ITEM> was appraised."
@@ -1239,40 +1239,40 @@
     "家具＆庭具おきばに <%sL_ITEM>を 入れた。": "Put <%sL_ITEM> into furniture storage."
   },
   "42548": {
-    "家具＆庭具おきばから<%sL_ITEM>を<%dL_QUANTITY>個取り出した。": ""
+    "家具＆庭具おきばから<%sL_ITEM>を<%dL_QUANTITY>個取り出した。": "Took out <%dL_QUANTITY> <%sL_ITEM> from furniture storage."
   },
   "42549": {
-    "家具＆庭具おきばから <%sL_ITEM>を 取り出した。": "Retrieved <%sL_ITEM> from furniture storage."
+    "家具＆庭具おきばから <%sL_ITEM>を 取り出した。": "Took out <%sL_ITEM> from furniture storage."
   },
   "42602": {
     "<%sM_SKILL>を <%dM_NUM> 個 達人にわたし 宝珠ポイントを かくとく！": "Gave <%dM_NUM> <%sM_SKILL> to the Master\nfor Jewel Points!"
   },
   "42757": {
-    "<%sL_OWNER>の畑に 水を　あげた！": "Watered <%sL_OWNER>'s garden!"
+    "<%sL_OWNER>の畑に 水を　あげた！": "Watered <%sL_OWNER>'s field!"
   },
   "42758": {
-    "鑑定した石版を セットした。": ""
+    "鑑定した石版を セットした。": "Set appraised tablet."
   },
   "42759": {
     "<pc>は 石版を鑑定して <%dM_NUM> P 手に入れた！": "pls no"
   },
   "42760": {
-    "預けていた石版を すてた。": ""
+    "預けていた石版を すてた。": "Discarded deposited tablet."
   },
   "42761": {
-    "鑑定した石版を 預けた。": ""
+    "鑑定した石版を 預けた。": "Deposited appraised tablet."
   },
   "42762": {
-    "鑑定した　<%sM_SKILL>を 達人に預けた。": ""
+    "鑑定した　<%sM_SKILL>を 達人に預けた。": "Deposited appraised <%sM_SKILL> to the Master."
   },
   "42763": {
-    "預けていた石版を セットした。": ""
+    "預けていた石版を セットした。": "Set deposited tablet."
   },
   "42803": {
-    "<%sL_KOUKA>が <%sL_KOUKA_2>に なった！": ""
+    "<%sL_KOUKA>が <%sL_KOUKA_2>に なった！": "<%sL_KOUKA> became <%sL_KOUKA_2>!"
   },
   "42805": {
-    "<%sL_OWNER>の畑の　作物をぬいて　やりなおした！": ""
+    "<%sL_OWNER>の畑の　作物をぬいて　やりなおした！": "Picked <%sL_OWNER>'s crops and started over!"
   },
   "42820": {
     "<%sL_TOWN>のくじ屋で\nくじを　1枚 <%dL_DEF_GOLD> Gで買った！": "Bought one lottery at the <%sL_TOWN> Lottery\nfor <%dL_DEF_GOLD> G!"
@@ -1293,7 +1293,7 @@
     "<%sM_item>を <%dM_item_num>個 錬金釜から取り出した！": "<%dM_item_num> <%sM_item> came out of the Alchemy Pot!"
   },
   "42852": {
-    "強化屋で <%sM_item><%sM_plusnum>を\n<%sM_item2><%sM_plusnum2>に 強化した！": ""
+    "強化屋で <%sM_item><%sM_plusnum>を\n<%sM_item2><%sM_plusnum2>に 強化した！": "Enhanced <%sM_item><%sM_plusnum>\nto <%sM_item2><%sM_plusnum2>!"
   },
   "42853": {
     "不思議の魔塔の討伐報酬で\n<%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item> as a reward\nfrom the Mysterious Tower!"
@@ -1302,46 +1302,46 @@
     "不思議の魔塔の討伐報酬で\n<%sM_item>を 手に入れた！": "Received <%sM_item> as a reward\nfrom the Mysterious Tower!"
   },
   "42855": {
-    "錬金屋で <%sM_item><%sM_plusnum>の\n錬金効果を 付け直した！": ""
+    "錬金屋で <%sM_item><%sM_plusnum>の\n錬金効果を 付け直した！": "Reapplied the alchemy effect to the\n<%sM_item><%sM_plusnum>!"
   },
   "42856": {
-    "変換屋で <%sM_item><%sM_plusnum>を\n<%sM_item2><%sM_plusnum2>に 変換した！": "You converted <%sM_item><%sM_plusnum> to\n<%sM_item2><%sM_plusnum2> in the converter!"
+    "変換屋で <%sM_item><%sM_plusnum>を\n<%sM_item2><%sM_plusnum2>に 変換した！": "Converted <%sM_item><%sM_plusnum> to\n<%sM_item2><%sM_plusnum2>!"
   },
   "42873": {
-    "錬金屋で <%sM_item><%sM_plusnum>に\n<%sL_KOUKA>を 付けた！": ""
+    "錬金屋で <%sM_item><%sM_plusnum>に\n<%sL_KOUKA>を 付けた！": "Added <%sL_KOUKA> effect to\n<%sM_item><%sM_plusnum>!"
   },
   "43066": {
-    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_GROW_KOUKA>を\n<%sL_GROW_KOUKA2>に 成長させた！": ""
+    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_GROW_KOUKA>を\n<%sL_GROW_KOUKA2>に 成長させた！": "Boosted the <%sL_GROW_KOUKA> on <%sL_WATASITA_ITEM><%sM_plusnum>\nto <%sL_GROW_KOUKA2>!"
   },
   "43067": {
-    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_ERASE_KOUKA>を 消した！": "<%sL_GROW_KOUKA> effect on <%sL_WATASITA_ITEM><%sM_plusnum> was removed!"
+    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_ERASE_KOUKA>を 消した！": "Removed <%sL_ERASE_KOUKA> effect from <%sL_WATASITA_ITEM><%sM_plusnum>!"
   },
   "43068": {
-    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>に <%sL_ADD_KOUKA>を 付けた！": "<%sL_GROW_KOUKA> effect on <%sL_WATASITA_ITEM><%sM_plusnum> was added!"
+    "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>に <%sL_ADD_KOUKA>を 付けた！": "Added <%sL_ADD_KOUKA> effect to <%sL_WATASITA_ITEM><%sM_plusnum>!"
   },
   "43075": {
-    "錬金釜のフォルムを 元に戻した！": ""
+    "錬金釜のフォルムを 元に戻した！": "Returned Alchemy Pot to its original form!"
   },
   "43076": {
-    "錬金釜のフォルムを <%sL_PRISM>に 変更した！": ""
+    "錬金釜のフォルムを <%sL_PRISM>に 変更した！": "Changed Alchemy Pot's form to <%sL_PRISM>!"
   },
   "43077": {
-    "錬金釜に <%sL_PRISM>を 取り付けた！": ""
+    "錬金釜に <%sL_PRISM>を 取り付けた！": "Attached <%sL_PRISM> to the Alchemy Pot!"
   },
   "43078": {
-    "<%sL_PRISM>の <%sL_SLOT>を\n<%sL_C_COLOR>に カラーリングした！\n<%dL_GOLD> G支払った。": "<%sL_PRISM> <%sL_SLOT> colored <%sL_C_COLOR>!\n<%dL_GOLD> G was paid."
+    "<%sL_PRISM>の <%sL_SLOT>を\n<%sL_C_COLOR>に カラーリングした！\n<%dL_GOLD> G支払った。": "<%sL_PRISM>'s <%sL_SLOT> was\ncolored <%sL_C_COLOR>!\n<%dL_GOLD> G was paid."
   },
   "43083": {
-    "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_SEAL_KOUKA>を 封印した！": ""
+    "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_SEAL_KOUKA>を 封印した！": "Sealed <%sL_SEAL_KOUKA> using <%nL_POINT_NUM> <%sL_KISEKI>!"
   },
   "43084": {
-    "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_BELT_NAME>の効果の 封印状態を リセットした！\nこれまで封印に使った <%sL_KISEKI> <%nL_GET_NUM>個が 戻ってきた！": ""
+    "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_BELT_NAME>の効果の 封印状態を リセットした！\nこれまで封印に使った <%sL_KISEKI> <%nL_GET_NUM>個が 戻ってきた！": "Reset the sealed effects of <%sL_BELT_NAME> using <%dL_POINT_NUM> <%sL_KISEKI>!\nThe <%dL_GET_NUM> <%sL_KISEKI> used for sealing have been returned!"
   },
   "43130": {
     "札強化屋から <%sL_GET_ITEM>を もらった！": "Received <%sL_GET_ITEM> from the Card Enhancer!"
   },
   "43136": {
-    "<pc>はエステラに <%sL_ITEM>を プレゼントした！": ""
+    "<pc>はエステラに <%sL_ITEM>を プレゼントした！": "<pc> gave Estella <%sL_ITEM> as a present!"
   },
   "43137": {
     "<pc>はエステラに <%sL_ITEM>を プレゼントし\n<%sL_RETURN_ITEM>を　受け取った。": "<pc> gave Estella <%sL_ITEM> as a present in\nexhange for the <%sL_RETURN_ITEM>."
@@ -1350,34 +1350,34 @@
     "手数料として <%dM_gold> Gを 支払った。": "Paid <%dM_gold> G as a fee."
   },
   "43224": {
-    "すべての職業が　特訓モードになった！": ""
+    "すべての職業が　特訓モードになった！": "Training mode enabled for all vocations!"
   },
   "43225": {
-    "すべての職業の　特訓モードが解除された！": ""
+    "すべての職業の　特訓モードが解除された！": "Training mode disabled for all vocations!"
   },
   "43303": {
-    "美容院で <%sM_name>のめの色を\n<%sM_old>から <%sM_new>に 変えた！": ""
+    "美容院で <%sM_name>のめの色を\n<%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s eye color from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "43304": {
-    "美容院で <%sM_name>のかおを <%sM_old>から <%sM_new>に 変えた！": ""
+    "美容院で <%sM_name>のかおを <%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s face from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "43306": {
-    "美容院で <%sM_name>の かみの色１を\n<%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>の かみの色１を\n<%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s hair color 1 from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "43307": {
-    "美容院で <%sM_name>のかみがたを\n<%sM_old>から <%sM_new>に 変えた！": ""
+    "美容院で <%sM_name>のかみがたを\n<%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s hairstyle from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "43308": {
-    "美容院で <%sM_name>のりんかくを <%sM_old>から <%sM_new>に 変えた！": ""
+    "美容院で <%sM_name>のりんかくを <%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s contour from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "43309": {
-    "美容院で <%sM_name>のはだの色を <%sM_old>から <%sM_new>に 変えた！": "They changed <%sM_name>'s skin color from <%sM_old> to <%sM_new>!"
+    "美容院で <%sM_name>のはだの色を <%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s skin color from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "43310": {
     "<%sL_OWNER>は <%sL_NAME>を なでた！": "<%sL_OWNER> stroked <%sL_NAME>!"
   },
   "43335": {
-    "錬金屋で <%sM_item><%sM_plusnum>の\n<%sL_KOUKA>を 消した！": ""
+    "錬金屋で <%sM_item><%sM_plusnum>の\n<%sL_KOUKA>を 消した！": "Removed <%sL_KOUKA> effect from <%sM_item><%sM_plusnum>!"
   },
   "43378": {
     "達人クエストを　受けました。": "Master Quest was accepted."
@@ -1386,40 +1386,40 @@
     "宝珠ポイントを <%dM_NUM> P かくとく！": "Received <%dM_NUM> Jewel Points!"
   },
   "43393": {
-    "<%sM_ELEMENT>の石版に 穴をあけた！": ""
+    "<%sM_ELEMENT>の石版に 穴をあけた！": "Made a hole in <%sM_ELEMENT> tablet!"
   },
   "43394": {
-    "<%sM_ELEMENT>の石版を 達人にわたした。": ""
+    "<%sM_ELEMENT>の石版を 達人にわたした。": "Gave <%sM_ELEMENT> tablet to the Master."
   },
   "43497": {
     "<%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item>!"
   },
   "43517": {
-    "<%sM_ELEMENT>の石版を セットし 元々セットされていた石版を失った。": ""
+    "<%sM_ELEMENT>の石版を セットし 元々セットされていた石版を失った。": "Set the <%sM_ELEMENT> tablet and lost the tablet that was originally set."
   },
   "43609": {
     "立ちかたを　変更した！": "Changed your pose!"
   },
   "43610": {
-    "かたがきを　変更した！": ""
+    "かたがきを　変更した！": "Changed your title!"
   },
   "43627": {
-    "<pc>は　お宝の写真を　交換した！": ""
+    "<pc>は　お宝の写真を　交換した！": "<pc> exchanged treasure photo."
   },
   "43628": {
-    "<pc>は　お宝を発見した！": ""
+    "<pc>は　お宝を発見した！": "<pc> found treasure!"
   },
   "43629": {
     "<pc>は　新しいお宝の写真を　手に入れた！": "<pc> received a new Treasure Photo!"
   },
   "44057": {
-    "いまの見た目を　コーデ名「<%sM_myset2>」で\nマイセットに　登録した！": ""
+    "いまの見た目を　コーデ名「<%sM_myset2>」で\nマイセットに　登録した！": "Registered current look with glamour name \"<%sM_myset2>\"!"
   },
   "44058": {
-    "マイコーデ「<%sM_myset>」のコーデ名を\n「<%sM_myset2>」に　変更した！": "Changed glamour set \"<%sM_myset>\"\nto use the name \"<%sM_myset2>\"!"
+    "マイコーデ「<%sM_myset>」のコーデ名を\n「<%sM_myset2>」に　変更した！": "Changed glamour name of \"<%sM_myset>\"\nto \"<%sM_myset2>\"!"
   },
   "44163": {
-    "一部の売上金を 正常に受け取れませんでした": ""
+    "一部の売上金を 正常に受け取れませんでした": "Some sales proceeds were not received properly."
   },
   "44510": {
     "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> フェルドで買った！": "Bought a <%sL_KAITAI_ITEM><%sL_PLUSNUM> from the shop for <%dL_BUY_PRICE> Feld!"
@@ -1428,10 +1428,10 @@
     "宝珠ポイントを <%dM_NUM> P つかって <%sM_ELEMENT>の飾り石を 手に入れた！": "nope nope nope"
   },
   "44546": {
-    "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_URUKAZU>個 <%dL_SELL_PRICE> フェルドで売った！": ""
+    "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_URUKAZU>個 <%dL_SELL_PRICE> フェルドで売った！": "Sold <%dL_URUKAZU> <%sL_URITAI_ITEM><%sL_PLUSNUM> for <%dL_SELL_PRICE> Feld at the shop!"
   },
   "44547": {
-    "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_SELL_PRICE> フェルドで売った！": ""
+    "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_SELL_PRICE> フェルドで売った！": "Sold <%sL_URITAI_ITEM><%sL_PLUSNUM> for <%dL_SELL_PRICE> Feld at the shop!"
   },
   "44548": {
     "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_KAUKAZU>個 <%dL_BUY_PRICE> フェルドで買った！": "Bought <%dL_KAUKAZU> <%sL_KAITAI_ITEM><%sL_PLUSNUM> from the shop\nfor <%dL_BUY_PRICE> Feld!"
@@ -1449,49 +1449,49 @@
     "<%sM_TRASH_SKILL>の書を 投げ捨てた！": "Threw away <%sM_TRASH_SKILL> Book!"
   },
   "44887": {
-    "<pc>は <%sB_ITEM>を <%nB_OPEN_NUM>個 開けた！": ""
+    "<pc>は <%sB_ITEM>を <%nB_OPEN_NUM>個 開けた！": "<pc> opened <%nB_OPEN_NUM> <%sB_ITEM>!"
   },
   "44888": {
-    "<pc>は <%sB_ITEM>を 開けようとした！\n<br>\nこれ以上　モンスタータロットを持ちきれないので 開けることができなかった！": ""
+    "<pc>は <%sB_ITEM>を 開けようとした！\n<br>\nこれ以上　モンスタータロットを持ちきれないので 開けることができなかった！": "<pc> tries to open\n<%sB_ITEM>!\n<br>\nYou couldn't open it because you can't hold\nany more Monster Tarot cards!"
   },
   "44889": {
-    "<pc>は <%sB_ITEM>を開けた！": ""
+    "<pc>は <%sB_ITEM>を開けた！": "<pc> opened <%sB_ITEM>!"
   },
   "44890": {
     "ランク<%sB_TAROT_RARE>の タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 手に入れた！": "Received a Rank <%sB_TAROT_RARE> \"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" Tarot!"
   },
   "44903": {
-    "美容院で おおきさを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で おおきさを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your size from <%sM_old> to\n<%sM_new> for <%dM_gold> G at the Salon!"
   },
   "44932": {
-    "絆が深まり <%sM_SNPC>は <%sM_SKILL>が　増えた！": ""
+    "絆が深まり <%sM_SNPC>は <%sM_SKILL>が　増えた！": "Bond deepened and <%sM_SNPC>'s <%sM_SKILL> increased!"
   },
   "45041": {
     "<%sM_item><%sM_plusnum>に\n<%sL_KOUKA>が 付いた！": "<%sM_item><%sM_plusnum> gained the\n<%sL_KOUKA> effect!"
   },
   "45066": {
-    "美容院で <%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！": ""
+    "美容院で <%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s size from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "45121": {
     "<%.1fM_CM>ｃｍの <%sL_SUISOU_FISH>（<%sM_SIZE>）を\n<%sL_FURNITURE>から 取り出した。": "The <%.1fM_CM> cm <%sL_SUISOU_FISH> (<%sM_SIZE>)\nwas taken out of the <%sL_FURNITURE>."
   },
   "45122": {
-    "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>（<%sM_SIZE>）を\n<%sL_FURNITURE>に 入れた。": "The <%.1fM_CM> cm <%sL_BAG_FISH> (<%sM_SIZE>)\nwas put in the <%sL_FURNITURE>."
+    "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>（<%sM_SIZE>）を\n<%sL_FURNITURE>に 入れた。": "The <%.1fM_CM> cm <%sL_BAG_FISH> (<%sM_SIZE>)\nwas placed into the <%sL_FURNITURE>."
   },
   "45194": {
-    "<%sL_MAT_ITEM>　<%dL_NUM>個で　<%sL_ITEM><%sL_PLUSNUM>の\n<%sL_RENKIN_BEFORE>の効果を\n<%sL_RENKIN_AFTER>に強化した！": ""
+    "<%sL_MAT_ITEM>　<%dL_NUM>個で　<%sL_ITEM><%sL_PLUSNUM>の\n<%sL_RENKIN_BEFORE>の効果を\n<%sL_RENKIN_AFTER>に強化した！": "Enhanced the <%sL_ITEM><%sL_PLUSNUM>'s <%sL_RENKIN_BEFORE> effect\nto <%sL_RENKIN_AFTER> using <%dL_NUM> <%sL_MAT_ITEM>!"
   },
   "45425": {
-    "<%sL_REGION>住宅村　<%nL_AREA>丁目\n<%sL_DIVISION>　<%nL_BANTI>番地へ\nバトンを届けよう！": ""
+    "<%sL_REGION>住宅村　<%nL_AREA>丁目\n<%sL_DIVISION>　<%nL_BANTI>番地へ\nバトンを届けよう！": "Pass the baton to <%sL_REGION> Housing, Block <%dL_AREA>,\n<%sL_DIVISION>, Plot <%dL_BANTI>."
   },
   "45531": {
-    "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>を 合成した！": ""
+    "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>を 合成した！": "Synthesized <%sL_ACCE_ITEM><%sL_PLUSNUM_1>!"
   },
   "45691": {
-    "チャンピオンシップ 出走表": ""
+    "チャンピオンシップ 出走表": "Championship Entry List"
   },
   "45692": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\e <%sM_slime_race>種の <%sM_slime_name>": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\e <%sM_slime_race>種の <%sM_slime_name>": "\\s<%sC_PC>\\m<%sC_ID>\\e <%sM_slime_name> of <%sM_slime_race> species."
   },
   "45693": {
     "<%sM_slime_name>は スライムレース勝利ポイントを <%sM_points>P かくとく！\n<%dM_points2>Pから <%dM_points3>Pになった。": "<%sM_slime_name> earns <%sM_points> Victory Points!\nPoints went from <%dM_points2> to <%dM_points3>."
@@ -1506,13 +1506,13 @@
     "<pc>は 予選参加権を 消費した。": "<pc> uses a qualifier entry."
   },
   "45697": {
-    "スライムレースの <%sM_slime_name>は\n<%sM_race>種の <%sM_color>色に きたえなおされた！": ""
+    "スライムレースの <%sM_slime_name>は\n<%sM_race>種の <%sM_color>色に きたえなおされた！": "Slime Race's <%sM_slime_name> has been reconditioned\nto the <%sM_race> species' <%sM_color> color!"
   },
   "45698": {
     "<%sM_slime_name>が 仲間になった！": "<%sM_slime_name> joins the party!"
   },
   "45704": {
-    "プロフィール情報の取得に　失敗しました。": ""
+    "プロフィール情報の取得に　失敗しました。": "Failed to retrieve profile information."
   },
   "45786": {
     "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！": "\"<%sB_TAROT_ARCA> <%sB_TAROT_MONS>\" Tarot was used for synthesis!"
@@ -1530,46 +1530,46 @@
     "<%sM_HARON_NUM>：<%sM_TOKUGI_NUM>": "<%sM_HARON_NUM>: <%sM_TOKUGI_NUM>"
   },
   "46110": {
-    "流星メダル <%dL_CPS_M_NUM>枚を使って\n○○○が着られるようになった！": ""
+    "流星メダル <%dL_CPS_M_NUM>枚を使って\n○○○が着られるようになった！": "Used <%dL_CPS_M_NUM> Meteor Medals and can now wear ○○○!"
   },
   "46111": {
-    "流星メダル <%dL_CPS_M_NUM>枚を使って\n○○が着られるようになった！": ""
+    "流星メダル <%dL_CPS_M_NUM>枚を使って\n○○が着られるようになった！": "Used <%dL_CPS_M_NUM> Meteor Medals and can now wear ○○!"
   },
   "46113": {
-    "流星メダル <%dL_CPS_M_NUM>枚で\n『<%sL_CPS_M_WISH>』のルーンを刻んだ！\n→ 武道場の願いのかけらが <%sL_CPS_M_EFC>多く手に入るようになった！": ""
+    "流星メダル <%dL_CPS_M_NUM>枚で\n『<%sL_CPS_M_WISH>』のルーンを刻んだ！\n→ 武道場の願いのかけらが <%sL_CPS_M_EFC>多く手に入るようになった！": "Engraved the \"<%sL_CPS_M_WISH>\" rune\nfor <%dL_CPS_M_NUM> Meteor Medals!\n → Wish Shards from the dojo increased by <%sL_CPS_M_EFC>!"
   },
   "46154": {
-    "<%sM_item><%sM_plusnum>を <%sM_item2><%sM_plusnum2>に 進化させた！": ""
+    "<%sM_item><%sM_plusnum>を <%sM_item2><%sM_plusnum2>に 進化させた！": "Evolved <%sM_item><%sM_plusnum> to\n<%sM_item2><%sM_plusnum2>!"
   },
   "46212": {
-    "<%sM_SNPC>の　髪型が追加された！": ""
+    "<%sM_SNPC>の　髪型が追加された！": "<%sM_SNPC>'s hairstyle added!"
   },
   "46213": {
-    "<%sM_SNPC>の　衣装が増えた！": ""
+    "<%sM_SNPC>の　衣装が増えた！": "<%sM_SNPC>'s outfit added!"
   },
   "46224": {
-    "マイコーデ「<%sM_myset>」と\nマイコーデ「<%sM_myset2>」を　入れ替えた！": ""
+    "マイコーデ「<%sM_myset>」と\nマイコーデ「<%sM_myset2>」を　入れ替えた！": "Replaced glamour \"<%sM_myset>\" and\nglamour \"<%sM_myset2>\"!"
   },
   "46271": {
-    "流星メダル <%dL_CPS_M_NUM>枚で\n『<%sL_CPS_M_WISH>』のルーンを刻んだ！\n → 購買部にある売り物が　<%sL_CPS_M_PSV> <%dM_num>％安く買えるようになった！": ""
+    "流星メダル <%dL_CPS_M_NUM>枚で\n『<%sL_CPS_M_WISH>』のルーンを刻んだ！\n → 購買部にある売り物が　<%sL_CPS_M_PSV> <%dM_num>％安く買えるようになった！": "Engraved the \"<%sL_CPS_M_WISH>\" rune\nfor <%dL_CPS_M_NUM> Meteor Medals!\n → Items in School Shop are <%sL_CPS_M_PSV> <%dM_num>% cheaper!"
   },
   "46272": {
-    "流星メダル <%dL_CPS_M_NUM>枚で\n『<%sL_CPS_M_WISH>』のルーンを刻んだ！\n→ 願いのかけらを持てる数が <%dM_num>個になった！": ""
+    "流星メダル <%dL_CPS_M_NUM>枚で\n『<%sL_CPS_M_WISH>』のルーンを刻んだ！\n→ 願いのかけらを持てる数が <%dM_num>個になった！": "Engraved the \"<%sL_CPS_M_WISH>\" rune\nfor <%dL_CPS_M_NUM> Meteor Medals!\n → Max number of Wish Shards held is now <%dM_num>!"
   },
   "46273": {
-    "流星メダル <%dL_CPS_M_NUM>枚で\n『<%sL_CPS_M_WISH>』のルーンを刻んだ！\n→ 学園内でいつもより <%sL_CPS_M_EFC>速く移動できるようになった！": ""
+    "流星メダル <%dL_CPS_M_NUM>枚で\n『<%sL_CPS_M_WISH>』のルーンを刻んだ！\n→ 学園内でいつもより <%sL_CPS_M_EFC>速く移動できるようになった！": "Engraved the \"<%sL_CPS_M_WISH>\" rune\nfor <%dL_CPS_M_NUM> Meteor Medals!\n → Movement speed in school is <%sL_CPS_M_EFC> faster!"
   },
   "46400": {
-    "授業を受けて <%sL_TICKET_NAME>を <%nM_NUM>枚 消費した！": ""
+    "授業を受けて <%sL_TICKET_NAME>を <%nM_NUM>枚 消費した！": "Used <%nM_NUM> <%sL_TICKET_NAME> to take a class!"
   },
   "46513": {
     "<%sL_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": "<%sL_ITEM><%sL_PLUSNUM_3> gained the\n<%sL_KOUKA> effect!"
   },
   "46565": {
-    "<pc>は　<%sM_ryoukai>　<%sM_stage>の調査依頼を　受けた！": ""
+    "<pc>は　<%sM_ryoukai>　<%sM_stage>の調査依頼を　受けた！": "<pc> received a request to investigate <%sM_stage> in the <%sM_ryoukai>!"
   },
   "46649": {
-    "フィッシングコンテスト　ランキングでの名前表示設定を　\n『ないしょ』　に設定した。": ""
+    "フィッシングコンテスト　ランキングでの名前表示設定を　\n『ないしょ』　に設定した。": "Name display setting for the Fishing Contest\nwas set to \"Private\"."
   },
   "46650": {
     "『<%sM_fish>』の最大サイズが　<%.1fM_CM>ｃｍ　に更新された！": "The biggest size of \"<%sM_fish>\"\nhas been updated to <%.1fM_CM> cm!"
@@ -1578,7 +1578,7 @@
     "フィッシングコンテスト　ランキングでの名前表示設定を\n『公開する』　に設定した。": "Name display setting for the Fishing Contest\nwas set to \"Public\"."
   },
   "46663": {
-    "部活強化週間の 課題の条件を みたした！\n部活ポイント <%dL_BONUS_POINT> Pを 課題成功ボーナスとして 手に入れた！": ""
+    "部活強化週間の 課題の条件を みたした！\n部活ポイント <%dL_BONUS_POINT> Pを 課題成功ボーナスとして 手に入れた！": "Met the requirements for the Club Upgrade Week task!\nReceived <%dL_BONUS_POINT> Club Points as a task success bonus!"
   },
   "46664": {
     "できのよさボーナスとして 部活ポイント <%dL_ADD_POINT> Pを 手に入れた！": "Received <%dL_ADD_POINT> Club Points as a quality bonus!"
@@ -1587,31 +1587,31 @@
     "<pc>は 部活ポイント <%dL_BASE_POINT> Pを 手に入れた！": "<pc> received <%dL_BASE_POINT> Club Points!"
   },
   "46667": {
-    "<pc>は <%sL_CLUBSTR>部員になった。": ""
+    "<pc>は <%sL_CLUBSTR>部員になった。": "<pc> became a <%sL_CLUBSTR> Club member."
   },
   "46668": {
-    "強化週間チケットと お手伝いチケットの 残りが回収された。": ""
+    "強化週間チケットと お手伝いチケットの 残りが回収された。": "The rest of the Upgrade Week Ticket and Helper Ticket were collected."
   },
   "46669": {
     "部の設備利用券を <%dL_TICKET>枚 手に入れた！": "Received <%dL_TICKET> Club Facility Ticket(s)!"
   },
   "46670": {
-    "部活強化週間の報酬として 部室の職人道具がランクアップした！": ""
+    "部活強化週間の報酬として 部室の職人道具がランクアップした！": "Club room's crafting tool ranked up as as a reward for Club Upgrade Week!"
   },
   "46671": {
-    "部活強化週間の報酬として 部の設備利用券 <%dL_TICKET>枚を 手に入れた！": ""
+    "部活強化週間の報酬として 部の設備利用券 <%dL_TICKET>枚を 手に入れた！": "Received <%dL_TICKET> Club Facility Tickets as a reward for Club Upgrade Week!"
   },
   "46672": {
-    "部活強化週間の報酬として 部活ポイント <%dL_POINT> Pを 手に入れた！": ""
+    "部活強化週間の報酬として 部活ポイント <%dL_POINT> Pを 手に入れた！": "Received <%dL_POINT> Club Points as a reward for Club Upgrade Week!"
   },
   "46673": {
     "お手伝いチケットを <%dL_HELP_NUM>枚 手に入れた！": "Received <%dL_HELP_NUM> Helper Ticket(s)!"
   },
   "46674": {
-    "強化週間チケットを <%dL_KYOKA_NUM>枚 手に入れた！": "Received <%dL_KYOKA_NUM> Boost Week Ticket(s)!"
+    "強化週間チケットを <%dL_KYOKA_NUM>枚 手に入れた！": "Received <%dL_KYOKA_NUM> Upgrade Week Ticket(s)!"
   },
   "46675": {
-    "<pc>は 部活強化週間に参加した！": ""
+    "<pc>は 部活強化週間に参加した！": "<pc> participated in Club Upgrade Week!"
   },
   "46769": {
     "死闘のグロリアを <%dM_NUM>枚 手に入れた！": "Received <%dM_NUM> Death Gloria!"
@@ -1626,16 +1626,16 @@
     "<pc>は <%sL_ITEM>を <%dL_ITEM_NUM>個 使った！": "<pc> used <%dL_ITEM_NUM> <%sL_ITEM>!"
   },
   "46817": {
-    "友情の光を <%dM_POINT> P ささげて <%sM_item>を <%dM_GET_NUM>個 手に入れた！": ""
+    "友情の光を <%dM_POINT> P ささげて <%sM_item>を <%dM_GET_NUM>個 手に入れた！": "Offered <%dM_POINT> Friend Light and received <%dM_GET_NUM> <%sM_item>!"
   },
   "46818": {
-    "友情の光を <%dM_POINT> P ささげて <%sM_item>を 手に入れた！": ""
+    "友情の光を <%dM_POINT> P ささげて <%sM_item>を 手に入れた！": "Offered <%dM_POINT> Friend Light and received <%sM_item>!"
   },
   "46826": {
-    "部活ポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！": ""
+    "部活ポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！": "Exchanged <%dM_POINT> Club Points for <%dM_GET_NUM> <%sM_item>!"
   },
   "46827": {
-    "部活ポイント <%dM_POINT> Pと <%sM_item>を 交換した！": ""
+    "部活ポイント <%dM_POINT> Pと <%sM_item>を 交換した！": "Exchanged <%dM_POINT> Club Points for <%sM_item>!"
   },
   "46922": {
     "かさ": "Umbrella"
@@ -1647,13 +1647,13 @@
     "<pc>は <%sL_KASOU_RACE>の姿に 仮装した。": "<pc> disguised as a <%sL_KASOU_RACE>."
   },
   "47118": {
-    "<%sC_PC>は <%sM_item>を手にとった。<br>\n<%sM_item>は<%sC_PC>の手に　のったとたんに\nおともなく　くずれさった。": ""
+    "<%sC_PC>は <%sM_item>を手にとった。<br>\n<%sM_item>は<%sC_PC>の手に　のったとたんに\nおともなく　くずれさった。": "<%sC_PC> takes the <%sM_item>\nin their hand.<br>\nAs soon as <%sC_PC>'s hand touches the\n<%sM_item>,\nit crumbles without a sound."
   },
   "47119": {
-    "<%sC_PC>は <%sM_item>を手にとった。<br>\n<%sM_item> <%dM_item_num>個は<%sC_PC>の手に　のったとたんに\nおともなく　くずれさった。": ""
+    "<%sC_PC>は <%sM_item>を手にとった。<br>\n<%sM_item> <%dM_item_num>個は<%sC_PC>の手に　のったとたんに\nおともなく　くずれさった。": "<%sC_PC> takes the <%sM_item>\nin their hand.<br>\nAs soon as <%sC_PC>'s hand touches the\n<%dM_item_num> <%sM_item>,\nthey crumble without a sound."
   },
   "47120": {
-    "<%sL_OWNER>の畑の　花をぬいて　やりなおした！": "Plucked <%sL_OWNER>'s flowers and started over!"
+    "<%sL_OWNER>の畑の　花をぬいて　やりなおした！": "Plucked flowers from <%sL_OWNER>'s field and started over!"
   },
   "47158": {
     "仮装メイクの有効期間は <%dL_DAY>日 <%dL_HOUR>時間 <%dL_MIN>分です。": "The Race Makeup will last <%dL_DAY> d. <%dL_HOUR> h. <%dL_MIN> m."
@@ -1668,13 +1668,13 @@
     "<%-9sM_point><%-18sM_item>": "<%-9sM_point><%-18sM_item>"
   },
   "47830": {
-    "（<%sM_place> から <%dM_num><%sM_unit>）": ""
+    "（<%sM_place> から <%dM_num><%sM_unit>）": "(<%dM_num><%sM_unit> from <%sM_place>)"
   },
   "47831": {
-    "<%sM_item>を おまとめぶくろに まとめた！": ""
+    "<%sM_item>を おまとめぶくろに まとめた！": "Put <%sM_item> into the currencies bag!"
   },
   "48288": {
-    "<%sM_slime_name>は チャンピオンシップに 再挑戦することになった！": ""
+    "<%sM_slime_name>は チャンピオンシップに 再挑戦することになった！": "<%sM_slime_name> will be making a second run at the championship!"
   },
   "48294": {
     "<speed=0>『どこでもチャットＯＫにする』に変更しました。\nどこでもチャット設定は　いつでも変更可能です。": "<speed=0>Anywhere Chat setting set to \"Allow\"."
@@ -1725,7 +1725,7 @@
     "お祭りコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！": "Bought <%dL_casinocoin> Festival Tokens for <%dL_BUY_PRICE> G!"
   },
   "49063": {
-    "<pc>は <%sM_body>の体型に <%dM_gold> Gで 変えてもらった！": ""
+    "<pc>は <%sM_body>の体型に <%dM_gold> Gで 変えてもらった！": "<pc> changed to <%sM_body> body with <%dM_gold> G!"
   },
   "49086": {
     "顔コーデ": "Face Glam."
@@ -1815,10 +1815,10 @@
     "第<%dL_TURN_NUM>ターン開始！": "Turn <%dL_TURN_NUM> started!"
   },
   "49199": {
-    "お祭りコイン <%dM_POINT>枚と <%sM_item> <%dM_GET_NUM>個を 交換した！": ""
+    "お祭りコイン <%dM_POINT>枚と <%sM_item> <%dM_GET_NUM>個を 交換した！": "Exchanged <%dM_POINT> Festival Tokens for <%dM_GET_NUM> <%sM_item>!"
   },
   "49200": {
-    "お祭りコイン <%dM_POINT>枚と <%sM_item>を 交換した！": ""
+    "お祭りコイン <%dM_POINT>枚と <%sM_item>を 交換した！": "Exchanged <%dM_POINT> Festival Tokens for <%sM_item>!"
   },
   "49211": {
     "<%sM_item><%sM_plusnum>が封じられた 冥海の光玉を手に入れた！": "The <%sM_item><%sM_plusnum> was sealed and you\nreceived an Abyss Orb!"
@@ -1860,10 +1860,10 @@
     "<%dM_gold> G 支払った。": "Paid <%dM_gold> G."
   },
   "49852": {
-    "美容院で <%sM_name>のくちべにの色を\n<%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>のくちべにの色を\n<%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s lip color from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "49853": {
-    "美容院で くちべにの色を\n<%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で くちべにの色を\n<%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your lip color from <%sM_old> to\n<%sM_new> for <%dM_gold> G at the Salon!"
   },
   "49936": {
     "----【カラーリングメモ】----": "----[Dyeing Memo]----"
@@ -1878,7 +1878,7 @@
     "必要なゴールド": "Gold Needed"
   },
   "49940": {
-    "----------------------------": ""
+    "----------------------------": "----------------------------"
   },
   "49944": {
     "<%sM_item><%sM_00><%sM_01>こ/<%sM_02><%sM_03>こ  (<%sM_04>こたりない)": "<%sM_item><%sM_00><%sM_01>/<%sM_02><%sM_03>  (Not enough <%sM_04>)"
@@ -1896,7 +1896,7 @@
     "<pc>は プリズランポイントを <%dM_points>P かくとく！": "<pc> received <%dM_points> Jailrun Points!"
   },
   "50537": {
-    "ゲーム画面表示を 画質設定：<%sM_image> 描画速度：最高<%dM_fps>fps に設定しました。": ""
+    "ゲーム画面表示を 画質設定：<%sM_image> 描画速度：最高<%dM_fps>fps に設定しました。": "Set up game screen display image quality: <%sM_image>, Render Speed: Highest, <%dM_fps>fps"
   },
   "50572": {
     "一緒に遊ぶ仲間を選んだので プリズランポイントを かくとくできなかった。": "Because you played with others,\nyou didn't receive any Midnight Jailrun Points."
@@ -1953,19 +1953,19 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\e「<%sM_chat>」": "\\s<%sC_PC>\\m<%sC_ID>\\e \"<%sM_chat>\""
   },
   "51283": {
-    "いまの宝珠ポイント　<%dM_HOUJUP_NUM>P\nいまの石版ポイント　<%dM_SEKIBANP_NUM>P\n達人に預けている全属性の石版\n 6穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_6>枚 <%dM_HOUJUP_NUM6>P\n 5穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_5>枚 <%dM_HOUJUP_NUM5>P\n 4穴の石版 <%dM_HOUJUP1>P ×<%dM_SEKIBAN_4>枚 <%dM_HOUJUP_NUM4>P\n変換後の宝珠ポイント合計　<%dM_HOUJUP_SUM>P": ""
+    "いまの宝珠ポイント　<%dM_HOUJUP_NUM>P\nいまの石版ポイント　<%dM_SEKIBANP_NUM>P\n達人に預けている全属性の石版\n 6穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_6>枚 <%dM_HOUJUP_NUM6>P\n 5穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_5>枚 <%dM_HOUJUP_NUM5>P\n 4穴の石版 <%dM_HOUJUP1>P ×<%dM_SEKIBAN_4>枚 <%dM_HOUJUP_NUM4>P\n変換後の宝珠ポイント合計　<%dM_HOUJUP_SUM>P": "nah dawg"
   },
   "51285": {
-    "<%dL_REQUEST_GOLD> G つかって <%sM_ELEMENT>の石版の 穴をふさいだ！": ""
+    "<%dL_REQUEST_GOLD> G つかって <%sM_ELEMENT>の石版の 穴をふさいだ！": "Blocked the hole in the <%sM_ELEMENT> tablet using <%dL_REQUEST_GOLD> G."
   },
   "51286": {
     "宝珠ポイントを <%dM_NUM> P つかって <%sM_SKILL>を 手に入れた！": "not happenin'"
   },
   "51296": {
-    "<%dL_REQUEST_GOLD> G つかって <%sM_ELEMENT>の石版から　宝珠をはずした。": ""
+    "<%dL_REQUEST_GOLD> G つかって <%sM_ELEMENT>の石版から　宝珠をはずした。": "Removed the jewel from the <%sM_ELEMENT> tablet using <%dL_REQUEST_GOLD> G."
   },
   "51404": {
-    "<pc>は　<%sM_ryoukai>　<%sM_stage>の調律依頼を　受けた！": ""
+    "<pc>は　<%sM_ryoukai>　<%sM_stage>の調律依頼を　受けた！": "<pc> received a request for tuning in <%sM_stage> in the <%sM_ryoukai>!"
   },
   "51521": {
     "達人クエストを　クリアしました！": "Master Quest was cleared!"
@@ -1974,7 +1974,7 @@
     "ジュエルポイント <%dM_POINT> Pと <%sM_item>を 交換した！": "Exchanged <%dM_POINT> Jewel Points for\n<%sM_item>!"
   },
   "51647": {
-    "バトルトリニティ：対抗戦交換用（スタック）": ""
+    "バトルトリニティ：対抗戦交換用（スタック）": "Battle Trinity:For Rivalry Exchange (Stack)"
   },
   "51658": {
     "覇者の心 <%nL_KOUKAN_NUM> 個と <%sL_GOODS_ITEM>を 交換した！": "Exchanged <%dL_KOUKAN_NUM> Champion Heart(s) for\n<%sL_GOODS_ITEM>!"
@@ -2052,10 +2052,10 @@
     "<pc>は　対抗戦の参加費として　<%dL_GOLD> G支払った！": "<pc> paid a <%dL_GOLD> G participation fee for the\ncompetition!"
   },
   "52247": {
-    "<pc>は　優勝賞金として　<%dM_gold> Gもらった！": ""
+    "<pc>は　優勝賞金として　<%dM_gold> Gもらった！": "<pc> received <%dM_gold> G for first prize!"
   },
   "52248": {
-    "<%sL_MY_CLUB>で　引き分け　だった！": ""
+    "<%sL_MY_CLUB>で　引き分け　だった！": "Got a draw in <%sL_MY_CLUB>!"
   },
   "52264": {
     "→<%sM_slime_name_2>に　『<%sL_ACTION_1>』が成功！": "→ <%sL_ACTION_1> to <%sM_slime_name_2> was successful!"
@@ -2100,25 +2100,25 @@
     "→<%sM_slime_name_1>は　スタミナが切れてしまった！": "→ <%sM_slime_name_1> runs out of Stamina!"
   },
   "52365": {
-    "美容院で かみの色２を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で かみの色２を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your hair color 2 from <%sM_old> to\n<%sM_new> for <%dM_gold> G at the Salon!"
   },
   "52384": {
     "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『ふわふわボディ』で　かわした！": "→ Floaty Body dodges <%sM_slime_name_2>'s <%sL_ACTION_2>!"
   },
   "52396": {
-    "美容院で <%sM_name>の かみの色２を\n<%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>の かみの色２を\n<%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s hair color 2 from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "52938": {
-    "『<%sM_fish>』の最小サイズが　<%.1fM_CM>ｃｍ　に更新された！": ""
+    "『<%sM_fish>』の最小サイズが　<%.1fM_CM>ｃｍ　に更新された！": "The smallest size of \"<%sM_fish>\"\nhas been updated to <%.1fM_CM> cm!"
   },
   "52951": {
-    "<speed=0><%sM_dokokara>から\nフレンド登録を　申し込まれました。": ""
+    "<speed=0><%sM_dokokara>から\nフレンド登録を　申し込まれました。": "<speed=0>Friend request received from <%sM_dokokara>."
   },
   "52974": {
-    "試合の得点が　足りていないため<br>\n貢献度を　獲得できませんでした。": ""
+    "試合の得点が　足りていないため<br>\n貢献度を　獲得できませんでした。": "Not enough points earned this match,<br>\nso contribution was not obtained."
   },
   "52986": {
-    "－－": ""
+    "－－": "－－"
   },
   "52987": {
     "失敗": "Failed"
@@ -2178,10 +2178,10 @@
     "土地管理人から　マイタウンを　<%sM_item>　で手に入れた！": "Received a My Town from the Land Manager\nusing the <%sM_item>!"
   },
   "53606": {
-    "<pc>は　ランクイン賞金として　<%dM_gold> Gもらった！": ""
+    "<pc>は　ランクイン賞金として　<%dM_gold> Gもらった！": "<pc> received <%dM_gold> G for ranking prize!"
   },
   "53607": {
-    "<pc>は　優勝賞金と　ランクイン賞金として　<%dM_gold> Gもらった！": ""
+    "<pc>は　優勝賞金と　ランクイン賞金として　<%dM_gold> Gもらった！": "<pc> received <%dM_gold> G for first prize and ranking prize!"
   },
   "53618": {
     "<%sM_campaign><%nM_Giftday>日目の　ギフト": "<%sM_campaign> Day <%dM_Giftday> Gift"
@@ -2190,19 +2190,19 @@
     "<%sM_CAPSULE_NAME>を 手に入れた！": "Received <%sM_CAPSULE_NAME>!"
   },
   "53674": {
-    "一時預かりぶくろから <%sL_ITEM>を 取り出した。": "You took out <%sL_ITEM> from temporary storage."
+    "一時預かりぶくろから <%sL_ITEM>を 取り出した。": "Took out <%sL_ITEM> from temporary storage."
   },
   "53675": {
-    "一時預かりぶくろから <%sL_ITEM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM> from temporary storage."
+    "一時預かりぶくろから <%sL_ITEM>を <%dL_QUANTITY>個取り出した。": "Took out <%dL_QUANTITY> <%sL_ITEM> from temporary storage."
   },
   "53746": {
-    "<%sL_ITEM> <%dL_UseNum>個を <%sL_ITEM2> <%dL_Num2>個と交換した！": ""
+    "<%sL_ITEM> <%dL_UseNum>個を <%sL_ITEM2> <%dL_Num2>個と交換した！": "Exchanged <%dL_UseNum> <%sL_ITEM> for <%dL_Num2> <%sL_ITEM2>!"
   },
   "53781": {
-    "<%sL_REGION>住宅村 <%sL_DIVISION>を 住所にした！": ""
+    "<%sL_REGION>住宅村 <%sL_DIVISION>を 住所にした！": "Made <%sL_REGION> housing, <%sL_DIVISION> your address!"
   },
   "53858": {
-    "<%sL_REGION> <%sL_DIVISION>\n<%dL_TOTI_BANGOU>番地の土地を 住所にした！": ""
+    "<%sL_REGION> <%sL_DIVISION>\n<%dL_TOTI_BANGOU>番地の土地を 住所にした！": "Made land at <%sL_REGION>, <%sL_DIVISION>,\nPlot <%dL_TOTI_BANGOU> your address!"
   },
   "54030": {
     "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>のツヤを\n<%sM_change_metal>に変えた。": "Changed the <%sM_item><%sM_plusnum> <%sM_slot>\ngloss to <%sM_change_metal> in the Alchemy Pot."
@@ -2211,19 +2211,19 @@
     "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>を\n<%sM_change_color>に カラーリングして\nツヤを <%sM_change_metal>に 変えた。": "Changed the <%sM_item><%sM_plusnum> <%sM_slot>\ncolor to <%sM_change_color> and the gloss\nto <%sM_change_metal> in the Alchemy Pot."
   },
   "54038": {
-    "美容院で しろめの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で しろめの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your eye white color from <%sM_old> to\n<%sM_new> for <%dM_gold> G at the Salon!"
   },
   "54039": {
-    "美容院で かみの色１のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で かみの色１のツヤを <%sM_old>から <%sM_new>に変えた！": "Changed your hair color 1 gloss from <%sM_old> to\n<%sM_new> at the Salon!"
   },
   "54040": {
-    "美容院で <%sM_name>の かみの色１のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>の かみの色１のツヤを\n<%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s hair color 1 gloss from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "54041": {
-    "美容院で かみの色２のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で かみの色２のツヤを <%sM_old>から <%sM_new>に変えた！": "Changed your hair color 2 gloss from <%sM_old> to\n<%sM_new> at the Salon!"
   },
   "54042": {
-    "美容院で <%sM_name>の かみの色２のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>の かみの色２のツヤを\n<%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s hair color 2 gloss from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "54053": {
     "-----【見た目装備メモ】-----": "-----[Glamour Memo]-----"
@@ -2247,7 +2247,7 @@
     "-----【<%sM_type> <%sM_category>・挑戦中課題】-----": "-----[<%sM_type> <%sM_category> - Challenges]-----"
   },
   "54207": {
-    "--------------------------------------": ""
+    "--------------------------------------": "--------------------------------------"
   },
   "54208": {
     "名声Lv<%dM_clg_flv>以上　（現在：<%dM_now_flv>）": "Fame Lv: <%dM_clg_flv> or Higher (Current: <%dM_now_flv>)"
@@ -2313,13 +2313,13 @@
     "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！": "Gave <%sM_item><%sM_plusnum>'s Abyss Orb to Jiguro!"
   },
   "54838": {
-    "上位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！": ""
+    "上位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！": "Won against a top club and <%sL_MY_CLUB> earned <%dL_Point> Additional points!"
   },
   "54839": {
-    "1位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！": ""
+    "1位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！": "Won against the 1st place club and <%sL_MY_CLUB> earned <%dL_Point> Additional points!"
   },
   "54966": {
-    "美容院で <%sM_name>のしろめの色を <%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>のしろめの色を <%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s eye white color from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "54969": {
     "------【海底探索ガテリア号　リザルト】------": "------[Submarine Search Gateria Results]------"
@@ -2391,7 +2391,7 @@
     "<%sM_item>を 消費した。": "Consumed <%sM_item>."
   },
   "55123": {
-    "妖精の姿見の　おしゃレシピの登録が　解除された！": ""
+    "妖精の姿見の　おしゃレシピの登録が　解除された！": "Canceled saved outfit registration in the Fairy Mirror!"
   },
   "55124": {
     "ベルト倉庫から <%sM_item><%sM_plusnum>を 取り出した。": "Took out <%sM_item><%sM_plusnum> from the belt storage."
@@ -2403,7 +2403,7 @@
     "<pc>は<%sM_ITEM>を<%dM_NUM>個 渡した！": "<pc> gave <%dM_NUM> <%sM_ITEM>!"
   },
   "55163": {
-    "<%sL_REGION>住宅村 <%sL_DIVISION>から　引っ越した。": ""
+    "<%sL_REGION>住宅村 <%sL_DIVISION>から　引っ越した。": "Moved from <%sL_REGION> housing, <%sL_DIVISION>."
   },
   "55231": {
     "　<%-20sM_material>×<%-2dM_use> 所持：<%-5dM_have>": "　<%-20sM_material>×<%-2dM_use> Owned: <%-5dM_have>"
@@ -2412,7 +2412,7 @@
     "--------------【バトル結果】--------------<br>\n勝ち         <%3dB_COLO_POINT> P  負け         <%3dB_COLO_POINT_2> P": "--------------[Battle Results]--------------<br>\nWin         <%3dB_COLO_POINT> P  Loss         <%3dB_COLO_POINT_2> P"
   },
   "55422": {
-    "<%-12sC_PC> <%3dB_COLO_POINT> P  <%-12sC_PC2> <%3dB_COLO_POINT_2> P": ""
+    "<%-12sC_PC> <%3dB_COLO_POINT> P  <%-12sC_PC2> <%3dB_COLO_POINT_2> P": "<%-12sC_PC> <%3dB_COLO_POINT> P  <%-12sC_PC2> <%3dB_COLO_POINT_2> P"
   },
   "55423": {
     "------------------------------------------": "------------------------------------------"
@@ -2658,43 +2658,43 @@
     "対戦相手      段位               使うトランプ": "Opponent      Rank               Deck"
   },
   "56417": {
-    "<%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！": "<%sM_name>'s size changed from <%sM_old> to <%sM_new>!"
+    "<%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s size from <%sM_old> to <%sM_new>!"
   },
   "56418": {
-    "<%sM_name>のめの色を <%sM_old>から <%sM_new>に 変えた！": "<%sM_name>'s eye color changed from <%sM_old> to <%sM_new>!"
+    "<%sM_name>のめの色を <%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s eye color from <%sM_old> to <%sM_new>!"
   },
   "56419": {
-    "<%sM_name>のかおを <%sM_old>から <%sM_new>に 変えた！": "<%sM_name>'s face changed from <%sM_old> to <%sM_new>!"
+    "<%sM_name>のかおを <%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s face from <%sM_old> to <%sM_new>!"
   },
   "56420": {
-    "<%sM_name>の かみの色１を\n<%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>の かみの色１を\n<%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s hair color 1 from <%sM_old> to <%sM_new>!"
   },
   "56421": {
-    "<%sM_name>の かみの色２を\n<%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>の かみの色２を\n<%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s hair color 2 from <%sM_old> to <%sM_new>!"
   },
   "56422": {
-    "<%sM_name>のくちべにの色を <%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>のくちべにの色を <%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s lip color from <%sM_old> to <%sM_new>!"
   },
   "56423": {
-    "<%sM_name>のかみがたを\n<%sM_old>から <%sM_new>に 変えた！": ""
+    "<%sM_name>のかみがたを\n<%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s hairstyle from\n<%sM_old> to <%sM_new>!"
   },
   "56424": {
-    "<%sM_name>の かみの色２のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>の かみの色２のツヤを\n<%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s hair color 2 gloss from <%sM_old> to <%sM_new>!"
   },
   "56425": {
-    "<%sM_name>の かみの色１のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>の かみの色１のツヤを\n<%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s hair color 1 gloss from <%sM_old> to <%sM_new>!"
   },
   "56426": {
     "<%sM_name>のはだの色を <%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s skin color from <%sM_old> to <%sM_new>!"
   },
   "56427": {
-    "<%sM_name>のしろめの色を <%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>のしろめの色を <%sM_old>から <%sM_new>に変えた！": "Changed <%sM_name>'s eye white color from <%sM_old> to <%sM_new>!"
   },
   "56428": {
-    "<%sM_name>のりんかくを <%sM_old>から <%sM_new>に 変えた！": ""
+    "<%sM_name>のりんかくを <%sM_old>から <%sM_new>に 変えた！": "Changed <%sM_name>'s contour from <%sM_old> to <%sM_new>!"
   },
   "56433": {
-    "\\s<%-12sL_name>\\m<%-12sL_id>\\e  <%sL_trump_name>": ""
+    "\\s<%-12sL_name>\\m<%-12sL_id>\\e  <%sL_trump_name>": "\\s<%-12sL_name>\\m<%-12sL_id>\\e  <%sL_trump_name>"
   },
   "56434": {
     "対戦相手      使うトランプ": "Opponent      Deck"
@@ -2802,10 +2802,10 @@
     "エール回復 /<%dM_cou_yell>/：<%dM_total_sco_yell>P": "Times Cheered/<%dM_cou_yell>/:%dM_total_sco_yell>P"
   },
   "57374": {
-    "お店で <%sL_KAITAI_ITEM><%dL_KAUKAZU>個を <%sM_item><%dL_BUY_MURYOKEN>枚で 交換した！": ""
+    "お店で <%sL_KAITAI_ITEM><%dL_KAUKAZU>個を <%sM_item><%dL_BUY_MURYOKEN>枚で 交換した！": "Exchanged <%dL_BUY_MURYOKEN> <%sM_item> for <%dL_KAUKAZU> <%sL_KAITAI_ITEM> at the shop!"
   },
   "57375": {
-    "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_MURYOKEN> 個で交換した！": ""
+    "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_MURYOKEN> 個で交換した！": "Exchanged <%dL_BUY_MURYOKEN> for <%sL_KAITAI_ITEM><%sL_PLUSNUM> at the shop!"
   },
   "57415": {
     "スコアジュエルが　マップの外周に流れてきたようだ！": "Score Jewels appeared around the map!"
@@ -2826,25 +2826,25 @@
     "<%sM_item>を <%dM_item_num><%sM_tani> 手に入れた！": "Received <%dM_item_num> <%sM_item>!"
   },
   "58288": {
-    "継続特典係で <%sM_item><%sM_plusnum>を 交換した！": ""
+    "継続特典係で <%sM_item><%sM_plusnum>を 交換した！": "Exchanged <%sM_item><%sM_plusnum> at Renewal Benefits!"
   },
   "58519": {
-    "魔塔銀行から <%dM_gold> Gを 引き出した。": ""
+    "魔塔銀行から <%dM_gold> Gを 引き出した。": "Withdrew <%dM_gold> G from the Tower Bank."
   },
   "58520": {
-    "魔塔銀行に <%dM_gold> Gを 預けた。": ""
+    "魔塔銀行に <%dM_gold> Gを 預けた。": "Deposited <%dM_gold> G in the Tower Bank."
   },
   "58768": {
-    "改造屋で <%sM_item><%sM_plusnum>を\n<%sM_item2><%sM_plusnum2>に 変換した！": ""
+    "改造屋で <%sM_item><%sM_plusnum>を\n<%sM_item2><%sM_plusnum2>に 変換した！": "Converted <%sM_item><%sM_plusnum> to\n<%sM_item2><%sM_plusnum2>!"
   },
   "58769": {
-    "改造屋で <%sM_item><%sM_plusnum>に\n<%sL_KOUKA>を 付けた！": ""
+    "改造屋で <%sM_item><%sM_plusnum>に\n<%sL_KOUKA>を 付けた！": "Added <%sL_KOUKA> effect to\n<%sM_item><%sM_plusnum>!"
   },
   "58770": {
-    "改造屋で <%sM_item><%sM_plusnum>を\n<%sM_item2><%sM_plusnum2>に 進化させた！": ""
+    "改造屋で <%sM_item><%sM_plusnum>を\n<%sM_item2><%sM_plusnum2>に 進化させた！": "Evolved <%sM_item><%sM_plusnum> to\n<%sM_item2><%sM_plusnum2>!"
   },
   "58889": {
-    "仮　バトルグランプリ開催時間外のため ただいまの試合は無効となります。<br>\nポイント変動しません。": ""
+    "仮　バトルグランプリ開催時間外のため ただいまの試合は無効となります。<br>\nポイント変動しません。": "Current match is invalid because it is outside the time of the temporary Battle Grand Prix.\nPoints will not be affected."
   },
   "58932": {
     "商品『<%sL_GOODS>』を\nフリーパスサービスで　手にいれた！": "Received \"<%sL_GOODS>\"\nfrom the Free Pass Service!"
@@ -2871,52 +2871,52 @@
     "<%sM_category> <%sM_rank>お題<%dM_number>をクリア！\n<%sM_item>を <%dM_item_num>個  手に入れた！": "Cleared <%dM_number> challenge(s) in <%sM_category> <%sM_rank>!\nReceived <%dM_item_num> <%sM_item>!"
   },
   "59034": {
-    "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA2>が 付いた！": ""
+    "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA2>が 付いた！": "Attached <%sL_KOUKA2> to <%sL_ACCE_ITEM><%sL_PLUSNUM_3>!"
   },
   "59035": {
     "<%sL_ACCE_ITEM><%sL_PLUSNUM>の <%sL_KOUKA2>を 消した。": "<%sL_ACCE_ITEM><%sL_PLUSNUM>'s <%sL_KOUKA2> was erased."
   },
   "59374": {
-    "バトルロード出場メンバーの　<%sM_monster>から\n<%sM_Badge2>バッジを　はずした。": ""
+    "バトルロード出場メンバーの　<%sM_monster>から\n<%sM_Badge2>バッジを　はずした。": "Removed <%sM_Badge2> badge from Battle Road\nparticipation member <%sM_monster>."
   },
   "59375": {
-    "サポートモンスター登録中の　<%sM_monster>から\n<%sM_Badge2>バッジを　はずした。": ""
+    "サポートモンスター登録中の　<%sM_monster>から\n<%sM_Badge2>バッジを　はずした。": "Removed <%sM_Badge2> badge from <%sM_monster>\nduring support monster registration."
   },
   "59523": {
-    "<kyodai>のおおきさを <%sM_old>から <%sM_new>に 変えた！": ""
+    "<kyodai>のおおきさを <%sM_old>から <%sM_new>に 変えた！": "Changed <kyodai>'s size from <%sM_old> to <%sM_new>!"
   },
   "59524": {
-    "<kyodai>のめの色を <%sM_old>から <%sM_new>に 変えた！": ""
+    "<kyodai>のめの色を <%sM_old>から <%sM_new>に 変えた！": "Changed <kyodai>'s eye color from <%sM_old> to <%sM_new>!"
   },
   "59525": {
-    "<kyodai>のかおを <%sM_old>から <%sM_new>に 変えた！": ""
+    "<kyodai>のかおを <%sM_old>から <%sM_new>に 変えた！": "Changed <kyodai>'s face from <%sM_old> to <%sM_new>!"
   },
   "59526": {
-    "<kyodai>の かみの色１を <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>の かみの色１を <%sM_old>から <%sM_new>に変えた！": "Changed <kyodai>'s hair color 1 from <%sM_old> to <%sM_new>!"
   },
   "59527": {
-    "<kyodai>の かみの色２を <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>の かみの色２を <%sM_old>から <%sM_new>に変えた！": "Changed <kyodai>'s hair color 2 from <%sM_old> to <%sM_new>!"
   },
   "59528": {
-    "<kyodai>の かみの色１のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>の かみの色１のツヤを <%sM_old>から <%sM_new>に変えた！": "Changed <kyodai>'s hair color 1 gloss from <%sM_old> to <%sM_new>!"
   },
   "59529": {
-    "<kyodai>の かみの色２のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>の かみの色２のツヤを <%sM_old>から <%sM_new>に変えた！": "Changed <kyodai>'s hair color 2 gloss from <%sM_old> to <%sM_new>!"
   },
   "59530": {
-    "<kyodai>のかみがたを\n<%sM_old>から <%sM_new>に 変えた！": ""
+    "<kyodai>のかみがたを\n<%sM_old>から <%sM_new>に 変えた！": "Changed <kyodai>'s hairstyle from\n<%sM_old> to <%sM_new>!"
   },
   "59531": {
-    "<kyodai>のくちべにの色を <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>のくちべにの色を <%sM_old>から <%sM_new>に変えた！": "Changed <kyodai>'s lip color from <%sM_old> to <%sM_new>!"
   },
   "59532": {
-    "<kyodai>のりんかくを <%sM_old>から <%sM_new>に 変えた！": ""
+    "<kyodai>のりんかくを <%sM_old>から <%sM_new>に 変えた！": "Changed <kyodai>'s contour from <%sM_old> to <%sM_new>!"
   },
   "59533": {
-    "<kyodai>のしろめの色を <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>のしろめの色を <%sM_old>から <%sM_new>に変えた！": "Changed <kyodai>'s eye white color from <%sM_old> to <%sM_new>!"
   },
   "59534": {
-    "<kyodai>のはだの色を <%sM_old>から <%sM_new>に 変えた！": ""
+    "<kyodai>のはだの色を <%sM_old>から <%sM_new>に 変えた！": "Changed <kyodai>'s skin color from <%sM_old> to <%sM_new>!"
   },
   "59646": {
     "札強化屋に <%sL_WATASITA_ITEM>を わたした！": "Gave the <%sL_WATASITA_ITEM> to the Card Enhancer!"
@@ -2925,16 +2925,16 @@
     "札強化屋で <%sL_WATASITA_ITEM><%dM_num>こ わたして <%sL_GET_ITEM><%sM_plusnum> もらった！": "Gave <%dM_num> <%sL_WATASITA_ITEM> to the Card Enhancer\nand received <%sL_GET_ITEM><%sM_plusnum>!"
   },
   "59688": {
-    "探索の極意を 冒険者ジグロウから さずけてもらった！": ""
+    "探索の極意を 冒険者ジグロウから さずけてもらった！": "Given a secret of exploration from Adventurer Jiguro!"
   },
   "59689": {
-    "探索の極意を選び直して 冒険者ジグロウから さずけてもらった！": ""
+    "探索の極意を選び直して 冒険者ジグロウから さずけてもらった！": "Given a reselected secret of exploration from Adventurer Jiguro!"
   },
   "59743": {
-    "大嵐メダル　<%dM_POINT> 枚と <%sM_item> <%dM_GET_NUM>個を 交換した！": "You exchanged <%dM_POINT> Storm Medals for\n<%dM_GET_NUM> <%sM_item>!"
+    "大嵐メダル　<%dM_POINT> 枚と <%sM_item> <%dM_GET_NUM>個を 交換した！": "Exchanged <%dM_POINT> Storm Medals for\n<%dM_GET_NUM> <%sM_item>!"
   },
   "59744": {
-    "大嵐メダル　<%dM_POINT> 枚と  <%sM_item>を 交換した！": "You exchanged <%dM_POINT> Storm Medals for\n<%sM_item>!"
+    "大嵐メダル　<%dM_POINT> 枚と  <%sM_item>を 交換した！": "Exchanged <%dM_POINT> Storm Medals for\n<%sM_item>!"
   },
   "59992": {
     "<%sM_pc>の記事に <%dM_GOLD_10TH>ゴールド １０周年おひねりした！": "10th Anniversary Tipped <%dM_GOLD_10TH> Gold on <%sM_pc>'s Post!"
@@ -2943,46 +2943,46 @@
     "１０周年おひねり特典として <%sM_ITEM_10TH>を <%dM_ITEM_10TH_NUM>こ 手に入れた！": "sad it's over :("
   },
   "60047": {
-    "呼び出し中の　<%sL_MINION>を　ひっこめた！": ""
+    "呼び出し中の　<%sL_MINION>を　ひっこめた！": "Stopped calling the <%sL_MINION>!"
   },
   "60048": {
     "<%sL_MINION>を　ついてクンマットに呼び出した！": "<%sL_MINION> was called to the\nPet Mat!"
   },
   "60096": {
-    "トップ１０掲示板の記事に\n「いいね！」をした特典として ふくびき券を <%dM_TOP_NUM>こ 手に入れた！": ""
+    "トップ１０掲示板の記事に\n「いいね！」をした特典として ふくびき券を <%dM_TOP_NUM>こ 手に入れた！": "Received <%dM_TOP_NUM> Lottery Tickets as a bonus for giving a \"Nice!\"\nto an atricle published on the Top 10 bulletin board"
   },
   "60097": {
-    "お知らせ広場の 「<%2dM_mm>月<%2dM_dd>日発行」の記事に\n「いいね！」をした特典として ふくびき券を <%dM_HIROBA_NUM>こ 手に入れた！": ""
+    "お知らせ広場の 「<%2dM_mm>月<%2dM_dd>日発行」の記事に\n「いいね！」をした特典として ふくびき券を <%dM_HIROBA_NUM>こ 手に入れた！": "Received <%dM_HIROBA_NUM> Lottery Tickets as a bonus for giving a \"Nice!\"\nto an atricle published on <%2dM_mm>/<%2dM_dd> in Notification Square!"
   },
   "60145": {
-    "<%sL_WATASITA_ITEM><%sM_plusnum>に\n<%sL_ADD_KOUKA>の　効果を付けた！": ""
+    "<%sL_WATASITA_ITEM><%sM_plusnum>に\n<%sL_ADD_KOUKA>の　効果を付けた！": "Added <%sL_ADD_KOUKA> effect to\n<%sL_WATASITA_ITEM><%sM_plusnum>!"
   },
   "60146": {
-    "<%sL_ERASE_KOUKA>を\n<%sL_ADD_KOUKA>に\n効果を付け直した！": ""
+    "<%sL_ERASE_KOUKA>を\n<%sL_ADD_KOUKA>に\n効果を付け直した！": "<%sL_ERASE_KOUKA> was reapplied\nwith the <%sL_ADD_KOUKA> effect!"
   },
   "60152": {
-    "土地管理人で <%sM_item><%sM_plusnum>を 交換した！": ""
+    "土地管理人で <%sM_item><%sM_plusnum>を 交換した！": "Exchanged the <%sM_item><%sM_plusnum> with the Land Manager!"
   },
   "60153": {
-    "土地管理人で <%sM_item><%sM_plusnum>を <%dM_item_num>個 交換した！": ""
+    "土地管理人で <%sM_item><%sM_plusnum>を <%dM_item_num>個 交換した！": "Exchanged <%dM_item_num> <%sM_item><%sM_plusnum> with the Land Manager!"
   },
   "60194": {
-    "<%sL_ACCE_KKR_ITEM> <%dL_ACCE_KKR_NUM>個で <%sL_ACCE_RST_ITEM> <%dL_ACCE_RST_NUM>個を 復元した！": ""
+    "<%sL_ACCE_KKR_ITEM> <%dL_ACCE_KKR_NUM>個で <%sL_ACCE_RST_ITEM> <%dL_ACCE_RST_NUM>個を 復元した！": "Restored <%dL_ACCE_KKR_NUM> <%sL_ACCE_KKR_ITEM> into <%dL_ACCE_RST_NUM> <%sL_ACCE_RST_ITEM>!"
   },
   "60197": {
-    "アンケート　<%nL_ANSWER_NUM>番の回答を　選択しました！": ""
+    "アンケート　<%nL_ANSWER_NUM>番の回答を　選択しました！": "Selected answer number <%dL_ANSWER_NUM> in the survey!"
   },
   "60207": {
     "鑑定した宝珠 <%sM_SKILL>は すでに開花していた。": "The appraised jewel's <%sM_SKILL> is already known."
   },
   "60214": {
-    "バトルロード参加権が　<%dL_SANKAKEN>回　増えた！\n合計で　<%dL_SANKAKEN_3>回になった！": ""
+    "バトルロード参加権が　<%dL_SANKAKEN>回　増えた！\n合計で　<%dL_SANKAKEN_3>回になった！": "Battle Road participation rights increased\n<%dL_SANKAKEN> times! The total is now <%dL_SANKAKEN_3> times!"
   },
   "60483": {
     "<%-16sM_town>[<%-6sM_category>：<%-26sM_value>]": "<%-16sM_town> [<%-6sM_category>: <%-26sM_value>]"
   },
   "60484": {
-    "------------------------------------": ""
+    "------------------------------------": "------------------------------------"
   },
   "60485": {
     "-----【今日のまちかど情報メモ】-----": "-----[Today's Town Info Memo]-----"
@@ -2991,7 +2991,7 @@
     "<%-16sM_town>[<%-6sM_category>：<%-26sM_value>][レベル：<%3sM_Lv><%4sM_ijyou>]": "<%-16sM_town> [<%-6sM_category>: <%-26sM_value>][Level: <%3sM_Lv><%4sM_ijyou>]"
   },
   "60537": {
-    "配置中の　 <%sL_ITEM>が　レプリカになった！": ""
+    "配置中の　 <%sL_ITEM>が　レプリカになった！": "The <%sL_ITEM> being placed became a replica!"
   },
   "60639": {
     "-----【ヴァリーブートキャンプ 戦闘結果】-----": "-----[Valley Boot Camp Battle Results]-----"
@@ -3060,93 +3060,93 @@
     "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>（<%sM_SIZE>）を\n収集おさかなリストから\n<%sL_FURNITURE>に 入れた。": "The <%.1fM_CM> cm <%sL_BAG_FISH> (<%sM_SIZE>)\nfrom your Fish List was placed\ninto the <%sL_FURNITURE>."
   },
   "60947": {
-    "<%sL_FURNITURE>の\n収集おさかなリストから入れた\n<%.1fM_CM>ｃｍの <%sL_SUISOU_FISH>（<%sM_SIZE>）は　消えた。": ""
+    "<%sL_FURNITURE>の\n収集おさかなリストから入れた\n<%.1fM_CM>ｃｍの <%sL_SUISOU_FISH>（<%sM_SIZE>）は　消えた。": "The <%.1fM_CM> cm <%sL_SUISOU_FISH> (<%sM_SIZE>)\nthat was placed in the <%sL_FURNITURE>\nfrom your fish list has disappeared."
   },
   "60952": {
-    " <%sL_FURNITURE>の\n収集おさかなリストから入れた\n<%.1fM_CM>ｃｍの <%sL_SUISOU_FISH>は　消えた。": ""
+    " <%sL_FURNITURE>の\n収集おさかなリストから入れた\n<%.1fM_CM>ｃｍの <%sL_SUISOU_FISH>は　消えた。": "The <%.1fM_CM> cm <%sL_SUISOU_FISH>\nthat was placed in the <%sL_FURNITURE>\nfrom your fish list has disappeared."
   },
   "60953": {
-    "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>を\n収集おさかなリストから\n <%sL_FURNITURE>に 入れた。": ""
+    "<%.1fM_CM>ｃｍの <%sL_BAG_FISH>を\n収集おさかなリストから\n <%sL_FURNITURE>に 入れた。": "The <%.1fM_CM> cm <%sL_BAG_FISH>\nfrom your Fish List was placed\ninto the <%sL_FURNITURE>."
   },
   "61033": {
-    "手前に打つ": ""
+    "手前に打つ": "Strum The Front"
   },
   "61034": {
-    "左へ糸を移動": ""
+    "左へ糸を移動": "Moved Thread Left"
   },
   "61035": {
-    "ペダルを踏む": ""
+    "ペダルを踏む": "Step On Pedal"
   },
   "61036": {
-    "右へ糸を移動": ""
+    "右へ糸を移動": "Moved Thread Right"
   },
   "61504": {
-    "レプリカの <%sL_ITEM>を かたづけ処分した。": ""
+    "レプリカの <%sL_ITEM>を かたづけ処分した。": "Replica <%sL_ITEM> was cleaned up and disposed of."
   },
   "61563": {
-    "重ね置きの　<%sL_ITEM>に　チェックが入った。": ""
+    "重ね置きの　<%sL_ITEM>に　チェックが入った。": "Stacking of <%sL_ITEM> was unchecked."
   },
   "61564": {
-    "重ね置きの　<%sL_ITEM>の　チェックがはずれた。": ""
+    "重ね置きの　<%sL_ITEM>の　チェックがはずれた。": "Stacking of <%sL_ITEM> was checked."
   },
   "61618": {
-    "探索の極意 うろこ３個追加 を 冒険者ジグロウから さずけてもらった！": ""
+    "探索の極意 うろこ３個追加 を 冒険者ジグロウから さずけてもらった！": "Given the \"Extra 3 Scales\" secret of exploration from Adventurer Jiguro!"
   },
   "61620": {
-    "探索の極意 持ち帰り２個追加 を 冒険者ジグロウから さずけてもらった！": ""
+    "探索の極意 持ち帰り２個追加 を 冒険者ジグロウから さずけてもらった！": "Given the \"2 Additional Equips\" secret of exploration from Adventurer Jiguro!"
   },
   "61621": {
-    "探索の極意 錬金効果＋３のみ を 冒険者ジグロウから さずけてもらった！": ""
+    "探索の極意 錬金効果＋３のみ を 冒険者ジグロウから さずけてもらった！": "Given the \"+3 Effects Only\" secret of exploration from Adventurer Jiguro!"
   },
   "61622": {
-    "探索の極意 うろこ３個追加 を選び直して 冒険者ジグロウから さずけてもらった！": ""
+    "探索の極意 うろこ３個追加 を選び直して 冒険者ジグロウから さずけてもらった！": "Given the \"2 Additional Equips\" secret of exploration from Adventurer Jiguro!"
   },
   "61623": {
-    "探索の極意 持ち帰り２個追加 を選び直して 冒険者ジグロウから さずけてもらった！": ""
+    "探索の極意 持ち帰り２個追加 を選び直して 冒険者ジグロウから さずけてもらった！": "Given the \"Extra 3 Scales\" secret of exploration from Adventurer Jiguro!"
   },
   "61624": {
-    "探索の極意 錬金効果＋３のみ を選び直して 冒険者ジグロウから さずけてもらった！": ""
+    "探索の極意 錬金効果＋３のみ を選び直して 冒険者ジグロウから さずけてもらった！": "Given the \"+3 Effects Only\" secret of exploration from Adventurer Jiguro!"
   },
   "61641": {
-    "家具＆庭具おきばに　<%sL_ITEM_NAME>は　これ以上しまえなかった。": ""
+    "家具＆庭具おきばに　<%sL_ITEM_NAME>は　これ以上しまえなかった。": "Cannot store any more <%sL_ITEM_NAME> in your furniture storage."
   },
   "61642": {
-    "家具＆庭具おきばにないので<%sL_ITEM_NAME>は<%dL_SPACE_LIMIT_NUM>個配置されなかった。": ""
+    "家具＆庭具おきばにないので<%sL_ITEM_NAME>は<%dL_SPACE_LIMIT_NUM>個配置されなかった。": "Cannot place the <%dL_SPACE_LIMIT_NUM> <%sL_ITEM_NAME>\nbecause there isn't any in your furniture\nstorage."
   },
   "61718": {
-    "<%sL_ITEM_NAME>が　家具＆庭具おきばにないので\n重ね置きされている状態の　<%sL_ITEM_NAME2>も<%dL_SPACE_LIMIT_NUM>個配置されなかった。": ""
+    "<%sL_ITEM_NAME>が　家具＆庭具おきばにないので\n重ね置きされている状態の　<%sL_ITEM_NAME2>も<%dL_SPACE_LIMIT_NUM>個配置されなかった。": "Cannot place the <%dL_SPACE_LIMIT_NUM> stacked <%sL_ITEM_NAME2>\nbecause the <%sL_ITEM_NAME> isn't in your furniture storage."
   },
   "61828": {
-    "<%sL_SERVICENAME>に <%sM_item><%sM_plusnum>を 移動した。": ""
+    "<%sL_SERVICENAME>に <%sM_item><%sM_plusnum>を 移動した。": "Transfered <%sM_item><%sM_plusnum> to <%sL_SERVICENAME>."
   },
   "61829": {
-    "<%sL_SERVICENAME>に <%sM_item><%sM_plusnum>を <%dM_item_num>個 移動した。": ""
+    "<%sL_SERVICENAME>に <%sM_item><%sM_plusnum>を <%dM_item_num>個 移動した。": "Transfered <%dM_item_num> <%sM_item><%sM_plusnum> to <%sL_SERVICENAME>."
   },
   "62083": {
-    "[ウィークリーミッション]": ""
+    "[ウィークリーミッション]": "[Weekly Mission]"
   },
   "62096": {
-    "<%sM_wpntype>とくぎ総ダメージ：<%dM_result>/<%dM_target>": ""
+    "<%sM_wpntype>とくぎ総ダメージ：<%dM_result>/<%dM_target>": "<%sM_wpntype> Skill Total Damage:<%dM_result>/<%dM_target>"
   },
   "62097": {
-    "<%sM_eletype>最大ダメージ：<%dM_result>/<%dM_target>": ""
+    "<%sM_eletype>最大ダメージ：<%dM_result>/<%dM_target>": "<%sM_eletype> Max Damage:<%dM_result>/<%dM_target>"
   },
   "62105": {
-    "ふくびき券を　<%nM_Hukubiki_Num>枚　手に入れた！": ""
+    "ふくびき券を　<%nM_Hukubiki_Num>枚　手に入れた！": "Received <%nM_Hukubiki_Num> Lottery Tickets!"
   },
   "62106": {
-    "おまとめぶくろがいっぱいで　ふくびき券を　入手できなかった！": ""
+    "おまとめぶくろがいっぱいで　ふくびき券を　入手できなかった！": "Cannot receive Lottery Tickets becuase your\ncurrencies bag is full!"
   },
   "62125": {
-    "<%sL_TOTI_BANGOU2>と<%sL_TOTI_BANGOU>を　入れ替えた！": ""
+    "<%sL_TOTI_BANGOU2>と<%sL_TOTI_BANGOU>を　入れ替えた！": "Replaced <%sL_TOTI_BANGOU2> and <%sL_TOTI_BANGOU>!"
   },
   "62162": {
-    "<%s_ACHIEVE_NAME>を　達成した！\n<%sM_item>を <%dM_item_num>個 手に入れた！": ""
+    "<%s_ACHIEVE_NAME>を　達成した！\n<%sM_item>を <%dM_item_num>個 手に入れた！": "Earned the \"<%s_ACHIEVE_NAME>\" achievement!\nReceived <%dM_item_num> <%sM_item>"
   },
   "62218": {
-    "<%sL_KYOUKA_ITEM>をつかった！\n<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_ADD_KOUKA>が付き\n<%sL_DEL_KOUKA>が消えた！": ""
+    "<%sL_KYOUKA_ITEM>をつかった！\n<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_ADD_KOUKA>が付き\n<%sL_DEL_KOUKA>が消えた！": "Used <%sL_KYOUKA_ITEM>! <%sL_ADD_KOUKA>\nwas applied to the <%sL_ACCE_ITEM><%sL_PLUSNUM_3>\nand <%sL_DEL_KOUKA> was removed!"
   },
   "62219": {
-    "<%sL_KYOUKA_ITEM>を <%nL_KYOUKA_ITEMNUM>個つかった！\n<%sL_ITEM><%sL_PLUSNUM>は　<%sL_ITEM><%sL_RESLT_PLUSNUM>に なった！": ""
+    "<%sL_KYOUKA_ITEM>を <%nL_KYOUKA_ITEMNUM>個つかった！\n<%sL_ITEM><%sL_PLUSNUM>は　<%sL_ITEM><%sL_RESLT_PLUSNUM>に なった！": "Used <%dL_KYOUKA_ITEMNUM> <%sL_KYOUKA_ITEM>!\n<%sL_ITEM><%sL_PLUSNUM> became\n<%sL_ITEM><%sL_RESLT_PLUSNUM>!"
   }
 }

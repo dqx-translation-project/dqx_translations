@@ -51,7 +51,7 @@
     "バージョンアップ進行状況": "Version Update Progress"
   },
   "15371": {
-    "バージョンアップが　終わりました！<end>": ""
+    "バージョンアップが　終わりました！<end>": "Version upgrade is complete!<end>"
   },
   "15398": {
     "<center><speed=0>（削除予定）": "<speed=0>(For Deletion)"
@@ -63,7 +63,7 @@
     "冒険の書<%nNO>のデータを　消しました。<end>": "Data of Adventure Log <%nNO> was deleted.<end>"
   },
   "15409": {
-    "冒険の書<%nNO>に保存されている\n<%sPCNAME>と　<%sPCNAME2>の\nすべての冒険の記録を消します。<br>\nオフラインモードと　オンラインモードの\n両方のキャラで　冒険ができなくなりますが\n冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": ""
+    "冒険の書<%nNO>に保存されている\n<%sPCNAME>と　<%sPCNAME2>の\nすべての冒険の記録を消します。<br>\nオフラインモードと　オンラインモードの\n両方のキャラで　冒険ができなくなりますが\n冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": "Delete all adventure records for <%sPCNAME>\nand <%sPCNAME2> stored in Adventure Log <%nNO>.<br>\nYou will not be able to adventure with\ncharacters in both offline mode and online\nmode. Is it okay to delete Adventure Log <%nNO>?<yesno 2><break>"
   },
   "15410": {
     "あやまって消すのを防ぐため\n以下の　確認番号を入れてください。\n確認番号：<%sNUM><break>": "Please enter the following confirmation\nnumber to prevent accidental deletion.\nConfirmation Number: <%sNUM><break>"
@@ -72,19 +72,19 @@
     "データを消す　冒険の書を　選んでください。<break>": "Please select an Adventure Log to erase.<break>"
   },
   "15412": {
-    "冒険の書<%nNO>を消しています……。<break>": "Adventure Log <%dNO> was deleted...<break>"
+    "冒険の書<%nNO>を消しています……。<break>": "Adventure Log <%nNO> was deleted...<break>"
   },
   "15413": {
     "利用券を　購入しました！\n有効期間が　<%d_YYYY>年<%d_MM>月<%d_DD>日までに\nなりました。<me_60><end>": "Ticket purchased!\nIt is valid until <%d_MM>/<%d_DD>/<%d_YYYY>.<me_60><end>"
   },
   "15414": {
-    "いったん　ドラゴンクエストⅩを終了して\nＷiiショッピングチャンネルを起動します。\nよろしいですか？<yesno 2><close>": ""
+    "いったん　ドラゴンクエストⅩを終了して\nＷiiショッピングチャンネルを起動します。\nよろしいですか？<yesno 2><close>": "Once you exit Dragon Quest X, launch the Wii\nShopping Channel. Is that okay?<yesno 2><close>"
   },
   "15416": {
-    "どの利用券を　買いますか？\n有効期間の合計が　<%dMAXDAY>日を越える利用券は\n購入できません。<break>": ""
+    "どの利用券を　買いますか？\n有効期間の合計が　<%dMAXDAY>日を越える利用券は\n購入できません。<break>": "Which ticket would you like to buy? Tickets\nwith a total validity period exceeding <%dMAXDAY>\ndays cannot be purchased.<break>"
   },
   "15418": {
-    "アイテムチケットを買い足す\n冒険の書を　選んでください。<break>": ""
+    "アイテムチケットを買い足す\n冒険の書を　選んでください。<break>": "Select the Adventure Log for which you want to\npurchase more item tickets."
   },
   "15423": {
     "これ以上　冒険の書を作れません！\n新しく作りたい場合は　先に\nいずれかの　冒険の書を消してください。<end>": "You can't create any more Adventure Logs!\nPlease delete one of your existing Adventure\nLogs first."
@@ -96,16 +96,16 @@
     "ログイン画面に　戻りますか？<yesno 2><break>": "Return to the login screen?<yesno 2><break>"
   },
   "15426": {
-    "あと　約<%dHOUR>時間<%02dMIN>分<%02dSEC>秒": ""
+    "あと　約<%dHOUR>時間<%02dMIN>分<%02dSEC>秒": "About <%dHOUR>h <%dMIN>m <%02dSEC>s Left"
   },
   "15456": {
     "<%d_YYYY>年<%d_MM>月<%d_DD>日まで": "Until <%d_MM>/<%d_DD>/<%d_YYYY>"
   },
   "15457": {
-    "利用券の購入履歴": ""
+    "利用券の購入履歴": "Ticket Purchase History"
   },
   "15458": {
-    "利用券の有効期間が　<%dMAXDAY>日を超えるため\nその利用券は　購入できません。<end>": ""
+    "利用券の有効期間が　<%dMAXDAY>日を超えるため\nその利用券は　購入できません。<end>": "The ticket cannot be purchased because its\nvalidity period exceeds <%dMAXDAY> days.<end>"
   },
   "16048": {
     "　　 キャラクター未作成": "Character Not Created"
@@ -117,7 +117,7 @@
     "（※削除予定）": "(※For Deletion)"
   },
   "16054": {
-    "あと　約<%dSEC>秒": ""
+    "あと　約<%dSEC>秒": "About <%dSEC>s Left"
   },
   "16055": {
     "<%sZONE>": "<%sZONE>"
@@ -147,19 +147,19 @@
     "冒険の書を　選んでください。<break>": "<speed=0>Choose an Adventure Log.<break>"
   },
   "24275": {
-    "バージョンアップを中断しています……。<break>": ""
+    "バージョンアップを中断しています……。<break>": "Version upgrade is suspended...<break>"
   },
   "24464": {
-    "バージョンアップを続けるために\nいったん　ゲームを再起動させます。<end>": ""
+    "バージョンアップを続けるために\nいったん　ゲームを再起動させます。<end>": "Restart the game once to continue upgrading.<end>"
   },
   "24465": {
-    "バージョンアップを続けるには　<%sConsole>本体の更新が\n必要です。次の画面から　本体の更新をして\nもう一度　ゲームをスタートさせてください。<end>": ""
+    "バージョンアップを続けるには　<%sConsole>本体の更新が\n必要です。次の画面から　本体の更新をして\nもう一度　ゲームをスタートさせてください。<end>": "The <%sConsole> itself must be updated to\ncontinue upgrading. Please update your system\nfrom the next screen and start the game again.<end>"
   },
   "28343": {
-    "・購入した時点から 利用券は有効となり\n　ご利用中のアカウントにのみ 反映されます。\n　\n・利用券の日数は 購入した日からの起算となり\n　終了日の24時までが 有効期間となります。\n　\n・ただし 利用券の有効期間（無料期間を含む）が\n　残っている時に 追加で利用券を購入した場合は\n　購入分の期間が 有効期間に追加されます。\n　\n・有効期間が 最長<%dMAXDAY>日を超える\n　利用券は 購入できません。": ""
+    "・購入した時点から 利用券は有効となり\n　ご利用中のアカウントにのみ 反映されます。\n　\n・利用券の日数は 購入した日からの起算となり\n　終了日の24時までが 有効期間となります。\n　\n・ただし 利用券の有効期間（無料期間を含む）が\n　残っている時に 追加で利用券を購入した場合は\n　購入分の期間が 有効期間に追加されます。\n　\n・有効期間が 最長<%dMAXDAY>日を超える\n　利用券は 購入できません。": "・The ticket is valid from the time of\n  purchase and will only be applied to your\n  current account.\n　\n・The number of days of the ticket is\n  calculated from the purchase date and valid\n  until 24:00 on the day the ticket expires.\n　\n・However, if you purchase an additional usage\n  ticket while the validity period is still\n  remaining, the period of the purchased\n  ticket will be added to the validity period.\n　\n・Tickets whose validity period exceeds <%dMAXDAY>\n  days cannot be purchased."
   },
   "28344": {
-    "・利用券を Ｗiiポイントで購入する場合は\n　有効期間を 自動継続することはできません。\n　期限切れになりましたら 再度 ご購入ください。\n　\n・この利用券は ドラゴンクエストⅩの\n　オンラインモードでのみ ご利用いただけます。\n　他のＷiiソフトでは ご利用いただけませんので\n　ご注意ください。\n　\n・この利用券については ドラゴンクエストⅩの\n　取扱説明書 および 利用規約の条件が 適用されます。": ""
+    "・利用券を Ｗiiポイントで購入する場合は\n　有効期間を 自動継続することはできません。\n　期限切れになりましたら 再度 ご購入ください。\n　\n・この利用券は ドラゴンクエストⅩの\n　オンラインモードでのみ ご利用いただけます。\n　他のＷiiソフトでは ご利用いただけませんので\n　ご注意ください。\n　\n・この利用券については ドラゴンクエストⅩの\n　取扱説明書 および 利用規約の条件が 適用されます。": "・If you purchase a ticket with Wii Points,\n  the validity period cannot be auto-renewed.\n  Please purchase again when it expires.\n　\n・This ticket can only be used in the online\n  mode of Dragon Quest X.\n  Please note that it cannot be used with\n  other Wii software.。\n　\n・The terms and conditions of the Dragon Quest\n  X instruction manual and terms of use apply\n  to this ticket."
   },
   "28415": {
     "確認番号が　ちがいます。<end>": "Incorrect confirmation number.<end>"
@@ -168,58 +168,58 @@
     "確認番号の入力": "Enter Number"
   },
   "29659": {
-    "この<%sConsole>に登録されていない\nスクウェア・エニックス アカウントを使って\n一時的に　オンラインモードで遊べます。<br>\nただし　利用券の購入はできないので\n有効期間が残っていなければ　遊べません。<br>\nネットワークに接続して　ゲストプレイヤーで\nオンラインモードを始めますか？<yesno><close>": ""
+    "この<%sConsole>に登録されていない\nスクウェア・エニックス アカウントを使って\n一時的に　オンラインモードで遊べます。<br>\nただし　利用券の購入はできないので\n有効期間が残っていなければ　遊べません。<br>\nネットワークに接続して　ゲストプレイヤーで\nオンラインモードを始めますか？<yesno><close>": "You can temporarily play in online mode using\na Square Enix account that is not registered\non this <%sConsole>.<br>\nHowever, you cannot purchase tickets, so you\nwill not be able to play unless the validity\nperiod remains.<br>\nDo you want to connect to the network and\nstart online mode as a guest player?<yesno><close>"
   },
   "29660": {
-    "すでに　オンラインモードで遊んでいる\nスクウェア・エニックス アカウントを登録して\nこの<%sConsole>で　続きを遊べるようにします。<br>\nなお　オフラインモードのプレイデータや\nまだオンラインモードまで進めていない\n冒険の書は　引きつがれません。<br>\nネットワークに接続して　プレイヤー<%nPLAYER_NO>に\nすでに遊んでいる　アカウントの登録を行います。\nよろしいですか？<yesno><close>": ""
+    "すでに　オンラインモードで遊んでいる\nスクウェア・エニックス アカウントを登録して\nこの<%sConsole>で　続きを遊べるようにします。<br>\nなお　オフラインモードのプレイデータや\nまだオンラインモードまで進めていない\n冒険の書は　引きつがれません。<br>\nネットワークに接続して　プレイヤー<%nPLAYER_NO>に\nすでに遊んでいる　アカウントの登録を行います。\nよろしいですか？<yesno><close>": "Register a Square Enix account that is already\nplaying in online mode so that you can\ncontinue playing on this <%sConsole>.<br>\nPlease note that offline mode play data and\nAdventure Logs that have not yet progressed to\nonline mode will not be carried over.<br>\nConnect to the network and register an account\nthat is already playing with player <%dPLAYER_NO>.\nIs that okay?<yesno><close>"
   },
   "29661": {
-    "プレイヤーを選んでください。<break>": ""
+    "プレイヤーを選んでください。<break>": "Please select a player.<break>"
   },
   "29662": {
-    "プレイヤー登録をして　キャラを作ってください。\nキャラを作ると　『オフラインモード』で\nゲームが　スタートします。<end>": ""
+    "プレイヤー登録をして　キャラを作ってください。\nキャラを作ると　『オフラインモード』で\nゲームが　スタートします。<end>": "Register as a player and create your\ncharacter. Once you create a character, the\ngame starts in \"offline mode\".<end>"
   },
   "29663": {
-    "ペアレンタルコントロールを一時解除して\nネットワーク機能が利用できるようになりました。": ""
+    "ペアレンタルコントロールを一時解除して\nネットワーク機能が利用できるようになりました。": "Parental controls are temporarily removed and\nnetwork functions are available."
   },
   "29664": {
-    "オンラインの手続きを　いったん中断して\nタイトル画面に戻りますか？\n（再度プレイヤーを選択すると　再開できます）<yesno 2><close>": ""
+    "オンラインの手続きを　いったん中断して\nタイトル画面に戻りますか？\n（再度プレイヤーを選択すると　再開できます）<yesno 2><close>": "Temporarily interrupt the online process and\nreturn to the title screen?\n(Resume by selecting the player again.)<yesno 2><close>"
   },
   "29665": {
-    "まずは　アカウントの準備をします。\nすでに　スクウェア・エニックス アカウントを\nお持ちですか？\n<select>\nはい\nいいえ\nタイトルに戻る\n<select_end><break>": ""
+    "まずは　アカウントの準備をします。\nすでに　スクウェア・エニックス アカウントを\nお持ちですか？\n<select>\nはい\nいいえ\nタイトルに戻る\n<select_end><break>": "First, prepare your account. Already have a\nSquare Enix account?\n<select>\nYes\nNo\nReturn to Title\n<select_end><break>"
   },
   "29666": {
-    "それでは　これから　あなたの\nスクウェア・エニックス アカウントを\n新たに　作成します。<bw_break>": ""
+    "それでは　これから　あなたの\nスクウェア・エニックス アカウントを\n新たに　作成します。<bw_break>": "Now, let's create a new Square Enix account\nfor you.<bw_break>"
   },
   "29667": {
-    "冒険の書<%nNO>に　<%sPCNAME>を登録しました！<end>": "<%sPCNAME> has been registered in Adventure Log <%dNO>!"
+    "冒険の書<%nNO>に　<%sPCNAME>を登録しました！<end>": "<%sPCNAME> has been registered in Adventure Log <%nNO>!"
   },
   "29668": {
-    "Ｗii本体保存メモリの\n書き込み／読み出しができませんでした。\nくわしくは　Ｗii本体の\n取扱説明書をお読みください。": ""
+    "Ｗii本体保存メモリの\n書き込み／読み出しができませんでした。\nくわしくは　Ｗii本体の\n取扱説明書をお読みください。": "Write/read of the Wii's memory could not be\nperformed. For more information, please read\nthe instruction\nmanual of the Wii console."
   },
   "29669": {
-    "Ｗii本体保存メモリが壊れました。\nくわしくは　Ｗii本体の\n取扱説明書をお読みください。": ""
+    "Ｗii本体保存メモリが壊れました。\nくわしくは　Ｗii本体の\n取扱説明書をお読みください。": "The Wii unit storage memory is broken. For\nmore information, please read the instruction\nmanual of the Wii console."
   },
   "29671": {
-    "本体に　セーブファイルを作成します。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": ""
+    "本体に　セーブファイルを作成します。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": "Create a save file on the main unit. Do not\ntouch the power or reset button...<break>"
   },
   "29672": {
     "ドラゴンクエストⅩの\nセーブファイルを　作成しました！<end>": "Dragon Quest X save file created!<end>"
   },
   "29673": {
-    "セーブしています。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": ""
+    "セーブしています。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": "Saving. Do not touch the power or reset\nbutton...<break>"
   },
   "29676": {
-    "Ｗii本体保存メモリの　空きファイル数が\n不足しています。\nＷiiメニューのデータ管理画面で　データを\nＳＤカードに移動するか　データを消去してください。\n＜ボタンを押すと　データ管理画面を起動します＞": ""
+    "Ｗii本体保存メモリの　空きファイル数が\n不足しています。\nＷiiメニューのデータ管理画面で　データを\nＳＤカードに移動するか　データを消去してください。\n＜ボタンを押すと　データ管理画面を起動します＞": "Insufficient number of free files in the Wii's memory.\nMove the data to the SD card or erase the data\nin the Data Management screen of the Wii menu\n(Press the button to open data management.)"
   },
   "29677": {
-    "Ｗii本体保存メモリの　空き容量が不足しています。\nＷiiメニューのデータ管理画面で　データを\nＳＤカードに移動するか　データを消去して\n<%nNUM>ブロックの空きブロックを用意してください。\n＜ボタンを押すと　データ管理画面を起動します＞": ""
+    "Ｗii本体保存メモリの　空き容量が不足しています。\nＷiiメニューのデータ管理画面で　データを\nＳＤカードに移動するか　データを消去して\n<%nNUM>ブロックの空きブロックを用意してください。\n＜ボタンを押すと　データ管理画面を起動します＞": "Insufficient free space in the Wii's memory.\nMove the data to the SD card or erase the data\nin the Data Management screen of the Wii menu\nto have <%dNUM> free blocks.\n(Press the button to open data management.)"
   },
   "29678": {
-    "Ｗiiリモコンに　ヌンチャクか\nクラシックコントローラを　接続してください。\nまた　本体とＷiiリモコンが\n接続されているか　確認してください。": ""
+    "Ｗiiリモコンに　ヌンチャクか\nクラシックコントローラを　接続してください。\nまた　本体とＷiiリモコンが\n接続されているか　確認してください。": "Please connect the Nunchuk or Classic\nController to the Wii Remote. Also, make sure\nthe Wii remote is connected to the main unit."
   },
   "29685": {
-    "バージョンアップをしないと\nドラゴンクエストⅩを　遊べませんが\n中断してもよろしいですか？<yesno 2><break>": ""
+    "バージョンアップをしないと\nドラゴンクエストⅩを　遊べませんが\n中断してもよろしいですか？<yesno 2><break>": "If you do not upgrade, you will not be able to\nplay Dragon Quest X. Is it okay to interrupt\nthe process?<yesno 2><break>"
   },
   "29702": {
     "<%sPCNAME>は　現在の環境からでは行けない\n場所で中断しているため　再開できませんでした。\n元の環境から　冒険の続きをしてください。<end>": "<%sPCNAME> cannot be played because they\nare located in an inaccessible area using\nthis platform. Please log in on your original platform."
@@ -234,73 +234,74 @@
     "ベータテストの利用期間が　ありません。\nゲームをプレイするには　先に\n利用券を　購入していただく必要があります。<br>\n現在　ベータテスト中ですので\n無料で　ベータテストの利用券を購入できます。\nチケット購入メニューに　移動します。<end>": "Something something beta test"
   },
   "29706": {
-    "利用券の有効期間が　残り<%d_DAY>日です！\n先に　利用券を購入したい場合は\n利用券メニューへ　移動してください。\n<select_nc>\n利用券メニューへ\n今は購入しない\n<select_end><close>": ""
+    "利用券の有効期間が　残り<%d_DAY>日です！\n先に　利用券を購入したい場合は\n利用券メニューへ　移動してください。\n<select_nc>\n利用券メニューへ\n今は購入しない\n<select_end><close>": "The validity period of the ticket will expire\nin <%d_DAY> days! If you want to purchase a ticket\nfirst, please go to the ticket menu.\n<select_nc>\nTo Ticket Menu\nDon't Purchase\n<select_end><close>"
   },
   "29707": {
-    "冒険の書<%nNO>に保存されている\n<%sPCNAME>の　冒険の記録を消します。\nよろしいですか？<yesno 2><break>": "This will delete the records of <%sPCNAME>\nsaved in Adventure Log <%dNO>.\nAre you sure?<yesno 2><break>"
+    "冒険の書<%nNO>に保存されている\n<%sPCNAME>の　冒険の記録を消します。\nよろしいですか？<yesno 2><break>": "This will delete the records of <%sPCNAME>\nsaved in Adventure Log <%nNO>.\nAre you sure?<yesno 2><break>"
   },
   "29708": {
     "（※削除予定）<bw_break>": "(※For Deletion)<bw_break>"
   },
   "29709": {
-    "同意がなければ　手続きはできません。\n規約に同意いただける場合は\nチェックを入れてから　次へ進んでください。<end>": ""
+    "同意がなければ　手続きはできません。\n規約に同意いただける場合は\nチェックを入れてから　次へ進んでください。<end>": "Without consent, the procedure cannot be\ncompleted. If you agree to the terms and\nconditions, check the box before proceeding.<end>"
   },
   "29710": {
-    "クレジットカードの登録をしておくと\n無料プレイ期間終了後に　自動で利用券が購入され\n続けて　ゲームを遊ぶことができます。<br>\n登録は　後からでもできますが\n今　クレジットカードの登録をしますか？<yesno><break>": ""
+    "クレジットカードの登録をしておくと\n無料プレイ期間終了後に　自動で利用券が購入され\n続けて　ゲームを遊ぶことができます。<br>\n登録は　後からでもできますが\n今　クレジットカードの登録をしますか？<yesno><break>": "If you register a credit card, you can\ncontinue to play after the free play period\nends by automatically purchasing a ticket.<br>\nYou can register later, but would you like to\nregister your credit card now?<yesno><break>"
   },
   "29711": {
-    "クレジットカードを　登録するには\nご連絡用の　メールアドレスが必要になります。\nよろしいですか？<yesno><close>": ""
+    "クレジットカードを　登録するには\nご連絡用の　メールアドレスが必要になります。\nよろしいですか？<yesno><close>": "To register your credit card, you will need to\nprovide a contact e-mail address.\nIs that okay?<yesno><close>"
   },
   "29712": {
-    "まず　あなたのスクウェア・エニックスＩＤとなる\nご希望の文字列を4～16文字で入れてください。\n規則については　「？」を　ご確認ください。<break>": ""
+    "まず　あなたのスクウェア・エニックスＩＤとなる\nご希望の文字列を4～16文字で入れてください。\n規則については　「？」を　ご確認ください。<break>": "First, enter your desired string of 4-16\ncharacters that will become your Square Enix\nID. Check \"?\" for rules and regulations."
   },
   "29713": {
-    "その文字列は　ご利用になれません。\n4～16文字の　英数字と　一部記号の\n組み合わせで　入力してください。<end>": ""
+    "その文字列は　ご利用になれません。\n4～16文字の　英数字と　一部記号の\n組み合わせで　入力してください。<end>": "That string cannot be used. Please use a\ncombination of 4 to 16 alphanumeric characters\nand some symbols.<end>"
   },
   "29714": {
-    "入力いただいた文字列は　すでに\n他の方の　スクウェア・エニックスＩＤで\n使用されているため　ご利用になれません。<br>\n文字列の後ろに　数字を足すなど\n少し　書き加えていただくことで\n登録しやすくなります。<end>": ""
+    "入力いただいた文字列は　すでに\n他の方の　スクウェア・エニックスＩＤで\n使用されているため　ご利用になれません。<br>\n文字列の後ろに　数字を足すなど\n少し　書き加えていただくことで\n登録しやすくなります。<end>": "The string you entered cannot be used because\nit is already being used by another person's\nSquare Enix ID.<br>\nAdding a few numbers to the end of the string\nwill make it easier to register.<end>"
   },
   "29715": {
-    "メールアドレスの認証が　確認できませんでした。\n送られたメールのＵＲＬをクリックして\n認証を行ってから　次へ進んでください。\n<select_se_off>\n認証したので次へ\nメールが届かない\nアドレスを再入力する\n<select_end><break>": ""
+    "メールアドレスの認証が　確認できませんでした。\n送られたメールのＵＲＬをクリックして\n認証を行ってから　次へ進んでください。\n<select_se_off>\n認証したので次へ\nメールが届かない\nアドレスを再入力する\n<select_end><break>": "Email address verification could not be\nconfirmed. Click on the URL in the email sent\nto you to authenticate before proceeding.\n<select_se_off>\nAuthenticated\nDidn't receive email\nReenter address<select_end><break>"
+"
   },
   "29716": {
-    "すでに　そのアドレスに送信されています。\nメール受信箱を確認してください。\n念のため　迷惑メールボックスもご確認ください。<br>\n同じメールアドレスを　改めて登録する場合は\n24時間以上待って　もう一度　お試しください。<end>": ""
+    "すでに　そのアドレスに送信されています。\nメール受信箱を確認してください。\n念のため　迷惑メールボックスもご確認ください。<br>\n同じメールアドレスを　改めて登録する場合は\n24時間以上待って　もう一度　お試しください。<end>": "It has already been sent to that address.\nPlease check your email inbox.\nPlease also check your spam just to be sure.。<br>\nIf you want to register the same email address\nagain, please wait 24 hours and try again.<end>"
   },
   "29717": {
-    "そのメールアドレスは　使えません。\n現在　利用できるメールアドレスを\n正しく入力してください。<end>": ""
+    "そのメールアドレスは　使えません。\n現在　利用できるメールアドレスを\n正しく入力してください。<end>": "That email address cannot be used. Please\nenter a valid email address that is currently\navailable.<end>"
   },
   "29718": {
-    "すでに　スクウェア・エニックス アカウントに\n登録されている　メールアドレスです。\n違うメールアドレスを　使ってください。<end>": ""
+    "すでに　スクウェア・エニックス アカウントに\n登録されている　メールアドレスです。\n違うメールアドレスを　使ってください。<end>": "This is an e-mail address that is already\nregistered in your Square Enix account.\nPlease use a different email address.<end>"
   },
   "29719": {
-    "入力いただいたメールアドレスに\n認証メールを　お送りしました！\nメールの受信箱を　ご確認ください。<br>\n案内のメールが届いたら　その内容に従って\nメールアドレスの認証を行ってください。\n認証が完了したら　次へ進んでください。\n<select_se_off>\n認証したので次へ\nメールが届かない\nアドレスを再入力する\n<select_end><break>": ""
+    "入力いただいたメールアドレスに\n認証メールを　お送りしました！\nメールの受信箱を　ご確認ください。<br>\n案内のメールが届いたら　その内容に従って\nメールアドレスの認証を行ってください。\n認証が完了したら　次へ進んでください。\n<select_se_off>\n認証したので次へ\nメールが届かない\nアドレスを再入力する\n<select_end><break>": "A verification email has been sent to the\nemail address you entered! Please check your\nemail inbox.<br>\nWhen you receive an email with instructions,\nfollow them to verify your email address.\nAfter it's verified, proceed to the next step.\n<select_se_off>\nAuthenticated\nDidn't receive email\nReenter address\n<select_end><break>"
   },
   "29720": {
-    "メールアドレスを　２回　入力してください。\n<color_yellow>※受信設定で @square-enix.com からの\n　メールを受信できるようにしておいてください。<break>": ""
+    "メールアドレスを　２回　入力してください。\n<color_yellow>※受信設定で @square-enix.com からの\n　メールを受信できるようにしておいてください。<break>": "Please enter your e-mail address twice.\n<color_yellow>*Make sure that you can receive emails from\n@square-enix.com in your inbox.<break>"
   },
   "29723": {
-    "パスワードとなる文字列を　英数記号の組み合わせ\n6～32文字で　入力してください。\n規則については　「？」を　ご確認ください。<break>": ""
+    "パスワードとなる文字列を　英数記号の組み合わせ\n6～32文字で　入力してください。\n規則については　「？」を　ご確認ください。<break>": "Enter a password of 6 to 32 alphanumeric\ncharacters. Check \"?\" for rules and\nregulations.<break>"
   },
   "29726": {
-    "ドラゴンクエストⅩ　ベータテストに当選した\nスクウェア・エニックス アカウントの\nＩＤと　パスワードを　入れてください。<break>": ""
+    "ドラゴンクエストⅩ　ベータテストに当選した\nスクウェア・エニックス アカウントの\nＩＤと　パスワードを　入れてください。<break>": "Please enter the ID and password of the Square\nEnix account that won the Dragon Quest X beta\ntest.<break>"
   },
   "29727": {
-    "スクウェア・エニックス アカウントの\nＩＤと　パスワードを　入れてください。<break>": ""
+    "スクウェア・エニックス アカウントの\nＩＤと　パスワードを　入れてください。<break>": "Please enter your Square Enix account ID and password.<break>"
   },
   "29728": {
     "ログアウトしています……。<break>": "Logging out...<break>"
   },
   "29729": {
-    "新しい冒険の書を作るには　オフラインモードから\nスタートする必要があります。\n<color_yellow>※最初のシナリオは　スキップできます。<color_white><br>\nオフラインモードを　スタートするために\n今すぐ　ログアウトしますか？<yesno><break>": ""
+    "新しい冒険の書を作るには　オフラインモードから\nスタートする必要があります。\n<color_yellow>※最初のシナリオは　スキップできます。<color_white><br>\nオフラインモードを　スタートするために\n今すぐ　ログアウトしますか？<yesno><break>": "To create a new Adventure Log, you will need\nto start in offline mode.\n<color_yellow>*The first scenario can be skipped.<color_white><br>\nWould you like to log out now to start offline\nmode?<yesno><break>"
   },
   "29730": {
-    "冒険の書に記録しています。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": ""
+    "冒険の書に記録しています。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": "Recording in the Adventure Log. Do not touch\nthe power or reset button...<break>"
   },
   "29731": {
     "冒険の書に記録しました！<end>": "Adventure Log recorded!<end>"
   },
   "29732": {
-    "システムデータを保存しています。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": ""
+    "システムデータを保存しています。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": "Saving system data. Do not touch the power or\nreset button...<break>"
   },
   "29733": {
     "システムデータを保存しました！<end>": "System data saved!<end>"
@@ -318,40 +319,40 @@
     "サーバー情報を　確認しています……。<break>": "<speed=0>Checking server information...<break>"
   },
   "29738": {
-    "レジストレーションコードの登録をしないと\nオンラインモードを　遊ぶことができません。\nいったん登録をやめて　タイトルに戻りますか？<yesno><break>": ""
+    "レジストレーションコードの登録をしないと\nオンラインモードを　遊ぶことができません。\nいったん登録をやめて　タイトルに戻りますか？<yesno><break>": "You will not be able to play online mode\nwithout registering your registration code.\nCancel registration and return to the title?<yesno><break>"
   },
   "29739": {
-    "「ドラゴンクエストⅩ Ｗii版」パッケージ封入の\n『冒険者登録証』に書かれた　20文字の\nレジストレーションコードを入力してください。<break>": ""
+    "「ドラゴンクエストⅩ Ｗii版」パッケージ封入の\n『冒険者登録証』に書かれた　20文字の\nレジストレーションコードを入力してください。<break>": "Please enter the 20-character registration\ncode written on the \"Adventurer Registration\nCard\" included in the \"Dragon Quest X Wii\n<br>\nVersion\" package.<break>"
   },
   "29740": {
-    "レジストレーションコードが　間違っています。<end>": ""
+    "レジストレーションコードが　間違っています。<end>": "The registration code is incorrect.<end>"
   },
   "29741": {
-    "そのレジストレーションコードは　使えません。\n正しい　レジストレーションコードを\nご確認ください。<end>": ""
+    "そのレジストレーションコードは　使えません。\n正しい　レジストレーションコードを\nご確認ください。<end>": "That registration code cannot be used. Make\nsure you have the correct registration code.<end>"
   },
   "29742": {
-    "「ドラゴンクエストⅩ <%sPlatform>版」の\nレジストレーションコードが登録されていません。\nアカウントを　ご確認ください。<end>": ""
+    "「ドラゴンクエストⅩ <%sPlatform>版」の\nレジストレーションコードが登録されていません。\nアカウントを　ご確認ください。<end>": "The registration code for \"Dragon Quest X\n<%sPlatform> version\" has not\nbeen registered. Please check your account.<end>"
   },
   "29743": {
-    "レジストレーションコードを　登録しました！\nあなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><br>\nレジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<br>\nこれで　ＳＴＥＰ３は　完了です！\n　<me_58><end>": ""
+    "レジストレーションコードを　登録しました！\nあなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><br>\nレジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<br>\nこれで　ＳＴＥＰ３は　完了です！\n　<me_58><end>": "Registration code has been registered!\nYour account will be free to play for 20 days\nstarting today!<me_60><br>\nPlease keep your registration code in a safe\nplace as it will be used to verify your\nidentity in the future.<br>\nSTEP 3 is now complete!<me_58><end>"
   },
   "29744": {
-    "ご使用のアカウントに　Ｗii版の\nレジストレーションコードを　登録しました！\nこれで　Ｗiiで遊べるようになります。<end>": ""
+    "ご使用のアカウントに　Ｗii版の\nレジストレーションコードを　登録しました！\nこれで　Ｗiiで遊べるようになります。<end>": "The registration code for the Wii version has\nbeen registered to your account!\nThis will allow you to play on the Wii.<end>"
   },
   "29784": {
-    "あなたの　スクウェア・エニックス アカウントが\n発行されました！<me_60><br>\nこの　ＩＤとパスワードは\n忘れたり　誰かに知られたりしないように\n充分に　お気をつけください！<bw_break>": ""
+    "あなたの　スクウェア・エニックス アカウントが\n発行されました！<me_60><br>\nこの　ＩＤとパスワードは\n忘れたり　誰かに知られたりしないように\n充分に　お気をつけください！<bw_break>": "Your Square Enix account has been issued!<me_60><br>\nPlease be careful not to forget or let anyone\nknow your ID and password!<bw_break>"
   },
   "29785": {
-    "<close>": ""
+    "<close>": "<close>"
   },
   "29786": {
-    "入力したスクウェア・エニックス アカウントには\nすでに　ドラゴンクエストⅩの\nレジストレーションコードが　登録されています！<br>\nいったんタイトルに戻り　プレイヤーの新規登録で\n『すでに遊んでいるアカウントを登録する』ことで\nこのアカウントで　冒険を続けることができます。<br>\nタイトルに戻りますか？<yesno><break>": ""
+    "入力したスクウェア・エニックス アカウントには\nすでに　ドラゴンクエストⅩの\nレジストレーションコードが　登録されています！<br>\nいったんタイトルに戻り　プレイヤーの新規登録で\n『すでに遊んでいるアカウントを登録する』ことで\nこのアカウントで　冒険を続けることができます。<br>\nタイトルに戻りますか？<yesno><break>": "The Square Enix account you entered already\ncontains a Dragon Quest X registration code!<br>\nOnce you return to the title, you can continue\nyour adventure with your existing account by\n\"Register an account you're already playing.\".<br>\nReturn to the title?<yesno><break>"
   },
   "29787": {
-    "住所を入れてください。\n（建物名の入力は　任意です）<break>": ""
+    "住所を入れてください。\n（建物名の入力は　任意です）<break>": "Please enter your address.\n(Building name is optional.)<break>"
   },
   "29788": {
-    "スクウェア・エニックス アカウントの取得には\n年齢確認のために　生年月日の入力が必要です。\nあなたの生年月日を　入れてください。<break>": ""
+    "スクウェア・エニックス アカウントの取得には\n年齢確認のために　生年月日の入力が必要です。\nあなたの生年月日を　入れてください。<break>": "To obtain a Square Enix Account, you will need\nto enter your date of birth to verify your\nage. Please enter your date of birth.<break>"
   },
   "29789": {
     "（※削除予定です）": "(※To be deleted)"
@@ -360,31 +361,31 @@
     "（※削除予定です）": "(※To be deleted)"
   },
   "29791": {
-    "続いて　クレジットカードの登録をします。<end>": ""
+    "続いて　クレジットカードの登録をします。<end>": "Next, register your credit card.<end>"
   },
   "29792": {
-    "クレジットカードの登録をやめて\nオンラインの手続きを　次に進めますか？\n（クレジットカード登録は　後からでも行えます）\n<select_nc_se_off>\nカード登録をやめて次へ\nカード登録を続ける\n<select_end><break>": ""
+    "クレジットカードの登録をやめて\nオンラインの手続きを　次に進めますか？\n（クレジットカード登録は　後からでも行えます）\n<select_nc_se_off>\nカード登録をやめて次へ\nカード登録を続ける\n<select_end><break>": "Stop registering your credit card and proceed\nto the next step in the online process?\n(Credit card registration can be done later.)\n<select_nc_se_off>\nStop Registering\nContinue Registering\n<select_end><break>"
   },
   "29793": {
-    "クレジットカードの登録を　中止しました。\n登録をしたい時は　『利用券メニュー』から\nいつでも　行うことができます。<br>\nこれで　ＳＴＥＰ２は　完了です！\n　<me_58><end>": ""
+    "クレジットカードの登録を　中止しました。\n登録をしたい時は　『利用券メニュー』から\nいつでも　行うことができます。<br>\nこれで　ＳＴＥＰ２は　完了です！\n　<me_58><end>": "Credit card registration has been canceled.\nYou can register at any time from the \"Ticket\nMenu\".<br>\nSTEP 2 is now complete!\n<me_58><end>"
   },
   "29794": {
-    "自動継続で購入する利用券を　選んでください。\n（自動継続を解除したい時は　メインメニューの\n　『利用券メニュー』から　いつでも行えます）\n<select_nc_se_off>\n30日間利用券\n60日間利用券\n90日間利用券\nやっぱりあとで\n<select_end><close>": ""
+    "自動継続で購入する利用券を　選んでください。\n（自動継続を解除したい時は　メインメニューの\n　『利用券メニュー』から　いつでも行えます）\n<select_nc_se_off>\n30日間利用券\n60日間利用券\n90日間利用券\nやっぱりあとで\n<select_end><close>": "Select the ticket to purchase on auto-renewal.\n(You can cancel auto-renewal at any time from\nthe \"Ticket Menu\" in the main menu.)\n<select_nc_se_off>\n30-Day Ticket\n60-Day Ticket\n90-Day Ticket\nCancel\n<select_end><close>"
   },
   "29795": {
-    "クレジットカードを登録しました！\nこれで　ＳＴＥＰ２は　完了です！<me_58><end>": ""
+    "クレジットカードを登録しました！\nこれで　ＳＴＥＰ２は　完了です！<me_58><end>": "Registered credit card!\nSTEP 2 is now complete!<me_58><end>"
   },
   "29796": {
-    "支払いに使う　クレジットカードの\n情報を入力してください。<break>": ""
+    "支払いに使う　クレジットカードの\n情報を入力してください。<break>": "Enter the credit card information to be used\nfor payment.<break>"
   },
   "29797": {
-    "クレジットカードの認証に　失敗しました。\nカードの種類（VISA/MasterCard/JCBのみ）や\n入力内容に間違いがないか　ご確認ください。<end>": ""
+    "クレジットカードの認証に　失敗しました。\nカードの種類（VISA/MasterCard/JCBのみ）や\n入力内容に間違いがないか　ご確認ください。<end>": "Credit card authorization failed. Please check\nthat the card type (VISA/MasterCard/JCB only)\nand entered information are correct.<end>"
   },
   "29798": {
-    "あなたのアカウントで\nドラゴンクエストⅩの　オンラインモードを\n遊べるようにする　手続きをします。<bw_break>": ""
+    "あなたのアカウントで\nドラゴンクエストⅩの　オンラインモードを\n遊べるようにする　手続きをします。<bw_break>": "This is a procedure to enable your account to\nplay Dragon Quest X online mode.<bw_break>"
   },
   "29799": {
-    "オンラインの世界では　多くの人が\nあなたのキャラや　兄弟（姉妹）キャラの名前を\n目にすることになります。<br>\n<color_yellow>本名など　個人を特定される名前や\n他の人が不快に感じる名前は\nここで　変更を　お願いします。<color_white><br>\nドラゴンクエストⅩの　オンラインの世界に\n『<%sPCNAME>』という名前のキャラは\n現在　<%dNUM>名ほど　いるようです。<br>\n『<%sPCNAME>』という名前で\n冒険の書に反映して　よろしいですか？<yesno><break>": ""
+    "オンラインの世界では　多くの人が\nあなたのキャラや　兄弟（姉妹）キャラの名前を\n目にすることになります。<br>\n<color_yellow>本名など　個人を特定される名前や\n他の人が不快に感じる名前は\nここで　変更を　お願いします。<color_white><br>\nドラゴンクエストⅩの　オンラインの世界に\n『<%sPCNAME>』という名前のキャラは\n現在　<%dNUM>名ほど　いるようです。<br>\n『<%sPCNAME>』という名前で\n冒険の書に反映して　よろしいですか？<yesno><break>": "In this online world, people will be able to\nsee the name of your character and your\nsibling.<br>\n<color_yellow>Please don't use any names that infringe any\ncopyrights, reveal private information, or\nmake others feel uncomfortable.<color_white><br>\nIt seems there are <%dNUM> other players also\nusing the name \"<%sPCNAME>\" in Dragon Quest X.\n<br>\nWould you like to start your adventure with\nthe name \"<%sPCNAME>\"?<yesno><break>"
   },
   "29800": {
     "新しい名前を入れてください。<break>": "Please enter a new name.<break>"
@@ -396,25 +397,25 @@
     "あなたが付けた　キャラの名前は\nオンラインの世界では　使うことができません。\n別の名前に変えてください。<bw_break>": "The character name you chose cannot\nbe used online. Please choose a different\nname.<bw_break>"
   },
   "29803": {
-    "そのパスワードは　使えません。\n次のいずれかに　該当していると思われます。\n・最少文字数（6文字）未満<br>\n・ＩＤと同じ文字列で始まっている\n・同じ文字が3文字以上続いている\n・英字／数字／記号の　いずれかのみの文字列<end>": ""
+    "そのパスワードは　使えません。\n次のいずれかに　該当していると思われます。\n・最少文字数（6文字）未満<br>\n・ＩＤと同じ文字列で始まっている\n・同じ文字が3文字以上続いている\n・英字／数字／記号の　いずれかのみの文字列<end>": "That password cannot be used. One of the following may apply.\n・Less than minimum number of characters (6)<br>\n・Starts with the same string as the ID.\n・String of only letters/numbers/symbols.<end>"
   },
   "29804": {
-    "パスワードを　<%sConsole>本体に保存すれば\n次回から　パスワードの入力を省略できます。\nパスワードを　<%sConsole>本体に保存しますか？<yesno><close>": ""
+    "パスワードを　<%sConsole>本体に保存すれば\n次回から　パスワードの入力を省略できます。\nパスワードを　<%sConsole>本体に保存しますか？<yesno><close>": "You can save the password in the\n<%sConsole> so you do not have to enter it\nnext time. Save the password?<yesno><close>"
   },
   "29805": {
-    "あなたの　性別と名前を\n入れてください。<break>": ""
+    "あなたの　性別と名前を\n入れてください。<break>": "Please enter your gender and name.<break>"
   },
   "29806": {
-    "20日間の　無料期間が　ありますので\nこのアカウントでは　オンラインモードを\n<%d_YYYY>年<%d_MM>月<%d_DD>日まで　無料で遊べます。<br>\n無料の期間が終わると\n登録したクレジットカードで\n利用券が　自動的に購入されます。<end>": ""
+    "20日間の　無料期間が　ありますので\nこのアカウントでは　オンラインモードを\n<%d_YYYY>年<%d_MM>月<%d_DD>日まで　無料で遊べます。<br>\n無料の期間が終わると\n登録したクレジットカードで\n利用券が　自動的に購入されます。<end>": "You have 20 days of free time, so you can play\nonline mode for free with this account until\n<%d_YYYY>/<%d_MM>/<%d_DD>.<br>\nAfter the free period is over, a subscription\nticket will be automatically purchased with\nthe registered credit card.<end>"
   },
   "29807": {
-    "20日間の　無料期間が　ありますので\nこのアカウントでは　オンラインモードを\n<%d_YYYY>年<%d_MM>月<%d_DD>日まで　無料で遊べます。<br>\n無料期間が終わってからも　ゲームを続けるには\nＷiiポイントで　利用券を購入するか\nクレジットカードの登録を　行なってください。<end>": ""
+    "20日間の　無料期間が　ありますので\nこのアカウントでは　オンラインモードを\n<%d_YYYY>年<%d_MM>月<%d_DD>日まで　無料で遊べます。<br>\n無料期間が終わってからも　ゲームを続けるには\nＷiiポイントで　利用券を購入するか\nクレジットカードの登録を　行なってください。<end>": "You have 20 days of free time, so you can play\nonline mode for free with this account until\n<%d_YYYY>/<%d_MM>/<%d_DD>.<br>\nTo continue playing after the free period, you\nmust purchase a Wii Points subscription or\nregister a credit card.<end>"
   },
   "29808": {
-    "今後　本人確認が必要になった時のために\nひみつの質問と　その答えを\nひとつ選んで　入力してください。<break>": ""
+    "今後　本人確認が必要になった時のために\nひみつの質問と　その答えを\nひとつ選んで　入力してください。<break>": "Please select one secret question and an\nanswer and enter it in case we need to verify\nyour identity in the future.<break>"
   },
   "29809": {
-    "<speed=0>アカウント情報を保存しています。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": ""
+    "<speed=0>アカウント情報を保存しています。\n電源ボタンや　リセットボタンに\nさわらないでください……。<break>": "<speed=0>Saving account information. Do not touch the\npower or reset buttons...<break>"
   },
   "29810": {
     "プレイヤー<%nPLAYER_NO>に\n<%sID>を　登録しました！<end>": "<%sID> has been registered for\nPlayer <%dPLAYER_NO>!<end>"
@@ -423,40 +424,40 @@
     "処理中です……。<break>": "Processing...<break>"
   },
   "29812": {
-    "生年月日が　正しく入力されていません。\n正しい日付を　ご確認ください。<end>": ""
+    "生年月日が　正しく入力されていません。\n正しい日付を　ご確認ください。<end>": "Date of birth is incorrect.\nPlease enter the correct date.<end>"
   },
   "29813": {
     "入力されていない項目があります。<end>": "Some fields were left empty.<end>"
   },
   "29819": {
-    "ふたつのメールアドレスが　一致していません。\n同じものを　正しく２回　入れてください。<end>": ""
+    "ふたつのメールアドレスが　一致していません。\n同じものを　正しく２回　入れてください。<end>": "The two email addresses do not match.\nPlease enter the same one twice.<end>"
   },
   "29820": {
-    "パスワードが一致しません。\n同じものを　２回　入れてください。<end>": ""
+    "パスワードが一致しません。\n同じものを　２回　入れてください。<end>": "Password does not match.\nPlease enter the same one twice.<end>"
   },
   "29821": {
-    "入力した情報が　間違っています。\nもう一度　ご確認ください。<end>": ""
+    "入力した情報が　間違っています。\nもう一度　ご確認ください。<end>": "The information you entered is incorrect.\nPlease check again.<end>"
   },
   "29822": {
     "パスワードの再設定を　やめますか？<yesno><break>": "Stop resetting your password?<yesno><break>"
   },
   "29823": {
-    "パスワードの変更には　本人確認が必要です。\nどちらの方法で行いますか？\n<select_se_off>\nひみつの質問と答え\nレジストレーションコード\nどちらもわからない\n<select_end><close>": ""
+    "パスワードの変更には　本人確認が必要です。\nどちらの方法で行いますか？\n<select_se_off>\nひみつの質問と答え\nレジストレーションコード\nどちらもわからない\n<select_end><close>": "Identity verification is required to change\nyour password. Which method will you use?\n<select_se_off>\nSecret Question\nRegistration Code\nDon't Know Either\n<select_end><close>"
   },
   "29824": {
-    "パスワードを変更しました！\n今後は忘れないよう　ご注意ください。<end>": ""
+    "パスワードを変更しました！\n今後は忘れないよう　ご注意ください。<end>": "Password changed! Please be careful not to\nforget this in the future.<end>"
   },
   "29825": {
-    "新しいパスワードを入力してください。<break>": ""
+    "新しいパスワードを入力してください。<break>": "Please enter your new password.<break>"
   },
   "29826": {
-    "ご使用のアカウントは　<%sConsole>本体からの\nパスワードの再設定ができません。<br>\n登録されている　メールアドレスに\nパスワード再設定のご案内を　お送りしました。\nそちらに従って　再設定を行なってください。<end>": ""
+    "ご使用のアカウントは　<%sConsole>本体からの\nパスワードの再設定ができません。<br>\n登録されている　メールアドレスに\nパスワード再設定のご案内を　お送りしました。\nそちらに従って　再設定を行なってください。<end>": "The password for your account cannot be reset\nfrom the <%sConsole> itself.<br>\nWe have sent instructions to reset your\npassword to your registered email address.\nFollow the instructions and reconfigure.<end>"
   },
   "29827": {
-    "本人確認のため　このアカウントの\n登録の時に使った　レジストレーションコードを\n入れてください。<break>": ""
+    "本人確認のため　このアカウントの\n登録の時に使った　レジストレーションコードを\n入れてください。<break>": "To verify your identity, please include the\nregistration code you used when you registered\nfor this account.<break>"
   },
   "29828": {
-    "本人確認のため　アカウント作成時に設定した\nひみつの質問と　その答えを　入れてください。<break>": ""
+    "本人確認のため　アカウント作成時に設定した\nひみつの質問と　その答えを　入れてください。<break>": "To verify your identity, please enter the\nsecret question and answer you set when you\ncreated your account.<break>"
   },
   "29832": {
     "ログアウトします。\nよろしいですか？<yesno><break>": "<speed=0>Are you sure you want to log out?<yesno><break>"
@@ -465,7 +466,7 @@
     "ご使用のアカウントには 追加パッケージ\n<%sVERAPPEND>の\nレジストレーションコードが 登録されていません。\n　\nこのままプレイする場合は\n一部のコンテンツを お楽しみいただけませんので\nご注意ください。\n　\n　\n＜ボタンを押すと ゲームを続けます＞": "Your account does not have the\n<%sVERAPPEND>\nregistration code registered.\n\nIf you continue playing, please note that\nyou will not have access to some content.\n\n\n(Press any button to continue.)"
   },
   "29834": {
-    "<%sVERAPPEND>\n『プレイ登録証』に書かれた　20文字の\nレジストレーションコードを入力してください。<break>": ""
+    "<%sVERAPPEND>\n『プレイ登録証』に書かれた　20文字の\nレジストレーションコードを入力してください。<break>": "Enter the 20-character registration code\nwritten on the \"Play Registration Card\" for\n<%sVERAPPEND>.<break>"
   },
   "29835": {
     "<color_yellow>※このまま登録せずに　遊べますが\n　追加パッケージ専用の　コンテンツを\n　お楽しみいただけませんので　ご注意ください。<color_white><br>\nレジストレーションコードを登録せずに\nゲームを始めますか？<yesno><break>": "<color_yellow>※You can still play without registering, but\nyou will not be able to enjoy the content\nexclusive to the additional package.<color_white><br>\nStart the game without registering your\nregistration code?<yesno><break>"
@@ -477,55 +478,55 @@
     "<%sPCNAME>の郵便箱に\n<%sTICKETITEM>を　送りました！<me_60><end>": "<%sTICKETITEM> was sent to\n<%sPCNAME>'s mailbox!<me_60><end>"
   },
   "29974": {
-    "まだアイテムチケットを買いますか？<yesno><break>": ""
+    "まだアイテムチケットを買いますか？<yesno><break>": "Do you still want to buy item tickets?<yesno><break>"
   },
   "29975": {
-    "利用券の購入をやめます。\nよろしいですか？<yesno><break>": ""
+    "利用券の購入をやめます。\nよろしいですか？<yesno><break>": "Stop purchasing tickets. Is that okay?<yesno><break>"
   },
   "29976": {
-    "クレジットカードの登録を　解除すると\n次回より　自動継続が　行われなくなります。\n（購入済みの利用券の払い戻しは　できません）<br>\nクレジットカードの情報は　消去されますので\n自動継続の再開には　再登録が必要になります。\n登録を解除しても　よろしいですか？<yesno><break>": ""
+    "クレジットカードの登録を　解除すると\n次回より　自動継続が　行われなくなります。\n（購入済みの利用券の払い戻しは　できません）<br>\nクレジットカードの情報は　消去されますので\n自動継続の再開には　再登録が必要になります。\n登録を解除しても　よろしいですか？<yesno><break>": "If you cancel your credit card registration,\nauto-renewal will not occur next time.\n(Purchased tickets are non-refundable.)<br>\nYour credit card information will be deleted\nand you will need to re-register to resume\nauto-renewal.<br>\nAre you sure you want to cancel your\nregistration?<yesno><break>"
   },
   "29977": {
-    "クレジットカード情報を消去しました！\n利用期間の自動継続が　解除されました。<end>": ""
+    "クレジットカード情報を消去しました！\n利用期間の自動継続が　解除されました。<end>": "Credit card information has been deleted!\nAuto-renewal of the subscription has been\ncanceled.<end>"
   },
   "29978": {
-    "利用期間が切れたまま　長期間ログインしないと\nキャラクターデータが　消える可能性があります。\n本当に　解除してもよろしいですか？<yesno 2><close>": ""
+    "利用期間が切れたまま　長期間ログインしないと\nキャラクターデータが　消える可能性があります。\n本当に　解除してもよろしいですか？<yesno 2><close>": "If you do not log in for a long time after\nyour subscription expires, your character data\nmay be lost. Are you sure you want to cancel?<yesno 2><close>"
   },
   "29979": {
-    "クレジットカードの登録をすると\n利用券の有効期間が　切れることなく\n自動で継続購入されるようになります。<br>\n現在　有効期間が切れている状態であれば\n登録時に設定する日数の利用券が　すぐに購入され\nその後から　自動継続になります。<end>": ""
+    "クレジットカードの登録をすると\n利用券の有効期間が　切れることなく\n自動で継続購入されるようになります。<br>\n現在　有効期間が切れている状態であれば\n登録時に設定する日数の利用券が　すぐに購入され\nその後から　自動継続になります。<end>": "Once you have registered your credit card, you\ncan continue purchasing tickets automatically\nwithout expiration of the validity period.<br>\nIf the validity period is currently expired, a\nticket for the number of days set at the time\nof registration will be purchased immediately<br>\nand will be automatically renewed from then\non.<end>"
   },
   "29980": {
-    "クレジットカード情報の他に\n住所と　氏名も　登録していただく\n必要がありますが　よろしいですか？<yesno><close>": ""
+    "クレジットカード情報の他に\n住所と　氏名も　登録していただく\n必要がありますが　よろしいですか？<yesno><close>": "In addition to your credit card information,\nyou will also need to register your address\nand name, okay?<yesno><close>"
   },
   "29981": {
-    "クレジットカード情報の他に　連絡用の\nメールアドレスと　住所　氏名も\n登録いただく必要がありますが　よろしいですか？<yesno><break>": ""
+    "クレジットカード情報の他に　連絡用の\nメールアドレスと　住所　氏名も\n登録いただく必要がありますが　よろしいですか？<yesno><break>": "In addition to your credit card information,\nwe will need your email address, mailing\naddress, and full name to contact you, okay?.<yesno><break>"
   },
   "29982": {
-    "利用券を購入しないと\nオンラインモードは　遊べません。\nスタートメニューに戻りますか？<yesno 2><break>": ""
+    "利用券を購入しないと\nオンラインモードは　遊べません。\nスタートメニューに戻りますか？<yesno 2><break>": "You cannot play online mode without purchasing\na ticket. Would you like to return to the\nStart Menu?<yesno 2><break>"
   },
   "29983": {
-    "<%sPCNAME>に\nどのアイテムチケットを　買いますか？<break>": ""
+    "<%sPCNAME>に\nどのアイテムチケットを　買いますか？<break>": "Which item ticket would you like to buy for\n<%sPCNAME>?<break>"
   },
   "29984": {
-    "<%dWIIP><%sCurrency>を使って\n<%sPCNAME>に　<%sTICKETITEM>を\n購入します。よろしいですか？<yesno><break>": ""
+    "<%dWIIP><%sCurrency>を使って\n<%sPCNAME>に　<%sTICKETITEM>を\n購入します。よろしいですか？<yesno><break>": "Purchase <%sTICKETITEM> for\n<%sPCNAME> using <%dWIIP> <%sCurrency>?<yesno><break>"
   },
   "30153": {
-    "　　　【スクウェア・エニックスＩＤについて】\n・すでに使われている文字列だった場合は 使えません。\n・英字 数字と - _ . の記号が使えます。\n・大文字と小文字は 区別されません。\n ※このＩＤは ゲームの中では表示されません。\n ※ＩＤは あとから変更することはできません。": ""
+    "　　　【スクウェア・エニックスＩＤについて】\n・すでに使われている文字列だった場合は 使えません。\n・英字 数字と - _ . の記号が使えます。\n・大文字と小文字は 区別されません。\n ※このＩＤは ゲームの中では表示されません。\n ※ＩＤは あとから変更することはできません。": "      [About Square Enix ID]\n・If the string is already in use, it cannot be used.\n・Alphabetic characters, numbers, and the\n  symbols -, _ and . can be used.\n・It is not case sensitive.\n *This ID is not displayed in the game.\n *IDs cannot be changed later."
   },
   "30154": {
-    "　　　　　　【パスワードに使える文字列】\n・英字のみ 数字のみ 記号のみの文字列は 使えません。\n・ＩＤと同じ文字列で始まるものは 使えません。\n・同じ文字を 3文字続けて使えません。\n・一部の記号を使うことができます。": ""
+    "　　　　　　【パスワードに使える文字列】\n・英字のみ 数字のみ 記号のみの文字列は 使えません。\n・ＩＤと同じ文字列で始まるものは 使えません。\n・同じ文字を 3文字続けて使えません。\n・一部の記号を使うことができます。": "   [Strings that can be used as a password]\n・Only alphabetic characters, numbers and symbols are allowed.\n・You cannot use a string that starts with the\n  same characters as the ID.\n・You cannot use the same character three times in a row.\n・Some symbols can be used."
   },
   "30155": {
-    "　　　　　　【ひみつの質問について】\n4つの質問の中から ひとつを選んで\nあなたしか答えられない回答を 登録してください。\nパスワードを忘れた場合などに 本人確認のため\nこの質問に 答えていただくことがあります。\n（質問の答えに 記号を使うことはできません）": ""
+    "　　　　　　【ひみつの質問について】\n4つの質問の中から ひとつを選んで\nあなたしか答えられない回答を 登録してください。\nパスワードを忘れた場合などに 本人確認のため\nこの質問に 答えていただくことがあります。\n（質問の答えに 記号を使うことはできません）": "            [About secret questions]\nPlease choose one of the four questions and\nregister an answer that only you can answer.\nIf you forget your password, you may be asked\nto answer this question to confirm your\nidentity. (You cannot use symbols to answer.)"
   },
   "30156": {
-    "　　　　【レジストレーションコードについて】\nレジストレーションコードとは\nドラゴンクエストⅩの パッケージに同梱の\n冒険者登録証に書かれている 20文字のコードです。\n登録したあとも 本人確認のために使いますので\n絶対に なくさないようにしてください。": ""
+    "　　　　【レジストレーションコードについて】\nレジストレーションコードとは\nドラゴンクエストⅩの パッケージに同梱の\n冒険者登録証に書かれている 20文字のコードです。\n登録したあとも 本人確認のために使いますので\n絶対に なくさないようにしてください。": "        [About registration code]\nThe registration code is a 20-character code\nwritten on the adventurer registration card\nincluded in the Dragon Quest X package.\nDo not lose it, as it will be used to verify\nyour identity even after registration."
   },
   "30157": {
-    "　　　　　【クレジットカードについて】\nご利用いただけるクレジットカードは\nVISA　Master　JCBの 3種類です。\n以下のマークがプリントされている\nクレジットカードを ご用意ください。": ""
+    "　　　　　【クレジットカードについて】\nご利用いただけるクレジットカードは\nVISA　Master　JCBの 3種類です。\n以下のマークがプリントされている\nクレジットカードを ご用意ください。": "          [About credit cards]\nWe accept three types of credit cards: VISA,\nMaster, and JCB. Please use a credit card with\nthe following symbols printed on it."
   },
   "30158": {
-    "　　　　　【セキュリティコードについて】\nセキュリティコードとは\nクレジットカード裏面の 署名の右上に\n書かれている 最後の3つの数字です。": ""
+    "　　　　　【セキュリティコードについて】\nセキュリティコードとは\nクレジットカード裏面の 署名の右上に\n書かれている 最後の3つの数字です。": "          [About the security code]\nThe security code is the last three numbers\nwritten on the back of your credit card, above\nand to the right of your signature."
   },
   "31962": {
     "（※削除予定）": "(※For Deletion)"
@@ -537,22 +538,22 @@
     "（※削除予定）": "(※For Deletion)"
   },
   "32305": {
-    "有効期限が　正しく入力されていません。\nカード情報を　ご確認ください。<end>": ""
+    "有効期限が　正しく入力されていません。\nカード情報を　ご確認ください。<end>": "The expiration date was not entered correctly.<end>"
   },
   "32502": {
-    "スクウェア・エニックスＩＤか\nスクウェア・エニックスパスワードが\n正しく入力されていません。<end>": ""
+    "スクウェア・エニックスＩＤか\nスクウェア・エニックスパスワードが\n正しく入力されていません。<end>": "The Square Enix ID or Square Enix password was\nnot entered correctly.<end>"
   },
   "32503": {
-    "パスワードが不正です。\nパスワードを　正しく入力してください。<end>": ""
+    "パスワードが不正です。\nパスワードを　正しく入力してください。<end>": "Password is invalid.\nPlease enter your password correctly.<end>"
   },
   "32553": {
-    "プレイヤー<%nPLAYER_NO>の情報を消すと　保存されている\nアカウント情報と　冒険の書のオフラインモードの\nセーブデータが消えますが　よろしいですか？<yesno 2><close>": ""
+    "プレイヤー<%nPLAYER_NO>の情報を消すと　保存されている\nアカウント情報と　冒険の書のオフラインモードの\nセーブデータが消えますが　よろしいですか？<yesno 2><close>": "If you delete player <%dPLAYER_NO>'s information, the\naccount information and the offline mode save\ndata of the Adventure Log will be lost, okay?<yesno 2><close>"
   },
   "32554": {
-    "プレイヤー<%nPLAYER_NO>のデータを　消しました！<end>": ""
+    "プレイヤー<%nPLAYER_NO>のデータを　消しました！<end>": "Deleted data for player <%dPLAYER_NO>!<end>"
   },
   "32556": {
-    "住所の検索ができませんでした。\n郵便番号が　正しく入力されていないか\n登録されていない郵便番号です。<end>": ""
+    "住所の検索ができませんでした。\n郵便番号が　正しく入力されていないか\n登録されていない郵便番号です。<end>": "Could not find the address. The zip code was\nnot entered correctly or is not registered.<end>"
   },
   "32557": {
     "（※削除予定）<bw_break>": "(※For Deletion)<bw_break>"
@@ -603,10 +604,10 @@
     "<%dVAL>": "<%dVAL>"
   },
   "33103": {
-    "<%sConsole>本体に保存されていた\nシステムファイルが　壊れてしまいました。\n<color_yellow>（オンラインのキャラデータは失われません）<color_white><br>\nプレイヤー選択で　新規登録を選び\n『すでに遊んでいるアカウントを登録する』ことで\n元のキャラで　ゲームを継続できます。<br>\nオフラインモードのプレイ内容は　消去されます。\nデータを初期化して　ゲームをリセットします。<end>": ""
+    "<%sConsole>本体に保存されていた\nシステムファイルが　壊れてしまいました。\n<color_yellow>（オンラインのキャラデータは失われません）<color_white><br>\nプレイヤー選択で　新規登録を選び\n『すでに遊んでいるアカウントを登録する』ことで\n元のキャラで　ゲームを継続できます。<br>\nオフラインモードのプレイ内容は　消去されます。\nデータを初期化して　ゲームをリセットします。<end>": "System files stored in the <%sConsole>\nhave been corrupted.\n<color_yellow>(No online character data will be lost.)<color_white><br>\nSelect \"Register an account you are already\nplaying\" when choosing a player to continue\nthe game with your original character.<br>\nPlay content in offline mode will be erased.\nInitialize data and reset the game.<end>"
   },
   "38867": {
-    "<color_yellow>※未成年の方は保護者の方の同意が必要です。\n　また　15才未満の方は　必ず　保護者の方と\n　一緒に　登録手続きを行なってください。<br>\n<color_white>次の画面の　利用規約を　よくお読みいただき\n同意いただけるならば　『利用規約に同意する』に\nチェックをして　次へ進んでください。<end>": ""
+    "<color_yellow>※未成年の方は保護者の方の同意が必要です。\n　また　15才未満の方は　必ず　保護者の方と\n　一緒に　登録手続きを行なってください。<br>\n<color_white>次の画面の　利用規約を　よくお読みいただき\n同意いただけるならば　『利用規約に同意する』に\nチェックをして　次へ進んでください。<end>": "<color_yellow>*Minors must have parental consent. If you are\nunder 15 years old, you must complete the\nregistration with a parent or guardian.<br>\n<color_white>Please read the Terms of Use carefully and if\nyou agree to them, check \"I agree to the Terms\nof Use\" and proceed to the next page.<end>"
   },
   "38870": {
     "オープニング": "Opening"
@@ -615,34 +616,34 @@
     "オープニング終了": "End of opening"
   },
   "41048": {
-    "お気の毒ですが　<%sConsole>本体に保存されていた\nセーブファイルが壊れてしまいました。<br>\nキャラクターのデータは\nサーバー上に保存されていますので\n消えることは　ありません。<br>\nボタンを押すと　壊れたファイルを\n作り直して　ゲームをリセットします。<end>": ""
+    "お気の毒ですが　<%sConsole>本体に保存されていた\nセーブファイルが壊れてしまいました。<br>\nキャラクターのデータは\nサーバー上に保存されていますので\n消えることは　ありません。<br>\nボタンを押すと　壊れたファイルを\n作り直して　ゲームをリセットします。<end>": "We are sorry to inform you that the save file\nsaved on <%sConsole> has become corrupted.<br>\nCharacter data is stored on the server and\nwill not be lost.<br>\nPress the button to recreate the corrupted\nfile and reset the game.<end>"
   },
   "41343": {
     "<speed=0>ゲームを開始しています……。<break>": "<speed=0>The game is starting...<break>"
   },
   "41348": {
-    "<center>ドラゴンクエストⅩ　ベータテストに\nご参加いただき　ありがとうございます！<br>\nオンラインの世界には　２種類のキャラがいます。\nプレイヤーたちが操作する　冒険者キャラと\n誰にも操作されない　ゲーム内キャラです。<br>\nゲーム内キャラは　頭上の名前の色が『白』です。\nまずは　シャラという　名前の白いキャラが\n近くにいるので　探して話しかけてみましょう。<br>\n他のプレイヤーと　コミュニケーションを取る時は\n<cancel>を長押しすると\nよく使うセリフを　一覧から選べます。<br>\nそれでは　ドラゴンクエストⅩ\nベータテスト版の世界を\nどうぞ　お楽しみください！": ""
+    "<center>ドラゴンクエストⅩ　ベータテストに\nご参加いただき　ありがとうございます！<br>\nオンラインの世界には　２種類のキャラがいます。\nプレイヤーたちが操作する　冒険者キャラと\n誰にも操作されない　ゲーム内キャラです。<br>\nゲーム内キャラは　頭上の名前の色が『白』です。\nまずは　シャラという　名前の白いキャラが\n近くにいるので　探して話しかけてみましょう。<br>\n他のプレイヤーと　コミュニケーションを取る時は\n<cancel>を長押しすると\nよく使うセリフを　一覧から選べます。<br>\nそれでは　ドラゴンクエストⅩ\nベータテスト版の世界を\nどうぞ　お楽しみください！": "      Thank you for participating in the\n          Dragon Quest X beta test!<br>\nThere are two types of characters in the\nonline world. Characters controlled by players\nand characters not controlled by anyone.<br>\nThe color of the name above an NPC's head is\n\"White\". First, look for a white character\nnamed Schala nearby and talk to her.<br>\nWhen communicating with other players, press\nand hold <cancel> to select from\na list of frequently used lines.<br>\nWe hope you enjoy the Dragon Quest X beta test\nversion!"
   },
   "41526": {
-    "ログアウトしたあと　ゲームを終了して\n本体の電源を切りますか？<yesno><break>": ""
+    "ログアウトしたあと　ゲームを終了して\n本体の電源を切りますか？<yesno><break>": "After logging out, do you want to exit the\ngame and turn off the console?<yesno><break>"
   },
   "42171": {
-    "オンラインモードの続きを\nこの<%sConsole>で遊べるようにします": ""
+    "オンラインモードの続きを\nこの<%sConsole>で遊べるようにします": "Allows you to continue playing online\nmode with this <%sConsole>."
   },
   "42172": {
-    "新しくプレイヤーを登録して\n最初からゲームを始めます": ""
+    "新しくプレイヤーを登録して\n最初からゲームを始めます": "Register a new player and start\nthe game from the beginning."
   },
   "44586": {
-    "購入処理をしています……。<break>": ""
+    "購入処理をしています……。<break>": "Processing the purchase...<break>"
   },
   "44587": {
-    "利用券購入の　準備をしています……。<break>": ""
+    "利用券購入の　準備をしています……。<break>": "Preparing to purchase usage tickets...<break>"
   },
   "44626": {
     "フィールドで中断していましたが\n<%sSERVER>には　入れませんでした。\n別のサーバーに移動します。<end>": "You were interrupted in the field but\ncouldn't get into <%sSERVER>.\nPlease choose another server.<end>"
   },
   "44627": {
-    "住宅村で中断していましたが\n住宅村専用サーバーには　入れませんでした。\n住宅村入口のある町に　移動します。<end>": ""
+    "住宅村で中断していましたが\n住宅村専用サーバーには　入れませんでした。\n住宅村入口のある町に　移動します。<end>": "You logged out in a residential village but\nthe dedicated residential server cannot be\naccessed. Move to the residential entrance.<end>"
   },
   "44628": {
     "前回　ゲームを中断した場所が\nサーバー変更が　できない場所だったため\n前回と同じサーバーから　ゲームを再開します。<end>": "<speed=0>The game will restart on the same server as\nbefore because your adventure was interrupted\nin a location where you can't change servers.<end>"
@@ -651,7 +652,7 @@
     "前回　住宅村で中断したので\n住宅村専用サーバーから再開します。<end>": "<speed=0>Since you logged off in a housing area,\nyou'll reconnect on the housing server.<end>"
   },
   "44775": {
-    "新規登録": ""
+    "新規登録": "New Registration"
   },
   "44776": {
     "<%nCOURSE>キャラコース": "<%dCOURSE> Character Course"
@@ -678,34 +679,34 @@
     "ありません": "None"
   },
   "44784": {
-    "Ｗiiポイントを使って\n特別アイテムを購入します": ""
+    "Ｗiiポイントを使って\n特別アイテムを購入します": "Use your Wii Points to purchase special items."
   },
   "44785": {
-    "Ｗiiポイントを使って\n利用券を購入します": ""
+    "Ｗiiポイントを使って\n利用券を購入します": "Use your Wii Points to\npurchase usage tickets."
   },
   "44786": {
-    "ベータテストの利用期間を\n追加します（無料です）": ""
+    "ベータテストの利用期間を\n追加します（無料です）": "Add a beta test availability\nperiod. (Free)"
   },
   "44787": {
-    "次回の自動継続から　他の\nクレジットカードに変えます": ""
+    "次回の自動継続から　他の\nクレジットカードに変えます": "Switch to another credit card\nafter the next auto-renewal."
   },
   "44788": {
-    "クレジットカード登録を消し\n自動継続を解除します": ""
+    "クレジットカード登録を消し\n自動継続を解除します": "Delete credit card registration\nand cancel auto-renewal."
   },
   "44789": {
-    "クレジットカードを登録して\n利用券の自動継続をします": ""
+    "クレジットカードを登録して\n利用券の自動継続をします": "Register your credit card\nfor ticket auto-renewal."
   },
   "44790": {
     "アイテムコードを入力して\nスペシャルアイテムをゲット": "Enter an Item Code to\nreceive special items."
   },
   "44791": {
-    "自動継続で購入される\n利用券の日数を変更します": ""
+    "自動継続で購入される\n利用券の日数を変更します": "Change the number of days for tickets\npurchased with auto-renewal."
   },
   "44792": {
-    "これまでに購入した\n利用券を確認します": "Check the vouchers you\nhave purchased so far."
+    "これまでに購入した\n利用券を確認します": "Check the tickets you\nhave purchased so far."
   },
   "44816": {
-    "オフラインのみプレイ中": ""
+    "オフラインのみプレイ中": "Offline Play Only"
   },
   "44817": {
     "ログインに必要な処理をしています。\nこの処理には　数分かかる場合もあります。\n少々お待ちください……。<break>": "Login is currently being processed. This\nmay take several minutes. Please wait.<break>"
@@ -714,52 +715,52 @@
     "（※削除予定）<bw_break>": "(※For Deletion)<bw_break>"
   },
   "45145": {
-    "入力したアカウントは　すでに\nプレイヤー<%nPLAYER_NO>に　登録されています。<end>": ""
+    "入力したアカウントは　すでに\nプレイヤー<%nPLAYER_NO>に　登録されています。<end>": "The account you entered is already registered\nto Player <%dPLAYER_NO>.<end>"
   },
   "45146": {
-    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-abcdefghijklmnopqrstuvwxyzABCDEFG@abcdefghijklmnopqrstuvwxyz.co.jp": ""
+    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-abcdefghijklmnopqrstuvwxyzABCDEFG@abcdefghijklmnopqrstuvwxyz.co.jp": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-abcdefghijklmnopqrstuvwxyzABCDEFG@abcdefghijklmnopqrstuvwxyz.co.jp"
   },
   "45147": {
-    "あなたの記念日は？": ""
+    "あなたの記念日は？": "What is your anniversary?"
   },
   "45148": {
-    "好きな言葉は？": ""
+    "好きな言葉は？": "What is your favorite word?"
   },
   "45149": {
-    "ペットの名前は？": ""
+    "ペットの名前は？": "What is your pet's name?"
   },
   "45150": {
-    "好きな食べ物は？": ""
+    "好きな食べ物は？": "What is your favorite food?"
   },
   "45151": {
     "Ｗiiポイント": "Wii Points"
   },
   "45163": {
-    "利用券の購入履歴がありません。<end>": ""
+    "利用券の購入履歴がありません。<end>": "There is no ticket purchase history.<end>"
   },
   "45164": {
-    "利用券の有効期間がありません。\nオンラインモードで遊ぶ場合は\n利用券を　購入してください。<end>": ""
+    "利用券の有効期間がありません。\nオンラインモードで遊ぶ場合は\n利用券を　購入してください。<end>": "The usage ticket has no validity period.\nIf you want to play in online mode, please\npurchase a ticket.<end>"
   },
   "45208": {
-    "購入後の有効期間": ""
+    "購入後の有効期間": "Validity Period After Purchase"
   },
   "45209": {
     "購入後の残りＷiiポイント": "Remaining Wii Points"
   },
   "45210": {
-    "アイテムチケットのＷiiポイント": ""
+    "アイテムチケットのＷiiポイント": "Wii Points for Item Tickets"
   },
   "45211": {
     "現在の有効期間": "Valid Period"
   },
   "45212": {
-    "現在のＷiiポイント": ""
+    "現在のＷiiポイント": "Current Wii Points"
   },
   "45213": {
-    "プレイコース変更のＷiiポイント": ""
+    "プレイコース変更のＷiiポイント": "Wii Points to Change Play Course"
   },
   "45214": {
-    "利用券のＷiiポイント": ""
+    "利用券のＷiiポイント": "Wii Points for Usage Tickets"
   },
   "45394": {
     "北海道": "Hokkaido"
@@ -906,19 +907,19 @@
     "コース変更チケット": "Course Change Ticket"
   },
   "45622": {
-    "ドラゴンクエストⅩ\nオンラインモードの世界へ　ようこそ！<br>\nこれより　オンラインモードで遊ぶための\n簡単な　５つのＳＴＥＰの手続きを　行います。\n<color_yellow>※この手続きは　初回だけ　必要なものです。<br>\n<color_white>この手続きが終われば　20日間　無料で\nドラゴンクエストⅩ　オンラインモードを\nお楽しみいただけます！<end>": ""
+    "ドラゴンクエストⅩ\nオンラインモードの世界へ　ようこそ！<br>\nこれより　オンラインモードで遊ぶための\n簡単な　５つのＳＴＥＰの手続きを　行います。\n<color_yellow>※この手続きは　初回だけ　必要なものです。<br>\n<color_white>この手続きが終われば　20日間　無料で\nドラゴンクエストⅩ　オンラインモードを\nお楽しみいただけます！<end>": "Welcome to the world of Dragon Quest X online\nmode!<br>\nYou will now follow a simple 5-STEP procedure\nto play in online mode.\n<color_yellow>*This process is only required the first time.<br>\n<color_white>Once this process is complete, you will be\nable to enjoy Dragon Quest X Online Mode for\n20 days free of charge!<end>"
   },
   "46003": {
     "バージョン <%s_MVER1>.<%s_MVER2>.<%s_MVER3>": "Version <%s_MVER1>.<%s_MVER2>.<%s_MVER3>"
   },
   "46079": {
-    "新たなプレイヤーを登録できるように\nスロットを　ひとつ拡張します。\nよろしいですか？<yesno><close>": ""
+    "新たなプレイヤーを登録できるように\nスロットを　ひとつ拡張します。\nよろしいですか？<yesno><close>": "Expands one slot to allow for the registration\nof a new player. Is this okay?<yesno><close>"
   },
   "46273": {
-    "どちらのモードで　始めますか？<break>": ""
+    "どちらのモードで　始めますか？<break>": "Which mode do you want to start with?<break>"
   },
   "46278": {
-    "<%sTICKETITEM>を\n<%dWIIP><%sCurrency>で　購入します。\n次の画面の注意事項を　ご確認ください。<end>": ""
+    "<%sTICKETITEM>を\n<%dWIIP><%sCurrency>で　購入します。\n次の画面の注意事項を　ご確認ください。<end>": "Purchase <%sTICKETITEM> with\n<%dWIIP> <%sCurrency>.\nPlease check the notes on the next screen.<end>"
   },
   "46346": {
     "<%d_YYYY>年<%2d_MM>月<%2d_DD>日まで（残り<%3d_DAY>日）": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY> (<%3d_DAY> days left)"
@@ -927,34 +928,34 @@
     "無料": "Free"
   },
   "46571": {
-    "本当に　消しても　よろしいですか？<yesno 2><close>": ""
+    "本当に　消しても　よろしいですか？<yesno 2><close>": "Are you sure you want to delete it?<yesno 2><close>"
   },
   "46689": {
-    "クレジットカードの登録を行う場合　自動的に\nスクウェア・エニックスの　ポイントシステム\n「Crysta」が　利用できるようになります。<br>\n次の「Crysta利用規約」を　よくお読みいただき\n同意いただけるならば　『利用規約に同意する』に\nチェックをして　次へ進んでください。<end>": ""
+    "クレジットカードの登録を行う場合　自動的に\nスクウェア・エニックスの　ポイントシステム\n「Crysta」が　利用できるようになります。<br>\n次の「Crysta利用規約」を　よくお読みいただき\n同意いただけるならば　『利用規約に同意する』に\nチェックをして　次へ進んでください。<end>": "When you register your credit card, you will\nautomatically be able to use Square Enix's\npoint system, \"Crysta\".<br>\nRead the following \"Crysta Terms of Use\"\ncarefully and if you agree to them, check\n\"I agree to the Terms of Use\" and proceed.<end>"
   },
   "46690": {
-    "次の画面の　利用規約を　よくお読みいただき\n同意いただけるならば　『利用規約に同意する』に\nチェックをして　次へ進んでください。<end>": ""
+    "次の画面の　利用規約を　よくお読みいただき\n同意いただけるならば　『利用規約に同意する』に\nチェックをして　次へ進んでください。<end>": "Please read the Terms of Use carefully and if\nyou agree to them, check \"I agree to the Terms\nof Use\" and proceed to the next page.<end>"
   },
   "46691": {
-    "おつかれさまでした！\n以上で　すべての手続きが完了しました！<me_57><br>\nそれでは　ドラゴンクエストⅩの\nオンラインの世界を　お楽しみください！<end>": ""
+    "おつかれさまでした！\n以上で　すべての手続きが完了しました！<me_57><br>\nそれでは　ドラゴンクエストⅩの\nオンラインの世界を　お楽しみください！<end>": "Thank you! All procedures are now complete!<me_57><br>\nWe hope you enjoy the online world of Dragon\nQuest X!<end>"
   },
   "46692": {
-    "スクウェア・エニックスからの メールが届かない場合は\n以下を ご確認ください。\n１．メールが混みあっている可能性があります。\n　　もう少し 待ってみてください。\n２．お客様のメールソフトの 迷惑メールボックスに\n　　振り分けられていないか ご確認ください。\n３．@square-enix.com からのメールが\n　　受信できない設定がされていないか ご確認ください。\n　　その場合 設定を解除してから メールアドレスを\n　　再入力してください。\n４．いずれも違うのであれば 入力間違いかもしれません。\n　　アドレスの再入力を お試しください。": ""
+    "スクウェア・エニックスからの メールが届かない場合は\n以下を ご確認ください。\n１．メールが混みあっている可能性があります。\n　　もう少し 待ってみてください。\n２．お客様のメールソフトの 迷惑メールボックスに\n　　振り分けられていないか ご確認ください。\n３．@square-enix.com からのメールが\n　　受信できない設定がされていないか ご確認ください。\n　　その場合 設定を解除してから メールアドレスを\n　　再入力してください。\n４．いずれも違うのであれば 入力間違いかもしれません。\n　　アドレスの再入力を お試しください。": "If you have not received an email from Square\nEnix, please check the following.\n1. Your email may be busy.\n   Wait a little longer.\n2. Please check whether the email has been\n   sorted into your spam.\n3. Please check if you have settings that\n   prevent you from receiving emails from\n   @square-enix.com. If so, deactivate the\n   setting and re-enter your e-mail address.\n4. If none of the above is the case, then you\n   may have made a typing error.\n   Please try re-entering the address."
   },
   "46693": {
-    "クレジットカードの登録をしませんので\nＳＴＥＰ２は　ありません。<me_58><end>": ""
+    "クレジットカードの登録をしませんので\nＳＴＥＰ２は　ありません。<me_58><end>": "Since you did not register your credit card,\nthere is no STEP 2.<me_58><end>"
   },
   "46694": {
-    "ＵＳＢキーボードが　接続されています。\nお好みの　日本語入力方法を　お選びください。\n（ゲーム中に　いつでも設定変更できます）\n<select_nc_se_off>\nローマ字入力\nかな入力\n<select_end><break>": ""
+    "ＵＳＢキーボードが　接続されています。\nお好みの　日本語入力方法を　お選びください。\n（ゲーム中に　いつでも設定変更できます）\n<select_nc_se_off>\nローマ字入力\nかな入力\n<select_end><break>": "USB keyboard is connected.\nPlease select your preferred Japanese input\nmethod.(You can change settings at any time)\n<select_se_off>\nRomaji Input\nKana Input\n<select_end><break>"
   },
   "46695": {
-    "パスワードを保存して\nアカウント『<%sID>』を\nプレイヤー<%nPLAYER_NO>に　登録しました！<br>\nオンラインモードを遊ぶための\nアカウントが　準備できました。\nこれで　ＳＴＥＰ１は　完了です！<me_58><end>": ""
+    "パスワードを保存して\nアカウント『<%sID>』を\nプレイヤー<%nPLAYER_NO>に　登録しました！<br>\nオンラインモードを遊ぶための\nアカウントが　準備できました。\nこれで　ＳＴＥＰ１は　完了です！<me_58><end>": "You have saved your password and registered\nyour account \"<%sID>\" to\nplayer <%dPLAYER_NO>!<br>\nYour account for playing online mode is now\nready.\nSTEP 1 is now complete!<me_58><end>"
   },
   "46696": {
-    "パスワードを保存せずに\nアカウント『<%sID>』を\nプレイヤー<%nPLAYER_NO>に　登録しました！<br>\nオンラインモードを遊ぶための\nアカウントが　準備できました。\nこれで　ＳＴＥＰ１は　完了です！<me_58><end>": ""
+    "パスワードを保存せずに\nアカウント『<%sID>』を\nプレイヤー<%nPLAYER_NO>に　登録しました！<br>\nオンラインモードを遊ぶための\nアカウントが　準備できました。\nこれで　ＳＴＥＰ１は　完了です！<me_58><end>": "Registered the account \"<%sID>\" to\nplayer <%dPLAYER_NO> without saving the password!<br>\nYour account for playing online mode is now\nready.\nSTEP 1 is now complete!<me_58><end>"
   },
   "46736": {
-    "無料プレイ期間が　付与されました！\nこのアカウントで　<%d_YYYY>年<%d_MM>月<%d_DD>日まで\n遊ぶことができます。": ""
+    "無料プレイ期間が　付与されました！\nこのアカウントで　<%d_YYYY>年<%d_MM>月<%d_DD>日まで\n遊ぶことができます。": "A free play period has been granted!\nYou can play on this account until <%d_YYYY>/<%d_MM>/<%d_DD>."
   },
   "46737": {
     "（※削除予定）<end>": "(※For Deletion)<end>"
@@ -966,22 +967,22 @@
     "自動継続の決済中です…": "Renewal in progress..."
   },
   "47789": {
-    "クレジットカードの認証のため\n入力していただいた　クレジットカード情報を\nセンターに送信します。よろしいですか？<yesno><close>": ""
+    "クレジットカードの認証のため\n入力していただいた　クレジットカード情報を\nセンターに送信します。よろしいですか？<yesno><close>": "The credit card information you have entered\nwill be sent to the center for credit card\nauthorization. Is this okay?<yesno><close>"
   },
   "48293": {
-    "利用券の有効期間が　今日の24時で切れます！\n先に　利用券を購入したい場合は\n利用券メニューへ　移動してください。\n<select_nc>\n利用券メニューへ\n今は購入しない\n<select_end><close>": ""
+    "利用券の有効期間が　今日の24時で切れます！\n先に　利用券を購入したい場合は\n利用券メニューへ　移動してください。\n<select_nc>\n利用券メニューへ\n今は購入しない\n<select_end><close>": "The validity period of the ticket expires at\n24:00 today! If you want to purchase a ticket\nfirst, please go to the ticket menu.\n<select_nc>\nTo Ticket Menu\nDon't Purchase\n<select_end><close>"
   },
   "48294": {
     "オンラインモードの　冒険の書<%nNO>でプレイ中の\n『<%sPCNAME>』と『<%sPCNAME2>』のデータを\nこの<%sConsole>の　冒険の書<%nNO>に　保存しました。<br>\nオフラインモードのセーブデータは\n引きつがれないため\n『<%sPCNAME2>』の冒険は　最初からになります。<end>": "Saving data of \"<%sPCNAME2>\" in Adventure\nLog <%nNO> from this <%sConsole> to \"<%sPCNAME>\"\nin Adventure Log <%nNO> of online mode.<br>\nThe save data from the offline mode will not\nbe transferred, so the adventure of\n\"<%sPCNAME2>\" will start from the beginning.<end>"
   },
   "48295": {
-    "プレイコースが　変更されているため\n冒険の書<%nNO>は　使えなくなりました。<end>": "Since the play course has changed,\nAdventure Log <%dNO> cannot be used."
+    "プレイコースが　変更されているため\n冒険の書<%nNO>は　使えなくなりました。<end>": "Since the play course has changed,\nAdventure Log <%nNO> cannot be used."
   },
   "48296": {
     "オンラインモードの　冒険の書<%nNO>でプレイ中の\n『<%sPCNAME>』と『<%sPCNAME2>』のデータを\nこの<%sConsole>の　冒険の書<%nNO>に　保存しました。<br>\nオフラインモードの　冒険の書<%nNO>の名前や容姿が\n『<%sPCNAME2>』のものに　書き替わりました。\n（ゲームの進行状況は　そのまま残っています）<end>": "Saving data of \"<%sPCNAME2>\" in Adventure\nLog <%nNO> from this <%sConsole> to \"<%sPCNAME>\"\nin Adventure Log <%nNO> of online mode.<br>\nThe name and appearance of Adventure Log <%nNO>\nin Online mode was replaced by \"<%sPCNAME2>\".\n(Game progress remains intact)<end>"
   },
   "48297": {
-    "キャラデータ『<%sPCNAME>』を\n冒険の書<%nNO>に　反映させました！<me_60><end>": "Character data for \"<%sPCNAME>\" has been\ncreated in Adventure Log <%dNO>!<me_60><end>"
+    "キャラデータ『<%sPCNAME>』を\n冒険の書<%nNO>に　反映させました！<me_60><end>": "Character data for \"<%sPCNAME>\" has been\ncreated in Adventure Log <%nNO>!<me_60><end>"
   },
   "48298": {
     "オンラインの冒険の書<%nNO>が　消されています。\nこの<%sConsole>の　オフラインの冒険の書<%nNO>は\nオンラインに反映されていない状態になりました。<end>": "Online Adventure Log <%nNO> has been deleted.\nThe offline Adventure Log <%nNO> of this\n<%sConsole> is no longer reflected online.<end>"
@@ -993,79 +994,79 @@
     "<%sConsole>本体に保存されている\n冒険の書<%nNO>のキャラは　オンラインの世界に\n移動させられないデータでした。<br>\nオフラインモードから　冒険の書<%nNO>を消して\nキャラを　作りなおしてください。<end>": "The character data for Adventure Log <%nNO> on this\n<%sConsole> could not be transfered to the\nonline world.<br>\nDelete Adventure Log <%nNO> from offline mode\nand re-create your character.<end>"
   },
   "48377": {
-    "<speed=0>案内のメールが届いたら　その内容に従って\nメールアドレスの認証を行ってください。\n認証が完了したら　次へ進んでください。\n<select_se_off 2>\n認証したので次へ\nメールが届かない\nアドレスを再入力する\n<select_end><break>": ""
+    "<speed=0>案内のメールが届いたら　その内容に従って\nメールアドレスの認証を行ってください。\n認証が完了したら　次へ進んでください。\n<select_se_off 2>\n認証したので次へ\nメールが届かない\nアドレスを再入力する\n<select_end><break>": "When you receive an email with instructions,\nfollow them to verify your email address.\nAfter it's verified, proceed to the next step.\n<select_se_off 2>\nAuthenticated\nDidn't receive email\nReenter address\n<select_end><break>"
   },
   "48378": {
     "『<%sPCNAME>』のキャラデータを\nオンラインの世界に　反映させました！\nこれで　ＳＴＥＰ４は　完了です！<me_58><end>": "Character data from <%sPCNAME> has been\nreflected in the online world!\nSTEP 4 is now complete!<me_58><end>"
   },
   "48379": {
-    "<%dDAY>日間利用券を　自動継続するように\n設定しました！<br>\n<%d_YYYY>年<%d_MM>月<%d_DD>日が過ぎると\n自動的に　<%dDAY>日間利用券が　購入されます。<end>": ""
+    "<%dDAY>日間利用券を　自動継続するように\n設定しました！<br>\n<%d_YYYY>年<%d_MM>月<%d_DD>日が過ぎると\n自動的に　<%dDAY>日間利用券が　購入されます。<end>": "The <%dDAY>-day ticket has been set to automatically\nrenew!<br>\nAfter <%d_YYYY>/<%d_MM>/<%d_DD>, a <%dDAY>-day pass will\nautomatically be purchased.<end>"
   },
   "48465": {
-    "パスワードを入れて\nログインしてください。<break>": ""
+    "パスワードを入れて\nログインしてください。<break>": "Enter your password and log in.<break>"
   },
   "48466": {
-    "ＩＤ『<%sID>』で　登録します。<end>": ""
+    "ＩＤ『<%sID>』で　登録します。<end>": "Register with the ID \"<%sID>\".<end>"
   },
   "48467": {
-    "オンラインの世界では　多くの人が\nあなたのキャラや　兄弟（姉妹）キャラの名前を\n目にすることになります。<br>\n<color_yellow>本名など　個人を特定される名前や\n他の人が不快に感じる名前は\nここで　変更を　お願いします。<color_white><br>\nドラゴンクエストⅩの　オンラインの世界に\n『<%sPCNAME>』という名前のキャラは\n今のところ　ひとりも　いないようです。<br>\n『<%sPCNAME>』という名前で\n冒険の書に反映して　よろしいですか？<yesno><break>": ""
+    "オンラインの世界では　多くの人が\nあなたのキャラや　兄弟（姉妹）キャラの名前を\n目にすることになります。<br>\n<color_yellow>本名など　個人を特定される名前や\n他の人が不快に感じる名前は\nここで　変更を　お願いします。<color_white><br>\nドラゴンクエストⅩの　オンラインの世界に\n『<%sPCNAME>』という名前のキャラは\n今のところ　ひとりも　いないようです。<br>\n『<%sPCNAME>』という名前で\n冒険の書に反映して　よろしいですか？<yesno><break>": "In this online world, people will be able to\nsee the name of your character and your\nsibling.<br>\n<color_yellow>Please don't use any names that infringe any\ncopyrights, reveal private information, or\nmake others feel uncomfortable.<color_white><br>\nIt seems there aren't any other players using\nthe name \"<%sPCNAME>\" in Dragon Quest X.<br>\nWould you like to start your adventure with\nthe name \"<%sPCNAME>\"?<yesno><break>"
   },
   "48468": {
-    "パスワードを受け付けました！<end>": ""
+    "パスワードを受け付けました！<end>": "Password accepted!<end>"
   },
   "48469": {
-    "<center><color_yellow>ＳＴＥＰ１\nスクウェア・エニックス アカウントの登録<end>": ""
+    "<center><color_yellow>ＳＴＥＰ１\nスクウェア・エニックス アカウントの登録<end>": "<color_yellow>STEP 1\nSquare Enix Account registration<end>"
   },
   "48470": {
-    "<center><color_yellow>ＳＴＥＰ２\nクレジットカードの登録<end>": ""
+    "<center><color_yellow>ＳＴＥＰ２\nクレジットカードの登録<end>": "<color_yellow>STEP 2\nCredit card registration<end>"
   },
   "48471": {
-    "<center><color_yellow>ＳＴＥＰ３\nドラゴンクエストⅩの利用登録<end>": ""
+    "<center><color_yellow>ＳＴＥＰ３\nドラゴンクエストⅩの利用登録<end>": "<color_yellow>STEP 3\nDragon Quest X registration<end>"
   },
   "48472": {
     "<center><color_yellow>ＳＴＥＰ４\nキャラクター名の確認<end>": "<color_yellow>STEP 4\nConfirm character name<end>"
   },
   "48473": {
-    "<center><color_yellow>ＳＴＥＰ４\n利用期間の確認<end>": ""
+    "<center><color_yellow>ＳＴＥＰ４\n利用期間の確認<end>": "<color_yellow>STEP 4\nConfirm usage period<end>"
   },
   "48474": {
-    "『<%sPCNAME>』という名前のキャラは\n現在　<%dNUM>名ほど　いるようです。\nこの名前で冒険の書に反映して　よろしいですか？<yesno><break>": ""
+    "『<%sPCNAME>』という名前のキャラは\n現在　<%dNUM>名ほど　いるようです。\nこの名前で冒険の書に反映して　よろしいですか？<yesno><break>": "It seems there are <%dNUM> other players also\nusing the name \"<%sPCNAME>\" in Dragon Quest X.\nUse this name in your Adventure Log?<yesno><break>"
   },
   "48475": {
-    "『<%sPCNAME>』という名前のキャラは\n今のところ　ひとりも　いないようです。\nこの名前で冒険の書に反映して　よろしいですか？<yesno><break>": ""
+    "『<%sPCNAME>』という名前のキャラは\n今のところ　ひとりも　いないようです。\nこの名前で冒険の書に反映して　よろしいですか？<yesno><break>": "It seems there aren't any other players using\nthe name \"<%sPCNAME>\" in Dragon Quest X.\nUse this name in your Adventure Log?<yesno><break>"
   },
   "48507": {
-    "これから　あなたのスクウェア・エニックスＩＤと\nパスワードを　登録します。大切なものなので\n忘れないように　ご注意ください！<bw_break>": ""
+    "これから　あなたのスクウェア・エニックスＩＤと\nパスワードを　登録します。大切なものなので\n忘れないように　ご注意ください！<bw_break>": "You will now register your Square Enix ID and\npassword. Please be careful not to forget this\nas it is important!<bw_break>"
   },
   "48522": {
-    "『アカウント』とは　あなたのセーブデータを\n利用するための　ＩＤと　パスワードです。\nオンラインモードで遊ぶために　必要になります。<bw_break>": ""
+    "『アカウント』とは　あなたのセーブデータを\n利用するための　ＩＤと　パスワードです。\nオンラインモードで遊ぶために　必要になります。<bw_break>": "The \"Account\" is an ID and password to access\nyour saved data. You will need it to play in\nonline mode.。<bw_break>"
   },
   "48706": {
-    "お客様への個別のお知らせ": ""
+    "お客様への個別のお知らせ": "Individual Notices to Customer"
   },
   "48708": {
-    "『<%sPCNAME>』という名前のキャラは\n現在　<%dNUM>名ほど　いるようです。\n冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": ""
+    "『<%sPCNAME>』という名前のキャラは\n現在　<%dNUM>名ほど　いるようです。\n冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "It seems there are <%dNUM> other players also\nusing the name \"<%sPCNAME>\" in Dragon Quest X.\nUse this name for Adventure Log <%nNO>?<yesno><break>"
   },
   "48709": {
-    "『<%sPCNAME>』という名前のキャラは\n今のところ　ひとりも　いないようです。\n冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be no other players\nwith the name \"<%sPCNAME>\".\nUse this name for Adventure Log <%nNO>?<yesno><break>"
+    "『<%sPCNAME>』という名前のキャラは\n今のところ　ひとりも　いないようです。\n冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "It seems there aren't any other players using\nthe name \"<%sPCNAME>\" in Dragon Quest X.\nUse this name for Adventure Log <%nNO>?<yesno><break>"
   },
   "48710": {
     "冒険の書<%nNO>のキャラの名前は\n『<%sPCNAME>』で　よろしいですか？<yesno><break>": "Use the name \"<%sPCNAME>\" for Adventure\nLog <%nNO>?<yesno><break>"
   },
   "48711": {
-    "冒険の書<%nNO>に　保存されている\n『<%sPCNAME>』のデータを\nオンライン世界に　反映させます。<end>": "The data of \"<%sPCNAME>\" in Adventure\nLog <%dNO> will be copied to the online\nworld.<end>"
+    "冒険の書<%nNO>に　保存されている\n『<%sPCNAME>』のデータを\nオンライン世界に　反映させます。<end>": "The data of \"<%sPCNAME>\" in Adventure\nLog <%nNO> will be copied to the online\nworld.<end>"
   },
   "48720": {
-    "クレジットカードの登録をやめますか？<yesno><close>": ""
+    "クレジットカードの登録をやめますか？<yesno><close>": "Stop registering your credit card?<yesno><close>"
   },
   "48721": {
-    "登録しているクレジットカードを\n別のクレジットカードに　変更します。\n次回の自動継続から　有効になります。<end>": ""
+    "登録しているクレジットカードを\n別のクレジットカードに　変更します。\n次回の自動継続から　有効になります。<end>": "Change the registered credit card to another\ncredit card. It will take effect from the next\nauto-renewal.<end>"
   },
   "48722": {
-    "自動継続で購入する利用券を　選んでください。\n（自動継続を解除したい時は　メインメニューの\n　『利用券メニュー』から　いつでも行えます）\n<select_se_off>\n30日間利用券\n60日間利用券\n90日間利用券\nやっぱりやめる\n<select_end><close>": ""
+    "自動継続で購入する利用券を　選んでください。\n（自動継続を解除したい時は　メインメニューの\n　『利用券メニュー』から　いつでも行えます）\n<select_se_off>\n30日間利用券\n60日間利用券\n90日間利用券\nやっぱりやめる\n<select_end><close>": "Select the ticket to purchase on auto-renewal.\n(You can cancel auto-renewal at any time from\nthe \"Ticket Menu\" in the main menu.)\n<select_se_off>\n30-Day Ticket\n60-Day Ticket\n90-Day Ticket\nCancel\n<select_end><close>"
   },
   "48723": {
-    "クレジットカードを登録しました！<me_60><end>": ""
+    "クレジットカードを登録しました！<me_60><end>": "Registered credit card!<me_60><end>"
   },
   "48724": {
     "どのキャラが　アイテムを　受け取りますか？<break>": "Which character will receive this item?<break>"
@@ -1086,43 +1087,43 @@
     "ひみつのじゅもんを入れて\nプレゼントを受け取ろう！": "Enter a secret code to\nget a special present!"
   },
   "48730": {
-    "プレゼントのじゅもんが　ちがいます。\n間違って入力されているか\nすでに受け取ったことのある　プレゼントです。<end>": ""
+    "プレゼントのじゅもんが　ちがいます。\n間違って入力されているか\nすでに受け取ったことのある　プレゼントです。<end>": "Present Code is different. This is a present\nthat has either been entered incorrectly or\nhas already been received.<end>"
   },
   "48837": {
-    "そのアイテムコードは　使えません。\n間違って入力されているか　使用済みか\nすでに登録したことのあるアイテムです。<end>": "This item code cannot be used. It is either\ninvalid or it has already been used."
+    "そのアイテムコードは　使えません。\n間違って入力されているか　使用済みか\nすでに登録したことのあるアイテムです。<end>": "This item code cannot be used. It is either\ninvalid or it has already been used.<end>"
   },
   "48838": {
     "（※削除予定）": "(※For Deletion)"
   },
   "48854": {
-    "現在は　利用券の有効期間が過ぎると\n<%dDAY>日間利用券が　自動的に購入されます。<br>\nどの利用券に　変更しますか？\n（自動継続を解除したい時は　メインメニューの\n　『利用券メニュー』から　いつでも行えます）\n<select_se_off>\n30日間利用券\n60日間利用券\n90日間利用券\n<select_end><close>": ""
+    "現在は　利用券の有効期間が過ぎると\n<%dDAY>日間利用券が　自動的に購入されます。<br>\nどの利用券に　変更しますか？\n（自動継続を解除したい時は　メインメニューの\n　『利用券メニュー』から　いつでも行えます）\n<select_se_off>\n30日間利用券\n60日間利用券\n90日間利用券\n<select_end><close>": "Currently, a <%dDAY>-day ticket will be\nautomatically purchased after the validity\nperiod of the ticket expires.<br>\nWhich ticket would you like to change to?\n(You can cancel auto-renewal at any time from\nthe \"Ticket Menu\" in the main menu.)\n<select_se_off>\n30-Day Ticket\n60-Day Ticket\n90-Day Ticket\n<select_end><close>"
   },
   "48855": {
-    "次回より　自動継続で購入する利用券が\n<%dDAY>日間利用券になりました！<me_60><end>": ""
+    "次回より　自動継続で購入する利用券が\n<%dDAY>日間利用券になりました！<me_60><end>": "From now on, the usage ticket to be purchased\nwith auto-renewal is now a <%dDAY>-day usage\nticket!<me_60><end>"
   },
   "48856": {
-    "『<%sID>』の\nスクウェア・エニックス アカウントを使って\nオンラインの登録を行います。<end>": ""
+    "『<%sID>』の\nスクウェア・エニックス アカウントを使って\nオンラインの登録を行います。<end>": "Register online using your Square Enix account of \"<%sID>\".<end>"
   },
   "48857": {
-    "メールアドレスが認証されました！<end>": ""
+    "メールアドレスが認証されました！<end>": "Your email address has been verified!<end>"
   },
   "48861": {
-    "アカウント『<%sID>』を\nプレイヤー<%nPLAYER_NO>に　登録しました！<br>\nオンラインモードを遊ぶための\nアカウントが　準備できました。\nこれで　ＳＴＥＰ１は　完了です！<me_58><end>": ""
+    "アカウント『<%sID>』を\nプレイヤー<%nPLAYER_NO>に　登録しました！<br>\nオンラインモードを遊ぶための\nアカウントが　準備できました。\nこれで　ＳＴＥＰ１は　完了です！<me_58><end>": "Account \"<%sID>\" has been registered as\nplayer <%dPLAYER_NO>!<br>\nYour account for playing online mode is now\nready.\nSTEP 1 is now complete!<me_58><end>"
   },
   "48862": {
-    "パスワードの変更には　本人確認が必要です。<br>\nアカウント作成の時に設定した　ひみつの質問と\n登録に使った　レジストレーションコードの\n両方を入力していただきますが　よろしいですか？<yesno><close>": ""
+    "パスワードの変更には　本人確認が必要です。<br>\nアカウント作成の時に設定した　ひみつの質問と\n登録に使った　レジストレーションコードの\n両方を入力していただきますが　よろしいですか？<yesno><close>": "Identity verification is required to change\nyour password.<br>\nEnter both the secret question you set up when\nyou created your account and the registration\ncode you used to register?<yesno><close>"
   },
   "48863": {
-    "スクウェア・エニックスＩＤが\n確認できませんでした。\n正しいＩＤを入力して　もう一度お試しください。<end>": ""
+    "スクウェア・エニックスＩＤが\n確認できませんでした。\n正しいＩＤを入力して　もう一度お試しください。<end>": "Square Enix ID could not be verified.\nPlease enter the correct ID and try again.<end>"
   },
   "48864": {
-    "本人確認ができなければ　この場では\nパスワードの再設定が　行えません。<br>\n次の　『サポート用番号』を　お書き控えの上\n「ドラゴンクエストⅩ」サポートセンターの\nページをご確認ください。<br>\n<color_yellow>サポート用番号：\n　　<%sSUPPORT>\n<color_white>ＵＲＬ：https://sqex.to/eh6<end>": ""
+    "本人確認ができなければ　この場では\nパスワードの再設定が　行えません。<br>\n次の　『サポート用番号』を　お書き控えの上\n「ドラゴンクエストⅩ」サポートセンターの\nページをご確認ください。<br>\n<color_yellow>サポート用番号：\n　　<%sSUPPORT>\n<color_white>ＵＲＬ：https://sqex.to/eh6<end>": "If your identity cannot be verified, you will\nnot be able to reset your password at this\ntime.<br>\nPlease write down the following \"Support\nNumber\" and check the Dragon Quest X Support\nCenter page.<br>\n<color_yellow>Support number:\n  <%sSUPPORT>\n<color_white>URL: https://sqex.to/eh6<end>"
   },
   "48865": {
     "新しいパスワードの設定を行います。<end>": "Create New Password.<end>"
   },
   "48948": {
-    "レジストレーションコード入力": ""
+    "レジストレーションコード入力": "Enter Registration Code"
   },
   "49264": {
     "名前を変更しなければ\nゲームを再開できません。\nキャンセルしても　よろしいですか？<yesno><break>": "You can't start the game without renaming first.\nAre you sure you want to cancel?<yesno><break>"
@@ -1131,7 +1132,7 @@
     "名前を変更しました。<end>": "Character was renamed.<end>"
   },
   "49266": {
-    "あなたの持つ　家の名前は\n使えなくなりました。\n新しい名前に　変更をお願いします。<br>\n<color_yellow>※多くの人が　目にする名前のため\n　個人情報や　他の人が不快に感じる名前は\n　つけないように　ご注意ください！<color_white><end>": ""
+    "あなたの持つ　家の名前は\n使えなくなりました。\n新しい名前に　変更をお願いします。<br>\n<color_yellow>※多くの人が　目にする名前のため\n　個人情報や　他の人が不快に感じる名前は\n　つけないように　ご注意ください！<color_white><end>": "Your house name can no longer be used.\nPlease change to a new name.<br>\n<color_yellow>*Since many people will see the name, please be\ncareful not to give personal information or\nuse names that others may find offensive!<color_white><end>"
   },
   "49267": {
     "新しい　家の名前は\n『<%sNEWNAME>』で\nよろしいですか？<yesno><break>": "Give your house the new name of\n\"<%sNEWNAME>\"?<yesno><break>"
@@ -1140,10 +1141,10 @@
     "その名前は使えません。\nちがう名前を　入れてください。<end>": "You cannot use that name. Please enter\na different name.<end>"
   },
   "49269": {
-    "ご使用中の　キャラクターの名前は\n使えなくなりました。\n新しい名前に　変更をお願いします。<br>\n<color_yellow>※多くの人が　目にする名前のため\n　個人情報や　他の人が不快に感じる名前は\n　つけないように　ご注意ください！<color_white><end>": ""
+    "ご使用中の　キャラクターの名前は\n使えなくなりました。\n新しい名前に　変更をお願いします。<br>\n<color_yellow>※多くの人が　目にする名前のため\n　個人情報や　他の人が不快に感じる名前は\n　つけないように　ご注意ください！<color_white><end>": "Your character name can no longer be used.\nPlease change to a new name.<br>\n<color_yellow>*Since many people will see the name, please be\ncareful not to give personal information or\nuse names that others may find offensive!<color_white><end>"
   },
   "49270": {
-    "あなたの持つ　チームの名前は\n使えなくなりました。\n新しい名前に　変更をお願いします。<br>\n<color_yellow>※多くの人が　目にする名前のため\n　個人情報や　他の人が不快に感じる名前は\n　つけないように　ご注意ください！<color_white><end>": ""
+    "あなたの持つ　チームの名前は\n使えなくなりました。\n新しい名前に　変更をお願いします。<br>\n<color_yellow>※多くの人が　目にする名前のため\n　個人情報や　他の人が不快に感じる名前は\n　つけないように　ご注意ください！<color_white><end>": "Your team name can no longer be used.\nPlease change to a new name.<br>\n<color_yellow>*Since many people will see the name, please be\ncareful not to give personal information or\nuse names that others may find offensive!<color_white><end>"
   },
   "49271": {
     "新しい　チーム名は\n『<%sNEWNAME>』で\nよろしいですか？<yesno><break>": "Use the new Team name \"<%sNEWNAME>\"?<yesno><break>"
@@ -1179,49 +1180,49 @@
     "緊急用メッセージラベル００９": "Emergency Message Label 009"
   },
   "49772": {
-    "アカウントの作成": ""
+    "アカウントの作成": "Create Account"
   },
   "49773": {
-    "クレジットカードの登録": ""
+    "クレジットカードの登録": "Credit Card Registration"
   },
   "49774": {
     "パスワードの変更": "Change Password"
   },
   "49803": {
-    "現在のパスワードと同じ文字列は\n指定できません。<end>": ""
+    "現在のパスワードと同じ文字列は\n指定できません。<end>": "You cannot use the same password as your\ncurrent one.<end>"
   },
   "49804": {
-    "パスワードの再設定を行うには\nスクウェア・エニックスＩＤを　入力してから\nこのコマンドを選んでください。<br>\nＩＤも忘れた場合は　お手数ですが\n「ドラゴンクエストⅩ」サポートセンターの\nページをご確認ください。https://sqex.to/eh6<end>": ""
+    "パスワードの再設定を行うには\nスクウェア・エニックスＩＤを　入力してから\nこのコマンドを選んでください。<br>\nＩＤも忘れた場合は　お手数ですが\n「ドラゴンクエストⅩ」サポートセンターの\nページをご確認ください。https://sqex.to/eh6<end>": "To reset your password, enter your Square Enix ID and then select this command.<br>\nIf you have forgotten your ID, please check\nthe Dragon Quest X Support Center page.\nhttps://sqex.to/eh6<end>"
   },
   "49805": {
-    "（※不要）<end>": ""
+    "（※不要）<end>": "(*Unnecessary)<end>"
   },
   "49892": {
     "どのキャラが　プレゼントを　受け取りますか？<break>": "Which character will receive this present?<break>"
   },
   "49900": {
-    "ご使用のアカウントには\nオンラインで遊べるキャラクターが　いないため\nゲストモードで　プレイできません。\n<br>\n最初に遊んでいた環境から　キャラを作るか\nこの<%sConsole>で　\nプレイヤー登録する必要があります。\n<br>\nログアウトして　タイトルに戻ります。<end>": ""
+    "ご使用のアカウントには\nオンラインで遊べるキャラクターが　いないため\nゲストモードで　プレイできません。\n<br>\n最初に遊んでいた環境から　キャラを作るか\nこの<%sConsole>で　\nプレイヤー登録する必要があります。\n<br>\nログアウトして　タイトルに戻ります。<end>": "You cannot play in guest mode because your\naccount does not have any characters that can\nbe played online.\n<br>\nYou will need to create a character from the\nenvironment in which you first played or\nregister a player with this <%sConsole>.\n<br>\nLog out and return to the title.<end>"
   },
   "49974": {
-    "使えない文字が　含まれています。\n以下の文字を　別の文字に　書き換えてください。\n<color_yellow>『<%s_NGWORDS>』<end>": ""
+    "使えない文字が　含まれています。\n以下の文字を　別の文字に　書き換えてください。\n<color_yellow>『<%s_NGWORDS>』<end>": "Contains characters that cannot be used.\nReplace the characters below with other ones.\n<color_yellow>\"<%s_NGWORDS>\"<end>"
   },
   "50614": {
-    "決済中のため　処理を行えません。\n完了するまで　数日かかる可能性があります。\n日を置いてから　もう一度　お試しください。<end>": ""
+    "決済中のため　処理を行えません。\n完了するまで　数日かかる可能性があります。\n日を置いてから　もう一度　お試しください。<end>": "Cannot process because payment is in progress.\nIt may take several days to complete.\nPlease wait a few days and try again.<end>"
   },
   "50615": {
-    "クレジットカードを　登録しました！\nさらに　利用券の有効期間が　切れていたので\n<%dDAY>日間利用券が　購入されました！<me_60><end>": ""
+    "クレジットカードを　登録しました！\nさらに　利用券の有効期間が　切れていたので\n<%dDAY>日間利用券が　購入されました！<me_60><end>": "Your credit card has been registered! In\naddition, since the validity of the ticket had\nexpired, a <%dDAY> day pass has been purchased!<me_60><end>"
   },
   "50616": {
     "オンラインで遊べるキャラデータが　ありません！\n先に　オフラインモードで　キャラを作って\nオンラインに移動するところまで進めてください。<end>": "There is no character data to play online!\nPlease create your character first in offline\nmode and then move on to online.<end>"
   },
   "50617": {
-    "本人確認ができなければ　この場では\nパスワードの再設定が　行えません。<br>\nお手数ですが　「ドラゴンクエストⅩ」\nサポートセンターのページを　ご確認ください。\nhttps://sqex.to/eh6<end>": ""
+    "本人確認ができなければ　この場では\nパスワードの再設定が　行えません。<br>\nお手数ですが　「ドラゴンクエストⅩ」\nサポートセンターのページを　ご確認ください。\nhttps://sqex.to/eh6<end>": "If your identity cannot be verified, you will\nnot be able to reset your password at this\ntime.<br>\nWe apologize for the inconvenience, but please\ncheck the Dragon Quest X Support Center page.\nhttps://sqex.to/eh6<end>"
   },
   "50618": {
-    "プレイヤー<%nPLAYER_NO>に\n『<%sID>』のアカウントを\n登録しました！": ""
+    "プレイヤー<%nPLAYER_NO>に\n『<%sID>』のアカウントを\n登録しました！": "Registered the account of \"<%sID>\" to\nPlayer <%dPLAYER_NO>!"
   },
   "50619": {
-    "ＵＳＢキーボードが　接続されています。\nお好みの　日本語入力方法を　お選びください。\n<select_se_off>\nローマ字入力\nかな入力\n<select_end><break>": ""
+    "ＵＳＢキーボードが　接続されています。\nお好みの　日本語入力方法を　お選びください。\n<select_se_off>\nローマ字入力\nかな入力\n<select_end><break>": "USB keyboard is connected.\nPlease select your preferred Japanese input\nmethod.\n<select_se_off>\nRomaji Input\nKana Input\n<select_end><break>"
   },
   "50866": {
     "冒険の書を削除できる回数が　残り0回のため\n削除できません。<br>\nこの回数は　毎月1日午前0時以降に\nログインしなおすと　一定量　回復します。<end>": "You cannot delete this Adventure Log as\nthere are 0 deletions remaining.<br>\nThis amount will reset by logging in\nagain after midnight on the first\nday of the month.<end>"
@@ -1230,106 +1231,106 @@
     "冒険の書を削除できる回数は　残り<%dCHAR_DEL_NUM>回です。\nこの回数は　毎月1日午前0時以降に\nログインしなおすと　一定量　回復します。<end>": "You have <%dCHAR_DEL_NUM> Adventure Log(s) left to delete.\nThis amount will reset by logging in\nagain after midnight on the first\nday of the month.<end>"
   },
   "50868": {
-    "冒険の書を　削除することができません。\n<br>\n冒険の書のデータを　取得できないか\nキャラクターが　レンダーヒルズ地区に\n土地を　所有しています。\n<br>\n一度　環境状況や　キャラクターを\nご確認の上　改めて　お試しください。<end>": ""
+    "冒険の書を　削除することができません。\n<br>\n冒険の書のデータを　取得できないか\nキャラクターが　レンダーヒルズ地区に\n土地を　所有しています。\n<br>\n一度　環境状況や　キャラクターを\nご確認の上　改めて　お試しください。<end>": "Adventure Log cannot be deleted.\n<br>\nIt is not possible to obtain data from the\nAdventure Log because the character owns land\nin the Lender Hills district.\n<br>\nPlease check your environment and characters\nand try again.<end>"
   },
   "51098": {
-    "・今回のコース変更にかかる\n　料金は　対象となる日数分が\n　日割り計算されます。": ""
+    "・今回のコース変更にかかる\n　料金は　対象となる日数分が\n　日割り計算されます。": "・The fee for this course change will be\n  prorated for the number of days covered."
   },
   "51099": {
-    "・今回のコース変更にかかる\n　料金は　対象となる日数分が\n　日割り計算されます。\n・次回の更新から\n　右の表の料金となります。": ""
+    "・今回のコース変更にかかる\n　料金は　対象となる日数分が\n　日割り計算されます。\n・次回の更新から\n　右の表の料金となります。": "・The fee for this course change will be\n  prorated for the number of days covered.\n・From the next renewal, the rates will be as\n  shown in the table on the right."
   },
   "51100": {
-    "利用券を　購入しました！\n<%nNEXT_COURSE>キャラコースに変更しました。\n次回の更新から　このコースで決済されます。": ""
+    "利用券を　購入しました！\n<%nNEXT_COURSE>キャラコースに変更しました。\n次回の更新から　このコースで決済されます。": "Ticket purchased!\nChanged to <%dNEXT_COURSE> character course. Payment will be\nmade using this course from the next renewal."
   },
   "51101": {
-    "利用券を　購入しました！\n<%nNEXT_COURSE>キャラコースに変更しました。": ""
+    "利用券を　購入しました！\n<%nNEXT_COURSE>キャラコースに変更しました。": "Ticket purchased!\nChanged to <%dNEXT_COURSE> character course."
   },
   "51104": {
-    "現在　キャラ数が減る　コース変更はできません。\n契約終了日から　30日以内の時に\n行ってください。": ""
+    "現在　キャラ数が減る　コース変更はできません。\n契約終了日から　30日以内の時に\n行ってください。": "Currently, you cannot change courses as the\nnumber of characters decreases. Please do so\nwithin 30 days from the end of the contract."
   },
   "51105": {
-    "現在　キャラ数が減る　コース変更はできません。\nキャラ数を減らしたい場合は　契約終了日から\n30日以内の時に　行ってください。": ""
+    "現在　キャラ数が減る　コース変更はできません。\nキャラ数を減らしたい場合は　契約終了日から\n30日以内の時に　行ってください。": "Currently, you cannot change courses as the\nnumber of characters decreases. Please do so\nwithin 30 days from the end of the contract."
   },
   "51106": {
-    "現在の　キャラコースです。\n変更したい　キャラコースを選択してください。": ""
+    "現在の　キャラコースです。\n変更したい　キャラコースを選択してください。": "This is the current character course.\nPlease select the character course you want to\nchange."
   },
   "51107": {
-    "冒険の書に　空きがありません。\n先に　どれかの冒険の書を消してください。\nスタートメニューに戻りますか？<yesno><break>": ""
+    "冒険の書に　空きがありません。\n先に　どれかの冒険の書を消してください。\nスタートメニューに戻りますか？<yesno><break>": "There is no room for the Adventure Log.\nPlease delete one of the Adventure Logs first.\nReturn to the Start Menu?<yesno><break>"
   },
   "51154": {
-    "<%nNEXT_COURSE>キャラコースに変更しました。": ""
+    "<%nNEXT_COURSE>キャラコースに変更しました。": "Changed to <%dNEXT_COURSE> character course."
   },
   "51155": {
-    "現在の　<%nNOW_COURSE>キャラコースから　<%nNEXT_COURSE>キャラコースに\n変更します。よろしいですか？\n<color_yellow>※差額の払い戻しは行われません。<color_white><yesno><break>": ""
+    "現在の　<%nNOW_COURSE>キャラコースから　<%nNEXT_COURSE>キャラコースに\n変更します。よろしいですか？\n<color_yellow>※差額の払い戻しは行われません。<color_white><yesno><break>": "Change from the current <%dNOW_COURSE> character course to\n<%dNEXT_COURSE> character course.\nIs that okay?\n<color_yellow>*The difference will not be refunded.<color_white><yesno><break>"
   },
   "51156": {
-    "現在の　<%nNOW_COURSE>キャラコースから\n<%nNEXT_COURSE>キャラコースに変更する\n<%sUPGRADE_TICKET>を購入します。": ""
+    "現在の　<%nNOW_COURSE>キャラコースから\n<%nNEXT_COURSE>キャラコースに変更する\n<%sUPGRADE_TICKET>を購入します。": "Purchased <%sUPGRADE_TICKET> to change\nfrom the current <%dNOW_COURSE> character course to <%dNEXT_COURSE>\ncharacter course."
   },
   "51157": {
-    "・購入した時点から 利用券は有効となり\n　ご利用中のアカウントにのみ 反映されます。\n　\n・利用券の日数は 購入した日からの起算となり\n　終了日の24時までが 有効期間となります。\n　\n・ただし 利用券の有効期間（無料期間を含む）が\n　残っている時に 追加で利用券を購入した場合は\n　購入分の期間が 有効期間に追加されます。\n　\n・有効期間が 最長<%dMAXDAY>日を超える\n　利用券は 購入できません。": ""
+    "・購入した時点から 利用券は有効となり\n　ご利用中のアカウントにのみ 反映されます。\n　\n・利用券の日数は 購入した日からの起算となり\n　終了日の24時までが 有効期間となります。\n　\n・ただし 利用券の有効期間（無料期間を含む）が\n　残っている時に 追加で利用券を購入した場合は\n　購入分の期間が 有効期間に追加されます。\n　\n・有効期間が 最長<%dMAXDAY>日を超える\n　利用券は 購入できません。": "・The ticket is valid from the time of\n  purchase and will only be applied to your\n  current account.\n　\n・The number of days of the ticket is\n  calculated from the purchase date and valid\n  until 24:00 on the day the ticket expires.\n　\n・However, if you purchase an additional usage\n  ticket while the validity period is still\n  remaining, the period of the purchased\n  ticket will be added to the validity period.\n　\n・Tickets whose validity period exceeds <%dMAXDAY>\n  days cannot be purchased."
   },
   "51158": {
-    "・利用券を Ｗiiポイントで購入する場合は\n　有効期間を 自動継続することはできません。\n　期限切れになりましたら 再度 ご購入ください。\n　\n・この利用券は ドラゴンクエストⅩの\n　オンラインモードでのみ ご利用いただけます。\n　他のＷiiソフトでは ご利用いただけませんので\n　ご注意ください。\n　\n・この利用券については ドラゴンクエストⅩの\n　取扱説明書 および 利用規約の条件が 適用されます。": ""
+    "・利用券を Ｗiiポイントで購入する場合は\n　有効期間を 自動継続することはできません。\n　期限切れになりましたら 再度 ご購入ください。\n　\n・この利用券は ドラゴンクエストⅩの\n　オンラインモードでのみ ご利用いただけます。\n　他のＷiiソフトでは ご利用いただけませんので\n　ご注意ください。\n　\n・この利用券については ドラゴンクエストⅩの\n　取扱説明書 および 利用規約の条件が 適用されます。": "・If you purchase a ticket with Wii Points,\n  the validity period cannot be automatically\n  renewed.\n　\n・This ticket can only be used in the online\n  mode of Dragon Quest X.\n  Please note that it cannot be used with\n  other Wii software.\n　\n・The terms and conditions of the Dragon Quest\n  X User's Manual and Terms of Service apply\n  to this ticket."
   },
   "51159": {
-    "プレイコース変更の料金は\n残り契約期間による　差額の日割り価格です。\n<%sTICKTNAME>を 購入しますか？": ""
+    "プレイコース変更の料金は\n残り契約期間による　差額の日割り価格です。\n<%sTICKTNAME>を 購入しますか？": "The fee for changing the course of play is a\npro-rated amount based on the remaining\ncontract period. Purchase <%sTICKTNAME>?"
   },
   "51501": {
-    "現在　<%dNOW_WIIPOINT><%sCurrency>　所持しています。\nこの利用券を購入するには\n<%dCRS_CHG_PRICE><%sCurrency>　必要です。": ""
+    "現在　<%dNOW_WIIPOINT><%sCurrency>　所持しています。\nこの利用券を購入するには\n<%dCRS_CHG_PRICE><%sCurrency>　必要です。": "You currently have <%dNOW_WIIPOINT> <%sCurrency>.\n<%dCRS_CHG_PRICE> <%sCurrency> is required to purchase this ticket."
   },
   "51533": {
-    "　【ご注意！】　": ""
+    "　【ご注意！】　": "      [Attention!]      "
   },
   "51534": {
-    "購入後の有効期間": ""
+    "購入後の有効期間": "Validity Period After Purchase"
   },
   "51535": {
-    "アイテムチケットの料金": ""
+    "アイテムチケットの料金": "Item ticket price"
   },
   "51536": {
     "現在の有効期間": "Valid Period"
   },
   "51537": {
-    "プレイコース変更の料金（税込）": ""
+    "プレイコース変更の料金（税込）": "Change Play Course Fee (With Tax)"
   },
   "51538": {
-    "利用券の料金（税込）": ""
+    "利用券の料金（税込）": "Ticket Usage Fee (With Tax)"
   },
   "51539": {
     "1000": "1000"
   },
   "51540": {
-    "1300": ""
+    "1300": "1300"
   },
   "51541": {
-    "1500": ""
+    "1500": "1500"
   },
   "51542": {
-    "1950": ""
+    "1950": "1950"
   },
   "51543": {
-    "2550": ""
+    "2550": "2550"
   },
   "51544": {
-    "2950": ""
+    "2950": "2950"
   },
   "51545": {
-    "2900": ""
+    "2900": "2900"
   },
   "51546": {
-    "3800": ""
+    "3800": "3800"
   },
   "51547": {
-    "4400": ""
+    "4400": "4400"
   },
   "51705": {
-    "入力内容を　ご確認ください。\n間違いなければ　「決定する」を選んで\n次へ　進んでください。\n<select_se_off>\n決定する\n内容を修正する\n<select_end><close>": ""
+    "入力内容を　ご確認ください。\n間違いなければ　「決定する」を選んで\n次へ　進んでください。\n<select_se_off>\n決定する\n内容を修正する\n<select_end><close>": "Please confirm the entered information.\nIf you are sure, select \"Confirm\" and proceed\nto the next step.\n<select_se_off>\nConfirm\nReenter\n<select_end><close>"
   },
   "51706": {
-    "ＳＴＥＰ１　入力内容の確認": ""
+    "ＳＴＥＰ１　入力内容の確認": "STEP 1 Confirmation of Input Content"
   },
   "51707": {
-    "ＳＴＥＰ２　入力内容の確認": ""
+    "ＳＴＥＰ２　入力内容の確認": "STEP 2 Confirmation of Input Content"
   },
   "51708": {
     "30日間": "30 days"
@@ -1347,127 +1348,127 @@
     "男": "M"
   },
   "51983": {
-    "入力された　アイテムコードは\n無効になっています。\n有効期限を　ご確認ください。<end>": ""
+    "入力された　アイテムコードは\n無効になっています。\n有効期限を　ご確認ください。<end>": "The item code you entered is invalid.\nPlease check the expiration date.<end>"
   },
   "51984": {
-    "入力された　プレゼントのじゅもんは\n無効になっています。\n有効期限を　ご確認ください。<end>": ""
+    "入力された　プレゼントのじゅもんは\n無効になっています。\n有効期限を　ご確認ください。<end>": "The Present Code you entered is invalid.\nPlease check the expiration date.<end>"
   },
   "51985": {
-    "入力された　レジストレーションコードは\n無効になっています。\n有効期限を　ご確認ください。<end>": ""
+    "入力された　レジストレーションコードは\n無効になっています。\n有効期限を　ご確認ください。<end>": "The registration code you entered is invalid.\nPlease check the expiration date.<end>"
   },
   "52026": {
-    "冒険の書の数を　変更します": ""
+    "冒険の書の数を　変更します": "Change Number of Adventure Logs"
   },
   "52075": {
-    "プレイコース変更をやめます。\nよろしいですか？<yesno><break>": ""
+    "プレイコース変更をやめます。\nよろしいですか？<yesno><break>": "Stop changing the play course. Are you sure?<yesno><break>"
   },
   "52487": {
-    "入力内容の確認": ""
+    "入力内容の確認": "Confirmation of Input Content"
   },
   "52861": {
-    "接続環境が変化した　もしくは\n不審なアクセスを検知した恐れがあるため\nログインが　制限されています。\n生年月日を入力すると　解除できます。<break>": "Login is restricted due to a connection\nchange or suspicious activity. You can\nregain access by entering your date\nof birth.<break>"
+    "接続環境が変化した　もしくは\n不審なアクセスを検知した恐れがあるため\nログインが　制限されています。\n生年月日を入力すると　解除できます。<break>": "Login is restricted due to a connection change\nor suspicious activity. You can\nregain access by entering your date\nof birth.<break>"
   },
   "52862": {
-    "生年月日が　正しく入力されていません。\n正しい日付を　ご確認ください。<break>": "Date of birth is incorrect. Please enter\nthe correct date.<break>"
+    "生年月日が　正しく入力されていません。\n正しい日付を　ご確認ください。<break>": "Date of birth is incorrect.\nPlease enter the correct date.<break>"
   },
   "52863": {
     "ログイン画面に　戻りますか？<yesno 2><break>": "Return to the login screen?<yesno 2><break>"
   },
   "53573": {
-    "はじめてドラゴンクエストⅩを遊ぶ場合は\nこちらを選択してください。\n（ご注意）\n・オンラインモードをプレイしたことのある場合は\n　「すでに遊んでいるアカウントを登録する」を\n　選択してください。\n・２つ目のアカウントを登録したい場合は\n　未登録のレジストレーションコードが必要です。": ""
+    "はじめてドラゴンクエストⅩを遊ぶ場合は\nこちらを選択してください。\n（ご注意）\n・オンラインモードをプレイしたことのある場合は\n　「すでに遊んでいるアカウントを登録する」を\n　選択してください。\n・２つ目のアカウントを登録したい場合は\n　未登録のレジストレーションコードが必要です。": "If you are playing Dragon Quest X for the\nfirst time, please select this option.\n(Attention)\n・If you have played the online mode before,\n  select \"Register an account your are already\n  playing\".\n・If you wish to register a second account,\n  you will need an unregistered registration\n  code."
   },
   "53574": {
-    "オンライン登録をした事のある場合は\nこちらを選択してください。\n（その他の例）\n・プレイヤーを削除してしまったが\n　今まで使っていたアカウントを再登録したい場合\n・Wii U版で使っていたアカウントやキャラを\n　Wii版でも引き続き使いたい場合\n・Wii U版ベータテストで作ったアカウントやキャラを\n　引き続き使いたい場合": ""
+    "オンライン登録をした事のある場合は\nこちらを選択してください。\n（その他の例）\n・プレイヤーを削除してしまったが\n　今まで使っていたアカウントを再登録したい場合\n・Wii U版で使っていたアカウントやキャラを\n　Wii版でも引き続き使いたい場合\n・Wii U版ベータテストで作ったアカウントやキャラを\n　引き続き使いたい場合": "Select this option if you have previously\nregistered online.\n(Other examples)\n・Deleted the player.\n  Want to re-register your existing account.\n・If you want to continue to use the account\n  or character you used on the Wii U version\n  on the Wii version.\n・If you want to continue to use your account\n  or character created in the Wii U beta test."
   },
   "53575": {
-    "オンライン登録を済ませている場合は\n「すでに遊んでいるアカウントを登録する」を\n選んでください。<br>\n新しくプレイヤーを登録して\nゲームを開始しますか？<yesno><close>": ""
+    "オンライン登録を済ませている場合は\n「すでに遊んでいるアカウントを登録する」を\n選んでください。<br>\n新しくプレイヤーを登録して\nゲームを開始しますか？<yesno><close>": "If you have already registered online, select\n\"Register an account your are already playing\".<br>\nRegister a new player and start the game?<yesno><close>"
   },
   "53576": {
-    "「ドラゴンクエストⅩ Wii U版」の\nレジストレーションコードが　未登録のため\nゲームの続きを　遊ぶことはできません。<br>\nオンラインモードで　ログインして\nレジストレーションコードを登録しますか？<yesno_nc><close>": ""
+    "「ドラゴンクエストⅩ Wii U版」の\nレジストレーションコードが　未登録のため\nゲームの続きを　遊ぶことはできません。<br>\nオンラインモードで　ログインして\nレジストレーションコードを登録しますか？<yesno_nc><close>": "The registration code for \"Dragon Quest X\nWii U version\" is not registered, so you\ncannot continue playing the game.<br>\nDo you want to log in and register your\nregistration code in online mode?<yesno_nc><close>"
   },
   "53577": {
     "このまま　オンラインモードを\nプレイしますか？<yesno_nc><break>": "Continue to play the online mode?<yesno_nc><break>"
   },
   "53578": {
-    "ログアウトして　オフラインモードで\nゲームを続けます。<end>": ""
+    "ログアウトして　オフラインモードで\nゲームを続けます。<end>": "Log out and continue the game in offline mode.<end>"
   },
   "53579": {
-    "ベータテストでは　オフラインモードの\n続きは　プレイできません。<br>\nオンラインモードで　ベータテスト参加への\nご協力を　お願いいたします。<end>": ""
+    "ベータテストでは　オフラインモードの\n続きは　プレイできません。<br>\nオンラインモードで　ベータテスト参加への\nご協力を　お願いいたします。<end>": "You cannot continue playing offline mode\nduring the beta test.<br>\nThank you for your cooperation in\nparticipating in the beta test in online mode.<end>"
   },
   "53581": {
-    "「ドラゴンクエストⅩ Wii U版」の\nレジストレーションコードを入力してください。<br>\n<color_yellow>※パッケージ封入の『冒険者登録証』もしくは\n　ダウンロード版を購入後　任天堂の特設サイトで\n　発行された　20文字のコードです。<color_white><break>": ""
+    "「ドラゴンクエストⅩ Wii U版」の\nレジストレーションコードを入力してください。<br>\n<color_yellow>※パッケージ封入の『冒険者登録証』もしくは\n　ダウンロード版を購入後　任天堂の特設サイトで\n　発行された　20文字のコードです。<color_white><break>": "Enter the Dragon Quest X Wii U registration\ncode.<br>\n<color_yellow>*This is a 20-character code issued on Nintendo\nspecial website after purchasing the packaged\n\"Adventurer Registration Card\" or the\n<br>\ndownloadable version.<color_white><break>"
   },
   "53582": {
-    "Wii Uプレミアムセット付属の　『Wii U版\nベータテスト 登録証』に書かれた　20文字の\nレジストレーションコードを　入れてください。<break>": ""
+    "Wii Uプレミアムセット付属の　『Wii U版\nベータテスト 登録証』に書かれた　20文字の\nレジストレーションコードを　入れてください。<break>": "Enter the 20-character registration code\nwritten on the \"Wii U Beta Test Registration\nCard\" included with the Wii U Premium Set.<break>"
   },
   "53583": {
-    "ご使用のアカウントに　Wii U版の\nレジストレーションコードを　登録しました！\nこれで　Wii Uで遊べるようになります。<end>": ""
+    "ご使用のアカウントに　Wii U版の\nレジストレーションコードを　登録しました！\nこれで　Wii Uで遊べるようになります。<end>": "The registration code for the Wii U version\nhas been registered to your account! This will\nallow you to play on Wii U.<end>"
   },
   "53584": {
-    "ご使用のアカウントに　Wii U版ベータテストの\nレジストレーションコードを　登録しました！\nこれで　Wii U版ベータテストに参加できます。<end>": ""
+    "ご使用のアカウントに　Wii U版ベータテストの\nレジストレーションコードを　登録しました！\nこれで　Wii U版ベータテストに参加できます。<end>": "The registration code for the Wii U beta test\nhas been registered to your account! You can\nnow participate in the Wii U version beta.<end>"
   },
   "53599": {
-    "生年月日の情報は\n今後も　本人確認のために　使いますので\nお間違えないよう　ご注意ください。": ""
+    "生年月日の情報は\n今後も　本人確認のために　使いますので\nお間違えないよう　ご注意ください。": "We will continue to use your date of birth to\nconfirm your identity, so please be careful\nnot to make any mistakes."
   },
   "53621": {
     "現在のプレイ環境では　利用券メニューは\n使用制限されています。正式なプレイ環境となれば\nこの機能も　お使いいただけます。<end>": "The use of the Ticket menu is restricted on\nyour current platform. Try again from a\nplatform with the full version of the game.<end>"
   },
   "53759": {
-    "生年月日の入力": ""
+    "生年月日の入力": "Enter date of birth."
   },
   "53760": {
     "では　オフラインモードで　冒険の続きを\n遊びますか？<yesno_nc><break>": "continue your adventure in offline mode?<yesno_nc><break>"
   },
   "53824": {
-    "このスクウェア・エニックス アカウントは\nすでに　別のプレイヤーが使用しているため\nご使用いただけません。": ""
+    "このスクウェア・エニックス アカウントは\nすでに　別のプレイヤーが使用しているため\nご使用いただけません。": "This Square Enix account cannot be used\nbecause it is already being used by another\nplayer."
   },
   "53826": {
-    "無料期間が　<%dDay>日間　延長されました！<me_60><br>\n<%sPCNAME>の郵便箱に\n『<%sCODENAME>』の\nセットアイテムを送りました！<end>": ""
+    "無料期間が　<%dDay>日間　延長されました！<me_60><br>\n<%sPCNAME>の郵便箱に\n『<%sCODENAME>』の\nセットアイテムを送りました！<end>": "Free period has been extended for <%dDay> days!<me_60><br>\nA set item of \"<%sCODENAME>\" has been sent to the mailbox of <%sPCNAME>!<end>"
   },
   "53917": {
     "無料期間を　<%dDay>日間　延長します。<br>\n『<%sCODENAME>』を\n<%sPCNAME>の郵便箱に　送ります。\nよろしいですか？<yesno><close>": "The free period will be extended for <%dDay> day(s).\n<br>\n\"<%sCODENAME>\"\nwill be sent to <%sPCNAME>'s\nmailbox. Proceed?<yesno><close>"
   },
   "54001": {
-    "ベータテストでは　オフラインモードの\n続きを　プレイできません。\nタイトルに　戻りますか？<yesno_nc><break>": ""
+    "ベータテストでは　オフラインモードの\n続きを　プレイできません。\nタイトルに　戻りますか？<yesno_nc><break>": "You cannot continue playing offline mode\nduring the beta test. Return to the title?<yesno_nc><break>"
   },
   "54318": {
-    "無料期間が　終了しているため\n入力された　アイテムコードは\nご利用できません。<end>": ""
+    "無料期間が　終了しているため\n入力された　アイテムコードは\nご利用できません。<end>": "The entered item code cannot be used because\nthe free period has expired.<end>"
   },
   "54544": {
-    "（ベータテスト中）": "(In Beta Test)"
+    "（ベータテスト中）": "(Beta Test)"
   },
   "54713": {
-    "Wii U": ""
+    "Wii U": "Wii U"
   },
   "54714": {
-    "Ｗii": ""
+    "Ｗii": "Wii"
   },
   "57658": {
-    "おつかれさまでした！\n以上で　すべての手続きが完了しました！<me_57><br>\nそれでは　ドラゴンクエストⅩの\nオンラインの世界を　お楽しみください！<end>": ""
+    "おつかれさまでした！\n以上で　すべての手続きが完了しました！<me_57><br>\nそれでは　ドラゴンクエストⅩの\nオンラインの世界を　お楽しみください！<end>": "Thank you! All procedures are now complete!<me_57><br>\nWe hope you enjoy the online world of Dragon\nQuest X!<end>"
   },
   "57659": {
-    "ベータテストは　製品版とくらべて\n一部の機能が　制限されていますが\n期間中　無料で　ご参加いただけます。<end>": ""
+    "ベータテストは　製品版とくらべて\n一部の機能が　制限されていますが\n期間中　無料で　ご参加いただけます。<end>": "The beta test will be free of charge during\nthe test period, although some features will\nbe limited compared to the full version.<end>"
   },
   "57660": {
-    "ドラゴンクエストⅩ\nオンラインモードの世界へ　ようこそ！<br>\nこれより　オンラインモードで遊ぶための\n簡単な　５つのＳＴＥＰの手続きを　行います。\n<color_yellow>※この手続きは　初回だけ　必要なものです。<br>\n<color_white>この手続きが終われば　ベータテストに\nご参加いただけます！<end>": ""
+    "ドラゴンクエストⅩ\nオンラインモードの世界へ　ようこそ！<br>\nこれより　オンラインモードで遊ぶための\n簡単な　５つのＳＴＥＰの手続きを　行います。\n<color_yellow>※この手続きは　初回だけ　必要なものです。<br>\n<color_white>この手続きが終われば　ベータテストに\nご参加いただけます！<end>": "Welcome to the world of Dragon Quest X online\nmode!<br>\nYou will now follow a simple 5-STEP procedure\nto play in online mode.\n<color_yellow>*This process is only required the first time.<br>\n<color_white>Once this process is complete, you will be\nable to participate in the beta test!<end>"
   },
   "58356": {
-    "ベータテストでは　クレジットカードの登録を\n行えませんので　ＳＴＥＰ２は　ありません。<me_58><end>": ""
+    "ベータテストでは　クレジットカードの登録を\n行えませんので　ＳＴＥＰ２は　ありません。<me_58><end>": "Since credit card registration is not possible\nduring the beta test, there is no STEP 2.<me_58><end>"
   },
   "58360": {
     "ソフト": "Software"
   },
   "59181": {
-    "次の画面の　利用規約を　よくお読みいただき\n同意いただけるならば　『利用規約に同意する』に\nチェックをして　次へ進んでください。<end>": ""
+    "次の画面の　利用規約を　よくお読みいただき\n同意いただけるならば　『利用規約に同意する』に\nチェックをして　次へ進んでください。<end>": "Please read the Terms of Use carefully and if\nyou agree to them, check \"I agree to the Terms\nof Use\" and proceed to the next page.<end>"
   },
   "61156": {
-    "本人確認のため　設定した　ひみつの質問と\nその答えと　このアカウントに登録した\nレジストレーションコードを　入れてください。<break>": ""
+    "本人確認のため　設定した　ひみつの質問と\nその答えと　このアカウントに登録した\nレジストレーションコードを　入れてください。<break>": "To verify your identity, enter the secret\nquestion and answer you set and registration\ncode you registered for this account.<break>"
   },
   "61160": {
-    "あなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><br>\nレジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<end>": ""
+    "あなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><br>\nレジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<end>": "Your account will be free to play for 20 days\nstarting today!<me_60><br>\nPlease keep your registration code in a safe\nplace as it will be used to verify your\nidentity in the future.<end>"
   },
   "61161": {
-    "「プレゼントを受け取る」メニューから\nレジストレーションコード追加登録の特典が\n受け取れるようになりました。<end>": ""
+    "「プレゼントを受け取る」メニューから\nレジストレーションコード追加登録の特典が\n受け取れるようになりました。<end>": "You can now receive the benefits of\nregistering additional registration codes from\nthe \"Receive Present\" menu.<end>"
   },
   "67223": {
     "Crysta": "Crysta"
@@ -1494,37 +1495,37 @@
     "条件を満たしていないため\nこのプレゼントは　受け取れません。": "You haven't met the criteria to receive this\npresent."
   },
   "72767": {
-    "（ネットカフェプレイ中）": ""
+    "（ネットカフェプレイ中）": "(Net Cafe Play)"
   },
   "72782": {
-    "５キャラコースに変更すると\n倉庫がひとつと　写真を撮影できる枚数が100枚\n増えます。<br>\n<color_yellow>※５キャラコースをやめると\n　倉庫の中のアイテムや　写真は削除されませんが\n　使えなくなります。<color_white><end>": ""
+    "５キャラコースに変更すると\n倉庫がひとつと　写真を撮影できる枚数が100枚\n増えます。<br>\n<color_yellow>※５キャラコースをやめると\n　倉庫の中のアイテムや　写真は削除されませんが\n　使えなくなります。<color_white><end>": "If you change to the 5-character course, you\nwill have one storage and the number of photos\nyou can take will increase by 100.<br>\n<color_yellow>*If you cancel the 5-character course, items\nand photos in the storage will not be deleted,\nbut they will no longer be available.<color_white><end>"
   },
   "72783": {
-    "<color_yellow>※５キャラコースをやめると　追加された\n　倉庫の中のアイテムや　写真は削除されませんが\n　使えなくなります。<color_white><end>": ""
+    "<color_yellow>※５キャラコースをやめると　追加された\n　倉庫の中のアイテムや　写真は削除されませんが\n　使えなくなります。<color_white><end>": "<color_yellow>*If you cancel the 5-character course, added\nitems and photos in the storage will not be\ndeleted, but they will no longer be available.<color_white><end>"
   },
   "73023": {
-    "利用券を購入すると　フリープレイは終了し\n利用券の期限が　有効になりますので\nご注意ください。<end>": ""
+    "利用券を購入すると　フリープレイは終了し\n利用券の期限が　有効になりますので\nご注意ください。<end>": "Please note that once you purchase a ticket,\nfree play will end and the ticket will expire.<end>"
   },
   "74013": {
     "現在のプレイ環境では　この機能は\n使用制限されています。正式なプレイ環境となれば\nこの機能も　お使いいただけます。<end>": "You cannot use this on your current platform.\nTry again from a platform with the full\nversion of the game.<end>"
   },
   "74865": {
-    "契約情報を更新するため\nログアウトします。<end>": ""
+    "契約情報を更新するため\nログアウトします。<end>": "Log out to update subscription information.<end>"
   },
   "75385": {
-    "アストルティア入国管理局で\n登録したCrystaを\n使用しています": ""
+    "アストルティア入国管理局で\n登録したCrystaを\n使用しています": "Using Crysta registered at the Astoltia\nImmigration Bureau."
   },
   "75386": {
-    "アストルティア入国管理局で\n登録したクレジットカードを\n使用しています": ""
+    "アストルティア入国管理局で\n登録したクレジットカードを\n使用しています": "Using a credit card registered at the Astoltia\nImmigration Bureau."
   },
   "75387": {
-    "WiiやWii Uで\n登録したクレジットカードを\n使用しています": ""
+    "WiiやWii Uで\n登録したクレジットカードを\n使用しています": "Using a credit card registered with the Wii or\nWii U."
   },
   "75388": {
-    "自動継続の情報": ""
+    "自動継続の情報": "Auto-renewal Info"
   },
   "75389": {
-    "現在の自動継続を\n解除します": ""
+    "現在の自動継続を\n解除します": "Cancel current auto-renewal"
   },
   "75390": {
     "ポイント": "Points"
@@ -1533,40 +1534,40 @@
     " ※Crysta自動更新（<%dDAY>日間利用券）": "Crysta Auto Renewal (<%dDAY> Day Ticket)"
   },
   "75478": {
-    "ビックポイント": ""
+    "ビックポイント": "Big Point"
   },
   "75479": {
-    "ヤマダポイント": ""
+    "ヤマダポイント": "Yamada Point"
   },
   "78805": {
-    "Crystaの登録を　解除すると\n次回より　自動継続が　行われなくなります。\n（購入済みの利用券の払い戻しは　できません）<br>\nCrystaの自動継続を再登録するには\nアストルティア入国管理局での手続きが必要です。\n登録を解除しても　よろしいですか？<yesno><break>": ""
+    "Crystaの登録を　解除すると\n次回より　自動継続が　行われなくなります。\n（購入済みの利用券の払い戻しは　できません）<br>\nCrystaの自動継続を再登録するには\nアストルティア入国管理局での手続きが必要です。\n登録を解除しても　よろしいですか？<yesno><break>": "If you cancel your Crysta registration, your\nsubscription will not be auto-renewed next\ntime. (Purchased tickets are non-refundable.)<br>\nTo re-register for Crysta auto-renewal, you\nmust go to the Astoltia Immigration Bureau.\nAre you sure you want to cancel registration?<yesno><break>"
   },
   "78806": {
-    "Crystaの自動継続が　解除されました。<end>": ""
+    "Crystaの自動継続が　解除されました。<end>": "Crysta auto-renewal has been canceled.<end>"
   },
   "78807": {
-    "利用期間が切れたまま　長期間ログインしないと\nキャラクターデータが　消える可能性があります。\n本当に　解除してもよろしいですか？<yesno 2><close>": ""
+    "利用期間が切れたまま　長期間ログインしないと\nキャラクターデータが　消える可能性があります。\n本当に　解除してもよろしいですか？<yesno 2><close>": "If you do not log in for a long time after\nyour subscription expires, your character data\nmay be lost. Are you sure you want to cancel?<yesno 2><close>"
   },
   "80316": {
-    "レジストレーションコードを登録せずに\nゲームを始めます。<br>\n次にログインするときに　もう一度\nレジストレーションコード登録の確認をしますか？<yesno_nc><break>": ""
+    "レジストレーションコードを登録せずに\nゲームを始めます。<br>\n次にログインするときに　もう一度\nレジストレーションコード登録の確認をしますか？<yesno_nc><break>": "Starting the game without registering your\nregistration code.<br>\nConfirm your registration code again the next\ntime you log in?<yesno_nc><break>"
   },
   "80317": {
-    "次からは　レジストレーションコード登録の\n確認をしないように　設定しました。<br>\n<color_yellow>※レジストレーションコードの登録は\n　メインメニューの「契約情報を確認する」から\n　行ってください。<color_white><end>": ""
+    "次からは　レジストレーションコード登録の\n確認をしないように　設定しました。<br>\n<color_yellow>※レジストレーションコードの登録は\n　メインメニューの「契約情報を確認する」から\n　行ってください。<color_white><end>": "Confirmation of code registration will not be\nrequired from now on.<br>\n<color_yellow>*To register your code, please go to\n\"Subscription Status\" in the main menu.<color_white><end>"
   },
   "80318": {
-    "次にログインするときに　もう一度\nレジストレーションコード登録の確認をするよう\n設定しました。<end>": ""
+    "次にログインするときに　もう一度\nレジストレーションコード登録の確認をするよう\n設定しました。<end>": "The next time you log in, you will be asked to\nconfirm your registration again.<end>"
   },
   "80353": {
-    "ご使用のアカウントに　追加パッケージ\n<%sVERAPPEND>の\nレジストレーションコードを登録しました！<end>": ""
+    "ご使用のアカウントに　追加パッケージ\n<%sVERAPPEND>の\nレジストレーションコードを登録しました！<end>": "Code registered for the additional package\"<%sVERAPPEND>\"\nto your account!"
   },
   "80354": {
-    "「プレゼントを受け取る」メニューから\n特典が　受け取れるようになりました。<end>": ""
+    "「プレゼントを受け取る」メニューから\n特典が　受け取れるようになりました。<end>": "You can now receive benefits from the\n\"Receive Present\" menu.<end>"
   },
   "81339": {
-    "クラウド版の有効期間": ""
+    "クラウド版の有効期間": "Cloud Version Validity Period"
   },
   "81443": {
-    "現在　登録できるレジストレーションコードは\nありません。追加パッケージを登録する場合は\n先にインストールしてください。<end>": ""
+    "現在　登録できるレジストレーションコードは\nありません。追加パッケージを登録する場合は\n先にインストールしてください。<end>": "There are currently no registration codes that\ncan be registered. If you want to register\nadditional packages, install them first.<end>"
   },
   "81772": {
     "契約状況を確認する": "Check License Status"
@@ -1578,61 +1579,61 @@
     "登録したレジストレーションコードの確認": "Check registered codes"
   },
   "81775": {
-    "ベータテスト": ""
+    "ベータテスト": "Beta Test"
   },
   "81776": {
-    "製品版": ""
+    "製品版": "Full Version"
   },
   "81777": {
-    "体験版": ""
+    "体験版": "Trial Version"
   },
   "81778": {
-    "製品版": ""
+    "製品版": "Full Version"
   },
   "81779": {
-    "先行体験版": ""
+    "先行体験版": "Advance Trial Version"
   },
   "81780": {
-    "ネットカフェ版": ""
+    "ネットカフェ版": "Internet Cafe Version"
   },
   "81781": {
-    "製品版（Amazon.co.jp）": ""
+    "製品版（Amazon.co.jp）": "Full Version (Amazon.co.jp)"
   },
   "81782": {
-    "製品版": ""
+    "製品版": "Full Version"
   },
   "81783": {
-    "製品版（ゲオ）": ""
+    "製品版（ゲオ）": "Full Version (Geo)"
   },
   "81784": {
-    "製品版（楽天ブックス）": ""
+    "製品版（楽天ブックス）": "Full Version (Rakuten Books)"
   },
   "81785": {
-    "製品版（TSUTAYA）": ""
+    "製品版（TSUTAYA）": "Full Version (TSUTAYA)"
   },
   "81786": {
-    "体験版（Amazon.co.jp）": ""
+    "体験版（Amazon.co.jp）": "Trial Version (Amazon.co.jp)"
   },
   "81787": {
-    "体験版": ""
+    "体験版": "Trial Version"
   },
   "81788": {
-    "体験版（ゲオ）": ""
+    "体験版（ゲオ）": "Trial Version (Geo)"
   },
   "81789": {
-    "体験版（楽天ブックス）": ""
+    "体験版（楽天ブックス）": "Trial Version (Rakuten Books)"
   },
   "81790": {
-    "体験版（TSUTAYA）": ""
+    "体験版（TSUTAYA）": "Trial Version (TSUTAYA)"
   },
   "82835": {
-    "クラウド版": ""
+    "クラウド版": "Cloud Version"
   },
   "82836": {
-    "『冒険者登録証』や『プレイ登録証』に書かれた\n20文字のレジストレーションコードを\n入力してください。<break>": ""
+    "『冒険者登録証』や『プレイ登録証』に書かれた\n20文字のレジストレーションコードを\n入力してください。<break>": "Enter the 20-character registration code\nwritten on your Adventurer Registration Card\nor Play Registration Card.<break>"
   },
   "82837": {
-    "入力された　レジストレーションコードは\n今は登録できません。「目覚めし五つの種族」の\nコードを先に登録してください。<end>": ""
+    "入力された　レジストレーションコードは\n今は登録できません。「目覚めし五つの種族」の\nコードを先に登録してください。<end>": "The registration code entered cannot be\nregistered at this time. Please register the\ncode for \"Awakening of the 5 Tribes\" first.<end>"
   },
   "82930": {
     "（体験版プレイ中）": "(Trial Version)"
@@ -1641,7 +1642,7 @@
     "お客様への重要なお知らせ": "Important Notice"
   },
   "85737": {
-    "★": ""
+    "★": "★"
   },
   "87787": {
     "ポイント": "Points"
@@ -1650,61 +1651,61 @@
     "サーバーに接続しています……。<break>": "Connecting to server....<break>"
   },
   "90217": {
-    "すでに　そのアドレスに送信されています。\nメール受信箱を確認してください。\n念のため　迷惑メールボックスもご確認ください。<br>\n同じメールアドレスを　改めて登録する場合は\nしばらく待って　もう一度　お試しください。<end>": ""
+    "すでに　そのアドレスに送信されています。\nメール受信箱を確認してください。\n念のため　迷惑メールボックスもご確認ください。<br>\n同じメールアドレスを　改めて登録する場合は\nしばらく待って　もう一度　お試しください。<end>": "It has already been sent to that address.\nPlease check your email inbox.\nPlease also check your spam just to be sure.。<br>\nIf you want to register the same email address\nagain, please wait a while and try again.<end>"
   },
   "90249": {
-    "生年月日が　正しく入力されていません。\n正しい日付を　ご確認ください。<end>": ""
+    "生年月日が　正しく入力されていません。\n正しい日付を　ご確認ください。<end>": "Date of birth is incorrect.\nPlease enter the correct date.<end>"
   },
   "90250": {
-    "ログイン制限を　解除するには\n生年月日を入力してください。<break>": ""
+    "ログイン制限を　解除するには\n生年月日を入力してください。<break>": "Please enter your date of birth to remove\nlogin restrictions.<break>"
   },
   "90251": {
-    "接続環境が変化した　もしくは\n不審なアクセスを検知した恐れがあるため\nログインが　制限されています。": ""
+    "接続環境が変化した　もしくは\n不審なアクセスを検知した恐れがあるため\nログインが　制限されています。": "Login is restricted due to a connection\nchange or suspicious activity."
   },
   "90252": {
     "ログイン画面に　戻りますか？<yesno 2><break>": "Return to the login screen?<yesno 2><break>"
   },
   "90253": {
-    "生年月日が　正しく入力されていません。\n正しい日付を　ご確認ください。<end>": ""
+    "生年月日が　正しく入力されていません。\n正しい日付を　ご確認ください。<end>": "Date of birth is incorrect.\nPlease enter the correct date.<end>"
   },
   "90254": {
-    "スクウェア・エニックス アカウントの取得には\n年齢確認のために　生年月日の入力が必要です。\nあなたの生年月日を　入れてください。<break>": ""
+    "スクウェア・エニックス アカウントの取得には\n年齢確認のために　生年月日の入力が必要です。\nあなたの生年月日を　入れてください。<break>": "To obtain a Square Enix Account, you will need\nto enter your date of birth to verify your\nage. Please enter your date of birth.<break>"
   },
   "90255": {
-    "生年月日の情報は\n今後も　本人確認のために　使いますので\nお間違えないよう　ご注意ください。": ""
+    "生年月日の情報は\n今後も　本人確認のために　使いますので\nお間違えないよう　ご注意ください。": "We will continue to use your date of birth to\nconfirm your identity, so please be careful\nnot to make any mistakes."
   },
   "92284": {
-    "これで　ＳＴＥＰ４は　完了です！<me_58><br>\n『<%sPCNAME>』で　このまま\nオンラインの世界へ　旅立ちます。<end>": ""
+    "これで　ＳＴＥＰ４は　完了です！<me_58><br>\n『<%sPCNAME>』で　このまま\nオンラインの世界へ　旅立ちます。<end>": "STEP 4 is now complete!<me_58><br>\nWith \"<%sPCNAME>\", you can continue your\nadventure into the online world."
   },
   "92457": {
     "ダミー": "Dummy"
   },
   "94625": {
-    "前回　購入処理が中断されたため\nもう一度　処理をしています……。<break>": ""
+    "前回　購入処理が中断されたため\nもう一度　処理をしています……。<break>": "The purchase process was interrupted last\ntime, so we are processing it again...<break>"
   },
   "98913": {
-    "名前の変更に失敗しました。\n少し時間を置いてから\nもう一度　お試しください。<end>": ""
+    "名前の変更に失敗しました。\n少し時間を置いてから\nもう一度　お試しください。<end>": "Name change failed.\nPlease wait a while and try again.<end>"
   },
   "99405": {
-    "アルバム拡張＋<%nADDPLAN>": ""
+    "アルバム拡張＋<%nADDPLAN>": "Album Expansion +<%dADDPLAN>"
   },
   "99406": {
-    "アルバム拡張＋<%nADDPLAN>（<%dSLOT>枚）": ""
+    "アルバム拡張＋<%nADDPLAN>（<%dSLOT>枚）": "Album Expansion +<%dADDPLAN> (<%dSLOT> Slots)"
   },
   "99407": {
     "追加倉庫＋<%nADDPLAN>": "Extra Storage +<%dADDPLAN>"
   },
   "99408": {
-    "追加倉庫＋<%nADDPLAN>（<%dSLOT>個）": "Extra Storage +<%dADDPLAN> (<%dSLOT>)"
+    "追加倉庫＋<%nADDPLAN>（<%dSLOT>個）": "Extra Storage +<%dADDPLAN> (<%dSLOT> Items)"
   },
   "99409": {
-    "オプションプランを変える": ""
+    "オプションプランを変える": "Change Optional Plan"
   },
   "99410": {
-    "オプションプランを登録する": ""
+    "オプションプランを登録する": "Register Optional Plan"
   },
   "99411": {
-    "利用しない": ""
+    "利用しない": "Not used"
   },
   "99412": {
     "予備": "Spare"
@@ -1716,46 +1717,46 @@
     "予備": "Spare"
   },
   "99415": {
-    "<color_yellow>\nオプションプランを変更すると　次回の更新から\n倉庫や　思い出アルバム　モンスター酒場の\n拡張枠への操作が　できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": ""
+    "<color_yellow>\nオプションプランを変更すると　次回の更新から\n倉庫や　思い出アルバム　モンスター酒場の\n拡張枠への操作が　できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded\nextra storage, photo album and monster tavern\nslots, you won't be able to use them once the<br>\ncurrent plan expires.\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
   },
   "99416": {
-    "<color_yellow>\n倉庫の拡張を変更すると　次回の更新から\n変更した追加倉庫内のアイテムが\n操作できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": ""
+    "<color_yellow>\n倉庫の拡張を変更すると　次回の更新から\n変更した追加倉庫内のアイテムが\n操作できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded\nextra storage slots, you won't be able to use\nthem once the current plan expires.<br>\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
   },
   "99418": {
-    "Crystaで　自動継続をしている場合は\nアストルティア入国管理局でのみ\nオプションプランの変更が可能です。<end>": ""
+    "Crystaで　自動継続をしている場合は\nアストルティア入国管理局でのみ\nオプションプランの変更が可能です。<end>": "If you have automatic renewal with Crysta, you\ncan only change your option plan at the\nAstoltia Immigration Bureau.<end>"
   },
   "99419": {
-    "倉庫や写真など　保存数を\n追加で拡張できます。": ""
+    "倉庫や写真など　保存数を\n追加で拡張できます。": "You can expand the number of storage items and\nphotos."
   },
   "99420": {
     "予備": "Spare"
   },
   "99421": {
-    "・オプションプランは ゲーム内の倉庫や\n　思い出アルバムの数など 変更できるサービスです。\n　\n・クレジットカード登録や Crystaなど\n　自動継続契約の場合のみ 利用することができます。\n　\n・ご利用頂いている 利用券の有効期間までを\n　自動的に購入いたします。\n　\n・お支払額は 30日ごとの金額（税込）となり\n　利用券の残り日数により お支払額が変わります。\n　日割りとはなりませんので ご注意ください。": ""
+    "・オプションプランは ゲーム内の倉庫や\n　思い出アルバムの数など 変更できるサービスです。\n　\n・クレジットカード登録や Crystaなど\n　自動継続契約の場合のみ 利用することができます。\n　\n・ご利用頂いている 利用券の有効期間までを\n　自動的に購入いたします。\n　\n・お支払額は 30日ごとの金額（税込）となり\n　利用券の残り日数により お支払額が変わります。\n　日割りとはなりませんので ご注意ください。": "・The option plan is a service that allows you\n  to change things such as the in-game storage\n  space and number of photos in your album.\n　\n・Available only for credit card registration\n  and auto-renewal subscriptions like Crysta.\n　\n・Purchases of usage tickets will be made\n  automatically until the validity period of\n  the current ticket.\n　\n・The amount to be paid is per 30 days\n  (with tax), and will depend on the number of\n  days remaining on the ticket.\nPlease note that the fee will not be prorated."
   },
   "99422": {
-    "オプションプランは　自動継続の場合のみ\nご利用することができます。\n今すぐ　クレジットカードを登録しますか？<yesno><close>": ""
+    "オプションプランは　自動継続の場合のみ\nご利用することができます。\n今すぐ　クレジットカードを登録しますか？<yesno><close>": "Optional plans can only be used with automatic\nrenewal. Would you like to register your\ncredit card now?<yesno><close>"
   },
   "99423": {
-    "思い出アルバムの拡張": ""
+    "思い出アルバムの拡張": "Album Expansion"
   },
   "99424": {
-    "倉庫の拡張": ""
+    "倉庫の拡張": "Expand Storage"
   },
   "99425": {
-    "契約ごとのオプション": ""
+    "契約ごとのオプション": "Contract Options"
   },
   "99604": {
-    "30日間ごとの更新": ""
+    "30日間ごとの更新": "30 Day Renewal"
   },
   "99605": {
-    "60日間ごとの更新": ""
+    "60日間ごとの更新": "60 Day Renewal"
   },
   "99606": {
-    "90日間ごとの更新": ""
+    "90日間ごとの更新": "90 Day Renewal"
   },
   "99607": {
-    "＋": ""
+    "＋": "+"
   },
   "100036": {
     "<%d_YYYY>年<%d_MM>月<%d_DD>日 まで有効": "Valid until <%d_MM>/<%d_DD>/<%d_YYYY>"
@@ -1764,43 +1765,43 @@
     "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで有効": "Valid until <%2d_MM>/<%2d_DD>/<%d_YYYY>"
   },
   "100038": {
-    "利用しない": ""
+    "利用しない": "Not used"
   },
   "100049": {
-    "<color_yellow>\nアルバム拡張を変更すると　次回の更新から\n変更したアルバム拡張内の写真が\n操作ができなくなります。写真は削除されません。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": ""
+    "<color_yellow>\nアルバム拡張を変更すると　次回の更新から\n変更したアルバム拡張内の写真が\n操作ができなくなります。写真は削除されません。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded\nphoto album slots, you won't be able to use\nthem once the current plan expires.<br>\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
   },
   "100050": {
-    "2023年3月28日9時以降は\n残高を利用することができません。\n<br>\nアストルティア入国管理局では　残高を除く\nお支払い方法で　利用券を購入いただけます。\n詳しくはこちら　https://sqex.to/Nshop　<end>": ""
+    "2023年3月28日9時以降は\n残高を利用することができません。\n<br>\nアストルティア入国管理局では　残高を除く\nお支払い方法で　利用券を購入いただけます。\n詳しくはこちら　https://sqex.to/Nshop　<end>": "You will not be able to use your balance after\n9:00 AM on March 28, 2023.\n<br>\nYou can purchase tickets at the Astoltia\nImmigration Bureau using any payment method\nother than your balance.\n<br>\nFor more information go to\nhttps://sqex.to/Nshop<end>"
   },
   "100051": {
-    "今回の更新価格 <%dCRS_CHG_PRICE><%sCurrency>（税込）が必要です。\nオプションプランを変更しますか？<yesno 2><close>": ""
+    "今回の更新価格 <%dCRS_CHG_PRICE><%sCurrency>（税込）が必要です。\nオプションプランを変更しますか？<yesno 2><close>": "The renewal price of <%dCRS_CHG_PRICE><%sCurrency> (with tax)\nis required. Would you like to change your\noption plan?<yesno 2><close>"
   },
   "100052": {
-    "この設定を有効にするための\n追加料金は不要です。\nオプションプランを変更しますか？<yesno 2><close>": ""
+    "この設定を有効にするための\n追加料金は不要です。\nオプションプランを変更しますか？<yesno 2><close>": "There is no additional charge to enable this\nsetting. Would you like to change your option\nplan?<yesno 2><close>"
   },
   "100053": {
-    "オプションプラン変更券を　購入しました！": ""
+    "オプションプラン変更券を　購入しました！": "Purchased an Optional Plan Change Ticket!"
   },
   "100054": {
-    "アルバム拡張＋<%nADDPLAN>　に変更されて\n写真を撮影できる枚数が<%dSLOT>枚　増えました。<me_60>": ""
+    "アルバム拡張＋<%nADDPLAN>　に変更されて\n写真を撮影できる枚数が<%dSLOT>枚　増えました。<me_60>": "The number of pictures that can be taken has\nincreased by <%dSLOT> slots by changing to\nAlbum Expansion +<%dADDPLAN>.<me_60>"
   },
   "100055": {
-    "追加倉庫＋<%nADDPLAN>　に変更されて\n追加倉庫が<%nADDNUM>つ（<%dSLOT>個）使えるようになりました。<me_60>": "Changed to Extra Storage +<%dADDPLAN>. You can now\nuse <%dADDNUM> extra storages (<%dSLOT> items)."
+    "追加倉庫＋<%nADDPLAN>　に変更されて\n追加倉庫が<%nADDNUM>つ（<%dSLOT>個）使えるようになりました。<me_60>": "An additional <%nADDNUM> (<%dSLOT> Items) extra storages\nare now available by changing to\nExtra Storage +<%dADDPLAN>.<me_60>"
   },
   "100056": {
-    "次回更新の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。\n次回更新から変更後のプランで　自動更新されます。": ""
+    "次回更新の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。\n次回更新から変更後のプランで　自動更新されます。": "Your current plan will remain in effect until\nthe next renewal date (<%d_YYYY>/<%d_MM>/<%d_DD>). The plan\nwill automatically update at the next renewal."
   },
   "100057": {
-    "次回更新から\n変更後のプランで　自動更新されます。<end>": ""
+    "次回更新から\n変更後のプランで　自動更新されます。<end>": "The plan will be automatically renewed with\nthe new plan at the next renewal.<end>"
   },
   "100058": {
-    "オプションプランの　更新はありません。\n引き続き現在のプランで　ご利用いただけます。<end>": ""
+    "オプションプランの　更新はありません。\n引き続き現在のプランで　ご利用いただけます。<end>": "There are no updates for the option plan.\nYou can continue to use your current plan.<end>"
   },
   "100059": {
-    "アルバム拡張＋<%nADDPLAN>（<%dSLOT>枚）から\nアルバム拡張＋<%nADDPLAN2>（<%dSLOT2>枚）に変更しました。<br>\n次回の更新から\n変更したアルバム拡張内の写真が\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": ""
+    "アルバム拡張＋<%nADDPLAN>（<%dSLOT>枚）から\nアルバム拡張＋<%nADDPLAN2>（<%dSLOT2>枚）に変更しました。<br>\n次回の更新から\n変更したアルバム拡張内の写真が\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nAlbum Expansion +<%dADDPLAN> (<%dSLOT> Slots) to\nAlbum Expansion +<%dADDPLAN2> (<%dSLOT2> Slots).<br>\nFrom the next renewal, you won't be able to\nuse any photos that you have in your extra\nslots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "100060": {
-    "追加倉庫＋<%nADDPLAN>（<%dSLOT>個）から\n追加倉庫＋<%nADDPLAN2>（<%dSLOT2>個）に変更しました。<br>\n次回の更新から\n変更した追加倉庫のアイテムが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed to Extra Storage +<%dADDPLAN> (<%dSLOT> items) to\nExtra Storage +<%dADDPLAN2> (<%dSLOT2> items).\n<br>\nItems in extra storage that have changed\nafter the next update will no longer be\nusable.\n<br>\nThe current plan is valid until\n<%d_MM>/<%d_DD>/<%d_YYYY>."
+    "追加倉庫＋<%nADDPLAN>（<%dSLOT>個）から\n追加倉庫＋<%nADDPLAN2>（<%dSLOT2>個）に変更しました。<br>\n次回の更新から\n変更した追加倉庫のアイテムが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nExtra Storage +<%dADDPLAN> (<%dSLOT> Items) to\nExtra Storage +<%dADDPLAN2> (<%dSLOT2> Items).<br>\nFrom the next renewal, you won't be able to\nuse any items that you have in your extra\nstorage.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "100061": {
     "予備": "Spare"
@@ -1812,73 +1813,73 @@
     "予備": "Spare"
   },
   "100156": {
-    "アルバム拡張 利用しない": ""
+    "アルバム拡張 利用しない": "Album Expansion Not Used"
   },
   "100157": {
-    "追加倉庫 利用しない": ""
+    "追加倉庫 利用しない": "Extra Storage Not Used"
   },
   "100181": {
-    "３０日間利用券(３キャラ＋オプション)": ""
+    "３０日間利用券(３キャラ＋オプション)": "30 Day Ticket (3 Characters + Options)"
   },
   "100182": {
-    "３０日間利用券(４キャラ＋オプション)": ""
+    "３０日間利用券(４キャラ＋オプション)": "30 Day Ticket (4 Characters + Options)"
   },
   "100183": {
-    "３０日間利用券(５キャラ＋オプション)": ""
+    "３０日間利用券(５キャラ＋オプション)": "30 Day Ticket (5 Characters + Options)"
   },
   "100184": {
-    "６０日間利用券(３キャラ＋オプション)": ""
+    "６０日間利用券(３キャラ＋オプション)": "60 Day Ticket (3 Characters + Options)"
   },
   "100185": {
-    "６０日間利用券(４キャラ＋オプション)": ""
+    "６０日間利用券(４キャラ＋オプション)": "60 Day Ticket (4 Characters + Options)"
   },
   "100186": {
-    "６０日間利用券(５キャラ＋オプション)": ""
+    "６０日間利用券(５キャラ＋オプション)": "60 Day Ticket (5 Characters + Options)"
   },
   "100187": {
-    "９０日間利用券(３キャラ＋オプション)": ""
+    "９０日間利用券(３キャラ＋オプション)": "90 Day Ticket (3 Characters + Options)"
   },
   "100188": {
-    "９０日間利用券(４キャラ＋オプション)": ""
+    "９０日間利用券(４キャラ＋オプション)": "90 Day Ticket (4 Characters + Options)"
   },
   "100189": {
-    "９０日間利用券(５キャラ＋オプション)": ""
+    "９０日間利用券(５キャラ＋オプション)": "90 Day Ticket (5 Characters + Options)"
   },
   "100318": {
     "『オプションプランを登録する』に\n新しく『マイコーデの拡張』が追加されました。": "You've expanded the number of\nglamour spots with a new option plan."
   },
   "100339": {
-    "利用券の購入時や　キャラコース変更時などで\n購入処理が正常に終了されなかった場合に\nこちらから　サーバーへ再確認ができます。\n<br>\n購入時にエラーが発生したり　キャンセルを行い\n購入できていない場合　こちらをお試しください。\nサーバーへ　再確認を行いますか？<yesno 2><close>": ""
+    "利用券の購入時や　キャラコース変更時などで\n購入処理が正常に終了されなかった場合に\nこちらから　サーバーへ再確認ができます。\n<br>\n購入時にエラーが発生したり　キャンセルを行い\n購入できていない場合　こちらをお試しください。\nサーバーへ　再確認を行いますか？<yesno 2><close>": "If the purchase is not completed successfully,\nsuch as purchasing a ticket or changing\ncharacter course, reconfirm with server here.\n<br>\nIf an error occurs during purchase or you are\nunable to purchase due to cancellation, please\ntry this. Reconfirm with the server?<yesno 2><close>"
   },
   "100340": {
-    "<color_yellow>\nモンスター酒場拡張を変更すると　次回の更新から\n変更した追加枠内の　仲間モンスターを\n連れて行くことが　できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": ""
+    "<color_yellow>\nモンスター酒場拡張を変更すると　次回の更新から\n変更した追加枠内の　仲間モンスターを\n連れて行くことが　できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded\nmonster tavern slots, you won't be able to use\nthem once the current plan expires.<br>\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
   },
   "100341": {
     "<color_yellow>\nマイコーデの拡張を変更すると　次回の更新から\n拡張したマイコーデ枠の　装備セットを\n着ることが　できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded glamour\nslots, you won't be able to use them\nonce the current plan expires.<br>\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
   },
   "100342": {
-    " ※ＤＱＸポイント自動更新（<%dDAY>日間利用券）": ""
+    " ※ＤＱＸポイント自動更新（<%dDAY>日間利用券）": "*Auto-renewal of DQX Points (<%dDAY> day use ticket)"
   },
   "100343": {
-    "Crystaでの　自動継続の変更は\nアストルティア入国管理局にて\n変更することができます。": ""
+    "Crystaでの　自動継続の変更は\nアストルティア入国管理局にて\n変更することができます。": "Changes to automatic renewal in Crysta can be\nmade at the Astoltia Immigration Bureau."
   },
   "100344": {
     "5000年の旅路　遥かなる故郷へ": "5000 Year Journey to a Faraway Hometown"
   },
   "100345": {
-    "ご使用の環境には　すでに\n<%sVERAPPEND>　まで\nインストールされています。\n<br>\n新しいレジストレーションコードを\n追加されるまえに「契約状況を確認する」から\n契約状況を　ご確認ください。<end>": ""
+    "ご使用の環境には　すでに\n<%sVERAPPEND>　まで\nインストールされています。\n<br>\n新しいレジストレーションコードを\n追加されるまえに「契約状況を確認する」から\n契約状況を　ご確認ください。<end>": "<%sVERAPPEND>\nis already installed in your current\nenvironment.\n<br>\nBefore adding a new registration code, please\ncheck your license status by clicking\n\"Check License Status\".<end>"
   },
   "100346": {
-    "購入処理は正常に完了しています。\n有効期間は　<%d_YYYY>年<%d_MM>月<%d_DD>日までと\nなっています。": ""
+    "購入処理は正常に完了しています。\n有効期間は　<%d_YYYY>年<%d_MM>月<%d_DD>日までと\nなっています。": "The purchase process has been completed\nsuccessfully.\nThe validity period is until <%d_YYYYY>/<%d_MM>/<%d_DD>."
   },
   "100347": {
-    "正常に購入処理が完了していない状態を\n確認しました。\n再度　購入処理を行ってよろしいですか？<yesno 2><close>": ""
+    "正常に購入処理が完了していない状態を\n確認しました。\n再度　購入処理を行ってよろしいですか？<yesno 2><close>": "We have confirmed that the purchase process\nhas not been completed successfully. Are you\nsure you want to process the purchase again?<yesno 2><close>"
   },
   "100348": {
-    "正常に購入処理が完了していない状態を\n確認しました。\n<br>\nお手数ですが　サポートセンターより\nお問い合わせください。": ""
+    "正常に購入処理が完了していない状態を\n確認しました。\n<br>\nお手数ですが　サポートセンターより\nお問い合わせください。": "We have confirmed that the purchase process\nhas not been completed successfully.\n<br>\nWe apologize for the inconvenience, but please\ncontact us through the support center."
   },
   "100349": {
-    "利用券の購入時や　キャラコース変更時などで\n購入処理が正常に終了されなかった\n可能性があるため　サーバーに確認します。": ""
+    "利用券の購入時や　キャラコース変更時などで\n購入処理が正常に終了されなかった\n可能性があるため　サーバーに確認します。": "The purchase process may not have completed\ncorrectly when purchasing tickets or changing\ncharacter courses, so we'll check the server."
   },
   "100350": {
     "予備": "Spare"
@@ -1911,115 +1912,115 @@
     "予備２７": "Spare"
   },
   "100360": {
-    "オプションプラン変更券の購入について": ""
+    "オプションプラン変更券の購入について": "About Purchasing Option Plan Change Tickets"
   },
   "100361": {
-    "アストルティア入国管理局で\n登録したクレジットカードを\n使用しています。<br>\nアストルティア入国管理局でのみ\nオプションプランの変更が可能です。": ""
+    "アストルティア入国管理局で\n登録したクレジットカードを\n使用しています。<br>\nアストルティア入国管理局でのみ\nオプションプランの変更が可能です。": "Using a credit card registered at the Astoltia\nImmigration Bureau.<br>\nYou can only change your option plan at the\nAstortia Immigration Bureau."
   },
   "100650": {
-    "＋オプション）": ""
+    "＋オプション）": "+ Option)"
   },
   "101371": {
-    "すでに同じ設定のプランが\n次回更新予定として登録されています。<end>": ""
+    "すでに同じ設定のプランが\n次回更新予定として登録されています。<end>": "A plan with the same settings is already\nregistered for the next renewal.<end>"
   },
   "101405": {
-    "アルバム拡張＋<%nADDPLAN>（<%dSLOT>枚）から\nアルバム拡張 利用なし　に変更しました。<br>\n次回の更新から\n変更したアルバム拡張内の写真が\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": ""
+    "アルバム拡張＋<%nADDPLAN>（<%dSLOT>枚）から\nアルバム拡張 利用なし　に変更しました。<br>\n次回の更新から\n変更したアルバム拡張内の写真が\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nAlbum Expansion +<%dADDPLAN> (<%dSLOT> Slots) to\nNo Album Expansion.<br>\nFrom the next renewal, you won't be able to\nuse any photos that you have in your extra\nslots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "101406": {
-    "追加倉庫＋<%nADDPLAN>（<%dSLOT>個）から\n追加倉庫 利用なし　に変更しました。<br>\n次回の更新から\n変更した追加倉庫のアイテムが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": ""
+    "追加倉庫＋<%nADDPLAN>（<%dSLOT>個）から\n追加倉庫 利用なし　に変更しました。<br>\n次回の更新から\n変更した追加倉庫のアイテムが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nExtra Storage +<%dADDPLAN> (<%dSLOT> Items) to\nNo Extra Storage.<br>\nFrom the next renewal, you won't be able to\nuse any items that you have in your extra\nstorage.\n<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "101650": {
-    "ご使用のアカウントには\n秘密の隠れ家に　キャラクターがいるため\nゲームの開始が　制限されています。<br>\n該当のキャラクターでゲームを開始して\nゲームマスターの指示に　従ってください。<end>": ""
+    "ご使用のアカウントには\n秘密の隠れ家に　キャラクターがいるため\nゲームの開始が　制限されています。<br>\n該当のキャラクターでゲームを開始して\nゲームマスターの指示に　従ってください。<end>": "Your account has a character in the Secret\nHideaway, so you are restricted from starting\nthe game.<br>\nStart the game with the appropriate character\nand follow the Game Master's instructions.<end>"
   },
   "101664": {
-    "・アップグレードした場合 購入した時点から\n　利用券は有効となり ご利用中のアカウント\n　すべてのキャラクターに 適用されます。\n　\n・ダウングレードした場合 有効期限までは\n　ご利用中のプランが有効です。\n　\n・自動継続契約が切れると オプションプランも\n　自動的に解除されます。\n　\n・この利用券については ドラゴンクエストⅩの\n　取扱説明書 および 利用規約の条件が 適用されます。": ""
+    "・アップグレードした場合 購入した時点から\n　利用券は有効となり ご利用中のアカウント\n　すべてのキャラクターに 適用されます。\n　\n・ダウングレードした場合 有効期限までは\n　ご利用中のプランが有効です。\n　\n・自動継続契約が切れると オプションプランも\n　自動的に解除されます。\n　\n・この利用券については ドラゴンクエストⅩの\n　取扱説明書 および 利用規約の条件が 適用されます。": "・If you upgrade, the ticket is valid from the\n  time of purchase and applies to all\n  characters on your account.\n　\n・If you downgrade, your current plan will\n  remain valid until the expiration date.\n　\n・When the auto-renewal contract expires, the\n  optional plan is automatically cancelled.\n　\n・The terms and conditions of the Dragon Quest\n  X User's Manual and Terms of Service apply\n  to this ticket."
   },
   "101768": {
-    "利用券の有効期間と\nオプションプランの有効期間が異なるため\nプランの変更ができません。<br>\n次回の利用券購入以降に\n再度オプションプランの変更を\nお願いいたします。": ""
+    "利用券の有効期間と\nオプションプランの有効期間が異なるため\nプランの変更ができません。<br>\n次回の利用券購入以降に\n再度オプションプランの変更を\nお願いいたします。": "The plan cannot be changed because the\nvalidity period of the ticket and the validity\nperiod of the optional plan are different."
   },
   "101769": {
-    "利用券の購入について": ""
+    "利用券の購入について": "About Purchasing Tickets"
   },
   "101770": {
-    "オプションプラン変更券の購入について": ""
+    "オプションプラン変更券の購入について": "About Purchasing Option Plan Change Tickets"
   },
   "114726": {
-    "入力された　レジストレーションコードは\n今は登録できません。「目覚めし五つの種族」の\nコードを先に登録してください。<end>": ""
+    "入力された　レジストレーションコードは\n今は登録できません。「目覚めし五つの種族」の\nコードを先に登録してください。<end>": "The registration code entered cannot be\nregistered at this time. Please register the\ncode for \"Awakening of the 5 Tribes\" first.<end>"
   },
   "114727": {
-    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン２『眠れる勇者と導きの盟友』の\nコードを　先に登録してください。<end>": ""
+    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン２『眠れる勇者と導きの盟友』の\nコードを　先に登録してください。<end>": "The registration code entered cannot be\nregistered at this time.<br>\nPlease register the code for the additional\npackage, version 2 \"The Sleeping Hero & the\nGuiding Ally\", in your account first."
   },
   "114728": {
-    "「プレゼントを受け取る」メニューから\nレジストレーションコード追加登録の特典が\n受け取れるようになりました。<end>": ""
+    "「プレゼントを受け取る」メニューから\nレジストレーションコード追加登録の特典が\n受け取れるようになりました。<end>": "You can now receive the benefits of\nregistering additional registration codes from\nthe \"Receive Present\" menu.<end>"
   },
   "114729": {
     "いにしえの竜の伝承": "Lore of the Ancient Dragon"
   },
   "118007": {
-    "『<%sCODENAME>』を\n使用して　ポイントを獲得します。\nよろしいですか？<yesno><close>": ""
+    "『<%sCODENAME>』を\n使用して　ポイントを獲得します。\nよろしいですか？<yesno><close>": "Earn Points using\n\"<%sCODENAME>\".\nIs that okay?<yesno><close>"
   },
   "118009": {
-    "<%nCLOVER>ポイントを　獲得しました！<me_60>\n現在　<%nCLOVER_TOTAL>ポイントを\n所持しています。<end>": ""
+    "<%nCLOVER>ポイントを　獲得しました！<me_60>\n現在　<%nCLOVER_TOTAL>ポイントを\n所持しています。<end>": "Earned <%dCLOVER> Points!<me_60>\nYou currently have <%dCLOVER_TOTAL> Points.<end>"
   },
   "118011": {
-    "『<%sCODENAME>』を\n使用して　お買いもの経験値を獲得します。\nよろしいですか？<yesno><close>": ""
+    "『<%sCODENAME>』を\n使用して　お買いもの経験値を獲得します。\nよろしいですか？<yesno><close>": "Earn Shop experience points using\n\"<%sCODENAME>\".\nIs that okay?<yesno><close>"
   },
   "118013": {
-    "<%nSHOPEXP> Expを　獲得しました！<me_60>\n現在　<%nSHOPEXP_TOTAL> Expを\n所持しています。<end>": ""
+    "<%nSHOPEXP> Expを　獲得しました！<me_60>\n現在　<%nSHOPEXP_TOTAL> Expを\n所持しています。<end>": "Earned <%dSHOPEXP> Exp!<me_60>\nYou currently have <%dSHOPEXP_TOTAL> Exp.<end>"
   },
   "118015": {
-    "<%nSHOPEXP> Expを　獲得しました！\n<%sSHOPRANK>に　ランクがあがった。<me_60><br>\n現在　<%nSHOPEXP_TOTAL> Expを\n所持しています。<end>": ""
+    "<%nSHOPEXP> Expを　獲得しました！\n<%sSHOPRANK>に　ランクがあがった。<me_60><br>\n現在　<%nSHOPEXP_TOTAL> Expを\n所持しています。<end>": "Earned <%dSHOPEXP> Exp!\nRanked up to <%sSHOPRANK><me_60><br>\nYou currently have <%dSHOPEXP_TOTAL> Exp.<end>"
   },
   "122846": {
-    "パスワードを忘れてしまった場合　こちらから\n新しいパスワードの再設定をすることができます。\n手続きを進めますか？<yesno 2><break>": ""
+    "パスワードを忘れてしまった場合　こちらから\n新しいパスワードの再設定をすることができます。\n手続きを進めますか？<yesno 2><break>": "If you have forgotten your password, you can\nreset your new password here.\nWould you like to proceed?<yesno 2><break>"
   },
   "122847": {
-    "パスワード再設定の手続きを進めるため\n以下の　確認番号を入れてください。\n確認番号：<%sNUM><break>": ""
+    "パスワード再設定の手続きを進めるため\n以下の　確認番号を入れてください。\n確認番号：<%sNUM><break>": "Please enter the following confirmation number\nto proceed with the password reset procedure.\nConfirmation Number: <%sNUM><break>"
   },
   "122848": {
     "確認番号が　ちがいます。<end>": "Incorrect confirmation number.<end>"
   },
   "124109": {
-    "預かり枠拡張＋<%nADDPLAN>": ""
+    "預かり枠拡張＋<%nADDPLAN>": "Monster Tavern Expansion +<%dADDPLAN>"
   },
   "124110": {
-    "預かり枠拡張＋<%nADDPLAN>（<%dSLOT>枠）": ""
+    "預かり枠拡張＋<%nADDPLAN>（<%dSLOT>枠）": "Monster Tavern Expansion +<%dADDPLAN> (<%dSLOT> Slots)"
   },
   "124111": {
-    "モンスター酒場拡張": ""
+    "モンスター酒場拡張": "Monster Tavern Expansion"
   },
   "124113": {
-    "預かり枠拡張＋<%nADDPLAN>（<%dSLOT>枠）から\n預かり枠拡張＋<%nADDPLAN2>（<%dSLOT2>枠）に変更しました。<br>\n次回の更新から\n追加預かり枠にいる　仲間モンスターが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": ""
+    "預かり枠拡張＋<%nADDPLAN>（<%dSLOT>枠）から\n預かり枠拡張＋<%nADDPLAN2>（<%dSLOT2>枠）に変更しました。<br>\n次回の更新から\n追加預かり枠にいる　仲間モンスターが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nMonster Tavern Expansion +<%dADDPLAN> (<%dSLOT> Slots) to\nMonster Tavern Expansion +<%dADDPLAN2> (<%dSLOT2> Slots).<br>\nFrom the next renewal, you won't be able to\nuse any fellow monsters that you have in your\nextra slots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "124114": {
-    "預かり枠拡張＋<%nADDPLAN>（<%dSLOT>枠）から\n預かり枠拡張 利用なし　に変更しました。<br>\n次回の更新から\n追加預かり枠にいる　仲間モンスターが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": ""
+    "預かり枠拡張＋<%nADDPLAN>（<%dSLOT>枠）から\n預かり枠拡張 利用なし　に変更しました。<br>\n次回の更新から\n追加預かり枠にいる　仲間モンスターが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nMonster Tavern Expansion +<%dADDPLAN> (<%dSLOT> Slots) to\nNo Monster Tavern Expansion.<br>\nFrom the next renewal, you won't be able to\nuse any fellow monsters that you have in your\nextra slots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "124118": {
-    "モンスター酒場拡張 利用しない": ""
+    "モンスター酒場拡張 利用しない": "Monster Tavern Expansion Not Used"
   },
   "124119": {
-    "預かり枠拡張＋<%nADDPLAN>　に変更されて\n仲間モンスターを　モンスター酒場に\n預けられる数が　<%dSLOT>枠　増えました。<me_60>": ""
+    "預かり枠拡張＋<%nADDPLAN>　に変更されて\n仲間モンスターを　モンスター酒場に\n預けられる数が　<%dSLOT>枠　増えました。<me_60>": "The number of fellow monsters that can be\ndeposited at the Monster Tavern has increased\nby <%dSLOT> slots by changing to\n<br>\nMonster Tavern Expansion +<%dADDPLAN>.<me_60>"
   },
   "124199": {
     "<%d_YYYY>年<%d_MM>月<%d_DD>日 <%d_HOUR>:<%02d_MIN>": "<%d_MM>/<%d_DD>/<%d_YYYY> <%d_HOUR>:<%02d_MIN>"
   },
   "125138": {
-    "冒険の書<%nNO>に『<%sPCNAME>』の\nキャラクター情報が　存在するため\n新しい冒険の書を　作成することができません。　\n<br>\n新しく冒険の書を　作成するためには\n冒険の書<%nNO>にある　オフラインモードの\nデータを　削除する必要があります。\n<br>\n冒険の書<%nNO>にある『<%sPCNAME>』の\nオフラインモードの　データを削除しても\nよろしいですか？<yesno 2><close>": ""
+    "冒険の書<%nNO>に『<%sPCNAME>』の\nキャラクター情報が　存在するため\n新しい冒険の書を　作成することができません。　\n<br>\n新しく冒険の書を　作成するためには\n冒険の書<%nNO>にある　オフラインモードの\nデータを　削除する必要があります。\n<br>\n冒険の書<%nNO>にある『<%sPCNAME>』の\nオフラインモードの　データを削除しても\nよろしいですか？<yesno 2><close>": "A new Adventure Log cannot be created because\nthe character information of \"<%sPCNAME>\"\nexists in Adventure Log <%nNO>.\n<br>\nIn order to create a new Adventure Log, the\noffline mode data in Adventure Log <%nNO> must be\ndeleted.\n<br>\nAre you sure you want to delete the offline\nmode data for \"<%sPCNAME>\" in\nAdventure Log <%nNO>?<yesno 2><close>"
   },
   "126282": {
-    "お客様への　重要なお知らせを終了し\n先のメニューへ　進みます。<br>\n内容を確認せず　進めてしまった場合は\n再度　重要なお知らせを確認してから\n進めていただきますよう　お願いします。<br>\n以上の内容を確認し　\n先のメニューへ進んでも　よろしいですか？<yesno 2><close>": ""
+    "お客様への　重要なお知らせを終了し\n先のメニューへ　進みます。<br>\n内容を確認せず　進めてしまった場合は\n再度　重要なお知らせを確認してから\n進めていただきますよう　お願いします。<br>\n以上の内容を確認し　\n先のメニューへ進んでも　よろしいですか？<yesno 2><close>": "Exit Important Notice to Customers and proceed\nto the next menu.<br>\nIf you have proceeded without checking the\ncontents, please check the Important Notice\nagain before proceeding.<br>\nAre you sure you want to confirm the above\ninformation and proceed to the next menu?<yesno 2><close>"
   },
   "126283": {
-    "前回　思い出アルバム拡張の\n有効期限が切れてしまった際に\nロックが解除されてしまっております。<br>\nあらためて　ロックの見直しすることを\nおすすめいたします。": ""
+    "前回　思い出アルバム拡張の\n有効期限が切れてしまった際に\nロックが解除されてしまっております。<br>\nあらためて　ロックの見直しすることを\nおすすめいたします。": "The lock was released last Photo Album\nexpansion expired.<br>\nWe recommend that you review the locks again."
   },
   "126660": {
-    "<color_yellow>\nプレイコース　または　オプションプランの\n登録状況の変更を　確認しました。<br>\n『思い出アルバム』の拡張が　解除されたため\n写真のロック状態も　すべて解除されております。<br>\n全てのキャラクターが　対象となりますので\nあらためて　思い出アルバムの　ロック状態の\n見直しを　おすすめします。": ""
+    "<color_yellow>\nプレイコース　または　オプションプランの\n登録状況の変更を　確認しました。<br>\n『思い出アルバム』の拡張が　解除されたため\n写真のロック状態も　すべて解除されております。<br>\n全てのキャラクターが　対象となりますので\nあらためて　思い出アルバムの　ロック状態の\n見直しを　おすすめします。": "We have confirmed the change in the\nregistration status of the play course or\noptional plan.<br>\nThe \"Photo Album\" expansion has been removed\nand all photos are now locked.<br>\nSince all characters are eligible, we\nrecommend that you review the lock status of\nyour Photo Album."
   },
   "126867": {
-    "「ドラゴンクエストＸ　オフィシャルカード」を\nクレジットカードに登録される方に　ご案内です。<br>\n「ドラゴンクエストＸ　オフィシャルカード」で\nドラゴンクエストＸの利用料金をお支払いただくと\nカード利用特典を　受け取ることができます。<br>\nしかし　カード利用特典は　冒険者の広場の\n「アストルティア入国管理局」から\nクレジットカード登録された方が対象となります。<br>\nそのため　当カードにて　ご登録される方は\nこちらからの　ご登録はスキップし\nアストルティア入国管理局から　ご登録ください。": ""
+    "「ドラゴンクエストＸ　オフィシャルカード」を\nクレジットカードに登録される方に　ご案内です。<br>\n「ドラゴンクエストＸ　オフィシャルカード」で\nドラゴンクエストＸの利用料金をお支払いただくと\nカード利用特典を　受け取ることができます。<br>\nしかし　カード利用特典は　冒険者の広場の\n「アストルティア入国管理局」から\nクレジットカード登録された方が対象となります。<br>\nそのため　当カードにて　ご登録される方は\nこちらからの　ご登録はスキップし\nアストルティア入国管理局から　ご登録ください。": "This is an announcement for those who have\nregistered the Dragon Quest X Official Card to\ntheir credit card.<br>\nWhen you pay for Dragon Quest X using the\n\"Dragon Quest X Official Card\", you can\nreceive card usage benefits.<br>\nBut card usage benefits are only available to\nthose who have registered their credit card\nthrough the \"Astoltia Immigration Bureau\".<br>\nTherefore, if you want to register using this\ncard, please skip registration here and\nregister at the Astoltia Immigration Bureau."
   },
   "128163": {
-    "ドラゴンクエストⅩ オフィシャルカードで\n<%d_YYYY>年<%d_MM>月分の　利用料金を\nお支払いされた方が　受け取りできます。": ""
+    "ドラゴンクエストⅩ オフィシャルカードで\n<%d_YYYY>年<%d_MM>月分の　利用料金を\nお支払いされた方が　受け取りできます。": "Only players who have paid the service fee for\n<%d_YYYY>/<%d_MM> with the Dragon Quest X Official Card\nare eligible to receive the benefits."
   },
   "128164": {
     "DQXクレカ 利用特典 <%d_MM>月分": "DQX Credit Card Offer <%d_MM> Months"
@@ -2040,22 +2041,22 @@
     "マイコーデ枠＋<%nADDPLAN>": "Glamour Slots +<%dADDPLAN>"
   },
   "146161": {
-    "マイコーデ枠＋<%nADDPLAN>（<%dSLOT>枠）": "Glamour Slots +<%dADDPLAN> (Slot <%dSLOT>)"
+    "マイコーデ枠＋<%nADDPLAN>（<%dSLOT>枠）": "Glamour Slots +<%dADDPLAN> (<%dSLOT> Slots)"
   },
   "146162": {
     "マイコーデの拡張": "Glamour Expansion"
   },
   "146163": {
-    "マイコーデの拡張 利用しない": "Do Not Use Glamour Expansion"
+    "マイコーデの拡張 利用しない": "Glamour Expansion Not Used"
   },
   "146164": {
-    "マイコーデ枠＋<%nADDPLAN>　に変更されて\nマイコーデに　登録できる装備セットが\n<%dSLOT>枠　増えました。<me_60>": "The number of glamours that can be registered\nhas been increased because of Glamour\nSlots +<%nADDPLAN>.<me_60>"
+    "マイコーデ枠＋<%nADDPLAN>　に変更されて\nマイコーデに　登録できる装備セットが\n<%dSLOT>枠　増えました。<me_60>": "The number of glamours that can be registered\nhas increased by <%dSLOT> slots by changing to\nGlamour Slots +<%dADDPLAN>.<me_60>"
   },
   "146165": {
-    "マイコーデ枠＋<%nADDPLAN>（<%dSLOT>枠）から\nマイコーデ枠＋<%nADDPLAN2>（<%dSLOT2>枠）に変更しました。<br>\n次回の更新から\n変更したマイコーデ枠の　装備セットが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from Glamour Frames + <%nADDPLAN> (<%dSLOT> Slots) to\nGlamour Frames + <%nADDPLAN2> (<%dSLOT2> Slots).<br>\nYou won't able to use any glamours that you\nhave registered in your extra slots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
+    "マイコーデ枠＋<%nADDPLAN>（<%dSLOT>枠）から\nマイコーデ枠＋<%nADDPLAN2>（<%dSLOT2>枠）に変更しました。<br>\n次回の更新から\n変更したマイコーデ枠の　装備セットが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nGlamour Slots +<%dADDPLAN> (<%dSLOT> Slots) to\nGlamour Slots +<%dADDPLAN2> (<%dSLOT2> Slots).<br>\nFrom the next renewal, you won't be able to\nuse any glamours that you have registered in\nyour extra slots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "146166": {
-    "マイコーデ枠＋<%nADDPLAN>（<%dSLOT>枚）から\nマイコーデ枠 利用なし　に変更しました。<br>\n次回の更新から\n変更したマイコーデ枠の　装備セットが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from Glamour Slots +<%dADDPLAN> (<%dSLOT> Slots) to\nNo Extra Glamour Frames.\n<br>\nYou won't able to use any glamours that have\nbeen registered in your extra slots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
+    "マイコーデ枠＋<%nADDPLAN>（<%dSLOT>枚）から\nマイコーデ枠 利用なし　に変更しました。<br>\n次回の更新から\n変更したマイコーデ枠の　装備セットが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nGlamour Slots +<%dADDPLAN> (<%dSLOT> Slots) to\nNo Extra Glamour Slots.<br>\nFrom the next renewal, you won't be able to\nuse any glamours that you have registered in\nyour extra slots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "158044": {
     "キャラクター名を\n『<%sPCNAME>』に　変更しました！<end>": "Character name has been changed to\n\"<%sPCNAME>\"!<end>"
@@ -2076,91 +2077,91 @@
     "（フリープレイ可能）": "(Free Play Available)"
   },
   "165639": {
-    "この利用券は　終了日を超えるため\n購入することができません。": ""
+    "この利用券は　終了日を超えるため\n購入することができません。": "This ticket cannot be purchased because it\nexceeds the end date."
   },
   "165640": {
-    "ドラゴンクエストⅩを　プレイしていただき\n誠に　ありがとうございます。\nみなさまに　大切な　お知らせがございます。\n<br>\nドラゴンクエストⅩ　Wii版は\nversion.4のリリースに　あわせて\nサービスを　終了する予定となっております。\n<br>\n詳細や　今後の情報に　つきましては\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp\n<br>\nWii U版や　Windows版　クラウド版は\n引き続き　サービスいたしますので　これからも\nドラゴンクエストⅩを　宜しくお願い致します。": ""
+    "ドラゴンクエストⅩを　プレイしていただき\n誠に　ありがとうございます。\nみなさまに　大切な　お知らせがございます。\n<br>\nドラゴンクエストⅩ　Wii版は\nversion.4のリリースに　あわせて\nサービスを　終了する予定となっております。\n<br>\n詳細や　今後の情報に　つきましては\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp\n<br>\nWii U版や　Windows版　クラウド版は\n引き続き　サービスいたしますので　これからも\nドラゴンクエストⅩを　宜しくお願い致します。": "Thank you for playing Dragon Quest X.\nWe have an important announcement for all of\nyou.\n<br>\nDragon Quest X Wii version service will end\nwith the release of version 4.\n<br>\nPlease check the official website \"Awakening\nAdventurer's Square\" for more details and\nfuture information. https://hiroba.dqx.jp\n<br>\nWe will continue to provide services for the\nWii U, Windows and cloud version, so please\ncontinue to support Dragon Quest X."
   },
   "170879": {
     "名前が　入力されていません！": "Please enter a name!"
   },
   "176940": {
-    "利用券を購入するために\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open the \"Astoltia\nImmigration Office\" to purchase a ticket?<yesno 2><break>"
+    "利用券を購入するために\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open the\n\"Astoltia Immigration Bureau\" to purchase a\nticket?<yesno 2><break>"
   },
   "176941": {
-    "クレジットカードの設定を行うため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": ""
+    "クレジットカードの設定を行うため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Do you want to log out and open the\n\"Astoltia Immigration Bureau\" to set up your\ncredit card?<yesno 2><break>"
   },
   "176942": {
-    "オプションプランは　自動継続の登録のみ\nご利用いただけるサービスとなります。。\nクレジットカードか　Crystaの登録が必要です。": ""
+    "オプションプランは　自動継続の登録のみ\nご利用いただけるサービスとなります。。\nクレジットカードか　Crystaの登録が必要です。": "The optional plan is a service that can only\nbe used with automatic renewal registration.\nCredit card or Crysta registration required."
   },
   "176943": {
-    "オプションプランを登録するため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": ""
+    "オプションプランを登録するため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Would you like to log out and open the\n\"Astoltia Immigration Bureau\" to register for\nan optional plan?<yesno 2><break>"
   },
   "176950": {
-    "利用券の購入履歴を確認するため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": ""
+    "利用券の購入履歴を確認するため\nログアウトして『アストルティア入国管理局』を\n開きますか？<yesno 2><break>": "Would you like to log out and open the\n\"Astoltia Immigration Bureau\" to check your\nticket purchase history?<yesno 2><break>"
   },
   "177021": {
-    "<%dDQXPOINT>ポイントを　購入するために\nPlayStation™Storeに　接続しますが\nよろしいですか？<yesno 2><break>": ""
+    "<%dDQXPOINT>ポイントを　購入するために\nPlayStation™Storeに　接続しますが\nよろしいですか？<yesno 2><break>": "Are you sure you want to connect to the\nPlayStation™ Store to purchase <%dDQXPOINT> points?<yesno 2><break>"
   },
   "177022": {
-    "<speed=0>購入したいＤＱＸポイントを選択してください。<break>": ""
+    "<speed=0>購入したいＤＱＸポイントを選択してください。<break>": "Select the DQX Points you wish to purchase.<break>"
   },
   "177023": {
-    "DQXポイントの　チャージ残高が<br>\n<%dDQXPOINT>円　になりました！\n<me_60>\n<br>\n購入したＤＱＸポイントは\n『アストルティア入国管理局』の\n『利用券の購入履歴』から確認できます。<break>": ""
+    "DQXポイントの　チャージ残高が<br>\n<%dDQXPOINT>円　になりました！\n<me_60>\n<br>\n購入したＤＱＸポイントは\n『アストルティア入国管理局』の\n『利用券の購入履歴』から確認できます。<break>": "The charge balance of DQX points is<br>\n<%dDQXPOINT> yen!\n<me_60>\n<br>\nPurchased DQX Points can be viewed in the\n\"Ticket Purchase History\" section of the\n\"Astoltia Immigration Bureau\".<break>"
   },
   "177024": {
-    "現在　サーバーメンテナンスのため\n購入することができません。<end>": ""
+    "現在　サーバーメンテナンスのため\n購入することができません。<end>": "Currently unavailable for purchase due to\nserver maintenance.<end>"
   },
   "177025": {
-    "ＤＱＸポイントの上限額を　超えてしまうため\n購入することが　できません。<break>": ""
+    "ＤＱＸポイントの上限額を　超えてしまうため\n購入することが　できません。<break>": "You cannot make the purchase as it would\nexceed the maximum limit of DQX Points.<break>"
   },
   "177026": {
-    "購入処理を　確認しています……<break>": ""
+    "購入処理を　確認しています……<break>": "Confirming purchase process...<break>"
   },
   "181058": {
-    "Nintendo Switch": ""
+    "Nintendo Switch": "Nintendo Switch"
   },
   "181059": {
-    "PlayStation®4": ""
+    "PlayStation®4": "PlayStation®4"
   },
   "181060": {
-    "ＤＱＸポイント": ""
+    "ＤＱＸポイント": "DQX Points"
   },
   "181088": {
-    "前回　購入処理が中断されたため\nサーバーに　確認しています…<break>": ""
+    "前回　購入処理が中断されたため\nサーバーに　確認しています…<break>": "We are checking with the server because the\npurchase process was interrupted last time...<break>"
   },
   "181089": {
-    "システムエラーにより\n購入処理を　完了することができませんでした。\n<br>\nしばらく時間を置いてから　お試しいただくか\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp": ""
+    "システムエラーにより\n購入処理を　完了することができませんでした。\n<br>\nしばらく時間を置いてから　お試しいただくか\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp": "The purchase could not be completed due to a\nsystem error.\n<br>\nPlease wait for a while and try again, or\ncheck the official website \"Awakening\nAdventurer's Square\".  https://hiroba.dqx.jp"
   },
   "181090": {
-    "現在　サーバーメンテナンスのため\n購入処理を　完了することができませんでした。\n<br>\nしばらく時間を置いてから　お試しいただくか\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp": ""
+    "現在　サーバーメンテナンスのため\n購入処理を　完了することができませんでした。\n<br>\nしばらく時間を置いてから　お試しいただくか\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp": "We are currently unable to complete your\npurchase due to server maintenance.\n<br>\nPlease wait for a while and try again, or\ncheck the official website \"Awakening\nAdventurer's Square\".  https://hiroba.dqx.jp"
   },
   "182564": {
-    "「思い出アルバム」の　拡張状況の\n変化を　確認しました。各冒険の書で\nゲームを開始して　拡張状況を　ご確認ください。<end>": ""
+    "「思い出アルバム」の　拡張状況の\n変化を　確認しました。各冒険の書で\nゲームを開始して　拡張状況を　ご確認ください。<end>": "We have confirmed the expansion changes for\nthe \"Photo Album\". Please start the game with\neach Adventure Log to check the status.<end>"
   },
   "183218": {
-    "PlayStation®Plus 加入特典 <%d_MM>月分": ""
+    "PlayStation®Plus 加入特典 <%d_MM>月分": "PlayStation®Plus membership benefits for month <%d_MM>."
   },
   "183219": {
-    "PlayStation®Plusへ加入中に\nPlayStation®4版「ドラゴンクエストⅩ」に\nログインすると 受け取りできます。\n（<%d_YYYY>年<%d_MM>月分）": ""
+    "PlayStation®Plusへ加入中に\nPlayStation®4版「ドラゴンクエストⅩ」に\nログインすると 受け取りできます。\n（<%d_YYYY>年<%d_MM>月分）": "You can receive it by logging into the\nPlayStation®4 version of Dragon Quest X while\nsubscribed to PlayStation®Plus. (For <%d_YYYY>/<%d_MM>)"
   },
   "183220": {
     "元気玉×1個": "Bonus Orb x1"
   },
   "183387": {
-    "サーバーから　情報が取得できないため\n先に進むことができません。": ""
+    "サーバーから　情報が取得できないため\n先に進むことができません。": "Unable to proceed because information cannot\nbe obtained from the server."
   },
   "185005": {
     "バージョン <%s_MVER>": "Version <%s_MVER>"
   },
   "186395": {
-    "購入処理が　キャンセルされました。\nもう一度　最初から　やりなおしてください。": ""
+    "購入処理が　キャンセルされました。\nもう一度　最初から　やりなおしてください。": "The purchase process has been cancelled.\nPlease start over again from the beginning."
   },
   "187167": {
-    "サーバーに問い合わせ中です……。<break>": ""
+    "サーバーに問い合わせ中です……。<break>": "Contacting server...<break>"
   },
   "187506": {
-    "前回　購入処理が中断されました。\n現在のＤＱＸポイントのチャージ残高は\n<%dDQXPOINT>円となります。": ""
+    "前回　購入処理が中断されました。\n現在のＤＱＸポイントのチャージ残高は\n<%dDQXPOINT>円となります。": "The last purchase process was interrupted.\nThe current charge balance of DQX Points is\n<%dDQXPOINT> yen."
   },
   "187515": {
     "5000年の旅路　遥かなる故郷へ": "5000 Year Journey to a Faraway Hometown"
@@ -2187,28 +2188,28 @@
     "冒険の書<%nNO1>　<%sPCNAME1>と\n冒険の書<%nNO2>　<%sPCNAME2>を\n入れかえますが　よろしいですか？<yesno 2><break>": "Do you want to swap\nAdventure Log <%dNO1> \"<%sPCNAME1>\" and\nAdventure Log <%dNO2> \"<%sPCNAME2>\"?<yesno 2><break>"
   },
   "190087": {
-    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン３『いにしえの竜の伝承』の\nコードを　先に登録してください。": ""
+    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン３『いにしえの竜の伝承』の\nコードを　先に登録してください。": "The registration code entered cannot be\nregistered at this time.<br>\nPlease register the code for the additional\npackage, version 3 \"5000 Year Journey to a\nFaraway Hometown\", in your account first."
   },
   "191210": {
-    "新しい冒険の書を作成します。\n４キャラクター以降　冒険の書を作成される際は\n以下について　ご注意ください。\n<br>\nPlayStation®4版は　５キャラコースのみですが\n他プラットフォームでは　そのキャラコース契約に\n応じたキャラ数まで　プレイ可能となります。\n<br>\n異なるキャラコースで　契約されている場合\n他プラットフォームでは　無効な冒険の書となり\nプレイすることができない場合があります。\n<br>\n他のプラットフォームで　無効となっている\n冒険の書で遊びたい場合は　PlayStation®4版から\n有効なデータと入れ替えることでプレイ可能です。<end>": ""
+    "新しい冒険の書を作成します。\n４キャラクター以降　冒険の書を作成される際は\n以下について　ご注意ください。\n<br>\nPlayStation®4版は　５キャラコースのみですが\n他プラットフォームでは　そのキャラコース契約に\n応じたキャラ数まで　プレイ可能となります。\n<br>\n異なるキャラコースで　契約されている場合\n他プラットフォームでは　無効な冒険の書となり\nプレイすることができない場合があります。\n<br>\n他のプラットフォームで　無効となっている\n冒険の書で遊びたい場合は　PlayStation®4版から\n有効なデータと入れ替えることでプレイ可能です。<end>": "Create a new Adventure Log. Please note the\nfollowing when creating an Adventure Log for\nfour or more characters.\n<br>\nThe PlayStation®4 version only has 5-character\ncourse, but on other platforms you can play up\nto the number of characters of your contract.\n<br>\nIf using a contract with a different character\ncourse, the Adventure Log may be invalid on\nother platforms and you won't be able to play.\n<br>\nIf you want to play an Adventure Log that is\ninvalid on other platforms, you can replace it\nwith valid data of the PlayStation®4 version.<end>"
   },
   "194798": {
     "本当に『<%sPCNAME>』という名前で\n冒険の書に反映して　よろしいですか？\n<color_yellow> ※以後の名前の変更は有料サービスです。<color_white><yesno 2><close>": "Create an Adventure Log using the name\n\"<%sPCNAME>\"?\n<color_yellow>Subsequent name changes are a paid service.<color_white><yesno 2><close>"
   },
   "194902": {
-    "DQXクレカ利用特典の　追加処理が\n正常に行われませんでした。\n時間を置いて　再度ログインを　お試しください。\n<br>\nこのメッセージが続く場合は　お手数ですが\nサポートセンターのページより　ご報告ください。\nhttps://sqex.to/eh6": ""
+    "DQXクレカ利用特典の　追加処理が\n正常に行われませんでした。\n時間を置いて　再度ログインを　お試しください。\n<br>\nこのメッセージが続く場合は　お手数ですが\nサポートセンターのページより　ご報告ください。\nhttps://sqex.to/eh6": "The DQX Credit Card Reward addition was not\nprocessed successfully. Please wait a while\nand try logging in again.\n<br>\nIf this message persists, please report it on\nthe Support Center page.\nhttps://sqex.to/eh6"
   },
   "198720": {
     "ご使用の環境からは　Windows無料体験版として\nプレイすることができます。\n　\n　\n一部　機能の利用制限がありますが\nバージョン２「眠れる勇者と導きの盟友」の\n終盤まで　プレイすることができます。\n　\n　\n＜ボタンを押すと ゲームを続けます＞": "You can play the game using the\nfree trial Windows version.\n\n\nYou'll be able to play until the end of\nVersion 2.\n\n\n(Press any button to continue.)"
   },
   "198815": {
-    "レジストレーションコードを　登録しました！\nあなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><end>": ""
+    "レジストレーションコードを　登録しました！\nあなたのアカウントは　今日から20日間\n無料プレイ期間となります！<me_60><end>": "Registration code has been registered!\nYour account will be free to play for 20 days\nstarting today!<me_60><end>"
   },
   "198816": {
-    "レジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<br>\nこれで　ＳＴＥＰ３は　完了です！\n　<me_58><end>": ""
+    "レジストレーションコードは\n今後も　本人確認のために　使いますので\n大切に　保管してください。<br>\nこれで　ＳＴＥＰ３は　完了です！\n　<me_58><end>": "Please keep your registration code in a safe\nplace as it will be used to verify your\nidentity in the future.<br>\nSTEP 3 is now complete!\n<me_58><end>"
   },
   "203991": {
-    "現在　アクセスが集中しているため\n順番にログインを行っています。\n少々お待ちください……。": ""
+    "現在　アクセスが集中しているため\n順番にログインを行っています。\n少々お待ちください……。": "Currently logging in sequentially due to heavy\naccess. Please wait a moment..."
   },
   "206251": {
     "<speed=0>『ログイン表示する』以外の　設定にすると\nログイン状態を隠すために　一部メニューの\n顔アイコンの反映と更新が　行われなくなります。<break>": "<speed=0>If set to anything other than \"Show Login\",\nthe face icon in some menus will not be\nshown or updated in order to hide your status. <break>"
@@ -2217,37 +2218,37 @@
     "いばらの巫女と滅びの神": "The Thorny Maiden & the God of Destruction"
   },
   "212717": {
-    "次拡張パッケージ": ""
+    "次拡張パッケージ": "Next Expansion Package"
   },
   "220387": {
-    "冒険の書のデータが\n「秘密の隠れ家」に　いるため\n削除することができません。\n<br>\n一度　キャラクターを　ご確認の上\n改めて　お試しください。": ""
+    "冒険の書のデータが\n「秘密の隠れ家」に　いるため\n削除することができません。\n<br>\n一度　キャラクターを　ご確認の上\n改めて　お試しください。": "Data in the Adventure Log cannot be deleted\nbecause it is in the \"Secret Hideaway\"."
   },
   "234063": {
     "製品版の情報ページに移動します。\nログアウトして『目覚めし冒険者の広場』を\n開きますか？<yesno 2><break>": "Go to the product version information\npage. Do you want to log out and open\nthe \"Adventurer's Square\"?<yesno 2><break>"
   },
   "247527": {
-    "表示されている価格は　旧税率（８％）に\n基づいた価格と　なっております。<br>\n１０月１日以降の　お支払い時には\nあらためて新税率（10%）に　基づいた\n価格で決済させていただきます。": ""
+    "表示されている価格は　旧税率（８％）に\n基づいた価格と　なっております。<br>\n１０月１日以降の　お支払い時には\nあらためて新税率（10%）に　基づいた\n価格で決済させていただきます。": "The prices shown are based on the old tax rate\n(8%)."
   },
   "247719": {
-    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン４『5000年の旅路　遥かなる故郷へ』の\nコードを　先に登録してください。": ""
+    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン４『5000年の旅路　遥かなる故郷へ』の\nコードを　先に登録してください。": "The registration code entered cannot be\nregistered at this time.<br>\nPlease register the code for the additional\npackage, version 4 \"5000 Year Journey to a\nFaraway Hometown\", in your account first."
   },
   "248282": {
-    "バージョン５シナリオスキップの\n権利を購入済みのため　バージョン５から\nゲームを　はじめることができます。\n<br>\n権利を消費して　\n新規に作成したキャラクターを\nバージョン５から　はじめますか？<yesno 2>": ""
+    "バージョン５シナリオスキップの\n権利を購入済みのため　バージョン５から\nゲームを　はじめることができます。\n<br>\n権利を消費して　\n新規に作成したキャラクターを\nバージョン５から　はじめますか？<yesno 2>": "Since you have purchased the right to skip\nthe version 5 scenario, you can start the game\nfrom version 5.\n<br>\nDo you want to use the right to start a newly\ncreated character from version 5?<yesno 2>"
   },
   "248283": {
-    "バージョン５シナリオスキップせずに\n『エテーネの村のおはなし』から\nゲームを開始します。": ""
+    "バージョン５シナリオスキップせずに\n『エテーネの村のおはなし』から\nゲームを開始します。": "Start the game from \"Ethene Village Story\"\nwithout using the version 5 scenario skip."
   },
   "248284": {
-    "バージョン５シナリオスキップの\n権利を使用せず『エテーネの村のおはなし』から\nゲームを開始しますが　よろしいですか？<yesno 2>": ""
+    "バージョン５シナリオスキップの\n権利を使用せず『エテーネの村のおはなし』から\nゲームを開始しますが　よろしいですか？<yesno 2>": "Are you sure you want to start the game from\n\"Ethene Village Story\" without using the\nversion 5 scenario skip?"
   },
   "248285": {
-    "バージョン５シナリオスキップの\n権利を使用しました。\nバージョン５から　ゲームを開始します。": ""
+    "バージョン５シナリオスキップの\n権利を使用しました。\nバージョン５から　ゲームを開始します。": "Version 5 scenario skip was used.\nStart the game with version 5."
   },
   "248286": {
     "本当にバージョン５シナリオスキップの\n権利を使用して　バージョン５から\nはじめても　よろしいですか？<yesno 2>": "Are you sure you want to use a story skip\nand begin in Version 5?<yesno 2>"
   },
   "248287": {
-    "『バージョン５　シナリオ』<yesno 2><break>": ""
+    "『バージョン５　シナリオ』<yesno 2><break>": "\"Version 5 Scenario\"<yesno 2><break>"
   },
   "250375": {
     "<speed=0>バージョン１『目覚めし五つの種族』\n５つの大陸をめぐる　最初の物語です。": "<speed=0>Version 1:\nAwakening of the 5 Tribes\n<auto_br=2000>\nThis is the story where it all begins,\ntraveling across the five continents."
@@ -2256,7 +2257,7 @@
     "<speed=0>バージョン５『いばらの巫女と滅びの神』\n封印の解かれた魔界へ　舞台を移し\n魔族たちの　戦いの運命をたどる物語です。": "<speed=0>Version 5:\nThe Thorny Maiden & the God of Destruction\n<auto_br=2000>\nThe seal to the Demon World has broken, and\nthe fates of the differing demon tribes shall\nunfold before you."
   },
   "251552": {
-    "ログインしています……。\nログインIP：<%sID>\nポート：<%dPORT>": ""
+    "ログインしています……。\nログインIP：<%sID>\nポート：<%dPORT>": "Logging in...\nLogin IP: <%sID>\nPort: <%dPORT>"
   },
   "252521": {
     "バージョン４までの物語は　クリア済みとなり\nバージョン５『いばらの巫女と滅びの神』の\n冒険から　ゲームを始めることができます。\n<br>\n<color_yellow>バージョン５から　始めたときの詳細については\n『目覚めし冒険者の広場』を　ご確認ください。\nhttps://sqex.to/SSKIP<color_white>\n<br>\nバージョン５『いばらの巫女と滅びの神』の\n冒険から始めて　本当によろしいですか？<yesno 2><break>": "Up to Version 4's story will be considered\ncleared, and you will begin from Version 5.\n<br>\nBegin your adventure in Version 5\n\"The Thorny Maiden & the God of Destruction\"?<yesno 2><break>"
@@ -2271,22 +2272,22 @@
     "つぎに　どの物語から　冒険を始めるか\n選ぶことができます。\n始めたい　バージョンを選択してください。\n<br>\n選択できるバージョンは　プレイ権利が有効で\nディスクインストールされている　バージョンから\n選ぶことができます。\n<br>\nただし　選択したバージョンより前の物語は\nクリア済みとなり　経験値やゴールドなどの報酬は\n入手することができません。\n<br>\nまた　つよさは　レベル１から始まるため\n物語を進めるには　キャラの成長や\nクエストのクリアが　必要となります。<end>": "You can choose which story you want to start\nyour adventure with. Select the version you\nwant to start with.\n<br>\nThe versions you can choose from are those\nthat are installed and registered.\n<br>\nHowever, any story prior to the version you\nselected will have been cleared, and you will\nnot get experience, gold, or other rewards.\n<br>\nIn addition, since you'll begin at level 1,\nyou will need to grow your character and\ncomplete quests to progress in the story.<end>"
   },
   "257426": {
-    "　　 キャラクター作成不可": ""
+    "　　 キャラクター作成不可": "     Unable to create character."
   },
   "257829": {
-    "利用券の有効期間が　残り<%d_DAY>日です！\n利用券を購入したい場合は　ランチャー画面より\nお手続きすることができます。<end>": ""
+    "利用券の有効期間が　残り<%d_DAY>日です！\n利用券を購入したい場合は　ランチャー画面より\nお手続きすることができます。<end>": "The validity period of the ticket will expire\nin <%d_DAY> days! If you wish to purchase a\nticket, you can do so from the launcher.<end>"
   },
   "257830": {
-    "利用券の有効期間が　24時間以内で切れます！\n利用券を購入したい場合は　ランチャー画面より\nお手続きすることができます。<end>": ""
+    "利用券の有効期間が　24時間以内で切れます！\n利用券を購入したい場合は　ランチャー画面より\nお手続きすることができます。<end>": "The validity period of the ticket will expire\nwithin 24 hours! If you wish to purchase a\nticket, you can do so from the launcher.<end>"
   },
   "265157": {
-    "このアイテムコードは\nすでに登録回数が上限のため\n使用できません。": ""
+    "このアイテムコードは\nすでに登録回数が上限のため\n使用できません。": "This item code cannot be used because it has\nalready been registered."
   },
   "265158": {
-    "そのキャラは　すでに同じアイテムを\n受け取っています。\n重複して　受け取りすることはできません。": ""
+    "そのキャラは　すでに同じアイテムを\n受け取っています。\n重複して　受け取りすることはできません。": "The character has already received the same\nitem. Receiving duplicates is not allowed."
   },
   "271363": {
-    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン５『いばらの巫女と滅びの神』の\nコードを　先に登録してください。": ""
+    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン５『いばらの巫女と滅びの神』の\nコードを　先に登録してください。": "The registration code entered cannot be\nregistered at this time.<br>\nPlease register the code for the additional\npackage, version 5 \"The Thorny Maiden & the\nGod of Destruction\", in your account first."
   },
   "276845": {
     "残プレイ時間": "Remaining Playtime"
@@ -2298,10 +2299,10 @@
     "残り <%d_MIN>分": "<%d_MIN> min. Left"
   },
   "278598": {
-    "残り 1分未満": ""
+    "残り 1分未満": "Less Than 1 min. Left"
   },
   "279062": {
-    "時間利用券をご利用の場合\n冒険の書を　入れかえることはできません。": ""
+    "時間利用券をご利用の場合\n冒険の書を　入れかえることはできません。": "The Adventure Log cannot be replaced if you\nuse an hourly ticket."
   },
   "280103": {
     "現在　プレイ料金無料期間です！\n<%d_MM1>月<%d_DD1>日<%dHOUR1>時<%02dMIN1>分～<%d_MM2>月<%d_DD2>日<%dHOUR2>時<%02dMIN2>分まで\nログインして　遊ぶことができます。": "Free play period! You can play for free from\n<%d_MM1>/<%d_DD1> <%dHOUR1>:<%02dMIN1> JST until <%d_MM2>/<%d_DD2> <%dHOUR2>:<%02dMIN2> JST."
@@ -2334,7 +2335,7 @@
     "バージョン３までの物語は　クリア済みとなり\nバージョン４『5000年の旅路　遥かなる故郷へ』の\n冒険から　ゲームを始めることができます。\n<br>\n<color_yellow>バージョン４から　始めたときの詳細については\n『目覚めし冒険者の広場』を　ご確認ください。\nhttps://sqex.to/SSKIP<color_white>\n<br>\nバージョン４『5000年の旅路　遥かなる故郷へ』の\n冒険から始めて　本当によろしいですか？<yesno 2><break>": "Up to Version 3's story will be considered\ncleared, and you will begin from Version 4.\n<br>\nBegin your adventure in Version 4\n\"5000 Year Journey to a Faraway Hometown\"?<yesno 2><break>"
   },
   "281036": {
-    "ディスクがインストールされていないか\nレジストレーションコードが入力されていないため\nこのバージョンは　選択できません。": ""
+    "ディスクがインストールされていないか\nレジストレーションコードが入力されていないため\nこのバージョンは　選択できません。": "This version cannot be selected because the\ndisk is not installed or the registration code\nhas not been entered."
   },
   "281037": {
     "バージョン１『目覚めし五つの種族』": "\"Awakening of the 5 Tribes\""
@@ -2409,25 +2410,25 @@
     "ログアウトする": "Log Out"
   },
   "287180": {
-    "いろいろ設定": ""
+    "いろいろ設定": "Settings"
   },
   "287403": {
-    "製品版へ切り替え": ""
+    "製品版へ切り替え": "Full Version"
   },
   "287438": {
-    "作成を中断して　最初に戻ります。\nここまでの設定は　キャンセルされますが\nよろしいですか？<yesno 2><break>": ""
+    "作成を中断して　最初に戻ります。\nここまでの設定は　キャンセルされますが\nよろしいですか？<yesno 2><break>": "Stop creating and go back to the beginning.\nAre you sure you want to cancel the settings\nup to this point?<yesno 2><break>"
   },
   "287833": {
     "「ふっかつのじゅもん」では\nドラゴンクエストⅩ　オフラインから\n一部データを引き継いで　始めることができます。\n<br>\nデータを　引き継ぐためには\nドラゴンクエストⅩ　オフライン内で\n入手できる「ふっかつのじゅもん」に加えて\n<br>\nパッケージ封入か　ダウンロード版で発行される\n『ドラゴンクエストⅩ　オンライン\n引き継ぎコード』それぞれが　必要になります。<end>": "With the \"Spell of Restoration\", you can\ncarry over some data from Dragon Quest X\nOffline and start from there.\n<br>\nTo transfer data, you will need the Spell of\nRestoration code from Dragon Quest X Offline,\nas well as the \"Dragon Quest X Online Transfer\n<br>\nCode\" that came with your physical or digital\nversion of the game.<end>"
   },
   "287834": {
-    "続いて　お手持ちの\n『ドラゴンクエストⅩ　オンライン\n引き継ぎコード』を　入力してください。<break>": ""
+    "続いて　お手持ちの\n『ドラゴンクエストⅩ　オンライン\n引き継ぎコード』を　入力してください。<break>": "Next, please enter your \"Dragon Quest X Online\nTransfer Code\".<break>"
   },
   "287835": {
-    "「引き継ぎコード」が　間違っています。<end>": ""
+    "「引き継ぎコード」が　間違っています。<end>": "The \"Transfer Code\" is incorrect.<end>"
   },
   "287836": {
-    "その「引き継ぎコード」は　使えません。\n正しい「引き継ぎコード」を　ご確認ください。<end>": ""
+    "その「引き継ぎコード」は　使えません。\n正しい「引き継ぎコード」を　ご確認ください。<end>": "That \"Transfer Code\" cannot be used.\nPlease make sure you have the correct\n\"Transfer Code\"."
   },
   "287837": {
     "つぎに　ドラゴンクエストⅩ　オフラインから\n入手した「ふっかつのじゅもん」を\n入力してください。<end>": "Next, please enter the Spell of Restoration\ncode you received in Dragon Quest X Offline.<end>"
@@ -2436,58 +2437,58 @@
     "ふっかつのじゅもんが　ちがいます。<end>": "The Spell of Restoration code is incorrect.<end>"
   },
   "287839": {
-    "引き継ぎを中断します。\n入力した情報は破棄されますが\nよろしいですか？<yesno 2><close>": ""
+    "引き継ぎを中断します。\n入力した情報は破棄されますが\nよろしいですか？<yesno 2><close>": "The transfer will be interrupted.\nAre you sure you want the information you\nentered to be discarded?<yesno 2><close>"
   },
   "287840": {
     "引き継ぎ情報　および「ふっかつのじゅもん」の\n入力を確認しました！<me_60><end>": "The transfer code and Spell of Restoration\ncode have been entered and confirmed\nsuccessfully!<me_60><end>"
   },
   "288316": {
-    "規定回数　入力を間違えたため\n入力を　一時制限しています。\nしばらく経ってから　再度お試しください。<end>": ""
+    "規定回数　入力を間違えたため\n入力を　一時制限しています。\nしばらく経ってから　再度お試しください。<end>": "Input is temporarily restricted due to\nincorrect input exceeding the specified number\nof times. Please try again after a while.<end>"
   },
   "288317": {
-    "引き継ぎコードを　入力してください": ""
+    "引き継ぎコードを　入力してください": "Please enter the Transfer Code."
   },
   "288589": {
     "ふっかつのじゅもんと　現在プレイしている\nプラットフォームが　異なります。\n異なるプラットフォームでは引き継ぎできません。<end>": "This Spell of Restoration code is for a\ndifferent platform. You cannot use this code\non this platform.<end>"
   },
   "288590": {
-    "入力された引き継ぎコードと　現在プレイしている\nプラットフォームが　異なります。\n異なるプラットフォームでは引き継ぎできません。<end>": ""
+    "入力された引き継ぎコードと　現在プレイしている\nプラットフォームが　異なります。\n異なるプラットフォームでは引き継ぎできません。<end>": "This Transfer Code is for a different\nplatform. You cannot use this code on this\nplatform.<end>"
   },
   "288693": {
-    "『引き継ぎコード』を　確認しました！<end>": ""
+    "『引き継ぎコード』を　確認しました！<end>": "The \"Transfer Code\" has been confirmed!<end>"
   },
   "288694": {
     "ドラゴンクエストⅩ　オフラインからの\n引き継ぎ情報を　確認できませんでした。\n「引き継ぎコードを　ご確認ください。<end>": "Could not confirm the transfer\ninformation for Dragon Quest X Offline. Please\ncheck the transfer code.<end>"
   },
   "288695": {
-    "現在　サーバーメンテナンスのため\n『引き継ぎコード』を　確認できませんでした。\n<br>\nしばらく時間を置いてから　お試しいただくか\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp<end>": ""
+    "現在　サーバーメンテナンスのため\n『引き継ぎコード』を　確認できませんでした。\n<br>\nしばらく時間を置いてから　お試しいただくか\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp<end>": "We are currently unable to confirm the\n\"Transfer Code\" due to server maintenance.\n<br>\nPlease wait for a while and try again, or\ncheck the official website \"Awakening\nAdventurer's Square\".  https://hiroba.dqx.jp<end>"
   },
   "288696": {
-    "データの引き継ぎに　失敗しました。\nしばらく時間を置いてから　お試しください。<end>": ""
+    "データの引き継ぎに　失敗しました。\nしばらく時間を置いてから　お試しください。<end>": "Data transfer failed.\nPlease wait a while before trying again."
   },
   "288697": {
-    "システムエラーにより\n引き継ぎに　失敗しました。\n<br>\nしばらく時間を置いてから　お試しいただくか\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp<end>": ""
+    "システムエラーにより\n引き継ぎに　失敗しました。\n<br>\nしばらく時間を置いてから　お試しいただくか\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp<end>": "Transfer failed due to system error.\n<br>\nPlease wait for a while and try again, or\ncheck the official website \"Awakening\nAdventurer's Square\".  https://hiroba.dqx.jp<end>"
   },
   "289196": {
-    "ドラゴンクエストⅩ　オフラインからの\n引き継ぎは　ひとつの機種につき\n１回までとなっています。\n<br>\nこのアカウントでは　現在プレイしている機種での\n引き継ぎが　すでに完了していますので\nこれ以上　引き継ぐことはできません。<end>": ""
+    "ドラゴンクエストⅩ　オフラインからの\n引き継ぎは　ひとつの機種につき\n１回までとなっています。\n<br>\nこのアカウントでは　現在プレイしている機種での\n引き継ぎが　すでに完了していますので\nこれ以上　引き継ぐことはできません。<end>": "Dragon Quest X Offline can only be transferred\nonce per device.\n<br>\nThis account cannot be transferred any further\nbecause a transfer has already been completed\non the device you are currently playing on.<end>"
   },
   "289203": {
-    "続いて　お手持ちの\n『ドラゴンクエストⅩ　オンライン\n引き継ぎコード』を　入力します。\n<br>\nNintendo Switch版の場合\n引き継ぎコードが　必要となります。<end>": ""
+    "続いて　お手持ちの\n『ドラゴンクエストⅩ　オンライン\n引き継ぎコード』を　入力します。\n<br>\nNintendo Switch版の場合\n引き継ぎコードが　必要となります。<end>": "Next, enter your \"Dragon Quest X Online\"\nTransfer Code.\n<br>\nFor the Nintendo Switch version, a Transfer\nCode is required.<end>"
   },
   "289789": {
-    "まずは　引き継いで始めるための\n冒険の書を選んで　新規キャラクターを\n作成してください。<break>": ""
+    "まずは　引き継いで始めるための\n冒険の書を選んで　新規キャラクターを\n作成してください。<break>": "First, create a new character by selecting an\nAdventure Log to transfer over and start.<break>"
   },
   "289809": {
     "現在プレイしている　機種では\n「ふっかつのじゅもん」から\n引き継ぎすることはできません。\n<br>\n引き継ぎ可能な機種を　ご確認のうえ\n対応した機種から　お試しください。<end>": "The Spell of Restoration cannot be\ntransferred to the model you are currently\nplaying on.\n<br>\nPlease double check the models that can\nbe transferred to and try again.<end>"
   },
   "291570": {
-    "引き継ぎコードは　ここから入力できません。\nまた　現在のプレイ環境からでは\n入力することはできません。<end>": ""
+    "引き継ぎコードは　ここから入力できません。\nまた　現在のプレイ環境からでは\n入力することはできません。<end>": "The transfer code cannot be entered here. It\nis also not possible to enter this information\nfrom the current play environment.<end>"
   },
   "292119": {
     "スクウェア・エニックス　アカウント未作成の\nかんたんプレイの場合　ふっかつのじゅもんを\n行うことはできません。<end>": "You cannot use the Spell of Restoration code\non an Easy Play account. Please link to a\nSquare Enix account first.<end>"
   },
   "292127": {
-    "<color_yellow>この冒険の書<%nNO>の　<%sPCNAME>は\nドラゴンクエストⅩ　オフライン版から\n引き継いだ　キャラクターです！<color_white>\n<br>\nこの冒険の記録を消すと　同じ機種から\n再度　引き継ぎをすることはできません。\n本当に　消してもよろしいですか？<yesno 2><break>": ""
+    "<color_yellow>この冒険の書<%nNO>の　<%sPCNAME>は\nドラゴンクエストⅩ　オフライン版から\n引き継いだ　キャラクターです！<color_white>\n<br>\nこの冒険の記録を消すと　同じ機種から\n再度　引き継ぎをすることはできません。\n本当に　消してもよろしいですか？<yesno 2><break>": "<color_yellow><%sPCNAME> from Adventure Log <%nNO> is a\ncharacter transferred over from Dragon Quest X\nOffline!<color_white>\n<br>\nOnce you delete this adventure, you will not\nbe able to transfer it again from the same\ndevice. Are you sure you want to delete it?<yesno 2><break>"
   },
   "292989": {
     "現在プレイしている環境では\n「ふっかつのじゅもん」から\n引き継ぎすることは　できません。\n<br>\n引き継ぎ可能な環境を　ご確認のうえ\n再度　お試しください。<end>": "The Spell of Restoration cannot be\ntransferred to the environment you are\ncurrently playing on.\n<br>\nPlease double check the environments that can\nbe transferred to and try again.<end>"
@@ -2496,27 +2497,27 @@
     "ご使用の環境からは　無料体験版として\nプレイすることができます。\n　\n　\n一部　機能の利用制限がありますが\nバージョン２「眠れる勇者と導きの盟友」の\n終盤まで　プレイすることができます。\n　\n　\n＜ボタンを押すと ゲームを続けます＞": "You can play the game using the free\ntrial version on this platform.\n\n\nYou'll be able to play until near\nthe end of Version 2's story.\n\n\n\n(Press any button to continue.)"
   },
   "297707": {
-    "ドラゴンクエストⅩ　オンライン\nニンテンドー3DS版を　プレイしていただき\nありがとうございます。\n<br>\n利用券の購入に必要な\n「ニンテンドーeショップ」での\n残高の追加サービスは　終了いたしました。\n<br>\n現在　ニンテンドー3DS版の利用券は\nアストルティア入国管理局にて\n購入いただけるようになっております。\n<br>\n詳細に　つきましては\n公式サイトの専用ページをご確認ください。\nhttps://sqex.to/3DSACC": ""
+    "ドラゴンクエストⅩ　オンライン\nニンテンドー3DS版を　プレイしていただき\nありがとうございます。\n<br>\n利用券の購入に必要な\n「ニンテンドーeショップ」での\n残高の追加サービスは　終了いたしました。\n<br>\n現在　ニンテンドー3DS版の利用券は\nアストルティア入国管理局にて\n購入いただけるようになっております。\n<br>\n詳細に　つきましては\n公式サイトの専用ページをご確認ください。\nhttps://sqex.to/3DSACC": "3ds stuff, ignore"
   },
   "302023": {
-    "<color_yellow>他の機種と併用して遊ぶ方に　お知らせです。<br>\n追加パッケージが必要なエリアでログアウトすると\nその追加パッケージが導入されていない機種では\nログインが　できなくなります。<br>\n追加パッケージの導入状況が\n異なる機種と併用する場合は\nログアウトするエリアに　ご注意ください。": ""
+    "<color_yellow>他の機種と併用して遊ぶ方に　お知らせです。<br>\n追加パッケージが必要なエリアでログアウトすると\nその追加パッケージが導入されていない機種では\nログインが　できなくなります。<br>\n追加パッケージの導入状況が\n異なる機種と併用する場合は\nログアウトするエリアに　ご注意ください。": "<color_yellow>This is a notice for those who play on other\ndevices.<br>\nIf you log out of an area that requires an\nadditional package, you won't be able to log\nin on devices without that package installed."
   },
   "305750": {
-    "7th追加パッケージ": ""
+    "7th追加パッケージ": "7th Additional Package"
   },
   "305751": {
-    "7th追加パッケージ": ""
+    "7th追加パッケージ": "7th Additional Package"
   },
   "305851": {
-    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン『次回拡張パッケージ』の\nコードを　先に登録してください。": ""
+    "入力された　レジストレーションコードは\n今は登録できません。<br>\nご使用のアカウントに　追加パッケージ\nバージョン『次回拡張パッケージ』の\nコードを　先に登録してください。": "The registration code entered cannot be\nregistered at this time.<br>\nPlease register the code for the additional\npackage, version \"Next Expansion Package\", in\nyour account first."
   },
   "315066": {
     "ドラゴンクエストⅩ　オンラインを　\nプレイしていただき　ありがとうございます。\nみなさまに大切な　お知らせがございます。\n<br>\nドラゴンクエストⅩ　オンライン　Wii U版と\nニンテンドー3DS版は　version.7リリースで\nサービスを終了する予定となっております。\n<br>\n詳細や　今後の情報に　つきましては\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp\n<br>\nNintendo Switch™版や　Windows版\nPlayStation®4版などは　\n引き続き　お楽しみいただけます。": "Thank you for playing Dragon Quest X. We\nhave an important announcement to make.\n<br>\nUpon the release of Version 7, the Wii U and\nNintendo 3DS versions will end service and\nwill no longer be playable.\n<br>\nFor more information, please visit the\nofficial Dragon Quest X website.\nhttps://hiroba.dqx.jp\n<br>\nThe Nintendo Switch™, Windows, and\nPlayStation®4 versions will continue to be\navailable for your enjoyment."
   },
   "317253": {
-    "中断していた利用券の購入処理が完了しました！\n有効期間が　<%d_YYYY>年<%d_MM>月<%d_DD>日までに\nなりました。<me_60>": ""
+    "中断していた利用券の購入処理が完了しました！\n有効期間が　<%d_YYYY>年<%d_MM>月<%d_DD>日までに\nなりました。<me_60>": "The interrupted ticket purchase process is now\ncomplete! The validity period is now\n<%d_YYYY>/<%d_MM>/<%d_DD>."
   },
   "317254": {
-    "中断していた利用券の購入処理が完了しました！\n<%nNEXT_COURSE>キャラコースに変更されました。": ""
+    "中断していた利用券の購入処理が完了しました！\n<%nNEXT_COURSE>キャラコースに変更されました。": "The interrupted ticket purchase process is now\ncomplete! Changed to <%dNEXT_COURSE> character course."
   }
 }
