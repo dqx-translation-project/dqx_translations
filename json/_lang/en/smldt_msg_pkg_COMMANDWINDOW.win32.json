@@ -447,7 +447,7 @@
     "フレンドに関する\nコマンドを\n選べます": "Select commands\nabout your\nfriends."
   },
   "20214": {
-    "<speed=0>\n装備品は　最初に装備した人が\nその装備の使用者となります！<br>\n一度　使用者が決まった装備品は\n他の人に　渡すことができなくなりますが\nこの装備品を　装備しても　よろしいですか？\n<yesno><close>": "The first person to equip a piece of equipment\nwill own it!\n<br>\nOnce owned, it can't be given to other\nplayers. Do you want to equip this?\n<yesno><close>"
+    "<speed=0>\n装備品は　最初に装備した人が\nその装備の使用者となります！<br>\n一度　使用者が決まった装備品は\n他の人に　渡すことができなくなりますが\nこの装備品を　装備しても　よろしいですか？\n<yesno><close>": "<speed=0>\nThe first person to equip a piece of equipment\nwill own it!\n<br>\nOnce owned, it can't be given to other\nplayers. Do you want to equip this?\n<yesno><close>"
   },
   "20240": {
     "<speed=0>復活場所の　<%sM_add><%sM_point>へ戻ると\n<%dM_gold> G　失います。\n<%sM_add><%sM_point>に　戻りますか？<yesno2><close>": "<speed=0>Resurrecting at <%sM_add><%sM_point>\nwill cause you to lose <%dM_gold> G.\nReturn to <%sM_add><%sM_point>? <yesno2><close>"
@@ -456,7 +456,7 @@
     "<speed=0><%sM_point>に　戻ります。": "<speed=0>Returns to <%sM_point>."
   },
   "20242": {
-    "<speed=0>スタート地点に戻ると\nうばわれたポイントは　復活されません。\nスタート地点に　戻りますか？<yesno><close>": ""
+    "<speed=0>スタート地点に戻ると\nうばわれたポイントは　復活されません。\nスタート地点に　戻りますか？<yesno><close>": "<speed=0>If you return to the starting point, the\npoints lost will not be restored. Return to\nthe starting point?<yesno><close>"
   },
   "20243": {
     "<speed=0><%sM_item>を　１個　使って\nこの場で　復活しますか？\n（所持数　<%nM_Num>個）<yesno2><close>": "<speed=0>Use 1 <%sM_item> to resurrect here?\n(You have <%dM_Num> left.)<yesno2><close>"
@@ -531,7 +531,7 @@
     "アタマ装備を　『非表示』から『表示する』に\n変更しますか？<yesno><close>": "Do you want to change your headgear from\n'Hide' to 'Show'?<yesno><close>"
   },
   "22442": {
-    "守備力はそのまま\n装備の表示状態を\n切り替えます": ""
+    "守備力はそのまま\n装備の表示状態を\n切り替えます": "Switch equipment\ndisplay without\nchanging defense."
   },
   "22456": {
     "<speed=0>この内容で　封をします。よろしいですか？\n<color_yellow>※一度　封をしても　『書いた手紙』から\n　選ぶことで　書き直しができます。<color_white><yesno><break>": "<speed=0>Finish and seal this letter?\n<color_yellow>You can still change it if you wish\nunder \"Written Mail\".<color_white><yesno><break>"
@@ -582,7 +582,7 @@
     "元気タイムの間は\n経験値が　2倍になります！": "During Bonus Time\nexperience will be doubled!"
   },
   "22789": {
-    "今週はもう　つかれて\nなにも得られない状態です": ""
+    "今週はもう　つかれて\nなにも得られない状態です": "Already exhausted and can't get anything done."
   },
   "22790": {
     "ふつうの状態です": "Normal Condition"
@@ -609,10 +609,10 @@
     "<speed=0><%sM_pc>を\nチームから　はずせませんでした。\n時間を置いて　もう一度お試しください。": "<speed=0>Could not remove <%sM_pc>\nfrom the Team. Please try again later."
   },
   "23387": {
-    "<speed=0>アタマ装備を　『非表示』にしました。": "The head equipment was set to \"Hide\"."
+    "<speed=0>アタマ装備を　『非表示』にしました。": "<speed=0>The head equipment was set to \"Hide\"."
   },
   "23388": {
-    "<speed=0>アタマ装備を　『表示する』にしました。": "The head equipment was set to \"Show\"."
+    "<speed=0>アタマ装備を　『表示する』にしました。": "<speed=0>The head equipment was set to \"Show\"."
   },
   "23391": {
     "<speed=0>この内容で　フリーコメントを設定しますか？<yesno><close>": "<speed=0>Set this free comment?<yesno><close>"
@@ -849,7 +849,7 @@
     "<speed=0>しかし　使えなかった。": "<speed=0>But it didn't work."
   },
   "25664": {
-    "<speed=0>マップから　強制的に出されました。\nもう一度　お試しください。": "You were forced out of the map.\nPlease try again."
+    "<speed=0>マップから　強制的に出されました。\nもう一度　お試しください。": "<speed=0>You were forced out of the map.\nPlease try again."
   },
   "25665": {
     "<%sM_pc>だ。\n強そうだ……。": "It's <%sM_pc>.\nThey seem pretty strong..."
@@ -942,7 +942,7 @@
     "<speed=0>このクエストは　すでにクリアしています。": "<speed=0>This quest has already been cleared."
   },
   "26479": {
-    "<speed=0><%sM_target>は　遠くにいるので\n調べられない！": "<%sM_target> is too far\naway to check!"
+    "<speed=0><%sM_target>は　遠くにいるので\n調べられない！": "<speed=0><%sM_target> is too far\naway to check!"
   },
   "26522": {
     "作成者 <%sM_pc>": "Author: <%sM_pc>"
@@ -1074,13 +1074,13 @@
     "<speed=0>下のあなたの目的を　相手の目的と合わせますか？\n　大目的：<%sM_Purpose>\n　小目的：<%sM_Purpose2>\n<yesno><close>": "<speed=0>Match your goal with the other party's?\n　Main Goal: <%sM_Purpose>\n　Sub Goal: <%sM_Purpose2>\n<yesno><close>"
   },
   "27434": {
-    "<speed=0><%sM_pc>は　他のパーティに入っています。\n<%sM_pc>のパーティリーダー　<%sM_pc2>に\n仲間にならないか　提案しますか？<yesno><close>": ""
+    "<speed=0><%sM_pc>は　他のパーティに入っています。\n<%sM_pc>のパーティリーダー　<%sM_pc2>に\n仲間にならないか　提案しますか？<yesno><close>": "<speed=0><%sM_pc> is in another party. Suggest to\n<%sM_pc>, the party leader, that\n<%sM_pc2> join your party?<yesno><close>"
   },
   "27442": {
-    "<speed=0><%sM_syokugyou>の　バトル時の特技は\n覚えていない！": ""
+    "<speed=0><%sM_syokugyou>の　バトル時の特技は\n覚えていない！": "<speed=0><%sM_syokugyou> doesn't know any\nskills to use in battle!"
   },
   "27443": {
-    "<speed=0><%sM_syokugyou>の　通常時の呪文は\n覚えていない！": ""
+    "<speed=0><%sM_syokugyou>の　通常時の呪文は\n覚えていない！": "<speed=0><%sM_syokugyou> doesn't know any\nspells to use outside of battle!"
   },
   "27444": {
     "<speed=0><%sM_syokugyou>の　バトル時の呪文は\n覚えていない！": "<speed=0><%sM_syokugyou> doesn't know any\nspells to use in battle!"
@@ -1098,7 +1098,7 @@
     "位置を変更する\n呪文の１つ目を\n選んでください": "Select the spell\nyou'd like to\nmove."
   },
   "27568": {
-    "<speed=0>現在　受注しているクエストは　ありません。": ""
+    "<speed=0>現在　受注しているクエストは　ありません。": "<speed=0>There are currently no quests available."
   },
   "27571": {
     "<speed=0>条件に合う人が　見つかりませんでした。": "<speed=0>Found no players who matched given criteria."
@@ -1119,58 +1119,58 @@
     "<%sM_pc>は　別チームのため　誘えません。": "Couldn't invite <%sM_pc>.\nThey're already on a Team."
   },
   "27666": {
-    "<speed=0>この思い出アルバムには\n何も　保存されていません。": ""
+    "<speed=0>この思い出アルバムには\n何も　保存されていません。": "<speed=0>Nothing is saved in this photo album."
   },
   "27676": {
-    "<speed=0><%sM_image>を\n思い出アルバムから　削除しました。": ""
+    "<speed=0><%sM_image>を\n思い出アルバムから　削除しました。": "<speed=0>Deleted <%sM_image>\nfrom your photo album."
   },
   "27677": {
-    "<speed=0>思い出アルバムから　写真を削除しています。\nしばらく　お待ちください。<break>": ""
+    "<speed=0>思い出アルバムから　写真を削除しています。\nしばらく　お待ちください。<break>": "<speed=0>Deleting photos from your photo album.\nPlease wait.<break>"
   },
   "27678": {
     "<speed=0>操作を選んでください。\n<select_se_off>\nコメントを変更する\n絵葉書を書く\nロックを解除する\n<select_end>\n<close>": "<speed=0>Please select an option.\n<select_se_off>\nAdd a Comment\nWrite Postcard\nUnlock\n<select_end>\n<close>"
   },
   "27682": {
-    "<speed=0>写真のロックを　解除しますか？<yesno><close>": ""
+    "<speed=0>写真のロックを　解除しますか？<yesno><close>": "<speed=0>Unlock the photo?<yesno><close>"
   },
   "27683": {
     "<speed=0>入力した内容を取り消して　元にもどしますか？<yesno><close>": "<speed=0>Cancel any changes you've made?<yesno><close>"
   },
   "27684": {
-    "<speed=0>ひとことコメントを　変更しました。": ""
+    "<speed=0>ひとことコメントを　変更しました。": "<speed=0>Changed comment."
   },
   "27685": {
-    "<speed=0>写真を　ロックしました。\nロックできる枚数は　あと<%dM_lock>枚です。": ""
+    "<speed=0>写真を　ロックしました。\nロックできる枚数は　あと<%dM_lock>枚です。": "<speed=0>Photo locked. You can lock <%dM_lock> more\nphoto(s)."
   },
   "27686": {
-    "<speed=0>写真のロックを　解除しました。\nロックできる枚数は　あと<%dM_lock>枚です。": ""
+    "<speed=0>写真のロックを　解除しました。\nロックできる枚数は　あと<%dM_lock>枚です。": "<speed=0>Photo unlocked. You can lock <%dM_lock> more\nphoto(s)."
   },
   "27687": {
-    "<speed=0><%sM_image>は\nすでに削除されています。": ""
+    "<speed=0><%sM_image>は\nすでに削除されています。": "<speed=0><%sM_image>\nis already deleted."
   },
   "27688": {
-    "<speed=0><%sM_image>は\nロックされているため　削除できません。": ""
+    "<speed=0><%sM_image>は\nロックされているため　削除できません。": "<speed=0><%sM_image>\nis locked and cannot be deleted."
   },
   "27689": {
-    "<speed=0>ロックできる枚数が限界のため\nロックできません。別の写真のロックを\nはずしてから　もう一度　お試しください。": ""
+    "<speed=0>ロックできる枚数が限界のため\nロックできません。別の写真のロックを\nはずしてから　もう一度　お試しください。": "<speed=0>Cannot lock this photo as you are at the\nlocked photo limit. Unlock some and try again."
   },
   "27690": {
-    "<speed=0>通信エラーのため　変更ができませんでした。\nしばらく待ってから　もう一度　お試しください。\nエラーコード：<%sERRID>": ""
+    "<speed=0>通信エラーのため　変更ができませんでした。\nしばらく待ってから　もう一度　お試しください。\nエラーコード：<%sERRID>": "<speed=0>Change could not be made due to communication\nerror. Please wait for a while and try again.\nError Code: <%sERRID>"
   },
   "27691": {
-    "<speed=0>通信エラーのため　ロックができませんでした。\nしばらく待ってから　もう一度　お試しください。\nエラーコード：<%sERRID>": ""
+    "<speed=0>通信エラーのため　ロックができませんでした。\nしばらく待ってから　もう一度　お試しください。\nエラーコード：<%sERRID>": "<speed=0>Could not lock due to communication error.\nPlease wait for a while and try again.\nError Code: <%sERRID>"
   },
   "27692": {
-    "<speed=0>通信エラーのため　ロック解除できませんでした。\nしばらく待ってから　もう一度　お試しください。\nエラーコード：<%sERRID>": ""
+    "<speed=0>通信エラーのため　ロック解除できませんでした。\nしばらく待ってから　もう一度　お試しください。\nエラーコード：<%sERRID>": "<speed=0>Could not unlock due to communication error.\nPlease wait for a while and try again.\nError Code: <%sERRID>"
   },
   "27693": {
-    "<speed=0>通信エラーのため　写真を削除できませんでした。\nしばらく待ってから　もう一度　お試しください。\nエラーコード：<%sERRID>": ""
+    "<speed=0>通信エラーのため　写真を削除できませんでした。\nしばらく待ってから　もう一度　お試しください。\nエラーコード：<%sERRID>": "<speed=0>Could not delete photo due to communication\nerror. Please wait for a while and try again.\nError Code: <%sERRID>"
   },
   "27694": {
     "<speed=0>仲間募集中にすると　他のプレイヤーから\n「なかまをさがす」コマンドで　検索されるようになります。\n目的を　設定しなおしますか？<yesno><close>": "<speed=0>When seeking a party, others will be able to\nrecruit you with \"Party Search\". Do you want\nchange your Main Goal?<yesno><close>"
   },
   "27695": {
-    "<speed=0>仲間にさそい　相手の返事を待ちます。\n<%sM_pc2>を　仲間に　さそいますか？\n<yesno><close>": "Do you want to invite <%sM_pc2>\nto your party?\n<yesno><close>"
+    "<speed=0>仲間にさそい　相手の返事を待ちます。\n<%sM_pc2>を　仲間に　さそいますか？\n<yesno><close>": "<speed=0>Do you want to invite <%sM_pc2>\nto your party?\n<yesno><close>"
   },
   "27698": {
     "<speed=0>\n保護者同意の上での　フレンドの機能の利用を\n受け付けました。フレンドリストには\n最大200人まで　登録できます。\n<br>\n※フレンド登録するのは　実際に顔を知っている\n　リアル世界での友達だけにしましょう。\n<br>\nフレンドに誘うときは　先に　相手に\n誘ってもよいかを　確認してからにしましょう。\n相手からもＯＫされると　フレンドになります。\n<br>\n自分のフレンドリストから　キャラをはずすと\n相手のフレンドリストからも\n自分のキャラがはずれますので　ご注意ください。": "<speed=0>\nFriend list parental consent accepted.\nYour friends list can have up to 200 people\nregistered.\n<br>\nIf adding friends from real life, make sure\nyou actually know them face to face.\n<br>\nMake sure the person you're sending a request\nto is okay with it first. If they accept,\nyou'll be added to each other's friend lists.\n<br>\nPlease remember that if you remove a friend,\nyou will also be removed from their friend\nlist."
@@ -1191,7 +1191,7 @@
     "<speed=0>\nチームの　説明です！\n<br>\nチームとは　仲のよいプレイヤー同士が\n最大255名の　グループとなるための機能です。\n<br>\nチームに加入すると　どんな場所にいても\n複数のメンバーと　同時にチャットができたり\nチームエンブレムや　スローガンを共有できます。\n<br>\n目覚めし冒険者の広場には　チーム専用の\n掲示板があります。メンバーと　連絡を取ったり\n語らうことができます。https://hiroba.dqx.jp\n<br>\nチームに入らなくても　ゲームプレイに\n支障はありません。チームに\n入るか入らないかは　自由に判断してください。\n<br>\n一度　チームに入っても\nさくせんの　『チーム』から　いつでも\nチームを抜けることが　できます。": "<speed=0>\nThis will explain \"Team\"!\n<br>\nA Team is a function that allows players who\nare close to each other to form a group of up\nto 255 people.\n<br>\nWhen you join a team, you can chat with\nmultiple members at once and share team\nemblems and slogans, no matter where you are.\n<br>\nThere is a team-specific bulletin board in the\nAwakening Adventurer's Square. You can contact\nand talk with members. https://hiroba.dqx.jp\n<br>\nNot being on a team does not interfere with\ngame play. You are free to decide whether or\nnot to join the team.\n<br>\nOnce you are on a team, you can leave the team\nat any time from the \"Team\" menu in Misc."
   },
   "27730": {
-    "<speed=0>指定の条件で　同じマップのキャラを検索中です。\nしばらく　お待ちください……。\n（最大30秒ほどかかります。）<break>": ""
+    "<speed=0>指定の条件で　同じマップのキャラを検索中です。\nしばらく　お待ちください……。\n（最大30秒ほどかかります。）<break>": "<speed=0>Searching for characters on the same map using\nthe specified criteria. Please wait...\n(It can take up to 30 seconds.)<break>"
   },
   "27731": {
     "<speed=0>コマンドの配置を　初期状態に　戻しますか？\n<yesno 2><close>": "<speed=0>Set command order back to the default?\n<yesno 2><close>"
@@ -1236,16 +1236,16 @@
     "<speed=0><%sM_item>を　捧げますか？<yesno><close>": "<speed=0>Offer the <%sM_item>?<yesno><close>"
   },
   "27886": {
-    "<speed=0>便せんがないため　手紙を書けません。": ""
+    "<speed=0>便せんがないため　手紙を書けません。": "<speed=0>You can't write a letter because you don't\nhave any paper."
   },
   "27887": {
-    "<speed=0>手紙を　ロックしました。\nロックできる枚数は　あと<%dM_lock>枚です。": ""
+    "<speed=0>手紙を　ロックしました。\nロックできる枚数は　あと<%dM_lock>枚です。": "<speed=0>Letter locked. You can lock <%dM_lock> more\nletter(s)."
   },
   "27888": {
     "<speed=0>手紙のロックを　はずしました。\nロックできる枚数は　あと<%dM_lock>枚です。": "<speed=0>Letter unlocked. You can lock <%dM_lock> more\nletter(s)."
   },
   "27889": {
-    "<speed=0>ロックできる枚数が限界のため\nロックできません。別の手紙のロックを\nはずしてから　もう一度　お試しください。": "<speed=0>Cannot lock this letter as you are at the\nlocked letter limit. Unlock some and try\n again."
+    "<speed=0>ロックできる枚数が限界のため\nロックできません。別の手紙のロックを\nはずしてから　もう一度　お試しください。": "<speed=0>Cannot lock this letter as you are at the\nlocked letter limit. Unlock some and try\nagain."
   },
   "27890": {
     "<speed=0>自動で上書きされないように\n手紙を　ロックしますか？<yesno><close>": "<speed=0>Lock this letter to prevent it from being\noverwritten?<yesno><close>"
@@ -1275,13 +1275,13 @@
     "ゲーム画面を　表示する場所を\n『Wii U GamePad』に　変更しました。": "MAYBE YOU WILL SEE THIS...BUT PROBABLY NOT"
   },
   "27919": {
-    "ゲーム画面を　表示する場所を\n『テレビ』に　変更しました。": ""
+    "ゲーム画面を　表示する場所を\n『テレビ』に　変更しました。": "TRASH CONSOLE"
   },
   "28207": {
     "<speed=0>\n人から仲間に誘ってもらう方法の　説明です！\n<br>\n人から仲間に誘ってもらうためには　自分が\n仲間を探してることに　気づいてもらえるよう\n『いまどんな？設定』を『仲間募集中』にします。\n<br>\nやり方は　『さくせん』『いろいろ設定』以下で\n『いまどんな？設定』を選び\n『仲間募集中』のチェックをオンにしてください。\n<br>\n次は　自分がしたい『目的』の設定になります。\n『育てる』や『クエスト攻略』などの項目と\n全角20文字以内のコメントを　入力できます。\n<br>\nこれで　あなたは『なかまをさがす』コマンドで\n探される検索対象となります。同じ目的の人が\nあなたを　見つけだしてくれるのを待ちましょう。\n<br>\n仲間を探している人の　検索範囲は\n全世界　全サーバーが対象なので　誘われるのを\n待ってる人は　どこで待っても同じです。\n<br>\n誰かが　あなたを見つけてくれると　その人から\nパーティへの招待が届きます。仲間になる前は\nチャットできないので　無言での招待となります。\n<br>\n大丈夫そうだと思ったら　仲間に入ってください。\n仲間のルーラストーンは　使うことができます。\n互いに行ったことがある場所で　合流しましょう。\n<br>\nもし　相手が初対面の人なら\nちゃんと　あいさつするのを忘れずに。\nマナーを守って　楽しい　アストルティア生活を！": "<speed=0>\nThis will explain how to get people to invite\nyou join their party!\n<br>\nIn order for people to invite you to join\nthem, you must set your \"Status Icon\" to\n\"Seeking Party\" so they know you want one.\n<br>\nTo do this, go to \"Settings\" under \"Misc.\",\nthen select \"Status Icon\" and check \"Seeking\nParty\".\n<br>\nNext, set the \"Goal\" you want to achieve.\nYou can enter a goal like \"Leveling\" or \"Side\nQuest\" and a comment.\n<br>\nYou are now a search target for the \"Party\nSearch\" command. Wait for someone with the\nsame goal to find you.\n<br>\nThe search range for people looking for\ncompanions covers the entire world and all\nservers, so it doesn't matter where you wait.\n<br>\nIf someone finds you, you'll receive an invite\nto join their party. You can't chat before you\nbecome companions, so it's a silent invite.\n<br>\nIf you think it's okay, join the party. You\ncan use your companion's Zoomstone. Meet up at\na location where both of you have been.\n<br>\nIf you're meeting for the first time, don't\nforget to say hello! Use good manners and have\na fun time with your adventures in Astoltia!"
   },
   "28208": {
-    "ゲーム画面を\n表示する場所を\n切り替えます": ""
+    "ゲーム画面を\n表示する場所を\n切り替えます": "Wii Wii Wii\\nall the way\\nhome."
   },
   "28215": {
     "": ""
@@ -1296,7 +1296,7 @@
     "<speed=0>送った手紙の　記録がありません。": "<speed=0>You have no sent mail record."
   },
   "28243": {
-    "<speed=0>写真の情報を　取得できませんでした。\nせんれき画面から　もう一度　お試しください。": ""
+    "<speed=0>写真の情報を　取得できませんでした。\nせんれき画面から　もう一度　お試しください。": "<speed=0>Could not retrieve photo information. Please\ntry again from the Records screen."
   },
   "28312": {
     "なかまをさがすとは": "Party Search"
@@ -1320,25 +1320,25 @@
     "<speed=0>仲間を　探しています……。<break>": "<speed=0>Looking for members...<break>"
   },
   "28353": {
-    "<speed=0>返事のない　仲間がいます。\n返事があった仲間だけで　行きますか？<yesno 2><close>": ""
+    "<speed=0>返事のない　仲間がいます。\n返事があった仲間だけで　行きますか？<yesno 2><close>": "<speed=0>Some party members haven't replied.\nProceed only with those who have replied?<yesno><close>"
   },
   "28354": {
-    "<speed=0>魔法の迷宮への　さそいを　取り消しました。": ""
+    "<speed=0>魔法の迷宮への　さそいを　取り消しました。": "<speed=0>Canceled your invite to the Magic Maze."
   },
   "28355": {
-    "<speed=0>さそいを受けられない人がいます。\n一緒に行かない人は　ここで\n仲間からはずれますが　よろしいですか？<yesno 2><close>": ""
+    "<speed=0>さそいを受けられない人がいます。\n一緒に行かない人は　ここで\n仲間からはずれますが　よろしいですか？<yesno 2><close>": "<speed=0>Someone is unable to accept the invite.\nWould you like to proceed with those who\nare able to accept it?<yesno><close>"
   },
   "28356": {
     "<speed=0>誘った仲間が　そろいました。<break>": "<speed=0>Invited friends are gathered.<break>"
   },
   "28357": {
-    "<speed=0>今の仲間に　一緒に行こうと　誘いました。\n返事を待っています……。<break>": ""
+    "<speed=0>今の仲間に　一緒に行こうと　誘いました。\n返事を待っています……。<break>": "<speed=0>Invited your current party.\nWaiting for reply...<break>"
   },
   "28358": {
-    "<speed=0>魔法の迷宮への　誘いを　取り消しますか？<yesno><close>": ""
+    "<speed=0>魔法の迷宮への　誘いを　取り消しますか？<yesno><close>": "<speed=0>Cancel your invite to the Magic Maze?<yesno><close>"
   },
   "28393": {
-    "仲間探し中の他の\nプレイヤーが見る\n目的を変更します": ""
+    "仲間探し中の他の\nプレイヤーが見る\n目的を変更します": "Change the goal\nseen by others\nseeking party."
   },
   "28394": {
     "<speed=0>パーティを組んで　一緒に冒険してくれる\n仲間を探すには　『さくせん』の『なかま』から\n『なかまをさがす』を　使います。\n<br>\nすると『いまどんな？設定』が『仲間募集中』の\n世界中の冒険者を検索できます。職業や　レベル\n目的を選んで　自分に合う仲間を見つけましょう。\n<br>\n検索範囲は　全世界　全サーバーが対象なので\nどこで『なかまをさがす』をしても同じです。\n<color_yellow>※一部　ストーリー上の特定範囲を除きます。<color_white>\n<br>\n仲間にしたい人を見つけたら　誘ってみましょう。\n仲間になる前はチャットできませんが　相手も\n仲間を探している人なので　失礼にはなりません。\n<br>\n誘った相手が　仲間になってくれたら\n仲間のルーラストーンは　使うことができます。\n互いに行ったことがある場所で　合流しましょう。\n<br>\nもし　相手が初対面の人なら\nちゃんと　あいさつするのを忘れずに。\nマナーを守って　楽しい　アストルティア生活を！": "<speed=0>To form a party with others, you can use\nthe \"Find a Party\" command by using the \"Misc.\"\ncommand, and then \"Party\".\n<br>\nYou can search for other adventurers who\nhave the \"Seeking Party\" Status Icon set. Choose a\nvocation and the goals that you want to pursue.\n<br>\nThe search will cover all servers, so it doesn't matter\nwhere you search from.\n<color_yellow>*Some specific story areas are excluded.<color_white>\n<br>\nIf you find someone who matches your goals,\ninvite them!\n<br>\nYou'll be able to use your party member's Zoomstones,\nso you can meet up at a place you've both been to.\n<br>\nIf you're meeting for the first time, don't\nforget to say hello! Use good manners and have\na fun time with your adventures in Astoltia!"
@@ -1350,7 +1350,7 @@
     "<speed=0>今の仲間と　続けて\n別の魔法の迷宮に　行きますか？\n<color_yellow>※一緒に行けない場合もあります！<color_white><select>\nやめる\n続ける\n<select_end>\n<close>": "<speed=0>Would you like to continue through another\nMagic Maze with your party?\n<color_yellow>*There are some cases where you can't\ncontinue on!<color_white><select>\nStop\nContinue\n<select_end>\n<close>"
   },
   "28448": {
-    "<speed=0>仲間を　待っています……。<break>": ""
+    "<speed=0>仲間を　待っています……。<break>": "<speed=0>Waiting for party...<break>"
   },
   "28464": {
     "<speed=0>ここでは　冒険を中断できません！": "<speed=0>You can't log out here!"
@@ -1362,13 +1362,13 @@
     "<speed=0><%sM_pc>は　<%dM_gold>ゴールドを払い\n<%sM_item>を　手に入れた！\n<se_nots System 7>": "<speed=0><%sM_pc> paid <%dM_gold> Gold\nand received <%sM_item>!\n<se_nots System 7>"
   },
   "28617": {
-    "<speed=0>現在　選択できるボス討伐は　ありません。": ""
+    "<speed=0>現在　選択できるボス討伐は　ありません。": "<speed=0>There are currently no bosses to choose from."
   },
   "28618": {
-    "<speed=0>あなたは今　仲間モンスターを連れていないため\nマッチングを開始することができません。": ""
+    "<speed=0>あなたは今　仲間モンスターを連れていないため\nマッチングを開始することができません。": "<speed=0>You can't start matching because you don't\nhave any fellow monsters with you right now."
   },
   "28619": {
-    "<speed=0>なかまのさそいをうけるには\n指定のクエストを　受注しているか\n特定の状況まで　進めている必要があります。": ""
+    "<speed=0>なかまのさそいをうけるには\n指定のクエストを　受注しているか\n特定の状況まで　進めている必要があります。": "<speed=0>To receive a party invite, you must have\nreceived a specific quest or have progressed\nto a certain point."
   },
   "28620": {
     "<speed=0><%sM_owner>の　仲間モンスター\n<%sM_monster>を　なでなでしますか？\n<yesno 1><close>": "<speed=0>Do you want to stroke <%sM_owner>'s\nfellow monster <%sM_monster>?\n<yesno 1><close>"
@@ -1383,7 +1383,7 @@
     "<speed=0>サーバーが違うお招きのつばさは\n使用することができません！": "<speed=0>You can't use an Invitation Wing on a\ndifferent server!"
   },
   "28624": {
-    "<speed=0>お招きのつばさを使って　過去と現在を\n行き来することは　できません！": ""
+    "<speed=0>お招きのつばさを使って　過去と現在を\n行き来することは　できません！": "<speed=0>You cannot use the Invitation Wing to travel\nback and forth between the past and the\npresent!"
   },
   "28625": {
     "このクエストは期間が終了しているので\nリプレイすることはできません。": "This quest expired and cannot be replayed."
@@ -1425,10 +1425,10 @@
     "<speed=0>すごろくマッチングの誘いをうけるには\nカジノエリアにいる必要が　あります。": "<speed=0>To accept Sugoroku invitations, you need\nto be inside the Casino."
   },
   "28724": {
-    "<speed=0>あなたは　すごろく景品係ミミから\n受け取っていないアイテムがあるので\nこの先に　進むことができません。": ""
+    "<speed=0>あなたは　すごろく景品係ミミから\n受け取っていないアイテムがあるので\nこの先に　進むことができません。": "<speed=0>You cannot proceed because there are items\nthat you have not received from Sugoroku Prize\nClerk Mimi."
   },
   "28725": {
-    "<speed=0>あなたは今\nカジノプレイチケット３枚を　持っていないため\nこの先に　進むことができません。": ""
+    "<speed=0>あなたは今\nカジノプレイチケット３枚を　持っていないため\nこの先に　進むことができません。": "<speed=0>You cannot proceed because you do not have 3\ncasino play tickets."
   },
   "28743": {
     "<speed=0><%sM_item><%sM_plusnum>を　捨てますか？<yesno 2><close>": "<speed=0>Throw away <%sM_item><%sM_plusnum>? <yesno 2><close>"
@@ -1449,7 +1449,7 @@
     "<speed=0>ゴールドが　足りない！": "<speed=0>Not enough Gold!"
   },
   "28828": {
-    "<speed=0>仲間の誘いに　返事をしました。\n他の仲間がそろうのを　待っています……。<break>": ""
+    "<speed=0>仲間の誘いに　返事をしました。\n他の仲間がそろうのを　待っています……。<break>": "<speed=0>You replied to the party invite.\nWaiting for other members...<break>"
   },
   "28845": {
     "<speed=0><%sM_pc>は\n生きているので　おいのりできない！": "<speed=0><%sM_pc> is already alive!"
@@ -1458,7 +1458,7 @@
     "誰かが　近くで　青い宝箱を開けた！": "Someone opened a nearby Blue Chest!"
   },
   "29007": {
-    "<speed=0>どちらのさそいを　取り消しますか？\n<select_se_off>\nなかまのさそい\nフレンドのさそい\n<select_end>\n<break>": ""
+    "<speed=0>どちらのさそいを　取り消しますか？\n<select_se_off>\nなかまのさそい\nフレンドのさそい\n<select_end>\n<break>": "<speed=0>Which invitation would you like to cancel?\n<select_se_off>\nParty\nFriend\n<select_end>\n<break>"
   },
   "29013": {
     "返事がない。\nただの　しかばねのようだ……。": "There's no response.\nIt's just a corpse."
@@ -1491,7 +1491,7 @@
     "位置を変更する\n石の２つ目を\n選んでください": "Select the\nZoomstone to\nswap it with."
   },
   "29683": {
-    "<speed=0>いまは　<%sM_PTMember>を探せないようだ。\nしばらく時間をおいて\nもう一度　お試しください。": ""
+    "<speed=0>いまは　<%sM_PTMember>を探せないようだ。\nしばらく時間をおいて\nもう一度　お試しください。": "<speed=0>It seems you cannot find <%sM_PTMember> right\nnow."
   },
   "29702": {
     "<speed=0>パーティリーダーから　魔法の迷宮への\nさそいを受けましたが　魔法の迷宮へ行くための\n条件を　満たしていませんでした。<br>\n条件を満たすには　港町レンドアで受けられる\n『まほうのカギの仲間たち』を\n受ける必要があります。": "<speed=0>Could not receive the invitation to the Magic\nMaze since you do not meet the requirements.\n<br>\nYou must first complete the quest \"Magic Key\nCompanions\" which can be accepted in North\nPort Lendor from Ronde."
@@ -1509,13 +1509,13 @@
     "<speed=0>返事ができる　さそいが　ありませんでした。": "<speed=0>No invitation to reply to."
   },
   "29989": {
-    "<speed=0><%sM_pc>は　あと　<%dW_ADWAIT>分\nさそいを　受けられません。": ""
+    "<speed=0><%sM_pc>は　あと　<%dW_ADWAIT>分\nさそいを　受けられません。": "<speed=0><%sM_pc> cannot accept requests for\nanother <%dW_ADWAIT> minutes."
   },
   "30012": {
     "<speed=0>しかし　何も起こらなかった……。\nどうやら　町や城の中からでなければ\n返事が　届かないようだ。": "<speed=0>But nothing happened... It seems you have\nto be in a town or castle to get it to work."
   },
   "30013": {
-    "<speed=0>しかし　<pc>の返事は\n不思議なチカラで　かき消された。": "<speed=0>However, <pc>'s response\nwas stopped by a mysterious power."
+    "<speed=0>しかし　<pc>の返事は\n不思議なチカラで　かき消された。": "<speed=0>But <pc>'s reply was stopped by a\nmysterious power."
   },
   "30014": {
     "<speed=0>しかし　何も起こらなかった……。\nどうやら　空の見える場所でなければ\n返事が　届かないようだ。": "<speed=0>But nothing happened...it seems you need\na clear view of the sky to get it to work."
@@ -1527,10 +1527,10 @@
     "<speed=0>対象マップへの移動に　失敗しました。\n現在のプレイ環境では　公開されていないマップの\n可能性があります。<br>\nくわしくは「目覚めし冒険者の広場」の\nトピックスをご確認ください。\nhttp://sqex.to/trial_topics": "<speed=0>Failed to move to target map. It is possible\nthat the map is not publicly available in your\ncurrent playing environment.<br>\nFor more information, please see the\n\"Awakening Adventurer's Square\" topic.\nhttp://sqex.to/trial_topics"
   },
   "30209": {
-    "<%sM_pc>を　チームに誘うのに\n失敗しました。": ""
+    "<%sM_pc>を　チームに誘うのに\n失敗しました。": "Failed to invite <%sM_pc> to join the team."
   },
   "30214": {
-    "<speed=0>\nこのクエストを　チームの目標に設定できます。\n設定しますか？\n※目標は何度でも変更できます。\n<yesno><close>": ""
+    "<speed=0>\nこのクエストを　チームの目標に設定できます。\n設定しますか？\n※目標は何度でも変更できます。\n<yesno><close>": "<speed=0>\nDo you want to set this quest as a team goal?\n*Goals can be changed as often as you like.\n<yesno><close>"
   },
   "30215": {
     "<speed=0>他に所属メンバーがいないため\nチームは解散されます。\n本当に　チームを抜けても　よろしいですか？\n<yesno 2><close>": "<speed=0>Since there are no other members,\nthe Team will be disbanded.\nAre you absolutely sure?\n<yesno 2><close>"
@@ -1539,13 +1539,13 @@
     "<speed=0>自動的に　最近ログインしたメンバーの中から\n次のチームリーダーが選ばれます。\n本当に　チームを抜けても　よろしいですか？\n<yesno 2><close>": "<speed=0>If you leave the Team, a new leader will be\nrandomly chosen from the most recently logged\nin members. Is this okay?"
   },
   "30217": {
-    "<speed=0>チーム『<%sM_team>』から　抜け\nチームは解散された！": ""
+    "<speed=0>チーム『<%sM_team>』から　抜け\nチームは解散された！": "<speed=0>Left the '<%sM_team>' Team\nbecause the team disbanded!"
   },
   "30218": {
-    "<speed=0>チームユニフォームに　着替えますか？\n※見た目だけの変更になります。\n<yesno><close>": ""
+    "<speed=0>チームユニフォームに　着替えますか？\n※見た目だけの変更になります。\n<yesno><close>": "<speed=0>Change the team uniform?\n*This is a cosmetic change only.\n<yesno><close>"
   },
   "30219": {
-    "<speed=0>チームユニフォームに　着替えた！": ""
+    "<speed=0>チームユニフォームに　着替えた！": "<speed=0>Team Uniform was changed!"
   },
   "30220": {
     "<speed=0>チームユニフォームを　脱いだ！": "<speed=0>Team Uniform was removed!"
@@ -1554,10 +1554,10 @@
     "<speed=0>チームユニフォームを　脱ぎますか？\n<yesno><close>": "<speed=0>Take off the Team Uniform?\n<yesno><close>"
   },
   "30222": {
-    "<speed=0>チームが解散されたため　チームユニフォームの\n機能が使えません。": ""
+    "<speed=0>チームが解散されたため　チームユニフォームの\n機能が使えません。": "<speed=0>Team uniform feature not available because the\nteam has been disbanded."
   },
   "30223": {
-    "<speed=0>チームユニフォームの処理に失敗しました。\n時間を置いて　もう一度お試しください。": ""
+    "<speed=0>チームユニフォームの処理に失敗しました。\n時間を置いて　もう一度お試しください。": "<speed=0>Failed to process team uniform. Give it some\ntime and try again."
   },
   "30246": {
     "<speed=0>\n妖精の国で　「なかまをさがす」を行うと\n妖精の国にいる人だけを　リストアップします。": "<speed=0>\nIf you perform a \"Party Search\" in Fairy Land,\nonly those who are in Fairy Land will be\nlisted."
@@ -1578,7 +1578,7 @@
     "フレンドに\nなってくれる人を\n探している状態": "You're looking\nfor someone to\nbe your friend."
   },
   "30508": {
-    "<speed=0>『仲間募集中』にチェックすると\n『ひとりプレイ中』のチェックが\nはずれますが　よろしいですか？<yesno><close>": ""
+    "<speed=0>『仲間募集中』にチェックすると\n『ひとりプレイ中』のチェックが\nはずれますが　よろしいですか？<yesno><close>": "<speed=0>If you check \"Seeking Party\", \"Playing Alone\"\nwill be unchecked. Proceed?<yesno><close>"
   },
   "30509": {
     "<speed=0>『ひとりプレイ中』にチェックすると\n『仲間募集中』『いまヒマです』のチェックが\nはずれますが　よろしいですか？<yesno><close>": "<speed=0>If you check \"Playing Alone\", \"Seeking Party\" \nand \"Available\" will be unchecked. Proceed?<yesno><close>"
@@ -1608,7 +1608,7 @@
     "<speed=0>\n「通報する」は　禁止行為である　現実のお金での\nゲームデータの売買（ＲＭＴ）をしている\n疑いのあるプレイヤーを　通報するコマンドです。\n<br>\n不自然な名前のキャラ複数で　あやしい動きを\nしているなど　普通に遊んでいるようには見えない\nプレイヤーを見かけたら　通報をお願いします。\n<br>\n通報されたプレイヤーのキャラ情報は\nシステム側に記録され　通報されたプレイヤーは\n調査の対象となります。\n<br>\nあなたが通報したという記録は\nシステム側に残りますが　通報した相手には\n伝わりませんので　ご安心ください。\n<br>\nＲＭＴ以外の違反行為や　迷惑行為を受けたときは\n『さくせん』コマンドの『困ったときは？』から\n不具合・違反行為の報告を　お願いします。\n<br>\n「通報する」を活用して\n冒険者の皆さんで　過ごしやすい\nアストルティアにしていきましょう。": "<speed=0>\n\"Report\" is a command to report players who\nare suspected of trading game data for real\nmoney (RMT), which is a prohibited activity.\n<br>\nIf you see a player with abnormal behavior,\nlike multiple characters with unnatural names\nor suspicious movements, please report it.\n<br>\nThe character information of the reported\nplayer will be recorded, and the reported\nplayer will be a subject of an investigation.\n<br>\nThe system will keep a record of your report,\nbut the person you reported will not be\nnotified.\n<br>\nIf you experience any violation or nuisance\nother than RMT, please report it in \"Help?\"\nunder the \"Misc.\" command.\n<br>\nMake Astoltia a better place for all\nadventurers to live by using the \"Report\"\nfunction."
   },
   "30754": {
-    "<speed=0>パーティリーダーから　魔法の迷宮への\nさそいを受けましたが　この環境では\n制限されているため　行くことができません。": ""
+    "<speed=0>パーティリーダーから　魔法の迷宮への\nさそいを受けましたが　この環境では\n制限されているため　行くことができません。": "<speed=0>The party leader has invited you to go to the\nMagic Maze, but you can't because of the\nrestrictions in this environment."
   },
   "30952": {
     "<speed=0>仲間が　見つかりませんでした。\nサポート仲間だけのパーティになりますが\nもう一度　仲間を探しますか？\n<select>\nもう一度探す\nこのまま行く\n行くのをやめる\n<select_end>\n<close>": "<speed=0>Couldn't find party members. This is a party\nwith only support members. Search again?\n<select>\nSearch Again\nGo As Is\nStop Searching\n<select_end>\n<close>"
@@ -1662,7 +1662,7 @@
     "すでに　その組み合わせは　登録されています。": "That combination has already been registered."
   },
   "31359": {
-    "この「よみ」と「表記」を削除しますか？\nよみ：<%sM_phonetic>\n表記：<%sM_change_word>\n<yesno 2><close>": ""
+    "この「よみ」と「表記」を削除しますか？\nよみ：<%sM_phonetic>\n表記：<%sM_change_word>\n<yesno 2><close>": "Remove this \"Read\" and \"Write\"?\nRead: <%sM_phonetic>\nWrite: <%sM_change_word>\n<yesno 2><close>"
   },
   "31364": {
     "<speed=0>サブリーダー権限を　失ったため\n処理に　失敗しました。": "<speed=0>Process failed due to loss of Sub Leader\nprivileges."
@@ -1761,7 +1761,7 @@
     "<speed=0>\n『単語登録』の　説明です！\n「よみ」と「表記」を設定し　自分が\nよく使う単語を　登録することができます。\n<br>\n「よみ」は　ひらがなで　8文字まで。\n「表記」も　8文字までで　1プレイヤーにつき\n最大100件の単語を　登録できます。\n<br>\n『単語登録』は　ゲームプレイ環境に保存するため\n違う機械で遊ぶ場合　登録した単語は使えません。\n再インストール時には　登録データは消滅します。": "<speed=0>\nThis will explain \"Word Entry\"!\nYou can set \"Read\" and \"Write\" to register\nwords that you use frequently.\n<br>\n\"Read\" is limited to 8 characters in hiragana.\n\"Write\" is also limited to 8 characters, and\nup to 100 words can be registered per player.\n<br>\n\"Word Entry\" is saved locally, so registered\nwords cannot be used when playing on another\nmachine and are also lost upon reinstallation."
   },
   "32033": {
-    "<speed=0>\n単語登録に失敗しました。": ""
+    "<speed=0>\n単語登録に失敗しました。": "<speed=0>\nWord registration failed."
   },
   "32092": {
     "<speed=0>いまは　だれも　さそっていません。": "<speed=0>You have no invitations to cancel."
@@ -1788,7 +1788,7 @@
     "<speed=0>ここでは　<%sM_action>は　使えない！": "<speed=0>You can't use <%sM_action> here!"
   },
   "32205": {
-    "<speed=0><%sM_action>は　この戦闘では\nもう使えない！": "<%sM_action> can no longer be used\nin this battle!"
+    "<speed=0><%sM_action>は　この戦闘では\nもう使えない！": "<speed=0><%sM_action> can no longer be used\nin this battle!"
   },
   "32206": {
     "<speed=0>スカウトできる　モンスターが　いない！": "<speed=0>There are no monsters that can be scouted!"
@@ -1812,7 +1812,7 @@
     "<speed=0>\n絵葉書用便せんがないため\n絵葉書を書くことが　できません。\n便せんは　便せん屋で買うことができます。": "<speed=0>\nYou don't have any paper to write a postcard\nwith. You can purchase some at a Paper Shop."
   },
   "32315": {
-    "単語のよみと\n表記を組み合わせ\n辞書に登録します": ""
+    "単語のよみと\n表記を組み合わせ\n辞書に登録します": "Register spelling\nand pronunciation\nof a word."
   },
   "32327": {
     "<speed=0>この先に　進めませんでした。": "<speed=0>Couldn't go any further."
@@ -1863,7 +1863,7 @@
     "<speed=0>パーティ同盟の　さそいを受けましたが\n条件を　満たしていませんでした。<br>\n条件を満たすには　落陽の草原で受けられる\nクエスト『闇に眠りし王』を\n受ける必要があります。": "<speed=0>Could not join the party alliance since you\ndo not meet the requirements.<br>\nTo accept, please accept the quest \"Sleeping King\nin the Darkness\" in the Sunset Meadow."
   },
   "32362": {
-    "<speed=0>変更内容の保存に　失敗しました。\nしばらく時間を空けてから\nもう一度　やり直してください。": ""
+    "<speed=0>変更内容の保存に　失敗しました。\nしばらく時間を空けてから\nもう一度　やり直してください。": "<speed=0>Failed to save changes. Please wait for a\nwhile and try again."
   },
   "32489": {
     "<speed=0>パーティリーダーのサーバーに　移動しますか？<yesno><close>": "<speed=0>Move to party leader's server?<yesno><close>"
@@ -1905,7 +1905,7 @@
     "<speed=0><%sM_pc>のパーティを\nパーティ同盟相手として　さそいますか？\n<yesno><close>": "<speed=0>Invite <%sM_pc>'s party to\na party alliance?\n<yesno><close>"
   },
   "32928": {
-    "<speed=0>この場所では　単語登録はできません。\n町や　ハウジングエリアなど\n安全な場所で　書いてください。": ""
+    "<speed=0>この場所では　単語登録はできません。\n町や　ハウジングエリアなど\n安全な場所で　書いてください。": "<speed=0>You cannot register words at this location.\nWrite in a safe place, such as a town or\nhousing area."
   },
   "33137": {
     "<speed=0>すでに　チームが解散したため\n無効なさそいに　なりました。": "<speed=0>Request invalid because Team has already\ndisbanded."
@@ -1920,7 +1920,7 @@
     "この写真を絵葉書にして　よろしいですか？<yesno><close>": "Make a postcard with this photo?<yesno><close>"
   },
   "33239": {
-    "<speed=0>通信エラーのため　書き込みができませんでした。\nしばらく待ってから　もう一度　お試しください。": ""
+    "<speed=0>通信エラーのため　書き込みができませんでした。\nしばらく待ってから　もう一度　お試しください。": "<speed=0>Could not write due to a communication error.\nPlease wait for a while and try again."
   },
   "33240": {
     "<speed=0>「サーバー移動」が　実行できませんでした。": "<speed=0>\"Move Server\" could not be executed."
@@ -1968,7 +1968,7 @@
     "<speed=0>パーティリーダーではないため\nこの先の戦いには　挑めないようだ。": "<speed=0>Since you are not the party leader, you\ncannot proceed to the next battle."
   },
   "33323": {
-    "<speed=0>対象が離れすぎているか　条件があわないため\nパーティ同盟相手が　見つかりませんでした。": ""
+    "<speed=0>対象が離れすぎているか　条件があわないため\nパーティ同盟相手が　見つかりませんでした。": "<speed=0>Party alliance members couldn't be found due\nto being too far away or the conditions not\nbeing met."
   },
   "33405": {
     "<speed=0><%sM_action>ができる相手が　いません。": "<speed=0>No one to use <%sM_action> on now."
@@ -2085,7 +2085,7 @@
     "<speed=0>チーム検索設定を　変更しました！": "<speed=0>Team search settings were saved!"
   },
   "34816": {
-    "<speed=0>別のプレイヤーによって　設定が変更されたため\n編集した内容が　反映できませんでした。": ""
+    "<speed=0>別のプレイヤーによって　設定が変更されたため\n編集した内容が　反映できませんでした。": "<speed=0>The edited settings could not be reflected\nbecause they were changed by another player."
   },
   "34817": {
     "<speed=0>チーム検索設定を　変更してもよろしいですか？\n<yesno><close>": "<speed=0>Save changes to Team search settings?\n<yesno><close>"
@@ -2103,7 +2103,7 @@
     "仲間モンスターの\n装備やスキルを\n設定します": "Set equipment\nand skills of\nfellow monsters."
   },
   "35110": {
-    "<%sM_pc>から　すでに入隊希望を　受けています。\nさくせんのチームから『入隊希望をみる』を\nご確認ください。": ""
+    "<%sM_pc>から　すでに入隊希望を　受けています。\nさくせんのチームから『入隊希望をみる』を\nご確認ください。": "Already received a request to join from\n<%sM_pc>. Please check \"View Requests\"\nfrom Team in the Misc. menu."
   },
   "35116": {
     "<speed=0><%sM_pc>の　チーム加入を断って\nよろしいですか？\n<yesno2><close>": "<speed=0><%sM_pc> will not join the Team.\nIs this okay?\n<yesno2><close>"
@@ -2160,7 +2160,7 @@
     "進行状況⇒ (1)災厄の王討伐前": "Progress⇒ (1)Before defeating King of Calamity"
   },
   "36006": {
-    "<speed=0>コロシアムから出るのを　やめますか？<yesno><close>": ""
+    "<speed=0>コロシアムから出るのを　やめますか？<yesno><close>": "<speed=0>Stop leaving the Coliseum?<yesno><close>"
   },
   "36018": {
     "<%sC_PC2>が　コロシアムの誘いを\nキャンセルしました。": "<%sC_PC2>'s Coliseum invitation has\nbeen cancelled."
@@ -2169,19 +2169,19 @@
     "返事がない仲間がいたため\nコロシアムのさそいが　キャンセルされました。": "The Coliseum invitation was cancelled due to\na member not accepting."
   },
   "36020": {
-    "<%sC_PC2>から　対戦相手指定への\n返事がありませんでした。": ""
+    "<%sC_PC2>から　対戦相手指定への\n返事がありませんでした。": "<%sC_PC2> did not respond to the request\nfor opponent designation."
   },
   "36021": {
-    "<%sC_PC2>への　対戦相手指定が\n断られました。": ""
+    "<%sC_PC2>への　対戦相手指定が\n断られました。": "Request to designate <%sC_PC2> as an\nopponent was declined."
   },
   "36022": {
     "対戦相手指定を　キャンセルしますか？\n<yesno2><close>": "Do you want to cancel matching?\n<yesno2><close>"
   },
   "36023": {
-    "バトルに　参加できない人がいます。\nエントリーを継続すると　参加できない人は\nパーティから　はずれますが　よろしいですか？\n<yesno2><close>": ""
+    "バトルに　参加できない人がいます。\nエントリーを継続すると　参加できない人は\nパーティから　はずれますが　よろしいですか？\n<yesno2><close>": "Some people cannot participate in the battle.\nIf you continue to enter, those who cannot\nparticipate will be removed from the party.\n<br>\nIs that okay?\n<yesno2><close>"
   },
   "36024": {
-    "コロシアムバトルの準備に\n時間が　かかっています。\n引き続き　準備を継続しますか？\n<yesno><close>": ""
+    "コロシアムバトルの準備に\n時間が　かかっています。\n引き続き　準備を継続しますか？\n<yesno><close>": "Coliseum battle preparation is taking a lot of\ntime. Continue with the preparation?\n<yesno><close>"
   },
   "36025": {
     "エントリーを　キャンセルしました。": "Your entry was cancelled."
@@ -2193,16 +2193,16 @@
     "コロシアムに　行けないメンバーがいるため\nエントリーが　キャンセルされました。": "Entry was cancelled due to some members\nnot being able to enter the Coliseum."
   },
   "36030": {
-    "コロシアムバトルの準備に　失敗しました。\nお手数ですが　しばらく時間をあけてから\nもう一度　やり直してください。": ""
+    "コロシアムバトルの準備に　失敗しました。\nお手数ですが　しばらく時間をあけてから\nもう一度　やり直してください。": "Coliseum battle preparation failed. We\napologize for the inconvenience, but please\nwait a while and try again."
   },
   "36041": {
-    "メンテナンス中になったため　コロシアムを\n利用することができません。\nメンテナンス終了まで　お待ちください。": ""
+    "メンテナンス中になったため　コロシアムを\n利用することができません。\nメンテナンス終了まで　お待ちください。": "The Colosseum cannot be used because it is\nundergoing maintenance. Please wait until the\nmaintenance is complete."
   },
   "36044": {
     "ドルボードの\n各種設定をします": "Configure\ndolboard\nsettings."
   },
   "36046": {
-    "<speed=0>このマップから出るのを　やめますか？<yesno><close>": ""
+    "<speed=0>このマップから出るのを　やめますか？<yesno><close>": "<speed=0>Cancel leaving this map?<yesno><close>"
   },
   "36047": {
     "<speed=0><%sM_pc>の　チーム勧誘の受信数が\n上限に達しています。\n時間を置いて　もう一度お試しください。": ""
