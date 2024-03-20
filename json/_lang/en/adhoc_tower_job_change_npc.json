@@ -1,104 +1,104 @@
 {
   "120953": {
-    "「私は　転職をつかさどる　ダーマの神殿\n　……の元柱だった身。職業を変えたいならば\n　お役に立とう。\n<br>\n「ただし　塔の中では　転職後の職業に　\n　レベルは引き継がれ　スキルはリセットされる。\n　注意してくれ。さて……　何を希望されるかな？\n<select_se_off>\n転職する\n説明を聞く\n<select_end>\n<break>": "「私は　転職をつかさどる　ダーマの神殿\n　……の元柱だった身。職業を変えたいならば\n　お役に立とう。\n<br>\n「ただし　塔の中では　転職後の職業に　\n　レベルは引き継がれ　スキルはリセットされる。\n　注意してくれ。さて……　何を希望されるかな？\n<select_se_off>\n転職する\n説明を聞く\n<select_end>\n<break>"
+    "「私は　転職をつかさどる　ダーマの神殿\n　……の元柱だった身。職業を変えたいならば\n　お役に立とう。\n<br>\n「ただし　塔の中では　転職後の職業に　\n　レベルは引き継がれ　スキルはリセットされる。\n　注意してくれ。さて……　何を希望されるかな？\n<select_se_off>\n転職する\n説明を聞く\n<select_end>\n<break>": "I am the former pillar of Alltrades Abbey...\nin charge of changing vocations. If you want\nto change your vocation, I can help you.\n<br>\nHowever, in the tower, your level will be\ntransferred to your new vocation, and your\nskills will be reset. Be careful. Now...\n<br>\nWhat would you like to do?\n<select_se_off>\nChange Vocation\nExplanation\n<select_end>\n<break>"
   },
   "120954": {
-    "「ここは　転職をつかさどる\n　ダーマの神殿　出張所。\n　職業を変えたい者が　来る所だ。\n<bw_break>": "「ここは　転職をつかさどる\n　ダーマの神殿　出張所。\n　職業を変えたい者が　来る所だ。\n<bw_break>"
+    "「ここは　転職をつかさどる\n　ダーマの神殿　出張所。\n　職業を変えたい者が　来る所だ。\n<bw_break>": "This is the Alltrades Abbey office, which\nhandles vocation changes. This is the place\nwhere people come to change vocations.\n<bw_break>"
   },
   "120955": {
-    "「そういえば　モンスター牧場に\n　空きがあるようだが　連れていた\n　<%sM_monster>は　そちらに送っておくか？\n<yesno><break>": "「そういえば　モンスター牧場に\n　空きがあるようだが　連れていた\n　<%sM_monster>は　そちらに送っておくか？\n<yesno><break>"
+    "「そういえば　モンスター牧場に\n　空きがあるようだが　連れていた\n　<%sM_monster>は　そちらに送っておくか？\n<yesno><break>": "By the way, it seems that there is a vacancy\nat the Monster Farm, but should I send the\n<%sM_monster> that you are\naccompanying over there?\n<yesno><break>"
   },
   "120956": {
-    "「おや？　レベル<%nM_maxlv>に　到達しているぞ。\n　送っても　これ以上　経験値は入らぬが\n　よろしいか？\n<yesno><break> ": "「おや？　レベル<%nM_maxlv>に　到達しているぞ。\n　送っても　これ以上　経験値は入らぬが\n　よろしいか？\n<yesno><break> "
+    "「おや？　レベル<%nM_maxlv>に　到達しているぞ。\n　送っても　これ以上　経験値は入らぬが\n　よろしいか？\n<yesno><break> ": "Hmm? You've reached level <%dM_maxlv>. You\nwon't get any more experience if I send you\nback, is that all right?\n<yesno><break>"
   },
   "120957": {
-    "「……む？\n　モンスター牧場で　受け取れる経験値が\n　あるようだな。\n<br>\n「モンスター牧場に送るには\n　先に　経験値を受け取っておく必要がある。\n<br>\n「連れていた　<%sM_monster>は　モンスター酒場で\n　預かっておくので　経験値を獲得してから\n　もう一度　手続きをするがよい。\n<end>": "「……む？\n　モンスター牧場で　受け取れる経験値が\n　あるようだな。\n<br>\n「モンスター牧場に送るには\n　先に　経験値を受け取っておく必要がある。\n<br>\n「連れていた　<%sM_monster>は　モンスター酒場で\n　預かっておくので　経験値を獲得してから\n　もう一度　手続きをするがよい。\n<end>"
+    "「……む？\n　モンスター牧場で　受け取れる経験値が\n　あるようだな。\n<br>\n「モンスター牧場に送るには\n　先に　経験値を受け取っておく必要がある。\n<br>\n「連れていた　<%sM_monster>は　モンスター酒場で\n　預かっておくので　経験値を獲得してから\n　もう一度　手続きをするがよい。\n<end>": "Hmm? It looks like there is experience to be\nreceived at the Monster Farm. You need to\nreceive the experience before you can send it\n<br>\nto the Monster Tavern. You can keep your\n<%sM_monster> with you at the Monster Tavern,\nso you can go through the process again after\n<br>\nyou get the experience.\n<end>"
   },
   "120958": {
-    "<color_yellow>つれている　<%sM_monster>は\nモンスター牧場に送られました！": "<color_yellow>つれている　<%sM_monster>は\nモンスター牧場に送られました！"
+    "<color_yellow>つれている　<%sM_monster>は\nモンスター牧場に送られました！": "<color_yellow>The <%sM_monster> being carried\nwas sent to the monster farm!"
   },
   "120959": {
-    "「何を　希望されるかな？\n<select_se_off>\n転職する\n説明を聞く\n<select_end>\n<break>": "「何を　希望されるかな？\n<select_se_off>\n転職する\n説明を聞く\n<select_end>\n<break>"
+    "「何を　希望されるかな？\n<select_se_off>\n転職する\n説明を聞く\n<select_end>\n<break>": "What would you like?\n<select_se_off>\nChange Vocation\nExplanation\n<select_end>\n<break>"
   },
   "120960": {
-    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。まず　最初に\n　新たな能力に　目覚めることだろう。\n<br>\n<%sM_self>は\nスカウトアタック（専）の特技を　おぼえた！\n<se_nots System 17>\n<br>\n「その特技は　モンスターを仲間にする際に\n　欠かせないもの。仲間にしたいモンスターには\n　その　スカウトアタックを使うのだ。\n<br>\n「スカウトアタックを使った後　その戦闘に勝てば\n　相手が起き上がり　仲間になることがある。\n　律儀に　その技で　とどめをさす必要はないぞ。\n<bw_break>": "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。まず　最初に\n　新たな能力に　目覚めることだろう。\n<br>\n<%sM_self>は\nスカウトアタック（専）の特技を　おぼえた！\n<se_nots System 17>\n<br>\n「その特技は　モンスターを仲間にする際に\n　欠かせないもの。仲間にしたいモンスターには\n　その　スカウトアタックを使うのだ。\n<br>\n「スカウトアタックを使った後　その戦闘に勝てば\n　相手が起き上がり　仲間になることがある。\n　律儀に　その技で　とどめをさす必要はないぞ。\n<bw_break>"
+    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。まず　最初に\n　新たな能力に　目覚めることだろう。\n<br>\n<%sM_self>は\nスカウトアタック（専）の特技を　おぼえた！\n<se_nots System 17>\n<br>\n「その特技は　モンスターを仲間にする際に\n　欠かせないもの。仲間にしたいモンスターには\n　その　スカウトアタックを使うのだ。\n<br>\n「スカウトアタックを使った後　その戦闘に勝てば\n　相手が起き上がり　仲間になることがある。\n　律儀に　その技で　とどめをさす必要はないぞ。\n<bw_break>": "Good. From here on, you will go forth as a\n<%sM_new_syokugyou>. First, you will learn this\nnew ability.\n<br>\n<%sM_self> learned Scout Attack!\n<se_nots System 17>\n<br>\nThis is an essential skill that you will need\nwhen trying to scout monsters. Make sure to\nuse it on a monster you want to join you.\n<br>\nIf you win the battle after using it, the\nmonster may wish to join you. Scout Attack\nalso doesn't need to deal the finishing blow.\n<bw_break>"
   },
   "120961": {
-    "「ただし　スカウトアタックを使うためには\n　仲間にしたいモンスターの名前が付いた\n　『スカウトの書』を　読む必要がある。\n<br>\n「必ず　スカウトの書を読んでから\n　そのモンスターを　仲間にしにいくのだぞ。\n　スカウトの書は　酒場の地下でも買えるからな。\n<bw_break>": "「ただし　スカウトアタックを使うためには\n　仲間にしたいモンスターの名前が付いた\n　『スカウトの書』を　読む必要がある。\n<br>\n「必ず　スカウトの書を読んでから\n　そのモンスターを　仲間にしにいくのだぞ。\n　スカウトの書は　酒場の地下でも買えるからな。\n<bw_break>"
+    "「ただし　スカウトアタックを使うためには\n　仲間にしたいモンスターの名前が付いた\n　『スカウトの書』を　読む必要がある。\n<br>\n「必ず　スカウトの書を読んでから\n　そのモンスターを　仲間にしにいくのだぞ。\n　スカウトの書は　酒場の地下でも買えるからな。\n<bw_break>": "However, before you can use Scout Attack, you\nmust first read a scouting book, which has\nthe name of the monster you desire.\n<br>\nAfter reading it, you will be able to use\nScout Attack against it.\n<br>\nScouting books can be bought in the\nbasement of any tavern.\n<bw_break>"
   },
   "120962": {
-    "「もっと　くわしい話は　酒場の地下にある\n　モンスター酒場で聞けるぞ。\n　何か困ったら　そちらをたずねてみてくれ。\n<br>\n「では　くれぐれも　スカウトの書を読むことを\n　忘れるなよ。それから　装備の見直しも\n　おこたらぬようにな。さあ　行くがよい。": "「もっと　くわしい話は　酒場の地下にある\n　モンスター酒場で聞けるぞ。\n　何か困ったら　そちらをたずねてみてくれ。\n<br>\n「では　くれぐれも　スカウトの書を読むことを\n　忘れるなよ。それから　装備の見直しも\n　おこたらぬようにな。さあ　行くがよい。"
+    "「もっと　くわしい話は　酒場の地下にある\n　モンスター酒場で聞けるぞ。\n　何か困ったら　そちらをたずねてみてくれ。\n<br>\n「では　くれぐれも　スカウトの書を読むことを\n　忘れるなよ。それから　装備の見直しも\n　おこたらぬようにな。さあ　行くがよい。": "For more information, visit the Monster Tavern\nin the basement of the tavern. If you need\nhelp, ask there. And don't forget to read the\n<br>\nScout's Book. And don't forget to review your\nequipment. Now, off you go."
   },
   "120963": {
-    "「モンスターを仲間にする際には\n　先ほど覚えた　スカウトアタックという\n　<%sM_new_syokugyou>専用の特技を使うのだ。\n<br>\n「スカウトアタックを使った後　その戦闘に勝てば\n　相手が起き上がり　仲間になることがある。\n　律儀に　その技で　とどめをさす必要はないぞ。\n<bw_break>": "「モンスターを仲間にする際には\n　先ほど覚えた　スカウトアタックという\n　<%sM_new_syokugyou>専用の特技を使うのだ。\n<br>\n「スカウトアタックを使った後　その戦闘に勝てば\n　相手が起き上がり　仲間になることがある。\n　律儀に　その技で　とどめをさす必要はないぞ。\n<bw_break>"
+    "「モンスターを仲間にする際には\n　先ほど覚えた　スカウトアタックという\n　<%sM_new_syokugyou>専用の特技を使うのだ。\n<br>\n「スカウトアタックを使った後　その戦闘に勝てば\n　相手が起き上がり　仲間になることがある。\n　律儀に　その技で　とどめをさす必要はないぞ。\n<bw_break>": "To companion a monster, use the\n<%sM_new_syokugyou> skill called Scout Strike\nthat you just learned. You don't have to use\n<br>\nthe Scout Strike to finish the fight.\n<bw_break>"
   },
   "120964": {
-    "「私からの説明は　以上だが\n　もう一度　聞くかね？\n<yesno><close>": "「私からの説明は　以上だが\n　もう一度　聞くかね？\n<yesno><close>"
+    "「私からの説明は　以上だが\n　もう一度　聞くかね？\n<yesno><close>": "That's all I have to say, but would you like\nto hear it again?\n<yesno><close>"
   },
   "120965": {
-    "<color_yellow>つれている　<%sM_monster>は\nモンスター酒場に送られました！": "<color_yellow>つれている　<%sM_monster>は\nモンスター酒場に送られました！"
+    "<color_yellow>つれている　<%sM_monster>は\nモンスター酒場に送られました！": "<color_yellow>The <%sM_monster> was sent to\nMonster Tavern!"
   },
   "120966": {
-    "「<%sM_new_syokugyou>に転職すると\n　まだ　なついていない　<%sM_monster>は\n　モンスター酒場に送られるが　よろしいか？\n<yesno><close>": "「<%sM_new_syokugyou>に転職すると\n　まだ　なついていない　<%sM_monster>は\n　モンスター酒場に送られるが　よろしいか？\n<yesno><close>"
+    "「<%sM_new_syokugyou>に転職すると\n　まだ　なついていない　<%sM_monster>は\n　モンスター酒場に送られるが　よろしいか？\n<yesno><close>": "If I move to <%sM_new_syokugyou>,\n<%sM_monster> who is not yet attached will be\nsent to Monster Tavern, is that OK?\n<yesno><close>"
   },
   "120967": {
-    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。まず　最初に\n　新たな能力に　目覚めることだろう。\n<br>\n<%sM_self>は\nスカウトアタック（専）の特技を　おぼえた！\n<se_nots System 17>\n<br>\n「スカウトアタックは　まもの使い　どうぐ使いで\n　同様の特技だが　対象となるモンスターは\n　それぞれ異なるのだ。\n<br>\n「職業に合った　スカウトの書を読んでから\n　仲間にしにいくのだぞ。\n　スカウトの書は　酒場の地下でも買えるからな。\n<br>\n「新たな職業となり　装備も変わっているだろう。\n　見直しを　おこたらぬようにな。\n　さあ　行くがよい。\n<end>": "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。まず　最初に\n　新たな能力に　目覚めることだろう。\n<br>\n<%sM_self>は\nスカウトアタック（専）の特技を　おぼえた！\n<se_nots System 17>\n<br>\n「スカウトアタックは　まもの使い　どうぐ使いで\n　同様の特技だが　対象となるモンスターは\n　それぞれ異なるのだ。\n<br>\n「職業に合った　スカウトの書を読んでから\n　仲間にしにいくのだぞ。\n　スカウトの書は　酒場の地下でも買えるからな。\n<br>\n「新たな職業となり　装備も変わっているだろう。\n　見直しを　おこたらぬようにな。\n　さあ　行くがよい。\n<end>"
+    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。まず　最初に\n　新たな能力に　目覚めることだろう。\n<br>\n<%sM_self>は\nスカウトアタック（専）の特技を　おぼえた！\n<se_nots System 17>\n<br>\n「スカウトアタックは　まもの使い　どうぐ使いで\n　同様の特技だが　対象となるモンスターは\n　それぞれ異なるのだ。\n<br>\n「職業に合った　スカウトの書を読んでから\n　仲間にしにいくのだぞ。\n　スカウトの書は　酒場の地下でも買えるからな。\n<br>\n「新たな職業となり　装備も変わっているだろう。\n　見直しを　おこたらぬようにな。\n　さあ　行くがよい。\n<end>": "Good. From now on, you will live as\n<%sM_new_syokugyou>. The first thing you need\nto do is wake up to a new ability...\n<br>\n<%sM_self> has learned the Scout Attack feat!\n<se_nots System 17>\n<br>\nScouting attacks are similar for Monster\nMasters and Item Masters, but they target\ndifferent monsters.\n<br>\nYou'll need to read the Scout Book for your\nvocation before you can take them on. Scout\nbooks can be purchased in the basement of any\n<br>\ntavern. You'll have a new vocation with\ndifferent equipment. Don't forget to review\nit. Let's go.\n<end>"
   },
   "120968": {
-    "「この中では　外とは違い　呪文や特技を\n　別の職業に　引き継ぐことは出来ない。\n　転職後に　スキルポイントはリセットされるぞ。\n<br>\n「レベルは　転職後の職業に\n　引き継がれるので　新しい職業にて\n　スキルポイントを　振り直おすとよかろう。\n<end>": "「この中では　外とは違い　呪文や特技を\n　別の職業に　引き継ぐことは出来ない。\n　転職後に　スキルポイントはリセットされるぞ。\n<br>\n「レベルは　転職後の職業に\n　引き継がれるので　新しい職業にて\n　スキルポイントを　振り直おすとよかろう。\n<end>"
+    "「この中では　外とは違い　呪文や特技を\n　別の職業に　引き継ぐことは出来ない。\n　転職後に　スキルポイントはリセットされるぞ。\n<br>\n「レベルは　転職後の職業に\n　引き継がれるので　新しい職業にて\n　スキルポイントを　振り直おすとよかろう。\n<end>": "Unlike outside, spells and skills cannot be\ntransferred from one vocation to another.\nSkill points are reset after changing\n<br>\nvocations. You can reallocate your skill\npoints to the new vocation.\n<end>"
   },
   "120969": {
-    "「何について　知りたいのだ？\n<select_se_off>\n魔塔内での転職について\nスキルポイントについて\n<select_end>\n<break>": "「何について　知りたいのだ？\n<select_se_off>\n魔塔内での転職について\nスキルポイントについて\n<select_end>\n<break>"
+    "「何について　知りたいのだ？\n<select_se_off>\n魔塔内での転職について\nスキルポイントについて\n<select_end>\n<break>": "What do you want to know about?\n<select_se_off>\nAbout changing vocations in Tower\nAbout Skill Points\n<select_end>\n<break>"
   },
   "120970": {
-    "「スキルポイントは　本来　レベル２以上から\n　授かるものだが　この塔の中にはいると\n　すぐに　１００Ｐを授かることができる。\n<br>\n「塔に入ったら　まずは　スキルポイントを振り\n　おのれを強化すると　よかろう。\n<br>\n「また　この塔の中では　いつでも\n　スキルポイントの　上げ下げが可能だ。\n　状況にあわせて　振り直すのも　いいだろう。\n<end>": "「スキルポイントは　本来　レベル２以上から\n　授かるものだが　この塔の中にはいると\n　すぐに　１００Ｐを授かることができる。\n<br>\n「塔に入ったら　まずは　スキルポイントを振り\n　おのれを強化すると　よかろう。\n<br>\n「また　この塔の中では　いつでも\n　スキルポイントの　上げ下げが可能だ。\n　状況にあわせて　振り直すのも　いいだろう。\n<end>"
+    "「スキルポイントは　本来　レベル２以上から\n　授かるものだが　この塔の中にはいると\n　すぐに　１００Ｐを授かることができる。\n<br>\n「塔に入ったら　まずは　スキルポイントを振り\n　おのれを強化すると　よかろう。\n<br>\n「また　この塔の中では　いつでも\n　スキルポイントの　上げ下げが可能だ。\n　状況にあわせて　振り直すのも　いいだろう。\n<end>": "You can receive 100 skill points as soon as\nyou enter this tower. You can also increase or\ndecrease your skill points at any time in this\n<br>\ntower. It is also a good idea to reallocate\nyour skill points according to the situation.\n<end>"
   },
   "120971": {
-    "「転職とは　もちろん　職業を変えることだが\n　ここでの転職は　少し特殊だ。\n　塔の外とは　違いがあるから　よく聞いてくれ。\n<br>\n「塔の中で転職をすると　転職後の職業に\n　レベルが引き継がれ　転職前の職業の\n　スキルポイントは　リセットされる。\n<br>\n「転職後は　スキルポイントを\n　振り忘れないよう　気をつけてくれ。\n　確認してから　次の階に行くのだな。\n<end>": "「転職とは　もちろん　職業を変えることだが\n　ここでの転職は　少し特殊だ。\n　塔の外とは　違いがあるから　よく聞いてくれ。\n<br>\n「塔の中で転職をすると　転職後の職業に\n　レベルが引き継がれ　転職前の職業の\n　スキルポイントは　リセットされる。\n<br>\n「転職後は　スキルポイントを\n　振り忘れないよう　気をつけてくれ。\n　確認してから　次の階に行くのだな。\n<end>"
+    "「転職とは　もちろん　職業を変えることだが\n　ここでの転職は　少し特殊だ。\n　塔の外とは　違いがあるから　よく聞いてくれ。\n<br>\n「塔の中で転職をすると　転職後の職業に\n　レベルが引き継がれ　転職前の職業の\n　スキルポイントは　リセットされる。\n<br>\n「転職後は　スキルポイントを\n　振り忘れないよう　気をつけてくれ。\n　確認してから　次の階に行くのだな。\n<end>": "Changing jobs means changing vocations, of\ncourse, but changing vocations here is a\nlittle different from changing vocations\n<br>\noutside the tower, so please listen carefully.\nBe careful not to forget to transfer your\nskill points after changing vocations.\n<br>\nCheck your skill points before you go to the\nnext floor.\n<end>"
   },
   "120972": {
-    "「どの職業に　なりたいのかね？\n<break>": "「どの職業に　なりたいのかね？\n<break>"
+    "「どの職業に　なりたいのかね？\n<break>": "Which vocation do you want?\n<break>"
   },
   "120973": {
-    "「ならば　どの職業に　なりたいのだ？\n<break>": "「ならば　どの職業に　なりたいのだ？\n<break>"
+    "「ならば　どの職業に　なりたいのだ？\n<break>": "Then which vocation do you want?\n<break>"
   },
   "120974": {
-    "「では　<%sM_self>よ。<%sM_new_syokugyou>の\n　気持ちになって祈るのだ。おお　ダーマの神よ！\n　<%sM_self>に　新たな人生を歩ませたまえ！\n<bw_break>": "「では　<%sM_self>よ。<%sM_new_syokugyou>の\n　気持ちになって祈るのだ。おお　ダーマの神よ！\n　<%sM_self>に　新たな人生を歩ませたまえ！\n<bw_break>"
+    "「では　<%sM_self>よ。<%sM_new_syokugyou>の\n　気持ちになって祈るのだ。おお　ダーマの神よ！\n　<%sM_self>に　新たな人生を歩ませたまえ！\n<bw_break>": "Oh <%sM_self>. Let us pray in the spirit of\n<%sM_new_syokugyou>. Oh Allmighty Alltrades. Give\n<%sM_self> a new life!\n<bw_break>"
   },
   "120975": {
-    "「……む？　お前は　すでに\n　<%sM_syokugyou>の職に　ついているぞ。\n　どの職業に　なりたいのかね？\n<break>": "「……む？　お前は　すでに\n　<%sM_syokugyou>の職に　ついているぞ。\n　どの職業に　なりたいのかね？\n<break>"
+    "「……む？　お前は　すでに\n　<%sM_syokugyou>の職に　ついているぞ。\n　どの職業に　なりたいのかね？\n<break>": "Hmm? You are already in the <%sM_syokugyou>\nvocation. Which vocation do you want?\n<break>"
   },
   "120976": {
-    "「……ふむ。\n　<%sM_new_syokugyou>に　転職するのだな？\n<yesno><close>": "「……ふむ。\n　<%sM_new_syokugyou>に　転職するのだな？\n<yesno><close>"
+    "「……ふむ。\n　<%sM_new_syokugyou>に　転職するのだな？\n<yesno><close>": "...hmmm. You're switching to\n<%sM_new_syokugyou>?\n<yesno><close>"
   },
   "120977": {
-    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。\n　装備とスキルの見直しを　おこたらぬようにな。": "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。\n　装備とスキルの見直しを　おこたらぬようにな。"
+    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。\n　装備とスキルの見直しを　おこたらぬようにな。": "Alright. From now on, you will live as\n<%sM_new_syokugyou>.\nRemember to review your equipment and skills."
   },
   "120978": {
-    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。おまえは　今\n　特訓モードのようだな。さあ　行くがよい。": "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。おまえは　今\n　特訓モードのようだな。さあ　行くがよい。"
+    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。おまえは　今\n　特訓モードのようだな。さあ　行くがよい。": "Alright. From now on, you will live as\n<%sM_new_syokugyou>. Looks like you're in\ntraining mode now. Go on, then."
   },
   "120979": {
-    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。\n　装備とスキルの見直しを　おこたらぬようにな。": "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。\n　装備とスキルの見直しを　おこたらぬようにな。"
+    "「よし。今から　お前は　<%sM_new_syokugyou>として\n　生きていくことになった。\n　装備とスキルの見直しを　おこたらぬようにな。": "Alright. From now on, you will live as\n<%sM_new_syokugyou>.\nRemember to review your equipment and skills."
   },
   "120980": {
-    "「転職しないのだな。それも　よいだろう。\n　さあ　行くがよい。<end>": "「転職しないのだな。それも　よいだろう。\n　さあ　行くがよい。<end>"
+    "「転職しないのだな。それも　よいだろう。\n　さあ　行くがよい。<end>": "You are not changing vocations, are you?\nThat would be fine. Go on, then.<end>"
   },
   "120981": {
-    "「おや？\n　<%sM_monster>は　死んでいるようだな。\n　このまま送ろうとは　なんと無慈悲な。<br>\n「転職したければ　<%sM_monster>を\n　生き返らせてから　来るがよかろう。": "「おや？\n　<%sM_monster>は　死んでいるようだな。\n　このまま送ろうとは　なんと無慈悲な。<br>\n「転職したければ　<%sM_monster>を\n　生き返らせてから　来るがよかろう。"
+    "「おや？\n　<%sM_monster>は　死んでいるようだな。\n　このまま送ろうとは　なんと無慈悲な。<br>\n「転職したければ　<%sM_monster>を\n　生き返らせてから　来るがよかろう。": "Oh? It seems that your <%sM_monster>\nis not with us. How awful to just leave\nthem like that.<br>\nIf you wish to change paths, you must revive\nthem before doing so."
   },
   "120982": {
-    "「おや？　お前は\n　いまわしい呪いに　おかされているな。\n<br>\n「転職は教会で　呪いのけがれを\n　はらってからが　よかろう。": "「おや？　お前は\n　いまわしい呪いに　おかされているな。\n<br>\n「転職は教会で　呪いのけがれを\n　はらってからが　よかろう。"
+    "「おや？　お前は\n　いまわしい呪いに　おかされているな。\n<br>\n「転職は教会で　呪いのけがれを\n　はらってからが　よかろう。": "Hmm? You are under a terrible curse. I think\nit would be better for you to change vocations\nafter you get rid of the curse at the church."
   },
   "122636": {
-    "「……む？\n　お前は　転職を行うための\n　ダーマの試練を　終えていないようだな。\n<br>\n「試練を終えていないと　転職はできない。\n　塔の外の　ダーマの神殿　出張所にて\n　試練を　受けてくるのだな。\n<end>": "「……む？\n　お前は　転職を行うための\n　ダーマの試練を　終えていないようだな。\n<br>\n「試練を終えていないと　転職はできない。\n　塔の外の　ダーマの神殿　出張所にて\n　試練を　受けてくるのだな。\n<end>"
+    "「……む？\n　お前は　転職を行うための\n　ダーマの試練を　終えていないようだな。\n<br>\n「試練を終えていないと　転職はできない。\n　塔の外の　ダーマの神殿　出張所にて\n　試練を　受けてくるのだな。\n<end>": "... No? You haven't completed the Abbey Trials\nto change vocations. You can't change\nvocations until you complete the trials. You\n<br>\nwill be tested at the Alltrades Abbey outside\nthe tower.\n<end>"
   },
   "122964": {
-    "予備": "予備"
+    "予備": "Spare"
   },
   "122965": {
-    "予備": "予備"
+    "予備": "Spare"
   },
   "123150": {
-    "<color_yellow>スキルポイントが　リセットされました。\n次の階へ　行く前に　スキルポイントを\n振り直しましょう。": "<color_yellow>スキルポイントが　リセットされました。\n次の階へ　行く前に　スキルポイントを\n振り直しましょう。"
+    "<color_yellow>スキルポイントが　リセットされました。\n次の階へ　行く前に　スキルポイントを\n振り直しましょう。": "<color_yellow>Your skill points have been\nreset. Before going to the next floor, you\nshould reallocate your skill points."
   }
 }
