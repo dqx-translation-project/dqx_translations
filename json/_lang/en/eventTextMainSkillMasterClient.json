@@ -1,69 +1,69 @@
 {
   "87350": {
-    "「<pc>さんが　お持ちのスキルブックは\n　<%nc_book>冊のようですね。\n　そのスキルブックを　お渡しいただけますか？\n<yesno><break>": "I see that you have <%dc_book> Skill Book(s).\nWould you be willing to give them to me?\n<yesno><break>"
+    "「<pc>さんが　お持ちのスキルブックは\n　<%nc_book>冊のようですね。\n　そのスキルブックを　お渡しいただけますか？\n<yesno><break>": "「<pc>さんが　お持ちのスキルブックは\n　<%nc_book>冊のようですね。\n　そのスキルブックを　お渡しいただけますか？\n<yesno><break>"
   },
   "87351": {
-    "「おや……。<pc>さんは　スキルブックを\n　お持ちでないようですね。\n<br>\n「スキルブックは　世界各地に散らばっています。　\n　お持ちいただけたら　引き換えに\n　<color_yellow>マスタースキルポイント<color_white>を　授けましょう。": "Hmm...it doesn't look like you have any Skill\nBooks at the moment.\n<br>\nSkill Books are scattered all around the\nworld. If you bring them to me, I will\nexchange them for <color_yellow>Master Skill Points<color_white>."
+    "「おや……。<pc>さんは　スキルブックを\n　お持ちでないようですね。\n<br>\n「スキルブックは　世界各地に散らばっています。　\n　お持ちいただけたら　引き換えに\n　<color_yellow>マスタースキルポイント<color_white>を　授けましょう。": "「おや……。<pc>さんは　スキルブックを\n　お持ちでないようですね。\n<br>\n「スキルブックは　世界各地に散らばっています。　\n　お持ちいただけたら　引き換えに\n　<color_yellow>マスタースキルポイント<color_white>を　授けましょう。"
   },
   "87352": {
-    "「では　しばし　お待ちください……。": "Please give me just a moment..."
+    "「では　しばし　お待ちください……。": "「では　しばし　お待ちください……。"
   },
   "87353": {
-    "<se_nots Joutyu_SE 80>\nスキルマスターが目を閉じ　祈りを捧げると\nスキルブックは　白い炎に包まれ\n虚空へと消えていった……。\n<wait=1300>": "<se_nots Joutyu_SE 80>\nWhen the Skill Master closed his eyes and\nprayed, the Skill Book was consumed by\nwhite flames and disappeared into nothing...\n<wait=1300>"
+    "<se_nots Joutyu_SE 80>\nスキルマスターが目を閉じ　祈りを捧げると\nスキルブックは　白い炎に包まれ\n虚空へと消えていった……。\n<wait=1300>": "<se_nots Joutyu_SE 80>\nスキルマスターが目を閉じ　祈りを捧げると\nスキルブックは　白い炎に包まれ\n虚空へと消えていった……。\n<wait=1300>"
   },
   "87354": {
-    "「もう行かれるのですね。\n　<pc>さんに　ダーマの加護が\n　あらんことを……。": "I see you're leaving. May the blessings of\nAlltrades be with you, <if_woman>Ms.<else>Mr.<endif> <pc>."
+    "「もう行かれるのですね。\n　<pc>さんに　ダーマの加護が\n　あらんことを……。": "「もう行かれるのですね。\n　<pc>さんに　ダーマの加護が\n　あらんことを……。"
   },
   "87355": {
-    "<pc>は　マスタースキルポイントを\n<%nc_point>Ｐ　手に入れた！\n<me 71>": "<pc> received <%dc_point> Master Skill Point(s)!\n<me 71>"
+    "<pc>は　マスタースキルポイントを\n<%nc_point>Ｐ　手に入れた！\n<me 71>": "<pc>は　マスタースキルポイントを\n<%nc_point>Ｐ　手に入れた！\n<me 71>"
   },
   "87356": {
-    "「これで　<pc>さんの身体に\n　新たなる力が宿りました。\n<br>\n「マスタースキルポイントを　使用する際は\n　私に話しかけ　『マスタースキルを割り振る』を\n　選んでください。\n<br>\n「なお　マスタースキルポイントの　割り振りは\n　私だけではなく　各地にいる神官も\n　おこなうことが　できますよ。": "You are now in the possession of a new kind\nof power, <if_woman>Ms.<else>Mr.<endif> <pc>.\n<br>\nIf you want to use your Master Skill Points,\ntalk to me and select \"Allocate Master\nSkills\".\n<br>\nYou can also allocate points at a priest\nin any region."
+    "「これで　<pc>さんの身体に\n　新たなる力が宿りました。\n<br>\n「マスタースキルポイントを　使用する際は\n　私に話しかけ　『マスタースキルを割り振る』を\n　選んでください。\n<br>\n「なお　マスタースキルポイントの　割り振りは\n　私だけではなく　各地にいる神官も\n　おこなうことが　できますよ。": "「これで　<pc>さんの身体に\n　新たなる力が宿りました。\n<br>\n「マスタースキルポイントを　使用する際は\n　私に話しかけ　『マスタースキルを割り振る』を\n　選んでください。\n<br>\n「なお　マスタースキルポイントの　割り振りは\n　私だけではなく　各地にいる神官も\n　おこなうことが　できますよ。"
   },
   "87357": {
-    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "マスタースキルポイントが　<%sc_point>Ｐ　戻った！"
   },
   "87358": {
-    "「スキルブックは　世界各地に散らばっており\n　そもそも　数える程しか　存在していない\n　希少な物なのです。\n<br>\n「もし　スキルブックを　お持ちくだされば\n　特別なスキルポイントである\n　<color_yellow>マスタースキルポイント<color_white>を　授けましょう。": "Skill Books are scattered all around the\nworld, and are so rare that only a few exist.\n<br>\nIf you bring me any Skill Books, I will give\nyou <color_yellow>Master Skill Points<color_white>."
+    "「スキルブックは　世界各地に散らばっており\n　そもそも　数える程しか　存在していない\n　希少な物なのです。\n<br>\n「もし　スキルブックを　お持ちくだされば\n　特別なスキルポイントである\n　<color_yellow>マスタースキルポイント<color_white>を　授けましょう。": "「スキルブックは　世界各地に散らばっており\n　そもそも　数える程しか　存在していない\n　希少な物なのです。\n<br>\n「もし　スキルブックを　お持ちくだされば\n　特別なスキルポイントである\n　<color_yellow>マスタースキルポイント<color_white>を　授けましょう。"
   },
   "87359": {
-    "「マスタースキルポイントとは\n　職業ごとに配分され　ポイントの振り直しも\n　自由におこなえる　特別なスキルポイントです。\n<br>\n「割り振りと　振り直しは\n　私か　あるいは　各地にいる神官が\n　おこなうことができます。\n<br>\n「また　マスタースキルポイントは\n　各職業が持つスキルごとに　記憶されます。\n<br>\n「同名のスキルでも　異なる職業では\n　ポイント振り分けが　異なるものになるので\n　転職の際には　ご注意ください。\n<br>\n「スキルブックで　マスタースキルポイントを\n　増やした後は　今の職業だけでなく　各職業にも\n　そのポイントを　割り振りましょう。\n<end>": "Master Skill Points are special skill points\nthat can be assigned per vocation, and can\nbe freely reassigned at will.\n<br>\nI can reallocate them for you, or you can\nalso do it at a priest in any region.\n<br>\nIn addition, each skill line of a vocation\ncan have its own Master Skill Points assigned.\n<br>\nBe aware that even if multiple vocations\nhave the same skill lines, they still need to\nbe assigned independently, so be careful.\n<br>\nMake sure to not only allocate points in\nyour current vocations, but other vocations\nas well.\n<end>"
+    "「マスタースキルポイントとは\n　職業ごとに配分され　ポイントの振り直しも\n　自由におこなえる　特別なスキルポイントです。\n<br>\n「割り振りと　振り直しは\n　私か　あるいは　各地にいる神官が\n　おこなうことができます。\n<br>\n「また　マスタースキルポイントは\n　各職業が持つスキルごとに　記憶されます。\n<br>\n「同名のスキルでも　異なる職業では\n　ポイント振り分けが　異なるものになるので\n　転職の際には　ご注意ください。\n<br>\n「スキルブックで　マスタースキルポイントを\n　増やした後は　今の職業だけでなく　各職業にも\n　そのポイントを　割り振りましょう。\n<end>": "「マスタースキルポイントとは\n　職業ごとに配分され　ポイントの振り直しも\n　自由におこなえる　特別なスキルポイントです。\n<br>\n「割り振りと　振り直しは\n　私か　あるいは　各地にいる神官が\n　おこなうことができます。\n<br>\n「また　マスタースキルポイントは\n　各職業が持つスキルごとに　記憶されます。\n<br>\n「同名のスキルでも　異なる職業では\n　ポイント振り分けが　異なるものになるので\n　転職の際には　ご注意ください。\n<br>\n「スキルブックで　マスタースキルポイントを\n　増やした後は　今の職業だけでなく　各職業にも\n　そのポイントを　割り振りましょう。\n<end>"
   },
   "87360": {
-    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "You want to cancel the allocation of your\nskill points?<yesno 2><close>"
+    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>"
   },
   "87361": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<yesno><close>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>"
   },
   "87362": {
-    "<select_se_off>\nマスタースキルを割り振る\nスキルブックを渡す\n説明を聞く\n<select_end><break>": "<select_se_off>\nAssign Master Skills\nGive Skill Books\nExplanation\n<select_end><break>"
+    "<select_se_off>\nマスタースキルを割り振る\nスキルブックを渡す\n説明を聞く\n<select_end><break>": "<select_se_off>\nマスタースキルを割り振る\nスキルブックを渡す\n説明を聞く\n<select_end><break>"
   },
   "87363": {
-    "「本日は　どのようなご用でしょうか？\n<break>": "What can I do for you today?\n<break>"
+    "「本日は　どのようなご用でしょうか？\n<break>": "「本日は　どのようなご用でしょうか？\n<break>"
   },
   "87364": {
-    "「他に　ご用は　ありますか？\n<break>": "Is there anything else I can help with?\n<break>"
+    "「他に　ご用は　ありますか？\n<break>": "「他に　ご用は　ありますか？\n<break>"
   },
   "87616": {
-    "<select_se_off>\nスキルブックについて\nマスタースキルポイントについて\n<select_end><break>": "<select_se_off>\nAbout Skill Books\nAbout Master Skill Points\n<select_end><break>"
+    "<select_se_off>\nスキルブックについて\nマスタースキルポイントについて\n<select_end><break>": "<select_se_off>\nスキルブックについて\nマスタースキルポイントについて\n<select_end><break>"
   },
   "87617": {
-    "「何を　知りたいのでしょうか？\n<break>": "What would you like to know?\n<break>"
+    "「何を　知りたいのでしょうか？\n<break>": "「何を　知りたいのでしょうか？\n<break>"
   },
   "88345": {
-    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "You'll allocate the Master Skills of\n<%sM_job>. Which skill line do you want\nto allocate?\n<break>"
+    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>"
   },
   "88346": {
-    "「<pc>さんは　マスタースキルポイントを\n　その身に宿していないようですね。\n<br>\n「まずは　スキルブックを手に入れて\n　お持ちください。スキルブックと引き換えに\n　マスタースキルポイントを　授けましょう。": "You seem to not have any Master Skill Points.\n<br>\nFirst, bring any Skill Books you find to me.\nIn exchange, I'll grant you Master Skill\nPoints."
+    "「<pc>さんは　マスタースキルポイントを\n　その身に宿していないようですね。\n<br>\n「まずは　スキルブックを手に入れて\n　お持ちください。スキルブックと引き換えに\n　マスタースキルポイントを　授けましょう。": "「<pc>さんは　マスタースキルポイントを\n　その身に宿していないようですね。\n<br>\n「まずは　スキルブックを手に入れて\n　お持ちください。スキルブックと引き換えに\n　マスタースキルポイントを　授けましょう。"
   },
   "88844": {
-    "「おや……。<pc>さんは　スキルブックを\n　お持ちでないようですね。\n<br>\n「スキルブックは　世界各地に散らばっています。　\n　お持ちいただけたら　引き換えに\n　<color_yellow>マスタースキルポイント<color_white>を授けましょう。\n<br>\n「……今回は　特別サービスです。\n　そこの宝箱に１冊　保管してありますので\n　取ってきていただけますか？": "Hmm... you don't seem to have any Skill Books.\n<br>\nSkill Books are scattered all around the\nworld. If you bring them to me, I will\nexchange them for <color_yellow>Master Skill Points<color_white>.\n<br>\nThis time, we have a special offer. I have one\nin the treasure box over there, so could you\nplease get it for me?"
+    "「おや……。<pc>さんは　スキルブックを\n　お持ちでないようですね。\n<br>\n「スキルブックは　世界各地に散らばっています。　\n　お持ちいただけたら　引き換えに\n　<color_yellow>マスタースキルポイント<color_white>を授けましょう。\n<br>\n「……今回は　特別サービスです。\n　そこの宝箱に１冊　保管してありますので\n　取ってきていただけますか？": "「おや……。<pc>さんは　スキルブックを\n　お持ちでないようですね。\n<br>\n「スキルブックは　世界各地に散らばっています。　\n　お持ちいただけたら　引き換えに\n　<color_yellow>マスタースキルポイント<color_white>を授けましょう。\n<br>\n「……今回は　特別サービスです。\n　そこの宝箱に１冊　保管してありますので\n　取ってきていただけますか？"
   },
   "118104": {
-    "<select_se_off>\nマスタースキルを割り振る\nスキルブックを渡す\nいやしてもらう\n説明を聞く\n<select_end><break>": "<select_se_off>\nAllocate Master Skills\nGive Skill Books\nGet Healed\nExplanation\n<select_end><break>"
+    "<select_se_off>\nマスタースキルを割り振る\nスキルブックを渡す\nいやしてもらう\n説明を聞く\n<select_end><break>": "<select_se_off>\nマスタースキルを割り振る\nスキルブックを渡す\nいやしてもらう\n説明を聞く\n<select_end><break>"
   },
   "121439": {
-    "本当に　スキルマスターに　\nいやしてもらいますか？\n<yesno><break>": "Do you really want the Skill Master to heal\nyou?\n<yesno><break>"
+    "本当に　スキルマスターに　\nいやしてもらいますか？\n<yesno><break>": "本当に　スキルマスターに　\nいやしてもらいますか？\n<yesno><break>"
   },
   "166141": {
     "": ""
@@ -87,7 +87,7 @@
     "": ""
   },
   "166148": {
-    "「<%sM_job>の　マスタースキルを\n　割り振るぞ。どのスキルに割り振るのだ？\n<break>": "I'll allocate the Master Skills of <%sM_job>.\nWhich skill line do you want to allocate?\n<break>"
+    "「<%sM_job>の　マスタースキルを\n　割り振るぞ。どのスキルに割り振るのだ？\n<break>": "「<%sM_job>の　マスタースキルを\n　割り振るぞ。どのスキルに割り振るのだ？\n<break>"
   },
   "166149": {
     "": ""
@@ -99,7 +99,7 @@
     "": ""
   },
   "166152": {
-    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "マスタースキルポイントが　<%sc_point>Ｐ　戻った！"
   },
   "166153": {
     "": ""
@@ -114,10 +114,10 @@
     "": ""
   },
   "166157": {
-    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "You want to cancel the allocation of your\nskill points?<yesno 2><close>"
+    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>"
   },
   "166158": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<yesno><close>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>"
   },
   "166159": {
     "": ""
@@ -153,7 +153,7 @@
     "": ""
   },
   "166170": {
-    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "You'll allocate the Master Skills of\n<%sM_job>. Which skill line do you want\nto allocate?\n<break>"
+    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>"
   },
   "166171": {
     "": ""
@@ -165,7 +165,7 @@
     "": ""
   },
   "166174": {
-    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "マスタースキルポイントが　<%sc_point>Ｐ　戻った！"
   },
   "166175": {
     "": ""
@@ -180,10 +180,10 @@
     "": ""
   },
   "166179": {
-    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "You want to cancel the allocation of your\nskill points?<yesno 2><close>"
+    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>"
   },
   "166180": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<yesno><close>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>"
   },
   "166181": {
     "": ""
@@ -219,7 +219,7 @@
     "": ""
   },
   "166409": {
-    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "You'll allocate the Master Skills of\n<%sM_job>. Which skill line do you want\nto allocate?\n<break>"
+    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>"
   },
   "166410": {
     "": ""
@@ -231,7 +231,7 @@
     "": ""
   },
   "166413": {
-    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "マスタースキルポイントが　<%sc_point>Ｐ　戻った！"
   },
   "166414": {
     "": ""
@@ -246,10 +246,10 @@
     "": ""
   },
   "166418": {
-    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "You want to cancel the allocation of your\nskill points?<yesno 2><close>"
+    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>"
   },
   "166419": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<yesno><close>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>"
   },
   "166420": {
     "": ""
@@ -285,7 +285,7 @@
     "": ""
   },
   "166431": {
-    "「<%sM_job>の　マスタースキルを\n　割り振るぞ。どのスキルに割り振るのだ？\n<break>": "I'll allocate the Master Skills of <%sM_job>.\nWhich skill line do you want to allocate?\n<break>"
+    "「<%sM_job>の　マスタースキルを\n　割り振るぞ。どのスキルに割り振るのだ？\n<break>": "「<%sM_job>の　マスタースキルを\n　割り振るぞ。どのスキルに割り振るのだ？\n<break>"
   },
   "166432": {
     "": ""
@@ -297,7 +297,7 @@
     "": ""
   },
   "166435": {
-    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "マスタースキルポイントが　<%sc_point>Ｐ　戻った！"
   },
   "166436": {
     "": ""
@@ -312,10 +312,10 @@
     "": ""
   },
   "166440": {
-    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "You want to cancel the allocation of your\nskill points?<yesno 2><close>"
+    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>"
   },
   "166441": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<yesno><close>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>"
   },
   "166442": {
     "": ""
@@ -351,7 +351,7 @@
     "": ""
   },
   "166453": {
-    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "You'll allocate the Master Skills of\n<%sM_job>. Which skill line do you want\nto allocate?\n<break>"
+    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>"
   },
   "166454": {
     "": ""
@@ -363,7 +363,7 @@
     "": ""
   },
   "166457": {
-    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "マスタースキルポイントが　<%sc_point>Ｐ　戻った！"
   },
   "166458": {
     "": ""
@@ -378,10 +378,10 @@
     "": ""
   },
   "166462": {
-    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "You want to cancel the allocation of your\nskill points?<yesno 2><close>"
+    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>"
   },
   "166463": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<yesno><close>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>"
   },
   "166464": {
     "": ""
@@ -417,7 +417,7 @@
     "": ""
   },
   "166475": {
-    "「<%sM_job>の　マスタースキルを\n　割り振るのね。\n　どのスキルに　割り振りたいのかしら？\n<break>": "You want to allocate the Master Skills of\n<%sM_job>? Which skill line do you want to\nallocate?\n<break>"
+    "「<%sM_job>の　マスタースキルを\n　割り振るのね。\n　どのスキルに　割り振りたいのかしら？\n<break>": "「<%sM_job>の　マスタースキルを\n　割り振るのね。\n　どのスキルに　割り振りたいのかしら？\n<break>"
   },
   "166476": {
     "": ""
@@ -429,7 +429,7 @@
     "": ""
   },
   "166479": {
-    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "マスタースキルポイントが　<%sc_point>Ｐ　戻った！"
   },
   "166480": {
     "": ""
@@ -444,10 +444,10 @@
     "": ""
   },
   "166484": {
-    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "You want to cancel the allocation of your\nskill points?<yesno 2><close>"
+    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>"
   },
   "166485": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<yesno><close>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>"
   },
   "166486": {
     "": ""
@@ -483,7 +483,7 @@
     "": ""
   },
   "166497": {
-    "「<%sM_job>の　マスタースキルを\n　割り振るぞ。どのスキルに割り振るのじゃ？\n<break>": "Which skill line do you want to allocate\nMaster Skills for <%sM_job>?\n<break>"
+    "「<%sM_job>の　マスタースキルを\n　割り振るぞ。どのスキルに割り振るのじゃ？\n<break>": "「<%sM_job>の　マスタースキルを\n　割り振るぞ。どのスキルに割り振るのじゃ？\n<break>"
   },
   "166498": {
     "": ""
@@ -495,7 +495,7 @@
     "": ""
   },
   "166501": {
-    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "マスタースキルポイントが　<%sc_point>Ｐ　戻った！"
   },
   "166502": {
     "": ""
@@ -510,10 +510,10 @@
     "": ""
   },
   "166506": {
-    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "You want to cancel the allocation of your\nskill points?<yesno 2><close>"
+    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>"
   },
   "166507": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<yesno><close>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>"
   },
   "166508": {
     "": ""
@@ -528,79 +528,79 @@
     "": ""
   },
   "173562": {
-    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>": "Which skill line do you want to allocate\nMaster Skill Points to?\n<break>"
+    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>": "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>"
   },
   "173563": {
-    "「どのスキルに　マスタースキルポイントを\n　割り振いのだ？\n<break>": "Which skill line do you want to allocate\nMaster Skill Points to?\n<break>"
+    "「どのスキルに　マスタースキルポイントを\n　割り振いのだ？\n<break>": "「どのスキルに　マスタースキルポイントを\n　割り振いのだ？\n<break>"
   },
   "173564": {
-    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>": "Which skill line do you want to allocate\nMaster Skill Points to?\n<break>"
+    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>": "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>"
   },
   "173565": {
-    "「どのスキルに　マスタースキルポイントを\n　割り振るのだ？\n<break>": "Which skill line will you allocate Master\nSkill points to?\n<break>"
+    "「どのスキルに　マスタースキルポイントを\n　割り振るのだ？\n<break>": "「どのスキルに　マスタースキルポイントを\n　割り振るのだ？\n<break>"
   },
   "173566": {
-    "「どのスキルに　マスタースキルポイントを\n　割り振るのかしら？\n<break>": "Which skill line will you allocate Master\nSkill points to?\n<break>"
+    "「どのスキルに　マスタースキルポイントを\n　割り振るのかしら？\n<break>": "「どのスキルに　マスタースキルポイントを\n　割り振るのかしら？\n<break>"
   },
   "173567": {
-    "「どのスキルに　マスタースキルポイントを\n　割り振るのじゃ？\n<break>": "Which skill line will you allocate Master\nSkill points to?\n<break>"
+    "「どのスキルに　マスタースキルポイントを\n　割り振るのじゃ？\n<break>": "「どのスキルに　マスタースキルポイントを\n　割り振るのじゃ？\n<break>"
   },
   "173568": {
-    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>": "Which skill line do you want to allocate\nMaster Skill Points to?\n<break>"
+    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>": "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>"
   },
   "173569": {
-    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<end>": "Which skill line will you allocate Master\nSkill points to?\n<break>"
+    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<end>": "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<end>"
   },
   "195010": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<break>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>"
   },
   "195011": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<break>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>"
   },
   "195012": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<break>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>"
   },
   "195013": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<break>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>"
   },
   "195014": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<break>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>"
   },
   "195015": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<break>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>"
   },
   "195016": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<break>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>"
   },
   "195017": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<break>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>"
   },
   "198855": {
-    "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>": "Master Skill Point allocation has been\ncompleted. Now, you may go.\n<end>"
+    "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>": "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>"
   },
   "198856": {
-    "「よし。マスタースキルポイントの\n　振り分けは　完了した。\n　さあ　行くがよい。\n<end>": "Great. Master Skill Point allocation has been\ncompleted. Now, you may go.\n<end>"
+    "「よし。マスタースキルポイントの\n　振り分けは　完了した。\n　さあ　行くがよい。\n<end>": "「よし。マスタースキルポイントの\n　振り分けは　完了した。\n　さあ　行くがよい。\n<end>"
   },
   "198857": {
-    "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>": "Master Skill Point allocation has been\ncompleted. Now, you may go.\n<end>"
+    "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>": "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>"
   },
   "198858": {
-    "「よし。マスタースキルポイントの\n　振り分けは　完了した。\n　さあ　行くがよい。\n<end>": "Great. Master Skill Point allocation has been\ncompleted. Now, you may go.\n<end>"
+    "「よし。マスタースキルポイントの\n　振り分けは　完了した。\n　さあ　行くがよい。\n<end>": "「よし。マスタースキルポイントの\n　振り分けは　完了した。\n　さあ　行くがよい。\n<end>"
   },
   "198859": {
-    "「マスタースキルポイントの\n　振り分けは　完了したわよ。\n　ンフッ。また会いにきてね！\n<end>": "Master Skill Point allocation has now been\ncompleted. Hm. Come again soon!\n<end>"
+    "「マスタースキルポイントの\n　振り分けは　完了したわよ。\n　ンフッ。また会いにきてね！\n<end>": "「マスタースキルポイントの\n　振り分けは　完了したわよ。\n　ンフッ。また会いにきてね！\n<end>"
   },
   "198860": {
-    "「よし。マスタースキルポイントの\n　振り分けは　完了した。\n　さあ　行くがよい。\n<end>": "Great. Master Skill Point allocation has been\ncompleted. Now, you may go.\n<end>"
+    "「よし。マスタースキルポイントの\n　振り分けは　完了した。\n　さあ　行くがよい。\n<end>": "「よし。マスタースキルポイントの\n　振り分けは　完了した。\n　さあ　行くがよい。\n<end>"
   },
   "198861": {
-    "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>": "Master Skill Point allocation has been\ncompleted. Now, you may go.\n<end>"
+    "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>": "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>"
   },
   "198862": {
     "": ""
   },
   "250734": {
-    "「マスタースキルポイントを　割り振るのですね？\n　ポイントは　各職業のスキルごとに覚えるため\n　他職業には反映されないので　ご注意ください。\n<end>": "You want to allocate your Master Skill Points?\nPlease remember that the points allocated per\nvocation and skill line are separate.\n<end>"
+    "「マスタースキルポイントを　割り振るのですね？\n　ポイントは　各職業のスキルごとに覚えるため\n　他職業には反映されないので　ご注意ください。\n<end>": "「マスタースキルポイントを　割り振るのですね？\n　ポイントは　各職業のスキルごとに覚えるため\n　他職業には反映されないので　ご注意ください。\n<end>"
   },
   "250735": {
     "": ""
@@ -651,16 +651,16 @@
     "": ""
   },
   "294408": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<break>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<break>"
   },
   "294409": {
-    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "Do you want your current Master Skill Point\nto be copied?<color_yellow>*This will only be copied to <%sM_job>.\nEach vocation has its own assignment.\n<yesno><close>"
+    "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>": "この状態で　マスタースキルを反映しますか？\n<color_yellow><%sM_job>の時のみ　反映されます。\n※割り振り状態は　職業別に保存されます。\n<yesno><close>"
   },
   "294410": {
-    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "You want to cancel the allocation of your\nskill points?<yesno 2><close>"
+    "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>": "スキルポイントの　振り分けを中止します。\nよろしいですか？<yesno 2><close>"
   },
   "294411": {
-    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "マスタースキルポイントが　<%sc_point>Ｐ　戻った！"
   },
   "294412": {
     "": ""
@@ -684,7 +684,7 @@
     "": ""
   },
   "294419": {
-    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "You'll allocate the Master Skills of\n<%sM_job>. Which skill line do you want\nto allocate?\n<break>"
+    "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>": "「<%sM_job>の　マスタースキルを\n　割り振ります。どのスキルに割り振りますか？\n<break>"
   },
   "294420": {
     "": ""
@@ -696,9 +696,9 @@
     "": ""
   },
   "294423": {
-    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>": "Which skill line do you want to allocate\nMaster Skill Points to?\n<break>"
+    "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>": "「どのスキルに　マスタースキルポイントを\n　割り振りますか？\n<break>"
   },
   "294424": {
-    "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>": "Master Skill Point allocation has been\ncompleted. Now, you may go.\n<end>"
+    "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>": "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>"
   }
 }

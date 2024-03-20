@@ -1,36 +1,36 @@
 {
   "11688": {
-    "仲間と一緒に　この先に行くためには\n一緒に行きたい仲間の準備が\n完了している必要があります。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed with your party, all party\nmembers you want to proceed with must be\nready.\n<select>\nWait for Party\nProceed with Ready Members\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間と一緒に　この先に行くためには\n一緒に行きたい仲間の準備が\n完了している必要があります。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "仲間と一緒に　この先に行くためには\n一緒に行きたい仲間の準備が\n完了している必要があります。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "11689": {
-    "仲間全員の　準備が完了していませんが\n本当に　先に行っていいですか？\n<yesno>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "All party members aren't ready yet. Are you\nsure you want to proceed?\n<yesno>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間全員の　準備が完了していませんが\n本当に　先に行っていいですか？\n<yesno>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "仲間全員の　準備が完了していませんが\n本当に　先に行っていいですか？\n<yesno>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "11690": {
-    "移動の準備は　キャンセルされました。": "Proceed preparations were cancelled."
+    "移動の準備は　キャンセルされました。": "移動の準備は　キャンセルされました。"
   },
   "11691": {
-    "移動の準備を　キャンセルしていいですか？<yesno_nc><break>": "Cancel preparations to proceed?<yesno_nc><break>"
+    "移動の準備を　キャンセルしていいですか？<yesno_nc><break>": "移動の準備を　キャンセルしていいですか？<yesno_nc><break>"
   },
   "11692": {
-    "これより先には　パーティリーダーの\n準備が完了しないと　行くことができません。\n<select>\nこのまま待つ\n移動をやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "You won't be able to proceed until the party\nleader's preparations are complete.\n<select>\nKeep Waiting\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "これより先には　パーティリーダーの\n準備が完了しないと　行くことができません。\n<select>\nこのまま待つ\n移動をやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "これより先には　パーティリーダーの\n準備が完了しないと　行くことができません。\n<select>\nこのまま待つ\n移動をやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "12215": {
-    "準備完了！": "Ready!"
+    "準備完了！": "準備完了！"
   },
   "22921": {
-    "クエストを受注した日付": "Date Accepted: "
+    "クエストを受注した日付": "クエストを受注した日付"
   },
   "22922": {
-    "クエストをクリアした日付": "Date Cleared: "
+    "クエストをクリアした日付": "クエストをクリアした日付"
   },
   "22923": {
-    "初回報酬": "Reward"
+    "初回報酬": "初回報酬"
   },
   "22924": {
-    "リプレイ報酬": "Replay Reward"
+    "リプレイ報酬": "リプレイ報酬"
   },
   "22925": {
-    "ymd": "dmy"
+    "ymd": "ymd"
   },
   "22926": {
     "y": "y"
@@ -45,489 +45,489 @@
     "h": "h"
   },
   "24715": {
-    "ymdh": "dmyh"
+    "ymdh": "ymdh"
   },
   "39004": {
-    "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<br>\nこの先では　全員が同じ出来事を共有しますが\n話が進むのは　パーティリーダーと　それと同じ\n進行状況の人のみです。他の人は進みません。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "This is an accompaniment point. In order to\nproceed, all party members must be ready.\n<br>\nFrom this point, everyone will view the same\nevents, but only the leader and other party\nmembers at the same point will progress.\n<select>\nWait for Party\nProceed with Ready Members\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<br>\nこの先では　全員が同じ出来事を共有しますが\n話が進むのは　パーティリーダーと　それと同じ\n進行状況の人のみです。他の人は進みません。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<br>\nこの先では　全員が同じ出来事を共有しますが\n話が進むのは　パーティリーダーと　それと同じ\n進行状況の人のみです。他の人は進みません。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "41263": {
-    "次回予告を　見ますか？<yesno><close>": "Preview the next episode?<yesno><close>"
+    "次回予告を　見ますか？<yesno><close>": "次回予告を　見ますか？<yesno><close>"
   },
   "45987": {
-    "クエストクリア！": "Quest Clear!"
+    "クエストクリア！": "クエストクリア！"
   },
   "45988": {
-    "クエストを受けた！": "Accepted the quest!"
+    "クエストを受けた！": "クエストを受けた！"
   },
   "45989": {
-    "クエストが進んだ！": "Quest was updated!"
+    "クエストが進んだ！": "クエストが進んだ！"
   },
   "47854": {
-    "姉": "sister"
+    "姉": "姉"
   },
   "47855": {
-    "姉妹": "sisters"
+    "姉妹": "姉妹"
   },
   "47856": {
-    "姉弟": "siblings"
+    "姉弟": "姉弟"
   },
   "47857": {
-    "兄": "brother"
+    "兄": "兄"
   },
   "47858": {
-    "兄妹": "siblings"
+    "兄妹": "兄妹"
   },
   "47859": {
-    "兄弟": "brothers"
+    "兄弟": "兄弟"
   },
   "47860": {
-    "妹": "sister"
+    "妹": "妹"
   },
   "47861": {
-    "妹さん": "sister"
+    "妹さん": "妹さん"
   },
   "47862": {
-    "姉ちゃん": "sister"
+    "姉ちゃん": "姉ちゃん"
   },
   "47863": {
-    "兄ちゃん": "brother"
+    "兄ちゃん": "兄ちゃん"
   },
   "47864": {
-    "お姉ちゃん": "sister"
+    "お姉ちゃん": "お姉ちゃん"
   },
   "47865": {
-    "お姉さん": "sister"
+    "お姉さん": "お姉さん"
   },
   "47866": {
-    "お兄ちゃん": "brother"
+    "お兄ちゃん": "お兄ちゃん"
   },
   "47867": {
-    "お兄さん": "brother"
+    "お兄さん": "お兄さん"
   },
   "47868": {
-    "弟": "brother"
+    "弟": "弟"
   },
   "47869": {
-    "弟さん": "brother"
+    "弟さん": "弟さん"
   },
   "48381": {
-    "？？？？？？？？？？？？": "????????????"
+    "？？？？？？？？？？？？": "？？？？？？？？？？？？"
   },
   "51602": {
-    "仲間全員の　準備が完了するまで\n待っています。": "Waiting for all party members to be ready."
+    "仲間全員の　準備が完了するまで\n待っています。": "仲間全員の　準備が完了するまで\n待っています。"
   },
   "69689": {
-    "依頼書クエストの　さそいが\nタイムアウトで取り消されたため\n受注できませんでした。": "Request form quest couldn't be accepted due\nto a timeout, and was cancelled."
+    "依頼書クエストの　さそいが\nタイムアウトで取り消されたため\n受注できませんでした。": "依頼書クエストの　さそいが\nタイムアウトで取り消されたため\n受注できませんでした。"
   },
   "69690": {
-    "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を\n受けました。<me 74><auto_bw=3000><close>": "Request Form Quest\n\"<%sQUE_IRAISYA>'s Request!\" was accepted.<me 74><auto_bw=3000><close>"
+    "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を\n受けました。<me 74><auto_bw=3000><close>": "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を\n受けました。<me 74><auto_bw=3000><close>"
   },
   "69691": {
-    "依頼書クエストは　これ以上　受けられません！\nせんれきコマンドの　クエストリストから\n依頼書クエストを　キャンセルしてください。": "You can't receive any more Request Form\nQuests! Go to \"Quest List\" under \"Records\" and\ncancel the currently accepted one."
+    "依頼書クエストは　これ以上　受けられません！\nせんれきコマンドの　クエストリストから\n依頼書クエストを　キャンセルしてください。": "依頼書クエストは　これ以上　受けられません！\nせんれきコマンドの　クエストリストから\n依頼書クエストを　キャンセルしてください。"
   },
   "69692": {
-    "<%sC_PC_LUA>から\n依頼書クエストに　さそわれました！\nこの依頼書クエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Request Form Quest invitation from <%sC_PC_LUA>!\nDo you want to accept this quest?\n<select>\nAccept\nDecline\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "<%sC_PC_LUA>から\n依頼書クエストに　さそわれました！\nこの依頼書クエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "<%sC_PC_LUA>から\n依頼書クエストに　さそわれました！\nこの依頼書クエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "69693": {
-    "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』の\nさそいを　断りました。": "Request Form Quest\n\"<%sQUE_IRAISYA>'s Request!\" invitation\nwas cancelled."
+    "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』の\nさそいを　断りました。": "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』の\nさそいを　断りました。"
   },
   "69754": {
-    "仲間と一緒に　この先に行くためには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed, all of your party members\nmust be ready.\n<select>\nWait for Party\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間と一緒に　この先に行くためには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "仲間と一緒に　この先に行くためには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "69755": {
-    "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<br>\nこの先では　全員が同じ出来事を共有しますが\n話が進むのは　パーティリーダーと　それと同じ\n進行状況の人のみです。他の人は進みません。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "This is an accompaniment point. In order to\nproceed, all party members must be ready.\n<br>\nFrom this point, everyone will view the same\nevents, but only the leader and other party\nmembers at the same point will progress.\n<select>\nWait for Party\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<br>\nこの先では　全員が同じ出来事を共有しますが\n話が進むのは　パーティリーダーと　それと同じ\n進行状況の人のみです。他の人は進みません。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<br>\nこの先では　全員が同じ出来事を共有しますが\n話が進むのは　パーティリーダーと　それと同じ\n進行状況の人のみです。他の人は進みません。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "69775": {
-    "依頼書クエストの　さそいが\nタイムアウトで取り消されたため\n受注できませんでした。": "Request form quest couldn't be accepted due\nto a timeout, and was cancelled."
+    "依頼書クエストの　さそいが\nタイムアウトで取り消されたため\n受注できませんでした。": "依頼書クエストの　さそいが\nタイムアウトで取り消されたため\n受注できませんでした。"
   },
   "69818": {
-    "<pipipi_mid>「こちらの　<%sN_ITEM>ですな。\n　では　１００ゴールドで\n　お買い取りします。よろしいですか？<yesno><break>": "<pipipi_mid>This is <%sN_ITEM>, hm? Then I'll buy\nit for 100 Gold. Is that all right?<yesno><break>"
+    "<pipipi_mid>「こちらの　<%sN_ITEM>ですな。\n　では　１００ゴールドで\n　お買い取りします。よろしいですか？<yesno><break>": "<pipipi_mid>「こちらの　<%sN_ITEM>ですな。\n　では　１００ゴールドで\n　お買い取りします。よろしいですか？<yesno><break>"
   },
   "69819": {
-    "<pipipi_mid>「季節限定の依頼書以外であれば\n　１００ゴールドで　買い取りいたしますぞ！\n　どの依頼書を　お売りいただけるのですかな？<break>": "<pipipi_mid>As long as it's not a seasonal request,\nI'll buy it for 100 Gold. Which request\nwould you like to sell to me?<break>"
+    "<pipipi_mid>「季節限定の依頼書以外であれば\n　１００ゴールドで　買い取りいたしますぞ！\n　どの依頼書を　お売りいただけるのですかな？<break>": "<pipipi_mid>「季節限定の依頼書以外であれば\n　１００ゴールドで　買い取りいたしますぞ！\n　どの依頼書を　お売りいただけるのですかな？<break>"
   },
   "69820": {
-    "<pipipi_mid>「おやめになるのですな。\n　他に　お売りいただける\n　依頼書は　お持ちでありますか？<break>": "<pipipi_mid>You're stopping? Do you have any other\nrequest forms you want to sell?<break>"
+    "<pipipi_mid>「おやめになるのですな。\n　他に　お売りいただける\n　依頼書は　お持ちでありますか？<break>": "<pipipi_mid>「おやめになるのですな。\n　他に　お売りいただける\n　依頼書は　お持ちでありますか？<break>"
   },
   "69828": {
-    "依頼書クエストに　さそわれています！\nこの依頼書クエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "You received a Request Form Quest invitation!\nDo you want to accept this quest?\n<select>\nAccept\nDecline\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "依頼書クエストに　さそわれています！\nこの依頼書クエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "依頼書クエストに　さそわれています！\nこの依頼書クエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "70153": {
-    "<pipipi_mid>「ありがとうございますぞ　<pc>どの！\n　それでは　１００ゴールド　お渡しいたします。<bw_break>": "<pipipi_mid>Thank you very much, <if_woman>Ms.<else>Mr.<endif> <pc>!\nHere is your 100 Gold.<bw_break>"
+    "<pipipi_mid>「ありがとうございますぞ　<pc>どの！\n　それでは　１００ゴールド　お渡しいたします。<bw_break>": "<pipipi_mid>「ありがとうございますぞ　<pc>どの！\n　それでは　１００ゴールド　お渡しいたします。<bw_break>"
   },
   "71620": {
-    "相手が　カササギに話しかけるのを\n待っています。\n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Waiting for others to talk to the Magpie.\n<select>\nKeep Waiting\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "相手が　カササギに話しかけるのを\n待っています。\n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "相手が　カササギに話しかけるのを\n待っています。\n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "84499": {
-    "<pipipi_mid>「季節限定の依頼書以外であれば\n　１００ゴールドで　買い取りいたしますぞ！\n　どの依頼書を　お売りいただけるのですかな？<break>": "<pipipi_mid>As long as it's not a seasonal request,\nI'll buy it for 100 Gold. Which request\nwould you like to sell to me?<break>"
+    "<pipipi_mid>「季節限定の依頼書以外であれば\n　１００ゴールドで　買い取りいたしますぞ！\n　どの依頼書を　お売りいただけるのですかな？<break>": "<pipipi_mid>「季節限定の依頼書以外であれば\n　１００ゴールドで　買い取りいたしますぞ！\n　どの依頼書を　お売りいただけるのですかな？<break>"
   },
   "90118": {
-    "<color_yellow>ゆめみの箱の　説明です！\n<br>\nゆめみの箱は　勇気の輝きがなくなるまでに\n迷宮をクリアしなければ\n中身を取り出すことは　できません。\n<br>\n失敗した場合　ゆめみの箱は失われます。\n時間内に　迷宮の主を倒し\n王家の迷宮をクリアしましょう。": "<color_yellow>This is an explanation of the Dream Box!\n<br>\nThe contents of the Dream Box cannot be\nretrieved unless the Maze is cleared before\nthe Spark of Courage runs out.\n<br>\nIf failed, the Dream Box will be lost.\nDefeat the Maze Lord and clear the Royal Maze\nin time."
+    "<color_yellow>ゆめみの箱の　説明です！\n<br>\nゆめみの箱は　勇気の輝きがなくなるまでに\n迷宮をクリアしなければ\n中身を取り出すことは　できません。\n<br>\n失敗した場合　ゆめみの箱は失われます。\n時間内に　迷宮の主を倒し\n王家の迷宮をクリアしましょう。": "<color_yellow>ゆめみの箱の　説明です！\n<br>\nゆめみの箱は　勇気の輝きがなくなるまでに\n迷宮をクリアしなければ\n中身を取り出すことは　できません。\n<br>\n失敗した場合　ゆめみの箱は失われます。\n時間内に　迷宮の主を倒し\n王家の迷宮をクリアしましょう。"
   },
   "90119": {
-    "未使用": "UNUSED"
+    "未使用": "未使用"
   },
   "90457": {
-    "地下１階　薄明の空園": "B1F Twilit Sky Garden"
+    "地下１階　薄明の空園": "地下１階　薄明の空園"
   },
   "90458": {
-    "地下２階　薄明の砂漠": "B2F Twilit Desert"
+    "地下２階　薄明の砂漠": "地下２階　薄明の砂漠"
   },
   "90459": {
-    "地下３階　薄明の聖林": "B3F Twilit Forest"
+    "地下３階　薄明の聖林": "地下３階　薄明の聖林"
   },
   "90460": {
-    "地下４階　陽光の空園": "B4F Sunny Sky Garden"
+    "地下４階　陽光の空園": "地下４階　陽光の空園"
   },
   "90461": {
-    "地下５階　陽光の砂漠": "B5F Sunlight Desert"
+    "地下５階　陽光の砂漠": "地下５階　陽光の砂漠"
   },
   "90462": {
-    "地下６階　陽光の聖林": "B6F Sunlight Forest"
+    "地下６階　陽光の聖林": "地下６階　陽光の聖林"
   },
   "90463": {
-    "地下７階　落日の空園": "B7F Sunset Garden"
+    "地下７階　落日の空園": "地下７階　落日の空園"
   },
   "90464": {
-    "地下８階　落日の砂漠": "B8F Sunset Desert"
+    "地下８階　落日の砂漠": "地下８階　落日の砂漠"
   },
   "90465": {
-    "地下９階　落日の聖林": "B9F Sunset Forest"
+    "地下９階　落日の聖林": "地下９階　落日の聖林"
   },
   "90466": {
-    "地下10階　闇夜の空園": "B10F Night Sky Garden"
+    "地下10階　闇夜の空園": "地下10階　闇夜の空園"
   },
   "90467": {
-    "地下11階　闇夜の砂漠": "B11F Night Desert"
+    "地下11階　闇夜の砂漠": "地下11階　闇夜の砂漠"
   },
   "90468": {
-    "地下12階　闇夜の聖林": "B12F Night Forest"
+    "地下12階　闇夜の聖林": "地下12階　闇夜の聖林"
   },
   "90469": {
-    "未使用": "UNUSED"
+    "未使用": "未使用"
   },
   "90470": {
-    "未使用": "UNUSED"
+    "未使用": "未使用"
   },
   "90941": {
-    "地下13階　深淵の間": "B13F Hall of Abyss"
+    "地下13階　深淵の間": "地下13階　深淵の間"
   },
   "91841": {
-    "未使用": "UNUSED"
+    "未使用": "未使用"
   },
   "93785": {
-    "<%sC_Kaisou>に　行きます。\nよろしいですか？<yesno><close>": "Go to <%sC_Kaisou>?<yesno><close>"
+    "<%sC_Kaisou>に　行きます。\nよろしいですか？<yesno><close>": "<%sC_Kaisou>に　行きます。\nよろしいですか？<yesno><close>"
   },
   "93786": {
-    "闇の中に　<%sC_ITEM_NAME>がある。\n勇気の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？\n<yesno><close>": "There's a <%sC_ITEM_NAME> shrouded\nin darkness. Use <%dC_KAGAYAKI_NUM> Sparks of Courage to\nreceive it?\n<yesno><close>"
+    "闇の中に　<%sC_ITEM_NAME>がある。\n勇気の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？\n<yesno><close>": "闇の中に　<%sC_ITEM_NAME>がある。\n勇気の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？\n<yesno><close>"
   },
   "94680": {
-    "王家の迷宮の　アナザーモードに\nチャレンジできるようになりました！": "You can now challenge the Royal Maze's\n\"Another\" Mode!"
+    "王家の迷宮の　アナザーモードに\nチャレンジできるようになりました！": "王家の迷宮の　アナザーモードに\nチャレンジできるようになりました！"
   },
   "94681": {
-    "行き先選択": "Destination"
+    "行き先選択": "行き先選択"
   },
   "94682": {
-    "アナザーモード": "Another Mode"
+    "アナザーモード": "アナザーモード"
   },
   "94692": {
-    "地下１階　薄明の空園": "B1F Twilit Sky Garden"
+    "地下１階　薄明の空園": "地下１階　薄明の空園"
   },
   "94693": {
-    "地下２階　薄明の砂漠": "B2F Twilit Desert"
+    "地下２階　薄明の砂漠": "地下２階　薄明の砂漠"
   },
   "94694": {
-    "地下３階　薄明の聖林": "B3F Twilit Forest"
+    "地下３階　薄明の聖林": "地下３階　薄明の聖林"
   },
   "94695": {
-    "地下４階　陽光の空園": "B4F Sunny Sky Garden"
+    "地下４階　陽光の空園": "地下４階　陽光の空園"
   },
   "94696": {
-    "地下５階　陽光の砂漠": "B5F Sunlight Desert"
+    "地下５階　陽光の砂漠": "地下５階　陽光の砂漠"
   },
   "94697": {
-    "地下６階　陽光の聖林": "B6F Sunlight Forest"
+    "地下６階　陽光の聖林": "地下６階　陽光の聖林"
   },
   "94698": {
-    "地下７階　落日の空園": "B7F Sunset Garden"
+    "地下７階　落日の空園": "地下７階　落日の空園"
   },
   "94699": {
-    "地下８階　落日の砂漠": "B8F Sunset Desert"
+    "地下８階　落日の砂漠": "地下８階　落日の砂漠"
   },
   "94700": {
-    "地下９階　落日の聖林": "B9F Sunset Forest"
+    "地下９階　落日の聖林": "地下９階　落日の聖林"
   },
   "94701": {
-    "地下10階　闇夜の空園": "B10F Night Sky Garden"
+    "地下10階　闇夜の空園": "地下10階　闇夜の空園"
   },
   "94702": {
-    "地下11階　闇夜の砂漠": "B11F Night Desert"
+    "地下11階　闇夜の砂漠": "地下11階　闇夜の砂漠"
   },
   "94703": {
-    "地下12階　闇夜の聖林": "B12F Night Forest"
+    "地下12階　闇夜の聖林": "地下12階　闇夜の聖林"
   },
   "94704": {
-    "地下13階　輪廻の間": "B13F Room of Rebirth"
+    "地下13階　輪廻の間": "地下13階　輪廻の間"
   },
   "96077": {
-    "アナザーモードの\n<%sC_Kaisou>に行きます。\nよろしいですか？<yesno><close>": "Go to Another Mode's <%sC_Kaisou>?<yesno><close>"
+    "アナザーモードの\n<%sC_Kaisou>に行きます。\nよろしいですか？<yesno><close>": "アナザーモードの\n<%sC_Kaisou>に行きます。\nよろしいですか？<yesno><close>"
   },
   "96078": {
-    "未使用": "UNUSED"
+    "未使用": "未使用"
   },
   "97430": {
-    "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "This is an accompaniment point. In order to\nproceed, all party members must be ready.\n<select>\nWait for Party\nProceed with Ready Members\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "98052": {
-    "「パーティを組んでいる　仲間がいるようだな。\n　仲間と一緒に　釣りチャレンジをしたいなら\n　パーティ全員の準備を　完了させてくれ。": "It seems there are members in your party. If\nyou want to play the fishing challenge with\nyour party, all members must be ready."
+    "「パーティを組んでいる　仲間がいるようだな。\n　仲間と一緒に　釣りチャレンジをしたいなら\n　パーティ全員の準備を　完了させてくれ。": "「パーティを組んでいる　仲間がいるようだな。\n　仲間と一緒に　釣りチャレンジをしたいなら\n　パーティ全員の準備を　完了させてくれ。"
   },
   "98053": {
-    "仲間がそろうのを　待っています……。\n<select>\n仲間の準備完了を待つ\n釣りチャレンジをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Waiting for party members to accept...\n<select>\nWait for Party\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間がそろうのを　待っています……。\n<select>\n仲間の準備完了を待つ\n釣りチャレンジをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "仲間がそろうのを　待っています……。\n<select>\n仲間の準備完了を待つ\n釣りチャレンジをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "98060": {
-    "「オーケー！　今は　やめとくんだな。 \n　やりたくなったら　また　声をかけてくれ。": "Oh-kay! I'll stop now. If you change your\nmind, please come to me again."
+    "「オーケー！　今は　やめとくんだな。 \n　やりたくなったら　また　声をかけてくれ。": "「オーケー！　今は　やめとくんだな。 \n　やりたくなったら　また　声をかけてくれ。"
   },
   "98166": {
-    "今は　このクエストの行き先を\n表示できません。 ": "This quest's destination cannot be displayed\nright now."
+    "今は　このクエストの行き先を\n表示できません。 ": "今は　このクエストの行き先を\n表示できません。 "
   },
   "98167": {
-    "このクエストの行き先には\nまだ　行ったことがないので\n行き先を表示することが　できません。 ": "Since you haven't been to this quest's\ndestination yet, it cannot be displayed."
+    "このクエストの行き先には\nまだ　行ったことがないので\n行き先を表示することが　できません。 ": "このクエストの行き先には\nまだ　行ったことがないので\n行き先を表示することが　できません。 "
   },
   "98511": {
-    "アナザーモードの　<%sC_Kaisou>では\n特別なクリア報酬が手に入り　クリア後には\nアナザーモードのクリア状態がリセットされます。\n<br>\nリセット後に　ふたたび　アナザーモードの\n地下１階から　地下13階までをクリアすれば\n何度でもクリア報酬を手に入れることが可能です。\n<br>\n<%sC_Kaisou>に　行ってよろしいですか？<yesno><close>": "In <%sC_Kaisou>'s Another Mode, you'll get\na special clear reward. After completely\nclearing, Another Mode will reset itself.\n<br>\nYou can receive this reward as many times\nas you like after resetting and clearing\nB1F to B13F again.\n<br>\nDo you want to go to <%sC_Kaisou>?<yesno><close>"
+    "アナザーモードの　<%sC_Kaisou>では\n特別なクリア報酬が手に入り　クリア後には\nアナザーモードのクリア状態がリセットされます。\n<br>\nリセット後に　ふたたび　アナザーモードの\n地下１階から　地下13階までをクリアすれば\n何度でもクリア報酬を手に入れることが可能です。\n<br>\n<%sC_Kaisou>に　行ってよろしいですか？<yesno><close>": "アナザーモードの　<%sC_Kaisou>では\n特別なクリア報酬が手に入り　クリア後には\nアナザーモードのクリア状態がリセットされます。\n<br>\nリセット後に　ふたたび　アナザーモードの\n地下１階から　地下13階までをクリアすれば\n何度でもクリア報酬を手に入れることが可能です。\n<br>\n<%sC_Kaisou>に　行ってよろしいですか？<yesno><close>"
   },
   "98512": {
-    "<%sC_Kaisou>に行きます。\nすでに　クリア報酬を手に入れているため\nクリア報酬は手に入りませんが　よろしいですか？<yesno><close>": "If you go to <%sC_Kaisou>, you\nwon't receive a clear reward since you already\nreceived it. Is this okay?<yesno><close>"
+    "<%sC_Kaisou>に行きます。\nすでに　クリア報酬を手に入れているため\nクリア報酬は手に入りませんが　よろしいですか？<yesno><close>": "<%sC_Kaisou>に行きます。\nすでに　クリア報酬を手に入れているため\nクリア報酬は手に入りませんが　よろしいですか？<yesno><close>"
   },
   "99013": {
-    "これより先には　同行する仲間全員の\n準備が完了しないと　行くことができません。\n<select>\nこのまま待つ\n移動をやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "You won't be able to proceed until all party\nmembers are ready.\n<select>\nKeep Waiting\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "これより先には　同行する仲間全員の\n準備が完了しないと　行くことができません。\n<select>\nこのまま待つ\n移動をやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "これより先には　同行する仲間全員の\n準備が完了しないと　行くことができません。\n<select>\nこのまま待つ\n移動をやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "102476": {
-    "仲間全員の解答を待っています。\n最大１分待っても　解答がない場合は\n完了している仲間だけで進みます。\n<select>\n仲間の解答を待つ\n<select_end>\n<case 1>\n<close>\n<case_cancel>\n<break>\n<case_end>": "Waiting for party member's response. After 1\nminute, you will proceed with other members\nwho have responded.\n<select>\nWait for Response\n<select_end>\n<case 1>\n<close>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間全員の解答を待っています。\n最大１分待っても　解答がない場合は\n完了している仲間だけで進みます。\n<select>\n仲間の解答を待つ\n<select_end>\n<case 1>\n<close>\n<case_cancel>\n<break>\n<case_end>": "仲間全員の解答を待っています。\n最大１分待っても　解答がない場合は\n完了している仲間だけで進みます。\n<select>\n仲間の解答を待つ\n<select_end>\n<case 1>\n<close>\n<case_cancel>\n<break>\n<case_end>"
   },
   "102563": {
-    "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』の\nさそいを　断りました。": "Quest Form Quest\n\"<%sQUE_IRAISYA>'s Urgent Request!\"\ninvitation was cancelled."
+    "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』の\nさそいを　断りました。": "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』の\nさそいを　断りました。"
   },
   "102564": {
-    "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』を\n受けました。<me 74><auto_bw=1000><close>": "Request Form Quest\n\"<%sQUE_IRAISYA>'s Urgent Request!\"\nwas accepted.<me 74><auto_bw=1000><close>"
+    "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』を\n受けました。<me 74><auto_bw=1000><close>": "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』を\n受けました。<me 74><auto_bw=1000><close>"
   },
   "102565": {
-    "緊急依頼書クエストは　１つしか受けられません！\nせんれきコマンドの　クエストリストから\n緊急依頼書クエストを　キャンセルしてください。": "You can't receive any more Urgent Request Form\nQuests! Go to \"Quest List\" under \"Records\"\nand cancel the currently accepted one."
+    "緊急依頼書クエストは　１つしか受けられません！\nせんれきコマンドの　クエストリストから\n緊急依頼書クエストを　キャンセルしてください。": "緊急依頼書クエストは　１つしか受けられません！\nせんれきコマンドの　クエストリストから\n緊急依頼書クエストを　キャンセルしてください。"
   },
   "102566": {
-    "<%sC_PC_LUA>から　依頼書クエストに\nさそわれました！\n<br>\nこのクエストは受けてから\n<%nLIFETIMESEC>分以内に　達成する必要があります。\nこのクエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Request Form Quest received from <%sC_PC_LUA>!\n<br>\nThis quest must be completed in <%dLIFETIMESEC> minutes\nafter accepting it. Accept the quest?\n<select>\nAccept\nDecline\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "<%sC_PC_LUA>から　依頼書クエストに\nさそわれました！\n<br>\nこのクエストは受けてから\n<%nLIFETIMESEC>分以内に　達成する必要があります。\nこのクエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "<%sC_PC_LUA>から　依頼書クエストに\nさそわれました！\n<br>\nこのクエストは受けてから\n<%nLIFETIMESEC>分以内に　達成する必要があります。\nこのクエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "102567": {
-    "依頼書クエストに　さそわれています！\n<br>\nこのクエストは受けてから\n<%nLIFETIMESEC>分以内に　達成する必要があります。\nこのクエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "You received a Request Form Quest!\n<br>\nThis quest must be completed in <%dLIFETIMESEC> minutes\nafter accepting it. Accept the quest?\n<select>\nAccept\nDecline\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "依頼書クエストに　さそわれています！\n<br>\nこのクエストは受けてから\n<%nLIFETIMESEC>分以内に　達成する必要があります。\nこのクエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "依頼書クエストに　さそわれています！\n<br>\nこのクエストは受けてから\n<%nLIFETIMESEC>分以内に　達成する必要があります。\nこのクエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "103852": {
-    "仲間がそろうのを　待っています……。\n１分待っても　仲間がそろわない場合は\nこのまま　先に進みます。": "Waiting for party members to respond...\nAfter 1 minute, you'll proceed as is with any\nmembers who responded."
+    "仲間がそろうのを　待っています……。\n１分待っても　仲間がそろわない場合は\nこのまま　先に進みます。": "仲間がそろうのを　待っています……。\n１分待っても　仲間がそろわない場合は\nこのまま　先に進みます。"
   },
   "112754": {
-    "<pipipi_shigh>「お見事！！ \n　やはり　<pc>が　ただよわせる\n　超一流の匂いは　ホンモノだったか！<break>": "<pipipi_shigh>Amazing! I just knew that <pc>'s\ntop-notch scent was the real deal!<break>"
+    "<pipipi_shigh>「お見事！！ \n　やはり　<pc>が　ただよわせる\n　超一流の匂いは　ホンモノだったか！<break>": "<pipipi_shigh>「お見事！！ \n　やはり　<pc>が　ただよわせる\n　超一流の匂いは　ホンモノだったか！<break>"
   },
   "112755": {
-    "<pipipi_shigh>「むむ！？　<pc>の仲間が \n　ワガハイの正体を　見抜いたようだぞ！<break>": "<pipipi_shigh>Hmmm?! Looks like <pc> and\ntheir group figured out who we really are!<break>"
+    "<pipipi_shigh>「むむ！？　<pc>の仲間が \n　ワガハイの正体を　見抜いたようだぞ！<break>": "<pipipi_shigh>「むむ！？　<pc>の仲間が \n　ワガハイの正体を　見抜いたようだぞ！<break>"
   },
   "112756": {
-    "<pipipi_shigh>「う～む　不正解だ。\n　ワガハイも　残念だぞ。<break>-- ▼クイズスライム（ライムウェル）": "<pipipi_shigh>Hmmm, incorrect.\nI'm disappointed.<break>-- ▼ Quiz Slime (Limewell)"
+    "<pipipi_shigh>「う～む　不正解だ。\n　ワガハイも　残念だぞ。<break>-- ▼クイズスライム（ライムウェル）": "<pipipi_shigh>「う～む　不正解だ。\n　ワガハイも　残念だぞ。<break>-- ▼クイズスライム（ライムウェル）"
   },
   "124279": {
-    "仲間が　そろいました。\nパーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": "The party has gathered.\nPlease wait for the other parties.<wait=1000><close>"
+    "仲間が　そろいました。\nパーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": "仲間が　そろいました。\nパーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>"
   },
   "124280": {
-    "仲間と一緒に　この先に行くためには\n一緒に行きたい仲間の準備が\n完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed, you'll have to be ready\nwith your party.\n<select>\nWait for Party\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間と一緒に　この先に行くためには\n一緒に行きたい仲間の準備が\n完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "仲間と一緒に　この先に行くためには\n一緒に行きたい仲間の準備が\n完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "153036": {
-    "おはなしを　進めるために\n<%sEV_GUIDESTAGE>の\n近くの場所まで　移動しますか？<yesno><close>": "Would you like to move to a location near\n<%sEV_GUIDESTAGE>\nto continue the story?<yesno><close>"
+    "おはなしを　進めるために\n<%sEV_GUIDESTAGE>の\n近くの場所まで　移動しますか？<yesno><close>": "おはなしを　進めるために\n<%sEV_GUIDESTAGE>の\n近くの場所まで　移動しますか？<yesno><close>"
   },
   "153043": {
-    "<pipipi_mid>「ほう……。マネた相手を見破ったか。\n　どうやら　貴様の魂は　一流のようだな。<break>": "<pipipi_mid>See... You figured out who he was copying.\nApparently, you have a top-notch soul.<break>"
+    "<pipipi_mid>「ほう……。マネた相手を見破ったか。\n　どうやら　貴様の魂は　一流のようだな。<break>": "<pipipi_mid>「ほう……。マネた相手を見破ったか。\n　どうやら　貴様の魂は　一流のようだな。<break>"
   },
   "153044": {
-    "<pipipi_mid>「ほう……。貴様の仲間が\n　マネた相手を　見破ったようだな。\n　そやつは　一流の魂を持つということか。<break>": "<pipipi_mid>See... Your friends figured out who he was\ncopying. So they have a top-notch soul.<break>"
+    "<pipipi_mid>「ほう……。貴様の仲間が\n　マネた相手を　見破ったようだな。\n　そやつは　一流の魂を持つということか。<break>": "<pipipi_mid>「ほう……。貴様の仲間が\n　マネた相手を　見破ったようだな。\n　そやつは　一流の魂を持つということか。<break>"
   },
   "153045": {
-    "<pipipi_mid>「ククク……。不正解だ。\n　誰ひとり　当てることが　できんとは\n　貴様たちには　失望したぞ。<break>": "<pipipi_mid>Mwahaha... Incorrect.\nI'm disappointed that none of you can guess\nwho it is.<break>"
+    "<pipipi_mid>「ククク……。不正解だ。\n　誰ひとり　当てることが　できんとは\n　貴様たちには　失望したぞ。<break>": "<pipipi_mid>「ククク……。不正解だ。\n　誰ひとり　当てることが　できんとは\n　貴様たちには　失望したぞ。<break>"
   },
   "159257": {
-    "この場所で　依頼書クエストを\n受けることはできません！": "You cannot receive a Request Form Quest\nat this location!"
+    "この場所で　依頼書クエストを\n受けることはできません！": "この場所で　依頼書クエストを\n受けることはできません！"
   },
   "166267": {
-    "報酬": "Reward"
+    "報酬": "報酬"
   },
   "173583": {
-    "パーティリーダーが　どの神聖秘文に\n挑戦するか　選択しています。\nこのままの状態で　お待ちください。\n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "The party leader has chosen which sacred\ntext to challenge. Please wait.\n<select>\nKeep Waiting\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "パーティリーダーが　どの神聖秘文に\n挑戦するか　選択しています。\nこのままの状態で　お待ちください。\n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "パーティリーダーが　どの神聖秘文に\n挑戦するか　選択しています。\nこのままの状態で　お待ちください。\n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "173584": {
-    "仲間が　そろうのを　待っています。 \n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Waiting for members to gather. \n<select>\nKeep Waiting\nStop\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間が　そろうのを　待っています。 \n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "仲間が　そろうのを　待っています。 \n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "184491": {
-    "見つかっちゃった！": "I found it!"
+    "見つかっちゃった！": "見つかっちゃった！"
   },
   "193032": {
-    "仲間と一緒に　退出するには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nパーティを抜けて先に進む\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed, you and your party\nmembers must all be ready.\n<select>\nWait for Party\nLeave Party and Proceed\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間と一緒に　退出するには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nパーティを抜けて先に進む\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "仲間と一緒に　退出するには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nパーティを抜けて先に進む\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "212437": {
-    "パーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": "Waiting for other party alliance members.<wait=1000><close>"
+    "パーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": "パーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>"
   },
   "264076": {
-    "悔恨の園": "Lamentus"
+    "悔恨の園": "悔恨の園"
   },
   "264077": {
-    "哀惜の砂漠": "Tristitia"
+    "哀惜の砂漠": "哀惜の砂漠"
   },
   "264078": {
-    "断罪の森": "Damnatio"
+    "断罪の森": "断罪の森"
   },
   "264977": {
-    "アンルシアと一緒に　迷宮に挑み\n謎の魂を　助けてあげよう。": "Challenge the Maze with Anlucia\nand help the mysterious soul."
+    "アンルシアと一緒に　迷宮に挑み\n謎の魂を　助けてあげよう。": "アンルシアと一緒に　迷宮に挑み\n謎の魂を　助けてあげよう。"
   },
   "264978": {
-    "もう一度　迷宮に挑戦して\n迷宮レベルを　上げてみよう。": "Challenge the Maze again\nand raise your Maze Level."
+    "もう一度　迷宮に挑戦して\n迷宮レベルを　上げてみよう。": "もう一度　迷宮に挑戦して\n迷宮レベルを　上げてみよう。"
   },
   "264979": {
-    "さらに迷宮を突破して　謎の魂の\n記憶の　てがかりを探そう。": "Clear more mazes to find clues\nabout this soul's memory."
+    "さらに迷宮を突破して　謎の魂の\n記憶の　てがかりを探そう。": "さらに迷宮を突破して　謎の魂の\n記憶の　てがかりを探そう。"
   },
   "264980": {
-    "迷宮レベルが上がると\n迷宮の主が　さらに手強くなるぞ。": "As Maze Level increases, the\nBoss grows stronger."
+    "迷宮レベルが上がると\n迷宮の主が　さらに手強くなるぞ。": "迷宮レベルが上がると\n迷宮の主が　さらに手強くなるぞ。"
   },
   "264981": {
-    "迷宮の奥から感じる　気配が\nすこし　強まったような気がする。": "The presence inside the Maze\ngrows ever stronger."
+    "迷宮の奥から感じる　気配が\nすこし　強まったような気がする。": "迷宮の奥から感じる　気配が\nすこし　強まったような気がする。"
   },
   "264982": {
-    "迷宮の主の気配が　より強まった。\n気を抜かずに挑戦しよう。": "The Maze Boss' presence grows\nstronger. Steel yourself."
+    "迷宮の主の気配が　より強まった。\n気を抜かずに挑戦しよう。": "迷宮の主の気配が　より強まった。\n気を抜かずに挑戦しよう。"
   },
   "264983": {
-    "かなり　強烈な気配を感じる。\n相応の覚悟をもって　挑もう。": "You sense a very strong\npresence. Prepare well."
+    "かなり　強烈な気配を感じる。\n相応の覚悟をもって　挑もう。": "かなり　強烈な気配を感じる。\n相応の覚悟をもって　挑もう。"
   },
   "265072": {
-    "闇の中に　<%sC_ITEM_NAME>がある。\n心の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？\n<yesno><close>": "The <% sC_ITEM_NAME> is shrouded in\ndarkness.\nUse <%dC_KAGAYAKI_NUM> Heart Energy to obtain it?\n<yesno><close>"
+    "闇の中に　<%sC_ITEM_NAME>がある。\n心の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？\n<yesno><close>": "闇の中に　<%sC_ITEM_NAME>がある。\n心の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？\n<yesno><close>"
   },
   "267924": {
-    "<color_yellow>ゆめみの箱を　入手しました！\n<br>\n迷宮内に落ちている　ゆめみの箱は\n画面左上に表示されている　心の輝きと引き換えに\n闇を払い　手に入れることができますが……\n<br>\n迷宮内で全滅してしまうと　外の世界へ\n持ち帰って　中身を取り出すことはできず\n失われてしまいますので　ご注意ください。": "<color_yellow>You received a Dream Box!\n<br>\nDream Boxes can be obtained by dispelling the\ndarkness in exchange for your Heart Energy\nshown in the upper left corner of the screen.\n<br>\nHowever, if your party is wiped out, you'll\nlose any Dream Boxes you collected."
+    "<color_yellow>ゆめみの箱を　入手しました！\n<br>\n迷宮内に落ちている　ゆめみの箱は\n画面左上に表示されている　心の輝きと引き換えに\n闇を払い　手に入れることができますが……\n<br>\n迷宮内で全滅してしまうと　外の世界へ\n持ち帰って　中身を取り出すことはできず\n失われてしまいますので　ご注意ください。": "<color_yellow>ゆめみの箱を　入手しました！\n<br>\n迷宮内に落ちている　ゆめみの箱は\n画面左上に表示されている　心の輝きと引き換えに\n闇を払い　手に入れることができますが……\n<br>\n迷宮内で全滅してしまうと　外の世界へ\n持ち帰って　中身を取り出すことはできず\n失われてしまいますので　ご注意ください。"
   },
   "267925": {
-    "<color_yellow>うつしよの箱を　入手しました！\n<br>\n心層の迷宮では　ボスを撃破することで\nクリア報酬として　うつしよの箱を\n手に入れることができます。\n<br>\nさらに　迷宮レベルが高いほど\nより高い効果を持つ　輝石のベルトが\n手に入りやすくなる可能性も！": "<color_yellow>Received a World Box!\n<br>\nIn the Heart Maze, you can get a World\nBox as a reward for defeating the boss.\n<br>\nIn addition, the higher your Maze Level is,\nthe easier it is to find Augite Belts with\nstronger effects!"
+    "<color_yellow>うつしよの箱を　入手しました！\n<br>\n心層の迷宮では　ボスを撃破することで\nクリア報酬として　うつしよの箱を\n手に入れることができます。\n<br>\nさらに　迷宮レベルが高いほど\nより高い効果を持つ　輝石のベルトが\n手に入りやすくなる可能性も！": "<color_yellow>うつしよの箱を　入手しました！\n<br>\n心層の迷宮では　ボスを撃破することで\nクリア報酬として　うつしよの箱を\n手に入れることができます。\n<br>\nさらに　迷宮レベルが高いほど\nより高い効果を持つ　輝石のベルトが\n手に入りやすくなる可能性も！"
   },
   "268123": {
-    "迷宮レベルが上がると\n迷宮の主が　少し手強くなるぞ。": "As Maze Level increases, the\nBoss grows slightly stronger."
+    "迷宮レベルが上がると\n迷宮の主が　少し手強くなるぞ。": "迷宮レベルが上がると\n迷宮の主が　少し手強くなるぞ。"
   },
   "268124": {
-    "謎の魂の　記憶を取り戻すカギを\n見つけられそうな　予感がする。": "You have a feeling that you've nearly found\nthe key to recovering the mysterious soul's\nmemory."
+    "謎の魂の　記憶を取り戻すカギを\n見つけられそうな　予感がする。": "謎の魂の　記憶を取り戻すカギを\n見つけられそうな　予感がする。"
   },
   "268125": {
-    "迷宮の主の気配は　すこしずつ\n確実に　強くなっている。": "The Maze Boss' presence continues to grow\nstronger by the minute."
+    "迷宮の主の気配は　すこしずつ\n確実に　強くなっている。": "迷宮の主の気配は　すこしずつ\n確実に　強くなっている。"
   },
   "268126": {
-    "とても　強そうな気配がする……\nしっかり準備をして　挑戦しよう。": "It seems very strong...\nMake sure to prepare yourself before\nchallenging it."
+    "とても　強そうな気配がする……\nしっかり準備をして　挑戦しよう。": "とても　強そうな気配がする……\nしっかり準備をして　挑戦しよう。"
   },
   "268344": {
-    "５０００": "5000"
+    "５０００": "５０００"
   },
   "268345": {
-    "１００００": "10000"
+    "１００００": "１００００"
   },
   "268346": {
-    "１５０００": "15000"
+    "１５０００": "１５０００"
   },
   "268347": {
-    "２５０００": "25000"
+    "２５０００": "２５０００"
   },
   "268348": {
-    "３００００": "30000"
+    "３００００": "３００００"
   },
   "268349": {
-    "３５０００": "35000"
+    "３５０００": "３５０００"
   },
   "268350": {
-    "４００００": "40000"
+    "４００００": "４００００"
   },
   "268351": {
-    "４５０００": "45000"
+    "４５０００": "４５０００"
   },
   "268352": {
-    "５００００": "50000"
+    "５００００": "５００００"
   },
   "268353": {
-    "１５": "15"
+    "１５": "１５"
   },
   "268354": {
-    "２０": "20"
+    "２０": "２０"
   },
   "268355": {
-    "２５": "25"
+    "２５": "２５"
   },
   "268356": {
-    "３５": "35"
+    "３５": "３５"
   },
   "268357": {
-    "４０": "40"
+    "４０": "４０"
   },
   "268358": {
-    "４５": "45"
+    "４５": "４５"
   },
   "268359": {
-    "５０": "50"
+    "５０": "５０"
   },
   "268360": {
-    "５５": "55"
+    "５５": "５５"
   },
   "268361": {
-    "６０": "60"
+    "６０": "６０"
   },
   "268362": {
-    "１５００": "1500"
+    "１５００": "１５００"
   },
   "268363": {
-    "３０００": "3000"
+    "３０００": "３０００"
   },
   "268364": {
-    "４５００": "4500"
+    "４５００": "４５００"
   },
   "268365": {
-    "７５００": "7500"
+    "７５００": "７５００"
   },
   "268366": {
-    "９０００": "9000"
+    "９０００": "９０００"
   },
   "268367": {
-    "１０５００": "10500"
+    "１０５００": "１０５００"
   },
   "268368": {
-    "１２０００": "12000"
+    "１２０００": "１２０００"
   },
   "268369": {
-    "１３５００": "13500"
+    "１３５００": "１３５００"
   },
   "268370": {
-    "１５０００": "15000"
+    "１５０００": "１５０００"
   },
   "268371": {
-    "８": "8"
+    "８": "８"
   },
   "268372": {
-    "７": "7"
+    "７": "７"
   },
   "268373": {
-    "６": "6"
+    "６": "６"
   },
   "268374": {
-    "５": "5"
+    "５": "５"
   },
   "268375": {
-    "４": "4"
+    "４": "４"
   },
   "268376": {
-    "３": "3"
+    "３": "３"
   },
   "268384": {
-    "極箱確定": "Certain"
+    "極箱確定": "極箱確定"
   },
   "268385": {
-    "極箱低確率": "Low Chance"
+    "極箱低確率": "極箱低確率"
   },
   "284969": {
-    "削除予定": "For Deletion"
+    "削除予定": "削除予定"
   }
 }
