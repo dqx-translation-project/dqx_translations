@@ -27,7 +27,7 @@
     "「おや？　そのバッジと交換するには\n　わたすものが　足りんようじゃな。": "Hmm? It looks like you're a little short to\nexchange for that badge."
   },
   "101651": {
-    "<select_se_off>\nバッジを交換する\nバッジ交換券を使う\nフリーバッジを交換する\nやめる\n<select_end><break>": ""
+    "<select_se_off>\nバッジを交換する\nバッジ交換券を使う\nフリーバッジを交換する\nやめる\n<select_end><break>": "<select_se_off>\nBadge Exchange\nUse Badge Tickets\nFree Badge Exchange\nCancel\n<select_end><break>"
   },
   "101653": {
     "「……なんじゃ　ノリが悪いのう。": "...What's wrong? What's the long face?"
@@ -54,7 +54,7 @@
     "「ほう！　このバッジを選ぶとは\n　おぬしも　なかなか　わかっているな……！\n　では　交換成立で　よいかな？\n<yesno><break>": "Whoa! To choose that badge...you definitely\nhave a good eye! So, you want to exchange,\nthen?\n<yesno><break>"
   },
   "103752": {
-    "「このバッジを　<%dM_BadgeNum>個じゃと！\n　ぐぬぬ……これを選ぶとは　あっぱれじゃ！\n　では　交換成立で　よいかな？\n<yesno><break>": "So you want <%dM_BadgeNum> of these, I see!\nGrr...I can't blame you for choosing that!\nWould you like to exchange, then?\n<yesno><break>"
+    "「このバッジを　<%dM_BadgeNum>個じゃと！\n　ぐぬぬ……これを選ぶとは　あっぱれじゃ！\n　では　交換成立で　よいかな？\n<yesno><break>": "So you want <%dM_BadgeNum> of these, I see!\nI...I can't blame you for choosing that!\nWould you like to exchange, then?\n<yesno><break>"
   },
   "103753": {
     "<%sM_Badge>バッジを\n<%dM_BadgeNum>個　手に入れた！\n<se_nots System 7><bw_break>": "Received <%dM_BadgeNum> <%sM_Badge>\nBadges!\n<se_nots System 7><bw_break>"
@@ -81,6 +81,6 @@
     "「<%sM_Badge>バッジと\n　交換するバッジを　見たいのじゃな？\n<break>": "You'd like to see the badges that you'd need\nto exchange for my <%sM_Badge>?\n<break>"
   },
   "323616": {
-    "「他に　やりたいことは　あるかの？\n<break>": ""
+    "「他に　やりたいことは　あるかの？\n<break>": "Anything else you'd like to do?\n<break>"
   }
 }
