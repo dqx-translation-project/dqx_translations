@@ -24,7 +24,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eの家に 入れるようになりました！": "\\s<%sC_PC>\\m<%sC_ID>\\e can now enter the house!"
   },
   "215": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eの 取り引きへの返事がありませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't respond to the transaction."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eの 取り引きへの返事がありませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't respond to the trade request."
   },
   "254": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから さそいの返事がありませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't respond to the invitation."
@@ -39,7 +39,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eはログアウトしたので 届きませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e did not receive it because they logged out."
   },
   "397": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに 取り引きを 断られました": "Trade request was declined by \\s<%sC_PC>\\m<%sC_ID>\\e."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに 取り引きを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e declined the trade request."
   },
   "428": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに　チームの参加を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e refused to join the Team."
@@ -54,7 +54,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間を抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\e left the party."
   },
   "548": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティを 解散しました": "\\s<%sC_PC>\\m<%sC_ID>\\e dissolved the party."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティを 解散しました": "\\s<%sC_PC>\\m<%sC_ID>\\e disbanded the party."
   },
   "579": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが チームに加わりました！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the Team!"
@@ -3768,40 +3768,40 @@
     "邪神の宮殿で ベルトの強化の続きを行ってください": "Please go to the Dark Deity's Palace to enhance."
   },
   "39123": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから 害虫の駆除に 誘われました!": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから 害虫の駆除に 誘われました!": "Pest extermination invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "39157": {
-    "害虫の駆除への誘いが 時間切れになりました": ""
+    "害虫の駆除への誘いが 時間切れになりました": "Pest extermination invitation timed out."
   },
   "39188": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが 害虫の駆除への誘いを 取り消した": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが 害虫の駆除への誘いを 取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the extermination invitation."
   },
   "39225": {
-    "殺虫矢を　害虫どもに当てるんだっぺ！": ""
+    "殺虫矢を　害虫どもに当てるんだっぺ！": "Shoot the pests with your insecticide arrows!"
   },
   "39253": {
-    "ＭＰが切れたら　まほうの小ビンを使うだよ！": ""
+    "ＭＰが切れたら　まほうの小ビンを使うだよ！": "If you get low on MP, use a Single Phial!"
   },
   "39285": {
-    "強そうなやつには　何回も当てるべさ！": ""
+    "強そうなやつには　何回も当てるべさ！": "The strong ones'll take a few hits to take down!"
   },
   "39313": {
-    "くそったれが！　害虫の大群だべさ！": ""
+    "くそったれが！　害虫の大群だべさ！": "Darn pests! It's a swarm of 'em!"
   },
   "39339": {
-    "ピンチの時は　ぶっとばしを使うっぺ！": ""
+    "ピンチの時は　ぶっとばしを使うっぺ！": "Use \"Blow Away\" if you're in a pinch!"
   },
   "39367": {
-    "ほれ！　このどうぐをひろってくんろ！": ""
+    "ほれ！　このどうぐをひろってくんろ！": "There! Pick up that item!"
   },
   "39395": {
-    "害虫はあと半分ぐらいだべさ！": ""
+    "害虫はあと半分ぐらいだべさ！": "Those pests are about halfway gone!"
   },
   "39417": {
-    "メタルたちきりバチが　わんさか出てきただ！": ""
+    "メタルたちきりバチが　わんさか出てきただ！": "Here comes the Metal Cutters!"
   },
   "39449": {
-    "蜂の駆除に 参加しますか？": ""
+    "蜂の駆除に 参加しますか？": "Go to the bee extermination?"
   },
   "39468": {
     "青鮮の菜果兵団の防衛戦に さそわれました！": "Invited to battle Fresh Produce!"
@@ -3816,7 +3816,7 @@
     "青鮮の菜果兵団の防衛戦に　参加しますか？": "Go and battle the Fresh Produce?"
   },
   "39592": {
-    "女王が出てくるっぺ！　これで決着だべさ！": ""
+    "女王が出てくるっぺ！　これで決着だべさ！": "The queen's comin' out! This is it!"
   },
   "39623": {
     "戦場の東側に 敵軍が出現！ 警戒せよ！！": "There's enemies to the east! Stay alert!!"
@@ -3825,10 +3825,10 @@
     "戦場の北西側に 物資を届けましたよ！": "Delivered supplies to the northwestern side!"
   },
   "39679": {
-    "害虫どものこうげきが　はげしくなってきたっぺ！": ""
+    "害虫どものこうげきが　はげしくなってきたっぺ！": "Their attacks are gettin' even worse!"
   },
   "39714": {
-    "どうぐの位置は　マップでも見られるっぺ！": ""
+    "どうぐの位置は　マップでも見られるっぺ！": "You can see where items are on the map!"
   },
   "39745": {
     "戦場の西側に 敵軍が出現！ 警戒せよ！！": "Enemies approach from the west! Stay alert!!"
