@@ -399,7 +399,7 @@
     "なまえ": "Name"
   },
   "4794": {
-    "職業": "Job"
+    "職業": "Voc."
   },
   "4796": {
     "所属チーム": "Team"
@@ -1317,7 +1317,7 @@
     "フレンド": "Friends"
   },
   "11850": {
-    "<%dM_lvsita> ～ <%dM_lvue>": "<%dM_lvsita> ～ <%dM_lvue>"
+    "<%dM_lvsita> ～ <%dM_lvue>": "<%dM_lvsita> - <%dM_lvue>"
   },
   "11851": {
     "<%sM_item>": "<%sM_item>"
@@ -1725,7 +1725,7 @@
     "旅芸": "MIN"
   },
   "13638": {
-    "レ ベ ル <%dM_lv> ～ ": "Level <%dM_lv>～"
+    "レ ベ ル <%dM_lv> ～ ": "Level <%dM_lv>"
   },
   "13639": {
     "防具鍛冶": "Armorsmith"
@@ -3342,7 +3342,7 @@
     "<%nM_landaddress4>丁目": "Block <%dM_landaddress4>"
   },
   "21798": {
-    "～<%nM_lv>": "～<%dM_lv>"
+    "～<%nM_lv>": "<%dM_lv>"
   },
   "21799": {
     "－－－": "－－－"
@@ -3921,7 +3921,7 @@
     "「": " "
   },
   "22997": {
-    "<%nM_lv>～": "<%dM_lv>～"
+    "<%nM_lv>～": "<%dM_lv>"
   },
   "23010": {
     "<%sM_pc>は\n<%sM_item>を　読んだ。<bw_break>": "<%sM_pc> read the\n<%sM_item>.<bw_break>"
@@ -4014,7 +4014,7 @@
     "よくある質問の説明(問題行為～)\nあああああいいいいいうううううえええええおおおおお２８字\nあああああいいいいいうううううえええええおおおおお２８字": "Explanation of Frequently Asked Questions (Problematic Behaviour～)\nAAAAAIIIIIUUUUUEEEEEOOOOO 28 Characters\nAAAAAIIIIIUUUUUEEEEEOOOOO 28 Characters"
   },
   "23262": {
-    "もっと見るの説明(問題行為～)（仮メッセージ）\n": "More Explanation (Problematic Behavior～) (Temp Message)\n"
+    "もっと見るの説明(問題行為～)（仮メッセージ）\n": "????"
   },
   "23263": {
     "お問い合わせの説明(問題行為～)\n（テストメッセージ）": "Explanation of Your Inquiry (Problematic Behavior～)\n(Test Message)"
@@ -6075,7 +6075,7 @@
     "<speed=0>同時に　さそえる数の　上限に達しています。\n相手の返答を待つか　『さそいを取り消す』から\n送信済みの　さそいを　取り消してください。 ": "<speed=0>The maximum number of simultaneous requests\nhas been reached. Wait for a response or\ncancel the invitation you have already sent\n<br>\nusing the \"Cancel Invitation\" link."
   },
   "29010": {
-    "<%dM_minimum>～<%dM_maximum>": "<%dM_minimum>～<%dM_maximum>"
+    "<%dM_minimum>～<%dM_maximum>": "<%dM_minimum> - <%dM_maximum>"
   },
   "29011": {
     "特訓スタンプ": "Stamps"
@@ -6693,7 +6693,7 @@
     "難易度は？": "How hard?"
   },
   "32035": {
-    "<%sM_level>～": "<%sM_level>～"
+    "<%sM_level>～": "<%sM_level>"
   },
   "32036": {
     "<%sM_level>": "<%sM_level>"
@@ -7266,10 +7266,10 @@
     "名前を入力": "Enter Name"
   },
   "34157": {
-    "～<%nM_memnum>": "～<%dM_memnum>"
+    "～<%nM_memnum>": "<%dM_memnum>"
   },
   "34158": {
-    "<%nM_memnum>～": "<%dM_memnum>～"
+    "<%nM_memnum>～": "<%dM_memnum>"
   },
   "34189": {
     "最終ログイン日": "Last Login Date"
@@ -7713,7 +7713,7 @@
     "主な活動日": "Active Days"
   },
   "36439": {
-    "<%nM_memmin>～<%nM_memmax>": "<%dM_memmin>～<%dM_memmax>"
+    "<%nM_memmin>～<%nM_memmax>": "<%dM_memmin> - <%dM_memmax>"
   },
   "36441": {
     "主な活動時間": "Active Times"
@@ -11586,13 +11586,13 @@
     "さそわれ待ち設定": "Wait Settings"
   },
   "43470": {
-    "希望職業３": "Desired Job 3"
+    "希望職業３": "Desired Voc. 3"
   },
   "43471": {
-    "希望職業２": "Desired Job 2"
+    "希望職業２": "Desired Voc. 2"
   },
   "43472": {
-    "希望職業１": "Desired Job 1"
+    "希望職業１": "Desired Voc. 1"
   },
   "43473": {
     "なかま募集設定": "Party Recruit Setting"
@@ -11613,7 +11613,7 @@
     "さがす相手": "Player Search"
   },
   "43482": {
-    "希望職業": "Desired Job"
+    "希望職業": "Desired Voc."
   },
   "43495": {
     "体験版": "Trial Ver"
@@ -14850,7 +14850,7 @@
     "１位": "1st"
   },
   "48717": {
-    "全状態異常が無効": "Status Null"
+    "全状態異常が無効": "Ailment ×"
   },
   "48720": {
     "トータルポイント報酬": "Total Point Reward"
@@ -16203,19 +16203,19 @@
     "釣り堀のさかな": "View Fish"
   },
   "50566": {
-    "～<%dM_cal_YYYY2>/<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>：<%02dM_mm2>": "～<%2dM_cal_MM2>/<%2dM_cal_DD2>/<%dM_cal_YYYY2> <%2dM_hh2>:<%02dM_mm2>"
+    "～<%dM_cal_YYYY2>/<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>：<%02dM_mm2>": "<%2dM_cal_MM2>/<%2dM_cal_DD2>/<%dM_cal_YYYY2> <%2dM_hh2>:<%02dM_mm2>"
   },
   "50567": {
-    "<%dM_cal_YYYY>/<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>～": "<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>～"
+    "<%dM_cal_YYYY>/<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>～": "<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>"
   },
   "50568": {
-    "～<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>：<%02dM_mm2>": "～<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>:<%02dM_mm2>"
+    "～<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>：<%02dM_mm2>": "<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>:<%02dM_mm2>"
   },
   "50569": {
-    "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>～<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>：<%02dM_mm2>": "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>:<%02dM_mm>～<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>:<%02dM_mm2>"
+    "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>～<%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>：<%02dM_mm2>": "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>:<%02dM_mm> - <%2dM_cal_MM2>/<%2dM_cal_DD2> <%2dM_hh2>:<%02dM_mm2>"
   },
   "50570": {
-    "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>～": "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>:<%02dM_mm>～"
+    "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>～": "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>:<%02dM_mm>"
   },
   "50574": {
     "一度も\n捕まらなかった": "Didn't get\ncaught once!"
@@ -16281,7 +16281,7 @@
     "えんぴつ名": "Pencil Name"
   },
   "50755": {
-    "<%nM_lvsita> ～ <%nM_lvue>": "<%dM_lvsita> ～ <%dM_lvue>"
+    "<%nM_lvsita> ～ <%nM_lvue>": "<%dM_lvsita> - <%dM_lvue>"
   },
   "50786": {
     "６.釣り堀にさかながいる": "6. Fish in the fishing pond"
@@ -17655,13 +17655,13 @@
     "カプセルと交換する": "Exchange Toy"
   },
   "53471": {
-    "～<ty%dM_TIME2>/<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": "～<ty%dM_TIME2>/<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>:<ti%02dM_TIME2>"
+    "～<ty%dM_TIME2>/<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": "<tm%2dM_TIME2>/<td%2dM_TIME2>/<ty%dM_TIME2> <th%2dM_TIME2>:<ti%02dM_TIME2>"
   },
   "53472": {
-    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～<ty%dM_TIME2>/<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": "<tm%2dM_TIME>/<td%2dM_TIME>/<ty%dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>～<tm%2dM_TIME2>/<td%2dM_TIME2>/<ty%dM_TIME2> <th%2dM_TIME2>:<ti%02dM_TIME2>"
+    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～<ty%dM_TIME2>/<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": "<tm%2dM_TIME>/<td%2dM_TIME>/<ty%dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME> - <tm%2dM_TIME2>/<td%2dM_TIME2>/<ty%dM_TIME2> <th%2dM_TIME2>:<ti%02dM_TIME2>"
   },
   "53473": {
-    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～": "<tm%2dM_TIME>/<td%2dM_TIME>/<ty%dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>～"
+    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～": "<tm%2dM_TIME>/<td%2dM_TIME>/<ty%dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>"
   },
   "53478": {
     "ニャンコインについて": "About Cat Coins"
@@ -17688,13 +17688,13 @@
     "<tm%2dM_TIME>月<td%2dM_TIME>日　<th%2dM_TIME>：<ti%02dM_TIME>まで": "Until <tm%2dM_TIME>/<td%2dM_TIME> at <th%2dM_TIME>:<ti%02dM_TIME>"
   },
   "53488": {
-    "<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～": "<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>～"
+    "<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～": "<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>"
   },
   "53489": {
     "<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>：<ti%02dM_TIME>～<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": "<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME> - <tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>:<ti%02dM_TIME2>"
   },
   "53490": {
-    "～<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": "～<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>:<ti%02dM_TIME2>"
+    "～<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>：<ti%02dM_TIME2>": "<tm%2dM_TIME2>/<td%2dM_TIME2> <th%2dM_TIME2>:<ti%02dM_TIME2>"
   },
   "53491": {
     "自動送りオン": "Auto Advance On"
@@ -17952,7 +17952,7 @@
     "<%3dM_bunsi>/<%3dM_bunbo>": "<%3dM_bunsi>/<%3dM_bunbo>"
   },
   "54034": {
-    "<%sM_hosiMin>～<%sM_hosiMax>": "<%sM_hosiMin>～<%sM_hosiMax>"
+    "<%sM_hosiMin>～<%sM_hosiMax>": "<%sM_hosiMin> - <%sM_hosiMax>"
   },
   "54035": {
     "職やりなおしの宝珠：": "Resetta Stones:"
@@ -18309,7 +18309,7 @@
     "装備可能職業：<%sM_job>": "Vocation: <%sM_job>"
   },
   "54398": {
-    "装備レベル：<%nM_equip_level_min>～<%nM_equip_level_max>": "Equipment Lv.: <%dM_equip_level_min>～<%dM_equip_level_max>"
+    "装備レベル：<%nM_equip_level_min>～<%nM_equip_level_max>": "Equipment Lv.: <%dM_equip_level_min> - <%dM_equip_level_max>"
   },
   "54399": {
     "作った人の名前：<%sM_tukuttahito>": "Crafter's Name: <%sM_tukuttahito>"
@@ -18336,7 +18336,7 @@
     "錬金効果数：<%sM_num>": "Alch. Effects: <%sM_num>"
   },
   "54456": {
-    "難易度：<%sM_iraisyo_min>～<%sM_iraisyo_max>": "Difficulty:<%sM_iraisyo_min>～<%sM_iraisyo_max>"
+    "難易度：<%sM_iraisyo_min>～<%sM_iraisyo_max>": "Difficulty: <%sM_iraisyo_min> - <%sM_iraisyo_max>"
   },
   "54457": {
     "<%sM_pc>を装備する": "<%sM_pc> Equipped"
@@ -18942,7 +18942,7 @@
     "残<%3dM_hh>時<%2dM_mm>分": "<%3dM_hh> h. <%2dM_mm> m. Left"
   },
   "55474": {
-    "選んだ職業に反映する": "Choose Target Job"
+    "選んだ職業に反映する": "Choose Target Voc."
   },
   "55476": {
     "獲得できる経験値": "Earnable EXP"
@@ -19254,7 +19254,7 @@
     "レベル上げ下げ": "Level Up/Down"
   },
   "55737": {
-    "<%dM_lv>～": "<%dM_lv>～"
+    "<%dM_lv>～": "<%dM_lv>"
   },
   "55751": {
     "木枠": "Wooden"
@@ -19668,7 +19668,7 @@
     "セリフ": "Text"
   },
   "56280": {
-    "職業で絞り込む": "Filter by Job"
+    "職業で絞り込む": "Filter by Voc."
   },
   "56281": {
     "種別で絞り込む": "Filter by Type"
@@ -19818,7 +19818,7 @@
     "前回開催期間": "Prev. Event Period"
   },
   "56522": {
-    "～<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>時<%02dM_mm>分": "～<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>"
+    "～<%dM_cal_YYYY>年<%2dM_cal_MM>月<%2dM_cal_DD>日 <%2dM_hh>時<%02dM_mm>分": "<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>"
   },
   "56525": {
     "依頼帳を見る": "View Requests"
@@ -21234,7 +21234,7 @@
     "入手可能なアイテムはありません": "No Item Available"
   },
   "58664": {
-    "<%sRenkin1>～<%sRenkin2>": "<%sRenkin1>～<%sRenkin2>"
+    "<%sRenkin1>～<%sRenkin2>": "<%sRenkin1> - <%sRenkin2>"
   },
   "58666": {
     "艶美の香木": "Glossy Wood"
@@ -22320,7 +22320,7 @@
     "どうぐ持込禁止": "Items Prohibited"
   },
   "60603": {
-    "職業制限": "Job Limit"
+    "職業制限": "Voc. Limit"
   },
   "60605": {
     "防具を５か所に\n装備している必要があります。": "Armor must be equipped\nin the five main slots."
