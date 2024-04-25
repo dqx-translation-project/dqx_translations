@@ -48,7 +48,7 @@
     "「封印の聖灰は　<%nL_MAX_NUM>個までしか持てません。\n　今　<%sL_ITEM><%sL_PLUSNUM>を　捧げると\n　<%nL_GET_NUM>個分しか増えませんが　よろしいですか？\n<yesno 2><break>": "You can only hold <%dL_MAX_NUM> Sealing Ash. If you offer\n<%sL_ITEM><%sL_PLUSNUM> now, it will only\nincrease by <%dL_GET_NUM>, is that OK?\n<yesno 2><break>"
   },
   "134852": {
-    "<pc>は\n<%sL_ITEM><%sL_PLUSNUM>を　捧げて\n封印の聖灰を　<%nL_GET_NUM>個　手に入れた！\n<se_nots System 7>\n<bw_break>": "<pc> offered the\n<%sL_ITEM><%sL_PLUSNUM> and received\n<%dL_GET_NUM> Sealing Ash!\n<se_nots System 7>\n<bw_break>"
+    "<pc>は\n<%sL_ITEM><%sL_PLUSNUM>を　捧げて\n封印の聖灰を　<%nL_GET_NUM>個　手に入れた！\n<se_nots System 7>\n<bw_break>": "<pc> received <%dL_GET_NUM> Sealing Ash\nfrom the offered item!\n<se_nots System 7>\n<bw_break>"
   },
   "134853": {
     "「<%sL_ITEM><%sL_PLUSNUM>は\n　ロックされていますので\n　捧げることは　できません。\n<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> is locked, so you\ncannot offer it.\n<bw_break>"
