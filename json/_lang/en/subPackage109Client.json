@@ -213,13 +213,13 @@
     "やくそう　ＨＰ{color=lime}１０{color=default}かいふく": "Medicinal Herb　{color=lime}10{color=default} HP Recovered"
   },
   "765": {
-    "がったい　次のターンから　右をふる": "Combine　Right Side From Next Turn On"
+    "がったい　次のターンから　右をふる": "Amalgoomate　Right Side From Next Turn On"
   },
   "791": {
     "キングプレス　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "King Slam　{color=orange}<%dM_Damage_1>{color=default} to <%sM_Target_1>"
   },
   "840": {
-    "のしかかり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Overwhelm　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+    "のしかかり　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Smother　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "889": {
     "{color=skyblue}マヒャド{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrack{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -324,7 +324,7 @@
     "すてみ　　　　　攻撃力＋１０　守備力が１０下がる": "Double Up　Attack +10　Defense -10"
   },
   "2593": {
-    "はげしいおたけび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　転ばせる": "Violent Roar　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Fall Down"
+    "はげしいおたけび　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　転ばせる": "Violent Roar　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Knockdown"
   },
   "2652": {
     "連続攻撃　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ３のダメージ": "Barrage Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x3"
@@ -822,7 +822,7 @@
     "すみ攻撃　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "Ink Shot　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> Dazzles"
   },
   "11242": {
-    "あばれる　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Expose　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+    "あばれる　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Rampage　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "11291": {
     "かいふく　　　ＨＰ{color=lime}２０{color=default}かいふく": "Recover　Recover {color=lime}20{color=default} HP"
@@ -918,7 +918,7 @@
     "キングプレス！": "King Slam!"
   },
   "12591": {
-    "のしかかり！": "Overwhelm!"
+    "のしかかり！": "Smother!"
   },
   "12601": {
     "マヒャド！": "Kacrackle!"
@@ -1377,7 +1377,7 @@
     "触手れんだ！": "Tentacle Smash!"
   },
   "14258": {
-    "あばれる！": "Expose!"
+    "あばれる！": "Rampage!"
   },
   "14266": {
     "かいふく！": "Recover!"
@@ -1572,7 +1572,7 @@
     "おびえている": "Frightened!"
   },
   "14858": {
-    "転んでいる": "Fallen!"
+    "転んでいる": "Knocked down!"
   },
   "14866": {
     "笑っている": "Laughing!"
@@ -1632,13 +1632,13 @@
     "反動で動けない！": "Can't move!"
   },
   "15075": {
-    "攻撃力がもどった": "Attack back to\nnormal."
+    "攻撃力がもどった": "Attack returned to\nnormal."
   },
   "15088": {
-    "呪文の威力がもどった": "Spell power back\nto normal."
+    "呪文の威力がもどった": "Spell power returned\nto normal."
   },
   "15104": {
-    "守備力がもどった": "Defense back\nto normal."
+    "守備力がもどった": "Defense returned\nto normal."
   },
   "15117": {
     "呪文耐性がもどった": "Spell resistance\nreturned to normal."
@@ -1647,7 +1647,7 @@
     "ぼうぎょをやめた": "Stopped\ndefending."
   },
   "15144": {
-    "すばやさがもどった": "Agility back to\nnormal."
+    "すばやさがもどった": "Agility returned to\nnormal."
   },
   "15158": {
     "カウンターの構えを\nといた": "Counter stance\nfaded."
@@ -1665,7 +1665,7 @@
     "自動回復がおわった": "Auto recovery\nfaded."
   },
   "15231": {
-    "テンションがもどった": "Tension is back\nto normal."
+    "テンションがもどった": "Tension returned to\nnormal."
   },
   "15247": {
     "打撃完全ガードが\nとけた": "Physical Damage\nGuard faded."
@@ -1689,7 +1689,7 @@
     "眠りからさめた": "Woke up!"
   },
   "15355": {
-    "混乱がとけた": "Not confused!"
+    "混乱がとけた": "No longer confused!"
   },
   "15365": {
     "呪いがとけた": "No longer cursed!"
@@ -2001,7 +2001,7 @@
     "ショックをうけた！": "Shocked!"
   },
   "16866": {
-    "すっころんだ！": "Fell down!"
+    "すっころんだ！": "Knocked down!"
   },
   "16877": {
     "つられて\n踊ってしまった！": "Started boogyin'!"
@@ -2331,22 +2331,22 @@
     "ターン終了まで\n呪文攻撃で与える\nダメージ＋５０": "Spell damage +50\nuntil the end of\nturn."
   },
   "18555": {
-    "<%sL_PENCIL_NAME>に\n上やくそうを　使った！\nＨＰ３０かいふく！": "<%sL_PENCIL_NAME> used\nStrong Medicine!\nRecovered 30 HP!"
+    "<%sL_PENCIL_NAME>に\n上やくそうを　使った！\nＨＰ３０かいふく！": "<%sL_PENCIL_NAME> uses\nthe Strong Medicine!\nThey recover 30 HP!"
   },
   "18597": {
-    "<%sL_PENCIL_NAME>に\nラブチョコを　使った！\nテンションが　１段階あがった！": "<%sL_PENCIL_NAME> used\nLove Chocolate!\nTension boosted by 1 level!"
+    "<%sL_PENCIL_NAME>に\nラブチョコを　使った！\nテンションが　１段階あがった！": "<%sL_PENCIL_NAME> uses\nthe Love Chocolate!\nTheir tension raises 1 level!"
   },
   "18648": {
-    "クイックケーキを　使った！\nバトエンの　すばやさが　１０あがった！": "Used Quick Cake!\nAgility increases by 10!"
+    "クイックケーキを　使った！\nバトエンの　すばやさが　１０あがった！": "Used the Quick Cake!\nAgility increases by 10!"
   },
   "18697": {
-    "<%sL_PENCIL_NAME>に\nつきのめぐみを　使った！\n状態異常が解除され　ＨＰ１０かいふく！": "<%sL_PENCIL_NAME> used\nLunaria! Ailments were\ncleared and recovered 10 HP!"
+    "<%sL_PENCIL_NAME>に\nつきのめぐみを　使った！\n状態異常が解除され　ＨＰ１０かいふく！": "<%sL_PENCIL_NAME> uses\nthe Lunaria! Their ailments are cured\nand they recover 10 HP!"
   },
   "18755": {
-    "パワフルステーキを　使った！\nバトエンの　攻撃力が　３０あがった！": "Used Powerful Steak!\nPhysical damage increases by 30!"
+    "パワフルステーキを　使った！\nバトエンの　攻撃力が　３０あがった！": "Used the Powerful Steak!\nPhysical damage increases by 30!"
   },
   "18804": {
-    "マジックスープを　使った！\nバトエンの　呪文の威力が　５０あがった！": "Used Magic Soup!\nSpell power increased by 50!"
+    "マジックスープを　使った！\nバトエンの　呪文の威力が　５０あがった！": "Used the Magic Soup!\nSpell power increases by 50!"
   },
   "18855": {
     "Ｄ": "D"
