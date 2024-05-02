@@ -105,7 +105,7 @@
     "<%sB_ACTOR>は ＭＰが 足りなかった。": "<%sB_ACTOR> doesn't have enough MP."
   },
   "815": {
-    "<%sB_TARGET>は しんでしまった。": "<%sB_TARGET> died."
+    "<%sB_TARGET>は しんでしまった。": "<%sB_TARGET> dies!"
   },
   "836": {
     "<%sB_ACTOR>は <%sB_TARGET>を たおした！": "<%sB_ACTOR> defeated <%sB_TARGET>!"
@@ -438,7 +438,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ＭＰが 足りなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e doesn't have enough MP."
   },
   "4087": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは しんでしまった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e died."
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは しんでしまった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e dies!"
   },
   "4118": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを たおした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e defeated!"
@@ -1056,7 +1056,7 @@
     "<%sB_ACTOR>は　名声レベル<%dB_VALUE>に　あがった！": "<%sB_ACTOR> reached fame level <%dB_VALUE>!"
   },
   "11487": {
-    "<%sB_TARGET>は　しんでしまった。": "<%sB_TARGET> died."
+    "<%sB_TARGET>は　しんでしまった。": "<%sB_TARGET> dies!"
   },
   "11509": {
     "<%sB_TARGET>を　たおした！": "<%sB_TARGET> defeated!"
@@ -1101,7 +1101,7 @@
     "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ　かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) Gold!"
   },
   "12001": {
-    "<%sB_ACTOR>は\nまものたちから　何かを盗みとっていた！": "<%sB_ACTOR> stole some loot!"
+    "<%sB_ACTOR>は\nまものたちから　何かを盗みとっていた！": "<%sB_ACTOR> steals some loot!"
   },
   "12038": {
     "スキルポイントの　かくとく　なし。": "No skill points received."
@@ -1131,16 +1131,16 @@
     "<%sB_ITEM>の\n使い込み度が　１００になった！": "<%sB_ITEM>\nis now at 100 usage!"
   },
   "12309": {
-    "討伐報酬（紫色の宝箱）を　かくとく！": "Take the purple treasure chest as a reward!"
+    "討伐報酬（紫色の宝箱）を　かくとく！": "A purple chest appears as a reward!"
   },
   "12337": {
     "<%sB_TARGET>の\nなつき度が　最大値になった！": "<%sB_TARGET>'s\nhappiness has reached its maximum!"
   },
   "12367": {
-    "討伐報酬（紫色の宝箱）が　出現した！": "A purple treasure chest has appeared!"
+    "討伐報酬（紫色の宝箱）が　出現した！": "A purple treasure chest appears!"
   },
   "12395": {
-    "討伐報酬（赤色の宝箱）が　出現した！": "A red treasure chest has appeared!"
+    "討伐報酬（赤色の宝箱）が　出現した！": "A red treasure chest appears!"
   },
   "12423": {
     "<%sB_ACTOR>は\n<%dB_VALUE> Pの経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> EXP!"
@@ -1182,7 +1182,7 @@
     "他のプレイヤーから　名前が見えない状態で\n歴代ランキングと　月間ランキングに\n記録が　登録されました。": "Overall and monthly records have been\nregistered with name not visible to\nothers."
   },
   "13016": {
-    "月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>\n記録を　登録します。": "Won monthly ranking (Rank <%dB_VALUE>)!\nRecords have been registered."
+    "月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>\n記録を　登録します。": "Won the monthly ranking at Rank <%dB_VALUE>!<se_nots System 17>\nRecords have been registered."
   },
   "13074": {
     "他のプレイヤーから　名前が見える状態で\n月間ランキングに　記録が登録されました。": "Monthly records have been registered\nwith name visible to others."
