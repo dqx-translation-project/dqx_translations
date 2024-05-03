@@ -6,7 +6,7 @@
     "<%sL_ITEM><%sL_PLUSNUM>は　装備できませんが\n<%nL_GOUKEI>ゴールドで 買いますか？\n所持金　<%nL_SYOZIGOLD>ゴールド\n<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> cannot be equipped,\nwould you like to buy it with <%dL_GOUKEI>\ngold? Gold in your possession <%dL_SYOZIGOLD>\n<br>\ngold\n<yesno 2><break>"
   },
   "135847": {
-    "<%sL_ITEM><%sL_PLUSNUM>　<%nL_QUANTITY>個\n合計　<%nL_GOUKEI>ゴールドで買いますか？\n所持金　<%nL_SYOZIGOLD>ゴールド\n<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> <%dL_QUANTITY>Total\n<%dL_GOUKEI>What would you like to buy with\nGold? Money in possession <%dL_SYOZIGOLD>Gold\n<yesno 2><break>"
+    "<%sL_ITEM><%sL_PLUSNUM>　<%nL_QUANTITY>個\n合計　<%nL_GOUKEI>ゴールドで買いますか？\n所持金　<%nL_SYOZIGOLD>ゴールド\n<yesno 2><break>": "Buy <%dL_QUANTITY> <%sL_ITEM><%sL_PLUSNUM>\nfor <%dL_GOUKEI> Gold?\n(Gold on hand: <%dL_SYOZIGOLD> G)\n<yesno 2><break>"
   },
   "135848": {
     "<%sL_ITEM><%sL_PLUSNUM>の値段は\n<%nL_NEDAN>ゴールドで\nよろしいですか？\n<yesno><break>": "Are you sure you want <%sL_ITEM><%sL_PLUSNUM>\nto be priced at <%dL_NEDAN> gold?\n<yesno><break>"
@@ -15,7 +15,7 @@
     "出品の状況が　変わったため\n買えませんでした。\n<bw_break>": "I could not buy it due to a change in the\nstatus of the listing.\n<bw_break>"
   },
   "135850": {
-    "<%sL_ITEM><%sL_PLUSNUM>を\n<%nL_QUANTITY>個　買いました！\n<bw_break>": "I bought <%sL_ITEM><%sL_PLUSNUM> for\n<%dL_QUANTITY>!\n<bw_break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を\n<%nL_QUANTITY>個　買いました！\n<bw_break>": "Purchased\n<%dL_QUANTITY> <%sL_ITEM><%sL_PLUSNUM>!\n<bw_break>"
   },
   "135851": {
     "<%sL_ITEM><%sL_PLUSNUM>の値段を　\n<%nL_NEDAN>ゴールドに　設定しました。\n<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> price set to\n<%dL_NEDAN> gold.\n<bw_break>"
@@ -90,7 +90,7 @@
     "モーモンバザーで売る物を　設定してください。\n<break>": "Please choose an item to list for sale at\nthe Sanguini Bazaar.\n<break>"
   },
   "135875": {
-    "どれを　買いますか？\n<break>": "Which one do you want to buy?<break>"
+    "どれを　買いますか？\n<break>": "Please select what you would like to\npurchase.<break>"
   },
   "135876": {
     "出品が　取り下げられたため\n買えませんでした。\n<bw_break>": "The listing has been withdrawn, so you cannot\nbuy it.\n<bw_break>"
