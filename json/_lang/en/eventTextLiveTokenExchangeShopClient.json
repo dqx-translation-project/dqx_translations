@@ -216,7 +216,7 @@
     "「これは一回しかあげることができぬシロモノだ！\n<br>\n「お持ちのアイテムを\n　<%sL_GOODS_ITEM>と\n　交換してよろしいですか？\n<yesno><break>": "This is the kind of thing you can only give\nonce! May I trade your item for\n<%sL_GOODS_ITEM>?<yesno><break>"
   },
   "200020": {
-    "「お持ちの素材を\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n　交換してよろしいですか？\n<yesno><break>": "Would you like to exchange your material for\n<%sL_GOODS_ITEM> <%dL_GET_NUM> pieces?<yesno><break>"
+    "「お持ちの素材を\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n　交換してよろしいですか？\n<yesno><break>": "Do you want to exchange your materials for\n<%dL_GET_NUM> <%sL_GOODS_ITEM>?\n<yesno><break>"
   },
   "200021": {
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>　<%dL_GET_NUM>こを\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
@@ -504,7 +504,7 @@
     "「ジュエルポイントを\n　<%sL_GOODS_ITEM>と\n　交換するの　よろしですか！？\n<yesno><break>": "Can I trade my jewel points for\n<%sL_GOODS_ITEM>?<yesno><break>"
   },
   "212325": {
-    "「ジュエルポイントを\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n　交換するの　よろしですか！？\n<yesno><break>": "Can I trade my Jewel Points for\n<%sL_GOODS_ITEM> <%dL_GET_NUM> pieces?<yesno><break>"
+    "「ジュエルポイントを\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n　交換するの　よろしですか！？\n<yesno><break>": "You'd like to exchange your Jewel Points for\n<%dL_GET_NUM> <%sL_GOODS_ITEM>?!\n<yesno><break>"
   },
   "212326": {
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>　<%dL_GET_NUM>こを\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
@@ -684,7 +684,7 @@
     "「持ってるジュエルポイントを\n　<%sL_GOODS_ITEM>と\n　交換しても　大丈夫かな～？\n<yesno 2><break>": "Would it be okay if I traded my jewel points\nfor <%sL_GOODS_ITEM>?<yesno 2><break>"
   },
   "212385": {
-    "「持っているジュエルポイントを\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n　交換しても　大丈夫かな～？\n<yesno><break>": "Is it okay if I trade my Jewel Points for\n<%sL_GOODS_ITEM> <%dL_GET_NUM> pieces~?<yesno><break>"
+    "「持っているジュエルポイントを\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n　交換しても　大丈夫かな～？\n<yesno><break>": "So you want to exchange your Jewel Points for\n<%dL_GET_NUM> <%sL_GOODS_ITEM>, huh?\n<yesno><break>"
   },
   "212386": {
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>　<%dL_GET_NUM>こを\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
@@ -1044,7 +1044,7 @@
     "「オマエが　持ってるピュアジュエルを\n　<%sL_GOODS_ITEM>と\n　交換しても　いいんだな？\n<yesno 2><break>": "You're willing to trade your Pure Jewels for\n<%sL_GOODS_ITEM>?<yesno 2><break>"
   },
   "242085": {
-    "「持っているジュエルポイントを\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n　交換しても　大丈夫かな～？\n<yesno><break>": "Is it okay if I trade my Jewel Points for\n<%sL_GOODS_ITEM> <%dL_GET_NUM> pieces~?<yesno><break>"
+    "「持っているジュエルポイントを\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n　交換しても　大丈夫かな～？\n<yesno><break>": "So you want to exchange your Jewel Points for\n<%dL_GET_NUM> <%sL_GOODS_ITEM>, huh?\n<yesno><break>"
   },
   "242087": {
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>　<%dL_GET_NUM>こを\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
@@ -1419,10 +1419,10 @@
     "<pipipi_on>\n「ほかにも　何か交換する？\n<break>": "<pipipi_on>Anything else you'd like to exchange?<break>"
   },
   "259945": {
-    "「<%sL_BAG_ITEM>　<%nL_KOUKAN_NUM>個を\n　<%sL_GOODS_ITEM>と　交換する？\n<yesno 3><break>": "Exchange <%sL_BAG_ITEM> <%dL_KOUKAN_NUM>\npieces for <%sL_GOODS_ITEM> pieces?<yesno 3><break>"
+    "「<%sL_BAG_ITEM>　<%nL_KOUKAN_NUM>個を\n　<%sL_GOODS_ITEM>と　交換する？\n<yesno 3><break>": "Exchange your <%dL_KOUKAN_NUM> <%sL_BAG_ITEM>\nfor the <%sL_GOODS_ITEM>?<yesno 3><break>"
   },
   "259946": {
-    "「<%sL_BAG_ITEM>　<%nL_KOUKAN_NUM>個を\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と　交換する？\n<yesno 3><break>": "Exchange <%sL_BAG_ITEM> <%dL_KOUKAN_NUM>\npieces for <%sL_GOODS_ITEM> <%dL_GET_NUM>\npieces?<yesno 3><break>"
+    "「<%sL_BAG_ITEM>　<%nL_KOUKAN_NUM>個を\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と　交換する？\n<yesno 3><break>": "Exchange your <%dL_KOUKAN_NUM> <%sL_BAG_ITEM>\nfor <%dL_GET_NUM> <%sL_GOODS_ITEM> ?\n<yesno 3><break>"
   },
   "259947": {
     "「はい！　どうぞ。\n<end>": "Yes! Here you are.<end>"
@@ -2595,7 +2595,7 @@
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>を\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
   },
   "306200": {
-    "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%sL_GOODS_ITEM>\n<%dL_GET_NUM> pieces!\n<se_nots System 7>\n<end>"
+    "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
   },
   "306201": {
     "「……おや？\n　どうぐかばんが　いっぱいで\n　受け取れないようだな。\n<bw_break>": "It seems that the item bag is full and you\ncan't receive it.\n<bw_break>"
