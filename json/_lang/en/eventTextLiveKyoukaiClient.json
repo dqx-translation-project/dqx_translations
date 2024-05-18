@@ -942,55 +942,55 @@
     "「ワタシハ　支援端末Ｐ１０９。\n　あすとるてぃあデ　教会ト　呼バレル機能ガ\n　搭載サレタ　端末デス。\n<br>\n「コノ世界デノ　アナタノ行動ハ　スベテ\n　記録サレテイマス。冒険の書ニ　旅ノ記録ヲ\n　ばっくあっぷスル　必要ハ　アリマセン。\n<br>\n「デスガ　オ祈リヲ　オコナウト\n　生命活動ガ　停止シタ場合ノ　復活場所ヲ\n　祈リヲ捧ゲタ場所ニ　更新ガ　可能デス。\n<br>\n「冒険ヲ　終エタイ時ハ　さくせんコマンド　ノ\n　『冒険を中断する』ヲ　実行シテクダサイ。\n　危険ナ場所デハ　スコシ　時間ガ　カカリマス。\n<br>\n「現在　教会機能ハ　スベテ\n　正常ニ　作動シテイマス。\n　ゴ希望ノ　さぽーと内容ヲ　選ンデクダサイ。\n<ask><bw_break>": "I'm in a support terminal, P... Astoltia, a\nchurch with a call-barrel function...\nEverything you do in this world is\n<br>\nrecorded... You'll need to fill out an\nadventure book to record your travels. If\nyour life stops, you can update your prayer\n<br>\nto the place where you prayed. When you're\ndone adventuring, use the SES command, \"Abort\nAdventure.\" If you're in a dangerous place,\n<br>\nyou'll have to wait longer. The church is\nfunctioning perfectly. Please select the\ncontent of your desired report...<ask><bw_break>"
   },
   "140821": {
-    "「他ニ　さぽーとガ　必要デスカ？\n<break>": "What else do you need a portal for?<break>"
+    "「他ニ　さぽーとガ　必要デスカ？\n<break>": "Do you require additional assistance?\n<break>"
   },
   "140822": {
-    "「要望：種族変更　確認。\n　さーち……終了。\n　１個体中ニ　複数ノ　種族反応ヲ　発見。\n<br>\n「現在ノ　種族トハ　異ナル姿。\n　<%sL_RACE_NOW>カラ　<%sL_RACE_AFTER>ニ\n　種族ヲ　変更シマスカ？\n<yesno><break>": "Request: Race change... Sachi..... There are\nmultiple race reactions in one individual.\nThe current race is different...\n<br>\n<%sL_RACE_NOW> to <%sL_RACE_AFTER>?<yesno><break>"
+    "「要望：種族変更　確認。\n　さーち……終了。\n　１個体中ニ　複数ノ　種族反応ヲ　発見。\n<br>\n「現在ノ　種族トハ　異ナル姿。\n　<%sL_RACE_NOW>カラ　<%sL_RACE_AFTER>ニ\n　種族ヲ　変更シマスカ？\n<yesno><break>": "Request: change race.\nSearching...search complete.\nMultiple race signatures found.\n<br>\nA different race exists from your current one.\nChange from <%sL_RACE_NOW>\nto <%sL_RACE_AFTER>?\n<yesno><break>"
   },
   "140823": {
-    "「ソレデハ　今後ノ　旅ノ無事ヲ\n　ワレワレ　支援端末ノ　創造主デアル\n　わぎニ　祈ッテクダサイ。\n<br>\n「生命活動ガ　停止シタ場合ノ　復活場所ヲ\n　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>ノ教会カラ\n　ワタシノ前ニ　更新シマス。同意シマスカ？\n<yesno><break>": "We pray to the creator of the device, Ware,\nfor the safety of our journey. In the event\nof the cessation of life, the place of\n<br>\nresurrection will be the church of <%sL_HUKKA\nTU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>. Do\nyou agree?<yesno><break>"
+    "「ソレデハ　今後ノ　旅ノ無事ヲ\n　ワレワレ　支援端末ノ　創造主デアル\n　わぎニ　祈ッテクダサイ。\n<br>\n「生命活動ガ　停止シタ場合ノ　復活場所ヲ\n　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>ノ教会カラ\n　ワタシノ前ニ　更新シマス。同意シマスカ？\n<yesno><break>": "Please pray to the Support Terminals'\ncreator, Wagi, to ensure a safe journey.\n<br>\nYour place of revival upon vital signs ceasing\nwill change to <%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>.\nIs this acceptable?\n<yesno><break>"
   },
   "140824": {
-    "「ドノ　るーらすとーんニ\n　コノ場所ヲ　記憶サセマスカ？\n<break>": "Do you want to memorize this place in your\nZoomstone?<break>"
+    "「ドノ　るーらすとーんニ\n　コノ場所ヲ　記憶サセマスカ？\n<break>": "Record this location in which Zoomstone?\n<break>"
   },
   "140825": {
-    "「選択サレタ　るーらすとーんノ　記憶場所ヲ\n　<%sM_rurastone1><%sM_dot1><%sM_sub1>カラ\n　<%sM_rurastone><%sM_dot><%sM_sub>ニ　変更シマスカ？\n<yesno><break>": "Is the memory location of the selected\nZoomstone\n<%sM_rurastone1><%sM_dot1><%sM_sub1> changed\n<br>\nto <%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
+    "「選択サレタ　るーらすとーんノ　記憶場所ヲ\n　<%sM_rurastone1><%sM_dot1><%sM_sub1>カラ\n　<%sM_rurastone><%sM_dot><%sM_sub>ニ　変更シマスカ？\n<yesno><break>": "Change Zoomstone memorized location from\n<%sM_rurastone1><%sM_dot1><%sM_sub1> to\n<%sM_rurastone><%sM_dot><%sM_sub>?\n<yesno><break>"
   },
   "140826": {
-    "「要望：冒険終了　確認。\n　冒険ヲ中断シ　今日ハ　休息シマスカ？\n<yesno 2><break>": "Request: End of adventure... Let's stop this\nadventure and rest for the day, shall we?<yesno 2><break>"
+    "「要望：冒険終了　確認。\n　冒険ヲ中断シ　今日ハ　休息シマスカ？\n<yesno 2><break>": "Request: end adventure.\nDo you wish to end your adventure for today?\n<yesno 2><break>"
   },
   "140827": {
-    "「冒険ヲ中断スルト　現在ノ　仲間トハ\n　別レルコトニ　ナリマス。\n　ソレデモ　ヨロシイデスカ？\n<yesno 2><break>": "If you interrupt our adventure, you will be\nseparated from your current companions... Is\nthat a good idea?<yesno 2><break>"
+    "「冒険ヲ中断スルト　現在ノ　仲間トハ\n　別レルコトニ　ナリマス。\n　ソレデモ　ヨロシイデスカ？\n<yesno 2><break>": "Interrupting your adventure will cause you\nto part from your current companions.\nIs this acceptable?\n<yesno 2><break>"
   },
   "140829": {
-    "「種族変更ぷろぐらむ　実行。\n　<pc>サンノ　個体でーたヲ\n　<%sL_RACE_AFTER>ニ　更新シマス。<bw_break>": "Race change plorgam...<pc> Sanno datalo <%sL_RACE_AFTER>ni update...<bw_break>"
+    "「種族変更ぷろぐらむ　実行。\n　<pc>サンノ　個体でーたヲ\n　<%sL_RACE_AFTER>ニ　更新シマス。<bw_break>": "Executing race change program.\n<pc>'s current form will be changed\nto <%sL_RACE_AFTER>.<bw_break>"
   },
   "140830": {
-    "「要望：解毒治療　確認。\n　毒ヲ　取リ除ク対象ヲ　選択シテクダサイ。\n<break>": "Request: Detoxification Treatment... Select\nan object to remove the poison from...<break>"
+    "「要望：解毒治療　確認。\n　毒ヲ　取リ除ク対象ヲ　選択シテクダサイ。\n<break>": "Request: detoxification.\nSelect target of detoxification.\n<break>"
   },
   "140831": {
-    "「要望：呪イ解除　確認。\n　呪イヲ　解ク対象ヲ　選択シテクダサイ。\n<break>": "Request: Remove spell... Select a target to\nbreak the spell...<break>"
+    "「要望：呪イ解除　確認。\n　呪イヲ　解ク対象ヲ　選択シテクダサイ。\n<break>": "Request: curse removal.\nPlease select a target to remove curse.\n<break>"
   },
   "140832": {
-    "「要望：生命反応ノ再生　確認。\n　蘇生スル対象ヲ　選択シテクダサイ。\n<break>": "Request: Regeneration of vital signs...\nPlease select a target for revival...<break>"
+    "「要望：生命反応ノ再生　確認。\n　蘇生スル対象ヲ　選択シテクダサイ。\n<break>": "Request: regeneration of vital signs.\nPlease select a target for regeneration.\n<break>"
   },
   "140833": {
-    "「あらーと。アナタノ仲間ハ　全員清浄デス。\n　毒　検知反応：ねがてぃぶ。\n　毒ノ治療ハ　必要アリマセン。\n<bw_break>": "Oh... Your friends are all clean. Poison\ndetection: please... Poison needs to be\ntreated.<bw_break>"
+    "「あらーと。アナタノ仲間ハ　全員清浄デス。\n　毒　検知反応：ねがてぃぶ。\n　毒ノ治療ハ　必要アリマセン。\n<bw_break>": "All companions are currently free from toxin.\nPoison detection is negative.\nPoison must exist to be be treated.\n<bw_break>"
   },
   "140834": {
-    "「毒　治療ぷろぐらむ　実行。\n　<pc>サンノ　毒ヲ　浄化シマス。<bw_break>": "Poison. Treatment...<pc> No, no, no, no, no.<bw_break>"
+    "「毒　治療ぷろぐらむ　実行。\n　<pc>サンノ　毒ヲ　浄化シマス。<bw_break>": "Activating detoxification program.\n<pc> is now detoxified.<bw_break>"
   },
   "140835": {
-    "「毒　治療ぷろぐらむ　実行。\n　<%sL_DOKU_PCNAME>サンノ　毒ヲ　浄化シマス。<bw_break>": "Poison. Healing... <%sL_DOKU_PCNAME>Sanno\nPoison wo Puru...<bw_break>"
+    "「毒　治療ぷろぐらむ　実行。\n　<%sL_DOKU_PCNAME>サンノ　毒ヲ　浄化シマス。<bw_break>": "Activating detoxification program.\n<%sL_DOKU_PCNAME> is now detoxified.<bw_break>"
   },
   "140836": {
-    "「復活場所ノ　設定　更新ナシ。\n　了解シマシタ。<bw_break>": "Resurrection location. Copy that...<bw_break>"
+    "「復活場所ノ　設定　更新ナシ。\n　了解シマシタ。<bw_break>": "Resurrection spot will not update.\nUnderstood.\n<bw_break>"
   },
   "140837": {
-    "「更新完了。現時点ヨリ　アナタノ　生命活動ガ\n　停止シタ場合ハ　ココ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>デ\n　復活シマス。\n<bw_break>": "UPDATE COMPLETE. IF YOUR VITAL SIGNS CEASE\nFUNCTION, YOU WILL BE RESTORED TO\n<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>.\n<bw_break>"
+    "「更新完了。現時点ヨリ　アナタノ　生命活動ガ\n　停止シタ場合ハ　ココ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>デ\n　復活シマス。\n<bw_break>": "Update complete. If your vital signs cease\nfunction, you will be regenerated to\n<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>.\n<bw_break>"
   },
   "140838": {
-    "<pc>は　ワギに　祈りを捧げた……。\n<break>": "<pc> He prayed to the wagi...<break>"
+    "<pc>は　ワギに　祈りを捧げた……。\n<break>": "<pc> prays to Wagi...\n<break>"
   },
   "140839": {
     "「あらーと。\n　現在　アナタノ　復活場所ハ　ワタシノ前デス。\n　設定ヲ　更新スル必要ハ　アリマセン。\n<br>\n「ワレワレ　支援端末ノ　創造主デアル\n　わぎニ　祈ルコトハ　可能デス。\n　ココデ　祈ッテイキマスカ？\n<yesno><break>": "Oh... You're currently in a resurrection\nlocation. You need to update your settings. I\nam the creator of your assistive device, and\n<br>\nI can pray to you... Can I pray here?<yesno><break>"
