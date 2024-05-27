@@ -951,7 +951,7 @@
     "<%sM_monster>は レベル<%dL_LEVEL_OLD>から <%dL_LEVEL_NOW>に あがった！": "<%sM_monster>'s level increased from <%dL_LEVEL_OLD> to <%dL_LEVEL_NOW>!"
   },
   "39604": {
-    "<%dL_SKILL_POINT> Pのスキルポイントを かくとく！": "Received <%dL_SKILL_POINT> skill points!"
+    "<%dL_SKILL_POINT> Pのスキルポイントを かくとく！": "Earned <%dL_SKILL_POINT> skill points!"
   },
   "39703": {
     "お知らせ広場に　掲載している絵葉書を削除した！": "Deleted published postcard in Notification Square!"
@@ -1104,7 +1104,7 @@
     "プライベートコンシェルジュから <%sM_ITEM>を 受け取った！": "Received <%sM_ITEM> from your Private Concierge!"
   },
   "41598": {
-    "<%sM_monster>は <%dM_point_num1>Pの なつき度スキルポイントを かくとく！": "<%sM_monster> received <%dM_point_num1> happiness skill points!"
+    "<%sM_monster>は <%dM_point_num1>Pの なつき度スキルポイントを かくとく！": "<%sM_monster> earns <%dM_point_num1> happiness skill points!"
   },
   "41739": {
     "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>...\""
@@ -2013,7 +2013,7 @@
     "<speed=0>これ以上　なかまに誘うことは　できません！": "<speed=0>You can't invite any more members!"
   },
   "52232": {
-    "<pc>は　レベル<%dL_LEVEL_NOW>に　あがった！": "<pc> has reached level <%dL_LEVEL_NOW>!"
+    "<pc>は　レベル<%dL_LEVEL_NOW>に　あがった！": "<pc> reaches level <%dL_LEVEL_NOW>!\nTheir attributes improve!"
   },
   "52233": {
     "<pc>は　<%sL_JOB_NAME>で試合を　始めた！": "<pc> started the match as <%sL_JOB_NAME>!"
@@ -3153,7 +3153,7 @@
     "アナザーバトルロードポイントを <%dM_num>P かくとく！": "Received <%dM_num> Another Battle Road Points!"
   },
   "62739": {
-    "<%sM_jobtype>最大ダメージ：<%dM_result>/<%dM_target>": ""
+    "<%sM_jobtype>最大ダメージ：<%dM_result>/<%dM_target>": "<%sM_jobtype> Max Damage: <%dM_result>/<%dM_target>"
   },
   "62909": {
     "-----【害虫駆除 スコア】-----": "-----[Extermination Score]-----"
@@ -3162,6 +3162,6 @@
     "ボーナス：<%sM_bonus>　スコア <%dM_score> P 獲得！": "Bonus: <%sM_bonus> Earned <%dM_score> P!"
   },
   "62917": {
-    "<%sM_snpc>に　<%sM_ITEM>を　<%nM_NUM>こ渡した。\n所持数 <%nM_BEFORE_NUM>こ → <%nM_AFTER_NUM>こ　になった。": ""
+    "<%sM_snpc>に　<%sM_ITEM>を　<%nM_NUM>こ渡した。\n所持数 <%nM_BEFORE_NUM>こ → <%nM_AFTER_NUM>こ　になった。": "Gave <%dM_NUM> <%sM_ITEM> to <%sM_snpc>.\nWent from <%dM_BEFORE_NUM> to <%dM_AFTER_NUM> held."
   }
 }
