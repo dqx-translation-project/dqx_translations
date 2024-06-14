@@ -84,7 +84,7 @@
     "「おっと。悪いけど　カネが足りないみたいだな。\n<bw_break>": "I'm sorry. I'm sorry, but I don't think we\nhave enough money...<bw_break>"
   },
   "11774": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will cost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
+    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
   },
   "11775": {
     "「わかりました。\n　<%sM_pc>さんが　ログインしても\n　あなたには　何もお伝えしませんね。<end>": "I understand... If <%sM_pc> logs\nin, we will not tell you anything...<end>"
@@ -312,10 +312,10 @@
     "「<%sM_pc>か。仲間にして　いいかい？<yesno><break>": "<%sM_pc>, hm? You want them in your\nparty?<yesno><break>"
   },
   "38832": {
-    "「<%sM_pc>さんね。\n　お仲間にして　いいかしら？<break>": "<%sM_pc>... Can I join you?<break>"
+    "「<%sM_pc>さんね。\n　お仲間にして　いいかしら？<break>": "You want <%sM_pc> to join you?<break>"
   },
   "41049": {
-    "「何を　知りたいんだ？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n紹介料について\n自分をとうろくについて\n耐性種の検索について\n<select_end>\n<break>": "What do you want to know?\n<select_se_off>\nAbout our support colleagues\nAbout waiting\nAbout the period\nAbout Referral Fees\nI'll take myself to the register\nAbout the search for resistant species\n<select_end>\n<break>"
+    "「何を　知りたいんだ？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n紹介料について\n自分をとうろくについて\n耐性種の検索について\n<select_end>\n<break>": "What do you want to know?\n<select_se_off>\nAbout Support Members\nAbout Standby\nAbout Hiring Length\nAbout Hiring Fees\nAbout Self Registration\nAbout Resistances Search\n<select_end>\n<break>"
   },
   "41050": {
     "「何を　知りたいんだ？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n<select_end>\n<break>": "What do you want to know?\n<select_se_off>\nAbout our support colleagues\nAbout waiting\nAbout the period\n<select_end>\n<break>"
@@ -333,7 +333,7 @@
     "「何を　知りたいのかしら？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n<select_end>\n<break>": "What do you want to know?\n<select_se_off>\nAbout our support colleagues\nAbout waiting\nAbout the period\n<select_end>\n<break>"
   },
   "41575": {
-    "「サポート仲間を借りたいやつが\n　仲間にしたいやつを選ぶ時に見る\n　コメントを残せるけど　書いていくか？\n<yesno><break>": "When someone wants to borrow a support buddy,\nthey'll look at the one they want to add, and\nthey can leave a comment.<yesno><break>"
+    "「サポート仲間を借りたいやつが\n　仲間にしたいやつを選ぶ時に見る\n　コメントを残せるけど　書いていくか？\n<yesno><break>": "You can write a comment for others to see when\nthey're searching for support members to hire.\nDo you want to write one?\n<yesno><break>"
   },
   "41576": {
     "「このままで　いいんだな？\n　それじゃ　これで登録しておくぜ。\n<bw_break>": "Are you sure you want to do this? Okay, well,\nI'll just sign up for this...<bw_break>"
@@ -570,7 +570,7 @@
     "「<%sM_pc>は　フレンドなんだな。\n　だったら　無料で紹介できるから\n　仲間にしたい時間を　選んでくれるかい？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "Looks like <%sM_pc>'s your friend.\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "46113": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will cost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
+    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
   },
   "46114": {
     "「<%sM_pc>さんは　フレンドなのね？\n　だったら　無料で紹介できるので\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<%sM_pc>'s your friend?\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
@@ -579,7 +579,7 @@
     "「<%sM_pc>は　こんな感じだな。\n<break>": "<%sM_pc> has this feeling...<break>"
   },
   "47539": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will cost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
+    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
   },
   "47540": {
     "「<%sM_pc>さんは　こんな感じね。\n<break>": "This is what <%sM_pc> looks like.<break>"
@@ -711,7 +711,7 @@
     "「よし　わかった。\n　今は特訓中のようだが　冒険を中断して\n　サポート仲間に　登録するんだな。\n<br>\n「サポート仲間に登録をしたら\n　冒険を中断してもらうことになるが\n　今　登録してもいいんだな？\n<yesno><break>": "Okay, I... I know you're training right now,\nbut I'm gonna have to ask you to stop your\nadventure and sign up for a support group...\n<br>\nIf I sign up for a support group, I'll have\nto stop the adventure, but I can sign up now,\nright?<yesno><break>"
   },
   "54585": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will cost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
+    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
   },
   "54586": {
     "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな？\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもない。\n<br>\n「それじゃあ　冒険を中断して\n　サポート仲間に　登録していいな？\n<yesno><break>": "Okay, I... You're going to stop your\nadventure and sign up for a support group,\nright? If you become a support companion, and\n<br>\nsomeone joins you, you'll earn experience and\ngold while you rest. And of course, they\ncan't use your stuff or steal your gear. I\n<br>\nmean, what's the harm in signing up? So, can\nwe stop the adventure and sign up for the\nsupport group?<yesno><break>"
@@ -741,7 +741,7 @@
     "「<%sM_pc>は　あんたと同じチームなんだな。\n　だったら　紹介料は半額の　<%nL_Time>時間\n　<%nL_Spt_gold>ゴールドになるけど　仲間にするかい？\n<yesno><break>": "You and <%sM_pc> are on the same Team,\nso the cost will be halved to <%dL_Spt_gold> Gold every\n<%dL_Time> hr. Do you want them to join you?\n<yesno><break>"
   },
   "60353": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will cost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
+    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
   },
   "60354": {
     "「<%sM_pc>さんとは　同じチームなのね？\n　だったら　紹介料は半額の　<%nL_Time>時間\n　<%nL_Spt_gold>ゴールドになるけど　お仲間にする？\n<yesno><break>": "You're on the same team as <%sM_pc>, right?\nThe hire fee instead is <%dL_Spt_gold> gold for <%dL_Time>\nhours then, half of the normal price.\n<br>\nDo you want to continue?\n<yesno><break>"
@@ -777,7 +777,7 @@
     "「それと　<%sM_pc>はレベルが高いので\n　<%sM_item>　の効果はないんだが\n　それでも　大丈夫か？\n<yesno><break>": "And <%sM_pc> is too high level\nfor <%sM_item> to have any\neffect, but still, okay?<yesno><break>"
   },
   "83778": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will cost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
+    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
   },
   "83779": {
     "「それと　<%sM_pc>さんはレベルが高いから\n　<%sM_item>　の効果はないのだけれど\n　それでも　大丈夫かしら？\n<yesno><break>": "And <%sM_pc>, you're too high\nlevel for <%sM_item> to have any\neffect.<yesno><break>"
