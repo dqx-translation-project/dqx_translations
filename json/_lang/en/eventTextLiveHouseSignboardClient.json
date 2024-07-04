@@ -258,7 +258,7 @@
     "畑に　作物が植えられています。\n収穫するか　『やりなおす』にて\n畑に何も植えられてない状態に　してください。\n<bw_break>": "Your field is currently planted with seeds.\nEither harvest the plants or use \"Replant\"\nto clear the field out.\n<bw_break>"
   },
   "145590": {
-    "すべての条件を　満たしています。\nいつでも　引っ越しできる状態です。": "If you meet all the requirements... I'm ready\nto move out at any time..."
+    "すべての条件を　満たしています。\nいつでも　引っ越しできる状態です。": "All conditions have been met.\nYou can move in at any time."
   },
   "145591": {
     "モンスターのおうちに　仲間モンスターがいます。\n仲間モンスターを　おうちから\n引っ込めてください。\n<bw_break>": "There is a fellow monster in your monster\nhouse. Please withdraw the fellow monster\nfrom the house.\n<bw_break>"
@@ -312,7 +312,7 @@
     "<pc>は　想いを込めて\nクリスマスプレゼントを　この土地に置いた！\n戻って　<%sM_NpcName>に　報告しよう！\n<me 60><end>": "<pc> has placed a thoughtful Christmas gift on\nthis land! Let's go back and report to\n<%sM_NpcName>!<me 60><end>"
   },
   "230840": {
-    "元の土地に　家が建っている場合\n家キットや　配置している家具庭具も　そのままで　\n引っ越ししますか？\n<select_se_off>\nそのまま引っ越し\n更地に引っ越し\nやめる\n<select_end><break>": "If there's a house on the original lot, do\nyou want to move in with the house kit and\nall the furniture and garden equipment in\n<br>\nplace?\n<select_se_off>\nMove in as is\nMoving to a vacant lot\nCancel\n<select_end><break>"
+    "元の土地に　家が建っている場合\n家キットや　配置している家具庭具も　そのままで　\n引っ越ししますか？\n<select_se_off>\nそのまま引っ越し\n更地に引っ越し\nやめる\n<select_end><break>": "If there's a house on the original lot, do\nyou want to move in with the house kit and\nall the furniture and garden equipment in\n<br>\nplace?\n<select_se_off>\nMove in as is\nMove to a vacant lot\nCancel\n<select_end><break>"
   },
   "230842": {
     "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。\n<bw_break>": "<%sL_PC_NICK> has purchased a new plot of\nland and has moved to this location! The\nZoomstones for his house are automatically\n<br>\nrewritten to this location...<bw_break>"
@@ -381,7 +381,7 @@
     "レンダーヒルズ地区では\n新たに　土地の売却と　引っ越しが\nできるようになりました。\n<br><color_yellow>\n※マイタウンへ　引っ越した場合に限り\n　所有していたレンダーヒルズ地区の　土地は\n　５０００万ゴールドで売却されます。\n<br><color_yellow>\n※その他の地区に　引っ越した場合は\n　１０００万ゴールドで売却されます。\n<br><color_white>\nこの家が　すぐに引っ越しできる状態か\n引っ越しチェックで　確認しますか？\n<yesno><break>": "In the Render Hills area, you can now sell\nyour land and move...<color_yellow>If you move to My Town, your land in the\nRenderhills district will be sold for 50\nmillion gold...<color_yellow>If you move to another district, it will be\nsold for 10 million gold...<color_white>Would you like a move-in check to make sure\nthis house is ready to move into?<yesno><break>"
   },
   "247694": {
-    "すべての条件を　満たしています。\nいつでも　引っ越しできる状態です。": "If you meet all the requirements... I'm ready\nto move out at any time..."
+    "すべての条件を　満たしています。\nいつでも　引っ越しできる状態です。": "All conditions have been met.\nYou can move in at any time."
   },
   "247717": {
     "「こんにちは　<%sL_PC_NICK>さま。\n　マイタウンのご購入　おめでとうございます。\n　お引っ越しが　完了いたしました。\n<br>\n「私　このマイタウンの管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後とも　どうぞ　よろしくお願いいたします。\n<br>\n「今後　私どもが　<%sL_PC_NICK>さまの生活を\n　心をこめて　お手伝いさせていただきますので\n　きっと　ご満足いただけると思います。\n<br>\n「<%sL_PC_NICK>さまの家のルーラストーンは\n　この場所に書き換えられました。前の土地に\n　建っていた家は　家キットに戻りました。\n<br><color_yellow>\n「引っ越し前の家の中に　配置されていた家具は\n　特殊な退避状態となり　本宅の扉メニューの\n　『配置中の家具』から　配置できます。\n<br>\n「プライベートコンシェルジュを　雇っていた場合\n　引っ越し後に　『コンシェルジュ設定』から\n　再度　立ち位置をご指示ください。\n<br><color_white>\n「さあ　これから　<%sL_PC_NICK>さまは\n　晴れて　マイタウンのオーナーです。\n　ここでの生活を　どうぞお楽しみください！": "Hello, <if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>.\nCongratulations on your new My Town.\nYour move went swimmingly.\n<br>\nMy name is <%sL_MAID_NAME>, and I am the\nmanager of this My Town. It's a\npleasure to make your acquaintance.\n<br>\nI will do everything I am able to make your\nstay as comfortable as possible, so I hope my\nservices will prove beneficial to you.\n<br>\nYour old plot's Zoomstone has automatically\nupdated to this location, and your house\nhas returned to being a house kit.\n<br><color_yellow>\nThe furniture from your previous home has\nbeen put in special storage. You can place\nthem with \"Place Furniture\" in the door menu.\n<br>\nIf you had a Private Concierge prior to\nmoving, please place them again in the\n\"Concierge Settings\".\n<br><color_white>\nYou are now an official My Town owner,\n<if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>.\nPlease enjoy your new life here!"
