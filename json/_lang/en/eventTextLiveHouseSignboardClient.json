@@ -102,10 +102,10 @@
     "この住宅村には　現在　全部で<%nL_WELCOME_NUM>軒の\nウェルカムハウスがあります。\n<br>\nこの住宅村の　ウェルカムハウスに\n遊びに行きますか？\n<yesno><break>": "There are currently a total of\n<%dL_WELCOME_NUM> welcome houses in this\nresidential village... Would you like to\n<br>\nvisit the welcome house in this residential\nvillage?<yesno><break>"
   },
   "52072": {
-    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されます。\nこの土地に引っ越して　よろしいですか？\n<yesno 2><break>": "My previous property was sold for\n<%dL_SELL_PRICE> gold... Are you sure you\nwant to move to this land?<yesno 2><break>"
+    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されます。\nこの土地に引っ越して　よろしいですか？\n<yesno 2><break>": "My previous property will sell for\n<%dL_SELL_PRICE> gold. Do you want\nto move to this land?\n<yesno 2><break>"
   },
   "52073": {
-    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されました。": "My previous property was sold for\n<%dL_SELL_PRICE> gold..."
+    "前に所有していた土地は\n<%nL_SELL_PRICE>ゴールドで　売却されました。": "My previous property was sold for\n<%dL_SELL_PRICE> gold."
   },
   "52099": {
     "『他の人の家へ』を使えば　この大陸の住宅村で\nウェルカムハウス設定にしている誰かの家の前に\nひとっとびで　行くことができます！\n<br>\nただし　どの家に行くかは　わかりません。\n行く場所は　毎回　変わるので　何度も試して\nいろいろな家に　遊びにいってみてください。\n<bw_break>": "With \"Visit Other People's Homes,\" you can\njump in front of anyone's house that's set up\nas a welcome home in any residential village\n<br>\non this continent! However, you'll never know\nwhich house you're going to... The location\nyou go to will change every time, so try it\n<br>\nagain and again to visit different houses...<bw_break>"
@@ -417,7 +417,7 @@
     "マイタウンから　引っ越しても\nマイタウン権利証は　なくなりません。\n<br>\nただし　住民のいなくなったマイタウンには\n自分以外の人は　入れなくなります。\n<br>\n家とマイタウン全体で　別々に権限設定していた\n『さわる』『スライムチャイムに書く』\n『ベッドの使用』『コンシェルジュの日常』\n<br>\n以上の項目は　家の設定が　適用されます。\n管理人メニューの　権限の設定から\n確認してください。\n<br>\nまた　マイタウンの土地から　引っ越した場合\n３日間　マイタウンの土地へは\n戻ることが　できなくなります。": "If you move out of My Town, you no longer\nhave a My Town Bill of Rights... However, you\nwill no longer be able to enter My Town...\n<br>\nI've set up separate permissions for my house\nand MyTown... for touching, writing on the\nslime chime, using the bed, and the\n<br>\nconcierge's daily routine. You'll need to go\nto the administrator menu and set your\npermissions... Also, if you move out of My\n<br>\nTown, you won't be able to return to My Town\nfor three days..."
   },
   "255238": {
-    "本宅と　その中に配置されていた家具を\nそのまま引っ越ししますか？\n<select_se_off>\n本宅をそのまま引っ越し\n更地に引っ越し\nやめる\n<select_end><break>": "Would you like to move out of the main house\nand all the furniture that was in it?\n<select_se_off>\nMove out of the main house as it is\nMoving to a vacant lot\nCancel\n<select_end><break>"
+    "本宅と　その中に配置されていた家具を\nそのまま引っ越ししますか？\n<select_se_off>\n本宅をそのまま引っ越し\n更地に引っ越し\nやめる\n<select_end><break>": "Would you like to move out of the main house\nand all the furniture that was in it?\n<select_se_off>\nMove out of the main house as it is\nMove to a vacant lot\nCancel\n<select_end><break>"
   },
   "255239": {
     "そのまま引っ越すことが　できるのは\n本宅と　その中に設置された家具のみです。\n<br>\n別宅として建っていた家は　家キットに戻り\n「つかうもの」に　入ります。\n<br>\n別宅の中に　配置されていた家具と\nマイタウン内に　配置されていた庭具は\nすべて　一時預かりぶくろに　収納されます。\n<br>\n※別宅の中に　配置されていたレプリカ家具と\nマイタウン内に　配置されていたレプリカ庭具は\n一時預かりぶくろに　収納されず　なくなります。\n<br>\nレプリカになっている家具および　庭具は　\n引き継がれますので　前と同じように　\n配置することができます。\n<br>\n家具の場合　扉メニュー『レプリカ家具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ家具を配置』から　配置してください。\n<br>\n庭具の場合　扉メニュー『レプリカ庭具』および　\nどうぐメニュー『ハウジング』の\n『レプリカ庭具を配置』から　配置してください。\n<br>\nまた　フェンスや地面などの　一部の外装は\n土地のサイズごとに　専用なので\nサイズの異なる土地では　つかえなくなります。": "Only the main house and its furnishings can be\nmoved in. Houses that were built as separate\nhouses will be returned to the house kit and\n<br>\nplaced in the \"items\" section. All furniture\nplaced in the separate house and garden\nfurniture placed in My Town will be stored in\n<br>\nthe temporary storage bag. Replica furniture\nin the villa and replica garden furniture in\nMy Town will no longer be stored in the\n<br>\ntemporary storage bag. Replicated furniture\nand garden furniture will be inherited and can\nbe placed as before. In the case of garden\n<br>\nfurniture, use \"Replica garden furniture\" in\nthe door menu and \"Place replica garden\nfurniture\" in the item menu \"Housing\" to place\n<br>\nthe garden furniture. Some exteriors, such as\nfences and grounds, are specific to the size\nof the lot and will not work on lots of\n<br>\ndifferent sizes."
