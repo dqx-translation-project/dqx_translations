@@ -1197,7 +1197,7 @@
     "<speed=0>コマンドの配置を　初期状態に　戻しますか？\n<yesno 2><close>": "<speed=0>Set command order back to the default?\n<yesno 2><close>"
   },
   "27748": {
-    "<%sM_pc>は　<%sM_item>を使った。": "<%sM_pc> used the <%sM_item>."
+    "<%sM_pc>は　<%sM_item>を使った。": "<%sM_pc> uses the <%sM_item>."
   },
   "27760": {
     "<speed=0>いまは　<%sM_pc>を\nくわしくみれませんでした。": "<speed=0>Unable to view <%sM_pc>'s\ninformation right now."
@@ -5262,7 +5262,7 @@
     "<speed=0>あと　<%dEV_PENALTY>分　入れないようだ。": "<speed=0>You can't enter for another <%dEV_PENALTY> minute(s)."
   },
   "51754": {
-    "<speed=0><pc>は　<%sEV_DAIJI>を手に取った。\n<%sEV_DAIJI>は　あと　<%dEV_PENALTY>分\n使えないようだ。": "<speed=0><pc> used the <%sEV_DAIJI>.\nIt seems it can't be used for another\n<%dEV_PENALTY> minute(s)."
+    "<speed=0><pc>は　<%sEV_DAIJI>を手に取った。\n<%sEV_DAIJI>は　あと　<%dEV_PENALTY>分\n使えないようだ。": "<speed=0><pc> uses the <%sEV_DAIJI>.\nIt seems it can't be used for another\n<%dEV_PENALTY> minute(s)."
   },
   "51755": {
     "<speed=0>パーティ同盟相手を　どのように決めますか？\n<select>\n指定のパーティと\n同盟相手を自動で探す\n同盟を組まない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<break>\n<case_cancel>\n<close>\n<case_end>": "<speed=0>How do you want to proceed?\n<select>\nFixed Party\nSearch for Allies\nDon't Form Alliance\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<break>\n<case_cancel>\n<close>\n<case_end>"
@@ -5733,7 +5733,7 @@
     "<speed=0>\nこの人を　あなたの近くに\n呼び寄せますか？\n<yesno><close>": "<speed=0>\nWould you like to call this person closer to\nyou?<yesno><close>"
   },
   "53872": {
-    "<pc>は　<%sM_useitem>を使って\n宝箱の封印を　解いた！\n<%sM_useitem>を　消費した。": "<pc> used the <%sM_useitem>\nto unseal the sealed chest!\n<%sM_useitem> has been consumed."
+    "<pc>は　<%sM_useitem>を使って\n宝箱の封印を　解いた！\n<%sM_useitem>を　消費した。": "<pc> uses the <%sM_useitem>\nto unseal the sealed chest!\nThe <%sM_useitem> was consumed."
   },
   "53873": {
     "<speed=0>宝箱の中身は　封印されている。\n<%sM_useitem>を　１個　使って\n宝箱の中身を　とりますか？（所持数　<%nM_Num>個）<yesno 2><close>": "<speed=0>The chest's contents are sealed.\nUse 1 <%sM_useitem> to unseal it?\n(Stock: <%dM_Num>)<yesno 2><close>"
