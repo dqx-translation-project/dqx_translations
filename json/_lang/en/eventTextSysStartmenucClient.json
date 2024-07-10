@@ -666,7 +666,7 @@
     "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%02d_MM>/<%02d_DD>/<%d_YYYY>"
   },
   "44780": {
-    "（キッズタイム中）": "(Kids Time Active)"
+    "キッズタイム中": ""
   },
   "44781": {
     "<%dGENKICHARGE>時間": "<%dGENKICHARGE> hr."
@@ -963,7 +963,7 @@
     "（決済中でも プレイできます）": "(Playable During Payment)"
   },
   "47566": {
-    "自動継続の決済中です…": "Renewal in progress..."
+    "自動継続決済中": ""
   },
   "47789": {
     "クレジットカードの認証のため\n入力していただいた　クレジットカード情報を\nセンターに送信します。よろしいですか？<yesno><close>": "The credit card information you have entered\nwill be sent to the center for credit card\nauthorization. Is this okay?<yesno><close>"
@@ -1485,7 +1485,7 @@
     "眠れる勇者と導きの盟友": "Sleeping Hero & Guiding Ally"
   },
   "71112": {
-    "（フリープレイ中）": "(Free Play)"
+    "フリープレイ中": ""
   },
   "72764": {
     "条件を満たした\n特典プレゼントを受け取ろう": "Receive special presents\nby meeting criteria."
@@ -1494,7 +1494,7 @@
     "条件を満たしていないため\nこのプレゼントは　受け取れません。": "You haven't met the criteria to receive this\npresent."
   },
   "72767": {
-    "（ネットカフェプレイ中）": "(Net Cafe Play)"
+    "ネットカフェ中": ""
   },
   "72782": {
     "５キャラコースに変更すると\n倉庫がひとつと　写真を撮影できる枚数が100枚\n増えます。<br>\n<color_yellow>※５キャラコースをやめると\n　倉庫の中のアイテムや　写真は削除されませんが\n　使えなくなります。<color_white><end>": "If you change to the 5-character course, you\nwill have one storage and the number of photos\nyou can take will increase by 100.<br>\n<color_yellow>*If you cancel the 5-character course, items\nand photos in the storage will not be deleted,\nbut they will no longer be available.<color_white><end>"
@@ -1635,7 +1635,7 @@
     "入力された　レジストレーションコードは\n今は登録できません。「目覚めし五つの種族」の\nコードを先に登録してください。<end>": "The registration code entered cannot be\nregistered at this time. Please register the\ncode for \"Awakening of the 5 Tribes\" first.<end>"
   },
   "82930": {
-    "（体験版プレイ中）": "(Trial Version)"
+    "体験版プレイ中": ""
   },
   "85552": {
     "お客様への重要なお知らせ": "Important Notice"
@@ -1737,10 +1737,10 @@
     "オプションプランは　自動継続の場合のみ\nご利用することができます。\n今すぐ　クレジットカードを登録しますか？<yesno><close>": "Optional plans can only be used with automatic\nrenewal. Would you like to register your\ncredit card now?<yesno><close>"
   },
   "99423": {
-    "思い出アルバムの拡張": "Album Expansion"
+    "思い出アルバム": ""
   },
   "99424": {
-    "倉庫の拡張": "Expand Storage"
+    "預かり所": ""
   },
   "99425": {
     "契約ごとのオプション": "Contract Options"
@@ -1800,7 +1800,7 @@
     "アルバム拡張＋<%nADDPLAN>（<%dSLOT>枚）から\nアルバム拡張＋<%nADDPLAN2>（<%dSLOT2>枚）に変更しました。<br>\n次回の更新から\n変更したアルバム拡張内の写真が\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nAlbum Expansion +<%dADDPLAN> (<%dSLOT> Slots) to\nAlbum Expansion +<%dADDPLAN2> (<%dSLOT2> Slots).<br>\nFrom the next renewal, you won't be able to\nuse any photos that you have in your extra\nslots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "100060": {
-    "追加倉庫＋<%nADDPLAN>（<%dSLOT>個）から\n追加倉庫＋<%nADDPLAN2>（<%dSLOT2>個）に変更しました。<br>\n次回の更新から\n変更した追加倉庫のアイテムが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nExtra Storage +<%dADDPLAN> (<%dSLOT> Items) to\nExtra Storage +<%dADDPLAN2> (<%dSLOT2> Items).<br>\nFrom the next renewal, you won't be able to\nuse any items that you have in your extra\nstorage.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
+    "倉庫の拡張を変更すると　次回の更新から\n変更した追加倉庫内のアイテムが\n操作できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": ""
   },
   "100061": {
     "予備": "Spare"
@@ -1812,10 +1812,10 @@
     "予備": "Spare"
   },
   "100156": {
-    "アルバム拡張 利用しない": "Album Expansion Not Used"
+    "拡張しない": ""
   },
   "100157": {
-    "追加倉庫 利用しない": "Extra Storage Not Used"
+    "拡張しない": ""
   },
   "100181": {
     "３０日間利用券(３キャラ＋オプション)": "30 Day Ticket (3 Characters + Options)"
@@ -1845,7 +1845,7 @@
     "９０日間利用券(５キャラ＋オプション)": "90 Day Ticket (5 Characters + Options)"
   },
   "100318": {
-    "『オプションプランを登録する』に\n新しく『マイコーデの拡張』が追加されました。": "You've expanded the number of\nglamour spots with a new option plan."
+    "『オプションプランを登録する』に\n新しいオプションプランが追加されました。": ""
   },
   "100339": {
     "利用券の購入時や　キャラコース変更時などで\n購入処理が正常に終了されなかった場合に\nこちらから　サーバーへ再確認ができます。\n<br>\n購入時にエラーが発生したり　キャンセルを行い\n購入できていない場合　こちらをお試しください。\nサーバーへ　再確認を行いますか？<yesno 2><close>": "If the purchase is not completed successfully,\nsuch as purchasing a ticket or changing\ncharacter course, reconfirm with server here.\n<br>\nIf an error occurs during purchase or you are\nunable to purchase due to cancellation, please\ntry this. Reconfirm with the server?<yesno 2><close>"
@@ -1986,7 +1986,7 @@
     "預かり枠拡張＋<%nADDPLAN>（<%dSLOT>枠）": "Monster Tavern Expansion +<%dADDPLAN> (<%dSLOT> Slots)"
   },
   "124111": {
-    "モンスター酒場拡張": "Monster Tavern Expansion"
+    "モンスター酒場": ""
   },
   "124113": {
     "預かり枠拡張＋<%nADDPLAN>（<%dSLOT>枠）から\n預かり枠拡張＋<%nADDPLAN2>（<%dSLOT2>枠）に変更しました。<br>\n次回の更新から\n追加預かり枠にいる　仲間モンスターが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nMonster Tavern Expansion +<%dADDPLAN> (<%dSLOT> Slots) to\nMonster Tavern Expansion +<%dADDPLAN2> (<%dSLOT2> Slots).<br>\nFrom the next renewal, you won't be able to\nuse any fellow monsters that you have in your\nextra slots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
@@ -1995,7 +1995,7 @@
     "預かり枠拡張＋<%nADDPLAN>（<%dSLOT>枠）から\n預かり枠拡張 利用なし　に変更しました。<br>\n次回の更新から\n追加預かり枠にいる　仲間モンスターが\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": "Changed from\nMonster Tavern Expansion +<%dADDPLAN> (<%dSLOT> Slots) to\nNo Monster Tavern Expansion.<br>\nFrom the next renewal, you won't be able to\nuse any fellow monsters that you have in your\nextra slots.<br>\nThe current plan is valid until: <%d_YYYY>/<%d_MM>/<%d_DD>"
   },
   "124118": {
-    "モンスター酒場拡張 利用しない": "Monster Tavern Expansion Not Used"
+    "拡張しない": ""
   },
   "124119": {
     "預かり枠拡張＋<%nADDPLAN>　に変更されて\n仲間モンスターを　モンスター酒場に\n預けられる数が　<%dSLOT>枠　増えました。<me_60>": "The number of fellow monsters that can be\ndeposited at the Monster Tavern has increased\nby <%dSLOT> slots by changing to\n<br>\nMonster Tavern Expansion +<%dADDPLAN>.<me_60>"
@@ -2043,10 +2043,10 @@
     "マイコーデ枠＋<%nADDPLAN>（<%dSLOT>枠）": "Glamour Slots +<%dADDPLAN> (<%dSLOT> Slots)"
   },
   "146162": {
-    "マイコーデの拡張": "Glamour Expansion"
+    "マイコーデ": ""
   },
   "146163": {
-    "マイコーデの拡張 利用しない": "Glamour Expansion Not Used"
+    "拡張しない": ""
   },
   "146164": {
     "マイコーデ枠＋<%nADDPLAN>　に変更されて\nマイコーデに　登録できる装備セットが\n<%dSLOT>枠　増えました。<me_60>": "The number of glamours that can be registered\nhas increased by <%dSLOT> slots by changing to\nGlamour Slots +<%dADDPLAN>.<me_60>"
@@ -2073,7 +2073,7 @@
     "<color_yellow>このキャラクターは\n「キャラクター名変更権」を\nまだ消費していない　キャラクターです！<color_white>\n<br>\n冒険の書<%nNO>を　消してしまうと\n「キャラクター名変更権」の　権利も\n一緒に　消去されてしまいます。\n<br>\nそれでも　冒険の書<%nNO>を消して\nよろしいですか？\n<color_yellow>※消したあとに　権利の復活はできません。<color_white><yesno 2><close>": "<color_yellow>This character has not yet used their\nallowed Character Name Change Service!<color_white>\n<br>\nIf you delete this Adventure Log, your\nCharacter Name Change Service allowance will\nbe deleted as well.\n<br>\nReally delete this Adventure Log?\n<color_yellow>Service cannot be reinstated after deletion!<color_white><yesno 2><close>"
   },
   "159327": {
-    "（フリープレイ可能）": "(Free Play Available)"
+    "フリープレイ可": ""
   },
   "165639": {
     "この利用券は　終了日を超えるため\n購入することができません。": "This ticket cannot be purchased because it\nexceeds the end date."
@@ -2136,7 +2136,7 @@
     "現在　サーバーメンテナンスのため\n購入処理を　完了することができませんでした。\n<br>\nしばらく時間を置いてから　お試しいただくか\n公式サイト「目覚めし冒険者の広場」を\nご確認ください。　https://hiroba.dqx.jp": "We are currently unable to complete your\npurchase due to server maintenance.\n<br>\nPlease wait for a while and try again, or\ncheck the official website \"Awakening\nAdventurer's Square\".  https://hiroba.dqx.jp"
   },
   "182564": {
-    "「思い出アルバム」の　拡張状況の\n変化を　確認しました。各冒険の書で\nゲームを開始して　拡張状況を　ご確認ください。<end>": "We have confirmed the expansion changes for\nthe \"Photo Album\". Please start the game with\neach Adventure Log to check the status.<end>"
+    "「思い出アルバム」の　契約状況の\n変化を　確認しました。各冒険の書で\nゲームを開始して　契約状況を　ご確認ください。<end>": ""
   },
   "183218": {
     "PlayStation®Plus 加入特典 <%d_MM>月分": "PlayStation®Plus membership benefits for month <%d_MM>."
@@ -2310,10 +2310,10 @@
     "プレイ料金無料期間は　終了しました。": "Free play period has ended."
   },
   "280105": {
-    "（プレイ料金無料期間）": "(Free Play Period)"
+    "プレイ料金無料期間": ""
   },
   "280106": {
-    "（無料期間でプレイ可能）": "(Free Period Playable)"
+    "無料期間でプレイ可能": ""
   },
   "281030": {
     "<speed=0>バージョン２『眠れる勇者と導きの盟友』\n新たな大地レンダーシアで繰り広げられる\n勇者と　その盟友の物語です。": "<speed=0>Version 2:\nThe Sleeping Hero & the Guiding Ally\n<auto_br=2000>\nThis is the story of a brave hero and their\ntrusted ally in the new land of Lendersia."
@@ -2527,5 +2527,71 @@
   },
   "325160": {
     "中断された利用券の購入処理を確認しました。\n前回　購入しようとした利用券は\nキャンセルさせていただきます。\n<br>\nすでに　お支払いされていた場合\n後日　返金処理を行いますので\nしばらく　お待ちください。\n<br>\nまた　ご不明な点がある場合は\nサポートセンターに　お問い合わせください。\nhttps://sqex.to/eh6": ""
+  },
+  "327258": {
+    "マイハウス拡張＋<%nADDPLAN>": ""
+  },
+  "327259": {
+    "マイハウス拡張＋<%nADDPLAN>（<%dSLOT>枠）": ""
+  },
+  "327260": {
+    "マイガーデン拡張＋<%nADDPLAN>": ""
+  },
+  "327261": {
+    "マイガーデン拡張＋<%nADDPLAN>（<%dSLOT>枠）": ""
+  },
+  "327262": {
+    "拡張しない": ""
+  },
+  "327263": {
+    "拡張しない": ""
+  },
+  "327264": {
+    "マイハウス": ""
+  },
+  "327265": {
+    "マイガーデン": ""
+  },
+  "327266": {
+    "マイハウス拡張＋<%nADDPLAN>（<%dSLOT>枠）から\nマイハウス拡張＋<%nADDPLAN2>（<%dSLOT2>枠）に変更しました。<br>\n次回の更新から\n変更したマイハウスに登録されていた枠が\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": ""
+  },
+  "327267": {
+    "マイハウス拡張＋<%nADDPLAN>（<%dSLOT>枚）から\nマイハウス拡張 利用なし　に変更しました。<br>\n次回の更新から\n変更したマイハウスの枠が\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": ""
+  },
+  "327268": {
+    "マイハウス拡張＋<%nADDPLAN>（<%dSLOT>枠）から\nマイハウス拡張＋<%nADDPLAN2>（<%dSLOT2>枠）に変更しました。<br>\n次回の更新から\n変更したマイハウスに登録されていた枠が\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": ""
+  },
+  "327269": {
+    "マイガーデン拡張＋<%nADDPLAN>（<%dSLOT>枚）から\nマイガーデン拡張 利用なし　に変更しました。<br>\n次回の更新から\n変更したマイガーデンの枠が\n操作できなくなります。<br>\n有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n現在のプランが有効です。": ""
+  },
+  "327270": {
+    "マイハウス拡張＋<%nADDPLAN>　に変更されて\nマイハウスに　登録できる枠が\n<%dSLOT>枠　増えました。<me_60>": ""
+  },
+  "327271": {
+    "マイガーデン枠＋<%nADDPLAN>　に変更されて\nマイガーデンに　登録できる枠が\n<%dSLOT>枠　増えました。<me_60>": ""
+  },
+  "327743": {
+    "<%d_YYYY>/<%2d_MM>/<%2d_DD>": ""
+  },
+  "327744": {
+    "<color_yellow>\n倉庫の拡張を変更すると　次回の更新から\n変更した追加倉庫内のアイテムが\n操作できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded\nextra storage slots, you won't be able to use\nthem once the current plan expires.<br>\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
+  },
+  "327745": {
+    "<color_yellow>\nアルバム拡張を変更すると　次回の更新から\n変更したアルバム拡張内の写真が\n操作ができなくなります。写真は削除されません。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded\nphoto album slots, you won't be able to use\nthem once the current plan expires.<br>\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
+  },
+  "327746": {
+    "<color_yellow>\nモンスター酒場拡張を変更すると　次回の更新から\n変更した追加枠内の　仲間モンスターを\n連れて行くことが　できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded\nmonster tavern slots, you won't be able to use\nthem once the current plan expires.<br>\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
+  },
+  "327747": {
+    "<color_yellow>\nマイコーデの拡張を変更すると　次回の更新から\n拡張したマイコーデ枠の　装備セットを\n着ることが　できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded glamour\nslots, you won't be able to use them\nonce the current plan expires.<br>\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
+  },
+  "327748": {
+    "<color_yellow>\nマイハウスの拡張を変更すると　次回の更新から\n拡張したマイハウス追加枠に　登録した家具を\n配置することが　できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": ""
+  },
+  "327749": {
+    "<color_yellow>\nマイガーデンの拡張を変更すると　次回の更新から\n拡張したマイハウス追加枠に　登録した庭具を\n配置することが　できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": ""
+  },
+  "329209": {
+    "プレミアムゴールドの履歴がありません。": ""
   }
 }
