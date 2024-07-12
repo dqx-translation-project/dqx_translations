@@ -39,22 +39,22 @@
     "おすすめの設定を判定中です……。\nしばらくお待ちください。": "Determining recommended settings...\nPlease wait a while."
   },
   "79813": {
-    "おすすめ設定が完了しました。\n・画面解像度　　　　　%s\n・グラフィックス設定　%s\n・フレームレート　　　%s": "Recommended settings complete.\n- Screen resolution: %s\n- Graphics settings: %s\n- Frame rate: %s"
+    "おすすめ設定が完了しました。\n・画面解像度　　　　　%s\n・グラフィックス設定　%s\n・フレームレート　　　%s": "Recommended settings complete.\n・Screen resolution: %s\n・Graphics settings: %s\n・Frame rate: %s"
   },
   "79814": {
-    "設定するプレイヤーの環境設定を\nご使用のPCの性能に適した設定へ変更します。\n　※ゲームプレイ中は「おすすめ設定を行う」を使用できません。": "Change the preferences of the player you want to\n configure to the settings appropriate for the performance of your PC.\n - You can't use \"Make Recommendations\" during gameplay."
+    "設定するプレイヤーの環境設定を\nご使用のPCの性能に適した設定へ変更します。\n　※ゲームプレイ中は「おすすめ設定を行う」を使用できません。": "Change the preferences of the selected player to\nsettings that are appropriate for your PC.\n※\"Recommended Settings\" is unavailable during gameplay."
   },
   "79815": {
-    "ゲーム画面を表示する、ウィンドウのモードを設定します。\n　- 通常ウィンドウモード\n　　　ゲーム画面のサイズを「画面解像度」で設定した解像度にあわせます。\n　- フルスクリーンモード\n　　　ゲーム画面をディスプレイのサイズに合わせて、画面いっぱいに表示しますが、\n　　　解像度は「画面解像度」の設定が適用されます。\n　- 仮想フルスクリーンモード\n　　　ゲーム画面をディスプレイのサイズに合わせて、画面いっぱいに表示しますが、\n　　　「通常ウィンドウモード」と同じウィンドウモードで起動します。\n　　　解像度は適したものが自動的に適用されます。\n　※この項目は、ゲームを再起動するまで反映されません。": "Sets the window mode in which the game is displayed.\n - Normal Window Mode\n   Adjust the size of the game screen to the resolution set in \"Screen Resolution\".\n - Full Screen Mode\n  The game screen will fit to the size of the display.\n  The \"Screen Resolution\" setting is applied.\n  - Virtual Full Screen Mode\n  The game screen will fill the screen to fit the size of the display.\n  Starts in the same window mode as 'Normal Window Mode'.\n   The appropriate resolution will be applied automatically.\n - Will not take effect until you restart the game."
+    "ゲーム画面を表示する、ウィンドウのモードを設定します。\n　- 通常ウィンドウモード\n　　　ゲーム画面のサイズを「画面解像度」で設定した解像度にあわせます。\n　- フルスクリーンモード\n　　　ゲーム画面をディスプレイのサイズに合わせて、画面いっぱいに表示しますが、\n　　　解像度は「画面解像度」の設定が適用されます。\n　- 仮想フルスクリーンモード\n　　　ゲーム画面をディスプレイのサイズに合わせて、画面いっぱいに表示しますが、\n　　　「通常ウィンドウモード」と同じウィンドウモードで起動します。\n　　　解像度は適したものが自動的に適用されます。\n　※この項目は、ゲームを再起動するまで反映されません。": "Sets the screen type for gameplay.\n・Windowed Mode\n         - Adjusts the size of the game window to the resolution set in \"Screen Resolution\".\n・Exclusive Full Screen Mode\n         - The game screen will fit to the size of the display.\n         - You can configure the screen resolution for this mode.\n         - Your mouse will be locked to the game's window.\n・Virtual Full Screen Mode (Borderless Windowed Mode)\n         - The game window will maximize to the size of your current display resolution.\n         - Your mouse will not be locked to the game's window.\n         - Screen resolution cannot be configured for this setting.\n※Settings will take effect on a restart of the game."
   },
   "79816": {
-    "通常ウィンドウモードや、フルスクリーンモードの\nゲーム画面の解像度を設定できます。\n　※この項目は、ゲームを再起動するまで反映されません。": "You can set the resolution of the game screen in normal window mode or full screen mode.\n※Will not take effect until a game restart."
+    "通常ウィンドウモードや、フルスクリーンモードの\nゲーム画面の解像度を設定できます。\n　※この項目は、ゲームを再起動するまで反映されません。": "Sets the resolution of the game window in Windowed Mode\nor Exclusive Full Screen Mode.\n※Will not take effect until a game restart."
   },
   "79817": {
-    "画面の明るさを変更できます。": "Change the screen brightness."
+    "画面の明るさを変更できます。": "Change the brightness of the window."
   },
   "79818": {
-    "ゲームプレイ中の、ティアリング（表示がゆがんだり、ちらついて見える現象）を\n抑える処理の挙動を設定します。\n　- チェックあり\n　　　処理が有効になりますが、動作が重くなる場合があります。\n　- チェックなし\n　　　処理が無効になりますが、動作が軽くなる場合があります。\n　※この項目は、ゲームを再起動するまで反映されません。": "Reduce tearing (display distortion and fluckering) during gameplay\nSets the suppression process behavior.\n - Checked\n  Processing will be enabled, but may be slower.\n - Unchecked\n  This will disable the process, but may make it run slower.\n ※Will not take effect until a game restart."
+    "ゲームプレイ中の、ティアリング（表示がゆがんだり、ちらついて見える現象）を\n抑える処理の挙動を設定します。\n　- チェックあり\n　　　処理が有効になりますが、動作が重くなる場合があります。\n　- チェックなし\n　　　処理が無効になりますが、動作が軽くなる場合があります。\n　※この項目は、ゲームを再起動するまで反映されません。": "Reduce screen tearing (display distortion and flickering) during gameplay.\n・Checked\n        - Enables this behavior with a potential hit on performance.\n・Unchecked\n        - Disables this behavior.\n※Will not take effect until a game restart."
   },
   "79819": {
     "ゲームプレイ中の、スクリーンセーバーやディスプレイの電源設定の挙動を設定します。\n　- チェックあり\n　　　ゲームプレイ中も有効になります。\n　　　ただし、「フルスクリーンモード」の場合は、この設定に関わらず無効になります。\n　- チェックなし\n　　　ゲームプレイ中は無効になります。\n　※この項目は、ゲームを再起動するまで反映されません。\n　※ゲーム起動中、コンピューターはスリープ状態にはなりません。": "Sets the behavior of the screen saver and power settings during gameplay.\n  - Checked\n  It will also be enabled during gameplay.\n  However, when in \"Full Screen Mode\", this is disabled regardless.\n  - Unchecked\n  It will be disabled during gameplay.\n※ This item will not take effect until you restart the game.\nWhen the game is running, the computer will not go to sleep."
