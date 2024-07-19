@@ -1350,13 +1350,13 @@
     "<pc>は　シンイに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": "<pc> gives <%dM_num> Heart Crystals\nto Shini!\n<end>"
   },
   "327604": {
-    "<voice_nw IEV_AST_RAD_M01 0>\n「どうした？　俺に　用があるなら\n　何でも　言ってみろ。\n<break>": ""
+    "<voice_nw IEV_AST_RAD_M01 0>\n「どうした？　俺に　用があるなら\n　何でも　言ってみろ。\n<break>": "<voice_nw IEV_AST_RAD_M01 0>\nWhat's wrong? If you need something,\njust go on and say it.\n<break>"
   },
   "327605": {
     "<voice_nw IEV_AST_HAK_M01 0>\n「おや　<pc>さん。\n　何か私に　ご用ですか？\n<break>": ""
   },
   "327606": {
-    "<voice_nw IEV_AST_RAD_M01 1>\n「他にも　用があるのか？\n<break>": ""
+    "<voice_nw IEV_AST_RAD_M01 1>\n「他にも　用があるのか？\n<break>": "<voice_nw IEV_AST_RAD_M01 1>\nDo you need something else?\n<break>"
   },
   "327607": {
     "<voice_nw IEV_AST_HAK_M01 1>\n「またご用があれば　声をかけてください。\n<break>": ""
@@ -1446,16 +1446,16 @@
     "": ""
   },
   "327636": {
-    "ラダ・ガートに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+    "ラダ・ガートに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give <%dM_num> Heart Crystals\nto Lada Gart?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
   },
   "327637": {
-    "ハクオウに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+    "ハクオウに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give <%dM_num> Heart Crystals\nto Hakuo?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
   },
   "327638": {
-    "<pc>は　ラダ・ガートに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": ""
+    "<pc>は　ラダ・ガートに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": "<pc> gives <%dM_num> Heart Crystals\nto Lada Gart!\n<end>"
   },
   "327639": {
-    "<pc>は　ハクオウに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": ""
+    "<pc>は　ハクオウに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": "<pc> gives <%dM_num> Heart Crystals\nto Hakuo!\n<end>"
   },
   "327640": {
     "<voice_nw IEV_AST_RAD_M01 4>\n「これは……！\n　<pc>との思い出が\n　ひとりでに　よみがえってくる……？\n<br>\n<voice IEV_AST_RAD_M01 5>\n「お前と過ごした時を　思い返すだけで\n　胸が熱くなる。\n　かけがえのない友に　これを　贈ろう。\n<end>": ""
@@ -1506,10 +1506,10 @@
     "<voice_nw IEV_AST_HAK_M01 7>\n「こんなに集めるなんて……大変だったでしょう。\n　結晶を集めるために　走り回るあなたの姿が\n　なんだか　想像できます。\n<br>\n<voice IEV_AST_HAK_M01 8>\n「あなたは　いつも　ヒトのために\n　大変なことを　やってのけてしまうのですね。　\n　ありがとう……<pc>さん。\n<end>": ""
   },
   "327656": {
-    "ラダ・ガートとの　絆が深まり\nラダ・ガートのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": ""
+    "ラダ・ガートとの　絆が深まり\nラダ・ガートのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": "Your bond with Lada Gart has strengthened,\nincreasing the level of Lada Gart's Heart\nto Lv. <%dM_HEART_LEVEL>!\n<me 71><end>"
   },
   "327657": {
-    "ハクオウとの　絆が深まり\nハクオウのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": ""
+    "ハクオウとの　絆が深まり\nハクオウのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": "Your bond with Hakuo has strengthened,\nincreasing the level of Hakuo's Heart\nto Lv. <%dM_HEART_LEVEL>!\n<me 71><end>"
   },
   "327658": {
     "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60><end>": "<pc> received\n<%sM_ITEM>!\n<me 60><end>"
@@ -1554,30 +1554,30 @@
     "": ""
   },
   "328382": {
-    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": ""
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
   },
   "328383": {
-    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": ""
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
   },
   "328384": {
-    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": ""
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
   },
   "328385": {
-    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": ""
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
   },
   "328386": {
-    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": ""
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
   },
   "328387": {
-    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": ""
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
   },
   "328388": {
-    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": ""
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
   },
   "328389": {
-    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": ""
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
   },
   "328390": {
-    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": ""
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
   }
 }
