@@ -621,7 +621,7 @@
     "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですねっ。\n　合わせて　<%nL_BUY_PRICE>ゴールドですが\n　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> in <%nL_KAUKAZU> pieces...\n<%nL_BUY_PRICE> for <%sL_KAITAI_ITEM> in\ngold, is that okay?<yesno><break>"
   },
   "41853": {
-    "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　<%sL_GENDER>性じゃないと\n　装備できない物ですけど　いいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This is something that can\nonly be equipped with <%sL_GENDER> sex, is\nthat OK?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　<%sL_GENDER>性じゃないと\n　装備できない物ですけど　いいですか？\n<yesno 2><break>": "The <%sL_KAITAI_ITEM> can only be\nequipped by <%sL_GENDER>s.\nIs that okay?\n<yesno 2><break>"
   },
   "41854": {
     "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　お客さまの職業だと\n　装備できない物ですけど　いいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This is something that\ncannot be equipped in your location.\n<yesno 2><break>"
@@ -633,7 +633,7 @@
     "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　<%sL_RACE>の人じゃないと\n　装備できない物ですけど　いいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. You have to be <%sL_RACE>\nto equip this.\n<yesno 2><break>"
   },
   "41857": {
-    "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　<%sL_SYOKUNIN>じゃないと\n　装備できない物ですけど　いいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This is something that\ncannot be equipped unless <%sL_SYOKUNIN>, is\nthat OK?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　<%sL_SYOKUNIN>じゃないと\n　装備できない物ですけど　いいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>? That can only\nbe equipped by <%sL_SYOKUNIN>.\nDo you want it?\n<yesno 2><break>"
   },
   "41858": {
     "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だけど　いいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> is something you equip in\ntwo places, <%sL_EQUIP_POINT1> and\n<%sL_EQUIP_POINT2>, okay?<yesno><break>"
@@ -645,7 +645,7 @@
     "「どっちの手に　装備しますか？\n<break>": "Equip in which hand?\n<break>"
   },
   "41861": {
-    "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　<%sL_SYOKUNIN>じゃないと\n　作れないレシピですけど　いいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This recipe can't be made\nwithout <%sL_SYOKUNIN>, is that OK?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　<%sL_SYOKUNIN>じゃないと\n　作れないレシピですけど　いいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>? You need to be a\n<%sL_SYOKUNIN> to use this recipe.\nIs that okay?\n<yesno 2><break>"
   },
   "41862": {
     "「他に　売りたい物は　ありますか？\n<break>": "Do you have anything else you'd like to sell?\n<break>"
@@ -1602,7 +1602,7 @@
     "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようですが\n　それでも買われますか？\n<yesno 2><break>": "You already remember the emote for\n<%sL_KAITAI_ITEM>, but would you still buy it?\n<yesno 2><break>"
   },
   "71272": {
-    "「<%sL_KAITAI_ITEM>のレシピは\n　もう覚えてる感じですけど　オッケーっすか？\n<yesno 2><break>": "I think I already remember the recipe for\n<%sL_KAITAI_ITEM>, is that OK?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>のレシピは\n　もう覚えてる感じですけど　オッケーっすか？\n<yesno 2><break>": "You already know that recipe.\nIs that okay? You still want it?\n<yesno 2><break>"
   },
   "71273": {
     "「他にも　用が　ある感じですか？\n<break>": "Do you feel like there's something else I can\nhelp you with?\n<break>"
@@ -1617,25 +1617,25 @@
     "「<%sL_KAITAI_ITEM>は\n　<%nL_BUY_PRICE>ゴールドになりますけど\n　オッケーっすか？\n<yesno><break>": "<%sL_KAITAI_ITEM> will be <%dL_BUY_PRICE> gold,\nokay?\n<yesno><break>"
   },
   "71277": {
-    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　<%nL_BUY_PRICE>ゴールド　いただきますけど\n　オッケーっすか？\n<yesno><break>": "<%sL_KAITAI_ITEM> I got one. <%nL_BUY_PRICE>\nI'll take the gold, is that OK?\n<yesno><break>"
+    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　<%nL_BUY_PRICE>ゴールド　いただきますけど\n　オッケーっすか？\n<yesno><break>": "That's one <%sL_KAITAI_ITEM>.\nAnd that comes to <%dL_BUY_PRICE> Gold.\nThat OK?\n<yesno><break>"
   },
   "71278": {
-    "「<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個入りましたー。\n　合わせて　<%nL_BUY_PRICE>ゴールド\n　いただきますけど　オッケーっすか？\n<yesno><break>": "<%sL_KAITAI_ITEM> <%nL_KAUKAZU>I got one. I'll\ntake <%nL_BUY_PRICE> gold for it, is that OK?\n<yesno><break>"
+    "「<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個入りましたー。\n　合わせて　<%nL_BUY_PRICE>ゴールド\n　いただきますけど　オッケーっすか？\n<yesno><break>": "For <%dL_KAUKAZU> <%sL_KAITAI_ITEM>,\nthat comes to <%dL_BUY_PRICE> Gold.\nThat OK?\n<yesno><break>"
   },
   "71279": {
-    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これって　<%sL_GENDER>の人じゃないと\n　装備できない感じですけど　オッケーっすか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> I got one. I feel that only\n<%sL_GENDER> can equip this, is it OK?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これって　<%sL_GENDER>の人じゃないと\n　装備できない感じですけど　オッケーっすか？\n<yesno 2><break>": "That's one <%sL_KAITAI_ITEM>. Just\nremember only <%sL_GENDER>s can equip this.\nThat OK?\n<yesno 2><break>"
   },
   "71280": {
-    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これって　お客さんの職業だと\n　装備できない感じですけど　オッケーっすか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> I got one. I can't equip it\nwith your location, is that OK?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これって　お客さんの職業だと\n　装備できない感じですけど　オッケーっすか？\n<yesno 2><break>": "That's one <%sL_KAITAI_ITEM>.\nYour current vocation can't equip this.\nThat OK?\n<yesno 2><break>"
   },
   "71281": {
     "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これって　お客さんのレベルだと\n　まだ装備できないんですけど　オッケーっすか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> I got one. I can't equip it\nwith your level, is it OK?\n<yesno 2><break>"
   },
   "71282": {
-    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これって　<%sL_RACE>の人じゃないと\n　装備できない感じですけど　オッケーっすか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> I got one. I feel that only\n<%sL_RACE> can equip this, is it OK?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これって　<%sL_RACE>の人じゃないと\n　装備できない感じですけど　オッケーっすか？\n<yesno 2><break>": "That's one <%sL_KAITAI_ITEM>.\nOnly <%sL_RACE>s can equip it.\nThat OK?\n<yesno 2><break>"
   },
   "71283": {
-    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これって　<%sL_SYOKUNIN>じゃないと\n　装備できない感じですけど　オッケーっすか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> I got one. I feel like I\ncan't equip this without <%sL_SYOKUNIN>, is\nthat OK?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。\n　これって　<%sL_SYOKUNIN>じゃないと\n　装備できない感じですけど　オッケーっすか？\n<yesno 2><break>": "That's one <%sL_KAITAI_ITEM>.\nOnly <%sL_SYOKUNIN> can equip it.\nThat OK?\n<yesno 2><break>"
   },
   "71284": {
     "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですけど　オッケーっすか？\n<yesno><break>": "<%sL_KAITAI_ITEM> should be equipped at\n<%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2>, is\nthis OK?\n<yesno><break>"
@@ -1665,10 +1665,10 @@
     "「他にも　何か売ってもらえる感じですか？\n<break>": "Do you feel like you could sell me something\nelse?\n<break>"
   },
   "71293": {
-    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だと\n　<%nL_SELL_PRICE>ゴールドで　買い取らせて\n　いただきますけど　オッケーっすか？\n<yesno><break>": "If it is a new <%sL_URITAI_ITEM><%sL_PLUSNUM>,\nI will buy it for <%nL_SELL_PRICE>gold, is\nthat OK?\n<yesno><break>"
+    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だと\n　<%nL_SELL_PRICE>ゴールドで　買い取らせて\n　いただきますけど　オッケーっすか？\n<yesno><break>": "I'll buy that new <%sL_URITAI_ITEM><%sL_PLUSNUM>\nfor <%dL_SELL_PRICE> Gold.\nThat OK?\n<yesno><break>"
   },
   "71294": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だと\n　<%nL_SELL_PRICE>ゴールドで　買い取らせて\n　いただきますけど　オッケーっすか？\n<yesno><break>": "If <%sL_URITAI_ITEM><%sL_PLUSNUM>, I will buy\nit for <%nL_SELL_PRICE>gold, is that OK?\n<yesno><break>"
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だと\n　<%nL_SELL_PRICE>ゴールドで　買い取らせて\n　いただきますけど　オッケーっすか？\n<yesno><break>": "I'll buy that <%sL_URITAI_ITEM><%sL_PLUSNUM>\nfor <%dL_SELL_PRICE> Gold.\nThat OK?\n<yesno><break>"
   },
   "71295": {
     "「あれ？　お客さん\n　それって　手に入りづらい　貴重な物ですけど\n　本当に　売っちゃって　オッケーっすか？\n<yesno 2><break>": "What is it? Sir, that's a very valuable and\nhard-to-find item, but are you sure you're\nokay to sell it?\n<yesno 2><break>"
@@ -1677,7 +1677,7 @@
     "「<%sL_URITAI_ITEM>　ひとつだと\n　<%nL_SELL_PRICE>ゴールドで　買い取らせて\n　いただきますけど　オッケーっすか？\n<yesno><break>": "<%sL_URITAI_ITEM> I will buy one item for\n<%nL_SELL_PRICE> gold, is that ok?\n<yesno><break>"
   },
   "71297": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個\n　合わせて　<%nL_SELL_PRICE>ゴールドで\n　買い取りますけど　オッケーっすか？\n<yesno><break>": "I will buy <%sL_URITAI_ITEM> with\n<%nL_URUKAZU> for <%nL_SELL_PRICE> gold, is\nthat OK?\n<yesno><break>"
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個\n　合わせて　<%nL_SELL_PRICE>ゴールドで\n　買い取りますけど　オッケーっすか？\n<yesno><break>": "I will buy those <%nL_URUKAZU> <%sL_URITAI_ITEM>\nfor <%dL_SELL_PRICE> Gold.\nThat OK?\n<yesno><break>"
   },
   "71298": {
     "「一度　商品を選ぶと　今回の　ご縁では\n　他の商品を　お譲りできなくなりますが\n　こちらの　お買い上げでよいですか？\n<yesno><break>": "Once you buy an item, that's it. You won't be\nable to buy anything else. This is what you\nwant to buy?\n<yesno><break>"

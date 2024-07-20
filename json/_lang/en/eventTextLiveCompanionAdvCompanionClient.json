@@ -1362,7 +1362,7 @@
     "<voice_nw IEV_AST_HAK_M01 1>\n「またご用があれば　声をかけてください。\n<break>": ""
   },
   "327608": {
-    "<voice_nw IEV_AST_RAD_M01 9>\n「もう　行くのか？\n　俺でよければ　いつでも　声をかけるといい。": ""
+    "<voice_nw IEV_AST_RAD_M01 9>\n「もう　行くのか？\n　俺でよければ　いつでも　声をかけるといい。": "<voice_nw IEV_AST_RAD_M01 9>\nYou're leaving already? Feel free to call on\nme if you'd like."
   },
   "327609": {
     "<voice_nw IEV_AST_HAK_M01 9>\n「また　いつでも　声をかけてくださいね。": ""
@@ -1458,7 +1458,7 @@
     "<pc>は　ハクオウに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": "<pc> gives <%dM_num> Heart Crystals\nto Hakuo!\n<end>"
   },
   "327640": {
-    "<voice_nw IEV_AST_RAD_M01 4>\n「これは……！\n　<pc>との思い出が\n　ひとりでに　よみがえってくる……？\n<br>\n<voice IEV_AST_RAD_M01 5>\n「お前と過ごした時を　思い返すだけで\n　胸が熱くなる。\n　かけがえのない友に　これを　贈ろう。\n<end>": ""
+    "<voice_nw IEV_AST_RAD_M01 4>\n「これは……！\n　<pc>との思い出が\n　ひとりでに　よみがえってくる……？\n<br>\n<voice IEV_AST_RAD_M01 5>\n「お前と過ごした時を　思い返すだけで\n　胸が熱くなる。\n　かけがえのない友に　これを　贈ろう。\n<end>": "<voice_nw IEV_AST_RAD_M01 4>\nWhat is...?! My memories of us together are\ncoming back to me...?\n<br>\n<voice IEV_AST_RAD_M01 5>\nJust thinking back on the time we spent\ntogether warms my heart. I shall give this\nto you, my irreplaceable friend.\n<end>"
   },
   "327641": {
     "<voice_nw IEV_AST_HAK_M01 4>\n「なんだか　胸が　あたたかい……。\n　<pc>さんの　やさしさが\n　私の中にも　流れ込んでくるような……。\n<br>\n<voice IEV_AST_HAK_M01 5>\n「とても……心地よいものですね。\n　あなたには　いい影響を　もらってばかりです。\n　お礼に　これを　受け取ってください。\n<end>": ""
@@ -1470,7 +1470,7 @@
     "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60>": "<pc> received\n<%sM_ITEM>!\n<me 60>"
   },
   "327644": {
-    "<voice_nw IEV_AST_RAD_M01 2>\n「ほう……美しい結晶だな。\n　また　手に入れることが　あったら\n　俺のところへ　持ってきてくれ。\n<end>": ""
+    "<voice_nw IEV_AST_RAD_M01 2>\n「ほう……美しい結晶だな。\n　また　手に入れることが　あったら\n　俺のところへ　持ってきてくれ。\n<end>": "<voice_nw IEV_AST_RAD_M01 2>\nWow...what a beautiful crystal.\nIf you ever find any more, I'd be happy\nto take it off your hands.\n<end>"
   },
   "327645": {
     "<voice_nw IEV_AST_HAK_M01 2>\n「おや……その結晶は　とても　良いものですね。\n　見つけたら　また持ってきてくださいませんか？\n<end>": ""
@@ -1482,7 +1482,7 @@
     "こころの結晶が　<%nM_num>こ集まれば\n何か起こりそうだ。\n<end>": "If you gather <%dM_num> Heart Crystals,\nsomething is bound to happen.\n<end>"
   },
   "327648": {
-    "\n<voice_nw IEV_AST_RAD_M01 3>\n「ずいぶん　結晶を集めたな。<pc>。\n　……不思議だ。その輝きを　ながめていると\n　お前のことを　知りたくなる……。\n<end>": ""
+    "\n<voice_nw IEV_AST_RAD_M01 3>\n「ずいぶん　結晶を集めたな。<pc>。\n　……不思議だ。その輝きを　ながめていると\n　お前のことを　知りたくなる……。\n<end>": "<voice_nw IEV_AST_RAD_M01 3>\nCollected quite a lot of crystals, I see.\nHow strange... Just looking at their glow\nmakes me all the more curious about you...\n<end>"
   },
   "327649": {
     "<voice_nw IEV_AST_HAK_M01 3>\n「たくさん　結晶を　集めてくださったのですね。\n　もしかしたら……この結晶の　作用なのか……\n　あなたと　もっと話したく　なってきましたよ。\n<end>": ""
@@ -1494,13 +1494,13 @@
     "ハクオウとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": ""
   },
   "327652": {
-    "<voice_nw IEV_AST_RAD_M01 6>\n「なんだ。そうびぶくろが　いっぱいだぞ。\n　少し　持ち物を　整理してくるといい。": ""
+    "<voice_nw IEV_AST_RAD_M01 6>\n「なんだ。そうびぶくろが　いっぱいだぞ。\n　少し　持ち物を　整理してくるといい。": "<voice_nw IEV_AST_RAD_M01 6>\nWhat? Your equipment bag's a bit full.\nI think you should organize it bit before\ncoming back to see me."
   },
   "327653": {
     "<voice_nw IEV_AST_HAK_M01 6>\n「おや　<pc>さん。\n　そうびぶくろが　いっぱいのようですよ。\n　荷物を整理してから　また来てくださいね。": ""
   },
   "327654": {
-    "<voice_nw IEV_AST_RAD_M01 7>\n「ほう……。たいしたものだな！\n　ここまで　集めるのは　大変だっただろう。\n　<pc>。\n<br>\n<voice IEV_AST_RAD_M01 8>\n「俺と　お前のキズナの証。\n　ありがたく　受け取っておこう。\n　……これからも　よろしくな。\n<end>": ""
+    "<voice_nw IEV_AST_RAD_M01 7>\n「ほう……。たいしたものだな！\n　ここまで　集めるのは　大変だっただろう。\n　<pc>。\n<br>\n<voice IEV_AST_RAD_M01 8>\n「俺と　お前のキズナの証。\n　ありがたく　受け取っておこう。\n　……これからも　よろしくな。\n<end>": "<voice_nw IEV_AST_RAD_M01 7>\nOh, ho...how very impressive!\nIt must've been quite difficult to collect\nthis many.\n<br>\n<voice IEV_AST_RAD_M01 8>\nThis is proof of the bond we share.\nI shall gladly accept it. ...Let's keep\nlooking out for one another."
   },
   "327655": {
     "<voice_nw IEV_AST_HAK_M01 7>\n「こんなに集めるなんて……大変だったでしょう。\n　結晶を集めるために　走り回るあなたの姿が\n　なんだか　想像できます。\n<br>\n<voice IEV_AST_HAK_M01 8>\n「あなたは　いつも　ヒトのために\n　大変なことを　やってのけてしまうのですね。　\n　ありがとう……<pc>さん。\n<end>": ""
