@@ -30,7 +30,7 @@
     "「今　新しいパックを　準備しているところでな。\n　うまくいけば　<tm%nM_NEXT_TIME>月の　にゃんにゃんの日に\n　追加できそうなんで　期待して　待っててくれ！\n<end>": "I'm getting a new pack ready. I'm hoping to\nadd it by Meow Meow Day soon, so please\nlook forward to it!\n<end>"
   },
   "244500": {
-    "「む……。回収できるカプセルを\n　持っていないようじゃな。\n　ガニャポンで手に入るカプセルは　回収するぞい。\n<bw_break>": "Mmm...you don't have any toys on you. The\ncapsule toys from Ganyapon are what I'm\ninterested in.\n<bw_break>"
+    "「む……。回収できるカプセルを\n　持っていないようじゃな。\n　ガニャポンで手に入るカプセルは　回収するぞい。\n<bw_break>": "Mmm...you don't have any toys on you. The\ncapsule toys from Catshapon are what I'm\ninterested in.\n<bw_break>"
   },
   "244501": {
     "「ちいさなメダルが　足りんようじゃ。\n　ニャンコインと　交換するには\n　<%nM_COIN_MEDAL>枚　必要なんじゃ。すまんのう。\n<bw_break>": "You don't have enough Mini Medals. I'll need\n<%dM_COIN_MEDAL> of them to exchange for Cat Coins.\nSorry about that.\n<bw_break>"
@@ -60,10 +60,10 @@
     "「ニャンコイン　<%nM_NUM>個　じゃな？\n　ダブリィポイント　<%nM_COST>ポイントと\n　交換になるが　それでも　よいかのう？\n<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>": "Nyancoins <%nM_NUM>, right? It'll be\nexchanged for <%nM_COST> Doubly Points, if\nthat's okay with you.<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>"
   },
   "244513": {
-    "「ちまたでは　ネコが　大人気らしくてのう。 \n　いろいろな姿と色をしたネコの　ついてクンを　\n　配ることに　決めたんじゃ。\n<br>\n「じゃが　ただ　配るだけじゃ　おもしろくない。 \n　どのネコが来るか　わからないようにしたら\n　ワクワクできるとは　思わんか？\n<br>\n「そこで　錬金術を駆使して　こさえたのが \n　この　無作為型ついてクンカプセル自動提供装置\n　『ガニャポン』なのじゃよ。\n<br>\n「ついてクンを　未来永劫　作りまくって \n　わしの名を売り　完全なる魔法生物の研究を\n　続けてみせようではないか！\n<bw_break>": "Cats seem to be all the rage here, eh? I\nthought it'd be a good idea to hand out cat\nPets of all shapes and sizes.\n<br>\nBut what fun would that be? Wouldn't it\nbe more fun if what you got was a surprise\ninstead?\n<br>\nThat's why I used alchemy to create this\nmachine capable of dispensing Pet capsule\ntoys. I call it \"Ganyapon\".\n<br>\nI'll keep making more Pets and spread my name\nfar and wide, and I'll continue to research\nhow to perfect magical creatures forever!\n<bw_break>"
+    "「ちまたでは　ネコが　大人気らしくてのう。 \n　いろいろな姿と色をしたネコの　ついてクンを　\n　配ることに　決めたんじゃ。\n<br>\n「じゃが　ただ　配るだけじゃ　おもしろくない。 \n　どのネコが来るか　わからないようにしたら\n　ワクワクできるとは　思わんか？\n<br>\n「そこで　錬金術を駆使して　こさえたのが \n　この　無作為型ついてクンカプセル自動提供装置\n　『ガニャポン』なのじゃよ。\n<br>\n「ついてクンを　未来永劫　作りまくって \n　わしの名を売り　完全なる魔法生物の研究を\n　続けてみせようではないか！\n<bw_break>": "Cats seem to be all the rage here, eh? I\nthought it'd be a good idea to hand out cat\nPets of all shapes and sizes.\n<br>\nBut what fun would that be? Wouldn't it\nbe more fun if what you got was a surprise\ninstead?\n<br>\nThat's why I used alchemy to create this\nmachine capable of dispensing Pet capsule\ntoys. I call it \"Catshapon\".\n<br>\nI'll keep making more Pets and spread my name\nfar and wide, and I'll continue to research\nhow to perfect magical creatures forever!\n<bw_break>"
   },
   "244514": {
-    "「ガニャポンを使うのに　必要なコインじゃ。\n　ちいさなメダル　<%nM_COIN_MEDAL>枚で\n　ニャンコイン　１個と　交換してやるぞい。\n<br>\n「ちいさなメダルは　メダル・オーナーとやらが\n　いろいろな物と　交換してくれるらしいでな。\n　わしが　ほしいものは……秘密じゃ！\n<bw_break>": "You'll need Coins to use the Ganyapon machine.\nGive me <%dM_COIN_MEDAL> Mini Medals and\nI'll give you 1 Cat Coin.\n<br>\nThe Medal Owner will exchange lots of things\nfor Mini Medals. What is it I want, you ask?\nWell...that's my secret!\n<bw_break>"
+    "「ガニャポンを使うのに　必要なコインじゃ。\n　ちいさなメダル　<%nM_COIN_MEDAL>枚で\n　ニャンコイン　１個と　交換してやるぞい。\n<br>\n「ちいさなメダルは　メダル・オーナーとやらが\n　いろいろな物と　交換してくれるらしいでな。\n　わしが　ほしいものは……秘密じゃ！\n<bw_break>": "You need Coins to use the Catshapon machine.\nGive me <%dM_COIN_MEDAL> Mini Medals and\nI'll give you 1 Cat Coin.\n<br>\nThe Medal Owner will exchange lots of things\nfor Mini Medals. What is it I want, you ask?\nWell...that's my secret!\n<bw_break>"
   },
   "244515": {
     "「もしも　すでに　手に入れたカプセルや\n　こいつは　いらんというカプセルが　出たときは\n　わしが　引き取るから　安心するんじゃ。\n<br>\n「引きかえに　ダブリィポイントをやろう。\n　このポイントを貯めれば　ニャンコインか\n　好きなカプセルと　交換できるんじゃぞい！\n<bw_break>": "If you come across any capsule toys you\nalready own or any that you don't, rest\nassured that I will take them off your hands.\n<br>\nIn exchange for them, I'll give you Doubly\nPoints. These points can be exchanged for Cat\nCoins or a capsule toy of your choosing!\n<bw_break>"
@@ -93,10 +93,10 @@
     "「ふむ。回収してほしいのは\n　どのカプセルなのじゃ？\n　引きかえに　ダブリィポイントをやるぞい。\n<break>": "Hmm. Which capsule would you like me to\nretrieve? In exchange, I'll give you a few\nDoubly Points and...<break>"
   },
   "244524": {
-    "「さあさあ　何を　お望みかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n<break>": "So, then, what can I do for you? I can tell\nyou anything you want to know about\nthis Ganyapon machine.\n<break>"
+    "「さあさあ　何を　お望みかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n<break>": "So, then, what can I do for you? I can tell\nyou anything you want to know about\nthis Catshapon machine.\n<break>"
   },
   "244525": {
-    "「他に　したいことは　あるかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n<break>": "Is there anything else you'd like to do?\nAnything to do with ganyapon...<break>"
+    "「他に　したいことは　あるかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n<break>": "Anything else you need? So long as it\nhas to do with Catshapon, of course.\n<break>"
   },
   "244526": {
     "「ダブリィポイントが　足りないようじゃのう。\n　<%sM_CAPSULE_NAME>は　<%nM_DOUBLY_POINT>ポイントあれば\n　交換するんで　がんばって　集めとくれ。\n<end>": "Looks like you're short on Dubly points...\nI'll exchange <%sM_CAPSULE_NAME> for\n<%nM_DOUBLY_POINT> points if I have them, so\n<br>\ngood luck collecting them...<end>"
@@ -120,7 +120,7 @@
     "「さあさあ　何を　お望みかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n　今なら　お得なセールを　やっとるぞ。\n<break>": "So, then, what can I do for you? I can tell\nyou anything about this machine. We're\nalso have a special sale right now.\n<break>"
   },
   "247520": {
-    "「他に　したいことは　あるかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n　今なら　お得なセールを　やっとるぞ。\n<break>": "Is there anything else you'd like to do?\nAnything to do with ganyapon... We're having\na special sale right now...<break>"
+    "「他に　したいことは　あるかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n　今なら　お得なセールを　やっとるぞ。\n<break>": "Anything else you need? So long as it\nhas to do with Catshapon, of course.\nThere's also a sale ongoing right now.\n<break>"
   },
   "247563": {
     "「お前さんや。\n　ちょろまかそうとしちゃあ　いかんよ。\n　きちんと　ダブリィポイントを貯めるのじゃよ。\n<bw_break>": "You... Don't try to cheat... I'm just trying\nto earn some points...<bw_break>"
