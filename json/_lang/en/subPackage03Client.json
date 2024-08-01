@@ -2766,7 +2766,7 @@
     "<%sB_ACTOR>は <%sB_TARGET>を おうえんした！": "<%sB_ACTOR> cheered on <%sB_TARGET>!"
   },
   "22344": {
-    "<%sB_ACTOR>から <%sB_TARGET>に いいね！": "<%sB_ACTOR> gave a like to <%sB_TARGET>!"
+    "<%sB_ACTOR>から <%sB_TARGET>に いいね！": "<%sB_ACTOR> gives a like to <%sB_TARGET>!"
   },
   "22368": {
     "ビ ー ス ト モ ー ド ！！": "Wild Side!!"
@@ -3012,10 +3012,10 @@
     "しかし \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eには ツッコミは　決まらなかった！": "But the slap given to \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e didn't work!"
   },
   "24654": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ＨＰをあたえた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gave HP to \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ＨＰをあたえた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gives HP to \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
   },
   "24703": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ＭＰをあたえた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gave MP to \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ＭＰをあたえた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gives MP to \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
   },
   "24752": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは さとりをひらき 神の声に耳をかたむけた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e opened their mind to a voice from above."
@@ -3030,7 +3030,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは おいのりした……。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e prayed..."
   },
   "24918": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに いいね！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gives \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e a Like!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに いいね！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gives \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e a like!"
   },
   "24962": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰが <%dB_VALUE>回復した！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e recovered <%dB_VALUE> HP!"
@@ -15726,7 +15726,7 @@
     "ディレイボム": ""
   },
   "90840": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ラダ・ガートの力を具現化させた！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ラダ・ガートの力を具現化させた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e embodies Lada Gart's power!"
   },
   "90882": {
     "悪い効果に対して\n威力が上がる斬撃\n回復効果付き": "Healing slash\nstronger versus\nailments."
@@ -15765,7 +15765,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは からだが シビれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's body was paralyzed!"
   },
   "91250": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ハクオウの力を具現化させた！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ハクオウの力を具現化させた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e embodies Hakuo's power!"
   },
   "91289": {
     "ラダ・ガートの <%sB_ACTION>！": ""
@@ -16200,7 +16200,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 大ウケした！": ""
   },
   "95514": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こおりついた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e became frozen!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こおりついた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e freezes solid!"
   },
   "95544": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは とりはだが たってしまった！": ""
@@ -16518,10 +16518,10 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは バンジー効果で 開戦時 たまにテンションアップ！": ""
   },
   "99690": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは どうぐの効果が 範囲になった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは どうぐの効果が 範囲になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's item effects will now reach further!"
   },
   "99731": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは どうぐの効果が 倍になった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは どうぐの効果が 倍になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's item effects double in potency!"
   },
   "99770": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 興味をひかれたようだ。": ""
@@ -16812,7 +16812,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ピラミッドにかえられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e turned into a pyramid!"
   },
   "103629": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージ完全ガードが はられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Complete Damage Guard!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージ完全ガードが はられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now invulnerable to\nall damage!"
   },
   "103671": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ドロヌーバに変化した！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e turned into a Mudraker!"
@@ -17409,7 +17409,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eへの こうげきを命令した！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e ordered an attack!"
   },
   "111729": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 死霊の守備対象になった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 死霊の守備対象になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e became the spirit's\ntarget of protection!"
   },
   "111766": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死霊の守り効果で うけるダメージが 少なくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Spirit Defense slightly reduces damage taken!"
@@ -17928,7 +17928,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ひらりと 身をかわした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e dodged out of the way!"
   },
   "118221": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 盾で こうげきを はじきかえした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e blocked the attack with a shield!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 盾で こうげきを はじきかえした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e blocks the attack with a shield!"
   },
   "118264": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 武器で こうげきを はじきかえした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e parried the attack!"
@@ -18102,7 +18102,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 守り星の祈り効果が 悪い効果を はらいのけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Starry Prayer stopped an ailment!"
   },
   "120660": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 貝殻の守護陣に 守られた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 貝殻の守護陣に 守られた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was protected by the Shell Circle!"
   },
   "120698": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 守護神の城壁に 守られた！": ""
@@ -18948,7 +18948,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの スパークリベンジが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Spark Revenge faded!"
   },
   "131716": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 貝殻の守護陣が とけた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 貝殻の守護陣が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Shell Circle fades!"
   },
   "131752": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰとＭＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's HP and MP recovery ended!"
@@ -20154,7 +20154,7 @@
     "タロットメダルの破片を\n水系がドロップ！": "Tarot Medal Fragments\ndrop from Waters!"
   },
   "141401": {
-    "貝殻の守護陣！": ""
+    "貝殻の守護陣！": "Shell Circle!"
   },
   "141412": {
     "コマンド間隔が\n短くなった！": "Command interval\nwas shortened!"
@@ -20916,7 +20916,7 @@
     "守り星の祈りが\n悪い効果をけした！": "Starry Prayer stopped\nan ailment!"
   },
   "146629": {
-    "貝殻の守護陣に\n守られた！": ""
+    "貝殻の守護陣に\n守られた！": "Protected by the Shell\nCircle!"
   },
   "146648": {
     "守護神の城壁！": "Guardian Wall!"
@@ -21714,7 +21714,7 @@
     "スパークリベンジが\nとけた": "Spark Revenge\nfaded."
   },
   "152108": {
-    "貝殻の守護陣が\nとけた": ""
+    "貝殻の守護陣が\nとけた": "Shell Circle faded."
   },
   "152124": {
     "活性の秘奥の\nＨＰ回復がおわった": ""
@@ -22377,7 +22377,7 @@
     "魔眼光掃射": "Crystal Eyes"
   },
   "158653": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ヒューザの力を具現化させた！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ヒューザの力を具現化させた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e embodies Hyuza's power!"
   },
   "158692": {
     "地鳴りが 響いた！": ""
@@ -28179,7 +28179,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ヴァレリアの力を具現化させた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e embodies Valeria's power!"
   },
   "197490": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは イルーシャの力を具現化させた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e embodies Irushia's power!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは イルーシャの力を具現化させた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e embodies Irusha's power!"
   },
   "197531": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは シンイの力を具現化させた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e embodies Shini's power!"
@@ -28221,7 +28221,7 @@
     "ケガレの翼に\nまもられた！": "Protected by the Wings\nof Corruption!"
   },
   "197854": {
-    "氷雪の守護・攻撃": ""
+    "氷雪の守護・攻撃": "Icy Protection (Attack)"
   },
   "197867": {
     "ドルタム（設置）": "Doltam (Install)"
@@ -28245,7 +28245,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 属性攻撃のダメージが アップした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e attribute damage increases!"
   },
   "198047": {
-    "氷雪の守護・防御": ""
+    "氷雪の守護・防御": "Icy Protection\n(Defense)"
   },
   "198060": {
     "どとうの攻撃で\n大ダメージ\n呪文耐性も下げる": "Deal heavy damage\nand lower spell\nresistance."
@@ -28761,7 +28761,7 @@
     "クリア報酬に うつしよの極箱・改追加効果が きえた！": ""
   },
   "201543": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 黄金の守りの効果が きえた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 黄金の守りの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Golden Guardian effect fades!"
   },
   "201582": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃時 恐怖の効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fear attack effect faded!"
@@ -29070,7 +29070,7 @@
     "旋風一陣が　吹き荒れた！": ""
   },
   "203833": {
-    "氷雪の守護・速度": ""
+    "氷雪の守護・速度": "Icy Protection (Speedy)"
   },
   "203846": {
     "<%sB_ACTOR>は 気を高めて まとった！": "<%sB_ACTOR> focuses their chi!"
