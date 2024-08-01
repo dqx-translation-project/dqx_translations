@@ -174,7 +174,7 @@
     "「ヤッホー。ここは　アクセサリー合成屋だよ。\n　みんなの熱～い　ご要望に　おこたえして\n　新しいサービスを　始めたよー。\n<br>\n「なんと　これからは　アクセを合成するたびに\n　合成経験値や　合成エナジーっていう\n　お役立ちポイントが　ゲットできちゃいます！\n<br>\n「合成経験値を集めて　合成レベルが上がると\n　たまに　ラッキー合成や　会心の合成っていう\n　超オトクな合成に　なるんだよ～。\n<br>\n「ラッキー合成は　合成素材に使ったはずの\n　アクセサリーが　なくならずに戻ってくるんだ。\n　ちょっぴりラッキーな　合成だね。\n<br>\n「そして　会心の合成は……　狙った合成効果を\n　確実に付けられる　夢のような合成なんだ～♪\n　君も　気に入ること　間違いなしっ！\n<br>\n「さらに　合成したアクセサリーには\n　一度の合成につき　１ポイントだけ\n　合成エナジーが　たまるんだ。\n<br>\n「同じアクセサリーを　何度も合成して\n　合成エナジーが　いっぱいになったら　\n　次の合成が　必ず　会心の合成になるんだよっ♪\n<br>\n「アクセサリー合成屋の新しいサービスを\n　これからも　よろしくね！\n　さあ　今日は　なんのご用なんだい？\n<break>": "Ya... This is accessory synthesis. In\nresponse to everyone's passionate requests,\nwe've started a new service... From now on,\n<br>\nevery time you synthesize an accessory,\nyou'll earn useful points called Synthesis\nExperience and Synthesis Energy! If you\n<br>\ncollect enough synthesis experience and\nincrease your synthesis level, you'll\noccasionally get a lucky synthesis or a heart\n<br>\nsynthesis. Lucky Synthesis means you'll get\nback the accessories you used to make the\nsynthesis... It's a bit of a lucky\n<br>\ncombination. And Lucky Charms... It's a\ndreamy synthesis that will give you the exact\neffect you're after... you'll love it! In\n<br>\naddition... each synthesized accessory gives\nyou one point of Synthesis Energy... If you\nsynthesize the same accessory over and over\n<br>\nagain and the Synthesis Energy is full, the\nnext synthesis will be the one you've been\nwaiting for! What can I do for you today?<break>"
   },
   "117604": {
-    "<pipipi_off>\n<%dL_EXP> Pの合成経験値を　かくとく！\n<se_nots System 7><br>\n合成レベルが<%nL_RANK>にアップ！\n<me 62><end>": "<pipipi_off>\nReceived <%dL_EXP> Synthesis EXP!\n<se_nots System 7><br>\nYour Synthesis Level has increased to <%dL_RANK>!<me 62><end>"
+    "<pipipi_off>\n<%dL_EXP> Pの合成経験値を　かくとく！\n<se_nots System 7><br>\n合成レベルが<%nL_RANK>にアップ！\n<me 62><end>": "<pipipi_off>\nReceived <%dL_EXP> Synthesis EXP!\n<se_nots System 7><br>\nYour Synthesis Level has increased to Lv. <%dL_RANK>!<me 62><end>"
   },
   "117605": {
     "「今の合成レベルと　レベルボーナスは\n　こんな感じに　なってるね。\n<break>": "This is your current Synthesis Level and any\nlevel bonuses you have.<break>"
@@ -213,13 +213,13 @@
     "<pipipi_off>\n<se_nots Joutyu_SE 122>\nラッキー！　合成素材が　なくならなかった！\n<end>": "<pipipi_off>\n<se_nots Joutyu_SE 122>\nLucky! The synthesis didn't consume its\nmaterial!\n<end>"
   },
   "120316": {
-    "<pipipi_off>\n<%dL_EXP> Pの合成経験値を　かくとく！\n<se_nots System 7><br>\n合成レベルが<%nL_RANK>にアップ！\n<me 62><br>\n合成手数料が　<%.1fM_LV_KOUKA>％　安くなった！\n<end>": "<pipipi_off>You received <%dL_EXP> Synthesis EXP!\n<se_nots System 7><br>\nYour Synthesis Level has increased to <%dL_RANK>!<me 62><br>\nSynthesis fees are now <%.1fM_LV_KOUKA>% cheaper!\n<end>"
+    "<pipipi_off>\n<%dL_EXP> Pの合成経験値を　かくとく！\n<se_nots System 7><br>\n合成レベルが<%nL_RANK>にアップ！\n<me 62><br>\n合成手数料が　<%.1fM_LV_KOUKA>％　安くなった！\n<end>": "<pipipi_off>You received <%dL_EXP> Synthesis EXP!\n<se_nots System 7><br>\nYour Synthesis Level has increased to Lv. <%dL_RANK>!<me 62>\n<br>\nSynthesis fees are now <%.1fM_LV_KOUKA>% cheaper!\n<end>"
   },
   "120317": {
-    "<pipipi_off>\n<%dL_EXP> Pの合成経験値を　かくとく！\n<se_nots System 7><br>\n合成レベルが<%nL_RANK>にアップ！\n<me 62><br>\n会心の合成の発生率が　<%.1fM_LV_KOUKA>％　上がった！\n<end>": "<pipipi_off>You received <%dL_EXP> Synthesis EXP!\n<se_nots System 7><br>\nYour Synthesis Level has increased to <%dL_RANK>!\n<me 62><br>\nThe chance of a critical synthesis has\nincreased by <%.1fM_LV_KOUKA>%!<end>"
+    "<pipipi_off>\n<%dL_EXP> Pの合成経験値を　かくとく！\n<se_nots System 7><br>\n合成レベルが<%nL_RANK>にアップ！\n<me 62><br>\n会心の合成の発生率が　<%.1fM_LV_KOUKA>％　上がった！\n<end>": "<pipipi_off>You received <%dL_EXP> Synthesis EXP!\n<se_nots System 7><br>\nYour Synthesis Level has increased to Lv. <%dL_RANK>!\n<me 62>\n<br>\nThe chance of a critical synthesis has\nincreased by <%.1fM_LV_KOUKA>%!<end>"
   },
   "120318": {
-    "<pipipi_off>\n<%dL_EXP> Pの合成経験値を　かくとく！\n<se_nots System 7><br>\n合成レベルが<%nL_RANK>にアップ！\n<me 62><br>\nラッキー合成の発生率が　<%.1fM_LV_KOUKA>％　上がった！\n<end>": "<pipipi_off>You received <%dL_EXP> Synthesis EXP!\n<se_nots System 7><br>\nYour Synthesis Level has increased to <%dL_RANK>!\n<me 62><br>\nThe chance of a lucky synthesis has\nincreased by <%.1fM_LV_KOUKA>%!\n<end>"
+    "<pipipi_off>\n<%dL_EXP> Pの合成経験値を　かくとく！\n<se_nots System 7><br>\n合成レベルが<%nL_RANK>にアップ！\n<me 62><br>\nラッキー合成の発生率が　<%.1fM_LV_KOUKA>％　上がった！\n<end>": "<pipipi_off>You received <%dL_EXP> Synthesis EXP!\n<se_nots System 7><br>\nYour Synthesis Level has increased to Lv. <%dL_RANK>!\n<me 62><br>\nThe chance of a lucky synthesis has\nincreased by <%.1fM_LV_KOUKA>%!\n<end>"
   },
   "147076": {
     "「ヤッホー。ここは　アクセサリー合成屋だよ。\n<end>": "Ya... This is an accessory synthesis...<end>"
