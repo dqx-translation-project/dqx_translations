@@ -6,13 +6,13 @@
     "<%sB_ITEM>": "<%sB_ITEM>"
   },
   "23": {
-    "<%sB_TARGET_RPL>に\n<%sB_ACTION>！": "<%sB_ACTION> on\n<%sB_TARGET_RPL>!"
+    "<%sB_TARGET_RPL>に\n<%sB_ACTION>！": "<%sB_ACTION> to\n<%sB_TARGET_RPL>!"
   },
   "41": {
     "<%sB_ACTION>！": "<%sB_ACTION>!"
   },
   "49": {
-    "<%sB_TARGET_RPL>に\n<%sB_ACTION>": "<%sB_ACTION> on\n<%sB_TARGET_RPL>"
+    "<%sB_TARGET_RPL>に\n<%sB_ACTION>": "<%sB_ACTION> to\n<%sB_TARGET_RPL>"
   },
   "66": {
     "<%sB_ACTION>": "<%sB_ACTION>"
@@ -45,7 +45,7 @@
     "ちからをためた！": "Psyching up!"
   },
   "208": {
-    "<%sB_TARGET_RPL>を\n<%sB_ACTION>！": "<%sB_ACTION> on\n<%sB_TARGET_RPL>!"
+    "<%sB_TARGET_RPL>を\n<%sB_ACTION>！": "<%sB_ACTION> to\n<%sB_TARGET_RPL>!"
   },
   "226": {
     "<%sB_TARGET_RPL>に\nおはらいした": "Purified\n<%sB_TARGET_RPL>!"
@@ -81,7 +81,7 @@
     "ボディーガードを\n呼んだ！": "Called a\nbodyguard!"
   },
   "441": {
-    "<%sB_TARGET_RPL>に\n<%sB_ACTION>！！": "<%sB_ACTION> on\n<%sB_TARGET_RPL>!!"
+    "<%sB_TARGET_RPL>に\n<%sB_ACTION>！！": "<%sB_ACTION> to\n<%sB_TARGET_RPL>!!"
   },
   "461": {
     "<%sB_TARGET_RPL>に\nおうえん！": "Cheers on\n<%sB_TARGET_RPL>!"
@@ -1473,7 +1473,7 @@
     "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ITEM>を 使った！": "<%sB_ACTOR> used the <%sB_ITEM> on <%sB_TARGET_RPL>!"
   },
   "10172": {
-    "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>を ふりかざした！": "<%sB_ACTOR> sprung <%sB_ACTION> on <%sB_TARGET_RPL>!"
+    "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>を ふりかざした！": "<%sB_ACTOR> brandishes <%sB_ACTION>\nto <%sB_TARGET_RPL>!"
   },
   "10209": {
     "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ITEM>を ふりかざした！": "<%sB_ACTOR> sprung <%sB_ITEM> on <%sB_TARGET_RPL>!"
@@ -1482,7 +1482,7 @@
     "<%sB_ACTOR>は <%sB_ITEM>をふりまいた！": "<%sB_ACTOR> sprinkled <%sB_ITEM>!"
   },
   "10269": {
-    "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>を となえた！": "<%sB_ACTOR> casts <%sB_ACTION> on <%sB_TARGET_RPL>!"
+    "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>を となえた！": "<%sB_ACTOR> casts <%sB_ACTION>\nto <%sB_TARGET_RPL>!"
   },
   "10303": {
     "<%sB_ACTOR>の 必殺技！": "<%sB_ACTOR> uses their Special move!"
@@ -1515,7 +1515,7 @@
     "<%sB_ACTOR>は <%sB_ACTION>を おいた！": "<%sB_ACTOR> placed the <%sB_ACTION>!"
   },
   "10535": {
-    "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>を 使った！": "<%sB_ACTOR> used <%sB_ACTION> on <%sB_TARGET_RPL>!"
+    "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>を 使った！": "<%sB_ACTOR> uses <%sB_ACTION>\non <%sB_TARGET_RPL>!"
   },
   "10567": {
     "<%sB_ACTOR>は 赤の辛域を まとった！": ""
@@ -2784,13 +2784,13 @@
     "<%sB_EXTRA>が あらわれた！": "<%sB_EXTRA> joins the fray!"
   },
   "22464": {
-    "<%sB_ACTOR>が お気に入りの傘を とりだした！": "<%sB_ACTOR> took out their favorite umbrella!"
+    "<%sB_ACTOR>が お気に入りの傘を とりだした！": "<%sB_ACTOR> takes out their favorite umbrella!"
   },
   "22494": {
-    "<%sB_ACTOR>が お気に入りのステッキを とりだした！": "<%sB_ACTOR> took out their favorite wand!"
+    "<%sB_ACTOR>が お気に入りのステッキを とりだした！": "<%sB_ACTOR> takes out their favorite wand!"
   },
   "22528": {
-    "<%sB_ACTOR>が とりだしたのは おたまだった！": "<%sB_ACTOR> took out a ladle!"
+    "<%sB_ACTOR>が とりだしたのは おたまだった！": "<%sB_ACTOR> takes out a ladle!"
   },
   "22558": {
     "<%sB_ACTOR>の おきがえタイム！": "<%sB_ACTOR>'s clothes change!"
@@ -19095,7 +19095,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 鍛竜の誓いが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Dragonic Oath faded!"
   },
   "133660": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージアップと ダメージ軽減の効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage up/reduction effect faded!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージアップと ダメージ軽減の効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage boost and\ndamage reduction effects fade!"
   },
   "133713": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 行動時 たまにデスパワーがあがる効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Death Power after an action chance effect faded!"
@@ -21480,7 +21480,7 @@
     "鉄壁の守りがとけた": "Ironclad Guard faded."
   },
   "150367": {
-    "ダメージアップの\n効果がきえた": "Damage boost effect\nfaded."
+    "ダメージアップの\n効果がきえた": "Taken damage returned\nto normal."
   },
   "150389": {
     "武の真髄": "Martial Way"
@@ -24660,7 +24660,7 @@
     "全ての職業で ちからが <%dB_VALUE>あがった！": "Strength in all vocations increases by <%dB_VALUE>!"
   },
   "173372": {
-    "源世碑石から　チカラがあふれだした！ 全員に　与ダメージアップの効果": "Power overflowed from the Origin Stone!\nDamage dealt increases!"
+    "源世碑石から　チカラがあふれだした！ 全員に　与ダメージアップの効果": "Power overflows from the Origin Stone!\nDamage dealt increases!"
   },
   "173423": {
     "<%sB_ACTOR>の 闘気が 高まってゆく……！": "<%sB_ACTOR>'s spirit grows stronger!"
@@ -26346,7 +26346,7 @@
     "武器でガードが\nしやすくなった！": ""
   },
   "186088": {
-    "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>！": "<%sB_ACTOR>'s <%sB_ACTION> on <%sB_TARGET_RPL>!"
+    "<%sB_ACTOR>は <%sB_TARGET_RPL>に <%sB_ACTION>！": "<%sB_ACTOR> uses <%sB_ACTION>\non <%sB_TARGET_RPL>!"
   },
   "186114": {
     "妄執のグリンデアの ジャッジメントダーク！": ""
@@ -26721,7 +26721,7 @@
     "………………！": "..........!"
   },
   "188507": {
-    "<%sB_TARGET_RPL>に <%sB_ACTION>！": "<%sB_ACTION> on <%sB_TARGET_RPL>!"
+    "<%sB_TARGET_RPL>に <%sB_ACTION>！": "<%sB_ACTION> to <%sB_TARGET_RPL>!"
   },
   "188525": {
     "ラーバ・ストライク": "Lava Strike"
@@ -26853,7 +26853,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから　チカラがあふれだした！ 敵全員に　スタンの効果": "Power overflowed from the \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e!\nAll enemies are stunned!"
   },
   "189220": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから　チカラがあふれだした！ 全員に　与ダメージアップの効果": "Power overflowed from the \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e!\nAll enemies take increased damage!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから　チカラがあふれだした！ 全員に　与ダメージアップの効果": "Power overflows from the \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e!\nAll enemies will take increased damage!"
   },
   "189280": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eから　チカラがあふれだした！ 全員に　ダメージ無効の効果": "Power overflowed from the \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e!\nAll incoming damage is nullified!"
