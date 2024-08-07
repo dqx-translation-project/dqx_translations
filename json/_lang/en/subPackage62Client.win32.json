@@ -2448,7 +2448,7 @@
     "ブレスダメージ5%減": "Breath Resist 5%"
   },
   "8863": {
-    "瀕死時リベホイミ": "Remidheal on Death"
+    "瀕死時リベホイミ": "Near-Death Remidheal"
   },
   "8876": {
     "敵を倒すとＭＰを３回復": "3 MP On Enemy Defeat"
@@ -2457,7 +2457,7 @@
     "ＭＰ消費しない率+5%": "MP Saver +5%"
   },
   "8907": {
-    "瀕死時徐々にＭＰ回復": "MP Over Time On Death"
+    "瀕死時徐々にＭＰ回復": "Near-Death MP Regen"
   },
   "8923": {
     "味方死亡時たまにためる": "Rarely Tension If Ally Dies"
@@ -2466,7 +2466,7 @@
     "攻撃時ＨＰ回復": "Recover HP On Attack"
   },
   "8951": {
-    "瀕死時身かわし率アップ": "Dodge Rate Up On Death"
+    "瀕死時身かわし率アップ": "Near-Death Dodge Boost"
   },
   "8968": {
     "ダメージでＨＰ回復": "Heal Damage As HP"
@@ -4908,7 +4908,7 @@
     "ブレス攻撃により　受けるダメージが　減った！": "Breath damage taken is reduced!"
   },
   "31033": {
-    "瀕死時　たまに\nリベホイミの効果がかかるようになった！": "Remidheal is now sometimes applied whenever\nyou die!"
+    "瀕死時　たまに\nリベホイミの効果がかかるようになった！": "Remidheal is now sometimes applied whenever\nyou are on the verge of death!"
   },
   "31073": {
     "たまに　ＨＰ１で生き残るようになった！": "You will now sometimes survive fatal damage\nat 1 HP!"
@@ -4920,13 +4920,13 @@
     "５％の確率で　ＭＰを消費しなくなった！": "You now have a 5% chance to not consume MP!"
   },
   "31163": {
-    "瀕死時　たまに\nＭＰが徐々に回復するようになった！": "An MP recovery effect is now sometimes\napplied when you die!"
+    "瀕死時　たまに\nＭＰが徐々に回復するようになった！": "An MP recovery effect is now sometimes\napplied you are on the verge of death!"
   },
   "31200": {
     "味方死亡時　たまに\nテンションが上がるようになった！": "Your tension now may increase whenever\nan ally dies!"
   },
   "31239": {
-    "瀕死時　たまに身かわし率が増えるようになった！": "Your dodge rate now may increase whenever\nyou die!"
+    "瀕死時　たまに身かわし率が増えるようになった！": "Your dodge rate may now increase whenever\nyou are on the verge of death!"
   },
   "31274": {
     "たまに　２回行動を行うようになった！": "You now sometimes will use an action twice!"
@@ -4941,7 +4941,7 @@
     "ブレス攻撃での　受けるダメージが　減った！": "Breath damage taken is reduced!"
   },
   "31422": {
-    "瀕死時に　３０％の確率で\nリベホイミの効果がかかる！": "You have a 30% chance to gain Remidheal when\nyou die!"
+    "瀕死時に　３０％の確率で\nリベホイミの効果がかかる！": "You have a 30% chance to gain Remidheal when\nyou are on the verge of death!"
   },
   "31461": {
     "１０％の確率で　ＨＰ１で生き残る！": "You now have a 10% chance to survive at 1 HP!"
@@ -6765,7 +6765,7 @@
     "ブレス攻撃により\n受けるダメージが\n減少する": "Reduces damage\ntaken from\nbreath attacks."
   },
   "47849": {
-    "瀕死時たまに\nリベホイミが\n発動する": "Rarely gain\nRemidheal\non death."
+    "瀕死時たまに\nリベホイミが\n発動する": "Rarely gain\nRemidheal when\nnear death."
   },
   "47875": {
     "敵を倒すとＭＰが\n３回復する": "Restore 3 MP\non an enemy\ndefeat."
@@ -6777,7 +6777,7 @@
     "５％の確率で\nＭＰを消費しない": "5% chance to\nnot consume MP."
   },
   "47940": {
-    "瀕死時たまに\nＭＰ回復効果が\n発動する": "Sometimes gain\nMP recovery\non death."
+    "瀕死時たまに\nＭＰ回復効果が\n発動する": "Sometimes gain\nMP regen when\nnear death."
   },
   "47967": {
     "味方死亡時たまに\nテンションが\nあがる": "Sometimes gain\ntension when\nan ally dies."
@@ -6786,7 +6786,7 @@
     "攻撃をした時\nＨＰを少しだけ\n回復する": "Recover slight HP\nwhenever you\nattack."
   },
   "48021": {
-    "瀕死時たまに\n身かわし率が\nあがる": "Sometimes boost\ndodge rate\non death."
+    "瀕死時たまに\n身かわし率が\nあがる": "Sometimes boost\ndodge rate when\nnear death."
   },
   "48045": {
     "攻撃呪文での\n受けるダメージが\n減少する。": "Reduces damage\ntaken from\nspells."
@@ -8328,7 +8328,7 @@
     "常時かいふく魔力+50": "Magical Mending +50"
   },
   "56572": {
-    "瀕死時みかわしアップ": "Dodge Up On Death"
+    "瀕死時みかわしアップ": "Near-Death Dodge Boost"
   },
   "56588": {
     "常時みのまもり+70": "Resilience +70"
@@ -8994,7 +8994,7 @@
     "かいふく魔力が　５０　増えた！": "Magical Mending increases by 50!"
   },
   "60542": {
-    "瀕死時に　２０％の確率で\n身かわし率が　３０％増えるようになった！": "You now have a 20% chance to gain an extra\n30% dodge rate when you die!"
+    "瀕死時に　２０％の確率で\n身かわし率が　３０％増えるようになった！": "You now have a 20% chance to gain an extra\n30% dodge rate when you are on the verge of\ndeath!"
   },
   "60591": {
     "みのまもりが　７０　増えた！": "Resilience increases by 70!"
@@ -9510,7 +9510,7 @@
     "常時\nかいふく魔力が\n５０増える": "Mag. Mending\nincreases by 50."
   },
   "65279": {
-    "瀕死時に２０％で\n身かわし率アップ": "20% chance on\ndeath to boost\ndodge rate."
+    "瀕死時に２０％で\n身かわし率アップ": "20% chance when\nnear death to\nboost dodge rate."
   },
   "65304": {
     "常時\nみのまもりが\n７０増える": "Resilience\nincreases by 70."
