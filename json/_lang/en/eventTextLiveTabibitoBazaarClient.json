@@ -183,7 +183,7 @@
     "「やめるんだね。\n　他に　ほしい物は　あるかい？\n<bw_break>": "Oh, you don't want it?\nIs there anything else, then?\n<bw_break>"
   },
   "14460": {
-    "「やめるんだね。\n　じゃ　他の物を出品するかい？\n<break>": "I don't... So you want to sell something\nelse?<break>"
+    "「やめるんだね。\n　じゃ　他の物を出品するかい？\n<break>": "Oh, changed your mind?\nIs there anything else you want to sell?\n<break>"
   },
   "14462": {
     "「あと<%nL_SYUPPIN>品　出品できるよ。\n　何を　出品するんだい？\n<break>": "You can list <%dL_SYUPPIN> more items.\nWhat do you wanna list?\n<break>"
@@ -675,7 +675,7 @@
     "「装備品についての説明だな。\n　じつは　装備品は　同じ名前の物でも\n　ひとつひとつ　性能が違うんだ。\n<br>\n「名前に　＋１とか　＋２とか付いてる\n　装備品を　見たことないか？　あれは\n　その装備品に付いてる　錬金効果の数なんだ。\n<br>\n「錬金効果ってのは　装備品に後から付けられた\n　特殊な効果のことだ。攻撃力や守備力とかの\n　パラメータ強化の他　様々な種類があるぜ。\n<br>\n「どんな錬金効果が付いてるかは\n　その装備品を　くわしくみれば　わかるぞ。\n　＋が付いてたら　忘れずにチェックしろよ。\n<br>\n「あと　装備品の説明の所に付いてる\n　<color_yellow>★<color_white>マークは　その装備品の　できのよさだ。\n　<color_yellow>★<color_white>の数が多いほど　できのよい物ってことだな。\n<br>\n「できのよい装備品は　それだけでも効果が高いし\n　さらに　後から付けられる錬金効果の数も\n　<color_yellow>★<color_white>の数と同じだから　すごく重要だぜ。\n<bw_break>": "I will now explain how equipment works.\nEven if the equipment has the same name,\ntheir performance may differ per each listing.\n<br>\nHave you seen a piece of equipment with a\n+1 or +2 in its name? That is the number of\nalchemy effects that the equipment has.\n<br>\nAn alchemy effect is a special enhancement\nthat is added to equipment. They come in a\nvariety, such as attack power and defense.\n<br>\nYou can find out what kind of alchemy effect\nit has by looking at the equipment in detail,\nso please check it carefully.\n<br>\nAlso, the <color_yellow>★<color_white> mark in the equipment description\nindicates how well the equipment is made.\nThe more <color_yellow>★<color_white>'s it has the better the equipment.\n<br>\nA well-made piece of equipment is more\neffective and the number of alchemy effects\nit can have is the same as the number of <color_yellow>★<color_white>'s.\n<bw_break>"
   },
   "33170": {
-    "「出品だな。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　さらに　商品が売れたら　手数料として\n　売上金の<%nL_FEE>％をいただくけど　いいか？\n<yesno><break>": "For each item... We'll charge you a Gold per\nitem, plus a commission of <%dL_FEE_PRICE>%\nof the sale if the item sells.<yesno><break>"
+    "「出品だな。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　さらに　商品が売れたら　手数料として\n　売上金の<%nL_FEE>％をいただくけど　いいか？\n<yesno><break>": "For each item you list, we charge a flat\n<%dL_FEE_PRICE> Gold fee, plus a <%dL_FEE>%\ncommission fee it it sells. That okay?\n<yesno><break>"
   },
   "33171": {
     "「おっと　残念だが\n　出品料が払えないみたいだな。\n<bw_break>": "Oops, I'm afraid I can't afford the entry\nfee...<bw_break>"
@@ -687,7 +687,7 @@
     "「じゃ　装備品について説明するね。\n　じつは　装備品は　同じ名前の物でも\n　ひとつひとつ　性能が違うんだよ。\n<br>\n「名前に　＋１とか　＋２とか付いてる\n　装備品を　見たことない？　あれは\n　その装備品に付いてる　錬金効果の数なんだ。\n<br>\n「錬金効果というのは　装備品に後から付けられた\n　特殊な効果のことだよ。攻撃力や守備力などの\n　パラメータ強化の他　様々な種類があるんだ。\n<br>\n「どんな錬金効果が付いてるかは\n　その装備品を　くわしくみると　わかるから\n　＋が付いてたら　チェックを忘れずに。\n<br>\n「あと　装備品の説明の所に付いてる\n　<color_yellow>★<color_white>マークは　その装備品の　できのよさだよ。\n　<color_yellow>★<color_white>の数が多いほど　できのよい物だってことさ。\n<br>\n「できのよい装備品は　それだけでも効果が高いし\n　さらに　後から付けられる錬金効果の数も\n　<color_yellow>★<color_white>の数と同じだから　とても重要だよ。\n<bw_break>": "I will now explain how equipment works.\nEven if the equipment has the same name,\ntheir performance may differ per each listing.\n<br>\nHave you seen a piece of equipment with a\n+1 or +2 in its name? That is the number of\nalchemy effects that the equipment has.\n<br>\nAn alchemy effect is a special enhancement\nthat is added to equipment. They come in a\nvariety, such as attack power and defense.\n<br>\nYou can find out what kind of alchemy effect\nit has by looking at the equipment in detail,\nso please check it carefully.\n<br>\nAlso, the <color_yellow>★<color_white> mark in the equipment description\nindicates how well the equipment is made.\nThe more <color_yellow>★<color_white>'s it has the better the equipment.\n<br>\nA well-made piece of equipment is more\neffective and the number of alchemy effects\nit can have is the same as the number of <color_yellow>★<color_white>'s.\n<bw_break>"
   },
   "33174": {
-    "「出品だね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　さらに　商品が売れたら　手数料として\n　売上金の<%nL_FEE>％をいただくけど　いいかい？\n<yesno><break>": "For each item... We'll charge you a Gold per\nitem, plus a commission of <%dL_FEE_PRICE>%\nof the sale if the item sells.<yesno><break>"
+    "「出品だね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　さらに　商品が売れたら　手数料として\n　売上金の<%nL_FEE>％をいただくけど　いいかい？\n<yesno><break>": "For each item you list, we charge a flat\n<%dL_FEE_PRICE> Gold fee, plus a <%dL_FEE>%\ncommission fee it it sells. That okay?\n<yesno><break>"
   },
   "33175": {
     "「あれ　残念だけど\n　出品料を払えないみたいだね。\n<bw_break>": "Oh, I'm sorry, but it looks like you can't\npay the entry fee...<bw_break>"
@@ -699,7 +699,7 @@
     "「では　装備品について説明します。\n　じつは　装備品は　同じ名前の物でも\n　ひとつひとつ　性能が違うんですよ。\n<br>\n「名前に　＋１とか　＋２とか付いてる装備品を\n　見たことがありますか？　あれは\n　その装備品に付いてる　錬金効果の数なんです。\n<br>\n「錬金効果というのは　装備品に後から付けられた\n　特殊な効果のことです。攻撃力や守備力などの\n　パラメータ強化の他　様々な種類がありますよ。\n<br>\n「どんな錬金効果が付いてるかは\n　その装備品を　くわしくみると　わかりますので\n　しっかり　チェックしてくださいね。\n<br>\n「あと　装備品の説明の所に付いてる\n　<color_yellow>★<color_white>マークは　その装備品の　できのよさです。\n　<color_yellow>★<color_white>の数が多いほど　できのよい物です。\n<br>\n「できのよい装備品は　それだけでも効果が高く\n　さらに　後から付けられる錬金効果の数も\n　<color_yellow>★<color_white>の数と同じなので　とても重要なんですよ。\n<bw_break>": "I will now explain how equipment works.\nEven if the equipment has the same name,\ntheir performance may differ per each listing.\n<br>\nHave you seen a piece of equipment with a\n+1 or +2 in its name? That is the number of\nalchemy effects that the equipment has.\n<br>\nAn alchemy effect is a special enhancement\nthat is added to equipment. They come in a\nvariety, such as attack power and defense.\n<br>\nYou can find out what kind of alchemy effect\nit has by looking at the equipment in detail,\nso please check it carefully.\n<br>\nAlso, the <color_yellow>★<color_white> mark in the equipment description\nindicates how well the equipment is made.\nThe more <color_yellow>★<color_white>s it has the better the equipment.\n<br>\nA well-made piece of equipment is more\neffective and the number of alchemy effects\nit can have is the same as the number of <color_yellow>★<color_white>s.\n<bw_break>"
   },
   "33178": {
-    "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　商品が売れた際には　手数料として\n　売上金の<%nL_FEE>％をいただきますが　いいですか？\n<yesno><break>": "Listings... I will charge you <%dL_FEE_PRICE>\ngold per item and <%dL_FEE_%> of the proceeds\nas commission when the item is sold, is that\n<br>\nokay?<yesno><break>"
+    "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　商品が売れた際には　手数料として\n　売上金の<%nL_FEE>％をいただきますが　いいですか？\n<yesno><break>": "For each item you list, we charge a flat\n<%dL_FEE_PRICE> Gold fee, plus a <%dL_FEE>%\ncommission fee it it sells. Is that okay?\n<yesno><break>"
   },
   "33179": {
     "「残念ですが　出品するには\n　お金が足りないようです。\n<bw_break>": "I'm afraid I don't have enough money to put\nit up for sale...<bw_break>"
@@ -711,7 +711,7 @@
     "「では　装備品について説明いたします。\n　じつは　装備品は　同じ名前の物でも\n　ひとつひとつ　性能が違うのです。\n<br>\n「名前に　＋１とか　＋２とか付いてる装備品を\n　見たことがありますか？　あれは\n　その装備品に付いてる　錬金効果の数なのです。\n<br>\n「錬金効果というのは　装備品に後から付けられた\n　特殊な効果のことです。攻撃力や守備力などの\n　パラメータ強化の他　様々な種類がありますよ。\n<br>\n「どんな錬金効果が付いてるかは\n　その装備品を　くわしくみると　わかりますので\n　しっかり　チェックしてくださいね。\n<br>\n「あと　装備品の説明の所に付いてる\n　<color_yellow>★<color_white>マークは　その装備品の　できのよさです。\n　<color_yellow>★<color_white>の数が多いほど　できのよい物です。\n<br>\n「できのよい装備品は　それだけでも効果が高く\n　さらに　後から付けられる錬金効果の数も\n　<color_yellow>★<color_white>の数と同じなので　とても重要ですよ。\n<bw_break>": "I will now explain how equipment works.\nEven if the equipment has the same name,\ntheir performance may differ per each listing.\n<br>\nHave you seen a piece of equipment with a\n+1 or +2 in its name? That is the number of\nalchemy effects that the equipment has.\n<br>\nAn alchemy effect is a special enhancement\nthat is added to equipment. They come in a\nvariety, such as attack power and defense.\n<br>\nYou can find out what kind of alchemy effect\nit has by looking at the equipment in detail,\nso please check it carefully.\n<br>\nAlso, the <color_yellow>★<color_white> mark in the equipment description\nindicates how well the equipment is made.\nThe more <color_yellow>★<color_white>s it has, the better the equipment.\n<br>\nA well-made piece of equipment is more\neffective and the number of alchemy effects\nit can have is the same as the number of <color_yellow>★<color_white>s.\n<bw_break>"
   },
   "33182": {
-    "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　商品が売れた際には　手数料として　売上金の\n　<%nL_FEE>％をいただきますが　よろしいですか？\n<yesno><break>": "Listings... I will charge you <%dL_FEE_PRICE>\ngold per item, plus <%dL_FEE>% of the\nproceeds as a commission when the item is\n<br>\nsold.<yesno><break>"
+    "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　商品が売れた際には　手数料として　売上金の\n　<%nL_FEE>％をいただきますが　よろしいですか？\n<yesno><break>": "For each item you list, we charge a flat\n<%dL_FEE_PRICE> Gold fee, plus a <%dL_FEE>%\ncommission fee it it sells. Is that all right?\n<yesno><break>"
   },
   "33183": {
     "「申し訳ありませんが\n　出品するには　お金が足りないようです。\n<bw_break>": "I'm sorry, sir, but I don't have enough money\nto put up for sale...<bw_break>"
@@ -1470,7 +1470,7 @@
     "ありがとうございました。\nまたのご利用を　お待ちしております。\n<turn_end>": "Thank you very much!\nWe look forward to serving you again!\n<turn_end>"
   },
   "119435": {
-    "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　商品が売れた際には　手数料として　売上金の\n　<%nL_FEE>％をいただきますが　よろしいですか？\n<yesno><break>": "Listings... I will charge you <%dL_FEE_PRICE>\ngold per item, plus <%dL_FEE>% of the\nproceeds as a commission when the item is\n<br>\nsold.<yesno><break>"
+    "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　商品が売れた際には　手数料として　売上金の\n　<%nL_FEE>％をいただきますが　よろしいですか？\n<yesno><break>": "For each item you list, we charge a flat\n<%dL_FEE_PRICE> Gold fee, plus a <%dL_FEE>%\ncommission fee it it sells. Is that all right?\n<yesno><break>"
   },
   "119436": {
     "「申し訳ありませんが\n　出品するには　お金が足りないようです。\n<bw_break>": "I'm sorry, sir, but I don't have enough money\nto put up for sale...<bw_break>"
@@ -1809,7 +1809,7 @@
     "「……あっちゃ～！　その商品は　タッチの差で\n　他の人に　買われてしまったようです。\n　こういうこともあるのです。ごめんなさい……。\n<bw_break>": "... Oh no! That item was bought by someone\nelse by a hair's breadth... This happens\nsometimes... I'm sorry...<bw_break>"
   },
   "266535": {
-    "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　商品が売れた際には　手数料として\n　売上金の<%nL_FEE>％をいただきますが　いいですか？\n<yesno><break>": "Listings... I will charge you <%dL_FEE_PRICE>\ngold per item and <%dL_FEE_%> of the proceeds\nas commission when the item is sold, is that\n<br>\nokay?<yesno><break>"
+    "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと\n　商品が売れた際には　手数料として\n　売上金の<%nL_FEE>％をいただきますが　いいですか？\n<yesno><break>": "For each item you list, we charge a flat\n<%dL_FEE_PRICE> Gold fee, plus a <%dL_FEE>%\ncommission fee it it sells. Is that okay?\n<yesno><break>"
   },
   "266536": {
     "「<pc>さんは　あと<%nL_SYUPPIN>品\n　出品できます。\n　何を　出品しますか？\n<break>": "You can list <%dL_SYUPPIN> more items for\nsale. What do you want to list?\n<break>"
