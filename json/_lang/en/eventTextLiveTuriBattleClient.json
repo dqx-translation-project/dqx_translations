@@ -3,7 +3,7 @@
     "「仮。\n<end>": "Temp.\n<end>"
   },
   "70280": {
-    "<speed=0>釣ったさかなを　あきらめますか？\n<%sL_FISH>　<%sL_SIZE>ｃｍ\n<yesno 2><break>": "<speed=0>Give up the fish you caught?\n<%sL_FISH> <%sL_SIZE>cm<yesno 2><break>"
+    "<speed=0>釣ったさかなを　あきらめますか？\n<%sL_FISH>　<%sL_SIZE>ｃｍ\n<yesno 2><break>": "<speed=0>Give up the caught fish?\n<%sL_FISH> <%sL_SIZE>cm<yesno 2><break>"
   },
   "70284": {
     "<pc>は\n<%dL_EXP> Pの釣り経験値を　かくとく！\n<se_nots System 7><bw_break>": "<pc> received <%dL_EXP> Fishing EXP!\n<se_nots System 7><bw_break>"
@@ -15,7 +15,7 @@
     "<speed=0><pc>は\n<%sL_FISH>を　逃がした。\n<bw_break>": "<speed=0>You let the <%sL_FISH> escape.<bw_break>"
   },
   "70289": {
-    "<%sL_FISH>を　釣り上げた！\nサイズ：<%sL_SIZE>ｃｍ\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>": "You caught a <%sL_FISH>!\nSize: <%sL_SIZE> cm\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>"
+    "<%sL_FISH>を　釣り上げた！\nサイズ：<%sL_SIZE>ｃｍ\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>": "Caught a(n) <%sL_FISH>!\nSize: <%sL_SIZE> cm\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>"
   },
   "70290": {
     "さかなに　逃げられてしまった。\n<bw_break>": "The fish got away.<bw_break>"
@@ -60,7 +60,7 @@
     "<select_se_off>\nさおを引く\n全力で引く\n暗黒引き\nまじん引き\nマヒャド引き\nルアー覚醒\nあきらめる\n釣り上げる\n逃げられる\n<select_end><break>": "<select_se_off>\nReel Rod\nFull Power Reel\nDark pull\nMajestic Pull\nMahyad pull\nLure awakening\nGive up\nFish up\nRun away\n<select_end><break>"
   },
   "81517": {
-    "宝箱を　釣り上げた！\n<bw_break>": "You caught a treasure chest!<bw_break>"
+    "宝箱を　釣り上げた！\n<bw_break>": "Caught a treasure chest!<bw_break>"
   },
   "81518": {
     "宝箱を　釣り上げられなかった。\n<bw_break>": "Didn't catch the treasure chest.<bw_break>"
@@ -90,7 +90,7 @@
     "さかなが　かかった！　これは　大物だ！": "Hooked a fish! It's a big one!"
   },
   "86194": {
-    "<%sL_FISH>を　釣り上げた！\n<color_yellow>サイズ：<%sL_SIZE>ｃｍ　<%sL_SIZE_RANK><color_white>\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>": "You caught a <%sL_FISH>!\n<color_yellow>Size: <%sL_SIZE> cm <%sL_SIZE_RANK><color_white>\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>"
+    "<%sL_FISH>を　釣り上げた！\n<color_yellow>サイズ：<%sL_SIZE>ｃｍ　<%sL_SIZE_RANK><color_white>\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>": "Caught a(n) <%sL_FISH>!\n<color_yellow>Size: <%sL_SIZE> cm <%sL_SIZE_RANK><color_white>\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>"
   },
   "86315": {
     "<pc>は\n<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの\n釣り経験値を　かくとく！<se_nots System 7>\n<bw_break>": "<pc> received <%dL_EXP> +<%dL_EXP_OUEN>(Cheer Bonus)\nFishing EXP!\n<se_nots System 7>\n<bw_break>"
@@ -117,7 +117,7 @@
     "しかし　さおをゆるめていたので\nくいつき度は　減らなかった！": "However, loosening the line caused your\nLine HP to not decrease!"
   },
   "88855": {
-    "<speed=0>釣ったさかなを　あきらめますか？\n<color_yellow><%sL_FISH>　<%sL_SIZE>ｃｍ　<%sL_RANK_TEXT><color_white>\n<yesno 2><break>": "<speed=0>Discard the fish you caught?\n<color_yellow><%sL_FISH> <%sL_SIZE> cm <%sL_RANK_TEXT><color_white>\n<yesno 2><break>"
+    "<speed=0>釣ったさかなを　あきらめますか？\n<color_yellow><%sL_FISH>　<%sL_SIZE>ｃｍ　<%sL_RANK_TEXT><color_white>\n<yesno 2><break>": "<speed=0>Discard the caught fish?\n<color_yellow><%sL_FISH> <%sL_SIZE> cm <%sL_RANK_TEXT><color_white>\n<yesno 2><break>"
   },
   "90966": {
     "さかなは　闇を振り払った！": "The fish shook off the darkness!"
@@ -141,7 +141,7 @@
     "<speed=0>時間切れになっていたので\n釣りポイントを　かくとくできなかった。\n自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P\n<br>\nサーペンに　結果を報告しに行こう！\n<bw_break>": "<speed=0>Time was running out, so I couldn't pinpoint\nthe fishing points... I: <%dL_MYPOINT> P All:\n<%dL_ALLPOINT> P Let's go report our results\n<br>\nto Serpens!<bw_break>"
   },
   "98064": {
-    "宝箱を　釣り上げた！\n自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P\n<bw_break>": "You caught a treasure chest!\nSelf: <%dL_MYPOINT>P\nAll: <%dL_ALLPOINT P\n<bw_break>"
+    "宝箱を　釣り上げた！\n自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P\n<bw_break>": "Caught a treasure chest!\nSelf: <%dL_MYPOINT>P\nAll: <%dL_ALLPOINT P\n<bw_break>"
   },
   "98065": {
     "さかなに　逃げられてしまった。\n自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P\n<bw_break>": "The fish got away...\nSelf: <%dL_MYPOINT> P\nAll: <%dL_ALLPOINT> P<bw_break>"
@@ -159,7 +159,7 @@
     "小さいサイズ更新！": "That's a new smallest size record!"
   },
   "193031": {
-    "<%sL_FISH>を　釣り上げた！\nサイズ：<%sL_SIZE>ｃｍ\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>": "You caught a <%sL_FISH>!\nSize: <%sL_SIZE> cm\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>"
+    "<%sL_FISH>を　釣り上げた！\nサイズ：<%sL_SIZE>ｃｍ\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>": "Caught a(n) <%sL_FISH>!\nSize: <%sL_SIZE> cm\n<color_yellow><%sL_NEW_RECORD><color_white>\n<bw_break>"
   },
   "202798": {
     "さかなぶくろの　さかなを全てロックしているため\n釣りをすることが　できません。\n整理をしてから　もう一度お試しください。\n<end>": "All of the fish in your fish bag are locked,\nso you cannot fish. Please sort your fish\nbag and try again.\n<end>"
