@@ -117,10 +117,10 @@
     "「チームの結成に　失敗いたしました。\n　お手数ですが　しばらく時間を空けてから\n　もう一度　やり直してください。\n<bw_break>": "I'm sorry, sir. I've failed to assemble a\nteam. I apologize for the inconvenience, but\nyou'll have to wait a few moments and try\n<br>\nagain.<bw_break>"
   },
   "40893": {
-    "「その言葉を待っていました！\n　<pc>さんのチームを　結成いたします！\n<bw_break>": "I've been waiting to hear those words!<pc> I'm forming a team of three!<bw_break>"
+    "「その言葉を待っていました！\n　<pc>さんのチームを　結成いたします！\n<bw_break>": "Just what I wanted to hear!\n<pc>, your Team is hereby formed!\n<bw_break>"
   },
   "40894": {
-    "「おや　チーム名が　入力されていませんよ。\n　あなたの　チームの名前を\n　１０文字以内で　入れてください。\n<break>": "Oh, your team name's not entered. Please\nenter your team's name in 10 characters or\nless...<break>"
+    "「おや　チーム名が　入力されていませんよ。\n　あなたの　チームの名前を\n　１０文字以内で　入れてください。\n<break>": "Oh, you haven't entered your Team's name!\nPlease enter a name using 10 characters or\nless.\n<break>"
   },
   "40895": {
     "「冒険者よ　よく来てくれました。\n　私は　チーム大使。ここでは\n　チームに関する　様々な手続きをしております。\n<br>\n「現在　アストルティア全土を包む\n　危機に対抗するため　主要各国は\n　チーム強化の方針を　打ち出しています。\n<br>\n「チームには　冒険者なら　誰でも入隊できます。\n　ただし　入隊できるチームは\n　ひとりひとつまで　という決まりです。\n<br>\n「なので　誰かのチームに　入隊するもよし。\n　自らチームを結成して　リーダーとなるもよし。\n　そこは自由に　ご判断ください。\n<br>\n「ここで　チーム結成の手続きをおこなうと\n　<%sM_timei>公認チームとなりますが\n　入隊するメンバーの種族に　制限はありません。\n<br>\n「チームに入隊すると　チームクエストへの参加や\n　メンバーが　いつでも会話できるチャットなど\n　様々なチーム専用機能を　ご利用いただけます！\n<br>\n「クエストに参加するには　チームのメンバー\n　それぞれが　我々チーム大使に話しかけ\n　『チームクエスト』を　お選びください。\n<br>\n「さあ　今日は　どのようなご用でしょうか。\n<break>": "Adventurers, welcome to the... My name is\nChee... We have a number of team-related\nprocedures to follow. In response to the\n<br>\ncrisis currently engulfing all of Astoltia,\nthe major powers have decided to strengthen\ntheir teams. Teams are open to all\n<br>\nadventurers... However, each adventurer is\nonly allowed to join one team. So if you want\nto join someone else's team... Or form your\n<br>\nown team and become its leader... That's up\nto you to decide. Now, when you form a team,\nit becomes a <%sM_timei> sanctioned team, but\n<br>\nthere are no restrictions on the races of the\nmembers... Once you've joined a team, you'll\nbe able to participate in team quests, chat\n<br>\nwith other team members, and more! To\nparticipate in a quest, each member of your\nteam must speak to one of our team\n<br>\nambassadors and choose a Team Quest... So\nwhat can I do for you today?<break>"
@@ -138,16 +138,16 @@
     "「今の組み合わせを　すべて消して\n　こちらで選んだパーツに　変更いたします。\n　よろしいですか？\n<yesno><break>": "I'd like to erase all the current\ncombinations and replace them with the parts\nI've selected... Are you sure?<yesno><break>"
   },
   "40900": {
-    "「おお　チームを解散するのですね？\n<br>\n「解散すれば　他チームに入れるようになりますが\n　これまで積み重ねてきた　チームレベルなど\n　すべて　消滅してしまいます。よろしいですか？\n<yesno 2><break>": "Oh, so you're disbanding the team? If we\ndisband, you'll be able to join another team,\nbut all the team levels you've built up over\n<br>\nthe years, they'll all be gone. Are you sure?<yesno 2><break>"
+    "「おお　チームを解散するのですね？\n<br>\n「解散すれば　他チームに入れるようになりますが\n　これまで積み重ねてきた　チームレベルなど\n　すべて　消滅してしまいます。よろしいですか？\n<yesno 2><break>": "Ah, so you want to disband your Team?\n<br>\nIf you do, you'll be able to join a different\nTeam. However, all the Team Levels you've\nyou've gained will be permanently lost.\n<br>\nAre you really sure you want to disband?\n<yesno 2><break>"
   },
   "40901": {
-    "「ユニフォームデザインを　やめますか？\n<yesno 2><break>": "Do you want to stop designing uniforms?<yesno 2><break>"
+    "「ユニフォームデザインを　やめますか？\n<yesno 2><break>": "Do you wish to stop designing your\nTeam uniform?<yesno 2><break>"
   },
   "40902": {
-    "「チーム『<%sL_TEAM>』のリーダーを\n　<pc>さんから　別のメンバーに\n　変更することができます。\n<br>\n「チームの所有権も　移ってしまいますが\n　リーダーの交代をしますか？<yesno><break>": "The leader of the team \"<%sL_TEAM>\"\n<pc> I can change from one member to another...\nAnd the ownership of the team would be\ntransferred. Would you like to replace the\n<br>\nleader?<yesno><break>"
+    "「チーム『<%sL_TEAM>』のリーダーを\n　<pc>さんから　別のメンバーに\n　変更することができます。\n<br>\n「チームの所有権も　移ってしまいますが\n　リーダーの交代をしますか？<yesno><break>": "Your Team can have its leader changed from\nyou to someone else.\n<br>\nThis will transfer ownership of the Team to\nthem. Do you want to change this Team's\nleader?<yesno><break>"
   },
   "40903": {
-    "「では　<%sL_MEMBER>さんを\n　次のリーダーに　指名いたします。\n　よろしいですか？<yesno><break>": "I nominate <%sL_MEMBER> as our next leader...\nMay I?<yesno><break>"
+    "「では　<%sL_MEMBER>さんを\n　次のリーダーに　指名いたします。\n　よろしいですか？<yesno><break>": "Then, you would like to appoint <%sL_MEMBER>\nas the new Team leader?<yesno><break>"
   },
   "40904": {
     "「<%sL_COVER_TYPE>ですね。\n　<%nL_GOLD>ゴールドですが\n　よろしいですか？\n<yesno><break>": "So you like to use <%sL_COVER_TYPE>?\nThat will be <%dL_GOLD> Gold.\n<yesno><break>"
@@ -159,7 +159,7 @@
     "「手続きが終わりましたら　登録料として\n　<%nL_TESUURYOU>ゴールド　いただきます。\n　登録料は　チーム解散時には　お返しします。\n<br>\n「チームの登録を　いたしますか？<yesno><break> ": "Once you've completed the registration\nprocess, we'll ask you to pay a registration\nfee of <%nL_TESUURYOU> gold... The\n<br>\nregistration fee will be returned to you when\nthe team disbands... Would you like to\nregister your team?<yesno><break>"
   },
   "40907": {
-    "「こちらの内容で　チームを登録します。\n　よろしいですか？<yesno><break>": "I'd like to register a team... Are you sure?<yesno><break>"
+    "「こちらの内容で　チームを登録します。\n　よろしいですか？<yesno><break>": "Are you sure you want to register this\nTeam?<yesno><break>"
   },
   "40908": {
     "「ああっ……ですが　<pc>さんは\n　すでに　チーム『<%sL_TEAM>』に\n　所属なさっているでは　ありませんか！\n<br>\n「新しく　あなたのチームを結成するならば\n　『<%sL_TEAM>』から　キチンと\n　抜けてから　お申し込みください。　\n<bw_break>": "Ah...you are already a member of <%sL_TEAM>.\nIf you want to form your own team, you'll\nneed to leave that one first.\n<bw_break>"
