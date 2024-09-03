@@ -219,16 +219,16 @@
     "９９９９９９９９９": "999999999"
   },
   "3420": {
-    "片手剣": "Sword"
+    "片手剣": "Swords"
   },
   "3422": {
-    "両手杖": "Staff"
+    "両手杖": "Staves"
   },
   "3424": {
-    "ヤリ": "Spear"
+    "ヤリ": "Spears"
   },
   "3426": {
-    "盾": "Shield"
+    "盾": "Shields"
   },
   "3428": {
     "からだ下": "Legs"
@@ -240,25 +240,25 @@
     "ウデ": "Hands"
   },
   "3431": {
-    "ハンマー": "Hammer"
+    "ハンマー": "Hammers"
   },
   "3432": {
     "足": "Feet"
   },
   "3433": {
-    "棍": "Rod"
+    "棍": "Rods"
   },
   "3434": {
     "ツメ": "Claws"
   },
   "3435": {
-    "弓": "Bow"
+    "弓": "Bows"
   },
   "3436": {
-    "ブーメラン": "Boomerang"
+    "ブーメラン": "Boomerangs"
   },
   "3438": {
-    "オノ": "Axe"
+    "オノ": "Axes"
   },
   "3439": {
     "からだ上": "Chest"
@@ -381,7 +381,7 @@
     "ざいさん": "Property"
   },
   "4778": {
-    "スキル": "Skill"
+    "スキル": "Skills"
   },
   "4782": {
     "のこり": "Points"
@@ -2178,19 +2178,19 @@
     "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>の石": "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>"
   },
   "18283": {
-    "短剣": "Dagger"
+    "短剣": "Daggers"
   },
   "18284": {
-    "両手剣": "Greatsword"
+    "両手剣": "Greatswords"
   },
   "18286": {
-    "ムチ": "Whip"
+    "ムチ": "Whips"
   },
   "18287": {
-    "スティック": "Wand"
+    "スティック": "Wands"
   },
   "18288": {
-    "扇": "Fan"
+    "扇": "Fans"
   },
   "18289": {
     "必要な素材": "Materials"
@@ -3018,7 +3018,7 @@
     "近くの地図": "Nearby Areas"
   },
   "21213": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nフレンドに　さそいますか？<yesno><close>": "<speed=0>Add <%sL_PC_NICK> (<%sUNIQUE_ID>) as a friend? <yesno><close>"
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nフレンドに　さそいますか？<yesno><close>": "<speed=0>Add <%sL_PC_NICK> (<%sUNIQUE_ID>)\nas a friend? <yesno><close>"
   },
   "21222": {
     "チャット": "Chat"
@@ -3045,13 +3045,13 @@
     "<speed=0>自分をフレンドリストに\n登録することは　できません。": "<speed=0>You can't add yourself to your friends list."
   },
   "21259": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nブラックリストに登録されているので\nフレンドには　さそえません。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) is blacklisted, so you can't add\nthem as a friend."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nブラックリストに登録されているので\nフレンドには　さそえません。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) is blacklisted,\nso you can't add them as a friend."
   },
   "21260": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nすでに　リクエストを送っているか\nフレンド登録済みのようです。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) already sent a request or is\nalready a friend."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nすでに　リクエストを送っているか\nフレンド登録済みのようです。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) already\nsent a request or is already a friend."
   },
   "21261": {
-    "<speed=0>リクエストを送って　相手がＯＫしたら\nお互いのフレンドリストに　登録されます。\nよろしいですか？<yesno><close>": "<speed=0>By sending a request, you will be added to\neach other's friends list if the other player\naccepts. Proceed?<yesno><close>"
+    "<speed=0>リクエストを送って　相手がＯＫしたら\nお互いのフレンドリストに　登録されます。\nよろしいですか？<yesno><close>": "<speed=0>By sending a request, you will be added to\neach other's friends list if the other player\naccepts. Continue?<yesno><close>"
   },
   "21262": {
     "<speed=0><%sL_PC_NICK>を　フレンドに　さそいました。\n相手の　返事を待ちましょう。": "<speed=0>Sent a friend request to <%sL_PC_NICK>.\nPlease wait for their response."
@@ -3150,28 +3150,28 @@
     "<speed=0>自分を　ブラックリストに\n加えることは　できません！": "<speed=0>You can't add yourself to the blacklist!"
   },
   "21350": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nすでに　ブラックリストに登録されています。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) is already on the blacklist."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nすでに　ブラックリストに登録されています。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) is already on\nyour blacklist."
   },
   "21351": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nフレンドリストに　登録されています。<br>\nブラックリストに加えると\nフレンドリストからは　はずされますが\nよろしいですか？<yesno><close>": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>)\nis on your friends list.<br>\nIf added to your blacklist, they will be\nremoved from your friends list.\nProceed?<yesno><close>"
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nフレンドリストに　登録されています。<br>\nブラックリストに加えると\nフレンドリストからは　はずされますが\nよろしいですか？<yesno><close>": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>)\nis on your friends list.<br>\nIf added to your blacklist, they will be\nremoved from your friends list.\nContinue?<yesno><close>"
   },
   "21352": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nブラックリストに　加えました。": "<speed=0><%sL_PC_NICK (<%sUNIQUE_ID>) was added to the blacklist."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nブラックリストに　加えました。": "<speed=0><%sL_PC_NICK (<%sUNIQUE_ID>) was added to\nyour blacklist."
   },
   "21353": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nブラックリストに　加えられませんでした。\n時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be added\nto the blacklist. Please wait a while and try\nagain."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nブラックリストに　加えられませんでした。\n時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be\nadded to your blacklist. Please wait a while\nand try again."
   },
   "21354": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nブラックリストに　加えられませんでした。\n名前と　キャラＩＤを　確認してください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be added\nto the blacklist. Please check the Player Name\nand ID."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nブラックリストに　加えられませんでした。\n名前と　キャラＩＤを　確認してください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be\nadded to your blacklist. Please check the\nentered Player Name and ID."
   },
   "21355": {
     "※削除予定": "For Deletion"
   },
   "21356": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nフレンドに　さそえませんでした。\n時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be added as a friend.\nPlease wait a while and try again."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nフレンドに　さそえませんでした。\n時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) could not be\nadded as a friend.\nPlease wait a while and try again."
   },
   "21357": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nフレンドリストが　いっぱいのようです。\nフレンドに　さそえませんでした。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>)'s friends list\nseems to be full. They cannot be added as a\nfriend."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）は\nフレンドリストが　いっぱいのようです。\nフレンドに　さそえませんでした。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>)'s friends list\nis full. They cannot be added as a friend."
   },
   "21358": {
     "ブラックリスト": "Blacklist"
@@ -3249,7 +3249,7 @@
     "町村,番地": "Town, House No."
   },
   "21469": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nブラックリストから　はずせませんでした。\n時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) couldn't be removed\nfrom the blacklist. Please wait a while and\ntry again."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）を\nブラックリストから　はずせませんでした。\n時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) couldn't be\nremoved from your blacklist. Please wait a\nwhile and try again."
   },
   "21476": {
     "セキュリティコード": "Security Code"
@@ -4458,19 +4458,19 @@
     "<%sM_mpmax>": "<%sM_mpmax>"
   },
   "25472": {
-    "<%sM_skill5><%sM_05>": "<%sM_skill5> <%sM_05>"
+    "<%sM_skill5><%sM_05>": "<%sM_skill5>"
   },
   "25473": {
-    "<%sM_skill4><%sM_04>": "<%sM_skill4> <%sM_04>"
+    "<%sM_skill4><%sM_04>": "<%sM_skill4>"
   },
   "25474": {
-    "<%sM_skill3><%sM_03>": "<%sM_skill3> <%sM_03>"
+    "<%sM_skill3><%sM_03>": "<%sM_skill3>"
   },
   "25475": {
-    "<%sM_skill2><%sM_02>": "<%sM_skill2> <%sM_02>"
+    "<%sM_skill2><%sM_02>": "<%sM_skill2>"
   },
   "25476": {
-    "<%sM_skill1><%sM_01>": "<%sM_skill1> <%sM_01>"
+    "<%sM_skill1><%sM_01>": "<%sM_skill1>"
   },
   "25492": {
     "<%dM_cal_YYYY>-<%2dM_cal_MM>-<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>": "<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>"
@@ -5058,7 +5058,7 @@
     "単位：": "Units: "
   },
   "26794": {
-    "<speed=0>\n撮影枚数が　いっぱいです。\n写真を保存すると　一番古い写真が\n上書きされますが　よろしいですか？\n<yesno><close>": "<speed=0>\nYour Photo Album is full. If you save this\nphoto, the oldest photo will be overwritten.\nProceed?\n<yesno><close>"
+    "<speed=0>\n撮影枚数が　いっぱいです。\n写真を保存すると　一番古い写真が\n上書きされますが　よろしいですか？\n<yesno><close>": "<speed=0>\nYour Photo Album is full. If you save this\nphoto, the oldest photo will be overwritten.\nContinue?\n<yesno><close>"
   },
   "26795": {
     "チャット非表示": "Hide Chat"
@@ -5874,7 +5874,7 @@
     "生年月日": "Birth Date"
   },
   "28459": {
-    "<%sM_skill1>スキル をリセットした！": "<%sM_skill1> Skill reset!"
+    "<%sM_skill1>スキル をリセットした！": "<%sM_skill1> skill reset!"
   },
   "28460": {
     "もどったスキルポイント": "Returned Skill Points"
@@ -5925,7 +5925,7 @@
     "<speed=0>相手が見つからなかったため\nフレンド登録が　できませんでした。": "<speed=0>Friend registration was not possible because\nno partner was found."
   },
   "28540": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）の\nフレンド申請受信数が　上限に達しています。\n時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) has reached the max\nnumber of friend requests.\nGive it some time and try again."
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）の\nフレンド申請受信数が　上限に達しています。\n時間を置いて　もう一度お試しください。": "<speed=0><%sL_PC_NICK> (<%sUNIQUE_ID>) has reached\nthe maximum number of friend requests.\nWait for a while and try again later."
   },
   "28541": {
     "<speed=0>同時に　誘える人数の　上限に達しています。\n相手の返答を待つか　『さそいを取り消す』から\n送信済みの　さそいを　取り消してください。 ": "<speed=0>You have reached the limit on the number of\npeople you can invite at the same time.\n<br>\nWait for a response or cancel the invitation\nyou have already sent using the \"Cancel\nInvitation\" link."
@@ -6024,7 +6024,7 @@
     "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）さんを\nフレンドリストに登録出来ませんでした。\n時間を置いて　もう一度お試しください。": "<speed=0>Could not add <%sL_PC_NICK> (<%sUNIQUE_ID>)\nto your friends list.\nGive it some time and try again."
   },
   "28848": {
-    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）に対して\nフレンド申請中です。<br>\nブラックリストに加えると\nフレンド申請が　取り消されますが\nよろしいですか？<yesno><close>": "<speed=0>Your friend request to <%sL_PC_NICK> (<%sUNIQUE_ID>)\nis still pending.\n<br>\nIf you add them to your blacklist, your friend\nrequest will be cancelled. Proceed?<yesno><close>"
+    "<speed=0><%sL_PC_NICK>（<%sUNIQUE_ID>）に対して\nフレンド申請中です。<br>\nブラックリストに加えると\nフレンド申請が　取り消されますが\nよろしいですか？<yesno><close>": "<speed=0>Your friend request to <%sL_PC_NICK> (<%sUNIQUE_ID>)\nis still pending.\n<br>\nIf you add them to your blacklist, your friend\nrequest will be cancelled. Continue?<yesno><close>"
   },
   "28853": {
     "使い込み度": "Usage Rate"
@@ -17853,7 +17853,7 @@
     "自分以外<%nM_ninzuu>人": "<%dM_ninzuu> Other(s)"
   },
   "53969": {
-    "鎌": "Scythe"
+    "鎌": "Scythes"
   },
   "53970": {
     "ハツラツの効果": "Energetic Effect"
@@ -19377,7 +19377,7 @@
     "・<%sM_skill6><%sM_06>": "・<%sM_skill6><%sM_06>"
   },
   "56050": {
-    "<%sM_skill6><%sM_06>": "<%sM_skill6><%sM_06>"
+    "<%sM_skill6><%sM_06>": "<%sM_skill6>"
   },
   "56101": {
     "主な報酬": "Rewards"
