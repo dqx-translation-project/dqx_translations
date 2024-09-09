@@ -2922,7 +2922,7 @@
     "魔結晶は 刺激を受けて 爆発した！": "The crystals exploded from stimulus!"
   },
   "23648": {
-    "<%sB_TARGET>は 死霊兵ガテリアンに 狙われやすくなった！": "Spirit Soldier Gaterian is more likely to target <%sB_TARGET>!"
+    "<%sB_TARGET>は 死霊兵ガテリアンに 狙われやすくなった！": "Spirit Soldier Gaterian will now target\n<%sB_TARGET> more often!"
   },
   "23686": {
     "<%sB_ACTOR>は 神速の空間を作り出した！": "<%sB_ACTOR> created a Godspeed Space!"
@@ -3417,7 +3417,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの 自爆！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's destruct!"
   },
   "29217": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージを うけた！\n<%sB_TARGET>は 死霊兵ガテリアンに 狙われやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes <%dB_VALUE> damage!\nSpirit Soldier Gaterian more likely to target <%sB_TARGET>!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE>のダメージを うけた！\n<%sB_TARGET>は 死霊兵ガテリアンに 狙われやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes <%dB_VALUE> damage!\nSpirit Soldier Gaterian will now target <%sB_TARGET>\nmore often!"
   },
   "29295": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 神速の空間を作り出した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e created a Godspeed Space!"
@@ -3762,7 +3762,7 @@
     "しかし なかまは あらわれなかった。": "But no one showed up."
   },
   "32506": {
-    "<%sB_ACTOR>「あくま神官て たくましいんかん？": ""
+    "<%sB_ACTOR>「あくま神官て たくましいんかん？": "<%sB_ACTOR> \"Wrecktors are a force to be\nwreckoned with.\""
   },
   "32537": {
     "<%sB_ACTOR>「アームライオンの人生 つらいおん！": "<%sB_ACTOR> \"Hellion or Helltruthin'?\""
@@ -3774,13 +3774,13 @@
     "<%sB_ACTOR>「いつ来ても 火事のカジノ！": ""
   },
   "32624": {
-    "<%sB_ACTOR>「レーンの村人は 信じらレーン！": ""
+    "<%sB_ACTOR>「レーンの村人は 信じらレーン！": "<%sB_ACTOR> \"Don't Rane on my parade!\""
   },
   "32653": {
     "<%sB_ACTOR>「オルフェアで開催中の タオルフェア！": ""
   },
   "32687": {
-    "<%sB_ACTOR>「メギストリスで毎日並ぶのはメガストレス！": "<%sB_ACTOR> \"Going to Megistris gives me megi-stress!\""
+    "<%sB_ACTOR>「メギストリスで毎日並ぶのはメガストレス！": "<%sB_ACTOR> \"Going to Megistris gives me\nmegi-stress!\""
   },
   "32725": {
     "<%sB_ACTOR>「レンドアの 開けられんドア！": "<%sB_ACTOR> \"Lendor doesn't lend doors!\""
@@ -3810,7 +3810,7 @@
     "<%sB_ACTOR>「アグラニで食べた フォアグラにあたった！": ""
   },
   "32998": {
-    "<%sB_ACTOR>「ナルビアの町になるビワ！": ""
+    "<%sB_ACTOR>「ナルビアの町になるビワ！": "<%sB_ACTOR> \"Nalbia is the place to be-a!\""
   },
   "33024": {
     "<%sB_ACTOR>「王都カミハルムイで 会オウトする！": ""
@@ -4110,7 +4110,7 @@
     "そんなステテコパンツ もうステテコい！": "You found boxer shorts? Under where?"
   },
   "35485": {
-    "あくま神官て たくましいんかん？": ""
+    "あくま神官て たくましいんかん？": "Wrecktors are a force to be wreckoned with."
   },
   "35509": {
     "アームライオンの人生 つらいおん！": "Hellion or Helltruthin'?"
@@ -4122,7 +4122,7 @@
     "いつ来ても 火事のカジノ！": ""
   },
   "35575": {
-    "レーンの村人は 信じらレーン！": ""
+    "レーンの村人は 信じらレーン！": "Don't Rane on my parade!"
   },
   "35597": {
     "オルフェアで開催中の タオルフェア！": ""
@@ -4158,7 +4158,7 @@
     "アグラニで食べた フォアグラにあたった！": ""
   },
   "35865": {
-    "ナルビアの町になるビワ！": ""
+    "ナルビアの町になるビワ！": "Nalbia is the place to be-a!"
   },
   "35884": {
     "王都カミハルムイで 会オウトする！": ""
@@ -16335,7 +16335,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 光のチカラを 身にまとった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the power of light!"
   },
   "97295": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 悪い効果に かかりやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now more likely to receive ailments!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 悪い効果に かかりやすくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now more susceptible to ailments!"
   },
   "97337": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 地形ダメージを 受けなくなった！": ""
