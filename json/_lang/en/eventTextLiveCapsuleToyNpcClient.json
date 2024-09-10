@@ -54,7 +54,7 @@
     "「お前さんや。\n　ちょろまかそうとしちゃあ　いかんよ。\n　きちんと　ちいさなメダルを持っておいで。\n<bw_break>": "Hey, what are you trying to pull here?\nYou'll need Mini Medals for that.\n<bw_break>"
   },
   "244510": {
-    "「ニャンコインを　何個　ほしいのじゃ？\n　ダブリィポイント　<%nM_COIN_DOUBLY>ポイントで\n　ニャンコイン　１個と　交換するぞい。\n<break>": "How many Nyancoins do you want? You can\nexchange <%nM_COIN_DOUBLY> points for 1\nNyancoin...<break>"
+    "「ニャンコインを　何個　ほしいのじゃ？\n　ダブリィポイント　<%nM_COIN_DOUBLY>ポイントで\n　ニャンコイン　１個と　交換するぞい。\n<break>": "How many Cat Coins would you like?\nYou can exchange <%dM_COIN_DOUBLY> Doubly Points\nfor 1 Cat Coin.\n<break>"
   },
   "244511": {
     "「ニャンコイン　<%nM_NUM>個　じゃな？\n　ダブリィポイント　<%nM_COST>ポイントと\n　交換になるが　それでも　よいかのう？\n<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>": "Nyancoins <%nM_NUM>, right? It'll be\nexchanged for <%nM_COST> Doubly Points, if\nthat's okay with you.<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>"
@@ -78,19 +78,19 @@
     "「他にも　何か　聞きたいことは　あるかの？\n<break>": "Is there anything else you'd like to ask me?<break>"
   },
   "244519": {
-    "「<%sM_CAPSULE_NAME>を　<%nM_NUM>個じゃな？\n　ダブリィポイント　<%nM_GAIN_POINT>ポイントになるが\n　それで　よいかの？\n<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>": "<%sM_CAPSULE_NAME> for <%nM_NUM>, right?\nThat's <%nM_GAIN_POINT> points of duplicity,\nis that okay?<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>"
+    "「<%sM_CAPSULE_NAME>を　<%nM_NUM>個じゃな？\n　ダブリィポイント　<%nM_GAIN_POINT>ポイントになるが\n　それで　よいかの？\n<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>": "<%dM_NUM> <%sM_CAPSULE_NAME>, yes?\nThat will get you <%dM_GAIN_POINT> Doubly Points.\nWhat do you think?<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>"
   },
   "244520": {
     "「まだ　開けたことがない　カプセルのようじゃが\n　本当に　引き取ってしまって　よいかの？\n<yesno2>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>": "It looks like a capsule that hasn't been\nopened yet. Are you sure you want to take it?<yesno2>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>"
   },
   "244521": {
-    "<pc>は\n<%sM_CAPSULE_NAME>を　<%dM_NUM>個渡して\nダブリィポイントを　<%dM_GAIN_POINT>ポイント　もらった。\n<end>": "<pc> passes <%dM_NUM> of <%sM_CAPSULE_NAME> and\n<%dM_GAIN_POINT> points for the dummy\npoints...<end>"
+    "<pc>は\n<%sM_CAPSULE_NAME>を　<%dM_NUM>個渡して\nダブリィポイントを　<%dM_GAIN_POINT>ポイント　もらった。\n<end>": "<pc> hands over <%dM_NUM> <%sM_CAPSULE_NAME>s\nand receives <%dM_GAIN_POINT> Doubly Points.\n<end>"
   },
   "244522": {
-    "「なんと！　<%sM_CAPSULE_NAME>ではないか。\n　これなら　<%nM_NUM>個で　ダブリィポイント\n　<%nM_GAIN_POINT>ポイントになるが　それで　よいかの？\n<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>": "Oh my god! <%sM_CAPSULE_NAME>... That would\nbe <%nM_NUM> double points <%nM_GAIN_POINT>\npoints, is that okay?<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>"
+    "「なんと！　<%sM_CAPSULE_NAME>ではないか。\n　これなら　<%nM_NUM>個で　ダブリィポイント\n　<%nM_GAIN_POINT>ポイントになるが　それで　よいかの？\n<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>": "What?! That's a <%sM_CAPSULE_NAME>, I see!\nBy giving me <%nM_NUM> of them, you'll get\n<%dM_GAIN_POINT> Doubly Points. How about it?\n<yesno>\n<case 1><close>\n<case 2><break>\n<case_cancel><break>\n<case_end>"
   },
   "244523": {
-    "「ふむ。回収してほしいのは\n　どのカプセルなのじゃ？\n　引きかえに　ダブリィポイントをやるぞい。\n<break>": "Hmm. Which capsule would you like me to\nretrieve? In exchange, I'll give you a few\nDoubly Points and...<break>"
+    "「ふむ。回収してほしいのは\n　どのカプセルなのじゃ？\n　引きかえに　ダブリィポイントをやるぞい。\n<break>": "Mhm. Which toy will you give me?\nI'll give you some Doubly Points in exchange.\n<break>"
   },
   "244524": {
     "「さあさあ　何を　お望みかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n<break>": "So, then, what can I do for you? I can tell\nyou anything you want to know about\nthis Catshapon machine.\n<break>"
@@ -117,7 +117,7 @@
     "「ちいさなメダルが　足りんようじゃな。\n　お得なセットは　ちいさなメダル　<%nM_COIN_SALE_OUT>枚から\n　交換可能なんじゃ。すまんのう。\n<bw_break>": "You're missing a little medal... We're\noffering a special set of medals that can be\nexchanged for <%nM_COIN_SALE_OUT>... I'm\n<br>\nsorry...<bw_break>"
   },
   "247519": {
-    "「さあさあ　何を　お望みかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n　今なら　お得なセールを　やっとるぞ。\n<break>": "So, then, what can I do for you? I can tell\nyou anything about this machine. We're\nalso have a special sale right now.\n<break>"
+    "「さあさあ　何を　お望みかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n　今なら　お得なセールを　やっとるぞ。\n<break>": "So, then, what can I do for you? I can tell\nyou anything about this machine. We're\nalso having a special sale right now.\n<break>"
   },
   "247520": {
     "「他に　したいことは　あるかの？\n　ガニャポンのことなら　なんでもござれじゃ。\n　今なら　お得なセールを　やっとるぞ。\n<break>": "Anything else you need? So long as it\nhas to do with Catshapon, of course.\nThere's also a sale ongoing right now.\n<break>"
