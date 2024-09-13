@@ -51,7 +51,7 @@
     "<se_nots System 7>\n<%sCAS_action>のとくぎを　おぼえた！": "<se_nots System 7>\nLearned <%sCAS_action>!"
   },
   "99867": {
-    "<%sCAS_gambler>は\nレベル<%nCAS_now_level>に　あがった！": "<%sCAS_gambler> reaches level <%dCAS_now_level>!"
+    "<%sCAS_gambler>は\nレベル<%nCAS_now_level>に　あがった！": "<%sCAS_gambler> reaches Lv. <%dCAS_now_level>!"
   },
   "99869": {
     "<se_nots System 7>\n<pc>たちは　すごろくで\n<%sCAS_item>を　<%nCAS_NUM>こ　手に入れた！": "<se_nots System 7>\nThe party receives\n<%dCAS_NUM> <%sCAS_item>!"
@@ -63,7 +63,7 @@
     "ＭＰが　足りない！": "Not enough MP!"
   },
   "100305": {
-    "<%sCAS_gambler>は\n<%sCAS_item>を　ぬすんでいた！": "<%sCAS_gambler> stole <%sCAS_item>!"
+    "<%sCAS_gambler>は\n<%sCAS_item>を　ぬすんでいた！": "<%sCAS_gambler> steals <%sCAS_item>!"
   },
   "101018": {
     "<convenience>を押して\nサイコロを　振ってください。": "Press <convenience> to roll the die."
@@ -72,7 +72,7 @@
     "死んでいるため\nレベルが　あがらなかった。": "Your level didn't increase because you\nare dead."
   },
   "102446": {
-    "<%sCAS_gambler>は\nレベル<%nCAS_before_level>から　レベル<%nCAS_now_level>にあがった！": "<%sCAS_gambler> jumped from level <%dCAS_before_level>\nto level <%dCAS_now_level>!"
+    "<%sCAS_gambler>は\nレベル<%nCAS_before_level>から　レベル<%nCAS_now_level>にあがった！": "<%sCAS_gambler> jumps from Lv. <%dCAS_before_level>\nto Lv. <%dCAS_now_level>!"
   },
   "102696": {
     "なにも　かくとくできなかった。": "You couldn't receive anything."
@@ -114,7 +114,7 @@
     "<color_yellow>\nどうぐかばんや　そうびぶくろが　いっぱいで\n持ちきれなかった　アイテムがあります。\nすごろく景品係ミミの所へ　受け取りに行こう！\n<color_white>": "<color_yellow>\nThere were items you couldn't receive due\nto your item and equipment bags being full.\nGo see Prize Clerk Mimi to receive them!\n<color_white>"
   },
   "117333": {
-    "天使たちが\n<%sCAS_target>を　いきかえした！": "Angels have revived <%sCAS_target>!"
+    "天使たちが\n<%sCAS_target>を　いきかえした！": "Angels return <%sCAS_target> to life!"
   },
   "117334": {
     "<%sCAS_target>は　ねむっている！": "<%sCAS_target> is asleep!"
@@ -135,7 +135,7 @@
     "いまは　<%sCAS_target>の順番です。\nあと<%nCAS_value>人の　順番が進むと\nあなたの順番に　なります。": "Now it is <%sCAS_target>'s turn. When <%dCAS_value>\nmore turns advance, it'll be your turn."
   },
   "118686": {
-    "<%sCAS_gambler>は　転職しなかった。": "<%sCAS_gambler> chose not to change\ntheir vocation."
+    "<%sCAS_gambler>は　転職しなかった。": "<%sCAS_gambler> chooses not to change\ntheir vocation."
   },
   "118687": {
     "ここでは　転職ができるようだ！\n転職をしますか？\n<yesno><close>": "You can change vocations here!\nChange your vocation?\n<yesno><close>"
@@ -189,7 +189,7 @@
     "しかし　効果がなかったようだ。": "But there was no effect."
   },
   "166340": {
-    "しかし　<%sCAS_gambler>たちは\nダメージを　うけなかった！": "But the party took no damage!"
+    "しかし　<%sCAS_gambler>たちは\nダメージを　うけなかった！": "But the party takes no damage!"
   },
   "166341": {
     "しかし　<%sCAS_gambler>は\nダメージを　うけなかった！": "But <%sCAS_gambler> takes no damage!"
@@ -219,13 +219,13 @@
     "出会いの酒場マスで　仲間を増やして\n『悪夢に囚われし街』マップを\n５回　クリアしました！\n<br>\nその報酬として\n<pc>は　好きな景品を\nひとつ　もらえるようになりました！\n<me 71>": "You used the tavern to recruit companions and\ncleared the \"Trapped Nightmare Town\" map\n5 times!\n<br>\nNow you can choose a prize of your liking!\n<me 71>"
   },
   "174005": {
-    "<se_nots System 7>\n<pc>は　すごろくで\n合計<%nM_coin>枚の\nカジノコインを手に入れた！": "<se_nots System 7>\n<pc> received a total of <%dM_coin>\nCasino Tokens!"
+    "<se_nots System 7>\n<pc>は　すごろくで\n合計<%nM_coin>枚の\nカジノコインを手に入れた！": "<se_nots System 7>\n<pc> receives a total of <%dM_coin>\nCasino Tokens!"
   },
   "181726": {
     "<%sCAS_job>に　転職します。\nよろしいですか？\n<yesno><close>": "Change your vocation to <%sCAS_job>?\n<yesno><close>"
   },
   "181727": {
-    "<%sCAS_doll>を　もらいます。\nよろしいですか？\n<yesno><close>": "Do you want to receive the\n<%sCAS_doll>?\n<yesno><close>"
+    "<%sCAS_doll>を　もらいます。\nよろしいですか？\n<yesno><close>": "Receive the <%sCAS_doll>?\n<yesno><close>"
   },
   "181751": {
     "<%sCAS_job>としての　経験を積み\nレベルアップします。\nよろしいですか？\n<yesno><close>": "Gain EXP as <%sCAS_job> and level up?\n<yesno><close>"
