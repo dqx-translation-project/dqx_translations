@@ -3,7 +3,7 @@
     "「おや　あなたは……\n　地上の英雄　<pc>さん　ですね。\n　僕はオルガノさんの助手の　ソイルと申します。\n<br>\n「女神の木の　研究をしているのですが\n　木の成長に必要な素材が　入手できず\n　行き詰まってしまって…。\n<br>\n「<pc>さんは　とても　お強そうですね…。\n　もし　よかったら　そこにいるオルガノさんの\n　頼みを　聞いていただけないでしょうか。": "Oh, you must be... <pc>, the champion\nfrom the surface world. My name is Soyle, and\nI am an assistant to Mr. Organo.\n<br>\nI'm currently researching the Goddess Trees,\nbut I'm at a loss on how to find the materials\nneeded for them to grow...\n<br>\nYou seem like you're quite strong...\nIf I may ask, could you do me a favor on\nbehalf of Mr. Organo?"
   },
   "286061": {
-    "「こんにちは　<pc>さん！\n　話は　オルガノさんから　うかがっています。\n<br>\n「<pc>さんは　『女神の木』という植物を\n　ご存じでしょうか。\n<br>\n「女神の木とは　育てた者にチカラを与えると\n　されている　謎多き植物です。\n　生育に成功した事例は　ありません。\n<br>\n「その女神の木を　育てるための鍵が\n　『創生珠』だと　言われています。\n<br>\n「そこで　<pc>さん！\n　女神の木を　育てていただけませんか？\n　できる限りの　サポートはさせていただきます！\n<yesno><break>": "Hello, <pc>! Mr. Organo told me all\nabout you.\n<br>\nHave you heard of something called the\n\"Goddess Tree\"?\n<br>\nThe Goddress Tree is a mysterious plant that\nis said give power to those who grow it.\nHowever, no one has been able to do it...\n<br>\nIt's said that the key to nuturing it lies in\nsomething called a \"Geneseed\".\n<br>\nSo then, <pc>! Would you be willing to\nhelp me grow them? I'll do everything in\nmy power to assist you!\n<yesno><break>"
+    "「こんにちは　<pc>さん！\n　話は　オルガノさんから　うかがっています。\n<br>\n「<pc>さんは　『女神の木』という植物を\n　ご存じでしょうか。\n<br>\n「女神の木とは　育てた者にチカラを与えると\n　されている　謎多き植物です。\n　生育に成功した事例は　ありません。\n<br>\n「その女神の木を　育てるための鍵が\n　『創生珠』だと　言われています。\n<br>\n「そこで　<pc>さん！\n　女神の木を　育てていただけませんか？\n　できる限りの　サポートはさせていただきます！\n<yesno><break>": "Hello, <pc>! Mr. Organo told me all\nabout you.\n<br>\nHave you heard of something called a\n\"Goddess Tree\"?\n<br>\nA Goddress Tree is a mysterious plant that\nis said give power to those who grow it.\nHowever, no one has been able to do it...\n<br>\nIt's said that the key to nuturing it lies in\nsomething called a \"Geneseed\".\n<br>\nSo then, <pc>! Would you be willing\nto help me grow them? I'll do everything in\nmy power to assist you!\n<yesno><break>"
   },
   "286062": {
     "「そ　そうですか……。それは残念です。\n　もし　<pc>さんの気が変わったら\n　また　話しかけてくださいね。": "I...I see... that's a shame. Well, if you\nchange your mind, please come talk to me\nagain."
@@ -36,7 +36,7 @@
     "「ああっ　すみません。\n　今は　<%sM_TREE_NAME>を　これ以上\n　育てられないみたいです。\n<end>": "Ah, I'm sorry. It seems that <%sM_TREE_NAME>\ncan't grow any further.\n<end>"
   },
   "286076": {
-    "「<%sM_TREE_NAME>は\n　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に\n　成長している途中のようですね。\n<br>\n「すみませんが　育ち終わるまでは\n　さらに成長させることは　できないんです。\n　もうしばらく　お待ちくださいね！\n<end>": "<%sM_TREE_NAME> is in the process of\ngrowing from Level <%dM_BEFORE_LEVEL> to Level <%dM_AFTER_LEVEL>.\n<br>\nI apologize, but I can't make it grow any\nfurther until this process finishes. Please\nwait a little longer!\n<end>"
+    "「<%sM_TREE_NAME>は\n　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に\n　成長している途中のようですね。\n<br>\n「すみませんが　育ち終わるまでは\n　さらに成長させることは　できないんです。\n　もうしばらく　お待ちくださいね！\n<end>": "<%sM_TREE_NAME> is in the process of\ngrowing from Lv. <%dM_BEFORE_LEVEL> to Lv. <%dM_AFTER_LEVEL>.\n<br>\nI apologize, but I can't make it grow any\nfurther until this process finishes. Please\nwait a little longer!\n<end>"
   },
   "286077": {
     "「では　素材を　お預かりしますね。\n　ここに　こうして…。\n<end>": "Okay, I'll take your materials. Just put these\nhere...\n<end>"
@@ -57,13 +57,13 @@
     "「どの見た目を　変更しますか？\n<end>": "Which appearance do you want to change?\n<end>"
   },
   "286083": {
-    "「<%sM_THEME_NAME>の見た目は　どれにしますか？\n<end>": "Which appearance would you like the <%sM_THEME_NAME>\nto have?\n<end>"
+    "「<%sM_THEME_NAME>の見た目は　どれにしますか？\n<end>": "Which appearance would you like\nthe <%sM_THEME_NAME> to have?\n<end>"
   },
   "286084": {
-    "「『<%sM_PARTS_NAME>』を　取りつけますか？\n<yesno><close>": "Do you want to use \"<%sM_PARTS_NAME>\"?<yesno><close>"
+    "「『<%sM_PARTS_NAME>』を　取りつけますか？\n<yesno><close>": "Do you want to use <%sM_PARTS_NAME>?<yesno><close>"
   },
   "286085": {
-    "「ふう……。\n　『<%sM_PARTS_NAME>』を　取りつけました！\n　この<%sM_THEME_NAME>　とっても素敵ですね。\n<me 71><bw_break>": "Phew... I've changed it to \"<%sM_PARTS_NAME>\"!\nThis <%sM_THEME_NAME> is quite nice.\n<me 71><bw_break>"
+    "「ふう……。\n　『<%sM_PARTS_NAME>』を　取りつけました！\n　この<%sM_THEME_NAME>　とっても素敵ですね。\n<me 71><bw_break>": "Phew... I've changed it to <%sM_PARTS_NAME>!\nThis <%sM_THEME_NAME> is quite nice, don't\nyou agree?\n<me 71><bw_break>"
   },
   "286086": {
     "「何について　聞きたいですか？\n<select_se_off>\n女神の木とは\n成長に必要な素材\n庭ランクとは\n庭の生き物\n<select_end>\n<break>": "What would you like me to explain?\n<select_se_off>\nThe Goddess Trees\nGrowth Materials\nGarden Rank\nGarden Creatures\n<select_end>\n<break>"
@@ -81,19 +81,19 @@
     "「……あれっ？\n　どうやら　<%sM_TREE_NAME>に\n　何か変化が　あるみたいです。\n<end>": "...Huh? It looks like the <%sM_TREE_NAME>\nhas changed somehow.\n<end>"
   },
   "286091": {
-    "<%sM_TREE_NAME>が\nレベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に　成長して\n<%sM_KOUKA_NAME>が　<%nM_KOUKA_NUM>　上がった！": "<%sM_TREE_NAME> has grown from Level <%dM_BEFORE_LEVEL> to\nLevel <%dM_AFTER_LEVEL> and your <%sM_KOUKA_NAME> has increased\nby <%dM_KOUKA_NUM>!"
+    "<%sM_TREE_NAME>が\nレベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に　成長して\n<%sM_KOUKA_NAME>が　<%nM_KOUKA_NUM>　上がった！": "The <%sM_TREE_NAME> has grown from Lv. <%dM_BEFORE_LEVEL>\nto Lv. <%dM_AFTER_LEVEL> and your <%sM_KOUKA_NAME>\nincreases by <%dM_KOUKA_NUM>!"
   },
   "286092": {
-    "「女神の木が　成長して　<pc>さんも\n　さらに　強くなったみたいですね！\n　この調子で……って　あれ？\n<br>\n「どうやら　庭にも\n　何か変化が　あるみたいです！\n<end>": "The Goddess Tree has grown and it seems like\nyou've gotten stronger, <pc>!\n...Huh?\n<br>\nLooks like the garden has changed!\n<end>"
+    "「女神の木が　成長して　<pc>さんも\n　さらに　強くなったみたいですね！\n　この調子で……って　あれ？\n<br>\n「どうやら　庭にも\n　何か変化が　あるみたいです！\n<end>": "A Goddess Tree has grown and it seems like\nyou've gotten stronger, <pc>!\n...Huh?\n<br>\nLooks like the garden has changed!\n<end>"
   },
   "286093": {
-    "<pipipi_off>\n庭ランクが　<%nM_BEFORE_RANK>から　<%nM_AFTER_RANK>に　上がった！\n<me_71>\n<br>\n女神の木の　レベル上限が\nレベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に　上がった！\n<end>": "<pipipi_off>Garden Rank increased from Rank <%dM_BEFORE_RANK>\nto Rank <%dM_AFTER_RANK>!\n<me_71>\n<br>\nThe Goddess Tree's level limit has been\nincreased from Level <%dM_BEFORE_LEVEL> to Level <%dM_AFTER_LEVEL>!<end>"
+    "<pipipi_off>\n庭ランクが　<%nM_BEFORE_RANK>から　<%nM_AFTER_RANK>に　上がった！\n<me_71>\n<br>\n女神の木の　レベル上限が\nレベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に　上がった！\n<end>": "<pipipi_off>Garden Rank increases from Rank <%dM_BEFORE_RANK>\nto Rank <%dM_AFTER_RANK>!\n<me_71>\n<br>\nThe Goddess Trees' level limit increases\nfrom Lv. <%dM_BEFORE_LEVEL> to Lv. <%dM_AFTER_LEVEL>!<end>"
   },
   "286094": {
     "「わあっ　どうやら　庭ランクが上がったことで\n　『<%sM_THEME_NAME>』の見た目を\n　変えられるように　なったようです！\n<bw_break>": "Looks like the <%sM_THEME_NAME> appearance can\nnow be changed thanks to the Garden Rank\nincreasing!\n<bw_break>"
   },
   "286095": {
-    "「女神の木が　成長して　<pc>さんも\n　さらに　強くなったみたいですね！\n　この調子で……って　あれ？\n<br>\n「すべての女神の木が　立派に育ったようですね！\n　さすが 　<pc>さん！　すごいです。\n<bw_break>": "The Goddess Tree has grown and it seems like\nyou've gotten stronger, <pc>!\nAt this rate... Huh?\n<br>\nIt seems all of the trees have grown\nsplendidly! Way to go, <pc>!\nYou're amazing!\n<bw_break>"
+    "「女神の木が　成長して　<pc>さんも\n　さらに　強くなったみたいですね！\n　この調子で……って　あれ？\n<br>\n「すべての女神の木が　立派に育ったようですね！\n　さすが 　<pc>さん！　すごいです。\n<bw_break>": "A Goddess Tree has grown and it seems like\nyou've gotten stronger, <pc>!\nAt this rate... Huh?\n<br>\nIt seems all of the trees have grown\nsplendidly! Way to go, <pc>!\nYou're amazing!\n<bw_break>"
   },
   "286096": {
     "「女神の木が　成長して　<pc>さんも\n　さらに　強くなったみたいですね！\n　この調子で　がんばってください！\n<bw_break>": "The Goddess Tree has grown and it seems like\nyou've gotten stronger, <pc>!\nPlease keep up the good work!\n<bw_break>"
@@ -105,7 +105,7 @@
     "「でも　僕の見立てでは　女神の木は　まだまだ\n　成長する可能性を　秘めているはず……。\n<br>\n「女神の木が　次の段階に\n　成長するときが　来るまで\n　気長に　待っていてくださいね！\n<bw_break>": "The way I see it, the Goddess Trees still have\na lot of potential for growth...\n<br>\nPlease be patient until the Goddess Trees\nreach their next stages of growth!\n<bw_break>"
   },
   "287476": {
-    "「<%sM_TREE_NAME>を\n　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に成長させます。\n<br>\n「成長までに　今から\n　<%nL_HOUR><%sL_HOUR_UNIT><%nL_MIN><%sL_MIN_UNIT>　かかるみたいです。\n　よろしいですか？\n<yesno><close>": "You want to grow the <%sM_TREE_NAME> from\nLevel <%dM_BEFORE_LEVEL> to Level <%dM_AFTER_LEVEL>?\n<br>\nSeems like it will take about <%dL_HOUR> <%sL_HOUR_UNIT> <%dL_MIN> <%sL_MIN_UNIT>\nto grow. Is that all right?\n<yesno><close>"
+    "「<%sM_TREE_NAME>を\n　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に成長させます。\n<br>\n「成長までに　今から\n　<%nL_HOUR><%sL_HOUR_UNIT><%nL_MIN><%sL_MIN_UNIT>　かかるみたいです。\n　よろしいですか？\n<yesno><close>": "You want to grow the <%sM_TREE_NAME> from\nLv. <%dM_BEFORE_LEVEL> to Lv. <%dM_AFTER_LEVEL>?\n<br>\nSeems like it will take about <%dL_HOUR> <%sL_HOUR_UNIT> <%dL_MIN> <%sL_MIN_UNIT>\nto grow. Is that all right?\n<yesno><close>"
   },
   "288314": {
     "「おや　すでに同じものを　取りつけていますよ。\n<end>": "Ah, looks like you're already using this one.\n<end>"
@@ -150,22 +150,22 @@
     "「あとは　順調に育ってくれるのを\n　願うばかりですね！\n　他に　どの精霊を　育てますか？\n<end>": "Now we just have to hope it grows well!\nAny other spirits you'd like to grow?\n<end>"
   },
   "327756": {
-    "「あの　不思議な生き物たちについて\n　新たに　わかったことがあります。\n<br>\n「古くから　『昏冥の精霊』と呼ばれているらしく　\n　女神の木を守る存在である　というのは\n　間違いないみたいです。\n<br>\n「あらためて　調査したところ\n　この庭には　全部で３種類の精霊がいて\n　それぞれ　異なる役割があるようです。\n<br>\n「よく見ると　いろいろな動きをしていて\n　ずっと　見ていられますよね！\n<bw_break>": ""
+    "「あの　不思議な生き物たちについて\n　新たに　わかったことがあります。\n<br>\n「古くから　『昏冥の精霊』と呼ばれているらしく　\n　女神の木を守る存在である　というのは\n　間違いないみたいです。\n<br>\n「あらためて　調査したところ\n　この庭には　全部で３種類の精霊がいて\n　それぞれ　異なる役割があるようです。\n<br>\n「よく見ると　いろいろな動きをしていて\n　ずっと　見ていられますよね！\n<bw_break>": "I've learned something new about those\nmysterious creatures.\n<br>\nThey've been around for a long, long time\nand are called \"Abysspirits\". I have no doubts\nthey are protectors of the Goddess Trees.\n<br>\nAfter some further investigation, I found that\nthere are three types of spirits, each with\na different role.\n<br>\nLooking closely, you can see they do all\nsorts of things. I could just watch them\nforever!\n<bw_break>"
   },
   "327761": {
     "「どちらを　育てますか？\n<end>": "Which do you want to grow?\n<end>"
   },
   "327762": {
-    "「精霊たちが　成長して　<pc>さんも\n　さらに　強くなったみたいですね！\n　この調子で……って　あれ？\n<br>\n「みんな　立派に育ったようですね！\n　さすが 　<pc>さん！\n<bw_break>": ""
+    "「精霊たちが　成長して　<pc>さんも\n　さらに　強くなったみたいですね！\n　この調子で……って　あれ？\n<br>\n「みんな　立派に育ったようですね！\n　さすが 　<pc>さん！\n<bw_break>": "An Abysspirit has grown and it seems like\nyou've gotten stronger, <pc>!\n...Huh?\n<br>\nThey've all grown marvelously!\nI knew I could count on you, <pc>!\n<end>"
   },
   "327763": {
-    "「精霊たちが　成長して　<pc>さんも\n　さらに　強くなったみたいですね！\n　この調子で　がんばってください！\n<bw_break>": ""
+    "「精霊たちが　成長して　<pc>さんも\n　さらに　強くなったみたいですね！\n　この調子で　がんばってください！\n<bw_break>": "An Abysspirit has grown and it seems like\nyou've gotten stronger too, <pc>!\nKeep up the amazing work!\n<bw_break>"
   },
   "327764": {
-    "「ああっ　なんと……\n　すべての精霊が　最大まで成長しました。\n　もう　これ以上は　育ちませんよ！\n<br>\n「これも　<pc>さんが\n　大切に育ててくれた　おかげですね。\n　本当に　ありがとうございます。\n<br>\n「もし　精霊たちの様子を見たくなったら\n　いつでも　会いにきてくださいね！\n<bw_break>": ""
+    "「ああっ　なんと……\n　すべての精霊が　最大まで成長しました。\n　もう　これ以上は　育ちませんよ！\n<br>\n「これも　<pc>さんが\n　大切に育ててくれた　おかげですね。\n　本当に　ありがとうございます。\n<br>\n「もし　精霊たちの様子を見たくなったら\n　いつでも　会いにきてくださいね！\n<bw_break>": "Oh, my...! All of the spirits have grown to\ntheir maximum potential. They can't grow\nany more!\n<br>\nAnd it's all because of your efforts. You've\nraised each one with so much care! Thank\nyou so very much!\n<br>\nIf you ever want to see how the spirits are\ndoing, you're always welcome to come\nand see me!\n<bw_break>"
   },
   "327765": {
-    "「僕の見立てでは　この精霊たちは\n　まだ成長する可能性を　秘めていそうです。\n<br>\n「次の段階に成長するときが　来るまで\n　気長に　待っていてくださいね！\n<bw_break>": ""
+    "「僕の見立てでは　この精霊たちは\n　まだ成長する可能性を　秘めていそうです。\n<br>\n「次の段階に成長するときが　来るまで\n　気長に　待っていてくださいね！\n<bw_break>": "To be honest, I think these spirits still have\nthe potential to grow higher than they're\nable to now.\n<br>\nPlease be patient and wait until they're\nable to start growing again!\n<bw_break>"
   },
   "327767": {
     "「何について　聞きたいですか？\n<select_se_off>\n女神の木とは\n成長に必要な素材\n庭ランクとは\n庭の生き物\n昏冥の精霊について\n<select_end>\n<break>": "What can I explain for you?\n<select_se_off>\nAbout Goddess Trees\nGrowth Materials\nAbout Garden Rank\nAbout Abysspirits\n<select_end>\n<break>"
