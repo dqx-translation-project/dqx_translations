@@ -756,13 +756,13 @@
     "自分に\n<%sCAS_action>": "<%sCAS_action>\non self."
   },
   "6563": {
-    "<%sCAS_monster>に\n<%sCAS_action>！": "<%sCAS_action> on\n<%sCAS_monster>!"
+    "<%sCAS_monster>に\n<%sCAS_action>！": "<%sCAS_action> to\n<%sCAS_monster>!"
   },
   "6582": {
     "あっそ～れ♪\nハッスルハッスル～！": "Come on, everybody!\nHustle, hustle!"
   },
   "6607": {
-    "なかまたちを\n<%sCAS_action>！": "<%sCAS_action> on\nthe party!"
+    "なかまたちを\n<%sCAS_action>！": "<%sCAS_action> to\nthe party!"
   },
   "6626": {
     "<%sCAS_action>": "<%sCAS_action>"
@@ -780,7 +780,7 @@
     "フワフワしている": "Fluffing around..."
   },
   "6696": {
-    "<%sCAS_target>に\n<%sCAS_action>！": "<%sCAS_action> on\n<%sCAS_target>!"
+    "<%sCAS_target>に\n<%sCAS_action>！": "<%sCAS_action> to\n<%sCAS_target>!"
   },
   "6714": {
     "グラグラしている": "Wobbling around..."
@@ -795,7 +795,7 @@
     "ぶきみに\nほほえんでいる": "Grinning\nmaliciously..."
   },
   "6768": {
-    "<%sCAS_monster>に\n<%sCAS_action>": "<%sCAS_action> on\n<%sCAS_monster>"
+    "<%sCAS_monster>に\n<%sCAS_action>": "<%sCAS_action> to\n<%sCAS_monster>."
   },
   "6785": {
     "ちからをためた！": "Psyching up!"
@@ -900,13 +900,13 @@
     "アンルシアの　<%sCAS_action>！": "Anlucia's <%sCAS_action>!"
   },
   "7682": {
-    "エステラの　<%sCAS_action>！": "Estella's <%sCAS_action>!"
+    "エステラの　<%sCAS_action>！": "Estella uses <%sCAS_action>!"
   },
   "7700": {
-    "ヒューザの　<%sCAS_action>！": "Hyuza's <%sCAS_action>!"
+    "ヒューザの　<%sCAS_action>！": "Hyuza uses <%sCAS_action>!"
   },
   "7718": {
-    "ザンクローネの　<%sCAS_action>！": "Zankrone's <%sCAS_action>!"
+    "ザンクローネの　<%sCAS_action>！": "Zankrone uses <%sCAS_action>!"
   },
   "7739": {
     "セラフィは\n<%sCAS_action>を　となえた！": "Seraphi casts <%sCAS_action>!"
@@ -942,16 +942,16 @@
     "セラフィの　かいしんの　<%sCAS_action>！": "Seraphi's critical <%sCAS_action>!"
   },
   "8072": {
-    "<%sCAS_target>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_target> recovered <%dCAS_value> HP!"
+    "<%sCAS_target>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_target> recovers <%dCAS_value> HP!"
   },
   "8101": {
-    "<%sCAS_gambler>は\nなかまたちを　かばった！\n<br>\n<%sCAS_gambler>は\nなかまたちの　代わりに\nダメージを　受けるようになった！": "<%sCAS_gambler> is protecting the party!\n<br>\n<%sCAS_gambler> will take damage in place of the\nparty!"
+    "<%sCAS_gambler>は\nなかまたちを　かばった！\n<br>\n<%sCAS_gambler>は\nなかまたちの　代わりに\nダメージを　受けるようになった！": "<%sCAS_gambler> protects the party!\n<br>\n<%sCAS_gambler> will take damage in place of the\nparty!"
   },
   "8183": {
-    "<%sCAS_gambler>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_gambler> recovered <%dCAS_value> HP!"
+    "<%sCAS_gambler>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_gambler> recovers <%dCAS_value> HP!"
   },
   "8213": {
-    "<%sCAS_gambler>が\n<%sCAS_monster>から　何かをぬすんだ！": "<%sCAS_gambler> stole something from\n<%sCAS_monster>!"
+    "<%sCAS_gambler>が\n<%sCAS_monster>から　何かをぬすんだ！": "<%sCAS_gambler> steals something from\n<%sCAS_monster>!"
   },
   "8247": {
     "<%sCAS_gambler>の　こうげき力が上がった！": "<%sCAS_gambler>'s attack increases!"
@@ -990,7 +990,7 @@
     "<%sCAS_target>の　しゅび力がさがった！": "<%sCAS_target>'s defense decreased!"
   },
   "8591": {
-    "<%sCAS_target>のＭＰを　<%nCAS_value>うばった！": "<%sCAS_target> stole <%dCAS_value> MP!"
+    "<%sCAS_target>のＭＰを　<%nCAS_value>うばった！": "<%sCAS_target> steals <%dCAS_value> MP!"
   },
   "8620": {
     "<%sCAS_gambler>に　かかっている\nとくしゅ効果が　かきけされた！": "<%sCAS_gambler>'s positive effects have\nbeen removed!"
@@ -1056,10 +1056,10 @@
     "<%sCAS_target>たちには　きかなかった！": "<%sCAS_target> and co. weren't affected!"
   },
   "9315": {
-    "<%sCAS_target>のＨＰは　まんたんです。": "<%sCAS_target>'s HP recovered."
+    "<%sCAS_target>のＨＰは　まんたんです。": "<%sCAS_target>'s HP recovers."
   },
   "9341": {
-    "なかま全員のＨＰは　まんたんです。": "The party's HP completely recovered."
+    "なかま全員のＨＰは　まんたんです。": "The party's HP completely recovers."
   },
   "9367": {
     "<%sCAS_gambler>が\n既に　かばっている！": "<%sCAS_gambler> is already Covering!"
@@ -1074,7 +1074,7 @@
     "<%sCAS_target>には　効果が無いようだ。": "Didn't seem to affect <%sCAS_target>."
   },
   "9483": {
-    "<%sCAS_target>のＭＰは　まんたんです。": "<%sCAS_target>'s MP was recovered."
+    "<%sCAS_target>のＭＰは　まんたんです。": "<%sCAS_target> recovers MP."
   },
   "9509": {
     "移動時　サイコロが１こ増える！": "Received an extra dice to roll!"
@@ -1119,7 +1119,7 @@
     "移動時に\nサイコロの数＋１": "Roll an extra dice\non your turn."
   },
   "9822": {
-    "なかまたちを\nかばう！": "Protect your\nparty!"
+    "なかまたちを\nかばう！": "Protecting the\nparty!"
   },
   "9838": {
     "こうげき力が上がった！": "Attack increased!"
