@@ -5208,10 +5208,10 @@
     "グレンドラゴニア": "Glendragonia"
   },
   "51609": {
-    "<speed=0><%nM_timer>秒後に　自陣で復活します。<break>": "<speed=0>You'll revive at your camp in <%dM_timer> seconds.<break>"
+    "<speed=0><%nM_timer>秒後に　自陣で復活します。<break>": "<speed=0>You'll revive at your base in <%dM_timer> seconds.<break>"
   },
   "51610": {
-    "自陣": "Camp"
+    "自陣": "Base"
   },
   "51612": {
     "<speed=0>ここからは復活出来ません！": "<speed=0>Can't revive from here!"
@@ -5232,7 +5232,7 @@
     "クラブ貢献ランキング": "Club Contributing Ranking"
   },
   "51701": {
-    "<speed=0>このさそいを受けるには\n受注中の緊急依頼書を　達成するか\nキャンセルする必要が　あります。": "<speed=0>In order to accept this request, you must first\ncancel the request you currently have accepted."
+    "<speed=0>このさそいを受けるには\n受注中の緊急依頼書を　達成するか\nキャンセルする必要が　あります。": "<speed=0>In order to accept this request, you must\nfirst cancel the request you currently have\naccepted."
   },
   "51704": {
     "<speed=0>このさそいを受けるには\n「<3rd_title>」の　ストーリーを\nクリアしている必要が　あります。": "<speed=0>To accept this invitation, you must have\nfirst cleared the \"<3rd_title>\"\nstory."
@@ -5274,7 +5274,7 @@
     "<speed=0>パーティ同盟に行きたい人を\n自動的に探して　この先へ入ります。\nよろしいですか？\n<yesno><close>": "<speed=0>Automatically search for allies to form a\nparty alliance?\n<yesno><close>"
   },
   "51758": {
-    "<speed=0>パーティ同盟を組まずに　この先に進むと\nとても厳しい戦いに　なりますが\n本当に　進んでも　よろしいですか？\n<yesno><close>": "<speed=0>If you proceed without forming a\nparty alliance, it will be a very tough\nbattle, but are you sure you want to proceed?\n<yesno><close>"
+    "<speed=0>パーティ同盟を組まずに　この先に進むと\nとても厳しい戦いに　なりますが\n本当に　進んでも　よろしいですか？\n<yesno><close>": "<speed=0>If you proceed without forming a\nparty alliance, the battle will be quite\ndifficult. Are you sure?\n<yesno><close>"
   },
   "51759": {
     "<speed=0>パーティの人数が　<%dEV_PARTYNUM>人に満たないため\n<%sEV_TARGETPARTY>を　指定することができません。": "<speed=0>Your party has less than <%dEV_PARTYNUM> members,\nso you cannot choose <%sEV_TARGETPARTY>."
@@ -5319,7 +5319,7 @@
     "敵を倒した": "Defeated Foes"
   },
   "51934": {
-    "援軍玉を使った": "Used Orbs"
+    "援軍玉を使った": "Used Reinforcement Orb"
   },
   "51935": {
     "アシストした": "Assists"

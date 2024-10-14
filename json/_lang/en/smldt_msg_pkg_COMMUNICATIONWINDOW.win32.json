@@ -1905,10 +1905,10 @@
     "(<%sM_text> <%dM_num> P)": "(<%sM_text> <%dM_num> P)"
   },
   "50728": {
-    "<pc>は 真夜中プリズランで 勝利した！": "<pc> won Midnight Jailrun!"
+    "<pc>は 真夜中プリズランで 勝利した！": "<pc> wins Midnight Jailrun!"
   },
   "50729": {
-    "<pc>は 真夜中プリズランで 敗北した。": "<pc> lost Midnight Jailrun..."
+    "<pc>は 真夜中プリズランで 敗北した。": "<pc> loses Midnight Jailrun..."
   },
   "50730": {
     "プリズランポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！": "Exchanged <%dM_POINT> Jailrun Points for\n<%dM_GET_NUM> <%sM_item>!"
@@ -1947,7 +1947,7 @@
     "<pc>は <%sL_CLASS>ランクの報酬を受け取った！": "<pc> received a Rank <%sL_CLASS> reward!"
   },
   "51219": {
-    "<pc>は <%sL_RULE>の<%dL_RANK>位の報酬を受け取った！": "<pc> received the <%sL_RULE>'s <%dL_RANK> Rank reward!"
+    "<pc>は <%sL_RULE>の<%dL_RANK>位の報酬を受け取った！": "<pc> received the <%sL_RULE>'s Rank <%dL_RANK> reward!"
   },
   "51282": {
     "\\s<%sC_PC>\\m<%sC_ID>\\e「<%sM_chat>」": "\\s<%sC_PC>\\m<%sC_ID>\\e \"<%sM_chat>\""
@@ -1986,7 +1986,7 @@
     "カジノコイン <%dM_Coin>枚を獲得した\n<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": "Earned <%dM_Coin> Casino Tokens.\nWent from <%dM_Coin2> to <%dM_Coin3> Casino Tokens."
   },
   "51786": {
-    "条件「<%sM_JOUKEN>」が発生！": "Condition \"<%sM_JOUKEN>\" began!"
+    "条件「<%sM_JOUKEN>」が発生！": "Condition \"<%sM_JOUKEN>\" begins!"
   },
   "51787": {
     "条件達成ボーナス！「<%sM_KYOUKA>」": "Condition Bonus! \"<%sM_KYOUKA>\""
@@ -2016,7 +2016,7 @@
     "<pc>は　レベル<%dL_LEVEL_NOW>に　あがった！": "<pc> reaches level <%dL_LEVEL_NOW>!\nTheir attributes improve!"
   },
   "52233": {
-    "<pc>は　<%sL_JOB_NAME>で試合を　始めた！": "<pc> started the match as <%sL_JOB_NAME>!"
+    "<pc>は　<%sL_JOB_NAME>で試合を　始めた！": "<pc> starts the match as <%sL_JOB_NAME>!"
   },
   "52234": {
     "撃破玉のスタックが　<%dM_STACK>になった！": "Attack Orbs now stacked to <%dM_STACK>!"
@@ -2031,7 +2031,7 @@
     "ボーナスジュエルから <%sM_item>が出てきた！": "Received <%sM_item> from the Bonus Jewel!"
   },
   "52240": {
-    "<%sL_MY_CLUB>で　<%sL_MY_RESULT>位　だった！": "Got <%sL_MY_RESULT> place in <%sL_MY_CLUB>!"
+    "<%sL_MY_CLUB>で　<%sL_MY_RESULT>位　だった！": "<%sL_MY_CLUB> places at #<%sL_MY_RESULT>!"
   },
   "52241": {
     "<%sL_GET_RECORD>を　達成した！": "Achieved <%sL_GET_RECORD>!"
@@ -2040,13 +2040,13 @@
     "<%sL_GET_MEDAL>を　獲得した！": "Earned <%sL_GET_MEDAL>!"
   },
   "52243": {
-    "<%sL_MY_CLUB>の勝ち点を 1点手に入れた！": "Earned 1 Point for <%sL_MY_CLUB>!"
+    "<%sL_MY_CLUB>の勝ち点を 1点手に入れた！": "<%sL_MY_CLUB> earns 1 Win Point!"
   },
   "52244": {
     "ジュエルポイントを　<%dM_JEWEL_POINT>手に入れた！": "You received <%dM_JEWEL_POINT> Jewel Points!"
   },
   "52245": {
-    "<pc>は　<%sL_CLUB_1>に入った！": "<pc> joined <%sL_CLUB_1>!"
+    "<pc>は　<%sL_CLUB_1>に入った！": "<pc> joins <%sL_CLUB_1>!"
   },
   "52246": {
     "<pc>は　対抗戦の参加費として　<%dL_GOLD> G支払った！": "<pc> paid a <%dL_GOLD> G participation fee for the\ncompetition!"
@@ -2076,10 +2076,10 @@
     "<%sM_slime_name_1>の　ジャンプ！": "<%sM_slime_name_1> uses Jump!"
   },
   "52270": {
-    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『マホカンタ』で　はねかえした！": "→ <%sM_slime_name_2>'s <%sL_ACTION_2> was reflected with Bounce!"
+    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『マホカンタ』で　はねかえした！": "→ <%sM_slime_name_2>'s <%sL_ACTION_2> is reflected with Bounce!"
   },
   "52271": {
-    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『<%sL_ACTION_1>』で防いだ！": "→ <%sM_slime_name_2>'s <%sL_ACTION_2> was prevented by <%sL_ACTION_1>!"
+    "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『<%sL_ACTION_1>』で防いだ！": "→ <%sM_slime_name_2>'s <%sL_ACTION_2> is prevented by <%sL_ACTION_1>!"
   },
   "52272": {
     "<%sM_slime_name_1>は　ゴールした！": "<%sM_slime_name_1> reaches the goal!"
@@ -2313,7 +2313,7 @@
     "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！": "Gave <%sM_item><%sM_plusnum> Abyss Orb to Jiguro!"
   },
   "54838": {
-    "上位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！": "Won against a top club and <%sL_MY_CLUB> earned <%dL_Point> Additional points!"
+    "上位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！": "Won against the top club and <%sL_MY_CLUB> earns <%dL_Point> additional point(s)!"
   },
   "54839": {
     "1位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！": "Won against the 1st place club and <%sL_MY_CLUB> earned <%dL_Point> Additional points!"
