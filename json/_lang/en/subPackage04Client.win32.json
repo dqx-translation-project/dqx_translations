@@ -3,19 +3,19 @@
     "<%sB_TARGET>が あらわれた！": "<%sB_TARGET> draws near!"
   },
   "19": {
-    "<%sB_ACTOR>が 仲間にくわわった！": "<%sB_ACTOR> joined the party!"
+    "<%sB_ACTOR>が 仲間にくわわった！": "<%sB_ACTOR> joins the party!"
   },
   "41": {
-    "<%sB_ACTOR>たちが 仲間にくわわった！": "<%sB_ACTOR> and co. joined the party!"
+    "<%sB_ACTOR>たちが 仲間にくわわった！": "<%sB_ACTOR> and co. join the party!"
   },
   "66": {
-    "<%sB_ACTOR>が 戦いに参加した！": "<%sB_ACTOR> joined the battle!"
+    "<%sB_ACTOR>が 戦いに参加した！": "<%sB_ACTOR> joins the battle!"
   },
   "86": {
-    "<%sB_ACTOR>は 戦いをやめた。": "<%sB_ACTOR> stopped fighting."
+    "<%sB_ACTOR>は 戦いをやめた。": "<%sB_ACTOR> stops fighting."
   },
   "105": {
-    "<%sB_ACTOR>は 戦うのをやめた。": "<%sB_ACTOR> has stopped fighting."
+    "<%sB_ACTOR>は 戦うのをやめた。": "<%sB_ACTOR> stops fighting."
   },
   "125": {
     "<%sB_TARGET>を やっつけた！": "<%sB_TARGET>\nis defeated!"
@@ -24,13 +24,13 @@
     "<%sB_TARGET>たちを やっつけた！": "<%sB_TARGET>\nand co. were defeated!"
   },
   "164": {
-    "まもののむれを やっつけた！": "The enemy are defeated!"
+    "まもののむれを やっつけた！": "The enemies are defeated!"
   },
   "185": {
     "<%dB_VALUE>ポイントの 経験値をかくとくした！": "Received <%dB_VALUE> EXP!"
   },
   "216": {
-    "経験値は かくとくできなかった。": "You couldn't receive any EXP."
+    "経験値は かくとくできなかった。": "Couldn't receive any EXP."
   },
   "240": {
     "<%sB_TARGET>は 宝箱を 落としていった！": "<%sB_TARGET> drops a treasure chest!"
@@ -63,10 +63,10 @@
     "まもののむれは 宝箱を 落としていった！": "The enemies drop a treasure chest!"
   },
   "486": {
-    "<%sB_ACTOR>は 不意をついた！": "You took the enemy by surprise!"
+    "<%sB_ACTOR>は 不意をついた！": "<%sB_ACTOR> takes you by surprise!"
   },
   "505": {
-    "<%sB_ACTOR>は 不意をつかれた！": "<%sB_ACTOR> was caught by surprise!"
+    "<%sB_ACTOR>は 不意をつかれた！": "<%sB_ACTOR> is caught by surprise!"
   },
   "525": {
     "<%sB_TARGET>たちが あらわれた！": "<%sB_TARGET> and co. draw near!"
@@ -75,7 +75,7 @@
     "まもののむれが あらわれた！": "Some enemies draw near!"
   },
   "567": {
-    "<%sB_ACTOR>は レベル<%dB_VALUE>から <%dB_VALUE2>に あがった！": "<%sB_ACTOR>'s level increased from <%dB_VALUE> to <%dB_VALUE2>!"
+    "<%sB_ACTOR>は レベル<%dB_VALUE>から <%dB_VALUE2>に あがった！": "<%sB_ACTOR>'s level increases from Lv. <%dB_VALUE> to Lv. <%dB_VALUE2>!"
   },
   "604": {
     "<%dB_VALUE>ゴールドを 手に入れた！": "Received <%dB_VALUE> Gold!"
@@ -99,7 +99,7 @@
     "<%sB_ACTOR>は 名声レベル<%dB_VALUE>に あがった！": "<%sB_ACTOR> reaches Fame Level <%dB_VALUE>!"
   },
   "772": {
-    "<%sB_ACTOR>は 戦いを やめた。": "<%sB_ACTOR> ran away."
+    "<%sB_ACTOR>は 戦いを やめた。": "<%sB_ACTOR> runs away."
   },
   "791": {
     "<%sB_ACTOR>は ＭＰが 足りなかった。": "<%sB_ACTOR> doesn't have enough MP."
@@ -321,16 +321,16 @@
     "<%sB_ACTOR>は 海に落ちてしまった！": "<%sB_ACTOR> falls into the ocean!"
   },
   "2736": {
-    "<%sB_ITEM>を <%dB_VALUE> P かくとく！": "Received\n<%dB_VALUE> <%sB_ITEM>!"
+    "<%sB_ITEM>を <%dB_VALUE> P かくとく！": "Received <%dB_VALUE> <%sB_ITEM>!"
   },
   "2758": {
-    "<%sB_ITEM>を <%dB_VALUE> P　旅のコンシェルジュに送った！": "<%sB_ITEM> sent <%dB_VALUE>P to the concierge!"
+    "<%sB_ITEM>を <%dB_VALUE> P　旅のコンシェルジュに送った！": "<%dB_VALUE> <%sB_ITEM> was sent to the concierge!"
   },
   "2795": {
-    "<%sB_ACTOR>は 追跡チームの お助けボックスを消した！": "<%sB_ACTOR> cleared Tracking Team's help box!"
+    "<%sB_ACTOR>は 追跡チームの お助けボックスを消した！": "<%sB_ACTOR> clears the Tracking Team's help box!"
   },
   "2831": {
-    "<%sB_ACTOR>は 逃走チームの お助けボックスを消した！": "<%sB_ACTOR> erased the help box for the Escape Team!"
+    "<%sB_ACTOR>は 逃走チームの お助けボックスを消した！": "<%sB_ACTOR> removes the Escape Team's help box!"
   },
   "2867": {
     "<%sB_ACTOR>は <%sB_ITEM>を 手に入れた！": "<%sB_ACTOR> received <%sB_ITEM>!"
@@ -363,13 +363,13 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 戦闘に参加した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e joins the battle!"
   },
   "3173": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped fighting."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stops fighting."
   },
   "3202": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped fighting."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stops fighting."
   },
   "3232": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e defeated an enemy!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e defeated <%sB_TARGET>!"
   },
   "3267": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>たちを やっつけた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e defeated the enemies!"
@@ -390,7 +390,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ちからつきた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e dies."
   },
   "3493": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは レベル<%dB_VALUE>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e reaches level <%dB_VALUE>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは レベル<%dB_VALUE>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e reaches Lv. <%dB_VALUE>!"
   },
   "3531": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 死んでいるため レベルが あがらなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e couldn't level up since they're dead."
@@ -402,13 +402,13 @@
     "<%sB_TARGET>の先制攻撃！": "<%sB_TARGET> strikes first!"
   },
   "3620": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが <%sB_TARGET>たちと 戦闘開始！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e entered battle!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが <%sB_TARGET>たちと 戦闘開始！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e enters battle!"
   },
   "3657": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが まもののむれと 戦闘開始！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e entered battle!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが まもののむれと 戦闘開始！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e enters battle!"
   },
   "3694": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは レベル<%dB_VALUE>から <%dB_VALUE2>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's level increased from <%dB_VALUE> to <%dB_VALUE2>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは レベル<%dB_VALUE>から <%dB_VALUE2>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's level increases from Lv. <%dB_VALUE> to Lv. <%dB_VALUE2>!"
   },
   "3741": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>ゴールドを 手に入れた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Gold!"
@@ -429,7 +429,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの名声値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Fame points!"
   },
   "3983": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 名声レベル<%dB_VALUE>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e reached fame level <%dB_VALUE>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 名声レベル<%dB_VALUE>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e reaches Fame Level <%dB_VALUE>!"
   },
   "4024": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いを やめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e left the battle."
@@ -456,16 +456,16 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ちからつき いきたえた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e dies."
   },
   "4281": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションを 1段さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension lowered by 1 stage!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションを 1段さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension lowers by 1 stage!"
   },
   "4318": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 1段さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension lowered by 1 stage!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションが 1段さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension lowers by 1 stage!"
   },
   "4356": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を 中断した。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e interrupted <%sB_ACTION>."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を 中断した。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e interrupts <%sB_ACTION>."
   },
   "4390": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_EXTRA>を 中断された。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e interrupted <%sB_EXTRA>."
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_EXTRA>を 中断された。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e interrupts <%sB_EXTRA>."
   },
   "4426": {
     "　さいだいＨＰ +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　すばやさ     +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)": "　Max HP +<%sB_VALUE> (<%sB_VALUE2>→<%sB_VALUE3>)　    Agility +<%sB_VALUE4> (<%sB_VALUE5>→<%sB_VALUE6>)"
@@ -507,7 +507,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped using <%sB_ITEM>."
   },
   "5112": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから 何かを盗みとっていた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stole something from \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから 何かを盗みとっていた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e steals something from \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
   },
   "5167": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値を かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE3> (+<%dB_VALUE4>) EXP!"
@@ -525,22 +525,22 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE2> (+<%dB_VALUE3>) Gold!"
   },
   "5383": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死の呪いで ちからつきた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was exhausted from the death curse."
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死の呪いで ちからつきた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e dies from the death curse."
   },
   "5421": {
     "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\eの ボディーガードは いなくなった。": "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\e's bodyguard is gone."
   },
   "5468": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eと 戦闘開始！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e entered battle!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eと 戦闘開始！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e enters battle!"
   },
   "5495": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは まものたちから 何かを盗みとっていた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stole something from the group of enemies!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは まものたちから 何かを盗みとっていた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e steals something from the group of enemies!"
   },
   "5541": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪いで ちからつきた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was exhausted from the curse."
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪いで ちからつきた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e dies from the curse."
   },
   "5576": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは どくで ちからつきた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was exhausted from the poison."
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは どくで ちからつきた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e succumbs to the poison."
   },
   "5611": {
     "討伐タイム　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>": "Defeat Time: <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec."
@@ -579,10 +579,10 @@
     "　なにも かくとく しなかった。": "　Didn't receive anything."
   },
   "6025": {
-    "<%sB_ITEM>の 使い込み度が あがって <%dB_VALUE>になった！": "The usage of <%sB_ITEM> has increased to <%dB_VALUE>!"
+    "<%sB_ITEM>の 使い込み度が あがって <%dB_VALUE>になった！": "<%sB_ITEM>'s usage increases to <%dB_VALUE>!"
   },
   "6062": {
-    "<%sB_ITEM>の 使い込み度が 最大値になった！": "The usage of <%sB_ITEM> has reached its maximum!"
+    "<%sB_ITEM>の 使い込み度が 最大値になった！": "<%sB_ITEM>'s usage reaches its maximum!"
   },
   "6091": {
     "　→ベストスマイルボーナス +<%dB_VALUE> P": "　→Best Smile Bonus +<%dB_VALUE> EXP"
@@ -603,46 +603,46 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの なつき度が 最大値になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's affection has reached the maximum!"
   },
   "6330": {
-    "討伐報酬(紫色の宝箱)が 出現した！": "A purple treasure chest has appeared!"
+    "討伐報酬(紫色の宝箱)が 出現した！": "A purple treasure chest appears!"
   },
   "6355": {
-    "討伐報酬(赤色の宝箱)が 出現した！": "A red treasure chest has appeared!"
+    "討伐報酬(赤色の宝箱)が 出現した！": "A red treasure chest appears!"
   },
   "6380": {
-    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（紫色の宝箱）が　出現した！": "A red treasure chest has appeared!\nA purple treasure chest has appeared!"
+    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（紫色の宝箱）が　出現した！": "A red treasure chest appears!\nA purple treasure chest appears!"
   },
   "6435": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を <%dB_VALUE>個 使った！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e used <%dB_VALUE> <%sB_ITEM>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を <%dB_VALUE>個 使った！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e uses <%dB_VALUE> <%sB_ITEM>!"
   },
   "6474": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ブレスが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's breath attacks are sealed!"
   },
   "6515": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>ポイントアップ！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got <%dB_VALUE> points!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>ポイントアップ！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e earns <%dB_VALUE> points!"
   },
   "6551": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>ポイントダウン！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e lost <%dB_VALUE> points!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>ポイントダウン！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e loses <%dB_VALUE> points!"
   },
   "6587": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal best!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e earns a new personal best!"
   },
   "6622": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位の ワールドレコードを記録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e recorded a World Record value of Rank <%dB_VALUE>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位の ワールドレコードを記録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e records a World Record of Rank <%dB_VALUE>!"
   },
   "6670": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位で ワールドレコードに登録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e registered in the World Record at Rank <%dB_VALUE>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位で ワールドレコードに登録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e registers in the World Record at Rank <%dB_VALUE>!"
   },
   "6718": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位に 匿名で ワールドレコードに登録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e anonymously recorded their Rank <%dB_VALUE> World Record!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位に 匿名で ワールドレコードに登録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e anonymously records their Rank <%dB_VALUE> World Record!"
   },
   "6771": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has a new personal best!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e earns a new personal best!"
   },
   "6811": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has a new monthly best!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e earns a new monthly best!"
   },
   "6851": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代ランキング <%dB_VALUE>位 月間ランキング <%dB_VALUE2>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e won the overall ranking with Rank <%dB_VALUE> and monthly ranking with Rank <%dB_VALUE2>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代ランキング <%dB_VALUE>位 月間ランキング <%dB_VALUE2>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e wins the overall ranking with Rank <%dB_VALUE>\nand monthly ranking with Rank <%dB_VALUE2>!"
   },
   "6919": {
     "他のプレイヤーから名前が見える状態で　ランキングに登録されました。": "Registered in the ranking with name visible to others."
@@ -651,7 +651,7 @@
     "他のプレイヤーから名前が見えない状態で　ランキングに登録されました。": "Registered in the ranking with name not visible to others."
   },
   "7021": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間ランキング <%dB_VALUE>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e won the monthly ranking with Rank <%dB_VALUE>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間ランキング <%dB_VALUE>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e wins the monthly ranking with Rank <%dB_VALUE>!"
   },
   "7070": {
     "他のプレイヤーから名前が見える状態で　月間ランキングに登録されました。": "Registered in monthly ranking with name visible to others."
