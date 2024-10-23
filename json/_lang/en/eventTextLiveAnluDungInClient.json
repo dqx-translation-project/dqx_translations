@@ -111,16 +111,16 @@
     "めざめの秘石は　王家の迷宮に出現する\nスペシャルモンスター　ゆめみの化身が落とす\nゆめみの闇箱から　入手できるアイテムです。\n<br>\nめざめの秘石を持っていれば\n『めざめの秘石』で　輝石のベルトの効果を\n最大４つになるまで　増やすことができます。": "The Secret Stone of Awakening is an item that\ncan be obtained from Yumemi's Dark Box, which\nis dropped by the special monster Yumemi\n<br>\nIncarnate that appears in the Royal\nLabyrinth. If you have the Mezame no Hideshi,\nyou can use it to increase the effects of\n<br>\nyour pyrotechnic belt to a maximum of four..."
   },
   "123490": {
-    "封印の砂は　『封印の砂を増やす』を選んで\n輝石のベルトを　光の扉に捧げることで\n手に入ります。\n<br>\n封印の砂を使うと　輝石のベルトにつく\nさまざまな効果のうち　選んだものを\n最大<%nL_SEAL_MAX>個まで　封印することができます。\n<br>\n封印した効果は　それ以降に手に入れた\n輝石のベルトには　つきません。\n<br>\n一度　封印した効果を　元に戻したい時は\n『封印した効果をリセットする』で\nそれまでの設定を　リセットできます。\n<br>\nリセットには　封印の砂が５０個　必要ですが\n代わりに　それまでの封印に使った\n封印の砂が　戻ってきます。": "You can receive Sealed Sand by selecting\n\"Get Sealed Sand\" at the Door of Light.\n<br>\nWith the sand, you can seal up to <%dL_SEAL_MAX>\neffects. These sealed effects will not appear\non any future Augite Belts you obtain.\n<br>\nIf you want to reverse the effects you've\nsealed, select \"Reset Seals\".\n<br>\nResetting costs 50 Sealed Sand, but\nyou will be refunded all of the sand you\nused to seal the effects."
+    "封印の砂は　『封印の砂を増やす』を選んで\n輝石のベルトを　光の扉に捧げることで\n手に入ります。\n<br>\n封印の砂を使うと　輝石のベルトにつく\nさまざまな効果のうち　選んだものを\n最大<%nL_SEAL_MAX>個まで　封印することができます。\n<br>\n封印した効果は　それ以降に手に入れた\n輝石のベルトには　つきません。\n<br>\n一度　封印した効果を　元に戻したい時は\n『封印を解除する』で\n封印した効果を　解除することができます。\n<br>\n封印の解除には　効果１つにつき　封印の砂が\n５個必要です。\n<br>\nただし　１０個以上の封印の効果を\nまとめて解除する場合は　封印の砂が\n５０個あれば　解除できます。\n<br>\nなお　封印を解除すると\nそれまでに　封印に使った　封印の砂は\n戻ってきます。": ""
   },
   "123491": {
-    "輝石のベルトの効果の　封印状態を\nリセットします。\n<br>\nリセットには　封印の砂を　<%nL_POINT_NUM>個　使いますが\nこれまでの封印に使った　<%nL_GET_NUM>個は\n戻ってきます。リセットして　よろしいですか？\n<yesno 2><break>": "To reset your sealed effects, you'll need to\nuse <%dL_POINT_NUM> Sealed Sand, however the <%dL_GET_NUM> Sealed\nSand you've used to seal will be returned.\n<br>\nReset your sealed effects?\n<yesno 2><break>"
+    "輝石のベルトの効果の　封印状態を\n<%nL_SEAL_NUM>種類　解除します。\n<br>\n解除には　封印の砂を　<%nL_POINT_NUM>個　使いますが\nこれまでの封印に使った　<%nL_GET_NUM>個は\n戻ってきます。解除して　よろしいですか？\n<yesno 2><break>": ""
   },
   "123492": {
     "輝石のベルトの効果を　封印していません。\n<end>": "You haven't sealed any Augite Belt effects.\n<end>"
   },
   "123493": {
-    "封印の砂を　<%nL_POINT_NUM>個使って\n輝石のベルトの効果の　封印状態をリセットした！\n<br>\nこれまで封印に使った\n封印の砂　<%nL_GET_NUM>個が　戻ってきた！<se_nots System 7>\n<end>": "Used <%dL_POINT_NUM> Sealed Sand to reset your effects,\nand the <%dL_GET_NUM> Sealed Sand you've already used\nhas been returned to you!<se_nots System 7>\n<end>"
+    "封印の砂を　<%nL_POINT_NUM>個使って\n輝石のベルトの効果の　封印状態を\n<%nL_SEAL_NUM>種類　解除した！\n<br>\nこれまで封印に使った\n封印の砂　<%nL_GET_NUM>個が　戻ってきた！<se_nots System 7>\n<end>": ""
   },
   "123494": {
     "封印の砂を　<%nL_POINT_NUM>個使って\n選んだ効果を　<%nL_SEAL_NUM>種類封印して\nよろしいですか？\n<yesno 1><break>": "Use <%dL_POINT_NUM> Sealed Sand to seal\nthe <%dL_SEAL_NUM> effect(s) you've chosen?\n<yesno 1><break>"
@@ -195,7 +195,7 @@
     "<pc>は　<%sL_ITEM><%sL_PLUSNUM>と\n<%sL_KYOUKA_ITEM>を　光の扉に捧げた！\n封印の砂の効果が　発動した！\n<bw_break>": "<pc> offered the <%sL_ITEM><%sL_PLUSNUM>\nand <%sL_KYOUKA_ITEM> to the Door of Light!\nThe Sealed Sand effects have activated!\n<bw_break>"
   },
   "126090": {
-    "輝石のベルトの効果の　封印状態を\nリセットします。\n<br>\nリセットには　封印の砂を　<%nL_POINT_NUM>個　使いますが\nこれまでの封印に使った　<%nL_GET_NUM>個は\n戻ってきます。\n<br>\n封印の砂は　<%nL_MAX_NUM>個までしか持てません。\n今　リセットを行うと\n<%nL_GET_NUM2>個分しか増えませんが　よろしいですか？\n<yesno 2><break>": "To reset your sealed effects, you'll need to\nuse <%dL_POINT_NUM> Sealed Sand, and the <%dL_GET_NUM> Sealed\nSand you've used to seal will be returned.\n<br>\nHowever, you can only hold a maximum of\n<%dL_MAX_NUM> Sealed Sand, so only <%dL_GET_NUM2> will be returned\nto you. Reset your effects?\n<yesno 2><break>"
+    "輝石のベルトの効果の　封印状態を\n<%nL_SEAL_NUM>種類　解除します。\n<br>\n解除には　封印の砂を　<%nL_POINT_NUM>個　使いますが\nこれまでの封印に使った　<%nL_GET_NUM>個は\n戻ってきます。\n<br>\n封印の砂は　<%nL_MAX_NUM>個までしか持てません。\n今　封印の解除を行うと\n<%nL_GET_NUM2>個分しか増えませんが　よろしいですか？\n<yesno 2><break>": ""
   },
   "141623": {
     "王家の迷宮には　仲間モンスターを\n１匹　連れていくことができます。 \n<br>\n現在　仲間モンスターを連れていませんが\nこのまま　<%sL_KISEKI>を　<%nL_KISEKI_NUM>個使って\n王家の迷宮に入って　よろしいですか？\n<yesno2>\n<close>": "I can bring one companion monster to the\nRoyal Labyrinth... I don't have any companion\nmonsters with me, but can I still use\n<br>\n<%sL_KISEKI> with <%dL_KISEKI_NUM> to enter\nthe Royal Labyrinth?<yesno2>\n<close>"
@@ -234,6 +234,21 @@
     "王家の迷宮には　仲間モンスターを\n１匹　連れていくことができます。 \n<br>\n現在　仲間モンスターを連れていませんが\nこのまま　勇気の輝石を消費しないで\n王家の迷宮に入っても　よろしいですか？\n<yesno2>\n<close>": "You can bring one fellow monster with you\ninside the Royal Maze.\n<br>\nYou currently have no monster with you.\nProceed to the Royal Maze without using\nCourage Augite?\n<yesno2>\n<close>"
   },
   "317952": {
-    "「封印する効果が　なにも選ばれていません。\n<bw_break>": "You haven't selected any effects to seal.\n<bw_break>"
+    "封印する効果が　何も選ばれていません。\n<bw_break>": ""
+  },
+  "329270": {
+    "封印の砂を使って\n輝石のベルト効果の　封印状態を解除します。\n解除する効果を　選んでください。\n<break>": ""
+  },
+  "330209": {
+    "封印を解除する効果が　何も選ばれていません。\n<bw_break>": ""
+  },
+  "330210": {
+    "この効果は　封印されていません。\n<bw_break>": ""
+  },
+  "331228": {
+    "選ぼうとした効果の　封印を解除するには\n封印の砂が　<%nL_LACK_NUM>個足りません！\n<bw_break>": ""
+  },
+  "331229": {
+    "選ぼうとした効果の　封印を解除するには\n封印の砂が　<%nL_LACK_NUM>個足りません！\n<end>": ""
   }
 }

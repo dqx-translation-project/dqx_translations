@@ -1335,7 +1335,7 @@
     "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_SEAL_KOUKA>を 封印した！": "Sealed <%sL_SEAL_KOUKA> using <%nL_POINT_NUM> <%sL_KISEKI>!"
   },
   "43084": {
-    "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_BELT_NAME>の効果の 封印状態を リセットした！\nこれまで封印に使った <%sL_KISEKI> <%nL_GET_NUM>個が 戻ってきた！": "Reset the sealed effects of <%sL_BELT_NAME> using <%dL_POINT_NUM> <%sL_KISEKI>!\nThe <%dL_GET_NUM> <%sL_KISEKI> used for sealing have been returned!"
+    "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_BELT_NAME>の効果の 封印状態を <%nL_SEAL_NUM>種類 解除した！\nこれまで封印に使った <%sL_KISEKI> <%nL_GET_NUM>個が 戻ってきた！": ""
   },
   "43130": {
     "札強化屋から <%sL_GET_ITEM>を もらった！": "Received <%sL_GET_ITEM> from the Card Enhancer!"
@@ -3170,7 +3170,58 @@
   "63164": {
     "商品『<%sL_GOODS>』を \n<%dL_PGOLD_NUM>プレミアムゴールドと　交換した！": ""
   },
-  "63431": {
+  "63443": {
+    "<%sL_SEAL_KOUKA>の封印状態を 解除した！": ""
+  },
+  "63452": {
     "商品『<%sL_GOODS>』を \n<%dL_PGOLD_NUM>プレミアムゴールドで 購入した！": ""
+  },
+  "63565": {
+    "<kyodai>の かみの色４を <%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63566": {
+    "美容院で かみの色３を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+  },
+  "63567": {
+    "<%sM_name>の かみの色３を\n<%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63568": {
+    "美容院で <%sM_name>の かみの色３を\n<%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63569": {
+    "<kyodai>の かみの色３を <%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63570": {
+    "美容院で かみの色４を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+  },
+  "63571": {
+    "<%sM_name>の かみの色４を\n<%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63572": {
+    "美容院で <%sM_name>の かみの色４を\n<%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63573": {
+    "美容院で かみの色３のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63574": {
+    "<%sM_name>の かみの色３のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63575": {
+    "美容院で <%sM_name>の かみの色３のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63576": {
+    "<kyodai>の かみの色３のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63577": {
+    "美容院で かみの色４のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63578": {
+    "<%sM_name>の かみの色４のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63579": {
+    "美容院で <%sM_name>の かみの色４のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+  },
+  "63580": {
+    "<kyodai>の かみの色４のツヤを <%sM_old>から <%sM_new>に変えた！": ""
   }
 }

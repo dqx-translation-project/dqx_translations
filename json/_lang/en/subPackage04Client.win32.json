@@ -774,699 +774,750 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ターン消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use a turn!"
   },
   "8965": {
-    "このモンスターの足元に 置くことはできない！": "Can't put at the feet of this monster!"
-  },
-  "8998": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの達人経験値をかくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Master Orb EXP!"
-  },
-  "9041": {
-    "　総獲得達人経験値  <%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": "　Total Master Orb EXP: <%sB_VALUE> (Orb Bonus +<%sB_VALUE2>)"
-  },
-  "9083": {
-    "達人のオーブのレベルが <%dB_VALUE>に あがった！": "The Master Orb increases to Lv. <%dB_VALUE>!"
-  },
-  "9116": {
-    "討伐対象 <%sB_TARGET>！": "Target <%sB_TARGET>!"
-  },
-  "9131": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE2> フェルド かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP and <%dB_VALUE2> Feld!"
-  },
-  "9183": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> フェルド かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Feld!"
-  },
-  "9221": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's Tarots are sealed!"
-  },
-  "9264": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use a Tarot!"
-  },
-  "9302": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ログアウトしたため 戦いから抜けた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e left the fight because they logged out."
-  },
-  "9346": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ゴールドが 足りなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't have enough Gold."
-  },
-  "9383": {
-    "<%sB_MONSTER>をひろった！ スコアを <%dB_VALUE>P かくとく！": "Picked up <%sB_MONSTER>! Got <%dB_VALUE> points!"
-  },
-  "9420": {
-    "スコアが <%dB_VALUE>P 減った。": "Score decreased by <%dB_VALUE>."
-  },
-  "9440": {
-    "ボーナス達成で スコアを <%dB_VALUE>P かくとく！": "Earned a score of <%dB_VALUE> for bonus achievement!"
-  },
-  "9472": {
-    "今回の航海で かくとくしたスコアの合計は <%dB_VALUE>P！": "The total score for this voyage is <%dB_VALUE>!"
-  },
-  "9510": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ハイスコアが <%dB_VALUE> P になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's high score is now <%dB_VALUE>!"
-  },
-  "9553": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの トータルスコアが <%dB_VALUE> P になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's total score is now <%dB_VALUE>!"
-  },
-  "9599": {
-    "航海に 成功した！": "Voyage was successful!"
-  },
-  "9612": {
-    "ボーナス達成なし！": "No bonus achieved!"
-  },
-  "9626": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_JACK_NAME>の心を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped using <%sB_JACK_NAME>'s Heart."
-  },
-  "9669": {
-    "航海は 失敗に終わった……。": "Voyage was unsuccessful...."
-  },
-  "9690": {
-    "<%sB_ITEM>を <%dB_VALUE>P かくとく！": "Received <%dB_VALUE> <%sB_ITEM>!"
-  },
-  "9712": {
-    "<%sB_ITEM>を <%dB_VALUE>P　旅のコンシェルジュに送った！": " Sent <%dB_VALUE> <%sB_ITEM> to the concierge!"
-  },
-  "9748": {
-    "しかし 誰も 捕まっていなかった！": "But no one was caught!"
-  },
-  "9772": {
-    "<%sB_ACTOR>は 害虫駆除に 失敗した。": "<%sB_ACTOR> fails the extermination."
-  },
-  "9796": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 追跡チームの お助けボックスを消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased the Tracking Team's help box!"
-  },
-  "9842": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃走チームの お助けボックスを消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased the Escape Team's help box!"
-  },
-  "9888": {
-    "クリア報酬(うつしよの金箱・改)が 出現した！": "A Worldly Gold Box+ appears as a\nclear reward!"
-  },
-  "9920": {
-    "思い出アルバムに 写真を保存しました。": "The photo has been saved in your Photo Album."
-  },
-  "9948": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは キャッチハンドを 1つ消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased one Catch Hand!"
-  },
-  "9987": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を 占領した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has occupied <%sB_TARGET>!"
-  },
-  "10021": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは チャージが発生しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's charge did not occur!"
-  },
-  "10059": {
-    "バトル開始！": "Battle Start!"
-  },
-  "10069": {
-    "レベルアップ！": "Level Up!"
-  },
-  "10080": {
-    "ＭＰが足りない！": "Not enough MP!"
-  },
-  "10093": {
-    "呪文が\nふうじこめられている！": "Spells\nwere sealed!"
-  },
-  "10115": {
-    "テンションが\n１段さがった！": "Tension decreased!"
-  },
-  "10136": {
-    "<%sB_ACTION>を\n中断した": "<%sB_ACTION>\ninterrupted!"
-  },
-  "10151": {
-    "<%sB_EXTRA>を\n中断された": "<%sB_EXTRA>\ninterrupted!"
-  },
-  "10167": {
-    "オートラン開始": "Autorun On"
-  },
-  "10178": {
-    "<%sB_ITEM>を\n使うのをやめた": "Stopped using\n<%sB_ITEM>."
-  },
-  "10196": {
-    "ボディーガードが\nいなくなった": "Bodyguard has\ndisappeared."
-  },
-  "10218": {
-    "<%sB_TARGET>に\nついていく": "Following\n<%sB_TARGET>"
-  },
-  "10234": {
-    "ついていく相手を\nみうしなった！": "Stopped\nfollowing!"
-  },
-  "10258": {
-    "<%sB_VALUE>着": "<%sB_VALUE>"
-  },
-  "10266": {
-    "ＭＰを消費しなかった！": "No MP used!"
-  },
-  "10283": {
-    "特技が\nふうじこめられている！": "Skills\nare sealed!"
-  },
-  "10305": {
-    "スカウト成功！": "Scout success!"
-  },
-  "10316": {
-    "なつき度が\n<%dB_VALUE>にあがった！": "Happiness has\nincreased to <%dB_VALUE>!"
-  },
-  "10339": {
-    "なつき度MAX！": "Max attachment!"
-  },
-  "10349": {
-    "ブレスが\nふうじこめられている！": "Breath skills\nare sealed!"
-  },
-  "10373": {
-    "<%dB_VALUE>ポイントアップ！": "Got <%dB_VALUE> points!"
-  },
-  "10391": {
-    "<%dB_VALUE>ポイントダウン！": "Lost <%dB_VALUE> points!"
-  },
-  "10409": {
-    "<%sB_TARGET>が\nレベル<%dB_VALUE>になった！": "<%sB_TARGET> has\nreached Level <%dB_VALUE>!"
-  },
-  "10435": {
-    "<%sB_ACTION>が\n使えるようになった！": "<%sB_ACTION> is\nnow usable!"
-  },
-  "10459": {
-    "テンションが\nさがらなかった！": "Tension did\nnot decrease!"
-  },
-  "10481": {
-    "<%sB_TARGET>が\nいなくなった": "<%sB_TARGET>\nis gone."
-  },
-  "10499": {
-    "光の霊玉を\n<%nB_VALUE>個かくとく！": "Received <%dB_VALUE>\nOrbs of Light!"
-  },
-  "10522": {
-    "<%dB_VALUE> Pの 達人ポイントを かくとく！": "Received <%dB_VALUE> Master Points!"
-  },
-  "10550": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 仲間を解放した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e released the party!"
-  },
-  "10580": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 手に入れた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%sB_ITEM>!"
-  },
-  "10614": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは プリズンキーを １つ消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e consumed one Prison Key!"
-  },
-  "10652": {
-    "タロットを\n消費しなかった！": "Tarot was\nnot consumed!"
-  },
-  "10673": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは どうぐが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's items are sealed!"
-  },
-  "10714": {
-    "解放アタック！\nロックを１つ解除した！": "Release Attack!\nReleased 1 lock!"
-  },
-  "10742": {
-    "解放アタック！\n仲間を解放した！": "Liberation Attack!\nReleased allies!"
-  },
-  "10766": {
-    "追跡チームの\nお助けボックスを消した": "Tracking Team's help\nbox was removed."
-  },
-  "10793": {
-    "逃走チームの\nお助けボックスを消した": "Escape Team's help\nbox was removed."
-  },
-  "10820": {
-    "<%sB_TARGET>を捕まえた\nのこり<%dB_VALUE>人！": "Caught <%sB_TARGET>!\n<%dB_VALUE> left!"
-  },
-  "10848": {
-    "最後のひとり\n<%sB_TARGET>を捕まえた！": "You caught the\nlast <%sB_TARGET>!"
-  },
-  "10873": {
-    "ターン消費しなかった！": "Turn was not used!"
-  },
-  "10890": {
-    "プリズンキーを\n１つ消した！": "Removed one\nPrison Key!"
-  },
-  "10911": {
-    "キャッチハンドを\n１つ消した！": "Removed one\nCatch Hand!"
-  },
-  "10933": {
-    "達人のオーブ\nレベルアップ！": "Master Orb\nlevel up!"
-  },
-  "10954": {
-    "チャージタイムが\n発生しなかった！": "Charge time did\nnot happen!"
-  },
-  "10979": {
-    "<%sB_TARGET>を　やっつけた！": "<%sB_TARGET>\nis defeated!"
-  },
-  "10998": {
-    "<%sB_TARGET>たちを　やっつけた！": "<%sB_TARGET>\nand co. were defeated!"
-  },
-  "11020": {
-    "まもののむれを　やっつけた！": "The group of enemies are defeated!"
-  },
-  "11042": {
-    "<%dB_VALUE>ポイントの　経験値をかくとくした！": "Received <%dB_VALUE> EXP!"
-  },
-  "11074": {
-    "<%sB_TARGET>は\n宝箱を　落としていった！": "<%sB_TARGET>\ndrops a treasure chest!"
-  },
-  "11101": {
-    "<%sB_TARGET>は　いなくなった！": "<%sB_TARGET> is gone!"
-  },
-  "11121": {
-    "<%sB_TARGET>たちは　いなくなった！": "The enemies run away!"
-  },
-  "11144": {
-    "まもののむれは　いなくなった！": "The group of enemies run away!"
-  },
-  "11167": {
-    "<%sB_ACTOR>は　レベル<%dB_VALUE>に　あがった！": "<%sB_ACTOR>'s level increases to Lv. <%dB_VALUE>!"
-  },
-  "11197": {
-    "死んでいるため　レベルが　あがらなかった。": "You couldn't level up because you are dead."
-  },
-  "11229": {
-    "<%sB_TARGET>たちは\n宝箱を　落としていった！": "<%sB_TARGET> and co.\ndrop a treasure chest!"
-  },
-  "11259": {
-    "まもののむれは\n宝箱を　落としていった！": "The group of enemies drop a treasure\nchest!"
-  },
-  "11289": {
-    "<%sB_ACTOR>は\nレベル<%dB_VALUE>から　<%dB_VALUE2>に　あがった！": "<%sB_ACTOR>'s level increases\nfrom Lv. <%dB_VALUE> to Lv. <%dB_VALUE2>!"
-  },
-  "11328": {
-    "<%dB_VALUE>ゴールドを　手に入れた！": "Received <%dB_VALUE> Gold!"
-  },
-  "11352": {
-    "<%dB_VALUE>Ｐの経験値　<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
-  },
-  "11384": {
-    "<%dB_VALUE>Ｐの経験値を　かくとく！": "Received <%dB_VALUE> EXP!"
-  },
-  "11408": {
-    "<%dB_VALUE>Ｇ　かくとく！": "Received <%dB_VALUE> Gold!"
-  },
-  "11425": {
-    "<%dB_VALUE> Pの名声値を　かくとく！　　　": "Received <%dB_VALUE> Fame points!　　"
-  },
-  "11453": {
-    "<%sB_ACTOR>は　名声レベル<%dB_VALUE>に　あがった！": "<%sB_ACTOR> reaches Fame Level <%dB_VALUE>!"
-  },
-  "11486": {
-    "<%sB_TARGET>は　しんでしまった。": "<%sB_TARGET> dies!"
-  },
-  "11508": {
-    "<%sB_TARGET>を　たおした！": "<%sB_TARGET> defeated!"
-  },
-  "11525": {
-    "<%dB_VALUE> Pの　スキルポイントを　かくとく！": "Earned <%dB_VALUE> skill points!"
-  },
-  "11556": {
-    "スキルポイントは　さくせんコマンドの\nスキルふりわけで　できます！": "Skill points can be reallocated\nin the Skill Points menu!"
-  },
-  "11605": {
-    "へろへろタイムなので\nなにも かくとくできなかった。": "You were too exhausted\nto do anything."
-  },
-  "11643": {
-    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold!"
-  },
-  "11682": {
-    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>(<%dB_VALUE4>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> (<%dB_VALUE4>) Gold!"
-  },
-  "11728": {
-    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP!"
-  },
-  "11759": {
-    "<%dB_VALUE>(<%dB_VALUE2>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) Gold!"
-  },
-  "11783": {
-    "<%sB_ACTOR>は\n<%sB_TARGET>から　何かを盗みとっていた！": "<%sB_ACTOR>\nsteals something from <%sB_TARGET>!"
-  },
-  "11818": {
-    "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値\n<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP\nand <%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
-  },
-  "11864": {
-    "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値\n<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP\nand <%dB_VALUE2> Gold!"
-  },
-  "11903": {
-    "<%dB_VALUE>Ｐの経験値\n<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "Received <%dB_VALUE> EXP and\n<%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
-  },
-  "11941": {
-    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) EXP!"
-  },
-  "11974": {
-    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ　かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) Gold!"
-  },
-  "12000": {
-    "<%sB_ACTOR>は\nまものたちから　何かを盗みとっていた！": "<%sB_ACTOR> steals some loot!"
-  },
-  "12037": {
-    "スキルポイントの　かくとく　なし。": "No skill points received."
-  },
-  "12063": {
-    "特訓スタンプを　<%dB_VALUE> 個　かくとく！": "Received <%dB_VALUE> special training stamps!"
-  },
-  "12092": {
-    "今の戦いは　特訓には　ならなかった。": "The current battle wasn't special training."
-  },
-  "12120": {
-    "<%dB_VALUE> Pの経験値　<%dB_VALUE2> G　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
-  },
-  "12151": {
-    "<%dB_VALUE> Pの経験値を　かくとく！": "Received <%dB_VALUE> EXP!"
-  },
-  "12175": {
-    "<%dB_VALUE> G　かくとく！": "Received <%dB_VALUE> Gold!"
-  },
-  "12191": {
-    "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値\n<%dB_VALUE3> G　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP\nand <%dB_VALUE3> Gold!"
-  },
-  "12237": {
-    "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの\n経験値を　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
-  },
-  "12278": {
-    "<%sB_ITEM>の\n使い込み度が　１００になった！": "<%sB_ITEM>\nis now at 100 usage!"
-  },
-  "12308": {
-    "討伐報酬（紫色の宝箱）を　かくとく！": "A purple chest appears as a reward!"
-  },
-  "12336": {
-    "<%sB_TARGET>の\nなつき度が　最大値になった！": "<%sB_TARGET>'s\nhappiness has reached its maximum!"
-  },
-  "12366": {
-    "討伐報酬（紫色の宝箱）が　出現した！": "A purple treasure chest appears!"
-  },
-  "12394": {
-    "討伐報酬（赤色の宝箱）が　出現した！": "A red treasure chest appears!"
-  },
-  "12422": {
-    "<%sB_ACTOR>は\n<%dB_VALUE> Pの経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> EXP!"
-  },
-  "12453": {
-    "<%sB_ACTOR>は\n<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの\n経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> +<%dB_VALUE2>\n(Strong Enemy Bonus) EXP!"
-  },
-  "12501": {
-    "自己ベストを　更新した！": "You set a new personal best!"
-  },
-  "12520": {
-    "<%dB_VALUE>位の　ワールドレコードを記録した！": "Recorded a World Record of Rank <%dB_VALUE>!"
-  },
-  "12552": {
-    "ランキングに　名前を登録しても　よろしいですか？<yesno>": "May I add your name to the ranking?<yesno>"
-  },
-  "12592": {
-    "<%dB_VALUE>位で　ワールドレコードに登録した！": "Registered the World Record at Rank <%dB_VALUE>!"
-  },
-  "12624": {
-    "<%dB_VALUE>位に　匿名で　ワールドレコードに登録した！": "Anonymously registered in the World Ranking at Rank <%dB_VALUE>!"
-  },
-  "12662": {
-    "歴代の自己ベストを　更新した！<se_nots System 17>": "Set a new personal best!<se_nots System 17>"
-  },
-  "12695": {
-    "月間の自己ベストを　更新した！<se_nots System 17>": "Set a new monthly best!<se_nots System 17>"
-  },
-  "12728": {
-    "歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>\n記録を　登録します。": "Won overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE2>)!<se_nots System 17>\nThe records were registered."
-  },
-  "12806": {
-    "他のプレイヤーから　名前が見える状態で\n記録の登録をしても　よろしいですか？<yesno>": "You will register your record with your\nname visible to others. Is this okay?<yesno>"
-  },
-  "12866": {
-    "他のプレイヤーから　名前が見える状態で\n歴代ランキングと　月間ランキングに\n記録が　登録されました。": "Overall and monthly records have been\nregistered with name visible to others."
-  },
-  "12940": {
-    "他のプレイヤーから　名前が見えない状態で\n歴代ランキングと　月間ランキングに\n記録が　登録されました。": "Overall and monthly records have been\nregistered with name not visible to\nothers."
-  },
-  "13015": {
-    "月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>\n記録を　登録します。": "Won the monthly ranking at Rank <%dB_VALUE>!<se_nots System 17>\nRecords have been registered."
-  },
-  "13073": {
-    "他のプレイヤーから　名前が見える状態で\n月間ランキングに　記録が登録されました。": "Monthly records have been registered\nwith name visible to others."
-  },
-  "13133": {
-    "他のプレイヤーから　名前が見えない状態で\n月間ランキングに　記録が登録されました。": "Monthly records have been registered\nwith name not visible to others."
-  },
-  "13194": {
-    "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
-  },
-  "13241": {
-    "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new monthly best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
-  },
-  "13288": {
-    "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
-  },
-  "13344": {
-    "月間の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
-  },
-  "13400": {
-    "<%sB_TARGET>は　たおされた。": "<%sB_TARGET> is defeated."
-  },
-  "13419": {
-    "無制限部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE>) in the unlimited category!"
-  },
-  "13491": {
-    "無制限部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in\nthe unlimited category!<se_nots System 17>"
-  },
-  "13543": {
-    "職業重複なし部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE>) in the unique category!"
-  },
-  "13620": {
-    "職業重複なし部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in\nthe unique category!<se_nots System 17>"
-  },
-  "13677": {
-    "サポと１人で部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE>) in the support category!"
-  },
-  "13754": {
-    "サポと１人で部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in\nthe support category!<se_nots System 17>"
-  },
-  "13811": {
-    "無制限部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unlimited category!<se_nots System 17>"
-  },
-  "13866": {
-    "無制限部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unlimited category!<se_nots System 17>"
-  },
-  "13921": {
-    "職業重複なし部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
-  },
-  "13981": {
-    "職業重複なし部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
-  },
-  "14041": {
-    "サポと１人で部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
-  },
-  "14101": {
-    "サポと１人で部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
-  },
-  "14161": {
-    "無制限部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
-  },
-  "14224": {
-    "無制限部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
-  },
-  "14287": {
-    "職業重複なし部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
-  },
-  "14354": {
-    "職業重複なし部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
-  },
-  "14421": {
-    "サポと１人で部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
-  },
-  "14488": {
-    "サポと１人で部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
-  },
-  "14555": {
-    "ランキングに　登録します。\n他のプレイヤーから　名前が見える状態で\n記録の登録をしても　よろしいですか？<yesno>": "You will register your ranking with\nyour name visible to others. Is this\nokay?<yesno>"
-  },
-  "14635": {
-    "他のプレイヤーから　名前が見える状態で\nランキングに　登録されました。": "Registered in the ranking with name\nvisible to other players."
-  },
-  "14687": {
-    "他のプレイヤーから　名前が見えない状態で\nランキングに　登録されました。": "Registered in the ranking with name\nnot visible to other players."
-  },
-  "14741": {
-    "勇気の輝きが　<%dB_VALUE>回復した！": "Spark of Courage restored to <%dB_VALUE>!"
-  },
-  "14765": {
-    "勇気の輝きを　<%dB_VALUE>消費した。": "Consumed <%dB_VALUE> Spark of Courage."
-  },
-  "14789": {
-    "思い出アルバムに　写真を保存しています。\nしばらく　お待ちください。": "Saving the photo to your Photo Album.\nPlease wait a moment."
-  },
-  "14840": {
-    "思い出アルバムへの保存に　失敗しました。\nエラーコード：<%sERRID>": "Failed to save photo to your Photo Album.\nError code: <%sERRID>."
-  },
-  "14886": {
-    "光の霊玉を  <%dB_VALUE>個　かくとく！": "Received <%dB_VALUE> Orbs of Light!"
-  },
-  "14911": {
-    "クリア報酬(うつしよの天箱・改)が\nふたつ出現した！\n\nクリア報酬(うつしよの闇箱)が　出現した！": "Two Worldly Sky Boxes v2 and a\nWorldly Dark Box appear as clear rewards!"
-  },
-  "14978": {
-    "写真の保存を　中断しますか？\n<color_yellow>※保存を中断すると\n写真が　保存されない可能性があります。<color_white><yesno 2><close>": "Do you want to interrupt saving the photos?\n<color_yellow>If you say yes, the photos will not be saved.<color_white><yesno 2><close>"
-  },
-  "15064": {
-    "写真の保存を　中断しました。": "Photo saving has been interrupted."
-  },
-  "15086": {
-    "タロットが\nふうじこめられている！": "Tarots\nare sealed!"
-  },
-  "15111": {
-    "ゴールドが足りない！": "Not enough Gold!"
-  },
-  "15127": {
-    "<%sB_JACK_NAME>の心を\n使うのをやめた": "Stopped using\n<%sB_JACK_NAME>'s Heart."
-  },
-  "15151": {
-    "解放アタック！\n誰も　捕まっていない！": "Liberation Attack!\nNo one was caught!"
-  },
-  "15179": {
-    "<%dB_VALUE> フェルド　かくとく！": "Received <%dB_VALUE> Feld!"
-  },
-  "15201": {
-    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!\nA four-leaf clover treasure chest has appeared!"
-  },
-  "15256": {
-    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（紫色の宝箱）が　出現した！\n討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!\nA purple treasure chest has appeared!\nA four-leaf clover treasure chest has appeared!"
-  },
-  "15339": {
-    "プリズンキーを入手！\nロックを１つ　解除した！": "Got Prison Key!\nReleased 1 lock!"
-  },
-  "15373": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは デスパワーを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use any death power!"
-  },
-  "15412": {
-    "デスパワーを\n消費しなかった！": "Did not consume\nany Death Power!"
-  },
-  "15434": {
     "安息の領域に 駆け込んだ！": "You rushed into the realm of repose!"
   },
-  "15453": {
-    "<%sB_ACTION>のチャージ時間\n<%dB_VALUE>秒たまった！": "<%sB_ACTION>'s charge time\naccumulated <%dB_VALUE> sec.!"
-  },
-  "15485": {
-    "まもののむれを 倒しきった！": "Defeated all of the monsters!"
-  },
-  "15506": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION> charge time accumulated <%dB_VALUE> sec.!"
-  },
-  "15557": {
-    "どうぐが\nふうじこめられている！": "Items\nare sealed!"
-  },
-  "15581": {
-    "親密度が\n<%dB_VALUE>にあがった！": "Bond increased to\n<%dB_VALUE>!"
-  },
-  "15603": {
+  "8984": {
     "心の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> Heart Energy."
   },
-  "15624": {
-    "クリア報酬(うつしよの極箱・改)が 出現した！": "A Very Worldly Box+ appears as a\nclear reward!"
+  "9005": {
+    "　総獲得達人経験値  <%sB_VALUE> P (内 元気ボーナス <%sB_VALUE2> P)": "　Total Master Orb EXP: <%sB_VALUE> (Orb Bonus +<%sB_VALUE2>)"
   },
-  "15656": {
-    "クリア報酬(うつしよの極箱・改)が ふたつ出現した！": "Two Very Worldly Box+ appear as a\nclear reward!"
+  "9047": {
+    "達人のオーブのレベルが <%dB_VALUE>に あがった！": "The Master Orb increases to Lv. <%dB_VALUE>!"
   },
-  "15693": {
-    "初回討伐報酬(金色の宝箱)が 出現した！": "A golden treasure chest appears as a\nfirst time clear reward!"
+  "9080": {
+    "討伐対象 <%sB_TARGET>！": "Target <%sB_TARGET>!"
   },
-  "15721": {
-    "心の輝きを　<%dB_VALUE>消費した。": "Consumed <%dB_VALUE> Heart Energy."
+  "9095": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE2> フェルド かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP and <%dB_VALUE2> Feld!"
   },
-  "15744": {
-    "クリア報酬(うつしよの極箱・改)が　出現した！": "A Very Worldly Box+ appears as a\nclear reward!"
+  "9147": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> フェルド かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Feld!"
   },
-  "15777": {
-    "クリア報酬(うつしよの極箱・改)が\nふたつ出現した！": "Two Very Worldly Box+ appear as a\nclear reward!"
+  "9185": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's Tarots are sealed!"
   },
-  "15814": {
-    "クリア報酬(うつしよの天箱・改)が 出現した！": "A Worldly Sky Box+ appears as a\nclear reward!"
+  "9228": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use a Tarot!"
   },
-  "15846": {
-    "クリア報酬(うつしよの天箱・改)が ふたつ出現した！": "Two Worldly Sky Boxes v2 appear as a\nclear reward!"
+  "9266": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ログアウトしたため 戦いから抜けた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e left the fight because they logged out."
   },
-  "15883": {
-    "クリア報酬(うつしよの竜箱・改)が 出現した！": "A Worldly Dragon Box+ appears as a\nclear reward!"
+  "9310": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ゴールドが 足りなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't have enough Gold."
   },
-  "15915": {
-    "クリア報酬(うつしよの竜箱・改)が ふたつ出現した！": "Two Worldly Dragon Boxes v2 appear as a\nclear reward!"
+  "9347": {
+    "<%sB_MONSTER>をひろった！ スコアを <%dB_VALUE>P かくとく！": "Picked up <%sB_MONSTER>! Got <%dB_VALUE> points!"
   },
-  "15952": {
-    "クリア報酬(うつしよの金箱・改)が ふたつ出現した！": "A Worldly Gold Box+ appears as a\nclear reward!"
+  "9384": {
+    "スコアが <%dB_VALUE>P 減った。": "Score decreased by <%dB_VALUE>."
   },
-  "15989": {
-    "クリア報酬(うつしよの極箱・改)が 出現した！\nクリア報酬(うつしよの天箱・改)が 出現した！": "A Very Worldly Box+ and a Worldly Sky Box+\nappear as clear rewards!"
+  "9404": {
+    "ボーナス達成で スコアを <%dB_VALUE>P かくとく！": "Earned a score of <%dB_VALUE> for bonus achievement!"
   },
-  "16053": {
-    "クリア報酬(うつしよの極箱・改)が 出現した！\nクリア報酬(うつしよの竜箱・改)が 出現した！": "A Very Worldly Box+ and a\nWorldly Dragon Box+ appear as clear rewards!"
+  "9436": {
+    "今回の航海で かくとくしたスコアの合計は <%dB_VALUE>P！": "The total score for this voyage is <%dB_VALUE>!"
   },
-  "16117": {
-    "クリア報酬(うつしよの極箱・改)が 出現した！\nクリア報酬(うつしよの金箱・改)が 出現した！": "A Very Worldly Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
+  "9474": {
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ハイスコアが <%dB_VALUE> P になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's high score is now <%dB_VALUE>!"
   },
-  "16181": {
-    "クリア報酬(うつしよの天箱・改)が 出現した！\nクリア報酬(うつしよの竜箱・改)が 出現した！": "A Worldly Sky Box+ and a\nWorldly Dragon Box+ appear as clear rewards!"
+  "9517": {
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの トータルスコアが <%dB_VALUE> P になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's total score is now <%dB_VALUE>!"
   },
-  "16245": {
-    "クリア報酬(うつしよの天箱・改)が 出現した！\nクリア報酬(うつしよの金箱・改)が 出現した！": "A Worldly Sky Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
+  "9563": {
+    "航海に 成功した！": "Voyage was successful!"
   },
-  "16309": {
-    "クリア報酬(うつしよの竜箱・改)が 出現した！\nクリア報酬(うつしよの金箱・改)が 出現した！": "A Worldly Dragon Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
+  "9576": {
+    "ボーナス達成なし！": "No bonus achieved!"
   },
-  "16373": {
-    "クリア報酬(うつしよの天箱・改)が　出現した！": "A Worldly Sky Box+ appears as a\nclear reward!"
+  "9590": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_JACK_NAME>の心を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped using <%sB_JACK_NAME>'s Heart."
   },
-  "16406": {
-    "クリア報酬(うつしよの天箱・改)が\nふたつ出現した！": "Two Worldly Sky Boxes v2 appear as a\nclear reward!"
+  "9633": {
+    "航海は 失敗に終わった……。": "Voyage was unsuccessful...."
   },
-  "16443": {
-    "クリア報酬(うつしよの竜箱・改)が　出現した！": "A Worldly Dragon Box+ appears as a\nclear reward!"
+  "9654": {
+    "<%sB_ITEM>を <%dB_VALUE>P かくとく！": "Received <%dB_VALUE> <%sB_ITEM>!"
   },
-  "16476": {
-    "クリア報酬(うつしよの竜箱・改)が\nふたつ出現した！": "Two Worldly Dragon Boxes v2 appear as a\nclear reward!"
+  "9676": {
+    "<%sB_ITEM>を <%dB_VALUE>P　旅のコンシェルジュに送った！": " Sent <%dB_VALUE> <%sB_ITEM> to the concierge!"
   },
-  "16513": {
-    "クリア報酬(うつしよの金箱・改)が　出現した！": "A Worldly Gold Box appears as a\nclear reward!"
+  "9712": {
+    "しかし 誰も 捕まっていなかった！": "But no one was caught!"
   },
-  "16546": {
-    "クリア報酬(うつしよの金箱・改)が\nふたつ出現した！": "Two Worldly Gold Boxes v2 appear as a\nclear reward!"
+  "9736": {
+    "このモンスターの足元に 置くことはできない！": "Can't put at the feet of this monster!"
   },
-  "16583": {
-    "クリア報酬(うつしよの極箱・改)が　出現した！\nクリア報酬(うつしよの天箱・改が　出現した！": "A Very Worldly Box+ and a Worldly Sky Box+\nappear as clear rewards!"
+  "9769": {
+    "<%sB_ACTOR>は 害虫駆除に 失敗した。": "<%sB_ACTOR> fails the extermination."
   },
-  "16649": {
-    "クリア報酬(うつしよの極箱・改)が　出現した！\nクリア報酬(うつしよの竜箱・改)が　出現した！": "A Very Worldly Box+ and a\nWorldly Dragon Box+ appear as clear rewards!"
+  "9793": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃走チームの お助けボックスを消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased the Escape Team's help box!"
   },
-  "16715": {
-    "クリア報酬(うつしよの極箱・改)が　出現した！\nクリア報酬(うつしよの金箱・改)が　出現した！": "A Very Worldly Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
-  },
-  "16781": {
-    "クリア報酬(うつしよの天箱・改)が　出現した！\nクリア報酬(うつしよの竜箱・改)が　出現した！": "A Worldly Sky Box+ and a\nWorldly Dragon Box+ appear as clear rewards!"
-  },
-  "16847": {
-    "クリア報酬(うつしよの天箱・改)が　出現した！\nクリア報酬(うつしよの金箱・改)が　出現した！": "A Worldly Sky Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
-  },
-  "16913": {
-    "クリア報酬(うつしよの竜箱・改)が　出現した！\nクリア報酬(うつしよの金箱・改)が　出現した！": "A Worldly Dragon Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
-  },
-  "16979": {
-    "達人のオーブの　レベルがあがった！": "The Master Orb's level increases!"
-  },
-  "17005": {
-    "<%dB_VALUE> Pの\n達人経験値をかくとく！": "Received <%dB_VALUE> Master Orb EXP!"
-  },
-  "17031": {
-    "ランキングの判定に 失敗しました。": "The ranking decision failed."
-  },
-  "17056": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 親密度が あがって <%dB_VALUE2> → <%dB_VALUE>になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's bond increases from <%dB_VALUE2> to <%dB_VALUE>!"
-  },
-  "17110": {
-    "<%dB_VALUE> Pの経験値　<%dB_VALUE2> フェルド　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Feld!"
-  },
-  "17146": {
-    "初回討伐報酬（金色の宝箱）が　出現した！": "A golden treasure chest appears as a\nfirst time clear reward!"
-  },
-  "17177": {
-    "心の輝きが　<%dB_VALUE>回復した！": "Recovered <%dB_VALUE> Heart Energy!"
-  },
-  "17200": {
-    "全ての職業で <%sB_NAME>が <%dB_VALUE>あがった！": "<%sB_NAME> increases by <%dB_VALUE>\nin all vocations!"
-  },
-  "17230": {
+  "9839": {
     "<%sB_JOB>の <%sB_NAME>が <%dB_VALUE>から <%dB_VALUE2>になった。": "<%sB_JOB>'s <%sB_NAME> increases from <%dB_VALUE>\nto <%dB_VALUE2>."
   },
-  "17267": {
-    "ランキングの判定に　失敗しました。": "The ranking decision failed."
+  "9876": {
+    "経験値の通帳に なにも かくとくできなかった。": ""
   },
-  "17293": {
+  "9909": {
+    "経験値の通帳に <%dB_VALUE>Ｐの経験値を かくとく！": ""
+  },
+  "9943": {
+    "クリア報酬(うつしよの金箱・改)が 出現した！": "A Worldly Gold Box+ appears as a\nclear reward!"
+  },
+  "9975": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を 占領した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has occupied <%sB_TARGET>!"
+  },
+  "10009": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは チャージが発生しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's charge did not occur!"
+  },
+  "10047": {
+    "バトル開始！": "Battle Start!"
+  },
+  "10057": {
+    "レベルアップ！": "Level Up!"
+  },
+  "10068": {
+    "ＭＰが足りない！": "Not enough MP!"
+  },
+  "10081": {
+    "呪文が\nふうじこめられている！": "Spells\nwere sealed!"
+  },
+  "10103": {
+    "テンションが\n１段さがった！": "Tension decreased!"
+  },
+  "10124": {
+    "<%sB_ACTION>を\n中断した": "<%sB_ACTION>\ninterrupted!"
+  },
+  "10139": {
+    "<%sB_EXTRA>を\n中断された": "<%sB_EXTRA>\ninterrupted!"
+  },
+  "10155": {
+    "オートラン開始": "Autorun On"
+  },
+  "10166": {
+    "<%sB_ITEM>を\n使うのをやめた": "Stopped using\n<%sB_ITEM>."
+  },
+  "10184": {
+    "ボディーガードが\nいなくなった": "Bodyguard has\ndisappeared."
+  },
+  "10206": {
+    "<%sB_TARGET>に\nついていく": "Following\n<%sB_TARGET>"
+  },
+  "10222": {
+    "ついていく相手を\nみうしなった！": "Stopped\nfollowing!"
+  },
+  "10246": {
+    "<%sB_VALUE>着": "<%sB_VALUE>"
+  },
+  "10254": {
+    "ＭＰを消費しなかった！": "No MP used!"
+  },
+  "10271": {
+    "特技が\nふうじこめられている！": "Skills\nare sealed!"
+  },
+  "10293": {
+    "スカウト成功！": "Scout success!"
+  },
+  "10304": {
+    "なつき度が\n<%dB_VALUE>にあがった！": "Happiness has\nincreased to <%dB_VALUE>!"
+  },
+  "10327": {
+    "なつき度MAX！": "Max attachment!"
+  },
+  "10337": {
+    "ブレスが\nふうじこめられている！": "Breath skills\nare sealed!"
+  },
+  "10361": {
+    "<%dB_VALUE>ポイントアップ！": "Got <%dB_VALUE> points!"
+  },
+  "10379": {
+    "<%dB_VALUE>ポイントダウン！": "Lost <%dB_VALUE> points!"
+  },
+  "10397": {
+    "<%sB_TARGET>が\nレベル<%dB_VALUE>になった！": "<%sB_TARGET> has\nreached Level <%dB_VALUE>!"
+  },
+  "10423": {
+    "<%sB_ACTION>が\n使えるようになった！": "<%sB_ACTION> is\nnow usable!"
+  },
+  "10447": {
+    "テンションが\nさがらなかった！": "Tension did\nnot decrease!"
+  },
+  "10469": {
+    "<%sB_TARGET>が\nいなくなった": "<%sB_TARGET>\nis gone."
+  },
+  "10487": {
+    "光の霊玉を\n<%nB_VALUE>個かくとく！": "Received <%dB_VALUE>\nOrbs of Light!"
+  },
+  "10510": {
+    "思い出アルバムに 写真を保存しました。": "The photo has been saved in your Photo Album."
+  },
+  "10538": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが 仲間を解放した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e released the party!"
+  },
+  "10568": {
+    "<%dB_VALUE> Pの 達人ポイントを かくとく！": "Received <%dB_VALUE> Master Points!"
+  },
+  "10596": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは プリズンキーを １つ消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e consumed one Prison Key!"
+  },
+  "10634": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの達人経験値をかくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> Master Orb EXP!"
+  },
+  "10677": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは どうぐが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's items are sealed!"
+  },
+  "10718": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 追跡チームの お助けボックスを消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased the Tracking Team's help box!"
+  },
+  "10764": {
+    "解放アタック！\n仲間を解放した！": "Liberation Attack!\nReleased allies!"
+  },
+  "10788": {
+    "追跡チームの\nお助けボックスを消した": "Tracking Team's help\nbox was removed."
+  },
+  "10815": {
+    "逃走チームの\nお助けボックスを消した": "Escape Team's help\nbox was removed."
+  },
+  "10842": {
+    "<%sB_TARGET>を捕まえた\nのこり<%dB_VALUE>人！": "Caught <%sB_TARGET>!\n<%dB_VALUE> left!"
+  },
+  "10870": {
+    "最後のひとり\n<%sB_TARGET>を捕まえた！": "You caught the\nlast <%sB_TARGET>!"
+  },
+  "10895": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 手に入れた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%sB_ITEM>!"
+  },
+  "10929": {
+    "キャッチハンドを\n１つ消した！": "Removed one\nCatch Hand!"
+  },
+  "10951": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは キャッチハンドを 1つ消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased one Catch Hand!"
+  },
+  "10990": {
+    "ランキングの判定に 失敗しました。": "The ranking decision failed."
+  },
+  "11015": {
+    "<%sB_TARGET>を　やっつけた！": "<%sB_TARGET>\nis defeated!"
+  },
+  "11034": {
+    "<%sB_TARGET>たちを　やっつけた！": "<%sB_TARGET>\nand co. were defeated!"
+  },
+  "11056": {
+    "まもののむれを　やっつけた！": "The group of enemies are defeated!"
+  },
+  "11078": {
+    "<%dB_VALUE>ポイントの　経験値をかくとくした！": "Received <%dB_VALUE> EXP!"
+  },
+  "11110": {
+    "<%sB_TARGET>は\n宝箱を　落としていった！": "<%sB_TARGET>\ndrops a treasure chest!"
+  },
+  "11137": {
+    "<%sB_TARGET>は　いなくなった！": "<%sB_TARGET> is gone!"
+  },
+  "11157": {
+    "<%sB_TARGET>たちは　いなくなった！": "The enemies run away!"
+  },
+  "11180": {
+    "まもののむれは　いなくなった！": "The group of enemies run away!"
+  },
+  "11203": {
+    "<%sB_ACTOR>は　レベル<%dB_VALUE>に　あがった！": "<%sB_ACTOR>'s level increases to Lv. <%dB_VALUE>!"
+  },
+  "11233": {
+    "死んでいるため　レベルが　あがらなかった。": "You couldn't level up because you are dead."
+  },
+  "11265": {
+    "<%sB_TARGET>たちは\n宝箱を　落としていった！": "<%sB_TARGET> and co.\ndrop a treasure chest!"
+  },
+  "11295": {
+    "まもののむれは\n宝箱を　落としていった！": "The group of enemies drop a treasure\nchest!"
+  },
+  "11325": {
+    "<%sB_ACTOR>は\nレベル<%dB_VALUE>から　<%dB_VALUE2>に　あがった！": "<%sB_ACTOR>'s level increases\nfrom Lv. <%dB_VALUE> to Lv. <%dB_VALUE2>!"
+  },
+  "11364": {
+    "<%dB_VALUE>ゴールドを　手に入れた！": "Received <%dB_VALUE> Gold!"
+  },
+  "11388": {
+    "<%dB_VALUE>Ｐの経験値　<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
+  },
+  "11420": {
+    "<%dB_VALUE>Ｐの経験値を　かくとく！": "Received <%dB_VALUE> EXP!"
+  },
+  "11444": {
+    "<%dB_VALUE>Ｇ　かくとく！": "Received <%dB_VALUE> Gold!"
+  },
+  "11461": {
+    "<%dB_VALUE> Pの名声値を　かくとく！　　　": "Received <%dB_VALUE> Fame points!　　"
+  },
+  "11489": {
+    "<%sB_ACTOR>は　名声レベル<%dB_VALUE>に　あがった！": "<%sB_ACTOR> reaches Fame Level <%dB_VALUE>!"
+  },
+  "11522": {
+    "<%sB_TARGET>は　しんでしまった。": "<%sB_TARGET> dies!"
+  },
+  "11544": {
+    "<%sB_TARGET>を　たおした！": "<%sB_TARGET> defeated!"
+  },
+  "11561": {
+    "<%dB_VALUE> Pの　スキルポイントを　かくとく！": "Earned <%dB_VALUE> skill points!"
+  },
+  "11592": {
+    "スキルポイントは　さくせんコマンドの\nスキルふりわけで　できます！": "Skill points can be reallocated\nin the Skill Points menu!"
+  },
+  "11641": {
+    "へろへろタイムなので\nなにも かくとくできなかった。": "You were too exhausted\nto do anything."
+  },
+  "11679": {
+    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold!"
+  },
+  "11718": {
+    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>(<%dB_VALUE4>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> (<%dB_VALUE4>) Gold!"
+  },
+  "11764": {
+    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP!"
+  },
+  "11795": {
+    "<%dB_VALUE>(<%dB_VALUE2>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) Gold!"
+  },
+  "11819": {
+    "<%sB_ACTOR>は\n<%sB_TARGET>から　何かを盗みとっていた！": "<%sB_ACTOR>\nsteals something from <%sB_TARGET>!"
+  },
+  "11854": {
+    "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値\n<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP\nand <%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
+  },
+  "11900": {
+    "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値\n<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP\nand <%dB_VALUE2> Gold!"
+  },
+  "11939": {
+    "<%dB_VALUE>Ｐの経験値\n<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "Received <%dB_VALUE> EXP and\n<%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
+  },
+  "11977": {
+    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) EXP!"
+  },
+  "12010": {
+    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ　かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) Gold!"
+  },
+  "12036": {
+    "<%sB_ACTOR>は\nまものたちから　何かを盗みとっていた！": "<%sB_ACTOR> steals some loot!"
+  },
+  "12073": {
+    "スキルポイントの　かくとく　なし。": "No skill points received."
+  },
+  "12099": {
+    "特訓スタンプを　<%dB_VALUE> 個　かくとく！": "Received <%dB_VALUE> special training stamps!"
+  },
+  "12128": {
+    "今の戦いは　特訓には　ならなかった。": "The current battle wasn't special training."
+  },
+  "12156": {
+    "<%dB_VALUE> Pの経験値　<%dB_VALUE2> G　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
+  },
+  "12187": {
+    "<%dB_VALUE> Pの経験値を　かくとく！": "Received <%dB_VALUE> EXP!"
+  },
+  "12211": {
+    "<%dB_VALUE> G　かくとく！": "Received <%dB_VALUE> Gold!"
+  },
+  "12227": {
+    "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値\n<%dB_VALUE3> G　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP\nand <%dB_VALUE3> Gold!"
+  },
+  "12273": {
+    "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの\n経験値を　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
+  },
+  "12314": {
+    "<%sB_ITEM>の\n使い込み度が　１００になった！": "<%sB_ITEM>\nis now at 100 usage!"
+  },
+  "12344": {
+    "討伐報酬（紫色の宝箱）を　かくとく！": "A purple chest appears as a reward!"
+  },
+  "12372": {
+    "<%sB_TARGET>の\nなつき度が　最大値になった！": "<%sB_TARGET>'s\nhappiness has reached its maximum!"
+  },
+  "12402": {
+    "討伐報酬（紫色の宝箱）が　出現した！": "A purple treasure chest appears!"
+  },
+  "12430": {
+    "討伐報酬（赤色の宝箱）が　出現した！": "A red treasure chest appears!"
+  },
+  "12458": {
+    "<%sB_ACTOR>は\n<%dB_VALUE> Pの経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> EXP!"
+  },
+  "12489": {
+    "<%sB_ACTOR>は\n<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの\n経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> +<%dB_VALUE2>\n(Strong Enemy Bonus) EXP!"
+  },
+  "12537": {
+    "自己ベストを　更新した！": "You set a new personal best!"
+  },
+  "12556": {
+    "<%dB_VALUE>位の　ワールドレコードを記録した！": "Recorded a World Record of Rank <%dB_VALUE>!"
+  },
+  "12588": {
+    "ランキングに　名前を登録しても　よろしいですか？<yesno>": "May I add your name to the ranking?<yesno>"
+  },
+  "12628": {
+    "<%dB_VALUE>位で　ワールドレコードに登録した！": "Registered the World Record at Rank <%dB_VALUE>!"
+  },
+  "12660": {
+    "<%dB_VALUE>位に　匿名で　ワールドレコードに登録した！": "Anonymously registered in the World Ranking at Rank <%dB_VALUE>!"
+  },
+  "12698": {
+    "歴代の自己ベストを　更新した！<se_nots System 17>": "Set a new personal best!<se_nots System 17>"
+  },
+  "12731": {
+    "月間の自己ベストを　更新した！<se_nots System 17>": "Set a new monthly best!<se_nots System 17>"
+  },
+  "12764": {
+    "歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>\n記録を　登録します。": "Won overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE2>)!<se_nots System 17>\nThe records were registered."
+  },
+  "12842": {
+    "他のプレイヤーから　名前が見える状態で\n記録の登録をしても　よろしいですか？<yesno>": "You will register your record with your\nname visible to others. Is this okay?<yesno>"
+  },
+  "12902": {
+    "他のプレイヤーから　名前が見える状態で\n歴代ランキングと　月間ランキングに\n記録が　登録されました。": "Overall and monthly records have been\nregistered with name visible to others."
+  },
+  "12976": {
+    "他のプレイヤーから　名前が見えない状態で\n歴代ランキングと　月間ランキングに\n記録が　登録されました。": "Overall and monthly records have been\nregistered with name not visible to\nothers."
+  },
+  "13051": {
+    "月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>\n記録を　登録します。": "Won the monthly ranking at Rank <%dB_VALUE>!<se_nots System 17>\nRecords have been registered."
+  },
+  "13109": {
+    "他のプレイヤーから　名前が見える状態で\n月間ランキングに　記録が登録されました。": "Monthly records have been registered\nwith name visible to others."
+  },
+  "13169": {
+    "他のプレイヤーから　名前が見えない状態で\n月間ランキングに　記録が登録されました。": "Monthly records have been registered\nwith name not visible to others."
+  },
+  "13230": {
+    "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
+  },
+  "13277": {
+    "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new monthly best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
+  },
+  "13324": {
+    "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
+  },
+  "13380": {
+    "月間の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
+  },
+  "13436": {
+    "<%sB_TARGET>は　たおされた。": "<%sB_TARGET> is defeated."
+  },
+  "13455": {
+    "無制限部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE>) in the unlimited category!"
+  },
+  "13527": {
+    "無制限部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in\nthe unlimited category!<se_nots System 17>"
+  },
+  "13579": {
+    "職業重複なし部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE>) in the unique category!"
+  },
+  "13656": {
+    "職業重複なし部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in\nthe unique category!<se_nots System 17>"
+  },
+  "13713": {
+    "サポと１人で部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE>) in the support category!"
+  },
+  "13790": {
+    "サポと１人で部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in\nthe support category!<se_nots System 17>"
+  },
+  "13847": {
+    "無制限部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unlimited category!<se_nots System 17>"
+  },
+  "13902": {
+    "無制限部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unlimited category!<se_nots System 17>"
+  },
+  "13957": {
+    "職業重複なし部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
+  },
+  "14017": {
+    "職業重複なし部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
+  },
+  "14077": {
+    "サポと１人で部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
+  },
+  "14137": {
+    "サポと１人で部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
+  },
+  "14197": {
+    "無制限部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
+  },
+  "14260": {
+    "無制限部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
+  },
+  "14323": {
+    "職業重複なし部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
+  },
+  "14390": {
+    "職業重複なし部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
+  },
+  "14457": {
+    "サポと１人で部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
+  },
+  "14524": {
+    "サポと１人で部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
+  },
+  "14591": {
+    "ランキングに　登録します。\n他のプレイヤーから　名前が見える状態で\n記録の登録をしても　よろしいですか？<yesno>": "You will register your ranking with\nyour name visible to others. Is this\nokay?<yesno>"
+  },
+  "14671": {
+    "他のプレイヤーから　名前が見える状態で\nランキングに　登録されました。": "Registered in the ranking with name\nvisible to other players."
+  },
+  "14723": {
+    "他のプレイヤーから　名前が見えない状態で\nランキングに　登録されました。": "Registered in the ranking with name\nnot visible to other players."
+  },
+  "14777": {
+    "勇気の輝きが　<%dB_VALUE>回復した！": "Spark of Courage restored to <%dB_VALUE>!"
+  },
+  "14801": {
+    "勇気の輝きを　<%dB_VALUE>消費した。": "Consumed <%dB_VALUE> Spark of Courage."
+  },
+  "14825": {
+    "思い出アルバムに　写真を保存しています。\nしばらく　お待ちください。": "Saving the photo to your Photo Album.\nPlease wait a moment."
+  },
+  "14876": {
+    "思い出アルバムへの保存に　失敗しました。\nエラーコード：<%sERRID>": "Failed to save photo to your Photo Album.\nError code: <%sERRID>."
+  },
+  "14922": {
+    "光の霊玉を  <%dB_VALUE>個　かくとく！": "Received <%dB_VALUE> Orbs of Light!"
+  },
+  "14947": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 害虫駆除に 失敗した。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e fails the extermination."
   },
-  "17327": {
+  "14981": {
+    "クリア報酬(うつしよの天箱・改)が\nふたつ出現した！\n\nクリア報酬(うつしよの闇箱)が　出現した！": "Two Worldly Sky Boxes v2 and a\nWorldly Dark Box appear as clear rewards!"
+  },
+  "15048": {
+    "写真の保存を　中断しますか？\n<color_yellow>※保存を中断すると\n写真が　保存されない可能性があります。<color_white><yesno 2><close>": "Do you want to interrupt saving the photos?\n<color_yellow>If you say yes, the photos will not be saved.<color_white><yesno 2><close>"
+  },
+  "15134": {
+    "写真の保存を　中断しました。": "Photo saving has been interrupted."
+  },
+  "15156": {
+    "ターン消費しなかった！": "Turn was not used!"
+  },
+  "15173": {
+    "達人のオーブ\nレベルアップ！": "Master Orb\nlevel up!"
+  },
+  "15194": {
+    "タロットが\nふうじこめられている！": "Tarots\nare sealed!"
+  },
+  "15219": {
+    "タロットを\n消費しなかった！": "Tarot was\nnot consumed!"
+  },
+  "15240": {
+    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!\nA four-leaf clover treasure chest has appeared!"
+  },
+  "15295": {
+    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（紫色の宝箱）が　出現した！\n討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!\nA purple treasure chest has appeared!\nA four-leaf clover treasure chest has appeared!"
+  },
+  "15378": {
+    "ゴールドが足りない！": "Not enough Gold!"
+  },
+  "15394": {
+    "<%sB_JACK_NAME>の心を\n使うのをやめた": "Stopped using\n<%sB_JACK_NAME>'s Heart."
+  },
+  "15418": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは デスパワーを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use any death power!"
+  },
+  "15457": {
+    "解放アタック！\n誰も　捕まっていない！": "Liberation Attack!\nNo one was caught!"
+  },
+  "15485": {
+    "解放アタック！\nロックを１つ解除した！": "Release Attack!\nReleased 1 lock!"
+  },
+  "15513": {
+    "プリズンキーを入手！\nロックを１つ　解除した！": "Got Prison Key!\nReleased 1 lock!"
+  },
+  "15547": {
+    "プリズンキーを\n１つ消した！": "Removed one\nPrison Key!"
+  },
+  "15568": {
+    "まもののむれを 倒しきった！": "Defeated all of the monsters!"
+  },
+  "15589": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION> charge time accumulated <%dB_VALUE> sec.!"
+  },
+  "15640": {
+    "チャージタイムが\n発生しなかった！": "Charge time did\nnot happen!"
+  },
+  "15665": {
+    "親密度が\n<%dB_VALUE>にあがった！": "Bond increased to\n<%dB_VALUE>!"
+  },
+  "15687": {
+    "デスパワーを\n消費しなかった！": "Did not consume\nany Death Power!"
+  },
+  "15709": {
+    "クリア報酬(うつしよの極箱・改)が 出現した！": "A Very Worldly Box+ appears as a\nclear reward!"
+  },
+  "15741": {
+    "クリア報酬(うつしよの極箱・改)が ふたつ出現した！": "Two Very Worldly Box+ appear as a\nclear reward!"
+  },
+  "15778": {
+    "初回討伐報酬(金色の宝箱)が 出現した！": "A golden treasure chest appears as a\nfirst time clear reward!"
+  },
+  "15806": {
+    "<%sB_ACTION>のチャージ時間\n<%dB_VALUE>秒たまった！": "<%sB_ACTION>'s charge time\naccumulated <%dB_VALUE> sec.!"
+  },
+  "15838": {
+    "クリア報酬(うつしよの極箱・改)が　出現した！": "A Very Worldly Box+ appears as a\nclear reward!"
+  },
+  "15871": {
+    "クリア報酬(うつしよの極箱・改)が\nふたつ出現した！": "Two Very Worldly Box+ appear as a\nclear reward!"
+  },
+  "15908": {
+    "クリア報酬(うつしよの天箱・改)が 出現した！": "A Worldly Sky Box+ appears as a\nclear reward!"
+  },
+  "15940": {
+    "クリア報酬(うつしよの天箱・改)が ふたつ出現した！": "Two Worldly Sky Boxes v2 appear as a\nclear reward!"
+  },
+  "15977": {
+    "クリア報酬(うつしよの竜箱・改)が 出現した！": "A Worldly Dragon Box+ appears as a\nclear reward!"
+  },
+  "16009": {
+    "クリア報酬(うつしよの竜箱・改)が ふたつ出現した！": "Two Worldly Dragon Boxes v2 appear as a\nclear reward!"
+  },
+  "16046": {
+    "クリア報酬(うつしよの金箱・改)が ふたつ出現した！": "A Worldly Gold Box+ appears as a\nclear reward!"
+  },
+  "16083": {
+    "クリア報酬(うつしよの極箱・改)が 出現した！\nクリア報酬(うつしよの天箱・改)が 出現した！": "A Very Worldly Box+ and a Worldly Sky Box+\nappear as clear rewards!"
+  },
+  "16147": {
+    "クリア報酬(うつしよの極箱・改)が 出現した！\nクリア報酬(うつしよの竜箱・改)が 出現した！": "A Very Worldly Box+ and a\nWorldly Dragon Box+ appear as clear rewards!"
+  },
+  "16211": {
+    "クリア報酬(うつしよの極箱・改)が 出現した！\nクリア報酬(うつしよの金箱・改)が 出現した！": "A Very Worldly Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
+  },
+  "16275": {
+    "クリア報酬(うつしよの天箱・改)が 出現した！\nクリア報酬(うつしよの竜箱・改)が 出現した！": "A Worldly Sky Box+ and a\nWorldly Dragon Box+ appear as clear rewards!"
+  },
+  "16339": {
+    "クリア報酬(うつしよの天箱・改)が 出現した！\nクリア報酬(うつしよの金箱・改)が 出現した！": "A Worldly Sky Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
+  },
+  "16403": {
+    "クリア報酬(うつしよの竜箱・改)が 出現した！\nクリア報酬(うつしよの金箱・改)が 出現した！": "A Worldly Dragon Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
+  },
+  "16467": {
+    "クリア報酬(うつしよの天箱・改)が　出現した！": "A Worldly Sky Box+ appears as a\nclear reward!"
+  },
+  "16500": {
+    "クリア報酬(うつしよの天箱・改)が\nふたつ出現した！": "Two Worldly Sky Boxes v2 appear as a\nclear reward!"
+  },
+  "16537": {
+    "クリア報酬(うつしよの竜箱・改)が　出現した！": "A Worldly Dragon Box+ appears as a\nclear reward!"
+  },
+  "16570": {
+    "クリア報酬(うつしよの竜箱・改)が\nふたつ出現した！": "Two Worldly Dragon Boxes v2 appear as a\nclear reward!"
+  },
+  "16607": {
+    "クリア報酬(うつしよの金箱・改)が　出現した！": "A Worldly Gold Box appears as a\nclear reward!"
+  },
+  "16640": {
+    "クリア報酬(うつしよの金箱・改)が\nふたつ出現した！": "Two Worldly Gold Boxes v2 appear as a\nclear reward!"
+  },
+  "16677": {
+    "クリア報酬(うつしよの極箱・改)が　出現した！\nクリア報酬(うつしよの天箱・改が　出現した！": "A Very Worldly Box+ and a Worldly Sky Box+\nappear as clear rewards!"
+  },
+  "16743": {
+    "クリア報酬(うつしよの極箱・改)が　出現した！\nクリア報酬(うつしよの竜箱・改)が　出現した！": "A Very Worldly Box+ and a\nWorldly Dragon Box+ appear as clear rewards!"
+  },
+  "16809": {
+    "クリア報酬(うつしよの極箱・改)が　出現した！\nクリア報酬(うつしよの金箱・改)が　出現した！": "A Very Worldly Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
+  },
+  "16875": {
+    "クリア報酬(うつしよの天箱・改)が　出現した！\nクリア報酬(うつしよの竜箱・改)が　出現した！": "A Worldly Sky Box+ and a\nWorldly Dragon Box+ appear as clear rewards!"
+  },
+  "16941": {
+    "クリア報酬(うつしよの天箱・改)が　出現した！\nクリア報酬(うつしよの金箱・改)が　出現した！": "A Worldly Sky Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
+  },
+  "17007": {
+    "クリア報酬(うつしよの竜箱・改)が　出現した！\nクリア報酬(うつしよの金箱・改)が　出現した！": "A Worldly Dragon Box+ and a\nWorldly Gold Box+ appear as clear rewards!"
+  },
+  "17073": {
+    "どうぐが\nふうじこめられている！": "Items\nare sealed!"
+  },
+  "17097": {
+    "達人のオーブの　レベルがあがった！": "The Master Orb's level increases!"
+  },
+  "17123": {
+    "<%dB_VALUE> Pの\n達人経験値をかくとく！": "Received <%dB_VALUE> Master Orb EXP!"
+  },
+  "17149": {
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 親密度が あがって <%dB_VALUE2> → <%dB_VALUE>になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's bond increases from <%dB_VALUE2> to <%dB_VALUE>!"
+  },
+  "17203": {
+    "<%dB_VALUE> Pの経験値　<%dB_VALUE2> フェルド　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Feld!"
+  },
+  "17239": {
+    "<%dB_VALUE> フェルド　かくとく！": "Received <%dB_VALUE> Feld!"
+  },
+  "17261": {
+    "心の輝きが　<%dB_VALUE>回復した！": "Recovered <%dB_VALUE> Heart Energy!"
+  },
+  "17284": {
+    "全ての職業で <%sB_NAME>が <%dB_VALUE>あがった！": "<%sB_NAME> increases by <%dB_VALUE>\nin all vocations!"
+  },
+  "17314": {
+    "心の輝きを　<%dB_VALUE>消費した。": "Consumed <%dB_VALUE> Heart Energy."
+  },
+  "17337": {
     "なかまは\n<%dB_VALUE> Pの経験値を　かくとく！": "Your companions receive\n<%dB_VALUE> EXP!"
   },
-  "17357": {
+  "17367": {
     "なかま\n<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの\n経験値を　かくとく！": "Your companions receive\n<%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
+  },
+  "17413": {
+    "討伐タイムアタックランキング 無制限部門の <%dB_VALUE>位に 入賞しました！": ""
+  },
+  "17464": {
+    "討伐タイムアタックランキング サポと１人で部門の <%dB_VALUE>位に 入賞しました！": ""
+  },
+  "17520": {
+    "ランキングの判定に　失敗しました。": "The ranking decision failed."
+  },
+  "17546": {
+    "初回討伐報酬（金色の宝箱）が　出現した！": "A golden treasure chest appears as a\nfirst time clear reward!"
+  },
+  "17577": {
+    "討伐タイムアタックランキング 職業重複なし部門の <%dB_VALUE>位に 入賞しました！": ""
+  },
+  "17633": {
+    "討伐タイムアタックランキング　職業重複なし部門の\n<%dB_VALUE>位に　入賞しました！<se_nots System 17>": ""
+  },
+  "17700": {
+    "討伐タイムアタックランキング　無制限部門の\n<%dB_VALUE>位に　入賞しました！<se_nots System 17>": ""
+  },
+  "17763": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 経験値の通帳に なにも かくとくできなかった。": ""
+  },
+  "17814": {
+    "経験値の通帳に\n<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値を かくとく！": ""
+  },
+  "17864": {
+    "職業に <%dB_VALUE>Ｐの経験値を かくとく！": ""
+  },
+  "17892": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 経験値の通帳に <%dB_VALUE>Ｐの経験値を かくとく！": ""
+  },
+  "17944": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 経験値の通帳に <%dB_VALUE> Pの経験値を かくとく！": ""
+  },
+  "17995": {
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <pc_syokugyo>に <%dB_VALUE> Pの経験値を かくとく！": ""
+  },
+  "18044": {
+    "経験値の通帳に <%dB_VALUE>Ｐの経験値を　かくとく！": ""
+  },
+  "18079": {
+    "経験値の通帳に\n<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの\n経験値を　かくとく！": ""
+  },
+  "18131": {
+    "職業に <%dB_VALUE>Ｐの経験値を　かくとく！": ""
+  },
+  "18160": {
+    "討伐タイムアタックランキング　サポと１人で部門の\n<%dB_VALUE>位に　入賞しました！<se_nots System 17>": ""
   }
 }
