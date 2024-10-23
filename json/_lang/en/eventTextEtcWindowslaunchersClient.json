@@ -219,10 +219,10 @@
     "不正な引数が設定されています。起動ランチャーを終了します。": "An invalid argument has been set. Exit the launcher."
   },
   "302642": {
-    "エラー番号：DQ-10003-WL\nインターネットに接続されていません。\n正しくインターネットに接続できる状態か、\nまたはインターネットオプションで\n「TLS1.2の使用」がオフになっていないか\nご確認の上、もう一度お試しください。": "Error Code: DQ-10003-WL\nNo Internet connection.\nPlease make sure that you have a good Internet connection\nor that \"Use TLS1.2\" is not turned off in your\nInternet Options and try again."
+    "エラー番号：DQ-11003-WL\nインターネットに接続されていません。\n正しくインターネットに接続できる状態か、\nまたはインターネットオプションで\n「TLS1.2の使用」がオフになっていないか\nご確認の上、もう一度お試しください。": ""
   },
   "302643": {
-    "エラー番号：DQ-10004-WL\nサーバーへの接続が、できませんでした。\n正しくインターネットに接続できる状態か、\nまたはインターネットオプションで\n「TLS1.2の使用」がオフになっていないか\nご確認の上、もう一度お試しください。": "Error Code: DQ-10004-WL\nCould not connect to server.\nPlease make sure that you have a good Internet connection\nor that \"Use TLS1.2\" is not turned off in your\nInternet Options and try again."
+    "エラー番号：DQ-11004-WL\nサーバーへの接続が、できませんでした。\n正しくインターネットに接続できる状態か、\nまたはインターネットオプションで\n「TLS1.2の使用」がオフになっていないか\nご確認の上、もう一度お試しください。": ""
   },
   "302644": {
     "別のゲームパッドが接続されました。\nゲームを開始する前に、コンフィグで設定を確認してください。": "Another gamepad is connected.\nBefore starting the game, check the settings in the Config."
@@ -279,7 +279,7 @@
     "このプレイヤーではオンラインモードを、\nまだプレイできません。\n『冒険の書をつくる』から始めてください。": "This player cannot play online mode yet.\nStart with \"Create Adventure Log\"."
   },
   "302662": {
-    "エラー番号：DQ-10005-WL\nサーバーに接続できませんでした。インターネット環境や\nメンテナンス情報をご確認ください。\nまたはインターネットオプションで\n「TLS1.2の使用」がオフになっていないか\nご確認の上、もう一度お試しください。": "Error Code: DQ-10005-WL\nCould not connect to the server. Please check your Internet\nenvironment and maintenance information.\nPlease check if \"Use TLS1.2\" is not turned off in your\nInternet Options and try again."
+    "エラー番号：DQ-11005-WL\nサーバーに接続できませんでした。インターネット環境や\nメンテナンス情報をご確認ください。\nまたはインターネットオプションで\n「TLS1.2の使用」がオフになっていないか\nご確認の上、もう一度お試しください。": ""
   },
   "302663": {
     "これ以上のプレイヤーは登録出来ません。": "No more players can be registered."
@@ -339,7 +339,7 @@
     "有効なサービスアカウントが存在しないため": "Because no valid service account exists"
   },
   "302682": {
-    "有効なサービスアカウントが存在しないため、ログインできませんでした。\n詳しくは、スクウェア・エニックス サポートセンターからお問い合わせください。\nゲームをプレイするために、アストルティア入国管理局で\nレジストレーションコードを登録してください。": "Login failed because no valid service account exists.\nFor more information, please contact the Square Enix Support Center.\nTo play the game, please register your registration code\nat the Astortia Immigration Bureau."
+    "有効なサービスアカウントが確認できないため、ログインできませんでした。\n詳しくは、スクウェア・エニックス サポートセンターからお問い合わせください。\n新規にゲームをプレイする場合は、アストルティア入国管理局で\nレジストレーションコードを登録してください。": ""
   },
   "302683": {
     "https://hiroba.dqx.jp/sc/public/playguide/guide_1_2_win#registration": ""
@@ -393,19 +393,19 @@
     "かんたんプレイ": "Easy Play"
   },
   "302700": {
-    "エラー番号：DQ-10001-WL\nかんたんプレイのログイン情報が確認できないため\nゲームを開始することができません。\nパソコンの再起動をお試しいただき\nそれでも問題が解決しない場合は\n「ドラゴンクエストⅩ」サポートセンターのページを\nご確認ください。\nhttp://sqex.to/eh6": "Error Code: DQ-10001-WL\nThe game cannot be started because the login\ninformation for Easy Play cannot be verified.\nIf the problem persists after restarting your\ncomputer, please check the \"Dragon Quest X\"\nSupport Center page.\nhttp://sqex.to/eh6"
+    "エラー番号：DQ-11001-WL\nかんたんプレイのログイン情報が確認できないため\nゲームを開始することができません。\nパソコンの再起動をお試しいただき\nそれでも問題が解決しない場合は\n「ドラゴンクエストⅩ」サポートセンターのページを\nご確認ください。\nhttp://sqex.to/eh6": ""
   },
   "302701": {
-    "エラー番号：%d\nシステムエラーが発生しました。\n時間がたっても問題が解決しない場合は\nアカウントの情報をご確認の上\n「ドラゴンクエストⅩ」サポートセンターの\nページから　お問い合わせください。\nhttp://sqex.to/eh6": "Error Code: %d\nA system error has occurred.\nIf the problem persists after some time,\nplease check your account information and\ncontact the \"Dragon Quest X\" Support Center.\nhttp://sqex.to/eh6"
+    "エラー番号：DQ-%05d-WL\nシステムエラーが発生しました。\n時間がたっても問題が解決しない場合は\nアカウントの情報をご確認の上\n「ドラゴンクエストⅩ」サポートセンターの\nページから　お問い合わせください。\nhttp://sqex.to/eh6": ""
   },
   "302702": {
-    "エラー番号：DQ-10002-WL\nネットワークエラーが発生しました。\nご使用の接続環境を　ご確認の上\n少し時間を置いてから　もう一度お試しください。\nそれでも問題が解決しない場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttp://sqex.to/eh6": "Error Code: DQ-10002-WL\nA network error has occurred.\nPlease check your connection environment and\ntry again after a few minutes.\nIf the problem persists, please check the\"Dragon Quest X\" Support Center page.\nhttp://sqex.to/eh6"
+    "エラー番号：DQ-11002-WL\nネットワークエラーが発生しました。\nご使用の接続環境を　ご確認の上\n少し時間を置いてから　もう一度お試しください。\nそれでも問題が解決しない場合は\n「ドラゴンクエストⅩ」サポートセンターのページも\nご確認ください。\nhttp://sqex.to/eh6": ""
   },
   "302703": {
-    "エラー番号：%d\nかんたんプレイのログイン情報が確認できないため\nつづきから冒険を再開することができません。\nかんたんプレイから新しく冒険をはじめられますが\nスクウェア・エニックス　アカウントを作成して\nプレイヤー登録を行うことをおすすめします。": "Error Code: %d\nBecause the login information for Easy Play\ncannot be confirmed, the adventure cannot be\nresumed from where it left off.\nYou can start a new adventure with Easy Play,\nbut we recommend that you create a Square Enix\naccount and register as a player."
+    "エラー番号：DQ-%05d-WL\nかんたんプレイのログイン情報が確認できないため\nつづきから冒険を再開することができません。\nかんたんプレイから新しく冒険をはじめられますが\nスクウェア・エニックス　アカウントを作成して\nプレイヤー登録を行うことをおすすめします。": ""
   },
   "302704": {
-    "エラー番号：%d\n現在メンテナンス中のためログインできません。\n『スクウェア・エニックスからのお知らせ』の\nサーバー・メンテナンス情報をご確認ください。": "Error Code: %d\nYou cannot log in at the moment due to maintenance.\nPlease check server maintenance information in\n\"Notice From Square Enix\"."
+    "エラー番号：DQ-%05d-WL\n現在メンテナンス中のためログインできません。\n『スクウェア・エニックスからのお知らせ』の\nサーバー・メンテナンス情報をご確認ください。": ""
   },
   "302705": {
     "かんたんプレイ 【%s】": "Easy Play [%s]"
@@ -424,5 +424,8 @@
   },
   "324923": {
     "コンポーネントの初期化に失敗しました。\n何度もこのエラーが起こる場合は\nMicrosoft Edge WebView2を\nインストールしてから再度お試しください。\nまた合わせて必要環境を満たしているか\n一度　ご確認ください。\nhttps://sqex.to/JnR": "The initialization of the component failed. If you\nencounter this error repeatedly, please install\nMicrosoft Edge WebView2 and try again. Also,\nplease ensure that you meet the necessary system\nrequirements.\nhttps://sqex.to/JnR"
+  },
+  "331932": {
+    "セーブファイルの読み込みに失敗しました。\n次のような問題が考えられます。\n　・セーブファイルが破損している\n　・OneDriveのフォルダに保存されている\nエラーの詳細については\n「ドラゴンクエストⅩ」プレイガイドのページも\nご確認ください。\nhttps://sqex.to/QhPnn": ""
   }
 }
