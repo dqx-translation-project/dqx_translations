@@ -339,7 +339,7 @@
     "試合時のみダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "PvP Only Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "4743": {
-    "不意をつく確率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%<ban>": ""
+    "不意をつく確率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%<ban>": "Surprise Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% (PvP×)"
   },
   "4816": {
     "ＭＰ吸収率 +<%sB_renkin1>.<%sB_renkin2>%<%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_percent><%sB_kokka>": "MP Absorption +<%sB_renkin1>.<%sB_renkin2>%<%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_percent><%sB_kokka>"
@@ -420,7 +420,7 @@
     "致死ダメージ時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で生存": "Survive Lethal Damage <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "5480": {
-    "ＭＰ消費しない率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%<ban>": ""
+    "ＭＰ消費しない率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%<ban>": "MP Saver + <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% (PvP×)"
   },
   "5555": {
     "各弱体系耐性 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Debilitation Resistance +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -624,43 +624,43 @@
     "戦いで使うと 敵を幻惑させる": "Use in battle to dazzle the enemy."
   },
   "8302": {
-    "たまに　2回攻撃できる<ban>": ""
+    "たまに　2回攻撃できる<ban>": "Sometimes Attack Twice (PvP×)"
   },
   "8321": {
-    "たまに　ＨＰ1で生き残る<ban>": ""
+    "たまに　ＨＰ1で生き残る<ban>": "Sometimes Survive At 1 HP (PvP×)"
   },
   "8341": {
-    "たまに敵の攻撃を受けながし攻撃<ban>": ""
+    "たまに敵の攻撃を受けながし攻撃<ban>": "Chance to Deflect and Counter (PvP×)"
   },
   "8367": {
-    "ガード時たまに相手をマヒさせる<ban>": ""
+    "ガード時たまに相手をマヒさせる<ban>": "Chance to Paralyze On Guard (PvP×)"
   },
   "8393": {
-    "たまに　アイテムをぬすむ<ban>": ""
+    "たまに　アイテムをぬすむ<ban>": "Sometimes Steal Items (PvP×)"
   },
   "8414": {
-    "たまに 同じ呪文が2回唱えられる<ban>": ""
+    "たまに 同じ呪文が2回唱えられる<ban>": "Chance to Echo Spellcasts (PvP×)"
   },
   "8439": {
-    "戦闘で獲得するゴールドが増える<ban>": ""
+    "戦闘で獲得するゴールドが増える<ban>": "Earn More Gold From Battles (PvP×)"
   },
   "8465": {
-    "たまに　攻撃時ＭＰ回復量アップ<ban>": ""
+    "たまに　攻撃時ＭＰ回復量アップ<ban>": "May Recover More MP On Attack (PvP×)"
   },
   "8491": {
-    "不意をつく確率アップ<ban>": ""
+    "不意をつく確率アップ<ban>": "Surprise Enemy Rate Boost (PvP×)"
   },
   "8509": {
     "行動時 たまに消費ＭＰが 25%に": "Save MP On Action 25%"
   },
   "8530": {
-    "ダメージ時　たまにためる<ban>": ""
+    "ダメージ時　たまにためる<ban>": "May Gain Tension When Struck (PvP×)"
   },
   "8551": {
     "ほとんどの装備品を装備できる": "Can wear most equipment."
   },
   "8573": {
-    "たまに　攻撃時ＭＰ回復<ban>": ""
+    "たまに　攻撃時ＭＰ回復<ban>": "May Recover MP On Attack (PvP×)"
   },
   "8593": {
     "左手の攻撃力アップ": "Left Hand Attack Up"
@@ -714,19 +714,19 @@
     "期間中　時々魔物が　晴れ呼びの笹を落とす": "Monsters can drop Bamboo Grass"
   },
   "8966": {
-    "ゴールドの消費量アップ<ban>": ""
+    "ゴールドの消費量アップ<ban>": "Gold Consumption Boost (PvP×)"
   },
   "8986": {
-    "ゴールドを使う特技の威力アップ<ban>": ""
+    "ゴールドを使う特技の威力アップ<ban>": "Gold Cost Skill Boost (PvP×)"
   },
   "9012": {
-    "たまに　同じ特技を2回行う<ban>": ""
+    "たまに　同じ特技を2回行う<ban>": "May Use Skill Twice (PvP×)"
   },
   "9034": {
     "地中にいる　魔物の姿が見える": "Underground monsters become visible"
   },
   "9056": {
-    "呪文を受けた時　たまにＭＰ回復<ban>": ""
+    "呪文を受けた時　たまにＭＰ回復<ban>": "May Recover MP From Spell Hits (PvP×)"
   },
   "9082": {
     "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で必殺チャージ": "Starting Special Charge <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -780,22 +780,22 @@
     "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で心頭滅却": "Starting Clear Mind <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "9784": {
-    "転生モンスター出現率 1.1倍<ban>": ""
+    "転生モンスター出現率 1.1倍<ban>": "Rarefied Enemy Rate 1.1x (PvP×)"
   },
   "9806": {
     "ごくまれに　魔物がエンゼルハーツを落とす": "Monsters very rarely drop Angel Hearts"
   },
   "9837": {
-    "敵を倒すと <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる<ban>": ""
+    "敵を倒すと <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる<ban>": "Killer Tension <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (PvP×)"
   },
   "9888": {
-    "メタル系モンスター出現率 1.1倍<ban>": ""
+    "メタル系モンスター出現率 1.1倍<ban>": "Metal Monster Rate 1.1x (PvP×)"
   },
   "9913": {
     "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%マホトラのころも": "Starting Magic Cloak <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "9964": {
-    "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%天使の守り<ban>": ""
+    "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%天使の守り<ban>": "Starting Goddess' Grace <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (PvP×)"
   },
   "10013": {
     "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でぶきみなひかり": "Spooky Aura Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -828,7 +828,7 @@
     "なつき度により主人に絆の力発動": "Invokes a bond based on happiness level"
   },
   "10407": {
-    "<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でターン消費なし<ban>": ""
+    "<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でターン消費なし<ban>": "Free Turn <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% (PvP×)"
   },
   "10481": {
     "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でボミエ": "Decelerate Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -837,7 +837,7 @@
     "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で聖なる祈り": "Starting Care Prayer <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "10574": {
-    "1.0%でターン消費なし<ban>": ""
+    "1.0%でターン消費なし<ban>": "Free Turn 1% (PvP×)"
   },
   "10591": {
     "こうげき力上昇の時間が<%sB_renkin1>秒増加": "Attack Boost Duration +<%sB_renkin1>s"
@@ -921,7 +921,7 @@
     "全ての攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "11817": {
-    "タロットでたまにテンション維持<ban>": ""
+    "タロットでたまにテンション維持<ban>": "Tarots May Maintain Tension (PvP×)"
   },
   "11843": {
     "行動時 <%sB_renkin1>%でバイシオン": "Oomph On Action <%sB_renkin1>%"
@@ -975,7 +975,7 @@
     "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で闇耐性低下": "Dark Resistance Down Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "12686": {
-    "特技のダメージ +<%sB_renkin1><ban>": "Skill Damage +<%sB_renkin1> (PvPｘ)"
+    "特技のダメージ +<%sB_renkin1><ban>": "Skill Damage +<%sB_renkin1> (PvP×)"
   },
   "12707": {
     "トラシュカで　海に落ちても一度だけ復活": "Immediately revive one time"
@@ -1008,7 +1008,7 @@
     "全ての属性攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "All Attribute Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "13156": {
-    "味方死亡時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる<ban>": ""
+    "味方死亡時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でためる<ban>": "Tension Revenge <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (PvP×)"
   },
   "13207": {
     "やいばのぼうぎょ時のダメージ <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%減": "Damage Reduction During Pincushion <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -1056,7 +1056,7 @@
     "トラシュカで　鳥をとると一定時間無敵": "Birds grant temporary invulnerability"
   },
   "13973": {
-    "きまぐれが起こる確率が上がる<ban>": ""
+    "きまぐれが起こる確率が上がる<ban>": "Whimsical Action Chance Boost (PvP×)"
   },
   "13997": {
     "死亡時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でこうげき力上昇が消えない": "Undying Attack Boost <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -1512,13 +1512,13 @@
     "味方死亡時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で聖女の守り": "Alma Mater Revenge <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "23580": {
-    "特技の回復量 +<%sB_renkin1><ban>": ""
+    "特技の回復量 +<%sB_renkin1><ban>": "Skill Recovery +<%sB_renkin1> (PvP×)"
   },
   "23600": {
-    "呪文のダメージ +<%sB_renkin1><ban>": ""
+    "呪文のダメージ +<%sB_renkin1><ban>": "Spell Damage +<%sB_renkin1> (PvP×)"
   },
   "23621": {
-    "呪文の回復量 +<%sB_renkin1><ban>": ""
+    "呪文の回復量 +<%sB_renkin1><ban>": "Spell Recovery +<%sB_renkin1> (PvP×)"
   },
   "23641": {
     "炎の攻撃ダメージ +0.5%": "Fire Damage +0.5%"
@@ -1569,10 +1569,10 @@
     "開戦時 25%でヘヴィチャージ": "Starting Heavy Charge 25%"
   },
   "23896": {
-    "開戦時 5%天使の守り<ban>": ""
+    "開戦時 5%天使の守り<ban>": "Starting Goddess' Grace 5% (PvP×)"
   },
   "23913": {
-    "開戦時 7%天使の守り<ban>": ""
+    "開戦時 7%天使の守り<ban>": "Starting Goddess' Grace 7% (PvP×)"
   },
   "23930": {
     "会心と暴走時魔物にダメージ +1": "Critical/Haywire Damage +1"
@@ -1656,7 +1656,7 @@
     "盾装備で　開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%マホトラのころも": "Starting Shield Magic Cloak <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "25247": {
-    "盾装備で　開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%天使の守り<ban>": ""
+    "盾装備で　開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%天使の守り<ban>": "Starting Shield Goddess' Grace <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (PvP×)"
   },
   "25304": {
     "盾装備で　開戦時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でキラキラポーン": "Starting Shield Snap Crack Poof <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -3624,10 +3624,10 @@
     "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%でためる": "Starting Tension Up <%dB_renkin> (<%+dB_renkindiff>)%"
   },
   "62902": {
-    "敵を倒すと <%dB_renkin>（<%+dB_renkindiff>）%でためる<ban>": ""
+    "敵を倒すと <%dB_renkin>（<%+dB_renkindiff>）%でためる<ban>": "Killer Tension <%dB_renkin> (<%+dB_renkindiff>)% (PvP×)"
   },
   "62937": {
-    "<%dB_renkin>（<%+dB_renkindiff>）%でターン消費なし<ban>": ""
+    "<%dB_renkin>（<%+dB_renkindiff>）%でターン消費なし<ban>": "Free Turn <%dB_renkin> (<%+dB_renkindiff>)% (PvP×)"
   },
   "62970": {
     "開戦時 <%dB_renkin>（<%+dB_renkindiff>）%で魔力かくせい": "Starting Channel Anger <%dB_renkin> (<%+dB_renkindiff>)%"
@@ -3834,7 +3834,7 @@
     "レアドロップ率 ？倍": "Rare Drop Rate ?x"
   },
   "63893": {
-    "敵を倒すと ？%でためる<ban>": ""
+    "敵を倒すと ？%でためる<ban>": "Killer Tension ?% (PvP×)"
   },
   "63912": {
     "炎の攻撃ダメージ +？%": "Fire Damage +?%"
@@ -3984,7 +3984,7 @@
     "開戦時 ？%マホトラのころも": "Starting Magic Cloak ?%"
   },
   "64749": {
-    "開戦時 ？%天使の守り<ban>": ""
+    "開戦時 ？%天使の守り<ban>": "Starting Goddess' Grace ?% (PvP×)"
   },
   "64767": {
     "開戦時 ？%でキラキラポーン": "Starting Snap Crackle Poof ?%"
@@ -4059,7 +4059,7 @@
     "絆時 ？%で主人のＭＰ20回復": "Recover 20 MP For Master On Bond ?%"
   },
   "65240": {
-    "？%でターン消費なし<ban>": ""
+    "？%でターン消費なし<ban>": "Free Turn ?% (PvP×)"
   },
   "65257": {
     "攻撃力アップの時間が？秒増加": "Attack Boost Duration +?s"
@@ -4086,13 +4086,13 @@
     "絆時 ？%で主人に": "For Master On Bond ?%"
   },
   "65415": {
-    "会心と暴走ダメージ +1<ban>": ""
+    "会心と暴走ダメージ +1<ban>": "Critical/Haywire Damage +1 (PvP×)"
   },
   "65433": {
-    "会心と暴走ダメージ +3<ban>": ""
+    "会心と暴走ダメージ +3<ban>": "Critical/Haywire Damage +3 (PvP×)"
   },
   "65451": {
-    "会心と暴走ダメージ +5<ban>": ""
+    "会心と暴走ダメージ +5<ban>": "Critical/Haywire Damage +5 (PvP×)"
   },
   "65469": {
     "会心＆呪文暴走率 +1.0%": "Critical/Haywire Rate +1%"
@@ -4176,7 +4176,7 @@
     "盾装備で　開戦時 ？%でマホトラのころも": "Starting Shield Magic Cloak ?%"
   },
   "65964": {
-    "盾装備で　開戦時 ？%天使の守り<ban>": ""
+    "盾装備で　開戦時 ？%天使の守り<ban>": "Starting Shield Goddess' Grace ?% (PvP×)"
   },
   "65989": {
     "盾装備で　開戦時 ？%でキラキラポーン": "Starting Shield Snap Crack Poof ?%"
@@ -4611,7 +4611,7 @@
     "メタル系モンスター出現率 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>倍": "Metal-type Monster Appearance Rate <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>x"
   },
   "70196": {
-    "デスパワーを たまに消費しない<ban>": ""
+    "デスパワーを たまに消費しない<ban>": "Free Death Power Chance (PvP×)"
   },
   "70221": {
     "死亡時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%で呪文回復上昇が消えない": "Undying Spell Recovery Boost <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -4659,7 +4659,7 @@
     "テンション時魔物にダメージ+<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Damage During Tension +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
   },
   "70714": {
-    "受けた呪文を<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で反射<ban>": ""
+    "受けた呪文を<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で反射<ban>": "Spell Reflection Rate <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>% (PvP×)"
   },
   "70769": {
     "トラシュカで　常に移動速度が少しアップ": "Slightly increases movement speed"
@@ -4680,7 +4680,7 @@
     "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で行動間隔延長と呪文威力上昇": "Action Interval/Spell Power Up Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "71063": {
-    "魔の波動が ためやすくなる<ban>": ""
+    "魔の波動が ためやすくなる<ban>": "Inner Darkness Boost (PvP×)"
   },
   "71085": {
     "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でテンション消費なし": "Maintain Tension <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -5523,7 +5523,7 @@
     "戦闘時チャージタイム -<%sB_renkin1>秒": "Starting Charge Time -<%sB_renkin1>s"
   },
   "76103": {
-    "銃撃時たまにテンション維持<ban>": ""
+    "銃撃時たまにテンション維持<ban>": "May Maintain Tension On Shoot (PvP×)"
   },
   "76126": {
     "マヌーサを習得": "Learn Dazzle"
@@ -5718,7 +5718,7 @@
     "会心と暴走時魔物にダメージ +10": "Critical/Haywire Damage +10"
   },
   "77148": {
-    "呪文と特技のダメージ +<%sB_renkin1><ban>": "Spell & Skill Damage +<%sB_renkin1> (PvPｘ)"
+    "呪文と特技のダメージ +<%sB_renkin1><ban>": "Spell & Skill Damage +<%sB_renkin1> (PvP×)"
   },
   "77174": {
     "行動時 <%sB_renkin1>%でスカラ2段階": "Buff x2 On Action <%sB_renkin1>%"
@@ -5925,7 +5925,7 @@
     "職人Ｌｖ74以下で装備時　職人経験値1.5倍": "Craft EXP x1.5 if wearer is under Lv74"
   },
   "78761": {
-    "呪文と特技の回復量 +<%sB_renkin1><ban>": ""
+    "呪文と特技の回復量 +<%sB_renkin1><ban>": "Spell & Skill Recovery +<%sB_renkin1> (PvP×)"
   },
   "78785": {
     "開戦時 100%でバイシオン": "Starting Oomph 100%"
@@ -6048,7 +6048,7 @@
     "ラダ・ガート召喚を　おぼえる": "Learn Call Lada Gart"
   },
   "79880": {
-    "呪文の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka><ban>": ""
+    "呪文の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka><ban>": "Spell Recovery +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka> (PvP×)"
   },
   "79926": {
     "開戦時 100%で魔力かくせいと早詠みの杖": ""
