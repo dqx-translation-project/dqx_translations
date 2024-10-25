@@ -1335,7 +1335,7 @@
     "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_SEAL_KOUKA>を 封印した！": "Sealed <%sL_SEAL_KOUKA> using <%nL_POINT_NUM> <%sL_KISEKI>!"
   },
   "43084": {
-    "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_BELT_NAME>の効果の 封印状態を <%nL_SEAL_NUM>種類 解除した！\nこれまで封印に使った <%sL_KISEKI> <%nL_GET_NUM>個が 戻ってきた！": ""
+    "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って\n<%sL_BELT_NAME>の効果の 封印状態を <%nL_SEAL_NUM>種類 解除した！\nこれまで封印に使った <%sL_KISEKI> <%nL_GET_NUM>個が 戻ってきた！": "Used <%dL_POINT_NUM> <%sL_KISEKI> to remove\n<%dL_SEAL_NUM> sealed effect(s) for the <%sL_BELT_NAME>!\nThe <%dL_GET_NUM> <%sL_KISEKI> used to seal is refunded!"
   },
   "43130": {
     "札強化屋から <%sL_GET_ITEM>を もらった！": "Received <%sL_GET_ITEM> from the Card Enhancer!"
@@ -2193,7 +2193,7 @@
     "一時預かりぶくろから <%sL_ITEM>を 取り出した。": "Took out <%sL_ITEM> from temporary storage."
   },
   "53675": {
-    "一時預かりぶくろから<%sL_ITEM>を<%dL_QUANTITY>個取り出した。": ""
+    "一時預かりぶくろから<%sL_ITEM>を<%dL_QUANTITY>個取り出した。": "Took out <%dL_QUANTITY> <%sL_ITEM> from Temporary Storage."
   },
   "53746": {
     "<%sL_ITEM> <%dL_UseNum>個を <%sL_ITEM2> <%dL_Num2>個と交換した！": "Exchanged <%dL_UseNum> <%sL_ITEM> for <%dL_Num2> <%sL_ITEM2>!"
@@ -2853,7 +2853,7 @@
     "削除予定": "For Deletion"
   },
   "58934": {
-    "商品『<%sL_GOODS>』を \n<%dL_POINT_NUM>ショップポイントと　交換した！": ""
+    "商品『<%sL_GOODS>』を \n<%dL_POINT_NUM>ショップポイントと　交換した！": "Exchanged <%dL_POINT_NUM> Shop Points for the\n<%sL_GOODS>!"
   },
   "58986": {
     "を\n郵便局に送ってもらった！": "\nwas sent to the post office!"
@@ -3165,63 +3165,63 @@
     "<%sM_snpc>に　<%sM_ITEM>を　<%nM_NUM>こ渡した。\n所持数 <%nM_BEFORE_NUM>こ → <%nM_AFTER_NUM>こ　になった。": "Gave <%dM_NUM> <%sM_ITEM> to <%sM_snpc>.\nWent from <%dM_BEFORE_NUM> to <%dM_AFTER_NUM> held."
   },
   "63163": {
-    "商品『<%sL_GOODS>』を\n<%dL_POINT_NUM>ショップポイントと<%dL_PGOLD_NUM>プレミアムゴールドで　交換した！": ""
+    "商品『<%sL_GOODS>』を\n<%dL_POINT_NUM>ショップポイントと<%dL_PGOLD_NUM>プレミアムゴールドで　交換した！": "Exchanged <%dL_POINT_NUM> Shop Points and <%dL_PGOLD_NUM> Premium Gold\nfor the <%sL_GOODS>!"
   },
   "63164": {
-    "商品『<%sL_GOODS>』を \n<%dL_PGOLD_NUM>プレミアムゴールドと　交換した！": ""
+    "商品『<%sL_GOODS>』を \n<%dL_PGOLD_NUM>プレミアムゴールドと　交換した！": "Exchanged <%dL_PGOLD_NUM> Premium Gold\nfor the <%sL_GOODS>!"
   },
   "63443": {
-    "<%sL_SEAL_KOUKA>の封印状態を 解除した！": ""
+    "<%sL_SEAL_KOUKA>の封印状態を 解除した！": "<%sL_SEAL_KOUKA>'s seal is removed!"
   },
   "63452": {
-    "商品『<%sL_GOODS>』を \n<%dL_PGOLD_NUM>プレミアムゴールドで 購入した！": ""
+    "商品『<%sL_GOODS>』を \n<%dL_PGOLD_NUM>プレミアムゴールドで 購入した！": "Purchased the <%sL_GOODS>\nfor <%dL_PGOLD_NUM> Premium Gold!"
   },
   "63565": {
-    "<kyodai>の かみの色４を <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>の かみの色４を <%sM_old>から <%sM_new>に変えた！": "Changed <kyodai>'s hair color 4 from\n<%sM_old> to <%sM_new>!"
   },
   "63566": {
-    "美容院で かみの色３を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で かみの色３を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your hair color 3 from <%sM_old> to\n<%sM_new> with <%dM_gold> G at the Salon!"
   },
   "63567": {
-    "<%sM_name>の かみの色３を\n<%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>の かみの色３を\n<%sM_old>から <%sM_new>に変えた！": "<%sM_name>'s hair color 3 changes from\n<%sM_old> to <%sM_new>!"
   },
   "63568": {
-    "美容院で <%sM_name>の かみの色３を\n<%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>の かみの色３を\n<%sM_old>から <%sM_new>に変えた！": "<%sM_name>'s hair color 3 changes from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "63569": {
-    "<kyodai>の かみの色３を <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>の かみの色３を <%sM_old>から <%sM_new>に変えた！": "<kyodai>'s hair color 3 changes from\n<%sM_old> to <%sM_new>!"
   },
   "63570": {
-    "美容院で かみの色４を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
+    "美容院で かみの色４を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "Changed your hair color 4 from <%sM_old> to\n<%sM_new> with <%dM_gold> G at the Salon!"
   },
   "63571": {
-    "<%sM_name>の かみの色４を\n<%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>の かみの色４を\n<%sM_old>から <%sM_new>に変えた！": "<%sM_name>'s hair color 4 changes from\n<%sM_old> to <%sM_new>!"
   },
   "63572": {
-    "美容院で <%sM_name>の かみの色４を\n<%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>の かみの色４を\n<%sM_old>から <%sM_new>に変えた！": "<%sM_name>'s hair color 3 changes from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "63573": {
-    "美容院で かみの色３のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で かみの色３のツヤを <%sM_old>から <%sM_new>に変えた！": "<%sM_name>'s hair color 3 gloss changes from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "63574": {
-    "<%sM_name>の かみの色３のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>の かみの色３のツヤを\n<%sM_old>から <%sM_new>に変えた！": "<%sM_name>'s hair color 3 gloss changes from\n<%sM_old> to <%sM_new>!"
   },
   "63575": {
-    "美容院で <%sM_name>の かみの色３のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>の かみの色３のツヤを\n<%sM_old>から <%sM_new>に変えた！": "<%sM_name>'s hair color 3 gloss changes from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "63576": {
-    "<kyodai>の かみの色３のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>の かみの色３のツヤを <%sM_old>から <%sM_new>に変えた！": "<kyodai>'s hair color 3 gloss changes from\n<%sM_old> to <%sM_new>!"
   },
   "63577": {
-    "美容院で かみの色４のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で かみの色４のツヤを <%sM_old>から <%sM_new>に変えた！": "Changed your hair color 4 gloss from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "63578": {
-    "<%sM_name>の かみの色４のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+    "<%sM_name>の かみの色４のツヤを\n<%sM_old>から <%sM_new>に変えた！": "<%sM_name>'s hair color 4 gloss changes from\n<%sM_old> to <%sM_new>!"
   },
   "63579": {
-    "美容院で <%sM_name>の かみの色４のツヤを\n<%sM_old>から <%sM_new>に変えた！": ""
+    "美容院で <%sM_name>の かみの色４のツヤを\n<%sM_old>から <%sM_new>に変えた！": "<%sM_name>'s hair color 4 gloss changes from\n<%sM_old> to <%sM_new> at the Salon!"
   },
   "63580": {
-    "<kyodai>の かみの色４のツヤを <%sM_old>から <%sM_new>に変えた！": ""
+    "<kyodai>の かみの色４のツヤを <%sM_old>から <%sM_new>に変えた！": "<kyodai>'s hair color 4 gloss changes from\n<%sM_old> to <%sM_new>!"
   }
 }
