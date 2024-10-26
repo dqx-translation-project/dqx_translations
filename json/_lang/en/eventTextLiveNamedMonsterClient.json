@@ -42,16 +42,16 @@
     "「……おや。あなたは　冒険に出てから\n　２４時間　経過していないため\n　この秘術をかけることが　できないようです。\n<bw_break>": "..... You can't cast this spell because you\nhaven't been on an adventure for 24 hours...<bw_break>"
   },
   "257313": {
-    "「本当に　細胞回収器を使って\n　<%sM_MONSTER>と　戦うということで\n　よろしいのですね？\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>": "Are you sure you want to use the cell\nreclaimer to fight <%sM_MONSTER>?<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>"
+    "「本当に　細胞回収器を使って\n　<%sM_MONSTER>と　戦うということで\n　よろしいのですね？\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>": "Use the Cell Collector to fight\n<%sM_MONSTER>?\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>"
   },
   "257314": {
-    "「負けない自信が　おありのようですね\n　本当に　細胞回収器を使わずに\n　<%sM_MONSTER>と戦って　よろしいのですね？\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>": "Are you sure you're confident you can fight\n<%sM_MONSTER> without using the cell\nreclaimer?<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>"
+    "「負けない自信が　おありのようですね\n　本当に　細胞回収器を使わずに\n　<%sM_MONSTER>と戦って　よろしいのですね？\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>": "Are you really sure you're confident enough\nto fight <%sM_MONSTER>\nwithout using a Cell Collector?\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>"
   },
   "257781": {
-    "<select_se_off>\nそのまま戦う\n細胞回収器を使って戦う\nやめる\n<select_end><case 1><break><case 2><break><case 3><close><case_cancel><close><case_end>": "<select_se_off>\nKeep fighting\nUse the cell reclaimer to fight\nstop\n<select_end><case 1><break><case 2><break><case 3><close><case_cancel><close><case_end>"
+    "<select_se_off>\nそのまま戦う\n細胞回収器を使って戦う\nやめる\n<select_end><case 1><break><case 2><break><case 3><close><case_cancel><close><case_end>": "<select_se_off>\nFight As Is\nFight with Cell Collector\nCancel\n<select_end><case 1><break><case 2><break><case 3><close><case_cancel><close><case_end>"
   },
   "257782": {
-    "「細胞回収器を　お持ちでないようですね。\n　近くにおります　輝晶術士レビィから\n　お求めください。\n<end>": "I'm afraid you don't have a cell retrieval\nsystem. You'll have to get it from the nearby\npyromancer, Levy.<end>"
+    "「細胞回収器を　お持ちでないようですね。\n　近くにおります　輝晶術士レビィから\n　お求めください。\n<end>": "It appears you don't have a Cell Collector.\nYou can get one from Levy nearby.\n<end>"
   },
   "257783": {
     "「<%sM_MONSTER>を　速成培養するのなら\n　魔因細胞を　<%nM_ITEM_NUM>個　いただきます。\n　勝敗によらず消費されますが　よろしいですか？\n<break>": "If you're going to accelerate the cultivation\nof <%sM_MONSTER>, you'll need\n<%dM_ITEM_NUM> Demon Cells.\n<br>\nThe cells will be consumed regardless of\nwhether you win or lose. Is that fine?\n<break>"
