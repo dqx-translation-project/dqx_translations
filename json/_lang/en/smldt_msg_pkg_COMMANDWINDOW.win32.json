@@ -318,7 +318,7 @@
     "<%sM_item><%sM_plusnum>を　はずした。": "You removed the <%sM_item><%sM_plusnum>."
   },
   "15287": {
-    "<speed=0>戦闘中に　<%sM_item>は　使えない！": "<speed=0>You can't use <%sM_item> in combat!"
+    "<speed=0>戦闘中に　<%sM_item>は　使えない！": "<speed=0>You can't use <%sM_item>\nduring battle!"
   },
   "18197": {
     "<speed=0>名前が　入力されていません！": "<speed=0>No name was entered!"
@@ -1647,7 +1647,7 @@
     "メニューの\n大きさを\n変更します": "Change the\nsize of\nthe menu."
   },
   "31350": {
-    "<speed=0><%sM_action>は　<%sM_item_syurui>を\n装備していないと　使えない！": "<speed=0>You can't use <%sM_action> without\na <%sM_item_syurui> equipped!"
+    "<speed=0><%sM_action>は　<%sM_item_syurui>を\n装備していないと　使えない！": "<speed=0><%sM_action> requires <%sM_item_syurui>\nto use!"
   },
   "31355": {
     "選んだ単語を　削除できませんでした。": "Could not delete selected word."
@@ -1671,7 +1671,7 @@
     "<speed=0><%sM_pc>のいるサーバーへは\n移動できません。": "<speed=0>You can't move to <%sM_pc>'s\ncurrent server."
   },
   "31830": {
-    "<speed=0>\n『サーバー移動』の　説明です！\nこのコマンドを使うと　パーティリーダーがいる\nサーバーに　すぐに移動することができます。\n<br>\nサーバーを移動しても\nあなたがいる場所（マップ）は　変わりません。\n<br>\n『サーバー移動』は　あなたが町の中にいる時か\nキャンプ地で使えます。フィールド・ダンジョン・\n住宅村・魔法の迷宮などでは使えません。\n<br>\nパーティリーダーが　住宅村や魔法の迷宮や\nあなたが移動できないサーバーにいる時も\n使えませんので　ご注意ください。": "<speed=0>\nThis will explain \"Move Server\"!\nUsing this command will allow you to\nmove to your party leader's server.\n<br>\nWhen you move servers, you will remain on\nthe same map.\n<br>\nYou can only move servers while in town or\nat a campsite. It cannot be used in places such\nas fields, dungeons, or instanced areas.\n<br>\nIf your party leader is located in one of these\nplaces, or an unavailable server, you will not\nbe able to move servers."
+    "<speed=0>\n『サーバー移動』の　説明です！\nこのコマンドを使うと　パーティリーダーがいる\nサーバーに　すぐに移動することができます。\n<br>\nサーバーを移動しても\nあなたがいる場所（マップ）は　変わりません。\n<br>\n『サーバー移動』は　あなたが町の中にいる時か\nキャンプ地で使えます。フィールド・ダンジョン・\n住宅村・魔法の迷宮などでは使えません。\n<br>\nパーティリーダーが　住宅村や魔法の迷宮や\nあなたが移動できないサーバーにいる時も\n使えませんので　ご注意ください。": "<speed=0>\nThis will explain \"Move Server\"!\nUsing this command will allow you to\nmove to your party leader's server.\n<br>\nWhen you move servers, you will remain on\nthe same map.\n<br>\nYou can only move servers while in town or\nat a campsite. It cannot be used in places\nsuch as fields, dungeons, or instanced areas.\n<br>\nIf your party leader is located in one of\nthese places, or is on unavailable server,\nyou will not be able to move servers."
   },
   "31831": {
     "<speed=0>このサーバーでは\n「サーバー移動」は　使えません。": "<speed=0>You can't use \"Move Server\" on this server."
@@ -1716,7 +1716,7 @@
     "<speed=0>冒険を中断して　ゲームを終了します。\n<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>\nサポート仲間となるように　酒場登録をしますか？<select>\n登録して終了する\nそのまま終了する\n<select_end><close>": "<speed=0>Suspend your adventure and end the game?\n<color_yellow>It takes 10 seconds in an area with monsters.\n<color_white>Register as a support companion?<select>\nRegister and Exit\nEnd Now\n<select_end><close>"
   },
   "31896": {
-    "<speed=0>\n絵葉書にした写真を　誰かに渡すと\nあなたが渡した人から　いろいろな人の手に\n渡る可能性がありますので　ご注意ください。": "<speed=0>Please note that by giving someone a\npostcard, they will be able to show it to others,\nso be careful."
+    "<speed=0>\n絵葉書にした写真を　誰かに渡すと\nあなたが渡した人から　いろいろな人の手に\n渡る可能性がありますので　ご注意ください。": "<speed=0>Please note that by giving someone a\npostcard, they will be able to show it to\nothers."
   },
   "31897": {
     "<select_nc_se_off>\nメインメニューへ\nログアウトして起動ランチャーへ\nログアウトしてソフトを終了する\n<select_end><close>": "<select_nc_se_off>\nGo to Main Menu\nLogout to Launcher\nLogout and Exit Software\n<select_end><close>"
@@ -4635,7 +4635,7 @@
     "<speed=0>着ていないマイコーデの　アクセサリーいれかえは\nできません！　このマイコーデを　着ている状態で\n『顔アクセサリーいれかえ』を　選択してください。": "<speed=0>You cannot replace accessories for glamour\nsets that you aren't wearing!"
   },
   "49210": {
-    "<speed=0>この時代では\nエテーネルキューブが　使えないようだ。": "<speed=0>It seems that you can't use the Ethenel\nCube in this era."
+    "<speed=0>この時代では\nエテーネルキューブが　使えないようだ。": "<speed=0>You cannot use the Ethenel Cube\nin this time period."
   },
   "49212": {
     "<speed=0>しかし　何も起こらなかった……。\nどうやら　この世界では使えないようだ。": "<speed=0>But nothing happened...it seems you can't\nuse this while in this world."
