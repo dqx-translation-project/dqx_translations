@@ -123,7 +123,7 @@
     "<speed=0><%sM_target>は　遠くにいるので　\nついていけない！": "<speed=0><%sM_target> is too far away to follow!"
   },
   "9376": {
-    "<speed=0>ここでは\n「サーバー移動」は　使えません。": "<speed=0>You can't move servers here."
+    "<speed=0>ここでは\n「サーバー移動」は　使えません。": "<speed=0>You can't change servers here."
   },
   "9377": {
     "<speed=0><%sM_target>が　遠くにいるので\n<%sM_action>を　となえられない！": "<speed=0><%sM_target> is too far away, so\n<%sM_action> cannot be cast!"
@@ -1671,10 +1671,10 @@
     "<speed=0><%sM_pc>のいるサーバーへは\n移動できません。": "<speed=0>You can't move to <%sM_pc>'s\ncurrent server."
   },
   "31830": {
-    "<speed=0>\n『サーバー移動』の　説明です！\nこのコマンドを使うと　パーティリーダーがいる\nサーバーに　すぐに移動することができます。\n<br>\nサーバーを移動しても\nあなたがいる場所（マップ）は　変わりません。\n<br>\n『サーバー移動』は　あなたが町の中にいる時か\nキャンプ地で使えます。フィールド・ダンジョン・\n住宅村・魔法の迷宮などでは使えません。\n<br>\nパーティリーダーが　住宅村や魔法の迷宮や\nあなたが移動できないサーバーにいる時も\n使えませんので　ご注意ください。": "<speed=0>\nThis will explain \"Move Server\"!\nUsing this command will allow you to\nmove to your party leader's server.\n<br>\nWhen you move servers, you will remain on\nthe same map.\n<br>\nYou can only move servers while in town or\nat a campsite. It cannot be used in places\nsuch as fields, dungeons, or instanced areas.\n<br>\nIf your party leader is located in one of\nthese places, or is on unavailable server,\nyou will not be able to move servers."
+    "<speed=0>\n『サーバー移動』の　説明です！\nこのコマンドを使うと　パーティリーダーがいる\nサーバーに　すぐに移動することができます。\n<br>\nサーバーを移動しても\nあなたがいる場所（マップ）は　変わりません。\n<br>\n『サーバー移動』は　あなたが町の中にいる時か\nキャンプ地で使えます。フィールド・ダンジョン・\n住宅村・魔法の迷宮などでは使えません。\n<br>\nパーティリーダーが　住宅村や魔法の迷宮や\nあなたが移動できないサーバーにいる時も\n使えませんので　ご注意ください。": "<speed=0>\nThis will explain \"Change Server\"!\nUsing this command will allow you to\nmove to your party leader's server.\n<br>\nWhen you move servers, you will remain on\nthe same map.\n<br>\nYou can only move servers while in town or\nat a campsite. It cannot be used in places\nsuch as fields, dungeons, or instanced areas.\n<br>\nIf your party leader is located in one of\nthese places, or is on unavailable server,\nyou will not be able to change servers."
   },
   "31831": {
-    "<speed=0>このサーバーでは\n「サーバー移動」は　使えません。": "<speed=0>You can't use \"Move Server\" on this server."
+    "<speed=0>このサーバーでは\n「サーバー移動」は　使えません。": "<speed=0>You can't use \"Change Server\" on this server."
   },
   "31832": {
     "<speed=0>『<%sM_cstitle>』を\n再生しますか？<yesno><close>": "<speed=0>Play this cutscene?<yesno><close>"
@@ -1923,7 +1923,7 @@
     "<speed=0>通信エラーのため　書き込みができませんでした。\nしばらく待ってから　もう一度　お試しください。": "<speed=0>Could not write due to a communication error.\nPlease wait for a while and try again."
   },
   "33240": {
-    "<speed=0>「サーバー移動」が　実行できませんでした。": "<speed=0>\"Move Server\" could not be executed."
+    "<speed=0>「サーバー移動」が　実行できませんでした。": "<speed=0>\"Change Server\" could not be executed."
   },
   "33241": {
     "<speed=0>すでに　<%sM_pc>と同じサーバーにいるため\n移動ができません。": "<speed=0>You can't move since you're already on the\nsame server as <%sM_pc>."
