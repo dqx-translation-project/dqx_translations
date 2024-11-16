@@ -408,7 +408,7 @@
     "「やめるんだね。\n　他に　用はあるかい？\n<break>": "Changed your mind?\nIs there anything else?\n<break>"
   },
   "48914": {
-    "「冒険を続けるんだね。\n　それじゃ　他に　用はあるかい？<break>": "Continue the adventure... So, is there\nanything else you need?<break>"
+    "「冒険を続けるんだね。\n　それじゃ　他に　用はあるかい？<break>": "You wish to continue your journey, I see.\nIs there anything else I can assist with,\nmy child?<break>"
   },
   "48915": {
     "「それじゃ　これまでのことは\n　記録しないで　おくよ。\n<br>\n「まだ　冒険を続けるつもりかい？\n<yesno><break>": "Well, then, let's not keep track of all\nthe... Are you going to continue your\nadventure?<yesno><break>"
@@ -492,19 +492,19 @@
     "「冒険　中断。今日は　もう休むか？\n<yesno 2><break>": "Would you like to take a break from your\nadventure?\n<yesno 2><break>"
   },
   "76108": {
-    "「冒険　中断。今の仲間　別れることになる。\n　本当に　いいか？\n<yesno 2><break>": "Adventure... And now we're breaking up... Are\nyou sure about this?<yesno 2><break>"
+    "「冒険　中断。今の仲間　別れることになる。\n　本当に　いいか？\n<yesno 2><break>": "Want to rest. Party will break up.\nReally okay?\n<yesno 2><break>"
   },
   "76110": {
-    "「おお　神！\n　<pc>の中に眠る　<%sL_RACE_AFTER>の\n　姿を　目覚めさせろ！<bw_break>": "Oh, God!<pc> Awaken the <%sL_RACE_AFTER> that lies dormant\nwithin the <%sL_RACE_AFTER>!<bw_break>"
+    "「おお　神！\n　<pc>の中に眠る　<%sL_RACE_AFTER>の\n　姿を　目覚めさせろ！<bw_break>": "O great Goddess!\nAwaken the dormant <%sL_RACE_AFTER>\nthat sleeps within <pc>!<bw_break>"
   },
   "76111": {
-    "「毒　取り除く。誰だ？\n<break>": "Poison. Take... Who is it?<break>"
+    "「毒　取り除く。誰だ？\n<break>": "Remove poison. Who?\n<break>"
   },
   "76112": {
-    "「呪い　解く。誰だ？\n<break>": "Curse... Who is it?<break>"
+    "「呪い　解く。誰だ？\n<break>": "Break curse. Who?\n<break>"
   },
   "76113": {
-    "「生き返らせる。誰だ？\n<break>": "Come back to life... Who's there?<break>"
+    "「生き返らせる。誰だ？\n<break>": "Resurrect. Who?\n<break>"
   },
   "76114": {
     "「む？　オマエの仲間。\n　誰も　毒　やられてない。\n<bw_break>": "No? You're... No one's ever been poisoned\nby...<bw_break>"
@@ -579,10 +579,10 @@
     "「……種族　変わった。\n　装備できなくなった　武器や防具。\n　オレ　はずしておいた。<bw_break>": "... Races... Weapons no longer equipped. I\ncan't...<bw_break>"
   },
   "76140": {
-    "「<%sL_RULA_POINT>には\n　いくつか　行き先ある。\n　どの場所　覚えさせるか？<break>": "<%sL_RULA_POINT> has a few things going for\nit... Which place do you want me to remember?<break>"
+    "「<%sL_RULA_POINT>には\n　いくつか　行き先ある。\n　どの場所　覚えさせるか？<break>": "<%sL_RULA_POINT> has\nseveral options.\nWhich would you prefer?<break>"
   },
   "76142": {
-    "「そのルーラストーンの記憶場所\n　<%sM_rurastone><%sM_dot><%sM_sub>になった。\n　他に　用事あるか？\n<break>": "The location of the Zoomstone's memory, at\n<%sM_rurastone><%sM_dot><%sM_sub>... Is there\nanything else you need?<break>"
+    "「そのルーラストーンの記憶場所\n　<%sM_rurastone><%sM_dot><%sM_sub>になった。\n　他に　用事あるか？\n<break>": "That Zoomstone's location is now set to\n<%sM_rurastone><%sM_dot><%sM_sub>.\nIs there anything else we can assist with?\n<break>"
   },
   "76144": {
     "「む？　それ。\n　記憶場所　変えること　できない。\n　別の石　選べ。\n<break>": "No? A place to remember, to change... Another\nstone...<break>"
@@ -606,13 +606,13 @@
     "<select>\n<%sL_POINT_OR_SUB1>\n<%sL_POINT_OR_SUB2>\n<%sL_POINT_OR_SUB3>\n<%sL_POINT_OR_SUB4>\nやめる\n<select_end><break>": "<select>\n<%sL_POINT_OR_SUB1>\n<%sL_POINT_OR_SUB2>\n<%sL_POINT_OR_SUB3>\n<%sL_POINT_OR_SUB4>\nCancel\n<select_end><break>"
   },
   "76151": {
-    "「……やめるか。\n　他に　用事あるか？\n<break>": "....No, then? Is there any other business\nyou have?\n<break>"
+    "「……やめるか。\n　他に　用事あるか？\n<break>": "...I see. Is there anything else?\n<break>"
   },
   "76152": {
-    "「……冒険　続けるか。\n　他に　用事あるか？<break>": "... Adventures, continued... Is there\nanything else you need?<break>"
+    "「……冒険　続けるか。\n　他に　用事あるか？<break>": "...Continuing your adventure, I see.\nIs there anything else you need?<break>"
   },
   "76153": {
-    "「……なら　これまでのこと　記録しない。\n<br>\n「まだ　冒険　続けるか？\n<yesno><break>": "... So you've been keeping track... Do you\nwant to continue the adventure?<yesno><break>"
+    "「……なら　これまでのこと　記録しない。\n<br>\n「まだ　冒険　続けるか？\n<yesno><break>": "...Very well. The choice is yours.\nDo you intend on continuing your\nadventure?\n<yesno><break>"
   },
   "76154": {
     "「……記録せず　休むか。\n　それだと　前の記録まで　冒険もどる。\n　本当に　いいか？\n<yesno><break>": "... No record... It's like a previous record\nof adventure... Are you sure about this?<yesno><break>"
@@ -648,19 +648,19 @@
     "「冒険　中断。今日は　もう休むか？\n<yesno 2><break>": "Would you like to take a break from your\nadventure?\n<yesno 2><break>"
   },
   "125356": {
-    "「冒険　中断。今の仲間　別れることになる。\n　本当に　いいか？\n<yesno 2><break>": "Adventure... And now we're breaking up... Are\nyou sure about this?<yesno 2><break>"
+    "「冒険　中断。今の仲間　別れることになる。\n　本当に　いいか？\n<yesno 2><break>": "Want to rest. Party will break up.\nReally okay?\n<yesno 2><break>"
   },
   "125358": {
-    "「おお　神！\n　<pc>の中に眠る　<%sL_RACE_AFTER>の\n　姿を　目覚めさせろ！<bw_break>": "Oh, God!<pc> Awaken the <%sL_RACE_AFTER> that lies dormant\nwithin the <%sL_RACE_AFTER>!<bw_break>"
+    "「おお　神！\n　<pc>の中に眠る　<%sL_RACE_AFTER>の\n　姿を　目覚めさせろ！<bw_break>": "O great Goddess!\nAwaken the dormant <%sL_RACE_AFTER>\nthat sleeps within <pc>!<bw_break>"
   },
   "125359": {
-    "「毒　取り除く。誰だ？\n<break>": "Poison. Take... Who is it?<break>"
+    "「毒　取り除く。誰だ？\n<break>": "Remove poison. Who?\n<break>"
   },
   "125360": {
-    "「呪い　解く。誰だ？\n<break>": "Curse... Who is it?<break>"
+    "「呪い　解く。誰だ？\n<break>": "Break curse. Who?\n<break>"
   },
   "125361": {
-    "「生き返らせる。誰だ？\n<break>": "Come back to life... Who's there?<break>"
+    "「生き返らせる。誰だ？\n<break>": "Resurrect. Who?\n<break>"
   },
   "125362": {
     "「む？　オマエの仲間。\n　誰も　毒　やられてない。\n<bw_break>": "No? You're... No one's ever been poisoned\nby...<bw_break>"
@@ -735,10 +735,10 @@
     "「……種族　変わった。\n　装備できなくなった　武器や防具。\n　オレ　はずしておいた。<bw_break>": "... Races... Weapons no longer equipped. I\ncan't...<bw_break>"
   },
   "125388": {
-    "「<%sL_RULA_POINT>には\n　いくつか　行き先ある。\n　どの場所　覚えさせるか？<break>": "<%sL_RULA_POINT> has a few things going for\nit... Which place do you want me to remember?<break>"
+    "「<%sL_RULA_POINT>には\n　いくつか　行き先ある。\n　どの場所　覚えさせるか？<break>": "<%sL_RULA_POINT> has\nseveral options.\nWhich would you prefer?<break>"
   },
   "125390": {
-    "「そのルーラストーンの記憶場所\n　<%sM_rurastone><%sM_dot><%sM_sub>になった。\n　他に　用事あるか？\n<break>": "The location of the Zoomstone's memory, at\n<%sM_rurastone><%sM_dot><%sM_sub>... Is there\nanything else you need?<break>"
+    "「そのルーラストーンの記憶場所\n　<%sM_rurastone><%sM_dot><%sM_sub>になった。\n　他に　用事あるか？\n<break>": "That Zoomstone's location is now set to\n<%sM_rurastone><%sM_dot><%sM_sub>.\nIs there anything else we can assist with?\n<break>"
   },
   "125392": {
     "「む？　それ。\n　記憶場所　変えること　できない。\n　別の石　選べ。\n<break>": "No? A place to remember, to change... Another\nstone...<break>"
@@ -762,13 +762,13 @@
     "<select>\n<%sL_POINT_OR_SUB1>\n<%sL_POINT_OR_SUB2>\n<%sL_POINT_OR_SUB3>\n<%sL_POINT_OR_SUB4>\nやめる\n<select_end><break>": "<select>\n<%sL_POINT_OR_SUB1>\n<%sL_POINT_OR_SUB2>\n<%sL_POINT_OR_SUB3>\n<%sL_POINT_OR_SUB4>\nCancel\n<select_end><break>"
   },
   "125399": {
-    "「……やめるか。\n　他に　用事あるか？\n<break>": "....No, then? Is there any other business\nyou have?\n<break>"
+    "「……やめるか。\n　他に　用事あるか？\n<break>": "...I see. Is there anything else?\n<break>"
   },
   "125400": {
-    "「……冒険　続けるか。\n　他に　用事あるか？<break>": "... Adventures, continued... Is there\nanything else you need?<break>"
+    "「……冒険　続けるか。\n　他に　用事あるか？<break>": "...Continuing your adventure, I see.\nIs there anything else you need?<break>"
   },
   "125401": {
-    "「……なら　これまでのこと　記録しない。\n<br>\n「まだ　冒険　続けるか？\n<yesno><break>": "... So you've been keeping track... Do you\nwant to continue the adventure?<yesno><break>"
+    "「……なら　これまでのこと　記録しない。\n<br>\n「まだ　冒険　続けるか？\n<yesno><break>": "...Very well. The choice is yours.\nDo you intend on continuing your\nadventure?\n<yesno><break>"
   },
   "125402": {
     "「……記録せず　休むか。\n　それだと　前の記録まで　冒険もどる。\n　本当に　いいか？\n<yesno><break>": "... No record... It's like a previous record\nof adventure... Are you sure about this?<yesno><break>"
@@ -780,10 +780,10 @@
     "「……記録した。\n<br>\n「まだ　冒険　続けるか？\n<yesno><break>": "... The story... Do you want to continue the\nadventure?<yesno><break>"
   },
   "134857": {
-    "「私は　剣姫さまの弟子　魔封士のひとりにして\n　シスターとしての役割を　背負う者。\n<br>\n「神に　みちびかれし　迷える子羊よ。\n　ご用は　なんでしょう？\n<ask><bw_break>": "I am a disciple of Ken-hime, one of the\nMages, and a Sister... I'm a lost soul who's\nbeen led astray by the gods... What can I do\n<br>\nfor you?<ask><bw_break>"
+    "「私は　剣姫さまの弟子　魔封士のひとりにして\n　シスターとしての役割を　背負う者。\n<br>\n「神に　みちびかれし　迷える子羊よ。\n　ご用は　なんでしょう？\n<ask><bw_break>": "I am one of the Prison Princess' disciples,\na Demon Sealer. I am also a sister of the\nchurch.\n<br>\nO lost lamb, guided by the Goddess...\nHow can I assist you?\n<ask><bw_break>"
   },
   "134860": {
-    "「私は　剣姫さまの弟子　魔封士のひとりにして\n　シスターとしての役割を　背負う者。\n<br>\n「この世界では　神は常に　あなたの行動を\n　見守っておられます。ゆえに　冒険の書に\n　旅の記録をする必要は　ありません。\n<br>\n「ですが　お祈りをなさいますと\n　あなたが　チカラ尽きた時の復活場所を\n　祈りを捧げた所に　変更することができます。\n<br>\n「冒険を終えたい時は　さくせんコマンドの\n　『冒険を中断する』で　いつでも行えますが\n　危険な場所では　すこし時間がかかります。\n<br>\n「さて　本日のご用は　なんでしょう？\n<ask><bw_break>": "I am the apprentice of the Princess Swords,\none of the Mages, and a Sister... In this\nworld, the gods are always watching over your\n<br>\nevery move. So there's no need to record your\ntravels in the Book of Adventures. But if you\npray, your resurrection spot will be changed\n<br>\nto the place where you prayed, in case you\nrun out of energy. If you wish to end your\nadventure, you may do so at any time by using\n<br>\nthe \"Abort Adventure\" command... but it may\ntake some time in dangerous places. So, what\ncan I do for you today?<ask><bw_break>"
+    "「私は　剣姫さまの弟子　魔封士のひとりにして\n　シスターとしての役割を　背負う者。\n<br>\n「この世界では　神は常に　あなたの行動を\n　見守っておられます。ゆえに　冒険の書に\n　旅の記録をする必要は　ありません。\n<br>\n「ですが　お祈りをなさいますと\n　あなたが　チカラ尽きた時の復活場所を\n　祈りを捧げた所に　変更することができます。\n<br>\n「冒険を終えたい時は　さくせんコマンドの\n　『冒険を中断する』で　いつでも行えますが\n　危険な場所では　すこし時間がかかります。\n<br>\n「さて　本日のご用は　なんでしょう？\n<ask><bw_break>": "I am one of the Prison Princess' disciples,\na Demon Sealer. I am also a sister of the\nchurch.\n<br>\nIn this world, the gods are always watching\nover you. So there is no need to record all\nyou have done in your Adventure Log.\n<br>\nHowever, by praying, you may change the\nspot that you will resurrect when you\nfind your strength exhausted.\n<br>\nIf you wish to stop adventuring, you may\nselect \"Log Out\" in with the Misc. command.\n<br>\nDo note that logging out may take some\ntime if you are in an area where monsters\nlurk.\n<br>\nNow, how can I help you?\n<ask><bw_break>"
   },
   "134861": {
     "「他に　ご用はありますか？\n<break>": "Is there anything else I can help you with?\n<break>"
