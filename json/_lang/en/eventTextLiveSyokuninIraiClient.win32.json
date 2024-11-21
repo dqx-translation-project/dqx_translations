@@ -69,7 +69,7 @@
     "<%sL_PC>から <%sL_SYOKUNIN_TYPE>の依頼を 申し込まれました。": "<%sL_PC> has requested <%sL_SYOKUNIN_TYPE>."
   },
   "67348": {
-    "<%sL_PC>は\n<%sL_ITEM><%sL_PLUSNUM>に付けられる\n<%sL_SKILL_NAME>レシピを　覚えていません。\n<end>": "<%sL_PC> does not remember the\n<%sL_SKILL_NAME> recipe attached to\n<%sL_ITEM><%sL_PLUSNUM>.\n<end>"
+    "<%sL_PC>は\n<%sL_ITEM><%sL_PLUSNUM>に付けられる\n<%sL_SKILL_NAME>レシピを　覚えていません。\n<end>": "<%sL_PC> does not know the\n<%sL_SKILL_NAME> recipe attached to\n<%sL_ITEM><%sL_PLUSNUM>.\n<end>"
   },
   "67349": {
     "<%sL_RECIPE>を付けるには\n<%sL_PC>の　<%sL_SYOKUNIN_KIND>職人レベルが\n<%nL_NECESSARY_LV>以上　必要です。\n<end>": "<%sL_RECIPE> requires <%sL_SYOKUNIN_KIND>\nartisan level of <%dL_NECESSARY_LV> or higher\nfor <%sL_PC>.\n<end>"
@@ -90,7 +90,7 @@
     "どの装備品に　錬金効果を付けますか？<break>": "Which item would you like to add alchemy\neffects to?<break>"
   },
   "67355": {
-    "<%sL_PC>は　<%sL_SKILL_NAME>職人レベル<%dL_SYOKUNIN_LV>です。\n<%sL_ITEM><%sL_PLUSNUM>に付けたい\n錬金効果を　選んでください。<break>": "<%sL_PC> is <%sL_SKILL_NAME> Level <%dL_SYOKUNIN_LV>.\nPlease choose the alchemy to add to the\n<%sL_ITEM><%sL_PLUSNUM>.<break>"
+    "<%sL_PC>は　<%sL_SKILL_NAME>職人レベル<%dL_SYOKUNIN_LV>です。\n<%sL_ITEM><%sL_PLUSNUM>に付けたい\n錬金効果を　選んでください。<break>": "<%sL_PC> is a level <%dL_SYOKUNIN_LV> <%sL_SKILL_NAME>.\nChoose the alchemy effect you'd like to add to\nthe <%sL_ITEM><%sL_PLUSNUM>.<break>"
   },
   "67522": {
     "錬金効果を付けられる装備品を持っていないので\n<%sL_SYOKUNIN_TYPE>の依頼を　申し込めません。": "I cannot apply for <%sL_SYOKUNIN_TYPE> because\nI do not have any equipment to which\nalchemical effects can be applied."
