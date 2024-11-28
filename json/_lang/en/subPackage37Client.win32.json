@@ -45,7 +45,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに　チームの参加を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e refused to join the Team."
   },
   "462": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間のさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e has declined the party invite."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間のさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e declined the party invite."
   },
   "496": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the party!"
@@ -66,7 +66,7 @@
     "パーティリーダーに なりました": "You became party leader."
   },
   "655": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティリーダーに なりました": "\\s<%sC_PC>\\m<%sC_ID>\\e has been made the party leader."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティリーダーに なりました": "\\s<%sC_PC>\\m<%sC_ID>\\e is promoted to party leader."
   },
   "690": {
     "<%dC_MONTH>月<%dC_DAY>日<%dC_H>時<%dC_M>分頃から メンテナンスです": "Maintenance will begin <%dC_MONTH>/<%dC_DAY> at <%dC_H>:<%02dC_M>."
@@ -81,19 +81,19 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the party for <%dC_H> hours!"
   },
   "837": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間<%dC_M>分 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the party for <%dC_H>h <%dC_M>m!"
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間<%dC_M>分 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\e joined the party for <%dC_H>:<%dC_M>!"
   },
   "875": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間になった！": "Joined \\s<%sC_PC>\\m<%sC_ID>\\e's party!"
   },
   "899": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_M>分のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party time extended by <%dC_M> min."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_M>分のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party time extends by <%dC_M> min."
   },
   "933": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party time extended by <%dC_H> hr."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party time extends by <%dC_H> hr."
   },
   "968": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間<%dC_M>分のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party time extended by <%dC_H> hr. <%dC_M> min."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間<%dC_M>分のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party time extends by <%dC_H>:<%dC_M>."
   },
   "1008": {
     "仲間の約束の時間が 終わりました": "The party's arranged time has ended."
@@ -111,7 +111,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eと フレンドに なりました！": "Became friends with \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "1113": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド登録を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e has rejected your friend request."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド登録を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\e rejected your friend request."
   },
   "1146": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド申し込みが届きませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\e didn't receive your friend request."
@@ -186,13 +186,13 @@
     "チームのメンバーがいっぱいで 入れませんでした": "Couldn't join because the Team was full."
   },
   "1880": {
-    "チームが解散していたので 入れませんでした": "Couldn't join because the Team was disbanded."
+    "チームが解散していたので 入れませんでした": "Couldn't join because the Team has disbanded."
   },
   "1911": {
-    "返事がいっぱいで 受け取れなかったナビがあります": "Couldn't receive request since inbox is full."
+    "返事がいっぱいで 受け取れなかったナビがあります": "Couldn't receive request since your requests are full."
   },
   "1947": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eのフレンドリストが いっぱいでした": "\\s<%sC_PC>\\m<%sC_ID>\\e's friends list was full."
+    "\\s<%sC_PC>\\m<%sC_ID>\\eのフレンドリストが いっぱいでした": "\\s<%sC_PC>\\m<%sC_ID>\\e's friends list is full."
   },
   "1983": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間への参加を 断られました": "Party invite to \\s<%sC_PC>\\m<%sC_ID>\\e was declined."
@@ -1773,7 +1773,7 @@
     "エントリーをやめました": "Entry was cancelled."
   },
   "17945": {
-    "あと<%dC_N1>分で スタートします": "<%dC_N1> min. until race starts!"
+    "あと<%dC_N1>分で スタートします": "The race will start in <%dC_N1> minute!"
   },
   "17967": {
     "スタートしました": "GO!!!!"
@@ -1824,7 +1824,7 @@
     "パーティリーダーが 解放の扉を選択しました": "Party leader has selected the Door of Return."
   },
   "18381": {
-    "あと<%dC_N1>秒で スタートします": "<%dC_N1> sec. until race starts!"
+    "あと<%dC_N1>秒で スタートします": "The race will start in <%dC_N1> seconds!"
   },
   "18403": {
     "約<%dC_N1>分以内にゴールしないと失格になります": "Finish within <%dC_N1> minutes or be disqualified."
@@ -1872,7 +1872,7 @@
     "よく来たのう。まずはクリスタルを調べてみるのじゃ": "Good, you've come. Go check that crystal first."
   },
   "18910": {
-    "試合が始まるまで このクリスタルで転職ができるのじゃよ": "The crystal lets you change jobs until the match begins."
+    "試合が始まるまで このクリスタルで転職ができるのじゃよ": "You can use it to change vocations before a match."
   },
   "18950": {
     "職業は好きなものを選ぶがよい": "Choose whichever vocation you like."
@@ -1887,7 +1887,7 @@
     "ゲージが溜まれば占領完了じゃぞ": "Fill the gauge to capture it."
   },
   "19069": {
-    "うむ では次はジュエルを集めようではないか": "Hm. Let's collect jewels next time, eh?"
+    "うむ では次はジュエルを集めようではないか": "Good. Next, why don't we gather some jewels?"
   },
   "19100": {
     "ジュエルを拾ってトライロックに持ち帰るのじゃ！": "Bring those jewels back to the Trirock!"
@@ -1932,7 +1932,7 @@
     "<%sC_STR>は 対象のクエストを クリアしていません": "<%sC_STR> hasn't completed the target quest."
   },
   "19598": {
-    "<%sC_STR>は エテーネの村にいないようでした": "<%sC_STR> isn't in the village of Ethene."
+    "<%sC_STR>は エテーネの村にいないようでした": "<%sC_STR> isn't in Ethene Village."
   },
   "19628": {
     "サーバー０９と１０で モンスターがざわついてる！": "Monsters are stirring on servers 9 and 10!"
@@ -1965,7 +1965,7 @@
     "バトルトリニティの さそいが時間切れになりました": "Battle Trinity invitation timed out."
   },
   "19970": {
-    "残り90秒です！": "90 sec. remaining!"
+    "残り90秒です！": "90 seconds remaining!"
   },
   "19981": {
     "残り30秒です！": "30 seconds remaining!"
@@ -1992,7 +1992,7 @@
     "見事であったぞ さぁ旅の扉から戻ってくるのじゃ": "Well done. Use the portal to return."
   },
   "20203": {
-    "どうしたのじゃ ひとまず旅の扉から戻ってくるのじゃ": "What's wrong? Use the portal."
+    "どうしたのじゃ ひとまず旅の扉から戻ってくるのじゃ": "What's wrong? Use the portal to go back."
   },
   "20240": {
     "５分以内に ハヤノキの樹液をボンツォに届けよう！": "Deliver the Beech Tree Sap to Bonzo within 5 minutes!"
@@ -2016,10 +2016,10 @@
     "第九の霊廟の 謎解きが始まったぜ！": "Mystery of the 9th Tomb has begun!"
   },
   "20468": {
-    "フィールドのどこかに はぐれモンスターが 出現しました！": "Liquid monster appeared somewhere in the field!"
+    "フィールドのどこかに はぐれモンスターが 出現しました！": "A Liquid monster appears somewhere in the field!"
   },
   "20509": {
-    "バトルが成立しなかったため 旅の扉が出現しました。": "The battle did not finish and a travel door appeared."
+    "バトルが成立しなかったため 旅の扉が出現しました。": "The battle did not finish and a teleportal appeared."
   },
   "20546": {
     "時間切れにより マップが消滅したため 外に出ます": "Time is up, now exiting due to map disappearing."
@@ -3924,13 +3924,13 @@
     "ダミー・オア・ヤミー！の誘いが 断られました": "Dummy or Yummy invitation was declined."
   },
   "40749": {
-    "帝国の闇のサンタたちとのバトルに誘われました！": ""
+    "帝国の闇のサンタたちとのバトルに誘われました！": "Invited to battle the Yuleish Empire!"
   },
   "40784": {
-    "帝国の闇のサンタたちへの誘いが 時間切れになりました": ""
+    "帝国の闇のサンタたちへの誘いが 時間切れになりました": "The Yuleish Empire invitation timed out."
   },
   "40823": {
-    "帝国の闇のサンタたちへの誘いが 取り消されました": ""
+    "帝国の闇のサンタたちへの誘いが 取り消されました": "The Yuleish Empire invitation was cancelled."
   },
   "40859": {
     "ダミー・オア・ヤミー！に\n参加しますか？": "Go and play\nDummy or Yummy?"
@@ -3939,19 +3939,19 @@
     "<%sC_PC_LUA>から\nダミー・オア・ヤミー！に 誘われました！": "Invited to Dummy or Yummy\nfrom <%sC_PC_LUA>!"
   },
   "40928": {
-    "帝国の闇のサンタたちとの\nバトルに 参加しますか？": ""
+    "帝国の闇のサンタたちとの\nバトルに 参加しますか？": "Go to battle with the\nYuleish Empire?"
   },
   "40964": {
     "ダミー・オア・ヤミー！の　さそいを断った。": "Dummy or Yummy! invitation declined."
   },
   "40996": {
-    "闇のサンタたちとのバトルの　さそいを断った。": ""
+    "闇のサンタたちとのバトルの　さそいを断った。": "The Yuleish Empire invitation declined."
   },
   "41030": {
     "ダミー・オア・ヤミー！に　参加しますか？": "Go and play Dummy or Yummy?"
   },
   "41061": {
-    "帝国の闇のサンタたちとのバトルに 参加しますか？": ""
+    "帝国の闇のサンタたちとのバトルに 参加しますか？": "Go to battle with the Yuleish Empire?"
   },
   "41097": {
     "鋼塊の重滅兵団の防衛戦に さそわれました！": "Invited to battle Steel Ingots!"
@@ -3984,12 +3984,12 @@
     "東側に敵軍の気配！ 総員迎撃せよ！": "Enemy forces from the east! Intercept them!"
   },
   "41391": {
-    "中央の広場に 敵軍が出現！ 対処に当たれ！": ""
+    "中央の広場に 敵軍が出現！ 対処に当たれ！": "Enemy troops in the center plaza! Take them out!"
   },
   "41421": {
-    "今回は 大砲の弾を多くお届けしますよ！": ""
+    "今回は 大砲の弾を多くお届けしますよ！": "Here's a bunch of cannon ammo!"
   },
   "41449": {
-    "ドルボードレース失格となります": ""
+    "ドルボードレース失格となります": "Disqualified from the Dolboard Race."
   }
 }
