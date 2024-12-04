@@ -96,7 +96,7 @@
     "コンフィグは、すでに起動しています。": "The configuration is already up and running."
   },
   "80204": {
-    "サーバーへの接続ができませんでした。\n正しくインターネットに接続できる状態か、ご確認の上\nもう一度、お試しください。（起動ランチャーを終了します。）\nHTTPエラー：0x%x": "Could not connect to the server.\nPlease check to see if you can connect to the\nInternet properly and try again. (Exit the launcher.)\nHTTP Error： 0x%x"
+    "サーバーへの接続ができませんでした。\n正しくインターネットに接続できる状態か、ご確認の上\nもう一度、お試しください。（起動ランチャーを終了します。）\nHTTPエラー：0x%x": "Could not connect to the server.\nPlease check to see if you can connect to the\nInternet properly and try again. (Exit the launcher.)\nHTTP Error: 0x%x"
   },
   "80205": {
     "セーブデータが存在しません。\nオフラインモードを開始して、セーブデータを作成してください。": "No save data exists.\nStart offline mode and create save data."
@@ -234,7 +234,7 @@
     "スペック情報 （Ctrl+C でクリップボードにコピーできます。）": "Spec information (You can copy to the clipboard with Ctrl+C.)"
   },
   "302647": {
-    "サーバーへの接続ができませんでした。\n正しくインターネットに接続できる状態か、ご確認の上\nもう一度、お試しください。（起動ランチャーを終了します。）\nHTTPエラー：%d": "Could not connect to the server.\nPlease check to see if you can connect to the\nInternet properly and try again. (Exit the launcher.)\nHTTP Error： %d"
+    "サーバーへの接続ができませんでした。\n正しくインターネットに接続できる状態か、ご確認の上\nもう一度、お試しください。（起動ランチャーを終了します。）\nHTTPエラー：%d": "Could not connect to the server.\nPlease check to see if you can connect to the\nInternet properly and try again. (Exit the launcher.)\nHTTP Error: %d"
   },
   "302648": {
     "実行するファイルが存在しません。\n実行ファイルが破損・破棄されている可能性があります。\n「ドラゴンクエストＸ　オンライン」を\nインストールしなおしてください。": "The file to be executed does not exist.\nThe executable file may have been corrupted or deleted.\nPlease reinstall \"Dragon Quest X Online\"."
@@ -342,7 +342,7 @@
     "有効なサービスアカウントが確認できないため、ログインできませんでした。\n詳しくは、スクウェア・エニックス サポートセンターからお問い合わせください。\n新規にゲームをプレイする場合は、アストルティア入国管理局で\nレジストレーションコードを登録してください。": "Login failed because no valid service account exists.\nFor more information, please contact the Square Enix Support Center.\nTo play the game, please register your registration code\nat the Astoltia Immigration Bureau."
   },
   "302683": {
-    "https://hiroba.dqx.jp/sc/public/playguide/guide_1_2_win#registration": ""
+    "https://hiroba.dqx.jp/sc/public/playguide/guide_1_2_win#registration": "https://hiroba.dqx.jp/sc/public/playguide/guide_1_2_win#registration"
   },
   "302684": {
     "「ドラゴンクエストＸ　オンライン」は\nこれ以上、起動できません。\n（最大４つまで、同時に起動できます。）": "\"Dragon Quest X Online\" can no longer be started.\n(Up to 4 can be launched at the same time.)"
@@ -426,6 +426,6 @@
     "コンポーネントの初期化に失敗しました。\n何度もこのエラーが起こる場合は\nMicrosoft Edge WebView2を\nインストールしてから再度お試しください。\nまた合わせて必要環境を満たしているか\n一度　ご確認ください。\nhttps://sqex.to/JnR": "The initialization of the component failed. If you\nencounter this error repeatedly, please install\nMicrosoft Edge WebView2 and try again. Also,\nplease ensure that you meet the necessary system\nrequirements.\nhttps://sqex.to/JnR"
   },
   "331932": {
-    "セーブファイルの読み込みに失敗しました。\n次のような問題が考えられます。\n　・セーブファイルが破損している\n　・OneDriveのフォルダに保存されている\nエラーの詳細については\n「ドラゴンクエストⅩ」プレイガイドのページも\nご確認ください。\nhttps://sqex.to/QhPnn": ""
+    "セーブファイルの読み込みに失敗しました。\n次のような問題が考えられます。\n　・セーブファイルが破損している\n　・OneDriveのフォルダに保存されている\nエラーの詳細については\n「ドラゴンクエストⅩ」プレイガイドのページも\nご確認ください。\nhttps://sqex.to/QhPnn": "Failed to load save file data.\nThe following issues may be the cause:\n　-The save file data is corrupted.\n　-The save file is saved in the OneDrive folder.\nFor more information, please check the\nDragon Quest X Play Guide.\nhttps://sqex.to/QhPnn"
   }
 }

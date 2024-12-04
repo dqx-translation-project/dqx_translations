@@ -63,7 +63,7 @@
     "ゲームプレイ中の最大フレームレートを設定します。\n　- 30fps\n　　　処理負荷を軽減できます。\n　- 60fps\n　　　快適な環境での画面表示が滑らかになりますが、処理負荷が上がります。": "Sets the maximum frame rate during gameplay.\n  - 30fps\n  This reduces processing load.\n  - 60fps\n  The screen display will be smoother, but processing load will increase."
   },
   "79821": {
-    "ランチャー起動時のタイトルムービーの挙動を設定します。\n　- チェックあり\n　　　ランチャー起動時にタイトルムービーを再生します。\n　- チェックなし\n　　　ランチャー起動時のタイトルムービーは自動的に再生されません。": ""
+    "ランチャー起動時のタイトルムービーの挙動を設定します。\n　- チェックあり\n　　　ランチャー起動時にタイトルムービーを再生します。\n　- チェックなし\n　　　ランチャー起動時のタイトルムービーは自動的に再生されません。": "Dictates opening movie behavior when launcher is opened.\n-Checked\n　　　Plays the opening movie when launcher is opened.\n-Unchecked\n　　　Does not play the opening movie when launcher is opened."
   },
   "79822": {
     "グラフィックスの品質を一括で設定します。\n　- 最高品質\n　　　グラフィックスをきれいに表示しますが、処理負荷が上がります。\n　- 標準品質\n　　　グラフィックスの品質と処理負荷とのバランスがとれた設定です。\n　- 低品質\n　　　グラフィックスは粗くなりますが、処理負荷を軽減できます。\n　※この項目は、ゲームを再起動するまで反映されません。": "Sets the graphic quality.\n  - Highest Quality\n   Displays the graphics nicely, but increases processing load.\n  - Standard Quality\n The setting strikes a good balance between graphics and processing.\n  - Low Quality\n  Coarser graphics, but reduced load.\n ※Will not take effect until a game restart."
@@ -123,7 +123,7 @@
     "　スクリーンセーバーとディスプレイの電源設定を有効にする": "  Enable screen saver and display power settings"
   },
   "79843": {
-    "　ランチャー起動時にタイトルムービーを再生する": ""
+    "　ランチャー起動時にタイトルムービーを再生する": "Play opening movie when launcher opens."
   },
   "79844": {
     "画面設定": "Screen Cfg"
@@ -162,7 +162,7 @@
     "1024 X 768  (4:3)": "1024 X 768  (4:3)"
   },
   "79856": {
-    "1280 X 720": ""
+    "1280 X 720": "1280x720"
   },
   "79857": {
     "1280 X 800  (8:5)": "1280 X 800  (8:5)"
@@ -174,7 +174,7 @@
     "1280 X 1024 (5:4)": "1280 X 1024 (5:4)"
   },
   "79860": {
-    "1360 X 768": ""
+    "1360 X 768": "1360x768"
   },
   "79861": {
     "1400 X 1050 (4:3)": "1400 X 1050 (4:3)"
@@ -186,7 +186,7 @@
     "1440 X 1050 (4:3)": "1440 X 1050 (4:3)"
   },
   "79864": {
-    "1600 X 900": ""
+    "1600 X 900": "1600x900"
   },
   "79865": {
     "1600 X 1024 (25:16)": "1600 X 1024 (25:16)"
@@ -198,7 +198,7 @@
     "1680 X 1050 (8:5)": "1680 X 1050 (8:5)"
   },
   "79868": {
-    "1920 X 1080": ""
+    "1920 X 1080": "1920x1080"
   },
   "79869": {
     "30fps": "30fps"
@@ -1056,7 +1056,7 @@
     "マウスカーソルの設定": "Setting the mouse cursor"
   },
   "85384": {
-    "以下の更新を行いました。\n・設定できる「画面解像度」を変更しました。\n　16:9以外の解像度を削除しました。\n　16:9以外の解像度に設定していた場合、\n　以下のように設定が変更されていますのでご確認ください。\n　・1280x720未満の解像度\n　　　→1280x720に変更されます。\n　・16:9以外の解像度\n　　　→以前設定していた解像度に近い16:9の解像度に変更されます。\n　・ご使用のモニターが1280x720未満の解像度\n　　　→仮想フルスクリーンに変更されます。\n詳しくは、プレイガイドをご確認ください。\nhttps://sqex.to/dFa": ""
+    "以下の更新を行いました。\n・設定できる「画面解像度」を変更しました。\n　16:9以外の解像度を削除しました。\n　16:9以外の解像度に設定していた場合、\n　以下のように設定が変更されていますのでご確認ください。\n　・1280x720未満の解像度\n　　　→1280x720に変更されます。\n　・16:9以外の解像度\n　　　→以前設定していた解像度に近い16:9の解像度に変更されます。\n　・ご使用のモニターが1280x720未満の解像度\n　　　→仮想フルスクリーンに変更されます。\n詳しくは、プレイガイドをご確認ください。\nhttps://sqex.to/dFa": "The following updates have been made:\n-Available screen resolutions have changed.\n　Resolutions below 16:9 have been removed.\n　If you previously had a resolution below 16:9, confirm\n　the following changes were made.\n　-If resolution was less than 1280x720:\n　　-Resolution changed to 1280x720.\n　-If resolution was other than 16:9:\n　　-Resolution changed to 16:9.\n　-If current monitor resolution is less than 16:9:\n　　-Changed to virtual full screen.\nFor more information, please check the Play Guide.\nhttps://sqex.to/dFa"
   },
   "85385": {
     "ボタンガイドのタイプを設定します。\n　- 自動設定\n　　　「設定するゲームパッド」に応じて\n　　　「数字タイプ」と「ABXYタイプ1」のいずれかを表示します。\n　- 数字タイプ\n　- ABXYタイプ1\n　- ABXYタイプ2\n　　　お好みのボタンガイドを設定できます。": "Sets the type of button guide. \n - Auto-setup\n Depending on \"Gamepad to be set\"\n Either \"Numeric Type\" or \"ABXY Type 1\" will be displayed. \n - Numeric Type\n - ABXY Type 1\n - ABXY Type 2\n You can set the button guide of your choice."
@@ -1149,10 +1149,10 @@
     "ゲームパッドの接続状態によって、自動的にダイレクトチャットを\n有効、無効に切り替える設定です。\n（この設定を行う場合は、ダイレクトチャットを有効にしてください。）\n　- チェックあり\n　　　自動的にダイレクトチャット機能を切り替えます。\n　- チェックなし\n　　　自動的にダイレクトチャット機能を切り替えません。": "This setting automatically switches direct chat to\nenabled or disabled depending on the connection status of the gamepad. \n (To use this setting, direct chat must be enabled.) \n - Checked\n Automatically switch the direct chat function. \n - Unchecked\n Do not automatically switch the direct chat function."
   },
   "97071": {
-    "再生するムービー：": "Movie to play"
+    "再生するムービー：": "Movie to Play:"
   },
   "97072": {
-    "ランチャー起動時に再生するムービーを設定します。": ""
+    "ランチャー起動時に再生するムービーを設定します。": "Set the opening movie to play when launcher starts."
   },
   "97073": {
     "眠れる勇者と導きの盟友　オープニングムービー": "The Sleeping Hero & the Guiding Ally Opening Movie"
@@ -1179,7 +1179,7 @@
     "1280 X 854  (16:10)": "1280 X 854  (16:10)"
   },
   "98255": {
-    "1366 X 768": ""
+    "1366 X 768": "1366x768"
   },
   "98256": {
     "キャラクター移動操作タイプ（左利き用）": "Character movement control type (for left-handed)"
@@ -1227,13 +1227,13 @@
     "InvalidValue": "InvalidValue"
   },
   "98357": {
-    "1368 X 768": ""
+    "1368 X 768": "1368x768"
   },
   "98358": {
-    "1600 X 1050": ""
+    "1600 X 1050": "1600x1050"
   },
   "98359": {
-    "現在のモニター": "Current monitor"
+    "現在のモニター": "Current Monitor"
   },
   "98360": {
     "無効にする": "Disable"
@@ -1242,19 +1242,19 @@
     "有効にする": "Enable"
   },
   "98362": {
-    "いにしえの竜の伝承　オープニングムービー": "Lore of the Dragon of the Inishie Opening Movie"
+    "いにしえの竜の伝承　オープニングムービー": "Lore of the Ancient Dragon Opening Movie"
   },
   "99430": {
-    "すべてのプレイヤー": "All players"
+    "すべてのプレイヤー": "All Players"
   },
   "99432": {
-    "設定を続ける": "Continue setup"
+    "設定を続ける": "Continue Setup"
   },
   "99433": {
-    "操作方法の設定": "Set operation method"
+    "操作方法の設定": "Set Operation Method"
   },
   "99434": {
-    "詳細な設定を行う": "Configure settings"
+    "詳細な設定を行う": "Advanced Settings"
   },
   "99435": {
     "他のプレイヤーにも反映": "Apply to other players"
@@ -1272,10 +1272,10 @@
     "ランチャー": "Launcher"
   },
   "99440": {
-    "ランチャーの終了": "Exit the launcher"
+    "ランチャーの終了": "Exit Launcher"
   },
   "99441": {
-    "ゲームパッドが接続されていません。\nキーコンフィグを設定したいゲームパッドを\n接続してください。": "The gamepad is not connected. \nPlease connect the gamepad you want to set the key configuration to."
+    "ゲームパッドが接続されていません。\nキーコンフィグを設定したいゲームパッドを\n接続してください。": "A gamepad is not connected.\nPlease connect the gamepad you want\nto set a key configuration for."
   },
   "99442": {
     "設定が変更されています。\nキャンセルすると、編集した設定が保存されませんが\nよろしいですか？": "The settings have been changed. \nIf you cancel, the edited settings will not be saved\n Are you sure?"
@@ -1416,13 +1416,13 @@
     "1920 X 1200 (16:10)": "1920x1200 (16:10)"
   },
   "117576": {
-    "2560 X 1440": ""
+    "2560 X 1440": "2560x1440"
   },
   "117577": {
     "2560 X 1600 (16:10)": "2560x1600 (16:10)"
   },
   "117578": {
-    "3840 X 2160": ""
+    "3840 X 2160": "3840x2160"
   },
   "117579": {
     "最大": "Max."
@@ -1461,10 +1461,10 @@
     "デバイスを正しく認識できません。\nデバイスを取り外して、もう一度\n接続しなおすか、DirectX 9.0c 以上が、\n正常にインストールされているかご確認ください。\nそれでも解決しない場合は\nドラゴンクエストＸサポートセンターから\nお問い合わせください。": "This device could not be recognized.\nRemove and reconnect the device, or check if\nDirect X 9.0c or higher is installed.\nIf it doesn't work, please contact support."
   },
   "144871": {
-    "2736 X 1824": ""
+    "2736 X 1824": "2736x1824"
   },
   "144872": {
-    "3000 X 2000": ""
+    "3000 X 2000": "3000x2000"
   },
   "144873": {
     "設定ファイル": "Settings File"
@@ -1860,10 +1860,10 @@
     "・「カメラとカーソルを同じボタンにする」にて\n　別のボタンに設定していた場合\n　一部のメニューのカーソルが動かない不具合を修正しました。": " - Fixed an issue where the cursor in\nsome menus would not move if the \"Camera\nand cursor on the same button.\" was set\nto a different button."
   },
   "322013": {
-    "設定していた画面解像度は削除されたため\n現在の設定ではゲームを起動することができません。\nフルスクリーンで起動するか、画面解像度を\n1280*720に変更していただく必要があります。\n「通常フルスクリーンモード」から\nディスプレイのサイズに合わせた\n「仮想フルスクリーンモード」に設定を変更しますか？\n（いいえの場合、画面解像度が1280*720に変更されます。）": ""
+    "設定していた画面解像度は削除されたため\n現在の設定ではゲームを起動することができません。\nフルスクリーンで起動するか、画面解像度を\n1280*720に変更していただく必要があります。\n「通常フルスクリーンモード」から\nディスプレイのサイズに合わせた\n「仮想フルスクリーンモード」に設定を変更しますか？\n（いいえの場合、画面解像度が1280*720に変更されます。）": "The screen resolution you had set previously has\nbeen removed, so current settings cannot be used.\nYou must start the game in full screen or change the\nscreen resolution to 1280x720.\nChange settings from \"Full Screen\" to \"Virtual Full\nScreen\", which matches your display's size?\n(Choosing \"No\" will change the screen resolution to\n1280x720.)"
   },
   "322014": {
-    "設定していた画面解像度は削除されたため\n現在の設定ではゲームを起動することができません。\nご使用のプレイ環境では「仮想フルスクリーン」のみで\nゲームを遊ぶことができます。": ""
+    "設定していた画面解像度は削除されたため\n現在の設定ではゲームを起動することができません。\nご使用のプレイ環境では「仮想フルスクリーン」のみで\nゲームを遊ぶことができます。": "The screen resolution you had set previously has\nbeen removed, so current settings cannot be used.\nYou may only use \"Virtual Full Screen\" in your current\nenvironment."
   },
   "323260": {
     "ダウンロードの設定": "Download Settings"
@@ -1884,7 +1884,7 @@
     "通常": "Normal"
   },
   "323267": {
-    "アップデート時などのダウンロード方法を設定します。\n　- 制限なし\n　　　回線の速度を最大限に利用します。\n　　　他に通信している環境に影響が出てしまう場合は\n　　　「ダウンロードの帯域幅を制限」を指定するか\n　　　「通常」の設定に変更してください\n　- 通常\n　　　従来の安定したダウンロードです。": "You can choose how updates will download.\n -No Limit\n   Uses the maximum allowed bandwidth. If it\n   negatively impacts other communications,\n   consider using \"Bandwith Limit\" or normal\n   download speed.\n -Normal\n   The normal and stable download speed."
+    "アップデート時などのダウンロード方法を設定します。\n　- 制限なし\n　　　回線の速度を最大限に利用します。\n　　　他に通信している環境に影響が出てしまう場合は\n　　　「ダウンロードの帯域幅を制限」を指定するか\n　　　「通常」の設定に変更してください\n　- 通常\n　　　従来の安定したダウンロードです。": "You can choose how updates will download.\n　-No Limit\n　　Uses the maximum allowed bandwidth. If it\n　　negatively impacts other communications,\n　　consider using \"Bandwidth Limit\" or normal\n　　download speed.\n　-Normal\n　　The normal and stable download speed."
   },
   "323268": {
     "特定の時間内に送受信できるデータ量を指定します。\n帯域幅を大きくするほど一度に送受信できるデータは多くなりますが\n他の環境への通信にも影響が出る可能性があります。": "You can specify the speed of game downloads here.\nIncreasing bandwidth allows for faster downloading, but\nmay impact other ongoing communications."
