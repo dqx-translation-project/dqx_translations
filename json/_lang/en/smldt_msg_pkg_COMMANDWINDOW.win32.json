@@ -24,7 +24,7 @@
     "<speed=0>冒険を中断して　ゲームを終了します。\n<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>\nよろしいですか？<yesno><close>": "<speed=0>Suspend your adventure and end the game?\n<color_yellow>It takes 10 seconds in an area with monsters.\n<color_white><yesno><close>"
   },
   "4968": {
-    "<center>おつかれさまでした。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing! Where do you want\nto go after this?<break>"
+    "<center>おつかれさまでした。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nWhere would you like to return?<break>"
   },
   "4972": {
     "<speed=0><%sM_item>を　捨てますか？<yesno2><close>": "<speed=0>Throw away <%sM_item>?<yesno2><close>"
@@ -1713,7 +1713,7 @@
     "<speed=0><%sM_item>が　できました！\n絵葉書は　『書いた手紙』に入ります。": "<speed=0><%sM_item> was finished!\nPostcards are viewable in \"Written Mail\"."
   },
   "31894": {
-    "<speed=0>冒険を中断して　ゲームを終了します。\n<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>\nサポート仲間となるように　酒場登録をしますか？<select>\n登録して終了する\nそのまま終了する\n<select_end><close>": "<speed=0>Suspend your adventure and end the game?\n<color_yellow>It takes 10 seconds in an area with monsters.\n<color_white>Register as a support companion?<select>\nRegister and Exit\nEnd Now\n<select_end><close>"
+    "<speed=0>冒険を中断して　ゲームを終了します。\n<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>\nサポート仲間となるように　酒場登録をしますか？<select>\n登録して終了する\nそのまま終了する\n<select_end><close>": "<speed=0>\nStop adventuring for now and register as a\nsupport companion in the tavern?\n<color_yellow>It takes 10 seconds in an area with monsters.\n<color_white>\n<select>\nRegister and Exit\nExit Now\n<select_end><close>"
   },
   "31896": {
     "<speed=0>\n絵葉書にした写真を　誰かに渡すと\nあなたが渡した人から　いろいろな人の手に\n渡る可能性がありますので　ご注意ください。": "<speed=0>Please note that by giving someone a\npostcard, they will be able to show it to\nothers."
@@ -1728,10 +1728,10 @@
     "<select_nc_se_off>\nメインメニューへ\nログアウトしてタイトルへ\nログアウトしてWii Uメニューへ\n<select_end><close>": "Blah blah Wii U stuff"
   },
   "31900": {
-    "<center>おつかれさまでした。\n『だれでもＯＫ』で酒場登録しました。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nRegistered at the tavern as \"Anyone Is OK\".\nWhere would you like to go now?<break>"
+    "<center>おつかれさまでした。\n『だれでもＯＫ』で酒場登録しました。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nRegistered at the tavern as \"Anyone Is OK\".\nWhere would you like to return?<break>"
   },
   "31901": {
-    "<center><color_yellow>※酒場登録に　失敗しました。<color_white>\nおつかれさまでした。\nこのあとは　どこに戻りますか？<break>": "<color_yellow>Failed to register at the tavern.<color_white>\nThank you for playing!\nWhere would you like to go now?<break>"
+    "<center><color_yellow>※酒場登録に　失敗しました。<color_white>\nおつかれさまでした。\nこのあとは　どこに戻りますか？<break>": "<color_yellow>Failed to register at the tavern.<color_white>\nThank you for playing!\nWhere would you like to return?<break>"
   },
   "31903": {
     "この絵葉書の　写真を\n思い出アルバムに　コピーしますか？\n<yesno><close>": "Copy the photo on this postcard to\nyour Photo Album?\n<yesno><close>"
@@ -2829,13 +2829,13 @@
     "<speed=0>その　そうびひんを　捨ててしまうと\n泳いで　移動ができなくなってしまうため\nここでは　捨てられません！": "<speed=0>You can't throw away this equipment, because\nyou wouldn't be able to swim without it!"
   },
   "39962": {
-    "<center>おつかれさまでした。\n<color_yellow>『フレンドのみ』<color_white>で酒場登録しました。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nRegistered at the tavern as <color_yellow>\"Friends Only\"<color_white>.\nWhere would you like to go now?<break>"
+    "<center>おつかれさまでした。\n<color_yellow>『フレンドのみ』<color_white>で酒場登録しました。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nRegistered at the tavern as <color_yellow>\"Friends Only\"<color_white>.\nWhere would you like to return?<break>"
   },
   "39963": {
-    "<center>おつかれさまでした。\n<color_yellow>『フレンドとチームのみ』<color_white>で酒場登録しました。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nRegistered as <color_yellow>\"Friends/Team Only\"<color_white>.\nWhere would you like to go now?<break>"
+    "<center>おつかれさまでした。\n<color_yellow>『フレンドとチームのみ』<color_white>で酒場登録しました。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nRegistered as <color_yellow>\"Friends/Team Only\"<color_white>.\nWhere would you like to return?<break>"
   },
   "39964": {
-    "<center>おつかれさまでした。\n<color_yellow>『チームのみ』<color_white>で酒場登録しました。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nRegistered at the tavern as <color_yellow>\"Team Only\"<color_white>.\nWhere would you like to go now?<break>"
+    "<center>おつかれさまでした。\n<color_yellow>『チームのみ』<color_white>で酒場登録しました。\nこのあとは　どこに戻りますか？<break>": "Thank you for playing!\nRegistered at the tavern as <color_yellow>\"Team Only\"<color_white>.\nWhere would you like to return?<break>"
   },
   "39975": {
     "<speed=0>パーティリーダーから　ボスモンスターとの\n戦いに誘われましたが　戦いに行くための\n条件を　満たしていませんでした。<br>\n条件を満たすには　港町レンドアで受けられる\n『ベジセルクの咆哮』を\nクリアする必要があります。": "<speed=0>Could not accept the invitation to fight this\nboss since you do not meet the requirements.\n<br>\nYou must first complete the quest \"Vegiselk's\nRoar\" received in North Port Lendor from\nSelector Val-cu-rie."
