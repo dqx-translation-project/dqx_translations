@@ -375,7 +375,7 @@
     "「特訓モードに　きりかえるのだな。\n　経験値は　得られなくなるが　よろしいか？\n<yesno><break>": "If I switch to training mode... I won't be\ngetting any experience, is that okay?<yesno><break>"
   },
   "91198": {
-    "「変更しないのだな。それも　よいだろう。\n<bw_break>": "No change... That's good...<bw_break>"
+    "「変更しないのだな。それも　よいだろう。\n<bw_break>": "So you don't want to change? Alright.\n<bw_break>"
   },
   "91199": {
     "「何について　知りたいのだ？\n<select_se_off>\n転職について\nスキルポイントについて\n呪文や特技の引き継ぎについて\n特訓モードについて\n<select_end>\n<break>": "What would you like to know about?\n<select_se_off>\nChanging Vocations\nAbout Skill Points\nTransfer of Spells/Skills\nSpecial Training Mode\n<select_end>\n<break>"
@@ -402,7 +402,7 @@
     "「特訓モードに　きりかえるのだな。\n　経験値は　得られなくなるが　よろしいか？\n<yesno><break>": "If I switch to training mode... I won't be\ngetting any experience, is that okay?<yesno><break>"
   },
   "91207": {
-    "「変更しないのだな。それも　よいだろう。\n<bw_break>": "No change... That's good...<bw_break>"
+    "「変更しないのだな。それも　よいだろう。\n<bw_break>": "So you don't want to change? Alright.\n<bw_break>"
   },
   "91208": {
     "「何について　ご説明しましょうか？\n<select_se_off>\n転職について\nスキルポイントについて\n呪文や特技の引き継ぎについて\n特訓モードについて\n<select_end>\n<break>": "What would you like me to tell you about?\n<select_se_off>\nAbout changing jobs\nAbout Skill Points\nTransfer of Spells and Specialties\nAbout Special Training Mode\n<select_end>\n<break>"
@@ -714,7 +714,7 @@
     "「……む？　今のレベルでは　特訓はできぬぞ。\n　レベル５０以上の　職業に転職してから\n　特訓モードを　開始するがよかろう。　\n<bw_break>": "... No? You can't train at your current\nlevel... You'll need to be at least level 50\nbefore you can start training.\n<br><bw_break>"
   },
   "123261": {
-    "「変更しないのだな。それも　よいだろう。\n<bw_break>": "No change... That's good...<bw_break>"
+    "「変更しないのだな。それも　よいだろう。\n<bw_break>": "So you don't want to change? Alright.\n<bw_break>"
   },
   "123262": {
     "「次は　<%dM_stamp>個　特訓スタンプを\n　貯めてきた時　スキルポイントを授けよう。\n　さて…\n<bw_break>": "You'll receive another skill point once you\nreach the next goal of <%dM_stamp> training stamps.\nNow then...\n<bw_break>"
@@ -726,10 +726,10 @@
     "「すべての職業で　レベルが上限に達しています。\n　特訓の余地のある　職業があるようですが\n　それでも　経験値モードにきりかえますか？\n<yesno><break>": "I've reached the maximum level for all\nprofessions... It seems there are some\nprofessions that have room to train, but you\n<br>\nstill want to switch to experience mode?<yesno><break>"
   },
   "126442": {
-    "「すべての職業の特訓を　こなしているようです。\n　レベルが上限に達していない　職業がありますが\n　それでも　特訓モードにしますか？\n<yesno><break>": "I'm trying to train for every profession...\nThere are some professions whose levels\naren't up to par, but you still want to go\n<br>\ninto training mode?<yesno><break>"
+    "「すべての職業の特訓を　こなしているようです。\n　レベルが上限に達していない　職業がありますが\n　それでも　特訓モードにしますか？\n<yesno><break>": "So you wish to change all vocations to\ntraining mode, I see. Some of your vocations\nhave yet to reach maximum level, however.\n<br>\nDo you still want to enter training mode?\n<yesno><break>"
   },
   "126443": {
-    "すべての職業が　経験値モードになった！\n<end>": "All professions are now in experience mode!<end>"
+    "すべての職業が　経験値モードになった！\n<end>": "All vocations are now in experience mode!\n<end>"
   },
   "126444": {
     "「これで　すべての職業が\n　経験値モードになりました。\n　さあ　お行きなさい。\n<end>": "Now that all professions are in experience\nmode... Here we go...<end>"
@@ -738,13 +738,13 @@
     "「すべての職業を\n　経験値モードに　きりかえるのですね？\n<yesno><break>": "So you're switching all professions to\nexperience mode?<yesno><break>"
   },
   "126446": {
-    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All professions are now in training mode!<color_yellow>All professions below level 50 are still in\nexperience mode.<end>"
+    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All vocations are now in training mode!\n<color_yellow>(Any vocations under level 50 will remain\nin experience mode.)\n<end>"
   },
   "126447": {
     "「すべての職業が　特訓モードになりました。\n　強敵を相手に　特訓に　はげむとよいでしょう。\n　さあ　お行きなさい。\n<end>": "All vocations are now set to training mode.\nDo your best to train against the most\npowerful of foes. You may go, my child.\n<end>"
   },
   "126448": {
-    "「すべての職業を　特訓モードに　するのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If I put all the professions in training\nmode... I won't be able to gain any\nexperience, is that correct?\n<br><yesno><break>"
+    "「すべての職業を　特訓モードに　するのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If all vocations enter training mode, then you\nwill not gain any experience.\nAre you sure?\n<br><yesno><break>"
   },
   "126449": {
     "「一度で　すべての職業を\n　『経験値モード』か『特訓モード』に\n　きりかえられるぞ。　どちらにするのだ？\n<select_se_off>\n経験値モード\n特訓モード\n<select_end>\n<break>": "You can switch all of your vocations to either\n\"Experience Mode\" or \"Training Mode\".\nWhich would you like?\n<select_se_off>\nExperience Mode\nTraining Mode\n<select_end>\n<break>"
@@ -756,7 +756,7 @@
     "「すべての職業の特訓を　こなしているようだな。\n　レベルが上限に達していない　職業があるが\n　それでも　特訓モードにきりかえるのか？\n<yesno><break>": "I'm trying to train for every profession...\nThere are some professions whose levels\naren't up to par, but you still want to\n<br>\nswitch to training mode?<yesno><break>"
   },
   "126452": {
-    "すべての職業が　経験値モードになった！\n<end>": "All professions are now in experience mode!<end>"
+    "すべての職業が　経験値モードになった！\n<end>": "All vocations are now in experience mode!<end>"
   },
   "126453": {
     "「よし。これで　すべての職業が\n　経験値モードになった。\n　さあ　行くがよい。\n<end>": "Okay. Now all professions are in experience\nmode... Let's go...<end>"
@@ -765,7 +765,7 @@
     "「すべての職業を　\n　経験値モードに　きりかえるのだな？\n<yesno><break>": "You're going to switch all professions to\nexperience mode?<yesno><break>"
   },
   "126455": {
-    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All professions are now in training mode!<color_yellow>All professions below level 50 are still in\nexperience mode.<end>"
+    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All vocations are now in training mode!\n<color_yellow>(Any vocations under level 50 will remain\nin experience mode.)\n<end>"
   },
   "126456": {
     "「これで　すべての職業が　特訓モードになった。\n　強敵を相手に　心して特訓に　はげむのだぞ。\n　さあ　行くがよい。\n<end>": "All professions are now in training mode. I\nwill train with all my heart against the\nstrongest of opponents... Let's go...\n<br><end>"
@@ -783,7 +783,7 @@
     "「すべての職業の特訓を　こなしているようだな。\n　レベルが上限に達していない　職業があるが\n　それでも　特訓モードにきりかえるのか？\n<yesno><break>": "I'm trying to train for every profession...\nThere are some professions whose levels\naren't up to par, but you still want to\n<br>\nswitch to training mode?<yesno><break>"
   },
   "126461": {
-    "すべての職業が　経験値モードになった！\n<end>": "All professions are now in experience mode!<end>"
+    "すべての職業が　経験値モードになった！\n<end>": "All vocations are now in experience mode!<end>"
   },
   "126462": {
     "「よし。これで　すべての職業が\n　経験値モードになった。\n　さあ　行くがよい。\n<end>": "Okay. Now all professions are in experience\nmode... Let's go...<end>"
@@ -792,7 +792,7 @@
     "「すべての職業を　\n　経験値モードに　きりかえるのだな？\n<yesno><break>": "You're going to switch all professions to\nexperience mode?<yesno><break>"
   },
   "126464": {
-    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All professions are now in training mode!<color_yellow>All professions below level 50 are still in\nexperience mode.<end>"
+    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All vocations are now in training mode!\n<color_yellow>(Any vocations under level 50 will remain\nin experience mode.)\n<end>"
   },
   "126465": {
     "「これで　すべての職業が　特訓モードになった。\n　強敵を相手に　心して特訓に　はげむのだぞ。\n　さあ　行くがよい。\n<end>": "All professions are now in training mode. I\nwill train with all my heart against the\nstrongest of opponents... Let's go...\n<br><end>"
@@ -810,7 +810,7 @@
     "「すべての職業の特訓を　こなしているようだな。\n　レベルが上限に達していない　職業があるが\n　それでも　特訓モードにきりかえるのか？\n<yesno><break>": "I'm trying to train for every profession...\nThere are some professions whose levels\naren't up to par, but you still want to\n<br>\nswitch to training mode?<yesno><break>"
   },
   "126470": {
-    "すべての職業が　経験値モードになった！\n<end>": "All professions are now in experience mode!<end>"
+    "すべての職業が　経験値モードになった！\n<end>": "All vocations are now in experience mode!<end>"
   },
   "126471": {
     "「よし。これで　すべての職業が\n　経験値モードになった。\n　さあ　行くがよい。\n<end>": "Okay. Now all professions are in experience\nmode... Let's go...<end>"
@@ -819,7 +819,7 @@
     "「すべての職業を　\n　経験値モードに　きりかえるのだな？\n<yesno><break>": "You're going to switch all professions to\nexperience mode?<yesno><break>"
   },
   "126473": {
-    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All professions are now in training mode!<color_yellow>All professions below level 50 are still in\nexperience mode.<end>"
+    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All vocations are now in training mode!\n<color_yellow>(Any vocations under level 50 will remain\nin experience mode.)\n<end>"
   },
   "126474": {
     "「これで　すべての職業が　特訓モードになった。\n　強敵を相手に　心して特訓に　はげむのだぞ。\n　さあ　行くがよい。\n<end>": "All professions are now in training mode. I\nwill train with all my heart against the\nstrongest of opponents... Let's go...\n<br><end>"
@@ -834,10 +834,10 @@
     "「すべての職業で　レベルが上限に達しています。\n　特訓の余地のある　職業があるようですが\n　それでも　経験値モードにきりかえますか？\n<yesno><break>": "I've reached the maximum level for all\nprofessions... It seems there are some\nprofessions that have room to train, but you\n<br>\nstill want to switch to experience mode?<yesno><break>"
   },
   "126478": {
-    "「すべての職業の特訓を　こなしているようです。\n　レベルが上限に達していない　職業がありますが\n　それでも　特訓モードにしますか？\n<yesno><break>": "I'm trying to train for every profession...\nThere are some professions whose levels\naren't up to par, but you still want to go\n<br>\ninto training mode?<yesno><break>"
+    "「すべての職業の特訓を　こなしているようです。\n　レベルが上限に達していない　職業がありますが\n　それでも　特訓モードにしますか？\n<yesno><break>": "So you wish to change all vocations to\ntraining mode, I see. Some of your vocations\nhave yet to reach maximum level, however.\n<br>\nDo you still want to enter training mode?\n<yesno><break>"
   },
   "126479": {
-    "すべての職業が　経験値モードになった！\n<end>": "All professions are now in experience mode!<end>"
+    "すべての職業が　経験値モードになった！\n<end>": "All vocations are now in experience mode!<end>"
   },
   "126480": {
     "「これで　すべての職業が\n　経験値モードになりました。\n　さあ　お行きなさい。\n<end>": "Now that all professions are in experience\nmode... Here we go...<end>"
@@ -846,13 +846,13 @@
     "「すべての職業を\n　経験値モードに　きりかえるのですね？\n<yesno><break>": "So you're switching all professions to\nexperience mode?<yesno><break>"
   },
   "126482": {
-    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All professions are now in training mode!<color_yellow>All professions below level 50 are still in\nexperience mode.<end>"
+    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All vocations are now in training mode!\n<color_yellow>(Any vocations under level 50 will remain\nin experience mode.)\n<end>"
   },
   "126483": {
     "「すべての職業が　特訓モードになりました。\n　強敵を相手に　特訓に　はげむとよいでしょう。\n　さあ　お行きなさい。\n<end>": "All vocations are now set to training mode.\nDo your best to train against the most\npowerful of foes. You may go, my child.\n<end>"
   },
   "126484": {
-    "「すべての職業を　特訓モードに　するのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If I put all the professions in training\nmode... I won't be able to gain any\nexperience, is that correct?\n<br><yesno><break>"
+    "「すべての職業を　特訓モードに　するのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If all vocations enter training mode, then you\nwill not gain any experience.\nAre you sure?\n<br><yesno><break>"
   },
   "126580": {
     "「あら？　あなたは　今　経験値モードですが\n　<%sM_job>のレベルは\n　上限に達しているようですね。\n<br>\n「特訓スタンプを集めれば\n　さらなる成長が　見込めるようです。\n　特訓モードに　きりかえますか？\n<yesno><break>": "Hm? You're currently in experience mode, but\nyour <%sM_job> level has reached the\nmaximum level.\n<br>\nIf you collect training stamps, you'll be able\nto grow in power even further. Do you wish\nto switch to training mode?\n<yesno><break>"
@@ -867,7 +867,7 @@
     "「……む？　お前は　今　経験値モードだが\n　<%sM_job>のレベルは\n　上限に達しているようだな。\n<br>\n「特訓スタンプを集めれば\n　さらなる成長が　見込めるようだ。\n　特訓モードに　きりかえるかね？\n<yesno><break>": "... Mmm? You're in experience mode now, but\nyour <%sM_job> level has reached\nthe maximum... If you collect the training\n<br>\nstamps, you can grow even more. Do you want\nto switch to training mode?<yesno><break>"
   },
   "126584": {
-    "「変更しないのだな。それも　よいだろう。\n<end>": "No change... That's good...<end>"
+    "「変更しないのだな。それも　よいだろう。\n<end>": "So you don't want to change? Alright.\n<end>"
   },
   "126585": {
     "「……む？　お前は　今　特訓モードだが\n　<%sM_job>の特訓は　もう充分のようだな。\n<br>\n「経験値を得れば\n　さらなる成長が　見込めるようだ。\n　特訓モードを　解除するかね？\n<yesno><break>": "... No? You're in training mode, but you've\ndone enough training on\n<%sM_job>. The experience you've\n<br>\ngained will allow you to grow even more.\nWould you like to be released from training\nmode?\n<br><yesno><break>"
@@ -876,7 +876,7 @@
     "「……む？　お前は　今　経験値モードだが\n　<%sM_job>のレベルは\n　上限に達しているようだな。\n<br>\n「特訓スタンプを集めれば\n　さらなる成長が　見込めるようだ。\n　特訓モードに　きりかえるかね？\n<yesno><break>": "... Mmm? You're in experience mode now, but\nyour <%sM_job> level has reached\nthe maximum... If you collect the training\n<br>\nstamps, you can grow even more. Do you want\nto switch to training mode?<yesno><break>"
   },
   "126587": {
-    "「変更しないのだな。それも　よいだろう。\n<end>": "No change... That's good...<end>"
+    "「変更しないのだな。それも　よいだろう。\n<end>": "So you don't want to change? Alright.\n<end>"
   },
   "126588": {
     "「……む？　お前は　今　特訓モードだが\n　<%sM_job>の特訓は　もう充分のようだな。\n<br>\n「経験値を得れば\n　さらなる成長が　見込めるようだ。\n　特訓モードを　解除するかね？\n<yesno><break>": "... No? You're in training mode, but you've\ndone enough training on\n<%sM_job>. The experience you've\n<br>\ngained will allow you to grow even more.\nWould you like to be released from training\nmode?\n<br><yesno><break>"
@@ -885,7 +885,7 @@
     "「……む？　お前は　今　経験値モードだが\n　<%sM_job>のレベルは\n　上限に達しているようだな。\n<br>\n「特訓スタンプを集めれば\n　さらなる成長が　見込めるようだ。\n　特訓モードに　きりかえるかね？\n<yesno><break>": "... Mmm? You're in experience mode now, but\nyour <%sM_job> level has reached\nthe maximum... If you collect the training\n<br>\nstamps, you can grow even more. Do you want\nto switch to training mode?<yesno><break>"
   },
   "126590": {
-    "「変更しないのだな。それも　よいだろう。\n<end>": "No change... That's good...<end>"
+    "「変更しないのだな。それも　よいだろう。\n<end>": "So you don't want to change? Alright.\n<end>"
   },
   "126591": {
     "「……む？　お前は　今　特訓モードだが\n　<%sM_job>の特訓は　もう充分のようだな。\n<br>\n「経験値を得れば\n　さらなる成長が　見込めるようだ。\n　特訓モードを　解除するかね？\n<yesno><break>": "... No? You're in training mode, but you've\ndone enough training on\n<%sM_job>. The experience you've\n<br>\ngained will allow you to grow even more.\nWould you like to be released from training\nmode?\n<br><yesno><break>"
@@ -1032,7 +1032,7 @@
     "<pc>の　特訓モードが解除された。\n<end>": "Training mode has been disabled.<end>"
   },
   "131274": {
-    "すべての職業が　経験値モードになった！\n<end>": "All professions are now in experience mode!<end>"
+    "すべての職業が　経験値モードになった！\n<end>": "All vocations are now in experience mode!<end>"
   },
   "131275": {
     "「よし。これで　すべての職業が\n　経験値モードになった。\n　さあ　行くがよい。\n<end>": "Okay. Now all professions are in experience\nmode... Let's go...<end>"
@@ -1050,7 +1050,7 @@
     "<pc>は　特訓モードになった！\n<end>": "<pc> is now in training mode!<end>"
   },
   "131280": {
-    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All professions are now in training mode!<color_yellow>All professions below level 50 are still in\nexperience mode.<end>"
+    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All vocations are now in training mode!\n<color_yellow>(Any vocations under level 50 will remain\nin experience mode.)\n<end>"
   },
   "131281": {
     "「これで　すべての職業が　特訓モードになった。\n　強敵を相手に　心して特訓に　はげむのだぞ。\n　さあ　行くがよい。\n<end>": "All professions are now in training mode. I\nwill train with all my heart against the\nstrongest of opponents... Let's go...\n<br><end>"
@@ -1068,10 +1068,10 @@
     "「……む？　今のレベルでは　特訓はできぬぞ。\n　レベル５０以上の　職業に転職してから\n　特訓モードを　開始するがよかろう。　\n<bw_break>": "... No? You can't train at your current\nlevel... You'll need to be at least level 50\nbefore you can start training.\n<br><bw_break>"
   },
   "131286": {
-    "「変更しないのだな。それも　よいだろう。\n<bw_break>": "No change... That's good...<bw_break>"
+    "「変更しないのだな。それも　よいだろう。\n<bw_break>": "So you don't want to change? Alright.\n<bw_break>"
   },
   "131287": {
-    "「変更しないのだな。それも　よいだろう。\n<end>": "No change... That's good...<end>"
+    "「変更しないのだな。それも　よいだろう。\n<end>": "So you don't want to change? Alright.\n<end>"
   },
   "131288": {
     "「……む？　お前は　今　特訓モードだが\n　<%sM_job>の特訓は　もう充分のようだな。\n<br>\n「経験値を得れば\n　さらなる成長が　見込めるようだ。\n　特訓モードを　解除するかね？\n<yesno><break>": "... No? You're in training mode, but you've\ndone enough training on\n<%sM_job>. The experience you've\n<br>\ngained will allow you to grow even more.\nWould you like to be released from training\nmode?\n<br><yesno><break>"
@@ -1191,7 +1191,7 @@
     "「まあ。あなたは　今　いまわしき呪いに\n　おかされてらっしゃいますね。\n<br>\n「転職は　教会にて呪いのけがれを\n　はらってからにするのが　よいでしょう。": "Hm. It seems you're under a terrible curse\nright now. It's best to change vocations after\nvisiting a church to remove that curse."
   },
   "134348": {
-    "「すべての職業の特訓を　こなしているようです。\n　レベルが上限に達していない　職業がありますが\n　それでも　特訓モードにしますか？\n<yesno><break>": "I'm trying to train for every profession...\nThere are some professions whose levels\naren't up to par, but you still want to go\n<br>\ninto training mode?<yesno><break>"
+    "「すべての職業の特訓を　こなしているようです。\n　レベルが上限に達していない　職業がありますが\n　それでも　特訓モードにしますか？\n<yesno><break>": "So you wish to change all vocations to\ntraining mode, I see. Some of your vocations\nhave yet to reach maximum level, however.\n<br>\nDo you still want to enter training mode?\n<yesno><break>"
   },
   "134349": {
     "「まぁ！　特訓スタンプが貯まっていますね。\n　確認いたしましょう。\n<bw_break>": "Oh, my! You've accumulated quite a few\ntraining stamps. I will check them now.\n<bw_break>"
@@ -1212,7 +1212,7 @@
     "<pc>の　特訓モードが解除された。\n<end>": "Training mode has been disabled.<end>"
   },
   "134355": {
-    "すべての職業が　経験値モードになった！\n<end>": "All professions are now in experience mode!<end>"
+    "すべての職業が　経験値モードになった！\n<end>": "All vocations are now in experience mode!<end>"
   },
   "134356": {
     "「これで　すべての職業が\n　経験値モードになりました。\n　さあ　お行きなさい。\n<end>": "Now that all professions are in experience\nmode... Here we go...<end>"
@@ -1230,13 +1230,13 @@
     "<pc>は　特訓モードになった！\n<end>": "<pc> is now in training mode!<end>"
   },
   "134361": {
-    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All professions are now in training mode!<color_yellow>All professions below level 50 are still in\nexperience mode.<end>"
+    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All vocations are now in training mode!\n<color_yellow>(Any vocations under level 50 will remain\nin experience mode.)\n<end>"
   },
   "134362": {
     "「すべての職業が　特訓モードになりました。\n　強敵を相手に　特訓に　はげむとよいでしょう。\n　さあ　お行きなさい。\n<end>": "All vocations are now set to training mode.\nDo your best to train against the most\npowerful of foes. You may go, my child.\n<end>"
   },
   "134363": {
-    "「すべての職業を　特訓モードに　するのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If I put all the professions in training\nmode... I won't be able to gain any\nexperience, is that correct?\n<br><yesno><break>"
+    "「すべての職業を　特訓モードに　するのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If all vocations enter training mode, then you\nwill not gain any experience.\nAre you sure?\n<br><yesno><break>"
   },
   "134364": {
     "「これで　あなたは特訓モードになりました。\n　強敵を相手に　特訓に　はげむとよいでしょう。\n　さあ　お行きなさい。\n<end>": "You are now in training mode. Be sure to train\nagainst the strongest foes that you are able.\nBlessings upon you, child.\n<end>"
@@ -1770,19 +1770,19 @@
     "「すべての職業で　レベルが上限に達しています。\n　特訓の余地のある　職業があるようですが\n　それでも　経験値モードにきりかえますか？\n<yesno><break>": "I've reached the maximum level for all\nprofessions... It seems there are some\nprofessions that have room to train, but you\n<br>\nstill want to switch to experience mode?<yesno><break>"
   },
   "292180": {
-    "すべての職業が　経験値モードになった！\n<end>": "All professions are now in experience mode!<end>"
+    "すべての職業が　経験値モードになった！\n<end>": "All vocations are now in experience mode!<end>"
   },
   "292181": {
     "「これで　すべての職業が\n　経験値モードになりました。\n　さあ　お行きなさい。\n<end>": "Now that all professions are in experience\nmode... Here we go...<end>"
   },
   "292182": {
-    "「すべての職業を　特訓モードに　するのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If I put all the professions in training\nmode... I won't be able to gain any\nexperience, is that correct?\n<br><yesno><break>"
+    "「すべての職業を　特訓モードに　するのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If all vocations enter training mode, then you\nwill not gain any experience.\nAre you sure?\n<br><yesno><break>"
   },
   "292183": {
-    "「すべての職業の特訓を　こなしているようです。\n　レベルが上限に達していない　職業がありますが\n　それでも　特訓モードにしますか？\n<yesno><break>": "I'm trying to train for every profession...\nThere are some professions whose levels\naren't up to par, but you still want to go\n<br>\ninto training mode?<yesno><break>"
+    "「すべての職業の特訓を　こなしているようです。\n　レベルが上限に達していない　職業がありますが\n　それでも　特訓モードにしますか？\n<yesno><break>": "So you wish to change all vocations to\ntraining mode, I see. Some of your vocations\nhave yet to reach maximum level, however.\n<br>\nDo you still want to enter training mode?\n<yesno><break>"
   },
   "292184": {
-    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All professions are now in training mode!<color_yellow>All professions below level 50 are still in\nexperience mode.<end>"
+    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All vocations are now in training mode!\n<color_yellow>(Any vocations under level 50 will remain\nin experience mode.)\n<end>"
   },
   "292185": {
     "「すべての職業が　特訓モードになりました。\n　強敵を相手に　特訓に　はげむとよいでしょう。\n　さあ　お行きなさい。\n<end>": "All vocations are now set to training mode.\nDo your best to train against the most\npowerful of foes. You may go, my child.\n<end>"
