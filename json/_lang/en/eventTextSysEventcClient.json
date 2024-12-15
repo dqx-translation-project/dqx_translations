@@ -132,7 +132,7 @@
     "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』の\nさそいを　断りました。": "Request Form Quest\n\"<%sQUE_IRAISYA>'s Request!\" invitation\nwas cancelled."
   },
   "69754": {
-    "仲間と一緒に　この先に行くためには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed, all of your party members\nmust be ready.\n<select>\nWait for Party\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間と一緒に　この先に行くためには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed, all party members must\nbe ready.\n<select>\nWait for Party\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "69755": {
     "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<br>\nこの先では　全員が同じ出来事を共有しますが\n話が進むのは　パーティリーダーと　それと同じ\n進行状況の人のみです。他の人は進みません。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "This is an accompaniment point. In order to\nproceed, all party members must be ready.\n<br>\nFrom this point, everyone will view the same\nevents, but only the leader and other party\nmembers at the same point will progress.\n<select>\nWait for Party\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
@@ -336,7 +336,7 @@
     "仲間が　そろいました。\nパーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": "The party has gathered.\nPlease wait for the other parties.<wait=1000><close>"
   },
   "124280": {
-    "仲間と一緒に　この先に行くためには\n一緒に行きたい仲間の準備が\n完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed, you'll have to be ready\nwith your party.\n<select>\nWait for Party\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間と一緒に　この先に行くためには\n一緒に行きたい仲間の準備が\n完了している必要があります。\n<select>\n仲間の準備完了を待つ\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed, all party members must\nbe ready.\n<select>\nWait for Party\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "153036": {
     "おはなしを　進めるために\n<%sEV_GUIDESTAGE>の\n近くの場所まで　移動しますか？<yesno><close>": "Move to a location near\n<%sEV_GUIDESTAGE>\nto continue the story?<yesno><close>"
@@ -366,7 +366,7 @@
     "見つかっちゃった！": "I found it!"
   },
   "193032": {
-    "仲間と一緒に　退出するには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nパーティを抜けて先に進む\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed, you and your party\nmembers must all be ready.\n<select>\nWait for Party\nLeave Party and Proceed\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間と一緒に　退出するには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\n仲間の準備完了を待つ\nパーティを抜けて先に進む\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "In order to proceed, all party members\nmust be ready.\n<select>\nWait for Party\nLeave Party and Proceed\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "212437": {
     "パーティ同盟相手の　仲間たちを待ちます。<wait=1000><close>": "Waiting for other party alliance members.<wait=1000><close>"
