@@ -1,9 +1,9 @@
 {
   "259883": {
-    "<speed=0>\n第<%nM_EVENT_NUMBER>回段位戦は　終了いたしました。\n娯楽島ラッカランの　大富豪協会員プゴルのもとへ\n向かってください。\n<end>": "<speed=0>The No. <%dM_EVENT_NUMBER> Ranked Championship has ended.\nPlease go speak with Tycoon Club Member Pugol\nin Luckland.<end>"
+    "<speed=0>\n第<%nM_EVENT_NUMBER>回段位戦は　終了いたしました。\n娯楽島ラッカランの　大富豪協会員プゴルのもとへ\n向かってください。\n<end>": "<speed=0>The No. <%dM_EVENT_NUMBER> Ranked Battle has ended.\nPlease go speak with Tycoon Club Member Pugol\nin Luckland.<end>"
   },
   "259884": {
-    "<speed=0>\nただいま　大富豪決定戦　開催中のため\n段位戦は参加できません。\n<end>": "<speed=0>The Tycoon Playoffs are now underway, so you\ncan't participate in Ranked.<end>"
+    "<speed=0>\nただいま　大富豪決定戦　開催中のため\n段位戦は参加できません。\n<end>": "<speed=0>The Tycoon Playoffs are now underway, so you\ncan't participate in Ranked Battle matches.<end>"
   },
   "259885": {
     "<speed=0>\n２人以上のパーティを　組んでいないと\n仲間と　対戦できません。\n<end>": "<speed=0>Your party must have at least 2 members to\nplay a Party Battle.<end>"
@@ -15,10 +15,10 @@
     "<speed=0>\n仲間とパーティを　組んでいるため\nひとりで　練習できません。\n<end>": "<speed=0>You are currently in a party, so you\ncannot practice alone.<end>"
   },
   "259888": {
-    "<speed=0>\n段位戦の　対戦相手を探します。\n表示されているルールで　３ゲーム続けて\n遊びますが　よろしいですか？\n<yesno><close>": "<speed=0>\nSearch for players for a Ranked battle with\nthe current rules shown?\n<yesno><close>"
+    "<speed=0>\n段位戦の　対戦相手を探します。\n表示されているルールで　３ゲーム続けて\n遊びますが　よろしいですか？\n<yesno><close>": "<speed=0>\nSearch for players for a Ranked Battle match\nwith the current rules shown?\n<yesno><close>"
   },
   "259889": {
-    "<speed=0>\n段位戦のルールが　切り替わりました。\nもう一度　やり直してください。\n<end>": "<speed=0>The Ranked rules have changed. Please try\nagain.<end>"
+    "<speed=0>\n段位戦のルールが　切り替わりました。\nもう一度　やり直してください。\n<end>": "<speed=0>The Ranked Battle rules have changed.\nPlease try again.<end>"
   },
   "259890": {
     "<speed=0>\nこのルールで　仲間を誘います。\n<%nM_NUM_GAME>ゲーム遊びますが　よろしいですか？\n４人未満の時は　自動操作の代役が参加します。\n<yesno><close>": "<speed=0>Play <%dM_NUM_GAME> game(s) using these rules with your\ncurrent party? Any empty spots will be filled\nby computer controlled opponents.\n<yesno><close>"
@@ -30,7 +30,7 @@
     "<speed=0>\n大富豪の　基本ルールについて\n確認することが　できます。\n<break>": "<speed=0>Here you can review Tycoon's basic rules.<break>"
   },
   "259893": {
-    "<speed=0>\n大富豪の対戦のうち\n『段位戦』『なかま対戦』『ひとりで練習』\nについての説明です。\n<br>\n『段位戦』は　マッチングで参加した\n冒険者と４人で　日替わりのルールで\n遊びます。\n<br>\n『段位戦』では\n３ゲーム　続けてプレイして\n勝ち点の合計を　競います。\n<br>\n『なかま対戦』は　今いる仲間と\nリーダーが決めたルールで　遊びます。\n<br>\nただし　『なかま対戦』では\nもらえる　トランプポイントが\n『段位戦』よりも少ないので　ご注意ください。\n<br>\n『なかま対戦』で　人数が足りない時は\n４人になるように　自動操作の代役が\n参加します。\n<br>\n『ひとりで練習』では　トランプポイントは\nもらえませんが　自分で決めたルールを\n試すことができます。\n<br>\n『なかま対戦』と『ひとりで練習』は\nゲーム数を　選択できます。\n選択できるゲーム数は　４ゲームまでです。\n<br>\n自分１人でウデ試しするなら　『段位戦』\n仲間と遊ぶなら　『なかま対戦』で\n大富豪を　お楽しみください。\n<end>": "<speed=0>\nThis will explain \"Ranked\", \"Party Battle\",\nand \"Playing Alone\" for Tycoon.\n<br>\n\"Ranked\" matches you with 3 other players\nand you will play with the Ranked Rules which\nchange daily.\n<br>\nIn \"Ranked\", you will play 3 games and\ncompete for the highest number of points.\n<br>\n\"Party Battle\" lets you play with friends\nand you'll play with the party leader's\nchosen rules.\n<br>\nHowever, please be aware that you'll earn less\nCard Points in \"Party Battle\" than in\n\"Ranked\".\n<br>\nWhen you have less than 4 players for a\n\"Party Battle\", the empty spots will be filled\nby computer controlled opponents.\n<br>\nIn \"Practice Alone\", you can choose your own\nrules, but you won't receive any Card Points.\n<br>\nIn \"Party Battle\" and \"Practice Alone\", you\ncan choose the amount of games to play up\nto 4 total.\n<br>\nPlay \"Ranked\" to test your own skills, and\nplay \"Party Battle\" to enjoy casual games\nwith your friends.\n<end>"
+    "<speed=0>\n大富豪の対戦のうち\n『段位戦』『なかま対戦』『ひとりで練習』\nについての説明です。\n<br>\n『段位戦』は　マッチングで参加した\n冒険者と４人で　日替わりのルールで\n遊びます。\n<br>\n『段位戦』では\n３ゲーム　続けてプレイして\n勝ち点の合計を　競います。\n<br>\n『なかま対戦』は　今いる仲間と\nリーダーが決めたルールで　遊びます。\n<br>\nただし　『なかま対戦』では\nもらえる　トランプポイントが\n『段位戦』よりも少ないので　ご注意ください。\n<br>\n『なかま対戦』で　人数が足りない時は\n４人になるように　自動操作の代役が\n参加します。\n<br>\n『ひとりで練習』では　トランプポイントは\nもらえませんが　自分で決めたルールを\n試すことができます。\n<br>\n『なかま対戦』と『ひとりで練習』は\nゲーム数を　選択できます。\n選択できるゲーム数は　４ゲームまでです。\n<br>\n自分１人でウデ試しするなら　『段位戦』\n仲間と遊ぶなら　『なかま対戦』で\n大富豪を　お楽しみください。\n<end>": "<speed=0>\nThis will explain \"Ranked Battle\", \"Party\nBattle\", and \"Playing Alone\" for Tycoon.\n<br>\n\"Ranked Battle\" matches you with 3 other\nplayers and you will play with the Ranked\nRules, which change daily.\n<br>\nIn a Ranked Battle match, you will play 3\ngames and compete for the highest number\nof points.\n<br>\n\"Party Battle\" lets you play with friends\nand you'll play with the party leader's\nchosen rules.\n<br>\nHowever, please be aware that you'll earn less\nCard Points in a Party Battle than in a\nRanked Battle.\n<br>\nWhen you have less than 4 players for a\nParty Battle, the empty spots will be filled\nby computer-controlled opponents.\n<br>\nIn \"Practice Alone\", you can choose your own\nrules, but you won't receive any Card Points.\n<br>\nIn both Party Battle and Practice Alone, you\ncan choose the amount of games to play, up\nto total of 4 games.\n<br>\nPlay Ranked Battle to test your own skills,\nand play Party Battle to enjoy casual games\nwith your friends.\n<end>"
   },
   "259894": {
     "<speed=0>\n各プレイヤーには　階級があり\n１ゲーム目は　全員「平民」から\nスタートします。\n<br>\n１ゲーム目は　ダイヤの３を持った\nプレイヤーが親となり　ゲームを始めます。\n<br>\n順番に　場に出されたカードよりも\n強いカードを　出していって\n手札のカードを出し切ると　あがりです。\n<br>\n次のゲームの階級は　あがりの順で\n「大富豪」「富豪」「貧民」「大貧民」\nに決まります。\n<br>\n２ゲーム目からは　ゲームを始める前に\nほかの階級の　プレイヤーと\nカードを　交換します。\n<br>\n大富豪は　手札から選んだカード２枚と\n大貧民がもつ　最強のカード２枚を\n交換します。\n<br>\n富豪は　手札から選んだカード１枚と\n貧民がもつ　最強のカード１枚を\n交換します。\n<br>\n２ゲーム目以降は　大貧民のプレイヤーが\n親となり　ゲームを始めます。\n<br>\nゲームがすべて終わると　勝ち点の合計で\n最終順位が　決まります。\n<end>": "<speed=0>Each player has a rank, and the first game\nbegins with all commoners... In the first\ngame, the player with the three of diamonds\n<br>\nis the parent and starts the game. In turn,\neach player must play a card that is stronger\nthan the card on the board, and when all the\n<br>\ncards in their hand are played, they win. In\nthe next game, the player's rank is\ndetermined by the order of their winnings:\n<br>\nmillionaire, rich, poor, and poorest. In the\nsecond game, before the game begins, you must\nexchange cards with a player of another rank.\n<br>\nThe richest player trades two cards from his\nhand for the poorest player's two best cards.\nThe richest player trades a card from his\n<br>\nhand for the poorest player's best card. From\nthe second game onwards, the poorest player\nis the parent and starts the game. When all\n<br>\nthe games are over, the final ranking is\ndetermined by the sum of the points won.<end>"
@@ -54,7 +54,7 @@
     "<speed=0>\n報酬を　受け取る場合は\n娯楽島ラッカランの　大富豪協会員プゴルのもとへ\n向かう必要があります。\n<end>": "<speed=0>\nTo receive your rewards, please speak to\nTycoon Club Member Pugol in Luckland.\n<end>"
   },
   "261998": {
-    "<speed=0>\n仲間とパーティを　組んでいるため\n段位戦に　参加できません。\n<end>": "<speed=0>You can't play a Ranked battle because\nyou are in a party.<end>"
+    "<speed=0>\n仲間とパーティを　組んでいるため\n段位戦に　参加できません。\n<end>": "<speed=0>You can't play a Ranked Battle match\nbecause you are currently in a party.<end>"
   },
   "262354": {
     "<speed=0>\n何ゲーム遊びますか？\n２ゲーム目からは　ゲームを始める前に\nほかの階級のプレイヤーと　カードを交換します。\n<select_se_off>\n１ゲーム\n２ゲーム\n３ゲーム\n４ゲーム\n<select_end><close>": "<speed=0>\nHow many games do you want to play? From the\nsecond game, you exchange cards with other\nplayers of the same rank before starting.\n<select_se_off>\n1 Game\n2 Games\n3 Games\n4 Games\n<select_end><close>"
