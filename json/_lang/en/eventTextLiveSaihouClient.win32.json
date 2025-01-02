@@ -195,28 +195,28 @@
     "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<yesno><close>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<yesno><close>"
   },
   "103183": {
-    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\nさいほうが　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "You can now sew using not only the\n<color_yellow>item bag, but also the materials\nin the Depository and Roof Storage! If you\n<br>\nselect a recipe that does not have the\nnecessary materials, you can use the material\nitems in the \"Depository\" and \"Roof Storage\".\n<br>\n<color_white>\n<end>"
+    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\nさいほうが　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>\nYou can now sew using materials in your\nstorages, in addition to materials already\nin your item bag!\n<br>\nWhen selecting a recipe that you do not have\nthe required materials for, the materials in\nyour storages will be used instead.\n<color_white>\n<end>"
   },
   "108384": {
     "予期せぬエラーにより\n実行することが　できませんでした。\n<end>": "Unexpected errors prevented execution.\n<end>"
   },
   "113263": {
-    "しつけがけを使ったマスは\n次にぬう時に　２倍の強さで　ぬいつけられます。\n他のとくぎと　組み合わせて使うと　効果的です！": "Squares that have been painted with the \"brush\nand paint\" technique will be painted twice as\nhard the next time they are painted. It is\n<br>\neffective when used in combination with other\nskills!"
+    "しつけがけを使ったマスは\n次にぬう時に　２倍の強さで　ぬいつけられます。\n他のとくぎと　組み合わせて使うと　効果的です！": "By using Bastitch on a square, the next sew on\nthat square will have double the power! Try\ncombining this together with other skills!"
   },
   "119116": {
     "<speed=0>\n<pc>は　いま作っている\n<%sL_RECIPE>を　じっくりと眺めた。": "<speed=0>\n<pc> examined carefully the\n<%sL_RECIPE> they were working on."
   },
   "143090": {
-    "巻きこみぬいを使うと\nひとつのマスを　強いチカラで　ぬいつけます。\nさらに　隣り合ったマスを弱いチカラでぬいます。": "With the Makikomi Nuri, a single square is\nplunged with strong force. The next square is\nthen plucked with less force."
+    "巻きこみぬいを使うと\nひとつのマスを　強いチカラで　ぬいつけます。\nさらに　隣り合ったマスを弱いチカラでぬいます。": "Using Sew Engaged, a chosen square is sewn\nwith more power than usual, while adjacent\nare sewn with weaker power."
   },
   "178608": {
-    "今週の職人回数が　上限に達したので\nこれ以上　さいほうはできません。\n<br>\n日曜日の　朝６時以降になると\nふたたび　さいほうが　できるようになります。\n<end>": "We have reached our sewing limit for the week,\nso no more sewing will be available. Sewing\nwill be available again on Sunday mornings\n<br>\nafter 6:00 a.m.\n<end>"
+    "今週の職人回数が　上限に達したので\nこれ以上　さいほうはできません。\n<br>\n日曜日の　朝６時以降になると\nふたたび　さいほうが　できるようになります。\n<end>": "You have reached the limit of the number of\ntimes you can sew per week, so you cannot\nsew any more items at this time.\n<br>\nThis limit resets each week on Sunday at\n6:00 AM JST.\n<end>"
   },
   "178609": {
-    "さいほう設備がある。\nここで　防具や家具が作れそうだ。\n（今週は　あと<%nL_PLAYABLE>回　さいほうができます。）\n<break>": "There is a Sewing Facility. You can make armor\nand furniture here. (You can sew\n<%dL_PLAYABLE> more times this week.)\n<break>"
+    "さいほう設備がある。\nここで　防具や家具が作れそうだ。\n（今週は　あと<%nL_PLAYABLE>回　さいほうができます。）\n<break>": "It's a sewing facility.\n(You can sew <%dL_PLAYABLE> more times this week.)\n<break>"
   },
   "178610": {
-    "さいほうを　続けますか？\n（今週は　あと<%nL_PLAYABLE>回　さいほうができます。）\n<break>": "Would you like to continue sewing? (You can\nsew <%dL_PLAYABLE> more times this week.)\n<break>"
+    "さいほうを　続けますか？\n（今週は　あと<%nL_PLAYABLE>回　さいほうができます。）\n<break>": "Continue sewing?\n(You can sew <%dL_PLAYABLE> more times\nthis week.)\n<break>"
   },
   "179584": {
     "まれに集中力回復は\n覚えているだけで　集中力が残り少なくなった時に\n低確率で　集中力が３０回復します。": "You now have a slight chance of restoring\n30 Focus whenever your current Focus is\nrunning low!"
@@ -228,18 +228,18 @@
     "<%nL_TURN>ターン目": "Turn <%dL_TURN>"
   },
   "284961": {
-    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": "<%dL_TURN>turns to activate material\nproperties <%dL_TOKUSEI_TURN>turns to go"
+    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": "Current turn is <%dL_TURN>.\n<%dL_TOKUSEI_TURN> turn(s) until material activates."
   },
   "284962": {
-    "<%nL_TURN>ターン目\n精神統一　あと<%nL_TOUITU_TURN>ターン": "<%dL_TURN>turn 1 mental unification and\n<%dL_TOUITU_TURN>turn 2"
+    "<%nL_TURN>ターン目\n精神統一　あと<%nL_TOUITU_TURN>ターン": "Current turn is <%dL_TURN>.\n<%dL_TOUITU_TURN> turn(s) until Sew Focused."
   },
   "284963": {
-    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン\n精神統一　あと<%nL_TOUITU_TURN>ターン": "<%dL_TURN>turn to activate material properties\n<%dL_TOKUSEI_TURN>turn to unify spirit\n<%dL_TOUITU_TURN>turn"
+    "<%nL_TURN>ターン目\n素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン\n精神統一　あと<%nL_TOUITU_TURN>ターン": "Current turn is <%dL_TURN>.\n<%dL_TOKUSEI_TURN> turn(s) until material activates.\n<%dL_TOUITU_TURN> turn(s) until Sew Focused."
   },
   "291503": {
-    "半かげんぬいを使うと\n７５％のチカラで　ぬうことができます。\n細かい調整をしたい時に　役立てよう！": "Half-calibration allows you to use 75% of the\nforce to wet. This is useful when you want to\nmake fine adjustments!"
+    "半かげんぬいを使うと\n７５％のチカラで　ぬうことができます。\n細かい調整をしたい時に　役立てよう！": "Using Semi-Stitch, you can sew with 75% of\nnormal power. This is useful for when you\nneed to make precise adjustments!"
   },
   "320513": {
-    "みだれぬいを使うと\nはじめは強く　だんだん弱く　４回ぬえますが\nどこをぬうかは　わかりません！": ""
+    "みだれぬいを使うと\nはじめは強く　だんだん弱く　４回ぬえますが\nどこをぬうかは　わかりません！": "By using Multisew, you can sew four random\nsquares, with each successive sew weaker\nthan the previous one."
   }
 }
