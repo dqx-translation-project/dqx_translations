@@ -180,7 +180,7 @@
     "鍛冶設備がある。\nここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。\n<break>": "It's a smithing facility.\n<break>"
   },
   "79246": {
-    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？\n<break>": "Continue <%sL_CATEGORY_NAME> smithing?\n<break>"
+    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？\n<break>": "Continue <%sL_CATEGORY_NAME>smithing?\n<break>"
   },
   "79287": {
     "今日できる　ギルドの依頼は無いようです。\n<end>": "There are no guild requests today.<end>"
@@ -195,13 +195,13 @@
     "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<select>\nふつうに作る\nいっぱつしあげ\n<select_end><break>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<select>\nCraft normally\nQuick craft\n<select_end><break>"
   },
   "103173": {
-    "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<select 2>\nふつうに作る\nいっぱつしあげ\n<select_end><break>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<select 2>\nCraft normally\nQuick craft\n<select_end><break>"
+    "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<select 2>\nふつうに作る\nいっぱつしあげ\n<select_end><break>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<select 2>\nCraft Normally\nQuick Craft\n<select_end><break>"
   },
   "103174": {
     "「預かり所」と　「屋根ウラ収納」に入っている\n素材を使って　<%sL_RECIPE>を作ります。\nよろしいですか？\n<yesno><close>": "This will make <%sL_RECIPE>\nusing materials from both your storage\nand house storage. Are you sure?\n<yesno><close>"
   },
   "103175": {
-    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\n<%sL_CATEGORY_NAME>鍛冶が　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now use materials from your storage\nand house storage in addition to the items in\nyour item bag for <%sL_CATEGORY_NAME>!\n<br>\nWhen selecting a recipe with materials you\ndon't have on hand, you have the option of\nusing materials from either storage.\n<color_white>\n<end>"
+    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\n<%sL_CATEGORY_NAME>鍛冶が　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now use materials from your storage\nand house storage in addition to the items in\nyour item bag for <%sL_CATEGORY_NAME>smithing!\n<br>\nWhen selecting a recipe with materials you\ndon't have on hand, you have the option of\nusing materials from either storage.\n<color_white>\n<end>"
   },
   "108386": {
     "予期せぬエラーにより\n実行することが　できませんでした。\n<end>": "Due to an unforeseen error, we are unable to\nexecute...<end>"
@@ -219,13 +219,13 @@
     "上下ねらい打ちを使うと\n上下の２マス分に　やや強めのチカラで\n会心率の高い　２連打を放ちます。": "By using Double Crackshot, you can strike two\nvertical squares with slightly increased power\nand a higher chance to critically hit."
   },
   "178592": {
-    "今週の職人回数が　上限に達したので\nこれ以上　<%sL_CATEGORY_NAME>鍛冶はできません。\n<br>\n日曜日の　朝６時以降になると\nふたたび　<%sL_CATEGORY_NAME>鍛冶が　できるようになります。\n<end>": "I've reached my limit for this week, so I\ncan't <%sL_CATEGORY_NAME>forge any more... On\nSunday mornings, after 6am, I can\n<br>\n<%sL_CATEGORY_NAME>forge again...<end>"
+    "今週の職人回数が　上限に達したので\nこれ以上　<%sL_CATEGORY_NAME>鍛冶はできません。\n<br>\n日曜日の　朝６時以降になると\nふたたび　<%sL_CATEGORY_NAME>鍛冶が　できるようになります。\n<end>": "You have reached the limit of the number of\ntimes you can smith <%sL_CATEGORY_NAME>s per week, so\nyou cannot smith any more items at this time.\n<br>\nThis limit resets each week on Sunday at\n6:00 AM JST.\n<end>"
   },
   "178593": {
-    "鍛冶設備がある。\nここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。\n（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）\n<break>": "It's a smithing facility.\n(You can <%sL_CATEGORY_NAME> <%dL_PLAYABLE>\nmore time(s) this week.)\n<break>"
+    "鍛冶設備がある。\nここで　<%sL_MENU_NO_1_><%sL_YA1><%sL_MENU_NO_2_><%sL_YA2><%sL_MENU_NO_3_><%sL_YA3>が作れそうだ。\n（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）\n<break>": "It's a smithing facility.\n(You can smith <%sL_CATEGORY_NAME>s\n<%dL_PLAYABLE> more time(s) this week.)\n<break>"
   },
   "178594": {
-    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？\n（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）\n<break>": "Would you like to continue\n<%sL_CATEGORY_NAME>forging? （I have\n<%dL_PLAYABLE>more <%sL_CATEGORY_NAME>forges\n<br>\nto do this week...)<break>"
+    "<%sL_CATEGORY_NAME>鍛冶を　続けますか？\n（今週は　あと<%nL_PLAYABLE>回　<%sL_CATEGORY_NAME>鍛冶ができます。）\n<break>": "Continue <%sL_CATEGORY_NAME>?\n(You can smith <%sL_CATEGORY_NAME>s\n<%dL_PLAYABLE> more time(s) this week.)\n<break>"
   },
   "179581": {
     "まれに集中力回復は\n覚えているだけで　集中力が残り少なくなった時に\n低確率で　集中力が３０回復します。": "You now have a slight chance of restoring\n30 Focus whenever your current Focus is\nrunning low!"
