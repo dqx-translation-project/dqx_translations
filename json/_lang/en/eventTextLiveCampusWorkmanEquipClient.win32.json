@@ -96,7 +96,7 @@
     "": ""
   },
   "155622": {
-    "<%sL_RECIPE>を　作るのに\n失敗した……。<bw_break>": "I failed to create <%sL_RECIPE>...<bw_break>"
+    "<%sL_RECIPE>を　作るのに\n失敗した……。<bw_break>": "Failed to create the\n<%sL_RECIPE>...<bw_break>"
   },
   "155623": {
     "": ""
@@ -108,7 +108,7 @@
     "<%sL_RECIPE><color_yellow><%sL_QUALITY><color_white>が　できた！<bw_break>": "Created the <%sL_RECIPE> <color_yellow><%sL_QUALITY><color_white>!<bw_break>"
   },
   "155635": {
-    "<%sL_RECIPE>が　<%dL_CREATE_NUM>個できた！\n<bw_break>": "<%sL_RECIPE> now has <%dL_CREATE_NUM>!<bw_break>"
+    "<%sL_RECIPE>が　<%dL_CREATE_NUM>個できた！\n<bw_break>": "Created <%dL_CREATE_NUM> <%sL_RECIPE>!<bw_break>"
   },
   "155636": {
     "<%sL_CATEGORY_NAME>鍛冶を　続けますか？\n<break>": "Continue <%sL_CATEGORY_NAME>smithing?\n<break>"
@@ -135,7 +135,7 @@
     "": ""
   },
   "155644": {
-    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\n<%sL_CATEGORY_NAME>鍛冶が　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now forge <%sL_CATEGORY_NAME> using\nthe materials in the Storage Area and Roof\nStorage, not just the Toolbox! When you\n<br>\nselect a recipe for which you don't have\nenough materials, you can use the materials\nitems in the Storage Area and Roof Storage...<color_white>\n<end>"
+    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\n<%sL_CATEGORY_NAME>鍛冶が　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now use materials from your storage\nand house storage in addition to the items in\nyour item bag for <%sL_CATEGORY_NAME>smithing!\n<br>\nWhen selecting a recipe with materials you\ndon't have on hand, you have the option of\nusing materials from either storage.\n<color_white>\n<end>"
   },
   "155645": {
     "<%sL_CATEGORY_NAME>鍛冶を　続けますか？\n<yesno><close>": "Continue <%sL_CATEGORY_NAME>smithing?\n<yesno><close>"
@@ -144,7 +144,7 @@
     "": ""
   },
   "155647": {
-    "<speed=0><%sL_RECIPE>を　仕上げます。\nよろしいですか？\n<yesno><break>": "<speed=0>Finish <%sL_RECIPE>... Are you sure?<yesno><break>"
+    "<speed=0><%sL_RECIPE>を　仕上げます。\nよろしいですか？\n<yesno><break>": "<speed=0>Finish working on the\n<%sL_RECIPE>?\n<yesno><break>"
   },
   "155648": {
     "<%sL_TICKET_NAME>を　使って\n<%sL_RECIPE>を　作ります。\nよろしいですか？\n<yesno><close>": "How do I use <%sL_TICKET_NAME> to create\n<%sL_RECIPE>? Are you sure?<yesno><close>"
