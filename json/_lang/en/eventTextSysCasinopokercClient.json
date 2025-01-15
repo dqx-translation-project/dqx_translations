@@ -78,7 +78,7 @@
     "同じテーブルにいる　<%sCAS_gambler>さんが\nカジノレイドに　突入しました。\n<br>\nこの　カジノレイドに　参加しますか？\n<yesno_nc><close>": "<%sCAS_gambler> at the same table has\nstarted a Casino Raid.\n<br>\nJoin the Casino Raid?\n<yesno_nc><close>"
   },
   "63676": {
-    "コイン<%dM_coin>枚　かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Received <%dM_coin> Tokens!\n<%sCAS_monster> took <%dCAS_damage> damage!<auto_bw=3000><close>"
+    "コイン<%dM_coin>枚　かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Won <%dM_coin> Tokens!\n<%sCAS_monster> takes <%dCAS_damage> damage!<auto_bw=3000><close>"
   },
   "63677": {
     "カジノレイド中です。\nこの　カジノレイドに　参加しますか？\n<yesno_nc><close>": "A casino raid is in progress.\nJoin the casino raid?\n<yesno_nc><close>"
@@ -129,7 +129,7 @@
     "ほんとうに　終了してよろしいですか？<yesno_nc 2><close>": "Are you sure you want to quit?<yesno_nc 2><close>"
   },
   "69517": {
-    "テンションアップこうげき！<auto_br=2500>\nコイン<%dM_coin>枚　かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension Boost Attack!<auto_br=2500>\nReceived <%dM_coin> Tokens!\n<%sCAS_monster> took <%dCAS_damage> damage!<auto_bw=3000><close>"
+    "テンションアップこうげき！<auto_br=2500>\nコイン<%dM_coin>枚　かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension Boost Attack!<auto_br=2500>\nWon <%dM_coin> Tokens!\n<%sCAS_monster> takes <%dCAS_damage> damage!<auto_bw=3000><close>"
   },
   "69649": {
     "<speed=0>オープンしている　カードより\n強いカードを　右の３枚から　選んでください。": "<speed=0>Try to pick a higher card than the one on the\nleft from one of the face down cards."
@@ -213,9 +213,9 @@
     "<%sCAS_monster>は　ダウンした！\nダウン中は　コイン入手量が２倍になります！": "<%sCAS_monster> is down!\nTokens will be doubled while it's down!"
   },
   "187592": {
-    "コイン<%dM_coin>枚（内 ボーナス<%dM_coin_bonus>枚）かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Received <%dM_coin> Coins (+<%dM_coin_bonus> Bonus)!\n<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
+    "コイン<%dM_coin>枚（内 ボーナス<%dM_coin_bonus>枚）かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Won <%dM_coin> Tokens (+<%dM_coin_bonus> Bonus)!\n<%sCAS_monster> takes <%dCAS_damage> damage!<auto_bw=3000><close>"
   },
   "187593": {
-    "テンションアップこうげき！<auto_br=2500>\nコイン<%dM_coin>枚（内 ボーナス<%dM_coin_bonus>枚）かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension attack!<auto_br=2500\nReceived <%dM_coin> Coins (+<%dM_coin_bonus> Bonus)!\n<%dCAS_damage> damage to <%sCAS_monster>!<auto_bw=3000><close>"
+    "テンションアップこうげき！<auto_br=2500>\nコイン<%dM_coin>枚（内 ボーナス<%dM_coin_bonus>枚）かくとく！\n<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": "Tension attack!<auto_br=2500\nWon <%dM_coin> Tokens (+<%dM_coin_bonus> Bonus)!\n<%sCAS_monster> takes <%dCAS_damage> damage!<auto_bw=3000><close>"
   }
 }
