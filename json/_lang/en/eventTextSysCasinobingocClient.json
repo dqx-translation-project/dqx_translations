@@ -18,7 +18,7 @@
     "<speed=0>持てるコインの　限界を超えました。\nこれ以上　持てませんが　続けますか？<yesno_nc 2><close>": "<speed=0>You can't carry any more Tokens.\nKeep playing anyways?<yesno_nc 2><close>"
   },
   "94537": {
-    "<speed=0>ビンゴ券がありません。\nビンゴを終了します。<auto_bw=2500><close>": "<speed=0>You don't have any Bingo Tickets.\nBingo has ended.<auto_bw=2500><close>"
+    "<speed=0>ビンゴ券がありません。\nビンゴを終了します。<auto_bw=2500><close>": "<speed=0>You don't have any Bingo Tickets.\nBingo will now end.<auto_bw=2500><close>"
   },
   "94540": {
     "<speed=0>全部で\n<%dM_coin>枚のコインを　手に入れた！<auto_bw=2500><close>": "<speed=0>Received a total of <%dM_coin> Tokens!<auto_bw=2500><close>"
@@ -30,10 +30,10 @@
     "<speed=0>当選番号は <color_yellow><%2dM_Num><color_white>です！<auto_bw=2500><close>": "<speed=0>The winning number is <color_yellow><%02dM_Num><color_white>!<auto_bw=2500><close>"
   },
   "94552": {
-    "<speed=0>マネマネは　モシャスをとなえた！<auto_br=2500>\nなんと　ボールがひとつ　増えたようだ！<auto_bw=2500><close>": "<speed=0>The Float-o-copier uses Morph!<auto_br=2500>\nReceived an extra ball!<auto_bw=2500><close>"
+    "<speed=0>マネマネは　モシャスをとなえた！<auto_br=2500>\nなんと　ボールがひとつ　増えたようだ！<auto_bw=2500><close>": "<speed=0>The Float-o-copier uses Morph!<auto_br=2500>\nIt transforms into an extra ball!<auto_bw=2500><close>"
   },
   "94563": {
-    "<speed=0>エクストラオープン！\n<color_yellow><%sM_Num1>　<%sM_Num2>　<%sM_Num3>　<%sM_Num4>　<%sM_Num5>　<%sM_Num6>　<%sM_Num7>　<%sM_Num8>　<%sM_Num9>　<%sM_Num10><color_white><auto_bw=2500><close>": "<speed=0>Extra spaces were opened!\n<color_yellow><%sM_Num1> <%sM_Num2> <%sM_Num3> <%sM_Num4> <%sM_Num5> <%sM_Num6> <%sM_Num7> <%sM_Num8> <%sM_Num9> <%sM_Num10><color_white><auto_bw=2500><close>"
+    "<speed=0>エクストラオープン！\n<color_yellow><%sM_Num1>　<%sM_Num2>　<%sM_Num3>　<%sM_Num4>　<%sM_Num5>　<%sM_Num6>　<%sM_Num7>　<%sM_Num8>　<%sM_Num9>　<%sM_Num10><color_white><auto_bw=2500><close>": "<speed=0>Some extra spaces open!\n<color_yellow><%sM_Num1> <%sM_Num2> <%sM_Num3> <%sM_Num4> <%sM_Num5> <%sM_Num6> <%sM_Num7> <%sM_Num8> <%sM_Num9> <%sM_Num10><color_white><auto_bw=2500><close>"
   },
   "94566": {
     "<speed=0>リーチ！<auto_bw=2500><close>": "<speed=0>Reach!<auto_bw=2500><close>"
@@ -48,10 +48,10 @@
     "<speed=0>宝箱から\n<%dM_coin>枚のコインを　手に入れた！<auto_bw=2500><close>": "<speed=0>Received <%dM_coin> Tokens from the chest!<auto_bw=2500><close>"
   },
   "94571": {
-    "<speed=0>宝箱がひらいた！\n<%dM_coin>枚のコインを　かくとくしました！<auto_bw=2500><close>": "<speed=0>Opened the chest!\nReceived <%dM_coin> Tokens!<auto_bw=2500><close>"
+    "<speed=0>宝箱がひらいた！\n<%dM_coin>枚のコインを　かくとくしました！<auto_bw=2500><close>": "<speed=0>Opened a chest!\nYou win <%dM_coin> Tokens!<auto_bw=2500><close>"
   },
   "94690": {
-    "<speed=0><%sCAS_gambler>さんが　宝箱をひらいた！<auto_br=2500>\nなんと　<pc>は\nコイン<%dM_coin>枚を　手に入れた！<auto_bw=2500><close>": "<speed=0><%sCAS_gambler> opened the chest!<auto_br=2500>\n<pc> received <%dM_coin> Tokens!<auto_bw=2500><close>"
+    "<speed=0><%sCAS_gambler>さんが　宝箱をひらいた！<auto_br=2500>\nなんと　<pc>は\nコイン<%dM_coin>枚を　手に入れた！<auto_bw=2500><close>": "<speed=0><%sCAS_gambler> opens a chest!<auto_br=2500>\n<pc> wins <%dM_coin> Tokens!<auto_bw=2500><close>"
   },
   "97477": {
     "<speed=0>メタルビンゴチケットを\n<%2dM_Num>枚　持っています。<auto_br=2500>\nメタルビンゴチケットを使うと\n獲得するコインが　２倍になります！<auto_br=2500>\nメタルビンゴチケットを　使いますか？<yesno 2><close>": "<speed=0>You have <%2dM_Num> Metal Bingo Ticket(s).<auto_br=2500>If you use one, you'll earn double Tokens!<auto_br=2500>Use a Metal Bingo Ticket?<yesno 2><close>"
@@ -60,7 +60,7 @@
     "<speed=0>メタルビンゴチケットの\n使用を受け付けました。<auto_bw=2500><close>": "<speed=0>Metal Bingo Tickets accepted.<auto_bw=2500><close>"
   },
   "97480": {
-    "<speed=0>ハンマーチャンスで　<%dM_Pnum>つのマスが　ひらいた！\n<color_yellow><%sM_Num1>　<%sM_Num2>　<%sM_Num3>　<%sM_Num4>　<%sM_Num5>　<%sM_Num6>　<%sM_Num7>　<%sM_Num8>　<%sM_Num9><color_white><auto_bw=2500><close>": "<speed=0>Hammer Chance opened up <%dM_Pnum> square(s)!\n<color_yellow><%sM_Num1> <%sM_Num2> <%sM_Num3> <%sM_Num4> <%sM_Num5> <%sM_Num6> <%sM_Num7> <%sM_Num8> <%sM_Num9><color_white><auto_bw=2500><close>"
+    "<speed=0>ハンマーチャンスで　<%dM_Pnum>つのマスが　ひらいた！\n<color_yellow><%sM_Num1>　<%sM_Num2>　<%sM_Num3>　<%sM_Num4>　<%sM_Num5>　<%sM_Num6>　<%sM_Num7>　<%sM_Num8>　<%sM_Num9><color_white><auto_bw=2500><close>": "<speed=0>Hammer Chance opens <%dM_Pnum> square(s)!\n<color_yellow><%sM_Num1> <%sM_Num2> <%sM_Num3> <%sM_Num4> <%sM_Num5> <%sM_Num6> <%sM_Num7> <%sM_Num8> <%sM_Num9><color_white><auto_bw=2500><close>"
   },
   "98374": {
     "<speed=0>ビンゴを終了しますか？\n（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno 2><close>": "<speed=0>Finish playing Bingo?\n(Floor <%dW_INSTANCE_NO> <%sCAS_room> <%sCAS_table>)<yesno 2><close>"
@@ -117,7 +117,7 @@
     "<speed=0>誰かが　メタルチェンジを　発動しました！<auto_bw=2500><close>": "<speed=0>Someone triggered a Metal Change!<auto_bw=2500><close>"
   },
   "100301": {
-    "<speed=0>誰かが　宝箱をひらいた！<auto_br=2500>\nなんと　<pc>は\nコイン<%dM_coin>枚を　手に入れた！<auto_bw=2500><close>": "<speed=0>Someone's opened a chest!<auto_br=2500>\n<pc> received <%dM_coin> Tokens!<auto_bw=2500><close>"
+    "<speed=0>誰かが　宝箱をひらいた！<auto_br=2500>\nなんと　<pc>は\nコイン<%dM_coin>枚を　手に入れた！<auto_bw=2500><close>": "<speed=0>Someone opens a chest!<auto_br=2500>\n<pc> received <%dM_coin> Tokens!<auto_bw=2500><close>"
   },
   "101208": {
     "ブラックリスト": "Blacklist"
@@ -132,7 +132,7 @@
     "<speed=0>なんと　<pc>も\nコイン<%dM_coin>枚を　手に入れた！<auto_bw=2500><close>": "<speed=0><pc> received <%dM_coin> Tokens!<auto_bw=2500><close>"
   },
   "101677": {
-    "<speed=0>ビンゴによって　宝箱のカギが　ひらいた！<auto_bw=2500><close>": "<speed=0>Getting a Bingo unlocked the chest!<auto_bw=2500><close>"
+    "<speed=0>ビンゴによって　宝箱のカギが　ひらいた！<auto_bw=2500><close>": "<speed=0>Getting a Bingo unlocks the chest!<auto_bw=2500><close>"
   },
   "117567": {
     "<speed=0>\nカジノプレイチケットを　<%dM_Num2>枚　持っています。\nもういちど　ビンゴを遊びますか？\n<yesno_nc 2><close>": "<speed=0>\nYou have <%dM_Num2> Casino Play Ticket(s).\nPlay Bingo again?\n<yesno_nc 2><close>"
@@ -147,7 +147,7 @@
     "コインが足りません。\nビンゴを終了します。<auto_bw=2500><close>": "Not enough Tokens.\nBingo will now end.<auto_bw=2500><close>"
   },
   "276374": {
-    "<%sCAS_monster>の　攻撃によって\n<%dM_Pnum>このマスが　ひらいた！\n<color_yellow><%sM_Num1>　<%sM_Num2>　<%sM_Num3>　<%sM_Num4>　<%sM_Num5>　<%sM_Num6>　<%sM_Num7>　<%sM_Num8>　<%sM_Num9>　<%sM_Num10>\n<color_white><auto_bw=2500><close>": "The monster's attack opened <%dM_Pnum> spaces!\n<color_yellow><%sM_Num1> <%sM_Num2> <%sM_Num3> <%sM_Num4> <%sM_Num5> <%sM_Num6> <%sM_Num7> <%sM_Num8> <%sM_Num9> <%sM_Num10>\n<color_white><auto_bw=2500><close>"
+    "<%sCAS_monster>の　攻撃によって\n<%dM_Pnum>このマスが　ひらいた！\n<color_yellow><%sM_Num1>　<%sM_Num2>　<%sM_Num3>　<%sM_Num4>　<%sM_Num5>　<%sM_Num6>　<%sM_Num7>　<%sM_Num8>　<%sM_Num9>　<%sM_Num10>\n<color_white><auto_bw=2500><close>": "The monster's attack opens <%dM_Pnum> spaces!\n<color_yellow><%sM_Num1> <%sM_Num2> <%sM_Num3> <%sM_Num4> <%sM_Num5> <%sM_Num6> <%sM_Num7> <%sM_Num8> <%sM_Num9> <%sM_Num10>\n<color_white><auto_bw=2500><close>"
   },
   "276375": {
     "<%sCAS_monster>が　あらわれた！\n<auto_bw=2500><close>": "A <%sCAS_monster> draws near!\n<auto_bw=2500><close>"
