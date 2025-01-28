@@ -1,6 +1,6 @@
 {
   "254185": {
-    "「これは　これは……。\n　あなたは　かなりの剛の者と　見受けました。\n　そこを見込んで　私の話を聞いていただきたい。\n<br>\n「私は　魔獣調教士のガブラと　申します。\n　魔界のとある場所で　調練場を開いて\n　輝晶獣という魔物を　育てているのございます。\n<br>\n「じつは　当方の不手際で　調練場から\n　逃げだした　危険な個体が　いるのです。\n　それを探しだし　討伐していただけませんか？\n<br>\n「自分で言うのも恐縮ですが　この私が\n　精魂込めて育てた　とても強い魔物です。\n　おそらく　苦戦なさることでしょう。\n<br>\n「しかし　あなたにも　得るものはございます。\n　輝晶獣を倒すと　輝晶核というものが手に入り\n　これは　装備品の強化に　使えるのです。\n<br>\n「輝晶核について　くわしくは　近くにいる\n　輝晶術士のレビィに　おたずねください。\n　砕片や　かけらの復元などもしてくれます。\n<br>\n「さて　輝晶獣を探すにあたって\n　あなたに　渡しておきたいものがあります。\n　どうか　お受け取りを。　\n<bw_break>": "Well, well, well... You seem to be a man of\ngreat strength... That's why you're here to\ntalk to me. My name is Gabra, and I'm a\n<br>\nhexenbiest trainer... I'm a hexenbiest\ntrainer named Gabra... and I run a training\nfacility in a certain part of the world...\n<br>\nwhere I raise monsters called pygmy beasts.\nThere is a dangerous creature that escaped\nfrom the training grounds due to our\n<br>\nincompetence... I'm afraid to say it myself.\nI'm afraid to say it myself, but this is a\nvery powerful demon that I raised with all my\n<br>\nheart and soul... I'm sure you'll have a hard\ntime... But there's something you can gain as\nwell... When you defeat a pygmy beast, you\n<br>\nget a core of pyrotechnics that you can use\nto strengthen your equipment... For more\ninformation on the Nucleus, please ask the\n<br>\nnearby pyromancer Levy... He can also restore\nshards and fragments... Now, in order to find\nthe pyroxene, I have something for you...\n<br>\nPlease, accept...<bw_break>"
+    "「これは　これは……。\n　あなたは　かなりの剛の者と　見受けました。\n　そこを見込んで　私の話を聞いていただきたい。\n<br>\n「私は　魔獣調教士のガブラと　申します。\n　魔界のとある場所で　調練場を開いて\n　輝晶獣という魔物を育てているのでございます。\n<br>\n「じつは　当方の不手際で　調練場から\n　逃げだした　危険な個体が　いるのです。\n　それを探しだし　討伐していただけませんか？\n<br>\n「自分で言うのも恐縮ですが　この私が\n　精魂込めて育てた輝晶獣は　とても強い。\n　おそらく　苦戦なさることでしょう。\n<br>\n「……申し訳ないことに　閃輝晶獣という\n　上位種までが逃げだしており　そちらは\n　さらに　強力な魔物と　なっております。\n<br>\n「しかし　倒せれば　輝晶獣ならば　輝晶核。\n　閃輝晶獣ならば　閃輝晶核が　手に入ります。\n　これは　装備品の強化に　使えるのです。\n<br>\n「輝晶核について　くわしくは　近くにいる\n　輝晶術士のレビィに　おたずねください。\n　砕片や　かけらの復元などもしてくれます。\n<br>\n「さて　輝晶獣を探すにあたって\n　あなたに　渡しておきたいものがあります。\n　どうか　お受け取りを。　\n<bw_break>": ""
   },
   "254186": {
     "「さて……この魔獣調教士ガブラめに\n　本日は　どのような　ご用件でございますか？\n<break>": "Well... What can I do for you today, Gabula\nthe Hexenbiest?<break>"
@@ -15,22 +15,22 @@
     "「さて……。この魔獣調教士ガブラめに\n　本日は　どのような　ご用件でございますか？\n<break>": "Well... What can I do for you today, Gabula\nthe Hexenbiest?<break>"
   },
   "254190": {
-    "「<%sM_MONSTER>を　速成培養するのなら\n　魔因細胞を　<%nM_ITEM_NUM>個　いただきます。\n　勝敗によらず消費されますが　よろしいですか？\n<yesno 2><case 1><break><case 2><close><case_cancel><close><case_end>": "If you're going to accelerate the cultivation\nof <%sM_MONSTER>, you'll need\n<%dM_ITEM_NUM> Demon Cells.\n<br>\nThe cells will be consumed regardless of\nwhether you win or lose. Is that fine?\n<yesno 2><case 1><break><case 2><close><case_cancel><close><case_end>"
+    "「<%sM_MONSTER>を　速成培養するのなら\n　<%sM_item>を　<%nM_ITEM_NUM>個　いただきます。\n　勝敗によらず消費されますが　よろしいですか？\n<yesno 2><case 1><break><case 2><close><case_cancel><close><case_end>": ""
   },
   "254191": {
-    "「……おや？\n　魔因細胞が　足りないようです。\n　お時間のあるときに　集めてみられては？\n<end>": "...What's this? You don't have enough Demon\nCells. Why not try gathering some when you\nget the chance?\n<end>\nEnglish"
+    "「……おや？\n　<%sM_item>が　足りないようです。\n　お時間のあるときに　集めてみられては？\n<end>": ""
   },
   "254192": {
     "「申し訳ありませんが　あなたは\n　パーティのリーダーでは　ございませんね。\n　リーダーとなってから　来ていただけますか。\n<end>": "I'm sorry, sir, but you are not the leader of\nthis party. You've only been here since you\nbecame the leader...<end>"
   },
   "254193": {
-    "「この秘術をかければ　今から　３０分の間\n　魔界の魔物を倒したときに　魔因細胞を\n　まれに　落としていくように　なるのです。\n<br>\n「かけられるのは　１日に　１回限りとなります。\n　他の　まじないなどが　かかっていたら\n　そちらは　消えてしまいますので　ご注意を。\n<br>\n「この秘術は　パーティのお仲間には\n　効果がなく　あなただけに　効くものです。\n　お忘れなきよう　お願いいたします。\n<br>\n「本当に　この特別な秘術をかけても\n　よろしいので　ございますか？\n<yesno><break>": "By using this technique, monsters in the Demon\nWorld will start rarely dropping Demon Cells\nfor the next 30 minutes.\n<br>\nI can only use this technique once per day.\nIf you gain a different charm effect, it will\noverwrite this one, so be careful.\n<br>\nThis technique won't work on your party\nmembers either; it only works on you.\nBe sure to remember that.\n<br>\nAre you absolutely sure you want me to use\nthis technique, then?\n<yesno><break>"
+    "「この秘術をかければ　今から　３０分の間\n　魔界の魔物を倒すと　魔因細胞や　閃魔細胞を\n　まれに　落としていくように　なるのです。\n<br>\n「かけられるのは　１日に　１回限りとなります。\n　他の　まじないなどが　かかっていたら\n　そちらは　消えてしまいますので　ご注意を。\n<br>\n「この秘術は　パーティのお仲間には\n　効果がなく　あなただけに　効くものです。\n　お忘れなきよう　お願いいたします。\n<br>\n「本当に　この特別な秘術をかけても\n　よろしいので　ございますか？\n<yesno><break>": ""
   },
   "254194": {
     "「では　まいります……。\n　ガ～ブラン　ダ～ブラン　セルルーチョっ！\n<br>\n「……これで　秘術が　かかりました。\n　秘術の効果は　３０分間で切れますので\n　どうか　お急ぎください。\n<bw_break>": "Here we go... Ga-bran, da-bran, serluccio!\n... The spell will now take effect... The\neffects of the spell will wear off in 30\n<br>\nminutes, so please hurry...<bw_break>"
   },
   "254195": {
-    "「私は　魔獣調教士のガブラと　申します。\n　魔界のとある場所で　調練場を開いて\n　輝晶獣という魔物を　育てているのございます。\n<br>\n「じつは　当方の不手際で　調練場から\n　逃げだした　危険な個体が　いるのです。\n　それを探しだし　討伐していただけませんか？\n<br>\n「自分で言うのも恐縮ですが　この私が\n　精魂込めて育てた　とても強い魔物です。\n　おそらく　苦戦なさることでしょう。\n<br>\n「しかし　あなたにも　得るものはございます。\n　輝晶獣を倒すと　輝晶核というものが手に入り\n　これは　装備品の強化に　使えるのです。\n<br>\n「輝晶核について　くわしくは　近くにいる\n　輝晶術士のレビィに　おたずねください。\n　砕片や　かけらの復元などもしてくれます。\n<br>\n「輝晶獣を探す際　クリスタルゲージを使えば\n　あなたが　今いる地域に　輝晶獣が\n　出現する可能性があるかどうか　わかるのです。\n<bw_break>\n": "My name is Gavra, and I'm a hexenbiest\ntrainer. I'm a hexenbiest trainer named\nGabra... and I run a training facility in a\n<br>\ncertain part of the demon world... where I\nraise monsters called pygmy beasts. There is\na dangerous creature that escaped from the\n<br>\ntraining grounds due to our incompetence...\nI'm afraid to say it myself. I'm afraid to\nsay it myself, but this is a very powerful\n<br>\ndemon that I raised with all my heart and\nsoul... I'm sure you'll have a hard time...\nBut there's something you can gain as well...\n<br>\nWhen you defeat a pygmy beast, you get a core\nof pyrotechnics that you can use to\nstrengthen your equipment... For more\n<br>\ninformation on the Nucleus, please ask the\nnearby pyromancer Levy... He can also restore\nshards and fragments... If you're looking for\n<br>\na pygmy, you can use your crystal gauge to\nsee if there's a chance of one appearing in\nthe area you're in...<bw_break>\n"
+    "「私は　魔獣調教士のガブラと　申します。\n　魔界のとある場所で　調練場を開いて\n　輝晶獣という魔物を育てているのでございます。\n<br>\n「じつは　当方の不手際で　調練場から\n　逃げだした　危険な個体が　いるのです。\n　それを探しだし　討伐していただけませんか？\n<br>\n「自分で言うのも恐縮ですが　この私が\n　精魂込めて育てた輝晶獣は　とても強い。\n　おそらく　苦戦なさることでしょう。\n<br>\n「……申し訳ないことに　閃輝晶獣という\n　上位種までが逃げだしており　そちらは\n　さらに　強力な魔物と　なっております。\n<br>\n「しかし　あなたにも　得るものはございます。\n　輝晶獣を倒すと　輝晶核というものが手に入り\n　これは　装備品の強化に　使えるのです。\n<br>\n「輝晶核について　くわしくは　近くにいる\n　輝晶術士のレビィに　おたずねください。\n　砕片や　かけらの復元などもしてくれます。\n<br>\n「輝晶獣を探す際　クリスタルゲージを使えば\n　あなたが　今いる地域に　輝晶獣が\n　出現する可能性があるかどうか　わかるのです。\n<bw_break>": ""
   },
   "254258": {
     "<select_se_off>\n培養輝晶獣と戦う\n秘術をかける\n説明を聞く\n<select_end><case 1><close><case 2><break><case 3><break><case_cancel><break><case_end>": "<select_se_off>\nFight Cultivated Crystalbeast\nPerform Secret Art\nExplanation\n<select_end><case 1><close><case 2><break><case 3><break><case_cancel><break><case_end>"
@@ -45,7 +45,7 @@
     "「本当に　細胞回収器を使って\n　<%sM_MONSTER>と　戦うということで\n　よろしいのですね？\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>": "Use the Cell Collector to fight\n<%sM_MONSTER>?\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>"
   },
   "257314": {
-    "「負けない自信が　おありのようですね\n　本当に　細胞回収器を使わずに\n　<%sM_MONSTER>と戦って　よろしいのですね？\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>": "Are you really sure you're confident enough\nto fight <%sM_MONSTER>\nwithout using a Cell Collector?\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>"
+    "「負けない自信が　おありのようですね\n　本当に　細胞回収器を使わずに\n　<%sM_MONSTER>と戦って　よろしいですね？\n<yesno 2><case 1><close><case 2><close><case_cancel><close><case_end>": ""
   },
   "257781": {
     "<select_se_off>\nそのまま戦う\n細胞回収器を使って戦う\nやめる\n<select_end><case 1><break><case 2><break><case 3><close><case_cancel><close><case_end>": "<select_se_off>\nFight As Is\nFight with Cell Collector\nCancel\n<select_end><case 1><break><case 2><break><case 3><close><case_cancel><close><case_end>"
@@ -54,15 +54,15 @@
     "「細胞回収器を　お持ちでないようですね。\n　近くにおります　輝晶術士レビィから\n　お求めください。\n<end>": "It appears you don't have a Cell Collector.\nYou can get one from Levy nearby.\n<end>"
   },
   "257783": {
-    "「<%sM_MONSTER>を　速成培養するのなら\n　魔因細胞を　<%nM_ITEM_NUM>個　いただきます。\n　勝敗によらず消費されますが　よろしいですか？\n<break>": "If you're going to accelerate the cultivation\nof <%sM_MONSTER>, you'll need\n<%dM_ITEM_NUM> Demon Cells.\n<br>\nThe cells will be consumed regardless of\nwhether you win or lose. Is that fine?\n<break>"
+    "「<%sM_MONSTER>を　速成培養するのなら\n　<%sM_item>を　<%nM_ITEM_NUM>個　いただきます。\n　勝敗によらず消費されますが　よろしいですか？\n<break>": ""
   },
   "257818": {
-    "「それを使えば　あなたが　今いる地域に\n　輝晶獣が　出現する可能性があるかどうかが\n　わかるのです。\n<br>\n「また　探す時間はないが　輝晶獣と戦いたいと\n　おっしゃる場合は　私が　速成培養した輝晶獣と\n　戦っていただくことも　可能でございます。\n<br>\n「ただ　これには　特別な秘術をかけた状態で\n　魔界の魔物を倒すと　手に入る　魔因細胞を\n　ご用意していただかなくては　なりません。\n<br>\n「一点！　注意がございます。\n　魔因細胞は　培養には　欠かせないものですので\n　勝敗に関わらず　頂戴いたします。\n<br>\n「もし　敗北の不安が　おありでしたら\n　魔因細胞を　回収し再生できる　細胞回収器も\n　レビィに　用意させておきましょう。\n<br>\n「……少々　脱線もしましたが\n　どうか　私に　チカラを貸していただきたく\n　お願いするしだいでございます。\n<bw_break>": "You can use it to find out if there is a\nchance of a Kaiju appearing in the area you\nare in... And if you don't have time to look\n<br>\nfor one, but you want to fight one, you can\nfight one that I've cultivated for you... But\nto do this, you'll need to prepare some\n<br>\nhexenbiest cells that can be obtained by\ndefeating demons in the demon world with a\nspecial magic... One point! A word of\n<br>\ncaution... I'm sure you've heard of it... If\nyou're worried about losing, I'll have Levy\nprepare a cell retrieval device that can\n<br>\nrecover and regenerate the magical cells...\n... I know this is a bit of a digression, but\nI'm asking you to lend me your help.<bw_break>"
+    "「それを使えば　あなたが　今いる地域に\n　輝晶獣が　出現する可能性があるかどうかが\n　わかるのです。\n<br>\n「また　探す時間はないが　輝晶獣と戦いたいと\n　おっしゃる場合は　私が　速成培養した輝晶獣と\n　戦っていただくことも　可能でございます。\n<br>\n「この場合は　特別な秘術をかけた状態で\n　魔界の魔物を倒すと　手に入る　魔因細胞か\n　閃魔細胞を　ご用意していただきます。\n<br>\n「一点！　注意がございます。\n　各種細胞は　培養には　欠かせないものですので\n　勝敗に関わらず　頂戴いたします。\n<br>\n「もし　敗北の不安が　おありでしたら\n　各種細胞を　回収し再生できる　細胞回収器も\n　レビィに　用意させておきましょう。\n<br>\n「……少々　脱線もしましたが\n　どうか　私に　チカラを貸していただきたく\n　お願いするしだいでございます。\n<bw_break>": ""
   },
   "257819": {
     "<pipipi_off>\n<pc>は\nクリスタルゲージ（だいじなもの）を\n手に入れた！<me 60>": "<pipipi_off>\n<pc>received\nthe Crystal Gauge (Key Item)!<me 60>"
   },
   "257926": {
-    "「また　探す時間はないが　輝晶獣と戦いたいと\n　おっしゃる場合は　私が　速成培養した輝晶獣と\n　戦っていただくことも　可能でございます。\n<br>\n「ただ　これには　特別な秘術をかけた状態で\n　魔界の魔物を倒すと　手に入る　魔因細胞を\n　ご用意していただかなくては　なりません。\n<br>\n「一点！　注意がございます。\n　魔因細胞は　培養には　欠かせないものですので\n　勝敗に関わらず　頂戴いたします。\n<br>\n「もし　敗北の不安が　おありでしたら\n　魔因細胞を　回収し再生できる　細胞回収器も\n　レビィに　用意させております。\n<br>\n「……少々　脱線もしましたが\n　どうか　私に　チカラを貸していただきたく\n　お願いするしだいでございます。\n<bw_break>": "And if you don't have time to find one, but\nyou want to fight a hexenbiest, you can fight\na hexenbiest that I've cultivated for you...\n<br>\nBut to do this, you'll need to prepare some\nhexenbiest cells that can be obtained by\ndefeating a demon in the demon world while\n<br>\nunder a special spell... One point! A word of\ncaution... I'm sure you've heard of it... If\nyou're worried about losing, Levy has a cell\n<br>\nretrieval device that can recover and\nregenerate the magical cells... ... I know\nthis is a bit of a digression, but I'm asking\n<br>\nyou to lend me your help.<bw_break>"
+    "「また　探す時間はないが　輝晶獣と戦いたいと\n　おっしゃる場合は　私が　速成培養した輝晶獣と\n　戦っていただくことも　可能でございます。\n<br>\n「この場合は　特別な秘術をかけた状態で\n　魔界の魔物を倒すと　手に入る　魔因細胞か\n　閃魔細胞を　ご用意していただきます。\n<br>\n「一点！　注意がございます。\n　各種細胞は　培養には　欠かせないものですので\n　勝敗に関わらず　頂戴いたします。\n<br>\n「もし　敗北の不安が　おありでしたら\n　各種細胞を　回収し再生できる　細胞回収器も\n　レビィに　用意させております。\n<br>\n「……少々　脱線もしましたが\n　どうか　私に　チカラを貸していただきたく\n　お願いするしだいでございます。\n<bw_break>": ""
   }
 }
