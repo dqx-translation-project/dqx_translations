@@ -2019,13 +2019,13 @@
     "<voice_nw IEV_AST_EST_M01 12>\n「これを　私に　くださるんですか？\n　ありがとうございます。\n　さっそく　開けてみますね。\n<br>\n<voice IEV_AST_EST_M01 13>\n「まあ……！　竜の模様を　あしらった　ステキな\n　ドレスですね。こういった　シックなデザインは\n　初めてなので　新鮮です。大切にしますね。\n<end>": "<voice_nw IEV_AST_EST_M01 12>\nYou're giving this to me? Thank you so much,\nI will open it right away!\n<br>\n<voice IEV_AST_EST_M01 13>\nOh, my...! What a lovely dragon pattern!\nI've never seen such a chic design before...\nI promise to treasure it.\n<end>"
   },
   "330025": {
-    "": ""
+    "<voice_nw IEV_AST_YSK_M01 14>\n「これは……アスバルから　聞いたことがある。\n　たしか　アストルティアのエルフ。その中でも\n　若武者が　好んで着用する衣装だろう？\n<br>\n<voice IEV_AST_YSK_M01 15>\n「魔界では見たことがない　デザインだが　俺なら\n　バッチリ　着こなしてみせるさ。もののついでだ\n　髪も結い上げるとしよう。ありがとな！\n<end>": ""
   },
   "330026": {
-    "": ""
+    "<voice_nw IEV_AST_VAR_M01 14>\n「なんだ　これは？　新しい服だと……？\n　一応　受け取っておくが\n　気に入らなければ　処分するぞ。\n<br>\n<voice IEV_AST_VAR_M01 15>\n「フン……戦いには　向かなそうだが\n　私に　似合うものが　わかっているじゃないか。\n　ベルトロたちにも　見せてやりたいものだ。\n<end>": ""
   },
   "330027": {
-    "": ""
+    "<voice_nw IEV_AST_ASB_M01 14>\n「これは……執事服というやつだね。\n　リンベリィの付き人たちが　着ている服に\n　似ているけれど　仕上がりが抜群にすばらしい！\n<br>\n<voice_nw IEV_AST_ASB_M01 15>\n「ゼクレスの魔王である僕が　使用人の服を\n　着るなんて　家臣たちから怒られそうだけど……\n　ふふっ。だからこそ　楽しみだよ。\n<end>": ""
   },
   "330028": {
     "<voice_nw IEV_AST_IRS_M01 12>\n「私に　くれるの……？\n　何かしら？　楽しみだわ。\n　開けてみていい？\n<br>\n<voice IEV_AST_IRS_M01 13>\n「ふふっ　とても　かわいいワンピースね。\n　こんなお洋服を着たら　いい一日を\n　過ごせそうだわ。ありがとう　<pc>。\n<end>": "<voice_nw IEV_AST_IRS_M01 12>\nYou're giving this to me...?\nWhat is it? I'm anxious to know.\nCan I open it?\n<br>\n<voice IEV_AST_IRS_M01 13>\nHehe... What a cute dress. I'll have a good\nday for sure if I wear this.\nThank you, <pc>.\n<end>"
@@ -2598,6 +2598,465 @@
     "しかし　天啓の石が　足りないようだ。\n天啓の石を　<%nM_NUM_STONE>こ集めてから　渡してみよう。": "But you didn't have enough Supreme Stones.\nYou need <%dM_NUM_STONE> more."
   },
   "332261": {
+    "しかし　天啓の石が　足りないようだ。\n天啓の石を　<%nM_NUM_STONE>こ集めてから　渡してみよう。": "But you didn't have enough Supreme Stones.\nYou need <%dM_NUM_STONE> more."
+  },
+  "334369": {
+    "<voice_nw IEV_AST_RIN_M01 0>\n「いかがなさいました？\n　<pc>さま。\n<break>": ""
+  },
+  "334370": {
+    "<voice_nw IEV_AST_YUR_M01 0>\n「はい！　私に　何か　ご用でしょうか？\n<break>": ""
+  },
+  "334371": {
+    "<voice_nw IEV_AST_GIR_M01 0>\n「なんだ？　<pc>。\n　俺に用でも　あるのか？\n<break>": ""
+  },
+  "334372": {
+    "<voice_nw IEV_AST_RIN_M01 1>\n「よろしければ　もう少し　お話ししませんか？\n<break>": ""
+  },
+  "334373": {
+    "<voice_nw IEV_AST_YUR_M01 1>\n「他に　私に　ご用はありませんか？\n<break>": ""
+  },
+  "334374": {
+    "<voice_nw IEV_AST_GIR_M01 1>\n「他に　何かあれば　言ってみろ。\n<break>": ""
+  },
+  "334375": {
+    "<voice_nw IEV_AST_RIN_M01 15>\n「また　いつでも　いらしてくださいね<heart>": ""
+  },
+  "334376": {
+    "<voice_nw IEV_AST_YUR_M01 15>\n「また　いつでも　声をかけてください。\n　待っていますので！": ""
+  },
+  "334377": {
+    "<voice_nw IEV_AST_GIR_M01 15>\n「また　何かあれば　声をかけろ。": ""
+  },
+  "334378": {
+    "": ""
+  },
+  "334379": {
+    "": ""
+  },
+  "334380": {
+    "": ""
+  },
+  "334381": {
+    "": ""
+  },
+  "334382": {
+    "": ""
+  },
+  "334383": {
+    "": ""
+  },
+  "334384": {
+    "": ""
+  },
+  "334385": {
+    "": ""
+  },
+  "334386": {
+    "": ""
+  },
+  "334387": {
+    "": ""
+  },
+  "334388": {
+    "": ""
+  },
+  "334389": {
+    "": ""
+  },
+  "334390": {
+    "": ""
+  },
+  "334391": {
+    "": ""
+  },
+  "334392": {
+    "": ""
+  },
+  "334393": {
+    "": ""
+  },
+  "334394": {
+    "": ""
+  },
+  "334395": {
+    "": ""
+  },
+  "334396": {
+    "": ""
+  },
+  "334397": {
+    "": ""
+  },
+  "334398": {
+    "": ""
+  },
+  "334399": {
+    "": ""
+  },
+  "334400": {
+    "": ""
+  },
+  "334401": {
+    "": ""
+  },
+  "334402": {
+    "": ""
+  },
+  "334403": {
+    "": ""
+  },
+  "334404": {
+    "": ""
+  },
+  "334405": {
+    "": ""
+  },
+  "334406": {
+    "": ""
+  },
+  "334407": {
+    "": ""
+  },
+  "334408": {
+    "": ""
+  },
+  "334409": {
+    "": ""
+  },
+  "334410": {
+    "": ""
+  },
+  "334411": {
+    "": ""
+  },
+  "334412": {
+    "": ""
+  },
+  "334413": {
+    "": ""
+  },
+  "334414": {
+    "": ""
+  },
+  "334415": {
+    "": ""
+  },
+  "334416": {
+    "": ""
+  },
+  "334417": {
+    "": ""
+  },
+  "334418": {
+    "": ""
+  },
+  "334419": {
+    "": ""
+  },
+  "334420": {
+    "": ""
+  },
+  "334421": {
+    "": ""
+  },
+  "334422": {
+    "": ""
+  },
+  "334423": {
+    "リナーシェに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+  },
+  "334424": {
+    "ユーライザに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+  },
+  "334425": {
+    "ギルガランに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+  },
+  "334426": {
+    "<pc>は　リナーシェに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": ""
+  },
+  "334427": {
+    "<pc>は　ユーライザに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": ""
+  },
+  "334428": {
+    "<pc>は　ギルガランに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": ""
+  },
+  "334429": {
+    "<voice_nw IEV_AST_RIN_M01 4>\n「この結晶は……？\n　触れると　あなたへの想いが　あふれてきます。\n<br>\n<voice_nw IEV_AST_RIN_M01 5>\n「愛しい方。わたくしの　大切な方……。\n　どうか　こちらを　お受け取りください。\n<end>": ""
+  },
+  "334430": {
+    "<voice_nw IEV_AST_YUR_M01 4>\n「ああ……。なにやら　私の心が\n　満たされていくような気がします……。\n<br>\n<voice_nw IEV_AST_YUR_M01 5>\n「これは　あなたとともに　過ごしたから？\n　きっと　そうに　ちがいありませんね！\n　お礼として　こちらを　受け取ってください。\n<end>": ""
+  },
+  "334431": {
+    "<voice_nw IEV_AST_GIR_M01 4>\n「不思議だな……。こいつを　手にしていると\n　お前と過ごしてきた　何気ない時間が\n　俺の心を　満たしていく……。\n<br>\n<voice_nw IEV_AST_GIR_M01 5>\n「どうやら　俺にとって\n　お前は　かけがえのない　存在のようだ。\n　こいつを　受け取れ。\n<end>": ""
+  },
+  "334432": {
+    "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60>": "<pc> received\n<%sM_ITEM>!\n<me 60>"
+  },
+  "334433": {
+    "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60>": "<pc> received\n<%sM_ITEM>!\n<me 60>"
+  },
+  "334434": {
+    "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60>": "<pc> received\n<%sM_ITEM>!\n<me 60>"
+  },
+  "334435": {
+    "<voice_nw IEV_AST_RIN_M01 2>\n「まあ　なんて　美しい結晶でしょう。\n　もう少し　数が集まったら\n　また持ってきてくださいませんか？\n<end>": ""
+  },
+  "334436": {
+    "<voice_nw IEV_AST_YUR_M01 2>\n「とても　美しい結晶ですね……。\n　もっと　たくさん　手に入れられたら\n　また　持ってきてくださいませんか。\n<end>": ""
+  },
+  "334437": {
+    "<voice_nw IEV_AST_GIR_M01 2>\n「見事な結晶だな……。\n　こんなものは　めったに　お目にかかれないぞ。\n　もっと見つけて　持ってくるがいい。\n<end>": ""
+  },
+  "334438": {
+    "こころの結晶が　<%nM_num>こ集まれば\n何か起こりそうだ。\n<end>": "If you gather <%dM_num> Heart Crystals,\nsomething is bound to happen.\n<end>"
+  },
+  "334439": {
+    "こころの結晶が　<%nM_num>こ集まれば\n何か起こりそうだ。\n<end>": "If you gather <%dM_num> Heart Crystals,\nsomething is bound to happen.\n<end>"
+  },
+  "334440": {
+    "こころの結晶が　<%nM_num>こ集まれば\n何か起こりそうだ。\n<end>": "If you gather <%dM_num> Heart Crystals,\nsomething is bound to happen.\n<end>"
+  },
+  "334441": {
+    "<voice_nw IEV_AST_RIN_M01 3>\n「なんて　美しい結晶……こんなに集めるのは\n　さぞ　大変だったでしょう？　見せてくださって\n　ありがとうございます　<pc>さま。\n<end>": ""
+  },
+  "334442": {
+    "<voice_nw IEV_AST_YUR_M01 3>\n「たくさん　結晶が　集まりましたね！\n　なぜか　わかりませんが　この結晶を見ていると\n　あなたのことが　もっと知りたくなります……。\n<end>": ""
+  },
+  "334443": {
+    "<voice_nw IEV_AST_GIR_M01 3>\n「たくさん　集めたな。\n　その結晶を見ていたら　どういうわけか　お前と\n　もっと　言葉を　交わしたくなってきたぞ。\n<end>": ""
+  },
+  "334444": {
+    "リナーシェとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": ""
+  },
+  "334445": {
+    "ユーライザとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": ""
+  },
+  "334446": {
+    "ギルガランとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": ""
+  },
+  "334447": {
+    "<voice_nw IEV_AST_RIN_M01 6>\n「……お渡ししたいものが　あるのですが\n　そうびぶくろが　いっぱいのようです。\n　整理してから　声をかけてくださいますか？": ""
+  },
+  "334448": {
+    "<voice_nw IEV_AST_YUR_M01 6>\n「<pc>。そうびぶくろから\n　荷物が　あふれそうになっていますよ。\n　整理する必要が　あるのではないかと！": ""
+  },
+  "334449": {
+    "<voice_nw IEV_AST_GIR_M01 6>\n「……おい　こんな時に\n　そうびぶくろが　いっぱいだぞ。\n　ちゃんと整理してから　また来るんだな。": ""
+  },
+  "334450": {
+    "<voice_nw IEV_AST_RIN_M01 7>\n「まあ……また　こんなに　たくさんの結晶を\n　集めてきてくださったのですね。\n　大変だったでしょうに……。\n<br>\n<voice_nw IEV_AST_RIN_M01 8>\n「あなたの愛に　わたくしも　愛を返しましょう。\n　<pc>さま……どうか　これからも\n　よろしく　お願いいたしますね。\n<end>": ""
+  },
+  "334451": {
+    "<voice_nw IEV_AST_YUR_M01 7>\n「さすがですね　<pc>。\n　これほどに　美しい結晶を\n　こんなに　たくさん　集めてしまうなんて！\n<br>\n<voice_nw IEV_AST_YUR_M01 8>\n「私と　<pc>の絆も\n　同じくらい　たくさん　深まったと思います。\n　とても　うれしいです！\n<end>": ""
+  },
+  "334452": {
+    "<voice_nw IEV_AST_GIR_M01 7>\n「たくさん　集めたようだな。\n　まさか　ここまで　やるとは……。\n　お前の努力は　認めてやろう。\n<br>\n<voice_nw IEV_AST_GIR_M01 8>\n「お前とは　今後も　長い付き合いになりそうだ。\n　生半可な気持ちで　俺と向き合えば\n　痛い目をみるぞ。気をつけることだな。\n<end>": ""
+  },
+  "334453": {
+    "リナーシェとの　絆が深まり\nリナーシェのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": ""
+  },
+  "334454": {
+    "ユーライザとの　絆が深まり\nユーライザのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": ""
+  },
+  "334455": {
+    "ギルガランとの　絆が深まり\nギルガランのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": ""
+  },
+  "334456": {
+    "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60><end>": "<pc> received\n<%sM_ITEM>!\n<me 60><end>"
+  },
+  "334457": {
+    "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60><end>": "<pc> received\n<%sM_ITEM>!\n<me 60><end>"
+  },
+  "334458": {
+    "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60><end>": "<pc> received\n<%sM_ITEM>!\n<me 60><end>"
+  },
+  "334459": {
+    "<color_yellow>\n仲間から　受け取ったこころは\nこころの器の　中に入ります。\n<br>\nこころは　装備品です。\nこころの器で　『そうび』を選ぶと\n所持している　こころの一覧が　表示されます。\n<br>\n一覧から　装備したいこころを選ぶと\nそのこころを　装備できます。\n<br>\nこころの器は　異界前線基地にいる\n<kyodai>から　何度でも\nもらうことができます。\n<end>": "<color_yellow>\nThe Hearts that you receive from your\ncompanions are stored inside of the\nHeart Holder.\n<br>\nHearts are equipment items. By selecting the\nHeart Holder under \"Equip\", a list of Hearts\nyou currently possess will be displayed.\n<br>\nSelecting a Heart from this list will allow\nyou to equip it.\n<br>\nIf you need another Heart Holder, you can\nget another one from <kyodai>\nat the Otherworld Outpost.\n<end>"
+  },
+  "334460": {
+    "<color_yellow>\n仲間から　受け取ったこころは\nこころの器の　中に入ります。\n<br>\nこころは　装備品です。\nこころの器で　『そうび』を選ぶと\n所持している　こころの一覧が　表示されます。\n<br>\n一覧から　装備したいこころを選ぶと\nそのこころを　装備できます。\n<br>\nこころの器は　異界前線基地にいる\n<kyodai>から　何度でも\nもらうことができます。\n<end>": "<color_yellow>\nThe Hearts that you receive from your\ncompanions are stored inside of the\nHeart Holder.\n<br>\nHearts are equipment items. By selecting the\nHeart Holder under \"Equip\", a list of Hearts\nyou currently possess will be displayed.\n<br>\nSelecting a Heart from this list will allow\nyou to equip it.\n<br>\nIf you need another Heart Holder, you can\nget another one from <kyodai>\nat the Otherworld Outpost.\n<end>"
+  },
+  "334461": {
+    "<color_yellow>\n仲間から　受け取ったこころは\nこころの器の　中に入ります。\n<br>\nこころは　装備品です。\nこころの器で　『そうび』を選ぶと\n所持している　こころの一覧が　表示されます。\n<br>\n一覧から　装備したいこころを選ぶと\nそのこころを　装備できます。\n<br>\nこころの器は　異界前線基地にいる\n<kyodai>から　何度でも\nもらうことができます。\n<end>": "<color_yellow>\nThe Hearts that you receive from your\ncompanions are stored inside of the\nHeart Holder.\n<br>\nHearts are equipment items. By selecting the\nHeart Holder under \"Equip\", a list of Hearts\nyou currently possess will be displayed.\n<br>\nSelecting a Heart from this list will allow\nyou to equip it.\n<br>\nIf you need another Heart Holder, you can\nget another one from <kyodai>\nat the Otherworld Outpost.\n<end>"
+  },
+  "334462": {
+    "<pc>は　こころの結晶を\n持っていなかった。\n<br>\nこころの結晶について　知りたいときは\n<kyodai>に　聞いてみよう。": "<pc> has no Heart Crystals.\n<br>\nIf you want to know more about them,\nyou can speak with <kyodai>."
+  },
+  "334463": {
+    "<pc>は　こころの結晶を\n持っていなかった。\n<br>\nこころの結晶について　知りたいときは\n<kyodai>に　聞いてみよう。": "<pc> has no Heart Crystals.\n<br>\nIf you want to know more about them,\nyou can speak with <kyodai>."
+  },
+  "334464": {
+    "<pc>は　こころの結晶を\n持っていなかった。\n<br>\nこころの結晶について　知りたいときは\n<kyodai>に　聞いてみよう。": "<pc> has no Heart Crystals.\n<br>\nIf you want to know more about them,\nyou can speak with <kyodai>."
+  },
+  "334465": {
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
+  },
+  "334466": {
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
+  },
+  "334467": {
+    "<%sM_snpc>のこころは\nレベル上限に達しているため　これ以上\nこころの結晶を　渡すことができないようだ。\n<end>": "<%sM_snpc>'s Heart Level\nhas reached the maximum, so you cannot\ngive any more Heart Crystals.\n<end>"
+  },
+  "334468": {
+    "<%sM_snpc>に　天啓の石を\n<%nM_NUM_STONE>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give <%dM_NUM_STONE> Supreme Stones to\n<%sM_snpc>?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
+  },
+  "334469": {
+    "<%sM_snpc>に　天啓の石を\n<%nM_NUM_STONE>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give <%dM_NUM_STONE> Supreme Stones to\n<%sM_snpc>?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
+  },
+  "334470": {
+    "<%sM_snpc>に　天啓の石を\n<%nM_NUM_STONE>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give <%dM_NUM_STONE> Supreme Stones to\n<%sM_snpc>?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
+  },
+  "334471": {
+    "<pc>は　<%sM_snpc>に\n天啓の石を　渡した！\n<end>": "<pc> gives Supreme Stones to\n<%sM_snpc>!\n<end>"
+  },
+  "334472": {
+    "<pc>は　<%sM_snpc>に\n天啓の石を　渡した！\n<end>": "<pc> gives Supreme Stones to\n<%sM_snpc>!\n<end>"
+  },
+  "334473": {
+    "<pc>は　<%sM_snpc>に\n天啓の石を　渡した！\n<end>": "<pc> gives Supreme Stones to\n<%sM_snpc>!\n<end>"
+  },
+  "334474": {
+    "<voice_nw IEV_AST_RIN_M01 9>\n「これは……？\n　感じます。身体と心を　みがくことに\n　終わりも限界も　ないのだと……。\n<br>\n<voice_nw IEV_AST_RIN_M01 10>\n「わたくしは　これからも　己をみがき……\n　あなたの　お役に立てるよう　努めます。\n　どうか　おそばに　置いてくださいね。\n<end>": ""
+  },
+  "334475": {
+    "<voice_nw IEV_AST_YUR_M01 9>\n「これがあれば　私は\n　さらに　強くなれるというわけですね。\n　ありがとうございます　<pc>！\n<br>\n<voice_nw IEV_AST_YUR_M01 10>\n「期待に応えられるよう　精進しますので\n　これからも　私を　連れていってください。\n　あなたと　もっと　お話がしたいです！\n<end>": ""
+  },
+  "334476": {
+    "<voice_nw IEV_AST_GIR_M01 9>\n「こいつは　珍しい物のようだが\n　身体中の血がたぎる　この感じ……\n　今なら　己の限界を超えられそうな気がするぞ。\n<br>\n<voice_nw IEV_AST_GIR_M01 10>\n「だが　ひとりでは　なし得ないだろう。\n　仕方がない……これからも　お前の探索に\n　付き合ってやるとしよう。\n<end>": ""
+  },
+  "334477": {
+    "<%sM_snpc>の　レベルが\n<%nM_MAX_LV>まで　上がるようになった！\n<me 71><end>": "<%sM_snpc>'s level limit increases to\nLv. <%dM_MAX_LV>!\n<me 71><end>"
+  },
+  "334478": {
+    "<%sM_snpc>の　レベルが\n<%nM_MAX_LV>まで　上がるようになった！\n<me 71><end>": "<%sM_snpc>'s level limit increases to\nLv. <%dM_MAX_LV>!\n<me 71><end>"
+  },
+  "334479": {
+    "<%sM_snpc>の　レベルが\n<%nM_MAX_LV>まで　上がるようになった！\n<me 71><end>": "<%sM_snpc>'s level limit increases to\nLv. <%dM_MAX_LV>!\n<me 71><end>"
+  },
+  "334480": {
+    "<%sM_snpc>の　親密レベルが\n<%nM_MAX_SINMITULV>まで　上がるようになった！\n<me 71><end>": "<%sM_snpc>'s Bond Level limit increases to\nLv. <%dM_MAX_SINMITULV>!\n<me 71><end>"
+  },
+  "334481": {
+    "<%sM_snpc>の　親密レベルが\n<%nM_MAX_SINMITULV>まで　上がるようになった！\n<me 71><end>": "<%sM_snpc>'s Bond Level limit increases to\nLv. <%dM_MAX_SINMITULV>!\n<me 71><end>"
+  },
+  "334482": {
+    "<%sM_snpc>の　親密レベルが\n<%nM_MAX_SINMITULV>まで　上がるようになった！\n<me 71><end>": "<%sM_snpc>'s Bond Level limit increases to\nLv. <%dM_MAX_SINMITULV>!\n<me 71><end>"
+  },
+  "334483": {
+    "<%sM_snpc>の　スキルが強化され\n<%sM_SKILL_BEFORE>　が\n<%sM_SKILL_AFTER>　になった！\n<me 71><end>": "<%sM_snpc>'s <%sM_SKILL_BEFORE>\nskill line enhances, becoming\n<%sM_SKILL_AFTER>!\n<me 71><end>"
+  },
+  "334484": {
+    "<%sM_snpc>の　スキルが強化され\n<%sM_SKILL_BEFORE>　が\n<%sM_SKILL_AFTER>　になった！\n<me 71><end>": "<%sM_snpc>'s <%sM_SKILL_BEFORE>\nskill line enhances, becoming\n<%sM_SKILL_AFTER>!\n<me 71><end>"
+  },
+  "334485": {
+    "<%sM_snpc>の　スキルが強化され\n<%sM_SKILL_BEFORE>　が\n<%sM_SKILL_AFTER>　になった！\n<me 71><end>": "<%sM_snpc>'s <%sM_SKILL_BEFORE>\nskill line enhances, becoming\n<%sM_SKILL_AFTER>!\n<me 71><end>"
+  },
+  "334486": {
+    "<%sM_snpc>は\nスキルポイントを　<%nM_SKILL_POINT>Ｐ　手に入れた！\n<se_nots System 7><end>": "<%sM_snpc> receives <%dM_SKILL_POINT> skill points!\n<se_nots System 7><end>"
+  },
+  "334487": {
+    "<%sM_snpc>は\nスキルポイントを　<%nM_SKILL_POINT>Ｐ　手に入れた！\n<se_nots System 7><end>": "<%sM_snpc> receives <%dM_SKILL_POINT> skill points!\n<se_nots System 7><end>"
+  },
+  "334488": {
+    "<%sM_snpc>は\nスキルポイントを　<%nM_SKILL_POINT>Ｐ　手に入れた！\n<se_nots System 7><end>": "<%sM_snpc> receives <%dM_SKILL_POINT> skill points!\n<se_nots System 7><end>"
+  },
+  "334489": {
+    "しかし　<pc>は　天啓の石を\n持っていなかった。\n<end>": "But <pc> has no Supreme Stones\nto give.\n<end>"
+  },
+  "334490": {
+    "しかし　<pc>は　天啓の石を\n持っていなかった。\n<end>": "But <pc> has no Supreme Stones\nto give.\n<end>"
+  },
+  "334491": {
+    "しかし　<pc>は　天啓の石を\n持っていなかった。\n<end>": "But <pc> has no Supreme Stones\nto give.\n<end>"
+  },
+  "334492": {
+    "": ""
+  },
+  "334493": {
+    "": ""
+  },
+  "334494": {
+    "": ""
+  },
+  "334495": {
+    "": ""
+  },
+  "334496": {
+    "": ""
+  },
+  "334497": {
+    "": ""
+  },
+  "334498": {
+    "<%sM_snpc>に　<%sM_ITEM>を\n贈りますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give the <%sM_ITEM>\nto <%sM_snpc>?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
+  },
+  "334499": {
+    "<%sM_snpc>に　<%sM_ITEM>を\n贈りますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give the <%sM_ITEM>\nto <%sM_snpc>?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
+  },
+  "334500": {
+    "<%sM_snpc>に　<%sM_ITEM>を\n贈りますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give the <%sM_ITEM>\nto <%sM_snpc>?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
+  },
+  "334501": {
+    "<%sM_snpc>は　<%sM_ITEM>を\n着られるようになった！\n<me 71><end>": "<%sM_snpc> can now change into the\n<%sM_ITEM>!"
+  },
+  "334502": {
+    "<%sM_snpc>は　<%sM_ITEM>を\n着られるようになった！\n<me 71><end>": "<%sM_snpc> can now change into the\n<%sM_ITEM>!"
+  },
+  "334503": {
+    "<%sM_snpc>は　<%sM_ITEM>を\n着られるようになった！\n<me 71><end>": "<%sM_snpc> can now change into the\n<%sM_ITEM>!"
+  },
+  "334504": {
+    "<color_yellow>\n仲間たちは\n『そうび』メニューの　『おめかし衣装』から\n渡した衣装に　着替えることができます。\n<br>\n仲間に　衣装を贈った後は\n忘れずに　衣装を替えましょう！\n<end>": "<color_yellow>\nYou can change the outfits that your\ncompanions wear by selecting \"Costumes\"\nin the \"Equip\" menu.\n<br>\nDon't forget to change their outfit once\ngiving it to them!\n<end>"
+  },
+  "334505": {
+    "<color_yellow>\n仲間たちは\n『そうび』メニューの　『おめかし衣装』から\n渡した衣装に　着替えることができます。\n<br>\n仲間に　衣装を贈った後は\n忘れずに　衣装を替えましょう！\n<end>": "<color_yellow>\nYou can change the outfits that your\ncompanions wear by selecting \"Costumes\"\nin the \"Equip\" menu.\n<br>\nDon't forget to change their outfit once\ngiving it to them!\n<end>"
+  },
+  "334506": {
+    "<color_yellow>\n仲間たちは\n『そうび』メニューの　『おめかし衣装』から\n渡した衣装に　着替えることができます。\n<br>\n仲間に　衣装を贈った後は\n忘れずに　衣装を替えましょう！\n<end>": "<color_yellow>\nYou can change the outfits that your\ncompanions wear by selecting \"Costumes\"\nin the \"Equip\" menu.\n<br>\nDon't forget to change their outfit once\ngiving it to them!\n<end>"
+  },
+  "334507": {
+    "しかし　<pc>は\n<%sM_snpc>に　渡せる衣装を\n持っていなかった。\n<end>": "But <pc> has no\ncostumes to give to <%sM_snpc>.\n<end>"
+  },
+  "334508": {
+    "しかし　<pc>は\n<%sM_snpc>に　渡せる衣装を\n持っていなかった。\n<end>": "But <pc> has no\ncostumes to give to <%sM_snpc>.\n<end>"
+  },
+  "334509": {
+    "しかし　<pc>は\n<%sM_snpc>に　渡せる衣装を\n持っていなかった。\n<end>": "But <pc> has no\ncostumes to give to <%sM_snpc>.\n<end>"
+  },
+  "334510": {
+    "<%sM_snpc>には　これ以上\n天啓の石を　渡すことができないようだ。\n<end>": "<%sM_snpc> cannot be given\nany more Supreme Stones.\n<end>"
+  },
+  "334511": {
+    "<%sM_snpc>には　これ以上\n天啓の石を　渡すことができないようだ。\n<end>": "<%sM_snpc> cannot be given\nany more Supreme Stones.\n<end>"
+  },
+  "334512": {
+    "<%sM_snpc>には　これ以上\n天啓の石を　渡すことができないようだ。\n<end>": "<%sM_snpc> cannot be given\nany more Supreme Stones.\n<end>"
+  },
+  "334513": {
+    "すぐに　<%sM_ITEM>に\n着替えますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Change into <%sM_ITEM>\nright away?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
+  },
+  "334514": {
+    "すぐに　<%sM_ITEM>に\n着替えますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Change into <%sM_ITEM>\nright away?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
+  },
+  "334515": {
+    "すぐに　<%sM_ITEM>に\n着替えますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Change into <%sM_ITEM>\nright away?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
+  },
+  "334516": {
+    "<%sM_snpc>は\n<%sM_ITEM>に　着替えた！\n<se_nots System 7><end>": "<%sM_snpc> changes into\n<%sM_ITEM>!\n<se_nots System 7><end>"
+  },
+  "334517": {
+    "<%sM_snpc>は\n<%sM_ITEM>に　着替えた！\n<se_nots System 7><end>": "<%sM_snpc> changes into\n<%sM_ITEM>!\n<se_nots System 7><end>"
+  },
+  "334518": {
+    "<%sM_snpc>は\n<%sM_ITEM>に　着替えた！\n<se_nots System 7><end>": "<%sM_snpc> changes into\n<%sM_ITEM>!\n<se_nots System 7><end>"
+  },
+  "334519": {
+    "しかし　天啓の石が　足りないようだ。\n天啓の石を　<%nM_NUM_STONE>こ集めてから　渡してみよう。": "But you didn't have enough Supreme Stones.\nYou need <%dM_NUM_STONE> more."
+  },
+  "334520": {
+    "しかし　天啓の石が　足りないようだ。\n天啓の石を　<%nM_NUM_STONE>こ集めてから　渡してみよう。": "But you didn't have enough Supreme Stones.\nYou need <%dM_NUM_STONE> more."
+  },
+  "334521": {
     "しかし　天啓の石が　足りないようだ。\n天啓の石を　<%nM_NUM_STONE>こ集めてから　渡してみよう。": "But you didn't have enough Supreme Stones.\nYou need <%dM_NUM_STONE> more."
   }
 }
