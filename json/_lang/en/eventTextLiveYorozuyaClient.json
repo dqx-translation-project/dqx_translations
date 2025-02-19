@@ -861,7 +861,7 @@
     "「<%sL_ITEM><%sL_PLUSNUM>は\n　今　装備しているものだけど　本当に\n　結晶を取りだして　いいのかい？\n<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is what you're wearing\nnow, but are you sure you want me to take the\ncrystals out?\n<yesno 2><break>"
   },
   "53966": {
-    "「結晶の取りだしだね。\n　あと　<%nL_NUM2>回　装備品から　取りだせるが\n　どの装備品から　結晶を取りだすんだい？\n<break>": "I'm getting the crystals out of the equipment.\nYou can take the crystals out of the equipment\n<%nL_NUM2> times more, but which equipment are\n<br>\nyou taking the crystals out of?\n<break>"
+    "「結晶の取りだしだね。\n　あと　<%nL_NUM2>回　装備品から　取りだせるが\n　どの装備品から　結晶を取りだすんだい？\n<break>": "So you want to extract gems from your\nequipment? You can extract <%dL_NUM2> more time(s).\nWhich equipment do you want to extract from?\n<break>"
   },
   "53967": {
     "「おやっ　つかうものが　いっぱいで\n　持ちきれないようだね。\n<bw_break>": "Oh, it looks like you have so many items that\nyou can't hold them all.\n<bw_break>"
@@ -1062,7 +1062,7 @@
     "「あと　<%nL_NUM2>回　装備品から　取りだせますが\n　他に　結晶を取りだしたい装備品は\n　ありますか？\n<break>": "I know you can take the crystals out of the\nequipment <%nL_NUM2> times, but are there any\nother pieces of equipment that you would like\n<br>\nto take the crystals out of?\n<break>"
   },
   "54609": {
-    "「あと　<%nL_NUM2>回　装備品から　取りだせますが\n　他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "You can take the crystals out of the equipment\n<%nL_NUM2> times, but is there any other\nequipment from which you would like to take\n<br>\nthe crystals?\n<break>"
+    "「あと　<%nL_NUM2>回　装備品から　取りだせますが\n　他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "You can extract <%dL_NUM2> more time(s).\nIs there any other equipment you want to\nextract gems from?\n<break>"
   },
   "54668": {
     "「あっ　<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　結晶を取りだせるようですけど\n　本当に　売っても　いいんですか？\n<yesno 2><break>": "Oh, <%sL_URITAI_ITEM><%sL_PLUSNUM> seems to be\nable to retrieve crystals, but can I really\nsell it?\n<yesno 2><break>"
@@ -4716,13 +4716,13 @@
     "「まいどあり！\n　他にも　何か　買っていくかい？\n<break>": "Thank you! You want to get something else?\n<break>"
   },
   "129820": {
-    "「<%sL_KAITAI_ITEM>だね。\n　<%nL_BUY_PRICE>ゴールドで　どうだい？\n<yesno><break>": "<%sL_KAITAI_ITEM>. How about <%nL_BUY_PRICE>\ngold?\n<yesno><break>"
+    "「<%sL_KAITAI_ITEM>だね。\n　<%nL_BUY_PRICE>ゴールドで　どうだい？\n<yesno><break>": "<%sL_KAITAI_ITEM>, I see.\nHow about <%dL_BUY_PRICE> Gold?\n<yesno><break>"
   },
   "129821": {
-    "「<%sL_KAITAI_ITEM>だね。\n　<%nL_BUY_PRICE>ゴールドで　どうだい？\n<yesno><break>": "<%sL_KAITAI_ITEM>. How about <%nL_BUY_PRICE>\ngold?\n<yesno><break>"
+    "「<%sL_KAITAI_ITEM>だね。\n　<%nL_BUY_PRICE>ゴールドで　どうだい？\n<yesno><break>": "<%sL_KAITAI_ITEM>, I see.\nHow about <%dL_BUY_PRICE> Gold?\n<yesno><break>"
   },
   "129822": {
-    "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だね。\n　<%nL_BUY_PRICE>ゴールドで　どうだい？\n<yesno><break>": "<%sL_KAITAI_ITEM> for <%nL_KAUKAZU>. How about\n<%nL_BUY_PRICE> gold?\n<yesno><break>"
+    "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だね。\n　<%nL_BUY_PRICE>ゴールドで　どうだい？\n<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>, I see.\nHow about <%dL_BUY_PRICE> Gold?\n<yesno><break>"
   },
   "129823": {
     "": ""
@@ -4758,13 +4758,13 @@
     "": ""
   },
   "129834": {
-    "「おや？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　素材屋で　結晶を取りだせるみたいだが\n　本当に　売っちまって　いいのか？\n<yesno 2><break>": "Hmm? It looks like\n<%sL_URITAI_ITEM><%sL_PLUSNUM> can get\ncrystals from Material Shop, but is it really\n<br>\nok to sell it?\n<yesno 2><break>"
+    "「おや？　<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　素材屋で　結晶を取りだせるみたいだが\n　本当に　売っちまって　いいのか？\n<yesno 2><break>": "Hmm? Looks to me that you can extract gems\nfrom that. Are you really sure you want to\nsell it?\n<yesno 2><break>"
   },
   "129835": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　今　装備しているものみたいだけど\n　本当に　それを　売っちまっていいのかい？\n<yesno 2><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>is like what you\nhave now, but are you sure you want to sell\nit?\n<yesno 2><break>"
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　今　装備しているものみたいだけど\n　本当に　それを　売っちまっていいのかい？\n<yesno 2><break>": "It looks like you can extract gems from that.\nAre you really sure you want to sell it?\n<yesno 2><break>"
   },
   "129836": {
-    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　仲間モンスターが　装備しているみたいだが\n　本当に　それを売っていいのか？\n<yesno 2><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM> seems to be\nwhat the companion monster is equipped for,\nbut can I really sell that?\n<yesno 2><break>"
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　仲間モンスターが　装備しているみたいだが\n　本当に　それを売っていいのか？\n<yesno 2><break>": "One of your fellow monsters has that equipped.\nAre you really sure you want to sell it?\n<yesno 2><break>"
   },
   "129837": {
     "「他にも　何か売りたいものは　あるかい？\n<break>": "Do you have anything else you'd like to sell?\n<break>"
@@ -6939,7 +6939,7 @@
     "「そうですか。わかりました。\n　他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "I see. I understand. Is there any other\nequipment from which you would like to remove\nthe crystals?\n<break>"
   },
   "140228": {
-    "「あと　<%nL_NUM2>回　装備品から　取りだせますが\n　他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "You can take the crystals out of the equipment\n<%nL_NUM2> times, but is there any other\nequipment from which you would like to take\n<br>\nthe crystals?\n<break>"
+    "「あと　<%nL_NUM2>回　装備品から　取りだせますが\n　他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "You can extract <%dL_NUM2> more time(s).\nIs there any other equipment you want to\nextract gems from?\n<break>"
   },
   "140229": {
     "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を\n　取りだせます。結晶を取りだすと　元の装備品は\n　消えてしまいますが　本当に　よろしいですか？\n<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> can have <%dL_NUM> gems\nextracted from it. The equipment will be lost\nin the process. Are you sure?\n<yesno 2><break>"
@@ -11094,7 +11094,7 @@
     "<select_se_off 4>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>": "<select_se_off 4>\nBuy\nSell\nExtract Gems\nExplanation\n<select_end><break>"
   },
   "271827": {
-    "「結晶の取りだしだね。\n　あと　<%nL_NUM2>回　装備品から　取りだせるが\n　どの装備品から　結晶を取りだすんだい？\n<break>": "I'm getting the crystals out of the equipment.\nYou can take the crystals out of the equipment\n<%nL_NUM2> times more, but which equipment are\n<br>\nyou taking the crystals out of?\n<break>"
+    "「結晶の取りだしだね。\n　あと　<%nL_NUM2>回　装備品から　取りだせるが\n　どの装備品から　結晶を取りだすんだい？\n<break>": "So you want to extract gems from your\nequipment? You can extract <%dL_NUM2> more time(s).\nWhich equipment do you want to extract from?\n<break>"
   },
   "271828": {
     "「結晶の取りだしだね。\n　どの装備品から　結晶を取りだすんだい？\n<break>": "You are taking the crystals out of the\nequipment. Which piece of equipment are you\ngoing to take the crystals out of?\n<break>"
@@ -13053,7 +13053,7 @@
     "<select_se_off 4>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>": "<select_se_off 4>\nBuy\nSell\nExtract Gems\nExplanation\n<select_end><break>"
   },
   "285807": {
-    "「結晶の取りだしだね。\n　あと　<%nL_NUM2>回　装備品から　取りだせるが\n　どの装備品から　結晶を取りだすんだい？\n<break>": "I'm getting the crystals out of the equipment.\nYou can take the crystals out of the equipment\n<%nL_NUM2> times more, but which equipment are\n<br>\nyou taking the crystals out of?\n<break>"
+    "「結晶の取りだしだね。\n　あと　<%nL_NUM2>回　装備品から　取りだせるが\n　どの装備品から　結晶を取りだすんだい？\n<break>": "So you want to extract gems from your\nequipment? You can extract <%dL_NUM2> more time(s).\nWhich equipment do you want to extract from?\n<break>"
   },
   "285808": {
     "「結晶の取りだしですね。\n　どの装備品から　結晶を取りだしますか？\n<break>": "You want to extract gems? Which piece of\nequipment do you want to extract from?\n<break>"
@@ -13083,7 +13083,7 @@
     "「他にも　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "Is there any other equipment you'd like to\nextract from?\n<break>"
   },
   "285817": {
-    "「あと　<%nL_NUM2>回　装備品から　取りだせますが\n　他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "You can take the crystals out of the equipment\n<%nL_NUM2> times, but is there any other\nequipment from which you would like to take\n<br>\nthe crystals?\n<break>"
+    "「あと　<%nL_NUM2>回　装備品から　取りだせますが\n　他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "You can extract <%dL_NUM2> more time(s).\nIs there any other equipment you want to\nextract gems from?\n<break>"
   },
   "285818": {
     "「どれについて　説明しましょうか？\n<select_se_off>\n汗と涙の結晶について\n使い込み度について\n取りだせる結晶の数\n<select_end><break>": "What do you want me to explain?\n<select_se_off>\nAbout Sweat & Tears Gems\nAbout Usage Rate\nAbout Extraction\n<select_end><break>"
