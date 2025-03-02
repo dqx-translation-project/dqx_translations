@@ -411,7 +411,7 @@
     "バイパーダガー": "Viper Dagger"
   },
   "1227": {
-    "攻撃時たまにＭＰ回復": "Recover MP On Attack"
+    "攻撃時たまにＭＰ回復": "MP Recovery Attack Chance"
   },
   "1243": {
     "タナトスハント": "Victimiser"
@@ -3138,7 +3138,7 @@
     "ツメ装備時に\n敵の攻撃を　かわしやすくなった！": "It's now easier to dodge when equipped\nwith Claws!"
   },
   "14718": {
-    "ツメ装備で　マシン系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Machine-types further increased\nwhen attacking with Claws!"
+    "ツメ装備で　マシン系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Machine-types further increases\nwhen attacking with Claws!"
   },
   "14769": {
     "ツメ装備時の　こうげき力が　３０　増えた！": "Attack increases by 30 when equipped\nwith Claws!"
@@ -3213,7 +3213,7 @@
     "スラ・ブレイクの特技を　おぼえた！": "Learned Slouble Trouble!"
   },
   "15351": {
-    "会心のいちげきが　さらに　出やすくなった！": "It's even easier to get a critical hit!"
+    "会心のいちげきが　さらに　出やすくなった！": "It's now even easier to get a critical hit!"
   },
   "15383": {
     "スラ・ブレイクの威力が　あがった！": "Slouble Trouble's power increases!"
@@ -3243,7 +3243,7 @@
     "ギガスラッシュの特技を　おぼえた！": "Learned Gigaslash!"
   },
   "15621": {
-    "片手剣装備で　ドラゴン系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Dragon-types further increased\nwhen attacking with a Sword!"
+    "片手剣装備で　ドラゴン系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Dragon-types further increases\nwhen attacking with a Sword!"
   },
   "15675": {
     "片手剣装備時の　こうげき力が　３０　増えた！": "Attack increases by 30 when equipped\nwith a Sword!"
@@ -3339,7 +3339,7 @@
     "両手杖での攻撃時に　吸収できるＭＰが　増えた！": "MP absorbed when attacking with a Staff is\nincreased!"
   },
   "16515": {
-    "両手杖装備で　悪魔系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Demon-types further increased\nwhen attacking with a Staff!"
+    "両手杖装備で　悪魔系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Demon-types further increases\nwhen attacking with a Staff!"
   },
   "16566": {
     "復活の杖の特技を　おぼえた！": "Learned Zing Stick!"
@@ -3426,7 +3426,7 @@
     "鉄甲斬の特技を　おぼえた！": "Learned Scrap Mettle!"
   },
   "17265": {
-    "オノ装備で　植物系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Plant-types further increased\nwhen attacking with an Axe!"
+    "オノ装備で　植物系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Plant-types further increases\nwhen attacking with an Axe!"
   },
   "17314": {
     "オノ装備時の　こうげき力が　３０　増えた！": "Attack increases by 30 when equipped\nwith an Axe!"
@@ -3468,7 +3468,7 @@
     "連撃なぎはらいの特技を　おぼえた！": "Combo Cleaver's power increases!"
   },
   "17666": {
-    "棍装備で　ゾンビ系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Zombie-types further increased\nwhen attacking with a Rod!"
+    "棍装備で　ゾンビ系モンスターを\n攻撃時の威力が　さらに　あがった！": "Damage versus Zombie-types further increases\nwhen attacking with a Rod!"
   },
   "17715": {
     "水流のかまえの特技を　おぼえた！": "Learned Be Like Water!"
@@ -5961,7 +5961,7 @@
     "周囲の仲間の\n守備力を\n少し上げる": "Slightly raises\ndefense of\nall allies."
   },
   "40596": {
-    "戦闘開始時たまに\n一度死んでも蘇る\n効果が発動する": "Rarely gain auto\nrevive effect\nat battle start."
+    "戦闘開始時たまに\n一度死んでも蘇る\n効果が発動する": "Sometimes gain\nan auto-revive\nat battle start."
   },
   "40632": {
     "行動時たまに\n回復呪文の\n回復量がアップ": "Sometimes raise\nrecovery spell\npower on action."
@@ -6210,7 +6210,7 @@
     "敵が減ると高揚し\nＭＰが少し回復\nするようになる": "Regain a little\nMP when an enemy\nis defeated."
   },
   "42964": {
-    "戦闘開始時たまに\n身かわし率アップ\nの効果が発動する": "Rarely gain a\ndodge up effect\nat battle start."
+    "戦闘開始時たまに\n身かわし率アップ\nの効果が発動する": "Sometimes gain a\ndodge up effect\nat battle start."
   },
   "43002": {
     "からだを回転させ\n周りの敵を攻撃し\nすっころばす": "Spin body to\nattack and knock\ndown enemies."
@@ -6381,19 +6381,19 @@
     "常時\nさいだいＨＰが\n１０増える": "Maximum HP\nincreases by 10."
   },
   "44632": {
-    "戦闘開始時\nたまにリベホイミ\nが発動する": "Rarely gain\nRemidheal at\nbattle start."
+    "戦闘開始時\nたまにリベホイミ\nが発動する": "Sometimes gain\nRemidheal at\nbattle start."
   },
   "44661": {
     "常時\nさいだいＭＰが\n１５増える": "Maximum MP\nincreases by 15."
   },
   "44684": {
-    "戦闘開始時\nたまにマホキテ\nが発動する": "Rarely gain\nAbsorb Magic at\nbattle start."
+    "戦闘開始時\nたまにマホキテ\nが発動する": "Sometimes gain\nAbsorb Magic at\nbattle start."
   },
   "44711": {
-    "攻撃を行った時\nたまにＭＰを\n回復する": "Rarely recover MP\nwhenever you\nattack."
+    "攻撃を行った時\nたまにＭＰを\n回復する": "Sometimes recover\nMP when\nattacking."
   },
   "44738": {
-    "戦闘開始時\nたまにバイシオン\nが発動する": "Rarely gain\nOomph at\nbattle start."
+    "戦闘開始時\nたまにバイシオン\nが発動する": "Sometimes gain\nOomph at\nbattle start."
   },
   "44767": {
     "大ダメージ時に\n時々テンションが\nアップする": "Chance to boost\ntension on\nbig damage."
@@ -6402,13 +6402,13 @@
     "常時\nみのまもりが\n１５増える": "Resilience\nincreases by 15."
   },
   "44820": {
-    "戦闘開始時\nたまにスカラ\nが発動する": "Rarely gain Buff\nat battle\nstart."
+    "戦闘開始時\nたまにスカラ\nが発動する": "Sometimes gain\nBuff at battle\nstart."
   },
   "44846": {
     "常時\nすばやさが\n２０増える": "Agility\nincreases by 20."
   },
   "44866": {
-    "戦闘開始時\nたまにピオラ\nが発動する": "Rarely gain\nAccelerate at\nbattle start."
+    "戦闘開始時\nたまにピオラ\nが発動する": "Sometimes gain\nAccelerate at\nbattle start."
   },
   "44892": {
     "たまに\n２回連続で\n行動をする": "Sometimes use\nan action\ntwice."
@@ -6417,10 +6417,10 @@
     "常時\nかいふく魔力が\n２０増える": "Magical Mending\nincreases by 20."
   },
   "44936": {
-    "戦闘開始時たまに\n攻撃と回復の呪文\n各効果がアップ": "Rarely gain\nspell/recovery up\nat battle start."
+    "戦闘開始時たまに\n攻撃と回復の呪文\n各効果がアップ": "Sometimes gain\nspell/recovery up\nat battle start."
   },
   "44972": {
-    "状態異常になる\nとくぎと呪文が\n成功しやすくなる": "Skill & spell\nailment success\nrate increased."
+    "状態異常になる\nとくぎと呪文が\n成功しやすくなる": "Skill & spell\nailment success\nrate increases."
   },
   "45007": {
     "範囲内にいる\n敵の行動間隔を\n長くする": "Lengthens action\nwait of nearby\nenemies."
@@ -6450,7 +6450,7 @@
     "バギ系の呪文の\n威力があがる": "Woosh-type spell\ndamage increases."
   },
   "45241": {
-    "イオ系の呪文の\n威力があがる": "Bang-type spell\npower is\nincreased."
+    "イオ系の呪文の\n威力があがる": "Bang-type spell\npower\nincreases."
   },
   "45262": {
     "ドルマ系の呪文の\n威力があがる": "Zam-type spell\ndamage increases."
@@ -6477,10 +6477,10 @@
     "与えるダメージを\nアップし\n最大ＨＰをあげる": "Increases damage\ndealt and raises\nMax HP."
   },
   "45435": {
-    "戦闘開始時\nたまに\nテンションアップ": "Rarely gain\ntension at\nbattle start."
+    "戦闘開始時\nたまに\nテンションアップ": "Sometimes gain\ntension at\nbattle start."
   },
   "45461": {
-    "さらに戦闘開始時\nたまに\nテンションアップ": "Rarely gain\nhigher tension\nat battle start."
+    "さらに戦闘開始時\nたまに\nテンションアップ": "Often gain\nhigher tension\nat battle start."
   },
   "45491": {
     "戦闘開始時必ず\nピオラ\nが発動する": "Always gain\nAccelerate at\nbattle start."
@@ -6504,7 +6504,7 @@
     "周囲を巻き込む\nすさまじい雷が\n敵に降りそそぐ": "Huge thunder will\nstrike nearby\nenemies."
   },
   "45664": {
-    "デイン系の呪文の\n威力が\nかなりあがる": "Zap-type spell\npower is\nincreased a lot."
+    "デイン系の呪文の\n威力が\nかなりあがる": "Zap-type spell\npower\nincreases a lot."
   },
   "45691": {
     "こうげき魔力が\n１００増える": "Magical Might\nincreases by 100."
@@ -6765,7 +6765,7 @@
     "ブレス攻撃により\n受けるダメージが\n減少する": "Reduces damage\ntaken from\nbreath attacks."
   },
   "47849": {
-    "瀕死時たまに\nリベホイミが\n発動する": "Rarely gain\nRemidheal when\nnear death."
+    "瀕死時たまに\nリベホイミが\n発動する": "Sometimes gain\nRemidheal when\nnear death."
   },
   "47875": {
     "敵を倒すとＭＰが\n３回復する": "Restore 3 MP\non an enemy\ndefeat."
@@ -8091,7 +8091,7 @@
     "戦闘開始時たまに\n勇者の覚醒が\n発動する": "Chance to gain\nHero's Awakening\nat battle start."
   },
   "54649": {
-    "攻撃時たまに\n勇者の覚醒が\n発動する": "Chance to gain\nHero's Awakening\nafter attacking."
+    "攻撃時たまに\n勇者の覚醒が\n発動する": "Sometimes gain\nHero's Awakening\nwhen attacking."
   },
   "54675": {
     "開戦時30%テンション": "Starting Tension 30%"
@@ -8106,13 +8106,13 @@
     "開戦時50%テンション": "Starting Tension 50%"
   },
   "54734": {
-    "戦闘開始時に　バイシオンが\nさらに　発動するようになった！": "Oomph is now applied further at the start\nof battle!"
+    "戦闘開始時に　バイシオンが\nさらに　発動するようになった！": "You are now more likely to gain Oomph at the\nstart of battle!"
   },
   "54777": {
     "戦闘開始時に　テンションバーンが\n必ず　発動するようになった！": "Feel the Burn will now always apply at the\nstart of battle!"
   },
   "54823": {
-    "さらに戦闘開始時\nたまにバイシオン\nが発動する": "Rarely gain\nOomph further\nat battle start."
+    "さらに戦闘開始時\nたまにバイシオン\nが発動する": "Often gain\nOomph at\nbattle start."
   },
   "54856": {
     "戦闘開始時必ず\nテンションバーン\nが発動する": "Always gain\nFeel the Burn\nat battle start."
