@@ -12,13 +12,13 @@
     "<%sL_ITEM><%sL_PLUSNUM>の値段は\n<%nL_NEDAN>ゴールドで\nよろしいですか？\n<yesno><break>": "Are you sure you want <%sL_ITEM><%sL_PLUSNUM>\nto be priced at <%dL_NEDAN> gold?\n<yesno><break>"
   },
   "135849": {
-    "出品の状況が　変わったため\n買えませんでした。\n<bw_break>": "I could not buy it due to a change in the\nstatus of the listing.\n<bw_break>"
+    "出品の状況が　変わったため\n買えませんでした。\n<bw_break>": "Could not buy due to the listing\nchanging.\n<bw_break>"
   },
   "135850": {
     "<%sL_ITEM><%sL_PLUSNUM>を\n<%nL_QUANTITY>個　買いました！\n<bw_break>": "Purchased\n<%dL_QUANTITY> <%sL_ITEM><%sL_PLUSNUM>!\n<bw_break>"
   },
   "135851": {
-    "<%sL_ITEM><%sL_PLUSNUM>の値段を　\n<%nL_NEDAN>ゴールドに　設定しました。\n<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> price set to\n<%dL_NEDAN> gold.\n<bw_break>"
+    "<%sL_ITEM><%sL_PLUSNUM>の値段を　\n<%nL_NEDAN>ゴールドに　設定しました。\n<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> price set to\n<%dL_NEDAN> Gold.\n<bw_break>"
   },
   "135852": {
     "購入権がないため　買えませんでした。": "Couldn't buy it because I don't have the right\nto buy it."
@@ -30,10 +30,10 @@
     "アイテムがなくなったため\nキャンセルできませんでした。\n<bw_break>": "Cancel could not be done because the Item is\nno longer available.\n<bw_break>"
   },
   "135855": {
-    "このアイテムは　売り物に設定できません。\n<bw_break>": "This item cannot be set for sale.\n<bw_break>"
+    "このアイテムは　売り物に設定できません。\n<bw_break>": "This item cannot be put up for sale.<bw_break>"
   },
   "135856": {
-    "その金額は　設定できません。\n<bw_break>": "The amount cannot be set.\n<bw_break>"
+    "その金額は　設定できません。\n<bw_break>": "Cannot be put up for that amount.\n<bw_break>"
   },
   "135857": {
     "<%sL_ITEM><%sL_PLUSNUM>は\n<%sL_SYOKUNIN>のレシピです。\n<%nL_GOUKEI>ゴールドで　購入しますか？\n<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> is a recipe for\n<%sL_SYOKUNIN>. <%dL_GOUKEI>Would you like to\nbuy it with gold?\n<yesno 2><break>"
@@ -51,19 +51,19 @@
     "このモーモンバザーには\n現在　売り物が　ありません。": "The Sanguini Bazaar currently has no items for\nsale."
   },
   "135862": {
-    "モーモンバザーがある。\nこのモーモンバザーには\n現在　売り物が　ありません。": "There is a Sanguini Bazaar. This Sanguini\nBazaar currently has no items for sale."
+    "モーモンバザーがある。\nこのモーモンバザーには\n現在　売り物が　ありません。": "It's a Sanguini Bazaar. There currently are\nno items for sale."
   },
   "135863": {
-    "売り物に設定できるアイテムが\n収納家具に　ありません。": "There are no items in the storage furniture\nthat can be set for sale."
+    "売り物に設定できるアイテムが\n収納家具に　ありません。": "There are no items in furniture storage\nthat can be listed for sale."
   },
   "135864": {
-    "自分の家のモーモンバザーからは　買えません！\n<bw_break>": "I can't buy from Sanguini Bazaar in my house!\n<bw_break>"
+    "自分の家のモーモンバザーからは　買えません！\n<bw_break>": "You can't purchase items from a Sanguini\nBazaar inside your own house!\n<bw_break>"
   },
   "135865": {
-    "他の人が　収納家具を　さわっているので\n商品を買えませんでした。": "I couldn't buy the product because someone\nelse was working on the storage furniture."
+    "他の人が　収納家具を　さわっているので\n商品を買えませんでした。": "You can't buy anything because someone else\nis currently viewing furniture storage."
   },
   "135866": {
-    "現在の　売り物一覧です。\n<break>": "Here is the current list of items for sale.\n<break>"
+    "現在の　売り物一覧です。\n<break>": "This is the current list of items for sale.\n<break>"
   },
   "135867": {
     "モーモンバザーの　売上金の合計が\n所持できる上限金額を　超えています。\nお金をへらしてから　再度お試しください。": "The total amount of money you have raised at\nSanguini Bazaar has exceeded the maximum\namount you can hold. Please reduce the amount\n<br>\nof money and try again."
@@ -78,10 +78,10 @@
     "このモーモンバザーの　売上金の合計が\n貯めておける上限金額を　超えているため\nこれ以上　商品を　購入できません。": "The total amount of sales from this Sanguini\nBazaar has exceeded the maximum amount that\ncan be saved and therefore no more products\n<br>\ncan be purchased."
   },
   "135871": {
-    "<select_se_off>\n売らない\n値段をつけ直す\n<select_end><break>": "<select_se_off>\nDon't Sell\nChange Price\n<select_end><break>"
+    "<select_se_off>\n売らない\n値段をつけ直す\n<select_end><break>": "<select_se_off>\nDelist\nChange Price\n<select_end><break>"
   },
   "135872": {
-    "値段を　いくらに変更しますか？\n<break>": "Change the price to what?\n<break>"
+    "値段を　いくらに変更しますか？\n<break>": "Change the price to which amount?\n<break>"
   },
   "135873": {
     "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM>\ndo you want to buy?<break>"
@@ -102,7 +102,7 @@
     "<%sL_ITEM><%sL_PLUSNUM>は　すでに読んでいます。\n<%nL_GOUKEI>ゴールドで\n購入しますか？\n<yesno 2><break>": "<%sL_ITEM><%sL_PLUSNUM> have already read it.\n<%dL_GOUKEI>Would you like to buy it in Gold?\n<yesno 2><break>"
   },
   "136553": {
-    "購入することが　できませんでした。": "I was not able to purchase it."
+    "購入することが　できませんでした。": "Could not purchase the item."
   },
   "136554": {
     "設定することが　できませんでした。": "The setting could not be made."
