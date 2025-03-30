@@ -75,25 +75,25 @@
     "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
   },
   "66028": {
-    "<speed=0><%sL_FURNITURE>を　置いた！": "<speed=0>I put <%sL_FURNITURE>!"
+    "<speed=0><%sL_FURNITURE>を　置いた！": "<speed=0>Placed the <%sL_FURNITURE>!"
   },
   "66029": {
-    "<%sL_ITEM><%sL_PLUSNUM>の値段を　\n<%nL_NEDAN>ゴールドに　設定しました。\n<bw_break>": "Set the price of <%sL_ITEM><%sL_PLUSNUM> to\n<%dL_NEDAN> gold...<bw_break>"
+    "<%sL_ITEM><%sL_PLUSNUM>の値段を　\n<%nL_NEDAN>ゴールドに　設定しました。\n<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> price set to\n<%dL_NEDAN> Gold.\n<bw_break>"
   },
   "66030": {
     "ＨＰとＭＰが　回復した！": "HP and MP have been restored!"
   },
   "66031": {
-    "<%sL_ITEM><%sL_PLUSNUM>を\n<%nL_QUANTITY>個　買いました！\n<bw_break>": "I bought <%sL_ITEM><%sL_PLUSNUM> for\n<%dL_QUANTITY>!<bw_break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を\n<%nL_QUANTITY>個　買いました！\n<bw_break>": "Purchased\n<%dL_QUANTITY> <%sL_ITEM><%sL_PLUSNUM>!\n<bw_break>"
   },
   "66032": {
     "<%sL_FURNITURE>に\nメッセージを残しました！": "You've left a message at <%sL_FURNITURE>!"
   },
   "66033": {
-    "メッセージを　削除しました。": "I'll delete the message..."
+    "メッセージを　削除しました。": "The message is deleted."
   },
   "66034": {
-    "メッセージを　ロックしました。": "Lock the message..."
+    "メッセージを　ロックしました。": "The message is now locked."
   },
   "66035": {
     "<%sL_FURNITURE>を　かたづけた。": "<%sL_FURNITURE> was taken."
@@ -108,7 +108,7 @@
     "遊びに来ました！": "I've come to visit!"
   },
   "66039": {
-    "このメッセージを　削除しますか？\n<yesno 2><break>": "Do you want to delete this message?<yesno 2><break>"
+    "このメッセージを　削除しますか？\n<yesno 2><break>": "Delete this message?<yesno 2><break>"
   },
   "66040": {
     "<%sL_FURNITURE>を　動かして\n置く場所を　決めてください。": "Please move and choose a location to place the\n<%sL_FURNITURE>."
@@ -231,19 +231,19 @@
     "<%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM><%sL_PLUSNUM>は　購入できなかった。\n<bw_break>": "You can't buy <%sL_ITEM><%sL_PLUSNUM> because\n<%sL_BAG_TYPE> is full.<bw_break>"
   },
   "66080": {
-    "家を建ててから　庭具を配置してください。\n<end>": "Place garden furniture after the house is\nbuilt.\n<end>"
+    "家を建ててから　庭具を配置してください。\n<end>": "Please try placing outdoor furniture once\nyour house is built.\n<end>"
   },
   "66081": {
-    "管理権限がないため\n庭具を　いじることは　できません。": "You do not have administrative rights and\ncannot modify the garden furniture."
+    "管理権限がないため\n庭具を　いじることは　できません。": "You do not have the necessary permissions\nto edit outdoor furniture."
   },
   "66082": {
-    "しかし　つかうものがいっぱいで\nかたづけられなかった。": "But there's so much to hold on to, I can't\nkeep it all..."
+    "しかし　つかうものがいっぱいで\nかたづけられなかった。": "But your item bag is full, so it cannot\nbe put away."
   },
   "66083": {
-    "しかし　お金が足りなかった。\n<bw_break>": "But we don't have enough money...<bw_break>"
+    "しかし　お金が足りなかった。\n<bw_break>": "But you don't have enough money!\n<bw_break>"
   },
   "66084": {
-    "このモーモンバザーには\n現在　売り物が　ありません。": "This Mormon bazaar currently has items for\nsale..."
+    "このモーモンバザーには\n現在　売り物が　ありません。": "The Sanguini Bazaar currently has no items for\nsale."
   },
   "66085": {
     "モーモンバザーがある。\nこのモーモンバザーには\n現在　売り物が　ありません。": "It's a Sanguini Bazaar. There currently are\nno items for sale."
@@ -282,22 +282,22 @@
     "<%nL_NINZU>人が　商品を　買ってくれました！\n売上金　合計\n<%nL_GOLD>ゴールドを　受け取りました！\n<break>": "<%dL_NINZU> people have bought your items!\nYou received a total of <%dL_GOLD> Gold\nin sales!<break>"
   },
   "66097": {
-    "現在の　売り物一覧です。\n<break>": "Current listings...<break>"
+    "現在の　売り物一覧です。\n<break>": "Here is the current list of items for sale.\n<break>"
   },
   "66098": {
     "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
   },
   "66099": {
-    "自動で上書きされないように\nこのメッセージを　ロックしますか？\n<yesno 2><break>": "Do you want to lock this message to prevent\nit from being overwritten automatically?<yesno 2><break>"
+    "自動で上書きされないように\nこのメッセージを　ロックしますか？\n<yesno 2><break>": "Lock this message to prevent it from being\noverwritten automatically?\n<yesno 2><break>"
   },
   "66100": {
-    "<%sL_FURNITURE>に　保存されている\nメッセージを見たり　削除したりできます。\nメッセージは　最大３０件まで　保存できます。": "You can view and delete messages stored in\n<%sL_FURNITURE>... You can store up to 30\nmessages..."
+    "<%sL_FURNITURE>に　保存されている\nメッセージを見たり　削除したりできます。\nメッセージは　最大３０件まで　保存できます。": "You can view and delete messages stored in the\n<%sL_FURNITURE>. Up to 30 messages\ncan be stored at a time."
   },
   "66101": {
-    "<%sL_ITEM><%sL_PLUSNUM>を\n売らない設定にしました。\n<bw_break>": "Set <%sL_ITEM><%sL_PLUSNUM> to not sell...<bw_break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を\n売らない設定にしました。\n<bw_break>": "<%sL_ITEM><%sL_PLUSNUM> is now set to not\nsell.\n<bw_break>"
   },
   "66102": {
-    "出品が　取り下げられたため\n買えませんでした。\n<bw_break>": "I can't buy it because the listing has been\nwithdrawn...<bw_break>"
+    "出品が　取り下げられたため\n買えませんでした。\n<bw_break>": "Could not buy due to the listing being\nwithdrawn.\n<bw_break>"
   },
   "66103": {
     "<%sL_FURNITURE>を置いたので\n家に遊びにきてくれた人が　\nメッセージを　残せるようになりました！\n<br>\nメッセージは　ひとり１日３件まで。\n最大で　３０件まで保存できます。\n<br>\n誰かがメッセージを残してくれると\nスライムが　光っているので\nすぐに　わかります。\n<br>\nメッセージは　遊びにきてくれた人も\n見ることができるので　あなたからの\nメッセージも　書いておくこともできますよ！": "I've put up a <%sL_FURNITURE> so that people\nwho come to my house can leave a message!\nEach person can leave 3 messages a day... You\n<br>\ncan save up to 30 messages per day. When\nsomeone leaves a message, the slime will\nlight up, so you'll know... Messages can also\n<br>\nbe viewed by visitors, so you can write your\nown messages there too!"
@@ -306,13 +306,13 @@
     "モーモンバザーを置いたので\n家に遊びにきてくれた人向けの\nお店を開くことが　できるようになりました！\n<br>\nモーモンバザーの　『売り物を設定する』から\n収納家具に入れたアイテムに値段をつけることで\nそのアイテムを　売りにだすことができます。\n<br>\n商品が売れると　モーモンが\nピンクモーモンになります！\n売り物がなくなると　怖い顔になります。\n<br>\n売上金は　家のオーナーだけが受け取れます。\n受け取っていない　売り上げが　９９９件あると\nそれ以上　アイテムを　販売できなくなります。\n<br>\nそれでは　売り物を　設定してみましょう！": "Now that you have the Mormon Bazaar, you can\nopen a shop for people who come to your\nhouse! In the Mormon Bazaar, you can put a\n<br>\nprice on the items you've placed in your\nstorage furniture to sell them. When the item\nsells, Mormon will turn into Pink Mormon!\n<br>\nWhen there's nothing left to sell, he turns\nscary... Only the owner of the house gets the\nmoney. If you have 999 sales that you haven't\n<br>\nreceived, you can't sell any more items. Now,\nlet's set up the items for sale!"
   },
   "66105": {
-    "値段を　いくらに変更しますか？\n<break>": "How much would you like to change the price?\n<break>"
+    "値段を　いくらに変更しますか？\n<break>": "Change the price to which amount?\n<break>"
   },
   "66106": {
-    "<select_se_off>\n売らない\n値段をつけ直す\n<select_end><break>": "<select_se_off>\nnot for sale\nreprice\n<select_end><break>"
+    "<select_se_off>\n売らない\n値段をつけ直す\n<select_end><break>": "<select_se_off>\nDelist\nChange Price\n<select_end><break>"
   },
   "66107": {
-    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM> do you want\nto buy?<break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM>\ndo you want to buy?<break>"
   },
   "66108": {
     "『売り物を設定する』では\n収納家具に入れたアイテムに　値段をつけることで\nそのアイテムを　売りにだすことができます。\n<br>\n値段は　アイテムの種類ごとに\nひとつあたりの値段を　設定します。\n最大６０種類まで　売りにだせます。\n<br>\nアイテムに値段を設定して　売りにだすと\n収納家具の中にある　同じ種類のアイテムは\nすべて　売り物になります！\n<br>\n同じ種類のアイテムの　売りたくない分は\n屋根ウラ収納や　預かり所に預けるなど\n収納家具に入れないように　ご注意ください！": "In the \"Set for Sale\" section, you can put a\nprice on the items in your storage furniture\nto make them available for sale. You can set\n<br>\na price for each type of item. Up to 60 items\ncan be sold... If you set a price for an item\nand put it up for sale, all items of the same\n<br>\ntype in your storage furniture will become\navailable for sale! If you don't want to sell\nitems of the same type, please don't put them\n<br>\nin your storage furniture, such as under the\nroof or in the storage area!"
@@ -333,16 +333,16 @@
     "収納家具を　設置しました！\n収納家具を設置すると　アイテムを\n<%nL_VAULT_SLOT>種類まで　しまえるようになります。\n<br>\n収納家具の数を増やしても　最大数は\n<%nL_VAULT_SLOT>種類のままなので　ご注意ください。": "Storage furniture has been installed! When\nyou install storage furniture, you can store\nup to <%dL_VAULT_SLOT> types of items...\n<br>\nPlease note that even if you increase the\nnumber of storage furniture, the maximum\nnumber of types will remain\n<br>\n<%dL_VAULT_SLOT>..."
   },
   "66114": {
-    "ただし　収納家具を増やしても\nしまえるアイテムの数は　増えませんので\nご注意ください。": "However, please note that adding more storage\nfurniture will not increase the number of\nitems you can store..."
+    "ただし　収納家具を増やしても\nしまえるアイテムの数は　増えませんので\nご注意ください。": "However, please note that adding more storage\nfurniture will not increase the number of\nitems you can store."
   },
   "66115": {
     "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
   },
   "66116": {
-    "このメッセージは　ロックされています。\nロックを　解除しますか？\n<yesno 2><break>": "This message is locked... Do you want to\nunlock it?<yesno 2><break>"
+    "このメッセージは　ロックされています。\nロックを　解除しますか？\n<yesno 2><break>": "This message is unlocked.\nUnlock it?\n<yesno 2><break>"
   },
   "66117": {
-    "おもいで映写機を　置きました！\n『映写機をつかう』を選ぶと　これまでに見た\nシナリオ中のイベントを　観られます！": "We've set up a memory projector! If you\nselect the \"Use Projector\" option, you'll be\nable to watch the events of the scenarios\n<br>\nyou've seen so far!"
+    "おもいで映写機を　置きました！\n『映写機をつかう』を選ぶと　これまでに見た\nシナリオ中のイベントを　観られます！": "A Memory Projector has been placed!\nUsing it, you can rewatch cutscenes you've\npreviously seen!"
   },
   "66118": {
     "「Ｖロンのヒミツ」\nアストルティアの冒険者たちに　絶大な人気を誇る\n書物・Ｖジャンプのシンボル的ドラゴン。\n<br>\n伝説の絵師・トリヤーマがデザインしたと言われ\nその姿を模したＴシャツや盾を身にまとう\n冒険者の姿が　多数目撃されている。": "\"Secret of Vron\"\nSymbolic dragon of V Jump, a book popular\namong adventurers in Astoltia.\n<br>\nMany adventurers have been seen wearing\nT-shirts and shields that are said to have\nbeen designed by legendary artist Toriyama."
@@ -426,7 +426,7 @@
     "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
   },
   "66145": {
-    "<speed=0><%sL_FURNITURE>を　置いた！": "<speed=0>I put <%sL_FURNITURE>!"
+    "<speed=0><%sL_FURNITURE>を　置いた！": "<speed=0>Placed the <%sL_FURNITURE>!"
   },
   "66146": {
     "<%sL_ITEM><%sL_PLUSNUM>の値段を　\n<%nL_NEDAN>ゴールドに　設定しました。\n<bw_break>": "Set the price of <%sL_ITEM><%sL_PLUSNUM> to\n<%dL_NEDAN> gold...<bw_break>"
@@ -582,10 +582,10 @@
     "<%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM><%sL_PLUSNUM>は　購入できなかった。\n<bw_break>": "You can't buy <%sL_ITEM><%sL_PLUSNUM> because\n<%sL_BAG_TYPE> is full.<bw_break>"
   },
   "66197": {
-    "家を建ててから　庭具を配置してください。\n<end>": "Place garden furniture after the house is\nbuilt.\n<end>"
+    "家を建ててから　庭具を配置してください。\n<end>": "Please try placing outdoor furniture once\nyour house is built.\n<end>"
   },
   "66198": {
-    "管理権限がないため\n家具を　いじることは　できません。": "You do not have administrative privileges to\nmodify the furniture."
+    "管理権限がないため\n家具を　いじることは　できません。": "You do not have the necessary permissions\nto edit indoor furniture."
   },
   "66199": {
     "しかし　つかうものがいっぱいで\nかたづけられなかった。": "But there's so much to hold on to, I can't\nkeep it all..."
@@ -633,7 +633,7 @@
     "<%nL_NINZU>人が　商品を　買ってくれました！\n売上金　合計\n<%nL_GOLD>ゴールドを　受け取りました！\n<break>": "<%dL_NINZU> people have bought your items!\nYou received a total of <%dL_GOLD> Gold\nin sales!<break>"
   },
   "66214": {
-    "現在の　売り物一覧です。\n<break>": "Current listings...<break>"
+    "現在の　売り物一覧です。\n<break>": "Here is the current list of items for sale.\n<break>"
   },
   "66215": {
     "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
@@ -660,10 +660,10 @@
     "値段を　いくらに変更しますか？\n<break>": "How much would you like to change the price?\n<break>"
   },
   "66223": {
-    "<select_se_off>\n売らない\n値段をつけ直す\n<select_end><break>": "<select_se_off>\nnot for sale\nreprice\n<select_end><break>"
+    "<select_se_off>\n売らない\n値段をつけ直す\n<select_end><break>": "<select_se_off>\nDelist\nChange Price\n<select_end><break>"
   },
   "66224": {
-    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM> do you want\nto buy?<break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM>\ndo you want to buy?<break>"
   },
   "66225": {
     "『売り物を設定する』では\n収納家具に入れたアイテムに　値段をつけることで\nそのアイテムを　売りにだすことができます。\n<br>\n値段は　アイテムの種類ごとに\nひとつあたりの値段を　設定します。\n最大６０種類まで　売りにだせます。\n<br>\nアイテムに値段を設定して　売りにだすと\n収納家具の中にある　同じ種類のアイテムは\nすべて　売り物になります！\n<br>\n同じ種類のアイテムの　売りたくない分は\n屋根ウラ収納や　預かり所に預けるなど\n収納家具に入れないように　ご注意ください！": "In the \"Set for Sale\" section, you can put a\nprice on the items in your storage furniture\nto make them available for sale. You can set\n<br>\na price for each type of item. Up to 60 items\ncan be sold... If you set a price for an item\nand put it up for sale, all items of the same\n<br>\ntype in your storage furniture will become\navailable for sale! If you don't want to sell\nitems of the same type, please don't put them\n<br>\nin your storage furniture, such as under the\nroof or in the storage area!"
@@ -684,7 +684,7 @@
     "収納家具を　設置しました！\n収納家具を設置すると　アイテムを\n<%nL_VAULT_SLOT>種類まで　しまえるようになります。\n<br>\n収納家具の数を増やしても　最大数は\n<%nL_VAULT_SLOT>種類のままなので　ご注意ください。": "Storage furniture has been installed! When\nyou install storage furniture, you can store\nup to <%dL_VAULT_SLOT> types of items...\n<br>\nPlease note that even if you increase the\nnumber of storage furniture, the maximum\nnumber of types will remain\n<br>\n<%dL_VAULT_SLOT>..."
   },
   "66231": {
-    "ただし　収納家具を増やしても\nしまえるアイテムの数は　増えませんので\nご注意ください。": "However, please note that adding more storage\nfurniture will not increase the number of\nitems you can store..."
+    "ただし　収納家具を増やしても\nしまえるアイテムの数は　増えませんので\nご注意ください。": "However, please note that adding more storage\nfurniture will not increase the number of\nitems you can store."
   },
   "66232": {
     "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
@@ -1068,28 +1068,28 @@
     "この庭具の上に　別の庭具が\n重ね置きされているため　かたづけられません。\n上の庭具をなくして　かたづけてください。": "There's another garden tool on top of this\none, so we can't put it away... I'd like to\nget rid of the top one and put it away."
   },
   "184232": {
-    "おもいで映写機にのっている　イベントシーンを\nアカウントに　保存しました！\n<br>\nこのキャラが見ている　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになりました！": "You've saved the event scene from the Omoide\nProjector to your account! The event scene\nthis character is watching can now be skipped\n<br>\nby any other character in the same account!"
+    "おもいで映写機にのっている　イベントシーンを\nアカウントに　保存しました！\n<br>\nこのキャラが見ている　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになりました！": "You've saved your viewed cutscene history\nto your account!\n<br>\nNow any cutscenes you've already seen can\nbe skipped by any other character on your\naccount!"
   },
   "184233": {
-    "おもいで映写機にのっている　イベントシーンを\n同じアカウント内の　他キャラクターでも\nスキップできるように　保存しますか？\n<yesno 2><break>": "Do you want to save the event scene on the\nOmoide Projector so that other characters on\nthe same account can skip it?<yesno 2><break>"
+    "おもいで映写機にのっている　イベントシーンを\n同じアカウント内の　他キャラクターでも\nスキップできるように　保存しますか？\n<yesno 2><break>": "Save the cutscenes you've already watched to\nyour account, so that other characters who\nview them will have the option to skip them?\n<yesno 2><break>"
   },
   "184234": {
     "このたび　おもいで映写機に\n『おもいでリンク』機能を追加しました！\n<br>\n『おもいでリンク』は　このキャラが見た\nおもいで映写機にのっている　イベントシーンを\nアカウントに保存する　機能になります。\n<br>\nアカウントに保存された　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになります！\n<br>\nただし　イベント中に　重要な選択がある\nイベントシーンについては　\nスキップできませんので　ご了承ください。": "We've added a \"Omoide Link\" function to the\nOmoide Projector! The \"Omoide Link\" feature\nallows you to save the event scenes that this\n<br>\ncharacter has seen on the Omoide Projector to\nyour account. Once an event scene has been\nsaved to your account, it can be skipped by\n<br>\nany other character in the same account!\nHowever, please note that event scenes with\nimportant choices during the event cannot be\n<br>\nskipped..."
   },
   "184235": {
-    "おもいで映写機にのっている　イベントシーンを\nアカウントに　保存しました！\n<br>\nこのキャラが見ている　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになりました！": "You've saved the event scene from the Omoide\nProjector to your account! The event scene\nthis character is watching can now be skipped\n<br>\nby any other character in the same account!"
+    "おもいで映写機にのっている　イベントシーンを\nアカウントに　保存しました！\n<br>\nこのキャラが見ている　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになりました！": "You've saved your viewed cutscene history\nto your account!\n<br>\nNow any cutscenes you've already seen can\nbe skipped by any other character on your\naccount!"
   },
   "184236": {
-    "おもいで映写機にのっている　イベントシーンを\n同じアカウント内の　他キャラクターでも\nスキップできるように　保存しますか？\n<yesno 2><break>": "Do you want to save the event scene on the\nOmoide Projector so that other characters on\nthe same account can skip it?<yesno 2><break>"
+    "おもいで映写機にのっている　イベントシーンを\n同じアカウント内の　他キャラクターでも\nスキップできるように　保存しますか？\n<yesno 2><break>": "Save the cutscenes you've already watched to\nyour account, so that other characters who\nview them will have the option to skip them?\n<yesno 2><break>"
   },
   "184237": {
     "このたび　おもいで映写機に\n『おもいでリンク』機能を追加しました！\n<br>\n『おもいでリンク』は　このキャラが見た\nおもいで映写機にのっている　イベントシーンを\nアカウントに保存する　機能になります。\n<br>\nアカウントに保存された　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになります！\n<br>\nただし　イベント中に　重要な選択がある\nイベントシーンについては　\nスキップできませんので　ご了承ください。": "We've added a \"Omoide Link\" function to the\nOmoide Projector! The \"Omoide Link\" feature\nallows you to save the event scenes that this\n<br>\ncharacter has seen on the Omoide Projector to\nyour account. Once an event scene has been\nsaved to your account, it can be skipped by\n<br>\nany other character in the same account!\nHowever, please note that event scenes with\nimportant choices during the event cannot be\n<br>\nskipped..."
   },
   "184238": {
-    "このキャラが見ている　イベントシーンは\nすでに　スキップ可能になっています。": "The event scene this character is watching\nhas already been made skippable..."
+    "このキャラが見ている　イベントシーンは\nすでに　スキップ可能になっています。": "The cutscenes this character has watched have\nalready been made skippable."
   },
   "184239": {
-    "このキャラが見ている　イベントシーンは\nすでに　スキップ可能になっています。": "The event scene this character is watching\nhas already been made skippable..."
+    "このキャラが見ている　イベントシーンは\nすでに　スキップ可能になっています。": "The cutscenes this character has watched have\nalready been made skippable."
   },
   "198736": {
     "<%sL_FURNITURE>がある。\nここで　釣りが　できそうだ。\n<break>": "It's a(n) <%sL_FURNITURE>.\nIt seems like you can fish here.\n<break>"
@@ -2124,10 +2124,10 @@
     "しかし　つかうものがいっぱいで\nかたづけられなかった。": "But there's so much to hold on to, I can't\nkeep it all..."
   },
   "301162": {
-    "管理権限がないため\n家具を　いじることは　できません。": "You do not have administrative privileges to\nmodify the furniture."
+    "管理権限がないため\n家具を　いじることは　できません。": "You do not have the necessary permissions\nto edit indoor furniture."
   },
   "301163": {
-    "管理権限がないため\n庭具を　いじることは　できません。": "You do not have administrative rights and\ncannot modify the garden furniture."
+    "管理権限がないため\n庭具を　いじることは　できません。": "You do not have the necessary permissions\nto edit outdoor furniture."
   },
   "301164": {
     "ＨＰとＭＰが　回復した！": "HP and MP have been restored!"
@@ -2502,16 +2502,16 @@
     "ここは　他の人が　すわっているので\n今は　すわれません。\n空いているところで　お試しください。\n<br>\n満席の場合は　空くまで　お待ちください。": "There are other people sitting here, so you\ncan't sit down now... Please try an open\nseat... If it's full, please wait until a\n<br>\nseat is available..."
   },
   "301288": {
-    "現在の　売り物一覧です。\n<break>": "Current listings...<break>"
+    "現在の　売り物一覧です。\n<break>": "Here is the current list of items for sale.\n<break>"
   },
   "301289": {
-    "現在の　売り物一覧です。\n<break>": "Current listings...<break>"
+    "現在の　売り物一覧です。\n<break>": "Here is the current list of items for sale.\n<break>"
   },
   "301290": {
-    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM> do you want\nto buy?<break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM>\ndo you want to buy?<break>"
   },
   "301291": {
-    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM> do you want\nto buy?<break>"
+    "<%sL_ITEM><%sL_PLUSNUM>を　いくつ買いますか？\n<break>": "How many <%sL_ITEM><%sL_PLUSNUM>\ndo you want to buy?<break>"
   },
   "301292": {
     "モーモンバザーがある。\nこのモーモンバザーには\n現在　売り物が　ありません。": "It's a Sanguini Bazaar. There currently are\nno items for sale."
@@ -2520,10 +2520,10 @@
     "モーモンバザーがある。\nこのモーモンバザーには\n現在　売り物が　ありません。": "It's a Sanguini Bazaar. There currently are\nno items for sale."
   },
   "301294": {
-    "しかし　お金が足りなかった。\n<bw_break>": "But we don't have enough money...<bw_break>"
+    "しかし　お金が足りなかった。\n<bw_break>": "But you don't have enough money!\n<bw_break>"
   },
   "301295": {
-    "しかし　お金が足りなかった。\n<bw_break>": "But we don't have enough money...<bw_break>"
+    "しかし　お金が足りなかった。\n<bw_break>": "But you don't have enough money!\n<bw_break>"
   },
   "301296": {
     "この家具は　他の人が　つかっています。": "This is being used by someone else."
@@ -2532,22 +2532,22 @@
     "この庭具は　他の人が　つかっています。": "This is being used by someone else."
   },
   "301298": {
-    "出品の状況が　変わったため\n買えませんでした。\n<bw_break>": "I can't buy it because the status of the\nlisting has changed...<bw_break>"
+    "出品の状況が　変わったため\n買えませんでした。\n<bw_break>": "Could not buy due to the listing\nchanging.\n<bw_break>"
   },
   "301299": {
-    "出品の状況が　変わったため\n買えませんでした。\n<bw_break>": "I can't buy it because the status of the\nlisting has changed...<bw_break>"
+    "出品の状況が　変わったため\n買えませんでした。\n<bw_break>": "Could not buy due to the listing\nchanging.\n<bw_break>"
   },
   "301300": {
-    "出品が　取り下げられたため\n買えませんでした。\n<bw_break>": "I can't buy it because the listing has been\nwithdrawn...<bw_break>"
+    "出品が　取り下げられたため\n買えませんでした。\n<bw_break>": "Could not buy due to the listing being\nwithdrawn.\n<bw_break>"
   },
   "301301": {
-    "出品が　取り下げられたため\n買えませんでした。\n<bw_break>": "I can't buy it because the listing has been\nwithdrawn...<bw_break>"
+    "出品が　取り下げられたため\n買えませんでした。\n<bw_break>": "Could not buy due to the listing being\nwithdrawn.\n<bw_break>"
   },
   "301302": {
-    "<%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM><%sL_PLUSNUM>は　購入できなかった。\n<bw_break>": "You can't buy <%sL_ITEM><%sL_PLUSNUM> because\n<%sL_BAG_TYPE> is full.<bw_break>"
+    "<%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM><%sL_PLUSNUM>は　購入できなかった。\n<bw_break>": "You can't buy <%sL_ITEM><%sL_PLUSNUM>\nbecause your\n<%sL_BAG_TYPE> is full.\n<bw_break>"
   },
   "301303": {
-    "<%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM><%sL_PLUSNUM>は　購入できなかった。\n<bw_break>": "You can't buy <%sL_ITEM><%sL_PLUSNUM> because\n<%sL_BAG_TYPE> is full.<bw_break>"
+    "<%sL_BAG_TYPE>が　いっぱいのため\n<%sL_ITEM><%sL_PLUSNUM>は　購入できなかった。\n<bw_break>": "You can't buy <%sL_ITEM><%sL_PLUSNUM>\nbecause your\n<%sL_BAG_TYPE> is full.\n<bw_break>"
   },
   "301304": {
     "このアイテムは　売り物に設定できません。\n<bw_break>": "This item cannot be put up for sale.<bw_break>"
@@ -2592,28 +2592,28 @@
     "このたび　おもいで映写機に\n『おもいでリンク』機能を追加しました！\n<br>\n『おもいでリンク』は　このキャラが見た\nおもいで映写機にのっている　イベントシーンを\nアカウントに保存する　機能になります。\n<br>\nアカウントに保存された　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになります！\n<br>\nただし　イベント中に　重要な選択がある\nイベントシーンについては　\nスキップできませんので　ご了承ください。": "We've added a \"Omoide Link\" function to the\nOmoide Projector! The \"Omoide Link\" feature\nallows you to save the event scenes that this\n<br>\ncharacter has seen on the Omoide Projector to\nyour account. Once an event scene has been\nsaved to your account, it can be skipped by\n<br>\nany other character in the same account!\nHowever, please note that event scenes with\nimportant choices during the event cannot be\n<br>\nskipped..."
   },
   "301318": {
-    "おもいで映写機にのっている　イベントシーンを\n同じアカウント内の　他キャラクターでも\nスキップできるように　保存しますか？\n<yesno 2><break>": "Do you want to save the event scene on the\nOmoide Projector so that other characters on\nthe same account can skip it?<yesno 2><break>"
+    "おもいで映写機にのっている　イベントシーンを\n同じアカウント内の　他キャラクターでも\nスキップできるように　保存しますか？\n<yesno 2><break>": "Save the cutscenes you've already watched to\nyour account, so that other characters who\nview them will have the option to skip them?\n<yesno 2><break>"
   },
   "301319": {
-    "おもいで映写機にのっている　イベントシーンを\n同じアカウント内の　他キャラクターでも\nスキップできるように　保存しますか？\n<yesno 2><break>": "Do you want to save the event scene on the\nOmoide Projector so that other characters on\nthe same account can skip it?<yesno 2><break>"
+    "おもいで映写機にのっている　イベントシーンを\n同じアカウント内の　他キャラクターでも\nスキップできるように　保存しますか？\n<yesno 2><break>": "Save the cutscenes you've already watched to\nyour account, so that other characters who\nview them will have the option to skip them?\n<yesno 2><break>"
   },
   "301320": {
-    "おもいで映写機にのっている　イベントシーンを\nアカウントに　保存しました！\n<br>\nこのキャラが見ている　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになりました！": "You've saved the event scene from the Omoide\nProjector to your account! The event scene\nthis character is watching can now be skipped\n<br>\nby any other character in the same account!"
+    "おもいで映写機にのっている　イベントシーンを\nアカウントに　保存しました！\n<br>\nこのキャラが見ている　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになりました！": "You've saved your viewed cutscene history\nto your account!\n<br>\nNow any cutscenes you've already seen can\nbe skipped by any other character on your\naccount!"
   },
   "301321": {
-    "おもいで映写機にのっている　イベントシーンを\nアカウントに　保存しました！\n<br>\nこのキャラが見ている　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになりました！": "You've saved the event scene from the Omoide\nProjector to your account! The event scene\nthis character is watching can now be skipped\n<br>\nby any other character in the same account!"
+    "おもいで映写機にのっている　イベントシーンを\nアカウントに　保存しました！\n<br>\nこのキャラが見ている　イベントシーンは\n同じアカウント内の　他キャラクターでも\nスキップできるようになりました！": "You've saved your viewed cutscene history\nto your account!\n<br>\nNow any cutscenes you've already seen can\nbe skipped by any other character on your\naccount!"
   },
   "301322": {
-    "このキャラが見ている　イベントシーンは\nすでに　スキップ可能になっています。": "The event scene this character is watching\nhas already been made skippable..."
+    "このキャラが見ている　イベントシーンは\nすでに　スキップ可能になっています。": "The cutscenes this character has watched have\nalready been made skippable."
   },
   "301323": {
-    "このキャラが見ている　イベントシーンは\nすでに　スキップ可能になっています。": "The event scene this character is watching\nhas already been made skippable..."
+    "このキャラが見ている　イベントシーンは\nすでに　スキップ可能になっています。": "The cutscenes this character has watched have\nalready been made skippable."
   },
   "301324": {
-    "家を建ててから　庭具を配置してください。\n<end>": "Place garden furniture after the house is\nbuilt.\n<end>"
+    "家を建ててから　庭具を配置してください。\n<end>": "Please try placing outdoor furniture once\nyour house is built.\n<end>"
   },
   "301325": {
-    "家を建ててから　庭具を配置してください。\n<end>": "Place garden furniture after the house is\nbuilt.\n<end>"
+    "家を建ててから　庭具を配置してください。\n<end>": "Please try placing outdoor furniture once\nyour house is built.\n<end>"
   },
   "301326": {
     "この家具は　庭具ではないので\n室内に置いてください。\n<end>": "This is not garden furniture and can only\nbe placed indoors.\n<end>"
