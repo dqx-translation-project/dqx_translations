@@ -12,7 +12,7 @@
     "「Key1」は削除できません。": "You cannot delete Key1."
   },
   "79803": {
-    "「%s」キーと入れ替えることはできません。": "The %s key is not interchangeable."
+    "「%s」キーと入れ替えることはできません。": "The %s key cannot be changed."
   },
   "79804": {
     "この操作には設定できないキーの組み合わせです。\n他のキーを設定してください。": "You cannot use this key combination.\nPlease set a different key."
@@ -42,16 +42,16 @@
     "おすすめ設定が完了しました。\n・画面解像度　　　　　%s\n・グラフィックス設定　%s\n・フレームレート　　　%s": "Recommended settings complete.\n・Screen resolution: %s\n・Graphics settings: %s\n・Frame rate: %s"
   },
   "79814": {
-    "設定するプレイヤーの環境設定を\nご使用のPCの性能に適した設定へ変更します。\n　※ゲームプレイ中は「おすすめ設定を行う」を使用できません。": "Change the preferences of the selected player to\nsettings that are appropriate for your PC.\n※\"Recommended Settings\" is unavailable during gameplay."
+    "設定するプレイヤーの環境設定を\nご使用のPCの性能に適した設定へ変更します。\n　※ゲームプレイ中は「おすすめ設定を行う」を使用できません。": "Change the preferences of the selected player to\nsettings that are appropriate for your PC.\n(This is unavailable while the game is running.)"
   },
   "79815": {
-    "ゲーム画面を表示する、ウィンドウのモードを設定します。\n　- 通常ウィンドウモード\n　　　ゲーム画面のサイズを「画面解像度」で設定した解像度にあわせます。\n　- フルスクリーンモード\n　　　ゲーム画面をディスプレイのサイズに合わせて、画面いっぱいに表示しますが、\n　　　解像度は「画面解像度」の設定が適用されます。\n　- 仮想フルスクリーンモード\n　　　ゲーム画面をディスプレイのサイズに合わせて、画面いっぱいに表示しますが、\n　　　「通常ウィンドウモード」と同じウィンドウモードで起動します。\n　　　解像度は適したものが自動的に適用されます。\n　※この項目は、ゲームを再起動するまで反映されません。": "Sets the screen type for gameplay.\n・Windowed Mode\n         - Adjusts the size of the game window to the resolution set in \"Screen Resolution\".\n・Exclusive Full Screen Mode\n         - The game screen will fit to the size of the display.\n         - You can configure the screen resolution for this mode.\n         - Your mouse will be locked to the game's window.\n・Virtual Full Screen Mode (Borderless Windowed Mode)\n         - The game window will maximize to the size of your current display resolution.\n         - Your mouse will not be locked to the game's window.\n         - Screen resolution cannot be configured for this setting.\n※Settings will take effect on a restart of the game."
+    "ゲーム画面を表示する、ウィンドウのモードを設定します。\n　- 通常ウィンドウモード\n　　　ゲーム画面のサイズを「画面解像度」で設定した解像度にあわせます。\n　- フルスクリーンモード\n　　　ゲーム画面をディスプレイのサイズに合わせて、画面いっぱいに表示しますが、\n　　　解像度は「画面解像度」の設定が適用されます。\n　- 仮想フルスクリーンモード\n　　　ゲーム画面をディスプレイのサイズに合わせて、画面いっぱいに表示しますが、\n　　　「通常ウィンドウモード」と同じウィンドウモードで起動します。\n　　　解像度は適したものが自動的に適用されます。\n　※この項目は、ゲームを再起動するまで反映されません。": "Sets the screen type for gameplay.\n・Windowed Mode\n         - Adjusts the size of the game window to the resolution set in \"Screen Resolution\".\n・Exclusive Full Screen Mode\n         - The game screen will fit to the size of the display.\n         - You can configure the screen resolution for this mode.\n         - Your mouse will be locked to the game's window.\n・Virtual Full Screen Mode (Borderless Windowed Mode)\n         - The game window will maximize to the size of your current display resolution.\n         - Your mouse will not be locked to the game's window.\n         - Screen resolution cannot be configured for this setting.\n(Settings will take effect upon game restart.)"
   },
   "79816": {
-    "通常ウィンドウモードや、フルスクリーンモードの\nゲーム画面の解像度を設定できます。\n　※この項目は、ゲームを再起動するまで反映されません。": "Sets the resolution of the game window in Windowed Mode\nor Exclusive Full Screen Mode.\n※Will not take effect until a game restart."
+    "通常ウィンドウモードや、フルスクリーンモードの\nゲーム画面の解像度を設定できます。\n　※この項目は、ゲームを再起動するまで反映されません。": "Sets the resolution of the game window in Windowed Mode\nor Exclusive Full Screen Mode.\n(Will not take effect until a game restart.)"
   },
   "79817": {
-    "画面の明るさを変更できます。": "Change the brightness of the window."
+    "画面の明るさを変更できます。": "Change the screen brightness."
   },
   "79818": {
     "ゲームプレイ中の、ティアリング（表示がゆがんだり、ちらついて見える現象）を\n抑える処理の挙動を設定します。\n　- チェックあり\n　　　処理が有効になりますが、動作が重くなる場合があります。\n　- チェックなし\n　　　処理が無効になりますが、動作が軽くなる場合があります。\n　※この項目は、ゲームを再起動するまで反映されません。": "Reduce screen tearing (display distortion and flickering) during gameplay.\n・Checked\n        - Enables this behavior with a potential hit on performance.\n・Unchecked\n        - Disables this behavior.\n※Will not take effect until a game restart."
@@ -249,13 +249,13 @@
     "グラフィックス設定のプリセット：": "Graphic preset settings"
   },
   "79885": {
-    "最高品質": "Best Qual."
+    "最高品質": "Best"
   },
   "79886": {
-    "標準品質": "Std Qual."
+    "標準品質": "Standard"
   },
   "79887": {
-    "低品質": "Low Qual."
+    "低品質": "Low"
   },
   "79888": {
     "多い": "Many"
@@ -270,10 +270,10 @@
     "サウンド": "Sound"
   },
   "79892": {
-    "　ゲーム画面が非アクティブでもサウンドを再生する": "  Play sound even when the game screen is inactive"
+    "　ゲーム画面が非アクティブでもサウンドを再生する": "  Play sound even when the game screen is inactive."
   },
   "79893": {
-    "ボリューム設定": "Volume settings"
+    "ボリューム設定": "Volume Settings"
   },
   "79894": {
     "BGM": "BGM"
@@ -294,22 +294,22 @@
     "おすすめ設定を行うと、ご使用の\nPCに適した設定になります。": "Recommended settings\nThis setting is suitable for PCs."
   },
   "79900": {
-    "キャラクター操作の設定": "Chracter Settings"
+    "キャラクター操作の設定": "Character Settings"
   },
   "79901": {
     "カメラ操作の設定": "Camera Settings"
   },
   "79902": {
-    "アナログスティックの感度設定": "Set analog stick sensitivity"
+    "アナログスティックの感度設定": "Analog Stick Sensitivity"
   },
   "79903": {
-    "カーソル操作の設定": "Set up Cursor"
+    "カーソル操作の設定": "Cursor Settings"
   },
   "79904": {
-    " ゲーム画面が\n 非アクティブでも反応する": " Game screen reacts\n to inactivity"
+    " ゲーム画面が\n 非アクティブでも反応する": " Game will respond to inputs\n even when inactive."
   },
   "79905": {
-    "キャラクター操作の設定": "Chracter Settings"
+    "キャラクター操作の設定": "Character Settings"
   },
   "79906": {
     " キャラクターの移動操作に使用する\n 左側のアナログスティックを設定します。\n まず、左側のアナログスティックを\n 「上」に倒したまま\n ボタンを何か押してください。": " Sets the left analog stick to be\n used for character movement.\n First, hold the left analog stick\n \"up\" and press any button."
@@ -318,7 +318,7 @@
     " 続いて、左側のアナログスティックを\n 「右」に倒したまま\n ボタンを何か押してください。": " Then, hold the left analog stick\n \"right\" and press any button."
   },
   "79908": {
-    " これで左側のアナログスティックは\n 設定が完了しました。\n 設定した操作を確認してください。\n これでよろしければ\n ボタンを何か押してください。": " The left analog stick is now configured.\n Verify the operation you have set.\n If you are happy with this,\n please press any button."
+    " これで左側のアナログスティックは\n 設定が完了しました。\n 設定した操作を確認してください。\n これでよろしければ\n ボタンを何か押してください。": " The left analog stick is now configured.\n Double check that it works correctly.\n If everything is correct, please press\n any button to finish."
   },
   "79909": {
     "カメラ操作の設定": "Camera Settings"
@@ -327,16 +327,16 @@
     " カメラ操作に使用する\n 右側のアナログスティックを設定します。\n まず、右側のアナログスティックを\n 「上」に倒したまま\n ボタンを何か押してください。": " Set the analog stick on the right\n side to be used for camera operation.\n First, hold the right analog stick\n \"up\" and press any button."
   },
   "79911": {
-    " たて移動・よこ移動の操作変更は、ゲーム内\n 「さくせん」コマンドの「いろいろ設定」の\n 「画面視点設定」で変更できます。": " The vertical and horizontal movement\n can be changed in the \"Viewpoint Settings\" section\n of the \"Various Settings\" menu in the game."
+    " たて移動・よこ移動の操作変更は、ゲーム内\n 「さくせん」コマンドの「いろいろ設定」の\n 「画面視点設定」で変更できます。": "Vertical and horizontal movement can be\nchanged in-game under \"Misc.\", \"Settings\",\nthen \"Preferences\"."
   },
   "79912": {
     " 続いて、右側のアナログスティックを\n 「右」に倒したまま\n ボタンを何か押してください。": " Then, hold the right analog stick\n to the \"right\" position and press any button."
   },
   "79913": {
-    " これで右側のアナログスティックは\n 設定が完了しました。\n 設定した操作を確認してください。\n これでよろしければ\n ボタンを何か押してください。": " The right analog stick is now configured.\n If you are satisfied with this, press any button."
+    " これで右側のアナログスティックは\n 設定が完了しました。\n 設定した操作を確認してください。\n これでよろしければ\n ボタンを何か押してください。": " The right analog stick is now configured.\n If everything is correct, please press\n any button to finish."
   },
   "79914": {
-    "アナログスティックの感度設定": "Set analog stick sensitivity"
+    "アナログスティックの感度設定": "Analog Stick Sensitivity"
   },
   "79915": {
     "感度": "Sens."
@@ -348,10 +348,10 @@
     "アナログスティック(右)": "Analog Stick (Right)"
   },
   "79918": {
-    " アナログスティックの感度を設定できます。\n 感度を高くすると、アナログスティックが効きやすくなり、\n 感度を低くすると、アナログスティックの反応が鈍くなります。": " Sets the sensitivity of the analog stick.\n Higher sensitivity makes it easier to work the stick.\n Lower sensitivity reduces responsiveness."
+    " アナログスティックの感度を設定できます。\n 感度を高くすると、アナログスティックが効きやすくなり、\n 感度を低くすると、アナログスティックの反応が鈍くなります。": " Sets the sensitivity of the analog sticks.\n If your character moves slowly in diagonal directions,\n try increasing the sensitivity level."
   },
   "79919": {
-    "カーソル操作の設定": "Set up Cursor"
+    "カーソル操作の設定": "Cursor Settings"
   },
   "79920": {
     " カーソルの移動操作に使用する\n 方向キーを設定します。\n まず、方向キーの「上」を押したまま\n ボタンを何か押してください。": " Sets the direction keys to\n be used for cursor movement operations.\n First, hold down the \"up\" directional\n key and press any button."
@@ -387,10 +387,10 @@
     "ドラゴンクエストX ゲームコントローラ for PC": "Dragon Quest X Game Controller for PC"
   },
   "79931": {
-    "Xinput対応ゲームパッド[12ボタン]": "Xinput-compatible Gamepad[12 Buttons]"
+    "Xinput対応ゲームパッド[12ボタン]": "Xinput Compatible Gamepad [12 Buttons]"
   },
   "79932": {
-    "DirectInput対応ゲームパッド[16ボタン]": "DirectInput-compatible Gamepad[16 Buttons]"
+    "DirectInput対応ゲームパッド[16ボタン]": "DirectInput Compatible Gamepad [16 Buttons]"
   },
   "79933": {
     "ゲームパッドの操作タイプを設定します。\n　※Xinput、DirectInputの両方に対応したゲームパットの場合は、\n　　Xinputでの接続をお勧めします。\n　- ドラゴンクエストX ゲームコントローラ for PC\n　- ELECOM JC-U3613Mシリーズ（Xinput）\n　- ELECOM JC-U3613Mシリーズ（DirectInput）\n　- ロジクール F310 ゲームパッド（Xinput）\n　- ロジクール F310 ゲームパッド（DirectInput）\n　　　ドラゴンクエストＸの推奨ゲームパッドをご使用の場合は、\n　　　こちらの設定にすると遊びやすくなっています。\n　　　（XinputとDirectInputの切り替えができる場合は、\n　　　　ゲームパッドの設定に合わせたプリセットをご使用ください。）\n　- Xinput対応ゲームパッド[12ボタン]\n　　　Xinput対応のゲームパッド用の、汎用的なプリセットです。\n　- DirectInput対応ゲームパッド[16ボタン]\n　　　DirectInput対応の16ボタン用ゲームパッド用の、汎用的なプリセットです。": "Sets the gamepad operation type.\n  - In case your gamepad supports both Xinput and DirectInput,\nit is recommended to connect via Xinput.\n - Dragon Quest X Game Controller for PC\n  - ELECOM JC-U3613M Series (Xinput)\n  - ELECOM JC-U3613M Series (DirectInput)\n  - Logitech F310 Gamepad (Xinput)\n - Logitech F310 Gamepad (DirectInput)\n If you are using the recommended gamepad for Dragon Quest X,\n it will be easier to play with this setting.\n (If you can switch between Xinput and DirectInput)\n  Please use a preset that matches your gamepad's settings.\n  - Xinput-compatible Gamepad[12 Buttons]\n  This is a generic preset for Xinput-compatible gamepads.\n - DirectInput compatible gamepad[16 Buttons]\n This is a generic preset for 16-button gamepads that support DirectInput."
@@ -1257,13 +1257,13 @@
     "詳細な設定を行う": "Advanced Settings"
   },
   "99435": {
-    "他のプレイヤーにも反映": "Apply to other players"
+    "他のプレイヤーにも反映": "Apply to Other Players"
   },
   "99436": {
-    "その他の設定": "Other settings"
+    "その他の設定": "Other Settings"
   },
   "99437": {
-    "ゲーム起動時にランチャーを終了させる": "Quit the launcher when the game starts"
+    "ゲーム起動時にランチャーを終了させる": "Exit launcher when game starts."
   },
   "99438": {
     "多重起動時に別のウィンドウに切り替える": "Switch to another window during multiple launches"
@@ -1278,7 +1278,7 @@
     "ゲームパッドが接続されていません。\nキーコンフィグを設定したいゲームパッドを\n接続してください。": "A gamepad is not connected.\nPlease connect the gamepad you want\nto set a key configuration for."
   },
   "99442": {
-    "設定が変更されています。\nキャンセルすると、編集した設定が保存されませんが\nよろしいですか？": "The settings have been changed. \nIf you cancel, the edited settings will not be saved\n Are you sure?"
+    "設定が変更されています。\nキャンセルすると、編集した設定が保存されませんが\nよろしいですか？": "Some settings have pending changes.\nIf you cancel, any changes will not be saved.\nAre you sure?"
   },
   "99443": {
     "どのプレイヤーに反映しますか？\n（環境設定のすべての情報が反映されます。）": "Which players will be reflected? \n (All information in the preferences will be reflected.)"
