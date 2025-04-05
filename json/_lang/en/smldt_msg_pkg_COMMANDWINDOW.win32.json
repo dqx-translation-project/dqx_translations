@@ -1992,7 +1992,7 @@
     "<%sM_monster>が　仲間（待機中）に加わった！\nあと<%dM_bar>匹まで　仲間にできます。<me 61>": "<%sM_monster> has joined the\n(waiting) group! You can have up to <%dM_bar> more\nof them.<me 61>"
   },
   "33426": {
-    "<%sM_pc>は　<%sM_monster_name>を　連れているため\n<%sM_monster>を　連れていけません。": "You cannot take <%sM_monster>\nbecause <%sM_monster_name> is already\nwith you."
+    "<%sM_pc>は　<%sM_monster_name>を　連れているため\n<%sM_monster>を　連れていけません。": "You cannot take this monster\nbecause <%sM_monster_name> is already\nin your party."
   },
   "33427": {
     "どちらのモンスターを\nモンスター酒場に　送りますか？<break>": "Send which monster to the monster tavern?<break>"
@@ -2007,7 +2007,7 @@
     "<speed=0><%sM_item>を　読んだ。": "<speed=0>Read the <%sM_item>."
   },
   "33488": {
-    "<%sM_pc>は\n<%sM_monster>を\n仲間にする方法を　覚えた！\n<se_nots System 7>\n<br>\n<color_yellow><%sM_monster>に\n特技「スカウトアタック」を　使ってみよう！<color_white>\n<br>\n<%sM_item>は\n光に包まれ　消え去った！": "<%sM_pc> learned how to scout\n<%sM_monster>!\n<se_nots System 7>\n<br>\n<color_yellow>Try using \"Scout Attack\" on the\n<%sM_monster>!<color_white>\n<br>\n<%sM_item> disappeared in a\nflash of light!"
+    "<%sM_pc>は\n<%sM_monster>を\n仲間にする方法を　覚えた！\n<se_nots System 7>\n<br>\n<color_yellow><%sM_monster>に\n特技「スカウトアタック」を　使ってみよう！<color_white>\n<br>\n<%sM_item>は\n光に包まれ　消え去った！": "<%sM_pc> learns how to scout\n<%sM_monster>!\n<se_nots System 7>\n<br>\n<color_yellow>Try using \"Scout Strike\" on the\n<%sM_monster>!<color_white>\n<br>\n<%sM_item> disappears in a\nflash of light!"
   },
   "33489": {
     "<speed=0>仲間モンスターが　待機中のため\n確認することができません。\n参加中にしてから　ご確認ください。　": "<speed=0>Cannot confirm since fellow monster is\ncurrently on Standby. Please check again when\nit's Active."
@@ -2208,7 +2208,7 @@
     "<speed=0><%sM_pc>の　チーム勧誘の受信数が\n上限に達しています。\n時間を置いて　もう一度お試しください。": "<speed=0>The maximum number of team invites received\nfor <%sM_pc> has been reached."
   },
   "36426": {
-    "なんと　<%sM_monster>が　起きあがり\n仲間になりたそうに　こちらを見ている！": "Looks like <%sM_monster> got up and wants\nto be friends!"
+    "なんと　<%sM_monster>が　起きあがり\n仲間になりたそうに　こちらを見ている！": "What's this?! The monster gets up and looks\nover as if it wants to join the party!"
   },
   "36427": {
     "しかし　<%sM_pc>は　仲間にしている\n仲間モンスターが　いっぱいのため\nこれ以上　仲間モンスターを　増やせない！\n<br>\n他の仲間モンスター1匹と　お別れして\n<%sM_monster>を　仲間にしますか？<yesno><break>": "But you've reached the limit on how many\nmonsters you can scout, and cannot scout\nany more!\n<br>\nPart ways with one of your monsters to make\nroom for <%sM_monster>?<yesno><break>"
@@ -2217,7 +2217,7 @@
     "<%sM_delete>と　別れてしまうと　二度と\nこの　<%sM_delete>は　仲間にできませんが\n本当に　別れてしまって　よろしいですか？<se_nots System 0><break>": "If you part ways with <%sM_delete>, this\n<%sM_delete> will never be able to join you\nagain. Are you sure you want me to part ways?<se_nots System 0><break>"
   },
   "36429": {
-    "<%sM_monster>に　ここで　名前をつけますか？\n<color_yellow>※モンスター酒場で　いつでも変更できます。<color_white><yesno><close>": "Name this monster <%sM_monster>?\n<color_yellow>Names can be changed at any time in any\nMonster Tavern.<color_white><yesno><close>"
+    "<%sM_monster>に　ここで　名前をつけますか？\n<color_yellow>※モンスター酒場で　いつでも変更できます。<color_white><yesno><close>": "Do you want to change this monster's name?\n<color_yellow>Names can be changed at any time in any\nMonster Tavern.<color_white><yesno><close>"
   },
   "36430": {
     "<%sM_monster_name>で　よろしいですか？<yesno><break>": "Is <%sM_monster_name> okay? <yesno><break>"
