@@ -222,7 +222,7 @@
     "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね。\n　こちらは　<%sL_SYOKUNIN>の方しか\n　装備できませんが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>... This one\ncan only be equipped with <%sL_SYOKUNIN>, is\nthat correct?<yesno><break>"
   },
   "14475": {
-    "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM> is to be\nequipped in two places, <%sL_EQUIP_POINT1>\nand <%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>\nrequires two hands to equip.\nIs that all right?\n<yesno><break>"
   },
   "14476": {
     "「ありがとうございます！\n　ここで　装備していきますか？\n<yesno 2><break>": "Many thanks! Do you want to equip it now?\n<yesno 2><break>"
@@ -318,7 +318,7 @@
     "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね。\n　こちらは　<%sL_SYOKUNIN>でないと\n　装備できませんが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>... This item\nmust be <%sL_SYOKUNIN> to equip, is that\ncorrect?<yesno><break>"
   },
   "14522": {
-    "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM> is to be\nequipped in two places, <%sL_EQUIP_POINT1>\nand <%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>\nrequires two hands to equip.\nIs that all right?\n<yesno><break>"
   },
   "14523": {
     "「お買い上げ　ありがとうございます。\n　すぐに　装備なさいますか？\n<yesno 2><break>": "Thank you very much.\nDo you want to equip it now?\n<yesno 2><break>"
@@ -1266,7 +1266,7 @@
     "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね。\n　こちらは　<%sL_SYOKUNIN>でないと\n　装備できませんが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>... This item\nmust be <%sL_SYOKUNIN> to equip, is that\ncorrect?<yesno><break>"
   },
   "119367": {
-    "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM> is to be\nequipped in two places, <%sL_EQUIP_POINT1>\nand <%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>\nrequires two hands to equip.\nIs that all right?\n<yesno><break>"
   },
   "119368": {
     "「お客さまが　出品されている物は\n　こちらになります。\n　取りやめたい物は　ございますか？\n<break>": "Here's what you're selling... Do you have any\nitems you'd like to withdraw?<break>"
@@ -1785,7 +1785,7 @@
     "<select_se_off>\nみぎて\nひだりて\n<select_end><break>": "<select_se_off>\nRight Hand\nLeft Hand\n<select_end><break>"
   },
   "266527": {
-    "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM> is to be\nequipped in two places, <%sL_EQUIP_POINT1>\nand <%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>\nrequires two hands to equip.\nIs that all right?\n<yesno><break>"
   },
   "266528": {
     "<speed=0><pc>は\n<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！\n<end>": "<speed=0><pc> equips the\n<%sL_KAITAI_ITEM><%sL_PLUSNUM>!\n<end>"
