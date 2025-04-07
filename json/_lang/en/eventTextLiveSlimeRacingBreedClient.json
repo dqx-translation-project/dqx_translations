@@ -6,7 +6,7 @@
     "「すごい！\n　<%sM_ACTIVE_SLIME>ちゃんの　姿が\n　変わったわ！\n<br>\n「きっと　この子なりに　あなたの\n　<%sM_ACTIVE_SLIME>ちゃんへの　気持ちに\n　こたえようとしたのね！\n<br>\n「うらやましい……。\n<bw_break>": "Amazing!\n<%sM_ACTIVE_SLIME>'s appearance changed!\n<br>\nI'm sure it was your slime responding to your\nfeelings towards it!\n<br>\nI'm a little jealous...\n<bw_break>"
   },
   "208901": {
-    "<speed=0>\n<%sM_ACTIVE_SLIME>は　<pc>に　なだめられ\n姿を　変えることはなかった……。\n<end>": "<speed=0>\n<%sM_ACTIVE_SLIME> was soothed by <pc>,\nbut its appearance didn't change...\n<end>"
+    "<speed=0>\n<%sM_ACTIVE_SLIME>は　<pc>に　なだめられ\n姿を　変えることはなかった……。\n<end>": "<speed=0>\n<%sM_ACTIVE_SLIME> is soothed by\n<pc>, but its appearance didn't\nchange...\n<end>"
   },
   "208902": {
     "なにやら　<%sM_ACTIVE_SLIME>は\n姿を　変えようとしているようだ。\n<%sM_ACTIVE_SLIME>を　なだめて　変化を止めますか？\n<yesno2><break>": "It seems that <%sM_ACTIVE_SLIME> is\ntrying to change its appearance. Do you\nwant to soothe them and stop the change?\n<yesno2><break>"
@@ -63,7 +63,7 @@
     "「<%sM_ACTIVE_SLIME>ちゃんは　今回のレースを\n　走り切って　レベルが上がったみたいよ！\n<end>": "It seems <%sM_ACTIVE_SLIME>'s level\nhas risen from completing the race!\n<end>"
   },
   "208920": {
-    "<speed=0>\n<%sM_ACTIVE_SLIME>は　レベル<%nM_SLIME_LV>に　上がった！\n<me_57><end>": "<speed=0>\n<%sM_ACTIVE_SLIME>'s level has risen to <%dM_SLIME_LV>!\n<me_57><end>"
+    "<speed=0>\n<%sM_ACTIVE_SLIME>は　レベル<%nM_SLIME_LV>に　上がった！\n<me_57><end>": "<speed=0>\n<%sM_ACTIVE_SLIME> reaches Lv. <%dM_SLIME_LV>!\n<me_57><end>"
   },
   "208921": {
     "「今回のレースで　<%sM_ACTIVE_SLIME>ちゃんは\n　レベルが　上がったから\n　追加で　<%nM_FEED_LEFT>つ　エサを与えられるわ。\n<bw_break>": "Because <%sM_ACTIVE_SLIME>'s level has\nrisen from this race, it will be given an\nadditional <%dM_FEED_LEFT> feed.\n<bw_break>"
@@ -87,7 +87,7 @@
     "<speed=0>\n<%sM_ACTIVE_SLIME>が　仲間になった！\n<me 61><end>": "<speed=0>\n<%sM_ACTIVE_SLIME> became your friend!\n<me 61><end>"
   },
   "208928": {
-    "「<%sM_ACTIVE_SLIME>ちゃんの\n　パートナーになった　記念に\n　好きなエサを　３つ　食べさせてあげて。\n<br>\n「スライムは　エサを食べると　成長するの。\n　エサの種類で　成長する能力が決まるから\n　自分のスタイルに合わせて　選ぶといいわ。\n<bw_break>": "In commemoration of becoming partners with\n<%sM_ACTIVE_SLIME>, I'll let them eat food 3 times.\n<br>\nYour slime will grow when it is fed. The\ntype of food determines which stats will grow.\nChoose whichever feed suits your style best.\n<bw_break>"
+    "「<%sM_ACTIVE_SLIME>ちゃんの\n　パートナーになった　記念に\n　好きなエサを　３つ　食べさせてあげて。\n<br>\n「スライムは　エサを食べると　成長するの。\n　エサの種類で　成長する能力が決まるから\n　自分のスタイルに合わせて　選ぶといいわ。\n<bw_break>": "In commemoration of becoming partners with\n<%sM_ACTIVE_SLIME>, I'll let them eat\nfeed three times.\n<br>\nYour slime will grow when it is fed. The\ntype of feed determines which stats will grow.\nChoose whichever feed suits your style best.\n<bw_break>"
   },
   "208929": {
     "<speed=0>\n申し訳ありませんが\nその名前は　入力できません。\n<end>": "<speed=0>\nSorry, but you cannot use that name.\n<end>"
@@ -141,13 +141,13 @@
     "「すごいわ！　１着　おめでとう！\n　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。\n<bw_break>": "Amazing! Congratulations on first place!\nI'll give you <%dM_GOT_POINT> Casino Tokens.\n<bw_break>"
   },
   "208948": {
-    "「……４着でした。\n　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。\n<bw_break>": "...you placed fourth. Here's <%dM_GOT_POINT> Casino Tokens.\n<bw_break>"
+    "「……４着でした。\n　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。\n<bw_break>": "...You placed fourth.\nHere's <%dM_GOT_POINT> Casino Tokens.\n<bw_break>"
   },
   "208949": {
     "「うーん！　惜しかったわね。２着よ！\n　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。\n<bw_break>": "Good! You placed in second! I'll give you\n<%dM_GOT_POINT> Casino Tokens.\n<bw_break>"
   },
   "208950": {
-    "「あらら　残念。３着だったわ。\n　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。\n<bw_break>": "Hmm, sorry. You placed third. Here is <%dM_GOT_POINT>\nCasino Tokens.\n<bw_break>"
+    "「あらら　残念。３着だったわ。\n　カジノコイン　<%nM_GOT_POINT>枚を　渡すわね。\n<bw_break>": "Hmm, sorry. You placed third. Here's <%dM_GOT_POINT>\nCasino Tokens.\n<bw_break>"
   },
   "208951": {
     "「<%sM_GRADE>で　１着を取ったので\n　<%sM_GRADE_UP>に　参加できるようになったわよ！\n　ぜひ　出場してみてね！\n<end>": "You can now participate in <%sM_GRADE_UP>\nsince you placed first in <%sM_GRADE>!\nPlease give it a try!\n<end>"
@@ -198,7 +198,7 @@
     "「<%sM_ACTIVE_SLIME>ちゃんと\n　お別れして　いいかしら？\n<yesno><break>": "Will you really part with <%sM_ACTIVE_SLIME>?\n<yesno><break>"
   },
   "208969": {
-    "「<%sM_ACTIVE_SLIME>ちゃんと　本当にお別れするの？\n　お別れすると　もう二度と\n　この子で　走れなくなってしまうわよ。\n<break>": "Are you absolutely sure you want to part with\n<%sM_ACTIVE_SLIME>? If you say goodbye, you won't\nbe able to race with them ever again.\n<break>"
+    "「<%sM_ACTIVE_SLIME>ちゃんと　本当にお別れするの？\n　お別れすると　もう二度と\n　この子で　走れなくなってしまうわよ。\n<break>": "Are you absolutely sure you want to part with\n<%sM_ACTIVE_SLIME>? If you say goodbye, you\nwon't be able to race with them ever again.\n<break>"
   },
   "208970": {
     "「そこは　空き部屋よ。\n　スライムがいる部屋を選んでね。\n<bw_break>": "That room is vacant. Please choose a room\nwith a slime.\n<bw_break>"
@@ -264,7 +264,7 @@
     "「あれ……。　今は　スカウトしないのね。\n　スライムレースに　参加するには　\n　ここで　スカウトする必要があるわよ。\n<end>": "Hey... you're going to scout now, aren't you?\nYou can't participate in a Slime Race unless\nyou scout here first.\n<end>"
   },
   "212114": {
-    "「<%sM_ACTIVE_SLIME>ちゃんは　まだまだ成長するから\n　特訓する必要が　ないわね。レベル１０になると\n　特訓の成果が　発揮されるようになるわ。\n<bw_break>": "<%sM_ACTIVE_SLIME> is still growing, so there's no\nneed for any special training. Your training\nwill pay off once it reaches level 10.\n<bw_break>"
+    "「<%sM_ACTIVE_SLIME>ちゃんは　まだまだ成長するから\n　特訓する必要が　ないわね。レベル１０になると\n　特訓の成果が　発揮されるようになるわ。\n<bw_break>": "<%sM_ACTIVE_SLIME> is still growing, so there's no\nneed for any special training. Its training\nwill pay off once it reaches level 10.\n<bw_break>"
   },
   "215186": {
     "「<%sM_ACTIVE_SLIME>ちゃんは　マスターⅠを\n　解放したから　マスターⅠ以外の育成レースに\n　参加することは　できないわ。\n<bw_break>": "<%sM_ACTIVE_SLIME> has unlocked Master Ⅰ,\nso it can't participate in any training race\nother than Master Ⅰ.\n<bw_break>"
@@ -279,6 +279,6 @@
     "「<%sM_TOKUGI_NEW>を　覚えるには　今　覚えている\n　常に効果がある　とくぎを忘れる必要があるわ。\n　忘れる　とくぎを　選んであげて。\n<break>": "In order to learn <%sM_TOKUGI_NEW>, it will\nhave to forget the passive skill it already\nknows. Please choose the skill to forget.\n<break>"
   },
   "283065": {
-    "「スライムレース場へ　ようこそ！\n　ここでは　スライムの育成ができるわ。\n<br>\n「あら？　新しいお知らせを\n　まだ　伝えてなかったわね。\n　ええと……\n<br>\n「新しいスライムが　加わったみたい。\n　ドラゴスライムちゃんって　言うんだけど\n　とっても強いとくぎが　使える子みたいね。\n<br>\n「それと……\n<br>\n「スライムタワーちゃんの\n　つよさが　変わったみたいなの。\n　確かめてみてね。\n<br>\n「他にも　いくつかのとくぎの　強さや\n　消費ＭＰが　変わったみたいだから　\n　いろんなスライムを育てて　試してみて。　\n<br>\n「……っと。\n　新しいお知らせは　こんな感じね。\n　それじゃあ……\n<bw_break>": ""
+    "「スライムレース場へ　ようこそ！\n　ここでは　スライムの育成ができるわ。\n<br>\n「あら？　新しいお知らせを\n　まだ　伝えてなかったわね。\n　ええと……\n<br>\n「新しいスライムが　加わったみたい。\n　ドラゴスライムちゃんって　言うんだけど\n　とっても強いとくぎが　使える子みたいね。\n<br>\n「それと……\n<br>\n「スライムタワーちゃんの\n　つよさが　変わったみたいなの。\n　確かめてみてね。\n<br>\n「他にも　いくつかのとくぎの　強さや\n　消費ＭＰが　変わったみたいだから　\n　いろんなスライムを育てて　試してみて。　\n<br>\n「……っと。\n　新しいお知らせは　こんな感じね。\n　それじゃあ……\n<bw_break>": "Welcome to the Slime Races!\nYou can train your slimes here.\n<br>\nOh? I haven't told you the news yet.\nLet's see...\n<br>\nA new type of slime has been added: the Drake\nSlime! I guess it's got some pretty powerful\nskills.\n<br>\nOh, also...\n<r>\nIt seems the Slime Stack's stats have changed,\nso be sure to give it a good look.\n<br>\nThe strength of some skills and their MP costs\nseemed to have changed too, so experiment\nraising different slimes to see what's new.\n<br>\n...And that's it for the new information.\nNow then...\n<bw_break>"
   }
 }
