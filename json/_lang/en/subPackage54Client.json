@@ -141,7 +141,7 @@
     "マホカンタ": "Bounce"
   },
   "619": {
-    "キラキラガード": "Ailment Aegis"
+    "キラキラガード": "Ailment Away"
   },
   "630": {
     "ハッスルレイン": "Hustle Rain"
@@ -225,10 +225,10 @@
     "ハッスルレインで回復": "Hustle Rain Recovery"
   },
   "894": {
-    "キラキラガードで\n無効化した！": "Nullifed with\nAilment Aegis!"
+    "キラキラガードで\n無効化した！": "Nullifed with\nAilment Away!"
   },
   "916": {
-    "ミラクルスピンで\nスタミナが回復した！": "Recovered stamina\nfrom Miracle Spin!"
+    "ミラクルスピンで\nスタミナが回復した！": "Recovered Stamina\nfrom Miracle Spin!"
   },
   "944": {
     "（なし）": "(None)"
@@ -240,7 +240,7 @@
     "ハイスピードで\n走り抜ける": "Run at high\nspeed."
   },
   "983": {
-    "一定時間\n加速する": "Accelerate for\na time."
+    "一定時間\n加速する": "Accelerate for\na short while."
   },
   "996": {
     "一定時間\n無敵状態で\nかけぬける": "Become invincible\nfor a\nduration."
@@ -249,34 +249,34 @@
     "スタミナが\n１０回復する": "Recovers 10\nStamina."
   },
   "1037": {
-    "先頭の\nスタミナを奪う": "Steal the\nleader's Stamina."
+    "先頭の\nスタミナを奪う": "Steal the\nleading Slime's\nStamina."
   },
   "1053": {
-    "スタミナ切れの時\n急速に回復する\n常に効果がある": "Rapidly gain\nStamina when\nit runs out."
+    "スタミナ切れの時\n急速に回復する\n常に効果がある": "Rapidly recover\nStamina when\nit runs out."
   },
   "1088": {
-    "先頭を\n減速させる呪文": "Spell that\nslows the\nleader."
+    "先頭を\n減速させる呪文": "A spell that\nslows the\nleading Slime."
   },
   "1104": {
-    "他の全スライムに\n踏むと転ぶ\nバナナをしかける": "A banana that\ntrips all the\nother slimes."
+    "他の全スライムに\n踏むと転ぶ\nバナナをしかける": "Place bananas\nthat trip any\nwho step on it."
   },
   "1137": {
-    "他の全スライムを\n減速させる呪文": "Spell that slows\nother slimes."
+    "他の全スライムを\n減速させる呪文": "A spell that\nslows all\nother Slimes."
   },
   "1161": {
-    "一定時間\n妨害を受けると\nスタミナ回復する": "Recovers stamina\nfor a time\nwhen hit."
+    "一定時間\n妨害を受けると\nスタミナ回復する": "Recovers Stamina\nfor a bit\nwhen struck."
   },
   "1191": {
-    "先頭を\n転ばせる呪文": "Trips the\nleading\nslime."
+    "先頭を\n転ばせる呪文": "Trips the\nleading\nSlime."
   },
   "1206": {
-    "他の全スライムを\n転ばせる呪文": "A spell to trip\nall other\nslimes."
+    "他の全スライムを\n転ばせる呪文": "A spell to trip\nall other\nSlimes."
   },
   "1228": {
-    "先頭を転ばせる\n成功すると\nスタミナも減らす": "Trips the lead\nslime and lowers\ntheir Stamina."
+    "先頭を転ばせる\n成功すると\nスタミナも減らす": "Trips the lead\nSlime and lowers\ntheir Stamina."
   },
   "1260": {
-    "先頭を癒すが\n眠らせる呪文": "Lead slime\nheals and\nfalls asleep."
+    "先頭を癒すが\n眠らせる呪文": "A spell to heal\nand sleep the\nleading Slime."
   },
   "1279": {
     "受ける妨害を\nまれに無効化する\n常に効果がある": "Rarely negates\nany hits\nyou receive."
@@ -285,10 +285,10 @@
     "一定時間\n妨害を\nガードする": "Guards hits\nfor a while."
   },
   "1332": {
-    "一定時間\n妨害呪文を\nはねかえす": "Repel sabotaging\nspells for\na while."
+    "一定時間\n妨害呪文を\nはねかえす": "Repels hindering\nspells for\na while."
   },
   "1355": {
-    "他の全スライムの\nスタミナを奪う": "Steal stamina\nfrom other\nslimes."
+    "他の全スライムの\nスタミナを奪う": "Steals Stamina\nfrom all other\nSlimes."
   },
   "1379": {
     "妨害を\n１回ガードする\n発動まで消えない": "Guards a hit one\ntime. Lasts\nuntil hit."
@@ -303,7 +303,7 @@
     "バナナを踏んでも\n転ばない\n常に効果がある": "You won't trip\nover bananas\nanymore."
   },
   "1501": {
-    "がんばれ！\n<%sCAS_slime>！": "Do your best!\n<%sCAS_slime>!"
+    "がんばれ！\n<%sCAS_slime>！": "Do your best,\n<%sCAS_slime>!"
   },
   "1518": {
     "<%sCAS_slime>！\nダッシュ！": "<%sCAS_slime>!\nDash!"
@@ -312,7 +312,7 @@
     "<%sCAS_slime>！\nピオラ！": "<%sCAS_slime>!\nAccelerate!"
   },
   "1550": {
-    "<%sCAS_slime>！\n無敵アクセル！": "<%sCAS_slime>!\nUnrivaled Accel!"
+    "<%sCAS_slime>！\n無敵アクセル！": "<%sCAS_slime>!\nApex Accel!"
   },
   "1570": {
     "<%sCAS_slime>！\nホイミ！": "<%sCAS_slime>!\nHeal!"
@@ -321,7 +321,7 @@
     "<%sCAS_slime>！\nスタミナ吸収！": "<%sCAS_slime>!\nStamina Absorb!"
   },
   "1605": {
-    "<%sCAS_slime>！\n急速回復！": "<%sCAS_slime>!\nFast Recover!"
+    "<%sCAS_slime>！\n急速回復！": "<%sCAS_slime>!\nRapid Recovery!"
   },
   "1622": {
     "<%sCAS_slime>！\nボミエ！": "<%sCAS_slime>!\nDecelerate!"
@@ -342,7 +342,7 @@
     "<%sCAS_slime>！\nイオラ！": "<%sCAS_slime>!\nBoom!"
   },
   "1721": {
-    "<%sCAS_slime>！\nどくどくだま！": "<%sCAS_slime>!\nPoison Ball!"
+    "<%sCAS_slime>！\nどくどくだま！": "<%sCAS_slime>!\nPoison Gunk!"
   },
   "1741": {
     "<%sCAS_slime>！\nラリホー！": "<%sCAS_slime>!\nSnooze!"
@@ -360,10 +360,10 @@
     "<%sCAS_slime>！\nマホカンタ！": "<%sCAS_slime>!\nBounce!"
   },
   "1829": {
-    "<%sCAS_slime>！\nげんきトール！": "<%sCAS_slime>!\nEnergy Toll!"
+    "<%sCAS_slime>！\nげんきトール！": "<%sCAS_slime>!\nEnergy Drain!"
   },
   "1849": {
-    "<%sCAS_slime>！\nキラキラガード！": "<%sCAS_slime>!\nSparkle Guard!"
+    "<%sCAS_slime>！\nキラキラガード！": "<%sCAS_slime>!\nAilment Away!"
   },
   "1870": {
     "<%sCAS_slime>！\nハッスルレイン！": "<%sCAS_slime>!\nHustle Rain!"
@@ -564,7 +564,7 @@
     "妨害を１回ガード\nその後ジャンプ\n発動まで消えない": "Guard a hit once\nand then do\na jump."
   },
   "2977": {
-    "他の全スライムを\n２回攻撃し\n転ばせる呪文": "Attack other\nslimes 2 times\nand trip them."
+    "他の全スライムを\n２回攻撃し\n転ばせる呪文": "Attack other\nSlimes twice\nand trip them."
   },
   "3007": {
     "一定時間\n妨害をガードする\n足が遅くならない": "Guards against\nhits and slow\ndowns."
@@ -597,7 +597,7 @@
     "ドラゴメタル": "Metal Dragon Slime"
   },
   "3172": {
-    "イジワルしたがり": "Mean Demeanor"
+    "イジワルしたがり": "Bully Type"
   },
   "3185": {
     "いなずま": "Lightning"
