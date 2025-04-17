@@ -162,13 +162,13 @@
     "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) EXP!"
   },
   "1402": {
-    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ かくとく！": "Received <%dB_VALUE2> (＋<%dB_VALUE3>) Gold!"
+    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) Gold!"
   },
   "1427": {
-    "<%sB_TARGET>は 死の呪いで ちからつきた。": "<%sB_TARGET> has died from the curse."
+    "<%sB_TARGET>は 死の呪いで ちからつきた。": "<%sB_TARGET> dies from the curse."
   },
   "1454": {
-    "しかし 呪いで にげられない！": "But you can't escape the curse!"
+    "しかし 呪いで にげられない！": "But you can't escape because of the curse!"
   },
   "1475": {
     "？？？": "???"
@@ -189,16 +189,16 @@
     "相手に たどりつけなかった": "You couldn't reach the target."
   },
   "1570": {
-    "しかし 宝箱は 手に入らなかった。": "But you couldn't get the treasure chest."
+    "しかし 宝箱は 手に入らなかった。": "But you can't receive the treasure chest."
   },
   "1594": {
-    "<%sB_ACTOR>は まものたちから 何かを盗みとっていた！": "<%sB_ACTOR> stole something from the enemy!"
+    "<%sB_ACTOR>は まものたちから 何かを盗みとっていた！": "<%sB_ACTOR> steals something from the enemy!"
   },
   "1630": {
-    "<%sB_TARGET>は 呪いで ちからつきた。": "<%sB_TARGET> was cursed and weakened."
+    "<%sB_TARGET>は 呪いで ちからつきた。": "<%sB_TARGET> is cursed and weakened."
   },
   "1654": {
-    "<%sB_TARGET>は どくで ちからつきた。": "<%sB_TARGET> has been poisoned."
+    "<%sB_TARGET>は どくで ちからつきた。": "<%sB_TARGET> becomes poisoned."
   },
   "1678": {
     "スキルポイントの かくとく なし。": "No skill points earned."
@@ -246,10 +246,10 @@
     "<%sB_ACTOR>は\n<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値を かくとく！": "<%sB_ACTOR> receives\n<%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
   },
   "2097": {
-    "<%sB_ACTOR>は スカウトに失敗した。": "<%sB_ACTOR> failed to scout."
+    "<%sB_ACTOR>は スカウトに失敗した。": "<%sB_ACTOR> fails to scout."
   },
   "2120": {
-    "<%sB_TARGET>は たおされた。": "<%sB_TARGET> has been defeated."
+    "<%sB_TARGET>は たおされた。": "<%sB_TARGET> is defeated."
   },
   "2138": {
     "<%sB_ITEM>から <%sB_EXTRA>を ゲット！": "Received <%sB_EXTRA> from <%sB_ITEM>!"
@@ -624,7 +624,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>ポイントダウン！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e loses <%dB_VALUE> points!"
   },
   "6587": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e earns a new personal best!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e achieves a new personal best time!"
   },
   "6622": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位の ワールドレコードを記録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e records a World Record of Rank <%dB_VALUE>!"
@@ -636,13 +636,13 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>位に 匿名で ワールドレコードに登録した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e anonymously records their Rank <%dB_VALUE> World Record!"
   },
   "6771": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e earns a new personal best!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e achieves an all-time personal best time!"
   },
   "6811": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e earns a new monthly best!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e achieves new monthly best time!"
   },
   "6851": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代ランキング <%dB_VALUE>位 月間ランキング <%dB_VALUE2>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e places in the overall ranking as Rank <%dB_VALUE>\nand the monthly ranking as Rank <%dB_VALUE2>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代ランキング <%dB_VALUE>位 月間ランキング <%dB_VALUE2>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e places in the all-time ranking at Rank <%dB_VALUE>\nand the monthly ranking at Rank <%dB_VALUE2>!"
   },
   "6919": {
     "他のプレイヤーから名前が見える状態で　ランキングに登録されました。": "Registered in the ranking with name visible to others."
@@ -651,7 +651,7 @@
     "他のプレイヤーから名前が見えない状態で　ランキングに登録されました。": "Registered in the ranking with name not visible to others."
   },
   "7021": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間ランキング <%dB_VALUE>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e places in the monthly ranking as Rank <%dB_VALUE>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間ランキング <%dB_VALUE>位に 入賞しました！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e places in the monthly ranking at Rank <%dB_VALUE>!"
   },
   "7070": {
     "他のプレイヤーから名前が見える状態で　月間ランキングに登録されました。": "Registered in monthly ranking with name visible to others."
@@ -660,16 +660,16 @@
     "他のプレイヤーから名前が見えない状態で　月間ランキングに登録されました。": "Registered in monthly ranking with name not visible to others."
   },
   "7178": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal best of <%sB_VALUE>.<%sB_VALUE2> seconds!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e achieves a new all-time best time of <%sB_VALUE>.<%sB_VALUE2> sec.!"
   },
   "7231": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new monthly best of <%sB_VALUE>.<%sB_VALUE2> seconds!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e achieves a new monthly best time of <%sB_VALUE>.<%sB_VALUE2> sec.!"
   },
   "7284": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e achieves a new all-time best time of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
   },
   "7345": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e achieves a new monthly best time of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
   },
   "7406": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは スカウトに失敗した。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e failed to scout."
@@ -690,58 +690,58 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>が 使えるようになった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e can now use <%sB_ACTION>!"
   },
   "7631": {
-    "無制限部門の 歴代ランキング <%dB_VALUE>位 月間ランキング <%dB_VALUE2>位に 入賞しました！": "Placed in the overall ranking as Rank <%dB_VALUE> and the monthly\nranking as Rank <%dB_VALUE2> in the unlimited category!"
+    "無制限部門の 歴代ランキング <%dB_VALUE>位 月間ランキング <%dB_VALUE2>位に 入賞しました！": "Placed in the all-time ranking at Rank <%dB_VALUE> and the monthly\nranking at Rank <%dB_VALUE2> in the unlimited category!"
   },
   "7691": {
-    "無制限部門の 月間ランキング<%dB_VALUE>位に 入賞しました！": "Placed in the monthly ranking as Rank <%dB_VALUE>\nin the unlimited category!"
+    "無制限部門の 月間ランキング<%dB_VALUE>位に 入賞しました！": "Placed in the monthly ranking at Rank <%dB_VALUE>\nin the unlimited category!"
   },
   "7731": {
-    "職業重複なし部門の 歴代ランキング <%dB_VALUE>位 月間 <%dB_VALUE2>位に 入賞しました！": "Placed in the overall ranking as Rank <%dB_VALUE> and the\nmonthly ranking as Rank <%dB_VALUE2> in the unique category!"
+    "職業重複なし部門の 歴代ランキング <%dB_VALUE>位 月間 <%dB_VALUE2>位に 入賞しました！": "Placed in the all-time ranking at Rank <%dB_VALUE> and the\nmonthly ranking at Rank <%dB_VALUE2> in the unique category!"
   },
   "7788": {
-    "職業重複なし部門の 月間ランキング<%dB_VALUE>位に 入賞しました！": "Placed in the monthly ranking as Rank <%dB_VALUE>\nin the unique category!"
+    "職業重複なし部門の 月間ランキング<%dB_VALUE>位に 入賞しました！": "Placed in the monthly ranking at Rank <%dB_VALUE>\nin the unique category!"
   },
   "7833": {
-    "サポと１人で部門の 歴代ランキング <%dB_VALUE>位 月間 <%dB_VALUE2>位に 入賞しました！": "Placed in the overall ranking as Rank <%dB_VALUE> and the\nmonthly ranking as Rank <%dB_VALUE2> in the support category!"
+    "サポと１人で部門の 歴代ランキング <%dB_VALUE>位 月間 <%dB_VALUE2>位に 入賞しました！": "Placed in the all-time ranking at Rank <%dB_VALUE> and the\nmonthly ranking at Rank <%dB_VALUE2> in the support category!"
   },
   "7890": {
-    "サポと１人で部門の 月間ランキング<%dB_VALUE>位に 入賞しました！": "Placed in the monthly ranking as Rank <%dB_VALUE>\nin the support category!"
+    "サポと１人で部門の 月間ランキング<%dB_VALUE>位に 入賞しました！": "Placed in the monthly ranking at Rank <%dB_VALUE>\nin the support category!"
   },
   "7935": {
-    "無制限部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New personal best of <%sB_VALUE>.<%sB_VALUE2> sec.\nin the unlimited category!"
+    "無制限部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "Set a new all-time best time of <%sB_VALUE>.<%sB_VALUE2> sec.\nin the unlimited category!"
   },
   "7980": {
-    "無制限部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New monthly best of <%sB_VALUE>.<%sB_VALUE2> sec.\nin the unlimited category!"
+    "無制限部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "Set a new monthly best time of <%sB_VALUE>.<%sB_VALUE2> sec.\nin the unlimited category!"
   },
   "8025": {
-    "職業重複なし部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New personal best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unique category!"
+    "職業重複なし部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "Set a new all-time best time of <%sB_VALUE>.<%sB_VALUE2> sec.\nin the unique category!"
   },
   "8075": {
-    "職業重複なし部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New monthly best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unique category!"
+    "職業重複なし部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "Set a new monthly best time of <%sB_VALUE>.<%sB_VALUE2> sec.\nin the unique category!"
   },
   "8125": {
-    "サポと１人で部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "Got a new personal best of <%sB_VALUE>.<%sB_VALUE2> sec. in the support category!"
+    "サポと１人で部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "Set a new all-time best time of <%sB_VALUE>.<%sB_VALUE2> sec.\nin the support category!"
   },
   "8175": {
-    "サポと１人で部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "Got a new personal best of <%sB_VALUE>.<%sB_VALUE2> sec. in the support category!"
+    "サポと１人で部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "Set a new monthly best time of <%sB_VALUE>.<%sB_VALUE2> sec.\nin the support category!"
   },
   "8225": {
-    "無制限部門の 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Got a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the unlimited category!"
+    "無制限部門の 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Set a new all-time best time of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the unlimited category!"
   },
   "8278": {
-    "無制限部門の 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Got a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the unlimited category!"
+    "無制限部門の 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Set a new monthly best time of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the unlimited category!"
   },
   "8331": {
-    "職業重複なし部門の 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Got a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!"
+    "職業重複なし部門の 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Set a new all-time best time of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the unique category!"
   },
   "8388": {
-    "職業重複なし部門の 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Got a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!"
+    "職業重複なし部門の 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Set a new monthly best time of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the unique category!"
   },
   "8445": {
-    "サポと１人で部門の 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Got a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!"
+    "サポと１人で部門の 歴代の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Set a new all-time best time of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the support category!"
   },
   "8502": {
-    "サポと１人で部門の 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Got a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!"
+    "サポと１人で部門の 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Set a new monthly best time of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the unique category!"
   },
   "8559": {
     "他のプレイヤーから名前が見える状態で ランキングに登録されました。": "Registered in the ranking with name visible to others."
@@ -1149,7 +1149,7 @@
     "<%sB_ACTOR>は\n<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの\n経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> +<%dB_VALUE2>\n(Strong Enemy Bonus) EXP!"
   },
   "12537": {
-    "自己ベストを　更新した！": "You set a new personal best!"
+    "自己ベストを　更新した！": "Set a new personal best time!"
   },
   "12556": {
     "<%dB_VALUE>位の　ワールドレコードを記録した！": "Recorded a World Record of Rank <%dB_VALUE>!"
@@ -1164,13 +1164,13 @@
     "<%dB_VALUE>位に　匿名で　ワールドレコードに登録した！": "Anonymously registered in the World Ranking at Rank <%dB_VALUE>!"
   },
   "12698": {
-    "歴代の自己ベストを　更新した！<se_nots System 17>": "Set a new personal best!<se_nots System 17>"
+    "歴代の自己ベストを　更新した！<se_nots System 17>": "Set a new all-time best time!<se_nots System 17>"
   },
   "12731": {
-    "月間の自己ベストを　更新した！<se_nots System 17>": "Set a new monthly best!<se_nots System 17>"
+    "月間の自己ベストを　更新した！<se_nots System 17>": "Set a new monthly best time!<se_nots System 17>"
   },
   "12764": {
-    "歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>\n記録を　登録します。": "Placed in the overall ranking as Rank <%dB_VALUE> and the\nmonthly ranking as Rank <%dB_VALUE2>!<se_nots System 17>\nYour records have been registered."
+    "歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>\n記録を　登録します。": "Placed in the all-time ranking at Rank <%dB_VALUE> and the\nmonthly ranking at Rank <%dB_VALUE2>!<se_nots System 17>\nYour records have been registered."
   },
   "12842": {
     "他のプレイヤーから　名前が見える状態で\n記録の登録をしても　よろしいですか？<yesno>": "You will register your record with your\nname visible to others. Is this okay?<yesno>"
@@ -1191,73 +1191,73 @@
     "他のプレイヤーから　名前が見えない状態で\n月間ランキングに　記録が登録されました。": "Monthly records have been registered\nwith name not visible to others."
   },
   "13230": {
-    "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
+    "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new all-time best time of\n<%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
   },
   "13277": {
-    "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new monthly best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
+    "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new monthly best time of\n<%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
   },
   "13324": {
-    "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
+    "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new all-time best time of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
   },
   "13380": {
-    "月間の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
+    "月間の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new monthly best time of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
   },
   "13436": {
     "<%sB_TARGET>は　たおされた。": "<%sB_TARGET> is defeated."
   },
   "13455": {
-    "無制限部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Placed in the overall ranking at Rank <%dB_VALUE>\nand the monthly ranking at Rank <%dB_VALUE>\nin the unlimited category!<se_nots System 17>"
+    "無制限部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Placed in the all-time ranking at Rank <%dB_VALUE>\nand the monthly ranking at Rank <%dB_VALUE>\nin the unlimited category!<se_nots System 17>"
   },
   "13527": {
-    "無制限部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>)\nin the unlimited category!<se_nots System 17>"
+    "無制限部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Placed in the monthly ranking at Rank <%dB_VALUE>\nin the unlimited category!<se_nots System 17>"
   },
   "13579": {
-    "職業重複なし部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE>) in the unique category!"
+    "職業重複なし部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Placed in the all-time ranking at Rank <%dB_VALUE>\nand the monthly ranking at Rank <%dB_VALUE>\nin the unique category!<se_nots System 17>"
   },
   "13656": {
-    "職業重複なし部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in\nthe unique category!<se_nots System 17>"
+    "職業重複なし部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Placed in the monthly ranking at Rank <%dB_VALUE>\nin the unique category!<se_nots System 17>"
   },
   "13713": {
-    "サポと１人で部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly\nranking (Rank <%dB_VALUE>) in the support category!"
+    "サポと１人で部門の\n歴代ランキング　<%dB_VALUE>位\n月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Placed in the all-time ranking at Rank <%dB_VALUE>\nand the monthly ranking at Rank <%dB_VALUE>\nin the support category!<se_nots System 17>"
   },
   "13790": {
-    "サポと１人で部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in\nthe support category!<se_nots System 17>"
+    "サポと１人で部門の\n月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Placed in the monthly ranking at Rank <%dB_VALUE>\nin the support category!<se_nots System 17>"
   },
   "13847": {
-    "無制限部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of <%sB_VALUE>.<%sB_VALUE2> seconds\nin the unlimited category!<se_nots System 17>"
+    "無制限部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new all-time best time of\n<%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!<se_nots System 17>"
   },
   "13902": {
-    "無制限部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of <%sB_VALUE>.<%sB_VALUE2> seconds\nin the unlimited category!<se_nots System 17>"
+    "無制限部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best time of\n<%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!<se_nots System 17>"
   },
   "13957": {
-    "職業重複なし部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
+    "職業重複なし部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new all-time best time of\n<%sB_VALUE>.<%sB_VALUE2> sec. in the unique category!<se_nots System 17>"
   },
   "14017": {
-    "職業重複なし部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
+    "職業重複なし部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best time of\n<%sB_VALUE>.<%sB_VALUE2> sec. in the unique category!<se_nots System 17>"
   },
   "14077": {
-    "サポと１人で部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
+    "サポと１人で部門の\n歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new all-time best time of\n<%sB_VALUE>.<%sB_VALUE2> sec. in the support category!<se_nots System 17>"
   },
   "14137": {
-    "サポと１人で部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of\n<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
+    "サポと１人で部門の\n月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best time of\n<%sB_VALUE>.<%sB_VALUE2> sec. in the support category!<se_nots System 17>"
   },
   "14197": {
-    "無制限部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the unlimited category!<se_nots System 17>"
+    "無制限部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new all-time best time of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
   },
   "14260": {
-    "無制限部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.\nin the unlimited category!<se_nots System 17>"
+    "無制限部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best time of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
   },
   "14323": {
-    "職業重複なし部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
+    "職業重複なし部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new all-time best time of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
   },
   "14390": {
-    "職業重複なし部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
+    "職業重複なし部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best time of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
   },
   "14457": {
-    "サポと１人で部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
+    "サポと１人で部門の\n歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new all-time best time of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
   },
   "14524": {
-    "サポと１人で部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
+    "サポと１人で部門の\n月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best time of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
   },
   "14591": {
     "ランキングに　登録します。\n他のプレイヤーから　名前が見える状態で\n記録の登録をしても　よろしいですか？<yesno>": "You will register your ranking with\nyour name visible to others. Is this\nokay?<yesno>"
@@ -1470,7 +1470,7 @@
     "なかま\n<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの\n経験値を　かくとく！": "Your companions receive\n<%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
   },
   "17413": {
-    "討伐タイムアタックの <%dB_VALUE>位に 入賞しました！": "Achieved rank <%dB_VALUE> in the Boss Time Attack!"
+    "討伐タイムアタックの <%dB_VALUE>位に 入賞しました！": "Placed at Rank <%dB_VALUE> in the Boss Time Attack!"
   },
   "17449": {
     "ランキングの判定に　失敗しました。": "The ranking decision failed."
@@ -1479,22 +1479,22 @@
     "初回討伐報酬（金色の宝箱）が　出現した！": "A golden treasure chest appears as a\nfirst time clear reward!"
   },
   "17506": {
-    "討伐タイムアタックの\n<%dB_VALUE>位に　入賞しました！<se_nots System 17>": ""
+    "討伐タイムアタックの\n<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Placed at Rank <%dB_VALUE>\nin the Boss Time Attack!<se_nots System 17>"
   },
   "17552": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 経験値の通帳に なにも かくとくできなかった。": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 経験値の通帳に なにも かくとくできなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e is unable to earn any EXP into their EXP Passbook."
   },
   "17603": {
-    "討伐タイムアタックの 自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": ""
+    "討伐タイムアタックの 自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "Set a new Boss Time Attack best time of <%sB_VALUE>.<%sB_VALUE2> sec.!"
   },
   "17650": {
-    "討伐タイムアタックの 自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": ""
+    "討伐タイムアタックの 自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "Set a new Boss Attack best time of <%dB_VALUE> min. <%sB_VALUE>.<%sB_VALUE2> sec.!"
   },
   "17704": {
-    "討伐タイムアタックの自己ベストを\n<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": ""
+    "討伐タイムアタックの自己ベストを\n<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new Boss Time Attack best time of\n<%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
   },
   "17759": {
-    "討伐タイムアタックの自己ベストを\n<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": ""
+    "討伐タイムアタックの自己ベストを\n<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new Boss Time Attack best time of\n<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!<se_nots System 17>"
   },
   "17822": {
     "経験値の通帳に\n<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値を かくとく！": "<%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP\nis added to the EXP Passbook!"
