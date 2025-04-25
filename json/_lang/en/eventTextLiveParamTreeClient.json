@@ -12,10 +12,10 @@
     "「わあっ　ありがとうございます！\n　では　研究用の庭を　お貸しするので\n　扱い方を　説明させていただきますね。": "Wow! Thank you so much! Now, I'm going to\nlend you my research garden. I'll show you\nhow to use it."
   },
   "286068": {
-    "「<pc>さん。\n　女神の木のことなら　僕になんでも\n　聞いてください！\n<bw_break>": "<pc>. If you have any questions about\nthe Goddess Trees, please do not hesitate\nto ask!\n<bw_break>"
+    "「<pc>さん。\n　女神の木のことなら　僕になんでも\n　聞いてください！\n<bw_break>": "If you have any questions about\nthe Goddess Trees, please do not hesitate\nto ask!\n<bw_break>"
   },
   "286069": {
-    "「あっ　聞いてください　<pc>さん！　\n　どうやら　女神の木が　時間を経て\n　さらに成長できるように　変化したようです。\n<br>\n「女神の木の生態は　とても興味深いですね。\n　メモメモっと……。さあ　今日もはりきって\n　育てていきましょう！　さて……\n<bw_break>": "Ah, <pc>, please listen! It seems\nthat the Goddess Trees have changed,\nallowing them to grow even further.\n<br>\nThe tree's biology is quite interesting,\nisn't it? Yes, yes... Let's go ahead and start\ngrowing for today! Now then...\n<bw_break>"
+    "「あっ　聞いてください　<pc>さん！　\n　どうやら　女神の木が　時間を経て\n　さらに成長できるように　変化したようです。\n<br>\n「女神の木の生態は　とても興味深いですね。\n　メモメモっと……。さあ　今日もはりきって\n　育てていきましょう！　さて……\n<bw_break>": "Ah, <pc>! Good timing! It seems\nthat the Goddess Trees have changed,\nallowing them to grow even further.\n<br>\nThe tree's biology is quite interesting,\nisn't it? Yes, yes... Let's go ahead and start\ngrowing for today!\n<bw_break>"
   },
   "286070": {
     "「さあ　何を　ご希望ですか？\n<select_se_off>\n育てる\n庭の見た目を変える\n育て方をおさらいする\n説明を聞く\n<select_end>\n<close>": "So, what can I do for you?\n<select_se_off>\nGrow\nChange Garden Appearance\nReview Growing\nExplanation\n<select_end>\n<close>"
@@ -33,7 +33,7 @@
     "「すべての女神の木が　最大まで成長しているので\n　現在の　女神の木の状態を　お見せしますね。\n<end>": "Since all of the Goddess Trees are at their\ngrowth maximum, I'll show you how they're\nlooking right now.\n<end>"
   },
   "286075": {
-    "「ああっ　すみません。\n　今は　<%sM_TREE_NAME>を　これ以上\n　育てられないみたいです。\n<end>": "Ah, I'm sorry. It seems that <%sM_TREE_NAME>\ncan't grow any further.\n<end>"
+    "「ああっ　すみません。\n　今は　<%sM_TREE_NAME>を　これ以上\n　育てられないみたいです。\n<end>": "Ah, I'm sorry. It seems that the\n<%sM_TREE_NAME> can't grow any further.\n<end>"
   },
   "286076": {
     "「<%sM_TREE_NAME>は\n　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に\n　成長している途中のようですね。\n<br>\n「すみませんが　育ち終わるまでは\n　さらに成長させることは　できないんです。\n　もうしばらく　お待ちくださいね！\n<end>": "<%sM_TREE_NAME> is in the process of\ngrowing from Lv. <%dM_BEFORE_LEVEL> to Lv. <%dM_AFTER_LEVEL>.\n<br>\nI apologize, but I can't make it grow any\nfurther until this process finishes. Please\nwait a little longer!\n<end>"
@@ -78,7 +78,7 @@
     "「複数の女神の木が　全体的に成長していくと\n　研究用の庭　それ自体のランクが上がります。\n　僕は　それを『庭ランク』と　呼んでいます。\n<br>\n「庭ランクが上がると　木が育ちやすい土壌になり\n　一度成長の限界に達した　女神の木も\n　さらに　育てられるようになるみたいです。\n<br>\n「つまり　特定の女神の木だけを　育てても\n　庭ランクは　上がらないので　ぜひ\n　バランスよく　育ててみてくださいね！\n<bw_break>": "As the number of multiple Goddess Trees grow\noverall, the research garden's rank itself\nincreases. I call this its \"Garden Rank\".\n<br>\nIt seems as the Garden Rank increases, the\nsoil becomes more fertile, allowing trees\nthat hit their limit to grow even further.\n<br>\nIn other words, it's a good idea to try to\ngrow all of your Goddess Trees in a balanced\nmanner!"
   },
   "286090": {
-    "「……あれっ？\n　どうやら　<%sM_TREE_NAME>に\n　何か変化が　あるみたいです。\n<end>": "...Huh? It looks like the <%sM_TREE_NAME>\nhas changed somehow.\n<end>"
+    "「……あれっ？\n　どうやら　<%sM_TREE_NAME>に\n　何か変化が　あるみたいです。\n<end>": "...Huh? It looks like one of the <%sM_TREE_NAME>\nhas changed somehow.\n<end>"
   },
   "286091": {
     "<%sM_TREE_NAME>が\nレベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に　成長して\n<%sM_KOUKA_NAME>が　<%nM_KOUKA_NUM>　上がった！": "The <%sM_TREE_NAME> has grown from Lv. <%dM_BEFORE_LEVEL>\nto Lv. <%dM_AFTER_LEVEL> and your <%sM_KOUKA_NAME>\nincreases by <%dM_KOUKA_NUM>!"
