@@ -669,7 +669,7 @@
     "「<%sL_URITAI_ITEM>を　おひとつですねっ。\n　それなら　<%nL_SELL_PRICE>ゴールドで\n　買い取りますけど　よろしいですか？\n<yesno><break>": "One <%sL_URITAI_ITEM>?\nI'll buy it for <%dL_SELL_PRICE> Gold. Is that\nall right?\n<yesno><break>"
   },
   "41869": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個\n　合わせて　<%nL_SELL_PRICE>ゴールドで\n　買い取りますけど　よろしいですか？\n<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>?\nI'll buy it for <%dL_SELL_PRICE> Gold. Is that\nall right?\n<yesno><break>"
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個\n　合わせて　<%nL_SELL_PRICE>ゴールドで\n　買い取りますけど　よろしいですか？\n<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>?\nI'll buy them for <%dL_SELL_PRICE> Gold.\nIs that all right?\n<yesno><break>"
   },
   "41870": {
     "<select_se_off>\nみぎて\nひだりて\n<select_end><break>": "<select_se_off>\nRight Hand\nLeft Hand\n<select_end><break>"
@@ -711,7 +711,7 @@
     "「んもう　お客さま。\n　売れそうな物を　何も\n　持ってないじゃないですかっ。\n<bw_break>": "Oh, no... You don't have anything we can\nsell...<bw_break>"
   },
   "41885": {
-    "「あっ　ごめんなさい……。\n　それには　お値段を付けられませんっ。\n<bw_break>": "Oh, I'm sorry... I can't put a price on\nthat...<bw_break>"
+    "「あっ　ごめんなさい……。\n　それには　お値段を付けられませんっ。\n<bw_break>": "Ah, I'm sorry...\nI can't buy that from you.\n<bw_break>"
   },
   "41886": {
     "「あらっ　お客さま！\n　お金　もう　いっぱいじゃないですかっ！\n　すっごーい！\n<br>\n「預けるか　何か買うかして\n　お財布に　余裕ができたら\n　また　売ってくださいね。\n<bw_break>": "Sir! The money is already full! That's great!\nDeposit it or buy something, and when you\nhave enough money in your wallet, sell it\n<br>\nagain...<bw_break>"
@@ -10185,7 +10185,7 @@
     "「<%sL_URITAI_ITEM>を　おひとつですねっ。\n　それなら　<%nL_SELL_PRICE>ゴールドで\n　買い取りますけど　よろしいですか？\n<yesno><break>": "One <%sL_URITAI_ITEM>?\nI'll buy it for <%dL_SELL_PRICE> Gold. Is that\nall right?\n<yesno><break>"
   },
   "267601": {
-    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個\n　合わせて　<%nL_SELL_PRICE>ゴールドで\n　買い取りますけど　よろしいですか？\n<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>?\nI'll buy it for <%dL_SELL_PRICE> Gold. Is that\nall right?\n<yesno><break>"
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個\n　合わせて　<%nL_SELL_PRICE>ゴールドで\n　買い取りますけど　よろしいですか？\n<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>?\nI'll buy them for <%dL_SELL_PRICE> Gold.\nIs that all right?\n<yesno><break>"
   },
   "267602": {
     "「あれっ　お客さま！\n　お金　そんなに持ちきれないですよっ。\n<br>\n「預けるか　何か買うかして\n　お財布に　余裕ができたら\n　また　売ってくださいね。\n<bw_break>": "Hey, sir! We can't hold that much money.\nPlease leave it with us or buy something, and\nsell it again when you have more room in your\n<br>\nwallet.\n<bw_break>"
@@ -10233,7 +10233,7 @@
     "「あれっ　はじめて　装備をなさるのですか？\n　でしたら　ひとつ注意しておきますねっ。\n<br>\n「新しい装備品は　最初に装備した人が\n　その使用者に　定められるんです。\n　つまり　あなた専用の装備になるんですっ。\n<br>\n「ですので　一度　使用者が決まった装備品は\n　他の人には　渡せなくなってしまうんです。\n　それでも　ここで装備して　いいですか？\n<yesno 2><break>": "Is this your first time to equip? If so, I\nwould like to give you a reminder. The first\nperson to equip a new piece of equipment will\n<br>\nbe the user. In other words, it will be your\nequipment. Once a new piece of equipment is\nassigned to a user, it cannot be given to\n<br>\nanyone else. But I can still use it here?\n<yesno 2><break>"
   },
   "267617": {
-    "「あっ　ごめんなさい……。\n　それには　お値段を付けられませんっ。\n<bw_break>": "Oh, I'm sorry... I can't put a price on\nthat...<bw_break>"
+    "「あっ　ごめんなさい……。\n　それには　お値段を付けられませんっ。\n<bw_break>": "Ah, I'm sorry...\nI can't buy that from you.\n<bw_break>"
   },
   "267618": {
     "「<%sL_KAITAI_ITEM>ですねっ。\n　これは　<%sL_SYOKUNIN>じゃないと\n　扱えないレシピですけど　いいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This recipe must be\n<%sL_SYOKUNIN>.\n<yesno 2><break>"
