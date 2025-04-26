@@ -402,7 +402,7 @@
     "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into house storage."
   },
   "29547": {
-    "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into <%sL_OWNER>'s\nfurniture storage."
+    "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into <%sL_OWNER>'s dresser storage."
   },
   "29548": {
     "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を はずした。": "Removed <%sL_CATEGORY_NAME> from <%sL_OWNER>'s house."
@@ -738,10 +738,10 @@
     "収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "Took out <%sL_ITEM_NAME><%sL_PLUSNUM> from storage."
   },
   "36394": {
-    "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "Put <%sL_ITEM_NAME><%sL_PLUSNUM> into furniture storage."
+    "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "Put <%sL_ITEM_NAME><%sL_PLUSNUM> into dresser storage."
   },
   "36395": {
-    "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into furniture storage."
+    "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into dresser storage."
   },
   "36396": {
     "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "Put <%sL_ITEM_NAME><%sL_PLUSNUM> into house storage."
@@ -3108,13 +3108,13 @@
     "探索の極意 錬金効果＋３のみ を選び直して 冒険者ジグロウから さずけてもらった！": "Given the \"+3 Effects Only\" secret of exploration from Adventurer Jiguro!"
   },
   "61641": {
-    "家具＆庭具おきばに　<%sL_ITEM_NAME>は　これ以上しまえなかった。": "Cannot store any more <%sL_ITEM_NAME> in your furniture storage."
+    "家具＆庭具おきばに　<%sL_ITEM_NAME>は　これ以上しまえなかった。": "Cannot store any more <%sL_ITEM_NAME> in furniture storage."
   },
   "61642": {
     "家具＆庭具おきばにないので<%sL_ITEM_NAME>は<%dL_SPACE_LIMIT_NUM>個配置されなかった。": "Cannot place the <%dL_SPACE_LIMIT_NUM> <%sL_ITEM_NAME>\nbecause there isn't any in your furniture\nstorage."
   },
   "61718": {
-    "<%sL_ITEM_NAME>が　家具＆庭具おきばにないので\n重ね置きされている状態の　<%sL_ITEM_NAME2>も<%dL_SPACE_LIMIT_NUM>個配置されなかった。": "Cannot place the <%dL_SPACE_LIMIT_NUM> stacked <%sL_ITEM_NAME2>\nbecause the <%sL_ITEM_NAME> isn't in your furniture storage."
+    "<%sL_ITEM_NAME>が　家具＆庭具おきばにないので\n重ね置きされている状態の　<%sL_ITEM_NAME2>も<%dL_SPACE_LIMIT_NUM>個配置されなかった。": "Since <%sL_ITEM_NAME> is not in your furniture storage,\nthe <%dL_SPACE_LIMIT_NUM> <%sL_ITEM_NAME2> stacked atop it could not be placed."
   },
   "61828": {
     "<%sL_SERVICENAME>に <%sM_item><%sM_plusnum>を 移動した。": "Transfered <%sM_item><%sM_plusnum> to <%sL_SERVICENAME>."
