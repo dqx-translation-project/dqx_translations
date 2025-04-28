@@ -132,7 +132,7 @@
     "<%sM_pc>は\n<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>\n<br>\nきせかえドールのポーズを\n「<%sM_item2>」に　変えられるようになった！\n<br>\n<%sM_item>は\n光に包まれ　消え去った！": "<%sM_pc> learns the \"<%sM_item2>\"\n<%sM_action>! <se_nots System 7>\n<br>\nYou can now change your dress-up doll's\npose to \"<%sM_item2>\"!\n<br>\n<%sM_item> disappears in\na flash of light!"
   },
   "41165": {
-    "<speed=0>すでに　元気タイム中です！\n<%sM_item>を使うと　時間と効果が\n上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You're already in Bonus Time!\nIf you use <%sM_item>, your remaining time\nwill be overwritten. Proceed?<yesno 2><close>"
+    "<speed=0>すでに　元気タイム中です！\n<%sM_item>を使うと　時間と効果が\n上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You are already in Bonus Time!\nIf you use <%sM_item>, your remaining time\nwill be overwritten. Are you sure?<yesno 2><close>"
   },
   "41185": {
     "<%sL_PC>が 景品交換所で\n交換して 手に入れた。": "<%sL_PC> received it at a prize\nexchange."
@@ -192,7 +192,7 @@
     "<%sM_pc>は 表情「<%sM_item2>」を おぼえた！": "<%sM_pc> learns how to use the\n\"<%sM_item2>\" facial expression!"
   },
   "53638": {
-    "<%sM_pc>は\n表情「<%sM_item2>」を　おぼえた！ <se_nots System 7>\n<br>\n<%sM_item>は\n光に包まれ　消え去った！\n<br>\n『キャラクターの設定』の\n『表情設定』から\nおぼえた表情を　設定してみよう！": ""
+    "<%sM_pc>は\n表情「<%sM_item2>」を　おぼえた！ <se_nots System 7>\n<br>\n<%sM_item>は\n光に包まれ　消え去った！\n<br>\n『キャラクターの設定』の\n『表情設定』から\nおぼえた表情を　設定してみよう！": "<%sM_pc> learns the\n\"<%sM_item2>\" facial expression! <se_nots System 7>\n<br>\nThe <%sM_item>\nvanishes in a flash of light!\n<br>\nYou can set your learned facial expressions\nby choosing \"Face Expression\" under\n\"Character\" settings!"
   },
   "54659": {
     "<%sL_PC>が 輝晶術士で\n<%sL_KOUKA>の効果を付けた。": "<%sL_PC> added <%sL_KOUKA>\neffect from the Coruscator."
@@ -318,24 +318,24 @@
     "<%sL_PC>が アクセ強化屋で\n<%sL_KOUKA>の効果を付けた。": "<%sL_PC> added <%sL_KOUKA>\neffect at an Accessory Enhancer."
   },
   "62854": {
-    "<speed=0>『撮影設定』の　『フィルター設定』で\n<%sM_filter>を　使えるようになった！<se_nots System 7>": ""
+    "<speed=0>『撮影設定』の　『フィルター設定』で\n<%sM_filter>を　使えるようになった！<se_nots System 7>": "<speed=0>You can now use <%sM_filter>\nunder \"Filters\" while taking photos!<se_nots System 7>"
   },
   "63607": {
-    "討伐タイムアタック": ""
+    "討伐タイムアタック": "Boss Time Attack"
   },
   "63995": {
-    "しかし　<%sM_item>は\nすでに　武器チャームリストに　入っていた。": ""
+    "しかし　<%sM_item>は\nすでに　武器チャームリストに　入っていた。": "However, <%sM_item> is\nalready on the Weapon Charms List."
   },
   "63996": {
-    "<speed=0><pc>は　「<%sM_item>」を\n武器チャームリストに入れた。": ""
+    "<speed=0><pc>は　「<%sM_item>」を\n武器チャームリストに入れた。": "<speed=0><pc> adds \"<%sM_item>\"\nto their Weapon Charms List."
   },
   "63997": {
-    "<speed=0>『そうび』の『装備メニュー』にある\n『武器チャームの設定』で\n<%sM_Effect>を　使えるようになった！<se_nots System 7>": ""
+    "<speed=0>『そうび』の『装備メニュー』にある\n『武器チャームの設定』で\n<%sM_Effect>を　使えるようになった！<se_nots System 7>": "You can now use <%sM_Effect>\nby opening the \"Equip Menu\" and\nselecting \"Weapon Charms\"!<se_nots System 7>"
   },
   "64014": {
-    "<speed=0>すでに　爆伸タイム中です！\n<%sM_item>を使うと　時間と効果が\n上書きされますが　本当に使いますか？<yesno 2><close>": ""
+    "<speed=0>すでに　爆伸タイム中です！\n<%sM_item>を使うと　時間と効果が\n上書きされますが　本当に使いますか？<yesno 2><close>": "<speed=0>You are already in Burst Time!\nIf you use <%sM_item>, your remaining time\nwill be overwritten. Are you sure?<yesno 2><close>"
   },
   "64032": {
-    "<speed=0>現在　爆伸タイム中のため\n<%sM_item>を　つかうことはできません！": ""
+    "<speed=0>現在　爆伸タイム中のため\n<%sM_item>を　つかうことはできません！": "<speed=0>You are currently in Burst Time, so\nyou cannot use the <%sM_item>!"
   }
 }
