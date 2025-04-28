@@ -6,7 +6,7 @@
     "「封印の聖灰を　<%nL_POINT_NUM>個使って\n　<%nL_SEAL_NUM>種類の戦神効果を　封印しても\n　よろしいですか？\n<yesno 1><break>": "<%dL_POINT_NUM> Sealing Ash will be used to\nseal <%dL_SEAL_NUM> effect(s).\nIs this all right?\n<yesno 1><break>"
   },
   "134422": {
-    "「封印の聖灰を使って\n　戦神のベルトにつく効果を封印します。\n　封印する効果を　選んでください。\n<break>": "Sealing Ash is used to seal the effects on\nyour War God's Belts. Select the effects\nthat you wish to seal.\n<break>"
+    "「封印の聖灰を使って\n　戦神のベルトにつく効果を封印します。\n　封印する効果を　選んでください。\n<break>": "Sealing Ash is used to seal the effects on\nyour War Deity Belts. Select the effects\nthat you wish to seal.\n<break>"
   },
   "134423": {
     "「すでに　戦神のベルトにつく効果を\n　最大まで　封印しています。\n<break>": "You've already sealed the maximum amount\nof effects possible.\n<break>"
@@ -15,7 +15,7 @@
     "「この効果は　すでに封印されています。\n<bw_break>": "This effect has already been sealed.\n<bw_break>"
   },
   "134425": {
-    "「これ以上　戦神のベルトにつく効果を\n　封印することは　できません。\n<bw_break>": "No further effects on the War God's Belt can\nbe sealed.\n<bw_break>"
+    "「これ以上　戦神のベルトにつく効果を\n　封印することは　できません。\n<bw_break>": "No further effects on the War Deity Belt can\nbe sealed.\n<bw_break>"
   },
   "134426": {
     "「封印の聖灰が　<%nL_LACK_NUM>個　足りません。\n<bw_break>": "You will require <%dL_LACK_NUM> more Sealing Ash\nto seal that.\n<bw_break>"
@@ -30,7 +30,7 @@
     "「それでは　戦神のベルトの効果の\n　封印状態を　<%nL_SEAL_NUM>種類　解除します。\n<br>\n「封印の聖灰を　<%nL_POINT_NUM>個　使いますが\n　これまでの封印に使った　<%nL_GET_NUM>個は\n　戻ってきます。\n<br>\n「封印の聖灰は　<%nL_MAX_NUM>個までしか持てません。\n　今　封印の解除を　おこなうと　<%nL_GET_NUM2>個分しか\n　戻りませんが　よろしいですか？\n<yesno 2><break>": "To remove your <%dL_SEAL_NUM> unique sealed effects,\nI will require <%dL_POINT_NUM> Sealing Ash.\n<br>\nIn addition, the <%dL_GET_NUM> Sealing Ash you've\nused so far will be returned do you.\n<br>\nYou may only hold <%dL_MAX_NUM> Sealing Ash at most.\nIf you do this, only <%dL_GET_NUM2> will be returned to\nyou. Is this acceptable?\n<yesno 2><break>"
   },
   "134431": {
-    "「戦神のベルトの効果を　封印していません。\n<bw_break>": "The effects of the War God's Belt have not\nbeen sealed.\n<bw_break>"
+    "「戦神のベルトの効果を　封印していません。\n<bw_break>": "The effects of the War Deity Belt have not\nbeen sealed.\n<bw_break>"
   },
   "134432": {
     "「封印の聖灰を　<%nL_POINT_NUM>個　使って\n　戦神のベルトの効果の　封印状態を\n　<%nL_SEAL_NUM>種類　解除しました。\n<br>\n「これまで封印に使った\n　封印の聖灰　<%nL_GET_NUM>個が\n　戻りました。\n<se_nots System 7>\n<bw_break>": "I've used <%dL_POINT_NUM> of your Sealing Ash\nto remove the <%dL_SEAL_NUM> unique effects that\nyou currently have sealed.\n<br>\nThe <%dL_GET_NUM> Sealing Ash you used\nto seal those effects has been returned to\nyou.\n<se_nots System 7>\n<bw_break>"
@@ -114,13 +114,13 @@
     "「封印の聖灰は　『封印の聖灰を増やす』を\n　選んで　特定のアクセサリーを捧げることで\n　手に入ります。\n<bw_break>": "Choosing \"Obtain Sealing Ash\" will allow you\nto offer one of your accessories in exchange\nfor Sealing Ash.\n<bw_break>"
   },
   "317577": {
-    "「戦神のベルトに　効果を付与するアイテムは\n　３種類　あります。\n<br>\n「まず　ひとつ目は　めざめの鬼石。\n　効果の種類や値を　無作為に付与します。\n<br>\n「ベルトに３つ目　４つ目の効果を付与するには\n　めざめの鬼石が１個\n　５つ目の効果の付与には５個　必要になります。\n<br>\n「次に　覚醒の鬼石。\n　これは　戦神のベルト＋５に付いている効果を\n　好きな効果に　入れ替えることができます。\n<br>\n「ただし　付与される効果の値は\n　運にゆだねられます。また最高値が付与される\n　可能性は各効果で統一され　一定です。\n<br>\n「最後に　覚醒の鬼神石。これは更に強力で\n　戦神のベルト＋５に付いている効果を\n　好きな効果の最高値に　入れ替えられます。\n<br>\n「めざめの鬼石や覚醒の鬼石は　戦禍の眷属を\n　撃破した際の報酬で　得られます。\n　覚醒の鬼神石はＤＱＸショップで購入できます。\n<sys_msg_wait><color_yellow>\nプレイヤー専用サイト　目覚めし冒険者の広場\nドラゴンクエストＸショップ（ＤＱＸショップ）\nhttps://sqex.to/dqxshop\n<color_white><sw_msg_mode>": "There are three types of items that can be\nused to add effects to the War God's Belt. The\nfirst is the Demon Stone, which randomly adds\n<br>\na type and value of effect to the belt. To add\nthe third or fourth effect to the belt, one\nDemon Stone is required, and to add the fifth\n<br>\neffect, five Demon Stones are required. Next\nis the Super Demon Stone, which allows you to\nreplace the effects of the War God's Belt +5\n<br>\nwith any effect you wish. However, the value\nof the effect granted is left to luck. The\npossibility of the highest value being granted\n<br>\nis constant and uniform for each effect.\nFinally, the Uber Demon Stone is even more\npowerful, replacing the War God's Belt +5 with\n<br>\nthe highest value of the effect of your\nchoice. can be purchased at the DQX Shop.\n<sys_msg_wait><color_yellow>players-only website Awakening\nAdventurer's SquareDragon Quest X Shop (DQX\nShop)https://sqex.to/dqxshop<color_white><sw_msg_mode>"
+    "「戦神のベルトに　効果を付与するアイテムは\n　３種類　あります。\n<br>\n「まず　ひとつ目は　めざめの鬼石。\n　効果の種類や値を　無作為に付与します。\n<br>\n「ベルトに３つ目　４つ目の効果を付与するには\n　めざめの鬼石が１個\n　５つ目の効果の付与には５個　必要になります。\n<br>\n「次に　覚醒の鬼石。\n　これは　戦神のベルト＋５に付いている効果を\n　好きな効果に　入れ替えることができます。\n<br>\n「ただし　付与される効果の値は\n　運にゆだねられます。また最高値が付与される\n　可能性は各効果で統一され　一定です。\n<br>\n「最後に　覚醒の鬼神石。これは更に強力で\n　戦神のベルト＋５に付いている効果を\n　好きな効果の最高値に　入れ替えられます。\n<br>\n「めざめの鬼石や覚醒の鬼石は　戦禍の眷属を\n　撃破した際の報酬で　得られます。\n　覚醒の鬼神石はＤＱＸショップで購入できます。\n<sys_msg_wait><color_yellow>\nプレイヤー専用サイト　目覚めし冒険者の広場\nドラゴンクエストＸショップ（ＤＱＸショップ）\nhttps://sqex.to/dqxshop\n<color_white><sw_msg_mode>": "There are three different types of items that\ncan add effects to a War Deity Belt.\n<br>\nThe first is a Demon Stone. It will add a\na random effect with a random value.\n<br>\nTo add a third and fourth effect requires\n1 Demon Stone. Adding a fifth effect\nrequires 5 of them.\n<br>\nNext is a Super Demon Stone. This stone allows\nto replace an effect on a War Deity Belt +5\nwith an effect of your choice.\n<br>\nHowever, this value will be randomized.\nEach effect has the same chance of\nbecoming the highest value.\n<br>\nLastly is the Uber Demon Stone. This stone\nallows you to replace an effect on a War\nDeity Belt +5 with an effect of your choice,\n<br>\nand this effect will be at the maximum\npossible value. These stones can be purchased\nin the DQX Shop.\n<br>\n<sys_msg_wait><color_yellow>\nYou can visit the DQX Shop using the\nfollowing link:\nhttps://sqex.to/dqxshop\n<color_white><sw_msg_mode>"
   },
   "317578": {
-    "「封印の聖灰を使うと　戦神のベルトにつく\n　さまざまな効果のうち　最大６０個までを\n　選んで　封印することができます。\n<br>\n「封印した効果は　それ以降に手に入れる\n　戦神のベルトには　つきません。\n<bw_break>": "The Sealing Ash can be used to seal up to 60\nof the various effects on the War God's Belt.\nSealed effects will not be attached to\n<br>\nsubsequent War God's Belt.\n<bw_break>"
+    "「封印の聖灰を使うと　戦神のベルトにつく\n　さまざまな効果のうち　最大６０個までを\n　選んで　封印することができます。\n<br>\n「封印した効果は　それ以降に手に入れる\n　戦神のベルトには　つきません。\n<bw_break>": "Sealing Ash can be used to seal up to 60\nof the various effects that may appear on\nWar Deity Belts you find.\n<br>\nWhen an effect is sealed, it will no longer\nappear on any future War Deity Belts you\nobtain.\n<bw_break>"
   },
   "317579": {
-    "「封印した効果を　解除すると\n　戦神のベルトを　手に入れた時に\n　その効果が　また　つくようになります。\n<br>\n「封印の解除には　効果１つにつき\n　封印の聖灰が　５個　必要です。\n<br>\n「ただし　１０個以上の効果を\n　まとめて解除する場合は　封印の聖灰が\n　５０個あれば　解除できます。\n<br>\n「なお　封印を解除すると\n　それまでに　封印に使った　封印の聖灰は\n　戻ってきます。\n<bw_break>": "By removing a sealed effect, the effect may\nonce again appear on any future War God's\nBelts you may obtain.\n<br>\nTo remove a seal, you will need 5 Sealing\nAsh per seal removed.\n<br>\nHowever, if you wish to remove 10 or more\nseals at once, I will require 50 Sealing\nAsh.\n<br>\nWhen removing a seal, any Sealing Ash\nyou spent to seal it will be returned to you.\n<bw_break>"
+    "「封印した効果を　解除すると\n　戦神のベルトを　手に入れた時に\n　その効果が　また　つくようになります。\n<br>\n「封印の解除には　効果１つにつき\n　封印の聖灰が　５個　必要です。\n<br>\n「ただし　１０個以上の効果を\n　まとめて解除する場合は　封印の聖灰が\n　５０個あれば　解除できます。\n<br>\n「なお　封印を解除すると\n　それまでに　封印に使った　封印の聖灰は\n　戻ってきます。\n<bw_break>": "By removing a sealed effect, the effect may\nonce again appear on any future War Deity\nBelts you obtain.\n<br>\nTo remove a seal, you will need 5 Sealing\nAsh per seal removed.\n<br>\nHowever, if you wish to remove 10 or more\nseals at once, I will require 50 Sealing\nAsh.\n<br>\nWhen removing a seal, any Sealing Ash\nyou spent to seal it will be returned to you.\n<bw_break>"
   },
   "317920": {
     "「覚醒の鬼石か　覚醒の鬼神石を持っていないと\n　強化できません。\n<br>\n「覚醒の鬼石は　邪神の宮殿・天獄の\n　初回報酬の宝箱から　入手できます。\n　覚醒の鬼神石はＤＱＸショップで購入できます。\n<sys_msg><color_yellow>\nプレイヤー専用サイト　目覚めし冒険者の広場\nドラゴンクエストＸショップ（ＤＱＸショップ）\nhttps://sqex.to/dqxshop\n<color_white><sw_msg_mode>": "The Super Demon Stone can be obtained from the\ntreasure chest that is the first reward in\nDark Deity's Palace, Heaven's Hell. Uber Demon\n<br>\nStone can be purchased at the DQX Shop.\n<sys_msg><color_yellow>players-only website Awakening\nAdventurer's SquareDragon Quest X Shop (DQX\nShop)https://sqex.to/dqxshop<color_white><sw_msg_mode>"
