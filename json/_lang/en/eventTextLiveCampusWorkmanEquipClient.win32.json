@@ -183,7 +183,7 @@
     "": ""
   },
   "155660": {
-    "作る物の種類を　選んでください。\n<break>": "You can choose what you want to make...<break>"
+    "作る物の種類を　選んでください。\n<break>": "Please select what you'd like to craft.\n<break>"
   },
   "155661": {
     "何を作りますか？<break>": "Craft what?<break>"
@@ -210,7 +210,7 @@
     "": ""
   },
   "155669": {
-    "<speed=0>けずりすぎて　木材が折れてしまった！<end>": "<speed=0>I scraped so hard I broke the wood!<end>"
+    "<speed=0>けずりすぎて　木材が折れてしまった！<end>": "<speed=0>You carved the wood too much, causing\nit to break!<end>"
   },
   "155670": {
     "": ""
@@ -651,7 +651,7 @@
     "": ""
   },
   "155843": {
-    "作る物の種類を　選んでください。\n<break>": "You can choose what you want to make...<break>"
+    "作る物の種類を　選んでください。\n<break>": "Please choose what you'd like to cook.\n<break>"
   },
   "155844": {
     "何を作りますか？<break>": "Craft what?<break>"
@@ -669,7 +669,7 @@
     "": ""
   },
   "155849": {
-    "<speed=0><%sL_TOKUGI>の　効果範囲に\n<%sL_TOKUGI>できない具材が　含まれています。": "<speed=0>If <%sL_TOKUGI> contains ingredients that\ncannot be <%sL_TOKUGI>..."
+    "<speed=0><%sL_TOKUGI>の　効果範囲に\n<%sL_TOKUGI>できない具材が　含まれています。": "<speed=0>The effect range of <%sL_TOKUGI>\ncontains ingredients that cannot be used\nwith this skill."
   },
   "155850": {
     "<speed=0><%sL_TOKUGI>の　効果範囲に\n具材の一部が　含まれていないので\n<%sL_TOKUGI>は　使えません。": "<speed=0><%sL_TOKUGI> cannot be used because\none or more of the specified ingredients\nis not within its effect range."
@@ -708,7 +708,7 @@
     "調理とは　フライパンにのせた　具材を焼いて\n目的のアイテムを　作ることです。\n<br>\n具材を焼くと　焼き加減メーターが上昇します。\nメーターが　満タンになった具材は\n食べごろ状態になります。\n<br>\nすべての具材を　食べごろ状態にしましょう。\n完成品のできのよさは　この精度で決まります。\n<br>\n調理コマンドを実行するには　集中力が必要です。\n集中力がなくなると　実行できなくなるので\nペース配分を考えて　コマンドを選びましょう。\n<br>\n具材は　フライパンの中心に近いほど\n焼き加減メーターが　上がりやすくなるので\n具材の位置を　調整していきましょう。\n<br>\nなお　調理をしている途中に\n通信エラーなどでゲームが中断した場合\nチケットは失われますので　ご注意ください。\n<end>": "Cooking is when you cook the ingredients on\nthe pan to make the desired item... The more\ningredients you cook, the more the cook meter\n<br>\nwill rise. When the meter is full, the\ningredients are ready to eat... All\ningredients are ready to eat. The quality of\n<br>\nthe final product is determined by the\naccuracy of this... It takes concentration to\nexecute the cooking commands. If you lose\n<br>\nconcentration, you won't be able to execute\nthem, so pace yourself and choose your\ncommands... The closer the ingredients are to\n<br>\nthe center of the pan, the higher the\nbrowning meter will be, so adjust the\nposition of the ingredients... If the game is\n<br>\ninterrupted by a communication error while\nyou are cooking, you will lose your ticket...<end>"
   },
   "155862": {
-    "調理の遊び方の説明です！\n<br>\n毎ターン　具材を焼く度に\n各具材の　焼き加減メーターが　上昇します。\n焼き加減メーターを　満タンにしましょう。\n<br>\n焼き加減メーターが　満タンになった具材は\n食べごろ状態になります。\n<br>\nすべての具材が　食べごろ状態になったら\n『しあげる』コマンドで　完成です！\n<br>\nただし　食べごろ状態になった具材の\n焼き加減メーターが　もう一度　満タンになると\n具材が焼けコゲてしまうので　注意してください。\n<br>\n具材は　フライパンの中心に近いほど\n焼き加減メーターが　上がりやすくなります。\n集中力に注意しながら　完成を目指しましょう！\n<end>": "Here's how to play cooking. Each turn, as you\ncook the ingredients, the doneness meter for\neach ingredient goes up. When the doneness\n<br>\nmeter is full... When the doneness meter is\nfull, the ingredients are ready to eat...\nWhen all the ingredients are ready to eat,\n<br>\nuse the \"finish\" command. However, be careful\nnot to burn the ingredients when the browning\nmeter is full again. The closer the\n<br>\ningredients are to the center of the pan, the\neasier it will be for the browning meter to\nrise. The closer the ingredients are to the\n<br>\ncenter of the pan, the easier it is for the\nburn meter to rise.<end>"
+    "調理の遊び方の説明です！\n<br>\n毎ターン　具材を焼く度に\n各具材の　焼き加減メーターが　上昇します。\n焼き加減メーターを　満タンにしましょう。\n<br>\n焼き加減メーターが　満タンになった具材は\n食べごろ状態になります。\n<br>\nすべての具材が　食べごろ状態になったら\n『しあげる』コマンドで　完成です！\n<br>\nただし　食べごろ状態になった具材の\n焼き加減メーターが　もう一度　満タンになると\n具材が焼けコゲてしまうので　注意してください。\n<br>\n具材は　フライパンの中心に近いほど\n焼き加減メーターが　上がりやすくなります。\n集中力に注意しながら　完成を目指しましょう！\n<end>": "This will explain Cooking!\n<br>\nAs you cook each ingredient, its cooked\nmeter will rise. Do your best to try and\nfill this meter.\n<br>\nIngredients that have a full meter are\nfully cooked and ready to eat.\n<br>\nWhen all ingredients are fully cooked,\nuse the \"Finish\" command to finish\ncooking!\n<br>\nIf an ingredient that is fully cooked has its\nmeter filled again, it will burn, so be\ncareful not to overcook your ingredients.\n<br>\nThe closer an ingredient is to the center of\nthe frying pan, the more its cooked meter\nwill rise when it is cooked.\n<br>\nBe mindful of your Focus as you cook as\nyou aim to be a top chef!\n<end>"
   },
   "155863": {
     "調理設備がある。\n調理部員であれば\nここで　アイテムが作れそうだ。": "It's a cooking facility.\nIf you're a cook, you can craft items here."
@@ -750,10 +750,10 @@
     "<speed=0>移動先のマスには　既に具材があるため\nその方向に　この具材を動かすことはできません。": "<speed=0>The square you're moving to already has an\ningredient in it, so you can't move this\ningredient in that direction."
   },
   "155885": {
-    "<speed=0>同じ種類の　具材同士でしか\nまぜあわせは　できません。": "<speed=0>You can only mix ingredients of the same\ntype..."
+    "<speed=0>同じ種類の　具材同士でしか\nまぜあわせは　できません。": "<speed=0>You can only use Mix 'n' Match on ingredients\nof the same type."
   },
   "155886": {
-    "<speed=0>この具材は　まぜあわせの対象に選べません。": "<speed=0>These ingredients can be chosen to be mixed\ntogether..."
+    "<speed=0>この具材は　まぜあわせの対象に選べません。": "<speed=0>This ingredient cannot be selected for\nMix 'n' Match."
   },
   "155887": {
     "<speed=0>この具材の焼き加減は　既に固定されています。": "<speed=0>The cooking temperature of this ingredient\nhas already been fixed."
