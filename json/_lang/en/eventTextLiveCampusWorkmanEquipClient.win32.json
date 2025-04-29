@@ -672,7 +672,7 @@
     "<speed=0><%sL_TOKUGI>の　効果範囲に\n<%sL_TOKUGI>できない具材が　含まれています。": "<speed=0>If <%sL_TOKUGI> contains ingredients that\ncannot be <%sL_TOKUGI>..."
   },
   "155850": {
-    "<speed=0><%sL_TOKUGI>の　効果範囲に\n具材の一部が　含まれていないので\n<%sL_TOKUGI>は　使えません。": "<speed=0>Since <%sL_TOKUGI> doesn't include some of\nthe ingredients in its area of effect,\n<%sL_TOKUGI> can't be used..."
+    "<speed=0><%sL_TOKUGI>の　効果範囲に\n具材の一部が　含まれていないので\n<%sL_TOKUGI>は　使えません。": "<speed=0><%sL_TOKUGI> cannot be used because\none or more of the specified ingredients\nis not within its effect range."
   },
   "155851": {
     "": ""
@@ -756,10 +756,10 @@
     "<speed=0>この具材は　まぜあわせの対象に選べません。": "<speed=0>These ingredients can be chosen to be mixed\ntogether..."
   },
   "155887": {
-    "<speed=0>この具材の焼き加減は　既に固定されています。": "<speed=0>These ingredients are already cooked to a\ncertain degree..."
+    "<speed=0>この具材の焼き加減は　既に固定されています。": "<speed=0>The cooking temperature of this ingredient\nhas already been fixed."
   },
   "155888": {
-    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\n調理が　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now cook with ingredients found not\nonly in the Animal Bag, but also in the\nStorage Area and Under the Roof! When you\n<br>\nselect a recipe for which you don't have\nenough ingredients, you can use the\ningredients in the Storage Area and the Roof\n<br>\nStorage...<color_white>\n<end>"
+    "<color_yellow>\n「どうぐかばん」だけでなく　「預かり所」と\n「屋根ウラ収納」に入っている　素材を　使って\n調理が　できるようになりました！\n<br>\n必要な素材が足りていない　レシピを選択すると\n「預かり所」と　「屋根ウラ収納」に　入っている\n素材アイテムを　使うことができます。\n<color_white>\n<end>": "<color_yellow>You can now use materials from your storage\nand house storage in addition to the items in\nyour item bag for Cooking!\n<br>\nWhen selecting a recipe with materials you\ndon't have on hand, you have the option of\nusing materials from either storage.\n<color_white>\n<end>"
   },
   "155889": {
     "調理を　続けますか？\n<break>": "Continue cooking?\n<break>"
@@ -1170,7 +1170,7 @@
     "": ""
   },
   "285047": {
-    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　表面固め　あと<%nL_MASU_TURN_2>ターン": "Mass <%sL_MASU_1> surface hardening and <%nL_MASU_TURN_1> turn\nMass <%sL_MASU_2> surface hardening and <%nL_MASU_TURN_2> turn"
+    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　表面固め　あと<%nL_MASU_TURN_2>ターン": "Square <%sL_MASU_1> Hardening: <%dL_MASU_TURN_1> Turn(s) Left\nSquare <%sL_MASU_2> Hardening: <%dL_MASU_TURN_2> Turn(s) Left"
   },
   "285048": {
     "": ""
@@ -1185,7 +1185,7 @@
     "": ""
   },
   "285052": {
-    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　表面固め　あと<%nL_MASU_TURN_2>ターン\nマス<%sL_MASU_3>　表面固め　あと<%nL_MASU_TURN_3>ターン": "Mass <%sL_MASU_1> surface hardening and <%nL_MASU_TURN_1> turn\nMass <%sL_MASU_2> surface hardening and <%nL_MASU_TURN_2> turn\nMass <%sL_MASU_3> surface hardening and <%nL_MASU_TURN_3> turn"
+    "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン\nマス<%sL_MASU_2>　表面固め　あと<%nL_MASU_TURN_2>ターン\nマス<%sL_MASU_3>　表面固め　あと<%nL_MASU_TURN_3>ターン": "Square <%sL_MASU_1> Hardening: <%dL_MASU_TURN_1> Turn(s) Left\nSquare <%sL_MASU_2> Hardening: <%dL_MASU_TURN_2> Turn(s) Left\nSquare <%sL_MASU_3> Hardening: <%dL_MASU_TURN_3> Turn(s) Left"
   },
   "285053": {
     "": ""
