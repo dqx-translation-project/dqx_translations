@@ -15,13 +15,13 @@
     "会心0.5％アップは\n覚えているだけで　常に会心率が\n0.5％分　上がるようになります。": "Your chance of scoring a critical hit has\nincreased by 0.5% permanently!"
   },
   "76927": {
-    "作る物の種類を　選んでください。\n<break>": "Please select the type of product you would\nlike to make.\n<break>"
+    "作る物の種類を　選んでください。\n<break>": "Please choose what you'd like to cook.\n<break>"
   },
   "76928": {
-    "現在　調理職人レベル<%dL_SYOKUNIN_LV>です。\n何を作りますか？<break>": "Your current Cooking level is <%dL_SYOKUNIN_LV>.\nWhat do you want to cook?<break>"
+    "現在　調理職人レベル<%dL_SYOKUNIN_LV>です。\n何を作りますか？<break>": "Your current Cooking level is Lv. <%dL_SYOKUNIN_LV>.\nWhat do you want to cook?<break>"
   },
   "76930": {
-    "<%sL_STORAGE_NAME>が　いっぱいなので\n調理が　できません。<end>": "<%sL_STORAGE_NAME> is full, so I can't\ncook...<end>"
+    "<%sL_STORAGE_NAME>が　いっぱいなので\n調理が　できません。<end>": "<%sL_STORAGE_NAME> is full, so you\ncannot cook.\n<end>"
   },
   "76932": {
     "一度　コツをつかんだレシピは\n『いっぱつしあげ』が　できるようになります。\n<br>\n『いっぱつしあげ』を使えば\nすぐにアイテムを　完成させられますが\nできのよさ<color_yellow>★★★<color_white>には　ならないので　ご注意を。\n<br>\nまた　『ふつうに作る』時も\nかいしんのてごたえの　出る確率が\n少しアップします！": "Once you have a knack for a recipe, the\n\"Quick Craft\" command becomes available.\n<br>\nQuick Craft allows you to finish the item in\nno time flat! However, items created this way\ncan never be <color_yellow>★★★<color_white> quality.\n<br>\nIn addition, the chance of getting a critical\nhit while using \"Craft Normally\" has increased\nslightly!"
@@ -30,22 +30,22 @@
     "<%sL_RECIPE>のレシピは\nまだ　覚えていません。<end>": "You don't know the <%sL_RECIPE>\nrecipe yet.<end>"
   },
   "76934": {
-    "調理設備がある。\n調理のレシピを　覚えれば\nここで　調理が　できそうだ。": "It's a cooking facility.\nIf you know a cooking recipe, you can cook it\nhere."
+    "調理設備がある。\n調理のレシピを　覚えれば\nここで　調理が　できそうだ。": "It's a cooking facility.\nIf you know any cooking recipes, you can cook\nhere."
   },
   "76935": {
     "そのカテゴリのレシピは\nまだ　覚えていません。<end>": "You don't know any recipes of this category\nyet.<end>"
   },
   "76937": {
-    "<%sL_RECIPE>を　作るには\n<pc>の　調理職人レベルが\n<%nL_HITUYOU_LV>以上　必要です。<end>": "To create <%sL_RECIPE>, the Cook level of\n<pc> must be at least\n<%dL_HITUYOU_LV>.<end>"
+    "<%sL_RECIPE>を　作るには\n<pc>の　調理職人レベルが\n<%nL_HITUYOU_LV>以上　必要です。<end>": "To cook the <%sL_RECIPE>,\nyour Cooking level must be\nLv. <%dL_HITUYOU_LV> or higher.<end>"
   },
   "76938": {
-    "調理とは　フライパンにのせた　具材を焼いて\n目的のアイテムを　作ることです。\n<br>\n具材を焼くと　焼き加減メーターが上昇します。\nメーターが　満タンになった具材は\n食べごろ状態になります。\n<br>\nすべての具材を　食べごろ状態にしましょう。\n完成品のできのよさは　この精度で決まります。\n<br>\n調理コマンドを実行するには　集中力が必要です。\n集中力がなくなると　実行できなくなるので\nペース配分を考えて　コマンドを選びましょう。\n<br>\n具材は　フライパンの中心に近いほど\n焼き加減メーターが　上がりやすくなるので\n具材の位置を　調整していきましょう。\n<br>\nなお　調理をしている途中に\n通信エラーなどでゲームが中断した場合\n素材は　すべて失われますので　ご注意ください。\n<end>": "Cooking is the process of baking the\ningredients on the fry bread to create the\ndesired item. When the ingredients are cooked,\n<br>\nthe doneness meter rises. When the meter is\nfull, the ingredients are ready to eat. All\nthe ingredients should be ready to eat. The\n<br>\nquality of the finished product is determined\nby this accuracy. Concentration is required to\nexecute the cooking commands. If you lose\n<br>\nconcentration, you will not be able to execute\nthe command, so pace yourself and choose the\nright command. The closer the ingredients are\n<br>\nto the center of the fry bread, the higher the\ncook meter will go, so adjust the position of\nthe ingredients accordingly. Note that if the\n<br>\ngame is interrupted by a communication error\nwhile cooking, all ingredients will be lost.\n<end>"
+    "調理とは　フライパンにのせた　具材を焼いて\n目的のアイテムを　作ることです。\n<br>\n具材を焼くと　焼き加減メーターが上昇します。\nメーターが　満タンになった具材は\n食べごろ状態になります。\n<br>\nすべての具材を　食べごろ状態にしましょう。\n完成品のできのよさは　この精度で決まります。\n<br>\n調理コマンドを実行するには　集中力が必要です。\n集中力がなくなると　実行できなくなるので\nペース配分を考えて　コマンドを選びましょう。\n<br>\n具材は　フライパンの中心に近いほど\n焼き加減メーターが　上がりやすくなるので\n具材の位置を　調整していきましょう。\n<br>\nなお　調理をしている途中に\n通信エラーなどでゲームが中断した場合\n素材は　すべて失われますので　ご注意ください。\n<end>": "Cooking is the process cooking various\ningredients on a frying pan to create a\nvariety of dishes.\n<br>\nAs you cook each ingredient, its cooked\nmeter will rise. When the meter is full,\nit is fully cooked and ready to eat.\n<br>\nBe sure that all ingredients are fully cooked,\nas the quality of the finished dish is\ndetermined by how cooked everything is.\n<br>\nFocus is required to use cooking commands,\nso use your Focus wisely as you cook a\ndish to completion.\n<br>\nThe closer an ingredient is to the center\nof the pan, the easier it is to cook. Move\nyour ingredients around effectively!\n<br>\nPlease note that if you an encounter a\nconnection error or the game closes while\ncooking, all ingredients will be lost.\n<end>"
   },
   "76939": {
-    "調理の遊び方の説明です！\n<br>\n毎ターン　具材を焼く度に\n各具材の　焼き加減メーターが　上昇します。\n焼き加減メーターを　満タンにしましょう。\n<br>\n焼き加減メーターが　満タンになった具材は\n食べごろ状態になります。\n<br>\nすべての具材が　食べごろ状態になったら\n『しあげる』コマンドで　完成です！\n<br>\nただし　食べごろ状態になった具材の\n焼き加減メーターが　もう一度　満タンになると\n具材が焼けコゲてしまうので　注意してください。\n<br>\n具材は　フライパンの中心に近いほど\n焼き加減メーターが　上がりやすくなります。\n集中力に注意しながら　完成を目指しましょう！\n<end>": "This is an explanation of how to play cooking!\nEach time you cook an ingredient, the meter\nfor that ingredient rises. The meter is\n<br>\nincreased each time an ingredient is baked.\nWhen the meter is full, the ingredients are\nready to eat. When all the ingredients are\n<br>\nready to eat, use the \"finish\" command to\ncomplete the cooking! However, be careful not\nto burn the ingredients when the meter becomes\n<br>\nfull again. The closer the ingredients are to\nthe center of the fry bread, the more likely\nthey are to rise on the doneness meter. Be\n<br>\ncareful to concentrate when you are cooking!\n<end>"
+    "調理の遊び方の説明です！\n<br>\n毎ターン　具材を焼く度に\n各具材の　焼き加減メーターが　上昇します。\n焼き加減メーターを　満タンにしましょう。\n<br>\n焼き加減メーターが　満タンになった具材は\n食べごろ状態になります。\n<br>\nすべての具材が　食べごろ状態になったら\n『しあげる』コマンドで　完成です！\n<br>\nただし　食べごろ状態になった具材の\n焼き加減メーターが　もう一度　満タンになると\n具材が焼けコゲてしまうので　注意してください。\n<br>\n具材は　フライパンの中心に近いほど\n焼き加減メーターが　上がりやすくなります。\n集中力に注意しながら　完成を目指しましょう！\n<end>": "This will explain Cooking!\n<br>\nAs you cook each ingredient, its cooked\nmeter will rise. Do your best to try and\nfill this meter.\n<br>\nIngredients that have a full meter are\nfully cooked and ready to eat.\n<br>\nWhen all ingredients are fully cooked,\nuse the \"Finish\" command to finish\ncooking!\n<br>\nIf an ingredient that is fully cooked has its\nmeter filled again, it will burn, so be\ncareful not to overcook your ingredients.\n<br>\nThe closer an ingredient is to the center of\nthe frying pan, the more its cooked meter\nwill rise when it is cooked.\n<br>\nBe mindful of your Focus as you cook as\nyou aim to be a top chef!\n<end>"
   },
   "76940": {
-    "<%sL_RECIPE>を作るには\n素材が　足りません。<end>": "There is not enough material to make\n<%sL_RECIPE>.<end>"
+    "<%sL_RECIPE>を作るには\n素材が　足りません。<end>": "You don't have enough ingredients to cook the\n<%sL_RECIPE>.<end>"
   },
   "76941": {
     "調理設備がある。\n調理職人であれば\nここで　アイテムが作れそうだ。": "It's a cooking facility.\nIf you're a cook, you can craft items here."
@@ -75,10 +75,10 @@
     "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
   },
   "76953": {
-    "<speed=0>同じ種類の　具材同士でしか\nまぜあわせは　できません。": "<speed=0>You can only mix ingredients of the same type\nwith each other."
+    "<speed=0>同じ種類の　具材同士でしか\nまぜあわせは　できません。": "<speed=0>You can only use Mix 'n' Match on ingredients\nof the same type."
   },
   "76954": {
-    "<pc>が使っていた\n<%sL_SYOKUNIN_TOOL>は　限界がきて\nこわれてしまった……。<end>": "The <%sL_SYOKUNIN_TOOL> used by <pc>\nhad reached its limits and was broken...<end>"
+    "<pc>が使っていた\n<%sL_SYOKUNIN_TOOL>は　限界がきて\nこわれてしまった……。<end>": "The <%sL_SYOKUNIN_TOOL> that\n<pc> was using has reached its\nlimit and is now broken.<end>"
   },
   "76955": {
     "調理を　続けますか？\n<break>": "Continue cooking?\n<break>"
@@ -96,37 +96,37 @@
     "できのよさ<color_yellow>★★★<color_white>の物は　できませんが\nいっぱつしあげをして　よろしいですか？\n<yesno><close>": "Do you want to quick craft this item you have\na knack for? The item will not have a quality\nof <color_yellow>★★★<color_white>.<yesno><close>"
   },
   "78788": {
-    "ダブルたて返しを使うと　\n縦横２マスにある　上下の具材を\n入れ替えることができます。": "Using Da Bullta Teboshi, you can swap the top\nand bottom ingredients in two squares\nvertically and horizontally."
+    "ダブルたて返しを使うと　\n縦横２マスにある　上下の具材を\n入れ替えることができます。": "By using Double Upright, you can swap\n2-square ingredients vertically."
   },
   "78789": {
-    "ダブルよこ返しを使うと　\n縦横２マスにある　左右の具材を\n入れ替えることができます。": "The double yoko-yorigami allows you to swap\nthe left and right ingredients in the two\nsquares vertically and horizontally."
+    "ダブルよこ返しを使うと　\n縦横２マスにある　左右の具材を\n入れ替えることができます。": "By using Double Upright, you can swap\n2-square ingredients horizontally."
   },
   "78791": {
-    "ななめムーブを使うと\nななめのマスに　具材を移動することができます。": "The diagonal move allows you to move\ningredients to a square diagonally."
+    "ななめムーブを使うと\nななめのマスに　具材を移動することができます。": "By using Criss Cross, you can move an\ningredient diagonally."
   },
   "78792": {
-    "弱火焼きを使うと\n全てのマスを　４ターンの間\n半分の火力で　焼くことができます。": "With a low-fire burn, all squares can be\nburned with half the firepower for four turns."
+    "弱火焼きを使うと\n全てのマスを　４ターンの間\n半分の火力で　焼くことができます。": "By using Simmer, all squares will cook at\nhalf strength for 4 turns."
   },
   "78793": {
-    "強火焼きを使うと\n全てのマスを　４ターンの間\n強い火力で　焼くことができます。": "With the High Fire Burner, all squares can be\nburned with intense heat for four turns."
+    "強火焼きを使うと\n全てのマスを　４ターンの間\n強い火力で　焼くことができます。": "By using High Heat, all squares will cook\nwith more strength for 4 turns."
   },
   "78794": {
-    "まぜあわせを使うと\n上下左右にある　同じ種類の具材と\n焼き加減を　揃えることができます。": "The mixer can be used to match the same type\nof ingredients on the top, bottom, left, and\nright sides of the pan to the same degree of\n<br>\ndoneness."
+    "まぜあわせを使うと\n上下左右にある　同じ種類の具材と\n焼き加減を　揃えることができます。": "By using Mix 'n' Match, any adjacent\ningredients that are the same type as the one\nchosen will have their cooked level averaged."
   },
   "78795": {
     "ねらい焼きを使うと\n選択したマスを　通常より高い会心率で\n焼くことができます。": "When using Critigrill, the selected square\nwill cook with a higher chance of a critical\nhit."
   },
   "78796": {
-    "完熱封じを使ったマスは　しばらくの間\n何をしても　焼けなくなります。": "The trout using the perfect heat seal will not\nburn no matter what you do for a while."
+    "完熱封じを使ったマスは　しばらくの間\n何をしても　焼けなくなります。": "By using Burners Off, the selected square will\nnot cook under any circumstances for a short\nwhile."
   },
   "78797": {
-    "たて返しを使うと　\n縦２マスにある　上下の具材を\n入れ替えることができます。": "Using the flip side, you can swap the top and\nbottom ingredients in the two vertical\nsquares."
+    "たて返しを使うと　\n縦２マスにある　上下の具材を\n入れ替えることができます。": "By using Flip Over, you can swap two\nvertically-placed ingredients."
   },
   "78798": {
     "トップターンを使うと\n上の列にある具材を　下の列まで\n一気に飛ばすことができます。": "The top turn allows the ingredients in the top\nrow to fly all the way down to the bottom row."
   },
   "78799": {
-    "よこ返しを使うと　\n横２マスにある　左右の具材を\n入れ替えることができます。": "The \"YOKO-TABOROSHI\" allows you to swap the\nleft and right ingredients in the two\nhorizontal squares."
+    "よこ返しを使うと　\n横２マスにある　左右の具材を\n入れ替えることができます。": "By using Flip Sideways, you can swap two\ningredients horizontally."
   },
   "78800": {
     "今日の依頼は　全て達成済みです。\n<end>": "All of today's requests have been fulfilled.\n<end>"
@@ -150,13 +150,13 @@
     "今日できる　ギルドの依頼は無いようです。\n<end>": "There are no guild requests today.<end>"
   },
   "86132": {
-    "<speed=0>この具材は　まぜあわせの対象に選べません。": "<speed=0>This ingredient cannot be selected for the\nmixing."
+    "<speed=0>この具材は　まぜあわせの対象に選べません。": "<speed=0>This ingredient cannot be selected for\nMix 'n' Match."
   },
   "86157": {
     "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<select_end><break>": "<select_se_off>\n<%sL_MENU_NO_1>\n<%sL_MENU_NO_2>\n<%sL_MENU_NO_3>\n<select_end><break>"
   },
   "86181": {
-    "<speed=0><%sL_TOKUGI>の　効果範囲に\n<%sL_TOKUGI>できない具材が　含まれています。": "<speed=0>The effect range of <%sL_TOKUGI> includes\ningredients that cannot be <%sL_TOKUGI>."
+    "<speed=0><%sL_TOKUGI>の　効果範囲に\n<%sL_TOKUGI>できない具材が　含まれています。": "<speed=0>The effect range of <%sL_TOKUGI>\ncontains ingredients that cannot be used\nwith this skill."
   },
   "86182": {
     "<speed=0><%sL_TOKUGI>の　効果範囲に\n具材の一部が　含まれていないので\n<%sL_TOKUGI>は　使えません。": "<speed=0><%sL_TOKUGI> cannot be used because\none or more of the specified ingredients\nis not within its effect range."
