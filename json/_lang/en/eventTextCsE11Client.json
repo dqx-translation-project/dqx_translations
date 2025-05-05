@@ -39,7 +39,7 @@
     "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>Oh dear!<else>No!<endif>"
   },
   "37": {
-    "「<pc>さま～～！！\n　もうちょっとだけ　勉強教えて～～～！！": "<pc>～～!!\nCome help me study～～～!!"
+    "「<pc>さま～～！！\n　もうちょっとだけ　勉強教えて～～～！！": "<pc>!\nCome help me study!!"
   },
   "38": {
     "「<pc>さまっ！？": "<pc>?!"
@@ -69,16 +69,16 @@
     "「そろそろ　若葉の試みを始めるらしいぞ！": "I hear that they're about to begin the Trial\nof New Leaves!"
   },
   "53": {
-    "「ど　どうしよう……\n　<pc>さま～～～。": "Wh-what should I do...?\n<pc>～～～"
+    "「ど　どうしよう……\n　<pc>さま～～～。": "Wh-what should I do, <pc>...?"
   },
   "54": {
-    "「フウラ！\n　<pc>さま　<pc>さまって\n　ちょっと　頼りすぎだぞ！": "Listen to yourself, Fuura!\n\"<pc>, <pc>!\"\nYou rely on them too much!"
+    "「フウラ！\n　<pc>さま　<pc>さまって\n　ちょっと　頼りすぎだぞ！": "Listen to yourself, Fuura!\n\"<pc> this, <pc> that!\"\nYou rely on <if_woman>her<else>him<endif> too much!"
   },
   "55": {
     "「ふんっ　アサナギのイジワル！": "Hmph. Quit teasing, Asanagi!"
   },
   "56": {
-    "「<pc>さまは　優しいから　いいの！\n　ね～っ　ケキちゃん<heart>": "Well, it's okay because <pc>'s so\nnice! Riiight, Cakey～?<heart>"
+    "「<pc>さまは　優しいから　いいの！\n　ね～っ　ケキちゃん<heart>": "Well, it's okay because <pc>'s so\nnice! Riiight, Cakey?<heart>"
   },
   "57": {
     "「とにかく　これが　ボクたちの卒業試験だ。\n　最後の試験で　ボクは　キミに勝つ！": "Anyway, this is our graduation exam.\nI'm going to beat you in the final test!"
@@ -522,7 +522,7 @@
     "「やはり　そなたが　一番乗りか。\n　私は　師コウ。\n　力の試練を　見届ける者。": "I knew you'd be here first.\nI am Master Kou, the one who shall bear\nwitness to the test of strength."
   },
   "212": {
-    "「よく来た　友よ！\n　オリは　若葉の精霊ダワ。": "Glad you made it, friend!\nI'm known as the spirit of young leaves."
+    "「よく来た　友よ！\n　オリは　若葉の精霊ダワ。": "Glad you made it, friend!\nI'm known as the Sprout Spirit."
   },
   "213": {
     "「この世界樹と　ともに生まれ\n　はるか昔より　学びの徒たちのチカラを\n　試し続けてきたのダワ。": "I was born with the World Tree.\nI've been testing the strength of learners\nlike you for a long time."
@@ -624,7 +624,7 @@
     "「生きろ……　世界樹……！\n　オリのチカラ……　全部　やるダワ。": "Yggdrasil...you must...live...!\nTake my power... all of it."
   },
   "247": {
-    "「若葉の精霊……。": "Spirit of young leaves..."
+    "「若葉の精霊……。": "The Sprout Spirit..."
   },
   "248": {
     "「心配するな……　世界樹があるかぎり\n　オリは　死なないのダワ。": "Don't worry... As long as the World Tree\nexists, I won't die."
@@ -642,13 +642,13 @@
     "「<pc>　もっと　こちらへ。": "<pc>, come over here."
   },
   "253": {
-    "「師コウと　若葉の精霊のことは　残念でした。\n　私も　風たちの　ざわめきから話を聞き\n　そなえては　いたのですが……。": "I'm sorry to hear about Master Kou and the\nspirit of young leaves. I have heard the whole\nstory from the rustling of the wind and have\n<br>\nmade appropriate provisions."
+    "「師コウと　若葉の精霊のことは　残念でした。\n　私も　風たちの　ざわめきから話を聞き\n　そなえては　いたのですが……。": "It's terrible what happened to both Master Kou\nand the Sprout Spirit. The winds spoke of it\nto me, and I had prepared for it, but..."
   },
   "254": {
-    "「魔瘴から　そなたたちを救った\n　あの大いなる光は　世界の中心\n　レンダーシアより　放たれました。": "The great light that saved you from the\nmonsters came from Lendersia, the center of\nthe world."
+    "「魔瘴から　そなたたちを救った\n　あの大いなる光は　世界の中心\n　レンダーシアより　放たれました。": "The great light that saved you from the\nmiasma came from Lendersia, the center of\nthe world."
   },
   "255": {
-    "「アサナギ　キュウスケ　そして　<pc>。\n　そなたたちは　あの魔瘴を前にしても\n　恐れずに　立ち向かいましたね。": "Asanagi, Kyusuke, and <pc>.\nYou all faced the demon miasma without fear,\ndidn't you?"
+    "「アサナギ　キュウスケ　そして　<pc>。\n　そなたたちは　あの魔瘴を前にしても\n　恐れずに　立ち向かいましたね。": "The three of you faced the miasma without\nfear in your hearts, yes?"
   },
   "256": {
     "「何ものをも恐れぬ　その偉大な勇気は\n　これからの世に　必要とされることでしょう。": "Your great courageーyour fearlessnessーwill\nbe needed in the days to come."
@@ -663,16 +663,16 @@
     "「そなたにも　アサナギにも　そのチカラは\n　充分に　そなわっているのですよ。": "You and Asanagi are both more than up to the\ntask."
   },
   "260": {
-    "「それに　キュウスケ。\n　そなたも　師コウの言葉で\n　心を決めたのでしょう？": "Besides, Kyusuke, you already made up your\nmind when you heard Master Kou's words, didn't\nyou?"
+    "「それに　キュウスケ。\n　そなたも　師コウの言葉で\n　心を決めたのでしょう？": "Besides, Kyusukeーyou already made up your\nmind when you heard Master Kou's words, did\nyou not?"
   },
   "261": {
-    "「……はい！": "...Right!"
+    "「……はい！": "...I did!"
   },
   "262": {
-    "「勇者の覚醒……　そして　大いなる闇……。": "The awakening of the Hero...and a great\ndarkness..."
+    "「勇者の覚醒……　そして　大いなる闇……。": "The awakening of the Hero...and the great\ndarkness..."
   },
   "263": {
-    "「世界に　何かが起きているんだ。\n　<pc>との　勝負なんて\n　小さなことに　こだわってる場合じゃない。": "There's something going on in the world.\nI can't afford to dwell on little things like\ncompeting against <pc>."
+    "「世界に　何かが起きているんだ。\n　<pc>との　勝負なんて\n　小さなことに　こだわってる場合じゃない。": "There's something going on in the world.\nI can't afford to dwell on little things like\ncompeting against you, <pc>."
   },
   "264": {
     "「アサナギ。": "Asanagi."
