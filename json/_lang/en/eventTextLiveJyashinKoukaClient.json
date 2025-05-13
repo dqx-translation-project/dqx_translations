@@ -24,16 +24,16 @@
     "選んだ戦神効果を　<%nL_SEAL_NUM>種類　封印した！\n<se_nots System 7>\n<bw_break>": "The <%dL_SEAL_NUM> effect type(s) you have\nchosen have been sealed!\n<se_nots System 7>\n<bw_break>"
   },
   "134429": {
-    "「それでは　戦神のベルトの効果の\n　封印状態を　<%nL_SEAL_NUM>種類　解除します。\n<br>\n「封印の聖灰を　<%nL_POINT_NUM>個　使いますが\n　これまでの封印に使った　<%nL_GET_NUM>個は\n　戻ってきます。解除して　よろしいですか？\n<yesno 2><break>": "To remove your <%dL_SEAL_NUM> unique sealed effects,\nI will require <%dL_POINT_NUM> Sealing Ash.\n<br>\nIn addition, the <%dL_GET_NUM> Sealing Ash you've\nused so far will be returned do you. Do you\nwant to remove them?\n<yesno 2><break>"
+    "「それでは　封印の聖灰を　<%nL_POINT_NUM>個　使って\n　戦神のベルトの効果の　封印状態を\n　<%nL_SEAL_NUM>種類　解除します。\n<br>\n「これまでの封印に使った　<%nL_GET_NUM>個から\n　差しひき　<%nL_TOTAL_NUM>個　戻ります。\n　解除して　よろしいですか？\n<yesno 2><break>": ""
   },
   "134430": {
-    "「それでは　戦神のベルトの効果の\n　封印状態を　<%nL_SEAL_NUM>種類　解除します。\n<br>\n「封印の聖灰を　<%nL_POINT_NUM>個　使いますが\n　これまでの封印に使った　<%nL_GET_NUM>個は\n　戻ってきます。\n<br>\n「封印の聖灰は　<%nL_MAX_NUM>個までしか持てません。\n　今　封印の解除を　おこなうと　<%nL_GET_NUM2>個分しか\n　戻りませんが　よろしいですか？\n<yesno 2><break>": "To remove your <%dL_SEAL_NUM> unique sealed effects,\nI will require <%dL_POINT_NUM> Sealing Ash.\n<br>\nIn addition, the <%dL_GET_NUM> Sealing Ash you've\nused so far will be returned do you.\n<br>\nYou may only hold <%dL_MAX_NUM> Sealing Ash at most.\nIf you do this, only <%dL_GET_NUM2> will be returned to\nyou. Is this acceptable?\n<yesno 2><break>"
+    "「それでは　封印の聖灰を　<%nL_POINT_NUM>個　使って\n　戦神のベルトの効果の　封印状態を\n　<%nL_SEAL_NUM>種類　解除します。\n<br>\n「これまでの封印に使った　<%nL_GET_NUM>個から\n　差しひき　<%nL_TOTAL_NUM>個　戻ります。\n<br>\n「封印の聖灰は　<%nL_MAX_NUM>個までしか持てません。\n　今　封印の解除をおこなうと　<%nL_GET_NUM2>個分しか\n　戻りませんが　よろしいですか？\n<yesno 2><break>": ""
   },
   "134431": {
     "「戦神のベルトの効果を　封印していません。\n<bw_break>": "The effects of the War Deity Belt have not\nbeen sealed.\n<bw_break>"
   },
   "134432": {
-    "「封印の聖灰を　<%nL_POINT_NUM>個　使って\n　戦神のベルトの効果の　封印状態を\n　<%nL_SEAL_NUM>種類　解除しました。\n<br>\n「これまで封印に使った\n　封印の聖灰　<%nL_GET_NUM>個が\n　戻りました。\n<se_nots System 7>\n<bw_break>": "I've used <%dL_POINT_NUM> of your Sealing Ash\nto remove the <%dL_SEAL_NUM> unique effects that\nyou currently have sealed.\n<br>\nThe <%dL_GET_NUM> Sealing Ash you used\nto seal those effects has been returned to\nyou.\n<se_nots System 7>\n<bw_break>"
+    "「封印の聖灰を　<%nL_POINT_NUM>個　使って\n　戦神のベルトの効果の　封印状態を\n　<%nL_SEAL_NUM>種類　解除しました。\n<br>\n「これまで封印に　<%nL_GET_NUM>個　使ったので\n　差しひき　封印の聖灰が\n　<%nL_TOTAL_NUM>個　戻りました。\n<se_nots System 7>\n<bw_break>": ""
   },
   "134848": {
     "「<%sL_ITEM><%sL_PLUSNUM>を　捧げると\n　封印の聖灰が<%nL_POINT_NUM>個　手に入ります。\n　捧げたアイテムは失われます。よろしいですか？\n<yesno 2><break>": "If you offer that <%sL_ITEM><%sL_PLUSNUM>, you\nwill get <%dL_POINT_NUM> Sealing Ash. The offered item will\nbe lost. Are you certain?\n<yesno 2><break>"
@@ -132,7 +132,7 @@
     "「<%sL_KYOUKA_ITEM>を　持っていません。\n　<%sL_KYOUKA_ITEM>は　ＤＱＸショップで\n　購入できます。\n<sys_msg><color_yellow>\nプレイヤー専用サイト　目覚めし冒険者の広場\nドラゴンクエストＸショップ（ＤＱＸショップ）\nhttps://sqex.to/dqxshop\n<color_white><sw_msg_mode>": "You don't have any <%sL_KYOUKA_ITEM>.\nThey can be purchased within the DQX\nShop.\n<sys_msg><color_yellow>\nYou can visit the DQX Shop using the\nfollowing link:\nhttps://sqex.to/dqxshop\n<color_white><sw_msg_mode>"
   },
   "317923": {
-    "「使用期限内の　<%sL_KYOUKA_ITEM>がありません。\n　<%sL_KYOUKA_ITEM>は　ＤＱＸショップで\n　入手できます。\n<sys_msg><color_yellow>\nプレイヤー専用サイト　目覚めし冒険者の広場\nドラゴンクエストＸショップ（ＤＱＸショップ）\nhttps://sqex.to/dqxshop\n<color_white><sw_msg_mode>": "You don't have any <%sL_KYOUKA_ITEM>\nthat are not expired. You can obtain them\nfrom the DQX Shop.\n<sys_msg><color_yellow>\nYou can visit the DQX Shop using the\nfollowing link:\nhttps://sqex.to/dqxshop\n<color_white><sw_msg_mode>"
+    "「使用期限内の　<%sL_KYOUKA_ITEM>がありません。\n　<%sL_KYOUKA_ITEM>は　ＤＱＸショップで\n　購入できます。\n<sys_msg><color_yellow>\nプレイヤー専用サイト　目覚めし冒険者の広場\nドラゴンクエストＸショップ（ＤＱＸショップ）\nhttps://sqex.to/dqxshop\n<color_white><sw_msg_mode>": ""
   },
   "317924": {
     "「覚醒の鬼石と　覚醒の鬼神石の\n　どちらで強化しますか？\n<select_se_off>\n覚醒の鬼石\n覚醒の鬼神石\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Would you prefer to use a Super Demon\nStone, or an Uber Demon Stone?\n<select_se_off>\nSuper Demon Stone\nUber Demon Stone\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
@@ -199,5 +199,11 @@
   },
   "331227": {
     "「選ぼうとした効果の　封印を解除するには\n　封印の聖灰が　<%nL_LACK_NUM>個　足りません。\n<bw_break>": "You will require <%dL_LACK_NUM> more Sealing Ash\nto unseal the effects you've selected.\n<bw_break>"
+  },
+  "339964": {
+    "「それでは　封印の聖灰を　<%nL_POINT_NUM>個　使って\n　戦神のベルトの効果の　封印状態を\n　<%nL_SEAL_NUM>種類　解除します。\n<br>\n「これまでの封印に使った　<%nL_GET_NUM>個から\n　差しひき　<%nL_TOTAL_NUM>個　消費します。\n　解除して　よろしいですか？\n<yesno 2><break>": ""
+  },
+  "339965": {
+    "「封印の聖灰を　<%nL_POINT_NUM>個　使って\n　戦神のベルトの効果の　封印状態を\n　<%nL_SEAL_NUM>種類　解除しました。\n<br>\n「これまで封印に　<%nL_GET_NUM>個　使ったので\n　差しひき　封印の聖灰を　<%nL_TOTAL_NUM>個　消費しました。\n<se_nots System 7>\n<bw_break>": ""
   }
 }
