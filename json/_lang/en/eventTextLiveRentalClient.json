@@ -48,7 +48,7 @@
     "「<%sM_item>をレンタル中だな。\n　他の衣装を借りるなら　今借りてる衣装は\n　返却してもらうが　それでも借りるのか？\n<yesno><close>": "You're renting <%sM_item>. If you rent another\noutfit, I'll ask you to return the one you're\ncurrently renting, but you still want to rent\n<br>\nit?\n<yesno><close>"
   },
   "69266": {
-    "「レンタル衣装は　借りると元の装備の性能のまま\n　見た目だけを　他では　絶対になれない\n　超絶クールな姿に変えられる　夢の衣装さ！\n<br>\n「レンタル期間は　１日単位で　最大９日まで。\n　期間が終わったら　自動的に返却されるから\n　わざわざ　ここに来る必要はない。\n<br>\n「レンタルした衣装は　『そうび』画面から\n　いつでも　脱いだり着たりできる。\n　当然だが　レンタル料は　衣装ごとに違うぜ？\n<br>\n「チケットのアイコンがある衣装は\n　どうぐかばんの　衣装券と　交換できる。\n　一度手に入れたら　ゴールドで借りられるな。\n<br>\n「チケットのアイコンがない衣装は\n　だいじなものの　衣装券ケースに　衣装券が\n　あれば　何度でも無料で　借りられるぜ。": "The rental costume is a dream costume that\nallows you to change your appearance to\nsomething cool that you would never be able to\n<br>\nachieve otherwise, while maintaining the\nperformance of your original equipment. You\ncan take off or put on the rented costume at\n<br>\nany time from the \"equipment\" screen. Of\ncourse, the rental fee is different for each\ncostume. Costumes with a ticket icon can be\n<br>\nexchanged for a costume ticket in the item\nbag. Costumes with ticket icons can be\nexchanged for a costume ticket in the item\n<br>\nbag, and once received, can be rented for\ngold. Costumes without a ticket icon can be\nrented for free as many times as you want, as\n<br>\nlong as you have the ticket in the Costume\nTicket Box in the Key Items."
+    "「レンタル衣装は　借りると元の装備の性能のまま\n　見た目だけを　他では　絶対になれない\n　超絶クールな姿に変えられる　夢の衣装さ！\n<br>\n「レンタル期間は　１日単位で　最大９日まで。\n　期間が終わったら　自動的に返却されるから\n　わざわざ　ここに来る必要はない。\n<br>\n「レンタルした衣装は　『そうび』画面から\n　いつでも　脱いだり着たりできる。\n　当然だが　レンタル料は　衣装ごとに違うぜ？\n<br>\n「チケットのアイコンがある衣装は\n　どうぐかばんの　衣装券と　交換できる。\n　一度手に入れたら　ゴールドで借りられるな。\n<br>\n「ただし　クローバーバッグの衣装券は\n　期限付きだ。チケットの　期限切れになると\n　レンタルできないから　気をつけてくれ。\n<br>\n「チケットのアイコンがない衣装は\n　だいじなものの　衣装券ケースに　衣装券が\n　あれば　何度でも無料で　借りられるぜ。": ""
   },
   "69267": {
     "「オーケー！　商談成立だ！\n　レンタルした衣装は　『そうび』画面から\n　いつでも　脱いだり着たりできるからな！": "Okay, we've got a deal! You can take off or\nput on your rental outfit from the \"equipment\"\nscreen at any time!"
@@ -118,5 +118,11 @@
   },
   "150388": {
     "「よし。じゃあ　チケットは\n　ここで　もらっておくぜ。": "Okay. I'll get the tickets here."
+  },
+  "339055": {
+    "「<%sM_item>は　チケット制だ。\n　<%sM_item2>の　期限が切れるまでは\n　何度も借りられるぜ。\n<br>\n「レンタル期間は　１日間だが　チケットの\n　期限内なら　レンタル期間を　継続できるぜ。\n　この<%sM_item>を　借りるか？\n<yesno><close>": ""
+  },
+  "339056": {
+    "「おっと　すまないが\n　この衣装券は　期限切れで使えないぜ。\n　別の衣装を選ぶなら　もう一度話しかけてくれ。": ""
   }
 }

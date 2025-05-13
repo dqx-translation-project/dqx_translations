@@ -1893,10 +1893,10 @@
     "保存先フォルダ": "Destination Folder"
   },
   "334551": {
-    "ゲームで使用するデータを保存するフォルダを変更することができます。": "Change the folder where game data is downloaded."
+    "ゲームで使用するデータを保存するフォルダを変更することができます。\nこの設定は「すべてのプレイヤー」に適用されます。": ""
   },
   "334552": {
-    "以下のフォルダが指定されているとアップデートが正しく行われなかったり、\nセーブが正常に行われない等、エラーが発生する可能性があります。\n \n　・フォルダに全角文字などが含まれている\n　・OneDriveなどの共有フォルダ\n　・保存先のフォルダが「読み取り専用」になっている": "If the following types of folders are used, you may\nexperience issues with downloading updates or saving\ndata.\n　-The folder has full-width characters in its name.\n　-A shared folder, such as OneDrive.\n　-A folder set to \"Read Only\"."
+    "以下のフォルダが指定されているとアップデートが正しく行われなかったり、\nセーブが正常に行われない等、エラーが発生する場合があります。\n　\n　・フォルダパスが長すぎたり、フォルダ名に全角文字などが含まれている\n　・OneDriveなどの共有フォルダ\n　・保存先フォルダや設定ファイルが「読み取り専用」になっている\n　・ゲームが起動中に変更しようとした": ""
   },
   "334553": {
     "保存先フォルダ": "Destination Folder"
@@ -1911,6 +1911,9 @@
     " ※ 注意": "! Caution !"
   },
   "335201": {
-    "そのフォルダを指定することはできません。\n以下に該当するフォルダはエラーとなります。\n　・フォルダに全角文字などが含まれている\n　・OneDriveなどの共有フォルダ\n　・保存先のフォルダが「読み取り専用」になっている": "That folder cannot be chosen. Errors will occur with\nthe following types of folders:\n　-The folder has full-width characters in its name.\n　-A shared folder, such as OneDrive.\n　-A folder set to \"Read Only\"."
+    "フォルダを変更することができませんでした。\n以下に該当する場合はエラーとなりますので\n設定状態をご確認下さい。\n　\n　・フォルダパスが長すぎたり、フォルダ名に全角文字などが含まれている\n　・OneDriveなどの共有フォルダ\n　・保存先フォルダや設定ファイル「読み取り専用」になっている\n　・ゲームが起動中に変更しようとした\n　・変更前のフォルダと同じ階層下のフォルダを指定した": ""
+  },
+  "339836": {
+    "変更前フォルダ": ""
   }
 }
