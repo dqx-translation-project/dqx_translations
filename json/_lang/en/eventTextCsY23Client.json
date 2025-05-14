@@ -30,10 +30,10 @@
     "「……ふむ。どうやら　冒険者のようだが…… \n　なかなか　興味深いね。\n　君　名前は　なんて言うんだい？": "...Hmm.\nSeems you're an adventurer as well.\nThat's interesting. What's your name?"
   },
   "126232": {
-    "<if_woman>「なるほど……\n　<pc>ちゃんというのか。 <else>「なるほど……\n　<pc>くんというのか。 <endif>": "<if_woman>I see...Ms. <pc>, is it?<else>I see...Mr. <pc>, is it?<endif>"
+    "<if_woman>「なるほど……\n　<pc>ちゃんというのか。 <else>「なるほど……\n　<pc>くんというのか。 <endif>": "I see...<if_woman>Ms.<else>Mr.<endif> <pc>, is it?"
   },
   "126233": {
-    "<if_woman>「よし！　<pc>ちゃん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<else>「よし！　<pc>くん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<endif>": "<if_woman>Right then! Ms. <pc>, the Fairy\nQueen guided us here together for a reason!\nPlease help me fulfill my mission!<else>Right then! Mr. <pc>, the Fairy\nQueen guided us here together for a reason!\nPlease help me fulfill my mission!<endif>"
+    "<if_woman>「よし！　<pc>ちゃん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<else>「よし！　<pc>くん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<endif>": "Right then! The Fairy Queen guided us here\nhere together for a reason!\nPlease help me fulfill my mission!"
   },
   "126234": {
     "「私は　みんなをハッピーにするべく \n　各地を冒険して　そこに住まう人たちや\n　冒険者に　つながりを生むことを促してきた。": "I'm traveling the world to make everyone happy\nby inspiring adventurers and the locals to get\nto know each other."
