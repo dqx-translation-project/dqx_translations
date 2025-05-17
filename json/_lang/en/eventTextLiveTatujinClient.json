@@ -87,7 +87,7 @@
     "「また　来るがよい。\n<end>": "Come again soon.\n<end>"
   },
   "122649": {
-    "<pipipi_off>\n<pc>は\n<%sM_ITEM>を　<%nM_NUM>こ　手に入れた！\n<se_nots System 7>\n<end>": ""
+    "<pipipi_off>\n<pc>は\n<%sM_ITEM>を　<%nM_NUM>こ　手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received\n<%dM_NUM> <%sM_ITEM>!\n<se_nots System 7>\n<end>"
   },
   "123211": {
     "達人クエストを　受けました。\n<me 74><end>": "Master Quest was accepted.\n<me 74><end>"
@@ -114,28 +114,28 @@
     "「<%sM_JEWEL_NAME>　じゃな。\n　おぬしは　すでに　開花している能力じゃ。\n　宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。": "<%sM_JEWEL_NAME>, I see.\nYou already know this ability. The jewel\nhas also been converted into <%dM_HOUJU_P> Jewel Point."
   },
   "336738": {
-    "「では　どのチカラの宝珠にするか\n　選ぶがよい。\n<break>": ""
+    "「では　どのチカラの宝珠にするか\n　選ぶがよい。\n<break>": "Very well. Please choose which jewel\nelement you would like.\n<break>"
   },
   "336739": {
-    "「光の宝珠？じゃな。\n　では　どちらにするか\n　選ぶがよい。\n<break>": ""
+    "「光の宝珠？じゃな。\n　では　どちらにするか\n　選ぶがよい。\n<break>": "Light Jewel, I see.\nWhich of the two would you like?\n<break>"
   },
   "336740": {
-    "「どのチカラの　詳細を確認するのだ？\n<break>": ""
+    "「どのチカラの　詳細を確認するのだ？\n<break>": "Which element's details would you prefer\nto check?\n<break>"
   },
   "336742": {
-    "「今から１時間だけ\n　魔物が宝珠を　落としやすくなる香水を\n　かけてしんぜよう。\n<br>\n「１日に　１回だけになるが\n　宝珠の香水を　かけてゆくかな？\n<yesno><break>": ""
+    "「今から１時間だけ\n　魔物が宝珠を　落としやすくなる香水を\n　かけてしんぜよう。\n<br>\n「１日に　１回だけになるが\n　宝珠の香水を　かけてゆくかな？\n<yesno><break>": "I can apply a perfume to you that will last\nfor 1 hour. During this time, monsters are\nmore likely to drop jewels.\n<br>\nI can do this only once per day.\nWould you like me to apply some\nJewel Perfume?\n<yesno><break>"
   },
   "336743": {
-    "「ん？　すでに香水が　かかっておるようじゃな。\n　今　かかっている香りの効果は\n　消えてしまうが　それでもよいかな？\n<yesno2><break>": ""
+    "「ん？　すでに香水が　かかっておるようじゃな。\n　今　かかっている香りの効果は\n　消えてしまうが　それでもよいかな？\n<yesno2><break>": "Hm? It appears you already have a perfume\napplied. If I apply this, your current effect\nwill be overwritten. Is that all right?\n<yesno2><break>"
   },
   "336744": {
-    "「さぁ　宝珠の香水が　かかったぞ！\n　よりいっそうの　鍛錬に　はげむがよい。\n<end>": ""
+    "「さぁ　宝珠の香水が　かかったぞ！\n　よりいっそうの　鍛錬に　はげむがよい。\n<end>": "The Jewel Perfume has been applied!\nNow go, and train even harder!\n<end>"
   },
   "336745": {
-    "「今日の分の　香水は　もうかけてしまったぞ。\n　翌日　朝６時以降に　また来るがよい。\n<end>": ""
+    "「今日の分の　香水は　もうかけてしまったぞ。\n　翌日　朝６時以降に　また来るがよい。\n<end>": "I've already applied perfume for you today.\nCome back the following day at 6 am (JST).\n<end>"
   },
   "336746": {
-    "「そなたの持つ　達人ポイントを\n　わしの　オススメする宝珠に　割り振って　\n　宝珠レベルを　決めてしんぜよう。\n<bw_break>": ""
+    "「そなたの持つ　達人ポイントを\n　わしの　オススメする宝珠に　割り振って　\n　宝珠レベルを　決めてしんぜよう。\n<bw_break>": "I will allocate your Master Points to jewels\nthat I recommend and set their jewel levels\nfor you.\n<bw_break>"
   },
   "336747": {
     "「今の　宝珠レベルはリセットするから\n　気をつけて　選ぶのじゃぞ。\n　どのチカラの達人ポイントを　割り振るかな？\n<break>": ""
