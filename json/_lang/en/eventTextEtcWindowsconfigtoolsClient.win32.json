@@ -306,7 +306,7 @@
     "カーソル操作の設定": "Cursor Settings"
   },
   "79904": {
-    " ゲーム画面が\n 非アクティブでも反応する": " Game will respond to inputs\n even when inactive."
+    " ゲーム画面が\n 非アクティブでも反応する": "Respond to input\nwhen game inactive."
   },
   "79905": {
     "キャラクター操作の設定": "Character Settings"
@@ -438,7 +438,7 @@
     "カーソル操作に使用する方向キーを設定します。": "Sets the direction key used for cursor operation."
   },
   "79948": {
-    "ゲーム画面が非アクティブの時の、ゲームパッドの挙動を設定します。\n　- チェックあり\n　　　非アクティブの時も操作を受け付けます。\n　　　※ゲームを複数同時に起動した場合、「使用するゲームパッド」に\n　　　　同じゲームパッドを設定しているプレイヤーは、このチェックが無効になります。\n　　　　「自動設定」の場合は、最初に接続したゲームパッドが認識されます。\n　- チェックなし\n　　　非アクティブの時は操作を受け付けません。\n　※ゲームプレイ中に変更する場合、「ゲーム画面が非アクティブでも反応する」が\n　　有効になっていると、コンフィグで行うゲームパッドの操作が\n　　ゲーム側にも影響しますので、ご注意ください。": "Sets the behavior of the gamepad when the game screen is inactive.\n  - Checked\nIt accepts operations even when it is inactive.\nWhen multiple games are launched at the same time,\nthis check box will be disabled for players who have the same gamepad set in the \"Gamepad to use\" field.\nWhen \"Auto\" is selected, the first gamepad you connect will be recognized.\n  - Unchecked\nWhen it is inactive, no operation is accepted.\nIf you want to change the settings during gameplay,\nplease note that if \"Respond even when the game screen is inactive\" is enabled,\ngamepad operations performed in the configuration will also affect the game."
+    "ゲーム画面が非アクティブの時の、ゲームパッドの挙動を設定します。\n　- チェックあり\n　　　非アクティブの時も操作を受け付けます。\n　　　※ゲームを複数同時に起動した場合、「使用するゲームパッド」に\n　　　　同じゲームパッドを設定しているプレイヤーは、このチェックが無効になります。\n　　　　「自動設定」の場合は、最初に接続したゲームパッドが認識されます。\n　- チェックなし\n　　　非アクティブの時は操作を受け付けません。\n　※ゲームプレイ中に変更する場合、「ゲーム画面が非アクティブでも反応する」が\n　　有効になっていると、コンフィグで行うゲームパッドの操作が\n　　ゲーム側にも影響しますので、ご注意ください。": "Sets the behavior of the gamepad when the game screen is inactive.\n  - Checked\nController inputs are recognized even when game is inactive.\nWhen multiple games are launched at the same time,\nthis check box will be disabled for players who have the same gamepad set.\nWhen \"Auto\" is selected, the first gamepad you connect will be recognized.\n  - Unchecked\nWhen it is inactive, no inputs are recognized.\nIf you want to change the setting during gameplay,\nplease note that if this option is enabled, gamepad\ninputs performed in the configuration will also affect the game."
   },
   "79949": {
     "ゲームパッドの操作タイプを設定します。\n　- Aタイプ\n　　　両手で操作しやすい標準タイプの設定です。\n　- Bタイプ\n　　　片手で操作しやすいタイプの設定です。\n　　　一部のシーンでは、「キャラ回転・時計回り」が「カメラリセット」に、\n　　　「キャラ回転・反時計回り」が「けってい」に変わります。": "Sets the gamepad operation type.\n  - Type A\nThis is a standard type setting that is easy to operate with both hands.\n  - Type B\nThis type of setting is easy to operate with one hand.\nIn some scenes, [Rotate character clockwise] will change to [Reset camera]\nand [Rotate character counterclockwise] will change to [Decide]."
@@ -1011,10 +1011,10 @@
     "コンフィグは、すでに起動しています。": "The configuration is already up and running."
   },
   "85164": {
-    "ボタンガイドの設定": "Setting up the button guide"
+    "ボタンガイドの設定": "Button Icon Settings"
   },
   "85165": {
-    "ボタンガイドの設定": "Setting up the button guide"
+    "ボタンガイドの設定": "Button Icon Settings"
   },
   "85166": {
     "ボタンガイドのタイプ：": "Button guide type:"
