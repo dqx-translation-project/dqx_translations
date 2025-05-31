@@ -726,7 +726,7 @@
     "「誰だ……！？": "Who's there!?"
   },
   "151275": {
-    "「おお！　よく　この場所を見つけたな！\n　ここは　隠し部屋になっているんだ。\n　声が聞こえたから　来てみたんだが……": "Oh! I see you managed to find this place!\nThis is actually a hidden room. I came to\ncheck since I heard voices, but..."
+    "「おお！　よく　この場所を見つけたな！\n　ここは　隠し部屋になっているんだ。\n　声が聞こえたから　来てみたんだが……": "Oh! I see you managed to find this place!\nThis is actually a hidden room. I came to\ncheck since I heard someone talking..."
   },
   "151276": {
     "「ん……？　それは　伝声の琴じゃないか！？\n　ちょっと　貸してみろっ！": "Hmm...? A Voice Harp?! Let me see!"
@@ -735,7 +735,7 @@
     "「クオード様！　クオード様！！\n　ご無事だったんですね。よかったですよぅ～。": "Master Quard! Thank goodness you're safe!\nI'm so glad..."
   },
   "151278": {
-    "「ああ。ケガもなく　無事だ。\n　こっちのことは　何も心配いらない。": "I'm fine, Dianji. Everything is fine here, so\nyou don't need to worry, okay?"
+    "「ああ。ケガもなく　無事だ。\n　こっちのことは　何も心配いらない。": "I'm fine, Dianji. Everything is fine here, so\nyou don't need to worry."
   },
   "151279": {
     "「なんという　頼もしい　お言葉！\n　クオード様に　おまかせしていれば\n　大丈夫ということなのですね？": "That's a relief to hear! Then, I can leave\neverything up to you, right?"
@@ -747,7 +747,7 @@
     "「え……？": "What...?"
   },
   "151282": {
-    "「さて……と。\n　もう　こんな狭い所に　用はないはずだろ？": "Well then...\nThere's no need to be in this cramped room\nanymore. Let's get out of here, shall we?"
+    "「さて……と。\n　もう　こんな狭い所に　用はないはずだろ？": "Now then...\nThere's no need to be in this cramped room\nanymore. Let's get out of here, shall we?"
   },
   "151283": {
     "<if_woman>「また　あとで　いつものように\n　剣の修行もしような　<pc>ちゃん。\n　それじゃ……。<else>「また　あとで　いつものように\n　剣の修行もしような　<pc>くん。\n　それじゃ……。<endif>": "I'll see you around, <pc>. Let's\ntrain some more again soon, okay?"
@@ -810,37 +810,37 @@
     "ザグルフ　クオード　メレアーデの\n誰に　ライトを当ててみますか？\n<select_nc>\nザグルフ\nクオード\nメレアーデ\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Who will you shine the Light on?\n<select_nc>\nZagulf\nQuard\nMereade\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<close>\n<case_cancel>\n<close>\n<case_end>"
   },
   "151303": {
-    "<pc>は　クオードに向かって\n思いきり　星華のライトを　当てた。": "<pc> shone the dazzling light\nof the Starflower Light directly at Quard."
+    "<pc>は　クオードに向かって\n思いきり　星華のライトを　当てた。": "<pc> shines the dazzling light\nof the Starflower Light directly at Quard."
   },
   "151304": {
-    "「うわっ　やめろっ　まぶしい！\n　いきなり　何をするんだ！\n　こんな無礼は　いくら　きみでも許さないぞ！！": "Hey, stop it! It's way too bright!\nI know we're friends, but that doesn't mean\nyou can just pull cheap stunts like that!"
+    "「うわっ　やめろっ　まぶしい！\n　いきなり　何をするんだ！\n　こんな無礼は　いくら　きみでも許さないぞ！！": "Hey, stop it! It's way too bright!\nI know we're friends, but what are you\nseriously trying to pull here?!"
   },
   "151305": {
     "クオードに　変わったところはないようだ。": "Nothing about Quard's demeanor seems to have\nchanged."
   },
   "151307": {
-    "<pc>は　ザグルフに向かって\n思いきり　星華のライトを　当てた。": "<pc> shone the dazzling light\nof the Starflower Light directly at Zagulf."
+    "<pc>は　ザグルフに向かって\n思いきり　星華のライトを　当てた。": "<pc> shines the dazzling light\nof the Starflower Light directly at Zagulf."
   },
   "151308": {
-    "「きゃー<heart>\n　まばゆいほどに　私を照らす　この輝き……。\n　ああん……　か・い・か・ん<heart>": "Wooow...this dazzling light makes me look\njust absolutely sublime...\nHow wonderful... Ahh... <heart>"
+    "「きゃー<heart>\n　まばゆいほどに　私を照らす　この輝き……。\n　ああん……　か・い・か・ん<heart>": "Wooow...this dazzling light makes me look\njust absolutely sublime...\nHow won-der-ful... Ahh... <heart>"
   },
   "151309": {
     "ザグルフに　変わったところはないようだ。": "Nothing about Zagulf's demeanor seems to have\nchanged."
   },
   "151311": {
-    "<pc>は　メレアーデに向かって\n思いきり　星華のライトを　当てた。": "<pc> shone the dazzling light\nof the Starflower Light directly at Mereade."
+    "<pc>は　メレアーデに向かって\n思いきり　星華のライトを　当てた。": "<pc> shines the dazzling light\nof the Starflower Light directly at Mereade."
   },
   "151312": {
     "「きゃっ！　い…いやっ……！\n　<pc>さん。\n　お願いです　やめてください。": "Aaah! No...no...!\nI'm begging you, <pc>.\nPlease stop!"
   },
   "151313": {
-    "<if_woman>「おいおい。<pc>ちゃん……？\n　いきなり　何をするんだ！？\n　姉さんが嫌がってるじゃないか。やめてくれよ！<else>「おいおい。<pc>くん……？\n　いきなり　何をするんだ！？\n　姉さんが嫌がってるじゃないか。やめてくれよ！<endif>": "What's the meaning of this, <pc>...?\nMy sister obviously doesn't like it, so\ncut it out!"
+    "<if_woman>「おいおい。<pc>ちゃん……？\n　いきなり　何をするんだ！？\n　姉さんが嫌がってるじゃないか。やめてくれよ！<else>「おいおい。<pc>くん……？\n　いきなり　何をするんだ！？\n　姉さんが嫌がってるじゃないか。やめてくれよ！<endif>": "Hey, what do you think you're doing...?\nShe said she doesn't like it, so stop it\nalready!"
   },
   "151314": {
-    "「えっ？　きみは　大事なものが欠けた人物を\n　探すために　こうして\n　ライトを　当てているだと！？": "What? You're using the Light to try and find\nan important person who's been lacking\nsomething?!"
+    "「えっ？　きみは　大事なものが欠けた人物を\n　探すために　こうして\n　ライトを　当てているだと！？": "What? You're using the Light to try and find\nsomeone who's lacking something\nimportant?!"
   },
   "151315": {
-    "「……それが　姉さんだというのか？\n　じゃあ　聞くけど……メレアーデ姉さんに\n　何が欠けているって　言うんだ？\n<select_nc>\n心がない\n華がない\n影がない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<close>\n<case_cancel>\n<close>\n<case_end>": "...you're saying it's my sister? Then, let me\nask you...what is it that she is lacking?\n<select_nc>\nShe lacks heart.\nShe lacks style.\nShe lacks a shadow.\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<close>\n<case_cancel>\n<close>\n<case_end>"
+    "「……それが　姉さんだというのか？\n　じゃあ　聞くけど……メレアーデ姉さんに\n　何が欠けているって　言うんだ？\n<select_nc>\n心がない\n華がない\n影がない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<close>\n<case_cancel>\n<close>\n<case_end>": "...And you're saying it's my sister? Okay,\nthen...what is it that she lacks?\n<select_nc>\nShe lacks heart.\nShe lacks style.\nShe lacks a shadow.\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<close>\n<case_cancel>\n<close>\n<case_end>"
   },
   "151316": {
     "「心がないだって？　きみが　姉さんを\n　そんなふうに思ってたなんて　がっかりだよ。\n　姉さんは　優しく　あたたかい人さ。": "She lacks heart? Are you saying she's\nheartless?! How dare you say that about her!\nShe is a very kind and warm person."
@@ -864,7 +864,7 @@
     "「……ふふっ。うふふふふふ…………。": "Heh...heheheheheh....."
   },
   "151324": {
-    "「姉さん……　どうして　笑っているの……？\n　う…うそだよね……？\n　なにかの　冗談だって　言ってよ……。": "Hey, sis...what's with the laughing...?\nThis is just some kind of joke, right...?\n...right?"
+    "「姉さん……　どうして　笑っているの……？\n　う…うそだよね……？\n　なにかの　冗談だって　言ってよ……。": "Hey, sis...what's with the laughing...?\nThis is just some kind of joke, right...?\n...Right?"
   },
   "151325": {
     "「まさか　そんな粗末なライトで\n　バレてしまうとは…………。": "I never thought I would be exposed by such\na crudely crafted Light..."
