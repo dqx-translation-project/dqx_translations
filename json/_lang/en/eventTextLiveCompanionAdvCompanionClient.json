@@ -2604,28 +2604,28 @@
     "<voice_nw IEV_AST_RIN_M01 0>\n「いかがなさいました？\n　<pc>さま。\n<break>": "<voice_nw IEV_AST_RIN_M01 0>\nIs something the matter, <pc>?\n<break>"
   },
   "334370": {
-    "<voice_nw IEV_AST_YUR_M01 0>\n「はい！　私に　何か　ご用でしょうか？\n<break>": "<voice_nw IEV_AST_YUR_M01 0>\nOf course! Is there anything else that I\ncan do for you?\n<break>"
+    "<voice_nw IEV_AST_YUR_M01 0>\n「はい！　私に　何か　ご用でしょうか？\n<break>": "<voice_nw IEV_AST_YUR_M01 0>\nYes, of course! Is there something you\nneed from me?\n<break>"
   },
   "334371": {
     "<voice_nw IEV_AST_GIR_M01 0>\n「なんだ？　<pc>。\n　俺に用でも　あるのか？\n<break>": "<voice_nw IEV_AST_GIR_M01 0>\nWhat is it? Do you need something?\n<break>"
   },
   "334372": {
-    "<voice_nw IEV_AST_RIN_M01 1>\n「よろしければ　もう少し　お話ししませんか？\n<break>": ""
+    "<voice_nw IEV_AST_RIN_M01 1>\n「よろしければ　もう少し　お話ししませんか？\n<break>": "<voice_nw IEV_AST_RIN_M01 1>\nIf you don't mind, may we chat for a\nlittle longer?\n<break>"
   },
   "334373": {
-    "<voice_nw IEV_AST_YUR_M01 1>\n「他に　私に　ご用はありませんか？\n<break>": ""
+    "<voice_nw IEV_AST_YUR_M01 1>\n「他に　私に　ご用はありませんか？\n<break>": "<voice_nw IEV_AST_YUR_M01 1>\nIs there anything else you need from me?\n<break>"
   },
   "334374": {
-    "<voice_nw IEV_AST_GIR_M01 1>\n「他に　何かあれば　言ってみろ。\n<break>": ""
+    "<voice_nw IEV_AST_GIR_M01 1>\n「他に　何かあれば　言ってみろ。\n<break>": "<voice_nw IEV_AST_GIR_M01 1>\nIf you need anything else, just say so.\n<break>"
   },
   "334375": {
-    "<voice_nw IEV_AST_RIN_M01 15>\n「また　いつでも　いらしてくださいね<heart>": ""
+    "<voice_nw IEV_AST_RIN_M01 15>\n「また　いつでも　いらしてくださいね<heart>": "<voice_nw IEV_AST_RIN_M01 15>\nPlease come and see me anytime. <heart>"
   },
   "334376": {
-    "<voice_nw IEV_AST_YUR_M01 15>\n「また　いつでも　声をかけてください。\n　待っていますので！": ""
+    "<voice_nw IEV_AST_YUR_M01 15>\n「また　いつでも　声をかけてください。\n　待っていますので！": "<voice_nw IEV_AST_YUR_M01 15>\nPlease do not hesitate to call on me any\ntime you'd like. I'll be waiting!"
   },
   "334377": {
-    "<voice_nw IEV_AST_GIR_M01 15>\n「また　何かあれば　声をかけろ。": ""
+    "<voice_nw IEV_AST_GIR_M01 15>\n「また　何かあれば　声をかけろ。": "<voice_nw IEV_AST_GIR_M01 15>\nIf something happens, give me a shout."
   },
   "334378": {
     "": ""
@@ -2763,31 +2763,31 @@
     "": ""
   },
   "334423": {
-    "リナーシェに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+    "リナーシェに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give <%dM_num> Heart Crystals\nto Linashe?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
   },
   "334424": {
-    "ユーライザに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+    "ユーライザに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give <%dM_num> Heart Crystals\nto Yuliza?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
   },
   "334425": {
-    "ギルガランに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": ""
+    "ギルガランに　こころの結晶を\n<%nM_num>こ　渡しますか？\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>": "Give <%dM_num> Heart Crystals\nto Gilgaran?\n<yesno><case 1><break><case 2><close><case_cancel><close><case_end>"
   },
   "334426": {
-    "<pc>は　リナーシェに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": ""
+    "<pc>は　リナーシェに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": "<pc> gives <%dM_num> Heart Crystals\nto Linashe!\n<end>"
   },
   "334427": {
-    "<pc>は　ユーライザに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": ""
+    "<pc>は　ユーライザに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": "<pc> gives <%dM_num> Heart Crystals\nto Yuliza!\n<end>"
   },
   "334428": {
-    "<pc>は　ギルガランに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": ""
+    "<pc>は　ギルガランに\nこころの結晶を　<%nM_num>こ　渡した！\n<end>": "<pc> gives <%dM_num> Heart Crystals\nto Gilgaran!\n<end>"
   },
   "334429": {
-    "<voice_nw IEV_AST_RIN_M01 4>\n「この結晶は……？\n　触れると　あなたへの想いが　あふれてきます。\n<br>\n<voice_nw IEV_AST_RIN_M01 5>\n「愛しい方。わたくしの　大切な方……。\n　どうか　こちらを　お受け取りください。\n<end>": ""
+    "<voice_nw IEV_AST_RIN_M01 4>\n「この結晶は……？\n　触れると　あなたへの想いが　あふれてきます。\n<br>\n<voice_nw IEV_AST_RIN_M01 5>\n「愛しい方。わたくしの　大切な方……。\n　どうか　こちらを　お受け取りください。\n<end>": "<voice_nw IEV_AST_RIN_M01 4>\nWhat is this crystal...? When I touch it,\nmy feelings for you just well up inside\nof me.\n<br>\n<voice_nw IEV_AST_RIN_M01 5>\nMy beloved... My dearest...\nPlease accept this from me.\n<end>"
   },
   "334430": {
-    "<voice_nw IEV_AST_YUR_M01 4>\n「ああ……。なにやら　私の心が\n　満たされていくような気がします……。\n<br>\n<voice_nw IEV_AST_YUR_M01 5>\n「これは　あなたとともに　過ごしたから？\n　きっと　そうに　ちがいありませんね！\n　お礼として　こちらを　受け取ってください。\n<end>": ""
+    "<voice_nw IEV_AST_YUR_M01 4>\n「ああ……。なにやら　私の心が\n　満たされていくような気がします……。\n<br>\n<voice_nw IEV_AST_YUR_M01 5>\n「これは　あなたとともに　過ごしたから？\n　きっと　そうに　ちがいありませんね！\n　お礼として　こちらを　受け取ってください。\n<end>": "<voice_nw IEV_AST_YUR_M01 4>\nAh... I feel like my heart is filling\nwith all sorts of emotions...\n<br>\n<voice_nw IEV_AST_YUR_M01 5>\nIs it because of all the time we've spent\ntogether? Yes, that must be it! Please,\ntake this as a token of my thanks.\n<end>"
   },
   "334431": {
-    "<voice_nw IEV_AST_GIR_M01 4>\n「不思議だな……。こいつを　手にしていると\n　お前と過ごしてきた　何気ない時間が\n　俺の心を　満たしていく……。\n<br>\n<voice_nw IEV_AST_GIR_M01 5>\n「どうやら　俺にとって\n　お前は　かけがえのない　存在のようだ。\n　こいつを　受け取れ。\n<end>": ""
+    "<voice_nw IEV_AST_GIR_M01 4>\n「不思議だな……。こいつを　手にしていると\n　お前と過ごしてきた　何気ない時間が\n　俺の心を　満たしていく……。\n<br>\n<voice_nw IEV_AST_GIR_M01 5>\n「どうやら　俺にとって\n　お前は　かけがえのない　存在のようだ。\n　こいつを　受け取れ。\n<end>": "<voice_nw IEV_AST_GIR_M01 4>\nHow strange... Holding this, I feel just\nthe simple times we've spent\ntogether fill my heart...\n<br>\n<voice_nw IEV_AST_GIR_M01 5>\nI guess I can say that you're someone\npretty special. Here, you can have this.\n<end>"
   },
   "334432": {
     "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60>": "<pc> received\n<%sM_ITEM>!\n<me 60>"
@@ -2799,13 +2799,13 @@
     "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60>": "<pc> received\n<%sM_ITEM>!\n<me 60>"
   },
   "334435": {
-    "<voice_nw IEV_AST_RIN_M01 2>\n「まあ　なんて　美しい結晶でしょう。\n　もう少し　数が集まったら\n　また持ってきてくださいませんか？\n<end>": ""
+    "<voice_nw IEV_AST_RIN_M01 2>\n「まあ　なんて　美しい結晶でしょう。\n　もう少し　数が集まったら\n　また持ってきてくださいませんか？\n<end>": "<voice_nw IEV_AST_RIN_M01 2>\nMy, what beautiful crystals! If you\nmanage to collect a few more, would you\nmind bringing them to me?\n<end>"
   },
   "334436": {
-    "<voice_nw IEV_AST_YUR_M01 2>\n「とても　美しい結晶ですね……。\n　もっと　たくさん　手に入れられたら\n　また　持ってきてくださいませんか。\n<end>": ""
+    "<voice_nw IEV_AST_YUR_M01 2>\n「とても　美しい結晶ですね……。\n　もっと　たくさん　手に入れられたら\n　また　持ってきてくださいませんか。\n<end>": "<voice_nw IEV_AST_YUR_M01 2>\nThese crystals are so beautiful... If you're\nable to find more of them, do you think\nyou could give them to me?\n<end>"
   },
   "334437": {
-    "<voice_nw IEV_AST_GIR_M01 2>\n「見事な結晶だな……。\n　こんなものは　めったに　お目にかかれないぞ。\n　もっと見つけて　持ってくるがいい。\n<end>": ""
+    "<voice_nw IEV_AST_GIR_M01 2>\n「見事な結晶だな……。\n　こんなものは　めったに　お目にかかれないぞ。\n　もっと見つけて　持ってくるがいい。\n<end>": "<voice_nw IEV_AST_GIR_M01 2>\nPretty magnificent crystals these are...\nIt's not every day I see something this\ngreat. Find more and bring them to me.\n<end>"
   },
   "334438": {
     "こころの結晶が　<%nM_num>こ集まれば\n何か起こりそうだ。\n<end>": "If you gather <%dM_num> Heart Crystals,\nsomething is bound to happen.\n<end>"
@@ -2817,22 +2817,22 @@
     "こころの結晶が　<%nM_num>こ集まれば\n何か起こりそうだ。\n<end>": "If you gather <%dM_num> Heart Crystals,\nsomething is bound to happen.\n<end>"
   },
   "334441": {
-    "<voice_nw IEV_AST_RIN_M01 3>\n「なんて　美しい結晶……こんなに集めるのは\n　さぞ　大変だったでしょう？　見せてくださって\n　ありがとうございます　<pc>さま。\n<end>": ""
+    "<voice_nw IEV_AST_RIN_M01 3>\n「なんて　美しい結晶……こんなに集めるのは\n　さぞ　大変だったでしょう？　見せてくださって\n　ありがとうございます　<pc>さま。\n<end>": "<voice_nw IEV_AST_RIN_M01 3>\nWhat beautiful crystals...it must have been\nquite difficult to collect all these, I\nimagine. Thank you for showing me them to me.\n<end>"
   },
   "334442": {
-    "<voice_nw IEV_AST_YUR_M01 3>\n「たくさん　結晶が　集まりましたね！\n　なぜか　わかりませんが　この結晶を見ていると\n　あなたのことが　もっと知りたくなります……。\n<end>": ""
+    "<voice_nw IEV_AST_YUR_M01 3>\n「たくさん　結晶が　集まりましたね！\n　なぜか　わかりませんが　この結晶を見ていると\n　あなたのことが　もっと知りたくなります……。\n<end>": "<voice_nw IEV_AST_YUR_M01 3>\nYou've collected a lot of these crystals!\nI'm not sure why, but looking at them makes\nme want to know more about you...\n<end>"
   },
   "334443": {
-    "<voice_nw IEV_AST_GIR_M01 3>\n「たくさん　集めたな。\n　その結晶を見ていたら　どういうわけか　お前と\n　もっと　言葉を　交わしたくなってきたぞ。\n<end>": ""
+    "<voice_nw IEV_AST_GIR_M01 3>\n「たくさん　集めたな。\n　その結晶を見ていたら　どういうわけか　お前と\n　もっと　言葉を　交わしたくなってきたぞ。\n<end>": "<voice_nw IEV_AST_GIR_M01 3>\nHuh, you've collected a lot of these.\nLooking at them makes me want to talk\nto you more, for whatever reason.\n<end>"
   },
   "334444": {
-    "リナーシェとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": ""
+    "リナーシェとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": "If Linashe's Bond Level increases, then\nsomething is bound to happen.\n<end>"
   },
   "334445": {
-    "ユーライザとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": ""
+    "ユーライザとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": "If Yuliza's Bond Level increases, then\nsomething is bound to happen.\n<end>"
   },
   "334446": {
-    "ギルガランとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": ""
+    "ギルガランとの　親密レベルが上がれば\n何か起こりそうだ。\n<end>": "If Gilgaran's Bond Level increases, then\nsomething is bound to happen.\n<end>"
   },
   "334447": {
     "<voice_nw IEV_AST_RIN_M01 6>\n「……お渡ししたいものが　あるのですが\n　そうびぶくろが　いっぱいのようです。\n　整理してから　声をかけてくださいますか？": ""
@@ -2853,13 +2853,13 @@
     "<voice_nw IEV_AST_GIR_M01 7>\n「たくさん　集めたようだな。\n　まさか　ここまで　やるとは……。\n　お前の努力は　認めてやろう。\n<br>\n<voice_nw IEV_AST_GIR_M01 8>\n「お前とは　今後も　長い付き合いになりそうだ。\n　生半可な気持ちで　俺と向き合えば\n　痛い目をみるぞ。気をつけることだな。\n<end>": ""
   },
   "334453": {
-    "リナーシェとの　絆が深まり\nリナーシェのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": ""
+    "リナーシェとの　絆が深まり\nリナーシェのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": "Your bond with Linashe has strengthened,\nincreasing the level of Linashe's Heart\nto Lv. <%dM_HEART_LEVEL>!\n<me 71><end>"
   },
   "334454": {
-    "ユーライザとの　絆が深まり\nユーライザのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": ""
+    "ユーライザとの　絆が深まり\nユーライザのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": "Your bond with Yuliza has strengthened,\nincreasing the level of Yuliza's Heart\nto Lv. <%dM_HEART_LEVEL>!\n<me 71><end>"
   },
   "334455": {
-    "ギルガランとの　絆が深まり\nギルガランのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": ""
+    "ギルガランとの　絆が深まり\nギルガランのこころが\nレベル<%dM_HEART_LEVEL>に　あがった！\n<me 71><end>": "Your bond with Gilgaran has strengthened,\nincreasing the level of Gilgaran's Heart\nto Lv. <%dM_HEART_LEVEL>!\n<me 71><end>"
   },
   "334456": {
     "<pc>は\n<%sM_ITEM>を\n手に入れた！\n<me 60><end>": "<pc> received\n<%sM_ITEM>!\n<me 60><end>"
@@ -3060,28 +3060,28 @@
     "しかし　天啓の石が　足りないようだ。\n天啓の石を　<%nM_NUM_STONE>こ集めてから　渡してみよう。": "But you don't have enough Supreme Stones.\nYou need <%dM_NUM_STONE> more."
   },
   "339916": {
-    "「異界アスタルジアの創造主だよ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようだね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だよ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また現れたら　倒そう！　姉ちゃん！": ""
+    "「異界アスタルジアの創造主だよ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようだね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だよ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また現れたら　倒そう！　姉ちゃん！": "It's the creator of Astalgia. When the Eye of\nEvil crashed down, its sinister remnants\nthat were sealed inside of it gave rise to\n<br>\nthis place.\n<br>\nGodwyn gathered his strength here and\nhas finally revived himself...but it looks\nlike he's not able to leave just yet.\n<br>\nBut if he were to revive with all of his\npower intact... Astoltia would be in\nserious danger!\n<br>\nHe's likely gathering even more power\nas we speak...\n<br>\nIf he shows up again, we gotta defeat himー\nfor Astoltia's sake!"
   },
   "339917": {
-    "「異界アスタルジアの創造主だよ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようだね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だよ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また現れたら　倒そう！　お姉ちゃん！": ""
+    "「異界アスタルジアの創造主だよ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようだね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だよ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また現れたら　倒そう！　お姉ちゃん！": "It's the creator of Astalgia. When the Eye of\nEvil crashed down, its sinister remnants\nthat were sealed inside of it gave rise to\n<br>\nthis place.\n<br>\nGodwyn gathered his strength here and\nhas finally revived himself...but it looks\nlike he's not able to leave just yet.\n<br>\nBut if he were to revive with all of his\npower intact... Astoltia would be in\nserious danger!\n<br>\nHe's likely gathering even more power\nas we speak...\n<br>\nIf he shows up again, we gotta defeat himー\nfor Astoltia's sake!"
   },
   "339918": {
-    "「異界アスタルジアの創造主だ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたいだぜ。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったが\n　まだ　異界からは　出られないようだ。\n<br>\n「だが　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを\n　蓄えているのかもしれない……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また　現れたら　倒そうぜ！　<pc>！": ""
+    "「異界アスタルジアの創造主だ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたいだぜ。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったが\n　まだ　異界からは　出られないようだ。\n<br>\n「だが　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを\n　蓄えているのかもしれない……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また　現れたら　倒そうぜ！　<pc>！": "It's the creator of Astalgia. When the Eye of\nEvil crashed down, its sinister remnants\nthat were sealed inside of it gave rise to\n<br>\nthis place.\n<br>\nGodwyn gathered his strength here and\nhas finally revived himself...but it looks\nlike he's not able to leave just yet.\n<br>\nBut if he were to revive with all of his\npower intact... Astoltia would be in\nserious danger!\n<br>\nHe's likely gathering even more power\nas we speak...\n<br>\nIf he shows up again, we gotta defeat himー\nfor Astoltia's sake!"
   },
   "339919": {
-    "「異界アスタルジアの創造主よ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だわ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また　現れたら　倒すわよ！　<pc>！": ""
+    "「異界アスタルジアの創造主よ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だわ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また　現れたら　倒すわよ！　<pc>！": "It's the creator of Astalgia. When the Eye of\nEvil crashed down, its sinister remnants\nthat were sealed inside of it gave rise to\n<br>\nthis place.\n<br>\nGodwyn gathered his strength here and\nhas finally revived himself...but it looks\nlike he's not able to leave just yet.\n<br>\nBut if he were to revive with all of his\npower intact... Astoltia would be in\nserious danger!\n<br>\nHe's likely gathering even more power\nas we speak...\n<br>\nIf he shows up again, we gotta defeat himー\nfor Astoltia's sake!"
   },
   "339920": {
-    "「異界アスタルジアの創造主だよ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようだね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だよ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また現れたら　倒そう！　兄ちゃん！": ""
+    "「異界アスタルジアの創造主だよ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようだね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だよ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また現れたら　倒そう！　兄ちゃん！": "It's the creator of Astalgia. When the Eye of\nEvil crashed down, its sinister remnants\nthat were sealed inside of it gave rise to\n<br>\nthis place.\n<br>\nGodwyn gathered his strength here and\nhas finally revived himself...but it looks\nlike he's not able to leave just yet.\n<br>\nBut if he were to revive with all of his\npower intact... Astoltia would be in\nserious danger!\n<br>\nHe's likely gathering even more power\nas we speak...\n<br>\nIf he shows up again, we gotta defeat himー\nfor Astoltia's sake!"
   },
   "339921": {
-    "「異界アスタルジアの創造主だよ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようだね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だよ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また現れたら　倒そう！　お兄ちゃん！": ""
+    "「異界アスタルジアの創造主だよ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようだね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だよ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また現れたら　倒そう！　お兄ちゃん！": "It's the creator of Astalgia. When the Eye of\nEvil crashed down, its sinister remnants\nthat were sealed inside of it gave rise to\n<br>\nthis place.\n<br>\nGodwyn gathered his strength here and\nhas finally revived himself...but it looks\nlike he's not able to leave just yet.\n<br>\nBut if he were to revive with all of his\npower intact... Astoltia would be in\nserious danger!\n<br>\nHe's likely gathering even more power\nas we speak...\n<br>\nIf he shows up again, we gotta defeat himー\nfor Astoltia's sake!"
   },
   "339922": {
-    "「異界アスタルジアの創造主だ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたいだぜ。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったが\n　まだ　異界からは　出られないようだ。\n<br>\n「だが　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを\n　蓄えているのかもしれない……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また　現れたら　倒そうぜ！　<pc>！": ""
+    "「異界アスタルジアの創造主だ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたいだぜ。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったが\n　まだ　異界からは　出られないようだ。\n<br>\n「だが　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを\n　蓄えているのかもしれない……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また　現れたら　倒そうぜ！　<pc>！": "It's the creator of Astalgia. When the Eye of\nEvil crashed down, its sinister remnants\nthat were sealed inside of it gave rise to\n<br>\nthis place.\n<br>\nGodwyn gathered his strength here and\nhas finally revived himself...but it looks\nlike he's not able to leave just yet.\n<br>\nBut if he were to revive with all of his\npower intact... Astoltia would be in\nserious danger!\n<br>\nHe's likely gathering even more power\nas we speak...\n<br>\nIf he shows up again, we gotta defeat himー\nfor Astoltia's sake!"
   },
   "339923": {
-    "「異界アスタルジアの創造主よ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だわ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また　現れたら　倒すわよ！　<pc>！": ""
+    "「異界アスタルジアの創造主よ。\n　魔眼の月に封印されていた　禍々しい思念が\n　この地に落ちて　異界を創りだしたみたい。\n<br>\n「異界でチカラを蓄えて\n　ついに　復活してしまったけど\n　まだ　異界からは　出られないようね。\n<br>\n「だけど　もし　ガナサダイが\n　完全に　復活してしまったら\n　アストルティアが　危険だわ……！\n<br>\n「こうしている間にも　ガナサダイは\n　異界で　チカラを蓄えているのかも……。\n<br>\n「アストルティアのためにも　ガナサダイが\n　また　現れたら　倒すわよ！　<pc>！": "It's the creator of Astalgia. When the Eye of\nEvil crashed down, its sinister remnants\nthat were sealed inside of it gave rise to\n<br>\nthis place.\n<br>\nGodwyn gathered his strength here and\nhas finally revived himself...but it looks\nlike he's not able to leave just yet.\n<br>\nBut if he were to revive with all of his\npower intact... Astoltia would be in\nserious danger!\n<br>\nHe's likely gathering even more power\nas we speak...\n<br>\nIf he shows up again, we gotta defeat himー\nfor Astoltia's sake!"
   },
   "339924": {
     "": ""
