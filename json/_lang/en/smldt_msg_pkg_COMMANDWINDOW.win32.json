@@ -207,10 +207,10 @@
     "※削除予定": "For Deletion"
   },
   "11076": {
-    "<speed=0><%sM_pc>を\nチームから　はずしました。": "<speed=0><%sM_pc> has been removed from the team."
+    "<speed=0><%sM_pc>を\nチームから　はずしました。": "<speed=0><%sM_pc> has been removed\nfrom the Team."
   },
   "11077": {
-    "<speed=0><%sM_target>は\n他のチームに入っているので　誘えません。": "<speed=0>Couldn't invite <%sM_target>\nbecause they are on another Team."
+    "<speed=0><%sM_target>は\n他のチームに入っているので　誘えません。": "<speed=0>Couldn't invite <%sM_target>\nbecause they are already in another Team."
   },
   "11201": {
     "テストマクロ": "Test Macro"
@@ -240,10 +240,10 @@
     "<speed=0>チーム『<%sM_team>』から　抜けた！": "<speed=0>Left the '<%sM_team>' Team!"
   },
   "11717": {
-    "<%sM_pc>を　チームに誘った！\n<%sM_pc>からの　返事を待とう。": "Invited <%sM_pc> to join the Team!\nPlease wait for <%sM_pc>'s response."
+    "<%sM_pc>を　チームに誘った！\n<%sM_pc>からの　返事を待とう。": "Invited <%sM_pc> to join the Team!\nPlease wait for their response."
   },
   "11908": {
-    "<speed=0>しかし　なにも　おこらなかった。": "<speed=0>But nothing happened."
+    "<speed=0>しかし　なにも　おこらなかった。": "<speed=0>But nothing happens."
   },
   "11909": {
     "<speed=0>いまは　サポート仲間を　仲間にしていません。": "<speed=0>You currently have no support party members."
@@ -264,7 +264,7 @@
     "持ち物が いっぱいだった。": "Your bag is full."
   },
   "13465": {
-    "<%sM_pc>は <%dM_gold>ゴールドを見つけたが\nこれ以上持てないので 元に戻した。": "<%sM_pc> found <%dM_gold> Gold, but couldn't\ncarry any more so it was put back."
+    "<%sM_pc>は <%dM_gold>ゴールドを見つけたが\nこれ以上持てないので 元に戻した。": "<%sM_pc> finds <%dM_gold> Gold. But\nthey couldn't carry any more, so they\nput it back where they found it."
   },
   "13466": {
     "<%sM_item><%sM_plusnum>を 手に入れた！": "Received <%sM_item><%sM_plusnum>!"
@@ -273,7 +273,7 @@
     "<%dM_gold>ゴールドを 手に入れた！": "Received <%dM_gold> Gold!"
   },
   "13474": {
-    "<speed=0>手に入れるのを　あきらめますか？<yesno>": "<speed=0>Would you give up trying to get it?<yesno>"
+    "<speed=0>手に入れるのを　あきらめますか？<yesno>": "<speed=0>Give up on trying to obtain it?<yesno>"
   },
   "13476": {
     "<speed=0><%sM_pc>の持ち物が　いっぱいだった！\nかばんを　整理しますか？<yesno>": "<speed=0><%sM_pc>'s bag is full!\nDo you want to organize your bag?<yesno>"
@@ -285,16 +285,16 @@
     "<speed=0><%sM_pc>は　<%dM_gold>ゴールドを手に入れた！": "<speed=0><%sM_pc> received <%dM_gold> Gold!"
   },
   "13479": {
-    "<speed=0><%sM_pc>は　<%sM_item>を見つけた！": "<speed=0><%sM_pc> found <%sM_item>!"
+    "<speed=0><%sM_pc>は　<%sM_item>を見つけた！": "<speed=0><%sM_pc> finds <%sM_item>!"
   },
   "13480": {
-    "<speed=0><%sM_pc>は　本の間に\n<%sM_item>を見つけたが\nこれ以上持てないので　元に戻した。": "<speed=0><%sM_pc> found <%sM_item>\nbetween the books but couldn't carry any more\nso it was put back."
+    "<speed=0><%sM_pc>は　本の間に\n<%sM_item>を見つけたが\nこれ以上持てないので　元に戻した。": "<speed=0><%sM_pc> finds <%sM_item>\nbetween the books. But they can't carry\nany more, so they put it back."
   },
   "13481": {
-    "<speed=0><%sM_pc>は　本の間に\n<%sM_item>を見つけた！": "<speed=0><%sM_pc> found\n<%sM_item> between the books!"
+    "<speed=0><%sM_pc>は　本の間に\n<%sM_item>を見つけた！": "<speed=0><%sM_pc> finds\n<%sM_item> between the books!"
   },
   "13482": {
-    "<speed=0>レベルが足りないため　装備できない！": "<speed=0>Insufficient level to equip this!"
+    "<speed=0>レベルが足りないため　装備できない！": "<speed=0>Your level is not high enough to equip this!"
   },
   "15246": {
     "<speed=0><%sM_item>は　手に入りづらい\n貴重な物ですが　本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item> is a valuable item.\nAre you sure you want to throw it away?<yesno2><close>"
@@ -324,7 +324,7 @@
     "<speed=0>名前が　入力されていません！": "<speed=0>No name was entered!"
   },
   "18199": {
-    "あなたの職業を選びます": "Choose your profession."
+    "あなたの職業を選びます": "Choose your vocation."
   },
   "18200": {
     "あなたのキャラを　作ります。": "Create your character."
@@ -336,7 +336,7 @@
     "<speed=0>新品の装備品です！\n一度　装備すると　他の人に\n渡せなくなりますが　よろしいですか？<yesno 2><close>": "<speed=0>This is brand new equipment!\nOnce you equip it, you can't give it\nto anyone else. Is this okay?<yesno 2><close>"
   },
   "18405": {
-    "ＢＧＭや効果音の\nボリュームを\n設定します": "Set the volume\nof background music\nand sound effects"
+    "ＢＧＭや効果音の\nボリュームを\n設定します": "Set BGM and\nsound effect\nvolume."
   },
   "18406": {
     "画面の視点の\n操作方法を\n設定します": "Change screen\ncamera\nsettings."
@@ -381,13 +381,13 @@
     "<speed=0>クエスト『<%sM_Quest1>』を\nリストから削除しました。": "<speed=0>Removed quest \"<%sM_Quest1>\"\nfrom the list."
   },
   "19321": {
-    "<speed=0>このクエストは　最初から\nやりなおしになりますが　よろしいですか？<yesno><close>": "<speed=0>You'll have to start this quest from\nthe beginning, is that okay?<yesno><close>"
+    "<speed=0>このクエストは　最初から\nやりなおしになりますが　よろしいですか？<yesno><close>": "<speed=0>You'll have to start this quest from\nthe beginning. Is this okay?<yesno><close>"
   },
   "19324": {
-    "<speed=0>このクエストにつながる　他のクエストが\n受注されています。<br>\nクエスト『<%sM_Quest2>』の受注が\nキャンセルとなりますが　よろしいですか？<yesno 2><close>": "<speed=0>Other quests leading to this one have been\naccepted.<br>\nThe quest \"<%sM_Quest2>\"\nwill also be cancelled. Proceed?<yesno 2><close>"
+    "<speed=0>このクエストにつながる　他のクエストが\n受注されています。<br>\nクエスト『<%sM_Quest2>』の受注が\nキャンセルとなりますが　よろしいですか？<yesno 2><close>": "<speed=0>Other quests leading to this one have been\naccepted.<br>\nThe quest \"<%sM_Quest2>\"\nwill also be cancelled. Continue?<yesno 2><close>"
   },
   "19325": {
-    "<speed=0>クエスト『<%sM_Quest2>』の受注が\nできなくなるため　クリア済みにもどりますが\nよろしいですか？<yesno><close>": "<speed=0>If you return the quest \"<%sM_Quest2>\"\nas cleared, you won't be able to accept it\nagain. Proceed?<yesno><close>"
+    "<speed=0>クエスト『<%sM_Quest2>』の受注が\nできなくなるため　クリア済みにもどりますが\nよろしいですか？<yesno><close>": "<speed=0>If you return the quest \"<%sM_Quest2>\"\nto cleared status, you won't be able to accept\nit again. Continue?<yesno><close>"
   },
   "19326": {
     "<speed=0>キャンセルすると　最初から\nやりなおしになりますが　よろしいですか？<yesno 2><close>": "<speed=0>If you cancel now, you'll have to start over\nfrom the beginning. Is this okay?<yesno 2><close>"
