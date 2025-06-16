@@ -51,7 +51,7 @@
     "ここは　同行ポイントです。\nこの先に行くためには　同行する仲間全員の\n準備が完了している必要があります。\n<br>\nこの先では　全員が同じ出来事を共有しますが\n話が進むのは　パーティリーダーと　それと同じ\n進行状況の人のみです。他の人は進みません。\n<select>\n仲間の準備完了を待つ\n準備完了している仲間だけで先に行く\nこの先に行くのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>": "This is an accompaniment point. In order to\nproceed, all party members must be ready.\n<br>\nFrom this point, everyone will view the same\nevents, but only the leader and other party\nmembers at the same point will progress.\n<select>\nWait for Party\nProceed with Ready Members\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case 3>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "41263": {
-    "次回予告を　見ますか？<yesno><close>": "Preview the next quest?\n(The text and images will be in\nJapanese.)\n<yesno><close>"
+    "次回予告を　見ますか？<yesno><close>": "Preview the next quest?\n(The preview's text and images will be in\nJapanese.)\n<yesno><close>"
   },
   "45987": {
     "クエストクリア！": "Quest Clear!"
