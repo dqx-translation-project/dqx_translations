@@ -315,7 +315,7 @@
     "緊急依頼書クエストは　１つしか受けられません！\nせんれきコマンドの　クエストリストから\n緊急依頼書クエストを　キャンセルしてください。": "You can't receive any more Urgent Request Form\nQuests! Go to \"Quest List\" under \"Records\"\nand cancel the currently accepted one."
   },
   "102566": {
-    "<%sC_PC_LUA>から　依頼書クエストに\nさそわれました！\n<br>\nこのクエストは受けてから\n<%nLIFETIMESEC>分以内に　達成する必要があります。\nこのクエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Request Form Quest received from <%sC_PC_LUA>!\n<br>\nThis quest must be completed in <%dLIFETIMESEC> minutes\nafter accepting it. Accept the quest?\n<select>\nAccept\nDecline\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "<%sC_PC_LUA>から　依頼書クエストに\nさそわれました！\n<br>\nこのクエストは受けてから\n<%nLIFETIMESEC>分以内に　達成する必要があります。\nこのクエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Request Form Quest received from\n<%sC_PC_LUA>!\n<br>\nThis quest must be completed in <%dLIFETIMESEC> minutes\nafter accepting it. Accept the quest?\n<select>\nAccept\nDecline\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "102567": {
     "依頼書クエストに　さそわれています！\n<br>\nこのクエストは受けてから\n<%nLIFETIMESEC>分以内に　達成する必要があります。\nこのクエストを　受けますか？\n<select>\nうける\nやめる\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "You received a Request Form Quest!\n<br>\nThis quest must be completed in <%dLIFETIMESEC> minutes\nafter accepting it. Accept the quest?\n<select>\nAccept\nDecline\n<select_end>\n<case 1>\n<break>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
@@ -360,7 +360,7 @@
     "パーティリーダーが　どの神聖秘文に\n挑戦するか　選択しています。\nこのままの状態で　お待ちください。\n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "The party leader has chosen which sacred\ntext to challenge. Please wait.\n<select>\nKeep Waiting\nStop Waiting\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "173584": {
-    "仲間が　そろうのを　待っています。 \n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Waiting for members to gather. \n<select>\nKeep Waiting\nStop\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
+    "仲間が　そろうのを　待っています。 \n<select>\nこのまま待つ\nやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": "Waiting for members to gather.\n<select>\nKeep Waiting\nStop\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>"
   },
   "184491": {
     "見つかっちゃった！": "I found it!"
