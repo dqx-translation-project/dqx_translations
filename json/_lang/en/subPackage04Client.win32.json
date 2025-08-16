@@ -294,7 +294,7 @@
     "<%sB_ITEM>（だいじなもの）を かくとく！": "Received <%sB_ITEM> (Key Item)!"
   },
   "2489": {
-    "経験値 <%dB_VALUE> Pが　旅のコンシェルジュに送られた！": "<%dB_VALUE> EXP has been sent to the concierge!"
+    "経験値 <%dB_VALUE> Pが　旅のコンシェルジュに送られた！": "<%dB_VALUE> EXP is sent to the concierge!"
   },
   "2527": {
     "<%dB_VALUE> Pの経験値 <%dB_VALUE2> フェルド かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Feld!"
@@ -339,7 +339,7 @@
     "どうぐかばんが いっぱいで 入手できない！": "You can't take it because your bag is full!"
   },
   "2921": {
-    "<%sB_ACTOR>は プリズンキーを入手！ ロックを１つ解除した！": "<%sB_ACTOR> got a Prison Key! 1 lock was released!"
+    "<%sB_ACTOR>は プリズンキーを入手！ ロックを１つ解除した！": "<%sB_ACTOR> got a Prison Key! 1 lock unlocks!"
   },
   "2961": {
     "<%sB_ACTOR>は プリズンキーを １つ消した！": "<%sB_ACTOR> destroys a Prison Key!"
@@ -432,7 +432,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 名声レベル<%dB_VALUE>に あがった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e reaches Fame Level <%dB_VALUE>!"
   },
   "4024": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いを やめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e left the battle."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 戦いを やめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e leaves the battle."
   },
   "4053": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ＭＰが 足りなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e doesn't have enough MP."
@@ -486,10 +486,10 @@
     "<%dB_VALUE> Pの スキルポイントを かくとくした！": "Earned <%dB_VALUE> skill points!"
   },
   "4778": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふっとばされた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was blown back!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ふっとばされた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is blown back!"
   },
   "4809": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは へろへろタイムなので なにも かくとくできなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e was feeling exhausted and couldn't do anything."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは へろへろタイムなので なにも かくとくできなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e feels exhausted and couldn't do anything."
   },
   "4864": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｐの経験値 <%dB_VALUE3>Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold!"
@@ -504,7 +504,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE>(＋<%dB_VALUE2>)Ｇ かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> (+<%dB_VALUE2>) Gold!"
   },
   "5075": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped using <%sB_ITEM>."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ITEM>を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stops using <%sB_ITEM>."
   },
   "5112": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから 何かを盗みとっていた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e steals something from \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
@@ -546,7 +546,7 @@
     "討伐タイム　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>": "Defeat Time: <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec."
   },
   "5641": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 特訓スタンプを <%dB_VALUE> 個 かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> special training stamps!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 特訓スタンプを <%dB_VALUE> 個 かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> training stamps!"
   },
   "5686": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%dB_VALUE> Pの経験値 <%dB_VALUE2> G かくとく！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
@@ -588,19 +588,19 @@
     "　→ベストスマイルボーナス +<%dB_VALUE> P": "　→Best Smile Bonus +<%dB_VALUE> EXP"
   },
   "6119": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ＭＰを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use any MP!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ＭＰを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e doesn't use any MP!"
   },
   "6154": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 特技が ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's skills are sealed!"
   },
   "6194": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 仲間になりたそうに こちらを見ている……！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e looks to have become friends...!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 仲間になりたそうに こちらを見ている……！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gets up and looks over\nas if wants to join the party!"
   },
   "6244": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの なつき度が あがって <%dB_VALUE>になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's happiness increases to <%dB_VALUE>!"
   },
   "6291": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの なつき度が 最大値になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's affection has reached the maximum!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの なつき度が 最大値になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Happiness reaches its maximum!"
   },
   "6330": {
     "討伐報酬(紫色の宝箱)が 出現した！": "A purple treasure chest appears!"
@@ -672,16 +672,16 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 月間の自己ベストを <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 更新した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e achieves a new monthly best time of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.!"
   },
   "7406": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは スカウトに失敗した。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e failed to scout."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは スカウトに失敗した。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e fails to scout."
   },
   "7439": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは たおされた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e has been defeated."
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは たおされた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is defeated."
   },
   "7467": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_ACTION>が 使えるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can now use <%sB_ACTION>!"
   },
   "7509": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは テンションが さがらなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't lose tension!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは テンションが さがらなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e doesn't lose any tension!"
   },
   "7549": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_ITEM>から <%sB_EXTRA>を ゲット！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e received <%sB_EXTRA> from <%sB_ITEM>!"
@@ -753,7 +753,7 @@
     "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\eの \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは いなくなった。": "\\s<%sB_BASE_TARGET>\\m<%sB_BASE_TARGET_ID>\\e's \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is gone."
   },
   "8712": {
-    "　総獲得スタンプ<%sB_VALUE> 個 (内 元気ボーナス <%sB_VALUE2> 個)": "　Total Training Stamps: <%sB_VALUE> (Orb Bonus +<%sB_VALUE2> )"
+    "　総獲得スタンプ<%sB_VALUE> 個 (内 元気ボーナス <%sB_VALUE2> 個)": "　Total Training Stamps: <%sB_VALUE> (Orb Bonus +<%sB_VALUE2>)"
   },
   "8753": {
     "思い出アルバムへの保存に 失敗しました。": "Failed to save to Photo Album."
@@ -771,7 +771,7 @@
     "心の輝きが <%dB_VALUE> 増えた！": "Received <%dB_VALUE> Heart Energy!"
   },
   "8930": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ターン消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use a turn!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ターン消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e doesn't use a turn!"
   },
   "8965": {
     "安息の領域に 駆け込んだ！": "You rushed into the realm of repose!"
@@ -798,28 +798,28 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's Tarots are sealed!"
   },
   "9228": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use a Tarot!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは タロットを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e doesn't use a Tarot!"
   },
   "9266": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ログアウトしたため 戦いから抜けた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e left the fight because they logged out."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが ログアウトしたため 戦いから抜けた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e leaves the battle because they logged out."
   },
   "9310": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ゴールドが 足りなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't have enough Gold."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ゴールドが 足りなかった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e doesn't have enough Gold."
   },
   "9347": {
     "<%sB_MONSTER>をひろった！ スコアを <%dB_VALUE>P かくとく！": "Picked up <%sB_MONSTER>! Got <%dB_VALUE> points!"
   },
   "9384": {
-    "スコアが <%dB_VALUE>P 減った。": "Score decreased by <%dB_VALUE>."
+    "スコアが <%dB_VALUE>P 減った。": "Score decreases by <%dB_VALUE>."
   },
   "9404": {
-    "ボーナス達成で スコアを <%dB_VALUE>P かくとく！": "Earned a score of <%dB_VALUE> for bonus achievement!"
+    "ボーナス達成で スコアを <%dB_VALUE>P かくとく！": "Earned <%dB_VALUE> bonus achievement points!"
   },
   "9436": {
-    "今回の航海で かくとくしたスコアの合計は <%dB_VALUE>P！": "The total score for this voyage is <%dB_VALUE>!"
+    "今回の航海で かくとくしたスコアの合計は <%dB_VALUE>P！": "Ypur total score for this voyage is <%dB_VALUE> points!"
   },
   "9474": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ハイスコアが <%dB_VALUE> P になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's high score is now <%dB_VALUE>!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ハイスコアが <%dB_VALUE> P になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's highest score is now <%dB_VALUE>!"
   },
   "9517": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの トータルスコアが <%dB_VALUE> P になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's total score is now <%dB_VALUE>!"
@@ -831,7 +831,7 @@
     "ボーナス達成なし！": "No bonus achieved!"
   },
   "9590": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_JACK_NAME>の心を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stopped using <%sB_JACK_NAME>'s Heart."
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_JACK_NAME>の心を 使うのをやめた。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e stops using <%sB_JACK_NAME>'s Heart."
   },
   "9633": {
     "航海は 失敗に終わった……。": "Voyage was unsuccessful...."
@@ -840,7 +840,7 @@
     "<%sB_ITEM>を <%dB_VALUE>P かくとく！": "Received <%dB_VALUE> <%sB_ITEM>!"
   },
   "9676": {
-    "<%sB_ITEM>を <%dB_VALUE>P　旅のコンシェルジュに送った！": " Sent <%dB_VALUE> <%sB_ITEM> to the concierge!"
+    "<%sB_ITEM>を <%dB_VALUE>P　旅のコンシェルジュに送った！": "<%dB_VALUE> <%sB_ITEM> is sent to the concierge!"
   },
   "9712": {
     "しかし 誰も 捕まっていなかった！": "But no one was caught!"
@@ -852,7 +852,7 @@
     "<%sB_ACTOR>は 害虫駆除に 失敗した。": "<%sB_ACTOR> fails the extermination."
   },
   "9793": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃走チームの お助けボックスを消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e erased the Escape Team's help box!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃走チームの お助けボックスを消した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e removes the Escape Team's help box!"
   },
   "9839": {
     "<%sB_JOB>の <%sB_NAME>が <%dB_VALUE>から <%dB_VALUE2>になった。": "<%sB_JOB>'s <%sB_NAME> increases from <%dB_VALUE>\nto <%dB_VALUE2>."
@@ -867,10 +867,10 @@
     "クリア報酬(うつしよの金箱・改)が 出現した！": "A Worldly Gold Box+ appears as a\nclear reward!"
   },
   "9975": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を 占領した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e has occupied <%sB_TARGET>!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_TARGET>を 占領した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e occupies <%sB_TARGET>!"
   },
   "10009": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは チャージが発生しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's charge did not occur!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは チャージが発生しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e does not charge!"
   },
   "10047": {
     "バトル開始！": "Battle Start!"
@@ -1308,10 +1308,10 @@
     "タロットを\n消費しなかった！": "Tarot was\nnot consumed!"
   },
   "15240": {
-    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!\nA four-leaf clover treasure chest has appeared!"
+    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appears!\nA four-leaf clover treasure chest appears!"
   },
   "15295": {
-    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（紫色の宝箱）が　出現した！\n討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!\nA purple treasure chest has appeared!\nA four-leaf clover treasure chest has appeared!"
+    "討伐報酬（赤色の宝箱）が　出現した！\n討伐報酬（紫色の宝箱）が　出現した！\n討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest appears!\nA purple treasure chest appears!\nA four-leaf clover treasure chest appears!"
   },
   "15378": {
     "ゴールドが足りない！": "Not enough Gold!"
@@ -1320,7 +1320,7 @@
     "<%sB_JACK_NAME>の心を\n使うのをやめた": "Stopped using\n<%sB_JACK_NAME>'s Heart."
   },
   "15418": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは デスパワーを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use any death power!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは デスパワーを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e doesn't use any Death Power!"
   },
   "15457": {
     "解放アタック！\n誰も　捕まっていない！": "Liberation Attack!\nNo one was caught!"
@@ -1338,7 +1338,7 @@
     "まもののむれを 倒しきった！": "Defeated all of the monsters!"
   },
   "15589": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION> charge time accumulated <%dB_VALUE> sec.!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION> charge time accumulates by <%dB_VALUE> sec.!"
   },
   "15640": {
     "チャージタイムが\n発生しなかった！": "Charge time did\nnot happen!"
