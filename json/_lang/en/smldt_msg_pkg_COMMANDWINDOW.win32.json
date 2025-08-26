@@ -1581,7 +1581,7 @@
     "<speed=0>『仲間募集中』にチェックすると\n『ひとりプレイ中』『取り込み中』のチェックが\nはずれますが　よろしいですか？<yesno><close>": ""
   },
   "30509": {
-    "<speed=0>『ひとりプレイ中』にチェックすると\n『仲間募集中』『いまヒマです』のチェックが\nはずれますが　よろしいですか？<yesno><close>": "<speed=0>If you check \"Playing Alone\", \"Seeking Party\" \nand \"Available\" will be unchecked. Proceed?<yesno><close>"
+    "<speed=0>『ひとりプレイ中』にすると『いまヒマです』\n『仲間募集中』『占います』のチェックが\nはずれますが　よろしいですか？<yesno><close>": ""
   },
   "30510": {
     "<speed=0>『チャット非表示』にチェックすると\n『なんでも聞いて』のチェックが\nはずれますが　よろしいですか？<yesno><close>": "<speed=0>If you check \"Hide Chat\", \"Helper\" will\nbe unchecked. Proceed?<yesno><close>"
@@ -1626,7 +1626,7 @@
     "<speed=0><%sM_item>を　泣く泣く投げ捨てた……。": "<speed=0><%sM_item> was sadly thrown away..."
   },
   "31233": {
-    "<speed=0>『ひとりプレイ中』にすると『仲間募集中』\n『いまヒマです』『なんでも聞いて』の\nチェックがはずれますが　よろしいですか？<yesno><close>": "<speed=0>When \"Playing Alone\" is selected, \"Seeking\nParty\", \"Available\" and \"Helper\" will be\nunchecked. Is that okay?<yesno><close>"
+    "<speed=0>『ひとりプレイ中』にすると『いまヒマです』\n『仲間募集中』『なんでも聞いて』『占います』の\nチェックがはずれますが　よろしいですか？<yesno><close>": ""
   },
   "31236": {
     "復活場所が　対象マップ以外の場合は\n「冒険を中断する」を選んで　ログアウトしたあと\n正式なプレイ環境で　マップを移動してください。": "If your resurrection spot is outside the\ntarget map, select \"Stop Adventuring\" and then\nlog out. Afterwards, move to the target map\n<br>\nin an official play environment."
@@ -2040,7 +2040,7 @@
     "<speed=0><%sM_item><%sM_plusnum>は\nロックされているため　すてられません。": "<speed=0><%sM_item><%sM_plusnum> is locked\nand cannot be thrown away."
   },
   "33997": {
-    "ドルボードは　燃料切れだった！\nドルセリンを　１つチャージして乗ります。": "Your Dolboard ran out of fuel! Using 1\nDolsoline to charge it."
+    "ドルボードは　燃料切れだった！\nドルセリンを　<%nM_DORU>つチャージして乗ります。": ""
   },
   "34103": {
     "錬金の依頼を\n受けられます！\nという状態": "You're seeking\nrequests for\nalchemy!"
@@ -4683,10 +4683,10 @@
     "ゲーム画面表示の設定を\n『<color_yellow>表示設定Ａ<color_white>』に　変更しました。": "Game screen display settings changed to\n\"<color_yellow>Display settings A<color_white>\"."
   },
   "49532": {
-    "<speed=0>ゲーム画面表示を『<color_yellow>表示設定Ｂ<color_white>』の\n画質設定：<color_yellow><%sM_image><color_white>　描画速度：<color_yellow><%sM_fps><color_white>に\n切り替えますが　よろしいですか？\n<yesno><close>": "<speed=0>Switch to game screen display \"<color_yellow>Display Setting B<color_white>\"\nImage quality: <color_yellow><%sM_image><color_white> Render Speed: <color_yellow><%sM_fps><color_white>?\n<yesno><close>"
+    "<speed=0>ゲーム画面表示を『<color_yellow>表示設定Ｂ<color_white>』の\n画質設定<color_yellow><%sM_image><color_white>　フレームレート<color_yellow><%sM_fps><color_white>に\n切り替えますが　よろしいですか？\n<yesno><close>": ""
   },
   "49533": {
-    "<speed=0>ゲーム画面表示を『<color_yellow>表示設定Ａ<color_white>』の\n画質設定：<color_yellow><%sM_image><color_white>　描画速度：<color_yellow><%sM_fps><color_white>に\n切り替えますが　よろしいですか？\n<yesno><close>": "<speed=0>Switch to game screen display \"<color_yellow>Display Setting A<color_white>\"\nImage quality: <color_yellow><%sM_image><color_white> Render Speed: <color_yellow><%sM_fps><color_white>?\n<yesno><close>"
+    "<speed=0>ゲーム画面表示を『<color_yellow>表示設定Ａ<color_white>』の\n画質設定<color_yellow><%sM_image><color_white>　フレームレート<color_yellow><%sM_fps><color_white>に\n切り替えますが　よろしいですか？\n<yesno><close>": ""
   },
   "49581": {
     "<select>もう一度探す\nこのまま行く\n行くのをやめる\n<select_end><close>": "<select>Search Again\nGo As Is\nStop Searching\n<select_end><close>"
@@ -4746,7 +4746,7 @@
     "ゲーム画面表示の設定を　反映しました！\n<color_yellow>設定の切り替えは　Ｌスティック＋Ｒスティックの\n同時押しでも可能です。<color_white>": "The game screen display settings have been\nreflected! <color_yellow>You can also switch settings by\npressing L stick + R stick at the same time.<color_white>"
   },
   "49639": {
-    "<speed=0>ゲーム画面表示を『<color_yellow><%sM_command><color_white>』に設定します。\n画質設定：<color_yellow><%sM_image><color_white>　描画速度：<color_yellow>最高<%dM_fps>fps<color_white>に\n切り替えますが　よろしいですか？\n<yesno><close>": "<speed=0>Set the game screen display to \"<color_yellow><%sM_command><color_white>\".\nSwitch to Image quality:<color_yellow><%sM_image><color_white> Render Speed: <color_yellow>Highest <%dM_fps>fps<color_white>?\n<yesno><close>"
+    "<speed=0>ゲーム画面表示を『<color_yellow><%sM_command><color_white>』に設定します。\n画質設定<color_yellow><%sM_image><color_white>　フレームレート<color_yellow>最高<%dM_fps>fps<color_white>に\n切り替えますが　よろしいですか？\n<yesno><close>": ""
   },
   "49640": {
     "撮影ボタンを押し\nすぐに写真を\n撮ります": "Take a photo\nimmediately."
@@ -7248,34 +7248,31 @@
     "アニメイラスト\nのような雰囲気の\n写真を撮ります": "Take an anime\nlooking photo."
   },
   "62565": {
-    "キャンバス\n説明テキスト": "Canvas temp\ntext"
+    "キャンバスに\n描いたような\n写真を撮ります": ""
   },
   "62566": {
-    "ブラウン管\n説明テキスト": "CRT temp text"
-  },
-  "62567": {
-    "ディスプレイ\n説明テキスト": "Display temp text"
+    "画面に映った\n映像のような\n写真を撮ります": ""
   },
   "62568": {
-    "ドット\n説明テキスト": "Pixel temp test"
+    "細かいドット柄で\nやわらかな雰囲気\nの写真を撮ります": ""
   },
   "62569": {
-    "すりガラス\n説明テキスト": "frosted glass\ntemp text"
+    "すりガラスを\n通して見たような\n写真を撮ります": ""
   },
   "62570": {
     "屏風に描かれた\n絵画のような\n写真を撮ります": "Take a photo that\nlooks like a\npainting."
   },
   "62571": {
-    "キラシール\n説明テキスト": "Killer sticker\ntemp text"
+    "キラキラした\n雰囲気の\n写真を撮ります": ""
   },
   "62572": {
     "油彩で描かれた\n絵画のような\n写真を撮ります": "Take a photo that\nlooks like an\noil painting."
   },
   "62573": {
-    "鉛筆塗り\n説明テキスト": "Pencil drawing\ntemp text"
+    "色鉛筆で描いた\nような雰囲気の\n写真を撮ります": ""
   },
   "62574": {
-    "海中\n説明テキスト": "Underwater\ntemp text"
+    "水中のような\n雰囲気の\n写真を撮ります": ""
   },
   "62575": {
     "<speed=0>その移動先には　今　飛べないようだ。": "<speed=0>That destination is not available right now."
@@ -7665,7 +7662,7 @@
     "現在　特訓モードのようです。\n特訓スタンプは　入りませんが\n積み立てモードを　オンにしますか？\n<yesno><close>": "You are currently in training mode.\nYou will not receive training stamps from\nEXP Saving. Continue anyway?\n<yesno><close>"
   },
   "63752": {
-    "積み立てモードをオンにすることで　バトルと酒場\nから得られる経験値を　現在の職業ではなく\n経験値の通帳に　積み立てることができます。\n<br>\n積み立てた経験値は　お好みの職業に\n引き落とすことができます。\n積み立てできる上限は　500万になります。\n<br>\n元気玉や料理　修練の心得など\nつかうものの効果によって　増えた分の経験値も\n経験値の通帳に　積み立てられます。\n<br>\nただし　エンゼルスライム帽などの効果による\n経験値の増加分は　積み立てられず\n現在の職業に割り振られます。ご注意ください。\n<br>\nおでかけ超便利ツールから受け取る経験値や\n経験値の聖典などの　つかうものによる経験値は\n積み立てることができません。\n<br>\n特訓スタンプを　集めるときは\n積み立てモードを　オフにしてください。\nオンのままだと　経験値が積み立てられます。": "By enabling EXP Saving, you can accrue EXP\nthat you receive from battles and the tavern\nin your EXP Passbook.\n<br>\nYou may withdraw to any vocation you wish.\nThe maximum amount you can save at once\nis 5 million EXP.\n<br>\nEXP gained from extra sources such as Bonus\nOrbs, food, and the Tips on Training will also\nbe saved into the EXP Passbook.\n<br>\nHowever, EXP gained from effects such as\nthe Angel Slime Hat will not save, and\ninstead be earned normally.\n<br>\nEXP gained from the Companion App and\nitems such as EXP Scriptures also cannot\nbe saved.\n<br>\nIf in training mode, be sure to disable EXP\nSaving. If left on, EXP will be saved\ninstead."
+    "積み立てモードをオンにすることで　バトルと\n酒場から得られる経験値を　現在の職業ではなく\n経験値の通帳に　積み立てることができます。\n<br>\n積み立てられる　経験値の上限は\n＋１で５００万　＋２で１０００万になります。\n<br>\n積み立てた経験値は　お好みの職業に\n引き落とすことができます。\n<br>\n元気玉や料理　修練の心得など\nつかうものの効果によって　増えた分の経験値も\n経験値の通帳に　積み立てられます。\n<br>\nただし　エンゼルスライム帽などの効果による\n経験値の増加分は　積み立てられず\n現在の職業に割り振られます。ご注意ください。\n<br>\nおでかけ超便利ツールから受け取る経験値や\n経験値の聖典などの　つかうものによる経験値は\n積み立てることができません。\n<br>\n特訓スタンプを　集めるときは\n積み立てモードを　オフにしてください。\nオンのままだと　経験値が積み立てられます。": ""
   },
   "63755": {
     "現在　積み立てモードは　オフの状態です。\n経験値は　<%dM_Pool_Exp> P貯まっています。\n<select_se_off>\n積み立てモードきりかえ\n経験値を引き出す\n<color_yellow>経験値の通帳の使い方\n<select_end><case 1><break>\n<case 2><break>\n<case 3><break>\n<case_cancel><close>\n<case_end>": "EXP Saving is currently disabled.\nYou currently have <%dM_Pool_Exp> EXP\nsaved.\n<select_se_off>\nEnable EXP Saving\nWithdraw EXP\n<color_yellow>How to Use the EXP Passbook\n<select_end><case 1><break>\n<case 2><break>\n<case 3><break>\n<case_cancel><close>\n<case_end>"
@@ -7797,10 +7794,10 @@
     "アンルシアから\n覚醒の秘石を\n受け取ります": "Get Super Secret\nStone from\nAnlucia."
   },
   "64427": {
-    "<speed=0>『取り込み中』にすると『仲間募集中』\n『いまヒマです』『なんでも聞いて』の\nチェックがはずれますが　よろしいですか？<yesno><close>": ""
+    "<speed=0>『取り込み中』にすると『いまヒマです』\n『仲間募集中』『なんでも聞いて』『占います』の\nチェックがはずれますが　よろしいですか？<yesno><close>": ""
   },
   "64428": {
-    "<speed=0>『取り込み中』にチェックすると\n『仲間募集中』『いまヒマです』のチェックが\nはずれますが　よろしいですか？<yesno><close>": ""
+    "<speed=0>『取り込み中』にすると『いまヒマです』\n『仲間募集中』『占います』の\nチェックがはずれますが　よろしいですか？<yesno><close>": ""
   },
   "64460": {
     "<speed=0>\nこのまま　席を立ちますか？\n<yesno><close>": "<speed=0>\nLeave your seat?\n<yesno><close>"
@@ -7820,17 +7817,29 @@
   "64542": {
     "<speed=0>\n入手上限に達したため　報酬は手に入りませんが\nよろしいですか？\n<yesno><close>": "<speed=0>\nYou have reached the maximum amount of\nobtainable rewards and will not receive\nany more. Go anyway?\n<yesno><close>"
   },
+  "64604": {
+    "<speed=0>かんたんショートカットには　登録できません。": ""
+  },
+  "64616": {
+    "経験値が　超過しているので\n積み立てモードに　切り替えることができません。\n経験値を消費して下さい。": ""
+  },
   "64623": {
     "※なかまコマンドでリーダーのサーバーに移動できます。": "Use the \"Party\" menu to move to leader's server."
   },
   "64625": {
     "<speed=0>\nこのマッチングに参加するには\n異界アスタルジアの　控えの間にいる\nアデフィに話しかける必要が　あります。": "<speed=0>\nTo participate in this matching, you must\nfirst speak to Adefi inside Astalgia's\nAntechamber."
   },
+  "64626": {
+    "ゲーム中よく使う\nコマンドを４つ\n設定します": ""
+  },
   "64627": {
     "経験値を引き出すことが　できませんでした。\n時間をおいてから　再度お試しください。": "Unable to withdraw EXP. Please wait a while\nand try again."
   },
   "64628": {
     "討伐報酬外の宝珠（未入手<%nM_Num>こ）": "Non-reward Jewel (<%dM_Num> Unobtained)"
+  },
+  "64638": {
+    "<speed=0>\nかんたんショートカット設定の　説明です！\n<br>\nセリフやスタンプなど　好きなコマンドを\nあらかじめ設定しておけば　いつでも\nかんたんに　使うことができる機能です。\n<br>\nかんたんショートカットに設定したコマンドは\n<autorun>と　<jump>を　同時に押しながら　\n<cursor>を押すと　使えます。\n<br>\nコマンドは　最大４つまで　設定できるので\n自分好みの　コマンドを設定して　便利な　\nかんたんショートカットを　使ってみてください！": ""
   },
   "64640": {
     "<speed=0>\n他の冒険者を　パーティに誘っている状態では\nこのバトルに挑めません。": "<speed=0>\nYou cannot participate in this battle if there\nare other adventurers in your party."
@@ -7846,5 +7855,92 @@
   },
   "64738": {
     "<speed=0>\n天啓の石を　これ以上\n持てなくなりそうだ……。\nこのまま　挑戦しても　よろしいですか？\n<yesno><close>": "<speed=0>\nIt appears you cannot hold any more Supreme\nStones...\nGo to battle anyway?\n<yesno><close>"
+  },
+  "64746": {
+    "発言した「まわりに」チャットは他の冒険者には聞こえません。": ""
+  },
+  "64749": {
+    "経験値が　最大を超えて貯まっています。\n積み立てモードを　切り替えても\n経験値は貯まりませんが　よろしいですか？\n<yesno><close>": ""
+  },
+  "64753": {
+    "他人のしぐさ音や\n足音を消すことが\nできます": ""
+  },
+  "64754": {
+    "劇場ホール内で　定点カメラの時に\n他人のしぐさ音や　足音を　消すことができます。\n※全画面では　劇場ホール内の効果音が消えます。": ""
+  },
+  "64771": {
+    "<speed=0>精霊力が足りないので　使用できない！": ""
+  },
+  "64785": {
+    "<speed=0>タロット占いとは　落ち着いた状態で\n占うことがらを　読み解いていくものです。\n安全な　町の中でやりましょう。": ""
+  },
+  "64791": {
+    "Nintendo Switchの携帯モードでのプレイにおける\n描画速度を変更できますが　『高速』の場合\nバッテリー持続時間は　短くなります。": ""
+  },
+  "64792": {
+    "画面を描画する\n処理速度を\n変更します": ""
+  },
+  "64821": {
+    "ドルセリン<%nM_DORU>つチャージ！": ""
+  },
+  "64840": {
+    "３９ドラゴンクエスト": ""
+  },
+  "64841": {
+    "３９ドラゴンクエストキャンペーン": ""
+  },
+  "64845": {
+    "占いの依頼を\n受けられます！\nという状態": ""
+  },
+  "64846": {
+    "<speed=0>『占います』にチェックすると\n『ひとりプレイ中』『取り込み中』のチェックが\nはずれますが　よろしいですか？<yesno><close>": ""
+  },
+  "64853": {
+    "<speed=0><%sM_pc>に　タロット占いを\n依頼しますか？\n<yesno><close>": ""
+  },
+  "64854": {
+    "<speed=0>タロット占いの依頼を\nキャンセルしますか？\n<yesno><close>": ""
+  },
+  "64855": {
+    "<speed=0>タロット占いは　占い師と\nなかまになった状態でのみ　行えます。\nなかまになってから　もう一度たのみましょう。": ""
+  },
+  "64856": {
+    "<speed=0>タロット占いは　占い師か\n自分が　リーダーの状態でのみ　行えます。\nどちらかをリーダーにして再度たのみましょう。": ""
+  },
+  "64914": {
+    "<speed=0>タロット占いを　キャンセルしました。": ""
+  },
+  "64915": {
+    "<speed=0>タロット占いが　断られました。": ""
+  },
+  "64927": {
+    "<speed=0><color_yellow>\n武器チャームを登録した　マイコーデを\n着ているときは　マイコーデの武器チャームの\n見映えが　優先されます。": ""
+  },
+  "64941": {
+    "効果音を\n設定します": ""
+  },
+  "64988": {
+    "<speed=0>相手から先に　タロット占いの\n依頼が来ています。\n返事をしてから　もう一度たのみましょう。": ""
+  },
+  "64993": {
+    "<speed=0>このプリズムには　効果音を設定できません。": ""
+  },
+  "64994": {
+    "<speed=0>占い師が　タロット占いの受付を終了しました。": ""
+  },
+  "65015": {
+    "<speed=0>パーティ全員が　同じ配信ルームに参加するか\n配信ルームを抜けた状態でないと\nこのマッチングに　参加できません。": ""
+  },
+  "65016": {
+    "<speed=0>配信ルームに参加している状態では\nこのマッチングに　参加できません。": ""
+  },
+  "65037": {
+    "<speed=0>あなたと同じ配信ルームに参加していない\n他の冒険者と　自動マッチングしたい場合は\n配信ルームを解散するか　抜けてください。": ""
+  },
+  "65043": {
+    "<speed=0>タロット占いは　占い師と仲間になった状態で\nどちらかがリーダーの状態でのみ　行えます。\nその状態でもう一度お願いしてみましょう。": ""
+  },
+  "65141": {
+    "グランゼドーラ劇場での公演では\nモニターの音量は一定になり　変更できません。\nご注意ください。": ""
   }
 }
