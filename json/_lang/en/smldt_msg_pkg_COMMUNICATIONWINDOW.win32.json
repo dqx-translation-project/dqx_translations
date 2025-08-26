@@ -504,7 +504,7 @@
     "<speed=0>ルームから　抜けられませんでした。": "<speed=0>You couldn't leave the room."
   },
   "31868": {
-    "<speed=0><%sM_pc>の　ルームから　抜けますか？\n<yesno 1><close>": "<speed=0>Do you want to leave <%sM_pc>'s room?\n<yesno 1><close>"
+    "<speed=0><%sM_pc>の　ルームから　抜けますか？\n<yesno 2><close>": ""
   },
   "31869": {
     "<speed=0>すでに　そのルームから　抜けています。": "<speed=0>You've already left that room."
@@ -516,7 +516,7 @@
     "<speed=0><%sM_pc>を　ルームから　はずせませんでした。": "<speed=0><%sM_pc> could not be removed from\nthe room."
   },
   "31872": {
-    "<speed=0><%sM_pc>を　ルームから　はずしますか？\n<yesno 1><close>": "<speed=0>Remove <%sM_pc> from the room?\n<yesno 1><close>"
+    "<speed=0><%sM_pc>を　ルームから　はずしますか？\n<yesno 2><close>": ""
   },
   "31873": {
     "<speed=0>すでに相手が　ルームから　抜けています。": "<speed=0>This person has already left the room."
@@ -1689,10 +1689,10 @@
     "<speed=0>チームチャットでの\n『どこでもチャット』の機能を　設定します。\n現在『どこでもチャットＯＫにする』です。\n<br>\n『どこでもチャットＯＫを解除』に変更しますか？\n※この設定は　チームリーダーが変更できます。\n<yesno 1><close>": "<speed=0>This will toggle whether or not the Team's\nchat can be accessed via the \"Anywhere Chat\"\nfunction while using the companion app.\n<br>\nThe current setting is \"Allow\". Set to\n\"Not Allow\"?\n(Setting can be changed by the Team Leader.)\n<yesno 1><close>"
   },
   "48306": {
-    "<speed=0>ルームチャットでの\n『どこでもチャット』の機能を　設定します。\n現在『どこでもチャットＯＫにする』です。\n<br>\n『どこでもチャットＯＫを解除』に変更しますか？\n※この設定は自ルームのみ　変更できます。\n<yesno 1><close>": "<speed=0>This will toggle whether or not this Room's\nchat can be accessed via the \"Anywhere Chat\"\nfunction while using the companion app.\n<br>\nThe current setting is \"Allow\". Set to\n\"Not Allow\"?\n(You can only set this for your own Room.)\n<yesno 1><close>"
+    "<speed=0>ルームチャットでの\n『どこでもチャット』の機能を　設定します。\n現在『どこでもチャットＯＫにする』です。\n<br>\n『どこでもチャットＯＫを解除』に変更しますか？\n※この設定はルームの作成者のみ変更できます。\n<yesno 1><close>": ""
   },
   "48307": {
-    "<speed=0>ルームチャットでの\n『どこでもチャット』の機能を　設定します。\n現在『どこでもチャットＯＫを解除』です。\n<br>\n『どこでもチャットＯＫにする』に変更しますか？\n※この設定は自ルームのみ　変更できます。\n<yesno 1><close>": "<speed=0>This will toggle whether or not this Rooms's\nchat can be accessed via the \"Anywhere Chat\"\nfunction while using the companion app.\n<br>\nThe current setting is \"Not Allow\". Set to\n\"Allow\"?\n(You can only set this for your own Room.)\n<yesno 1><close>"
+    "<speed=0>ルームチャットでの\n『どこでもチャット』の機能を　設定します。\n現在『どこでもチャットＯＫを解除』です。\n<br>\n『どこでもチャットＯＫにする』に変更しますか？\n※この設定はルームの作成者のみ変更できます。\n<yesno 1><close>": ""
   },
   "48308": {
     "<speed=0>『どこでもチャット』の設定に失敗しました。\n時間をおいて　再度お試しください。": "<speed=0>Anywhere Chat setup failed. Please wait a\nwhile and try again."
@@ -3247,5 +3247,68 @@
   },
   "64360": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに　週替わりおでかけ討伐パーティに誘われて\n討伐ポイント・経験　<%dL_EXP> Pを手に入れた！　<ty%dM_HAPPY_TIME>年<tm%dM_HAPPY_TIME>月<td%dM_HAPPY_TIME>日<th%dM_HAPPY_TIME>時<ti%dM_HAPPY_TIME>分": "\\s<%sC_PC>\\m<%sC_ID>\\e invited you to an App Weekly Subjugation\nand you received <%dL_EXP> EXP! <tm%02dM_HAPPY_TIME>/<td%02dM_HAPPY_TIME>/<ty%dM_HAPPY_TIME> <th%02dM_HAPPY_TIME>:<ti%02dM_HAPPY_TIME>"
+  },
+  "64773": {
+    "\\s<%sC_PC>\\m<%sC_ID>\\eに　おでかけ試練の門討伐パーティに誘われて\n討伐ポイント・経験　<%dL_EXP> Pを手に入れた！　<ty%dM_HAPPY_TIME>年<tm%dM_HAPPY_TIME>月<td%dM_HAPPY_TIME>日<th%dM_HAPPY_TIME>時<ti%dM_HAPPY_TIME>分": ""
+  },
+  "64818": {
+    "<speed=0>自分の配信ルームを作成します。\nよろしいですか？<yesno 2><close>": ""
+  },
+  "64819": {
+    "<speed=0>自分の配信ルームを作成しました。\n配信ＩＤ：<color_yellow><%sM_ID><color_white>\n<br>\n他のプレイヤーは　あなたの配信ＩＤを\n入力することで　配信ルームに\n入ることができます。\n<br>\n作成した配信ルームは　解散するまで\n保持されますが　配信ＩＤはログインするたびに\n変更されます。　": ""
+  },
+  "64820": {
+    "<speed=0><%sM_room>の配信ルームに入ります。\nよろしいですか？<yesno><close>": ""
+  },
+  "64831": {
+    "配信ルーム": ""
+  },
+  "64832": {
+    "配信ルーム参加設定の切り替えに\n失敗しました。\n時間をおいてから　もう一度お試しください。": ""
+  },
+  "64833": {
+    "配信ルームに　だれも\n参加できないようにしました。": ""
+  },
+  "64834": {
+    "配信ルームの作成に失敗しました。": ""
+  },
+  "64835": {
+    "配信ルームに参加できませんでした。\n配信ルームが存在しないか\n参加時にエラーが発生しました。": ""
+  },
+  "64837": {
+    "配信ルームに　だれでも\n参加できるようにしました。": ""
+  },
+  "64921": {
+    "正位置": ""
+  },
+  "64922": {
+    "タロット占いを　始めた。": ""
+  },
+  "64923": {
+    "逆位置": ""
+  },
+  "64924": {
+    "タロット占いを　終えた。": ""
+  },
+  "64925": {
+    "<%sL_MAJOR_ARCANA>のカードが<%sL_TAROTCARD_MUKI>で出た。": ""
+  },
+  "65035": {
+    "配信ルームは　現在作成できません。\n「いまどんな？設定」を「配信中」にすることで\n配信ルーム作成が　できます。": ""
+  },
+  "65036": {
+    "<%sL_URANAI_GENRE>のタロット占いを依頼された。": ""
+  },
+  "65038": {
+    "<%sL_URANAI_GENRE>のタロット占いを依頼した。": ""
+  },
+  "65075": {
+    "配信ルームを作成できませんでした。\nいまどんな？設定で　「配信中」の状態に\nすることで　作成することができます。": ""
+  },
+  "65078": {
+    "他の人の配信ルームに入るためには\n「配信ＩＤ」の入力が必要となります。\n<br>\n「配信ＩＤ」とは　配信ルームを作成すると\n表示されるＩＤで　「いまどんな？設定」で\n「配信中」にすることでも　確認できます。\n<br>\n入りたい配信ルームの「配信ＩＤ」を\n教えてもらったら　その「配信ＩＤ」を入力して\n参加してみましょう。": ""
+  },
+  "65084": {
+    "<speed=0>配信ルームを解散すると　自分を含む\nすべてのメンバーが　ルームから\nはずされますが　よろしいですか？<yesno 2><close>": ""
   }
 }

@@ -2014,5 +2014,257 @@
   },
   "332601": {
     "「すべての職業の特訓を　こなしているようです。\n　積み立てモード中なので　特訓スタンプは\n　得られませんが　特訓モードになりますか？<yesno><break>": ""
+  },
+  "341982": {
+    "「ここは　転職をつかさどる　ダーマの神殿\n　出張所。職業を変える　お手伝いができます。\n　何を　お望みですか？\n<break>": ""
+  },
+  "341983": {
+    "「ここは　転職をつかさどる\n　ダーマの神殿　出張所。\n　職業を変える　お手伝いが　できますよ。\n<bw_break>": ""
+  },
+  "341984": {
+    "「ここは　転職をつかさどる　ダーマの神殿\n　出張所。職業を変える　お手伝いができます。\n　何を　お望みですか？\n<break>": ""
+  },
+  "341985": {
+    "「何を　お望みですか？\n<break>": "What can I do for you?\n<break>"
+  },
+  "341986": {
+    "「何を　お望みですか？\n<break>": "What can I do for you?\n<break>"
+  },
+  "341987": {
+    "「転職しないのですね。それも　よいでしょう。\n　さあ　お行きなさい。<end>": "You don't want to change vocations? That's\nfine. Now go.<end>"
+  },
+  "341988": {
+    "「どの職業になることを　望みますか？\n<break>": "Which vocation would you like to become?\n<break>"
+  },
+  "341989": {
+    "「どうやら　あなたは　すでに\n　<%sM_syokugyou>の職に　ついていますね。\n　どの職業になることを　望みますか？\n<break>": ""
+  },
+  "341990": {
+    "「わかりました。\n　<%sM_new_syokugyou>に　転職するのですね？\n<yesno><close>": "Understood. You want to change to\n<%sM_new_syokugyou>, right?\n<yesno><close>"
+  },
+  "341991": {
+    "「では　どの職業になることを　望みますか？\n<break>": "So, which vocation to you want to be?\n<break>"
+  },
+  "341992": {
+    "「では　<%sM_self>よ。<%sM_new_syokugyou>の\n　気持ちになって　祈りなさい。ダーマの神よ！\n　<%sM_self>に　新たな人生を歩ませください！\n<end>": "Then let it be so! <%sM_self>, fill\nyour heart with visions of becoming a\n<%sM_new_syokugyou> and join me in prayer!\n<end>"
+  },
+  "341993": {
+    "「<%sM_new_syokugyou>に転職すると\n　まだ　なついていない　<%sM_monster>は　\n　モンスター酒場に送られますがよろしいですか？\n<yesno><close>": "If you change vocations to <%sM_new_syokugyou>,\n<%sM_monster> will be sent to the Monster\n<br>\nTavern if their happiness isn't high enough.\nIs that all right?<yesno><close>"
+  },
+  "341994": {
+    "<color_yellow>つれている　<%sM_monster>は\nモンスター酒場に送られました！": "<color_yellow><%sM_monster> has been sent to\nthe Monster Tavern!"
+  },
+  "341995": {
+    "「……なんと！\n　<%sM_monster>は　死んでいるようです。\n　このまま　酒場には送れませんね……。<br>\n「転職したければ　<%sM_monster>を\n　生き返らせてから　来るのがよいでしょう。": ""
+  },
+  "341996": {
+    "「これで　今から　あなたは<%sM_new_syokugyou>として\n　生きていくことになりました。まず　最初に\n　新たな能力に　目覚めることでしょう。\n<br>\n<%sM_self>は\nスカウトアタック（専）の特技を　おぼえた！\n<se_nots System 17>\n<br>\n「その特技は　モンスターを仲間にする際に\n　欠かせないもの。仲間にしたいモンスターには\n　その　スカウトアタックを使うのです。\n<br>\n「スカウトアタックを使った後　その戦闘に勝てば\n　相手が起き上がり　仲間になることがあります。\n　その技で　とどめをさす必要はありません。\n<bw_break>": "Good. From here on, you will go forth as a\n<%sM_new_syokugyou>. First, you will learn this\nnew ability.\n<br>\n<%sM_self> learned Scout Attack!\n<se_nots System 17>\n<br>\nThis is an essential skill that you will need\nwhen trying to scout monsters. Make sure to\nuse it on a monster you want to join you.\n<br>\nIf you win the battle after using it, the\nmonster may wish to join you. Scout Attack\nalso doesn't need to deal the finishing blow.\n<bw_break>"
+  },
+  "341997": {
+    "「ただし　スカウトアタックを使うためには\n　仲間にしたいモンスターの名前が付いた\n　『スカウトの書』を　読む必要があります。\n<br>\n「必ず　スカウトの書を読んでから\n　そのモンスターを　仲間にしにいってください。\n　スカウトの書は　酒場の地下でも買えますよ。\n<bw_break>": "However, before you can use Scout Strike, you\nmust first read a scouting book, which has\nthe name of the monster you desire.\n<br>\nAfter reading it, you will be able to use\nScout Attack against it.\n<br>\nScouting books can be bought in the\nbasement of any tavern.\n<bw_break>"
+  },
+  "341998": {
+    "「私からの説明は　以上ですが\n　もう一度　聞きますか？\n<yesno><close>": "That's all I have to say. Do you want to hear\nit again?<yesno><close>"
+  },
+  "341999": {
+    "「モンスターを仲間にする際には\n　先ほど覚えた　スカウトアタックという\n　<%sM_new_syokugyou>専用の特技を使うのです。\n<br>\n「スカウトアタックを使った後　その戦闘に勝てば\n　相手が起き上がり　仲間になることがあります。\n　その技で　とどめをさす必要はありません。\n<bw_break>": "When you join a monster, you'll need to use\nthe <%sM_new_syokugyou> special\nmove you just learned called Scout Attack. If\n<br>\nyou win the battle after using the scout\nattack, the monster will wake up and join\nyou... You don't have to finish him off with\n<br>\nthat move...<bw_break>"
+  },
+  "342000": {
+    "「もっと　くわしい話は　酒場の地下にある\n　モンスター酒場で聞けますからね。\n　何か困ったら　そちらに行くといいでしょう。\n<br>\n「では　くれぐれも　スカウトの書を読むことを\n　お忘れなきよう。それから　装備の見直しも\n　おこたらないように　してくださいね。": "You can get more detailed information at the\nMonster Tavern in the basement of the\ntavern... If you need any help, you can go\n<br>\nthere. And don't forget to read the Scout's\nBook. And don't forget to check your\nequipment...\n<br>"
+  },
+  "342001": {
+    "「これで　今から　あなたは<%sM_new_syokugyou>として\n　生きていくことになりました。まず　最初に\n　新たな能力に　目覚めることでしょう。\n<br>\n<%sM_self>は\nスカウトアタック（専）の特技を　おぼえた！\n<se_nots System 17>\n<br>\n「スカウトアタックは　まもの使い　どうぐ使いで\n　同様の特技ですが　対象となるモンスターは\n　それぞれ異なります。\n<br>\n「職業に合った　スカウトの書を読んでから\n　仲間にしにいってください。\n　スカウトの書は　酒場の地下でも買えますよ。\n<br>\n「新たな職業ですので　装備の見直しも\n　おこたらないように。さあ　お行きなさい。 \n<end>": "Now, from now on, you will live as\n<%sM_new_syokugyou>... The first\nthing you need to do is wake up to a new\n<br>\nability... <%sM_self> has learned\nthe Scout Attack feat!\n<se_nots System 17>Scout Attack is a similar skill for mages and\npawns, but it targets different monsters...\nYou'll need to read the appropriate Scout\n<br>\nbook before you can recruit a monster. You\ncan buy them in the basement of the tavern.\nAnd since this is a new profession, we'll\n<br>\nneed to revise your equipment... Here we\ngo...<end>"
+  },
+  "342002": {
+    "「これで　今から　あなたは<%sM_new_syokugyou>として\n　生きていくことになりました。装備の見直しを\n　忘れぬように。さあ　お行きなさい。": "There. Henceforth shall you tread the path of\nthe <%sM_new_syokugyou>. Be sure to review your equipment as\nwell. Now go, my child. Embrace your new life!"
+  },
+  "342003": {
+    "「これで　今から　あなたは<%sM_new_syokugyou>として\n　生きていくことになりました。あなたは　今\n　特訓モードのようです。さあ　お行きなさい。": "From now on, you shall walk the path of the\n<%sM_new_syokugyou>. You are currently in\ntraining mode. You may go, my child."
+  },
+  "342004": {
+    "「これで　今から　あなたは<%sM_new_syokugyou>として\n　生きていくことになりました。装備の見直しを\n　忘れぬように。さあ　お行きなさい。": "There. Henceforth shall you tread the path of\nthe <%sM_new_syokugyou>. Be sure to review your equipment as\nwell. Now go, my child. Embrace your new life!"
+  },
+  "342005": {
+    "「なんと！　あなたは　今　いまわしき呪いに\n　おかされてらっしゃいますね。\n<br>\n「転職は　教会にて呪いのけがれを\n　はらってからにするのが　よいでしょう。": ""
+  },
+  "342006": {
+    "「何について　ご説明しましょうか？\n<select_se_off>\n転職について\nスキルポイントについて\n呪文や特技の引き継ぎについて\n<select_end>\n<break>": "What would you like me to tell you about?\n<select_se_off>\nAbout changing jobs\nAbout Skill Points\nTransfer of Spells and Specialties\n<select_end>\n<break>"
+  },
+  "342007": {
+    "「転職とは　もちろん　職業を変えることです。\n　はじめての職業に転職をすれば\n　レベルは　はじめからの再出発となります。\n<br>\n「ですが　レベルは職業ごとに持っています。\n　再び転職して　元の職業に戻れば　レベルも\n　元の職業のものに戻るので　心配いりません。\n<br>\n「資格を持つ者であれば　転職に　レベルの\n　制限はありません。自由に　転職できますので\n　いつでも　ダーマ神殿や出張所まで　どうぞ。\n<end>": ""
+  },
+  "342008": {
+    "「スキルポイントは　すべての職業で\n　レベル２以上から　少しずつ取得していく\n　いわば　ダーマの神からの　授けものです。\n<br>\n「『さくせん』の『スキルふりわけ』から\n　各スキルに　振り分けることで　様々な特技や\n　スキル効果を　習得していきます。\n<br>\n「スキルポイントは　職業ごとに異なります。\n　転職しても　なくなりませんが　取得した\n　職業にしか　振り分けられません。\n<br>\n「同名のスキルでも　異なる職業では\n　ポイント振り分けが　別のものになるので\n　転職の際には　ご注意ください。\n<end>": "Skill points are earned gradually beginning\nat level 2. Think of them as like a blessing\nfrom the Allmighty Alltrades.\n<br>\nBy allocating your skill points with the\n\"Skill Points\" command under \"Misc.\", you\ncan learn various skills and traits.\n<br>\nSkill points are unique to each vocation. You\nwon't lose them if you change, but they can\nonly be allocated where they were earned.\n<br>\nSo even if different vocations have the same\nskill lines, they will be assigned separately.\nPlease remember that well.\n<end>"
+  },
+  "342009": {
+    "「レベルを上げて覚えた呪文は\n　覚えた職業でしか使えない　専用のものです。\n　転職すると　使えなくなってしまうでしょう。\n<br>\n「ですが　『スキルふりわけ』で習得した特技には\n　転職すると使えなくなってしまう専用特技と\n　転職しても使える特技の　２種類があります。\n<br>\n「『スキルふりわけ』や　『つよさ』コマンドで\n　確認した時に　（専）と書かれているのが\n　専用特技です。確認してみるとよいでしょう。\n<end>": "You level up, you learn a spell, and it only\nworks on the job you learned it for. If you\nchange jobs, you won't be able to use them\n<br>\nanymore... But there are two types of spells\nyou can learn with Skill Transfer: those that\nare exclusive to your profession, and those\n<br>\nthat you can still use after you change\nprofessions. If you're looking for a special\nskill, you'll need to use the \"Skill Recall\"\n<br>\nor \"Strength\" command. It's a good idea to\ncheck...<end>"
+  },
+  "342010": {
+    "「何について　ご説明しましょうか？\n<select_se_off>\n転職について\nスキルポイントについて\n呪文や特技の引き継ぎについて\n特訓モードについて\n<select_end>\n<break>": "What would you like me to tell you about?\n<select_se_off>\nAbout changing jobs\nAbout Skill Points\nTransfer of Spells and Specialties\nAbout Special Training Mode\n<select_end>\n<break>"
+  },
+  "342011": {
+    "「あなたのように　特訓を受けられる者ならば\n　ここでも　レベル５０以上の職業の\n　『特訓モード』を　開始することができます。\n<br>\n「『特訓モード』では　モンスターと戦っても\n　経験値は　得られませんが\n　『特訓スタンプ』を　獲得することができます。\n<br>\n「特訓スタンプを　獲得できるのは\n　討伐モンスターリストに　『ターゲット』の\n　刻印が押されている　モンスターのみです。\n<br>\n「獲得できる　特訓スタンプの数は\n　相手が強ければ強いほど　増えていきます。\n　強敵を相手に　特訓に　はげんでください。\n<end>": "If you're one of those who can take training,\nyou can start the training mode for all\nprofessions above level 50 here. In training\n<br>\nmode, you won't gain any experience from\nfighting monsters, but you will earn training\nstamps. You can only earn training stamps\n<br>\nfrom monsters that are marked \"Target\" on the\nlist of monsters to defeat... The stronger\nthe opponent, the more Training Stamps you'll\n<br>\nearn. The stronger the opponent, the more\ntraining stamps you'll earn.<end>"
+  },
+  "342012": {
+    "「あなたは今　特訓モードのようですね。\n　特訓モードを　解除しますか？\n<yesno><break>": "You're in training mode now, I see.\nDo you want to stop training?\n<yesno><break>"
+  },
+  "342013": {
+    "「特訓モードに　きりかえるのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If I switch back to training mode... I won't\nbe able to gain any experience, is that okay?<yesno><break>"
+  },
+  "342014": {
+    "<pc>の　特訓モードが解除された。\n<end>": "Training mode has been disabled.<end>"
+  },
+  "342015": {
+    "<pc>は　特訓モードになった！\n<end>": "<pc> is now in training mode!<end>"
+  },
+  "342016": {
+    "「変更しないのですね。それも　よいでしょう。\n<bw_break>": "You don't wish to change? That is fine, too.\n<bw_break>"
+  },
+  "342017": {
+    "「これで　あなたの特訓モードは解除されました。\n　さあ　お行きなさい。\n<end>": "You are now out of training mode... Now go...<end>"
+  },
+  "342018": {
+    "「これで　あなたは特訓モードになりました。\n　強敵を相手に　特訓に　はげむとよいでしょう。\n　さあ　お行きなさい。\n<end>": "You are now in training mode. Be sure to train\nagainst the strongest foes that you are able.\nBlessings upon you, child.\n<end>"
+  },
+  "342019": {
+    "「……今のレベルでは　特訓は　できません。\n　レベル５０以上の　職業に転職してから\n　特訓モードを　開始するとよいでしょう。　\n<bw_break>": ""
+  },
+  "342020": {
+    "「<%sM_job>の特訓は　もう充分のようですね。\n　これ以上の特訓を望むのなら　特訓の余地がある\n　別の職業になるとよいでしょう。\n<bw_break>": "<%sM_job> seems to have had\nenough training... If you wish to train\nfurther, you may wish to find another\n<br>\nprofession where there is room for\ntraining...<bw_break>"
+  },
+  "342021": {
+    "「<%sM_job>の特訓は　もう充分のようですね。\n　グレン城の　訓練場へ行き\n　スキルポイントを　得るとよいでしょう。\n<bw_break>": "It seems you've had enough\n<%sM_job> training... I suggest\nyou go to the training grounds at Castle\n<br>\nGlenn and get some skill points...<bw_break>"
+  },
+  "342022": {
+    "「おお！　特訓スタンプが貯まっていますね。\n　確認いたしましょう。\n<bw_break>": ""
+  },
+  "342023": {
+    "特訓スタンプが　<%dM_stamp>個　貯まっていたので\n<pc>は\nスキルポイントを　<%dM_point> P　手に入れた！\n<me 57><bw_break>": "You've accumulated <%dM_stamp> Training Stamps,\nand received <%dM_point> skill point(s)!\n<me 57><bw_break>"
+  },
+  "342024": {
+    "「次は　<%dM_stamp>個　特訓スタンプを\n　貯めてきた時　スキルポイントを授けましょう。\n　さて…\n<bw_break>": "When you accumulate <%dM_stamp> stamps,\nyou shall receive another skill point.\nNow then...\n<bw_break>"
+  },
+  "342025": {
+    "「すべての職業の特訓を　こなしたようですね。\n　あなたにできる特訓は　今は何もありません。\n　よくがんばりましたね。\n<bw_break>": "You've trained for every profession. There's\nnothing you can do now... You've done well...<bw_break>"
+  },
+  "342026": {
+    "「そういえば　モンスター牧場に\n　空きがあるらしいので　連れていた\n　<%sM_monster>は　そちらに送りますか？\n<yesno><break>": "Speaking of which, I heard there's an opening\nat the monster farm, so should I send you the\n<%sM_monster> I had with me?\n<br><yesno><break>"
+  },
+  "342027": {
+    "「そういえば　モンスター牧場に\n　空きがあるようです。\n<br>\n「レベル<%nM_maxlv>に　到達しているので\n　これ以上　経験値は入りませんが\n　<%sM_monster>を　モンスター牧場に送りますか？\n<yesno><break>": "Speaking of which, there's a vacancy at the\nmonster farm... You've reached level\n<%dM_maxlv>, so you won't get any\n<br>\nmore experience, but would you like to send\n<%sM_monster> to the monster\nfarm?\n<br><yesno><break>"
+  },
+  "342028": {
+    "<color_yellow>つれている　<%sM_monster>は\nモンスター牧場に送られました！": "<color_yellow>My <%sM_monster> has been sent to\nthe monster farm!"
+  },
+  "342029": {
+    "「……ちょっと　お待ちください。\n　モンスター牧場で　受け取れる経験値が\n　あるようです。\n<br>\n「モンスター牧場に送るには\n　先に　経験値を受け取っておく必要があります。\n<br>\n「お連れの　<%sM_monster>は　モンスター酒場で\n　お預かりしますので　経験値を獲得してから\n　もう一度　手続きを　お願いします。\n<end>": ""
+  },
+  "342030": {
+    "「一度で　すべての職業を\n　『経験値モード』か『特訓モード』に\n　きりかえられます。　どちらにしますか？\n<select_se_off>\n経験値モード\n特訓モード\n<select_end>\n<break>": "You can switch all of your vocations to either\n\"Experience Mode\" or \"Training Mode\".\nWhich would you like?\n<select_se_off>\nExperience Mode\nTraining Mode\n<select_end>\n<break>"
+  },
+  "342031": {
+    "「すべての職業を\n　経験値モードに　きりかえるのですね？\n<yesno><break>": "So you're switching all professions to\nexperience mode?<yesno><break>"
+  },
+  "342032": {
+    "「すべての職業で　レベルが上限に達しています。\n　特訓の余地のある　職業があるようですが\n　それでも　経験値モードにきりかえますか？\n<yesno><break>": "I've reached the maximum level for all\nprofessions... It seems there are some\nprofessions that have room to train, but you\n<br>\nstill want to switch to experience mode?<yesno><break>"
+  },
+  "342033": {
+    "すべての職業が　経験値モードになった！\n<end>": "All vocations are now in experience mode!\n<end>"
+  },
+  "342034": {
+    "「これで　すべての職業が\n　経験値モードになりました。\n　さあ　お行きなさい。\n<end>": "Now that all professions are in experience\nmode... Here we go...<end>"
+  },
+  "342035": {
+    "「すべての職業を　特訓モードに　するのですね。\n　経験値は　得られなくなりますが\n　よろしいですか？\n<yesno><break>": "If all vocations enter training mode, then you\nwill not gain any experience.\nAre you sure?\n<br><yesno><break>"
+  },
+  "342036": {
+    "「すべての職業の特訓を　こなしているようです。\n　レベルが上限に達していない　職業がありますが\n　それでも　特訓モードにしますか？\n<yesno><break>": "So you wish to change all vocations to\ntraining mode, I see. Some of your vocations\nhave yet to reach maximum level, however.\n<br>\nDo you still want to enter training mode?\n<yesno><break>"
+  },
+  "342037": {
+    "すべての職業が　特訓モードになった！\n<color_yellow>※レベル５０未満の　職業は\n　経験値モードのままです。\n<end>": "All vocations are now in training mode!\n<color_yellow>(Any vocations under level 50 will remain\nin experience mode.)\n<end>"
+  },
+  "342038": {
+    "「すべての職業が　特訓モードになりました。\n　強敵を相手に　特訓に　はげむとよいでしょう。\n　さあ　お行きなさい。\n<end>": "All vocations are now set to training mode.\nDo your best to train against the most\npowerful of foes. You may go, my child.\n<end>"
+  },
+  "342039": {
+    "「……あなたは　今　特訓モードですが\n　<%sM_job>の特訓は　もう充分のようですね。\n<br>\n「経験値を得れば\n　さらなる成長が　見込めるようです。\n　特訓モードを　解除しますか？\n<yesno><break>": ""
+  },
+  "342040": {
+    "「……あなたは　今　経験値モードですが\n　<%sM_job>のレベルは\n　上限に達しているようですね。\n<br>\n「特訓スタンプを集めれば\n　さらなる成長が　見込めるようです。\n　特訓モードに　きりかえますか？\n<yesno><break>": ""
+  },
+  "342041": {
+    "「変更しないのですね。それも　よいでしょう。\n<end>": "You don't wish to change? That is fine, too.\n<end>"
+  },
+  "342042": {
+    "": ""
+  },
+  "342043": {
+    "": ""
+  },
+  "342044": {
+    "": ""
+  },
+  "342045": {
+    "": ""
+  },
+  "342046": {
+    "「マスタースキルポイントを　割り振るのですね？\n　ポイントは　各職業のスキルごとに覚えている。\n　他職業には反映されないので　ご注意ください。\n<end>": ""
+  },
+  "342047": {
+    "「……どうやら　<%sM_new_syokugyou>には\n　まだ　割り振られていない\n　マスタースキルポイントが　あるようですね。\n<br>\n「マスタースキルポイントを　割り振ってから\n　冒険に行くのが　よいでしょう。\n<end>": ""
+  },
+  "342048": {
+    "「何について　ご説明しましょうか？\n<select_se_off>\n転職について\nスキルポイントについて\n呪文や特技の引き継ぎについて\nマスタースキルポイントについて\n<select_end>\n<break>": "What would you like me to tell you about?\n<select_se_off>\nAbout changing jobs\nAbout Skill Points\nTransfer of Spells and Specialties\nAbout Master Skill Points\n<select_end>\n<break>"
+  },
+  "342049": {
+    "「何について　ご説明しましょうか？\n<select_se_off>\n転職について\nスキルポイントについて\n呪文や特技の引き継ぎについて\n特訓モードについて\nマスタースキルポイントについて\n<select_end>\n<break>": "What would you like me to tell you about?\n<select_se_off>\nAbout changing jobs\nAbout Skill Points\nTransfer of Spells and Specialties\nAbout Special Training Mode\nAbout Master Skill Points\n<select_end>\n<break>"
+  },
+  "342050": {
+    "「マスタースキルポイントとは\n　職業ごとに配分され　ポイントの振り直しも\n　自由におこなえる　特別なスキルポイントです。\n<br>\n「割り振りと　振り直しは　私たち神官か\n　ダーマ神殿でのみ　おこなうことができます。\n<br>\n「また　マスタースキルポイントは\n　各職業が持つスキルごとに　記憶されます。\n<br>\n「同名のスキルでも　異なる職業では\n　ポイント振り分けが　異なるものになるので\n　転職の際には　ご注意ください。\n<br>\n「スキルブックで　マスタースキルポイントを\n　増やした後は　今の職業だけでなく　各職業にも\n　そのポイントを　割り振りましょう。\n<end>": "Mastery points are special skill points that\nare allocated to each profession and can be\nreallocated at will. They can only be\n<br>\nreallocated and reassigned by us priests or\nat the Alltrades Abbey. Master skill points\nare stored for each skill a player possesses.\n<br>\nThe same skill will be assigned differently\nto different professions, so please be\ncareful when changing professions... Once\n<br>\nyou've increased your Mastery Points in the\nSkill Book, you can then use those points to\ntransfer them to other professions...\n<br><end>"
+  },
+  "342051": {
+    "「ここは　転職をつかさどる\n　ダーマの神殿　出張所。\n　あなたに　伝えておくことがあります。\n<br>\n「じつは　ダーマ神の　ご加護により\n　この出張所でも　マスタースキルポイントの\n　割り振りが　可能となりました。\n<br>\n「今後は　ダーマ神殿まで行かずとも\n　ポイントの割り振りが　できますよ。\n　というわけで……\n<bw_break>": ""
+  },
+  "342052": {
+    "「マスタースキルポイントの\n　振り分けは　完了しました。\n　さあ　お行きなさい。\n<end>": "Master Skill Point allocation has been\ncompleted. Now, you may go.\n<end>"
+  },
+  "342053": {
+    "「ここは　転職をつかさどる\n　ダーマの神殿　出張所。\n　あなたに　伝えておくことがあります。\n<br>\n「じつは　ダーマ神の　ご加護により\n　割り振ったマスタースキルの配分を\n　職業ごとに　覚えておけるようになりました。\n<br>\n「転職する時は　その職業で以前に割り振った\n　マスタースキルポイントの値に\n　振り直してさしあげます。\n<br>\n「その職業にあった\n　マスタースキルポイントの配分を\n　心がけるとよいでしょう。というわけで……\n<bw_break>": "This is the temple of Dharma, the god of\ncareer change... There's something I need to\ntell you... By the grace of the god Dharma,\n<br>\nwe can now remember the Master Skill points\nwe've allocated to each profession... When\nyou change professions, you will be\n<br>\nreassigned the same Master Skill Points you\nwere previously assigned for that\nprofession... It's best to allocate your\n<br>\nMastery Points according to your profession.\nSo...<bw_break>"
+  },
+  "342054": {
+    "「あなたは　初めて<%sM_new_syokugyou>に\n　転職するのですね。この職業は　少し特殊で\n　レベル５０から始まりますよ。\n<bw_break>": "You're becoming <%sM_new_syokugyou> for the first time, aren't\nyou? This vocation is a bit unique, in that\nit begins at level 50.<bw_break>"
+  },
+  "342055": {
+    "「なんと！　遊び人でありながら\n　特訓をしたいと　言うのですか？\n<br>\n「遊び人たる者　特訓はしないと聞いています。\n　経験値モードのまま　冒険を　お続けください。\n　それでは……\n<bw_break>": ""
+  },
+  "342056": {
+    "すべての職業が　特訓モードになった！\n<color_yellow>※遊び人は　経験値モードのままです。\n<end>": "All vocations are now in Training Mode!\n<color_yellow>※Gadabout will remain in EXP Mode.<end>"
+  },
+  "342057": {
+    "すべての職業が　特訓モードになった！\n<color_yellow>※遊び人と　レベル５０未満の職業は\n　経験値モードのままです。\n<end>": "All vocations are now in Training Mode!\n<color_yellow>※Gadabout and all vocations below level 50\nwill remain in EXP Mode.<end>"
+  },
+  "342058": {
+    "（未使用）": "(not used)"
+  },
+  "342059": {
+    "「なるほど……確かに　あなたの中に\n　別の種族の姿が　眠っているのを感じます。\n<br>\n「もうひとつの自分の姿を目覚めさせ\n　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に\n　種族を　変えますか？\n<yesno><break>": "I see...I sense that there is a different\nform sleeping within you.\n<br>\nDo you wish to awaken your other self\nand change from <%sL_RACE_NOW> to\n<%sL_RACE_AFTER>?\n<yesno><break>"
+  },
+  "342060": {
+    "「ああ　我らが神よ！\n　<pc>の中に眠る　<%sL_RACE_AFTER>の\n　姿を　目覚めさせたまえ！<end>": "Oh, great Goddess! Awaken the <%sL_RACE_AFTER>\nform that sleeps deeply within <pc>!"
+  },
+  "342061": {
+    "「種族が変わって　装備できなくなった\n　武器や防具は　はずしておきました。\n　さあ　お行きなさい。<end>": "Any equipment that cannot be equipped in your\nnew form has been removed. You may go, my\nchild.<end>"
+  },
+  "342062": {
+    "「積み立てモード中ですが　<%sM_new_syokugyou>に\n　転職するのですね？　その職業に\n　特訓スタンプは入りませんが　よろしいですか？\n<yesno><close>": ""
+  },
+  "342063": {
+    "「積み立てモード中ですが　特訓モードに\n　きりかえるのですね。特訓スタンプは\n　得られませんが　よろしいですか？\n<yesno><break>": ""
+  },
+  "342064": {
+    "「すべての職業を　特訓モードに　するのですね。\n　積み立てモード中なので　特訓スタンプは\n　得られなくなりますが　よろしいですか？<yesno><break>": ""
+  },
+  "342065": {
+    "「すべての職業の特訓を　こなしているようです。\n　積み立てモード中なので　特訓スタンプは\n　得られませんが　特訓モードになりますか？<yesno><break>": ""
   }
 }
