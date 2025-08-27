@@ -2040,7 +2040,7 @@
     "<speed=0><%sM_item><%sM_plusnum>は\nロックされているため　すてられません。": "<speed=0><%sM_item><%sM_plusnum> is locked\nand cannot be thrown away."
   },
   "33997": {
-    "ドルボードは　燃料切れだった！\nドルセリンを　<%nM_DORU>つチャージして乗ります。": ""
+    "ドルボードは　燃料切れだった！\nドルセリンを　<%nM_DORU>つチャージして乗ります。": "Your Dolboard is out of fuel!\nUsing <%dM_DORU> Dolsoline to refill it."
   },
   "34103": {
     "錬金の依頼を\n受けられます！\nという状態": "You're seeking\nrequests for\nalchemy!"
@@ -7248,31 +7248,31 @@
     "アニメイラスト\nのような雰囲気の\n写真を撮ります": "Take an anime\nlooking photo."
   },
   "62565": {
-    "キャンバスに\n描いたような\n写真を撮ります": ""
+    "キャンバスに\n描いたような\n写真を撮ります": "Take photos\nthat look like\na canvas."
   },
   "62566": {
-    "画面に映った\n映像のような\n写真を撮ります": ""
+    "画面に映った\n映像のような\n写真を撮ります": "Take a photo like\na scene on\na screen."
   },
   "62568": {
-    "細かいドット柄で\nやわらかな雰囲気\nの写真を撮ります": ""
+    "細かいドット柄で\nやわらかな雰囲気\nの写真を撮ります": "Take photos that\nhave a delicate\ndot pattern."
   },
   "62569": {
-    "すりガラスを\n通して見たような\n写真を撮ります": ""
+    "すりガラスを\n通して見たような\n写真を撮ります": "Take photos that\nsee through\nfrosted glass."
   },
   "62570": {
     "屏風に描かれた\n絵画のような\n写真を撮ります": "Take a photo that\nlooks like a\npainting."
   },
   "62571": {
-    "キラキラした\n雰囲気の\n写真を撮ります": ""
+    "キラキラした\n雰囲気の\n写真を撮ります": "Take photos that\nlook sparkly."
   },
   "62572": {
     "油彩で描かれた\n絵画のような\n写真を撮ります": "Take a photo that\nlooks like an\noil painting."
   },
   "62573": {
-    "色鉛筆で描いた\nような雰囲気の\n写真を撮ります": ""
+    "色鉛筆で描いた\nような雰囲気の\n写真を撮ります": "Take photos that\nare drawn with\ncolored pencils."
   },
   "62574": {
-    "水中のような\n雰囲気の\n写真を撮ります": ""
+    "水中のような\n雰囲気の\n写真を撮ります": "Take photos that\ntake place\nunderwater."
   },
   "62575": {
     "<speed=0>その移動先には　今　飛べないようだ。": "<speed=0>That destination is not available right now."
@@ -7662,7 +7662,7 @@
     "現在　特訓モードのようです。\n特訓スタンプは　入りませんが\n積み立てモードを　オンにしますか？\n<yesno><close>": "You are currently in training mode.\nYou will not receive training stamps from\nEXP Saving. Continue anyway?\n<yesno><close>"
   },
   "63752": {
-    "積み立てモードをオンにすることで　バトルと\n酒場から得られる経験値を　現在の職業ではなく\n経験値の通帳に　積み立てることができます。\n<br>\n積み立てられる　経験値の上限は\n＋１で５００万　＋２で１０００万になります。\n<br>\n積み立てた経験値は　お好みの職業に\n引き落とすことができます。\n<br>\n元気玉や料理　修練の心得など\nつかうものの効果によって　増えた分の経験値も\n経験値の通帳に　積み立てられます。\n<br>\nただし　エンゼルスライム帽などの効果による\n経験値の増加分は　積み立てられず\n現在の職業に割り振られます。ご注意ください。\n<br>\nおでかけ超便利ツールから受け取る経験値や\n経験値の聖典などの　つかうものによる経験値は\n積み立てることができません。\n<br>\n特訓スタンプを　集めるときは\n積み立てモードを　オフにしてください。\nオンのままだと　経験値が積み立てられます。": ""
+    "積み立てモードをオンにすることで　バトルと\n酒場から得られる経験値を　現在の職業ではなく\n経験値の通帳に　積み立てることができます。\n<br>\n積み立てられる　経験値の上限は\n＋１で５００万　＋２で１０００万になります。\n<br>\n積み立てた経験値は　お好みの職業に\n引き落とすことができます。\n<br>\n元気玉や料理　修練の心得など\nつかうものの効果によって　増えた分の経験値も\n経験値の通帳に　積み立てられます。\n<br>\nただし　エンゼルスライム帽などの効果による\n経験値の増加分は　積み立てられず\n現在の職業に割り振られます。ご注意ください。\n<br>\nおでかけ超便利ツールから受け取る経験値や\n経験値の聖典などの　つかうものによる経験値は\n積み立てることができません。\n<br>\n特訓スタンプを　集めるときは\n積み立てモードを　オフにしてください。\nオンのままだと　経験値が積み立てられます。": "By enabling EXP Saving, you can accrue EXP\nthat you receive from battles and the tavern\nin your EXP Passbook.\n<br>\nYou may withdraw to any vocation you wish.\n<br>\nThe maximum amount you can save at once\nis 5 million EXP with +1, and 10 million EXP\nwith +2.\n<br>\nEXP gained from extra sources such as Bonus\nOrbs, food, and the Tips on Training will also\nbe saved into the EXP Passbook.\n<br>\nHowever, EXP gained from effects such as\nthe Angel Slime Hat will not save, and\ninstead be earned normally.\n<br>\nEXP gained from the companion app and\nitems such as EXP Scriptures also cannot\nbe saved.\n<br>\nIf in training mode, be sure to disable EXP\nSaving. If left on, EXP will be saved\ninstead."
   },
   "63755": {
     "現在　積み立てモードは　オフの状態です。\n経験値は　<%dM_Pool_Exp> P貯まっています。\n<select_se_off>\n積み立てモードきりかえ\n経験値を引き出す\n<color_yellow>経験値の通帳の使い方\n<select_end><case 1><break>\n<case 2><break>\n<case 3><break>\n<case_cancel><close>\n<case_end>": "EXP Saving is currently disabled.\nYou currently have <%dM_Pool_Exp> EXP\nsaved.\n<select_se_off>\nEnable EXP Saving\nWithdraw EXP\n<color_yellow>How to Use the EXP Passbook\n<select_end><case 1><break>\n<case 2><break>\n<case 3><break>\n<case_cancel><close>\n<case_end>"
@@ -7818,10 +7818,10 @@
     "<speed=0>\n入手上限に達したため　報酬は手に入りませんが\nよろしいですか？\n<yesno><close>": "<speed=0>\nYou have reached the maximum amount of\nobtainable rewards and will not receive\nany more. Go anyway?\n<yesno><close>"
   },
   "64604": {
-    "<speed=0>かんたんショートカットには　登録できません。": ""
+    "<speed=0>かんたんショートカットには　登録できません。": "<speed=0>Cannot be registered as a Short-Cut Command."
   },
   "64616": {
-    "経験値が　超過しているので\n積み立てモードに　切り替えることができません。\n経験値を消費して下さい。": ""
+    "経験値が　超過しているので\n積み立てモードに　切り替えることができません。\n経験値を消費して下さい。": "You have reached the EXP limit and cannot\naccrue any more EXP. Please distribute\nsome EXP first."
   },
   "64623": {
     "※なかまコマンドでリーダーのサーバーに移動できます。": "Use the \"Party\" menu to move to leader's server."
@@ -7830,7 +7830,7 @@
     "<speed=0>\nこのマッチングに参加するには\n異界アスタルジアの　控えの間にいる\nアデフィに話しかける必要が　あります。": "<speed=0>\nTo participate in this matching, you must\nfirst speak to Adefi inside Astalgia's\nAntechamber."
   },
   "64626": {
-    "ゲーム中よく使う\nコマンドを４つ\n設定します": ""
+    "ゲーム中よく使う\nコマンドを４つ\n設定します": "Set 4 commands\nyou can access\neasily."
   },
   "64627": {
     "経験値を引き出すことが　できませんでした。\n時間をおいてから　再度お試しください。": "Unable to withdraw EXP. Please wait a while\nand try again."
@@ -7839,7 +7839,7 @@
     "討伐報酬外の宝珠（未入手<%nM_Num>こ）": "Non-reward Jewel (<%dM_Num> Unobtained)"
   },
   "64638": {
-    "<speed=0>\nかんたんショートカット設定の　説明です！\n<br>\nセリフやスタンプなど　好きなコマンドを\nあらかじめ設定しておけば　いつでも\nかんたんに　使うことができる機能です。\n<br>\nかんたんショートカットに設定したコマンドは\n<autorun>と　<jump>を　同時に押しながら　\n<cursor>を押すと　使えます。\n<br>\nコマンドは　最大４つまで　設定できるので\n自分好みの　コマンドを設定して　便利な　\nかんたんショートカットを　使ってみてください！": ""
+    "<speed=0>\nかんたんショートカット設定の　説明です！\n<br>\nセリフやスタンプなど　好きなコマンドを\nあらかじめ設定しておけば　いつでも\nかんたんに　使うことができる機能です。\n<br>\nかんたんショートカットに設定したコマンドは\n<autorun>と　<jump>を　同時に押しながら　\n<cursor>を押すと　使えます。\n<br>\nコマンドは　最大４つまで　設定できるので\n自分好みの　コマンドを設定して　便利な　\nかんたんショートカットを　使ってみてください！": "<speed=0>\nThis will explain Short-Cut Commands!\n<br>\nYou can assign things such as phrases, stamps,\netc. you find yourself using often as\neasily accessible short-cut commands.\n<br>\nSimply press <autorun> and <jump> at\nthe same time. You can then use your\nregistered commands with <cursor>.\n<br>\nMake a point of assigning anything you find\nyourself using often. It will make your\nadventure that bit easier!"
   },
   "64640": {
     "<speed=0>\n他の冒険者を　パーティに誘っている状態では\nこのバトルに挑めません。": "<speed=0>\nYou cannot participate in this battle if there\nare other adventurers in your party."
@@ -7857,85 +7857,85 @@
     "<speed=0>\n天啓の石を　これ以上\n持てなくなりそうだ……。\nこのまま　挑戦しても　よろしいですか？\n<yesno><close>": "<speed=0>\nIt appears you cannot hold any more Supreme\nStones...\nGo to battle anyway?\n<yesno><close>"
   },
   "64746": {
-    "発言した「まわりに」チャットは他の冒険者には聞こえません。": ""
+    "発言した「まわりに」チャットは他の冒険者には聞こえません。": "Any \"Nearby\" chat will not be seen by others."
   },
   "64749": {
-    "経験値が　最大を超えて貯まっています。\n積み立てモードを　切り替えても\n経験値は貯まりませんが　よろしいですか？\n<yesno><close>": ""
+    "経験値が　最大を超えて貯まっています。\n積み立てモードを　切り替えても\n経験値は貯まりませんが　よろしいですか？\n<yesno><close>": "You have reached the maximum saved EXP. If you\nswitch to EXP Saving, you will not accrue\nany EXP. Continue?\n<yesno><close>"
   },
   "64753": {
-    "他人のしぐさ音や\n足音を消すことが\nできます": ""
+    "他人のしぐさ音や\n足音を消すことが\nできます": "Mute emote and\nfootstep sounds\nof others."
   },
   "64754": {
-    "劇場ホール内で　定点カメラの時に\n他人のしぐさ音や　足音を　消すことができます。\n※全画面では　劇場ホール内の効果音が消えます。": ""
+    "劇場ホール内で　定点カメラの時に\n他人のしぐさ音や　足音を　消すことができます。\n※全画面では　劇場ホール内の効果音が消えます。": "When using a fixed camera in the Theatre Hall,\nyou can mute the emote and footstep sounds of\nother players.\n<br>\nWhile in fullscreen mode, sounds will be muted\nautomatically."
   },
   "64771": {
-    "<speed=0>精霊力が足りないので　使用できない！": ""
+    "<speed=0>精霊力が足りないので　使用できない！": "<speed=0>You don't have enough Spirit Energy\nto use that!"
   },
   "64785": {
-    "<speed=0>タロット占いとは　落ち着いた状態で\n占うことがらを　読み解いていくものです。\n安全な　町の中でやりましょう。": ""
+    "<speed=0>タロット占いとは　落ち着いた状態で\n占うことがらを　読み解いていくものです。\n安全な　町の中でやりましょう。": "<speed=0>A Tarot reading works best when you calmly\nfocus on the interpretation. For best results,\nit's recommended to do so within town."
   },
   "64791": {
-    "Nintendo Switchの携帯モードでのプレイにおける\n描画速度を変更できますが　『高速』の場合\nバッテリー持続時間は　短くなります。": ""
+    "Nintendo Switchの携帯モードでのプレイにおける\n描画速度を変更できますが　『高速』の場合\nバッテリー持続時間は　短くなります。": "Switch stuff..."
   },
   "64792": {
-    "画面を描画する\n処理速度を\n変更します": ""
+    "画面を描画する\n処理速度を\n変更します": "Switch stuff"
   },
   "64821": {
-    "ドルセリン<%nM_DORU>つチャージ！": ""
+    "ドルセリン<%nM_DORU>つチャージ！": "Used <%dM_DORU> Dolsoline!"
   },
   "64840": {
-    "３９ドラゴンクエスト": ""
+    "３９ドラゴンクエスト": "Dragon Quest 39th"
   },
   "64841": {
-    "３９ドラゴンクエストキャンペーン": ""
+    "３９ドラゴンクエストキャンペーン": "Dragon Quest 39th Campaign"
   },
   "64845": {
-    "占いの依頼を\n受けられます！\nという状態": ""
+    "占いの依頼を\n受けられます！\nという状態": "You're available\nto do\nfortunetelling."
   },
   "64846": {
     "<speed=0>『占います』にチェックすると\n『ひとりプレイ中』『取り込み中』のチェックが\nはずれますが　よろしいですか？<yesno><close>": ""
   },
   "64853": {
-    "<speed=0><%sM_pc>に　タロット占いを\n依頼しますか？\n<yesno><close>": ""
+    "<speed=0><%sM_pc>に　タロット占いを\n依頼しますか？\n<yesno><close>": "<speed=0>Request a Tarot reading from\n<%sM_pc>?\n<yesno><close>"
   },
   "64854": {
-    "<speed=0>タロット占いの依頼を\nキャンセルしますか？\n<yesno><close>": ""
+    "<speed=0>タロット占いの依頼を\nキャンセルしますか？\n<yesno><close>": "<speed=0>Cancel your request?\n<yesno><close>"
   },
   "64855": {
-    "<speed=0>タロット占いは　占い師と\nなかまになった状態でのみ　行えます。\nなかまになってから　もう一度たのみましょう。": ""
+    "<speed=0>タロット占いは　占い師と\nなかまになった状態でのみ　行えます。\nなかまになってから　もう一度たのみましょう。": "<speed=0>Tarot readings may only be done by someone who\nis also your friend. Try adding them to your\nfriend's list first."
   },
   "64856": {
-    "<speed=0>タロット占いは　占い師か\n自分が　リーダーの状態でのみ　行えます。\nどちらかをリーダーにして再度たのみましょう。": ""
+    "<speed=0>タロット占いは　占い師か\n自分が　リーダーの状態でのみ　行えます。\nどちらかをリーダーにして再度たのみましょう。": "<speed=0>Tarot readings may only be performed when\neither you or the fortune teller is party\nleader."
   },
   "64914": {
-    "<speed=0>タロット占いを　キャンセルしました。": ""
+    "<speed=0>タロット占いを　キャンセルしました。": "<speed=0>The Tarot reading is cancelled."
   },
   "64915": {
-    "<speed=0>タロット占いが　断られました。": ""
+    "<speed=0>タロット占いが　断られました。": "<speed=0>The Tarot reading is declined."
   },
   "64927": {
-    "<speed=0><color_yellow>\n武器チャームを登録した　マイコーデを\n着ているときは　マイコーデの武器チャームの\n見映えが　優先されます。": ""
+    "<speed=0><color_yellow>\n武器チャームを登録した　マイコーデを\n着ているときは　マイコーデの武器チャームの\n見映えが　優先されます。": "<speed=0><color_yellow>\nWhen wearing a glamour with a Weapon Charm\nregistered, that Weapon Charm's appearance\nwill take priority."
   },
   "64941": {
-    "効果音を\n設定します": ""
+    "効果音を\n設定します": "Set sound\neffect settings."
   },
   "64988": {
-    "<speed=0>相手から先に　タロット占いの\n依頼が来ています。\n返事をしてから　もう一度たのみましょう。": ""
+    "<speed=0>相手から先に　タロット占いの\n依頼が来ています。\n返事をしてから　もう一度たのみましょう。": "<speed=0>You've already received a Tarot reading\nrequest from someone else. Reply to that\nrequest first and try again."
   },
   "64993": {
-    "<speed=0>このプリズムには　効果音を設定できません。": ""
+    "<speed=0>このプリズムには　効果音を設定できません。": "<speed=0>Sound effects cannot be set for this prism."
   },
   "64994": {
-    "<speed=0>占い師が　タロット占いの受付を終了しました。": ""
+    "<speed=0>占い師が　タロット占いの受付を終了しました。": "<speed=0>The fortune teller is no longer accepting\nrequests."
   },
   "65015": {
-    "<speed=0>パーティ全員が　同じ配信ルームに参加するか\n配信ルームを抜けた状態でないと\nこのマッチングに　参加できません。": ""
+    "<speed=0>パーティ全員が　同じ配信ルームに参加するか\n配信ルームを抜けた状態でないと\nこのマッチングに　参加できません。": "<speed=0>To participate in this matching, all party\nmembers must either join the same Streaming\nRoom or leave it entirely."
   },
   "65016": {
-    "<speed=0>配信ルームに参加している状態では\nこのマッチングに　参加できません。": ""
+    "<speed=0>配信ルームに参加している状態では\nこのマッチングに　参加できません。": "<speed=0>You cannot participate in this matching\nwhile you are in a Streaming Room."
   },
   "65037": {
-    "<speed=0>あなたと同じ配信ルームに参加していない\n他の冒険者と　自動マッチングしたい場合は\n配信ルームを解散するか　抜けてください。": ""
+    "<speed=0>あなたと同じ配信ルームに参加していない\n他の冒険者と　自動マッチングしたい場合は\n配信ルームを解散するか　抜けてください。": "<speed=0>To match with other players not in your\nStreaming Room, either leave the room or\ndisband it."
   },
   "65043": {
     "<speed=0>タロット占いは　占い師と仲間になった状態で\nどちらかがリーダーの状態でのみ　行えます。\nその状態でもう一度お願いしてみましょう。": ""
