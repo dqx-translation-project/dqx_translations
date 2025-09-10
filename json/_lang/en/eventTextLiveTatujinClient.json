@@ -159,7 +159,7 @@
     "<pipipi_off><speed=0>\n他にも　何かしますか？\n<break>": "<pipipi_off><speed=0>\nDo what?\n<break>"
   },
   "341155": {
-    "<pipipi_off><speed=0>\nこの庭具を使えば　いつでも\n宝珠の鑑定と　ポイント交換が　できます。\n<end>": ""
+    "<pipipi_off><speed=0>\nこの庭具を使えば　いつでも\n宝珠の鑑定と　ポイント交換が　できます。\n<end>": "<pipipi_off><speed=0>\nUse this furniture to appraise any\nunappraised jewels or to exchange Jewel\nPoints.\n<end>"
   },
   "341156": {
     "「わしは　５つの理を学び\n　おのれを究めんとする者たちを　導く者。\n　人呼んで　達人である。\n<br>\n「ふむ。どうやら　おぬしは\n　達人のオーブの　持ち主になったばかり……\n　といったところのようじゃな。\n<br>\n「達人のオーブとは\n　おぬしが　経験値を得ることで\n　レベルアップする　生きた宝石じゃ。\n<br>\n「達人のオーブは　レベルアップするたびに\n　達人ポイントと呼ばれる　チカラを生む。\n　これは　おぬしが　強くなるための糧となる。\n<br>\n「しかし　達人ポイントは　それだけでは\n　なんの役にも立たん。さまざまな能力を秘めた\n　『宝珠』というものが　必要じゃ。\n<br>\n「宝珠は　モンスターなどから　入手できるが\n　その宝珠を　わしのもとに　持ってくれば\n　宝珠に　秘められた能力を　開花させよう。\n<br>\n「その　開花した能力に\n　達人ポイントを　ふりわけて　初めて　\n　能力を　発揮させることができるぞ。\n<br>\n「……まあ　まずは　さわってみるが早かろう。\n　ひとつ　宝珠の能力を　開花させよう。\n　受け取るがよい。\n<bw_break>": "I am one who learns the five principles, and\nteaches those willing to learn them. I'm\nwhat you call a Master.\n<br>\nHmm, it seems as if you've come into\npossession of a Master Orb.\n<br>\nThe Master Orb is a living jewel that will\nlevel up by receiving experience.\n<br>\nWhen the Master Orb levels up, it gains power\nin the form of Master Points. These can help\nyou to become stronger.\n<br>\nHowever, Master Points alone are useless.\nYou will need something called a \"jewel\",\nwhich contain various abilities.\n<br>\nJewels can be obtained from monsters. If\nyou bring these jewels to me, I can unlock\ntheir hidden abilities for you.\n<br>\nYou must allocate Master Points to these\nabilities in order for them to work.\n<br>\nWell, it's better to try it for yourself. I'll\nunlock one jewel's ability for you. Here,\ntake it.<bw_break>"
@@ -174,13 +174,13 @@
     "<color_yellow>\nセットしている石版や　達人に預けている宝珠\n飾り石など　すべて変換し　<%dM_HOUJU_P>Ｐの\n宝珠ポイントを　手に入れた。\n<se_nots System 7><end>": "blah blah blah no"
   },
   "341160": {
-    "<pipipi_off><speed=0>\n鑑定したい物を　選んでください。\n<break>": ""
+    "<pipipi_off><speed=0>\n鑑定したい物を　選んでください。\n<break>": "<pipipi_off><speed=0>\nPlease select the item you wish to have\nappraised.\n<break>"
   },
   "341161": {
-    "<pipipi_off><speed=0>\n鑑定の必要な　宝珠を　持っていません。\n<bw_break>": ""
+    "<pipipi_off><speed=0>\n鑑定の必要な　宝珠を　持っていません。\n<bw_break>": "<pipipi_off><speed=0>\nYou have no jewels that need appraising.\n<bw_break>"
   },
   "341162": {
-    "<pipipi_off><speed=0>\n今　所持している　未鑑定の物を\nまとめて鑑定しますが　よろしいですか？\n<yesno><break>": ""
+    "<pipipi_off><speed=0>\n今　所持している　未鑑定の物を\nまとめて鑑定しますが　よろしいですか？\n<yesno><break>": "<pipipi_off><speed=0>\nAppraise all currently unappraised\njewels?\n<yesno><break>"
   },
   "341163": {
     "「この石版を　鑑定するのじゃな？\n<yesno><break>": "YOU WILL NEVER SEE THIS PART 2"
@@ -189,13 +189,13 @@
     "「これは石版じゃな。\n　今では　石版は不要だが　この石版は\n　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。\n<end>": "YOU WILL NEVER SEE THIS"
   },
   "341165": {
-    "<pipipi_off><speed=0>\nこの宝珠を　鑑定しますか？\n<yesno><break>": ""
+    "<pipipi_off><speed=0>\nこの宝珠を　鑑定しますか？\n<yesno><break>": "<pipipi_off><speed=0>\nAppraise this jewel?\n<yesno><break>"
   },
   "341166": {
-    "<pipipi_off><speed=0>\n<%sM_JEWEL_NAME>　でした。\n新たな能力が　開花されました。\n宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しました。": ""
+    "<pipipi_off><speed=0>\n<%sM_JEWEL_NAME>　でした。\n新たな能力が　開花されました。\n宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しました。": "<pipipi_off><speed=0>\nThe jewel is <%sM_JEWEL_NAME>.\nA new ability is now unlocked.\nThe jewel converts into <%dM_HOUJU_P> Jewel Point."
   },
   "341167": {
-    "<pipipi_off><speed=0>\n<%sM_JEWEL_NAME>　でしたが\nすでに　開花している能力になります。\n宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しました。": ""
+    "<pipipi_off><speed=0>\n<%sM_JEWEL_NAME>　でしたが\nすでに　開花している能力になります。\n宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しました。": "<pipipi_off><speed=0>\nThe jewel is <%sM_JEWEL_NAME>,\nbut you already know this ability.\nThe jewel converts into <%dM_HOUJU_P> Jewel Point."
   },
   "341168": {
     "「何について　聞きたいのじゃ？\n<break>": "What would you like to ask about?\n<break>"
@@ -276,16 +276,16 @@
     "「達人クエストに挑めるのは　週に一度きりじゃ。\n　<%nM_DAY>日後に　新たなるクエストを提示するから\n　その頃に　また来るがよいぞ。\n<bw_break>": "You can only undertake a single Master Quest\nper week. There will be a new quest in <%dM_DAY>\ndays. Please come back then.\n<bw_break>"
   },
   "341194": {
-    "<pipipi_off><speed=0>\n今から１時間だけ\n魔物が宝珠を　落としやすくなる香水を\nかけます。\n<br>\n１日に　１回だけになりますが\n宝珠の香水を　かけますか？\n<yesno><break>": ""
+    "<pipipi_off><speed=0>\n今から１時間だけ\n魔物が宝珠を　落としやすくなる香水を\nかけます。\n<br>\n１日に　１回だけになりますが\n宝珠の香水を　かけますか？\n<yesno><break>": "<pipipi_off><speed=0>\nYou may apply Jewel Perfume once per day for\na one hour duration, which will increase\nthe drop rate of jewels from monsters.\n<br>\nApply Jewel Perfume?\n<yesno><break>"
   },
   "341195": {
-    "<pipipi_off><speed=0>\nすでに香水が　かかっているようです。\n今　かかっている香りの効果は\n消えてしまいますが　よろしいですか？\n<yesno2><break>": ""
+    "<pipipi_off><speed=0>\nすでに香水が　かかっているようです。\n今　かかっている香りの効果は\n消えてしまいますが　よろしいですか？\n<yesno2><break>": "<pipipi_off><speed=0>\nYou already have a perfume effect applied.\nThis will overwrite your current effect.\nContinue?\n<yesno2><break>"
   },
   "341196": {
-    "<pipipi_off><speed=0>\n宝珠の香水が　かかりました！\nよりいっそうの　鍛錬に　はげんでください。\n<end>": ""
+    "<pipipi_off><speed=0>\n宝珠の香水が　かかりました！\nよりいっそうの　鍛錬に　はげんでください。\n<end>": "<pipipi_off><speed=0>\nJewel Perfume applied!\nPlease keep up the excellent training.\n<end>"
   },
   "341197": {
-    "<pipipi_off><speed=0>\n今日の分の香水は　すでに　かけています。\n翌日　朝６時以降に　また　ご利用ください。\n<end>": ""
+    "<pipipi_off><speed=0>\n今日の分の香水は　すでに　かけています。\n翌日　朝６時以降に　また　ご利用ください。\n<end>": "<pipipi_off><speed=0>\nPerfume has already been applied today.\nPlease try again after 6 AM JST the following\nday.\n<end>"
   },
   "341198": {
     "「そなたの持つ　達人ポイントを\n　わしの　オススメする宝珠に　割り振って　\n　宝珠レベルを　決めてしんぜよう。\n<bw_break>": "I will allocate your Master Points to jewels\nthat I recommend and set their jewel levels\nfor you.\n<bw_break>"
