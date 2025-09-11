@@ -1,134 +1,134 @@
 {
-    "341551": {
-        "「よお！　俺は<%sL_NPC_NAME>。\n　趣味の考古学者で　ピラミッドを\n　調査しているんだ！\n<br>\n「ピラミッドの霊廟は\n　知っての通り　危険でな。\n　調査が難航しているんだよ\n<br>\n「……ところで　あんた強そうだな\n　もしかしたら　霊廟の探索を\n　任せられるかもしれないな。\n<br>\n「もしよければ　霊廟探索の\n　手伝いを　してくれないか？\n　古代のロマンに　近づきたいんだ！\n<br>\n「何をすれば　いいかは\n　定期的に　ピラミッド調査報告書として\n　あんたに依頼させてもらうよ。\n<br>\n「霊廟の探索に　協力してくれたら\n　報酬を　用意しておくからよ！\n<br_break>": "Hey! The name's Anch! I'm an archeaology\nhobbyist, and right now I'm checking out\nwhat's up with this Pyramid!\n<br>\nAs I'm sure you already know, the tombs\ninside here are pretty dangerous, so it's been\nhard to investigate them.\n<br>\nSay, you look pretty strong... Maybe I can\ncount on you to investigate the tombs for\nme?\n<br>\nWouldja be willing to help me out? I\nreally wanna get a whiff of that ancient\nair!\n<br>\nI'll regularly give you some requests of\nwhat I need you to do for me. If you\nhelp me out, I'll reward ya!\n<br_break>"
-    },
-    "341552": {
-        "「この依頼の調査を頼んだぜ。": "Please investigate this request!"
-    },
-    "341553": {
-        "「よう！　あんたを　待っていたんだ！\n<br>\n「新しい調査報告書を　用意したから\n　確認してくれ！\n<br>\n「あんたの　すごい報告\n　楽しみしてるぜ！": "Hey! Perfect timing!\n<br>\nI've got some new requests for ya, so\nplease give 'em a look!\n<br>\nI'm excited to see what you can find!"
-    },
-    "341554": {
-        "「来たか　<pc>！\n　俺に　何か用か？\n<select_se_off>\n報告をする\n報告書を見る\nアイテムを交換する\n説明を聞く\n<select_end>\n<case 1><close>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>": "Hey there, <pc>!\nWhat can I do for you?\n<select_se_off>\nGive Report\nView Requests\nExchange Items\nExplanation\n<select_end>\n<case 1><close>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>"
-    },
-    "341555": {
-        "「他に用はあるか？\n<select_se_off>\n報告をする\n報告書を見る\nアイテムを交換する\n説明を聞く\n<select_end>\n<case 1><close>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>": "Anything else?\n<select_se_off>\nGive Report\nView Reports\nExchange Items\nExplanation\n<select_end>\n<case 1><close>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>"
-    },
-    "341556": {
-        "「わかった　やめるんだな。\n　じゃあ　また　用があれば\n　声をかけてくれよな。": "No worries, I understand. Give me a holler\nif there's anything you need, alright?"
-    },
-    "341557": {
-        "「依頼の状況は　いつでも確認できる。\n　達成したら　いつでも　報告してくれ。": ""
-    },
-    "341558": {
-        "「おお　調査が進んでるようだな！\n　確認させてもらうぜ。\n<br>\n「なるほど……<wait 500>\n　つまり　そういうことで……<wait 500>\n　こ　これは！？\n<br>\n「報告　ありがとうな！\n　太古のロマンに　一歩近づけたぜ！\n<br>\n「じゃあ　報酬を受け取ってくれ！": ""
-    },
-    "341559": {
-        "「すべて報告済みだな。\n　次も　よろしく頼むぜ。": ""
-    },
-    "341560": {
-        "「調査が進んだら\n　報告を頼んだぜ。": ""
-    },
-    "341561": {
-        "<pipipi_off>\n<pc>は　依頼達成の報酬として\n<%sL_REWARD_ITEM>を　手に入れた！\n<se_nots System 7>\n<end>": ""
-    },
-    "341562": {
-        "<pipipi_off>\n<pc>は　依頼達成の報酬として\n<%sL_REWARD_ITEM>を　<%dL_REWARD_NUM><%sL_REWARD_TANI>　手に入れた！\n<se_nots System 7>\n<end>": ""
-    },
-    "341563": {
-        "「ん？　持ち物が　いっぱいみたいだな。\n　このままだと　渡せないから\n　少し整理してから　また　来てくれ！": ""
-    },
-    "341564": {
-        "「依頼はまだ　継続中だな。\n　引き続き　よろしく頼むぜ！\n<break>": ""
-    },
-    "341565": {
-        "「頼んだ依頼は\n　すべて　報告してくれたようだな。": ""
-    },
-    "341566": {
-        "「おお　次の報告書も\n　協力してくれるんだな！\n<bw_break>": ""
-    },
-    "341567": {
-        "「こちらの調査をよろしく頼むぜ。": ""
-    },
-    "341568": {
-        "「……達成済みで　まだ　報酬を受け取っていない\n　依頼が　あるみたいだな。\n　先に　報告を　してくれよな。\n<bw_break>": ""
-    },
-    "341569": {
-        "「報告書を　更新するんだな。\n　今のリストは　上書きされてしまうが\n　それで　いいんだな？\n<yesno2><break>": ""
-    },
-    "341570": {
-        "「今のところ　調査報告書は\n　これで　全部だな。\n<br>\n「新しい報告書は　次の機会に\n　用意させてもらうから\n　また　来てくれよな。": ""
-    },
-    "341571": {
-        "「今のところ　もらった報告で\n　ピラミッドの論文は　書けそうだ。\n　助かったぜ！\n<br>\n「新しい報告書は　次の機会に\n　用意させてもらうから\n　また　来てくれよな。": ""
-    },
-    "341572": {
-        "「何について　聞きたいんだ？\n<select_se_off>\n依頼について\n依頼の進め方\n依頼リストの更新\n報酬について\n<select_end>\n<case 1><break>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>": ""
-    },
-    "341573": {
-        "「ピラミッドについて　論文を\n　書いているんだが　中は危険だから\n　調査を　頼みたいんだ。\n<br>\n「どのようなことを　すればいいのかは\n　俺から　調査報告書という形で\n　依頼させてもらうぜ。\n<br>\n「達成した　依頼に応じて　\n　お礼も　用意してるぞ。\n<br>\n「俺は　考古学者でな。\n　ピラミッドの謎を　解き明かすことが\n　俺の　人生の目標なんだ。\n<br>\n「古代遺産のロマンを　ひも解くためだ。\n　協力　よろしく頼むぜ！": ""
-    },
-    "341574": {
-        "「依頼をこなすには　まず　俺から\n　報告書を　受け取ってくれ。\n<br>\n「依頼書には　３つの依頼が\n　書かれているんだ。\n<br>\n「依頼は\n　すべて　同時に進行することが　可能だ。\n　どの順番で進めても　問題ないぞ。\n<br>\n「依頼が　達成済みに　なったら\n　俺のところまで　報告しにきてくれ。\n<br>\n「報告は　依頼ごとに　分けても\n　全ての依頼を　まとめてご報告しても\n　どちらでも　問題ない。\n<br>\n「もらった報告が　ピラミッドを解き明かす\n　カギに　なるはずだ。\n　あんたのチカラを　頼りにしてるぜ。": ""
-    },
-    "341575": {
-        "「新しい　報告書があるときは\n　手元のリストを　新しいものに\n　更新するぞ。\n<br>\n「ただし　更新前に未達成だった依頼は\n　そのまま消えてしまうから\n　注意してくれ。\n<br>\n「達成済みの依頼が　ある場合は\n　先に　報酬を　渡してから\n　リストの更新を　させてもらうぜ。\n<br>\n「新しい報告書は　しばらくしたら\n　用意させてもらうから\n　気長に　待ってくれよな。": ""
-    },
-    "341576": {
-        "「依頼を　報告してくれれば\n　達成した依頼に応じて　報酬を渡すぞ。\n<br>\n「秘宝交換券は　俺から\n　別のどうぐに交換できる。\n　役立ててくれよな": ""
-    },
-    "342176": {
-        "「これはこうで。\n　この遺構は　こうなっていて……。": ""
-    },
-    "342197": {
-        "<pipipi_off>\n<pc>は　依頼達成の報酬として\n<%sL_REWARD_ITEM>を　手に入れた！\n<se_nots System 7>\n<end>": ""
-    },
-    "342198": {
-        "<pipipi_off>\n<pc>は　依頼達成の報酬として\n<%sL_REWARD_ITEM>を<%dL_REWARD_NUM><%sL_REWARD_TANI>　手に入れた！\n<se_nots System 7>\n<end>": ""
-    },
-    "342199": {
-        "「今のところ　頼んでいる依頼は\n　ないようだな。": ""
-    },
-    "342200": {
-        "「残りの依頼は　これだな。\n<break>": ""
-    },
-    "342201": {
-        "「じつは　また　あんたに\n　お願いしたい依頼が　あるんだが\n　確認してくれるか？": ""
-    },
-    "342202": {
-        "「そうか……。\n　気が変わったら　いつでも　言ってくれよな。": ""
-    },
-    "342203": {
-        "「おお！　そりゃ　助かるぜ！　\n　それじゃあ……": ""
-    },
-    "342204": {
-        "「今回　調査を頼みたいのは\n　これらだな。": ""
-    },
-    "342205": {
-        "「あんたの　すごい報告\n　楽しみしてるぜ！": ""
-    },
-    "342478": {
-        "「なるほど……<wait 500>\n　つまり　そういうことで……<wait 500>\n　こ　これは！？\n<br>\n「報告　ありがとうな！\n　太古のロマンに　一歩近づけたぜ！\n<br>\n「じゃあ　報酬を受け取ってくれ！": ""
-    },
-    "342479": {
-        "「さて　すまないんだが　\n　続けて　頼みたい依頼が　あるんだ。\n　引き受けて　もらえるだろうか？\n<yesno>\n<break>": ""
-    },
-    "342480": {
-        "「頼んだ依頼は\n　すべて　報告してくれたようだな。\n<bw_break>": ""
-    },
-    "342481": {
-        "「今のところ　もらった報告で\n　ピラミッドの論文は　書けそうだ。\n　助かったぜ！\n<bw_break>": ""
-    },
-    "342482": {
-        "「じゃあ　次の報告を\n　待っているぞ。\n　引き続き　よろしく頼むぜ！": ""
-    },
-    "342483": {
-        "「新しい報告書は　次の機会に\n　用意させてもらうから\n　また　来てくれよな。": ""
-    },
-    "343133": {
-        "「新しい依頼リストを　持ってきたぜ。\n　報告書から　確認してくれ！": ""
-    },
-    "343134": {
-        "「今　頼んでいる依頼は　これだな。\n<break>": "These are the requests I currently have for\nyou.\n<break>"
-    }
+  "341551": {
+    "「よお！　俺は<%sL_NPC_NAME>。\n　趣味の考古学者で　ピラミッドを\n　調査しているんだ！\n<br>\n「ピラミッドの霊廟は\n　知っての通り　危険でな。\n　調査が難航しているんだよ\n<br>\n「……ところで　あんた強そうだな\n　もしかしたら　霊廟の探索を\n　任せられるかもしれないな。\n<br>\n「もしよければ　霊廟探索の\n　手伝いを　してくれないか？\n　古代のロマンに　近づきたいんだ！\n<br>\n「何をすれば　いいかは\n　定期的に　ピラミッド調査報告書として\n　あんたに依頼させてもらうよ。\n<br>\n「霊廟の探索に　協力してくれたら\n　報酬を　用意しておくからよ！\n<br_break>": "Hey! The name's Anch! I'm an archeaology\nhobbyist, and right now I'm checking out\nwhat's up with this Pyramid!\n<br>\nAs I'm sure you already know, the tombs\ninside here are pretty dangerous, so it's been\nhard to investigate them.\n<br>\nSay, you look pretty strong... Maybe I can\ncount on you to investigate the tombs for\nme?\n<br>\nWouldja be willing to help me out? I\nreally wanna get a whiff of that ancient\nair!\n<br>\nI'll regularly give you some requests of\nwhat I need you to do for me. If you\nhelp me out, I'll reward ya!\n<br_break>"
+  },
+  "341552": {
+    "「この依頼の調査を頼んだぜ。": "Please investigate this request!"
+  },
+  "341553": {
+    "「よう！　あんたを　待っていたんだ！\n<br>\n「新しい調査報告書を　用意したから\n　確認してくれ！\n<br>\n「あんたの　すごい報告\n　楽しみしてるぜ！": "Hey! Perfect timing!\n<br>\nI've got some new requests for ya, so\nplease give 'em a look!\n<br>\nI'm excited to see what you can find!"
+  },
+  "341554": {
+    "「来たか　<pc>！\n　俺に　何か用か？\n<select_se_off>\n報告をする\n報告書を見る\nアイテムを交換する\n説明を聞く\n<select_end>\n<case 1><close>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>": "Hey there, <pc>!\nWhat can I do for you?\n<select_se_off>\nGive Report\nView Requests\nExchange Items\nExplanation\n<select_end>\n<case 1><close>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>"
+  },
+  "341555": {
+    "「他に用はあるか？\n<select_se_off>\n報告をする\n報告書を見る\nアイテムを交換する\n説明を聞く\n<select_end>\n<case 1><close>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>": "Anything else?\n<select_se_off>\nGive Report\nView Reports\nExchange Items\nExplanation\n<select_end>\n<case 1><close>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>"
+  },
+  "341556": {
+    "「わかった　やめるんだな。\n　じゃあ　また　用があれば\n　声をかけてくれよな。": "No worries, I understand. Give me a holler\nif there's anything you need, alright?"
+  },
+  "341557": {
+    "「依頼の状況は　いつでも確認できる。\n　達成したら　いつでも　報告してくれ。": ""
+  },
+  "341558": {
+    "「おお　調査が進んでるようだな！\n　確認させてもらうぜ。\n<br>\n「なるほど……<wait 500>\n　つまり　そういうことで……<wait 500>\n　こ　これは！？\n<br>\n「報告　ありがとうな！\n　太古のロマンに　一歩近づけたぜ！\n<br>\n「じゃあ　報酬を受け取ってくれ！": ""
+  },
+  "341559": {
+    "「すべて報告済みだな。\n　次も　よろしく頼むぜ。": ""
+  },
+  "341560": {
+    "「調査が進んだら\n　報告を頼んだぜ。": ""
+  },
+  "341561": {
+    "<pipipi_off>\n<pc>は　依頼達成の報酬として\n<%sL_REWARD_ITEM>を　手に入れた！\n<se_nots System 7>\n<end>": ""
+  },
+  "341562": {
+    "<pipipi_off>\n<pc>は　依頼達成の報酬として\n<%sL_REWARD_ITEM>を　<%dL_REWARD_NUM><%sL_REWARD_TANI>　手に入れた！\n<se_nots System 7>\n<end>": ""
+  },
+  "341563": {
+    "「ん？　持ち物が　いっぱいみたいだな。\n　このままだと　渡せないから\n　少し整理してから　また　来てくれ！": ""
+  },
+  "341564": {
+    "「依頼はまだ　継続中だな。\n　引き続き　よろしく頼むぜ！\n<break>": ""
+  },
+  "341565": {
+    "「頼んだ依頼は\n　すべて　報告してくれたようだな。": ""
+  },
+  "341566": {
+    "「おお　次の報告書も\n　協力してくれるんだな！\n<bw_break>": ""
+  },
+  "341567": {
+    "「こちらの調査をよろしく頼むぜ。": ""
+  },
+  "341568": {
+    "「……達成済みで　まだ　報酬を受け取っていない\n　依頼が　あるみたいだな。\n　先に　報告を　してくれよな。\n<bw_break>": ""
+  },
+  "341569": {
+    "「報告書を　更新するんだな。\n　今のリストは　上書きされてしまうが\n　それで　いいんだな？\n<yesno2><break>": ""
+  },
+  "341570": {
+    "「今のところ　調査報告書は\n　これで　全部だな。\n<br>\n「新しい報告書は　次の機会に\n　用意させてもらうから\n　また　来てくれよな。": ""
+  },
+  "341571": {
+    "「今のところ　もらった報告で\n　ピラミッドの論文は　書けそうだ。\n　助かったぜ！\n<br>\n「新しい報告書は　次の機会に\n　用意させてもらうから\n　また　来てくれよな。": ""
+  },
+  "341572": {
+    "「何について　聞きたいんだ？\n<select_se_off>\n依頼について\n依頼の進め方\n依頼リストの更新\n報酬について\n<select_end>\n<case 1><break>\n<case 2><break>\n<case 3><break>\n<case 4><break>\n<case_cancel><break>\n<case_end>": ""
+  },
+  "341573": {
+    "「ピラミッドについて　論文を\n　書いているんだが　中は危険だから\n　調査を　頼みたいんだ。\n<br>\n「どのようなことを　すればいいのかは\n　俺から　調査報告書という形で\n　依頼させてもらうぜ。\n<br>\n「達成した　依頼に応じて　\n　お礼も　用意してるぞ。\n<br>\n「俺は　考古学者でな。\n　ピラミッドの謎を　解き明かすことが\n　俺の　人生の目標なんだ。\n<br>\n「古代遺産のロマンを　ひも解くためだ。\n　協力　よろしく頼むぜ！": ""
+  },
+  "341574": {
+    "「依頼をこなすには　まず　俺から\n　報告書を　受け取ってくれ。\n<br>\n「依頼書には　３つの依頼が\n　書かれているんだ。\n<br>\n「依頼は\n　すべて　同時に進行することが　可能だ。\n　どの順番で進めても　問題ないぞ。\n<br>\n「依頼が　達成済みに　なったら\n　俺のところまで　報告しにきてくれ。\n<br>\n「報告は　依頼ごとに　分けても\n　全ての依頼を　まとめてご報告しても\n　どちらでも　問題ない。\n<br>\n「もらった報告が　ピラミッドを解き明かす\n　カギに　なるはずだ。\n　あんたのチカラを　頼りにしてるぜ。": ""
+  },
+  "341575": {
+    "「新しい　報告書があるときは\n　手元のリストを　新しいものに\n　更新するぞ。\n<br>\n「ただし　更新前に未達成だった依頼は\n　そのまま消えてしまうから\n　注意してくれ。\n<br>\n「達成済みの依頼が　ある場合は\n　先に　報酬を　渡してから\n　リストの更新を　させてもらうぜ。\n<br>\n「新しい報告書は　しばらくしたら\n　用意させてもらうから\n　気長に　待ってくれよな。": ""
+  },
+  "341576": {
+    "「依頼を　報告してくれれば\n　達成した依頼に応じて　報酬を渡すぞ。\n<br>\n「秘宝交換券は　俺から\n　別のどうぐに交換できる。\n　役立ててくれよな": ""
+  },
+  "342176": {
+    "「これはこうで。\n　この遺構は　こうなっていて……。": ""
+  },
+  "342197": {
+    "<pipipi_off>\n<pc>は　依頼達成の報酬として\n<%sL_REWARD_ITEM>を　手に入れた！\n<se_nots System 7>\n<end>": ""
+  },
+  "342198": {
+    "<pipipi_off>\n<pc>は　依頼達成の報酬として\n<%sL_REWARD_ITEM>を<%dL_REWARD_NUM><%sL_REWARD_TANI>　手に入れた！\n<se_nots System 7>\n<end>": ""
+  },
+  "342199": {
+    "「今のところ　頼んでいる依頼は\n　ないようだな。": ""
+  },
+  "342200": {
+    "「残りの依頼は　これだな。\n<break>": ""
+  },
+  "342201": {
+    "「じつは　また　あんたに\n　お願いしたい依頼が　あるんだが\n　確認してくれるか？": ""
+  },
+  "342202": {
+    "「そうか……。\n　気が変わったら　いつでも　言ってくれよな。": ""
+  },
+  "342203": {
+    "「おお！　そりゃ　助かるぜ！　\n　それじゃあ……": ""
+  },
+  "342204": {
+    "「今回　調査を頼みたいのは\n　これらだな。": ""
+  },
+  "342205": {
+    "「あんたの　すごい報告\n　楽しみしてるぜ！": ""
+  },
+  "342478": {
+    "「なるほど……<wait 500>\n　つまり　そういうことで……<wait 500>\n　こ　これは！？\n<br>\n「報告　ありがとうな！\n　太古のロマンに　一歩近づけたぜ！\n<br>\n「じゃあ　報酬を受け取ってくれ！": ""
+  },
+  "342479": {
+    "「さて　すまないんだが　\n　続けて　頼みたい依頼が　あるんだ。\n　引き受けて　もらえるだろうか？\n<yesno>\n<break>": ""
+  },
+  "342480": {
+    "「頼んだ依頼は\n　すべて　報告してくれたようだな。\n<bw_break>": ""
+  },
+  "342481": {
+    "「今のところ　もらった報告で\n　ピラミッドの論文は　書けそうだ。\n　助かったぜ！\n<bw_break>": ""
+  },
+  "342482": {
+    "「じゃあ　次の報告を\n　待っているぞ。\n　引き続き　よろしく頼むぜ！": ""
+  },
+  "342483": {
+    "「新しい報告書は　次の機会に\n　用意させてもらうから\n　また　来てくれよな。": ""
+  },
+  "343133": {
+    "「新しい依頼リストを　持ってきたぜ。\n　報告書から　確認してくれ！": ""
+  },
+  "343134": {
+    "「今　頼んでいる依頼は　これだな。\n<break>": "These are the requests I currently have for\nyou.\n<break>"
+  }
 }
