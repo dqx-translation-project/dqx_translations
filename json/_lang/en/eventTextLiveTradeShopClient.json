@@ -39,7 +39,7 @@
     "「では　<%sL_GOODS_ITEM>を\n　お受取りください。\n<end>": "Here, please take your <%sL_GOODS_ITEM>.<end>"
   },
   "244359": {
-    "「では　生成を開始しよう。\n　しばし　待ってくれ……。\n<end>": "I'll starting making it. Please wait a\nmoment...<end>"
+    "「では　生成を開始しよう。\n　しばし　待ってくれ……。\n<end>": "I'll begin making it now.\nJust give me one moment...\n<end>"
   },
   "244360": {
     "「何を生成したいのだ？\n<break>": "What do you want to create?\n<break>"
@@ -129,7 +129,7 @@
     "「宝珠ポイントを　<%nL_KOUKAN_NUM>Ｐ使って\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n　交換するが　かまわないか？\n<yesno2><break>": "Would you like to exchange <%dL_KOUKAN_NUM> Jewel Points\nfor these <%dL_GET_NUM> <%sL_GOODS_ITEM>?\n<yesno2><break>"
   },
   "262015": {
-    "「では　生成を開始しよう。\n　しばし　待ってくれ……。\n<end>": "I'll starting making it. Please wait a\nmoment...<end>"
+    "「では　生成を開始しよう。\n　しばし　待ってくれ……。\n<end>": "I'll begin making it now.\nJust give me one moment...\n<end>"
   },
   "262016": {
     "「さあ　受け取るがよい。\n<end>": "Here, take it.<end>"
@@ -1047,7 +1047,7 @@
     "交換できませんでした。\n最大所持数に　制限のある　\nアイテムのようです。\n<end>": ""
   },
   "331338": {
-    "「そのアイテムは　すでに　入手済みだ。\n　港町レンドア南や　メギストリスの都などという\n　土地の　取りよせ商から　購入できるようだな。\n<bw_break>": ""
+    "「そのアイテムは　すでに　入手済みだ。\n　港町レンドア南や　メギストリスの都などという\n　土地の　取りよせ商から　購入できるようだな。\n<bw_break>": "This item has already obtained. You can\npurchase it from a collection merchant in\nSouth Port Lendor or Megistris.\n<bw_break>"
   },
   "341202": {
     "「まず　説明をさせてもらおう。\n　ここでは　貴公の持つ　防衛メダルと素材を使い\n　武器や盾などの装備品を　生成できる。\n<br>\n「装備品には　錬金効果がつくのだが\n　これは　私にも　何がつくか　わからない。\n　貴公の運次第かもしれんな。\n<br>\n「なお　装備品は　より強力なものが\n　追加されていく予定だが　その場合でも\n　以前の装備品を選ぶことは　可能である。\n<br>\n「……説明は　以上だ。\n　では　任務を遂行するとしよう。\n<bw_break>": "First, allow me to explain what it is I\ndo here.\n<br>\nHere you can use the Defense Medals and spoils\nyou earn to create weapons and shields.\n<br>\nAny equipment I create will come with alchemy\neffects, but even I don't know what will\nappear. Hopefully you'll get lucky.\n<br>\nStronger equipment will be added as time\ngoes on. You can still choose any previous\nequipment when that happens, though.\n<br>\nAnd that's all. Let's both do our duty.\n<bw_break>"
@@ -1068,28 +1068,28 @@
     "「まず　装備レベルを選んでくれ。\n　貴公の選んだ　装備レベルの装備が\n　生成されるからな。\n<break>": "First, you choose your equipment level. The\nequipment of your chosen level will be\ngenerated.<break>"
   },
   "341208": {
-    "<pipipi_off><speed=0>\nこちらは　月に１回しか交換できない\n特別なアイテムです。\n<br>\n宝珠ポイントを　<%nL_KOUKAN_NUM>Ｐ使って\n<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n交換しますが　よろしいですか？\n<yesno><break>": ""
+    "<pipipi_off><speed=0>\nこちらは　月に１回しか交換できない\n特別なアイテムです。\n<br>\n宝珠ポイントを　<%nL_KOUKAN_NUM>Ｐ使って\n<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n交換しますが　よろしいですか？\n<yesno><break>": "<pipipi_off><speed=0>\nThis is a special item that may be exchanged\nfor once per month.\n<br>\nUse <%dL_KOUKAN_NUM> Jewel Points to exchange\nfor the <%dL_GET_NUM> <%sL_GOODS_ITEM>s?\n<yesno><break>"
   },
   "341209": {
-    "<pipipi_off><speed=0>\nお持ちの　宝珠ポイントと\nアイテムを　交換します。\n何と　交換しますか？\n<break>": ""
+    "<pipipi_off><speed=0>\nお持ちの　宝珠ポイントと\nアイテムを　交換します。\n何と　交換しますか？\n<break>": "<pipipi_off><speed=0>\nYou may exchange your Jewel Points\nfor various items. Which item do you\nwant to exchange for?\n<break>"
   },
   "341210": {
-    "<pipipi_off><speed=0>\n他にも　何か　交換しますか？\n<break>": ""
+    "<pipipi_off><speed=0>\n他にも　何か　交換しますか？\n<break>": "<pipipi_off><speed=0>\nAre there any other items you'd like\nto exchange for?\n<break>"
   },
   "341211": {
     "「<%sL_GOODS_ITEM>だな。\n　すまないが　何の効果がつくかは　運次第だ。\n　これを生成して　かまわないか？\n<yesno2><break>": "<%sL_GOODS_ITEM>? Apologies\nin advance, but its effects will be random.\nDo you want me to create this?\n<yesno2><break>"
   },
   "341212": {
-    "<pipipi_off><speed=0>\n宝珠ポイントを　<%nL_KOUKAN_NUM>Ｐ使って\n<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n交換しますが　よろしいですか？\n<yesno2><break>": ""
+    "<pipipi_off><speed=0>\n宝珠ポイントを　<%nL_KOUKAN_NUM>Ｐ使って\n<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と\n交換しますが　よろしいですか？\n<yesno2><break>": "<pipipi_off><speed=0>\nUse <%dL_KOUKAN_NUM> Jewel Points to exchange\nfor the <%dL_GET_NUM> <%sL_GOODS_ITEM>s?\n<yesno2><break>"
   },
   "341213": {
-    "「では　生成を開始しよう。\n　しばし　待ってくれ……。\n<end>": "I'll starting making it. Please wait a\nmoment...<end>"
+    "「では　生成を開始しよう。\n　しばし　待ってくれ……。\n<end>": "I'll begin making it now.\nJust give me one moment...\n<end>"
   },
   "341214": {
-    "<pipipi_off><speed=0>\nでは　お受け取りください。\n<end>": ""
+    "<pipipi_off><speed=0>\nでは　お受け取りください。\n<end>": "<pipipi_off><speed=0>\nHere, please take it.\n<end>"
   },
   "341215": {
-    "<pipipi_off><speed=0>\nでは　お受け取りください。\n<end>": ""
+    "<pipipi_off><speed=0>\nでは　お受け取りください。\n<end>": "<pipipi_off><speed=0>\nHere, please take it.\n<end>"
   },
   "341216": {
     "「また　いつでも　来るがよい。\n<end>": "Please come back anytime.\n<end>"
@@ -1104,13 +1104,13 @@
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
   },
   "341220": {
-    "<pipipi_off><speed=0>\nどうぐかばんが　いっぱいで　受け取れません。\n空きを作ってから　また　ご利用ください。\n<bw_break>": ""
+    "<pipipi_off><speed=0>\nどうぐかばんが　いっぱいで　受け取れません。\n空きを作ってから　また　ご利用ください。\n<bw_break>": "<pipipi_off><speed=0>\nYour item bag is full, so you cannot exchange\nfor any items at this time. Please make\nsome space and try again.\n<bw_break>"
   },
   "341221": {
-    "<pipipi_off><speed=0>\nそうびぶくろが　いっぱいで　受け取れません。\n空きを作ってから　また　ご利用ください。\n<bw_break>": ""
+    "<pipipi_off><speed=0>\nそうびぶくろが　いっぱいで　受け取れません。\n空きを作ってから　また　ご利用ください。\n<bw_break>": "<pipipi_off><speed=0>\nYour equipment bag is full, so you cannot\nexchange for any items at this time. Please\nmake some space and try again.\n<bw_break>"
   },
   "341222": {
-    "<pipipi_off><speed=0>\n<%sL_GOODS_ITEM>と　交換するには\n宝珠ポイントが　足りません。\n<bw_break>": ""
+    "<pipipi_off><speed=0>\n<%sL_GOODS_ITEM>と　交換するには\n宝珠ポイントが　足りません。\n<bw_break>": "<pipipi_off><speed=0>\nYou do not have enough Jewel Points\nto exchange for that item.\n<bw_break>"
   },
   "341223": {
     "「<%sL_GOODS_ITEM>は\n　あなたの性別では\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by\nyour gender. Is that all right?\n<yesno 2><break>"
@@ -1119,7 +1119,7 @@
     "「今の職業では　装備できないようだが\n　それでも　かまわないか？\n<yesno><break>": "You can't equip this in your current vocation.\nWould you still like it?\n<yesno><break>"
   },
   "341225": {
-    "<pipipi_off><speed=0>\nそのアイテムは　すでに交換しているため\nもう　渡すことは　できません。\n月が替わったあとに　また　ご利用ください。\n<end>": ""
+    "<pipipi_off><speed=0>\nそのアイテムは　すでに交換しているため\nもう　渡すことは　できません。\n月が替わったあとに　また　ご利用ください。\n<end>": "<pipipi_off><speed=0>\nThis item has already been exchanged for.\nYou may exchange for it again when the\nmonth changes.\n<end>"
   },
   "341226": {
     "「<%sL_GOODS_ITEM>の　しぐさは\n　もう　覚えているようなので\n　お渡しすることが　できません。\n<end>": "You already know the <%sL_GOODS_ITEM>\nemote, so I can't give it to you.<end>"
