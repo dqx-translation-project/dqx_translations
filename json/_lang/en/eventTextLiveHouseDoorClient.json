@@ -1,6 +1,6 @@
 {
   "66237": {
-    "「この家を　家キットに　戻しますか？\n<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
+    "「この家を　家キットに　戻しますか？\n<yesno 2><break>": "Would you like to return this house to\na house kit?\n<yesno 2><break>"
   },
   "66238": {
     "「この土地に　<%sL_HOUSE_NAME>を\n　建てます。\n　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
@@ -102,7 +102,7 @@
     "配置中の家具が　ありません。": "There's furniture in place..."
   },
   "66272": {
-    "「あら……？\n　家キットを　お持ちでないようですね。\n　家キットを用意してから　お申しつけください。\n<bw_break>": "Oh...? I don't think you have a house kit.\nWe'll have to get you a house kit before you\ncan come in.<bw_break>"
+    "「あら……？\n　家キットを　お持ちでないようですね。\n　家キットを用意してから　お申しつけください。\n<bw_break>": "You don't have any house kits, it seems.\nYou will need one if you wish to rebuild your\nhouse.\n<bw_break>"
   },
   "66273": {
     "「あら？　それは今建っている家と \n　同じ家キットのようですね。 \n　家の建て替えは　違う家キットをご指示ください。\n<bw_break>": "Oh? That looks like the same house kit as the\none we're building... If you're rebuilding a\nhouse, you'll need a different house kit...<bw_break>"
@@ -171,7 +171,7 @@
     "屋根ウラ収納は　家のオーナーだけが使える\nアイテム倉庫です。屋根ウラ収納には\nアイテムを　<%nL_VAULT_SLOTS>種類まで　入れられます。": "Roof storage is for homeowners only. The roof\nstorage can hold up to <%dL_VAULT_SLOTS>\ntypes of items..."
   },
   "66295": {
-    "「この家を　家キットに　戻しますか？\n<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
+    "「この家を　家キットに　戻しますか？\n<yesno 2><break>": "Would you like to return this house to\na house kit?\n<yesno 2><break>"
   },
   "66296": {
     "「この土地に　<%sL_HOUSE_NAME>を\n　建てます。\n　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
@@ -246,7 +246,7 @@
     "「申し訳ありませんが\n　もう一度　ご指示ください。\n<bw_break>": "I'm sorry, sir. I'm going to have to ask you\none more time to...<bw_break>"
   },
   "66320": {
-    "庭具を　持っていません。": "You have no garden furniture."
+    "庭具を　持っていません。": "You have no outdoor furniture."
   },
   "66321": {
     "庭具の配置権限がないため\n庭具を置くことは　できません。": "You don't have placement permissions."
@@ -273,7 +273,7 @@
     "配置中の庭具が　ありません。": "There are garden tools in place..."
   },
   "66330": {
-    "「あら……？\n　家キットを　お持ちでないようですね。\n　家キットを用意してから　お申しつけください。\n<bw_break>": "Oh...? I don't think you have a house kit.\nWe'll have to get you a house kit before you\ncan come in.<bw_break>"
+    "「あら……？\n　家キットを　お持ちでないようですね。\n　家キットを用意してから　お申しつけください。\n<bw_break>": "You don't have any house kits, it seems.\nYou will need one if you wish to rebuild your\nhouse.\n<bw_break>"
   },
   "66331": {
     "「あら？　それは今建っている家と \n　同じ家キットのようですね。 \n　家の建て替えは　違う家キットをご指示ください。\n<bw_break>": "Oh? That looks like the same house kit as the\none we're building... If you're rebuilding a\nhouse, you'll need a different house kit...<bw_break>"
@@ -324,7 +324,7 @@
     "「それでは　失礼いたします。": "Now, if you'll excuse me..."
   },
   "66347": {
-    "置きたい庭具を　選んでください。\n<break>": "You choose the garden tools you want...<break>"
+    "置きたい庭具を　選んでください。\n<break>": "Choose the furniture you would like to\nplace.\n<break>"
   },
   "66348": {
     "「<pc>さま。ご用がございましたら\n　なんなりと　お申しつけください。\n<break>": "If there's anything that I can do for you,\n<pc>, please don't hesitate\nto ask me.\n<break>"
@@ -348,7 +348,7 @@
     "「あら？　\n　畑で　花を栽培中のようですね。\n　畑をきれいにしてから　お試しください。\n<bw_break>": "Oh? Looks like they're growing flowers in the\nfield... I'll have to clean up the field\nbefore we can try...<bw_break>"
   },
   "66559": {
-    "「お招きのつばさは　１０回使えて\n　ひとつ　<%nL_GOLD>ゴールドです。\n　購入しますか？\n<yesno><break>": "The Wings of Invitation can be used 10 times,\none <%dL_GOLD> goal... Do you want to buy it?<yesno><break>"
+    "「お招きのつばさは　１０回使えて\n　ひとつ　<%nL_GOLD>ゴールドです。\n　購入しますか？\n<yesno><break>": "A Wing of Invitation may be used 10 times, and\ncosts <%dL_GOLD> Gold each.\nWould you like one?\n<yesno><break>"
   },
   "66560": {
     "「はい。では　こちらを　どうぞ。\n<bw_break>": "Yes, sir. Okay, this is...<bw_break>"
@@ -357,7 +357,7 @@
     "「お招きのつばさとは　ルーラストーンのように\n　<pc>さまの家まで　一瞬で移動できる\n　道具です。ひとつで　１０回　使えます。\n<br>\n「管理人か　家の立て札から\n　ひとつ　５００ゴールドで　購入できます。\n　人には渡せますが　旅人バザーには出せません。\n<br>\n「なお　お招きのつばさを購入した後に\n　引っ越した場合は　購入したときの住所に\n　移動します。\n<bw_break>": "Wings of invitation, like a rouleus stone\n<pc> I can get you to your house in an instant.\nTen uses for one... You can buy one from the\ncaretaker or from a sign on the house for 500\n<br>\ngold. You can give it to others, but you\ncan't give it to the Traveler's Bazaar. If\nyou move after you've purchased the Wings of\n<br>\nInvitation, you'll be moved to the address\nyou had when you bought it.<bw_break>"
   },
   "66562": {
-    "「お招きのつばさは　１０回使えて\n　ひとつ　<%nL_GOLD>ゴールドです。\n　購入しますか？\n<yesno><break>": "The Wings of Invitation can be used 10 times,\none <%dL_GOLD> goal... Do you want to buy it?<yesno><break>"
+    "「お招きのつばさは　１０回使えて\n　ひとつ　<%nL_GOLD>ゴールドです。\n　購入しますか？\n<yesno><break>": "A Wing of Invitation may be used 10 times, and\ncosts <%dL_GOLD> Gold each.\nWould you like one?\n<yesno><break>"
   },
   "66563": {
     "「はい。では　こちらを　どうぞ。\n<bw_break>": "Yes, sir. Okay, this is...<bw_break>"
@@ -684,13 +684,13 @@
     "「あら？　家の中や庭に　何か残ってますよ？\n　屋根ウラ収納　家具＆庭具おきばを　カラにして\n　家具と庭具も　片付けてくださいね。\n<br>\n「プライベートコンシェルジュが　残っていても\n　家をたためませんので　別の家に移動させるか\n　お別れしてから　お試し下さいね。\n<bw_break>": "Hm? Did you make sure that nothing is still\nplaced either indoors or outdoors?\n<br>\nPlease be sure to empty your House Storage,\nas well as your Furniture Storage. All indoor\nand outdoor furniture must be put away, too.\n<br>\nIf you have a Private Concierge, you must\nsay goodbye to them or move them to a\ndifferent house before you're able to move.\n<bw_break>"
   },
   "248716": {
-    "「この家を　家キットに　戻しますか？\n<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
+    "「この家を　家キットに　戻しますか？\n<yesno 2><break>": "Would you like to return this house to\na house kit?\n<yesno 2><break>"
   },
   "248717": {
     "「この土地に　<%sL_HOUSE_NAME>を\n　建てます。\n　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
   },
   "248718": {
-    "「お招きのつばさは　１０回使えて\n　ひとつ　<%nL_GOLD>ゴールドです。\n　購入しますか？\n<yesno><break>": "The Wings of Invitation can be used 10 times,\none <%dL_GOLD> goal... Do you want to buy it?<yesno><break>"
+    "「お招きのつばさは　１０回使えて\n　ひとつ　<%nL_GOLD>ゴールドです。\n　購入しますか？\n<yesno><break>": "A Wing of Invitation may be used 10 times, and\ncosts <%dL_GOLD> Gold each.\nWould you like one?\n<yesno><break>"
   },
   "248719": {
     "「修正した内容を取り消して　元に戻しますか？\n<yesno 2><break>": "Do you want to undo and revert the changes\nyou made?<yesno 2><break>"
@@ -864,7 +864,7 @@
     "「申し訳ありませんが\n　もう一度　ご指示ください。\n<bw_break>": "I'm sorry, sir. I'm going to have to ask you\none more time to...<bw_break>"
   },
   "248776": {
-    "庭具を　持っていません。": "You have no garden furniture."
+    "庭具を　持っていません。": "You have no outdoor furniture."
   },
   "248777": {
     "庭具の配置権限がないため\n庭具を置くことは　できません。": "You don't have placement permissions."
@@ -900,7 +900,7 @@
     "配置中の庭具が　ありません。": "There are garden tools in place..."
   },
   "248788": {
-    "「あら……？\n　家キットを　お持ちでないようですね。\n　家キットを用意してから　お申しつけください。\n<bw_break>": "Oh...? I don't think you have a house kit.\nWe'll have to get you a house kit before you\ncan come in.<bw_break>"
+    "「あら……？\n　家キットを　お持ちでないようですね。\n　家キットを用意してから　お申しつけください。\n<bw_break>": "You don't have any house kits, it seems.\nYou will need one if you wish to rebuild your\nhouse.\n<bw_break>"
   },
   "248789": {
     "「あら？　それは今建っている家と \n　同じ家キットのようですね。 \n　家の建て替えは　違う家キットをご指示ください。\n<bw_break>": "Oh? That looks like the same house kit as the\none we're building... If you're rebuilding a\nhouse, you'll need a different house kit...<bw_break>"
@@ -1026,13 +1026,13 @@
     "屋根ウラ収納は　家のオーナーだけが使える\nアイテム倉庫です。屋根ウラ収納には\nアイテムを　<%nL_VAULT_SLOTS>種類まで　入れられます。": "Roof storage is for homeowners only. The roof\nstorage can hold up to <%dL_VAULT_SLOTS>\ntypes of items..."
   },
   "249387": {
-    "「この家を　家キットに　戻しますか？\n<yesno 2><break>": "Do you want this house back in the house kit?<yesno 2><break>"
+    "「この家を　家キットに　戻しますか？\n<yesno 2><break>": "Would you like to return this house to\na house kit?\n<yesno 2><break>"
   },
   "249388": {
     "「この土地に　<%sL_HOUSE_NAME>を\n　建てます。\n　よろしいですか？<yesno><break>": "Build <%sL_HOUSE_NAME> on this plot?<yesno><break>"
   },
   "249389": {
-    "「お招きのつばさは　１０回使えて\n　ひとつ　<%nL_GOLD>ゴールドです。\n　購入しますか？\n<yesno><break>": "The Wings of Invitation can be used 10 times,\none <%dL_GOLD> goal... Do you want to buy it?<yesno><break>"
+    "「お招きのつばさは　１０回使えて\n　ひとつ　<%nL_GOLD>ゴールドです。\n　購入しますか？\n<yesno><break>": "A Wing of Invitation may be used 10 times, and\ncosts <%dL_GOLD> Gold each.\nWould you like one?\n<yesno><break>"
   },
   "249390": {
     "「修正した内容を取り消して　元に戻しますか？\n<yesno 2><break>": "Do you want to undo and revert the changes\nyou made?<yesno 2><break>"
@@ -1242,7 +1242,7 @@
     "配置中の家具が　ありません。": "There's furniture in place..."
   },
   "249459": {
-    "「あら……？\n　家キットを　お持ちでないようですね。\n　家キットを用意してから　お申しつけください。\n<bw_break>": "Oh...? I don't think you have a house kit.\nWe'll have to get you a house kit before you\ncan come in.<bw_break>"
+    "「あら……？\n　家キットを　お持ちでないようですね。\n　家キットを用意してから　お申しつけください。\n<bw_break>": "You don't have any house kits, it seems.\nYou will need one if you wish to rebuild your\nhouse.\n<bw_break>"
   },
   "249460": {
     "「あら？　それは今建っている家と \n　同じ家キットのようですね。 \n　家の建て替えは　違う家キットをご指示ください。\n<bw_break>": "Oh? That looks like the same house kit as the\none we're building... If you're rebuilding a\nhouse, you'll need a different house kit...<bw_break>"
