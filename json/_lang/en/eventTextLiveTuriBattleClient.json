@@ -24,7 +24,7 @@
     "<speed=0>さかなぶくろが　いっぱいで　もちきれません！\n<bw_break>": "<speed=0>Your fish bag is full so you can't carry it!<bw_break>"
   },
   "70375": {
-    "<speed=0><pc>は　<%sL_FISH>を\nさかなぶくろに　いれた。\n<bw_break>": "<speed=0>You put the <%sL_FISH>\ninto your fish bag.\n<bw_break>"
+    "<speed=0><pc>は　<%sL_FISH>を\nさかなぶくろに　いれた。\n<bw_break>": "<speed=0>\n<pc> puts the <%sL_FISH>\ninto the fish bag.\n<bw_break>"
   },
   "70431": {
     "<speed=0>さかなぶくろが　いっぱいですが\n本当に　釣りますか？\n<yesno><break>": "<speed=0>Your fish bag is full. Are you sure you want\nto fish?<yesno><break>"
@@ -33,10 +33,10 @@
     "さかなが　かかった！": "Hooked a fish!"
   },
   "70433": {
-    "使っていた<%sL_ROD>は\n限界がきて　こわれてしまった……。\n<bw_break>": "The <%sL_ROD> has\nworn down and broke...<bw_break>"
+    "使っていた<%sL_ROD>は\n限界がきて　こわれてしまった……。\n<bw_break>": "The <%sL_ROD> has\nworn out from use and breaks...\n<bw_break>"
   },
   "70434": {
-    "使っていた<%sL_LURE>は\n限界がきて　こわれてしまった……。\n<bw_break>": "The <%sL_LURE> has\nworn down and broke...<bw_break>"
+    "使っていた<%sL_LURE>は\n限界がきて　こわれてしまった……。\n<bw_break>": "The <%sL_LURE> has\nworn out from use and breaks...\n<bw_break>"
   },
   "70482": {
     "<speed=0>釣りざおを　しまいますか？\n<yesno><close>": "<speed=0>Put away your fishing rod?\n<yesno><close>"
@@ -132,10 +132,10 @@
     "<speed=0>釣りツアー中は　専用の釣りどうぐでないと\n釣りが　できないようだ。\n南国の釣りざおと　南国のルアーを　装備しよう！\n<end>": "<speed=0>During the fishing tour, you need special\nfishing gear to fish... Equip yourself with a\ntropic fishing rod and a tropic lure!<end>"
   },
   "94441": {
-    "<speed=0><pc>は　釣りをしようとしたが\n時間切れになっていることに　気がついた。\nサーペンに　結果を報告しに行こう！\n<end>": "<speed=0><pc> I was going to go fishing, but then I\nrealized we were out of time. Let's go tell\nSerpent what happened!<end>"
+    "<speed=0><pc>は　釣りをしようとしたが\n時間切れになっていることに　気がついた。\nサーペンに　結果を報告しに行こう！\n<end>": "<speed=0>\n<pc> was about to start fishing,\nbut then realized that time is up.\nGo and report to Sapan!"
   },
   "94442": {
-    "<pc>は\n<%dL_POINT> Pの釣りポイントを　かくとく！\n自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P\n<se_nots System 7><bw_break>": "<pc> gained <%dL_POINT>P fishing points!\nSelf: <%dL_MYPOINT>P All: <%dL_ALLPOINT>P\n<se_nots System 7><bw_break>"
+    "<pc>は\n<%dL_POINT> Pの釣りポイントを　かくとく！\n自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P\n<se_nots System 7><bw_break>": "<pc> earns <%dL_POINT> Fishing Points!\nSelf: <%dL_MYPOINT> P All: <%dL_ALLPOINT> P\n<se_nots System 7><bw_break>"
   },
   "94443": {
     "<speed=0>時間切れになっていたので\n釣りポイントを　かくとくできなかった。\n自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P\n<br>\nサーペンに　結果を報告しに行こう！\n<bw_break>": "<speed=0>Time was running out, so I couldn't pinpoint\nthe fishing points... I: <%dL_MYPOINT> P All:\n<%dL_ALLPOINT> P Let's go report our results\n<br>\nto Serpens!<bw_break>"
