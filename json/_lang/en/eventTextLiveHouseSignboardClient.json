@@ -24,7 +24,7 @@
     "<%sL_PC_NICK>は\n<%sL_HOUSE_NAME>を建てた！\n<br>\n扉をしらべることで　出入りだけでなく\n家の外装や内装を変えてみたり\n様々な設定を　変更することができます。\n<br>\n家の中では　家具を配置したり\n屋根ウラ収納を　利用することもできます。\n<br>\n家で　できることについて　くわしく知りたい時は\n扉メニューの　『管理人を呼ぶ』コマンドで\n管理人から　説明を聞くことができます。": "<%sL_PC_NICK> has built the\n<%sL_HOUSE_NAME>!\n<br>\nBy examining the door, you can enter and exit\nthe house, as well as changing its appearance\nand adjusting other settings.\n<br>\nOnce inside, you can rearrange furniture\nto your liking and access your house storage.\n<br>\nIf you'd like to know more about what you\ncan do, use the \"Call Manager\" command at the\ndoor to get an explanation from them."
   },
   "39286": {
-    "<color_yellow>\nレンダーヒルズ地区では\n新たに　土地の売却と　引っ越しが\nできるようになりました。\n<br>\nまた　レンダーヒルズ地区に　土地をもっている\nキャラクターの　冒険の書を消すことも\n可能になりました。\n<br>\n※マイタウンへ　引っ越した場合に限り\n　所有していたレンダーヒルズ地区の　土地は\n　５０００万ゴールドで売却されます。\n<br>\n※その他の地区に　引っ越した場合は\n　１０００万ゴールドで売却されます。\n<br><color_white>\nこの土地を購入して　よろしいですか？\n<yesno 2><break>": "<color_yellow>In the Renderhills District, you will now be\nable to sell your land and move... Also,\ncharacters who own land in the Renderhills\n<br>\nregion can now remove their adventure books.\nIf you move to My Town, your land in the\nRenderhills District will be sold for 50\n<br>\nmillion gold. If you move to any other\ndistrict, it will be sold for 10 million\ngold...<color_white>Are you sure you want to buy this land?<yesno 2><break>"
+    "<color_yellow>\nレンダーヒルズ地区では\n新たに　土地の売却と　引っ越しが\nできるようになりました。\n<br>\nまた　レンダーヒルズ地区に　土地をもっている\nキャラクターの　冒険の書を消すことも\n可能になりました。\n<br>\n※マイタウンへ　引っ越した場合に限り\n　所有していたレンダーヒルズ地区の　土地は\n　５０００万ゴールドで売却されます。\n<br>\n※その他の地区に　引っ越した場合は\n　１０００万ゴールドで売却されます。\n<br><color_white>\nこの土地を購入して　よろしいですか？\n<yesno 2><break>": "<color_yellow>\nYou can now sell your plot and move from\nLender Hills.\n<br>\nYou may now also erase the Adventure\nLogs of characters who own a plot in\nLender Hills.\n<br>\nIf you move to a My Town, your plot will\nbe sold for 50 million Gold.\n<br>\nIf you move to another residential area,\nyour plot will be sold for 10 million\nGold.\n<br>\n<color_white>\nPurchase this plot?\n<yesno 2><break>"
   },
   "39287": {
     "<%sL_PC_NICK>は　<%sL_REGION>住宅村\n<%nL_AREA>丁目　<%sL_DIVISION>　<%nL_TOTI_BANGOU>番地の\n土地を　手放した。": "<%sL_PC_NICK> now owns Plot <%dL_TOTI_BANGOU>\nin <%sL_REGION> Housing, <%sL_DIVISION>,\nBlock <%dL_AREA>."
@@ -273,7 +273,7 @@
     "現在　家の中か　庭に人がいるようです。\n誰かがいると　引っ越しできませんので\n家の中と庭に　誰もいないようにしてください。\n<bw_break>": "Now, there are people in the house and in the\nyard... I can't move in if there's someone in\nthe house, so please make sure there's no one\n<br>\nin the house or in the yard...<bw_break>"
   },
   "148088": {
-    "レンダーヒルズ地区では\n土地の売却と　マイタウン以外への\n引っ越しはできません。": "In the Renderhills area, you can't sell your\nland and move outside of My Town..."
+    "レンダーヒルズ地区では\n土地の売却と　マイタウン以外への\n引っ越しはできません。": "In Lender Hills, you cannot sell your plot\nor move to anywhere other than a My\nTown."
   },
   "160912": {
     "この土地は　現在　購入禁止時間が\n設けられているため　購入することができません。\n時間を置いてから　再度　お試しください。": "This land is currently under a no-purchase\npolicy, so you cannot purchase it... Please\nwait a moment and try again..."
@@ -378,7 +378,7 @@
     "番地の敷地に　庭具があるため\n新しく家を建てたり　家の建て替えができません。\n庭具を　撤去してから　お試しください。": "There's a garden tool on the third lot, so we\ncan't build a new house or rebuild the\nhouse... I'd like you to remove the garden\n<br>\ntools before you try..."
   },
   "247693": {
-    "レンダーヒルズ地区では\n新たに　土地の売却と　引っ越しが\nできるようになりました。\n<br><color_yellow>\n※マイタウンへ　引っ越した場合に限り\n　所有していたレンダーヒルズ地区の　土地は\n　５０００万ゴールドで売却されます。\n<br><color_yellow>\n※その他の地区に　引っ越した場合は\n　１０００万ゴールドで売却されます。\n<br><color_white>\nこの家が　すぐに引っ越しできる状態か\n引っ越しチェックで　確認しますか？\n<yesno><break>": "In the Render Hills area, you can now sell\nyour land and move...<color_yellow>If you move to My Town, your land in the\nRenderhills district will be sold for 50\nmillion gold...<color_yellow>If you move to another district, it will be\nsold for 10 million gold...<color_white>Would you like a move-in check to make sure\nthis house is ready to move into?<yesno><break>"
+    "レンダーヒルズ地区では\n新たに　土地の売却と　引っ越しが\nできるようになりました。\n<br><color_yellow>\n※マイタウンへ　引っ越した場合に限り\n　所有していたレンダーヒルズ地区の　土地は\n　５０００万ゴールドで売却されます。\n<br><color_yellow>\n※その他の地区に　引っ越した場合は\n　１０００万ゴールドで売却されます。\n<br><color_white>\nこの家が　すぐに引っ越しできる状態か\n引っ越しチェックで　確認しますか？\n<yesno><break>": "You can now sell your plot or move from\nLender Hills.\n<br>\n<color_yellow>\nIf you move to a My Town, your plot will\nbe sold for 50 million Gold.\n<br>\nIf you move to another residential\narea, your plot will be sold for 10\nmillion Gold.\n<br>\n<color_white>\nDo a move in check to see if this house is\nready to be moved into?\n<yesno><break>"
   },
   "247694": {
     "すべての条件を　満たしています。\nいつでも　引っ越しできる状態です。": "All conditions have been met.\nYou can move in at any time."
