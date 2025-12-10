@@ -529,5 +529,14 @@
   },
   "284969": {
     "削除予定": "For Deletion"
+  },
+  "346279": {
+    "仲間と一緒に　この魔物と戦うためには\n同行する仲間全員の\n準備が完了している必要があります。\n<select>\nこのまま待つ\n戦うのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": ""
+  },
+  "346280": {
+    "この魔物と戦うには　パーティリーダーの\n準備が完了している必要があります。\n<select>\nこのまま待つ\n戦うのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": ""
+  },
+  "346429": {
+    "この魔物は　パーティで戦う魔物です。\n戦うためには　仲間全員の\n準備が完了している必要があります。\n<br>\n倒した際は　全員が同じ出来事を共有しますが\n話が進むのは　パーティリーダーと　それと同じ\n進行状況の人のみです。他の人は進みません。\n<select>\nこのまま待つ\n戦うのをやめる\n<select_end>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": ""
   }
 }
