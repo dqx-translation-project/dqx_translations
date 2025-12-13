@@ -55,6 +55,7 @@ class LineLength(TargetCheck):
         text = text.replace("<6th_title>", "<&20_aaaaaaaaaaaaaf>")
         text = text.replace("<7th_title>", "<&20_aaaaaaaaaaaaag>")
 
+        # fmt: off
         # remove strings we dont want to evaluate
         text = text.replace("<attr>", "")
         text = text.replace("<auto_br=1500>", "")
@@ -142,6 +143,8 @@ class LineLength(TargetCheck):
         text = text.replace("<pipipi_on>", "")
         text = text.replace("<pipipi_shigh>", "")
         text = text.replace("<right>", "")
+        text = text.replace("<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>", "")
+        text = text.replace("<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>", "")
         text = text.replace("<se Joutyu_SE 121>", "")
         text = text.replace("<se Joutyu_SE 24>", "")
         text = text.replace("<se Joutyu_SE 40>", "")
@@ -216,6 +219,7 @@ class LineLength(TargetCheck):
         text = text.replace("<yesno_nc 2>", "")
         text = text.replace("<yesno_nc>", "")
         text = text.replace("<yesno_se_off>", "")
+        # fmt: on
 
         return text
 
