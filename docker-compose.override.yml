@@ -1,11 +1,11 @@
 services:
   weblate:
+    image: weblate/weblate:5.14
     container_name: weblate
     ports:
       - 9009:8080
     dns:
-      - 1.1.1.1
-      - 1.0.0.1
+      - 9.9.9.9
     networks:
       weblate:
       web:
@@ -27,6 +27,7 @@ services:
       WEBLATE_SERVER_EMAIL: ${WEBLATE_SERVER_EMAIL}
       WEBLATE_DEFAULT_FROM_EMAIL: ${WEBLATE_DEFAULT_FROM_EMAIL}
       WEBLATE_SITE_DOMAIN: ${WEBLATE_SITE_DOMAIN}
+      WEBLATE_SECURE_PROXY_SSL_HEADER: ${WEBLATE_SECURE_PROXY_SSL_HEADER}
       WEBLATE_REGISTRATION_OPEN: ${WEBLATE_REGISTRATION_OPEN}
       CELERY_MAIN_OPTIONS: ${CELERY_MAIN_OPTIONS}
       CELERY_NOTIFY_OPTIONS: ${CELERY_NOTIFY_OPTIONS}
@@ -54,7 +55,7 @@ services:
       traefik.http.services.weblate.loadbalancer.server.port: 8080
 
       # block high bot traffic countries; add X-Robots-Tag header.
-      traefik.http.routers.weblate.middlewares: geoblock-deny@file, no-track@file
+      traefik.http.routers.weblate.middlewares: geoblock-deny-weblate@file, no-track@file
       traefik.http.routers.weblate.rule: Host(`weblate.ethene.wiki`)
       traefik.http.routers.weblate.entrypoints: https
       traefik.http.routers.weblate.service: weblate
