@@ -32241,7 +32241,7 @@
     "敵１体に雷の一撃\nＨＰも回復する\n攻防一体の妙技": "A lighting strike\nthat also\nrecovers HP."
   },
   "226860": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 不屈のこころを 奮い立たせた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 不屈のこころを 奮い立たせた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e rouses their unwavering spirit!"
   },
   "226901": {
     "食らえ！　閃光ッ！\n超・斬・撃ィ～ッ！": "Take THIS! Super!\nShiny! Slaaaash!"
@@ -32253,16 +32253,16 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージを受けなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e takes no damage!"
   },
   "226987": {
-    "創失の呪いが 強烈な爆発を引き起こした！": ""
+    "創失の呪いが 強烈な爆発を引き起こした！": "The curse of unmaking causes a powerful explosion!"
   },
   "227017": {
-    "不屈のこころを\n奮い立たせた！": ""
+    "不屈のこころを\n奮い立たせた！": "Roused their unwavering\nspirit!"
   },
   "227039": {
-    "不屈のこころで\n攻撃を耐えた！": ""
+    "不屈のこころで\n攻撃を耐えた！": "Unwavering spirit\nwithstood the attack!"
   },
   "227061": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 呪詛のころもをまとった！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 呪詛のころもをまとった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e is cloaked in a curse!"
   },
   "227097": {
     "ガガ……ダメージ\nこんとろーる　フノウ": "D-D...DAMAGE CONTROL\nMALFUNCTION..."
@@ -32310,7 +32310,7 @@
     "スピラソーンに\n<%sB_ACTION>！": "<%sB_ACTION> to\nSpirathorn!"
   },
   "227551": {
-    "<%sB_ACTOR>は\n呪詛のころもをまとった！": ""
+    "<%sB_ACTOR>は\n呪詛のころもをまとった！": "<%sB_ACTOR>\nis cloaked in a curse!"
   },
   "227577": {
     "来たれ！\nしのどれいども！": "Come to me, my slaves!"
@@ -32322,28 +32322,28 @@
     "ＨＰが半分切ると\n３回まで自動回復\n精霊力２段階消費": "Recovers 3x if HP\nfalls below half.\n(2 Spirit Energy)"
   },
   "227669": {
-    "狙った敵に４連撃\n大地の斬撃を放つ\nカブの大技": ""
+    "狙った敵に４連撃\n大地の斬撃を放つ\nカブの大技": "Unleashes four\nearthly slashes\nin a row."
   },
   "227702": {
     "いやしの精霊たちが あらわれた！": "Healing Spirits appear!"
   },
   "227726": {
-    "忌まわしきおたけび！": ""
+    "忌まわしきおたけび！": "Abominable Scream!"
   },
   "227742": {
-    "<%sB_ACTOR>は 魔界を創失させた！": ""
+    "<%sB_ACTOR>は 魔界を創失させた！": "<%sB_ACTOR> unmakes the Demon World!"
   },
   "227764": {
     "仲間をいやし\n最大ＨＰが増える\n救いの雨を降らす": "Heals allies and\nboosts max\nHP."
   },
   "227799": {
-    "ユニゾン\n<%sB_ACTION>！": ""
+    "ユニゾン\n<%sB_ACTION>！": "Unison:\n<%sB_ACTION>!"
   },
   "227814": {
     "強烈な斬撃で\n前方範囲の敵に\n２回攻撃": "Attack frontal\nenemies twice\nwith a slash."
   },
   "227841": {
-    "移動を遅くする\n氷の陣を\n目の前に置く": ""
+    "移動を遅くする\n氷の陣を\n目の前に置く": "An icy circle\nthat slows\nmovement."
   },
   "227868": {
     "会心率と呪文の\n暴走率が上昇する\n魔法陣を作る": "A magic circle\nthat boosts\ncritical/haywire."
@@ -32352,7 +32352,7 @@
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは しのどれいたちを召喚した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls forth his slaves!"
   },
   "227939": {
-    "秘薬の効果で\n攻撃力と行動間隔\n２段階アップ": ""
+    "秘薬の効果で\n攻撃力と行動間隔\n２段階アップ": "Boosts attack and\naction interval\nby 2 stages."
   },
   "227971": {
     "仲間ひとりをＨＰ\n半分で生き返す": "Revives one ally\nat half HP."
@@ -32367,7 +32367,7 @@
     "慈愛に満ちた歌で\n悪い効果から\n仲間の身を守る": "Protect allies\nfrom ailments."
   },
   "228098": {
-    "敵に向かって\nするどい光の矢が\nふりそそぐ": ""
+    "敵に向かって\nするどい光の矢が\nふりそそぐ": "Arrows of light\nrain down on\nenemies."
   },
   "228128": {
     "天使のチカラで\n敵１体を斬りつけ\n大ダメージ": "Angelic power\ndeals large\ndamage to a foe."
@@ -32376,19 +32376,19 @@
     "周囲を巻き込む\n巨大な岩石を\n叩きつける": "Slams a huge rock\ninto the\nsurrounding area."
   },
   "228189": {
-    "１回だけ\n呪文をはねかえし\n呪文耐性も高める": ""
+    "１回だけ\n呪文をはねかえし\n呪文耐性も高める": "Reflects one\nspell. Boosts\nspell resistance."
   },
   "228221": {
     "周囲の仲間の\nテンションを\n３回アップさせる": "Raises nearby\nallies' tension\nthree times."
   },
   "228253": {
-    "秘薬の効果で\n移動速度アップ\n攻撃力も上げる": ""
+    "秘薬の効果で\n移動速度アップ\n攻撃力も上げる": "Boosts movement\nspeed and\nattack."
   },
   "228285": {
     "徐々にＨＰ回復し\nＨＰが２以上で\n即死をまぬがれる": "Restore gradual\nHP. Avoids death\nwith 2+ HP."
   },
   "228321": {
-    "仲間が与える\nダメージを増やし\nテンションアップ": ""
+    "仲間が与える\nダメージを増やし\nテンションアップ": "Boosts damage of\nallies and raises\ntension."
   },
   "228356": {
     "前方範囲の敵に\n凍てつく冷気で\n３回攻撃": "Three freezing\ncold attacks to\nfrontal enemies."
@@ -32424,7 +32424,7 @@
     "イバラの牢獄": "Thorn Trapping"
   },
   "228574": {
-    "轟くじひびき": ""
+    "轟くじひびき": "Razing Resonance"
   },
   "228584": {
     "ノクゼリアの槍": "Noxerian Spear"
@@ -32436,7 +32436,7 @@
     "周囲の仲間を\n生き返らせ\n奇跡の雨をかける": "Revive all nearby\nallies and apply\nMiracle Rain."
   },
   "228632": {
-    "仲間のＨＰを\n回復しつつ\n守りを固める": ""
+    "仲間のＨＰを\n回復しつつ\n守りを固める": "Harden defenses\nand recover\nallies' HP."
   },
   "228659": {
     "ザラキーマⅠ": "Kathwack Ⅰ"
@@ -32451,10 +32451,10 @@
     "仲間ひとりの\nＨＰを\n３１０～回復する": "Restores at least\n310 HP to\na single ally."
   },
   "228738": {
-    "創失の呪いを まきちらした！": ""
+    "創失の呪いを まきちらした！": "The curse of unmaking spreads!"
   },
   "228759": {
-    "土属性の衝撃波で\n周りの敵を\n攻撃する": ""
+    "土属性の衝撃波で\n周りの敵を\n攻撃する": "Attacks nearby\nenemies with an\nearth shockwave."
   },
   "228786": {
     "天雷の怒り.ダメージ": "Thunder's Wrath Damage"
@@ -32514,7 +32514,7 @@
     "直線系ランダム": "Linear Random"
   },
   "229117": {
-    "仲間とユニゾン\n全員のＨＰを\n大きく回復する": ""
+    "仲間とユニゾン\n全員のＨＰを\n大きく回復する": "Unison with\nallies to greatly\nrecover all HP."
   },
   "229149": {
     "AC2TIMELIMIT4付与": "AC2TIMELIMIT4"
@@ -32544,7 +32544,7 @@
     "ラキ制御用2": "Something Lycae 2"
   },
   "229272": {
-    "紅蓮のチカラで\n狙った敵に\n炎の６回攻撃": ""
+    "紅蓮のチカラで\n狙った敵に\n炎の６回攻撃": "Delivers six\nfiery attacks to\nan enemy."
   },
   "229301": {
     "対象中心系ランダム": "Centered Random"
@@ -32580,7 +32580,7 @@
     "自分の命をかけて\n周囲の仲間を\n完全に復活させる": "Sacrifice your\nlife to save\nyour allies."
   },
   "229565": {
-    "仲間とユニゾン\n衝撃波を放ち\nダメージを与える": ""
+    "仲間とユニゾン\n衝撃波を放ち\nダメージを与える": "Unison with\nallies to release\na shockwave."
   },
   "229598": {
     "創失の主神ゼネシアは 創生の柱を 複数つくりだした！": "Zenethia creates Pillars of Creation!"
@@ -32598,7 +32598,7 @@
     "ジア・リペア": "Dia Repair"
   },
   "229750": {
-    "ロストショットⅢ": ""
+    "ロストショットⅢ": "Disruptive Shot Ⅲ"
   },
   "229763": {
     "大地裂断": "Earthshatter"
@@ -32634,7 +32634,7 @@
     "修羅の獄解除": "Fiendish Chains"
   },
   "229891": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの ユニゾン！ あたたかい光が\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eたちを包み込む！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの ユニゾン！ あたたかい光が\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eたちを包み込む！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e uses Unison! A warm light envelops \\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e and co.!"
   },
   "229955": {
     "念晶のおたけび": "Telecrystal Cry"
@@ -32772,13 +32772,13 @@
     "ランダムスペル土闇": "Random Spell idk"
   },
   "230787": {
-    "<%sB_ACTOR>は ナドラガンドを創失させた！": ""
+    "<%sB_ACTOR>は ナドラガンドを創失させた！": "<%sB_ACTOR> unmakes Nadragand!"
   },
   "230815": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪傷が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's cursed wounds disappear!"
   },
   "230845": {
-    "黄昏の終閃": ""
+    "黄昏の終閃": "Twilit Finality"
   },
   "230853": {
     "呪傷におかされた！": "Afflicted with cursed\nwounds!"
@@ -32856,7 +32856,7 @@
     "敵１体に\n４回攻撃": "Attacks an enemy\n4 times."
   },
   "231255": {
-    "黄昏の厄災": ""
+    "黄昏の厄災": "Twilit Calamity"
   },
   "231263": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 精霊の加護が きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spirit blessing fades."
@@ -32877,76 +32877,76 @@
     "精霊の加護に\n守られている！": "Protected by the\nspirits' blessing!"
   },
   "231405": {
-    "激アゲライブ": ""
+    "激アゲライブ": "Super Hype Show"
   },
   "231415": {
     "創生と創失の柱召喚": "Summon Pillar"
   },
   "231429": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 戦闘時スライムかがみもちが出現するようになった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 戦闘時スライムかがみもちが出現するようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will now cause Festival Slimes to appear in battle!"
   },
   "231484": {
-    "ムドー＆ジャミラス2": ""
+    "ムドー＆ジャミラス2": "Murdaw & Jamirus 2"
   },
   "231499": {
     "精霊の加護が\nきえた": "Spirits' blessing\nfaded."
   },
   "231514": {
-    "ムドー＆グラコス2": ""
+    "ムドー＆グラコス2": "Murdaw & Gracos 2"
   },
   "231527": {
-    "ムドー＆アクバー2": ""
+    "ムドー＆アクバー2": "Murdaw & Blackmar 2"
   },
   "231540": {
-    "勇気の暴虐": ""
+    "勇気の暴虐": "Brave Tyranny"
   },
   "231548": {
-    "ジャミラス＆グラコス2": ""
+    "ジャミラス＆グラコス2": "Jamirus & Gracos 2"
   },
   "231564": {
-    "さみだれうち・改": ""
+    "さみだれうち・改": "Rain of Pain+"
   },
   "231577": {
-    "こちらの出方を待っているようだ": ""
+    "こちらの出方を待っているようだ": "It's waiting for us to make a move."
   },
   "231600": {
-    "マジックブースト": ""
+    "マジックブースト": "Mystic Burst"
   },
   "231613": {
-    "ジャミラス＆アクバー2": ""
+    "ジャミラス＆アクバー2": "Jamirus & Blackmar 2"
   },
   "231629": {
     "周囲の味方の呪文\nダメージをアップ": "Boosts spell\ndamage of\nnearby allies."
   },
   "231654": {
-    "グラコス＆アクバー2": ""
+    "グラコス＆アクバー2": "Gracos & Blackmar 2"
   },
   "231669": {
-    "超・大地揺らし": ""
+    "超・大地揺らし": "Uber Groundshaker"
   },
   "231680": {
-    "デュラン2": ""
+    "デュラン2": "Dhuran 2"
   },
   "231687": {
     "会心と呪文ぼうそう率\n40%アップ": "Critical/haywire\nrate +40%!"
   },
   "231709": {
-    "ヘナヘナクラッシュ": ""
+    "ヘナヘナクラッシュ": "Flimsy Crash"
   },
   "231723": {
     "会心と呪文ぼうそう率\n50%アップ": "Critical/haywire\nrate +50%!"
   },
   "231745": {
-    "創失の呪いが カラダを蝕んでいく……！\nダメージを与えて解除しよう！": ""
+    "創失の呪いが カラダを蝕んでいく……！\nダメージを与えて解除しよう！": "The curse of unmaking eats away at your body!\nDeal damage to remove it!"
   },
   "231795": {
-    "災厄を呼ぶ息吹": ""
+    "災厄を呼ぶ息吹": "Breath of Calamity"
   },
   "231806": {
-    "破局を招く爪跡": ""
+    "破局を招く爪跡": "Catastrophic Clawmarks"
   },
   "231817": {
-    "ドーナツ呼び３個D": ""
+    "ドーナツ呼び３個D": "Call Donuts 3 D"
   },
   "231830": {
     "ダメージ30%\nMP回復": "Gain 30%\ndamage as MP!"
@@ -32958,16 +32958,16 @@
     "攻撃力と攻魔\n80%アップ": "Attack/spell\npower +80%!"
   },
   "231875": {
-    "創絶の呪詛によって カラダが創失してしまった！": ""
+    "創絶の呪詛によって カラダが創失してしまった！": "The curse of ends unmakes your body!"
   },
   "231909": {
-    "ナイトメアブレス": ""
+    "ナイトメアブレス": "Nightmare Breath"
   },
   "231922": {
-    "<%sB_TARGET>は しばられて うごけない！": ""
+    "<%sB_TARGET>は しばられて うごけない！": "<%sB_TARGET> is bound and can't move!"
   },
   "231948": {
-    "トキシックブレス": ""
+    "トキシックブレス": "Toxic Breath"
   },
   "231961": {
     "攻撃力と攻魔\n100%アップ": "Attack/spell\npower +100%!"
@@ -32976,88 +32976,88 @@
     "重さアップ": "Weight Up"
   },
   "231986": {
-    "ドーナツ呼び３個E": ""
+    "ドーナツ呼び３個E": "Call Donuts 3 E"
   },
   "231999": {
-    "ドーナツ呼び３個（遅め）D": ""
+    "ドーナツ呼び３個（遅め）D": "Call Donuts 3 (D)"
   },
   "232018": {
-    "いっせいこうげき": ""
+    "いっせいこうげき": "All-out Attack"
   },
   "232031": {
-    "創失のころも": ""
+    "創失のころも": "Cloak of Unmaking"
   },
   "232041": {
     "ダメージ20%\nMP回復": "Recover 20% damage\ntaken as MP."
   },
   "232054": {
-    "ドーナツ呼び３個（遅め）E": ""
+    "ドーナツ呼び３個（遅め）E": "Call Donuts 3 (E)"
   },
   "232073": {
-    "破局を招く爪跡（設置）": ""
+    "破局を招く爪跡（設置）": "Castrophic Clawmarks (Setup)"
   },
   "232090": {
-    "終焉に至る叫び": ""
+    "終焉に至る叫び": "The Final Cry"
   },
   "232101": {
-    "回生の陣形": ""
+    "回生の陣形": "Recovery Formation"
   },
   "232109": {
-    "崩界する天地": ""
+    "崩界する天地": "Shattered World"
   },
   "232119": {
-    "氷縛陣": ""
+    "氷縛陣": "Ring of Ice"
   },
   "232124": {
-    "樹炎の大宝珠": ""
+    "樹炎の大宝珠": "Flaming Jewel"
   },
   "232134": {
     "チカラを一気に\n３回ためる": "Raise your\ntension by\n3 levels."
   },
   "232153": {
-    "濁砂の大宝珠": ""
+    "濁砂の大宝珠": "Sandy Jewel"
   },
   "232163": {
-    "<%sB_TARGET>はこちらの出方を待っているようだ": ""
+    "<%sB_TARGET>はこちらの出方を待っているようだ": "<%sB_TARGET> is waiting for us to move."
   },
   "232194": {
     "やまびこ発生25%": "Echo Chance 25%"
   },
   "232205": {
-    "白銀の大宝珠": ""
+    "白銀の大宝珠": "Silver Jewel"
   },
   "232215": {
-    "クロックの秘薬": ""
+    "クロックの秘薬": "Clock Elixir"
   },
   "232226": {
-    "炎の狂星": ""
+    "炎の狂星": "Furious Flame"
   },
   "232233": {
-    "炎の狂星着弾": ""
+    "炎の狂星着弾": "Furious Flame Impact"
   },
   "232243": {
     "2回とくぎ発生15%": "Double Skill 15%"
   },
   "232255": {
-    "呪詛のころも": ""
+    "呪詛のころも": "Cursed Cloak"
   },
   "232265": {
     "2回とくぎ発生25%": "Double Skill 25%"
   },
   "232277": {
-    "ドーナツ呼び３個F": ""
+    "ドーナツ呼び３個F": "Call Donuts 3 F"
   },
   "232290": {
-    "ドーナツ呼び３個（遅め）F": ""
+    "ドーナツ呼び３個（遅め）F": "Call Donuts 3 (F)"
   },
   "232309": {
-    "竜護のいやし": ""
+    "竜護のいやし": "Dragonic Healing"
   },
   "232319": {
     "開戦時\nキラキラポーン": "Starting Snap\nCrackle Poof!"
   },
   "232335": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ツタにしばられた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ツタにしばられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is entangled in vines!"
   },
   "232368": {
     "開戦時\nライトフォース": "Starting Life\nFource"
@@ -33066,13 +33066,13 @@
     "開戦時スカラ": "Starting Buff"
   },
   "232394": {
-    "創失の波動": ""
+    "創失の波動": "Wave of Unmaking"
   },
   "232402": {
     "攻撃力と攻魔\n20%アップ": "Attack/spell\npower +20%!"
   },
   "232418": {
-    "創絶の波動": ""
+    "創絶の波動": "Wave of Ends"
   },
   "232426": {
     "敵１体を\n斬りつける\n紫の一撃": "A purple slash\nto one enemy."
@@ -33510,7 +33510,7 @@
     "前方の敵集団を\n真空のやいばで\n斬りつける": "Slash frontal\nenemies with\nempty power."
   },
   "235335": {
-    "創絶の呪詛": ""
+    "創絶の呪詛": "Curse of Ends"
   },
   "235343": {
     "10周年フィーバー！\n経験値とスタンプ２倍": "10th Anniv. Fever!\nEXP/Stamps 2x!"
