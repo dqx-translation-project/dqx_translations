@@ -234,7 +234,7 @@
     "<%sL_STORAGE>を　<%sL_STORAGE2>に変更した\n<break>": "changed <%sL_STORAGE> to <%sL_STORAGE2>\n<break>"
   },
   "78717": {
-    "「どの倉庫の名前を　変えますか？\n<break>": "Which warehouse would you like to rename?<break>"
+    "「どの倉庫の名前を　変えますか？\n<break>": "Rename which storage?\n<break>"
   },
   "78718": {
     "「他の倉庫の名前も　変更しますか？\n<break>": "Do you want to rename the other warehouses?\n<break>"
@@ -639,7 +639,7 @@
     "<%sL_STORAGE>を　<%sL_STORAGE2>に変更した\n<break>": "changed <%sL_STORAGE> to <%sL_STORAGE2>\n<break>"
   },
   "127114": {
-    "「どの倉庫の名前を　変えますか？\n<break>": "Which warehouse would you like to rename?<break>"
+    "「どの倉庫の名前を　変えますか？\n<break>": "Rename which storage?\n<break>"
   },
   "127115": {
     "「他の倉庫の名前も　変更しますか？\n<break>": "Do you want to rename the other warehouses?\n<break>"
@@ -1032,7 +1032,7 @@
     "○倉庫名○○が　○倉庫名○○に変更された\n<break>": "The name \"warehouse name XX\" has been changed\nto \"warehouse name XX\".\n<break>"
   },
   "127247": {
-    "「どの倉庫の名前を　変えますか？\n<break>": "Which warehouse would you like to rename?<break>"
+    "「どの倉庫の名前を　変えますか？\n<break>": "Rename which storage?\n<break>"
   },
   "127248": {
     "「ほかにも倉庫の名前を変更しますか？\n<break>": "Do you want to change the name of the other\nwarehouse?<break>"
@@ -1425,7 +1425,7 @@
     "<%sL_STORAGE>を　<%sL_STORAGE2>に変更した\n<break>": "changed <%sL_STORAGE> to <%sL_STORAGE2>\n<break>"
   },
   "134262": {
-    "「どの倉庫の名前を　変えますか？\n<break>": "Which warehouse would you like to rename?<break>"
+    "「どの倉庫の名前を　変えますか？\n<break>": "Rename which storage?\n<break>"
   },
   "134263": {
     "「他の倉庫の名前も　変更しますか？\n<break>": "Do you want to rename the other warehouses?\n<break>"
@@ -1599,13 +1599,13 @@
     "<speed=0>\n１０００ゴールド単位で　引き出せます。\n現在　<%nL_AZU_BALANCE>０００ゴールドを\n預けていますが　いくら引き出しますか？\n<break>": "<speed=0>Withdrawals in increments of 1,000 gold...\nYou have <%dL_AZU_BALANCE>000 gold on\ndeposit. How much would you like to withdraw?<break>"
   },
   "192215": {
-    "<speed=0>\n<pc>は　ツボに\n<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！\n<br>\nゴールド銀行に　預けているゴールドが\n<%nL_AZU_BALANCE>０００ゴールドになった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> has thrown <%dL_AZU_DEPOS_GLD>000 gold into\nthe urn! He now has <%dL_AZU_BALANCE>000 gold\nin his gold bank... Somehow, through this\n<br>\nurn, I can move items in and out of the Item\nWarehouse and the Gold Bank...<break>"
+    "<speed=0>\n<pc>は　ツボに\n<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！\n<br>\nゴールド銀行に　預けているゴールドが\n<%nL_AZU_BALANCE>０００ゴールドになった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> throws\n<%dL_AZU_DEPOS_GLD>000 Gold\nInto the pot!\n<br>\nYour balance is now\n<%dL_AZU_BALANCE>000 Gold.\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank."
   },
   "192216": {
-    "<speed=0>\nしかし　これ以上\n預けることはできないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I can't deposit any more... Somehow,\nthrough this urn, you can get in and out of\nthe item vault and the gold bank...<break>"
+    "<speed=0>\nしかし　これ以上\n預けることはできないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nBut you cannot deposit any more.\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "192217": {
-    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nしかし　ツボには　何も入っていなかった。\nどうやら　ゴールド銀行に\nゴールドを預けていないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! But there was nothing in the urn...\nApparently, he didn't deposit any gold in the\n<br>\nGold Bank... Somehow, through this urn, I can\naccess the item vault and the gold bank...<break>"
+    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nしかし　ツボには　何も入っていなかった。\nどうやら　ゴールド銀行に\nゴールドを預けていないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> puts their hand inside\nthe pot and feels around!\n<br>\nBut there was nothing inside! It appears\nthey have no Gold deposited.\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "192218": {
     "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%dL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
@@ -1623,7 +1623,7 @@
     "<speed=0>\n現在　ゴールド銀行に\n預けているゴールドは　ありません。\n<break>": "<speed=0>Do you have any gold currently deposited in\nthe Gold Bank...<break>"
   },
   "192223": {
-    "<speed=0>\nしかし　引き出そうとしたゴールドを\n持ちきれないようだ！\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I can't seem to hold all the gold I'm\ntrying to withdraw! Somehow, through this\nurn, you can access your belongings in the\n<br>\nitem vault and the gold bank...<break>"
+    "<speed=0>\nしかし　引き出そうとしたゴールドを\n持ちきれないようだ！\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nHowever, you're not able to carry all of\nthe Gold you're trying to deposit!\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "192224": {
     "<select_se_off>\nあずける\nひきだす\n<select_end><break>": "<select_se_off>\nDeposit\nWithdraw\n<select_end><break>"
@@ -1641,7 +1641,7 @@
     "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nなんと　<%nL_WITHDRW_GLD>０００ゴールドを\n見つけた！\n<br>\n現在　ゴールド銀行に\n預けているゴールドは　ないようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! He found <%dL_WITHDRW_GLD>000 gold!\nThere is currently no gold in the Gold\n<br>\nBank...<break>"
   },
   "192230": {
-    "<speed=0>\nしかし　預けられるだけのゴールドを\n持っていなかった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I don't have enough gold to deposit...\nSomehow, through this urn, I can access my\npossessions in the item vault and the gold\n<br>\nbank...<break>"
+    "<speed=0>\nしかし　預けられるだけのゴールドを\n持っていなかった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nBut you didn't have enough Gold to deposit.\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "192231": {
     "「ゴールド銀行を　ご利用ですね。\n　本日は　どうされますか？\n<break>": "I'm a Gold Bank customer... How can I help\nyou today?<break>"
@@ -1650,7 +1650,7 @@
     "<speed=0>\nこのアイテムを預けることは　できません！\n<end>": "<speed=0>You can't deposit this item!<end>"
   },
   "192234": {
-    "<speed=0>\nずっしりとした　安定感のあるツボだ。\nよく見ると　預かり所のマークが\n刻まれている……。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nIt's a solid, sturdy pot. Looking closely, you\nsee a Depository symbol engraved on the\nfront...\n<br>\nSomehow, through this pot, you can access\nyour item storage and gold bank.\n<break>"
+    "<speed=0>\nずっしりとした　安定感のあるツボだ。\nよく見ると　預かり所のマークが\n刻まれている……。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nIt's a solid, sturdy pot. Looking closely, you\nsee a Depository symbol engraved on the\nfront...\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "192235": {
     "<speed=0>\n預けるときは　預けたい持ち物の種類と\n預け先となる倉庫を　選んでください。\n<br>\n取り出すときは　複数の倉庫をお持ちなら\n取り出したい倉庫を　選んでください。\n<br>\nその後　移動させたいアイテムを選ぶと\n預けたり　取り出すことができます。\n<end>": "<speed=0>To drop off your items, select the type of\nitems you want to drop off and the warehouse\nyou want to drop them off at... If you have\n<br>\nmore than one warehouse, select the one you\nwant to retrieve... After that, select the\nitems you want to move and you will be able\n<br>\nto deposit and retrieve them...<end>"
@@ -1677,7 +1677,7 @@
     "「承りました。それでは以前いただいた\n　きらめきのインクで　サインをお願いします。\n<break>": "I'll take that... Now, I'd like you to sign\nthis with the sparkling ink that you gave\nme...<break>"
   },
   "192243": {
-    "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>Somehow, through these pressure points, you\ncan access your possessions in the item vault\nand the gold bank...<break>"
+    "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "192244": {
     "<speed=0>\nアイテム倉庫が　リニューアルされました！\n<br>\nまた　お使いの倉庫に\n名前をつけることも　できるようになりました！\n『倉庫名を変える』から　お試しください。\n<bw_break>": "<speed=0>The Item Warehouse has been redesigned! You\ncan also now name your warehouse! Go to\n\"Rename Warehouse\" to try it out...<bw_break>"
@@ -1788,7 +1788,7 @@
     "「その倉庫には　何も\n　お預かりしていないようです。\n　どの倉庫から　アイテムを取りだしますか？\n<break>": "I don't have anything for you in that\nwarehouse. Which warehouse would you like to\nretrieve the item from?<break>"
   },
   "192280": {
-    "<speed=0>\nしかし　何も　預けていなかった！\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I never deposited anything! Somehow,\nthrough this urn, you can access your\nbelongings in the item vault and the gold\n<br>\nbank...<break>"
+    "<speed=0>\nしかし　何も　預けていなかった！\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nBut there's nothing deposited!\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "192281": {
     "「何を　お返ししますか？\n<bw_break>": "What can I get for you?\n<bw_break>"
@@ -1833,7 +1833,7 @@
     "<%sL_STORAGE>を　<%sL_STORAGE2>に変更した\n<break>": "changed <%sL_STORAGE> to <%sL_STORAGE2>\n<break>"
   },
   "192295": {
-    "<speed=0>\nどの倉庫の名前を　変えますか？\n<break>": "<speed=0>Which warehouse would you like to rename?<break>"
+    "<speed=0>\nどの倉庫の名前を　変えますか？\n<break>": "<speed=0>\nRename which storage?\n<break>"
   },
   "192296": {
     "<speed=0>\n他の倉庫の名前も　変更しますか？\n<break>": "<speed=0>\nDo you want to rename the other warehouses?\n<break>"
@@ -1953,7 +1953,7 @@
     "現在のプレイ環境では　この機能は\n使用制限されています。正式なプレイ環境となれば\nこの機能も　お使いいただけます。\n<end>": "This feature is currently restricted in your\ncurrent play environment. Upgrade to the\nfull game version to use it.\n<end>"
   },
   "192335": {
-    "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>Somehow, through these pressure points, you\ncan access your possessions in the item vault\nand the gold bank...<break>"
+    "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "192336": {
     "未使用\n<turn_end>": "unused\n<turn_end>"
@@ -2238,7 +2238,7 @@
     "「何を　お返ししますか？\n<bw_break>": "What can I get for you?\n<bw_break>"
   },
   "289537": {
-    "<speed=0>\nしかし　何も　預けていなかった！\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I never deposited anything! Somehow,\nthrough this urn, you can access your\nbelongings in the item vault and the gold\n<br>\nbank...<break>"
+    "<speed=0>\nしかし　何も　預けていなかった！\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nBut there's nothing deposited!\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "289538": {
     "「<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>ですね。\n　では　確かに　お返しします。\n　他にも　ご用はありますか？\n<break>": "<%sL_HIKI_ITEM_NAME><%sL_PLUSNUM>... Well,\nI'll certainly return the favor... Is there\nanything else I can do for you?<break>"
@@ -2268,19 +2268,19 @@
     "「どの倉庫に　移動させますか？\n<break>": "What warehouse are you moving it to?<break>"
   },
   "289547": {
-    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nしかし　ツボには　何も入っていなかった。\nどうやら　ゴールド銀行に\nゴールドを預けていないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> He put his hand in the urn and poked around\ninside! But there was nothing in the urn...\nApparently, he didn't deposit any gold in the\n<br>\nGold Bank... Somehow, through this urn, I can\naccess the item vault and the gold bank...<break>"
+    "<speed=0>\n<pc>は　ツボに手を入れて\n中をさぐった！\n<br>\nしかし　ツボには　何も入っていなかった。\nどうやら　ゴールド銀行に\nゴールドを預けていないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> puts their hand inside\nthe pot and feels around!\n<br>\nBut there was nothing inside! It appears\nthey have no Gold deposited.\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "289548": {
-    "<speed=0>\nしかし　預けられるだけのゴールドを\n持っていなかった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I don't have enough gold to deposit...\nSomehow, through this urn, I can access my\npossessions in the item vault and the gold\n<br>\nbank...<break>"
+    "<speed=0>\nしかし　預けられるだけのゴールドを\n持っていなかった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nBut you didn't have enough Gold to deposit.\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "289549": {
-    "<speed=0>\nしかし　これ以上\n預けることはできないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I can't deposit any more... Somehow,\nthrough this urn, you can get in and out of\nthe item vault and the gold bank...<break>"
+    "<speed=0>\nしかし　これ以上\n預けることはできないようだ。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nBut you cannot deposit any more.\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "289550": {
-    "<speed=0>\nしかし　引き出そうとしたゴールドを\n持ちきれないようだ！\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>But I can't seem to hold all the gold I'm\ntrying to withdraw! Somehow, through this\nurn, you can access your belongings in the\n<br>\nitem vault and the gold bank...<break>"
+    "<speed=0>\nしかし　引き出そうとしたゴールドを\n持ちきれないようだ！\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nHowever, you're not able to carry all of\nthe Gold you're trying to deposit!\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "289551": {
-    "<speed=0>\nどの倉庫の名前を　変えますか？\n<break>": "<speed=0>Which warehouse would you like to rename?<break>"
+    "<speed=0>\nどの倉庫の名前を　変えますか？\n<break>": "<speed=0>\nRename which storage?\n<break>"
   },
   "289552": {
     "「倉庫の名前を　変更いたしました。\n　他にも　名前を変えたい倉庫は\n　ありますか？\n<break>": "I'd like to rename the warehouse... Do you\nhave any other storage units that you would\nlike to rename?<break>"
@@ -2301,7 +2301,7 @@
     "<speed=0>\n他に　預けるものはありますか？\n<end>": "<speed=0>Is there anything else I can give you?<end>"
   },
   "289558": {
-    "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>Somehow, through these pressure points, you\ncan access your possessions in the item vault\nand the gold bank...<break>"
+    "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "289559": {
     "<speed=0>\n現在　ゴールド銀行に\n<%nL_AZU_BALANCE>０００ゴールド\n預けています。どうしますか？\n<break>": "<speed=0>I currently have <%dL_AZU_BALANCE>000 gold\ndeposited in a gold bank... What do you want\nto do?<break>"
@@ -2346,7 +2346,7 @@
     "「お客さまは　現在　アイテムをひとつしか\n　お持ちでないため　\n　整理する必要が　ありません。\n<break>": "The customer only has one item at the moment,\nand it needs to be sorted...<break>"
   },
   "289573": {
-    "<speed=0>\n<pc>は　ツボに\n<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！\n<br>\nゴールド銀行に　預けているゴールドが\n<%nL_AZU_BALANCE>０００ゴールドになった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> has thrown <%dL_AZU_DEPOS_GLD>000 gold into\nthe urn! He now has <%dL_AZU_BALANCE>000 gold\nin his gold bank... Somehow, through this\n<br>\nurn, I can move items in and out of the Item\nWarehouse and the Gold Bank...<break>"
+    "<speed=0>\n<pc>は　ツボに\n<%nL_AZU_DEPOS_GLD>０００ゴールドを投げ入れた！\n<br>\nゴールド銀行に　預けているゴールドが\n<%nL_AZU_BALANCE>０００ゴールドになった。\n<br>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\n<pc> throws\n<%dL_AZU_DEPOS_GLD>000 Gold\nInto the pot!\n<br>\nYour balance is now\n<%dL_AZU_BALANCE>000 Gold.\n<br>\nSomehow, through this pot, you can access\nyour item storage and Gold bank."
   },
   "289574": {
     "「ゴールド銀行を　ご利用ですね。\n　本日は　どうされますか？\n<break>": "I'm a Gold Bank customer... How can I help\nyou today?<break>"
@@ -2388,7 +2388,7 @@
     "<select_se_off 3>\nアイテム倉庫\nゴールド銀行\n倉庫名を変える\n拡張について\n<select_end><break>": "<select_se_off 3>\nItem Storage\nGold Bank\nChange Name\nAbout Expansion\n<select_end><break>"
   },
   "289587": {
-    "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>Somehow, through these pressure points, you\ncan access your possessions in the item vault\nand the gold bank...<break>"
+    "<speed=0>\nどういうわけか　このツボを通じて\nアイテム倉庫と　ゴールド銀行にある\n持ち物を　出し入れできるようだ。\n<break>": "<speed=0>\nSomehow, through this pot, you can access\nyour item storage and Gold bank.\n<break>"
   },
   "289588": {
     "「どの倉庫に　アイテムを預けますか？\n<break>": "To which warehouse would you like to deposit\nthe item?\n<break>"
