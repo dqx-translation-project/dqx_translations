@@ -570,10 +570,10 @@
     "「今月の　部活強化週間には\n　これ以上　貢献できなくなるぜ。\n　本当にいいのかい？\n<yesno 2><break>": "You won't be able to contribute any more to\nClub Upgrade Week this month. Are you sure\nabout this?\n<yesno 2><break>"
   },
   "158230": {
-    "「おお！　入部してくれるのか！\n　大歓迎だ！\n　俺たちと　ツボ錬金部を盛り上げていこうぜ！": "Oh! You're joining our club? You're more than\nwelcome! Let's make the Pot Alchemy Club a\ngreat place to be with us!"
+    "「おお！　入部してくれるのか！\n　大歓迎だ！\n　俺たちと　ツボ錬金部を盛り上げていこうぜ！": "Oh! You're joining our club? You're more than\nwelcome! Let's make theJar Alchemy Club a\ngreat place to be with us!"
   },
   "158231": {
-    "「そこまで言うなら　仕方ねぇな。\n　分かった　歓迎しよう。\n　ようこそツボ錬金部へ！": "If you insist that much, I have no choice. All\nright, let's welcome them. Welcome to the Pot\nAlchemy Club!"
+    "「そこまで言うなら　仕方ねぇな。\n　分かった　歓迎しよう。\n　ようこそツボ錬金部へ！": "If you insist that much, I have no choice. All\nright, let's welcome them. Welcome to the Jar\nAlchemy Club!"
   },
   "158232": {
     "「待ってたぜ。\n　部活強化週間に　参加希望だな？\n<br>\n「部活強化週間は　日頃の部活動での\n　鍛錬の見せ所だ。\n　<pc>のチカラを　見せつけてやれ！\n<br>\n「部活強化週間に　参加したら\n　強化週間用のチケットを　持ったままでは\n　転部はできないから　注意してくれ。\n<br>\n「もちろん　<pc>は\n　木工部員として　部活強化週間に\n　参加するよな？\n<yesno 2><break>": "You've been waiting for me, you want to join\nClub Upgrade Week? Show <pc> what\nyou can do! Of course, <pc> will\n<br>\nparticipate in Club Upgrade Week as a\nWoodworking Club member, right?\n<yesno 2><break>"
@@ -648,7 +648,7 @@
     "「よっ　<pc>。\n　なにか俺が　できることはあるかい？\n<break>": "Yo <pc>. Is there anything I can do?\n<break>"
   },
   "158256": {
-    "「どうだ？\n　ツボ錬金部に　入部してみないか？\n<break>": "How would you like to join the Pot Alchemy\nClub?\n<break>"
+    "「どうだ？\n　ツボ錬金部に　入部してみないか？\n<break>": "How would you like to join the Jar Alchemy\nClub?\n<break>"
   },
   "158257": {
     "「なにか　手伝えることはあるかい？\n<break>": "Is there anything I can do to help?\n<break>"
@@ -783,7 +783,7 @@
     "「期待させておいて\n　そりゃあ　ないぜ……": "I'm sorry, but that's not very nice..."
   },
   "158306": {
-    "「そうか！\n　わがツボ錬金部に　入部してくれると\n　いうんだな！？\n<yesno><break>": "Oh, yeah! You want to join our Pot Alchemy\nClub?\n<yesno><break>"
+    "「そうか！\n　わがツボ錬金部に　入部してくれると\n　いうんだな！？\n<yesno><break>": "Oh, yeah! You want to join our Jar Alchemy\nClub?\n<yesno><break>"
   },
   "158307": {
     "「期待させておいて\n　そりゃあ　ないぜ……": "I'm sorry, but that's not very nice..."
@@ -960,13 +960,13 @@
     "部の設備利用券を　<%dL_TICKET>枚　手に入れた！<se_nots System 7>": "Received <%dL_TICKET> Club Facility Ticket(s)!<se_nots System 7>"
   },
   "158940": {
-    "<color_yellow><pc>は　ツボ錬金部員になった！<me_60>\n<color_white>": "<color_yellow><pc> became a Pot\nAlchemy Club member!<me_60>\n<color_white>"
+    "<color_yellow><pc>は　ツボ錬金部員になった！<me_60>\n<color_white>": "<color_yellow><pc> became a Jar\nAlchemy Club member!<me_60>\n<color_white>"
   },
   "158941": {
     "「これが　今月の課題だ。\n　課題の条件をみたす　そうびや　どうぐを\n　作ってくれ。\n<br>\n「クラスメイト全員の　協力で\n　課題の目標数を　めざすんだ。\n　それが　部活強化週間だ。\n<end>": "This is this month's assignment. Create\nequipment and items that meet the requirements\nof the assignment. You will need the help of\n<br>\nall your classmates to reach the target number\nof assignments. This is Club Upgrade Week.\n<end>"
   },
   "158942": {
-    "「ツボ錬金部　応援メッセージ": "Pot Alchemy Club Message of Support"
+    "「ツボ錬金部　応援メッセージ": "Jar Alchemy Club Message of Support"
   },
   "158943": {
     "部活強化週間に　参加しました！<me_61>": "I participated in Club Upgrade Week!<me_61>"
@@ -1197,7 +1197,7 @@
     "お手伝いチケットを　<%dL_HELP_NUM>枚　手に入れた！<se_nots System 7>": "Received <%dL_HELP_NUM> tickets for help!<se_nots System 7>"
   },
   "160676": {
-    "「ありがたい！\n　キミは　<%sL_CLUB>部員のようだが\n　ツボ錬金部に　転部してくれるというんだな？\n<yesno><break>": "You are a member of the <%sL_CLUB> club and\nyou are willing to transfer to the Pot Alchemy\nClub?\n<yesno><break>"
+    "「ありがたい！\n　キミは　<%sL_CLUB>部員のようだが\n　ツボ錬金部に　転部してくれるというんだな？\n<yesno><break>": "You are a member of the <%sL_CLUB> club and\nyou are willing to transfer to the Jar Alchemy\nClub?\n<yesno><break>"
   },
   "160677": {
     "「部の設備利用券では　部活強化週間の\n　成果としては　カウントされない。\n　そこは　注意してくれ。\n<br>\n「あと　多くの報酬を　ゲットするには\n　他の部にも　がんばってもらいたいよな。\n<br>\n「そこで他の部を　手伝うこともできるんだ。\n　それが　お手伝いチケットだ。\n<br>\n「お手伝いチケットを使えば\n　他の部の設備を　使うことができるぜ。\n　上手に　使ってくれ。<end>": "Club Facility Ticket does not count as an\nachievement of Club Upgrade Week. Please be\ncareful. Also, in order to get more rewards,\n<br>\nwe need other clubs to work harder. That's why\nyou can help other clubs. That's what help\ntickets are for. With the help tickets, you\n<br>\ncan use the facilities of other clubs. Use\nthem well.<end>"
