@@ -126,7 +126,7 @@
     "真・オノむそう": "Axes of True Evil"
   },
   "456": {
-    "攻撃時与ダメ低下 +15%": "Damage Dealt ↓ Attack +15%"
+    "攻撃時与ダメ低下 +15%": "Damage Dampen Attack +15%"
   },
   "471": {
     "こうげき力 +10": "Attack +10"
@@ -294,7 +294,7 @@
     "マジステッキ": "Magistick"
   },
   "1018": {
-    "かいふく魔力 +60": ""
+    "かいふく魔力 +60": "Magical Mending +60"
   },
   "1030": {
     "ＭＰ消費しない率 +2%": "MP Saver +2%"
@@ -312,7 +312,7 @@
     "さいだいＭＰ +60": "Max MP +60"
   },
   "1098": {
-    "かいふく魔力 +100": ""
+    "かいふく魔力 +100": "Magical Mending +100"
   },
   "1110": {
     "キラキラポーン": "Snap Crackle Poof"
@@ -324,7 +324,7 @@
     "ラピッドステッキ": "Rapid Stick"
   },
   "1146": {
-    "行動時5%で移動アップ": ""
+    "行動時5%で移動アップ": "Movement Speed Boost On Action 5%"
   },
   "1161": {
     "ティンクルバトン": "Cheer Leader"
@@ -336,7 +336,7 @@
     "足ばらい": "Leg Sweep"
   },
   "1194": {
-    "呪文発動速度 +7%": ""
+    "呪文発動速度 +7%": "Spellcasting Speed +7%"
   },
   "1206": {
     "黄泉送り": "Deliverance"
@@ -360,19 +360,19 @@
     "天地のかまえ": "Counter Wait"
   },
   "1280": {
-    "行動時10%で魔力かくせい": ""
+    "行動時10%で魔力かくせい": "Channel Anger On Action 10%"
   },
   "1297": {
-    "水流のかまえ・改": ""
+    "水流のかまえ・改": "Be More Like Water"
   },
   "1310": {
-    "バギムーチョのダメージ +300": ""
+    "バギムーチョのダメージ +300": "Kaswooshle Damage +300"
   },
   "1330": {
     "奥義・棍閃殺": "Flash Kill"
   },
   "1340": {
-    "ガード時100%で早詠み": ""
+    "ガード時100%で早詠み": "Faster Caster On Parry 100%"
   },
   "1355": {
     "しゅび力 +10": "Defense +10"
@@ -582,7 +582,7 @@
     "ゴールドフィンガー": "Rake 'n' Break"
   },
   "2087": {
-    "攻撃時5%で移動アップ": ""
+    "攻撃時5%で移動アップ": "Movement Speed Boost Attack 5%"
   },
   "2102": {
     "サイクロンアッパー": "Air Raiser"
@@ -2322,7 +2322,7 @@
     "マジでステキに\nみりょくアップ": "Greatly increases\nan ally's charm."
   },
   "10676": {
-    "スティック装備時\nかいふく魔力が\n６０増える": ""
+    "スティック装備時\nかいふく魔力が\n６０増える": "Mag. Mending +60\nwhen a Wand\nis equipped."
   },
   "10708": {
     "スティック装備時\n２％の確率で\nＭＰを消費しない": "2% chance to not\nuse MP when using\na Wand."
@@ -2340,7 +2340,7 @@
     "スティック装備時\nさいだいＭＰが\n６０増える": "Max MP +60\nwhen a Wand\nis equipped."
   },
   "10868": {
-    "スティック装備時\nかいふく魔力が\n１００増える": ""
+    "スティック装備時\nかいふく魔力が\n１００増える": "Mag. Mending +100\nwhen a Wand\nis equipped."
   },
   "10901": {
     "キラキラパワーで\n悪い効果から\n仲間の身を守る": "Use glitter power\nto protect allies\nfrom ailments."
@@ -2361,19 +2361,19 @@
     "スティック装備時\n戦闘中のチャージ\n時間を１０秒短縮": "Charge time -10s\nwhen a Wand\nis equipped."
   },
   "11085": {
-    "棍装備時に\n８％で武器ガード\nできるようになる": ""
+    "棍装備時に\n８％で武器ガード\nできるようになる": "Parry Rate +8%\nwhen a Rod\nis equipped."
   },
   "11118": {
     "周囲の敵の\n足元をはらって\nすっころばす": "Spin attack that\nknocks nearby\nenemies down."
   },
   "11147": {
-    "棍装備時に\n呪文の発動速度が\n７％早くなる": ""
+    "棍装備時に\n呪文の発動速度が\n７％早くなる": "Spellcasting\nSpeed +7% when\nusing a Rod."
   },
   "11177": {
     "ゾンビ系の敵に\n威力を発揮する\n聖なる技": "A sacred attack\ndeals more damage\nto Undead."
   },
   "11206": {
-    "棍装備時の\nこうげき力が\n７０増える": ""
+    "棍装備時の\nこうげき力が\n７０増える": "Attack +70\nwhen a Rod\nis equipped."
   },
   "11232": {
     "棍を振りまわし\n前方の敵を\nなぎはらう": "Mows down enemies\nin an angle in\nfront of you."
@@ -2391,19 +2391,19 @@
     "相手の攻撃を\n受けながしつつ\nなぐりかかる大技": "Strike back after\nparrying an\nenemy's attack."
   },
   "11376": {
-    "行動時１０％で\n魔力かくせいが\nかかる": ""
+    "行動時１０％で\n魔力かくせいが\nかかる": "10% chance to\nget Channel Anger\non an action."
   },
   "11403": {
-    "カウンター率と\nガード率と呪文\nダメージも上がる": ""
+    "カウンター率と\nガード率と呪文\nダメージも上がる": "Boosts parry and\ncounter rates\nand spell damage."
   },
   "11438": {
-    "バギムーチョの\nダメージが\n３００増える": ""
+    "バギムーチョの\nダメージが\n３００増える": "Kaswooshle damage\nincreases by 300."
   },
   "11467": {
     "敵１体に強烈な\nダメージを与える\n棍の奥義": "Deals intense\ndamage to one\nenemy."
   },
   "11497": {
-    "ガード時１００％\n早詠みの杖の\n効果がかかる": ""
+    "ガード時１００％\n早詠みの杖の\n効果がかかる": "100% chance to\nget Faster Caster\nwhen parrying."
   },
   "11529": {
     "盾装備時の\nしゅび力が\n１０増える": "Defense +10\nwhen a Shield\nis equipped."
@@ -2430,7 +2430,7 @@
     "回復呪文の効果を\nかなり高める\n僧侶専用特技": "Greatly increases\nrecovery spell\neffectiveness."
   },
   "11752": {
-    "僧侶時\nかいふく魔力が\n６０増える": ""
+    "僧侶時\nかいふく魔力が\n６０増える": "Mag. Might +60\nwhen you're a\nPriest."
   },
   "11776": {
     "僧侶時\nさいだいＭＰが\n３０増える": "Max MP +30\nwhen you are a\nPriest."
