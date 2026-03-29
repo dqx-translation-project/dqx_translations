@@ -1815,7 +1815,7 @@
     "単語のよみと\n表記を組み合わせ\n辞書に登録します": "Register spelling\nand pronunciation\nof a word."
   },
   "32327": {
-    "<speed=0>この先に　進めませんでした。\n時間をおいて　再度お試しください。": ""
+    "<speed=0>この先に　進めませんでした。\n時間をおいて　再度お試しください。": "<speed=0>Cannot proceed further at this time.\nPlease wait a while and try again."
   },
   "32328": {
     "<speed=0>同盟に指定したパーティの中に\nこの先に　進めない人がいます。\nそれでも　同盟を組みますか？<yesno><close>": "<speed=0>Some of the parties in this alliance are\nunable to proceed further. Do you still wish to\nproceed with your alliance?<yesno><close>"
@@ -3015,10 +3015,10 @@
     "<speed=0><pc>は　<%sM_item>を\n勢いよく　開けた！": "<speed=0><pc> excitedly opened the\n<%sM_item>!"
   },
   "41301": {
-    "<speed=0><%sM_Badge>バッジを　手に入れた！\n<se_nots System 7>\n<auto_bw=10000><close>": ""
+    "<speed=0><%sM_Badge>バッジを　手に入れた！\n<se_nots System 7>\n<auto_bw=10000><close>": "<speed=0>Received the\n<%sM_Badge> Badge!\n<se_nots System 7>\n<auto_bw=10000><close>"
   },
   "41302": {
-    "<speed=0>しかし　<%sM_Badge>バッジを\nこれ以上持てなかったため\n<%sM_Badge>は　コインに変化した！\n<br>\nバトルロードコインを　<%dM_CoinNum>枚　手に入れた！\n<se_nots System 7>\n<auto_bw=10000>\n<close>": ""
+    "<speed=0>しかし　<%sM_Badge>バッジを\nこれ以上持てなかったため\n<%sM_Badge>は　コインに変化した！\n<br>\nバトルロードコインを　<%dM_CoinNum>枚　手に入れた！\n<se_nots System 7>\n<auto_bw=10000>\n<close>": "<speed=0>But you can't carry any more of that\nBadge, so it will be converted into Coins\ninstead!\n<br>\nReceived <%dM_CoinNum> Battle Road Coins!\n<se_nots System 7>\n<auto_bw=10000>\n<close>"
   },
   "41303": {
     "<%sM_Badge>バッジを　手に入れた！": "Received the <%sM_Badge> Badge!"
@@ -6732,7 +6732,7 @@
     "このコンテンツは　開催終了しましたので\n目的の設定が　できなくなりました。\nこれに合わせて　仲間募集もキャンセルしました。": "This content is no longer available as the\nevent has ended. Party search has been\ncancelled."
   },
   "59603": {
-    "<speed=0>はじめて　<%sM_Badge>バッジを\n手に入れた！\n<se_nots System 7>\n<auto_bw=10000><close>": ""
+    "<speed=0>はじめて　<%sM_Badge>バッジを\n手に入れた！\n<se_nots System 7>\n<auto_bw=10000><close>": "<speed=0>Received your first\n<%sM_Badge> Badge!\n<se_nots System 7>\n<auto_bw=10000><close>"
   },
   "59605": {
     "はじめて　<%sM_Badge>バッジを　手に入れた！": "Received your first <%sM_Badge>\nBadge!"
@@ -8070,66 +8070,66 @@
     "所持上限に　達したため\nどうぐかばんにある　<%sL_ITEM>を\n専用のおまとめぶくろに　移動できませんでした。": "You are carrying too many items in your\nCurrency Bag. The <%sL_ITEM>\nwas not moved from your item bag."
   },
   "65510": {
-    "<speed=0>\nそうびぶくろが　いっぱいのようですが\nこのまま挑戦しますか？\n<yesno2><break>": ""
+    "<speed=0>\nそうびぶくろが　いっぱいのようですが\nこのまま挑戦しますか？\n<yesno2><break>": "<speed=0>\nYour equipment bag is currently full.\nGo to battle anyway?\n<yesno2><break>"
   },
   "65542": {
-    "<speed=0>\n職人とくぎを　覚えていない！": ""
+    "<speed=0>\n職人とくぎを　覚えていない！": "<speed=0>\nYou don't know any crafting skills!"
   },
   "65544": {
-    "<speed=0>\n部活とくぎを　覚えていない！": ""
+    "<speed=0>\n部活とくぎを　覚えていない！": "<speed=0>\nYou don't know any club skills!"
   },
   "65555": {
-    "<speed=0><%sM_Badge>バッジを　手に入れた！\n<%sM_Badge2>バッジを　手に入れた！\n<%sM_Badge3>バッジを　手に入れた！\n<se_nots System 7>\n<auto_bw=10000><close>": ""
+    "<speed=0><%sM_Badge>バッジを　手に入れた！\n<%sM_Badge2>バッジを　手に入れた！\n<%sM_Badge3>バッジを　手に入れた！\n<se_nots System 7>\n<auto_bw=10000><close>": "<speed=0>Received the <%sM_Badge>,\n<%sM_Badge2>, and <%sM_Badge3>\nBadges!\n<se_nots System 7>\n<auto_bw=10000><close>"
   },
   "65556": {
-    "<speed=0><%sM_Badge>バッジを　手に入れた！\n<%sM_Badge2>バッジを　手に入れた！\n<se_nots System 7>\n<auto_bw=10000><close>": ""
+    "<speed=0><%sM_Badge>バッジを　手に入れた！\n<%sM_Badge2>バッジを　手に入れた！\n<se_nots System 7>\n<auto_bw=10000><close>": "<speed=0>Received the <%sM_Badge>\nand <%sM_Badge2> Badges!\n<se_nots System 7>\n<auto_bw=10000><close>"
   },
   "65579": {
-    "職人特技の\nコマンド表示順を\n編集できます": ""
+    "職人特技の\nコマンド表示順を\n編集できます": "Change order\nof crafting\nskills."
   },
   "65580": {
-    "部活特技の\nコマンド表示順を\n編集できます": ""
+    "部活特技の\nコマンド表示順を\n編集できます": "Change order\nof club\nskills."
   },
   "65581": {
-    "<speed=0>\n職人とくぎ順設定の　説明です！\n<br>\n職人で　アイテムを生産したり\n錬金をするときの　職人特技の順番を\n職業ごとに　整理できる機能です。\n<br>\nぜひ　特技リストを\n自分好みに　設定してみてください！": ""
+    "<speed=0>\n職人とくぎ順設定の　説明です！\n<br>\n職人で　アイテムを生産したり\n錬金をするときの　職人特技の順番を\n職業ごとに　整理できる機能です。\n<br>\nぜひ　特技リストを\n自分好みに　設定してみてください！": "<speed=0>\nThis will explain the Craft Skill Order\nsetting!\n<br>\nThis setting allows you to change the order\nin which your crafting skills are displayed\nwhile crafting.\n<br>\nGive it a try to organize your skills as\nyou see fit!"
   },
   "65582": {
-    "<speed=0>\n部活とくぎ順設定の　説明です！\n<br>\nアスフェルド学園内の部活で\nアイテムを生産するときの\n部活特技の順番を　整理できる機能です。\n<br>\nぜひ　特技リストを\n自分好みに　設定してみてください！": ""
+    "<speed=0>\n部活とくぎ順設定の　説明です！\n<br>\nアスフェルド学園内の部活で\nアイテムを生産するときの\n部活特技の順番を　整理できる機能です。\n<br>\nぜひ　特技リストを\n自分好みに　設定してみてください！": "<speed=0>\nThis will explain the Club Skill Order\nsetting!\n<br>\nThis setting allows you to change the order\nin which your crafting skills are displayed\nwhile crafting in Asfeld's different clubs.\n<br>\nGive it a try to organize your skills as\nyou see fit!"
   },
   "65584": {
-    "バージョン８こんにちは": ""
+    "バージョン８こんにちは": "Hello Version 8"
   },
   "65585": {
-    "バージョン８こんにちはキャンペーン": ""
+    "バージョン８こんにちはキャンペーン": "Hello Version 8 Campaign"
   },
   "65586": {
-    "バージョン７ありがとう": ""
+    "バージョン７ありがとう": "Thank You Version 7"
   },
   "65587": {
-    "バージョン７ありがとうキャンペーン": ""
+    "バージョン７ありがとうキャンペーン": "Thank You Version 7 Campaign"
   },
   "65639": {
-    "<speed=0>\nこの卵を　受け取りますか？\n<yesno><close>": ""
+    "<speed=0>\nこの卵を　受け取りますか？\n<yesno><close>": "<speed=0>\nAccept this egg?\n<yesno><close>"
   },
   "65707": {
-    "<speed=0>\nスラミィとの会話での\n音声出力設定を　『再生する』から\n『再生しない』に　変更しますか？\n<yesno><close>": ""
+    "<speed=0>\nスラミィとの会話での\n音声出力設定を　『再生する』から\n『再生しない』に　変更しますか？\n<yesno><close>": "<speed=0>\nChange the audio output while talking with\nSlimey from \"Playback\" to \"No Playback\"?\n<yesno><close>"
   },
   "65708": {
-    "<speed=0>\nスラミィとの会話での\n音声出力設定を　『再生しない』から\n『再生する』に　変更しますか？\n<yesno><close>": ""
+    "<speed=0>\nスラミィとの会話での\n音声出力設定を　『再生しない』から\n『再生する』に　変更しますか？\n<yesno><close>": "<speed=0>\nChange the audio output while talking with\nSlimey from \"No Playback\" to \"Playback\"?\n<yesno><close>"
   },
   "65709": {
-    "<speed=0>\n音声出力設定を\n『再生しない』に　変更しました。": ""
+    "<speed=0>\n音声出力設定を\n『再生しない』に　変更しました。": "<speed=0>\nAudio output setting changed to\n\"No Playback\"."
   },
   "65710": {
-    "<speed=0>\n音声出力設定を\n『再生する』に　変更しました。": ""
+    "<speed=0>\n音声出力設定を\n『再生する』に　変更しました。": "<speed=0>\nAudio output setting changed to\n\"Playback\"."
   },
   "65789": {
-    "<pc>は　<%sM_item>を使った。\n<color_yellow>スラミィのＨＰやＭＰが回復するまで\n時間が　かかる場合があります。": ""
+    "<pc>は　<%sM_item>を使った。\n<color_yellow>スラミィのＨＰやＭＰが回復するまで\n時間が　かかる場合があります。": "<pc> uses the <%sM_item>.\n<color_yellow>It may take some time for Slimey's\nHP and MP to recover fully."
   },
   "65879": {
-    "上限を　こえるため　これ以上\n回復することは　できません！": ""
+    "上限を　こえるため　これ以上\n回復することは　できません！": "Cannot be recovered any further!"
   },
   "65921": {
-    "現在　このアイテムは使用することができません。\nしばらくたってから　お試しください。": ""
+    "現在　このアイテムは使用することができません。\nしばらくたってから　お試しください。": "This item is currently unavailable.\nPlease try again later."
   }
 }
