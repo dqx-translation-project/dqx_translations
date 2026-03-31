@@ -39,10 +39,10 @@
     "<speed=0><%sL_VAULT_TYPE>には　これ以上\nアイテムをしまうことが　できません。\n<bw_break>": "<speed=0>No more items can be stored in\n<%sL_VAULT_TYPE>.\n<bw_break>"
   },
   "18926": {
-    "<speed=0>収納家具の利用権限がないため\n収納家具は　使えません。": "<speed=0>Storage furniture is not available because you\ndo not have permission to use storage\nfurniture."
+    "<speed=0>収納家具の利用権限がないため\n収納家具は　使えません。": "<speed=0>\nYou do not have the necessary permission\nto access the House Chest."
   },
   "18927": {
-    "<speed=0>この家のオーナーではないため\n屋根ウラ収納は　使えません。": "<speed=0>You are not the owner of this house, so you\ncan't use the roof storage."
+    "<speed=0>この家のオーナーではないため\n屋根ウラ収納は　使えません。": "<speed=0>You are not the owner of this house, so you\ncannot use attic storage."
   },
   "18928": {
     "<speed=0><%sL_VAULT_TYPE>には　何もありません。\n<bw_break>": "<speed=0>Nothing in <%sL_VAULT_TYPE>.\n<bw_break>"
@@ -60,13 +60,13 @@
     "<speed=0>\n持ち物を　しまったり　取りだせます。\nどうしますか？\n<select_se_off 2>\nしまう\n取りだす\n<select_end><break>": "<speed=0>\nYou can store or retrieve your belongings.\nWhat do you want to do?\n<select_se_off 2>\nStore\nRetrieve\n<select_end><break>"
   },
   "39130": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n他の人に　わたすことができないアイテムのため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is an item that\ncannot be given to others and therefore cannot\nbe stored in someone else's home storage\n<br>\nfurniture.\n<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n他の人に　わたすことができないアイテムのため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be\ngiven to other players and therefore is unable\nbe stored in someone else's House Chest.\n<bw_break>"
   },
   "39131": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなた専用の装備品のため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is for your\nexclusive use only and cannot be stored in\nsomeone else's home storage furniture.\n<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなた専用の装備品のため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> may\nonly be used by you, so it cannot be stored\nsomeone else's House Chest.\n<bw_break>"
   },
   "39136": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n屋根ウラ収納や　収納家具に\n入れることは　できません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be placed\nin the roof storage or storage furniture."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n屋根ウラ収納や　収納家具に\n入れることは　できません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be\nplaced in attic storage or the house chest."
   },
   "41493": {
     "<speed=0>予期せぬエラーにより\n動作を完了することが　できませんでした。": "<speed=0>The operation could not be completed due to an\nunexpected error."
@@ -96,16 +96,16 @@
     "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなたの　持ち物ではないため\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be retrieved\nbecause it is not your belongings."
   },
   "46605": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n収納家具にしまうことは　できません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be stored\nin the storage furniture.\n<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　\n収納家具にしまうことは　できません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be stored\nin the house chest.\n<bw_break>"
   },
   "46643": {
-    "<speed=0>収納家具にしまう権限がないため\nアイテムをしまうことは　できません。": "<speed=0>The item cannot be stored in the storage\nfurniture because you do not have permission."
+    "<speed=0>収納家具にしまう権限がないため\nアイテムをしまうことは　できません。": "<speed=0>\nThis item cannot be stored in the house\nchest as you do not have the necessary\npermission."
   },
   "46644": {
-    "<speed=0>収納家具から取りだす権限がないため\nアイテムを取りだすことは　できません。": "<speed=0>The item cannot be retrieved from the storage\nfurniture because you do not have permission."
+    "<speed=0>収納家具から取りだす権限がないため\nアイテムを取りだすことは　できません。": "<speed=0>\nThe item cannot be retrieved from the house\nchest as you do not have the required\npermission."
   },
   "47746": {
-    "収納家具から取りだす権限がないため\n収納家具に　しまってしまうと\n取りだせなくなりますが　よろしいですか？\n<yesno 2><break>": "If you store it in the storage furniture, you\nwon't be able to retrieve it because you don't\nhave permission. Is that okay?\n<yesno 2><break>"
+    "収納家具から取りだす権限がないため\n収納家具に　しまってしまうと\n取りだせなくなりますが　よろしいですか？\n<yesno 2><break>": "If you store this item in the house chest, you\nwill not be able to retrieve it as you do not\nhave the necessary permission. Continue?\n<yesno 2><break>"
   },
   "52144": {
     "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　<%nL_QUANTITY>個　取りだした。": "<speed=0>Took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM>."
@@ -123,10 +123,10 @@
     "<speed=0>\n何を　取りだしますか？\n<break>": "<speed=0>\nWhat do you want to retrieve?\n<break>"
   },
   "55381": {
-    "<%sL_ITEM_NAME><%sL_PLUSNUM>は　\n売り物に　設定されているため\n新たに収納家具に入れることは　できません。\n<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM> is set as a sale\nitem and cannot be newly added to the storage\nfurniture.\n<bw_break>"
+    "<%sL_ITEM_NAME><%sL_PLUSNUM>は　\n売り物に　設定されているため\n新たに収納家具に入れることは　できません。\n<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM> is currently\nlisted for sale, so it cannot be stored in the\nhouse chest.\n<bw_break>"
   },
   "55382": {
-    "<%sL_ITEM_NAME><%sL_PLUSNUM>は\n売り物に　設定されているため\n収納家具から取りだすことが　できません。\n<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM> is set for sale\nand cannot be removed from the storage\nfurniture.\n<bw_break>"
+    "<%sL_ITEM_NAME><%sL_PLUSNUM>は\n売り物に　設定されているため\n収納家具から取りだすことが　できません。\n<bw_break>": "<%sL_ITEM_NAME><%sL_PLUSNUM> is currently\nlisted for sale, so it cannot be retrieved\nfrom the house chest.\n<bw_break>"
   },
   "56014": {
     "<select_se_off>\n<%sL_COMMAND1>\n<select_end><break>": "<select_se_off>\n<%sL_COMMAND1>\n<select_end><break>"
@@ -144,7 +144,7 @@
     "<%sL_PC_NICK>は\n<%sL_FURNITURE>を　開いた。\n<br>\nしまうときは　持ち物の種類を選択し\nしまいたいアイテムを選ぶと　収納できます。\n<br>\n取り出すときは　収納に入っている\n取り出したいアイテムを選ぶと　取り出せます。\n<end>": "<%sL_PC_NICK> opened the\n<%sL_FURNITURE>. To store an item,\nselect the type of item and choose the item\n<br>\nyou want to store. To retrieve an item, select\nthe item you want to retrieve from storage.\n<end>"
   },
   "79688": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nロックされている装備品なので\n他人の家の収納家具には　しまえません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is locked\nequipment and cannot be stored in someone\nelse's storage furniture."
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nロックされている装備品なので\n他人の家の収納家具には　しまえません。": "<speed=0>\n<%sL_ITEM_NAME><%sL_PLUSNUM> is locked,\nso it cannot be stored in someone else's\nhouse chest."
   },
   "79689": {
     "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\n他の人が　ロックしている装備品なので\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be retrieved\nbecause it is locked by someone else."
@@ -159,7 +159,7 @@
     "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなたの料理ではないため\n取りだせません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be retrieved\nbecause it is not your food."
   },
   "90134": {
-    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなた専用の料理のため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is for your\nexclusive use and cannot be stored in someone\nelse's home storage furniture.\n<bw_break>"
+    "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は\nあなた専用の料理のため\n他人の家の収納家具には　しまえません。\n<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is only\nusable by you, so you cannot store it in\nsomeone else's house chest.\n<bw_break>"
   },
   "90572": {
     "<speed=0>\n取りだす権限がない　<%sL_FURNITURE>です。\nしまうことのみ　できます。\n<select_se_off 2>\nしまう\n<select_end><break>": "<speed=0>\nYou do not have permission to retrieve\n<%sL_FURNITURE>. You can only store\nit.\n<select_se_off 2>\nStore\n<select_end><break>"
@@ -168,10 +168,10 @@
     "<speed=0>\nしまう権限がない　<%sL_FURNITURE>です。\n取りだすことのみ　できます。\n<select_se_off 2>\n取りだす\n<select_end><break>": "<speed=0>\nYou do not have permission to store\n<%sL_FURNITURE>. You can only retrieve\nit.\n<select_se_off 2>\nRetrieve\n<select_end><break>"
   },
   "92015": {
-    "<speed=0><%sL_ITEM_NAME>を\n収納家具にしまうと　残り期限が\nドラキーメッセージで　告知されなくなります。\n<br>\n<%sL_ITEM_NAME>を　しまいますか？\n<yesno 2><break>": "<speed=0>If you put <%sL_ITEM_NAME> in the\nstorage furniture, the remaining expiration\ndate won't be announced in the Dracky message.\n<br>\nDo you want to store <%sL_ITEM_NAME>?\n<yesno 2><break>"
+    "<speed=0><%sL_ITEM_NAME>を\n収納家具にしまうと　残り期限が\nドラキーメッセージで　告知されなくなります。\n<br>\n<%sL_ITEM_NAME>を　しまいますか？\n<yesno 2><break>": "<speed=0>\nIf you store the <%sL_ITEM_NAME>\nin the house chest, you won't receive\nexpiration notifications via Dracky message.\n<br>\nAre you sure you want to store it?\n<yesno 2><break>"
   },
   "93993": {
-    "収納家具を　さわっている人がいるので\n同時に　使用することはできません。": "The storage furniture cannot be used because\nsomeone else is using it."
+    "収納家具を　さわっている人がいるので\n同時に　使用することはできません。": "Someone else is currently using the house\nchest."
   },
   "144217": {
     "便利ツールで　モーモンバザーが\n使用されているため　現在利用できません。": "The Sanguini Bazaar is being used as a\nconvenience tool and is currently unavailable."
