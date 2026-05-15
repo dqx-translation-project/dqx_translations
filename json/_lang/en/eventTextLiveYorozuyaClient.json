@@ -489,7 +489,7 @@
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_GENDER>性でなければ\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one must be of the\n<%sL_GENDER> nature to be equipped.\n<yesno 2><break>"
   },
   "11612": {
-    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_RACE>の方でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one can only be\nequipped by <%sL_RACE>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_RACE>の方でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>, I see.\nOnly <%sL_RACE> may equip this.\nIs that all right?\n<yesno 2><break>"
   },
   "12149": {
     "「どっちの手に　装備するんだ？\n<break>": "Equip in which hand?\n<break>"
@@ -522,10 +522,10 @@
     "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だけど　構わないかい？\n<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two\nplaces, <%sL_EQUIP_POINT1> and\n<%sL_EQUIP_POINT2>, is that okay?<yesno><break>"
   },
   "12178": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two\nplaces, <%sL_EQUIP_POINT1> and\n<%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> requires two\nhands to equip. Is that all right?\n<yesno><break>"
   },
   "12179": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two\nplaces, <%sL_EQUIP_POINT1> and\n<%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> requires two\nhands to equip. Is that all right?\n<yesno><break>"
   },
   "25075": {
     "「おっと。それは　手に入りづらい\n　貴重な物だが\n　本当に　売っちまっていいのかい？\n<yesno 2><break>": "Wait a second. That item is pretty valuable.\nAre you really sure you want to sell it?\n<yesno 2><break>"
@@ -582,10 +582,10 @@
     "「<%sL_KAITAI_ITEM>のレシピは\n　もう　覚えているようだけど　いいのかい？\n<yesno 2><break>": "You already seem to remember the recipe for\n<%sL_KAITAI_ITEM>, is that ok?\n<yesno 2><break>"
   },
   "41655": {
-    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えているようですが\n　よろしいですか？\n<yesno 2><break>": "You already remember the recipe for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えているようですが\n　よろしいですか？\n<yesno 2><break>": "You already know this recipe, it seems.\nDo you still want it?\n<yesno 2><break>"
   },
   "41656": {
-    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You already know the recipe for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "It looks like you already know this recipe.\nDo you still want it?\n<yesno 2><break>"
   },
   "41815": {
     "「<%sL_KAITAI_ITEM>か。\n　これは　<%sL_SYOKUNIN>じゃないと\n　作れないレシピだが　いいんだな？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>? This recipe requires\nyou to be <%sL_SYOKUNIN> to learn it.\nIs that all right?\n<yesno 2><break>"
@@ -1593,10 +1593,10 @@
     "「<%sL_KAITAI_ITEM>の　しぐさは\n　もう　覚えているようだけど　いいのかい？\n<yesno 2><break>": "You already know that emote. Are you sure?\n<yesno 2><break>"
   },
   "69992": {
-    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようですが\n　よろしいですか？\n<yesno 2><break>": "You already remember the emote for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようですが\n　よろしいですか？\n<yesno 2><break>": "You already know this emote.\nDo you still want it?\n<yesno 2><break>"
   },
   "69993": {
-    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You already remember the emote for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "It looks like you already know this emote.\nDo you still want it?\n<yesno 2><break>"
   },
   "69995": {
     "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようですが\n　それでも買われますか？\n<yesno 2><break>": "You already remember the emote for\n<%sL_KAITAI_ITEM>, but would you still buy it?\n<yesno 2><break>"
@@ -1869,7 +1869,7 @@
     "「これは　装備すれば\n　戦いのときに　どうぐとして使っても\n　効果が　ある感じでーす。\n<bw_break>": "If you equip this, you can still use it as an\nitem in battle to activate its special effect.\n<bw_break>"
   },
   "71364": {
-    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You already know the recipe for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "It looks like you already know this recipe.\nDo you still want it?\n<yesno 2><break>"
   },
   "71365": {
     "「他にも　ご用件はございますか？\n<break>": "Is there anything else I can do for you?<break>"
@@ -1899,13 +1899,13 @@
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　お客さまのレベルでは\n　まだ装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This is not yet equipped at\nyour level.\n<yesno 2><break>"
   },
   "71374": {
-    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_RACE>の方でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one can only be\nequipped by <%sL_RACE>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_RACE>の方でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>, I see.\nOnly <%sL_RACE> may equip this.\nIs that all right?\n<yesno 2><break>"
   },
   "71375": {
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_SYOKUNIN>でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one must be\n<%sL_SYOKUNIN> to be equipped.\n<yesno 2><break>"
   },
   "71376": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two\nplaces, <%sL_EQUIP_POINT1> and\n<%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> requires two\nhands to equip. Is that all right?\n<yesno><break>"
   },
   "71377": {
     "「ありがとうございます。\n　すぐに　装備なさいますか？\n<yesno 2><break>": "Thank you.\nDo you want to equip it now?\n<yesno 2><break>"
@@ -2010,7 +2010,7 @@
     "「いらっしゃいませ！\n　ただいま　笹に飾りつける七夕の短冊と\n　履物の販売を　おこなっております！\n<break>": "Welcome! We are now selling Tanabata Strips\nand sandals to go along with your yukatas\nand jinbeis!\n<break>"
   },
   "71414": {
-    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You already remember the emote for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "It looks like you already know this emote.\nDo you still want it?\n<yesno 2><break>"
   },
   "71415": {
     "<select_se_off>\n買いにきた\n売りにきた\n<select_end><break>": "<select_se_off>\nBuy\nSell\n<select_end><break>"
@@ -6384,7 +6384,7 @@
     "「これは　装備すれば\n　戦いのときに　どうぐとして使っても\n　効果が　あるんだよ。\n<bw_break>": "If you equip this, you can still use it as an\nitem in battle to activate its special effect.\n<bw_break>"
   },
   "140039": {
-    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えているようですが\n　よろしいですか？\n<yesno 2><break>": "You already remember the recipe for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えているようですが\n　よろしいですか？\n<yesno 2><break>": "You already know this recipe, it seems.\nDo you still want it?\n<yesno 2><break>"
   },
   "140040": {
     "「他に　ご用はありますか？\n<break>": "Is there anything else I can help you with?\n<break>"
@@ -6399,13 +6399,13 @@
     "「<%sL_KAITAI_ITEM>は\n　<%nL_BUY_PRICE>フェルドになります。\n　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> Feld.\nIs that okay?\n<yesno><break>"
   },
   "140044": {
-    "「<%sL_KAITAI_ITEM>を　ひとつですね。\n　<%nL_BUY_PRICE>フェルドに　なりますが\n　よろしいですか？\n<yesno><break>": "I have one <%sL_KAITAI_ITEM>. <%nL_BUY_PRICE>\nFeld, is that correct?\n<yesno><break>"
+    "「<%sL_KAITAI_ITEM>を　ひとつですね。\n　<%nL_BUY_PRICE>フェルドに　なりますが\n　よろしいですか？\n<yesno><break>": "One <%sL_KAITAI_ITEM>, I see.\nThat will be <%dL_BUY_PRICE> Feld,\nplease.\n<yesno><break>"
   },
   "140045": {
     "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。\n　合わせて　<%nL_BUY_PRICE>フェルドですが\n　よろしいですか？\n<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>, I see.\nThat will be a total of <%dL_BUY_PRICE> Feld.\nWould you like to purchase them?\n<yesno><break>"
   },
   "140046": {
-    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_GENDER>性でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one can only be\nequipped with <%sL_GENDER>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_GENDER>性でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>, I see.\nOnly <%sL_GENDER>s may equip this.\nIs that all right?\n<yesno 2><break>"
   },
   "140047": {
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　お客さんの職業では\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>, I see.\nThis can't be equipped in your current\nvocation. Is that all right?\n<yesno 2><break>"
@@ -6420,7 +6420,7 @@
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_SYOKUNIN>の方しか\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. I can only equip\n<%sL_SYOKUNIN> here.\n<yesno 2><break>"
   },
   "140051": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two\nplaces, <%sL_EQUIP_POINT1> and\n<%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> requires two\nhands to equip. Is that all right?\n<yesno><break>"
   },
   "140052": {
     "「ありがとうございます！\n　こちらで　装備していきますか？\n<yesno 2><break>": "Thank you very much. Would you like me to\nequip it for you?<yesno 2><break>"
@@ -6540,7 +6540,7 @@
     "「このたび　素材屋では\n　使い込み度が　５０以上であれば\n　汗と涙の結晶を　取りだせるようになりました。\n<br>\n「ただし　取りだせる数は　使い込み度が\n　１００の時よりも　少なくなるので\n　ご注意ください。\n<br>\n「また　装備品から　結晶を取りだす回数を\n　１日あたり　１０回までとさせていただきます。\n<br>\n「その日　取りださなかった分の回数は\n　そのまま　翌日以降に持ち越されますが\n　持ち越しは　最大で　２５０回までとなります。\n<br>\n「お客さまには　ご不便をおかけしますが\n　ご協力をお願いします。さて……\n<bw_break>": "You can now retrieve Sweat & Tears Gems from\nthe Material Shop as long as your usage level\nis 50 or higher. However, please note that the\n<br>\nnumber of crystals you can retrieve will be\nlower than when your usage level is 100. Also,\nthe number of times crystals can be removed\n<br>\nfrom equipment will be limited to 10 times per\nday. Any crystals not taken out that day will\nbe carried over to the next day, but the\n<br>\nmaximum carry-over will be 250 crystals. We\napologize for the inconvenience and ask for\nyour cooperation. Now...\n<bw_break>"
   },
   "140093": {
-    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようですが\n　よろしいですか？\n<yesno 2><break>": "You already remember the emote for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようですが\n　よろしいですか？\n<yesno 2><break>": "You already know this emote.\nDo you still want it?\n<yesno 2><break>"
   },
   "140094": {
     "「<%sL_KAITAI_ITEM>の　立ちかたは\n　すでに　覚えているようですが\n　よろしいですか？\n<yesno 2><break>": "You've already learned that pose. Is that\nokay?\n<yesno 2><break>"
@@ -6720,7 +6720,7 @@
     "「こちらは　装備すれば\n　戦いのときに　どうぐとして使っても\n　効果がある物に　なっております。\n<bw_break>": "If you equip it, you can use it as a weapon\nin battle...<bw_break>"
   },
   "140153": {
-    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You already know the recipe for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "It looks like you already know this recipe.\nDo you still want it?\n<yesno 2><break>"
   },
   "140154": {
     "「他にも　ご用件はございますか？\n<break>": "Is there anything else I can do for you?<break>"
@@ -6750,13 +6750,13 @@
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　お客さまのレベルでは\n　まだ装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This is not yet equipped at\nyour level.\n<yesno 2><break>"
   },
   "140163": {
-    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_RACE>の方でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one can only be\nequipped by <%sL_RACE>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_RACE>の方でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>, I see.\nOnly <%sL_RACE> may equip this.\nIs that all right?\n<yesno 2><break>"
   },
   "140164": {
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_SYOKUNIN>でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one must be\n<%sL_SYOKUNIN> to be equipped.\n<yesno 2><break>"
   },
   "140165": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two\nplaces, <%sL_EQUIP_POINT1> and\n<%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> requires two\nhands to equip. Is that all right?\n<yesno><break>"
   },
   "140166": {
     "「ありがとうございます。\n　すぐに　装備なさいますか？\n<yesno 2><break>": "Thank you.\nDo you want to equip it now?\n<yesno 2><break>"
@@ -6876,7 +6876,7 @@
     "「このたび　素材屋では\n　使い込み度が　５０以上であれば\n　汗と涙の結晶を　取りだせるようになりました。\n<br>\n「ただし　取りだせる数は　使い込み度が\n　１００の時よりも　少なくなるので\n　ご注意ください。\n<br>\n「また　装備品から　結晶を取りだす回数を\n　１日あたり　１０回までとさせていただきます。\n<br>\n「その日　取りださなかった分の回数は\n　そのまま　翌日以降に持ち越されますが\n　持ち越しは　最大で　２５０回までとなります。\n<br>\n「お客さまには　ご不便をおかけしますが\n　ご協力をお願いします。さて……\n<bw_break>": "You can now retrieve Sweat & Tears Gems from\nthe Material Shop as long as your usage level\nis 50 or higher. However, please note that the\n<br>\nnumber of crystals you can retrieve will be\nlower than when your usage level is 100. Also,\nthe number of times crystals can be removed\n<br>\nfrom equipment will be limited to 10 times per\nday. Any crystals not taken out that day will\nbe carried over to the next day, but the\n<br>\nmaximum carry-over will be 250 crystals. We\napologize for the inconvenience and ask for\nyour cooperation. Now...\n<bw_break>"
   },
   "140207": {
-    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You already remember the emote for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "It looks like you already know this emote.\nDo you still want it?\n<yesno 2><break>"
   },
   "140208": {
     "「<%sL_KAITAI_ITEM>の　立ちかたは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You've already learned that pose. Is that\nall right?\n<yesno 2><break>"
@@ -7620,7 +7620,7 @@
     "「<%sL_KAITAI_ITEM>の　立ちかたは\n　すでに　覚えているようなので\n　お渡しすることが　できません。\n<break>": "I can't give you the <%sL_KAITAI_ITEM> since\nyou already know how to use it.\n<break>"
   },
   "188196": {
-    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You have already installed <%sL_KAITAI_ITEM>,\nis that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You've already installed one of those.\nDo you still want it?\n<yesno 2><break>"
   },
   "188197": {
     "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けているようなので\n　お渡しすることが　できません。\n<break>": "It seems that <%sL_KAITAI_ITEM> has already\nbeen installed, so we cannot give it to you.\n<break>"
@@ -7704,7 +7704,7 @@
     "「<%sL_KAITAI_ITEM>の　立ちかたは\n　すでに　覚えているようなので\n　お買い上げいただけません。\n<bw_break>": "You already remember how to stand\n<%sL_KAITAI_ITEM>, so you cannot purchase it.\n<bw_break>"
   },
   "188224": {
-    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You have already installed <%sL_KAITAI_ITEM>,\nis that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You've already installed one of those.\nDo you still want it?\n<yesno 2><break>"
   },
   "188225": {
     "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けているようなので\n　お買い上げいただけません。\n<break>": "You cannot purchase <%sL_KAITAI_ITEM> as it\nseems to be already installed.\n<break>"
@@ -7764,7 +7764,7 @@
     "「<%sL_KAITAI_ITEM>の　立ちかたは\n　すでに　覚えているようなので\n　お渡しすることが　できません。\n<break>": "I can't give you the <%sL_KAITAI_ITEM> since\nyou already know how to use it.\n<break>"
   },
   "188244": {
-    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You have already installed <%sL_KAITAI_ITEM>,\nis that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You've already installed one of those.\nDo you still want it?\n<yesno 2><break>"
   },
   "188245": {
     "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けているようなので\n　お渡しすることが　できません。\n<break>": "It seems that <%sL_KAITAI_ITEM> has already\nbeen installed, so we cannot give it to you.\n<break>"
@@ -12156,7 +12156,7 @@
     "「<%sL_KAITAI_ITEM>は\n　<%nL_BUY_PRICE>ゴールドだぜ。\n　これを　買うかね？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> Gold.\nWill you buy it?\n<yesno 2><break>"
   },
   "281344": {
-    "「<%sL_KAITAI_ITEM>ですねっ。\n　<%nL_BUY_PRICE>ゴールドになりますが\n　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. <%nL_BUY_PRICE>It will be\ngold, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですねっ。\n　<%nL_BUY_PRICE>ゴールドになりますが\n　よろしいですか？\n<yesno 2><break>": "The <%sL_KAITAI_ITEM>?\nThat will be <%dL_BUY_PRICE> Gold.\nHow about it?\n<yesno 2><break>"
   },
   "281345": {
     "「<%sL_KAITAI_ITEM>は\n　<%nL_BUY_PRICE>ゴールドになります。\n　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.\nIs that okay?\n<yesno 2><break>"
@@ -12165,7 +12165,7 @@
     "「<%sL_KAITAI_ITEM>は\n　<%nL_BUY_PRICE>ゴールドになります。\n　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.\nIs that okay?\n<yesno 2><break>"
   },
   "281347": {
-    "「<%sL_KAITAI_ITEM>ですねっ。\n　<%nL_BUY_PRICE>ゴールドになりますが\n　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. <%nL_BUY_PRICE>It will be\ngold, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですねっ。\n　<%nL_BUY_PRICE>ゴールドになりますが\n　よろしいですか？\n<yesno 2><break>": "The <%sL_KAITAI_ITEM>?\nThat will be <%dL_BUY_PRICE> Gold.\nHow about it?\n<yesno 2><break>"
   },
   "281348": {
     "「ほほう　<%sL_KAITAI_ITEM>ですか。\n　<%nL_BUY_PRICE>ゴールドで　いかがでしょう？\n<yesno 2><break>": "Hoho, the <%sL_KAITAI_ITEM>, I see.\nHow does <%dL_BUY_PRICE> Gold sound?\n<yesno 2>break>"
@@ -12240,7 +12240,7 @@
     "「<%sL_KAITAI_ITEM>を　おひとつですねっ。\n　<%nL_BUY_PRICE>ゴールド　いただきますが\n　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> one for you? <%nL_BUY_PRICE>\nGold, may I have it?\n<yesno 2><break>"
   },
   "281372": {
-    "「<%sL_KAITAI_ITEM>を　ひとつですね。\n　<%nL_BUY_PRICE>ゴールドに　なりますが\n　よろしいですか？\n<yesno 2><break>": "I have one <%sL_KAITAI_ITEM>. <%nL_BUY_PRICE>\ngold, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>を　ひとつですね。\n　<%nL_BUY_PRICE>ゴールドに　なりますが\n　よろしいですか？\n<yesno 2><break>": "One <%sL_KAITAI_ITEM>, I see.\nThat comes to <%dL_BUY_PRICE> Gold.\nWhat do you say?\n<yesno 2><break>"
   },
   "281373": {
     "「<%sL_KAITAI_ITEM>を　おひとつですね。\n　<%nL_BUY_PRICE>ゴールド　いただきますが\n　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> for one. <%nL_BUY_PRICE>\nGold, may I have it?\n<yesno 2><break>"
@@ -12294,7 +12294,7 @@
     "「<%sL_KAITAI_ITEM>を　ひとつだな。\n　<%nL_BUY_PRICE>フェルドだが\n　これを　買うかね？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> I'll take one of those.\n<%nL_BUY_PRICE>Feld, will you buy this?\n<yesno 2><break>"
   },
   "281390": {
-    "「<%sL_KAITAI_ITEM>を　ひとつですね。\n　<%nL_BUY_PRICE>フェルドに　なりますが\n　よろしいですか？\n<yesno 2><break>": "I have one <%sL_KAITAI_ITEM>. <%nL_BUY_PRICE>\nFeld, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>を　ひとつですね。\n　<%nL_BUY_PRICE>フェルドに　なりますが\n　よろしいですか？\n<yesno 2><break>": "One <%sL_KAITAI_ITEM>, I see.\nThat comes to <%dL_BUY_PRICE> Feld.\nWhat do you say?\n<yesno 2><break>"
   },
   "281391": {
     "「<%sL_KAITAI_ITEM>を　おひとつですね。\n　<%nL_BUY_PRICE>フェルド　いただきますが\n　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM> for one, please.\n<%nL_BUY_PRICE> Feld, may I have that?\n<yesno 2><break>"
@@ -12906,7 +12906,7 @@
     "「食材を　ご所望なのね。\n　それじゃ　どれが　ほしいのかしら？\n<break>": "You want food, don't you? Then which of the\nfollowing would you like?\n<break>"
   },
   "285758": {
-    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_RACE>の方でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one can only be\nequipped by <%sL_RACE>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_RACE>の方でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>, I see.\nOnly <%sL_RACE> may equip this.\nIs that all right?\n<yesno 2><break>"
   },
   "285759": {
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_GENDER>性でなければ\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one must be of the\n<%sL_GENDER> nature to be equipped.\n<yesno 2><break>"
@@ -12921,7 +12921,7 @@
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_SYOKUNIN>でないと\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This one must be\n<%sL_SYOKUNIN> to be equipped.\n<yesno 2><break>"
   },
   "285763": {
-    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You already know the recipe for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "It looks like you already know this recipe.\nDo you still want it?\n<yesno 2><break>"
   },
   "285764": {
     "「<%sL_KAITAI_ITEM>ですね。\n　こちらは　<%sL_SYOKUNIN>でなければ\n　作れないレシピですが　よろしいですか？\n<yesno 2><break>": "<%sL_KAITAI_ITEM>. This recipe can only be\nmade with <%sL_SYOKUNIN>.\n<yesno 2><break>"
@@ -13023,7 +13023,7 @@
     "<select_se_off>\nみぎて\nひだりて\n<select_end><break>": "<select_se_off>\nRight Hand\nLeft Hand\n<select_end><break>"
   },
   "285797": {
-    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> is to be equipped in two\nplaces, <%sL_EQUIP_POINT1> and\n<%sL_EQUIP_POINT2>, is that correct?<yesno><break>"
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物ですが　よろしいですか？\n<yesno><break>": "<%sL_KAITAI_ITEM> requires two\nhands to equip. Is that all right?\n<yesno><break>"
   },
   "285798": {
     "「あら？\n　それは手に入りづらい　貴重な物だけど\n　本当に　売ってしまっていいの？\n<yesno 2><break>": "Oh? That's a very hard-to-find, very valuable\nitem, but are you sure you want to sell it?\n<yesno 2><break>"
@@ -13152,7 +13152,7 @@
     "「チーム購買部へ　ようこそ！\n　こちらでは　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「<%sL_TEAM>所属の　<pc>さま\n　お売りできる品が　追加されましたので\n　ぜひ　見ていってください！\n<br>\n「本日は　いかがなさいますか？\n<break>": "Welcome to the Team Vendor! Here, Team members\ncan purchase unique items not found anywhere\nelse.\n<br>\nPlease make sure to take a look at the new\nitems we have for sale!\n<br>\nHow may I help you today?\n<break>"
   },
   "285840": {
-    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You already remember the emote for\n<%sL_KAITAI_ITEM>, is that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "It looks like you already know this emote.\nDo you still want it?\n<yesno 2><break>"
   },
   "285841": {
     "「その装備品は　ロックされているので\n　結晶の取りだしは　できません。\n<bw_break>": "That equipment is locked, so no gems can be\nextracted from it.\n<bw_break>"
@@ -13257,7 +13257,7 @@
     "": ""
   },
   "285875": {
-    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You have already installed <%sL_KAITAI_ITEM>,\nis that correct?\n<yesno 2><break>"
+    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けていらっしゃるようですが\n　よろしいですか？\n<yesno 2><break>": "You've already installed one of those.\nDo you still want it?\n<yesno 2><break>"
   },
   "285876": {
     "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようなので\n　お買い上げいただけません。\n<bw_break>": "The emote for <%sL_KAITAI_ITEM> cannot be\npurchased since you already seem to remember\nit.\n<bw_break>"
