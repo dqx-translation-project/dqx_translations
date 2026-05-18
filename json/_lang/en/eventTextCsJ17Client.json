@@ -15,7 +15,7 @@
     "「よく　頑張ってくれたな　マローネ！\n　これが　俺たちの子か……。": "You did splendidly, Marone!\nSo this is our child..."
   },
   "309133": {
-    "「さあ　あなた。\n　この子を　抱いてあげてください。": "Come now, dear. Please hold your child."
+    "「さあ　あなた。\n　この子を　抱いてあげてください。": "Come now, dear. Please hold <if_woman>her<else>him<endif>."
   },
   "309134": {
     "「なっ？\n　あ　ああ……。": "Whaー\nS...sure..."
@@ -183,7 +183,7 @@
     "「……おや？　どうして\n　私が　オーグリード大陸にいるのか\n　不思議に　思われているようですね。": "...what's that? You're wondering why I'm in\nOgreed?"
   },
   "309190": {
-    "「バドリー岩石地帯に現れた　塔と同じく\n　ジア・クト念晶体が　残したとされる\n　この遺物……。": "Like that tower that appeared in the Budley\nRock Zone, this relic is believed to have\nbeen left behind by Dia Kut..."
+    "「バドリー岩石地帯に現れた　塔と同じく\n　ジア・クト念晶体が　残したとされる\n　この遺物……。": "Like that tower that appeared in the Budley\nRock Zone, this relic is believed to have\nbeen left behind the by Dia Kut..."
   },
   "309191": {
     "「もともと　ガートラント王国だけで\n　調査をおこなっていたそうなのですが\n　専門家が足りず　難航していたようで……。": "Originally it was Gartlant alone that was\ngoing to conduct a survey here, but a lack\nof experts proved difficult..."
@@ -192,7 +192,7 @@
     "「そこで　アストルティアで\n　最先端の技術力を有する　ドルワーム研究院の\n　長である　この私が　招かれたというワケです。": "So that is why I, head of the the most\ntechnologically advanced institute in all of\nAstoltiaーthe Dolworm Research Instituteー\n<br>\nwas invited to be a part of this project."
   },
   "309193": {
-    "「これは　ジア・クト念晶体が使用していた\n　なんらかの装置だと　推測されますが\n　くわしいことは　わかっておりません……。": "We assume that this is some kind of device\nthat Dia Kut used, but we don't know exactly\nwhat it is or what it does..."
+    "「これは　ジア・クト念晶体が使用していた\n　なんらかの装置だと　推測されますが\n　くわしいことは　わかっておりません……。": "We assume that this is some kind of device\nthat the Dia Kut used, but we don't know\nexactly what it is or what it does..."
   },
   "309194": {
     "「彼らは　我々をはるかに　超越する\n　技術力を持った　生命体だったようですね。": "It seems they were lifeforms with a far\nsuperior level of technology compared to\nours."
@@ -273,10 +273,10 @@
     "「調べたところ　この装置は　遺跡にあったものと\n　対になっていて　問題なく使用できそうです。\n　これを使い　アストルティアに戻りましょう。": "After examining the device, I concluded that\nit seems to be a pair with the one found in\nthose ruins. It should still work, so let's\n<br>\nuse it to return to Astoltia."
   },
   "309220": {
-    "「では　あの装置は　ジア・クト念晶体が\n　使用していた　転送装置で\n　未知なる世界に　つながっていると？": "So you're saying that device is a transporter\nused by Dia Kut, and that it is connected\nto an unknown world?"
+    "「では　あの装置は　ジア・クト念晶体が\n　使用していた　転送装置で\n　未知なる世界に　つながっていると？": "So you're saying that device is a transporter\nused by the Dia Kut, and that it is connected\nto an unknown world?"
   },
   "309221": {
-    "「だとすると　その世界は　ジア・クト念晶体が\n　支配する　危険な地では　あるまいか。\n　結晶があるのも　確認したのだろう？": "If that's the case...then that world must be\na dangerous place ruled by Dia Kut. You\nconfirmed the presence of their crystals, yes?"
+    "「だとすると　その世界は　ジア・クト念晶体が\n　支配する　危険な地では　あるまいか。\n　結晶があるのも　確認したのだろう？": "If that's the case...then that world must be\na dangerous place ruled by the Dia Kut. You\nconfirmed the presence of their crystals, yes?"
   },
   "309222": {
     "「おそれながら　もし　そうであれば\n　周囲に　ジア・クト念晶体の\n　拠点なりがあるのが　自然ではないかと。": "Fear not. If that were the case, it'd only be\nnatural that a Dia Kut stronghold would be\nin the immediate vicinity."
@@ -357,7 +357,7 @@
     "「実力　人柄ともに　調査隊の一員として\n　これほどまでに　ふさわしい者は\n　他に　おらんだろう。": "I can think of no one more qualified to be a\nmember of this team, both in terms of\nability and character."
   },
   "309248": {
-    "「しかし……我が国を訪れるという\n　約束の期日は　とうに過ぎておるのに\n　いくら待てども　姿を見せないのだ。": "However...despite the promised deadline for\ncoming here has long passed, she still has\nyet to show herself here."
+    "「しかし……我が国を訪れるという\n　約束の期日は　とうに過ぎておるのに\n　いくら待てども　姿を見せないのだ。": "However...the promised deadline for\ncoming here has long passed, she still has\nyet to show herself here."
   },
   "309249": {
     "「あの勇者姫が　約束を違えるとは　信じがたい。\n　もしかすると　グランゼドーラで\n　何か　問題でも　起こったのかもしれぬ。": "It's hard for me to believe that she would\ndo that on purpose. Perhaps something has\ngone wrong over in Gran Zedora."
@@ -489,7 +489,7 @@
     "「ねっ　ねっ！　すごいでしょっ？\n　だから　あたしを　調査隊に……": "Well? Well?! Isn't it just amazing?\nThat's why you gotta let me join..."
   },
   "309292": {
-    "「でも　植物を成長させるだけでしょう？\n　たしかに　めずらしい技術ではありますが……。": "But its just to make plants grow, right? It is\ntrue that it's an unusual technique, but..."
+    "「でも　植物を成長させるだけでしょう？\n　たしかに　めずらしい技術ではありますが……。": "But it's just to make plants grow, right?\nWell, I won't deny that it's an unusual\ntechnique, but..."
   },
   "309293": {
     "「<pc>　お願い！　あたし　どーしても\n　いっしょに　行かなくちゃいけないのっ！\n　あたしを　調査隊に入れてよ！<yesno><close>": "Please, <pc>! I haaaave to go with\nyou, no matter what! Please let me join\nthe exploration team!<yesno><close>"
@@ -594,7 +594,7 @@
     "「そして……残る西の地は\n　<pc>隊長と　ポルテ殿\n　ふたりに　行っていただきます。": "And finally...the remaining west side I'll\nleave to <pc> and Porte."
   },
   "309327": {
-    "「わーい！\n　キミと　いっしょに行けるなんて　うれしい！\n　よろしくね　隊長！": "Yaaay! I'm happy I'm able to go along with\nyou! Come on, captain!"
+    "「わーい！\n　キミと　いっしょに行けるなんて　うれしい！\n　よろしくね　隊長！": "Yaaay! I'm happy I'm able to go along with\nyou! Come on, Captain!"
   },
   "309328": {
     "「各地で　何が待ち受けているか\n　わかりません。充分な備えをしてから\n　調査に　向かってください。": "There's no telling what lies in each\ndirection. Make sure to adequately prepare\nbefore you head out."
