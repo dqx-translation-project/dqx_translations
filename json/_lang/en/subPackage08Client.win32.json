@@ -102,7 +102,7 @@
     "呪文が暴走する確率を <%dB_renkin1>.<%dB_renkin2> %上げる 錬金レシピ。": "An alchemy recipe that increases the chance\nfor spells to go haywire by <%dB_renkin1>.<%dB_renkin2>%."
   },
   "1358": {
-    "おびえをガードする確率が\n<%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases the chance\nto guard against surprise attacks by <%dB_renkin1>%."
+    "おびえをガードする確率が\n<%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases\nfrighten resistance by <%dB_renkin1>%."
   },
   "1399": {
     "転びをガードする確率が\n<%dB_renkin1> %上がる 錬金レシピ。": "An alchemy recipe that increases the chance\nto guard against knockdown by <%dB_renkin1>%."
@@ -297,7 +297,7 @@
     "呪文ぼうそう率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Haywire Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "4349": {
-    "おびえガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Surprise Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+    "おびえガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Frighten Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "4393": {
     "転びガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Knockdown Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -690,7 +690,7 @@
     "誘うおどりガード+<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Sultry Dance Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
   },
   "8823": {
-    "おびえガード +100%": "Surprise Guard +100%"
+    "おびえガード +100%": "Frighten Guard +100%"
   },
   "8836": {
     "転びガード +100%": "Knockdown Guard +100%"
@@ -1215,7 +1215,7 @@
     "攻撃時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でマホ系解除": "Bounce Dispel Attack <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "17098": {
-    "おびえガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Surprise Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+    "おびえガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Frighten Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "17167": {
     "転びガード +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Knockdown Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
@@ -2211,7 +2211,7 @@
     "<%sB_renkin_nanto><%sB_item>に\n呪文ぼうそう率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%の\n錬金効果が付いた！": "Added the alchemy effect\nHaywire Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%\nto the <%sB_item>!"
   },
   "37002": {
-    "<%sB_renkin_nanto><%sB_item>に\nおびえガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の\n錬金効果が付いた！": "Added the alchemy effect\nSurprise Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%\nto the <%sB_item>!"
+    "<%sB_renkin_nanto><%sB_item>に\nおびえガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の\n錬金効果が付いた！": "Added the alchemy effect\nFrighten Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%\nto the <%sB_item>!"
   },
   "37078": {
     "<%sB_renkin_nanto><%sB_item>に\n転びガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の\n錬金効果が付いた！": "Added the alchemy effect\nKnockdown Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%\nto the <%sB_item>!"
@@ -2424,7 +2424,7 @@
     "なんと　<%sB_item>に　付いていた\n呪文ぼうそう率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%の効果が": "What luck! The\nHaywire Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%\neffect added to the <%sB_item>..."
   },
   "42414": {
-    "なんと　<%sB_item>に　付いていた\nおびえガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の効果が": "What luck! The\nSurprise Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%\neffect added to the <%sB_item>..."
+    "なんと　<%sB_item>に　付いていた\nおびえガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の効果が": "What luck! The\nFrighten Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%\neffect added to the <%sB_item>..."
   },
   "42486": {
     "なんと　<%sB_item>に　付いていた\n転びガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の効果が": "What luck! The\nKnockdown Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%\neffect added to the <%sB_item>..."
@@ -2637,7 +2637,7 @@
     "呪文ぼうそう率 +<%sB_renkin3>.<%sB_renkin4><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_decimalpoint2><%sB_renkindiff4><%sB_kokka2>%になった！": "...becomes Haywire Rate +<%sB_renkin3>.<%sB_renkin4><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_decimalpoint2><%sB_renkindiff4><%sB_kokka2>%!"
   },
   "46782": {
-    "おびえガード +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%になった！": "...becomes Surprise Guard +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%!"
+    "おびえガード +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%になった！": "...becomes Frighten Guard +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%!"
   },
   "46836": {
     "転びガード +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%になった！": "...becomes Knockdown Guard +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%!"
@@ -2850,7 +2850,7 @@
     "呪文ぼうそう率 +<%sB_renkin3>.<%sB_renkin4><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_decimalpoint2><%sB_renkindiff4><%sB_kokka2>%に　パワーアップ！": "...powers up to\nHaywire Rate +<%sB_renkin3>.<%sB_renkin4><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_decimalpoint2><%sB_renkindiff4><%sB_kokka2>%!"
   },
   "51135": {
-    "おびえガード +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%に　パワーアップ！": "...powers up to\nSurprise Guard +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%!"
+    "おびえガード +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%に　パワーアップ！": "...powers up to\nFrighten Guard +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%!"
   },
   "51195": {
     "転びガード +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%に　パワーアップ！": "...powers up to\nKnockdown Guard +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>%!"
@@ -2904,214 +2904,214 @@
     "銀河の加護 +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>に　パワーアップ！": "...powers up to\nGalaxy Blessing +<%sB_renkin3><%sB_kakko2><%sB_plusminus2><%sB_renkindiff3><%sB_kokka2>!"
   },
   "52257": {
-    "こうげき力 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nこうげき力 +<%sB_renkin3>が　付いてしまった……。": "Attack +<%sB_renkin1> alchemy failed,\nand Attack +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "こうげき力 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nこうげき力 +<%sB_renkin3>が　付いてしまった……。": "Attack +<%sB_renkin1> alchemy fails,\nand Attack +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52327": {
-    "しゅび力 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nしゅび力 +<%sB_renkin3>が　付いてしまった……。": "Defense +<%sB_renkin1> alchemy failed,\nand Defense +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "しゅび力 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nしゅび力 +<%sB_renkin3>が　付いてしまった……。": "Defense +<%sB_renkin1> alchemy fails,\nand Defense +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52394": {
-    "きようさ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nきようさ +<%sB_renkin3>が　付いてしまった……。": "Deftness +<%sB_renkin1> alchemy failed,\nand Deftness +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "きようさ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nきようさ +<%sB_renkin3>が　付いてしまった……。": "Deftness +<%sB_renkin1> alchemy fails,\nand Deftness +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52461": {
-    "すばやさ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nすばやさ +<%sB_renkin3>が　付いてしまった……。": "Agility +<%sB_renkin1> alchemy failed,\nand Agility +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "すばやさ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nすばやさ +<%sB_renkin3>が　付いてしまった……。": "Agility +<%sB_renkin1> alchemy fails,\nand Agility +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52528": {
-    "おしゃれさ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nおしゃれさ +<%sB_renkin3>が　付いてしまった……。": "Style +<%sB_renkin1> alchemy failed,\nand Style +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "おしゃれさ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nおしゃれさ +<%sB_renkin3>が　付いてしまった……。": "Style +<%sB_renkin1> alchemy fails,\nand Style +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52598": {
-    "こうげき魔力 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nこうげき魔力 +<%sB_renkin3>が　付いてしまった……。": "Magical Might +<%sB_renkin1> alchemy failed,\nand Magical Might +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "こうげき魔力 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nこうげき魔力 +<%sB_renkin3>が　付いてしまった……。": "Magical Might +<%sB_renkin1> alchemy fails,\nand Magical Might +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52671": {
-    "かいふく魔力 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nかいふく魔力 +<%sB_renkin3>が　付いてしまった……。": "Magical Mending +<%sB_renkin1> alchemy failed,\nand Magical Mending +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "かいふく魔力 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nかいふく魔力 +<%sB_renkin3>が　付いてしまった……。": "Magical Mending +<%sB_renkin1> alchemy fails,\nand Magical Mending +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52744": {
-    "さいだいＨＰ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nさいだいＨＰ +<%sB_renkin3>が　付いてしまった……。": "Max HP +<%sB_renkin1> alchemy failed,\nand Max HP +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "さいだいＨＰ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nさいだいＨＰ +<%sB_renkin3>が　付いてしまった……。": "Max HP +<%sB_renkin1> alchemy fails,\nand Max HP +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52817": {
-    "さいだいＭＰ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nさいだいＭＰ +<%sB_renkin3>が　付いてしまった……。": "Max MP +<%sB_renkin1> alchemy failed,\nand Max MP +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "さいだいＭＰ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nさいだいＭＰ +<%sB_renkin3>が　付いてしまった……。": "Max MP +<%sB_renkin1> alchemy fails,\nand Max MP +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52890": {
-    "おもさ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nおもさ +<%sB_renkin3>が　付いてしまった……。": "Weight +<%sB_renkin1> alchemy failed,\nand Weight +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "おもさ +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\nおもさ +<%sB_renkin3>が　付いてしまった……。": "Weight +<%sB_renkin1> alchemy fails,\nand Weight +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "52954": {
-    "不意をつく確率 +<%sB_renkin1>%<ban>の　錬金に失敗して\n<%sB_item>に\n不意をつく確率 +<%sB_renkin3>%<ban>が　付いてしまった……。": "Surprise Rate +<%sB_renkin1> (PvP×) alchemy failed,\nand Surprise Rate +<%sB_renkin3> (PvP×)\nwas added to the <%sB_item>..."
+    "不意をつく確率 +<%sB_renkin1>%<ban>の　錬金に失敗して\n<%sB_item>に\n不意をつく確率 +<%sB_renkin3>%<ban>が　付いてしまった……。": "Surprise Rate +<%sB_renkin1> (PvP×) alchemy fails,\nand Surprise Rate +<%sB_renkin3> (PvP×)\nis added to the <%sB_item>..."
   },
   "53036": {
-    "身かわし率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n身かわし率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Dodge Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy failed,\nand Dodge Rate +<%sB_renkin3>.<%sB_renkin4>%\nwas added to the <%sB_item>..."
+    "身かわし率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n身かわし率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Dodge Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy fails,\nand Dodge Rate +<%sB_renkin3>.<%sB_renkin4>%\nis added to the <%sB_item>..."
   },
   "53121": {
-    "盾ガード率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n盾ガード率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Block Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy failed,\nand Block Rate +<%sB_renkin3>.<%sB_renkin4>%\nwas added to the <%sB_item>..."
+    "盾ガード率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n盾ガード率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Block Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy fails,\nand Block Rate +<%sB_renkin3>.<%sB_renkin4>%\nis added to the <%sB_item>..."
   },
   "53206": {
-    "かいしん率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\nかいしん率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Critical Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy failed,\nand Critical Rate +<%sB_renkin3>.<%sB_renkin4>%\nwas added to the <%sB_item>..."
+    "かいしん率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\nかいしん率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Critical Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy fails,\nand Critical Rate +<%sB_renkin3>.<%sB_renkin4>%\nis added to the <%sB_item>..."
   },
   "53291": {
-    "呪文発動速度 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n呪文発動速度 +<%sB_renkin3>%が　付いてしまった……。": "Spellcasting Speed +<%sB_renkin1>% alchemy failed,\nand Spellcasting Speed +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "呪文発動速度 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n呪文発動速度 +<%sB_renkin3>%が　付いてしまった……。": "Spellcasting Speed +<%sB_renkin1>% alchemy fails,\nand Spellcasting Speed +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "53365": {
-    "ＭＰ吸収率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\nＭＰ吸収率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "MP Absorption +<%sB_renkin1>.<%sB_renkin2>% alchemy failed,\nand MP Absorption +<%sB_renkin3>.<%sB_renkin4>%\nwas added to the <%sB_item>..."
+    "ＭＰ吸収率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\nＭＰ吸収率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "MP Absorption +<%sB_renkin1>.<%sB_renkin2>% alchemy fails,\nand MP Absorption +<%sB_renkin3>.<%sB_renkin4>%\nis added to the <%sB_item>..."
   },
   "53450": {
-    "ブレス耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nブレス耐性 +<%sB_renkin3>%が　付いてしまった……。": "Breath Resistance +<%sB_renkin1>% alchemy failed,\nand Breath Resistance +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "ブレス耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nブレス耐性 +<%sB_renkin3>%が　付いてしまった……。": "Breath Resistance +<%sB_renkin1>% alchemy fails,\nand Breath Resistance +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "53521": {
-    "攻撃呪文耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n攻撃呪文耐性 +<%sB_renkin3>%が　付いてしまった……。": "Spell Resistance +<%sB_renkin1>% alchemy failed,\nand Spell Resistance +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃呪文耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n攻撃呪文耐性 +<%sB_renkin3>%が　付いてしまった……。": "Spell Resistance +<%sB_renkin1>% alchemy fails,\nand Spell Resistance +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "53595": {
-    "眠りガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n眠りガード +<%sB_renkin3>%が　付いてしまった……。": "Sleep Guard +<%sB_renkin1>% alchemy failed,\nand Sleep Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "眠りガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n眠りガード +<%sB_renkin3>%が　付いてしまった……。": "Sleep Guard +<%sB_renkin1>% alchemy fails,\nand Sleep Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "53666": {
-    "マヒガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nマヒガード +<%sB_renkin3>%が　付いてしまった……。": "Paralyze Guard +<%sB_renkin1>% alchemy failed,\nand Paralyze Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "マヒガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nマヒガード +<%sB_renkin3>%が　付いてしまった……。": "Paralyze Guard +<%sB_renkin1>% alchemy fails,\nand Paralyze Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "53737": {
-    "混乱ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n混乱ガード +<%sB_renkin3>%が　付いてしまった……。": "Confuse Guard +<%sB_renkin1>% alchemy failed,\nand Confuse Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "混乱ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n混乱ガード +<%sB_renkin3>%が　付いてしまった……。": "Confuse Guard +<%sB_renkin1>% alchemy fails,\nand Confuse Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "53808": {
-    "封印ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n封印ガード +<%sB_renkin3>%が　付いてしまった……。": "Seal Guard +<%sB_renkin1>% alchemy failed,\nand Seal Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "封印ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n封印ガード +<%sB_renkin3>%が　付いてしまった……。": "Seal Guard +<%sB_renkin1>% alchemy fails,\nand Seal Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "53879": {
-    "幻惑ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n幻惑ガード +<%sB_renkin3>%が　付いてしまった……。": "Dazzle Guard +<%sB_renkin1>% alchemy failed,\nand Dazzle Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "幻惑ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n幻惑ガード +<%sB_renkin3>%が　付いてしまった……。": "Dazzle Guard +<%sB_renkin1>% alchemy fails,\nand Dazzle Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "53950": {
-    "呪いガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n呪いガード +<%sB_renkin3>%が　付いてしまった……。": "Curse Guard +<%sB_renkin1>% alchemy failed,\nand Curse Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "呪いガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n呪いガード +<%sB_renkin3>%が　付いてしまった……。": "Curse Guard +<%sB_renkin1>% alchemy fails,\nand Curse Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54021": {
-    "即死ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n即死ガード +<%sB_renkin3>%が　付いてしまった……。": "Insta-Death Guard +<%sB_renkin1>% alchemy failed,\nand Insta-Death Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "即死ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n即死ガード +<%sB_renkin3>%が　付いてしまった……。": "Insta-Death Guard +<%sB_renkin1>% alchemy fails,\nand Insta-Death Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54092": {
-    "どくガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nどくガード +<%sB_renkin3>%が　付いてしまった……。": "Poison Guard +<%sB_renkin1>% alchemy failed,\nand Poison Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "どくガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nどくガード +<%sB_renkin3>%が　付いてしまった……。": "Poison Guard +<%sB_renkin1>% alchemy fails,\nand Poison Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54163": {
-    "休みガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n休みガード +<%sB_renkin3>%が　付いてしまった……。": "Stun Guard +<%sB_renkin1>% alchemy failed,\nand Stun Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "休みガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n休みガード +<%sB_renkin3>%が　付いてしまった……。": "Stun Guard +<%sB_renkin1>% alchemy fails,\nand Stun Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54234": {
-    "見とれるガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n見とれるガード +<%sB_renkin3>%が　付いてしまった……。": "Enthrall Guard +<%sB_renkin1>% alchemy failed,\nand Enthrall Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "見とれるガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n見とれるガード +<%sB_renkin3>%が　付いてしまった……。": "Enthrall Guard +<%sB_renkin1>% alchemy fails,\nand Enthrall Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54311": {
-    "炎耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n炎耐性 +<%sB_renkin3>%が　付いてしまった……。": "Fire Resistance +<%sB_renkin1>% alchemy failed,\nand Fire Resistance +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "炎耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n炎耐性 +<%sB_renkin3>%が　付いてしまった……。": "Fire Resistance +<%sB_renkin1>% alchemy fails,\nand Fire Resistance +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54376": {
-    "氷耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n氷耐性 +<%sB_renkin3>%が　付いてしまった……。": "Ice Resistance +<%sB_renkin1>% alchemy failed,\nand Ice Resistance +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "氷耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n氷耐性 +<%sB_renkin3>%が　付いてしまった……。": "Ice Resistance +<%sB_renkin1>% alchemy fails,\nand Ice Resistance +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54441": {
-    "風耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n風耐性 +<%sB_renkin3>%が　付いてしまった……。": "Wind Resistance +<%sB_renkin1>% alchemy failed,\nand Wind Resistance +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "風耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n風耐性 +<%sB_renkin3>%が　付いてしまった……。": "Wind Resistance +<%sB_renkin1>% alchemy fails,\nand Wind Resistance +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54506": {
-    "雷耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n雷耐性 +<%sB_renkin3>%が　付いてしまった……。": "Thunder Resistance +<%sB_renkin1>% alchemy failed,\nand Thunder Resistance +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "雷耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n雷耐性 +<%sB_renkin3>%が　付いてしまった……。": "Thunder Resistance +<%sB_renkin1>% alchemy fails,\nand Thunder Resistance +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54571": {
-    "土耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n土耐性 +<%sB_renkin3>%が　付いてしまった……。": "Earth Resistance +<%sB_renkin1>% alchemy failed,\nand Earth Resistance +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "土耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n土耐性 +<%sB_renkin3>%が　付いてしまった……。": "Earth Resistance +<%sB_renkin1>% alchemy fails,\nand Earth Resistance +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54636": {
-    "闇耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n闇耐性 +<%sB_renkin3>%が　付いてしまった……。": "Dark Resistance +<%sB_renkin1>% alchemy failed,\nand Dark Resistance +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "闇耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n闇耐性 +<%sB_renkin3>%が　付いてしまった……。": "Dark Resistance +<%sB_renkin1>% alchemy fails,\nand Dark Resistance +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54701": {
-    "光耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n光耐性 +<%sB_renkin3>%が　付いてしまった……。": "Light Resistance +<%sB_renkin1>% alchemy failed,\nand Light Resistance +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "光耐性 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n光耐性 +<%sB_renkin3>%が　付いてしまった……。": "Light Resistance +<%sB_renkin1>% alchemy fails,\nand Light Resistance +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54766": {
-    "ＭＰ吸収ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nＭＰ吸収ガード +<%sB_renkin3>%が　付いてしまった……。": "MP Absorb Guard +<%sB_renkin1>% alchemy failed,\nand MP Absorb Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "ＭＰ吸収ガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nＭＰ吸収ガード +<%sB_renkin3>%が　付いてしまった……。": "MP Absorb Guard +<%sB_renkin1>% alchemy fails,\nand MP Absorb Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "54843": {
-    "ＭＰ消費しない率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\nＭＰ消費しない率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった。": "MP Saver +<%sB_renkin1>.<%sB_renkin2>% alchemy failed,\nand MP Saver +<%sB_renkin3>.<%sB_renkin4>%\nwas added to the <%sB_item>..."
+    "ＭＰ消費しない率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\nＭＰ消費しない率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった。": "MP Saver +<%sB_renkin1>.<%sB_renkin2>% alchemy fails,\nand MP Saver +<%sB_renkin3>.<%sB_renkin4>%\nis added to the <%sB_item>..."
   },
   "54934": {
-    "通常ドロップ率 <%sB_renkin1>.<%sB_renkin2>倍の　錬金に失敗して\n<%sB_item>に\n通常ドロップ率 <%sB_renkin3>.<%sB_renkin4>倍が　付いてしまった……。": "Normal Drop Rate <%sB_renkin1>.<%sB_renkin2>x alchemy failed,\nand Normal Drop Rate <%sB_renkin3>.<%sB_renkin4>x\nwas added to the <%sB_item>..."
+    "通常ドロップ率 <%sB_renkin1>.<%sB_renkin2>倍の　錬金に失敗して\n<%sB_item>に\n通常ドロップ率 <%sB_renkin3>.<%sB_renkin4>倍が　付いてしまった……。": "Normal Drop Rate <%sB_renkin1>.<%sB_renkin2>x alchemy fails,\nand Normal Drop Rate <%sB_renkin3>.<%sB_renkin4>x\nis added to the <%sB_item>..."
   },
   "55026": {
-    "攻撃時 <%sB_renkin1>%でどくの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でどくが　付いてしまった……。": "Poison Attack <%sB_renkin1>% alchemy failed,\nand Poison Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%でどくの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でどくが　付いてしまった……。": "Poison Attack <%sB_renkin1>% alchemy fails,\nand Poison Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55099": {
-    "攻撃時 <%sB_renkin1>%で眠りの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%で眠りが　付いてしまった……。": "Sleep Attack <%sB_renkin1>% alchemy failed,\nand Sleep Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%で眠りの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%で眠りが　付いてしまった……。": "Sleep Attack <%sB_renkin1>% alchemy fails,\nand Sleep Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55172": {
-    "攻撃時 <%sB_renkin1>%でマヒの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でマヒが　付いてしまった……。": "Paralyze Attack <%sB_renkin1>% alchemy failed,\nand Paralyze Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%でマヒの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でマヒが　付いてしまった……。": "Paralyze Attack <%sB_renkin1>% alchemy fails,\nand Paralyze Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55245": {
-    "攻撃時 <%sB_renkin1>%で混乱の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%で混乱が　付いてしまった……。": "Confuse Attack <%sB_renkin1>% alchemy failed,\nand Confuse Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%で混乱の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%で混乱が　付いてしまった……。": "Confuse Attack <%sB_renkin1>% alchemy fails,\nand Confuse Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55318": {
-    "攻撃時 <%sB_renkin1>%で幻惑の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%で幻惑が　付いてしまった……。": "Dazzle Attack <%sB_renkin1>% alchemy failed,\nand Dazzle Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%で幻惑の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%で幻惑が　付いてしまった……。": "Dazzle Attack <%sB_renkin1>% alchemy fails,\nand Dazzle Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55391": {
-    "攻撃時 <%sB_renkin1>%で魅了の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%で魅了が　付いてしまった……。": "Charm Attack <%sB_renkin1>% alchemy failed,\nand Charm Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%で魅了の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%で魅了が　付いてしまった……。": "Charm Attack <%sB_renkin1>% alchemy fails,\nand Charm Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55464": {
-    "攻撃時 <%sB_renkin1>%でマホトーンの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でマホトーンが　付いてしまった……。": "Fizzle Attack <%sB_renkin1>% alchemy failed,\nand Fizzle Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%でマホトーンの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でマホトーンが　付いてしまった……。": "Fizzle Attack <%sB_renkin1>% alchemy fails,\nand Fizzle Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55546": {
-    "攻撃時 <%sB_renkin1>%でヘナトスの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でヘナトスが　付いてしまった……。": "Blunt Attack <%sB_renkin1>% alchemy failed,\nand Blunt Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%でヘナトスの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でヘナトスが　付いてしまった……。": "Blunt Attack <%sB_renkin1>% alchemy fails,\nand Blunt Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55625": {
-    "攻撃時 <%sB_renkin1>%でルカニの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でルカニが　付いてしまった……。": "Sap Attack <%sB_renkin1>% alchemy failed,\nand Sap Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%でルカニの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でルカニが　付いてしまった……。": "Sap Attack <%sB_renkin1>% alchemy fails,\nand Sap Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55701": {
-    "攻撃時 <%sB_renkin1>%でリホ系解除の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でリホ系解除が　付いてしまった……。": "Reheal Dispel Attack <%sB_renkin1>% alchemy failed,\nand Reheal Dispel Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%でリホ系解除の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でリホ系解除が　付いてしまった……。": "Reheal Dispel Attack <%sB_renkin1>% alchemy fails,\nand Reheal Dispel Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55783": {
-    "攻撃時 <%sB_renkin1>%でマホ系解除の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でマホ系解除が　付いてしまった……。": "Bounce Dispel Attack <%sB_renkin1>% alchemy failed,\nand Bounce Dispel Attack <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>%でマホ系解除の　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>%でマホ系解除が　付いてしまった……。": "Bounce Dispel Attack <%sB_renkin1>% alchemy fails,\nand Bounce Dispel Attack <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "55865": {
-    "移動速度 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n移動速度 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Movement Speed +<%sB_renkin1>.<%sB_renkin2>% alchemy failed,\nand Movement Speed +<%sB_renkin3>.<%sB_renkin4>%\nwas added to the <%sB_item>..."
+    "移動速度 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n移動速度 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Movement Speed +<%sB_renkin1>.<%sB_renkin2>% alchemy fails,\nand Movement Speed +<%sB_renkin3>.<%sB_renkin4>%\nis added to the <%sB_item>..."
   },
   "55947": {
-    "武器ガード率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n武器ガード率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Parry Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy failed,\nand Parry Rate +<%sB_renkin3>.<%sB_renkin4>%\nwas added to the <%sB_item>..."
+    "武器ガード率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n武器ガード率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Parry Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy fails,\nand Parry Rate +<%sB_renkin3>.<%sB_renkin4>%\nis added to the <%sB_item>..."
   },
   "56035": {
-    "呪文ぼうそう率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n呪文ぼうそう率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Haywire Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy failed,\nand Haywire Rate +<%sB_renkin3>.<%sB_renkin4>%\nwas added to the <%sB_item>..."
+    "呪文ぼうそう率 +<%sB_renkin1>.<%sB_renkin2>%の　錬金に失敗して\n<%sB_item>に\n呪文ぼうそう率 +<%sB_renkin3>.<%sB_renkin4>%が　付いてしまった……。": "Haywire Rate +<%sB_renkin1>.<%sB_renkin2>% alchemy fails,\nand Haywire Rate +<%sB_renkin3>.<%sB_renkin4>%\nis added to the <%sB_item>..."
   },
   "56126": {
-    "おびえガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nおびえガード +<%sB_renkin3>%が　付いてしまった……。": "Surprise Guard +<%sB_renkin1>% alchemy failed,\nand Surprise Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "おびえガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nおびえガード +<%sB_renkin3>%が　付いてしまった……。": "Frighten Guard +<%sB_renkin1>% alchemy fails,\nand Frighten Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "56200": {
-    "転びガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n転びガード +<%sB_renkin3>%が　付いてしまった……。": "Knockdown Guard +<%sB_renkin1>% alchemy failed,\nand Knockdown Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "転びガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n転びガード +<%sB_renkin3>%が　付いてしまった……。": "Knockdown Guard +<%sB_renkin1>% alchemy fails,\nand Knockdown Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "56271": {
-    "しばりガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nしばりガード +<%sB_renkin3>%が　付いてしまった……。": "Bind Guard +<%sB_renkin1>% alchemy failed,\nand Bind Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "しばりガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\nしばりガード +<%sB_renkin3>%が　付いてしまった……。": "Bind Guard +<%sB_renkin1>% alchemy fails,\nand Bind Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "56345": {
-    "笑いガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n笑いガード +<%sB_renkin3>%が　付いてしまった……。": "Laugh Guard +<%sB_renkin1>% alchemy failed,\nand Laugh Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "笑いガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n笑いガード +<%sB_renkin3>%が　付いてしまった……。": "Laugh Guard +<%sB_renkin1>% alchemy fails,\nand Laugh Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "56416": {
-    "踊らされガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n踊らされガード +<%sB_renkin3>%が　付いてしまった……。": "Dance Guard +<%sB_renkin1>% alchemy failed,\nand Dance Guard +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "踊らされガード +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n踊らされガード +<%sB_renkin3>%が　付いてしまった……。": "Dance Guard +<%sB_renkin1>% alchemy fails,\nand Dance Guard +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "56493": {
-    "レアドロップ率 <%sB_renkin1>.<%sB_renkin2>倍の　錬金に失敗して\n<%sB_item>に\nレアドロップ率 <%sB_renkin3>.<%sB_renkin4>倍が　付いてしまった……。": "Rare Drop Rate <%sB_renkin1>.<%sB_renkin2>x alchemy failed,\nand Rare Drop Rate <%sB_renkin3>.<%sB_renkin4>x\nwas added to the <%sB_item>..."
+    "レアドロップ率 <%sB_renkin1>.<%sB_renkin2>倍の　錬金に失敗して\n<%sB_item>に\nレアドロップ率 <%sB_renkin3>.<%sB_renkin4>倍が　付いてしまった……。": "Rare Drop Rate <%sB_renkin1>.<%sB_renkin2>x alchemy fails,\nand Rare Drop Rate <%sB_renkin3>.<%sB_renkin4>x\nis added to the <%sB_item>..."
   },
   "56585": {
-    "攻撃時 <%sB_renkin1>.<%sB_renkin2>%で急所突きの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>.<%sB_renkin4>%で急所突きが　付いてしまった……。": "Pressure Pointer Attack <%sB_renkin1>.<%sB_renkin2>% alchemy failed,\nand Pressure Pointer Attack <%sB_renkin3>.<%sB_renkin4>%\nwas added to the <%sB_item>..."
+    "攻撃時 <%sB_renkin1>.<%sB_renkin2>%で急所突きの　錬金に失敗して\n<%sB_item>に\n攻撃時 <%sB_renkin3>.<%sB_renkin4>%で急所突きが　付いてしまった……。": "Pressure Pointer Attack <%sB_renkin1>.<%sB_renkin2>% alchemy fails,\nand Pressure Pointer Attack <%sB_renkin3>.<%sB_renkin4>%\nis added to the <%sB_item>..."
   },
   "56678": {
-    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%で盾ガード率上昇が　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy failed,\nand Starting Block Rate Up <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%で盾ガード率上昇が　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy fails,\nand Starting Block Rate Up <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "56766": {
-    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%で会心率上昇が　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy failed,\nand Starting Critical Rate Up <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%で会心率上昇が　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy fails,\nand Starting Critical Rate Up <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "56851": {
-    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%でピオラが　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy failed,\nand Starting Accelerate <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%でピオラが　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy fails,\nand Starting Accelerate <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "56933": {
-    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%でスカラが　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy failed,\nand Starting Buff <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%でスカラが　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy fails,\nand Starting Buff <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "57015": {
-    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%でマホキテが　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy failed,\nand Starting Absorb Magic <%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "開戦時 <%sB_renkin1>%で盾ガード率上昇の　錬金に失敗して\n<%sB_item>に\n開戦時 <%sB_renkin3>%でマホキテが　付いてしまった……。": "Starting Block Rate Up <%sB_renkin1>% alchemy fails,\nand Starting Absorb Magic <%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "57098": {
-    "星天率 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n星天率 +<%sB_renkin3>%が　付いてしまった……。": "Star Rate +<%sB_renkin1>% alchemy failed,\nand Star Rate +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "星天率 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n星天率 +<%sB_renkin3>%が　付いてしまった……。": "Star Rate +<%sB_renkin1>% alchemy fails,\nand Star Rate +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "57163": {
-    "晴天率 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n晴天率 +<%sB_renkin3>%が　付いてしまった……。": "Sun Rate +<%sB_renkin1>% alchemy failed,\nand Sun Rate +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "晴天率 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n晴天率 +<%sB_renkin3>%が　付いてしまった……。": "Sun Rate +<%sB_renkin1>% alchemy fails,\nand Sun Rate +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "57228": {
-    "星々の加護 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\n星々の加護 +<%sB_renkin3>が　付いてしまった……。": "Star Blessing +<%sB_renkin1> alchemy failed,\nand Star Blessing +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "星々の加護 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\n星々の加護 +<%sB_renkin3>が　付いてしまった……。": "Star Blessing +<%sB_renkin1> alchemy fails,\nand Star Blessing +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "57298": {
-    "誠意率 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n誠意率 +<%sB_renkin3>%が　付いてしまった……。": "Faith Rate +<%sB_renkin1>% alchemy failed,\nand Faith Rate +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "誠意率 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n誠意率 +<%sB_renkin3>%が　付いてしまった……。": "Faith Rate +<%sB_renkin1>% alchemy fails,\nand Faith Rate +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "57363": {
-    "愛情率 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n愛情率 +<%sB_renkin3>%が　付いてしまった……。": "Love Rate +<%sB_renkin1>% alchemy failed,\nand Love Rate +<%sB_renkin3>%\nwas added to the <%sB_item>..."
+    "愛情率 +<%sB_renkin1>%の　錬金に失敗して\n<%sB_item>に\n愛情率 +<%sB_renkin3>%が　付いてしまった……。": "Love Rate +<%sB_renkin1>% alchemy fails,\nand Love Rate +<%sB_renkin3>%\nis added to the <%sB_item>..."
   },
   "57428": {
-    "銀河の加護 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\n銀河の加護 +<%sB_renkin3>が　付いてしまった……。": "Galaxy Blessing +<%sB_renkin1> alchemy failed,\nand Galaxy Blessing +<%sB_renkin3>\nwas added to the <%sB_item>..."
+    "銀河の加護 +<%sB_renkin1>の　錬金に失敗して\n<%sB_item>に\n銀河の加護 +<%sB_renkin3>が　付いてしまった……。": "Galaxy Blessing +<%sB_renkin1> alchemy fails,\nand Galaxy Blessing +<%sB_renkin3>\nis added to the <%sB_item>..."
   },
   "57498": {
     "リナーシェ召喚を　おぼえる": "Learn Call Linashe"
@@ -3627,7 +3627,7 @@
     "呪文ぼうそう率 +？%": "Haywire Rate +?%"
   },
   "61203": {
-    "おびえガード +？%": "Surprise Guard +?%"
+    "おびえガード +？%": "Frighten Guard +?%"
   },
   "61216": {
     "転びガード +？%": "Knockdown Guard +?%"
