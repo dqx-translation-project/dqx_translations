@@ -567,13 +567,13 @@
     "「登録をやめても　いいかしら？\n<yesno><break>": "Cancel registration?\n<yesno><break>"
   },
   "46112": {
-    "「<%sM_pc>は　フレンドなんだな。\n　だったら　無料で紹介できるから\n　仲間にしたい時間を　選んでくれるかい？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "Looks like <%sM_pc>'s your friend.\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
+    "「<%sM_pc>は　フレンドなんだな。\n　だったら　無料で紹介できるから\n　仲間にしたい時間を　選んでくれるかい？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>Looks like <%sM_pc>'s your friend.\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "46113": {
     "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
   },
   "46114": {
-    "「<%sM_pc>さんは　フレンドなのね？\n　だったら　無料で紹介できるので\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<%sM_pc>'s your friend?\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
+    "「<%sM_pc>さんは　フレンドなのね？\n　だったら　無料で紹介できるので\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0><%sM_pc>'s your friend?\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "47538": {
     "「<%sM_pc>は　こんな感じだな。\n<break>": "<%sM_pc> has this feeling...<break>"
@@ -702,7 +702,7 @@
     "<se_nots System 7><%sM_pc>との　ダブルすれちがい達成！\nダブルすれちがいポイント上限のため\nポイントは　かくとくできませんでした。": "<se_nots System 7>You have achieved a double pass with\n<%sM_pc>! Due to the double pass-\nby point limit, points cannot be acquired..."
   },
   "54582": {
-    "「<%sM_pc>は　<%nL_Time>時間につき\n　<%nL_Spt_gold>ゴールドの紹介料がかかるが\n　仲間にしたい時間を　選んでくれ。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "Hiring <%sM_pc> will cost <%dL_Spt_gold> Gold per\n<%dL_Time> hours. Please choose how long you'd\nlike to hire them for.\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
+    "「<%sM_pc>は　<%nL_Time>時間につき\n　<%nL_Spt_gold>ゴールドの紹介料がかかるが\n　仲間にしたい時間を　選んでくれ。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>Hiring <%sM_pc> will cost <%dL_Spt_gold> Gold\nper <%dL_Time> hours. Please choose how long\nyou'd like to hire them for.\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "54583": {
     "「よし　わかった。\n　今は特訓中のようだが　冒険を中断して\n　サポート仲間に　登録するんだな。\n<br>\n「サポート仲間に登録したら\n　サポート仲間以外の仲間とは　ここで別れて\n　冒険を中断するが　それでいいんだな？\n<yesno><break>": "Okay, I... Now, I know you're in training,\nbut I'm gonna have to break off the adventure\nand sign you up for a support group... I'm\n<br>\ngonna sign up as a support buddy, and then\nI'm gonna leave my non-support buddies here,\nand I'm gonna stop the adventure, is that\n<br>\nokay?<yesno><break>"
@@ -720,7 +720,7 @@
     "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな？\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもない。\n<br>\n「それじゃあ　冒険を中断して\n　サポート仲間に　登録していいな？\n<yesno><break>": "Okay, I... You're going to stop your\nadventure and sign up for a support group,\nright? If you become a support companion, and\n<br>\nsomeone joins you, you'll earn experience and\ngold while you rest. And of course, they\ncan't use your stuff or steal your gear. I\n<br>\nmean, what's the harm in signing up? So, can\nwe stop the adventure and sign up for the\nsupport group?<yesno><break>"
   },
   "54588": {
-    "「<%sM_pc>さんは　<%nL_Time>時間につき\n　<%nL_Spt_gold>ゴールドの紹介料がかかるけど\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "Hiring <%sM_pc> will cost <%dL_Spt_gold> Gold per\n<%dL_Time> hours. Please choose how long you'd\nlike to hire them for.\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
+    "「<%sM_pc>さんは　<%nL_Time>時間につき\n　<%nL_Spt_gold>ゴールドの紹介料がかかるけど\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>Hiring <%sM_pc> will cost <%dL_Spt_gold> Gold\nper <%dL_Time> hours. Please choose how long\nyou'd like to hire them for.\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "54589": {
     "「わかったわ。今は　特訓中みたいだけど\n　冒険を中断して　サポート仲間に登録するのね。\n<br>\n「サポート仲間に登録したら\n　サポート仲間以外の仲間とは　ここで別れて\n　冒険を中断するけど　それでいいの？\n<yesno><break>": "I don't know. I know you're training right\nnow, but I'm gonna have to break off the\nadventure and sign you up for a support\n<br>\ngroup... If I sign up as a support buddy,\nI'll leave the rest of the team here and stop\nthe adventure, is that okay?<yesno><break>"
@@ -909,13 +909,13 @@
     "「あら？　あなた　チームに入っていないようね。\n　チームに入ると　楽しいおしゃべりをしたり\n　冒険を助けあったりする　仲間ができるわ！\n<br>\n「よければ　おすすめのチームを紹介するわ。\n　チームのコメントや　チーム名から\n　ピンときた　チームを選んでみてね！\n<br>\n「他にも　まだまだ　たくさんのチームがあるから\n　酒場や町の入り口にある　まちかど掲示板の\n　『チームをさがす』から　チェックよ！\n<end>": "What? You're not on a team... Well, when you\njoin a team, you get a bunch of people to\nchat with and help you on your adventures! If\n<br>\nyou'd like, I can recommend some teams...\nChoose a team based on their comments or\ntheir name. There are many more teams to\n<br>\nchoose from, so check out the \"Find a Team\"\nsection of the town bulletin board in the\ntavern or at the entrance to town!<end>"
   },
   "131074": {
-    "「<%sM_pc>は　レベル８０以下のようだな。\n　だったら　無料で紹介できるから\n　仲間にしたい時間を　選んでくれるかい？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "You're under level 80, I see.\nIn that case, the hiring cost'll be free.\nHow long would like to hire for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
+    "「<%sM_pc>は　レベル８０以下のようだな。\n　だったら　無料で紹介できるから\n　仲間にしたい時間を　選んでくれるかい？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>You're under level 80, I see.\nIn that case, the hiring cost'll be free.\nHow long would like to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "131075": {
     "": ""
   },
   "131076": {
-    "「<%sM_pc>さんは　レベル８０以下のようね。\n　だったら　無料で紹介できるので\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "You're under level 80?\nIn that case, the hiring cost is free.\nHow long would like to hire for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
+    "「<%sM_pc>さんは　レベル８０以下のようね。\n　だったら　無料で紹介できるので\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>You're under level 80?\nIn that case, the hiring cost is free.\nHow long would like to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "146170": {
     "「……んんっ？　残念だが　占い師では\n　サポート仲間に登録できないぜ。登録したければ\n　他の職業に転職してから　また来てくれ。\n<end>": "... Hmm? I'm sorry, but as a fortune teller,\nyou can't sign up for support groups... If\nyou want to sign up, you'll have to change\n<br>\nprofessions and come back...<end>"
@@ -1023,13 +1023,13 @@
     "「<map>で　くわしく見ることができます。\n　別の方を見たいときは\n　<cursor_up_down>　で選べますよ。\n<break>": ""
   },
   "342080": {
-    "「<%sM_pc>さんは　<%nL_Time>時間につき\n　<%nL_Spt_gold>ゴールドの紹介料がかかります。\n　仲間にしたい時間を　選んでください。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": ""
+    "「<%sM_pc>さんは　<%nL_Time>時間につき\n　<%nL_Spt_gold>ゴールドの紹介料がかかります。\n　仲間にしたい時間を　選んでください。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>Hiring <%sM_pc> will cost <%dL_Spt_gold> Gold\nper <%dL_Time> hours. Please choose how long\nyou'd like to hire them for.\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "342081": {
     " 「<%sM_pc>さんを<%nL_Time>時間　仲間にするなら\n 　紹介料として　<%nL_Spt_gold>ゴールド\n 　いただきますが　よろしいですか？\n<yesno><break>": ""
   },
   "342082": {
-    "「<%sM_pc>さんは　フレンドなのですね。\n　でしたら　無料で紹介できますので\n　仲間にしたい時間を　選んでください。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": ""
+    "「<%sM_pc>さんは　フレンドなのですね。\n　でしたら　無料で紹介できますので\n　仲間にしたい時間を　選んでください。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0><%sM_pc>'s your friend, I see.\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "342083": {
     "「<%sM_pc>さんは　同じチームなので　半額の\n　<%nL_Time>時間　<%nL_Spt_gold>ゴールドで\n　紹介できます。仲間にして　よろしいですか？\n<yesno><break>": ""
@@ -1290,7 +1290,7 @@
     "「もし　入隊希望を　取り下げたくなった場合は\n　酒場や　町の入口にある\n　まちかど掲示板に　行ってみるとよいでしょう。\n<bw_break>": ""
   },
   "342169": {
-    "「<%sM_pc>さんは　レベル８０以下のため\n　無料で　ご紹介できます。\n　仲間にしたい時間を　選んでください。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": ""
+    "「<%sM_pc>さんは　レベル８０以下のため\n　無料で　ご紹介できます。\n　仲間にしたい時間を　選んでください。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>You're under level 80, so that\nmeans the hiring cost will be no charge.\nHow long would like to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
   "342170": {
     "「……まことに　残念ながら　占い師では\n　サポート仲間に登録できません。\n　他の職業に転職してから　また　お願いします。\n<end>": ""
