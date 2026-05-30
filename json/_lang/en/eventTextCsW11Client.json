@@ -9,7 +9,7 @@
     "「そろそろ　勝負を決めるとするかっ！": "Let's finish this!"
   },
   "1941": {
-    "「ねえ　<pc>～～～！\n　アーシクが　どこに行ったか　知らない～？": "Hey, <pc>～!\nHave you seen where Aashik ran off to～?"
+    "「ねえ　<pc>～～～！\n　アーシクが　どこに行ったか　知らない～？": "Hey, <pc>～!\nHave you seen where Aashik ran off to?"
   },
   "1942": {
     "「やべえっ　モロに入っちまった！！": "Crap, I didn't mean toー!!"
@@ -51,10 +51,10 @@
     "「……なんということだ。\n　<pc>が　生き返った！\n　これは　海の神が起こした奇跡なのか！？": "...What a surprise.\n<pc> has come back to life!\nIs this a miracle from the sea itself?!"
   },
   "1955": {
-    "「死んでなかったっ！\n　<pc>は　死んでなかったよ！！": "They weren't dead!\n<pc> wasn't dead!!"
+    "「死んでなかったっ！\n　<pc>は　死んでなかったよ！！": "<if_woman>She<else>He<endif> didn't die!\n<if_woman>She<else>He<endif> really didn't die!!"
   },
   "1956": {
-    "「おいおいっ　マジかよ！\n　あんとき　たしかに　手ごたえが……。": "Hold up, seriously?!\nBut when I checked their pulse, they were\ndefinitely..."
+    "「おいおいっ　マジかよ！\n　あんとき　たしかに　手ごたえが……。": "Hold up, seriously?!\nBut when I checked <if_woman>her<else>he<endif> pulse, <if_woman>she<else>he<endif> was\ndefinitely..."
   },
   "1957": {
     "「まちがいねえ。生きてやがる。\n　まるで　別の魂が　突然\n　身体に　入り込んだみてえだな……。": "Sure enough, you're alive.\nIt's like another soul suddenly entered your\nbody..."
@@ -69,7 +69,7 @@
     "「あのくらいで　くたばらないように\n　もっと　きたえとけよ。": "You need more training if a weak li'l hit like\nthat nearly offed you."
   },
   "1961": {
-    "「うぬぬ　ヒューザめ。\n　<pc>を　殺しかけておいて\n　なんという態度だ！": "Grrrrr, Hyuza...\nWhat kind of attitude is that after almost\nkilling <pc>?!"
+    "「うぬぬ　ヒューザめ。\n　<pc>を　殺しかけておいて\n　なんという態度だ！": "Grrrrr, Hyuza...\nYou almost killed <if_woman>her<else>him<endif>!\nWhat kind of attitude is that?!"
   },
   "1962": {
     "「お父さん　ヒューザを責めないであげて。\n　半分は　私のせいでも　あるんだもん。": "Dad, please don't blame Hyuza.\nIt was half my fault, too."
@@ -369,7 +369,7 @@
     "「頼んだよ　<pc>。\n　その貝がらには　慰霊碑に　まつられてる人の\n　幸せも　こめられてるんだからね？": "I'm counting on you.\nThis shell carries the happiness of those two\nwho are honored at that memorial, okay?"
   },
   "2065": {
-    "「<pc>よ。花嫁キールを　祈りの宿から\n　このレーンの村へと　無事に連れてくるのだ。": "<pc>. Bring the bride safely\nfrom the Prayer Inn back to the village."
+    "「<pc>よ。花嫁キールを　祈りの宿から\n　このレーンの村へと　無事に連れてくるのだ。": "Be sure to bring the bride safely\nfrom the Prayer Inn back here to the\nvillage."
   },
   "2066": {
     "「祈りの宿に行くには\n　コルット地方を　越える必要がある。": "To get to the Prayer Inn, you'll need to cross\nthe Colt Region."
@@ -468,10 +468,10 @@
     "「しかし　今の黒い魔物は\n　来光の浜という名を　知っていました。\n　しかも　花嫁を見つけた……と。": "But that black monster knew the name Sunrise\nBeach. And he was seeking a bride, too..."
   },
   "2100": {
-    "「つまり　今の魔物は\n　あの浜で　花嫁を失った花婿の霊が\n　悪霊と化した姿ということでしょうか……。": "In other words, is that monster the soul of\nthe groom who lost his bride on that beach,\nwho has now become an evil spirit...?"
+    "「つまり　今の魔物は\n　あの浜で　花嫁を失った花婿の霊が\n　悪霊と化した姿ということでしょうか……。": "Is that monster really the soul of the groom\nwho lost his bride on that beach? Could it be\nthat it's become an evil spirit...?"
   },
   "2101": {
-    "「<pc>どの。花嫁の身の安全を\n　守ることは　シェルナーの大切な役目。": "<pc>. Protecting the bride is an\nimportant part of a Shellner's role."
+    "「<pc>どの。花嫁の身の安全を\n　守ることは　シェルナーの大切な役目。": "Protecting the bride is an\nimportant part of a Shellner's role."
   },
   "2102": {
     "「……ムダだよ。": "...It's pointless."
@@ -504,7 +504,7 @@
     "「君のおかげで　ぼくの無念を　抑えつける\n　貝がらを　どかせたんだ。感謝してるよ。\n　でも　花婿は　ふたりも　いらないんだよ……。": "Thanks to you, the shell that suppressed my\nregret has been removed. I'm grateful for\nthat. But a bride does not need two grooms..."
   },
   "2112": {
-    "「くそっ！　キールをさらった魔物を見つけて\n　追いかけてきたが　このオレが\n　まったく　歯が立たねえとはな……。": "Crap! I found the monster that took Keel and\nchased after it, but I'm totally helpless\nagainst this thing..."
+    "「くそっ！　キールをさらった魔物を見つけて\n　追いかけてきたが　このオレが\n　まったく　歯が立たねえとはな……。": "Crap! I'm totally helpless against this\nthing..."
   },
   "2113": {
     "「キ　キールを　はなせぇぇっ！！": "L-LET GO OF KEEL!!"
@@ -531,7 +531,7 @@
     "「シェルナーの　君がいないと\n　ぼくたちの結婚式が　できないからね……。\n　さあ　ぼくと　一緒に来てもらおうか！　": "We can't have a wedding without a Shellner...\nNow, come with me!"
   },
   "2121": {
-    "「ぐ……ぐおおおお！": "GUH...GUUOOOOOOOOOOH!"
+    "「ぐ……ぐおおおお！": "Grrr...GRAAAAHHH!!"
   },
   "2122": {
     "「イヤだ……イヤだ……。\n　花嫁を失うのは　もうイヤだ！": "No... Please, no...\nI don't want to lose my bride again!"
