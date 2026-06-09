@@ -39,7 +39,7 @@
     "「かしこまりました。\n　では　チーム『<%sL_TEAM>』は\n　ただ今をもって　解散されました。\n<end>": "Yes, sir. Team <%sL_TEAM> is disbanded as of\nthis moment...<end>"
   },
   "40867": {
-    "「かしこまりました！\n　チーム結成の手続きを　おこないます！\n<bw_break>": "Yes, sir! Let's get this team organized!<bw_break>"
+    "「かしこまりました！\n　チーム結成の手続きを　おこないます！\n<bw_break>": "Very good! Let's begin the registration\nprocess!\n<bw_break>"
   },
   "40868": {
     "「チーム『<%sL_TEAM>』の　リーダーを\n　<%sL_MEMBER>さんに　変更しました。<bw_break>": "The leader of the team <%sL_TEAM> has been\nchanged to <%sL_MEMBER>...<bw_break>"
@@ -48,16 +48,16 @@
     "「他に　ご用件はありますか？<break>": "Is there anything else I can do for you?<break>"
   },
   "40870": {
-    "<select_se_off>\nチームを結成する\n説明を聞く\n<select_end><break>": "<select_se_off>\nForm a team\nListen to the explanation\n<select_end><break>"
+    "<select_se_off>\nチームを結成する\n説明を聞く\n<select_end><break>": "<select_se_off>\nForm a Team\nExplanation\n<select_end><break>"
   },
   "40871": {
-    "<select_se_off>\nチームを結成する\n盾カバーをはずす\n説明を聞く\n<select_end><break>": "<select_se_off>\nForm a team\nRemove the shield cover\nListen to the explanation\n<select_end><break>"
+    "<select_se_off>\nチームを結成する\n盾カバーをはずす\n説明を聞く\n<select_end><break>": "<select_se_off>\nForm a Team\nRemove Shield Cover\nExplanation\n<select_end><break>"
   },
   "40872": {
     "<select_se_off>\nチームを結成する\n盾カバーをつける\n説明を聞く\n<select_end><break>": "<select_se_off>\nForm a Team\nUse Shield Cover\nExplanation\n<select_end><break>"
   },
   "40873": {
-    "「では　チームの名前を　教えてください。\n　チーム名は　後から変えられませんので\n　慎重に　お決めくださいませ。\n<break>": "Now, tell me the name of your team... You\ncan't change your team name after the fact,\nso please choose carefully...<break>"
+    "「では　チームの名前を　教えてください。\n　チーム名は　後から変えられませんので\n　慎重に　お決めくださいませ。\n<break>": "Please tell me the name you'd like your Team\nto have. It can't be changed once chosen, so\nbe sure to think carefully before choosing.\n<break>"
   },
   "40874": {
     "「どなたに　交代しましょう？<break>": "Who would you like me to switch to?<break>"
@@ -69,7 +69,7 @@
     "「取り付けには　手数料をいただきます。\n　どちらのカバーにしますか？\n<break>": "We'll need to charge you a fee to install...\nWhich cover do you want?<break>"
   },
   "40877": {
-    "「どちらを変更しますか？\n<select_se_off>\nチーム名\nエンブレム\nスローガン\n<select_end><break>": "Which would you like to change?\n<select_se_off>\nTeam Name\nemblem\nslogan\n<select_end><break>"
+    "「どちらを変更しますか？\n<select_se_off>\nチーム名\nエンブレム\nスローガン\n<select_end><break>": "Which would you like to change?\n<select_se_off>\nTeam Name\nEmblem\nSlogan\n<select_end><break>"
   },
   "40878": {
     "「ああ　残念ですが\n　お金が　足りないようです。\n<bw_break>": "Oh, I'm sorry, but we don't have enough\nmoney...<bw_break>"
@@ -117,7 +117,7 @@
     "「チームの結成に　失敗いたしました。\n　お手数ですが　しばらく時間を空けてから\n　もう一度　やり直してください。\n<bw_break>": "I'm sorry, sir. I've failed to assemble a\nteam. I apologize for the inconvenience, but\nyou'll have to wait a few moments and try\n<br>\nagain.<bw_break>"
   },
   "40893": {
-    "「その言葉を待っていました！\n　<pc>さんのチームを　結成いたします！\n<bw_break>": "Just what I wanted to hear!\n<pc>, your Team is hereby formed!\n<bw_break>"
+    "「その言葉を待っていました！\n　<pc>さんのチームを　結成いたします！\n<bw_break>": "Just what I wanted to hear!\nLet's get underway with forming your Team!\n<bw_break>"
   },
   "40894": {
     "「おや　チーム名が　入力されていませんよ。\n　あなたの　チームの名前を\n　１０文字以内で　入れてください。\n<break>": "Oh, you haven't entered your Team's name!\nPlease enter a name using 10 characters or\nless.\n<break>"
@@ -156,7 +156,7 @@
     "「今　装備している盾に　付けられている\n　盾カバーを　取り外します。\n　よろしいですか？\n<yesno><break>": "I will have to remove the shield cover\nof the shield you currently have equipped.\nIs that fine?\n<yesno><break>"
   },
   "40906": {
-    "「手続きが終わりましたら　登録料として\n　<%nL_TESUURYOU>ゴールド　いただきます。\n　登録料は　チーム解散時には　お返しします。\n<br>\n「チームの登録を　いたしますか？<yesno><break> ": "Once you've completed the registration\nprocess, we'll ask you to pay a registration\nfee of <%nL_TESUURYOU> gold... The\n<br>\nregistration fee will be returned to you when\nthe team disbands... Would you like to\nregister your team?<yesno><break>"
+    "「手続きが終わりましたら　登録料として\n　<%nL_TESUURYOU>ゴールド　いただきます。\n　登録料は　チーム解散時には　お返しします。\n<br>\n「チームの登録を　いたしますか？<yesno><break> ": "Once the registration process is complete, we\nask that you please pay the registration fee\nof <%dL_TESUURYOU> Gold.\n<br>\nThis fee will be returned to you if your Team\never disbands. Would you like to proceed\nwith registering a Team?<yesno><break>"
   },
   "40907": {
     "「こちらの内容で　チームを登録します。\n　よろしいですか？<yesno><break>": "Are you sure you want to register this\nTeam?<yesno><break>"
