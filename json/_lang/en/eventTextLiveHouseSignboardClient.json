@@ -318,7 +318,7 @@
     "<%sL_PC_NICK>は　新しい土地を購入し\nこの土地に　引っ越した！\n<br>\n自分の家用のルーラストーンは　自動的に\nこの場所に書き換えられました。\n<bw_break>": "<%sL_PC_NICK> purchases this new plot\nof land and moves in!\n<br>\nYour house's Zoomstone is automatically\nupdated to use your new plot.\n<bw_break>"
   },
   "230844": {
-    "引っ越し先の土地のサイズが\n家キットより小さいので\nそのまま　引っ越すことが　できません。": "The size of the lot we're moving into is\nsmaller than the house kit, so we can move\nright into..."
+    "引っ越し先の土地のサイズが\n家キットより小さいので\nそのまま　引っ越すことが　できません。": "The plot size you are moving to is smaller\nthan the size of your house kit, so you\ncannot move as is."
   },
   "233002": {
     "土地を　購入できませんでした。\n現在のプレイ環境では　最安値になっている\nＳサイズの土地のみ　購入することができます。": "I'm unable to purchase land... You can only\npurchase S-size lands, which are the lowest\npriced in the current playing environment..."
@@ -351,7 +351,7 @@
     "本当に　住宅村の家から　マイタウンの\nこの家に　住所を移して　引っ越ししますか？\n<yesno 2>\n<break>": "Are you sure you want to move from a house in\na residential village to this house in My\nTown, moving your address?<yesno 2>\n<break>"
   },
   "246769": {
-    "「<%sL_PC_NICK>さま！\n　マイタウンのご購入　おめでとうございます！\n<br>\n「私　このマイタウンの管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後とも　どうぞ　よろしくお願いいたします。\n<br>\n「では　<%sL_PC_NICK>さまが　晴れて\n　地主になられた証として　この場所への\n　ルーラストーンを　進呈させていただきます。\n<br>\n「このルーラストーンは　他の物とは違って\n　記憶場所を　書きかえることが　できません。\n　ご帰宅専用の　特別品になります。\n<end>": "Hello, <if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>.\nCongratulation on your My Town purchase!\n<br>\nMy name is <%sL_MAID_NAME>, and I am the\nmanager of this My Town. It's a\npleasure to make your acquaintance.\n<br>\nTo commemorate your new home, I would like\nto give you this very special Zoomstone.\n<br>\nThis Zoomstone will bring you straight to your\nhome, but it cannot be rewritten to another\nlocation.\n<end>"
+    "「<%sL_PC_NICK>さま！\n　マイタウンのご購入　おめでとうございます！\n<br>\n「私　このマイタウンの管理を　まかされている\n　管理人の　<%sL_MAID_NAME>と申します。\n　今後とも　どうぞ　よろしくお願いいたします。\n<br>\n「では　<%sL_PC_NICK>さまが　晴れて\n　地主になられた証として　この場所への\n　ルーラストーンを　進呈させていただきます。\n<br>\n「このルーラストーンは　他の物とは違って\n　記憶場所を　書きかえることが　できません。\n　ご帰宅専用の　特別品になります。\n<end>": "Hello, <if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>.\nCongratulations on your My Town purchase!\n<br>\nMy name is <%sL_MAID_NAME>, and I am the\nmanager of this My Town. It's a\npleasure to make your acquaintance.\n<br>\nTo commemorate your new home, I would like\nto give you this very special Zoomstone.\n<br>\nThis Zoomstone will bring you straight to your\nhome, but it cannot be rewritten to another\nlocation.\n<end>"
   },
   "246850": {
     "今は　他の家を\n本宅に　設定できません。\n時間を置いてから　再度　お試しください。": "Right now, I can't set the other house as the\nmain residence. Please give it some time and\ntry again."
@@ -366,7 +366,7 @@
     "マイタウンでは\n土地の売却と　他の土地への\n引っ越しはできません。": "In My Town, you can sell your land and move\nto another property..."
   },
   "247541": {
-    "マイタウンを　ご購入の際も\n『土地管理人リステア』から\nご案内が　ありましたとおり……\n<br><color_yellow>\nマイタウンへ　引っ越しをすると\n住宅村への　引っ越しが\nできなくなりますので　ご注意ください。\n<br><color_white>\n住宅村に　引っ越しできなくなりますが\n本当に　ここを本宅にしますか？\n<yesno 2>\n<break>": "And when you buy My Town\nFrom \"Listeria, the Land Manager\"\nAs you were informed\n<color_yellow>Please note that once you've moved to My\nTown, you can no longer move to the Housing\nVillage...<color_white>You can't move to a residential village, but\ndo you really want to make this your home?<yesno 2>\n<break>"
+    "マイタウンを　ご購入の際も\n『土地管理人リステア』から\nご案内が　ありましたとおり……\n<br><color_yellow>\nマイタウンへ　引っ越しをすると\n住宅村への　引っ越しが\nできなくなりますので　ご注意ください。\n<br><color_white>\n住宅村に　引っ越しできなくなりますが\n本当に　ここを本宅にしますか？\n<yesno 2>\n<break>": "As you were previously informed by Listeah\nwhen you purchased your My Town...\n<br><color_yellow>\nPlease note that once moved into a My Town,\nyou cannot move into a normal residential\narea.\n<br><color_white>\nAre you sure you want to make this your\nmain house?\n<yesno 2>\n<break>"
   },
   "247542": {
     "「それでは　ステキなマイタウンライフを\n　お過ごしください！": "Then, have a wonderful life in My Town!"
@@ -393,7 +393,7 @@
     "番地の　敷地内に　庭具があるため\n新しく家を建てたり　家の建て替えができません。\n<br>\n庭具を　番地の　敷地の外に\n移動するか　かたづけてから\nお試しください。": "Because the garden tools are on the numbered\nlot, it is not possible to build a new home\nor rebuild a home... Please move the garden\n<br>\ntools off the lot or put them away before you\ntry..."
   },
   "247726": {
-    "番地の　敷地内に\nプライベートコンシェルジュがいるため\n新しく家を建てたり　家の建て替えができません。\n<br>\nプライベートコンシェルジュを\n番地の　敷地の外に　移動させるか\nお別れしてから　お試しください。": "The presence of a private concierge on the\ngrounds of the numbered lot allows for the\nconstruction of a new home or the rebuilding\n<br>\nof a home... You can either move the private\nconcierge off the lot, or you can say goodbye\nand try..."
+    "番地の　敷地内に\nプライベートコンシェルジュがいるため\n新しく家を建てたり　家の建て替えができません。\n<br>\nプライベートコンシェルジュを\n番地の　敷地の外に　移動させるか\nお別れしてから　お試しください。": "Since there is a Private Concierge on your\nplot, you cannot build a new house or\nrebuild the current one.\n<br>\nPlease try again after removing or\ndismissing them."
   },
   "247885": {
     "レンダーヒルズ地区に　土地を持っているため\n土地を売却できません。": "I have land in the Render Hills area that I\ncould sell for..."
