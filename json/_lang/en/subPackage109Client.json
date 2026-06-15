@@ -282,7 +282,7 @@
     "{color=skyblue}マダンテ{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　　": "{color=skyblue}Magic Burst{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "1870": {
-    "にくきゅうパンチ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Curiosity Kills　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> Charms"
+    "にくきゅうパンチ　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Curiosity Kills　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> Beguiles"
   },
   "1929": {
     "{color=skyblue}メラミ{color=default}　　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Frizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -381,7 +381,7 @@
     "{color=skyblue}メラミ{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Frizzle{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "3556": {
-    "あやつる　　　<%sM_Target_1>を魅了する": "Manipulate　Charm <%sM_Target_1>"
+    "あやつる　　　<%sM_Target_1>を魅了する": "Manipulate　Beguiles <%sM_Target_1>"
   },
   "3582": {
     "魔力かくせい　{color=skyblue}呪文{color=default}の威力アップ（＋２０）": "Channel Anger　{color=skyblue}Spell{color=default} Power Boost (+20)"
@@ -498,7 +498,7 @@
     "{color=skyblue}マヒャド{color=default}　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=skyblue}Kacrack{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "5578": {
-    "ラブリーフェイス　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Minacious Allure　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Charms"
+    "ラブリーフェイス　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　魅了する": "Minacious Allure　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Beguiles"
   },
   "5639": {
     "ふわふわしている": "Fluffing Around"
@@ -1440,7 +1440,7 @@
     "毒無効": "Poison ×"
   },
   "14441": {
-    "魅了無効": "Charm ×"
+    "魅了無効": "Beguile ×"
   },
   "14448": {
     "しばり無効": "Bind ×"
@@ -1563,7 +1563,7 @@
     "猛毒をうけている": "Envenomated!"
   },
   "14826": {
-    "魅了されている": "Charmed!"
+    "魅了されている": "Beguiled!"
   },
   "14837": {
     "しばられている": "Restrained!"
@@ -1710,7 +1710,7 @@
     "猛毒がきえた": "Envenom faded!"
   },
   "15423": {
-    "魅了がとけた": "No longer charmed!"
+    "魅了がとけた": "No longer beguiled!"
   },
   "15433": {
     "しばりがとけた": "No longer bound!"
@@ -1803,7 +1803,7 @@
     "猛毒の効果延長！": "Envenom effect\nextended!"
   },
   "15866": {
-    "魅了の効果延長！": "Charm effect\nrenewed!"
+    "魅了の効果延長！": "Beguile effect\nrenewed!"
   },
   "15879": {
     "しばりの効果延長！": "Bind effect\nextended!"
@@ -1992,7 +1992,7 @@
     "猛毒をうけた！": "Envenomated!"
   },
   "16826": {
-    "魅了された！": "Charmed!"
+    "魅了された！": "Beguiled!"
   },
   "16836": {
     "しばられてしまった！": "Restrained!"
@@ -2052,7 +2052,7 @@
     "毒無効！": "Poison null!"
   },
   "17068": {
-    "魅了無効！": "Charm null!"
+    "魅了無効！": "Beguile null!"
   },
   "17076": {
     "しばり無効！": "Bind null!"
@@ -2178,7 +2178,7 @@
     "猛毒をうけている\n残り <%dM_mm>ターン": "Envenomated\n<%dM_mm> Turns Left"
   },
   "17861": {
-    "魅了されている\n残り <%dM_mm>ターン": "Charmed\n<%dM_mm> Turns Left"
+    "魅了されている\n残り <%dM_mm>ターン": "Beguiled\n<%dM_mm> Turns Left"
   },
   "17885": {
     "しばられている\n残り <%dM_mm>ターン": "Bound\n<%dM_mm> Turns Left"
@@ -2244,7 +2244,7 @@
     "猛毒": "Envenomated!"
   },
   "18174": {
-    "魅了": "Charmed!"
+    "魅了": "Beguiled!"
   },
   "18178": {
     "しばり": "Bound!"
@@ -2391,10 +2391,10 @@
     "{color=skyblue}バギ{color=default}　　　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　のダメージ": "{color=skyblue}Woosh{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
   },
   "19029": {
-    "魅了がとけた！": "Remove Charm!"
+    "魅了がとけた！": "No longer\nbeguiled!"
   },
   "19040": {
-    "魅了されている！　自分に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Charmed!　{color=orange}<%dM_Damage_1>{color=default} Damage to Self"
+    "魅了されている！　自分に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Beguiled!　{color=orange}<%dM_Damage_1>{color=default} Damage to Self"
   },
   "19088": {
     "自分にこうげき！": "Will attack self!"
