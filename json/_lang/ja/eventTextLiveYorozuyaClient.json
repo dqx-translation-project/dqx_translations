@@ -15028,5 +15028,506 @@
   },
   "334814": {
     "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　\n輝晶核を　<%nL_NUM2>個\n閃輝晶核を　<%nL_NUM3>個　手に入れた！<se_nots System 7>\n<end>": "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　\n輝晶核を　<%nL_NUM2>個\n閃輝晶核を　<%nL_NUM3>個　手に入れた！<se_nots System 7>\n<end>"
+  },
+  "353954": {
+    "「ケケケッ　いらっしゃい。\n　ここは　道具屋だ。\n<break>": "「ケケケッ　いらっしゃい。\n　ここは　道具屋だ。\n<break>"
+  },
+  "353955": {
+    "<select_se_off>\n買いにきた\n売りにきた\n<select_end><break>": "<select_se_off>\n買いにきた\n売りにきた\n<select_end><break>"
+  },
+  "353956": {
+    "<select_se_off 2>\n買いにきた\n売りにきた\n<select_end><break>": "<select_se_off 2>\n買いにきた\n売りにきた\n<select_end><break>"
+  },
+  "353957": {
+    "「<%sL_KAITAI_ITEM>は\n　<%nL_BUY_PRICE>ゴールドになるぜ。\n　これを　買うか？\n<yesno><break>": "「<%sL_KAITAI_ITEM>は\n　<%nL_BUY_PRICE>ゴールドになるぜ。\n　これを　買うか？\n<yesno><break>"
+  },
+  "353958": {
+    "「<%sL_KAITAI_ITEM>を　ひとつだな。\n　<%nL_BUY_PRICE>ゴールドになるが\n　これを　買うか？\n<yesno><break>": "「<%sL_KAITAI_ITEM>を　ひとつだな。\n　<%nL_BUY_PRICE>ゴールドになるが\n　これを　買うか？\n<yesno><break>"
+  },
+  "353959": {
+    "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。\n　合わせて　<%nL_BUY_PRICE>ゴールドになるが\n　これを　買うか？\n<yesno><break>": "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。\n　合わせて　<%nL_BUY_PRICE>ゴールドになるが\n　これを　買うか？\n<yesno><break>"
+  },
+  "353960": {
+    "": ""
+  },
+  "353961": {
+    "「おいおい　その数は　選べないぜ。\n<bw_break>": "「おいおい　その数は　選べないぜ。\n<bw_break>"
+  },
+  "353962": {
+    "「買いに来たんだな。\n　どれにするんだ？\n<break>": "「買いに来たんだな。\n　どれにするんだ？\n<break>"
+  },
+  "353963": {
+    "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_RACE>でなければ\n　装備できないが　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_RACE>でなければ\n　装備できないが　それでもいいのか？\n<yesno 2><break>"
+  },
+  "353964": {
+    "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_GENDER>性でなければ\n　装備できないが　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_GENDER>性でなければ\n　装備できないが　それでもいいのか？\n<yesno 2><break>"
+  },
+  "353965": {
+    "「<%sL_KAITAI_ITEM>だな。\n　これは　お前の職業では\n　装備できないが　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　これは　お前の職業では\n　装備できないが　それでもいいのか？\n<yesno 2><break>"
+  },
+  "353966": {
+    "「<%sL_KAITAI_ITEM>だな。\n　これは　お前のレベルでは\n　まだ装備できないが　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　これは　お前のレベルでは\n　まだ装備できないが　それでもいいのか？\n<yesno 2><break>"
+  },
+  "353967": {
+    "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_SYOKUNIN>でなければ\n　装備できないが　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_SYOKUNIN>でなければ\n　装備できないが　それでもいいのか？\n<yesno 2><break>"
+  },
+  "353968": {
+    "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えているようだが\n　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>のレシピは\n　すでに　覚えているようだが\n　それでもいいのか？\n<yesno 2><break>"
+  },
+  "353969": {
+    "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_SYOKUNIN>でなければ\n　作れないレシピだが　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_SYOKUNIN>でなければ\n　作れないレシピだが　それでもいいのか？\n<yesno 2><break>"
+  },
+  "353970": {
+    "「ケケケッ　まいどあり！\n　すぐに　装備していくか？\n<yesno 2><break>": "「ケケケッ　まいどあり！\n　すぐに　装備していくか？\n<yesno 2><break>"
+  },
+  "353971": {
+    "<speed=0><%sL_PC_NICK>は\n<%sL_KAITAI_ITEM>を　装備した！\n<end>": "<speed=0><%sL_PC_NICK>は\n<%sL_KAITAI_ITEM>を　装備した！\n<end>"
+  },
+  "353972": {
+    "「じゃあ　そうびぶくろの中に\n　入れておくぜ。\n<bw_break>": "「じゃあ　そうびぶくろの中に\n　入れておくぜ。\n<bw_break>"
+  },
+  "353973": {
+    "「ケケケッ　まいどあり！\n　じゃあ　そうびぶくろの中に\n　入れておくぜ。\n<bw_break>": "「ケケケッ　まいどあり！\n　じゃあ　そうびぶくろの中に\n　入れておくぜ。\n<bw_break>"
+  },
+  "353974": {
+    "「ケケケッ　<%sL_BAG_TYPE>が　いっぱいで\n　<%sL_KAITAI_ITEM>は\n　持ちきれないようだな。\n<bw_break>": "「ケケケッ　<%sL_BAG_TYPE>が　いっぱいで\n　<%sL_KAITAI_ITEM>は\n　持ちきれないようだな。\n<bw_break>"
+  },
+  "353975": {
+    "「他にも　何か買っていくか？\n<break>": "「他にも　何か買っていくか？\n<break>"
+  },
+  "353976": {
+    "「他にも　ほしい物が　あるのか？\n<break>": "「他にも　ほしい物が　あるのか？\n<break>"
+  },
+  "353977": {
+    "「ケケケッ　わかったぜ。\n　他に買いたい物は　あるのか？\n<break>": "「ケケケッ　わかったぜ。\n　他に買いたい物は　あるのか？\n<break>"
+  },
+  "353978": {
+    "「ケケケッ！　お前も苦労してるな！\n　<%sL_NOROI_ITEM>は　呪いのせいで\n　はずれない状態だぜ！\n<bw_break>": "「ケケケッ！　お前も苦労してるな！\n　<%sL_NOROI_ITEM>は　呪いのせいで\n　はずれない状態だぜ！\n<bw_break>"
+  },
+  "353979": {
+    "「ケケケッ　お金が　足りないぜ。\n<bw_break>": "「ケケケッ　お金が　足りないぜ。\n<bw_break>"
+  },
+  "353980": {
+    "「どれを　売ってくれるんだ？\n<break>": "「どれを　売ってくれるんだ？\n<break>"
+  },
+  "353981": {
+    "「ケケケッ　ひやかしは　困るな。\n　売れるものを　持ってないようだぜ。\n<bw_break>": "「ケケケッ　ひやかしは　困るな。\n　売れるものを　持ってないようだぜ。\n<bw_break>"
+  },
+  "353982": {
+    "「ケケケッ　ひやかしは困るな。\n　そうびぶくろの中には　何も入ってないぜ。\n<bw_break>": "「ケケケッ　ひやかしは困るな。\n　そうびぶくろの中には　何も入ってないぜ。\n<bw_break>"
+  },
+  "353983": {
+    "「ケケケッ　ひやかしは困るな。\n　ふくろの中には　何も入ってないぜ。\n<bw_break>": "「ケケケッ　ひやかしは困るな。\n　ふくろの中には　何も入ってないぜ。\n<bw_break>"
+  },
+  "353984": {
+    "「ケケケッ　ひやかしは困るな。\n　ふくろの中には　何も入ってないぜ。\n<bw_break>": "「ケケケッ　ひやかしは困るな。\n　ふくろの中には　何も入ってないぜ。\n<bw_break>"
+  },
+  "353985": {
+    "「ケケケッ　ひやかしは困るな。\n　売れる物を　何も持ってない　みたいだぜ。\n<bw_break>": "「ケケケッ　ひやかしは困るな。\n　売れる物を　何も持ってない　みたいだぜ。\n<bw_break>"
+  },
+  "353986": {
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。\n　<%nL_SELL_PRICE>ゴールドで　買い取るが\n　それで　いいか？\n<yesno><break>": "「<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。\n　<%nL_SELL_PRICE>ゴールドで　買い取るが\n　それで　いいか？\n<yesno><break>"
+  },
+  "353987": {
+    "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。\n　それなら　<%nL_SELL_PRICE>ゴールドで\n　買い取るが　それで　いいか？\n<yesno><break>": "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。\n　それなら　<%nL_SELL_PRICE>ゴールドで\n　買い取るが　それで　いいか？\n<yesno><break>"
+  },
+  "353988": {
+    "「<%sL_URITAI_ITEM>を　ひとつだな。\n　それなら　<%nL_SELL_PRICE>ゴールドで\n　買い取るが　それで　いいか？\n<yesno><break>": "「<%sL_URITAI_ITEM>を　ひとつだな。\n　それなら　<%nL_SELL_PRICE>ゴールドで\n　買い取るが　それで　いいか？\n<yesno><break>"
+  },
+  "353989": {
+    "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個\n　全部で　<%nL_SELL_PRICE>ゴールドで\n　買い取るが　それで　いいか？\n<yesno><break>": "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個\n　全部で　<%nL_SELL_PRICE>ゴールドで\n　買い取るが　それで　いいか？\n<yesno><break>"
+  },
+  "353990": {
+    "「ケケケッ　お金を　持ちきれないようだな。\n　そんな大金を　持ち歩いて\n　どうなってもしらないぜ。\n<br>\n「なんか買うかして　\n　お金をへらしてから　売ってくれよ。\n　なんなら　もらってやっても　いいんだぜ！\n<bw_break>": "「ケケケッ　お金を　持ちきれないようだな。\n　そんな大金を　持ち歩いて\n　どうなってもしらないぜ。\n<br>\n「なんか買うかして　\n　お金をへらしてから　売ってくれよ。\n　なんなら　もらってやっても　いいんだぜ！\n<bw_break>"
+  },
+  "353991": {
+    "「ケケケッ　お金が　いっぱいみたいだな。\n　そんな大金を　持ち歩いて\n　どうなってもしらないぜ。\n<br>\n「なんか買うかして　\n　お金をへらしてから　売ってくれよ。\n　なんなら　もらってやっても　いいんだぜ！\n<bw_break>": "「ケケケッ　お金が　いっぱいみたいだな。\n　そんな大金を　持ち歩いて\n　どうなってもしらないぜ。\n<br>\n「なんか買うかして　\n　お金をへらしてから　売ってくれよ。\n　なんなら　もらってやっても　いいんだぜ！\n<bw_break>"
+  },
+  "353992": {
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　今　装備しているようだが\n　本当に　売ってしまっても　いいのか？\n<yesno 2><break>": "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　今　装備しているようだが\n　本当に　売ってしまっても　いいのか？\n<yesno 2><break>"
+  },
+  "353993": {
+    "「確かに　買い取ったぜ。\n<bw_break>": "「確かに　買い取ったぜ。\n<bw_break>"
+  },
+  "353994": {
+    "「他に　売りたいものは　あるか？\n<break>": "「他に　売りたいものは　あるか？\n<break>"
+  },
+  "353995": {
+    "「他にも　売りたいものは　あるか？\n<break>": "「他にも　売りたいものは　あるか？\n<break>"
+  },
+  "353996": {
+    "「ケケケッ　仕方ないな。\n　他に売りたいものは　あるか？\n<break>": "「ケケケッ　仕方ないな。\n　他に売りたいものは　あるか？\n<break>"
+  },
+  "353997": {
+    "「他にも　用はあるか？\n<break>": "「他にも　用はあるか？\n<break>"
+  },
+  "353998": {
+    "「ケケケッ　またよろしくな。\n<turn_end>": "「ケケケッ　またよろしくな。\n<turn_end>"
+  },
+  "353999": {
+    "「これは　装備すれば\n　戦いのときに　どうぐとして使っても\n　効果があるぜ。\n<bw_break>": "「これは　装備すれば\n　戦いのときに　どうぐとして使っても\n　効果があるぜ。\n<bw_break>"
+  },
+  "354000": {
+    "「どっちの手に　装備するんだ？\n<break>": "「どっちの手に　装備するんだ？\n<break>"
+  },
+  "354001": {
+    "<select_se_off>\nみぎて\nひだりて\n<select_end><break>": "<select_se_off>\nみぎて\nひだりて\n<select_end><break>"
+  },
+  "354002": {
+    "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　それでもいいか？\n<yesno><break>": "「<%sL_KAITAI_ITEM>は\n　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に\n　装備する物だが　それでもいいか？\n<yesno><break>"
+  },
+  "354003": {
+    "「ケケケッ　おいおい\n　それは　手に入りづらい　貴重な物だが\n　本当に売ってしまって　いいのか？\n<yesno 2><break>": "「ケケケッ　おいおい\n　それは　手に入りづらい　貴重な物だが\n　本当に売ってしまって　いいのか？\n<yesno 2><break>"
+  },
+  "354004": {
+    "「ケケッ　はじめて　装備をするようだな。\n　だったら　ひとつ大事な注意があるぜ。\n<br>\n「装備品は　最初に装備したヤツが\n　その使用者と　決められるんだ。\n　お前専用の装備と　認められる感じだな。\n<br>\n「すべての装備や　どうくは\n　他人に　渡すことはできなくなるぜ。\n　さて……ここで　装備していくか？\n<yesno 2><break>": "「ケケッ　はじめて　装備をするようだな。\n　だったら　ひとつ大事な注意があるぜ。\n<br>\n「装備品は　最初に装備したヤツが\n　その使用者と　決められるんだ。\n　お前専用の装備と　認められる感じだな。\n<br>\n「すべての装備や　どうくは\n　他人に　渡すことはできなくなるぜ。\n　さて……ここで　装備していくか？\n<yesno 2><break>"
+  },
+  "354005": {
+    "「それは　買い取ることが　できないな。\n<bw_break>": "「それは　買い取ることが　できないな。\n<bw_break>"
+  },
+  "354006": {
+    "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_SYOKUNIN>で\n　扱えないレシピだが　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　これは　<%sL_SYOKUNIN>で\n　扱えないレシピだが　それでもいいのか？\n<yesno 2><break>"
+  },
+  "354007": {
+    "「ケケッ　まいどあり！\n　すぐに　レシピを覚えていくか？\n<yesno><break>": "「ケケッ　まいどあり！\n　すぐに　レシピを覚えていくか？\n<yesno><break>"
+  },
+  "354008": {
+    "<select_se_off>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>": "<select_se_off>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>"
+  },
+  "354009": {
+    "<select_se_off 2>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>": "<select_se_off 2>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>"
+  },
+  "354010": {
+    "<select_se_off 3>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>": "<select_se_off 3>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>"
+  },
+  "354011": {
+    "<select_se_off 4>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>": "<select_se_off 4>\n買いにきた\n売りにきた\n結晶を取りだす\n説明を聞く\n<select_end><break>"
+  },
+  "354012": {
+    "「結晶の取りだしですね。\n　どの装備品から　結晶を取りだしますか？\n<break>": "「結晶の取りだしですね。\n　どの装備品から　結晶を取りだしますか？\n<break>"
+  },
+  "354013": {
+    "「結晶の取りだしですね。\n　どの装備品から　結晶を取りだしますか？\n<break>": "「結晶の取りだしですね。\n　どの装備品から　結晶を取りだしますか？\n<break>"
+  },
+  "354014": {
+    "「おや？　その装備品から　結晶を取りだすには\n　まだ　使い込み度が　足りないようですね。\n<bw_break>": "「おや？　その装備品から　結晶を取りだすには\n　まだ　使い込み度が　足りないようですね。\n<bw_break>"
+  },
+  "354015": {
+    "「おや？　すいませんが　その装備品は\n　結晶を取りだすことが\n　できない　装備品のようです。\n<bw_break>": "「おや？　すいませんが　その装備品は\n　結晶を取りだすことが\n　できない　装備品のようです。\n<bw_break>"
+  },
+  "354016": {
+    "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を\n　取りだせます。結晶を取りだすと　元の装備品は\n　消えてしまいますが　本当に　よろしいですか？\n<yesno 2><break>": "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を\n　取りだせます。結晶を取りだすと　元の装備品は\n　消えてしまいますが　本当に　よろしいですか？\n<yesno 2><break>"
+  },
+  "354017": {
+    "「おやっ　つかうものが　いっぱいで\n　持ちきれないようですね。\n<break>": "「おやっ　つかうものが　いっぱいで\n　持ちきれないようですね。\n<break>"
+  },
+  "354018": {
+    "「<%sL_ITEM><%sL_PLUSNUM>は\n　今　装備しているものですが　本当に\n　結晶を取りだして　よろしいですか？\n<yesno 2><break>": "「<%sL_ITEM><%sL_PLUSNUM>は\n　今　装備しているものですが　本当に\n　結晶を取りだして　よろしいですか？\n<yesno 2><break>"
+  },
+  "354019": {
+    "「そうですか。わかりました。\n　他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "「そうですか。わかりました。\n　他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>"
+  },
+  "354020": {
+    "「他にも　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "「他にも　結晶を取りだしたい装備品は\n　ございますか？\n<break>"
+  },
+  "354021": {
+    "「他にも　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "「他にも　結晶を取りだしたい装備品は\n　ございますか？\n<break>"
+  },
+  "354022": {
+    "「他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>": "「他に　結晶を取りだしたい装備品は\n　ございますか？\n<break>"
+  },
+  "354023": {
+    "「どれについて　説明しましょうか？\n<select_se_off>\n汗と涙の結晶について\n使い込み度について\n取りだせる結晶の数\n<select_end><break>": "「どれについて　説明しましょうか？\n<select_se_off>\n汗と涙の結晶について\n使い込み度について\n取りだせる結晶の数\n<select_end><break>"
+  },
+  "354024": {
+    "「どれについて　説明しましょうか？\n<select_se_off 2>\n汗と涙の結晶について\n使い込み度について\n取りだせる結晶の数\n<select_end><break>": "「どれについて　説明しましょうか？\n<select_se_off 2>\n汗と涙の結晶について\n使い込み度について\n取りだせる結晶の数\n<select_end><break>"
+  },
+  "354025": {
+    "「どれについて　説明しましょうか？\n<select_se_off 3>\n汗と涙の結晶について\n使い込み度について\n取りだせる結晶の数\n<select_end><break>": "「どれについて　説明しましょうか？\n<select_se_off 3>\n汗と涙の結晶について\n使い込み度について\n取りだせる結晶の数\n<select_end><break>"
+  },
+  "354026": {
+    "「使い込み度が１００になるほど使い込まれた\n　装備品からは　職人仕事に使える　特別な素材を\n　取りだせます。それが　汗と涙の結晶です。\n<br>\n「装備品そのものは　なくなってしまいますが \n　旅人たちが戦った証は　この汗と涙の結晶に\n　引き継がれて　次の装備品の糧となるのです。\n<bw_break>": "「使い込み度が１００になるほど使い込まれた\n　装備品からは　職人仕事に使える　特別な素材を\n　取りだせます。それが　汗と涙の結晶です。\n<br>\n「装備品そのものは　なくなってしまいますが \n　旅人たちが戦った証は　この汗と涙の結晶に\n　引き継がれて　次の装備品の糧となるのです。\n<bw_break>"
+  },
+  "354027": {
+    "「使い込み度とは　装備品が　どれくらい\n　使い込まれたかを　示す数値です。\n<br>\n「自分と同格以上の強さの魔物と戦った後\n　時々　装備品がキラキラと光り\n　使い込み度が　上がることがあります。\n<br>\n「そして　使い込み度が　１００になった\n　装備品からは　汗と涙の結晶を\n　取りだせるようになるのです。\n<br>\n「今の使い込み度は　その装備品を\n　くわしくみると　確認できます。\n<br>\n「ただし　職人が作れない装備品の中には\n　使い込み度が　上がらないものもあるので\n　そこは　ご注意ください。\n<bw_break>": "「使い込み度とは　装備品が　どれくらい\n　使い込まれたかを　示す数値です。\n<br>\n「自分と同格以上の強さの魔物と戦った後\n　時々　装備品がキラキラと光り\n　使い込み度が　上がることがあります。\n<br>\n「そして　使い込み度が　１００になった\n　装備品からは　汗と涙の結晶を\n　取りだせるようになるのです。\n<br>\n「今の使い込み度は　その装備品を\n　くわしくみると　確認できます。\n<br>\n「ただし　職人が作れない装備品の中には\n　使い込み度が　上がらないものもあるので\n　そこは　ご注意ください。\n<bw_break>"
+  },
+  "354028": {
+    "「装備品の　装備可能レベルが高いほど\n　また　錬金効果が　たくさんついているほど\n　取りだせる結晶の数は　多くなります。\n<br>\n「ついている錬金効果が　よいものであれば\n　取りだせる結晶は　さらに増えるでしょう。\n<br>\n「できのよさが　高くても\n　錬金効果がついていなければ\n　取りだせる結晶の数は　変わりません。\n<br>\n「結晶を取りだしたい　装備品には\n　積極的に　錬金効果をつけていったほうが\n　取りだせる結晶の数が増えて　お得ですよ。\n<bw_break>": "「装備品の　装備可能レベルが高いほど\n　また　錬金効果が　たくさんついているほど\n　取りだせる結晶の数は　多くなります。\n<br>\n「ついている錬金効果が　よいものであれば\n　取りだせる結晶は　さらに増えるでしょう。\n<br>\n「できのよさが　高くても\n　錬金効果がついていなければ\n　取りだせる結晶の数は　変わりません。\n<br>\n「結晶を取りだしたい　装備品には\n　積極的に　錬金効果をつけていったほうが\n　取りだせる結晶の数が増えて　お得ですよ。\n<bw_break>"
+  },
+  "354029": {
+    "「おや？　お客さま\n　結晶を取りだせる装備品を\n　お持ちでないようですね。\n<bw_break>": "「おや？　お客さま\n　結晶を取りだせる装備品を\n　お持ちでないようですね。\n<bw_break>"
+  },
+  "354030": {
+    "「では　少々お待ちください。\n　ここを　こうしてと……。\n　はい。結晶を　取りだせました。\n<bw_break>": "「では　少々お待ちください。\n　ここを　こうしてと……。\n　はい。結晶を　取りだせました。\n<bw_break>"
+  },
+  "354031": {
+    "<speed=0><pc>は\n汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>\n<end>": "<speed=0><pc>は\n汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>\n<end>"
+  },
+  "354032": {
+    "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　\n輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>\n<end>": "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　\n輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>\n<end>"
+  },
+  "354033": {
+    "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　\n輝晶核を　<%nL_NUM2>個\n閃輝晶核を　<%nL_NUM3>個　手に入れた！<se_nots System 7>\n<end>": "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　\n輝晶核を　<%nL_NUM2>個\n閃輝晶核を　<%nL_NUM3>個　手に入れた！<se_nots System 7>\n<end>"
+  },
+  "354034": {
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　結晶を取りだせるようですが\n　本当に　売っても　よろしいのでしょうか？\n<yesno 2><break>": "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　結晶を取りだせるようですが\n　本当に　売っても　よろしいのでしょうか？\n<yesno 2><break>"
+  },
+  "354035": {
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　素材屋で　結晶を取りだせるようだが\n　本当に　売っても　いいのか？\n<yesno 2><break>": "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　素材屋で　結晶を取りだせるようだが\n　本当に　売っても　いいのか？\n<yesno 2><break>"
+  },
+  "354036": {
+    "「ケケッ　ズルはいけねえな。\n　お前は　既に商品を購入しているぜ。\n　もう　譲ることはできないな。\n<bw_break>": "「ケケッ　ズルはいけねえな。\n　お前は　既に商品を購入しているぜ。\n　もう　譲ることはできないな。\n<bw_break>"
+  },
+  "354037": {
+    "": ""
+  },
+  "354038": {
+    "<select_se_off>\n買いにきた\n売りにきた\n説明を聞く\n<select_end><break>": "<select_se_off>\n買いにきた\n売りにきた\n説明を聞く\n<select_end><break>"
+  },
+  "354039": {
+    "<select_se_off 2>\n買いにきた\n売りにきた\n説明を聞く\n<select_end><break>": "<select_se_off 2>\n買いにきた\n売りにきた\n説明を聞く\n<select_end><break>"
+  },
+  "354040": {
+    "<select_se_off 3>\n買いにきた\n売りにきた\n説明を聞く\n<select_end><break>": "<select_se_off 3>\n買いにきた\n売りにきた\n説明を聞く\n<select_end><break>"
+  },
+  "354041": {
+    "「チーム購買部へ　ようこそ！\n　こちらでは　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「チームクエストを　こなして\n　チームレベルが　上がっていくと\n　お売りできる商品も　どんどん増えますよ！\n<br>\n「チームクエストについて　くわしく知りたければ\n　チーム大使から　説明を受けてくださいね。\n　さて　本日は　いかがなさいますか？\n<break>": "「チーム購買部へ　ようこそ！\n　こちらでは　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「チームクエストを　こなして\n　チームレベルが　上がっていくと\n　お売りできる商品も　どんどん増えますよ！\n<br>\n「チームクエストについて　くわしく知りたければ\n　チーム大使から　説明を受けてくださいね。\n　さて　本日は　いかがなさいますか？\n<break>"
+  },
+  "354042": {
+    "「チーム購買部では\n　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「チームクエストを　こなして\n　チームレベルが　上がっていくと\n　お売りできる商品も　どんどん増えますよ！\n<br>\n「チームクエストについて　くわしく知りたければ\n　チーム大使から　説明を受けてください。\n<bw_break>": "「チーム購買部では\n　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「チームクエストを　こなして\n　チームレベルが　上がっていくと\n　お売りできる商品も　どんどん増えますよ！\n<br>\n「チームクエストについて　くわしく知りたければ\n　チーム大使から　説明を受けてください。\n<bw_break>"
+  },
+  "354043": {
+    "「チーム購買部へ　ようこそ！\n　こちらでは　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「……おや？　あなたは　まだ\n　チームに　所属していないようですね。\n<br>\n「でしたら　誰かのチームに入れてもらうか\n　その気があれば　チーム大使に申し込んで\n　自らチームを結成することも　できますよ。\n<end>": "「チーム購買部へ　ようこそ！\n　こちらでは　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「……おや？　あなたは　まだ\n　チームに　所属していないようですね。\n<br>\n「でしたら　誰かのチームに入れてもらうか\n　その気があれば　チーム大使に申し込んで\n　自らチームを結成することも　できますよ。\n<end>"
+  },
+  "354044": {
+    "「一度　商品を選ぶと　今回の　ご縁では\n　他の商品を　お譲りできなくなりますが\n　こちらの　お買い上げでよいですか？\n<yesno><break>": "「一度　商品を選ぶと　今回の　ご縁では\n　他の商品を　お譲りできなくなりますが\n　こちらの　お買い上げでよいですか？\n<yesno><break>"
+  },
+  "354045": {
+    "「チーム購買部へ　ようこそ！\n　こちらでは　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「本日は　いかがなさいますか？\n<break>": "「チーム購買部へ　ようこそ！\n　こちらでは　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「本日は　いかがなさいますか？\n<break>"
+  },
+  "354046": {
+    "「チーム購買部へ　ようこそ！\n　こちらでは　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「<%sL_TEAM>所属の　<pc>さま\n　お売りできる品が　追加されましたので\n　ぜひ　見ていってください！\n<br>\n「本日は　いかがなさいますか？\n<break>": "「チーム購買部へ　ようこそ！\n　こちらでは　チームに所属している方に\n　他では買えない品々を　販売しています。\n<br>\n「<%sL_TEAM>所属の　<pc>さま\n　お売りできる品が　追加されましたので\n　ぜひ　見ていってください！\n<br>\n「本日は　いかがなさいますか？\n<break>"
+  },
+  "354047": {
+    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようだが\n　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようだが\n　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354048": {
+    "「その装備品は　ロックされているので\n　結晶の取りだしは　できません。\n<bw_break>": "「その装備品は　ロックされているので\n　結晶の取りだしは　できません。\n<bw_break>"
+  },
+  "354049": {
+    "「ケケケッ　ロックされている装備品を\n　買い取ることは　できないぜ。\n<bw_break>": "「ケケケッ　ロックされている装備品を\n　買い取ることは　できないぜ。\n<bw_break>"
+  },
+  "354050": {
+    "「<%sL_KAITAI_ITEM>は\n　すでに　読んだことがあるようだが\n　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>は\n　すでに　読んだことがあるようだが\n　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354051": {
+    "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　仲間モンスターが　装備しているものですが\n　本当に　売っても　よろしいですか？\n<yesno 2><break>": "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は\n　仲間モンスターが　装備しているものですが\n　本当に　売っても　よろしいですか？\n<yesno 2><break>"
+  },
+  "354052": {
+    "「<%sL_ITEM><%sL_PLUSNUM>は\n　仲間モンスターが　装備しているものですが\n　本当に　結晶を取りだして　よろしいですか？\n<yesno 2><break>": "「<%sL_ITEM><%sL_PLUSNUM>は\n　仲間モンスターが　装備しているものですが\n　本当に　結晶を取りだして　よろしいですか？\n<yesno 2><break>"
+  },
+  "354053": {
+    "「<%sL_KAITAI_ITEM>だな。\n　畑の庭具は　同時に１つしか\n　庭に置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　畑の庭具は　同時に１つしか\n　庭に置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354054": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354055": {
+    "「<%sL_KAITAI_ITEM>だな。\n　写真立ての種類ごとに　写真は　１種類しか\n　かざれないが　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　写真立ての種類ごとに　写真は　１種類しか\n　かざれないが　それでもいいのか？\n<yesno 2><break>"
+  },
+  "354056": {
+    "「<%sL_KAITAI_ITEM>の　立ちかたは\n　すでに　覚えているようだが\n　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>の　立ちかたは\n　すでに　覚えているようだが\n　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354057": {
+    "「再販屋では　以前手に入れたことのある物を\n　格安で購入できます。\n　（仮テキスト）\n<bw_break>": "「再販屋では　以前手に入れたことのある物を\n　格安で購入できます。\n　（仮テキスト）\n<bw_break>"
+  },
+  "354058": {
+    "<select_se_off>\n買いにきた\n売りにきた\n説明を聞く\n<select_end><break>": "<select_se_off>\n買いにきた\n売りにきた\n説明を聞く\n<select_end><break>"
+  },
+  "354059": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<select_end><break>"
+  },
+  "354060": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<select_end><break>"
+  },
+  "354061": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<select_end><break>"
+  },
+  "354062": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<select_end><break>"
+  },
+  "354063": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<select_end><break>"
+  },
+  "354064": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<select_end><break>"
+  },
+  "354065": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<select_end><break>"
+  },
+  "354066": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<select_end><break>"
+  },
+  "354067": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<%sL_LIST_NAME_9>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<%sL_LIST_NAME_9>\n<select_end><break>"
+  },
+  "354068": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<%sL_LIST_NAME_9>\n<%sL_LIST_NAME_10>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<%sL_LIST_NAME_9>\n<%sL_LIST_NAME_10>\n<select_end><break>"
+  },
+  "354069": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<%sL_LIST_NAME_9>\n<%sL_LIST_NAME_10>\n<%sL_LIST_NAME_11>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<%sL_LIST_NAME_9>\n<%sL_LIST_NAME_10>\n<%sL_LIST_NAME_11>\n<select_end><break>"
+  },
+  "354070": {
+    "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<%sL_LIST_NAME_9>\n<%sL_LIST_NAME_10>\n<%sL_LIST_NAME_11>\n<%sL_LIST_NAME_12>\n<select_end><break>": "<select_se_off>\n<%sL_LIST_NAME_1>\n<%sL_LIST_NAME_2>\n<%sL_LIST_NAME_3>\n<%sL_LIST_NAME_4>\n<%sL_LIST_NAME_5>\n<%sL_LIST_NAME_6>\n<%sL_LIST_NAME_7>\n<%sL_LIST_NAME_8>\n<%sL_LIST_NAME_9>\n<%sL_LIST_NAME_10>\n<%sL_LIST_NAME_11>\n<%sL_LIST_NAME_12>\n<select_end><break>"
+  },
+  "354071": {
+    "「あなたには　お売りできる品物が\n　一つも無いようですね。\n　（仮テキスト）\n<bw_break>": "「あなたには　お売りできる品物が\n　一つも無いようですね。\n　（仮テキスト）\n<bw_break>"
+  },
+  "354072": {
+    "「使い込み度が１００になるほど使い込まれた\n　装備品からは　職人仕事に使える　特別な素材を\n　取りだせます。それが　汗と涙の結晶です。\n<br>\n「装備品そのものは　なくなってしまいますが \n　旅人たちが戦った証は　この汗と涙の結晶に\n　引き継がれて　次の装備品の糧となるのです。\n<bw_break>": "「使い込み度が１００になるほど使い込まれた\n　装備品からは　職人仕事に使える　特別な素材を\n　取りだせます。それが　汗と涙の結晶です。\n<br>\n「装備品そのものは　なくなってしまいますが \n　旅人たちが戦った証は　この汗と涙の結晶に\n　引き継がれて　次の装備品の糧となるのです。\n<bw_break>"
+  },
+  "354073": {
+    "「使い込み度とは　装備品が　どれくらい\n　使い込まれたかを　示す数値です。\n<br>\n「自分と同格以上の強さの魔物と戦った後\n　時々　装備品がキラキラと光り\n　使い込み度が　上がることがあります。\n<br>\n「そして　使い込み度が　１００になった\n　装備品からは　汗と涙の結晶を\n　取りだせるようになるのです。\n<br>\n「今の使い込み度は　その装備品を\n　くわしくみると　確認できます。\n<br>\n「ただし　職人が作れない装備品の中には\n　使い込み度が　上がらないものもあるので\n　そこは　ご注意ください。\n<bw_break>": "「使い込み度とは　装備品が　どれくらい\n　使い込まれたかを　示す数値です。\n<br>\n「自分と同格以上の強さの魔物と戦った後\n　時々　装備品がキラキラと光り\n　使い込み度が　上がることがあります。\n<br>\n「そして　使い込み度が　１００になった\n　装備品からは　汗と涙の結晶を\n　取りだせるようになるのです。\n<br>\n「今の使い込み度は　その装備品を\n　くわしくみると　確認できます。\n<br>\n「ただし　職人が作れない装備品の中には\n　使い込み度が　上がらないものもあるので\n　そこは　ご注意ください。\n<bw_break>"
+  },
+  "354074": {
+    "「装備品の　装備可能レベルが高いほど\n　また　錬金効果が　たくさんついているほど\n　取りだせる結晶の数は　多くなります。\n<br>\n「ついている錬金効果が　よいものであれば\n　取りだせる結晶は　さらに増えるでしょう。\n<br>\n「できのよさが　高くても\n　錬金効果がついていなければ\n　取りだせる結晶の数は　変わりません。\n<br>\n「結晶を取りだしたい　装備品には\n　積極的に　錬金効果をつけていったほうが\n　取りだせる結晶の数が増えて　お得ですよ。\n<bw_break>": "「装備品の　装備可能レベルが高いほど\n　また　錬金効果が　たくさんついているほど\n　取りだせる結晶の数は　多くなります。\n<br>\n「ついている錬金効果が　よいものであれば\n　取りだせる結晶は　さらに増えるでしょう。\n<br>\n「できのよさが　高くても\n　錬金効果がついていなければ\n　取りだせる結晶の数は　変わりません。\n<br>\n「結晶を取りだしたい　装備品には\n　積極的に　錬金効果をつけていったほうが\n　取りだせる結晶の数が増えて　お得ですよ。\n<bw_break>"
+  },
+  "354075": {
+    "「このたび　素材屋では\n　使い込み度が５０以上であれば　汗と涙の結晶を\n　取りだせるように　なりました。\n<br>\n「ただし　取りだせる数は　１００の時よりも\n　少なくなるので　ご注意ください。\n　さて……。\n<bw_break>": "「このたび　素材屋では\n　使い込み度が５０以上であれば　汗と涙の結晶を\n　取りだせるように　なりました。\n<br>\n「ただし　取りだせる数は　１００の時よりも\n　少なくなるので　ご注意ください。\n　さて……。\n<bw_break>"
+  },
+  "354076": {
+    "「使い込み度が　１００に満たないため　本来より\n　取りだせる数が　少なくなってしまいますが\n　<%nL_NUM>個の結晶を取りだして　よろしいですか？\n<yesno 2><break>": "「使い込み度が　１００に満たないため　本来より\n　取りだせる数が　少なくなってしまいますが\n　<%nL_NUM>個の結晶を取りだして　よろしいですか？\n<yesno 2><break>"
+  },
+  "354077": {
+    "「すみませんが　本日はもう\n　結晶を取りだせません。\n　翌日　朝６時以降に　もう一度お越しください。\n<bw_break>": "「すみませんが　本日はもう\n　結晶を取りだせません。\n　翌日　朝６時以降に　もう一度お越しください。\n<bw_break>"
+  },
+  "354078": {
+    "「ケケケッ　おいおい\n　それは　手に入りづらい　貴重な物だが\n　本当に売ってしまって　いいのか？\n<yesno 2><break>": "「ケケケッ　おいおい\n　それは　手に入りづらい　貴重な物だが\n　本当に売ってしまって　いいのか？\n<yesno 2><break>"
+  },
+  "354079": {
+    "「ケケケッ　おいおい\n　それには　輝晶効果が付いているが\n　本当に売ってしまって　いいのか？\n<yesno 2><break>": "「ケケケッ　おいおい\n　それには　輝晶効果が付いているが\n　本当に売ってしまって　いいのか？\n<yesno 2><break>"
+  },
+  "354080": {
+    "": ""
+  },
+  "354081": {
+    "": ""
+  },
+  "354082": {
+    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けているようだが\n　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けているようだが\n　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354083": {
+    "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようなので\n　お渡しすることが　できません。\n<break>": "「<%sL_KAITAI_ITEM>の　しぐさは\n　すでに　覚えているようなので\n　お渡しすることが　できません。\n<break>"
+  },
+  "354084": {
+    "「<%sL_KAITAI_ITEM>の　立ちかたは\n　すでに　覚えているようなので\n　お渡しすることが　できません。\n<break>": "「<%sL_KAITAI_ITEM>の　立ちかたは\n　すでに　覚えているようなので\n　お渡しすることが　できません。\n<break>"
+  },
+  "354085": {
+    "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けているようなので\n　お渡しすることが　できません。\n<break>": "「<%sL_KAITAI_ITEM>は\n　すでに　取り付けているようなので\n　お渡しすることが　できません。\n<break>"
+  },
+  "354086": {
+    "「<%sL_KAITAI_ITEM>の　スカウトの書は\n　すでに　読んだことがあるようなので\n　お渡しすることが　できません。\n<break>": "「<%sL_KAITAI_ITEM>の　スカウトの書は\n　すでに　読んだことがあるようなので\n　お渡しすることが　できません。\n<break>"
+  },
+  "354087": {
+    "「あら？　そのアイテムは購入できない\n　みたいです。\n<bw_break>": "「あら？　そのアイテムは購入できない\n　みたいです。\n<bw_break>"
+  },
+  "354088": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354089": {
+    "": ""
+  },
+  "354090": {
+    "": ""
+  },
+  "354091": {
+    "": ""
+  },
+  "354092": {
+    "": ""
+  },
+  "354093": {
+    "": ""
+  },
+  "354094": {
+    "「ケケケッ　ひやかしは困るな。\n　売れる物を　何も持ってない　みたいだぜ。\n<bw_break>": "「ケケケッ　ひやかしは困るな。\n　売れる物を　何も持ってない　みたいだぜ。\n<bw_break>"
+  },
+  "354095": {
+    "「他に　売りたいものは　あるか？\n<bw_break>": "「他に　売りたいものは　あるか？\n<bw_break>"
+  },
+  "354096": {
+    "「他にも　売りたいものは　あるか？\n<bw_break>": "「他にも　売りたいものは　あるか？\n<bw_break>"
+  },
+  "354097": {
+    "「ケケケッ　仕方ないな。\n　他に売りたいものは　あるか？\n<bw_break>": "「ケケケッ　仕方ないな。\n　他に売りたいものは　あるか？\n<bw_break>"
+  },
+  "354098": {
+    "「おっと　残念です。\n　無料券をお持ちではないようですね。\n<bw_break>": "「おっと　残念です。\n　無料券をお持ちではないようですね。\n<bw_break>"
+  },
+  "354099": {
+    "「無料券でお買い上げですね。\n　どちらに　なさいますか？\n<bw_break>": "「無料券でお買い上げですね。\n　どちらに　なさいますか？\n<bw_break>"
+  },
+  "354100": {
+    "「無料券1枚　につき　コイン1個　と　\n　交換ができます。\n　どちらに　なさいますか？\n<bw_break>": "「無料券1枚　につき　コイン1個　と　\n　交換ができます。\n　どちらに　なさいますか？\n<bw_break>"
+  },
+  "354101": {
+    "「<%sL_KAITAI_ITEM>を　ひとつですね。\n　<%sM_item>　<%nL_BUY_MURYOKEN>枚に　なります。\n　こちらで　よろしいですか？\n<yesno><break>": "「<%sL_KAITAI_ITEM>を　ひとつですね。\n　<%sM_item>　<%nL_BUY_MURYOKEN>枚に　なります。\n　こちらで　よろしいですか？\n<yesno><break>"
+  },
+  "354102": {
+    "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。\n　<%sM_item>　<%nL_BUY_MURYOKEN>枚に　なります。\n　こちらで　よろしいですか？\n<yesno><break>": "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。\n　<%sM_item>　<%nL_BUY_MURYOKEN>枚に　なります。\n　こちらで　よろしいですか？\n<yesno><break>"
+  },
+  "354103": {
+    "「<%sM_item>との　交換ですね。\n　どちらに　なさいますか？\n<break>": "「<%sM_item>との　交換ですね。\n　どちらに　なさいますか？\n<break>"
+  },
+  "354104": {
+    "「他にも　交換していきますか？\n<break>": "「他にも　交換していきますか？\n<break>"
+  },
+  "354105": {
+    "「まだ何か　交換なさいますか？\n<break>": "「まだ何か　交換なさいますか？\n<break>"
+  },
+  "354106": {
+    "「おっと　残念です。\n　他に　交換したい物は　ございますか？\n<break>": "「おっと　残念です。\n　他に　交換したい物は　ございますか？\n<break>"
+  },
+  "354107": {
+    "「<%sM_item>と　<%sM_item2>\n　両方　お持ちのようですね。\n　どちらを　ご使用されますか？\n<select_se_off>\nボスコイン無料券\nボスコイン優待券\n<select_end><close>": "「<%sM_item>と　<%sM_item2>\n　両方　お持ちのようですね。\n　どちらを　ご使用されますか？\n<select_se_off>\nボスコイン無料券\nボスコイン優待券\n<select_end><close>"
+  },
+  "354108": {
+    "「<%sL_KAITAI_ITEM>は\n　<%nL_BUY_PRICE>ゴールドになるぜ。\n　これを　買うか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>は\n　<%nL_BUY_PRICE>ゴールドになるぜ。\n　これを　買うか？\n<yesno 2><break>"
+  },
+  "354109": {
+    "「<%sL_KAITAI_ITEM>を　ひとつだな。\n　<%nL_BUY_PRICE>ゴールドになるが\n　これを　買うか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>を　ひとつだな。\n　<%nL_BUY_PRICE>ゴールドになるが\n　これを　買うか？\n<yesno 2><break>"
+  },
+  "354110": {
+    "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。\n　合わせて　<%nL_BUY_PRICE>ゴールドになるが\n　これを　買うか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。\n　合わせて　<%nL_BUY_PRICE>ゴールドになるが\n　これを　買うか？\n<yesno 2><break>"
+  },
+  "354111": {
+    "「<%sL_KAITAI_ITEM>だな。\n　畑の庭具は　同時に１つしか\n　庭に置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　畑の庭具は　同時に１つしか\n　庭に置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354112": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354113": {
+    "「<%sL_KAITAI_ITEM>だな。\n　写真立ての種類ごとに　写真は　１種類しか\n　かざれないが　それでもいいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　写真立ての種類ごとに　写真は　１種類しか\n　かざれないが　それでもいいのか？\n<yesno 2><break>"
+  },
+  "354114": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354115": {
+    "「ケケケッ　これは　レプリカになっているけど　\n　買うのか？\n<yesno 2><break>": "「ケケケッ　これは　レプリカになっているけど　\n　買うのか？\n<yesno 2><break>"
+  },
+  "354116": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354117": {
+    "<speed=0>\n販売期間が終了しているため\n購入できませんでした。\n<end>": "<speed=0>\n販売期間が終了しているため\n購入できませんでした。\n<end>"
+  },
+  "354118": {
+    "<speed=0>\n販売価格が変更されました。\nもう一度　やり直してください。\n<end>": "<speed=0>\n販売価格が変更されました。\nもう一度　やり直してください。\n<end>"
+  },
+  "354119": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
+  },
+  "354120": {
+    "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>": "「<%sL_KAITAI_ITEM>だな。\n　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか\n　置けないが　それでも　いいのか？\n<yesno 2><break>"
   }
 }
