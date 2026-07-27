@@ -2571,7 +2571,7 @@
         "マイガーデン枠＋<%nADDPLAN>　に変更されて\nマイガーデンに　登録できる枠が\n<%dSLOT>枠　増えました。<me_60>": ""
     },
     "327743": {
-        "<%d_YYYY>/<%2d_MM>/<%2d_DD>": ""
+        "<%d_YYYY>/<%2d_MM>/<%2d_DD>": "<%02d_MM>/<%02d_DD>/<%d_YYYY>"
     },
     "327744": {
         "<color_yellow>\n倉庫の拡張を変更すると　次回の更新から\n変更した追加倉庫内のアイテムが\n操作できなくなります。<br>\n ※現在の有効期限（<%d_YYYY>年<%d_MM>月<%d_DD>日）までは\n　今の設定が有効です。": "<color_yellow>\nIf you change the option plan for expanded\nextra storage slots, you won't be able to use\nthem once the current plan expires.<br>\n*The current plan is valid until: <%d_YYYY>/<%02d_MM>/<%02d_DD>"
