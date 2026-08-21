@@ -198,7 +198,7 @@
         "「そなたが　この地の修練に挑めば\n　修練を極め　覇者たる道を歩んだ証\n　覇者の心が　手に入る。\n<br>\n「覇者の心と　引き換えで\n　この修練の地で　かつて得られていたが\n　今では手に入らなくなった報酬を　ゆずろう。\n<bw_break>": "If you challenge the disciplines of this\nplace, you will receive the heart of a\nchampion, a sign that you have mastered your\n<br>\ncraft and walked the path of supremacy. In\nexchange for the heart of a champion, you\nwill receive a reward that was once yours but\n<br>\nis no longer available to you.<bw_break>"
     },
     "282615": {
-        "「わしは　旅の覇者モンジ。\n　おのれを試す　修練の地を見つけては\n　挑んでまわっておる。\n<br>\n「よければ　これまでに　わしが\n　この地で手に入れた報酬を　ゆずろう。\n　あまり物品に興味が　ないものでな。\n<br>\n「ただし　そなたが\n　この地の修練を極め　覇者の心を持つ\n　同志であれば……の話だ。\n<break>": "My name is Monji, the Travel Champion. I\ntravel to various different places to test\nand challenge myself.\n<br>\nIf you'd like, I can give you the various\nrewards I've found during my travels in these\nlands.\n<br>\nHowever... I will only give them to you if\nyou've mastered your training in these lands,\nin the form of Champion Hearts.\n<break>"
+        "「わしは　旅の覇者モンジ。\n　おのれを試す　修練の地を見つけては\n　挑んでまわっておる。\n<br>\n「よければ　これまでに　わしが\n　この地で手に入れた報酬を　ゆずろう。\n　あまり物品に興味が　ないものでな。\n<br>\n「ただし　そなたが\n　この地の修練を極め　覇者の心を持つ\n　同志であれば……の話だ。\n<break>": "My name is Plattycus. I wander\nto various different places to test\nand challenge myself.\n<br>\nIf you'd like, I can give you the various\nrewards I've found during my travels in these\nlands.\n<br>\nHowever... I will only give them to you if\nyou've mastered your training in these lands,\nin the form of Conqueror Hearts.\n<break>"
     },
     "282616": {
         "「ふむ。ほかに　用はあるか？\n<break>": "Hmm. Is there anything else?\n<break>"
@@ -210,7 +210,7 @@
         "「交換する　お品モノの\n　カテゴリは　どちらになりますか。\n<bw_break>": "Which item category do you want to see?\n<bw_break>"
     },
     "282619": {
-        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに\n　<%sL_GOODS_ITEM>を望むのだな？\n<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Champion Hearts\nfor the <%sL_GOODS_ITEM>?<yesno 2><break>"
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに\n　<%sL_GOODS_ITEM>を望むのだな？\n<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Conqueror's Hearts\nfor the <%sL_GOODS_ITEM>?<yesno 2><break>"
     },
     "282620": {
         "「さて　何を望む？\n　どれも　今しか　手に入らないものばかりだぞ。\n<break>": "Well then, which would you like? These are the\nitems I'm carrying now.\n<break>"
@@ -219,10 +219,10 @@
         "<pipipi_on>\n「ほかに　望むものはあるか？\n<break>": "<pipipi_on>Is there anything else you want?<break>"
     },
     "282622": {
-        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに\n　<%sL_GOODS_ITEM>を望むのだな？\n<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Champion Hearts\nfor the <%sL_GOODS_ITEM>?<yesno 2><break>"
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに\n　<%sL_GOODS_ITEM>を望むのだな？\n<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Conqueror's Hearts\nfor the <%sL_GOODS_ITEM>?<yesno 2><break>"
     },
     "282623": {
-        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を望むのだな？\n<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Champion Hearts\nfor <%dL_GET_NUM> <%sL_GOODS_ITEM>?\n<yesno 2><break>"
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに\n　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を望むのだな？\n<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Conqueror's Hearts\nfor <%dL_GET_NUM> <%sL_GOODS_ITEM>?\n<yesno 2><break>"
     },
     "282624": {
         "「用意するので　お待ちください。\n<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -234,10 +234,10 @@
         "「では　受け取るがよい。\n<end>": "Okay, please take it.\n<end>"
     },
     "282627": {
-        "「そなたが　ここで手に入れた　覇者の心は\n　今　この場所でしか　有効ではないものだ。\n　時が来れば　失われてしまうぞ。\n<br>\n「わしは　修練を求め　旅を続けている。\n　そなたとは　また　どこかで会うかもしれんな。\n<turn_end>": "The Champion Hearts you have earned are only\naccepted here. In time, they will fade away.\n<br>\nI'll continue my journey to learn more. I\nhope we may cross paths again.\n<turn_end>"
+        "「そなたが　ここで手に入れた　覇者の心は\n　今　この場所でしか　有効ではないものだ。\n　時が来れば　失われてしまうぞ。\n<br>\n「わしは　修練を求め　旅を続けている。\n　そなたとは　また　どこかで会うかもしれんな。\n<turn_end>": "The Conqueror's Hearts you have earned are\nonly accepted here. In time, they will fade\naway.\n<br>\nI'll continue my journey to learn more. I\nhope we may cross paths again.\n<turn_end>"
     },
     "282628": {
-        "「そなたが　ここで手に入れた　覇者の心は\n　今　この場所でしか　有効ではないものだ。\n　時が来れば　失われてしまうぞ。\n<br>\n「わしは　修練を求め　旅を続けている。\n　そなたとは　また　どこかで会うかもしれんな。\n<turn_end>": "The Champion Hearts you have earned are only\naccepted here. In time, they will fade away.\n<br>\nI'll continue my journey to learn more. I\nhope we may cross paths again.\n<turn_end>"
+        "「そなたが　ここで手に入れた　覇者の心は\n　今　この場所でしか　有効ではないものだ。\n　時が来れば　失われてしまうぞ。\n<br>\n「わしは　修練を求め　旅を続けている。\n　そなたとは　また　どこかで会うかもしれんな。\n<turn_end>": "The Conqueror's Hearts you have earned are\nonly accepted here. In time, they will fade\naway.\n<br>\nI'll continue my journey to learn more. I\nhope we may cross paths again.\n<turn_end>"
     },
     "282629": {
         "<pipipi_off>\n<pc>は\n<%sM_item>　<%sM_plusnum>を\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received <%sM_item><%sM_plusnum>!\n<se_nots System 7>\n<end>"
