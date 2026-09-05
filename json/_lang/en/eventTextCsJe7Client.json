@@ -618,19 +618,19 @@
         "「女神ルティアナさまが　あたしの中に\n　種を　宿したのは\n　きっと　今日　このときのため。": "Lutiana planted a seed within me...and I'm\nsure it was for this very day...this very\nmoment."
     },
     "337885": {
-        "「あたしは　アストルティアが好き。": "I really like Astoltia."
+        "「あたしは　アストルティアが好き。": "I love Astoltia."
     },
     "337886": {
-        "「アストルティアに住む　みんなが\n　ひとりだって　欠けてほしくないし\n　あの世界が　ずっと存在しててほしい！": "I don't want even a single person from\nAstoltia to go missing... I want it to\nlive on forever!"
+        "「アストルティアに住む　みんなが\n　ひとりだって　欠けてほしくないし\n　あの世界が　ずっと存在しててほしい！": "I don't lose even a single person more...\nI want this world to live on forever!"
     },
     "337887": {
         "「みんなが　幸せに暮らしてる姿を\n　見守っていられるなら……\n　あたしは　よろこんで　女神の世界樹になるよ。": "If I can watch over everyone living their\nhappy lives...then I'll gladly become\nYggdrasil."
     },
     "337888": {
-        "<center>ならば　その覚悟……\n身をもって　示してみせよ": "If that is your resolve...\nThen prove it with your own life!"
+        "<center>ならば　その覚悟……\n身をもって　示してみせよ": "If that is your resolve...\nThen prove it with your very life!"
     },
     "337889": {
-        "「よくも　みんなに　化けてくれたね……。\n　いくよっ　<cs_pchero>隊長！\n　あいつら全部　倒しちゃおうっ！！": "So you really went and disguised yourselves as\neveryone, huh... Come on! Let's take them\nall down!"
+        "「よくも　みんなに　化けてくれたね……。\n　いくよっ　<cs_pchero>隊長！\n　あいつら全部　倒しちゃおうっ！！": "So you really went and disguised yourselves as\nour friends, huh... Come on! Let's take them\nall down!"
     },
     "337890": {
         "「次は　誰！？\n　何匹だって　相手してあげるんだから！": "Who's next?! I'll take whatever you throw at\nme!"
@@ -984,7 +984,7 @@
         "<center>　　　　　\n<pc>隊長っ！": "Captain!"
     },
     "338009": {
-        "ヘアピンから聞こえてきた声の　おかげで\n■■■■は　自分の名前が\n<pc>だったと　思いだすことができた。": "Thanks to the voice that echoed from the\nhairpin, ■■■■ is able to remember that\ntheir name is <pc>."
+        "ヘアピンから聞こえてきた声の　おかげで\n■■■■は　自分の名前が\n<pc>だったと　思いだすことができた。": "Thanks to the voice that echoed from the\nhairpin, ■■■■ is able to remember that\n<if_woman>her<else>his<endif> name is <pc>."
     },
     "338010": {
         "「己の名を　取り戻したか……。\n　ならば　もがけるだけ　もがいてみるがよい。\n　ただし……": "You've reclaimed your name, I see...\nWell...struggle as you wish."
@@ -1041,7 +1041,7 @@
         "「……新たな神としての　初仕事。\n　我が　創生のチカラ　受け取れっ！！\n　<pc>！！": "And now, my first task as a new god!\nMy power of creation is yours!!"
     },
     "338029": {
-        "なんと　ラダ・ガートの　創生のチカラによって\n<pc>は\n自分の姿と　生きる強さを　取り戻した！": "From Lada Gart's power of creation,\n<pc> regains their form and the\nstrength to keep on!"
+        "なんと　ラダ・ガートの　創生のチカラによって\n<pc>は\n自分の姿と　生きる強さを　取り戻した！": "From Lada Gart's power of creation,\n<pc> regains <if_woman>her<else>his<endif> form and the\nstrength to keep on!"
     },
     "338030": {
         "「……<pc>。\n　お前の魂は　誰よりも　強い。": "Your soul is stronger than anyone else's,\n<pc>."
@@ -1077,7 +1077,7 @@
         "「貴様のような　小娘ひとりに\n　大魔王マデサゴーラが　討てるはずがない……\n　という点に　おいてだけは　信憑性があるな。": "There's no chance a mere girl could defeat\nMadesagora alone... That is the only point\nthat has any credibility here."
     },
     "338041": {
-        "「僕たち　３人の魔王の　誰ひとりとして\n　存在を知らない　謎の人物の痕跡は\n　魔界にも　残されていてね。": "Not a single one of us three knows of this\nmysterious person's existence. However,\ntraces of them yet remain in the Demon World."
+        "「僕たち　３人の魔王の　誰ひとりとして\n　存在を知らない　謎の人物の痕跡は\n　魔界にも　残されていてね。": "Not a single one of us three knows of this\nmysterious person's existence. However,\ntraces of <if_woman>her<else>him<endif> yet remain in the Demon World."
     },
     "338042": {
         "「大魔王顔壁に刻まれた　仮面の大魔王の姿……\n　魔界大戦は　うやむやのうちに　終結し\n　三国間の国交まで　回復している。": "The Demon Lord's image was carved into the\nFaces of Evil... The war ended without a clear\nwinner, and even relations between our nations\n<br>\nhas been restored."
@@ -1230,7 +1230,7 @@
         "<center>人々の憎しみが　世界を戦火に包み\n無数の命が奪われ　アストルティアを傷つける": "People's hatred have engulfed the world into\nwar, claiming countless lives and harming\nAstoltia itself..."
     },
     "338093": {
-        "<center>世界を満たす悲鳴と　膨れ上がる悲しみを\n何もできず　見守るだけだ……": "The world is loud with screams and overflowing\nwith sorrow. Yet all I can do nothing but\nhelplessly watch..."
+        "<center>世界を満たす悲鳴と　膨れ上がる悲しみを\n何もできず　見守るだけだ……": "The world is loud with screams and overflowing\nwith sorrow. Yet all I can do is nothing but\nhelplessly watch..."
     },
     "338095": {
         "<center>かつて　かの英雄の友であった者たちは\n魔界とアストルティアの戦を　止めるため\n必死に　奔走したが……": "Those who were friends of that champion once\ndesperately tried to end the war between the\nDemon World and Astoltia..."
@@ -1389,7 +1389,7 @@
         "「……わたしは　あの子の　心のかけら。\n　創失の呪いに侵され　自分自身にすら捨てられた\n　ひとりぼっちの　できそこない……。": "I am a fragment of that girl's heart. I am\nbroken, and abandoned...afflicted with the\ncurse, and cast aside even by my own self..."
     },
     "338158": {
-        "「創失の世界をさまよう　悲しき魂たち……\n　あなたが感じてきた　苦しみは　すべて\n　わたしたち　呪われた　アストルティアのせい。": "The sorrowful souls that wander this world...\nTheir suffering they've endured is the fault\nof the accursed Astoltia...our fault."
+        "「創失の世界をさまよう　悲しき魂たち……\n　あなたが感じてきた　苦しみは　すべて\n　わたしたち　呪われた　アストルティアのせい。": "The sorrowful souls that wander this world...\nThe suffering they've endured is the fault\nof the accursed Astoltia...our fault."
     },
     "338159": {
         "「ルティアナかあさまが　あの時\n　わたしたちを　消してくれていれば……": "If only Mother had erased us back then..."
@@ -1548,7 +1548,7 @@
         "「<cs_pchero>隊長！　しっかりして！！": "Captain! Hang in there!!"
     },
     "338211": {
-        "「……ごめんね。結局　あたしに\n　アストルティアは　救えなかった……。\n　せめて　<cs_pchero>隊長　だけでも……！": "I'm sorry... I wasn't able to save Astoltia\nafter all... But if I can at least save\n<cs_pchero>...!"
+        "「……ごめんね。結局　あたしに\n　アストルティアは　救えなかった……。\n　せめて　<cs_pchero>隊長　だけでも……！": "I'm sorry... I wasn't able to save Astoltia\nafter all... But if I can at least save you,\n<cs_pchero>...!"
     },
     "338212": {
         "「……よかった。\n　これなら　<cs_pchero>隊長は　助かるね。": "Good... That should be enough to save you..."
