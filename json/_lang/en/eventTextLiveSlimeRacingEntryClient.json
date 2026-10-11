@@ -189,7 +189,7 @@
     "「では　<%sM_ACTIVE_SLIME>を\n　はじめの状態から　きたえなおしますか？\n<yesno2><break>": "So, do we want to rerun <%sM_ACTIVE_SLIME>\nfrom its initial state?<yesno2><break>"
   },
   "183542": {
-    "「かしこまりました。\n　それでは　<pc>様の　勝利ポイントを\n　すべて取り消して　こちらを　お渡ししますね！\n<end>": "Yes, sir. Okay.<pc> I'll cancel all of your victory points and\ngive you this one!<end>"
+    "「かしこまりました。\n　それでは　<pc>様の　勝利ポイントを\n　すべて取り消して　こちらを　お渡ししますね！\n<end>": "Very well! Your Victory Points have been\nreset. Please take these as well!\n<end>"
   },
   "183768": {
     "「では　<%sM_ACTIVE_SLIME>を　種族を変更せず\n　今と同じつよさで　チャンピオンシップから\n　再挑戦させます。\n<br>\n「再挑戦した場合も\n　きたえなおせる回数は　１回分減ります。\n　本当に　よろしいですか？\n<yesno2><break>": "So, let's retry <%sM_ACTIVE_SLIME> from the\nChampionship with the same strength as\nbefore, but without changing your race. If\n<br>\nyou retry, you'll get one less re-training...\nAre you sure you want to do this?<yesno2><break>"
@@ -312,7 +312,7 @@
     "「あら？　申し訳ありません。\n　マッチングに　失敗してしまったようです。\n　もう一度　お試しください。\n<end>": "Oh, no. I'm sorry... I'm sorry, the match\nfailed. Please try again...<end>"
   },
   "210819": {
-    "「あら？　育成受付係のブレダが\n　何か言いたそうに　しています。\n　となりで　用を済ませてから　お越しください。\n<end>": "What? Bredda, the nursery receptionist, looks\nlike she's about to say something... If\nyou'll excuse me, I have some business to\n<br>\nattend to next door...<end>"
+    "「あら？　育成受付係のブレダが\n　何か言いたそうに　しています。\n　となりで　用を済ませてから　お越しください。\n<end>": "Oh? It looks like Breda over there has\nsomething she wants to tell you. Come back\nhere after you've spoken to her, okay?\n<end>"
   },
   "210820": {
     "「申し訳ございません。ただ今\n　開催されているレースは　休止しております。\n　また　しばらくしてから　お越しください！\n<end>": "I'm sorry... We're sorry, but the race is now\ncancelled. Please come back in a few minutes!<end>"
@@ -474,7 +474,7 @@
     "「あら？　<pc>様……？\n　あなたの名前を　ランキングで見た気がします。\n　ランキングは　掲示板で確認できますよ。\n<end>": "Oh? You're <if_woman>Ms.<else>Mr.<endif> <pc>, yes? I think\nI saw your name listed in the rankings.\nYou can check on the board over there.\n<end>"
   },
   "250785": {
-    "「再エントリー後　勝利ポイントを獲得する前に\n　大会が終了すると　賞金を受け取れません。\n　本当に　再エントリーしますか？\n<yesno2><break>": "If you re-enter and the tournament ends\nbefore you have earned any victory points,\nyou will not receive your prize money... Are\n<br>\nyou sure you want to re-enter?<yesno2><break>"
+    "「再エントリー後　勝利ポイントを獲得する前に\n　大会が終了すると　賞金を受け取れません。\n　本当に　再エントリーしますか？\n<yesno2><break>": "If you re-enter and don't earn any Victory\nPoints before the event ends, you won't\nbe eligible for any prize money.\n<br>\nAre you sure you want to re-enter?\n<yesno2><break>"
   },
   "250980": {
     "「チャンピオンシップとは　他の冒険者が育てた\n　スライムと　競走できるレースです。\n<br>\n「チャンピオンシップへ出場するには\n　大会予選を　走りきる必要があります。\n<br>\n「チャンピオンシップは　１０万ポイントを\n　支払うことで出場し　順位に応じて\n　勝利ポイントを　稼ぐことができます。\n<br>\n「参加権が必要ないため　勝利することで\n　勝利ポイントを　増やし続けることができます。\n<br>\n「ただし　勝利ポイントが　１０万ポイントを\n　下回ってしまうと　再エントリーしない限り\n　出場できませんので　ご注意ください。\n<bw_break>": "The Championship is a race where you compete\nagainst slimes raised by other adventurers.\nTo qualify for the Championship, you must\n<br>\ncomplete the preliminary rounds... You pay\n100,000 points to enter the Championship, and\nyou earn victory points based on your\n<br>\nposition... Since you don't need to qualify,\nyou can keep increasing your victory points\nby winning... However, please note that if\n<br>\nyour victory points fall below 100,000\npoints, you will not be able to participate\nin the tournament unless you re-enter...<bw_break>"
