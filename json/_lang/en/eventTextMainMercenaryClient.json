@@ -8,32 +8,17 @@
   "11741": {
     "「ほい。ありがとよ。\n　また　さびしくなったら\n　いつでも来なよ。待ってるぜ。": "Hey, thanks a lot. If you're ever feeling\nlonely, come by anytime. We'll be waiting."
   },
-  "11742": {
-    "「他にも　用はあるかい？\n<break>": "Anything else you need?\n<break>"
-  },
   "11744": {
     "「おっと。悪いけど　カネが足りないみたいだな。\n<bw_break>": "I'm sorry. I'm sorry, but I don't think we\nhave enough money...<bw_break>"
   },
   "11745": {
     " 「<%sM_pc>を<%nL_Time>時間　仲間にするなら\n 　紹介料として　<%nL_Spt_gold>ゴールド\n 　いただくが　構わないかい？\n<yesno><break>": "Hiring <%sM_pc> for <%dL_Time> hr. will cost\n<%dL_Spt_gold> Gold. Is that all right?\n<yesno><break>"
   },
-  "11746": {
-    "「わかりました。\n　<%sM_pc>さんが　ログインしても\n　あなたには　何もお伝えしませんね。<end>": "I understand... If <%sM_pc> logs\nin, we will not tell you anything...<end>"
-  },
-  "11747": {
-    "「わかりました。\n　<%sM_pc>さんが　ログインしたら\n　仲間に入ってよいと　お伝えいたします。<end>": "I understand... When <%sM_pc>\nlogs in, tell him he can join us...<end>"
-  },
-  "11748": {
-    "「わかりました。<%sM_pc>さんには\n　町の外に　出たところで\n　待ち合わせするように　お伝えしておきます。\n<br>\n「ところで　<%sM_pc>さんが\n　ログインしてきたときは　そのまま\n　仲間に入っても　よいでしょうか？\n<yesno><break>": "Okay... I'll tell <%sM_pc> to\nmeet you outside of town... By the way, when\n<%sM_pc> logs in, can I just join\n<br>\nhim?<yesno><break>"
-  },
   "11749": {
     "「ん？　仲間が　いっぱいじゃないか。\n　入れ替えになってもよけりゃ\n　仲間にしたいやつを　選んでくれ。\n<break>": "Oh? Your party's looking a little full.\nIf you don't mind, could you tell me which\nmember you want to replace?\n<break>"
   },
   "11750": {
     "「やめとくってか。\n　他に　仲間にしたいやつは　いるかい？<break>": "Changed your mind, then?\nIs there anyone else you'd like to join\nyou?\n<break>"
-  },
-  "11751": {
-    "「<%sM_pc>さんを　仲間にしますか？<yesno><break>": "Would you like to join <%sM_pc>?<yesno><break>"
   },
   "11752": {
     "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな。\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもないぜ。\n<br>\n「サポート仲間に登録をしたら\n　冒険を中断してもらうことになるが\n　今　登録してもいいんだな？\n<yesno><break>": "Okay, I... I'm going to stop my adventure and\nsign up for a support group... If you become\na Support Companion, and someone joins you,\n<br>\nyou'll earn experience and gold while you\nrest... And of course, you can't let anyone\nuse your belongings or steal your equipment.\n<br>\nIn other words, there's nothing to lose by\nsigning up... So, if I sign up for a support\ngroup, I'll have to stop my adventure, but I\n<br>\ncan sign up now, right?<yesno><break>"
@@ -68,75 +53,6 @@
   "11767": {
     "<pipipi_off><%sM_pc>が　仲間から　はずれた。<end>": "<pipipi_off><%sM_pc> has been removed from the group.<end>"
   },
-  "11768": {
-    "「ここは　冒険者の酒場。\n　旅人たちが　仲間をもとめて集まる\n　出会いと別れの酒場だ。\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "This is the Adventurer's Tavern, the place\nwhere travelers come to meet and recruit\nnew friends. What can I do for you?\n<select_se_off>\nParty Search\nRegister Self\nProposed Teams\nExplanation\n<select_end>\n<break>"
-  },
-  "11769": {
-    "「今日は　どんなやつを　探してんだ？\n　検索する耐性値の大きさは　★の数で\n　ある程度　しぼり込むことができるぞ。<break>": "Who're you looking for today?\nBy the way, you can narrow down resistances\nwith the number of ★s.\n<break>"
-  },
-  "11770": {
-    "「ほい。ありがとよ。\n　また　さびしくなったら\n　いつでも来なよ。待ってるぜ。": "Hey, thanks a lot. If you're ever feeling\nlonely, come by anytime. We'll be waiting."
-  },
-  "11771": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nRegister Self\nRecommended Teams\nExplanation\n<select_end>\n<break>"
-  },
-  "11773": {
-    "「おっと。悪いけど　カネが足りないみたいだな。\n<bw_break>": "I'm sorry. I'm sorry, but I don't think we\nhave enough money...<bw_break>"
-  },
-  "11774": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
-  },
-  "11775": {
-    "「わかりました。\n　<%sM_pc>さんが　ログインしても\n　あなたには　何もお伝えしませんね。<end>": "I understand... If <%sM_pc> logs\nin, we will not tell you anything...<end>"
-  },
-  "11776": {
-    "「わかりました。\n　<%sM_pc>さんが　ログインしたら\n　仲間に入ってよいと　お伝えいたします。<end>": "I understand... When <%sM_pc>\nlogs in, tell him he can join us...<end>"
-  },
-  "11777": {
-    "「わかりました。<%sM_pc>さんには\n　町の外に　出たところで\n　待ち合わせするように　お伝えしておきます。\n<br>\n「ところで　<%sM_pc>さんが\n　ログインしてきたときは　そのまま\n　仲間に入っても　よいでしょうか？\n<yesno><break>": "Okay... I'll tell <%sM_pc> to\nmeet you outside of town... By the way, when\n<%sM_pc> logs in, can I just join\n<br>\nhim?<yesno><break>"
-  },
-  "11778": {
-    "「おっとっと。\n　なんだよ　もう仲間がいっぱいじゃないか。\n　仲間は　最大で４人だぜ。覚えとくんだな。\n<bw_break>": "Oh... What's wrong? You already have so many\nfriends. I have a maximum of four... I\nremember...<bw_break>"
-  },
-  "11779": {
-    "「やめとくってか。\n　他に　仲間にしたいやつは　いるかい？<break>": "Changed your mind, then?\nIs there anyone else you'd like to join\nyou?\n<break>"
-  },
-  "11780": {
-    "「<%sM_pc>さんを　仲間にしますか？<yesno><break>": "Would you like to join <%sM_pc>?<yesno><break>"
-  },
-  "11781": {
-    "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな？\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもない。\n<br>\n「それじゃあ　冒険を中断して\n　サポート仲間に　登録していいな？\n<yesno><break>": "Okay, I... You're going to stop your\nadventure and sign up for a support group,\nright? If you become a support companion, and\n<br>\nsomeone joins you, you'll earn experience and\ngold while you rest. And of course, they\ncan't use your stuff or steal your gear. I\n<br>\nmean, what's the harm in signing up? So, can\nwe stop the adventure and sign up for the\nsupport group?<yesno><break>"
-  },
-  "11783": {
-    "「そっか。まあ　気が変わったんなら\n　しゃあないわな。\n<bw_break>": "Well... Well, if you've changed your mind, so\nbe it...<bw_break>"
-  },
-  "11785": {
-    "「よし。<%sM_pc>の登録を　受け付けたぜ。\n<br>\n「せっかく　登録したんだから\n　誰かに　仲間にしてもらえるといいな。\n　誰にも気づいてもらえないと　さみしいもんな。\n<br>\n「とか　そういうこと気にし始めると\n　ゆっくり休めないから　考えない方がいいぞ。\n　そいじゃ　おやすみ。<end>": "OK. I'm accepting registrations for\n<%sM_pc>... Now that I'm\nregistered, I'm hoping someone will join me.\n<br>\nI'll be sad if no one notices... If you start\nworrying about that, you'll never get a good\nnight's rest, so you might as well stop\n<br>\nthinking about it. Okay, well...<end>"
-  },
-  "11788": {
-    "<speed=0><%sM_pc>が　仲間に加わった！<end>": "<speed=0><%sM_pc> joins the party!<end>"
-  },
-  "11789": {
-    "「それじゃ　決まりだ！\n　<%sM_pc>には　町の外に出た所で\n　合流するよう　伝えておくぜ！\n<end>": "Then it's settled! I'll tell\n<%sM_pc> to meet you just outside\nof town!\n<end>"
-  },
-  "11791": {
-    "「誰と　別れるんだい？\n<break>": "Who will you part with?<break>"
-  },
-  "11792": {
-    "「やめとくかい。\n　まあ　好きにしなよ。\n<bw_break>": "Don't... Well, suit yourself...<bw_break>"
-  },
-  "11793": {
-    "「よし　わかった。\n　じゃあ　<%sM_pc>には\n　俺から　伝えておくよ。<end>": "Okay, understood.\nI'll tell <%sM_pc>, then."
-  },
-  "11794": {
-    "「……おいおい。\n　<%sM_pc>は　死んでるじゃないか。\n　死なせたまま別れるなんて　どうかと思うぞ。\n<br>\n「まず　教会で生き返らせてくるんだな。\n　一緒に戦った仲間に対する礼儀として\n　それくらいやっても　罰は当たらないと思うぜ？\n<bw_break>": "... Oh... <%sM_pc> is dead. I\ndon't think we should just leave him there to\ndie. I'll bring him back to life at the\n<br>\nchurch. I don't think it's wrong to do that\nas a courtesy to the people you fought with.<bw_break>"
-  },
-  "11795": {
-    "「<%sM_pc>と別れるけど\n　本当に　いいんだな？\n<yesno><break>": "I'll break up with <%sM_pc>, but\nare you sure you want to?<yesno><break>"
-  },
-  "11796": {
-    "<speed=0><%sM_pc>が　仲間から　はずれた。<end>": "<speed=0><%sM_pc> has been removed from\nthe group...<end>"
-  },
   "11797": {
     "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場よ。\n　何を　おのぞみかしら？\n<break>": "This is the Adventurer's Tavern. The place\nwhere travelers come to meet and recruit\nnew friends. What can I do for you?\n<break>"
   },
@@ -146,32 +62,17 @@
   "11799": {
     "「ありがとうございました。\n　新しい出会いが　ほしいときは\n　また　いつでも来てね。": "Thank you very much. If you're ever looking to\nmeet someone new, you can always come back\nhere."
   },
-  "11800": {
-    "「他に　ご用はあるかしら？\n<break>": "Is there anything else I can help you with?\n<break>"
-  },
   "11802": {
     "「あら　残念だけど\n　お金が　足りないみたいね。\n<bw_break>": "Oh, I'm sorry, but I don't have enough money\nto...<bw_break>"
   },
   "11803": {
     "「<%sM_pc>さんを<%nL_Time>時間　仲間にするなら\n　紹介料として　<%nL_Spt_gold>ゴールド\n　いただくけど　いいかしら？\n<yesno><break>": "Hiring <%sM_pc> for <%dL_Time> hr. will cost\n<%dL_Spt_gold> Gold. Is that all right with you?\n<yesno><break>"
   },
-  "11804": {
-    "「わかったわ。\n　<%sM_pc>さんが　ログインしても\n　あなたには　何も伝えないでおくわね。<end>": "WOW... When <%sM_pc> logs in, he\ndoesn't tell you anything...<end>"
-  },
-  "11805": {
-    "「わかったわ。\n　<%sM_pc>さんが　ログインしたら\n　仲間になってもいいって　伝えておくわね。<end>": "Waka... Tell <%sM_pc> that he can\njoin us when he logs in...<end>"
-  },
-  "11806": {
-    "「わかったわ。<%sM_pc>さんには\n　町の外に　出たところで\n　待ち合わせするように　伝えておくわね。\n<br>\n「ところで　<%sM_pc>さんが\n　ログインしてきたときは　そのまま\n　仲間になっても　いいのかしら？\n<yesno><break>": "Got it. I'll tell <%sM_pc> to meet you\njust outside of town.\n<br>\nBy the way, when they log in, would you like\nto automatically join their party?\n<yesno><break>"
-  },
   "11807": {
     "「あら。もう　お仲間が　いっぱいじゃない。\n　入れ替えになってもいいなら\n　仲間にしたい人を　選んでね？\n<break>": "Ah, your party is already full, isn't it?\nWell, if you don't mind replacing someone,\nplease tell me what you're looking for.\n<break>"
   },
   "11808": {
     "「やめとくのね？\n　他に　仲間にしたい人は　いるかしら？<break>": "Changed your mind? Is there anyone else you'd\nlike to join you?<break>"
-  },
-  "11809": {
-    "「<%sM_pc>さんを　仲間にする？<yesno><break>": "Would you like to join <%sM_pc>?<yesno><break>"
   },
   "11810": {
     "「わかったわ。\n　冒険を中断して　サポート仲間に登録するのね。\n<br>\n「サポート仲間になって\n　誰かの仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるわよ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対ないわ。\n　つまり　登録して損なことは　ゼロってわけ。\n<br>\n「サポート仲間に登録したら\n　冒険を中断してもらうことになるけど\n　登録をしても　いいかしら？\n<yesno><break>": "I don't know. You can stop your adventure and\nsign up to be a support companion... And if\nyou become a support companion, and someone\n<br>\njoins you, you can earn experience and gold\nwhile you're off... Of course, you can't let\nanyone use your belongings or steal your\n<br>\nequipment. In other words, there's nothing to\nlose by signing up. If I sign up as a support\ncompanion, I'll have to ask you to take a\n<br>\nbreak from the adventure, but can I still\nsign up?<yesno><break>"
@@ -209,49 +110,19 @@
   "19667": {
     "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場だ。\n　今日は　どんな用だい？\n<break>": "This is a place for adventurers... It's a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you today?<break>"
   },
-  "19669": {
-    "「他にも　用はあるかい？\n<break>": "Anything else you need?\n<break>"
-  },
-  "19671": {
-    "「ここは　冒険者の酒場。\n　旅人たちが　仲間をもとめて集まる\n　出会いと別れの酒場だ。\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nなかまと別れる\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "This is the Adventurer's Tavern, the place\nwhere travelers come to meet and recruit\nnew friends and part with old ones.\n<br>\nWhat can I do for you today?\n<select_se_off>\nParty Search\nRegister Self\nRemove Member\nProposed Teams\nExplanation\n<select_end>\n<break>"
-  },
-  "19673": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nなかまと別れる\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nRegister Self\nRecommended Teams\nRemove Members\nExplanation\n<select_end>\n<break>"
-  },
   "19675": {
     "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場よ。\n　何を　おのぞみかしら？\n<break>": "This is the Adventurer's Tavern. The place\nwhere travelers come to meet and recruit\nnew friends. What can I do for you?\n<break>"
-  },
-  "19677": {
-    "「他に　ご用はあるかしら？\n<break>": "Is there anything else I can help you with?\n<break>"
   },
   "24418": {
     "「んー。悪いが　あんたの条件に合うやつは\n　今日は　いないみたいだなあ。\n　条件を変えてみてくれよ。\n<break>": "Hmm. I'm sorry, but I don't think we have\nanyone that fits your criteria today. Try\nchanging it up.<break>"
   },
-  "24419": {
-    "「申し訳ありませんが\n　<%sM_pc>さんは　他の方に\n　誘われてしまったようです。<bw_break>": "I'm sorry, <%sM_pc>, but you've\nbeen invited by another...<bw_break>"
-  },
-  "24420": {
-    "「んー。悪いが　あんたの条件に合うやつは\n　今日は　いないみたいだなあ。\n　条件を変えて　探してみてくれるか。\n<bw_break>": "Hmm. I'm sorry, but I don't think there's\nanyone that fits your criteria today. Try\nlooking under different conditions...<bw_break>"
-  },
-  "24421": {
-    "「申し訳ありませんが\n　<%sM_pc>さんは　他の方に\n　誘われてしまったようです。<bw_break>": "I'm sorry, <%sM_pc>, but you've\nbeen invited by another...<bw_break>"
-  },
   "24422": {
     "「悪いけど　その条件に合う人は　いないみたい。\n　条件を　変えてもらえるかしら？\n<break>": "Sorry, but there's no one who fits those\nparameters. Can you try something else?\n<break>"
-  },
-  "24423": {
-    "「あら？　<%sM_pc>さんは\n　他の人に　誘われちゃったみたい。\n　ごめんなさい　別な人を紹介するわね。<bw_break>": "Oh? Mr. <%sM_pc> got asked out by\nsomeone else... I'm sorry. I'll introduce you\nto someone else...<bw_break>"
   },
   "26208": {
     "「今いるのは　こんな連中だな。\n　どうだ。気に入ったやつは　いるかい？<break>": "This is who's here right now.\nWell? Is there any of 'em you fancy?<break>"
   },
   "26209": {
-    "「ちょっと　待ってくれよ……。\n<break>": "Wait just a moment...\n<break>"
-  },
-  "26210": {
-    "「今いるのは　こんな連中だな。\n　どうだ。気に入ったやつは　いるかい？<break>": "This is who's here right now.\nWell? Is there any of 'em you fancy?<break>"
-  },
-  "26211": {
     "「ちょっと　待ってくれよ……。\n<break>": "Wait just a moment...\n<break>"
   },
   "26212": {
@@ -260,83 +131,11 @@
   "26213": {
     "「じゃあ　ちょっと待ってくれる？\n<break>": "Okay, can you please wait a moment?\n<break>"
   },
-  "38806": {
-    "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場だ。\n　今日は　どんな用だい？\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "This is a place for adventurers... It's a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you today? What can I do for you\ntoday?\n<select_se_off>\nfind a friend\nsplit up with one's friends\nListen to the explanation\n<select_end>\n<break>"
-  },
-  "38807": {
-    "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場だ。\n　今日は　どんな用だい？\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "This is a place for adventurers... It's a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you today? What can I do for you\ntoday?\n<select_se_off>\nfind a friend\nListen to the explanation\n<select_end>\n<break>"
-  },
-  "38808": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nRemove Members\nExplanation\n<select_end>\n<break>"
-  },
-  "38809": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "Is there anything else you need?\n<select_se_off>\nfind a friend\nListen to the explanation\n<select_end>\n<break>"
-  },
-  "38810": {
-    "「ここは　冒険者の酒場。\n　旅人たちが　仲間をもとめて集まる\n　出会いと別れの酒場だ。\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "This is a place for adventurers... It's a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you today?\n<select_se_off>\nfind a friend\nsplit up with one's friends\nListen to the explanation\n<select_end>\n<break>"
-  },
-  "38811": {
-    "「ここは　冒険者の酒場。\n　旅人たちが　仲間をもとめて集まる\n　出会いと別れの酒場だ。\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "This is a place for adventurers... It's a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you today?\n<select_se_off>\nfind a friend\nListen to the explanation\n<select_end>\n<break>"
-  },
-  "38812": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nRemove Members\nExplanation\n<select_end>\n<break>"
-  },
-  "38813": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "Is there anything else you need?\n<select_se_off>\nfind a friend\nListen to the explanation\n<select_end>\n<break>"
-  },
-  "38814": {
-    "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場よ。\n　何を　おのぞみかしら？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "This is a place for adventurers... It is a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you?\n<select_se_off>\nfind a friend\nsplit up with one's friends\nListen to the explanation\n<select_end>\n<break>"
-  },
-  "38815": {
-    "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場よ。\n　何を　おのぞみかしら？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "This is a place for adventurers... It is a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you?\n<select_se_off>\nfind a friend\nListen to the explanation\n<select_end>\n<break>"
-  },
-  "38816": {
-    "「他に　ご用はあるかしら？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "Anything else I can do?\n<select_se_off>\nParty Search\nRemove Members\nExplanation\n<select_end>\n<break>"
-  },
-  "38817": {
-    "「他に　ご用はあるかしら？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": "Is there anything else I can help you with?\n<select_se_off>\nParty Search\nExplanation\n<select_end>\n<break>"
-  },
-  "38818": {
-    "「おっと　悪いな。\n　今は　紹介できるやつが　いないんだよ。\n<br>\n「紹介できるやつを　増やしたいんなら\n　この町にいる　名前が紫色のやつらの頼みを\n　聞いてやるといいぜ。\n<bw_break>": "Whoa... I don't have anyone to introduce you\nto right now... If you want to introduce more\npeople, you'll have to do a favor for the\n<br>\npurple ones in this town...<bw_break>"
-  },
-  "38819": {
-    "「おっと　悪いな。\n　今は　紹介できるやつが　いないんだよ。\n　また今度　来てくれ。\n<bw_break>": "Whoa... I don't have anyone to introduce you\nto right now... I'll see you next time...<bw_break>"
-  },
-  "38820": {
-    "「ごめんなさい。\n　今は　紹介できる人が　いないのよ。\n　また来てくれるかしら。\n<bw_break>": "I'm sorry, I... I don't have anyone to\nintroduce you to right now. You can come\nback...<bw_break>"
-  },
-  "38830": {
-    "「<%sM_pc>を　仲間にするか？<break>": "Invite <%sM_pc> to your party?<break>"
-  },
-  "38831": {
-    "「<%sM_pc>か。仲間にして　いいかい？<yesno><break>": "<%sM_pc>, hm? You want them in your\nparty?<yesno><break>"
-  },
-  "38832": {
-    "「<%sM_pc>さんね。\n　お仲間にして　いいかしら？<break>": "You want <%sM_pc> to join you?<break>"
-  },
   "41049": {
     "「何を　知りたいんだ？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n紹介料について\n自分をとうろくについて\n耐性種の検索について\n<select_end>\n<break>": "What do you want to know?\n<select_se_off>\nAbout Support Members\nAbout Standby\nAbout Hiring Length\nAbout Hiring Fees\nAbout Self Registration\nAbout Resistances Search\n<select_end>\n<break>"
   },
-  "41050": {
-    "「何を　知りたいんだ？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n<select_end>\n<break>": "What do you want to know?\n<select_se_off>\nAbout our support colleagues\nAbout waiting\nAbout the period\n<select_end>\n<break>"
-  },
-  "41051": {
-    "": ""
-  },
-  "41052": {
-    "": ""
-  },
   "41053": {
     "「何を　知りたいのかしら？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n紹介料について\n自分をとうろくについて\n耐性種の検索について\n<select_end>\n<break>": "What do you want to know?\n<select_se_off>\nAbout our support colleagues\nAbout waiting\nAbout the period\nAbout Referral Fees\nI'll take myself to the register\nAbout the search for resistant species\n<select_end>\n<break>"
-  },
-  "41054": {
-    "「何を　知りたいのかしら？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n<select_end>\n<break>": "What do you want to know?\n<select_se_off>\nAbout our support colleagues\nAbout waiting\nAbout the period\n<select_end>\n<break>"
-  },
-  "41575": {
-    "「サポート仲間を借りたいやつが\n　仲間にしたいやつを選ぶ時に見る\n　コメントを残せるけど　書いていくか？\n<yesno><break>": "You can write a comment for others to see when\nthey're searching for support members to hire.\nDo you want to write one?\n<yesno><break>"
-  },
-  "41576": {
-    "「このままで　いいんだな？\n　それじゃ　これで登録しておくぜ。\n<bw_break>": "Are you sure you want to do this? Okay, well,\nI'll just sign up for this...<bw_break>"
   },
   "41577": {
     "「このコメントで　登録していいんだな？\n<yesno><break>": "So I can register with this comment?<yesno><break>"
@@ -363,52 +162,10 @@
     "「酒場で紹介する仲間を　サポート仲間と呼ぶ。\n　一緒に魔物と戦ってくれる　心強い味方だ。\n　やつらとは　町の外でだけ　行動を共にできる。\n<br>\n「やつらには　バトル中の行動は　命令できない。\n　だが　作戦を出すだけなら　さくせんコマンドの\n　『サポートなかま』から　伝えられるぜ。\n<br>\n「バトル中じゃない時も　命令はできない。\n　ただ　さくせんコマンドの『まんたん』なら\n　ＨＰ回復と　治療や蘇生は　してくれるだろう。\n<br>\n「あと　やつらは　あんたと別れた後に\n　まとめて　経験値をゲットするから\n　一緒に戦ってる間は　レベルは上がらない。\n<br>\n「それと　期限切れ以外で　やつらと別れるときは\n　酒場で　ちゃんと生きてる時ってのが決まりだ。\n　忘れないでくれよ？\n<bw_break>": "I'll introduce you to your friends in the\ntavern. Your support crew... They'll help you\nfight the demons... They only work with us\n<br>\noutside of town... They'll only know what to\ndo in battle if you tell them to. But if all\nyou want to do is tell them what to do, you\n<br>\ncan do so through the \"Support Friends\"\ncommand... You can also give orders when\nyou're not in battle... But if you use the\n<br>\nOperation Command Man-Tan, it will restore HP\nand heal or revive you... Also, they get all\ntheir experience after they leave you, so you\n<br>\nwon't level up while you're fighting with\nthem. Also, when you leave them, unless\nthey've expired, it's at the tavern, when\n<br>\nthey're still alive. Don't forget that, okay?<bw_break>"
   },
   "41585": {
-    "「紹介できるのは　あんたが転職できる職業の中で\n　最高レベルより　少し上のレベルのやつまでだ。\n　紹介料は　相手のレベルと契約時間で変わるぜ。\n<br>\n「ただし　同じチームとフレンドのやつに関しては\n　レベルに関係無く　だれでも紹介するぜ。\n　せっかくの知り合いだし　特別だ。\n<br>\n「同じチームのやつなら　半額で\n　フレンドや　レベル８０以下のやつなら\n　無料で　紹介できるぜ。\n<bw_break>": "I can only refer you to people who are\nslightly above the highest level of your\ncareer. Referral rates are based on their\n<br>\nlevel and how long they've been with us. But\nif they're on the same team as you and\nthey're your friend, you can refer them to\n<br>\nanyone, regardless of their level. I know you\nguys, so... If they're on the same team as\nyou, you pay half, and if they're a friend or\n<br>\nunder level 80, you refer them for free.<bw_break>"
+    "「紹介できるのは　あんたが転職できる職業の中で\n　最高レベルより　少し上のレベルのやつまでだ。\n　紹介料は　相手のレベルと契約時間で変わるぜ。\n<br>\n「ただし　同じチームとフレンドのやつに関しては\n　レベルに関係無く　だれでも紹介するぜ。\n　せっかくの知り合いだし　特別だ。\n<br>\n「同じチームのやつなら　半額で\n　フレンドや　レベル１００以下のやつなら\n　無料で　紹介できるぜ。\n<bw_break>": ""
   },
   "41586": {
     "「サポート仲間は　別れなくても一時的に\n　バトルに参加させない状態にできる。\n　それが　『待機中』ってやつだ。\n<br>\n「さくせんコマンドの　『サポートなかま』から\n　『参加中』と『待機中』を切り替えられる。\n　一時的に　仲間を減らしたい時に　使うといい。\n<br>\n「そうそう。あんたが誘われて誰かの仲間になると\n　サポート仲間は　自動的に待機中になる。\n　いちいち別れなくて　オッケーだからな。\n<bw_break>": "Even if you don't break up with your support\ncrew, you can still temporarily disable them\nfrom participating in battles. That's what I\n<br>\nmeant by \"waiting.\" You can toggle between\n\"Participating\" and \"Waiting\" from the\n\"Support Companion\" command... You can use it\n<br>\nto temporarily reduce the number of\ncompanions... You... When you're invited to\njoin someone else's team, your support\n<br>\ncompanion will automatically go into\nstandby... You don't have to split up every\ntime.<bw_break>"
-  },
-  "41587": {
-    "": ""
-  },
-  "41588": {
-    "": ""
-  },
-  "41589": {
-    "": ""
-  },
-  "41590": {
-    "": ""
-  },
-  "41591": {
-    "": ""
-  },
-  "41592": {
-    "": ""
-  },
-  "41593": {
-    "": ""
-  },
-  "41594": {
-    "": ""
-  },
-  "41595": {
-    "": ""
-  },
-  "41596": {
-    "": ""
-  },
-  "41597": {
-    "「紹介できるのは　あんたが転職できる職業の中で\n　最高レベルより　少し上のレベルのやつまでだ。\n　紹介料は　相手のレベルと契約時間で変わるぜ。\n<br>\n「ただし　同じチームとフレンドのやつに関しては\n　レベルに関係無く　だれでも紹介するぜ。\n　せっかくの知り合いだし　特別だ。\n<br>\n「同じチームのやつなら　半額で\n　フレンドや　レベル８０以下のやつなら\n　無料で　紹介できるぜ。\n<bw_break>": "I can only refer you to people who are\nslightly above the highest level of your\ncareer. Referral rates are based on their\n<br>\nlevel and how long they've been with us. But\nif they're on the same team as you and\nthey're your friend, you can refer them to\n<br>\nanyone, regardless of their level. I know you\nguys, so... If they're on the same team as\nyou, you pay half, and if they're a friend or\n<br>\nunder level 80, you refer them for free.<bw_break>"
-  },
-  "41598": {
-    "": ""
-  },
-  "41599": {
-    "「サポート仲間を借りたい人が\n　仲間にしたい人を選ぶ時に見る\n　コメントを残せるけど　書いていく？\n<yesno><break>": "When someone wants to borrow a support buddy,\nthey look at the people they want to add, and\nthey can leave a comment, but do they want\n<br>\nto?<yesno><break>"
-  },
-  "41600": {
-    "「コメントは　このままで　いいのね？\n　それじゃ　これで登録しておくわ。\n<bw_break>": "You're not gonna leave a comment, are you?\nOkay, well, I'll just sign up for the...<bw_break>"
   },
   "41601": {
     "「このコメントで　登録するのね。\n　本当に　いいかしら？\n<yesno><break>": "You're registering yourself with this\ncomment. Are you sure?\n<yesno><break>"
@@ -435,37 +192,10 @@
     "「酒場で紹介する仲間を　サポート仲間と呼ぶの。\n　一緒に魔物と戦ってくれる　心強い味方よ。\n　彼らとは　町の外でだけ　行動を共にできるわ。\n<br>\n「彼らには　バトル中の行動は　命令できないの。\n　でも　作戦だけなら　さくせんコマンドの\n　『サポートなかま』から　出せるからね。\n<br>\n「バトル中じゃない時も　命令はできないけど\n　さくせんコマンドの　『まんたん』を使えば\n　ＨＰ回復や　治療や蘇生をしてくれるわよ。\n<br>\n「あと　彼らは　あなたと別れた後に\n　まとめて　経験値を獲得するから\n　一緒に戦ってる間は　レベルは上がらないの。\n<br>\n「それと　期限切れ以外で　彼らと別れるなら\n　酒場で　生きてる状態の時っていう決まりよ。\n　覚えておいてね？\n<bw_break>": "The companions I introduce to you in the\ntavern are called support companions...\nThey'll help you fight the demons... They can\n<br>\nonly work with you outside the city. You\ncan't tell them what to do in battle... But\nif you just need a plan, you can use the\n<br>\n\"Support Friends\" command... You can't order\nthem to do anything when they're not in\nbattle... but they can recover HP, heal, and\n<br>\nrevive you... using the Man-Tan command.\nAlso, they gain experience after you leave\nthem, so they won't level up while you're\n<br>\nfighting with them. Also, if you're leaving\nthem for anything other than an expiration\ndate, it's when they're still alive in the\n<br>\ntavern. Just remember that, okay?<bw_break>"
   },
   "41609": {
-    "「紹介できるのは　あなたが転職できる職業の中で\n　最高レベルより　少し上のレベルの人までよ。\n　紹介料は　相手のレベルと契約時間で変わるわ。\n<br>\n「ただし　同じチームとフレンドの人に関しては\n　レベルに関係無く　だれでも紹介できるわ。\n　せっかくの知り合いだし　特別よ。 \n<br>\n「同じチームの人なら　半額で\n　フレンドや　レベル８０以下の人なら\n　無料で　紹介できるわ。\n<bw_break>": "I can only introduce you to people who are\nslightly above the highest level of the\nprofession you're eligible for. The referral\n<br>\nfee is based on their level and the amount of\ntime they have signed up for. But if they're\non the same team as you and you're friends,\n<br>\nyou can refer anyone, regardless of their\nlevel. I know you guys. If you're on the same\nteam, you pay half and if you're a friend or\n<br>\nunder level 80, you can refer anyone for\nfree.<bw_break>"
+    "「紹介できるのは　あなたが転職できる職業の中で\n　最高レベルより　少し上のレベルの人までよ。\n　紹介料は　相手のレベルと契約時間で変わるわ。\n<br>\n「ただし　同じチームとフレンドの人に関しては\n　レベルに関係無く　だれでも紹介できるわ。\n　せっかくの知り合いだし　特別よ。 \n<br>\n「同じチームの人なら　半額で\n　フレンドや　レベル１００以下の人なら\n　無料で　紹介できるわ。\n<bw_break>": ""
   },
   "41610": {
     "「サポート仲間は　別れなくても一時的に\n　バトルに参加させない状態にできるわ。\n　その状態を　『待機中』って呼ぶの。\n<br>\n「さくせんコマンドの　『サポートなかま』から\n　『参加中』と『待機中』を変更できるわ。\n　一時的に　仲間を減らしたい時に　使ってね。\n<br>\n「そうそう。あなたが誘われて誰かの仲間になると\n　サポート仲間は　自動的に待機中になるの。\n　だから　いちいち別れなくてオッケーだからね。\n<bw_break>": "Even if you don't break up with your support\ncrew, you can still temporarily disable them\nfrom participating in battles. That state is\n<br>\ncalled \"waiting.\" You can change the status\nof a Support Companion from \"Joining\" to\n\"Waiting\" in the Operation command... If you\n<br>\nwant to temporarily reduce the number of\ncompanions... So... When you're invited to\njoin someone else's team, your support buddy\n<br>\nwill automatically be put on standby. So you\ndon't have to split up every time you...<bw_break>"
-  },
-  "41611": {
-    "「ここで紹介したサポート仲間は　あんたから\n　別れない限り　ずっと仲間でいられるぜ。\n<br>\n「ただ　やつらは　レベルアップしないから\n　もっと強い仲間が　必要になった時には\n　新しい仲間を　借りてくれよな。\n<bw_break>": "These support buddies you see here will stay\nwith you as long as you don't leave them...\nBut they don't level up, so if you ever need\n<br>\na stronger companion, you can always borrow a\nnew one...<bw_break>"
-  },
-  "41612": {
-    "「酒場で紹介する仲間を　サポート仲間って呼ぶ。\n　一緒に魔物と戦ってくれる　心強い味方だ。\n　やつらとは　町の外でだけ　行動を共にできる。\n<br>\n「やつらには　バトル中の行動は　命令できない。\n　だが　作戦を出すだけなら　さくせんコマンドの\n　『サポートなかま』から　伝えられるぜ。\n<br>\n「バトル中じゃない時も　命令はできない。\n　ただ　さくせんコマンドの『まんたん』なら\n　ＨＰ回復と　治療や蘇生は　してくれるだろう。\n<br>\n「あと　やつらは　レベルは上がらない。\n　それと　やつらと別れるのも　酒場でな。\n　お別れは　ちゃんと生きてる時に頼むぜ？\n<br>\n「紹介できるやつを　増やしたいんなら\n　この町にいる　名前が紫色のやつらの頼みを\n　聞いてやるといいぜ。\n<bw_break>": "The companions I introduce you to in the\ntavern are called support companions...\nThey're the ones who help you fight the\n<br>\ndemons... They only work with us outside the\ncity. They'll only know what to do in battle\nif you tell them to. But if all you want to\n<br>\ndo is tell them what to do, you can do so\nthrough the \"Support Friends\" command... You\ncan also give orders when you're not in\n<br>\nbattle... But if you use the Operation\ncommand \"Mantan\", it will heal HP, heal you,\nand revive you... Also, they can level up...\n<br>\nAnd you have to say goodbye to them. Just\nmake sure you say goodbye to them when\nthey're still alive, okay? If you want to\n<br>\nintroduce me to more people, you can do me a\nfavor and ask the purple-named ones in this\ntown...<bw_break>"
-  },
-  "41613": {
-    "「サポート仲間は　別れなくても一時的に\n　バトルに参加させない状態にできる。\n　それが　『待機中』ってやつだ。\n<br>\n「さくせんコマンドの　『サポートなかま』から\n　『参加中』と『待機中』を切り替えられる。\n　上手に使うといいだろう。\n<bw_break>": "Even if you don't break up with your support\ncrew, you can still temporarily disable them\nfrom participating in battles. That's what I\n<br>\nmeant by \"waiting.\" You can toggle between\n\"Participating\" and \"Waiting\" in the \"Support\nCompanion\" section of the Operation\n<br>\ncommand... You can use it to your\nadvantage...<bw_break>"
-  },
-  "41614": {
-    "": ""
-  },
-  "41615": {
-    "": ""
-  },
-  "41616": {
-    "": ""
-  },
-  "41617": {
-    "「ここで紹介したサポート仲間は　あなたから\n　別れない限り　ずっと仲間でいられるわ。\n　追加料金なんて　もちろん　いただかないわよ。\n<br>\n「ただ　彼らは　レベルアップしないから\n　もっと強い仲間が　必要になった時には\n　新しい仲間を　借りてちょうだいね。\n<bw_break>": "The support people I've introduced you to\nwill stay with you as long as you don't\nleave... No extra charge, of course... But\n<br>\nthey do not level up, so if you ever need a\nstronger companion, you can always borrow a\nnew one...<bw_break>"
-  },
-  "41618": {
-    "「酒場で紹介する仲間を　サポート仲間って呼ぶの。\n　一緒に魔物と戦ってくれる　心強い味方よ。\n　彼らとは　町の外でだけ　行動を共にできるわ。\n<br>\n「彼らには　バトル中の行動は　命令できないの。\n　でも　作戦だけなら　さくせんコマンドの\n　『さくせんがえ』から　出せるからね。\n<br>\n「バトル中じゃない時も　命令はできないけど\n　さくせんコマンドの　『まんたん』を使えば\n　ＨＰ回復や　治療や蘇生をしてくれるわよ。\n<br>\n「あと　彼らは　レベルは上がらないの。\n　それと　彼らと別れるのも　酒場でね。\n　生きてる状態じゃなきゃ　別れられないからね？\n<bw_break>": "The companions I introduce you to in the\ntavern, they're called support companions...\nThey're the ones who help you fight the\n<br>\ndemons. They can only work with you outside\nthe city. You can't tell them what to do in\nbattle... But if you just want a plan, you\n<br>\ncan use the Operation command... You can't\norder them to do anything when they're not in\nbattle... but you can use the SES command\n<br>\nMan-Tan... to recover HP, heal, or revive\nthem. Also, they don't level up... And you\ncan't leave them without drinking. You have\n<br>\nto be alive to leave them, right?<bw_break>"
-  },
-  "41619": {
-    "「スタンバイっていうのは\n　サポート仲間と別れることなく　一時的に\n　バトルに参加させない状態にすることよ。\n<br>\n「さくせんコマンドの　『さくせんがえ』から\n　『バトル参加』と　『スタンバイ』の状態を\n　交互に　切り替えできるわ。\n<br>\n「一時的に　仲間の人数を減らしたい時とかに\n　上手に使ってちょうだいね。\n<bw_break>": "Standby is a temporary state in which you\ndon't join a battle without separating from\nyour support team... You can toggle between\n<br>\n\"Join Battle\" and \"Standby\" in the Operation\ncommand... Use it when you want to\ntemporarily reduce the number of your\n<br>\nfriends...<bw_break>"
   },
   "44368": {
     "「おっと。名簿の調子が　よくないみたいだ。\n　悪いが　しばらくしてから\n　また来てくれるか。<end>": "... I'm sorry, but the list isn't looking so\ngood. I'm sorry, but I'm gonna have to ask\nyou to come back in a little while.<end>"
@@ -496,36 +226,6 @@
   },
   "44377": {
     "「それじゃあ　<%sM_pc>を呼んでくるから\n　ちょっと待っててくれよ……。\n<break>": "Okay, I'll go get <%sM_pc>.\nWait just a moment...\n<break>"
-  },
-  "44378": {
-    "": ""
-  },
-  "44379": {
-    "": ""
-  },
-  "44380": {
-    "": ""
-  },
-  "44381": {
-    "": ""
-  },
-  "44382": {
-    "": ""
-  },
-  "44383": {
-    "": ""
-  },
-  "44384": {
-    "": ""
-  },
-  "44385": {
-    "": ""
-  },
-  "44386": {
-    "": ""
-  },
-  "44387": {
-    "「それじゃ　決まりだ！\n　<%sM_pc>には　町の外に出た所で\n　合流するよう　伝えておくぜ！\n<end>": "Then it's settled! I'll tell\n<%sM_pc> to meet you just outside\nof town!\n<end>"
   },
   "44388": {
     "「あら？　名簿の調子が　よくないみたい。\n　ごめんなさいね。しばらくしてから\n　また来てくれるかしら。<end>": "What? The list isn't looking so good. I'm\nsorry... You can come back in a little\nwhile...<end>"
@@ -560,35 +260,17 @@
   "44819": {
     "「登録をやめるのか？\n<yesno><break>": "Cancel registration?\n<yesno><break>"
   },
-  "44820": {
-    "": ""
-  },
   "44821": {
     "「登録をやめても　いいかしら？\n<yesno><break>": "Cancel registration?\n<yesno><break>"
   },
   "46112": {
     "「<%sM_pc>は　フレンドなんだな。\n　だったら　無料で紹介できるから\n　仲間にしたい時間を　選んでくれるかい？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>Looks like <%sM_pc>'s your friend.\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
-  "46113": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
-  },
   "46114": {
     "「<%sM_pc>さんは　フレンドなのね？\n　だったら　無料で紹介できるので\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0><%sM_pc>'s your friend?\nIn that case, the hiring cost will be free.\nHow long do you want to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
   },
-  "47538": {
-    "「<%sM_pc>は　こんな感じだな。\n<break>": "<%sM_pc> has this feeling...<break>"
-  },
-  "47539": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
-  },
-  "47540": {
-    "「<%sM_pc>さんは　こんな感じね。\n<break>": "This is what <%sM_pc> looks like.<break>"
-  },
   "48337": {
     "「よし　わかった。サポート仲間に登録したら\n　冒険を中断してもらうことになるが\n　今　登録してもいいんだな？\n<yesno><break>": "Okay. I... If I sign up for a support group,\nI'm gonna have to stop the adventure, but I\ncan sign up now, right?<yesno><break>"
-  },
-  "48338": {
-    "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな？\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもない。\n<br>\n「それじゃあ　冒険を中断して\n　サポート仲間に　登録していいな？\n<yesno><break>": "Okay, I... You're going to stop your\nadventure and sign up for a support group,\nright? If you become a support companion, and\n<br>\nsomeone joins you, you'll earn experience and\ngold while you rest. And of course, they\ncan't use your stuff or steal your gear. I\n<br>\nmean, what's the harm in signing up? So, can\nwe stop the adventure and sign up for the\nsupport group?<yesno><break>"
   },
   "48339": {
     "「わかったわ。サポート仲間に登録したら\n　冒険を中断してもらうことになるけど\n　登録をしても　いいかしら？\n<yesno><break>": "I don't know... If I sign up to be a support\nbuddy, I'm gonna have to ask you to stop the\nadventure, but can I sign up?<yesno><break>"
@@ -596,17 +278,11 @@
   "49765": {
     "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場だ。\n　今日は　どんな用だい？\n<break>": "This is a place for adventurers... It's a\nplace where travelers come to find\ncompanionship, where they meet and part. What\n<br>\ncan I do for you today?<break>"
   },
-  "49766": {
-    "「ここは　冒険者の酒場。\n　旅人たちが　仲間をもとめて集まる\n　出会いと別れの酒場だ。\n<br>\n「今日は　どんな用だい？\n<select_se_off>\nなかまをさがす\n自分をとうろく\nなかまと別れる\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "This is the Adventurer's Tavern, the place\nwhere travelers come to meet and recruit\nnew friends and part with old ones.\n<br>\nWhat can I do for you today?\n<select_se_off>\nParty Search\nRegister Self\nRemove Member\nProposed Teams\nExplanation\n<select_end>\n<break>"
-  },
   "49767": {
     "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場よ。\n　何を　おのぞみかしら？\n<break>": "This is the Adventurer's Tavern. The place\nwhere travelers come to meet and recruit\nnew friends. What can I do for you?\n<break>"
   },
   "49768": {
     "「他にも　用はあるかい？\n<break>": "Anything else you need?\n<break>"
-  },
-  "49769": {
-    "「他にも　用はあるかい？\n<select_se_off>\nなかまをさがす\nなかまと別れる\nおすすめチーム\n説明を聞く\n<select_end>\n<break>": "Is there anything else you need?\n<select_se_off>\nParty Search\nRemove Member\nProposed Teams\nExplanation\n<select_end>\n<break>"
   },
   "49770": {
     "「他に　ご用はあるかしら？\n<break>": "Is there anything else I can help you with?\n<break>"
@@ -617,62 +293,11 @@
   "49797": {
     "<pipipi_off><%sM_pc_old>と別れ\n<%sM_pc>が　仲間に加わった！\n<me 61><end>": "<pipipi_off>Parted ways with <%sM_pc_old> and\n<%sM_pc> joins the party!<me 61><end>"
   },
-  "49798": {
-    "": ""
-  },
-  "49799": {
-    "": ""
-  },
   "49800": {
     "「じゃあ　<%sM_pc_old>さんには　伝えておくわ。\n　入れ替わりで　<%sM_pc>さんを\n　呼んでくるから　ちょっと待っててね……。<break>": "Alright, I'll let <%sM_pc_old> know.\nI'll go and get <%sM_pc> to replace\nthem. Just one moment...<break>"
   },
   "49801": {
     "<pipipi_off><%sM_pc_old>と別れ\n<%sM_pc>が　仲間に加わった！\n<me 61><end>": "<pipipi_off>Parted ways with <%sM_pc_old> and\n<%sM_pc> joins the party!<me 61><end>"
-  },
-  "50158": {
-    "<se_nots System 7><%sM_pc>との　ダブルすれちがい達成！\nダブルすれちがいポイント　<%nL_POINT>ポイントかくとく。\n合計<%nL_POINT_TOTAL>ポイントに　なりました。": "<se_nots System 7>You've achieved a double pass with\n<%sM_pc>! Double Passing Points\n<%dL_POINT> points or... That's a\n<br>\ntotal of <%dL_POINT_TOTAL>\npoints..."
-  },
-  "50159": {
-    "ダブルすれちがいポイントが\n合計<%nL_POINT_TOTAL>ポイントに\nなりました。\n<bw_break>": "Double Passing Points will total\n<%dL_POINT_TOTAL> points...<bw_break>"
-  },
-  "50160": {
-    "": ""
-  },
-  "50161": {
-    "": ""
-  },
-  "50162": {
-    "<se_nots System 7><%sM_pc>との　ダブルすれちがい達成！\nダブルすれちがいポイント　<%nL_POINT>ポイントかくとく。\n合計<%nL_POINT_TOTAL>ポイントに　なりました。": "<se_nots System 7>You've achieved a double pass with\n<%sM_pc>! Double Passing Points\n<%dL_POINT> points or... That's a\n<br>\ntotal of <%dL_POINT_TOTAL>\npoints..."
-  },
-  "50163": {
-    "ダブルすれちがいポイントが\n合計<%nL_POINT_TOTAL>ポイントに\nなりました。\n<bw_break>": "Double Passing Points will total\n<%dL_POINT_TOTAL> points...<bw_break>"
-  },
-  "50189": {
-    "「おめでとう！\n　別の世界で　すれ違った人と　この世界で\n　再会できるなんざ　ロマンがあるな！\n<br>\n「<%sM_pc>には　町の外に出た所で\n　合流するよう　伝えておいたぜ！\n<end>": "Congratulations! There's something romantic\nabout meeting someone you passed in another\nworld and seeing them again in this one! I've\n<br>\ntold <%sM_pc> to meet me outside\nof town!<end>"
-  },
-  "50190": {
-    "": ""
-  },
-  "50191": {
-    "「あら　おめでとう！\n　別の世界で　すれ違った人と　この世界で\n　再会できるなんて　とってもステキね！\n<br>\n「<%sM_pc>さんには　町の外に出た所で\n　合流するよう　伝えておいたわよ。\n<end>": "Oh, congratulations! It's so nice to see\nsomeone you passed on the other side of the\nworld reunited with you on this world! I'll\n<br>\ntell <%sM_pc> to meet you just\noutside of town...<end>"
-  },
-  "52110": {
-    "「どんな相手にだったら　あんたのことを\n　紹介していいのか　教えてくれるか？\n<select_se_off>\nだれでもＯＫ\nフレンドのみ\nチームのみ\nフレンドとチームのみ\n<select_end>\n<break>": "You want to tell me who I can introduce you\nto?\n<select_se_off>\nanyone can come\nFriends only\nTeam only\nFriends and Teams Only\n<select_end>\n<break>"
-  },
-  "52111": {
-    "": ""
-  },
-  "52112": {
-    "「どんな人にだったら　あなたのことを\n　紹介していいのか　教えてくれる？\n<select_se_off>\nだれでもＯＫ\nフレンドのみ\nチームのみ\nフレンドとチームのみ\n<select_end>\n<break>": "Can you tell me who I can introduce you to?\n<select_se_off>\nanyone can come\nFriends only\nTeam only\nFriends and Teams Only\n<select_end>\n<break>"
-  },
-  "52114": {
-    "「どんな相手にだったら　あんたのことを\n　紹介していいのか　教えてくれるか？\n<select_se_off>\nだれでもＯＫ\nフレンドのみ\n<select_end>\n<break>": "You want to tell me who I can introduce you\nto?\n<select_se_off>\nanyone can come\nFriends only\n<select_end>\n<break>"
-  },
-  "52115": {
-    "": ""
-  },
-  "52116": {
-    "「どんな人にだったら　あなたのことを\n　紹介していいのか　教えてくれる？\n<select_se_off>\nだれでもＯＫ\nフレンドのみ\n<select_end>\n<break>": "Can you tell me who I can introduce you to?\n<select_se_off>\nanyone can come\nFriends only\n<select_end>\n<break>"
   },
   "52147": {
     "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな。\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもないぜ。\n<br>\n「サポート仲間に登録したら\n　サポート仲間以外の仲間とは　ここで別れて\n　冒険を中断するが　それでいいんだな？\n<yesno><break>": "Okay, I... I'm going to stop my adventure and\nsign up for a support group... If you become\na Support Companion, and someone joins you,\n<br>\nyou'll earn experience and gold while you\nrest... And of course, you can't let anyone\nuse your belongings or steal your equipment.\n<br>\nIn other words, there's nothing to lose by\nsigning up... Once you've signed up as a\nsupport companion, you'll be separated from\n<br>\nyour other companions and your adventure will\nbe interrupted, is that correct?<yesno><break>"
@@ -680,26 +305,11 @@
   "52148": {
     "「よし　わかった。サポート仲間に登録したら\n　サポート仲間以外の仲間とは　ここで別れて\n　冒険を中断するが　それでいいんだな？\n<yesno><break>": "Okay, so... If I sign up as a support buddy,\nthen I'll leave my non-support buddies here,\nand I'll stop the adventure, but that's okay,\n<br>\nright?<yesno><break>"
   },
-  "52149": {
-    "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな？\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもない。\n<br>\n「それじゃあ　冒険を中断して\n　サポート仲間に　登録していいな？\n<yesno><break>": "Okay, I... You're going to stop your\nadventure and sign up for a support group,\nright? If you become a support companion, and\n<br>\nsomeone joins you, you'll earn experience and\ngold while you rest. And of course, they\ncan't use your stuff or steal your gear. I\n<br>\nmean, what's the harm in signing up? So, can\nwe stop the adventure and sign up for the\nsupport group?<yesno><break>"
-  },
-  "52150": {
-    "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな？\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもない。\n<br>\n「それじゃあ　冒険を中断して\n　サポート仲間に　登録していいな？\n<yesno><break>": "Okay, I... You're going to stop your\nadventure and sign up for a support group,\nright? If you become a support companion, and\n<br>\nsomeone joins you, you'll earn experience and\ngold while you rest. And of course, they\ncan't use your stuff or steal your gear. I\n<br>\nmean, what's the harm in signing up? So, can\nwe stop the adventure and sign up for the\nsupport group?<yesno><break>"
-  },
   "52151": {
     "「わかったわ。\n　冒険を中断して　サポート仲間に登録するのね。\n<br>\n「サポート仲間になって\n　誰かの仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるわよ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対ないわ。\n　つまり　登録して損なことは　ゼロってわけ。\n<br>\n「サポート仲間に登録したら\n　サポート仲間以外の仲間とは　ここで別れて\n　冒険を中断するけど　それでいいの？\n<yesno><break>": "I don't know. You can stop your adventure and\nsign up to be a support companion... And if\nyou become a support companion, and someone\n<br>\njoins you, you can earn experience and gold\nwhile you're off... Of course, you can't let\nanyone use your belongings or steal your\n<br>\nequipment. In other words, there's nothing to\nlose by signing up. So, if I sign up as a\nsupport companion, I'll leave my other\n<br>\ncompanions here, and I'll stop the adventure,\nis that okay?<yesno><break>"
   },
   "52152": {
     "「わかったわ。サポート仲間に登録したら\n　サポート仲間以外の仲間とは　ここで別れて\n　冒険を中断するけど　それでいいの？\n<yesno><break>": "I don't... If I sign up as a support buddy,\nI'll leave my non-support buddies here and\nstop the adventure, is that okay?<yesno><break>"
-  },
-  "52169": {
-    "<se_nots System 7><%sM_pc>との　ダブルすれちがい達成！\nダブルすれちがいポイント上限のため\nポイントは　かくとくできませんでした。": "<se_nots System 7>You have achieved a double pass with\n<%sM_pc>! Due to the double pass-\nby point limit, points cannot be acquired..."
-  },
-  "52170": {
-    "": ""
-  },
-  "52171": {
-    "<se_nots System 7><%sM_pc>との　ダブルすれちがい達成！\nダブルすれちがいポイント上限のため\nポイントは　かくとくできませんでした。": "<se_nots System 7>You have achieved a double pass with\n<%sM_pc>! Due to the double pass-\nby point limit, points cannot be acquired..."
   },
   "54582": {
     "「<%sM_pc>は　<%nL_Time>時間につき\n　<%nL_Spt_gold>ゴールドの紹介料がかかるが\n　仲間にしたい時間を　選んでくれ。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>Hiring <%sM_pc> will cost <%dL_Spt_gold> Gold\nper <%dL_Time> hours. Please choose how long\nyou'd like to hire them for.\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
@@ -709,15 +319,6 @@
   },
   "54584": {
     "「よし　わかった。\n　今は特訓中のようだが　冒険を中断して\n　サポート仲間に　登録するんだな。\n<br>\n「サポート仲間に登録をしたら\n　冒険を中断してもらうことになるが\n　今　登録してもいいんだな？\n<yesno><break>": "Okay, I... I know you're training right now,\nbut I'm gonna have to ask you to stop your\nadventure and sign up for a support group...\n<br>\nIf I sign up for a support group, I'll have\nto stop the adventure, but I can sign up now,\nright?<yesno><break>"
-  },
-  "54585": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
-  },
-  "54586": {
-    "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな？\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもない。\n<br>\n「それじゃあ　冒険を中断して\n　サポート仲間に　登録していいな？\n<yesno><break>": "Okay, I... You're going to stop your\nadventure and sign up for a support group,\nright? If you become a support companion, and\n<br>\nsomeone joins you, you'll earn experience and\ngold while you rest. And of course, they\ncan't use your stuff or steal your gear. I\n<br>\nmean, what's the harm in signing up? So, can\nwe stop the adventure and sign up for the\nsupport group?<yesno><break>"
-  },
-  "54587": {
-    "「よし　わかった。冒険を中断して\n　サポート仲間に　登録するんだな？\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらえば　休んでる間にも\n　経験値や　ゴールドを　獲得できるぜ。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られるなんてことは　絶対にない。\n　つまり　登録して損なことは　なんにもない。\n<br>\n「それじゃあ　冒険を中断して\n　サポート仲間に　登録していいな？\n<yesno><break>": "Okay, I... You're going to stop your\nadventure and sign up for a support group,\nright? If you become a support companion, and\n<br>\nsomeone joins you, you'll earn experience and\ngold while you rest. And of course, they\ncan't use your stuff or steal your gear. I\n<br>\nmean, what's the harm in signing up? So, can\nwe stop the adventure and sign up for the\nsupport group?<yesno><break>"
   },
   "54588": {
     "「<%sM_pc>さんは　<%nL_Time>時間につき\n　<%nL_Spt_gold>ゴールドの紹介料がかかるけど\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>Hiring <%sM_pc> will cost <%dL_Spt_gold> Gold\nper <%dL_Time> hours. Please choose how long\nyou'd like to hire them for.\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
@@ -731,25 +332,16 @@
   "54660": {
     "「<map>で　くわしく見ることができるぜ。\n　別の人を見たいときは\n　<cursor>の　上下で選べるからな。\n<break>": "Press <map> to see more details. If you\nwant to choose someone else, use the up/down\n<cursor>.\n<break>"
   },
-  "54661": {
-    "「<map>で　こいつのことを\n　くわしく見ることができるぜ。\n　別の人を選ぶときは　上下キーで選べるからな。\n<break>": "<map>to see more about this guy... You can use the\nup and down keys to select another person...<break>"
-  },
   "54662": {
     "「<map>で　くわしく見られるからね。\n　別の人を見たいときは\n　<cursor>の　上下で選べるわよ。\n<break>": "Press <map> to see more details. If you\nwant to choose someone else, use the up/down\n<cursor>.\n<break>"
   },
   "60352": {
     "「<%sM_pc>は　あんたと同じチームなんだな。\n　だったら　紹介料は半額の　<%nL_Time>時間\n　<%nL_Spt_gold>ゴールドになるけど　仲間にするかい？\n<yesno><break>": "You and <%sM_pc> are on the same Team,\nso the cost will be halved to <%dL_Spt_gold> Gold every\n<%dL_Time> hr. Do you want them to join you?\n<yesno><break>"
   },
-  "60353": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
-  },
   "60354": {
     "「<%sM_pc>さんとは　同じチームなのね？\n　だったら　紹介料は半額の　<%nL_Time>時間\n　<%nL_Spt_gold>ゴールドになるけど　お仲間にする？\n<yesno><break>": "You're on the same team as <%sM_pc>, right?\nThe hire fee instead is <%dL_Spt_gold> gold for <%dL_Time>\nhours then, half of the normal price.\n<br>\nDo you want to continue?\n<yesno><break>"
   },
   "76205": {
-    "「<map>で　くわしく見ることができるぜ。\n　別の人を見たいときは\n　<cursor_up_down>　で選べるからな。\n<break>": "Press <map> to see more details. If you\nwant to choose someone else, use <cursor_up_down>.\n<break>"
-  },
-  "76206": {
     "「<map>で　くわしく見ることができるぜ。\n　別の人を見たいときは\n　<cursor_up_down>　で選べるからな。\n<break>": "Press <map> to see more details. If you\nwant to choose someone else, use <cursor_up_down>.\n<break>"
   },
   "76207": {
@@ -758,17 +350,11 @@
   "76467": {
     "<pipipi_off><%sM_pc_old>と別れ\n<%sM_pc>が　仲間（待機中）に加わった！\n<me 61><end>": "<pipipi_off><%sM_pc_old> left the party\nand <%sM_pc> joined the party\non standby!\n<me 61><end>"
   },
-  "76468": {
-    "": ""
-  },
   "76469": {
     "<pipipi_off><%sM_pc_old>と別れ\n<%sM_pc>が　仲間（待機中）に加わった！\n<me 61><end>": "<pipipi_off><%sM_pc_old> left the party\nand <%sM_pc> joined the party\non standby!\n<me 61><end>"
   },
   "76471": {
     "<pipipi_off><%sM_pc>が　仲間（待機中）に加わった！\n<me 61><end>": "<pipipi_off><%sM_pc> has joined the party\non standby!\n<me 61><end>"
-  },
-  "76472": {
-    "<speed=0><%sM_pc>が　仲間に加わった！<end>": "<speed=0><%sM_pc> joins the party!<end>"
   },
   "76473": {
     "<pipipi_off><%sM_pc>が　仲間（待機中）に加わった！\n<me 61><end>": "<pipipi_off><%sM_pc> has joined the party\non standby!\n<me 61><end>"
@@ -776,43 +362,16 @@
   "83777": {
     "「それと　<%sM_pc>はレベルが高いので\n　<%sM_item>　の効果はないんだが\n　それでも　大丈夫か？\n<yesno><break>": "And <%sM_pc> is too high level\nfor <%sM_item> to have any\neffect, but still, okay?<yesno><break>"
   },
-  "83778": {
-    "「<%sM_pc>か。それじゃ　紹介料として\n　<%nL_Spt_gold>ゴールド　もらうけど\n　<%sM_pc>を　仲間にしていいか？\n<yesno><break>": "<%sM_pc>? Hiring them will\ncost <%dL_Spt_gold> Gold.\nYou want them to join you?\n<yesno><break>"
-  },
   "83779": {
     "「それと　<%sM_pc>さんはレベルが高いから\n　<%sM_item>　の効果はないのだけれど\n　それでも　大丈夫かしら？\n<yesno><break>": "And <%sM_pc>, you're too high\nlevel for <%sM_item> to have any\neffect.<yesno><break>"
   },
-  "97289": {
-    "「じゃあ　みんなには　伝えておくよ。\n　入れ替わりで　<%sM_pc>を\n　呼んでくるから　ちょっと待っててくれよ……。<break>": "Well, tell everyone that... I'm gonna go get\n<%sM_pc> to take over, so just\ngive me a second...<break>"
-  },
-  "97290": {
-    "<pipipi_off>みんなと別れ\n<%sM_pc>が　仲間に加わった！\n<me 61><end>": "<pipipi_off>I'm leaving you all, and <%sM_pc>\nis joining me!<me 61><end>"
-  },
   "97291": {
     "「よし　わかった。\n　じゃあ　みんなには\n　オレから伝えておくよ。<end>": "Okay, got it.\nI'll let 'em all know.\n<end>"
-  },
-  "97292": {
-    "": ""
-  },
-  "97293": {
-    "": ""
-  },
-  "97294": {
-    "「よし　わかった。\n　じゃあ　みんなには\n　オレから伝えておくよ。<end>": "Okay, got it.\nI'll let 'em all know.\n<end>"
-  },
-  "97295": {
-    "「じゃあ　みなさんには　伝えておくわ。\n　入れ替わりで　<%sM_pc>さんを\n　呼んでくるから　ちょっと待っててね……。<break>": "Okay, I'll go ahead and tell everyone\ninvolved. Give me just one moment to\ngo and let <%sM_pc> know...<break>"
-  },
-  "97296": {
-    "<pipipi_off>みんなと別れ\n<%sM_pc>が　仲間に加わった！\n<me 61><end>": "<pipipi_off>I'm leaving you all, and <%sM_pc>\nis joining me!<me 61><end>"
   },
   "97297": {
     "「わかったわ。\n　それじゃあ　みなさんには\n　私から　伝えておくわね。<end>": "Okay, then. I'll go ahead and let everyone\nknow.\n<end>"
   },
   "97298": {
-    "「ぜんいんと　別れるんだな。\n　本当に　いいのか？\n<yesno><break>": "I'm breaking up with the whole crew... Are\nyou sure you want to do this?<yesno><break>"
-  },
-  "97299": {
     "「ぜんいんと　別れるんだな。\n　本当に　いいのか？\n<yesno><break>": "I'm breaking up with the whole crew... Are\nyou sure you want to do this?<yesno><break>"
   },
   "97300": {
@@ -830,18 +389,6 @@
   "97818": {
     "「……おいおい。\n　<%sM_pc>は　死んでるじゃないか。\n　死なせたまま別れるなんて　どうかと思うぞ。\n<br>\n「まず　教会で生き返らせてくるんだな。\n　一緒に戦った　仲間に対する礼儀として\n　それくらい　やってくれよ。\n<br>\n「<%sM_pc2>には\n　オレから　別れを伝えておくよ。<end>": "... Oh... <%sM_pc> is dead. I\ndon't think we should just leave him there to\ndie. I'll bring him back to life at the\n<br>\nchurch. That's the least you can do as a\ncourtesy to the people you fought with...\n<I'll tell him goodbye.<end>"
   },
-  "97819": {
-    "「……おいおい。\n　<%sM_pc>は　死んでるじゃないか。\n　死なせたまま別れるなんて　どうかと思うぞ。\n<br>\n「まず　教会で生き返らせてくるんだな。\n　一緒に戦った　仲間に対する礼儀として\n　それくらい　やってくれよ。\n<br>\n「他のみんなには\n　オレから　別れを伝えておくよ。<end>": "... Oh... <%sM_pc> is dead. I\ndon't think we should just leave him there to\ndie. I'll bring him back to life at the\n<br>\nchurch. I'll go to the church and bring him\nback to life... as a courtesy to the people I\nfought with... I'll tell the others\n<br>\ngoodbye...<end>"
-  },
-  "97820": {
-    "「……おいおい。\n　死んでる仲間がいるじゃないか。\n　死なせたまま別れるなんて　どうかと思うぞ。\n<br>\n「まず　教会で生き返らせてくるんだな。\n　一緒に戦った　仲間に対する礼儀として\n　それくらい　やってくれよ。\n<br>\n「<%sM_pc>には\n　オレから　別れを伝えておくよ。<end>": "... Oh... You have a dead friend. I don't\nthink we should leave him there to die. I'm\ngonna go to the church and bring them back to\n<br>\nlife... That's the least you can do for the\npeople you fought with... <I'll tell him\ngoodbye...<end>"
-  },
-  "97821": {
-    "「……おいおい。\n　死んでる仲間がいるじゃないか。\n　死なせたまま別れるなんて　どうかと思うぞ。\n<br>\n「まず　教会で生き返らせてくるんだな。\n　一緒に戦った　仲間に対する礼儀として\n　それくらい　やってくれよ。\n<end>": "... Oh... You have a dead friend. I don't\nthink we should leave him there to die. I'm\ngonna go to the church and bring them back to\n<br>\nlife... That's the least you can do for the\npeople you fought with.<end>"
-  },
-  "97822": {
-    "「……おいおい。\n　<%sM_pc>は　死んでるじゃないか。\n　死なせたまま別れるなんて　どうかと思うぞ。\n<br>\n「まず　教会で生き返らせてくるんだな。\n　一緒に戦った　仲間に対する礼儀として\n　それくらい　やってくれよ。\n<br>\n「<%sM_pc2>には\n　オレから　別れを伝えておくよ。<end>": "... Oh... <%sM_pc> is dead. I\ndon't think we should just leave him there to\ndie. I'll bring him back to life at the\n<br>\nchurch. That's the least you can do as a\ncourtesy to the people you fought with...\n<I'll tell him goodbye.<end>"
-  },
   "97823": {
     "「まあ！　そんな姿のまま\n　<%sM_pc>さんと　別れるつもり？\n　それは　あんまりじゃないかしら。\n<br>\n「ちゃんと　教会に行って\n　生き返してあげた方が　いいと思うわ。\n　<%sM_pc>さんが　かわいそうよ。\n<br>\n「他のみなさんには\n　私から　お別れを伝えておくわね。<end>": "Oh, my God! You're going to leave\n<%sM_pc> looking like that?\nThat's not a good idea... I think you should\n<br>\ngo to church and bring him back to life. I\nfeel sorry for Mr. <%sM_pc>...\nI'll let the others know you're leaving.<end>"
   },
@@ -855,9 +402,6 @@
     "「まあ！　そんな姿のまま\n　<%sM_pc>さんと　別れるつもり？\n　それは　あんまりじゃないかしら。\n<br>\n「ちゃんと　教会に行って\n　生き返してあげた方が　いいと思うわ。\n　<%sM_pc>さんが　かわいそうよ。\n<br>\n「<%sM_pc2>さんには\n　私から　お別れを伝えておくわね。<end>": "Oh, my God! You're going to leave\n<%sM_pc> looking like that?\nThat's not a good idea... I think you should\n<br>\ngo to church and bring him back to life. Poor\nMr. <%sM_pc>...\n<%sM_pc2>I'll just tell him\n<br>\ngoodbye...<end>"
   },
   "98128": {
-    "<pipipi_off><%sM_pc>たちが　仲間から　はずれた。<end>": "<pipipi_off><%sM_pc>and the rest of the\ngroup...<end>"
-  },
-  "98129": {
     "<pipipi_off><%sM_pc>たちが　仲間から　はずれた。<end>": "<pipipi_off><%sM_pc>and the rest of the\ngroup...<end>"
   },
   "98130": {
@@ -875,18 +419,6 @@
   "127965": {
     "「もし　入隊希望を取り下げたくなったら\n　酒場や　町の入口にある\n　まちかど掲示板に　行ってみるといいぜ。\n<bw_break>": "If you want to withdraw your request to join,\nyou can go to the tavern or the town board at\nthe entrance to town...<bw_break>"
   },
-  "127966": {
-    "": ""
-  },
-  "127967": {
-    "": ""
-  },
-  "127968": {
-    "": ""
-  },
-  "127969": {
-    "": ""
-  },
   "127970": {
     "「おすすめのチームを　知りたいのかしら？\n　それなら　メンバー募集しているチームを\n　いくつか　紹介してあげるわ。\n<end>": "You want some team recommendations? Well,\nI've got a few teams that are looking for\nmembers.<end>"
   },
@@ -902,29 +434,14 @@
   "128121": {
     "「ん？　あんた　チームに入っていないようだな。\n　チームに入ると　楽しいおしゃべりをしたり\n　冒険を助けあったりする　仲間ができるぞ！\n<br>\n「なんなら　おすすめのチームを紹介するぜ。\n　チームのコメントや　チーム名から\n　ピンときた　チームを選んでみるといいぞ！\n<br>\n「他にも　まだまだ　たくさんのチームがあるから\n　酒場や町の入り口にある　まちかど掲示板の\n　『チームをさがす』から　チェックだぜ！\n<end>": "Hmm? You're not on the team... When you join\na team, you'll have friends to chat with and\nhelp you on your adventures. If you'd like, I\n<br>\ncan recommend teams... Pick a team based on\ntheir comments or the name of the team that's\nright for you! There are many more teams to\n<br>\nchoose from, so check out the \"Find a Team\"\nsection of the town bulletin board at the\nentrance to the tavern or town!<end>"
   },
-  "128122": {
-    "": ""
-  },
   "128123": {
     "「あら？　あなた　チームに入っていないようね。\n　チームに入ると　楽しいおしゃべりをしたり\n　冒険を助けあったりする　仲間ができるわ！\n<br>\n「よければ　おすすめのチームを紹介するわ。\n　チームのコメントや　チーム名から\n　ピンときた　チームを選んでみてね！\n<br>\n「他にも　まだまだ　たくさんのチームがあるから\n　酒場や町の入り口にある　まちかど掲示板の\n　『チームをさがす』から　チェックよ！\n<end>": "What? You're not on a team... Well, when you\njoin a team, you get a bunch of people to\nchat with and help you on your adventures! If\n<br>\nyou'd like, I can recommend some teams...\nChoose a team based on their comments or\ntheir name. There are many more teams to\n<br>\nchoose from, so check out the \"Find a Team\"\nsection of the town bulletin board in the\ntavern or at the entrance to town!<end>"
   },
   "131074": {
-    "「<%sM_pc>は　レベル８０以下のようだな。\n　だったら　無料で紹介できるから\n　仲間にしたい時間を　選んでくれるかい？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>You're under level 80, I see.\nIn that case, the hiring cost'll be free.\nHow long would like to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
-  },
-  "131075": {
-    "": ""
+    "「<%sM_pc>は　レベル１００以下のようだな。\n　だったら　無料で紹介できるから\n　仲間にしたい時間を　選んでくれるかい？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": ""
   },
   "131076": {
-    "「<%sM_pc>さんは　レベル８０以下のようね。\n　だったら　無料で紹介できるので\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>You're under level 80?\nIn that case, the hiring cost is free.\nHow long would like to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
-  },
-  "146170": {
-    "「……んんっ？　残念だが　占い師では\n　サポート仲間に登録できないぜ。登録したければ\n　他の職業に転職してから　また来てくれ。\n<end>": "... Hmm? I'm sorry, but as a fortune teller,\nyou can't sign up for support groups... If\nyou want to sign up, you'll have to change\n<br>\nprofessions and come back...<end>"
-  },
-  "146171": {
-    "": ""
-  },
-  "146172": {
-    "「……あら？　残念だけど　占い師では\n　サポート仲間に登録できないの。登録したければ\n　他の職業に転職してから　また来てね。\n<end>": "... Oh? I'm sorry, but as a fortune teller,\nyou can't sign up for a support group... If\nyou want to sign up, you'll have to change\n<br>\nprofessions and then...<end>"
+    "「<%sM_pc>さんは　レベル１００以下ね。\n　だったら　無料で紹介できるので\n　仲間にしたい時間を　選んでくれる？\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": ""
   },
   "257256": {
     "「酒場に　登録されている\n　サポート仲間に　付いている耐性を\n　３種類まで設定して　検索可能だ。\n<br>\n「そして　それぞれの耐性の高さも\n　大まかではあるが　２段階に分けて\n　設定できる。\n<br>\n「★ひとつで　そこそこの耐性で\n　★ふたつで　高い耐性を付けてる\n　サポート仲間が　検索できるぞ。\n<bw_break>": "You can set up to three different resistances\nfor each of your companions in the tavern.\nYou can also set up to two levels of\n<br>\nresistance... You can search for supporters\nwho have a moderate resistance with one and a\nhigh resistance with two.<bw_break>"
@@ -932,17 +449,11 @@
   "257257": {
     "「酒場に　登録されている\n　サポート仲間に　付いている耐性を\n　３種類まで設定して　検索可能よ。\n<br>\n「そして　それぞれの耐性の高さも\n　大まかではあるけど　２段階に分けて\n　設定できるわ。\n<br>\n「★ひとつで　そこそこの耐性で\n　★ふたつで　高い耐性を付けてる\n　サポート仲間が　検索できるわよ。\n<bw_break>": "You can set up to three different resistances\nfor each of your companions in the tavern.\nYou can also set the resistance level of each\n<br>\nof them in two levels... You can search for\nsupporters who have a moderate resistance\nwith one and a high resistance with two...<bw_break>"
   },
-  "257258": {
-    "「酒場に　登録されている\n　サポート仲間に　付いている耐性を\n　３種類まで設定して　検索可能だ。\n<br>\n「そして　それぞれの耐性の高さも\n　大まかではあるが　２段階に分けて\n　設定できる。\n<br>\n「★ひとつで　そこそこの耐性で\n　★ふたつで　高い耐性を付けてる\n　サポート仲間が　検索できるぞ。\n<bw_break>": "You can set up to three different resistances\nfor each of your companions in the tavern.\nYou can also set up to two levels of\n<br>\nresistance... You can search for supporters\nwho have a moderate resistance with one and a\nhigh resistance with two.<bw_break>"
-  },
   "257626": {
     "「……おっと。耐性を検索する場合は\n　先に探したい職業を　設定してくれ。\n　手間をかけるが　よろしく頼むぜ。\n<end>": "...... If you want to search for resistance,\nyou'll need to set up the job you're looking\nfor first... I know it's a lot to ask, but...<end>"
   },
   "257627": {
     "「ごめんなさい。耐性検索したい場合は\n　先に探したい職業を　設定してほしいの。\n　お手間でしょうけど　お願いするわ。\n<end>": "Sorry, but if you'd like to search by\nresistances, you'll need to choose a vocation\nfirst.\n<end>"
-  },
-  "257628": {
-    "": ""
   },
   "273006": {
     "「おっと。大切な名簿が　どっかいっちまった。\n　そんなわけで　悪いが　今は登録できないな。\n　しばらくしてから　また来てくれるか。<end>": "I... I can't find the list. So, I'm sorry, I\ncan't register right now. I'll come back in a\nlittle while and...<end>"
@@ -950,17 +461,11 @@
   "273007": {
     "「あら？　大切な名簿が　どこかいっちゃったわ。\n　ごめんね　今は登録できないわね。\n　しばらくしてから　また来てくれるかしら。<end>": "What? I don't know where my list is. I'm\nsorry, I can't register right now. You can\ncome back in a little while...<end>"
   },
-  "273008": {
-    "": ""
-  },
   "299746": {
     "「おっと　悪いが　いま忙しくて\n　ちょっと手が離せないんだ。\n　少し待ってから　また来てくれるか。<end>": "Oops, sorry, I'm a little busy right now. Can\nyou wait a bit and come back later?<end>"
   },
   "299747": {
     "「あら？　悪いけど　いま忙しくて\n　ちょっと手が離せないのよ。\n　少し待ってから　また来てくれるかしら。<end>": "Oh, no? Sorry, I'm a little busy right now.\nI'll give you a minute and come back later.<end>"
-  },
-  "299748": {
-    "": ""
   },
   "316917": {
     "「おっと　あんたは　占い師のようだな。\n　デッキの登録は　できないが\n　サポート仲間に登録しても　いいんだな？\n<yesno><break>": "Oops, looks like you're a Fortune Teller. You\nwon't use your equipped deck if hired as\na support companion. Is that okay?\n<yesno><break>"
@@ -968,17 +473,11 @@
   "316918": {
     "「あら？　あなたは　占い師のようね。\n　デッキの登録は　できないけど\n　サポート仲間に登録をしても　いいかしら？\n<yesno><break>": "Hm? Looks like you are a Fortune Teller. Your\nequipped deck cannot be used if hired as\na support companion. Is that all right?\n<yesno><break>"
   },
-  "316919": {
-    "": ""
-  },
   "316920": {
     "「ん？　<%sM_pc>は　占い師のようだな。\n　サポート仲間は　タロットを使用できないが\n　それでも　構わないかい？\n<yesno><break>": "Hm? Looks like <%sM_pc> is a Fortune\nTeller. Support companions can't use their\nTarots. You still want to hire them?\n<yesno><break>"
   },
   "316921": {
     "「あら？　<%sM_pc>さんは　占い師のようね。\n　サポート仲間は　タロットを使用できないけど\n　それでも　大丈夫かしら？\n<yesno><break>": "Hm? Looks like <%sM_pc> is a Fortune\nTeller. Support companions cannot use their\nTarots. Is that all right with you?\n<yesno><break>"
-  },
-  "316922": {
-    "": ""
   },
   "342066": {
     "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場です。\n　本日は　どのような　ご用件でしょうか？\n<break>": "This is the Adventurer's Tavern, the place to\nmeet new companions. How may I help you\ntoday?\n<break>"
@@ -989,32 +488,11 @@
   "342068": {
     "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場です。\n　本日は　どのような　ご用件でしょうか？\n<break>": "This is the Adventurer's Tavern, the place to\nmeet new companions. How may I help you\ntoday?\n<break>"
   },
-  "342069": {
-    "「他にも　ご用は　ございますか？\n<break>": ""
-  },
-  "342070": {
-    "「他にも　ご用は　ございますか？\n<break>": ""
-  },
-  "342071": {
-    "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場です。\n　本日は　どのような　ご用件でしょうか？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "This is the Adventurer's Tavern, the place to\nmeet new companions. How may I help you\ntoday?\n<select_se_off>\nParty Search\nRemove Member\nExplanation\n<select_end>\n<break>"
-  },
-  "342072": {
-    "「ここは　冒険者の酒場。旅人たちが\n　仲間を求めて集まる　出会いと別れの酒場です。\n　本日は　どのような　ご用件でしょうか？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": "This is the Adventurer's Tavern, the place to\nmeet new companions. How may I help you\ntoday?\n<select_se_off>\nParty Search\nRemove Member\nExplanation\n<select_end>\n<break>"
-  },
-  "342073": {
-    "「他にも　ご用は　ございますか？\n<select_se_off>\nなかまをさがす\n説明を聞く\n<select_end>\n<break>": ""
-  },
-  "342074": {
-    "「他にも　ご用は　ございますか？\n<select_se_off>\nなかまをさがす\nなかまと別れる\n説明を聞く\n<select_end>\n<break>": ""
-  },
   "342075": {
     "「他にも　ご用は　ございますか？\n<break>": ""
   },
   "342076": {
     "「今いるのは　このような方々です。\n　お気に召した方は　いらっしゃいますか？<break>": ""
-  },
-  "342077": {
-    "「<%sM_pc>さんは　こんな感じですね。\n<break>": ""
   },
   "342078": {
     "「<map>で　この方のことを\n　くわしく見ることができます。\n　別の方を見たいときは　上下キーで選べますよ。\n<break>": ""
@@ -1067,15 +545,6 @@
   "342094": {
     "「かしこまりました。\n　<%sM_pc>さんには　外に出た所で\n　合流するよう　お伝えしておきましたよ。\n<end>": ""
   },
-  "342095": {
-    "「かしこまりました。<%sM_pc>さんには\n　外に　出たところで\n　待ち合わせするように　お伝えしておきます。\n<br>\n「ところで　<%sM_pc>さんが\n　ログインしてきたときは　そのまま\n　仲間に入っても　よろしいでしょうか？\n<yesno><break>": ""
-  },
-  "342096": {
-    "「かしこまりました。\n　<%sM_pc>さんが　ログインしたら\n　仲間に入ってよいと　お伝えいたします。<end>": ""
-  },
-  "342097": {
-    "「かしこまりました。\n　<%sM_pc>さんが　ログインしても\n　あなたには　何も　お伝えしません。<end>": ""
-  },
   "342098": {
     "「かしこまりました。冒険を中断して\n　サポート仲間に　登録するのですね。\n<br>\n「サポート仲間になって\n　誰かに仲間にしてもらうと　休んでる間にも\n　経験値や　ゴールドを　獲得できます。\n<br>\n「もちろん　勝手に持ち物を使われたり\n　装備品を盗られることは　絶対に　ありません。\n　つまり　登録して損なことは　ないのです。\n<br>\n「サポート仲間に登録をしたら\n　冒険を中断してもらうことに　なりますが\n　今　登録しても　よろしいですか？\n<yesno><break>": ""
   },
@@ -1096,12 +565,6 @@
   },
   "342104": {
     "「なるほど　やめておくのですね。\n　わかりました。\n<bw_break>": ""
-  },
-  "342105": {
-    "「サポート仲間を借りたい方が\n　仲間にしたい人を　選ぶ時に見る\n　コメントを残せますが　書いていきますか？\n<yesno><break>": ""
-  },
-  "342106": {
-    "「このままで　よいのですね？\n　では　こちらの内容で　登録しておきます。\n<bw_break>": ""
   },
   "342107": {
     "「では　仲間を探してる方に向けた　コメントと\n　どんな人になら　あなたを紹介していいのか\n　ここで　設定をお願いします。\n<break>": ""
@@ -1163,12 +626,6 @@
   "342126": {
     "「ありがとうございました。\n　新たな仲間を　探したくなった時は\n　いつでも　お立ち寄りください。": "Thank you very much. Please come back if\nyou find yourself needing to meet new\ncompanions."
   },
-  "342127": {
-    "「<%sM_pc>さんを　仲間にしますか？<yesno><break>": "Would you like to join <%sM_pc>?<yesno><break>"
-  },
-  "342128": {
-    "「申し訳ありませんが\n　<%sM_pc>さんは　他の方に\n　誘われてしまったようです。<bw_break>": "I'm sorry, <%sM_pc>, but you've\nbeen invited by another...<bw_break>"
-  },
   "342129": {
     "「……大変　失礼ですが　まさか\n　そのような　お姿のまま　<%sM_pc>さんと\n　別れるおつもりでしょうか？\n<br>\n「どうしても……とは　申しませんが\n　せめて　教会で　生き返らせてから\n　お別れするべきでは　ないでしょうか。\n<bw_break>": ""
   },
@@ -1193,17 +650,8 @@
   "342136": {
     "「しばらく　お待ちください……。\n<break>": ""
   },
-  "342137": {
-    "「申し訳ありません。\n　今は　紹介できる方が　いないようです。\n<br>\n「紹介できる方を　増やしたいなら\n　名前が　紫色のみなさんの頼みを\n　聞いてみると　いいでしょう。\n<bw_break>": ""
-  },
-  "342138": {
-    "「<%sM_pc>さんを　仲間にしても\n　よろしいですか？<break>": ""
-  },
   "342139": {
     "「何を　知りたいのですか？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n紹介料について\n自分をとうろくについて\n耐性種の検索について\n<select_end>\n<break>": ""
-  },
-  "342140": {
-    "「何を　知りたいのですか？\n<select_se_off>\nサポート仲間について\n待機について\n期間について\n<select_end>\n<break>": ""
   },
   "342141": {
     "「<%sM_pc>さんを　仲間にするなら\n　誰かと　入れ替える必要があります。\n　それでも　よろしいですか？\n<yesno><break>": ""
@@ -1217,14 +665,8 @@
   "342144": {
     "「では　<%sM_pc_old>さんに　お伝えしておきます。\n　入れ替わりで　<%sM_pc>さんを\n　呼んできますので　しばし　お待ちを……。<break>": ""
   },
-  "342145": {
-    "「では　みなさんに　お伝えしておきます。\n　入れ替わりで　<%sM_pc>さんを\n　呼んできますので　しばし　お待ちを……。<break>": ""
-  },
   "342146": {
     "<pipipi_off><%sM_pc_old>と別れ\n<%sM_pc>が　仲間に加わった！\n<me 61><end>": "<pipipi_off>Parted ways with <%sM_pc_old> and\n<%sM_pc> joins the party!<me 61><end>"
-  },
-  "342147": {
-    "<pipipi_off>みんなと別れ\n<%sM_pc>が　仲間に加わった！\n<me 61><end>": "<pipipi_off>I'm leaving you all, and <%sM_pc>\nis joining me!<me 61><end>"
   },
   "342148": {
     "<pipipi_off><%sM_pc_old>と別れ\n<%sM_pc>が　仲間（待機中）に加わった！\n<me 61><end>": "<pipipi_off><%sM_pc_old> left the party\nand <%sM_pc> joined the party\non standby!\n<me 61><end>"
@@ -1236,7 +678,7 @@
     "「ここで紹介した　サポート仲間の契約時間は\n　１２時間　２４時間　４８時間\n　７２時間と　１６８時間から　選べます。\n<br>\n「契約時間が　過ぎてしまうと\n　サポート仲間が　強制的に仲間から外れるので\n　ご注意ください。\n<br>\n「残りの契約時間が　少なくなってきたら\n　確認のメッセージが　くるはずです。\n　また　つよさからも　残り時間を確認できます。\n<br>\n「あなた自身が　冒険を中断している時でも\n　サポート仲間を　待機中にしている時でも\n　契約時間は過ぎていくことを　お忘れなく。\n<br>\n「もし　冒険を中断していた本人が\n　冒険を再開しても　あなたとの契約時間内は\n　勝手に出てったりしないので　ご安心ください。\n<bw_break>": ""
   },
   "342151": {
-    "「紹介できるのは　あなたが転職できる職業の中で\n　最高レベルより　少し上のレベルの方まで。\n　紹介料は　相手のレベルと契約時間　次第です。\n<br>\n「ただし　同じチームと　フレンドの方でしたら\n　レベルに関係無く　どなたでも　紹介できます。\n　せっかく　お知り合いになったのですからね。\n<br>\n「同じチームの方でしたら　半額で\n　フレンドや　レベル８０以下の方でしたら\n　無料で　ご紹介できますよ。\n<bw_break>": ""
+    "「紹介できるのは　あなたが転職できる職業の中で\n　最高レベルより　少し上のレベルの方まで。\n　紹介料は　相手のレベルと契約時間　次第です。\n<br>\n「ただし　同じチームと　フレンドの方でしたら\n　レベルに関係無く　どなたでも　紹介できます。\n　せっかく　お知り合いになったのですからね。\n<br>\n「同じチームの方でしたら　半額で\n　フレンドや　レベル１００以下の方でしたら\n　無料で　ご紹介できますよ。\n<bw_break>": ""
   },
   "342152": {
     "「サポート仲間は　別れなくても　一時的に\n　バトルに参加させない状態にできます。\n　その状態を　『待機中』と　呼びます。\n<br>\n「さくせんコマンドの　『サポートなかま』から\n　『参加中』と　『待機中』を切り替えられるので\n　一時的に　仲間を減らしたい時に　どうぞ。\n<br>\n「そうそう。あなたが誘われて誰かの仲間になると\n　サポート仲間は　自動的に待機中になります。\n　いちいち　別れる必要は　ありませんよ。\n<bw_break>": ""
@@ -1246,33 +688,6 @@
   },
   "342154": {
     "「酒場に　登録されている\n　サポート仲間に　付いている耐性を\n　３種類まで設定して　検索可能です。\n<br>\n「そして　それぞれの耐性の高さも\n　大まかではありますが\n　２段階に分けて　設定できますよ。\n<br>\n「★ひとつで　そこそこの耐性で\n　★ふたつで　高い耐性を付けてる\n　サポート仲間が　検索できるのです。\n<bw_break>": ""
-  },
-  "342155": {
-    "「サポート仲間とは　酒場で紹介する仲間です。\n　一緒に魔物と戦ってくれる　心強い味方で\n　町の外でだけ　行動を共にできます。\n<br>\n「バトル中の行動は　命令できませんが\n　作戦を出すだけなら　さくせんコマンドの\n　『サポートなかま』から　伝えられますよ。\n<br>\n「バトル中ではない時も　命令は　できません。\n　ただ　さくせんコマンドの『まんたん』なら\n　ＨＰ回復と　治療や蘇生をしてくれますよ。\n<br>\n「サポート仲間は　あなたと　別れた後に\n　まとめて　経験値をゲットするので\n　一緒に戦ってる間は　レベルは上がりません。\n<br>\n「また　期限切れ以外で　別れるときは\n　酒場で　ちゃんと生きてる時にする\n　決まりですので　どうぞ　お忘れなく。\n<bw_break>": ""
-  },
-  "342156": {
-    "「ここで　ご紹介したサポート仲間は\n　あなたから　別れない限り\n　ずっと　仲間でいられますよ。\n<br>\n「ただ　サポート仲間は　レベルアップしないので\n　もっと強い仲間が　必要になった場合は\n　新しい仲間を　借りると　よいでしょう。\n<bw_break>": ""
-  },
-  "342157": {
-    "「サポート仲間は　別れなくても　一時的に\n　バトルに参加させない状態にできます。\n　その状態を　『待機中』と　呼びます。\n<br>\n「さくせんコマンドの　『サポートなかま』から\n　『参加中』と　『待機中』を切り替えられるので\n　上手に　お使いください。\n<bw_break>": ""
-  },
-  "342158": {
-    "<se_nots System 7><%sM_pc>との　ダブルすれちがい達成！\nダブルすれちがいポイント　<%nL_POINT>ポイントかくとく。\n合計<%nL_POINT_TOTAL>ポイントに　なりました。": "<se_nots System 7>You've achieved a double pass with\n<%sM_pc>! Double Passing Points\n<%dL_POINT> points or... That's a\n<br>\ntotal of <%dL_POINT_TOTAL>\npoints..."
-  },
-  "342159": {
-    "ダブルすれちがいポイントが\n合計<%nL_POINT_TOTAL>ポイントに\nなりました。\n<bw_break>": "Double Passing Points will total\n<%dL_POINT_TOTAL> points...<bw_break>"
-  },
-  "342160": {
-    "<se_nots System 7><%sM_pc>との　ダブルすれちがい達成！\nダブルすれちがいポイント上限のため\nポイントは　かくとくできませんでした。": "<se_nots System 7>You have achieved a double pass with\n<%sM_pc>! Due to the double pass-\nby point limit, points cannot be acquired..."
-  },
-  "342161": {
-    "「おめでとうございます！\n　別の世界で　すれ違った方と　この世界で\n　再会できるとは　ロマンティックですね。\n<br>\n「<%sM_pc>さんには　外に出た所で\n　合流するよう　お伝えしておきましたよ。\n<end>": ""
-  },
-  "342162": {
-    "「どんな相手に　あなたのことを\n　紹介していいのかを　教えてください。\n<select_se_off>\nだれでもＯＫ\nフレンドのみ\nチームのみ\nフレンドとチームのみ\n<select_end>\n<break>": ""
-  },
-  "342163": {
-    "「どんな相手に　あなたのことを\n　紹介していいのかを　教えてください。\n<select_se_off>\nだれでもＯＫ\nフレンドのみ\n<select_end>\n<break>": ""
   },
   "342164": {
     "「おすすめのチームを　知りたいのですか？\n　でしたら　メンバー募集しているチームを\n　いくつか　ご紹介しましょう。\n<end>": ""
@@ -1290,10 +705,7 @@
     "「もし　入隊希望を　取り下げたくなった場合は\n　酒場や　町の入口にある\n　まちかど掲示板に　行ってみるとよいでしょう。\n<bw_break>": ""
   },
   "342169": {
-    "「<%sM_pc>さんは　レベル８０以下のため\n　無料で　ご紹介できます。\n　仲間にしたい時間を　選んでください。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": "<speed=0>You're under level 80, so that\nmeans the hiring cost will be no charge.\nHow long would like to hire them for?\n<select_se_off>\n12 Hours\n24 Hours\n48 Hours\n72 Hours\n168 Hours\n<select_end>\n<break>"
-  },
-  "342170": {
-    "「……まことに　残念ながら　占い師では\n　サポート仲間に登録できません。\n　他の職業に転職してから　また　お願いします。\n<end>": ""
+    "「<%sM_pc>さんは　レベル１００以下のため\n　無料で　ご紹介できます。\n　仲間にしたい時間を　選んでください。\n<select_se_off>\n１２時間\n２４時間\n４８時間\n７２時間\n１６８時間\n<select_end>\n<break>": ""
   },
   "342171": {
     "「……あなたは　占い師のようですね。\n　デッキの登録は　できませんが\n　サポート仲間に登録して　よろしいですか？\n<yesno><break>": ""
@@ -1306,5 +718,95 @@
   },
   "342174": {
     "「たいへん　申し訳ありません。\n　ただいま　手が離せませんで……。\n　しばらく待ってから　また　おいでください。<end>": ""
+  },
+  "356025": {
+    "「……おっと。酒場スタッフから　探すなら\n　耐性検索は　設定できないぜ。\n　手間をかけるが　よろしく頼むぜ。\n<end>": ""
+  },
+  "356026": {
+    "「ごめんなさい。酒場スタッフから　探すなら\n　耐性検索は　設定できないの。\n　お手間でしょうけど　お願いするわ。\n<end>": ""
+  },
+  "356027": {
+    "「……申し訳ありません。酒場スタッフから\n　探すなら　耐性検索は　設定できません。\n　お手数ですが　よろしくお願いします。\n<end>": ""
+  },
+  "356028": {
+    "「ワンタッチパーティを　希望だな。\n　あんたのサポート仲間が　３人に　なるように\n　冒険者を　紹介してやるサービスだぜ。\n<end>": ""
+  },
+  "356029": {
+    "「ワンタッチパーティを　ご希望ね。\n　あなたのサポート仲間が　３人に　なるように\n　冒険者を　紹介してあげるサービスよ。\n<end>": ""
+  },
+  "356030": {
+    "「ワンタッチパーティを　ご希望ですね。\n　あなたのサポート仲間が　３人に　なるように\n　冒険者を　ご紹介するサービスです。\n<end>": ""
+  },
+  "356031": {
+    "「サポート仲間の　職業や　つよさは\n　オレが　選んでやるから　まかせとけ！\n　紹介は無料だが　呼んできてもいいかい？\n<yesno>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": ""
+  },
+  "356032": {
+    "「サポート仲間の　職業や　つよさは\n　わたしが　選んであげるから　まかせてね。\n　ご紹介は無料だけど　お呼びしていいかしら？\n<yesno>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": ""
+  },
+  "356033": {
+    "「サポート仲間の　職業や　つよさは\n　わたくしが　選びますので　おまかせを。\n　ご紹介は無料ですが　さっそくお呼びしても？\n<yesno>\n<case 1>\n<close>\n<case 2>\n<break>\n<case_cancel>\n<break>\n<case_end>": ""
+  },
+  "356034": {
+    "<pipipi_off>\n<%sM_pc1><%sM_AddStr1>\n<me 61>\n<end>": ""
+  },
+  "356035": {
+    "<pipipi_off>\n<%sM_pc1><%sM_AddStr1>\n<me 61>\n<end>": ""
+  },
+  "356036": {
+    "<pipipi_off>\n<%sM_pc1><%sM_AddStr1>\n<me 61>\n<end>": ""
+  },
+  "356037": {
+    "「よっしゃ！\n　加わった仲間には　町の外に出た所で\n　合流するよう　伝えておいたぜ！\n<end>": ""
+  },
+  "356038": {
+    "「はい。これで　オッケーよ。\n　加わった仲間には　町の外に出た所で\n　合流するよう　伝えておいたわ。\n<end>": ""
+  },
+  "356039": {
+    "「かしこまりました。\n　加わった仲間には　町の外に出た所で\n　合流するよう　お伝えしておきましたよ。\n<end>": ""
+  },
+  "356040": {
+    "「……おお？　なんだよ\n　都合の悪いヤツが　いるみたいだ。\n　すまんが　また後で　来てみてくれ。\n<end>": ""
+  },
+  "356041": {
+    "「あら。都合の悪い方が　いるみたい。\n　ごめんなさいね　また後で　来てくれるかしら。\n<end>": ""
+  },
+  "356042": {
+    "「おや。都合の悪い方が　おられるようです。\n　申し訳ありませんが\n　また後で　いらしてください。\n<end>": ""
+  },
+  "356043": {
+    "「……と思ったけど　見たところ　あんた\n　すでに　サポート仲間が　３人いるじゃないか。\n　人手に困ったら　また来てくれるか。\n<end>": ""
+  },
+  "356044": {
+    "「……と思ったけど　見たところ　あなた\n　すでに　サポート仲間が　３人いるようね。\n　人手に困ったら　また　声をかけてね。\n<end>": ""
+  },
+  "356045": {
+    "「……と思いましたが　見たところ　あなた\n　すでに　サポート仲間を　３人お連れのご様子。\n　人手に困ったら　また　おいでください。\n<end>": ""
+  },
+  "356046": {
+    "「おい　あんた。さっき　紹介したじゃないか。\n　少し時間をおいてから　また来いよな。\n<end>": ""
+  },
+  "356047": {
+    "「あら　あなた。ついさっき　紹介したじゃない。\n　少し時間をおいてから　また来てくれるかしら。\n<end>": ""
+  },
+  "356048": {
+    "「おや　あなたには　先ほど　紹介しましたね。\n　少し時間をおいてから　また　おいでください。\n<end>": ""
+  },
+  "357758": {
+    "<pipipi_off>\n<%sM_pc1><%sM_AddStr1>\n<%sM_pc2><%sM_AddStr2>\n<me 61>\n<end>": ""
+  },
+  "357759": {
+    "<pipipi_off>\n<%sM_pc1><%sM_AddStr1>\n<%sM_pc2><%sM_AddStr2>\n<me 61>\n<end>": ""
+  },
+  "357760": {
+    "<pipipi_off>\n<%sM_pc1><%sM_AddStr1>\n<%sM_pc2><%sM_AddStr2>\n<me 61>\n<end>": ""
+  },
+  "357761": {
+    "<pipipi_off>\n<%sM_pc1><%sM_AddStr1>\n<%sM_pc2><%sM_AddStr2>\n<%sM_pc3><%sM_AddStr3>\n<me 61>\n<end>": ""
+  },
+  "357762": {
+    "<pipipi_off>\n<%sM_pc1><%sM_AddStr1>\n<%sM_pc2><%sM_AddStr2>\n<%sM_pc3><%sM_AddStr3>\n<me 61>\n<end>": ""
+  },
+  "357763": {
+    "<pipipi_off>\n<%sM_pc1><%sM_AddStr1>\n<%sM_pc2><%sM_AddStr2>\n<%sM_pc3><%sM_AddStr3>\n<me 61>\n<end>": ""
   }
 }

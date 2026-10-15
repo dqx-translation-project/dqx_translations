@@ -6,13 +6,13 @@
     "アカイワ博士の所で　モンスターと\nパーティを組んでから　また調べてみよう。\n<end>": "アカイワ博士の所で　モンスターと\nパーティを組んでから　また調べてみよう。\n<end>"
   },
   "351380": {
-    "なんとも　奇妙な置き物がある。\nこれを通じて　特別な実験に参加できそうだ。\n実験に参加しますか？\n<yesno><break>": "なんとも　奇妙な置き物がある。\nこれを通じて　特別な実験に参加できそうだ。\n実験に参加しますか？\n<yesno><break>"
+    "なんとも　奇妙な置き物がある。\nこれを通じて　特別な実験に参加できそうだ。\n実験に参加しますか？\n<yesno><close>": "なんとも　奇妙な置き物がある。\nこれを通じて　特別な実験に参加できそうだ。\n実験に参加しますか？\n<yesno><close>"
   },
   "351381": {
     "「それでは　またお待ちしています。": "「それでは　またお待ちしています。"
   },
   "351382": {
-    "いつもと違う　まがまがしい気配を感じる。\n他のなかまたちと　実験に参加できそうだ。\n<color_yellow>\n参加可能期間：<cp_set 197><cp_ymdhm_end_m1>まで\n<color_white>\n<select>\n通常バトルに行く\n同盟バトルに行く\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "いつもと違う　まがまがしい気配を感じる。\n他のなかまたちと　実験に参加できそうだ。\n<color_yellow>\n参加可能期間：<cp_set 197><cp_ymdhm_end_m1>まで\n<color_white>\n<select>\n通常バトルに行く\n同盟バトルに行く\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
+    "いつもと違う　まがまがしい気配を感じる。\n他のなかまたちと　実験に参加できそうだ。\n<color_yellow>\n参加可能期間：<cp_set 197><cp_ymdhm_end_m1>まで\n<color_white>\n<select>\n同盟バトルに行く\n通常バトルに行く\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "いつもと違う　まがまがしい気配を感じる。\n他のなかまたちと　実験に参加できそうだ。\n<color_yellow>\n参加可能期間：<cp_set 197><cp_ymdhm_end_m1>まで\n<color_white>\n<select>\n同盟バトルに行く\n通常バトルに行く\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>"
   },
   "351383": {
     "通常の実験に行く\n同盟の実験に行く\n<end>": "通常の実験に行く\n同盟の実験に行く\n<end>"
@@ -42,6 +42,6 @@
     "バトルに参加するには\nプレイヤーのレベルが\n１３０以上　必要となります。": "バトルに参加するには\nプレイヤーのレベルが\n１３０以上　必要となります。"
   },
   "354204": {
-    "通常バトルに　行きますか？\n<yesno><break>": "通常バトルに　行きますか？\n<yesno><break>"
+    "<%sL_NAME>に　挑戦しますか？\n<yesno><break>": "<%sL_NAME>に　挑戦しますか？\n<yesno><break>"
   }
 }
