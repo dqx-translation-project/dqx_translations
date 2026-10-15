@@ -42,7 +42,7 @@
     "<speed=0>これ以上　仲間を増やすことは　できません！": "<speed=0>Can't add any more party members!"
   },
   "4990": {
-    "<speed=0>いまは　<%sM_pc>を　仲間に　さそえなかった。": "<speed=0>Couldn't invite <%sM_pc> right now."
+    "<speed=0>いまは　<%sM_pc>を\n仲間に　さそえなかった。": ""
   },
   "4992": {
     "<speed=0><%sM_pc>は\nすでに　別のパーティに入っています。": "<speed=0><%sM_pc> is already in another party."
@@ -2250,7 +2250,7 @@
     "<%sM_pc>が　このパーティ同盟全体の\nリーダーになります。あなたの\nストーリーは進行しませんが　よろしいですか？<yesno><close>": "<%sM_pc> will become the leader of the\nparty alliance. Your story will not progress,\nis that okay?<yesno><close>"
   },
   "36720": {
-    "<speed=0>\n『公開する』にすると　まちかど掲示板に\nチーム情報が表示され　入隊希望を受け付けます。　\n『公開する』に　変更しますか？\n<yesno><close>": "<speed=0>\nSelecting \"Public\" will display your Team\ninformation on the Town Bulletin Board and\nwill open recruitment. Set to \"Public\"?\n<yesno><close>"
+    "<speed=0>\n『公開する』にすると　まちかど掲示板に\nチーム情報が表示され　入隊希望を受け付けます。\n『公開する』に　変更しますか？\n<yesno><close>": ""
   },
   "36721": {
     "<speed=0>\n『公開しない』にすると　まちかど掲示板に\nチームの情報は　表示されません。\n『公開しない』に　変更しますか？\n<yesno><close>": "<speed=0>\nSetting to \"Hidden\" will hide your Team\ninformation on the Town Bulletin Board.\nSet to \"Hidden\"?\n<yesno><close>"
@@ -2517,7 +2517,7 @@
     "<speed=0>チームメンバーのかきおきメモが　ありません。": "<speed=0>There are no Team member notes."
   },
   "38149": {
-    "<speed=0><%sM_item>を　逃がしますか？<yesno2><close>": "<speed=0>Let the <%sM_item> go?<yesno2><close>"
+    "<%sM_item>を\nおさかなコイン　<%nL_COIN>枚と\n交換しても　よろしいですか？\n<yesno><close>": ""
   },
   "38150": {
     "<speed=0><%sM_item>を　逃がした！": "<speed=0><%sM_item> was let go!"
@@ -2598,7 +2598,7 @@
     "<speed=0>いまは　さかなを　見せられない！": "<speed=0>You can't show off your fish right now!"
   },
   "38637": {
-    "<speed=0><%sM_item>\n<%sM_size>ｃｍ\nおさかな交換員のところへ　持っていこう！": "<speed=0><%sM_item>\n<%sM_size> cm\nTake it to the Fish Exchange!"
+    "<speed=0><%sM_item>\n<%sM_size>ｃｍ": "<speed=0><%sM_item>\n<%sM_size> cm"
   },
   "38639": {
     "<speed=0>かきおきメモを\n設定できませんでした。\n時間をおいて　再度お試しください。": "<speed=0>Memo could not be set. Please try again later."
@@ -2625,7 +2625,7 @@
     "<speed=0><%sM_item><%sM_plusnum>は\n連れている仲間モンスターが　装備していますが\n本当に　捨ててもよいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> is currently\nequipped to a fellow monster. Are you sure\nyou want to throw it away?\n<yesno2><close>"
   },
   "38862": {
-    "<speed=0><%sM_item>\n<color_yellow><%sM_size>ｃｍ　<%sM_rank><color_white>\nおさかな交換員のところへ　持っていこう！": "<speed=0><%sM_item>\n<color_yellow><%sM_size> cm <%sM_rank><color_white>\nTake it to the Fish Exchange!"
+    "<speed=0><%sM_item>\n<color_yellow><%sM_size>ｃｍ　<%sM_rank><color_white>": "<speed=0><%sM_item>\n<color_yellow><%sM_size> cm　<%sM_rank><color_white>"
   },
   "38881": {
     "<%sM_category>の\n称号から\n設定します": "Set a title from\nthe category\n<%sM_category>."
@@ -2640,10 +2640,10 @@
     "<speed=0>フレンドへのかきおきメモを変更しました。": "<speed=0>Changed the note that friends are able to see."
   },
   "38891": {
-    "<speed=0><%sM_item>　<%.1fM_size>ｃｍ\n入れ替えて　逃がすさかなを選んでください。<break>": "<speed=0>Choose a fish to let go to take the\n<%.1fM_size> cm <%sM_item>.<break>"
+    "<speed=0><%sM_item>　<%.1fM_size>ｃｍ\n入れ替えて　おさかなコインに交換する\nさかなを　選んでください。<break>": ""
   },
   "38893": {
-    "<speed=0><color_yellow><%sM_item>　<%.1fM_size>ｃｍ(<%sM_rank>)<color_white>\n入れ替えて　逃がすさかなを選んでください。<break>": "<speed=0><color_yellow><%sM_item> <%.1fM_size> cm (<%sM_rank>)<color_white>\nPlease select a fish to replace with.<break>"
+    "<speed=0><color_yellow><%sM_item>　<%.1fM_size>ｃｍ(<%sM_rank>)<color_white>\n入れ替えて　おさかなコインに交換する\nさかなを　選んでください。<break>": ""
   },
   "39062": {
     "<speed=0>アンルシアは　待機中に　変更できません！": "<speed=0>Anlucia cannot be changed while on standby!"
@@ -3181,9 +3181,6 @@
   },
   "41698": {
     "ショートカット\n機能の有効無効を\n設定できます": "Enable or disable\nshort-cut\ncommands."
-  },
-  "41701": {
-    "Ｓカイザー": "Storm Kaiser"
   },
   "41829": {
     "毎日更新の\nまちかど情報を\n確認できます": "Check the daily\nupdated town\ninformation."
@@ -5070,7 +5067,7 @@
     "<%sL_FISH>を　釣った！": "Caught <%sL_FISH>!"
   },
   "50496": {
-    "<%sL_FISH>を　逃した！": "<%sL_FISH> escaped!"
+    "<%sL_FISH>を　コインに交換した！": ""
   },
   "50504": {
     "ネコ缶を使って\nネコをつかまえる\nことができる": "Catch a cat\nusing a can of\ncat food."
@@ -5283,7 +5280,7 @@
     "<speed=0>パーティ同盟を組まずに　この先に進むと\nとても厳しい戦いに　なりますが\n本当に　進んでも　よろしいですか？\n<yesno><close>": "<speed=0>If you proceed without forming a\nparty alliance, the battle will be quite\ndifficult. Are you sure?\n<yesno><close>"
   },
   "51759": {
-    "<speed=0>パーティの人数が　<%dEV_PARTYNUM>人に満たないため\n<%sEV_TARGETPARTY>を　指定することができません。": "<speed=0>Your party has less than <%dEV_PARTYNUM> members,\nso you cannot choose <%sEV_TARGETPARTY>."
+    "<speed=0>パーティの人数が　<%dEV_PARTYNUM>人に満たないため\n<%sM_TargetParty>を　指定することができません。": ""
   },
   "51785": {
     "お部屋のお招きを\nとりけすことが\nできる": "You can decline\ninvitations\nto your rooms."
@@ -6677,12 +6674,6 @@
   "59234": {
     "<speed=0>どの説明を　見ますか？\n<select>\n空・時間\nやめる\n<select_end>\n<close>": "<speed=0>View which explanation?\n<select>\nSpace Time\nCancel\n<select_end>\n<close>"
   },
-  "59261": {
-    "<speed=0><%sM_item>\n<color_yellow><%sM_size>ｃｍ　<%sM_rank><color_white>": "<speed=0><%sM_item>\n<color_yellow><%sM_size> cm　<%sM_rank><color_white>"
-  },
-  "59262": {
-    "<speed=0><%sM_item>\n<%sM_size>ｃｍ": "<speed=0><%sM_item>\n<%sM_size> cm"
-  },
   "59276": {
     "バージョン５ありがとうキャンペーン": "Version 5 Thank You Campaign"
   },
@@ -6966,7 +6957,7 @@
     "ここで　ジャンプをするなんて　とんでもない！": "It's simply outrageous to try jumping here!"
   },
   "60916": {
-    "<speed=0><%sM_action>は　いまは使えない！\nゾーンに入った時に　フルチャージしていなかった。": "<speed=0>You can't use <%sM_action>\nuntil full charge when pepped up!"
+    "<speed=0><%sM_action>は　いまは使えない！\nゾーン発動時に　フルチャージしていなかった。": ""
   },
   "60949": {
     "ピラミッドや\n移動の演出を再生\nするか設定します": "Settings for\npyramid and\ntravel scenes."
@@ -7886,9 +7877,6 @@
   "64776": {
     "モニターの画質の変更は　メニューを閉じたあとの\n映像の再読み込み後に　少し経つと反映されます。\nご注意ください。": "Please note that monitor quality changes will\nbe reflected after the menu is closed and the\nvideo reloads after a few seconds."
   },
-  "64785": {
-    "<speed=0>タロット占いとは　落ち着いた状態で\n占うことがらを　読み解いていくものです。\n安全な　町の中でやりましょう。": "<speed=0>A Tarot reading works best when you calmly\nfocus on the interpretation. For best results,\nit's recommended to do so within town."
-  },
   "64791": {
     "Nintendo Switchの携帯モードでのプレイにおける\n描画速度を変更できますが　『高速』の場合\nバッテリー持続時間は　短くなります。": "Switch stuff..."
   },
@@ -8267,7 +8255,67 @@
   "66273": {
     "<speed=0>\n現在　その場所へは　移動できません。": "<speed=0>\nYou cannot move to that location right now."
   },
+  "66275": {
+    "『<%sEV_QUEST_NAME>』\nあらすじや　行き先を見ながら\nクエストを進めていこう。": ""
+  },
   "66279": {
-    "コマンド決定時に\n武器切替するか\n設定します": "Switch weapons\nwhen confirming\ncommands."
+    "呪文特技の選択時\nに自動で武器を\n切り替えます": ""
+  },
+  "66325": {
+    "クエスト案内が　表示されます。": ""
+  },
+  "66326": {
+    "超お役立ちの\nクエスト受注時に\n案内確認をする": ""
+  },
+  "66327": {
+    "超お役立ちの\nクエスト受注時に\n案内確認をしない": ""
+  },
+  "66328": {
+    "メインコマンドの\nガイドについて\n各種設定をします": ""
+  },
+  "66342": {
+    "エルヴィンとカレル": ""
+  },
+  "66343": {
+    "どれにしますか？<break>": ""
+  },
+  "66354": {
+    "オーグリードの英雄": ""
+  },
+  "66355": {
+    "名探偵カンダタの事件簿": ""
+  },
+  "66356": {
+    "ふたりの歌い手": ""
+  },
+  "66357": {
+    "空飛ぶ甲虫": ""
+  },
+  "66364": {
+    "が　仲間（待機中）に加わった！": ""
+  },
+  "66365": {
+    "が　仲間に加わった！": ""
+  },
+  "66386": {
+    "<speed=0>オートマッチングした先の場所では\n他の冒険者が　活動しています。\nご注意ください。": ""
+  },
+  "66387": {
+    "<speed=0>『ソロ活』サーバーでは　<%sM_TargetParty>を\n指定できません。\n別のサーバーへ　移動してください。": ""
+  },
+  "66473": {
+    "<speed=0>\nこれまで　魔界や天星郷など\n専用の石で　移動していたマップでも\nルーラストーンが　使用できるようになりました。\n<br>\nこれにより　元の世界へ戻る　を選択しなくても\nアストルティアや　別の世界へ　直接\n移動することが　可能になります。\n<br>\nまた　それに伴い　現在進めているストーリーの\n最新の石が　ルーラストーンの最後尾に\n追加されます。\n<br>\nただし　この最新の石は　配置変更することが\nできませんので　ご注意ください。": ""
+  },
+  "66513": {
+    "<speed=0>職人とくぎの配置を　初期状態に　戻しますか？<yesno 2><close>": ""
+  },
+  "66514": {
+    "<speed=0>部活とくぎの配置を　初期状態に　戻しますか？<yesno 2><close>": ""
+  },
+  "66518": {
+    "<speed=0>その行き先へ　直接\n移動することは　できないようだ。": ""
+  },
+  "66612": {
+    "バッジ交換券": ""
   }
 }
