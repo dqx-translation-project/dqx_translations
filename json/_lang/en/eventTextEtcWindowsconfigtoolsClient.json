@@ -81,10 +81,10 @@
     "装備（スカート、マントなど）や髪、飾りなどの\n物理制御による揺れの表現を設定します。\n　- チェックあり\n　　　物理制御が有効になり、揺れの表現品質が上がりますが、処理負荷も上がります。\n　- チェックなし\n　　　物理制御が無効になり、揺れの表現品質は下がりますが、処理負荷を軽減できます。": "Equipment (skirts, cloaks), hair, decorations, etc\nSets the shaking expression by physics control.\n  - Checked\n  Physical control is enabled, but increases load.\n  - Unchecked\n  Physics controls are disabled and shaking quality is reduced, but reduces load."
   },
   "79827": {
-    "被写界深度による表現（ピントを合わせた表現）を設定します。\n　- チェックあり\n　　　表現が有効になりますが、処理負荷が上がります。\n　- チェックなし\n　　　表現が無効になりますが、処理負荷を軽減できます。\n　　　動作が重い時は、「被写界深度を有効にする」と\n　　　「背景の特殊な光の表現を有効にする」のチェックを両方とも外してください。": ""
+    "被写界深度による表現（ピントを合わせた表現）を設定します。\n　- チェックあり\n　　　表現が有効になりますが、処理負荷が上がります。\n　- チェックなし\n　　　表現が無効になりますが、処理負荷を軽減できます。\n　　　動作が重い時は、「被写界深度を有効にする」と\n　　　「背景の特殊な光の表現を有効にする」のチェックを両方とも外してください。": "Sets the depth of field expression.\n  - Checked\n  Expressions will be enabled, but load will increase.\n  - Unchecked\n  Expressions will be disabled, but load is reduced.\nWhen operations are heavy, it is recommended to\nuncheck both \"Enable depth of field\" and\n\"Enable rendering of special lighting\"."
   },
   "79828": {
-    "背景の特殊な光の表現を設定します。\n　- チェックあり\n　　　表現が有効になりますが、処理負荷が上がります。\n　- チェックなし\n　　　表現が無効になりますが、処理負荷を軽減できます。\n　　　動作が重い時は、「被写界深度を有効にする」と\n　　　「背景の特殊な光の表現を有効にする」のチェックを両方とも外してください。": ""
+    "背景の特殊な光の表現を設定します。\n　- チェックあり\n　　　表現が有効になりますが、処理負荷が上がります。\n　- チェックなし\n　　　表現が無効になりますが、処理負荷を軽減できます。\n　　　動作が重い時は、「被写界深度を有効にする」と\n　　　「背景の特殊な光の表現を有効にする」のチェックを両方とも外してください。": "Enables rendering of special lighting in the background.\n  - Checked\n  Expressions will be enabled, but load will increase.\n  - Unchecked\n  Expressions will be disabled, but load is reduced.\nWhen operations are heavy, it is recommended to\nuncheck both \"Enable depth of field\" and\n\"Enable rendering of special lighting\"."
   },
   "79829": {
     "キャラクターが移動する時に表示される、足元のエフェクトの挙動を設定します。\n　- チェックあり\n　　　エフェクトが有効になりますが、処理負荷が上がります。\n　- チェックなし\n　　　エフェクトが無効になりますが、処理負荷を軽減できます。": "Sets the foot effect behavior when the character moves.\n  - Checked\n  The effect will be enabled, but load will increase.\n  - Unchecked\n  Effect will be disabled, but load will be reduced."
@@ -213,10 +213,10 @@
     "　画面全体のギザギザした表現を滑らかにする": "  Smooths jaggedness across the screen"
   },
   "79873": {
-    "　被写界深度を有効にする": "  Activates depth of field"
+    "　被写界深度を有効にする": "  Enable depth of field"
   },
   "79874": {
-    "　背景の特殊な光の表現を有効にする": "  Enables special lighting in the background"
+    "　背景の特殊な光の表現を有効にする": "  Enable rendering of special lighting"
   },
   "79875": {
     "　足元のエフェクトを表示する": "  Displays effects at your feet"
@@ -1530,7 +1530,7 @@
     "選択しているプレイヤー情報を\n正常に読み取ることができませんでした。\nコンフィグツールを再起動して\nプレイヤー選択をやり直して下さい。": "The selected player information could not be read.\nRestart the config and try selecting the player again."
   },
   "152824": {
-    "奥行きに応じた色の表現を設定します。\n　- チェックあり\n　　　奥行きのある色の表現となりますが、処理負荷があがります。\n　- チェックなし\n　　　奥行きのある色の表現が無効となりますが、処理負荷が軽減されます。\n　　　※一部のイベントシーンなどで色の表現が少なく表示されることがあります。\n　　　・被写界深度を有効にする\n　　　・背景の特殊な光の表現を有効にする\n　　　二つの設定を無効にした際、この機能を無効にすることができます。\n　　　またどちらかを有効にした場合、自動的にこの機能も有効になります。\n　　　※この設定を無効にすると「特定のイベントでキャラクターの輪郭表現を向上させる」も無効になります。": ""
+    "奥行きに応じた色の表現を設定します。\n　- チェックあり\n　　　奥行きのある色の表現となりますが、処理負荷があがります。\n　- チェックなし\n　　　奥行きのある色の表現が無効となりますが、処理負荷が軽減されます。\n　　　※一部のイベントシーンなどで色の表現が少なく表示されることがあります。\n　　　・被写界深度を有効にする\n　　　・背景の特殊な光の表現を有効にする\n　　　二つの設定を無効にした際、この機能を無効にすることができます。\n　　　またどちらかを有効にした場合、自動的にこの機能も有効になります。\n　　　※この設定を無効にすると「特定のイベントでキャラクターの輪郭表現を向上させる」も無効になります。": "Set color depth representation.\n - Checked\n   Color depth representation enabled, processing load is increased.\n - Unchecked\n   Color depth representation disabled, processing load is reduced.\n   ※Color representation may be reduced in some event scenes.\n   ・Enable depth of field\n   ・Enable rendering of special lighting\n   This function can be disabled by disabling these two settings.\n   If either is enabled, this feature is also automatically enabled.\n   Disabling this setting also disables the \"Improve character outlines in certain events\" setting."
   },
   "152825": {
     "　奥行きに応じた色の表現を有効にする": "  Enable depth color expression."
