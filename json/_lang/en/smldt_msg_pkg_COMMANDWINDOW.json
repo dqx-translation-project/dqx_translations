@@ -42,7 +42,7 @@
     "<speed=0>これ以上　仲間を増やすことは　できません！": "<speed=0>Can't add any more party members!"
   },
   "4990": {
-    "<speed=0>いまは　<%sM_pc>を\n仲間に　さそえなかった。": ""
+    "<speed=0>いまは　<%sM_pc>を\n仲間に　さそえなかった。": "<speed=0><%sM_pc> can't be invited\nto your party right now."
   },
   "4992": {
     "<speed=0><%sM_pc>は\nすでに　別のパーティに入っています。": "<speed=0><%sM_pc> is already in another party."
@@ -2250,7 +2250,7 @@
     "<%sM_pc>が　このパーティ同盟全体の\nリーダーになります。あなたの\nストーリーは進行しませんが　よろしいですか？<yesno><close>": "<%sM_pc> will become the leader of the\nparty alliance. Your story will not progress,\nis that okay?<yesno><close>"
   },
   "36720": {
-    "<speed=0>\n『公開する』にすると　まちかど掲示板に\nチーム情報が表示され　入隊希望を受け付けます。\n『公開する』に　変更しますか？\n<yesno><close>": ""
+    "<speed=0>\n『公開する』にすると　まちかど掲示板に\nチーム情報が表示され　入隊希望を受け付けます。\n『公開する』に　変更しますか？\n<yesno><close>": "<speed=0>\nSelecitng \"Public\" will display your Team\ninformation on the Town Bulletin Board, and\nallow you to accept join requests.\n<br>\nSet your Team's information to \"Public\"?\n<yesno><close>"
   },
   "36721": {
     "<speed=0>\n『公開しない』にすると　まちかど掲示板に\nチームの情報は　表示されません。\n『公開しない』に　変更しますか？\n<yesno><close>": "<speed=0>\nSetting to \"Hidden\" will hide your Team\ninformation on the Town Bulletin Board.\nSet to \"Hidden\"?\n<yesno><close>"
@@ -2517,7 +2517,7 @@
     "<speed=0>チームメンバーのかきおきメモが　ありません。": "<speed=0>There are no Team member notes."
   },
   "38149": {
-    "<%sM_item>を\nおさかなコイン　<%nL_COIN>枚と\n交換しても　よろしいですか？\n<yesno><close>": ""
+    "<%sM_item>を\nおさかなコイン　<%nL_COIN>枚と\n交換しても　よろしいですか？\n<yesno><close>": "Exchange the <%sM_item>\nfor <%dL_COIN> Fish Coins?\n<yesno><close>"
   },
   "38150": {
     "<speed=0><%sM_item>を　逃がした！": "<speed=0><%sM_item> was let go!"
@@ -5067,7 +5067,7 @@
     "<%sL_FISH>を　釣った！": "Caught <%sL_FISH>!"
   },
   "50496": {
-    "<%sL_FISH>を　コインに交換した！": ""
+    "<%sL_FISH>を　コインに交換した！": "Exchanged the <%sL_FISH>\nfor Fish Coins!"
   },
   "50504": {
     "ネコ缶を使って\nネコをつかまえる\nことができる": "Catch a cat\nusing a can of\ncat food."
@@ -5280,7 +5280,7 @@
     "<speed=0>パーティ同盟を組まずに　この先に進むと\nとても厳しい戦いに　なりますが\n本当に　進んでも　よろしいですか？\n<yesno><close>": "<speed=0>If you proceed without forming a\nparty alliance, the battle will be quite\ndifficult. Are you sure?\n<yesno><close>"
   },
   "51759": {
-    "<speed=0>パーティの人数が　<%dEV_PARTYNUM>人に満たないため\n<%sM_TargetParty>を　指定することができません。": ""
+    "<speed=0>パーティの人数が　<%dEV_PARTYNUM>人に満たないため\n<%sM_TargetParty>を　指定することができません。": "<speed=0>As your party size is less than\n<%dEV_PARTYNUM> members, you cannot select\n<%sM_TargetParty>."
   },
   "51785": {
     "お部屋のお招きを\nとりけすことが\nできる": "You can decline\ninvitations\nto your rooms."
@@ -6957,7 +6957,7 @@
     "ここで　ジャンプをするなんて　とんでもない！": "It's simply outrageous to try jumping here!"
   },
   "60916": {
-    "<speed=0><%sM_action>は　いまは使えない！\nゾーン発動時に　フルチャージしていなかった。": ""
+    "<speed=0><%sM_action>は　いまは使えない！\nゾーン発動時に　フルチャージしていなかった。": "<speed=0><%sM_action> can't be used now!\nIt was not charged while pepped up."
   },
   "60949": {
     "ピラミッドや\n移動の演出を再生\nするか設定します": "Settings for\npyramid and\ntravel scenes."
@@ -8265,55 +8265,55 @@
     "クエスト案内が　表示されます。": "Quest information will be displayed."
   },
   "66326": {
-    "超お役立ちの\nクエスト受注時に\n案内確認をする": ""
+    "超お役立ちの\nクエスト受注時に\n案内確認をする": "Show guidance\nwith Super Handy\nquests."
   },
   "66327": {
-    "超お役立ちの\nクエスト受注時に\n案内確認をしない": ""
+    "超お役立ちの\nクエスト受注時に\n案内確認をしない": "Do not guide\nwith Super\nHandy quests."
   },
   "66328": {
-    "メインコマンドの\nガイドについて\n各種設定をします": ""
+    "メインコマンドの\nガイドについて\n各種設定をします": "Configure main\ncommand's Guide\nsettings."
   },
   "66342": {
-    "エルヴィンとカレル": ""
+    "エルヴィンとカレル": "Elvin and Karel"
   },
   "66343": {
-    "どれにしますか？<break>": ""
+    "どれにしますか？<break>": "Which would you like?<break>"
   },
   "66354": {
-    "オーグリードの英雄": ""
+    "オーグリードの英雄": "Champion of Ogreed"
   },
   "66355": {
-    "名探偵カンダタの事件簿": ""
+    "名探偵カンダタの事件簿": "Ace Detective Robbin' 'Ood"
   },
   "66356": {
-    "ふたりの歌い手": ""
+    "ふたりの歌い手": "Two Singers"
   },
   "66357": {
-    "空飛ぶ甲虫": ""
+    "空飛ぶ甲虫": "Flying Beetle"
   },
   "66364": {
-    "が　仲間（待機中）に加わった！": ""
+    "が　仲間（待機中）に加わった！": " joins the party on standby!"
   },
   "66365": {
-    "が　仲間に加わった！": ""
+    "が　仲間に加わった！": " joins the party!"
   },
   "66386": {
-    "<speed=0>オートマッチングした先の場所では\n他の冒険者が　活動しています。\nご注意ください。": ""
+    "<speed=0>オートマッチングした先の場所では\n他の冒険者が　活動しています。\nご注意ください。": "<speed=0>Other adventurers may be active\nin areas you enter via auto-matching.\nPlease be aware of this."
   },
   "66387": {
-    "<speed=0>『ソロ活』サーバーでは　<%sM_TargetParty>を\n指定できません。\n別のサーバーへ　移動してください。": ""
+    "<speed=0>『ソロ活』サーバーでは　<%sM_TargetParty>を\n指定できません。\n別のサーバーへ　移動してください。": "<speed=0>You cannot choose <%sM_TargetParty>\non a Solo Play server. Please move to\na different server first."
   },
   "66473": {
     "<speed=0>\nこれまで　魔界や天星郷など\n専用の石で　移動していたマップでも\nルーラストーンが　使用できるようになりました。\n<br>\nこれにより　元の世界へ戻る　を選択しなくても\nアストルティアや　別の世界へ　直接\n移動することが　可能になります。\n<br>\nまた　それに伴い　現在進めているストーリーの\n最新の石が　ルーラストーンの最後尾に\n追加されます。\n<br>\nただし　この最新の石は　配置変更することが\nできませんので　ご注意ください。": "<speed=0>\nYou may now use Zoomstones to travel\nwhile in places outside of Astoltia, such as\nthe Demon World or the Firmament.\n<br>\nThis allows you to return to a location\nin Astoltia directly without first having to\nselect \"Return to Astoltia\".\n<br>\nAdditionally, the Zoomstone that corresponds\nto your latest story progression will be added\nto the end of your Zoomstones list.\n<br>\nPlease note that its position cannot be\nchanged."
   },
   "66513": {
-    "<speed=0>職人とくぎの配置を　初期状態に　戻しますか？<yesno 2><close>": ""
+    "<speed=0>職人とくぎの配置を　初期状態に　戻しますか？<yesno 2><close>": "<speed=0>Set crafting skill order back to the default?<yesno 2><close>"
   },
   "66514": {
-    "<speed=0>部活とくぎの配置を　初期状態に　戻しますか？<yesno 2><close>": ""
+    "<speed=0>部活とくぎの配置を　初期状態に　戻しますか？<yesno 2><close>": "<speed=0>Set club skill order back to the default?<yesno 2><close>"
   },
   "66518": {
-    "<speed=0>その行き先へ　直接\n移動することは　できないようだ。": ""
+    "<speed=0>その行き先へ　直接\n移動することは　できないようだ。": "<speed=0>You cannot travel directly to that\ndestination."
   },
   "66612": {
     "バッジ交換券": "Badge Tickets"
