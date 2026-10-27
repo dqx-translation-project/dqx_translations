@@ -9,13 +9,13 @@
     "「見てのとおりです。\n　<pc>さんが　ロンダの氷穴で\n　チカラ尽きていたのです……。": "See for yourself.\nI found <pc> collapsed in the Rhonda\nIce Cave..."
   },
   "797": {
-    "「ザンジャ神父……。\n　どうか　<pc>さんの魂が迷わぬよう\n　神に　お祈りを……。": "Father Zanja...\nPlease, pray for them so that their soul won't\ngo astray..."
+    "「ザンジャ神父……。\n　どうか　<pc>さんの魂が迷わぬよう\n　神に　お祈りを……。": "Father Zanja...\nPlease, pray for <if_woman>her<else>him<endif> so that <if_woman>her<else>his<endif> soul won't\ngo astray..."
   },
   "798": {
-    "「かわいそうに……。確かに　死んでおる。": "The poor soul...\nYou're right, they have indeed passed on."
+    "「かわいそうに……。確かに　死んでおる。": "The poor soul...\nYou're right, <if_woman>she<else>he<endif> has indeed passed on."
   },
   "799": {
-    "「皆に愛された　<pc>が\n　こんなにも早く　天に召されるとはのう……\n　神も　むごいことをなさる。": "Everybody loved <pc> so much,\nand yet they're gone so soon...\nAt times, our god does terrible things, too."
+    "「皆に愛された　<pc>が\n　こんなにも早く　天に召されるとはのう……\n　神も　むごいことをなさる。": "Everybody loved <pc> so much,\nand yet <if_woman>she<else>he<endif> is gone so soon...\nAt times, our god does terrible things, too."
   },
   "800": {
     "「さあ　皆で祈ろう。\n　<pc>が　迷わず\n　神の御許へ　行けるように……。": "Now, everyone...let us pray that <pc>\nreaches Him unhindered..."
@@ -27,7 +27,7 @@
     "「どうしたことじゃ！？　なぜ　生き返った？": "What's going on?! How did you come back?"
   },
   "803": {
-    "「先ほどまで　確かに死んでいたはず！\n　それが　突然　魂が戻ったようじゃ……！": "I'm almost certain you were dead just now!\nIt's like your soul suddenly returned to your\nbody...!"
+    "「先ほどまで　確かに死んでいたはず！\n　それが　突然　魂が戻ったようじゃ……！": "I'm almost certain you were dead just now!\nIt's like your soul suddenly returned to your\nbody!"
   },
   "804": {
     "「いったい　<pc>の身体に\n　何が　起こったというのだっ……。": "What in the world just happened to you...?"
@@ -48,7 +48,7 @@
     "「おぬしは　本当に　<pc>なのか？\n　確かに　見た目は　<pc>だが\n　なにやら雰囲気が……。": "You really are <pc>, right?\nYou certainly look like <pc>, but\nsomething about you seems..."
   },
   "810": {
-    "「<pc>さん。\n　今日は　ゆっくり　身体を休めてくださいね。": "<pc>.\nPlease rest for today."
+    "「<pc>さん。\n　今日は　ゆっくり　身体を休めてくださいね。": "Please rest for today, <pc>."
   },
   "811": {
     "「それじゃ　私は\n　用があるので　これで失礼します。": "Well then, I have some business I need to\nattend to. Please excuse me."
@@ -63,10 +63,10 @@
     "「ふむ　<pc>よ。\n　先ほどは　おかしなことを言って\n　すまなかった。": "Hmm... Anyway, <pc>.\nSorry for saying something ridiculous earlier."
   },
   "818": {
-    "「なあなあ　<pc>はん。\n　もしかして　ルーラストーン……": "Oi! <pc>!\nDo ya think the Zoomstone..."
+    "「なあなあ　<pc>はん。\n　もしかして　ルーラストーン……": "Oi, <pc>!\nDo ya think the Zoomstone..."
   },
   "819": {
-    "「やっぱ　なんでも　あらへん！\n　てへへっ……　ほな　さいなら～！": "Oh, it's nothin'!\nTeeheehee... Catchya later～!"
+    "「やっぱ　なんでも　あらへん！\n　てへへっ……　ほな　さいなら～！": "Oh, it's nothin'!\nTeeheehee... Catchya later!"
   },
   "820": {
     "「やれやれ……。ジェニャが　あんな顔をするのは\n　何か　お金になることを思いついた時だよ。\n　今度は　いったい　何をする気かねえ。": "Good grief... Jenya's only like that when\nshe's thought up some new money-making scheme.\nI wonder what she's up to now..."
@@ -99,7 +99,7 @@
     "「あら……？　<pc>さん。\n　ルーラストーンは　どうしたんですか？\n　いつも　腰につけているのに……。": "Oh...? <pc>, what happened to your\nZoomstone? You always keep it at your hip..."
   },
   "830": {
-    "「えっ　ルーラストーンが　わからない……？\n　使うと　記憶させた場所に\n　一瞬で飛べる　魔法の石のことですよ？": "What? You don't know what a Zoomstone is...?\nIt's a magic stone that's used to travel to a\nlocation you've recorded in it in an instant."
+    "「えっ　ルーラストーンが　わからない……？\n　使うと　記憶させた場所に\n　一瞬で飛べる　魔法の石のことですよ？": "What? You don't know what a Zoomstone is...?\nIt's a magic stone that's used to travel to a\nrecorded location in an instant."
   },
   "831": {
     "「そんな……。ルーラストーンだけじゃなくて\n　自分のことも　わからないですって？": "No way... Not only do you not know what a\nZoomstone is, you don't even know who you are?"
@@ -111,7 +111,7 @@
     "「記憶が　混乱しているのかもしれませんね……。\n　そういえば　<pc>さんは\n　どうして　あんな所で倒れていたんでしょう？": "Maybe your memory's a little jumbled...\nSpeaking of which, how'd you end up in a place\nlike that to begin with?"
   },
   "834": {
-    "「めったに　人が行かない所で倒れていたから\n　私も　気になっていたんです。\n　あそこに行けば　何か思いだすかしら……。": "I've been wondering since the place where I\nfound you isn't somewhere people usually go.\nMaybe going back will jog your memory..."
+    "「めったに　人が行かない所で倒れていたから\n　私も　気になっていたんです。\n　あそこに行けば　何か思いだすかしら……。": "I've been wondering about it, too. People\ndon't usually go to the place where I found\nyou. Maybe going back will jog your memory..."
   },
   "835": {
     "「ロンダの氷穴の場所は　わかりますか？\n　村を出て　道なりに西へ進むと見える\n　橋を渡った先の　氷の洞くつです。": "Do you remember where Rhonda Ice Cave is? If\nyou leave the village and follow the road\nwest, you'll reach an icy cave past a bridge."
@@ -126,10 +126,10 @@
     "「ロンダの氷穴の場所は　わかりますか？\n　村を出て　道なりに西へ進むと見える\n　橋を渡った先の　氷の洞くつです。": "Do you remember where Rhonda Ice Cave is? If\nyou leave the village and follow the road\nwest, you'll reach an icy cave past a bridge."
   },
   "839": {
-    "「<pc>さんが倒れていたのは\n　その氷穴を　南西に抜けた先の　ロンダ岬です。\n　ルーラストーンも　そこにあるかもしれません。": "I found you collapsed at Cape Rhonda, which is\njust past the cave. The Zoomstone may also be\nthere."
+    "「<pc>さんが倒れていたのは\n　その氷穴を　南西に抜けた先の　ロンダ岬です。\n　ルーラストーンも　そこにあるかもしれません。": "I found you collapsed at Cape Rhonda, which is\njust past the cave. Your Zoomstone may also be\nthere."
   },
   "841": {
-    "<pc>は\nルーラストーンを　手に入れた！<me_60>": "<pc> obtains the Zoomstone!<me_60>"
+    "<pc>は\nルーラストーンを　手に入れた！<me_60>": "<pc> received <if_woman>her<else>his<endif> Zoomstone!<me_60>"
   },
   "842": {
     "「あーーーっ　<pc>はん！": "Aww, <pc>!"
@@ -138,7 +138,7 @@
     "「あっちゃ～。ルーラストーン\n　自分で　見つけてしもうたんかいな。": "Blimey! Found the Zoomstone ya'self, didja?"
   },
   "844": {
-    "「先に見つけて　<pc>はんに売りつけたら\n　ええ　こづかいかせぎになると思うたのに\n　残念やわあ。": "That's a shame, I'd reckoned it'd be good\nmoney to find it first and sell it back to ya."
+    "「先に見つけて　<pc>はんに売りつけたら\n　ええ　こづかいかせぎになると思うたのに\n　残念やわあ。": "That's a shame...I'd reckoned it'd be good\nmoney to find it first and sell it back to ya."
   },
   "845": {
     "「…………ん？\n　なんか　聞こえへんかった？": "...Hmm? You hear somethin'?"
@@ -162,13 +162,13 @@
     "「必ず　思い知らせてやる！！": "I SWEAR I'LL MAKE HIM PAY!!"
   },
   "852": {
-    "「うおおおおおお！！\n　もっと　チカラをよこせ　ゾンガロン！！\n　契約の時にもらった程度では　足りんぞ！！": "HHHHHAAAAAA!!\nGive me more, Zongalon! The power you gave me\nwhen I signed the contract isn't enough!!"
+    "「うおおおおおお！！\n　もっと　チカラをよこせ　ゾンガロン！！\n　契約の時にもらった程度では　足りんぞ！！": "HHHHHAAAAAA!!\nGive me more, Zongalon! The power you gave me\nfrom our contract isn't enough!!"
   },
   "853": {
-    "「ぐおおおおおおおお！！": "GGGGUUUUUOOOOOOOOOOOHHHH!!"
+    "「ぐおおおおおおおお！！": "GRAAAAAAAAAH!!"
   },
   "854": {
-    "「さあ　いつでも帰ってこい　アロルド！\n　神聖な勝負を汚した罪を　つぐなわせてやる！！": "Come back whenever you like, Arold!\nI'll make you pay for the sin of defiling the\nsacred game!!"
+    "「さあ　いつでも帰ってこい　アロルド！\n　神聖な勝負を汚した罪を　つぐなわせてやる！！": "Come back whenever you like, Arold!\nI'll make you pay for the sin of defiling the\nsacred match!!"
   },
   "855": {
     "「戦いの神に代わり　このオレが\n　お前に　天罰を与えてやるぜぇぇぇえええ！！": "ON THE WAR GOD'S BEHALF, I'LL BRING DOWN\nDIVINE JUDGEMENT!!"
@@ -210,10 +210,10 @@
     "「あっ　それより　<pc>さん。\n　ルーラストーンは　見つかったみたいですね。\n　ロンダ岬で　何か思いだせましたか？": "Oh, <pc>. Seems like you found the\nZoomstone. Did going to Cape Rhonda trigger\nany memories for you?"
   },
   "875": {
-    "「マイユ。\n　ジーガンフのことなら　心配無用だ。": "Maille.\nYou don't need to worry about Jiganf."
+    "「マイユ。\n　ジーガンフのことなら　心配無用だ。": "Maille...\nYou don't need to worry about Jiganf."
   },
   "876": {
-    "「ジーガンフは　オレの　自慢の兄貴分だ。\n　まじめで　強く　誇り高い。": "As my brother, he fills me with pride.\nHe's a serious, strong, proud man."
+    "「ジーガンフは　オレの　自慢の兄貴分だ。\n　まじめで　強く　誇り高い。": "Jiganf is like a brother to me. I'm proud of\nhim. He's earnest and strong, and full of\npride."
   },
   "877": {
     "「村王や　お前が案じているような\n　悪いことなど　起こるはずがないさ。": "Nothing bad will happen to him or the village\nchief, despite your fears."
@@ -231,7 +231,7 @@
     "「あの　恐ろしい伝説の悪鬼と！？\n　どうして　ジーガンフが　そんなことを……！": "With the horrible demon of legend?!\nWhy would Jiganf do such a thing...?!"
   },
   "883": {
-    "「わからん。だが　アロルド。\n　ジーガンフは　お前のことを恨んでいるらしい。\n　お前に　神聖な勝負を汚されたと……。": "I don't know. But I do know this, Arold.\nJiganf seems to have a grudge against you. He\nsaid that you had tainted the sacred game..."
+    "「わからん。だが　アロルド。\n　ジーガンフは　お前のことを恨んでいるらしい。\n　お前に　神聖な勝負を汚されたと……。": "I don't know. But I do know this...\nJiganf seems to have a grudge against you. He\nsaid that you had tainted the sacred match..."
   },
   "884": {
     "「ねえ　アロルド。教えて。\n　２年前の武闘大会で　何があったの？": "Hey, Arold. Tell me.\nWhat happened at that fighting tournament two\nyears ago?"
@@ -240,13 +240,13 @@
     "「あなたが　あの後　急に村を出ていったのも\n　武闘大会のことと関係があるんでしょ？": "The reason why you suddenly left the village\nback then had something to do with that\ntournament, didn't it?"
   },
   "886": {
-    "「……………………。": "........................"
+    "「……………………。": "........."
   },
   "887": {
     "「……探すまでもねえ。\n　お前の帰りを待ってたぜ　アロルド……。": "...No need to look for me.\nI've been waiting for you to return, Arold..."
   },
   "888": {
-    "「今日という今日は　貴様に\n　己の罪深さを　思い知らせてやる！": "Today, I'm going to bring down upon you the\nweight of your sins!"
+    "「今日という今日は　貴様に\n　己の罪深さを　思い知らせてやる！": "Today, I'm going to make you realize\nthe true weight of your sins!"
   },
   "889": {
     "「ジーガンフ　話を聞いてくれ！": "Jiganf, listen to me!"
@@ -273,16 +273,16 @@
     "「そ…それは…………。": "I...I just..."
   },
   "897": {
-    "「はっきり言え　アロルド！\n　マイユを　オレに　ゆずるために\n　神聖な勝負の行方を　汚したのだと！！": "I'll make it simple, Arold!\nYou defiled the sacred game so that I could be\nwith Maille!!"
+    "「はっきり言え　アロルド！\n　マイユを　オレに　ゆずるために\n　神聖な勝負の行方を　汚したのだと！！": "I'll make it simple, Arold!\nYou defiled the sacred match so that I could\nbe with Maille!!"
   },
   "898": {
-    "「……………………。": "........................"
+    "「……………………。": "........."
   },
   "899": {
-    "「そんなことで　このオレが\n　よろこぶとでも　思ったのか！\n　貴様のやったことは　戦いの神への裏切りだ！": "Did you really think that would make me\nhappy?! What you did was a betrayal of the god\nof war!"
+    "「そんなことで　このオレが\n　よろこぶとでも　思ったのか！\n　貴様のやったことは　戦いの神への裏切りだ！": "Did you really think that would make me\nhappy?! You've betrayed the god of war!"
   },
   "900": {
-    "「なぜ　やられるままに　なっている……。": "Why are you letting me attack you...?"
+    "「なぜ　やられるままに　なっている……。": "Why aren't you fighting back...?"
   },
   "901": {
     "「あくまで　戦いの神に\n　背き続けるつもりか……。": "Do you still intend to disobey the god of\nwar...?"
@@ -291,13 +291,13 @@
     "「……貴様ぁぁぁあああっ！！": "...YOU SCUM!!"
   },
   "903": {
-    "「はぁ……　はぁ…………。": "Huff... Huff......"
+    "「はぁ……　はぁ…………。": "(pant)... (pant)..."
   },
   "904": {
-    "「ジ…ジーガンフ……！？": "J...Jiganf...?!"
+    "「ジ…ジーガンフ……！？": "J-Jiganf...?!"
   },
   "905": {
-    "「なんとしても　全力の貴様を　たたきつぶす！\n　でなきゃ　オレの怒りは　しずまらねえ！！": "I'll crush you with everything I've got!\nIf I don't, my anger will never be quelled!!"
+    "「なんとしても　全力の貴様を　たたきつぶす！\n　でなきゃ　オレの怒りは　しずまらねえ！！": "I'll crush you with everything I have!\nIf I don't, my anger will never be quelled!!"
   },
   "906": {
     "「どうあっても　本気を出さないというなら\n　これなら　どうだ！？　アロルド！": "If you're not going to take me seriously, then\nhow about this, Arold?!"
@@ -315,13 +315,13 @@
     "「<pc>！　お前のチカラも　貸してくれ！\n　戦いの準備をして　ロンダ岬へ向かうんだ！": "<pc>! I need your help, too!\nPrepare for battle and head to Cape Rhonda!"
   },
   "912": {
-    "「アロルド……！　貴様を　たたきつぶし\n　勝負を汚した罪を　命で　つぐなわせてやる！": "Arold...! I'll strike you down!\nYou'll pay with your life for the sins you\ncommitted in the sacred game!"
+    "「アロルド……！　貴様を　たたきつぶし\n　勝負を汚した罪を　命で　つぐなわせてやる！": "Arold...! I'll strike you down!\nYou'll pay with your life for the sins you\ncommitted in the sacred match!"
   },
   "913": {
     "<center>我がもとへ来い　ジーガンフ。\n我を封じている　結界を破れ。": "Come, Jiganf.\nBreak the ward that imprisons me."
   },
   "914": {
-    "「貴様の結界を…破れ……だと……！？\n　ふざけるな……。オレは　アロルドを……！": "Break...your seal...?!\nAs if...! Arold is mine...!"
+    "「貴様の結界を…破れ……だと……！？\n　ふざけるな……。オレは　アロルドを……！": "Break...your seal...?!\nAs if... Arold is mine...!"
   },
   "915": {
     "「ジーガンフ！\n　マイユを　はなせ！！": "Jiganf!\nLet Maille go!!"
@@ -378,7 +378,7 @@
     "「あの男は　喰らってやったわ。\n　あんな小物程度では\n　腹の足しにも　ならんがな。": "I have devoured that man.\nBut such a tiny morsel is hardly enough to\nsatisfy my hunger."
   },
   "934": {
-    "「ジーガンフを　喰らった……！？": "Jiganf has been devoured...?!"
+    "「ジーガンフを　喰らった……！？": "Jiganf's been devoured?!"
   },
   "937": {
     "「さあ　ひさしぶりの外だ……。\n　せいぜい　我を楽しませてくれ。\n　たっぷり遊んだ後で　全員　喰らってやろう！": "Now, it's been a long time since I've been\noutside, so try your best to entertain me.\nOnce I've had my fun, I'll devour you as well!"
@@ -390,16 +390,16 @@
     "「下がっていろ　マイユ！\n　オレの命に代えても　お前を守る！！": "Stay back, Maille!\nI won't let it hurt you!!"
   },
   "940": {
-    "「ど…どういうことだ。\n　我の身体が　くずれてゆく……。": "Wh...what's going on?\nMy body is falling apart..."
+    "「ど…どういうことだ。\n　我の身体が　くずれてゆく……。": "Wh-what's going on?\nMy body is falling apart..."
   },
   "941": {
     "「まさか　この光は……": "This light... It cannot be..."
   },
   "942": {
-    "「グアアアアァァァァァ…………。": "GGWWAAAAAAAAAAAAAAAAHH..."
+    "「グアアアアァァァァァ…………。": "GRAAAAAAAAAAAAAAAAHH..."
   },
   "943": {
-    "「ジ…ジーガンフ！！": "J... Jiganf!!"
+    "「ジ…ジーガンフ！！": "J...Jiganf!!"
   },
   "944": {
     "「マイユ……。": "Maille..."
@@ -414,13 +414,13 @@
     "「わからん……。悪鬼ゾンガロンは\n　勇者覚醒の証とか　言っていたが……。": "I don't know... Zongalon said it was a sign\nthat the Hero had awakened..."
   },
   "948": {
-    "「とにかく　ランガーオ村へ帰ろう。\n　つもる話は　それからだ。": "Anyway, let's go back to Langao Village.\nWe'll talk about it later."
+    "「とにかく　ランガーオ村へ帰ろう。\n　つもる話は　それからだ。": "Anyway, let's go back to the village.\nWe'll talk about it later."
   },
   "949": {
-    "「<cs_pchero>。\n　お前のおかげで　助かった。\n　後で　わしの家へ来てくれ。": "<cs_pchero>.\nThanks to you, we were saved.\nPlease stop by my house later."
+    "「<cs_pchero>。\n　お前のおかげで　助かった。\n　後で　わしの家へ来てくれ。": "<cs_pchero>...\nThanks to you, we were saved.\nPlease stop by my house later."
   },
   "950": {
-    "「オレは　くやしくて　たまらなかった……。": "I feel terrible..."
+    "「オレは　くやしくて　たまらなかった……。": "I was completely beside myself..."
   },
   "951": {
     "「真の勝者は　オレではなく　アロルドだ……。\n　その思いが　ずっと　オレを苦しめ続けた。": "Arold was the real winner, not me...\nThat thought has tormented me for so long."
@@ -450,22 +450,22 @@
     "「真偽のほどは　確かめようもありませんでしたが\n　どうやら　あの話は真実だったようですね。": "I didn't know whether there was any truth to\nit or not at the time, but apparently there\nwas."
   },
   "960": {
-    "「村王。オレは　また旅に出ようと思います。\n　この世界に　何が起きているかを知るために。": "Chief. I'm going on another journey, to find\nout what's going on in the world."
+    "「村王。オレは　また旅に出ようと思います。\n　この世界に　何が起きているかを知るために。": "I'm going on another journey, to find\nout what's going on in the world."
   },
   "961": {
-    "「アロルド。旅に出るのなら　マイユも\n　連れていってやってくれないか？": "Arold. If you're going on a journey, why not\ntake Maille with you?"
+    "「アロルド。旅に出るのなら　マイユも\n　連れていってやってくれないか？": "Arold...if you're going on a journey, why not\ntake Maille with you?"
   },
   "962": {
     "「そ　そんな　私は……": "Th-that's... I..."
   },
   "963": {
-    "「私は……　村王の娘として\n　チャンピオン　ジーガンフと結婚する気持ちに\n　変わりはありません……。": "As the daughter of the village chief...\nmy mind is unchanged about marrying the\nchampion Jiganf..."
+    "「私は……　村王の娘として\n　チャンピオン　ジーガンフと結婚する気持ちに\n　変わりはありません……。": "I...I'm the village chief's daughter...\nI haven't changed my mind about marrying\nthe village champion..."
   },
   "964": {
-    "「マイユ。もうオレを　迷わせないでくれ。": "Maille. Don't let me go astray ever again."
+    "「マイユ。もうオレを　迷わせないでくれ。": "Maille... Don't let me go astray ever again."
   },
   "965": {
-    "「オレに　お前と結婚する資格はない。\n　それに……　マイユ。お前は　ずっと\n　アロルドのことが　好きだったんだろう？": "I don't deserve to marry you.\nAnd besides...you've always been in love with\nArold, haven't you, Maille?"
+    "「オレに　お前と結婚する資格はない。\n　それに……　マイユ。お前は　ずっと\n　アロルドのことが　好きだったんだろう？": "I don't deserve to marry you.\nAnd besides...you've always been in love with\nArold, haven't you?"
   },
   "966": {
     "「オレと来るか？　マイユ。": "Will you come with me, Maille?"
@@ -507,7 +507,7 @@
     "「皆　迷いの中で生きている。\n　若ければ　なおのことだ。だが　自ら選んだ\n　道を進んでいるのなら　それでいい。": "We all live in doubt, especially when we're\nyoung. But if you take a path of your own\nchoosing, you'll be alright."
   },
   "979": {
-    "「さて……　ところで　<pc>よ。\n　こっちへ来い。": "Well, then... <pc>.\nCome over here."
+    "「さて……　ところで　<pc>よ。\n　こっちへ来い。": "Now, then... <pc>.\nCome over here."
   },
   "980": {
     "「今回のことでは　本当に　世話になった。\n　まずは　礼を言おう。……だが　お前は\n　わしの知っている　<pc>ではないな？": "You really helped us. Before anything else,\nlet me thank you for all you've done. ...But,\nyou're not the <pc> I know, are you?"
@@ -516,7 +516,7 @@
     "「どうも　変だと思っていたのだ。\n　今　その身体に宿っている魂は\n　本来の　お前のものではないのだろう？": "I've thought it was strange for a while now.\nThe soul inhabiting your body right now isn't\nthe original, is it?"
   },
   "982": {
-    "「この鏡に　顔を映してみてくれ。\n　アロルドが置いていった　ラーの鏡という\n　真実の姿を映す　鏡だそうだ。": "Please look at your reflection in this mirror.\nThis is a mirror of truth, the Mirror of Ra,\nwhich Arold left for me."
+    "「この鏡に　顔を映してみてくれ。\n　アロルドが置いていった　ラーの鏡という\n　真実の姿を映す　鏡だそうだ。": "Please look at your reflection in this mirror.\nThis is a mirror of truths which Arold left\nme. It's called the Mirror of Ra."
   },
   "983": {
     "「やはりか……。\n　この鏡に映る　人間の姿が\n　お前の　本当の姿なんだな？": "I'm right, aren't I...?\nThe human reflected in this mirror is your\ntrue form, isn't it?"
@@ -525,19 +525,19 @@
     "「これも　アロルドから聞いた話だ。\n　命を落とした者の身体を得て　生き返った者が\n　他の大陸にも　いるそうだ。": "He told me this, too: there are people on\nother continents who have come back to life by\nassuming the body of one who recently died."
   },
   "985": {
-    "「わしの知っている　オーガの　<pc>は\n　きっと　ロンダ岬で　悪鬼ゾンガロンの\n　邪気に触れ　命を落としたのだろう……。": "The ogre <pc> I know must've been\nexposed to the malevolence emanating from\nZongalon and lost their life..."
+    "「わしの知っている　オーガの　<pc>は\n　きっと　ロンダ岬で　悪鬼ゾンガロンの\n　邪気に触れ　命を落としたのだろう……。": "The Ogre <pc> I know must've been\nexposed to the malevolence emanating from\nZongalon and lost <if_woman>her<else>his<endif> life..."
   },
   "987": {
-    "「……アイツには　夢があったのだ。\n　この村で修行し　一人前の証を手に入れたら\n　ひとりで　世界を旅するという夢がな。": "...They had a dream. They trained here, and\nonce they received the Mark of Maturity, they\nplanned to travel the world on their own."
+    "「……アイツには　夢があったのだ。\n　この村で修行し　一人前の証を手に入れたら\n　ひとりで　世界を旅するという夢がな。": "...<if_woman>She<else>He<endif> had a dream. <if_woman>She<else>He<endif> trained here, and\nonce <if_woman>she<else>he<endif> received the Mark of Maturity, <if_woman>she<else>he<endif>\nplanned to travel the world on <if_woman>her<else>his<endif> own."
   },
   "988": {
-    "「<pc>。アイツの夢を\n　お前が　かなえてやってくれ。\n　その目で　世界を見て回るのだ。": "<pc>. Make their dream come true.\nSee the world with their eyes."
+    "「<pc>。アイツの夢を\n　お前が　かなえてやってくれ。\n　その目で　世界を見て回るのだ。": "Make <if_woman>her<else>his<endif> dream come true.\nSee the world with <if_woman>her<else>his<endif> eyes."
   },
   "989": {
     "「それに　お前も　その姿となって\n　生き返った理由を　知りたいだろう。\n　世界を旅して　その理由を探すといい。": "Besides, I'm sure you'd also like to know why\nyou came back to life in that form. You can\ntravel the world to find out."
   },
   "990": {
-    "「これは　いつか　オーガの　<pc>が\n　旅立つときに　渡そうと思っていた物だが\n　お前に　くれてやろう！": "This is something that I was going to give to\nthe ogre <pc> the day they left, but\nnow I'm giving it to you!"
+    "「これは　いつか　オーガの　<pc>が\n　旅立つときに　渡そうと思っていた物だが\n　お前に　くれてやろう！": "This is something that I was going to give to\nthe Ogre <pc> the day <if_woman>she<else>he<endif> left, but\nnow I'm giving it to you!"
   },
   "991": {
     "<pc>は\n大陸間鉄道パス（だいじなもの）を　手に入れた！<me_60>": "<pc> received\nan Intercontinental Rail Pass (Key Item)!<me_60>"
@@ -546,7 +546,7 @@
     "「その大陸間鉄道パスは\n　鉄道に乗るための　許可証だ。\n　海の向こうに渡るために　必要になる。": "That Intercontinental Rail Pass is a permit to\nuse the railroad. You'll need it if you want\nto cross the ocean."
   },
   "993": {
-    "「それと　もうひとつ……。\n　<pc>　冒険の書を出せ。\n　お前なら　この証を持つ資格は　充分だ。": "And one more thing...\n<pc>, give me your Adventure Log.\nYou're more than qualified for this mark."
+    "「それと　もうひとつ……。\n　<pc>　冒険の書を出せ。\n　お前なら　この証を持つ資格は　充分だ。": "And one more thing...\nGive me your Adventure Log.\nYou're more than qualified for this mark."
   },
   "994": {
     "「これが　一人前の証！\n　その名のとおり　一人前と認められた者だけが\n　持つことのできる証だ。": "This is the Mark of Maturity! As the name\nimplies, only those who have come of age can\nreceive this."
@@ -555,10 +555,10 @@
     "「この証は　世界中のどこであっても\n　お前のチカラを証明してくれる。\n　一国の王にさえ　会うこともできるだろう！": "This certificate will act as proof of your\nstrength anywhere in the world. You'll even be\nable to meet with kings!"
   },
   "996": {
-    "「世界をめぐり　大きな国や町で活躍すれば\n　キーエンブレムという　カギの形をした\n　勲章を　与えられることがある。": "If you travel the world and make an impact in\na big town or a country, you may be given a\nKey Emblem, a medal in the shape of a key."
+    "「世界をめぐり　大きな国や町で活躍すれば\n　キーエンブレムという　カギの形をした\n　勲章を　与えられることがある。": "If you travel the world and make an impact in\na big town or a country, you may be given a\nKey Emblemーa medal in the shape of a key."
   },
   "997": {
-    "「まずは　南の獅子門を越え　グレン城を目指せ！\n　サポート仲間という協力者を　３人用意したから\n　お前の旅に　同行させるとよいぞ。": "First, you'll need to cross through the Lion\nGate to the south to reach Glen Castle. I've\nprepared three support party members to\n<br>\naccompany you."
+    "「まずは　南の獅子門を越え　グレン城を目指せ！\n　サポート仲間という協力者を　３人用意したから\n　お前の旅に　同行させるとよいぞ。": "First, you'll need to cross through the Lion\nGate to the south to reach Glen Castle. I've\nprepared three support party members to\n<br>\naccompany you there."
   },
   "998": {
     "「あっ　<pc>はん！": "Oii, <pc>!"
