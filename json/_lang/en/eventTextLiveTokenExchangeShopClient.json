@@ -54,7 +54,7 @@
     "<pipipi_off>\n<pc>は\n<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を\n手に入れた！\n<se_nots System 7>\n<end>": "<pipipi_off>\n<pc> received\n<%dL_GET_NUM> <%sL_GOODS_ITEM>!\n<se_nots System 7>\n<end>"
   },
   "184566": {
-    "「<%sL_GOODS_ITEM>を　交換するには\n　ジュエルポイントが　足りないようですね。\n<end>": "You don't have enough Jewel Points for that.\n<end>"
+    "「<%sL_GOODS_ITEM>を　交換するには\n　必要なアイテムが　足りないようですね。\n<end>": ""
   },
   "184567": {
     "「申し訳ありません。\n　ただ今　準備中なので\n　もうしばらくお待ちください。\n<bw_break>": "I'm sorry... We're in the process of\npreparing it, so please wait a little\nlonger...<bw_break>"
@@ -1746,10 +1746,10 @@
     "「必要な素材が　足りてないゾ。\n　これでは　<%sL_GOODS_ITEM>を渡せんな。\n<bw_break>": "We don't have all the materials we need...\nThis will give you <%sL_GOODS_ITEM>...<bw_break>"
   },
   "276908": {
-    "「ピピピ……　<%sL_GOODS_ITEM>の交換に\n　ジュエルポイントが　不足しています。\n<bw_break>": "Beep... Insufficient Jewel Points for\nexchange.\n<end>"
+    "「ピピピ……　<%sL_GOODS_ITEM>の交換に\n　必要なアイテムが　不足しています。\n<bw_break>": ""
   },
   "276909": {
-    "「……あれ？\n　<%sL_GOODS_ITEM>を　交換するには\n　ジュエルポイントが　足りないよ。\n<bw_break>": "Oh? You don't have enough Jewel Points for\nthat!\n<end>"
+    "「……あれ？\n　<%sL_GOODS_ITEM>を　交換するには\n　必要なアイテムが　足りないよ。\n<bw_break>": ""
   },
   "276910": {
     "「<%sL_GOODS_ITEM>は\n　あなたの性別では\n　装備できないけど　いいかい？\n<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your\ngender, okay?<yesno 2><break>"
@@ -1914,7 +1914,7 @@
     "「……持ち物が　いっぱいですね。\n　そうびぶくろを　整理して来てください。\n<bw_break>": "I've got... I've got a lot of stuff... I'm\ngoing to need you to pack your sobriety bag.<bw_break>"
   },
   "276964": {
-    "「……おや？　\n　<%sL_GOODS_ITEM>を　交換するには\n　ジュエルポイントが　足りませんね。\n<bw_break>": "Hm You don't have enough Jewel Points for\nthat, I see.\n<end>"
+    "「……おや？　\n　<%sL_GOODS_ITEM>を　交換するには\n　必要なアイテムが　足りませんね。\n<bw_break>": ""
   },
   "276965": {
     "「<%sL_GOODS_ITEM>は\n　あなたの性別では\n　装備できないけど　いいかい？\n<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your\ngender, okay?<yesno 2><break>"
@@ -2070,7 +2070,7 @@
     "「そうびぶくろが　いっぱいで\n　受け取れないようですね。\n<end>": "Your equipment bag is full, so I can't give\nthis to you.\n<end>"
   },
   "287865": {
-    "「<%sL_GOODS_ITEM>を　交換するには\n　ジュエルポイントが　足りないようですね。\n<end>": "You don't have enough Jewel Points for that.\n<end>"
+    "「<%sL_GOODS_ITEM>を　交換するには\n　必要なアイテムが　足りないようですね。\n<end>": ""
   },
   "287866": {
     "「<%sL_GOODS_ITEM>は\n　あなたの性別では\n　装備できませんが　よろしいですか？\n<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your\ngender, is that correct?<yesno 2><break>"
@@ -2232,7 +2232,7 @@
     "「……持ち物が　いっぱいだよ。\n　そうびぶくろを　整理して来てね。\n<bw_break>": "Go and organize your equipment bag.\n<bw_break>"
   },
   "292528": {
-    "「……あれ？　\n　<%sL_GOODS_ITEM>を　交換するには\n　ジュエルポイントが　足りないよ。\n<bw_break>": "What? You don't have enough Jewel Points\nfor that!\n<bw_break>"
+    "「……あれ？　\n　<%sL_GOODS_ITEM>を　交換するには\n　必要なアイテムが　足りないよ。\n<bw_break>": ""
   },
   "292529": {
     "「<%sL_GOODS_ITEM>は\n　あなたの性別では\n　装備できないけど　いいかい？\n<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your\ngender, okay?<yesno 2><break>"
@@ -2430,7 +2430,7 @@
     "「……持ち物が　いっぱいだよ。\n　そうびぶくろを　整理してきてね。\n<bw_break>": "Go organize your equipment bag.\n<bw_break>"
   },
   "298112": {
-    "「……あれ？　\n　<%sL_GOODS_ITEM>を　交換するには\n　ジュエルポイントが　足りないよ。\n<bw_break>": "What? You don't have enough Jewel Points\nfor that!\n<bw_break>"
+    "「……あれ？　\n　<%sL_GOODS_ITEM>を　交換するには\n　必要なアイテムが　足りないよ。\n<bw_break>": ""
   },
   "298113": {
     "「<%sL_GOODS_ITEM>は\n　あなたの性別では\n　装備できないけど　いいかい？\n<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your\ngender, okay?<yesno 2><break>"
